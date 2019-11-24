@@ -28,7 +28,7 @@ export default class SearchResults extends React.Component {
                         <div className="villager-result-image">
                             <a href={'/villager/' + result.id}>
                                 <img src={'/images/villagers/medium/' + result.id + '.png'}
-                                     alt={'Picture of ' + result.name} className="img-responsive align-middle" />
+                                     alt={'Picture of ' + result.name} className="img-responsive" />
                                 <p>{result.name}</p>
                             </a>
                         </div>

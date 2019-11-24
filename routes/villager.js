@@ -192,6 +192,9 @@ async function loadVillager(collection, id) {
     // Social media information
     result.shareUrl = encodeURIComponent('https://villagerdb.com/villager/' + result.id);
 
+    // For frontend awake/asleep calculation.
+    result.personalityMap = JSON.stringify(compressGameData(result.games, 'personality'));
+
     return result;
 }
 

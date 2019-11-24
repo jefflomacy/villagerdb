@@ -160,6 +160,10 @@ class Browser extends React.Component {
  */
 $(document).ready(function() {
     const targetElement = $('#villager-browser');
+    if (targetElement.length !== 1) {
+        return;
+    }
+    
     const initialState = targetElement.attr('data-initial-state');
     const allFilters = targetElement.data('all-filters');
     ReactDOM.render(<Browser id="browser" initialState={initialState}

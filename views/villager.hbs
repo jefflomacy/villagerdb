@@ -23,24 +23,27 @@
 
         <table class="table table-borderless mt-3">
             <thead>
-            <th class="sr-only">Property</th>
-            <th class="sr-only">Value</th>
+            <tr>
+                <th class="bg-dark text-light font-weight-bold" colspan="2">Overview</th>
+            </tr>
             </thead>
             <tbody>
             <tr>
-                <td class="bg-dark text-light font-weight-bold">Species</td>
+                <td class="bg-light text-dark font-weight-bold">Species</td>
                 <td>{{species}}</td>
             </tr>
             <tr>
-                <td class="bg-dark text-light font-weight-bold">Gender</td>
+                <td class="bg-light text-dark font-weight-bold">Gender</td>
                 <td>{{gender}}</td>
             </tr>
             <tr>
-                <td class="bg-dark text-light font-weight-bold">Birthday</td>
+                <td class="bg-light text-dark font-weight-bold">Birthday</td>
                 <td>{{birthday}} ({{zodiac}})</td>
             </tr>
             </tbody>
         </table>
+
+        <div class="sleep-table"></div>
 
         <table class="table table-borderless">
             <thead class="bg-dark text-light">
@@ -92,3 +95,5 @@
         </div>
     </div>
 </div>
+
+<div id="personality-data" data-personality="{{ personalityMap }}"></div>

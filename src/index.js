@@ -1,4 +1,5 @@
 import 'bootstrap';
+import './awake-times';
 import './social';
 import './birthdays';
 import './search/autocomplete';

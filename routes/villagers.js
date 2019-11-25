@@ -417,44 +417,6 @@ router.get('/page/:pageNumber', function (req, res, next) {
         req.query);
 });
 
-router.get('/autocomplete', function (req, res, next) {
-    // Validate query
-    if (typeof req.query.q !== 'string' || req.query.q.length > config.maxQueryLength) {
-        const e = new Error('Invalid request.');
-        e.status = 400; // Bad Request
-        throw e;
-    }
-
-    res.app.locals.es.search({
-        index: config.elasticSearchIndexName,
-        body: {
-            suggest: {
-                villager: {
-                    prefix: req.query.q,
-                    completion: {
-                        field: 'suggest',
-                        size: 5,
-                        skip_duplicates: true
-                    }
-                }
-            }
-        }
-    })
-        .then((results) => {
-            const suggestions = [];
-            if (results.suggest && results.suggest.villager) {
-                for (let x of results.suggest.villager) {
-                    for (let y of x.options) {
-                        suggestions.push(y.text);
-                    }
-                }
-            }
-            res.send(suggestions);
-        })
-        .catch(next);
-
-});
-
 /* GET villagers search - defunct */
 router.get('/search', function (req, res, next) {
     res.redirect(302, '/villagers');

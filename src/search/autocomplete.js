@@ -11,7 +11,7 @@ $(document).ready(() => {
         }
 
         $.ajax({
-            url: '/villagers/autocomplete?q=' + q,
+            url: '/autocomplete?q=' + q,
             type: 'GET',
             dataType: 'json',
             success: (suggestions) => {

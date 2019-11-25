@@ -9,6 +9,7 @@ const hbs = require('express-handlebars');
 const staticify = require('staticify');
 
 const indexRouter = require('./routes/index');
+const autocompleteRouter = require('./routes/autocomplete');
 const villagersRouter = require('./routes/villagers');
 const villagerRouter = require('./routes/villager');
 
@@ -70,6 +71,7 @@ app.disable('x-powered-by');
 
 // Router setup.
 app.use('/', indexRouter);
+app.use('/autocomplete', autocompleteRouter);
 app.use('/villagers', villagersRouter);
 app.use('/villager', villagerRouter);
 

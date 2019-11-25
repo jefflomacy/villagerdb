@@ -1,5 +1,4 @@
 const express = require('express');
-const router = express.Router();
 const config = require('../config/search.js');
 
 const pageSize = config.searchResultsPageSize;
@@ -79,7 +78,7 @@ function buildRootElasticSearchQuery(appliedQueries) {
 }
 
 /**
- * Transform URL parameters into applied filters that can be used by the frontend and by the getFacetQuery function
+ * Transform URL parameters into applied filters that can be used by the frontend and by the getAppliedQueries function
  * here.
  *
  * @param params params from the URL.
@@ -117,7 +116,7 @@ function getAppliedFilters(params) {
  * @param appliedFilters
  * @returns {[]}
  */
-function getFacetQueries(appliedFilters) {
+function getAppliedQueries(appliedFilters) {
     const outerQueries = {};
     for (let key in appliedFilters) {
         outerQueries[key] = [];
@@ -142,11 +141,11 @@ function getFacetQueries(appliedFilters) {
  * Build aggregations for the given search criteria.
  * 
  * @param appliedFilters
- * @param facetQueries
+ * @param appliedQueries
  * @param searchQuery
  * @returns {{all_entries: {global: {}, aggregations: {}}}}
  */
-function getAggregations(appliedFilters, facetQueries) {
+function getAggregations(appliedFilters, appliedQueries) {
     const result = {
         all_entries: {
             global: {},
@@ -159,7 +158,7 @@ function getAggregations(appliedFilters, facetQueries) {
     for (let key in allFilters) {
         if (allFilters[key].canAggregate) {
             innerAggs[key + '_filter'] = {};
-            innerAggs[key + '_filter'].filter = getAggregationFilter(facetQueries, key);
+            innerAggs[key + '_filter'].filter = getAggregationFilter(appliedQueries, key);
             innerAggs[key + '_filter'].aggregations = {};
             innerAggs[key + '_filter'].aggregations[key] = {
                 terms: {
@@ -177,21 +176,21 @@ function getAggregations(appliedFilters, facetQueries) {
  * Build a filter for a particular aggregation. The only reason this is different from building the overall root query
  * is we exclude the given key filter from the applied queries sent to buildRootElasticSearchQuery.
  *
- * @param facetQueries
+ * @param appliedQueries
  * @param key
  * @param searchQuery
  * @returns {{bool: {must: *[]}}}
  */
-function getAggregationFilter(facetQueries, key) {
+function getAggregationFilter(appliedQueries, key) {
     // Get all queries that do *not* match this key.
-    const appliedQueries = [];
-    for (let fKey in facetQueries) {
+    const facetQueries = [];
+    for (let fKey in appliedQueries) {
         if (key !== fKey) {
-            appliedQueries.push(facetQueries[fKey]);
+            facetQueries.push(appliedQueries[fKey]);
         }
     }
 
-    return buildRootElasticSearchQuery(appliedQueries);
+    return buildRootElasticSearchQuery(facetQueries);
 }
 
 /**
@@ -263,13 +262,13 @@ async function find(es, pageNumber, searchString, params) {
     result.appliedFilters = getAppliedFilters(params);
 
     // Build ES query for applied filters, if any.
-    const facetQueries = getFacetQueries(result.appliedFilters);
+    const appliedQueries = getAppliedQueries(result.appliedFilters);
 
     // Is it a search? Initialize result and ES body appropriately
-    const aggs = getAggregations(result.appliedFilters, facetQueries);
+    const aggs = getAggregations(result.appliedFilters, appliedQueries);
 
     let body;
-    const query = buildRootElasticSearchQuery(facetQueries);
+    const query = buildRootElasticSearchQuery(appliedQueries);
 
     if (typeof searchString === 'string') {
         // Set up result set for search display
@@ -374,13 +373,13 @@ function computePageProperties(pageNumber, pageSize, totalCount, result) {
  *
  * @param searchQuery
  */
-function listVillagers(res, next, pageNumber, isAjax, params) {
+function listEntities(res, next, pageNumber, isAjax, params) {
     const data = {};
     const searchQuery = typeof params.q === 'string' && params.q.trim().length > 0 ? params.q.trim() : undefined;
     if (searchQuery) {
         data.pageTitle = 'Search results for ' + searchQuery; // template engine handles HTML escape
     } else {
-        data.pageTitle = 'All Villagers - Page ' + pageNumber;
+        data.pageTitle = 'All villagers';
     }
 
     find(res.app.locals.es, pageNumber, searchQuery, params)
@@ -395,7 +394,7 @@ function listVillagers(res, next, pageNumber, isAjax, params) {
                         data.initialState = JSON.stringify(result);
                         data.allFilters = JSON.stringify(allFilters);
                         data.result = result;
-                        res.render('villagers', data);
+                        res.render('browser', data);
                     })
                     .catch(next);
             }
@@ -403,25 +402,17 @@ function listVillagers(res, next, pageNumber, isAjax, params) {
         .catch(next);
 }
 
+const router = express.Router();
+
 /* GET villagers listing. */
 router.get('/', function (req, res, next) {
-    listVillagers(res, next, 1, req.query.isAjax === 'true', req.query);
+    listEntities(res, next, 1, req.query.isAjax === 'true', req.query);
 });
 
 /* GET villagers page number */
 router.get('/page/:pageNumber', function (req, res, next) {
-    listVillagers(res, next, parsePositiveInteger(req.params.pageNumber), req.query.isAjax === 'true',
+    listEntities(res, next, parsePositiveInteger(req.params.pageNumber), req.query.isAjax === 'true',
         req.query);
-});
-
-/* GET villagers search - defunct */
-router.get('/search', function (req, res, next) {
-    res.redirect(302, '/villagers');
-});
-
-/* GET villagers search page number - defunct */
-router.get('/search/page/:pageNumber', function (req, res, next) {
-    res.redirect(302, '/villagers');
 });
 
 module.exports = router;

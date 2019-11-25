@@ -159,7 +159,7 @@ class Browser extends React.Component {
  * When DOM ready, initialize the browser.
  */
 $(document).ready(function() {
-    const targetElement = $('#villager-browser');
+    const targetElement = $('#entity-browser');
     if (targetElement.length !== 1) {
         return;
     }

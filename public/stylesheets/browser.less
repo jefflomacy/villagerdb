@@ -2,28 +2,30 @@
   position: relative;
 }
 
-.villager-result-container {
+.browser-results-container {
+  li {
+    margin-bottom: 20px;
+  }
+}
+.search-result-container {
   padding: 10px 0 10px 0;
   border: 1px solid #eee;
   margin: 10px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
 
-  .villager-result-image {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  p {
+    margin: 10px 0 0 0;
     text-align: center;
-    flex-direction: column;
-    height: 150px;
+  }
 
-    p {
-      margin: 10px 0 0 0;
-      text-align: center;
-    }
-
-    img {
-      max-width: 100px;
-      height: 100px;
-    }
+  img {
+    max-width: 100px;
+    max-height: 100px;
   }
 }
 

@@ -250,13 +250,12 @@ function buildAvailableFilters(appliedFilters, aggregations) {
 /**
  * Load villagers on a particular page number with a particular search query.
  *
- * @param collection collection of villagers from Mongo
  * @param es
  * @param pageNumber the already sanity checked page number
  * @param searchString
  * @returns {Promise<void>}
  */
-async function find(collection, es, pageNumber, searchString, params) {
+async function find(es, pageNumber, searchString, params) {
     // The long process of building the result.
     const result = {};
 
@@ -315,12 +314,10 @@ async function find(collection, es, pageNumber, searchString, params) {
         result.availableFilters =  buildAvailableFilters(result.appliedFilters, results.aggregations.all_entries);
 
         // Load the results.
-        const keys = results.hits.hits.map(hit => hit._id);
-        const rawResults = await collection.getByIds(keys);
-        for (let r of rawResults) {
+        for (let h of results.hits.hits) {
             result.results.push({
-                id: r.id,
-                name: r.name
+                id: h._id,
+                name: h._source.name
             });
         }
     }
@@ -386,7 +383,7 @@ function listVillagers(res, next, pageNumber, isAjax, params) {
         data.pageTitle = 'All Villagers - Page ' + pageNumber;
     }
 
-    find(res.app.locals.db.villagers, res.app.locals.es, pageNumber, searchQuery, params)
+    find(res.app.locals.es, pageNumber, searchQuery, params)
         .then((result) => {
             if (isAjax) {
                 res.send(result);

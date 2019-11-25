@@ -1,13 +1,15 @@
-<form class="form mt-5 mb-5" method="get" action="/villagers">
-    <div class="input-group">
-        <label class="sr-only" for="q">Search for a villager</label>
-        <input type="text" class="form-control" maxlength="64" id="q" name="q"
-               placeholder="Name or catchphrase" autoComplete="off" list="qautocomplete"
-               {{#if result.isSearch}}value="{{result.searchQuery}}"{{/if}}/>
-        <span class="input-group-btn">
+<div id="search-bar" class="bg-dark">
+    <form class="form" method="get" action="/villagers">
+        <div class="input-group">
+            <label class="sr-only" for="q">Search for a villager or item</label>
+            <input type="text" class="form-control" maxlength="64" id="q" name="q"
+                   placeholder="Item or villager name / catchphrase" autoComplete="off" list="qautocomplete"
+                   value="{{searchQuery}}"/>
+            <span class="input-group-btn">
             <button class="btn btn-primary" type="submit" style="border-radius: 0;"><span class="fas fa-search"></span></button>
         </span>
-        <datalist id="qautocomplete">
-        </datalist>
-    </div>
-</form>
+            <datalist id="qautocomplete">
+            </datalist>
+        </div>
+    </form>
+</div>

@@ -122,14 +122,12 @@ class Browser extends React.Component {
     }
 
     setPage(pageNumber) {
-        this.getResults(pageNumber, this.state.pageUrlPrefix, this.state.appliedFilters, this.state.isSearch,
-            this.state.searchQueryString);
+        this.getResults(pageNumber, this.state.pageUrlPrefix, this.state.appliedFilters);
     }
 
     setAppliedFilters(filters) {
         // Changing the filters will always put us back on page 1.
-        this.getResults(1, this.state.pageUrlPrefix, filters, this.state.isSearch,
-            this.state.searchQueryString);
+        this.getResults(1, this.state.pageUrlPrefix, filters);
     }
 
     onError() {

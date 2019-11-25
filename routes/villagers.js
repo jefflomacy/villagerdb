@@ -2,7 +2,8 @@ const express = require('express');
 const config = require('../config/search.js');
 
 const pageSize = config.searchResultsPageSize;
-const allFilters = config.filters.villager;
+const allFilters = config.filters;
+const entityTypeId = config.villagerEntityType;
 
 /**
  * The ElasticSearch index contains multiple entity types. This function builds the match query that tells the system
@@ -14,12 +15,37 @@ function getSubsetMatchQuery() {
     return {
         term: {
             type: {
-                value: config.villagerEntityType
+                value: entityTypeId
             }
         }
     };
 }
 
+/**
+ * Builds the ElasticSearch query for textual searches.
+ *
+ * @param searchString
+ * @returns {*[]}
+ */
+function getTextSearchQuery(searchString) {
+    return [
+        {
+            match: {
+                name: {
+                    query: searchString
+                }
+            }
+        },
+        {
+            match: {
+                phrase: {
+                    query: searchString,
+                    fuzziness: 'auto'
+                }
+            }
+        }
+    ]
+}
 /**
  * Build a query for the (already-validated) key/value pair.
  *
@@ -28,30 +54,14 @@ function getSubsetMatchQuery() {
  */
 function buildQuery(key, value) {
     const query = {};
-    if (key !== 'q') { // faceted search
+    if (key !== config.textQuerySearchKey) { // faceted search
         query.match = {};
         query.match[key] = {
             query: value
         };
         return [query];
     } else { // textual search
-        return [
-            {
-                match: {
-                    name: {
-                        query: value
-                    }
-                }
-            },
-            {
-                match: {
-                    phrase: {
-                        query: value,
-                        fuzziness: 'auto'
-                    }
-                }
-            }
-        ]
+        return getTextSearchQuery(value);
     }
 }
 
@@ -272,7 +282,6 @@ async function find(es, pageNumber, searchString, params) {
 
     if (typeof searchString === 'string') {
         // Set up result set for search display
-        result.isSearch = true;
         result.searchQuery = searchString;
         result.searchQueryString = encodeURIComponent(searchString);
     }

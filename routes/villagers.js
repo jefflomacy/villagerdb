@@ -1,9 +1,25 @@
 const express = require('express');
 const router = express.Router();
-const config = require('../app/etc/config.js').search;
+const config = require('../config/search.js');
 
 const pageSize = config.searchResultsPageSize;
 const allFilters = config.filters.villager;
+
+/**
+ * The ElasticSearch index contains multiple entity types. This function builds the match query that tells the system
+ * the item must be of the entity type this controller needs.
+ *
+ * @returns {{term: {type: {value: *}}}}
+ */
+function getSubsetMatchQuery() {
+    return {
+        term: {
+            type: {
+                value: config.villagerEntityType
+            }
+        }
+    };
+}
 
 /**
  * Build a query for the (already-validated) key/value pair.
@@ -47,22 +63,16 @@ function buildQuery(key, value) {
  * @returns {{bool: {must: []}}}
  */
 function buildRootElasticSearchQuery(appliedQueries) {
+    // It must always be part of the subset we care about.
     const finalQuery = {
         bool: {
-            must: []
+            must: [getSubsetMatchQuery()]
         }
     };
 
     // Add all applied queries.
     for (let key in appliedQueries) {
         finalQuery.bool.must.push(appliedQueries[key]);
-    }
-
-    // If it's still empty, then just match everything.
-    if (finalQuery.bool.must.length === 0) {
-        finalQuery.bool.must.push({
-            match_all: {}
-        })
     }
 
     return finalQuery;
@@ -283,7 +293,7 @@ async function find(collection, es, pageNumber, searchString, params) {
 
     // Count.
     const totalCount = await es.count({
-        index: 'villager',
+        index: config.elasticSearchIndexName,
         body: {
             query: query
         }
@@ -296,7 +306,7 @@ async function find(collection, es, pageNumber, searchString, params) {
     if (totalCount.count > 0) {
         // Load all on this page.
         const results = await es.search({
-            index: 'villager',
+            index: config.elasticSearchIndexName,
             from: pageSize * (result.currentPage - 1),
             size: pageSize,
             body: body
@@ -416,7 +426,7 @@ router.get('/autocomplete', function (req, res, next) {
     }
 
     res.app.locals.es.search({
-        index: 'villager',
+        index: config.elasticSearchIndexName,
         body: {
             suggest: {
                 villager: {

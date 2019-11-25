@@ -6,6 +6,8 @@ const formatUtil = require('../db/util/format');
 const moment = require('moment');
 const elasticsearch = require('elasticsearch');
 
+const config = require('../config/search.js');
+
 function usage() {
     console.error('Usage: bin/util <command>');
     process.exit(1);
@@ -16,7 +18,7 @@ async function deleteSearchIndex() {
 
     // Delete the elasticsearch index
     return es.indices.delete({
-        index: 'villager'
+        index: config.elasticSearchIndexName
     })
 }
 
@@ -25,16 +27,19 @@ async function buildSearchIndex() {
 
     // Create the index.
     await es.indices.create({
-        index: 'villager'
+        index: config.elasticSearchIndexName
     });
 
     // Define the index mappings properly.
     await es.indices.putMapping({
-        index: 'villager',
+        index: config.elasticSearchIndexName,
         body: {
             properties: {
                 suggest: {
                     type: 'completion'
+                },
+                type: {
+                    type: 'keyword'
                 },
                 keyword: {
                     type: 'keyword'
@@ -64,6 +69,17 @@ async function buildSearchIndex() {
         }
     });
 
+    await indexVillagers(es);
+    await indexItems(es);
+}
+
+/**
+ * Add villagers to the entity index.
+ *
+ * @param es
+ * @returns {Promise<void>}
+ */
+async function indexVillagers(es) {
     const files = fs.readdirSync(path.join('data', 'villagers'));
     for (let file of files) {
         const data = fs.readFileSync(path.join('data', 'villagers', file), 'utf8');
@@ -71,6 +87,7 @@ async function buildSearchIndex() {
 
         // Build document.
         const document = {
+            type: config.villagerEntityType,
             suggest: {
                 input: parsed.name
             },
@@ -104,7 +121,38 @@ async function buildSearchIndex() {
 
         // Create the villager document.
         await es.index({
-            index: 'villager',
+            index: config.elasticSearchIndexName,
+            id: parsed.id,
+            body: document
+        });
+        console.log('Indexed ' + parsed.id);
+    }
+}
+
+/**
+ * Add items to the entity index.
+ *
+ * @param es
+ * @returns {Promise<void>}
+ */
+async function indexItems(es) {
+    const files = fs.readdirSync(path.join('data', 'items'));
+    for (let file of files) {
+        const data = fs.readFileSync(path.join('data', 'items', file), 'utf8');
+        const parsed = JSON.parse(data);
+
+        // Build document.
+        const document = {
+            type: config.itemEntityType,
+            suggest: {
+                input: parsed.name
+            },
+            keyword: parsed.name,
+        };
+
+        // Create the item document.
+        await es.index({
+            index: config.elasticSearchIndexName,
             id: parsed.id,
             body: document
         });
@@ -124,12 +172,12 @@ if (!command) {
         .catch((e) => {
         }) // doesn't matter that it failed to delete
         .then(() => {
-            console.log('Deleted villager index.');
+            console.log('Deleted ' + config.elasticSearchIndexName + ' index.');
         });
 } else if (command === 'build-search-index') {
     buildSearchIndex()
         .then(() => {
-            console.log('Built search index successfully.');
+            console.log('Built ' + config.elasticSearchIndexName + ' index successfully.');
         })
         .catch((e) => {
             console.log('Failed to build search index.');

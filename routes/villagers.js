@@ -1,4 +1,5 @@
 const express = require('express');
+const sanitize = require('../helpers/sanitize.js');
 const config = require('../config/search.js');
 
 const pageSize = config.searchResultsPageSize;
@@ -325,29 +326,14 @@ async function find(es, pageNumber, searchString, params) {
         for (let h of results.hits.hits) {
             result.results.push({
                 id: h._id,
-                name: h._source.name
+                name: h._source.name,
+                url: h._source.url,
+                imageUrl: h._source.imageUrl
             });
         }
     }
 
     return result;
-}
-
-
-
-/**
- * Return the given input as a parsed integer if it is a positive integer. Otherwise, return 1.
- *
- * @param value
- * @returns {number}
- */
-function parsePositiveInteger(value) {
-    const parsedValue = parseInt(value);
-    if (Number.isNaN(parsedValue) || parsedValue < 1) {
-        return 1;
-    }
-
-    return parsedValue;
 }
 
 /**
@@ -420,7 +406,7 @@ router.get('/', function (req, res, next) {
 
 /* GET villagers page number */
 router.get('/page/:pageNumber', function (req, res, next) {
-    listEntities(res, next, parsePositiveInteger(req.params.pageNumber), req.query.isAjax === 'true',
+    listEntities(res, next, sanitize.parsePositiveInteger(req.params.pageNumber), req.query.isAjax === 'true',
         req.query);
 });
 

@@ -25,8 +25,8 @@ export default class SearchResults extends React.Component {
             list.push(
                 <li key={result.id} className="col-6 col-sm-4 col-md-3">
                     <div className="search-result-container">
-                        <a href={'/villager/' + result.id}>
-                            <img src={'/images/villagers/medium/' + result.id + '.png'}
+                        <a href={result.url}>
+                            <img src={result.imageUrl}
                                  alt={'Picture of ' + result.name} className="img-responsive" />
                             <p>{result.name}</p>
                         </a>

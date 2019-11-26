@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const formatUtil = require('../db/util/format.js');
+const formatHelper = require('../helpers/format.js');
 
 /**
  * Return a <word> or an <word> depending on first character.
@@ -31,9 +31,9 @@ function findLatestGame(villager) {
     let gameIndex = -1;
     let latestGame = undefined;
     for (let game in villager.games) {
-        if (gameIndex < formatUtil.games[game].order) {
+        if (gameIndex < formatHelper.games[game].order) {
             latestGame = game;
-            gameIndex = formatUtil.games[game].order;
+            gameIndex = formatHelper.games[game].order;
         }
     }
 
@@ -66,22 +66,22 @@ function generateParagraph(villager, formattedVillager) {
 
     // Build paragraph
     let paragraph = name + ' is ' + aOrAn(personality.toLowerCase()) + ' ' + species + ' villager. ' +
-        formatUtil.capFirstLetter(pronoun) + ' was born on ' + birthday + ' and ' + posessivePronoun +
+        formatHelper.capFirstLetter(pronoun) + ' was born on ' + birthday + ' and ' + posessivePronoun +
         ' star sign  is ' + zodiac + '. ';
     if (gameData.clothes) {
         paragraph += name + ' wears the ' + gameData.clothes + '. ';
     }
     if (gameData.song) {
-        paragraph += formatUtil.capFirstLetter(posessivePronoun) + ' favorite song is ' + gameData.song + '. ';
+        paragraph += formatHelper.capFirstLetter(posessivePronoun) + ' favorite song is ' + gameData.song + '. ';
     }
     if (gameData.goal) {
         paragraph += posessive + ' goal is to be ' + aOrAn(gameData.goal.toLowerCase()) + '. ';
     }
     if (gameData.skill) {
-        paragraph += formatUtil.capFirstLetter(pronoun) + ' is talented at ' + gameData.skill.toLowerCase() + '. ';
+        paragraph += formatHelper.capFirstLetter(pronoun) + ' is talented at ' + gameData.skill.toLowerCase() + '. ';
     }
     if (gameData.favoriteStyle && gameData.dislikedStyle) {
-        paragraph += formatUtil.capFirstLetter(posessivePronoun) + ' favorite style is ' +
+        paragraph += formatHelper.capFirstLetter(posessivePronoun) + ' favorite style is ' +
             gameData.favoriteStyle.toLowerCase() + ', but ' + pronoun + ' dislikes the ' +
             gameData.dislikedStyle.toLowerCase() + ' style. ';
     }
@@ -113,9 +113,9 @@ function compressGameData(games, property) {
         if (newValue) {
             newValue = newValue.trim().toLowerCase().replace(/\s+/g, ' ');
             result.push({
-                shortTitle: formatUtil.games[game].shortTitle,
-                title: formatUtil.games[game].title,
-                year: formatUtil.games[game].year,
+                shortTitle: formatHelper.games[game].shortTitle,
+                title: formatHelper.games[game].title,
+                year: formatHelper.games[game].year,
                 value: games[game][property],
                 isNew: (lastValue !== newValue)
             });
@@ -139,7 +139,7 @@ function getQuotes(villager, formattedVillager) {
     for (let game in formattedVillager.games) {
         if (villager.games[game].quote) {
             quotes.push({
-                title: formatUtil.games[game].title,
+                title: formatHelper.games[game].title,
                 quote: villager.games[game].quote
             });
         }
@@ -165,7 +165,7 @@ async function loadVillager(collection, id) {
     }
 
     // Format villager
-    const result = formatUtil.formatVillager(villager);
+    const result = formatHelper.formatVillager(villager);
 
     // Some extra metadata the template needs.
     result.id = villager.id;

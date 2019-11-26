@@ -2,7 +2,8 @@
 
 const fs = require('fs');
 const path = require('path');
-const formatUtil = require('../db/util/format');
+const formatHelper = require('../helpers/format');
+const urlHelper = require('../helpers/url');
 const moment = require('moment');
 const elasticsearch = require('elasticsearch');
 
@@ -95,6 +96,8 @@ async function indexVillagers(es) {
             gender: parsed.gender,
             species: parsed.species,
             name: parsed.name,
+            url: urlHelper.getEntityUrl(config.villagerEntityType, parsed.id),
+            imageUrl: urlHelper.getImageUrl(config.villagerEntityType, urlHelper.THUMB, parsed.id)
         };
 
         // Get unique phrases and personalities.
@@ -116,13 +119,13 @@ async function indexVillagers(es) {
 
         // Zodiac?
         if (parsed.birthday) {
-            document.zodiac = formatUtil.getZodiac(moment(parsed.birthday + '-2000', 'MM-DD-YYYY')).toLowerCase();
+            document.zodiac = formatHelper.getZodiac(moment(parsed.birthday + '-2000', 'MM-DD-YYYY')).toLowerCase();
         }
 
         // Create the villager document.
         await es.index({
             index: config.elasticSearchIndexName,
-            id: parsed.id,
+            id: config.villagerEntityType + '-' + parsed.id,
             body: document
         });
         console.log('Indexed ' + parsed.id);
@@ -148,12 +151,14 @@ async function indexItems(es) {
                 input: parsed.name
             },
             keyword: parsed.name,
+            url: urlHelper.getEntityUrl(config.itemEntityType, parsed.id),
+            imageUrl: urlHelper.getImageUrl(config.itemEntityType, urlHelper.THUMB, parsed.id)
         };
 
         // Create the item document.
         await es.index({
             index: config.elasticSearchIndexName,
-            id: parsed.id,
+            id: config.itemEntityType + '-' + parsed.id,
             body: document
         });
         console.log('Indexed ' + parsed.id);

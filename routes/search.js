@@ -8,24 +8,23 @@ const express = require('express');
  *
  * @type {browse}
  */
-const browser = require('../helpers/browser.js');
+const browser = require('../helpers/browser');
 
 /**
- *
+ * Sanitizer.
  */
-const sanitize = require('../helpers/sanitize.js');
+const sanitize = require('../helpers/sanitize');
 
 /**
- *
+ * App config.
  * @type {{}}
  */
-const config = require('../config/search.js');
+const config = require('../config/search');
 
 /**
- *
- * @type {{}}
+ * App state calculator.
  */
-const allFilters = config.filters;
+const appState = require('../helpers/app-state');
 
 /**
  * Call the browser.
@@ -43,43 +42,30 @@ function browse(req, res, next, pageNumber) {
     data.pageUrlPrefix = '/search/page/';
     data.searchQuery = searchQuery;
 
-    browser(res.app.locals.es, pageNumber, req.query)
+    browser(pageNumber, req.query)
         .then((result) => {
-            handleResult(req, res, next, data, result);
+            if (req.query.isAjax === 'true') {
+                res.send(result);
+            } else {
+                appState.getAppState(res)
+                    .then((state) => {
+                        Object.assign(data, state);
+                        data.initialState = JSON.stringify(result); // TODO: Need to stop doing this someday.
+                        data.allFilters = JSON.stringify(config.filters);
+                        data.result = result;
+                        res.render('browser', data);
+                    })
+                    .catch(next);
+            }
         })
         .catch(next);;
 }
 
-/**
- * Handle result of browser call.
- *
- * @param req
- * @param res
- * @param next
- * @param data
- * @param result
- */
-function handleResult(req, res, next, data, result) {
-    if (req.query.isAjax === 'true') {
-        res.send(result);
-    } else {
-        res.app.locals.db.birthdays.getBirthdays()
-            .then((birthdays) => {
-                data.birthdays = birthdays;
-                data.shouldDisplayBirthdays = birthdays.length > 0;
-                data.initialState = JSON.stringify(result);
-                data.allFilters = JSON.stringify(allFilters);
-                data.result = result;
-                res.render('browser', data);
-            })
-            .catch(next);
-    }
-}
-
 const router = express.Router();
+
 /* GET villagers listing. */
 router.get('/', function (req, res, next) {
-    browse(req, res, next, 1);
+    res.redirect('/search/page/1', 302);
 });
 
 /* GET villagers page number */

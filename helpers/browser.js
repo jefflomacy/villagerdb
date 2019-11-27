@@ -1,5 +1,6 @@
 const express = require('express');
 const config = require('../config/search.js');
+const es = require('../db/elasticsearch');
 
 const pageSize = config.searchResultsPageSize;
 const allFilters = config.filters;
@@ -296,12 +297,11 @@ function computePageProperties(pageNumber, pageSize, totalCount, result) {
 /**
  * Load villagers on a particular page number with a particular search query.
  *
- * @param es
  * @param pageNumber the already sanity checked page number
  * @param userSearchQueries
  * @returns {Promise<void>}
  */
-async function browse(es, pageNumber, userSearchQueries) {
+async function browse(pageNumber, userSearchQueries) {
     const result = {};
     result.appliedFilters = getAppliedFilters(userSearchQueries);
 

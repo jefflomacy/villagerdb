@@ -10,6 +10,16 @@ module.exports = {
             name: 'Searching for',
             canAggregate: false
         },
+        type: {
+            name: 'Type',
+            values: {
+                'villager': 'Villager',
+                'item': 'Item'
+            },
+            term: true,
+            canAggregate: true,
+            sort: 1
+        },
         game: {
             name: 'Games',
             values: {
@@ -22,7 +32,31 @@ module.exports = {
                 'af': 'Animal Forest'
             },
             canAggregate: true,
-            sort: 1
+            sort: 2
+        },
+        orderable: {
+            name: 'Orderable from Catalog',
+            values: {
+                true: 'Yes',
+                false: 'No'
+            },
+            canAggregate: true,
+            sort: 3
+        },
+        category: {
+            name: 'Category',
+            canAggregate: true,
+            sort: 3
+        },
+        interiorTheme: {
+            name: 'Interior Theme',
+            canAggregate: true,
+            sort: 4
+        },
+        fashionTheme: {
+            name: 'Fashion Theme',
+            canAggregate: true,
+            sort: 5
         },
         gender: {
             name: 'Gender',
@@ -31,7 +65,7 @@ module.exports = {
                 female: 'Female'
             },
             canAggregate: true,
-            sort: 2
+            sort: 6
         },
         personality: {
             name: 'Personality',
@@ -46,7 +80,7 @@ module.exports = {
                 uchi: 'Uchi'
             },
             canAggregate: true,
-            sort: 3
+            sort: 7
         },
         species: {
             name: 'Species',
@@ -88,7 +122,7 @@ module.exports = {
                 wolf: 'Wolf',
             },
             canAggregate: true,
-            sort: 4
+            sort: 8
         },
         zodiac: {
             name: 'Star Sign',
@@ -107,7 +141,7 @@ module.exports = {
                 virgo: 'Virgo'
             },
             canAggregate: true,
-            sort: 5
+            sort: 9
         }
     }
 };

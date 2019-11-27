@@ -14,6 +14,10 @@ const entityTypeId = config.villagerEntityType;
  */
 function getSubsetMatchQuery() {
     return {
+        match_all: {}
+    };
+
+    return {
         term: {
             type: {
                 value: entityTypeId
@@ -47,6 +51,7 @@ function getTextSearchQuery(searchString) {
         }
     ]
 }
+
 /**
  * Build a query for the (already-validated) key/value pair.
  *
@@ -54,15 +59,22 @@ function getTextSearchQuery(searchString) {
  * @param value
  */
 function buildQuery(key, value) {
-    const query = {};
-    if (key !== config.textQuerySearchKey) { // faceted search
+    if (key === config.textQuerySearchKey) { // textual search
+        return getTextSearchQuery(value);
+    } else if (allFilters[key].term) { // faceted search (exact match - term)
+        const query = {};
+        query.term = {};
+        query.term[key] = {
+            value: value
+        };
+        return [query];
+    } else { // faceted search (analyzed match)
+        const query = {};
         query.match = {};
         query.match[key] = {
             query: value
         };
         return [query];
-    } else { // textual search
-        return getTextSearchQuery(value);
     }
 }
 
@@ -240,9 +252,16 @@ function buildAvailableFilters(appliedFilters, aggregations) {
                 });
 
             const bucketKeyValue = {};
-            for (let b of Object.keys(allFilters[key].values)) {
-                if (buckets.includes(b)) {
-                    bucketKeyValue[b] = allFilters[key].values[b];
+            if (allFilters[key].values) {
+                for (let b of Object.keys(allFilters[key].values)) {
+                    if (buckets.includes(b)) {
+                        bucketKeyValue[b] = allFilters[key].values[b];
+                    }
+                }
+            } else {
+                buckets.sort();
+                for (let b of buckets) {
+                    bucketKeyValue[b] = b;
                 }
             }
 

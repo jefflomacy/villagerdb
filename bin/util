@@ -60,6 +60,21 @@ async function buildSearchIndex() {
                 zodiac: {
                     type: 'keyword'
                 },
+                category: {
+                    type: 'keyword'
+                },
+                interiorTheme: {
+                    type: 'keyword',
+                },
+                fashionTheme: {
+                    type: 'keyword'
+                },
+                orderable: {
+                    type: 'keyword'
+                },
+                set: {
+                    type: 'keyword'
+                },
                 name: {
                     type: 'text'
                 },
@@ -151,9 +166,20 @@ async function indexItems(es) {
                 input: parsed.name
             },
             keyword: parsed.name,
+            name: parsed.name,
+            category: parsed.category,
+            game: [],
             url: urlHelper.getEntityUrl(config.itemEntityType, parsed.id),
             imageUrl: urlHelper.getImageUrl(config.itemEntityType, urlHelper.THUMB, parsed.id)
         };
+
+        for (let game in parsed.games) {
+            document.game.push(game);
+            document.orderable = parsed.games[game].orderable ? true : false;
+            document.interiorTheme = parsed.games[game].interiorThemes;
+            document.fashionTheme = parsed.games[game].fashionThemes;
+            document.set = parsed.games[game].set;
+        }
 
         // Create the item document.
         await es.index({

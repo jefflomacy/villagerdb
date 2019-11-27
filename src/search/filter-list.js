@@ -43,7 +43,11 @@ export default class FilterList extends React.Component {
             }
 
             const values = this.props.appliedFilters[filterId].map((v) => {
-                return this.props.allFilters[filterId].values[v];
+                if (this.props.allFilters[filterId].values) {
+                    return this.props.allFilters[filterId].values[v];
+                } else {
+                    return v;
+                }
             });
             const valuesString = values.sort().join(', ');
             alreadyApplied.push(

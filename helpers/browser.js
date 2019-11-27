@@ -1,28 +1,18 @@
 const express = require('express');
-const sanitize = require('../helpers/sanitize.js');
 const config = require('../config/search.js');
 
 const pageSize = config.searchResultsPageSize;
 const allFilters = config.filters;
-const entityTypeId = config.villagerEntityType;
 
 /**
- * The ElasticSearch index contains multiple entity types. This function builds the match query that tells the system
- * the item must be of the entity type this controller needs.
+ * Whatever this function returns must be met in all queries. If nothing else, it returns a 'match_all' statement,
+ * which always evaluates to true.
  *
- * @returns {{term: {type: {value: *}}}}
+ * @returns {{}}
  */
 function getSubsetMatchQuery() {
     return {
         match_all: {}
-    };
-
-    return {
-        term: {
-            type: {
-                value: entityTypeId
-            }
-        }
     };
 }
 
@@ -162,7 +152,7 @@ function getAppliedQueries(appliedFilters) {
 
 /**
  * Build aggregations for the given search criteria.
- * 
+ *
  * @param appliedFilters
  * @param appliedQueries
  * @param searchQuery
@@ -277,19 +267,43 @@ function buildAvailableFilters(appliedFilters, aggregations) {
 }
 
 /**
+ * Do pagination math.
+ *
+ * @param pageNumber
+ * @param pageSize
+ * @param totalCount
+ * @param result
+ */
+function computePageProperties(pageNumber, pageSize, totalCount, result) {
+    // Totals
+    result.totalCount = totalCount;
+    result.totalPages = Math.ceil(totalCount / pageSize);
+
+    // Clean up page number.
+    if (pageNumber < 1) {
+        pageNumber = 1;
+    } else if (pageNumber > result.totalPages) {
+        pageNumber = result.totalPages;
+    }
+
+    // Pagination specifics
+    result.currentPage = pageNumber;
+    result.startIndex = (pageSize * (pageNumber - 1) + 1);
+    result.endIndex = (pageSize * pageNumber) > totalCount ? totalCount :
+        (pageSize * pageNumber);
+}
+
+/**
  * Load villagers on a particular page number with a particular search query.
  *
  * @param es
  * @param pageNumber the already sanity checked page number
- * @param searchString
+ * @param userSearchQueries
  * @returns {Promise<void>}
  */
-async function find(es, pageNumber, searchString, params) {
-    // The long process of building the result.
+async function browse(es, pageNumber, userSearchQueries) {
     const result = {};
-
-    result.pageUrlPrefix = '/villagers/page/';
-    result.appliedFilters = getAppliedFilters(params);
+    result.appliedFilters = getAppliedFilters(userSearchQueries);
 
     // Build ES query for applied filters, if any.
     const appliedQueries = getAppliedQueries(result.appliedFilters);
@@ -300,14 +314,8 @@ async function find(es, pageNumber, searchString, params) {
     let body;
     const query = buildRootElasticSearchQuery(appliedQueries);
 
-    if (typeof searchString === 'string') {
-        // Set up result set for search display
-        result.searchQuery = searchString;
-        result.searchQueryString = encodeURIComponent(searchString);
-    }
-
     // The ultimate goal is to build this body for the query.
-    body =  {
+    body = {
         sort: [
             "_score",
             {
@@ -339,7 +347,7 @@ async function find(es, pageNumber, searchString, params) {
             body: body
         });
 
-        result.availableFilters =  buildAvailableFilters(result.appliedFilters, results.aggregations.all_entries);
+        result.availableFilters = buildAvailableFilters(result.appliedFilters, results.aggregations.all_entries);
 
         // Load the results.
         for (let h of results.hits.hits) {
@@ -355,78 +363,4 @@ async function find(es, pageNumber, searchString, params) {
     return result;
 }
 
-/**
- * Do pagination math.
- *
- * @param pageNumber
- * @param pageSize
- * @param totalCount
- * @param result
- */
-function computePageProperties(pageNumber, pageSize, totalCount, result) {
-    // Totals
-    result.totalCount = totalCount;
-    result.totalPages = Math.ceil(totalCount / pageSize);
-
-    // Clean up page number.
-    if (pageNumber < 1) {
-        pageNumber = 1;
-    } else if (pageNumber > result.totalPages) {
-        pageNumber = result.totalPages;
-    }
-
-    // Pagination specifics
-    result.currentPage = pageNumber;
-    result.startIndex = (pageSize * (pageNumber - 1) + 1);
-    result.endIndex = (pageSize * pageNumber) > totalCount ? totalCount :
-        (pageSize * pageNumber);
-}
-
-/**
- * Search pages entry point.
- *
- * @param searchQuery
- */
-function listEntities(res, next, pageNumber, isAjax, params) {
-    const data = {};
-    const searchQuery = typeof params.q === 'string' && params.q.trim().length > 0 ? params.q.trim() : undefined;
-    if (searchQuery) {
-        data.pageTitle = 'Search results for ' + searchQuery; // template engine handles HTML escape
-    } else {
-        data.pageTitle = 'All villagers';
-    }
-
-    find(res.app.locals.es, pageNumber, searchQuery, params)
-        .then((result) => {
-            if (isAjax) {
-                res.send(result);
-            } else {
-                res.app.locals.db.birthdays.getBirthdays()
-                    .then((birthdays) => {
-                        data.birthdays = birthdays;
-                        data.shouldDisplayBirthdays = birthdays.length > 0;
-                        data.initialState = JSON.stringify(result);
-                        data.allFilters = JSON.stringify(allFilters);
-                        data.result = result;
-                        res.render('browser', data);
-                    })
-                    .catch(next);
-            }
-        })
-        .catch(next);
-}
-
-const router = express.Router();
-
-/* GET villagers listing. */
-router.get('/', function (req, res, next) {
-    listEntities(res, next, 1, req.query.isAjax === 'true', req.query);
-});
-
-/* GET villagers page number */
-router.get('/page/:pageNumber', function (req, res, next) {
-    listEntities(res, next, sanitize.parsePositiveInteger(req.params.pageNumber), req.query.isAjax === 'true',
-        req.query);
-});
-
-module.exports = router;
+module.exports = browse;

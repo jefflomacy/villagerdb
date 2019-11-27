@@ -10,7 +10,7 @@ const staticify = require('staticify');
 
 const indexRouter = require('./routes/index');
 const autocompleteRouter = require('./routes/autocomplete');
-const villagersRouter = require('./routes/villagers');
+const villagersRouter = require('./routes/search');
 const villagerRouter = require('./routes/villager');
 
 const app = express();
@@ -73,6 +73,7 @@ app.disable('x-powered-by');
 app.use('/', indexRouter);
 app.use('/autocomplete', autocompleteRouter);
 app.use('/villagers', villagersRouter);
+app.use('/search', villagersRouter);
 app.use('/villager', villagerRouter);
 
 // catch 404 and forward to error handler

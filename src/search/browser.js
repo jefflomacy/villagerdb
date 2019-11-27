@@ -90,17 +90,17 @@ class Browser extends React.Component {
         );
     }
 
-    getResults(pageNumber, pageUrlPrefix, appliedFilters) {
+    getResults(pageNumber, appliedFilters) {
         // On update, just consume the state.
         const updateState = (state) => {
             state.isLoading = false;
-            let url = this.buildUrlFromState(state.pageUrlPrefix, state.currentPage, state.appliedFilters);
+            let url = this.buildUrlFromState(state.currentPage, state.appliedFilters);
             history.pushState(state, null, url);
             this.setState(state);
         };
 
         // Make AJAX request to get the page.
-        let url = this.buildUrlFromState(pageUrlPrefix, pageNumber, appliedFilters);
+        let url = this.buildUrlFromState(pageNumber, appliedFilters);
         if (url.includes('?')) {
             url += '&isAjax=true';
         } else {
@@ -122,12 +122,12 @@ class Browser extends React.Component {
     }
 
     setPage(pageNumber) {
-        this.getResults(pageNumber, this.state.pageUrlPrefix, this.state.appliedFilters);
+        this.getResults(pageNumber, this.state.appliedFilters);
     }
 
     setAppliedFilters(filters) {
         // Changing the filters will always put us back on page 1.
-        this.getResults(1, this.state.pageUrlPrefix, filters);
+        this.getResults(1, filters);
     }
 
     onError() {
@@ -137,7 +137,7 @@ class Browser extends React.Component {
         });
     }
 
-    buildUrlFromState(pageUrlPrefix, pageNumber, appliedFilters) {
+    buildUrlFromState(pageNumber, appliedFilters) {
         // Build out from applied filters
         const applied = [];
         for (let filterId in appliedFilters) {
@@ -148,7 +148,7 @@ class Browser extends React.Component {
             applied.push(filterId + '=' + values.join(','));
         }
         const filterQuery = applied.length > 0 ? ('?' + applied.join('&')) : '';
-        let url = pageUrlPrefix + pageNumber + filterQuery;
+        let url = this.props.pageUrlPrefix + pageNumber + filterQuery;
         return url;
     }
 }
@@ -164,6 +164,7 @@ $(document).ready(function() {
     
     const initialState = targetElement.attr('data-initial-state');
     const allFilters = targetElement.data('all-filters');
+    const pageUrlPrefix = targetElement.data('pageUrlPrefix');
     ReactDOM.render(<Browser id="browser" initialState={initialState}
-        allFilters={allFilters} />, targetElement[0]);
+        allFilters={allFilters} pageUrlPrefix={pageUrlPrefix}/>, targetElement[0]);
 })

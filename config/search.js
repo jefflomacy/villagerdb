@@ -8,7 +8,8 @@ module.exports = {
     filters: {
         q: {
             name: 'Searching for',
-            canAggregate: false
+            canAggregate: false,
+            isTextSearch: true
         },
         type: {
             name: 'Type',
@@ -16,7 +17,6 @@ module.exports = {
                 'villager': 'Villager',
                 'item': 'Item'
             },
-            term: true,
             canAggregate: true,
             sort: 1
         },
@@ -46,17 +46,17 @@ module.exports = {
         category: {
             name: 'Category',
             canAggregate: true,
-            sort: 3
+            sort: 4
         },
         interiorTheme: {
             name: 'Interior Theme',
             canAggregate: true,
-            sort: 4
+            sort: 5
         },
         fashionTheme: {
             name: 'Fashion Theme',
             canAggregate: true,
-            sort: 5
+            sort: 6
         },
         gender: {
             name: 'Gender',
@@ -65,7 +65,7 @@ module.exports = {
                 female: 'Female'
             },
             canAggregate: true,
-            sort: 6
+            sort: 7
         },
         personality: {
             name: 'Personality',
@@ -80,7 +80,7 @@ module.exports = {
                 uchi: 'Uchi'
             },
             canAggregate: true,
-            sort: 7
+            sort: 8
         },
         species: {
             name: 'Species',
@@ -122,7 +122,7 @@ module.exports = {
                 wolf: 'Wolf',
             },
             canAggregate: true,
-            sort: 8
+            sort: 9
         },
         zodiac: {
             name: 'Star Sign',
@@ -141,7 +141,7 @@ module.exports = {
                 virgo: 'Virgo'
             },
             canAggregate: true,
-            sort: 9
+            sort: 10
         }
     }
 };

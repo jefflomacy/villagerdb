@@ -70,7 +70,7 @@ async function buildSearchIndex() {
                     type: 'keyword'
                 },
                 orderable: {
-                    type: 'keyword'
+                    type: 'boolean'
                 },
                 set: {
                     type: 'keyword'
@@ -107,7 +107,7 @@ async function indexVillagers(es) {
             suggest: {
                 input: parsed.name
             },
-            keyword: parsed.name,
+            keyword: parsed.name.toLowerCase(),
             gender: parsed.gender,
             species: parsed.species,
             name: parsed.name,
@@ -165,7 +165,7 @@ async function indexItems(es) {
             suggest: {
                 input: parsed.name
             },
-            keyword: parsed.name,
+            keyword: parsed.name.toLowerCase(),
             name: parsed.name,
             category: parsed.category,
             game: [],

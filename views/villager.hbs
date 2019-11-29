@@ -18,7 +18,7 @@
         </div>
 
         <div class="mt-3 mb-3 text-right">
-            {{> socialMedia shareUrl=shareUrl}}
+            {{> social-media shareUrl=shareUrl}}
         </div>
 
         <table class="table table-borderless mt-3">
@@ -87,11 +87,11 @@
         <p>{{paragraph}}</p>
 
         <div class="row">
-            {{> villagerGameData shouldDisplay=hasPersonalities title="Personality" valueName="personality"
+            {{> villager-game-data shouldDisplay=hasPersonalities title="Personality" valueName="personality"
                     array=personalities}}
-            {{> villagerGameData shouldDisplay=hasClothing title="Clothing" valueName="Clothes" array=clothing}}
-            {{> villagerGameData shouldDisplay=hasPhrases title="Phrases" valueName="Phrase" array=phrases }}
-            {{> villagerGameData shouldDisplay=hasSongs title="Songs" valueName="Song" array=songs }}
+            {{> villager-game-data shouldDisplay=hasClothing title="Clothing" valueName="Clothes" array=clothing}}
+            {{> villager-game-data shouldDisplay=hasPhrases title="Phrases" valueName="Phrase" array=phrases }}
+            {{> villager-game-data shouldDisplay=hasSongs title="Songs" valueName="Song" array=songs }}
         </div>
     </div>
 </div>

@@ -51,7 +51,15 @@ const categories = {
     umbrellas: {filter: {category: ['Umbrellas']}},
     usables: {filter: {category: ['Usables']}},
     wallpaper: {filter: {category: ['Wallpaper']}},
-    wetsuits: {filter: {category: ['Wetsuits']}}
+    wetsuits: {filter: {category: ['Wetsuits']}},
+
+    // Home page summary filters
+    clothing: {filter: {category: ['Accessories', 'Bottoms', 'Dresses', 'Hats', 'Shoes', 'Socks', 'Tops',
+            'Umbrellas', 'Wetsuits']}},
+    collectibles: {filter: {category: ['Art', 'Bugs', 'Fish', 'Fossils']}},
+    equipment: {filter: {category: ['Balloons', 'Stationery', 'Usables', 'Tools']}},
+    'all-furniture': {filter: {category: ['Flooring', 'Furniture', 'Music', 'Wallpaper']}, title: 'All Furniture'},
+    nature: {filter: {category: ['Bushes & Trees', 'Flowers', 'Fruit', 'Gyroids', 'Mushrooms', 'Ore']}}
 };
 
 /**

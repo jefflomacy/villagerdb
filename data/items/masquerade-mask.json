@@ -1,0 +1,30 @@
+{
+  "id": "masquerade-mask",
+  "name": "masquerade mask",
+  "category": "Accessories",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Antique",
+        "Fairy Tale"
+      ],
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 120
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 480
+        }
+      ]
+    }
+  }
+}

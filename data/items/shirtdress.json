@@ -1,0 +1,26 @@
+{
+  "id": "shirtdress",
+  "name": "shirtdress",
+  "category": "Dresses",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Official"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 170
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 680
+        }
+      ]
+    }
+  }
+}

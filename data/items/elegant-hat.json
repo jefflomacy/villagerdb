@@ -1,0 +1,29 @@
+{
+  "id": "elegant-hat",
+  "name": "elegant hat",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Fairy Tale"
+      ],
+      "fashionThemes": [
+        "Ornate"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1600
+      },
+      "sources": [
+        "GracieGrace (winter)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 6400
+        }
+      ]
+    }
+  }
+}

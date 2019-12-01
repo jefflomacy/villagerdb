@@ -1,0 +1,17 @@
+{
+  "id": "barbel-steed",
+  "name": "barbel steed",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 200
+      },
+      "sources": [
+        "In rivers."
+      ]
+    }
+  }
+}

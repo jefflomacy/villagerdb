@@ -1,0 +1,27 @@
+{
+  "id": "gelato-umbrella",
+  "name": "gelato umbrella",
+  "category": "Umbrellas",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Toy Shop",
+        "Trendy"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 80
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 320
+        }
+      ]
+    }
+  }
+}

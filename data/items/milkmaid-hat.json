@@ -1,0 +1,27 @@
+{
+  "id": "milkmaid-hat",
+  "name": "milkmaid hat",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "set": "Milkmaid Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 80
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 320
+        }
+      ]
+    }
+  }
+}

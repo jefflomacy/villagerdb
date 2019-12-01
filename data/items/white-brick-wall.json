@@ -1,0 +1,27 @@
+{
+  "id": "white-brick-wall",
+  "name": "white brick wall",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 600
+      },
+      "rvs": [
+        "blanca",
+        "kk",
+        "norma",
+        "vivian"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "palace-tile",
+  "name": "palace tile",
+  "category": "Flooring",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Antique",
+        "Fairy Tale"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 800
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3200
+        }
+      ]
+    }
+  }
+}

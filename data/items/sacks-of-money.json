@@ -1,0 +1,20 @@
+{
+  "id": "sacks-of-money",
+  "name": "sacks of money",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "rvs": [
+        "tom-nook"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

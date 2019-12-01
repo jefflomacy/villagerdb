@@ -1,0 +1,17 @@
+{
+  "id": "oak-silk-moth",
+  "name": "oak silk moth",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1200
+      },
+      "sources": [
+        "On trees."
+      ]
+    }
+  }
+}

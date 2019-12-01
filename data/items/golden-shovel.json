@@ -1,0 +1,17 @@
+{
+  "id": "golden-shovel",
+  "name": "golden shovel",
+  "category": "Tools",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 125
+      },
+      "sources": [
+        "Gardening Store (buy 50 or more bags of fertilizer)"
+      ]
+    }
+  }
+}

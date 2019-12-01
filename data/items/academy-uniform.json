@@ -1,0 +1,26 @@
+{
+  "id": "academy-uniform",
+  "name": "academy uniform",
+  "category": "Dresses",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Official"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 180
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 720
+        }
+      ]
+    }
+  }
+}

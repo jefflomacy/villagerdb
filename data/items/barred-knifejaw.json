@@ -1,0 +1,17 @@
+{
+  "id": "barred-knifejaw",
+  "name": "barred knifejaw",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 5000
+      },
+      "sources": [
+        "In the sea."
+      ]
+    }
+  }
+}

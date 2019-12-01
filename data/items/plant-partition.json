@@ -1,0 +1,20 @@
+{
+  "id": "plant-partition",
+  "name": "plant partition",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "rvs": [
+        "ursala"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

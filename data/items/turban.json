@@ -1,0 +1,27 @@
+{
+  "id": "turban",
+  "name": "turban",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "set": "Genie Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 150
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 600
+        }
+      ]
+    }
+  }
+}

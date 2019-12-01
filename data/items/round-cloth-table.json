@@ -1,0 +1,21 @@
+{
+  "id": "round-cloth-table",
+  "name": "round-cloth table",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "rvs": [
+        "julia",
+        "piper"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

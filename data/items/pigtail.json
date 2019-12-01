@@ -1,0 +1,30 @@
+{
+  "id": "pigtail",
+  "name": "pigtail",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Harmonious"
+      ],
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "set": "Imperial Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 100
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 400
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "samurai-helmet",
+  "name": "samurai helmet",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Antique",
+        "Harmonious",
+        "Quirky"
+      ],
+      "fashionThemes": [
+        "Historical"
+      ],
+      "set": "Samurai Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 500
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 2000
+        }
+      ]
+    }
+  }
+}

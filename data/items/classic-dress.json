@@ -1,0 +1,29 @@
+{
+  "id": "classic-dress",
+  "name": "classic dress",
+  "category": "Dresses",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Fairy Tale"
+      ],
+      "fashionThemes": [
+        "Ornate"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 180
+      },
+      "sources": [
+        "Able Sisters (fall)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 720
+        }
+      ]
+    }
+  }
+}

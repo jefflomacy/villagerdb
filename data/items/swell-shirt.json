@@ -1,0 +1,29 @@
+{
+  "id": "swell-shirt",
+  "name": "swell shirt",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Trendy"
+      ],
+      "fashionThemes": [
+        "Modern"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 100
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 400
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "id": "fruit-drink",
+  "name": "fruit drink",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "rvs": [
+        "ellie",
+        "tasha"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

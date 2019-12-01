@@ -1,0 +1,17 @@
+{
+  "id": "slingshot",
+  "name": "slingshot",
+  "category": "Tools",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 125
+      },
+      "sources": [
+        "T&T Mart"
+      ]
+    }
+  }
+}

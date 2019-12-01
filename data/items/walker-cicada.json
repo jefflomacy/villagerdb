@@ -1,0 +1,17 @@
+{
+  "id": "walker-cicada",
+  "name": "walker cicada",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 400
+      },
+      "sources": [
+        "On trees."
+      ]
+    }
+  }
+}

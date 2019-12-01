@@ -1,0 +1,17 @@
+{
+  "id": "scarab-beetle",
+  "name": "scarab beetle",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 6000
+      },
+      "sources": [
+        "On trees."
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "t-rex-skull",
+  "name": "t. rex skull",
+  "category": "Fossils",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Quirky"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 6000
+      },
+      "sources": [
+        "Underground (dig spot)"
+      ]
+    }
+  }
+}

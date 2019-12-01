@@ -1,0 +1,32 @@
+{
+  "id": "metal-can",
+  "name": "metal can",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "sources": [
+        "Harvey's shop"
+      ],
+      "rvs": [
+        "boyd",
+        "ike"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        },
+        {
+          "currency": "meow",
+          "value": 5
+        }
+      ]
+    }
+  }
+}

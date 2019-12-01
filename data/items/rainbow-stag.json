@@ -1,0 +1,17 @@
+{
+  "id": "rainbow-stag",
+  "name": "rainbow stag",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10000
+      },
+      "sources": [
+        "On trees."
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "summit-wall",
+  "name": "summit wall",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Rustic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 400
+      },
+      "sources": [
+        "Saharah"
+      ],
+      "rvs": [
+        "rex"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

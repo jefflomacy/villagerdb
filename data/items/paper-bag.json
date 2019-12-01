@@ -1,0 +1,13 @@
+{
+  "id": "paper-bag",
+  "name": "paper bag",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Undelivered lost item"
+      ]
+    }
+  }
+}

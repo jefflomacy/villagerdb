@@ -1,0 +1,17 @@
+{
+  "id": "catfish",
+  "name": "catfish",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 800
+      },
+      "sources": [
+        "In rivers."
+      ]
+    }
+  }
+}

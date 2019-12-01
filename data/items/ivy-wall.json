@@ -1,0 +1,34 @@
+{
+  "id": "ivy-wall",
+  "name": "ivy wall",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Quirky",
+        "Rustic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 313
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "rvs": [
+        "ketchup"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1252
+        },
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

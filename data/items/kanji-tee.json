@@ -1,0 +1,29 @@
+{
+  "id": "kanji-tee",
+  "name": "kanji tee",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Harmonious"
+      ],
+      "fashionThemes": [
+        "Rock-n'-roll"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 105
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 420
+        }
+      ]
+    }
+  }
+}

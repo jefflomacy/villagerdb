@@ -1,0 +1,26 @@
+{
+  "id": "pipe-stool",
+  "name": "pipe stool",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Sci-Fi"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 250
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1000
+        }
+      ]
+    }
+  }
+}

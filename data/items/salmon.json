@@ -1,0 +1,17 @@
+{
+  "id": "salmon",
+  "name": "salmon",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 700
+      },
+      "sources": [
+        "Sea (early September)/River (late September)"
+      ]
+    }
+  }
+}

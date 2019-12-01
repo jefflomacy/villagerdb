@@ -1,0 +1,17 @@
+{
+  "id": "brown-cicada",
+  "name": "brown cicada",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 200
+      },
+      "sources": [
+        "On trees."
+      ]
+    }
+  }
+}

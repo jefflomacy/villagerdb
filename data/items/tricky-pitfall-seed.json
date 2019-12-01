@@ -1,0 +1,17 @@
+{
+  "id": "tricky-pitfall-seed",
+  "name": "tricky pitfall seed",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 20
+      },
+      "sources": [
+        "Police Station (lost and found)"
+      ]
+    }
+  }
+}

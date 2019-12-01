@@ -1,0 +1,22 @@
+{
+  "id": "stacked-magazines",
+  "name": "stacked magazines",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "rvs": [
+        "candi",
+        "hornsby",
+        "jacob"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

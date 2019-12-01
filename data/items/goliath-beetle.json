@@ -1,0 +1,17 @@
+{
+  "id": "goliath-beetle",
+  "name": "goliath beetle",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 6000
+      },
+      "sources": [
+        "On palm trees."
+      ]
+    }
+  }
+}

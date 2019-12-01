@@ -1,0 +1,23 @@
+{
+  "id": "cloud-making-machine",
+  "name": "cloud-making machine",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Fairy Tale"
+      ],
+      "set": "Welcome amiibo Update",
+      "rvs": [
+        "etoile"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

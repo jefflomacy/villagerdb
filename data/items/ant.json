@@ -1,0 +1,20 @@
+{
+  "id": "ant",
+  "name": "ant",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 80
+      },
+      "sources": [
+        "Appears when spoiled turnips",
+        "candies",
+        "lollipops",
+        "and rotten fruits are left on the ground."
+      ]
+    }
+  }
+}

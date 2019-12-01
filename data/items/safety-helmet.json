@@ -1,0 +1,27 @@
+{
+  "id": "safety-helmet",
+  "name": "safety helmet",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Sporty"
+      ],
+      "set": "Worker Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 75
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 300
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "modern-wood-flooring",
+  "name": "modern wood flooring",
+  "category": "Flooring",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Rustic"
+      ],
+      "set": "Modern Wood",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 370
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "rvs": [
+        "isabelle",
+        "kk",
+        "tasha"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1480
+        },
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

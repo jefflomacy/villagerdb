@@ -1,0 +1,17 @@
+{
+  "id": "silver-fish-trophy",
+  "name": "silver fish trophy",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1800
+      },
+      "sources": [
+        "Fishing Tourney"
+      ]
+    }
+  }
+}

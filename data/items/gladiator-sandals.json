@@ -1,0 +1,29 @@
+{
+  "id": "gladiator-sandals",
+  "name": "gladiator sandals",
+  "category": "Shoes",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Antique"
+      ],
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "sources": [
+        "Gulliver (correct -- Greece)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1200
+        }
+      ]
+    }
+  }
+}

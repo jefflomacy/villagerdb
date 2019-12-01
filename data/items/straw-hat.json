@@ -1,0 +1,26 @@
+{
+  "id": "straw-hat",
+  "name": "straw hat",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 187
+      },
+      "sources": [
+        "Island Gift Shop"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 15
+        }
+      ]
+    }
+  }
+}

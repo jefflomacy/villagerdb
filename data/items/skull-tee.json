@@ -1,0 +1,29 @@
+{
+  "id": "skull-tee",
+  "name": "skull tee",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Quirky"
+      ],
+      "fashionThemes": [
+        "Rock-n'-roll"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 80
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 320
+        }
+      ]
+    }
+  }
+}

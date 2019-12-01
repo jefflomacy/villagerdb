@@ -1,0 +1,17 @@
+{
+  "id": "horned-elephant",
+  "name": "horned elephant",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 8000
+      },
+      "sources": [
+        "On palm trees."
+      ]
+    }
+  }
+}

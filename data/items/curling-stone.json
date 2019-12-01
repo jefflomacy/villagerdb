@@ -1,0 +1,17 @@
+{
+  "id": "curling-stone",
+  "name": "curling stone",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 400
+      },
+      "sources": [
+        "Snowman"
+      ]
+    }
+  }
+}

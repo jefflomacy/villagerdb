@@ -1,0 +1,26 @@
+{
+  "id": "copy-machine",
+  "name": "copy machine",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Sci-Fi"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 800
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3200
+        }
+      ]
+    }
+  }
+}

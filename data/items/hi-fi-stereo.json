@@ -1,0 +1,26 @@
+{
+  "id": "hi-fi-stereo",
+  "name": "hi-fi stereo",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Trendy"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1350
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 5400
+        }
+      ]
+    }
+  }
+}

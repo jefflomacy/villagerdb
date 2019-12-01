@@ -1,0 +1,27 @@
+{
+  "id": "bamboo-wall",
+  "name": "bamboo wall",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Harmonious",
+        "Rustic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 288
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1152
+        }
+      ]
+    }
+  }
+}

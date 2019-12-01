@@ -1,0 +1,30 @@
+{
+  "id": "ninja-hood",
+  "name": "ninja hood",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Harmonious"
+      ],
+      "fashionThemes": [
+        "Historical"
+      ],
+      "set": "Ninja Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 120
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 480
+        }
+      ]
+    }
+  }
+}

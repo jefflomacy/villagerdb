@@ -1,0 +1,19 @@
+{
+  "id": "moth",
+  "name": "moth",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 60
+      },
+      "sources": [
+        "Around the lit up windows of Re-Tail",
+        "The Roost café",
+        "and around street lamps."
+      ]
+    }
+  }
+}

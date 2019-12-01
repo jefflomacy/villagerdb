@@ -1,0 +1,20 @@
+{
+  "id": "polka-dot-wall",
+  "name": "polka-dot wall",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "rvs": [
+        "lottie"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

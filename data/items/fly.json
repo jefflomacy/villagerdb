@@ -1,0 +1,17 @@
+{
+  "id": "fly",
+  "name": "fly",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 60
+      },
+      "sources": [
+        "Around rafflesia and spoiled turnips and trash left on the ground."
+      ]
+    }
+  }
+}

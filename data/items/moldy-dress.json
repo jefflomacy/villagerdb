@@ -1,0 +1,29 @@
+{
+  "id": "moldy-dress",
+  "name": "moldy dress",
+  "category": "Dresses",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Quirky"
+      ],
+      "fashionThemes": [
+        "Flashy"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 100
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 400
+        }
+      ]
+    }
+  }
+}

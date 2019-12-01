@@ -1,0 +1,26 @@
+{
+  "id": "five-ball-tee",
+  "name": "five-ball tee",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Sporty"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 85
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 340
+        }
+      ]
+    }
+  }
+}

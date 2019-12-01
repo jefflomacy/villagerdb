@@ -1,0 +1,30 @@
+{
+  "id": "cavalier-shirt",
+  "name": "cavalier shirt",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Antique"
+      ],
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "set": "Cavalier Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 105
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 420
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "tuna",
+  "name": "tuna",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 7000
+      },
+      "sources": [
+        "In the sea."
+      ]
+    }
+  }
+}

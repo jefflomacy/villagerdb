@@ -1,0 +1,17 @@
+{
+  "id": "emperor-butterfly",
+  "name": "emperor butterfly",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2500
+      },
+      "sources": [
+        "Around flowers."
+      ]
+    }
+  }
+}

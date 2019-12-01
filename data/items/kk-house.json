@@ -1,0 +1,27 @@
+{
+  "id": "kk-house",
+  "name": "K.K. House",
+  "category": "Music",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Trendy"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 800
+      },
+      "sources": [
+        "K.K. Slider",
+        "T.I.Y."
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3200
+        }
+      ]
+    }
+  }
+}

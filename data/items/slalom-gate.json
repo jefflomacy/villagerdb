@@ -1,0 +1,17 @@
+{
+  "id": "slalom-gate",
+  "name": "slalom gate",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 600
+      },
+      "sources": [
+        "Snowman"
+      ]
+    }
+  }
+}

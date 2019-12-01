@@ -1,0 +1,30 @@
+{
+  "id": "dragon-suit",
+  "name": "dragon suit",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Harmonious",
+        "Toy Shop"
+      ],
+      "fashionThemes": [
+        "Sporty"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 85
+      },
+      "sources": [
+        "Able Sisters (summer)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 340
+        }
+      ]
+    }
+  }
+}

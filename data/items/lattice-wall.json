@@ -1,0 +1,26 @@
+{
+  "id": "lattice-wall",
+  "name": "lattice wall",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Harmonious"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 445
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1780
+        }
+      ]
+    }
+  }
+}

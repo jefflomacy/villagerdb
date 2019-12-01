@@ -1,0 +1,35 @@
+{
+  "id": "modern-wood-wall",
+  "name": "modern wood wall",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Rustic",
+        "Trendy"
+      ],
+      "set": "Modern Wood",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 370
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "rvs": [
+        "sandy"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1480
+        },
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

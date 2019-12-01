@@ -1,0 +1,17 @@
+{
+  "id": "nibble-fish",
+  "name": "nibble fish",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1500
+      },
+      "sources": [
+        "In rivers."
+      ]
+    }
+  }
+}

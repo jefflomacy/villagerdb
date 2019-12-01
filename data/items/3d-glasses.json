@@ -1,0 +1,30 @@
+{
+  "id": "3d-glasses",
+  "name": "3d glasses",
+  "category": "Accessories",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Sci-Fi",
+        "Toy Shop"
+      ],
+      "fashionThemes": [
+        "Flashy"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 60
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 240
+        }
+      ]
+    }
+  }
+}

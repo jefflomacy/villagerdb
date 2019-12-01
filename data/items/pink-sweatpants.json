@@ -1,0 +1,29 @@
+{
+  "id": "pink-sweatpants",
+  "name": "pink sweatpants",
+  "category": "Bottoms",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Fairy Tale"
+      ],
+      "fashionThemes": [
+        "Sporty"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 90
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 360
+        }
+      ]
+    }
+  }
+}

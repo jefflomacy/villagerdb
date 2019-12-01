@@ -1,0 +1,17 @@
+{
+  "id": "grasshopper",
+  "name": "grasshopper",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 160
+      },
+      "sources": [
+        "In grassy patches."
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "migratory-locust",
+  "name": "migratory locust",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 600
+      },
+      "sources": [
+        "In grassy patches."
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "leopard-tee",
+  "name": "leopard tee",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Rock-n'-roll"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 80
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 320
+        }
+      ]
+    }
+  }
+}

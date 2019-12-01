@@ -1,0 +1,29 @@
+{
+  "id": "ballet-slippers",
+  "name": "ballet slippers",
+  "category": "Shoes",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Fairy Tale"
+      ],
+      "fashionThemes": [
+        "Sporty"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 100
+      },
+      "sources": [
+        "Kicks"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 400
+        }
+      ]
+    }
+  }
+}

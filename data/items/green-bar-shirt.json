@@ -1,0 +1,26 @@
+{
+  "id": "green-bar-shirt",
+  "name": "green-bar shirt",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Basic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 105
+      },
+      "sources": [
+        "Able Sisters (spring)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 420
+        }
+      ]
+    }
+  }
+}

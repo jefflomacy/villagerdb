@@ -1,0 +1,19 @@
+{
+  "id": "green-glow-wand",
+  "name": "green glow wand",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Nookling stores (December)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 800
+        }
+      ]
+    }
+  }
+}

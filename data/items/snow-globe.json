@@ -1,0 +1,33 @@
+{
+  "id": "snow-globe",
+  "name": "snow globe",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Fairy Tale"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 125
+      },
+      "sources": [
+        "Nookling stores (12/1 through 12/23)"
+      ],
+      "rvs": [
+        "jingle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 500
+        },
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

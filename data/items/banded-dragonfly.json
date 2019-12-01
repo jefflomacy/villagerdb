@@ -1,0 +1,17 @@
+{
+  "id": "banded-dragonfly",
+  "name": "banded dragonfly",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 4500
+      },
+      "sources": [
+        "Anywhere other than above salt water (the sea)."
+      ]
+    }
+  }
+}

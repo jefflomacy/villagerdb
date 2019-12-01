@@ -1,0 +1,17 @@
+{
+  "id": "yellow-perch",
+  "name": "yellow perch",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 240
+      },
+      "sources": [
+        "In rivers."
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "painters-shirt",
+  "name": "painter's shirt",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Harmonious"
+      ],
+      "fashionThemes": [
+        "Historical"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 105
+      },
+      "sources": [
+        "Able Sisters (fall)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 420
+        }
+      ]
+    }
+  }
+}

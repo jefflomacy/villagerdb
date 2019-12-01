@@ -1,0 +1,17 @@
+{
+  "id": "long-locust",
+  "name": "long locust",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 200
+      },
+      "sources": [
+        "In grassy patches."
+      ]
+    }
+  }
+}

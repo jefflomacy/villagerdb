@@ -1,0 +1,29 @@
+{
+  "id": "straw-boater",
+  "name": "straw boater",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Trendy"
+      ],
+      "fashionThemes": [
+        "Basic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 80
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 320
+        }
+      ]
+    }
+  }
+}

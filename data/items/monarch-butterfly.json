@@ -1,0 +1,17 @@
+{
+  "id": "monarch-butterfly",
+  "name": "monarch butterfly",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 140
+      },
+      "sources": [
+        "Around flowers."
+      ]
+    }
+  }
+}

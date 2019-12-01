@@ -1,0 +1,27 @@
+{
+  "id": "chain-link-fence",
+  "name": "chain-link fence",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1600
+      },
+      "sources": [
+        "Saharah"
+      ],
+      "rvs": [
+        "buzz",
+        "stu"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

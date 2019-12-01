@@ -1,0 +1,31 @@
+{
+  "id": "jesters-shoes",
+  "name": "jester's shoes",
+  "category": "Shoes",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Fairy Tale",
+        "Toy Shop"
+      ],
+      "fashionThemes": [
+        "Flashy"
+      ],
+      "set": "Jester Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 150
+      },
+      "sources": [
+        "Kicks"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 600
+        }
+      ]
+    }
+  }
+}

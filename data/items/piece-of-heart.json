@@ -1,0 +1,21 @@
+{
+  "id": "piece-of-heart",
+  "name": "Piece of Heart",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "rvs": [
+        "epona",
+        "medli"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

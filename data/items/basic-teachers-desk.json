@@ -1,0 +1,21 @@
+{
+  "id": "basic-teachers-desk",
+  "name": "basic teacher's desk",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "rvs": [
+        "blathers",
+        "leopold"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

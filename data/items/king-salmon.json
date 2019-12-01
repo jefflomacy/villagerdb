@@ -1,0 +1,17 @@
+{
+  "id": "king-salmon",
+  "name": "king salmon",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1800
+      },
+      "sources": [
+        "Sea (early September)/River (late September)"
+      ]
+    }
+  }
+}

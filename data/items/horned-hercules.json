@@ -1,0 +1,17 @@
+{
+  "id": "horned-hercules",
+  "name": "horned hercules",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 12000
+      },
+      "sources": [
+        "On palm trees."
+      ]
+    }
+  }
+}

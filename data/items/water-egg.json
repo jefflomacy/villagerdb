@@ -1,0 +1,14 @@
+{
+  "id": "water-egg",
+  "name": "water egg",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Bunny Day (fishing",
+        "small shadow)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "sea-view",
+  "name": "sea view",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Pirate Ship",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1000
+      },
+      "sources": [
+        "Pascal"
+      ],
+      "rvs": [
+        "chip",
+        "pascal"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

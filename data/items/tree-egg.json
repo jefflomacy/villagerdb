@@ -1,0 +1,13 @@
+{
+  "id": "tree-egg",
+  "name": "tree egg",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Bunny Day (shaking trees)"
+      ]
+    }
+  }
+}

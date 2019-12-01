@@ -1,0 +1,29 @@
+{
+  "id": "optical-shirt",
+  "name": "optical shirt",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Trendy"
+      ],
+      "fashionThemes": [
+        "Flashy"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 108
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 432
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "black-formal-skirt",
+  "name": "black formal skirt",
+  "category": "Bottoms",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Basic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 90
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 360
+        }
+      ]
+    }
+  }
+}

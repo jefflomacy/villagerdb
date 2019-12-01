@@ -1,0 +1,23 @@
+{
+  "id": "virgo-harp",
+  "name": "Virgo harp",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1200
+      },
+      "sources": [
+        "DLC"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 4800
+        }
+      ]
+    }
+  }
+}

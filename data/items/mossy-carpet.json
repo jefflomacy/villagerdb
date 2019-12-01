@@ -1,0 +1,20 @@
+{
+  "id": "mossy-carpet",
+  "name": "mossy carpet",
+  "category": "Flooring",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Harmonious"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3000
+      },
+      "sources": [
+        "Saharah"
+      ]
+    }
+  }
+}

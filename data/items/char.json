@@ -1,0 +1,17 @@
+{
+  "id": "char",
+  "name": "char",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3800
+      },
+      "sources": [
+        "In waterfalls."
+      ]
+    }
+  }
+}

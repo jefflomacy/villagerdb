@@ -1,0 +1,32 @@
+{
+  "id": "concrete-wall",
+  "name": "concrete wall",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Quirky",
+        "Sci-Fi",
+        "Trendy"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1600
+      },
+      "sources": [
+        "Saharah"
+      ],
+      "rvs": [
+        "spike",
+        "wendell"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

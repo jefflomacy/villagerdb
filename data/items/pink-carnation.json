@@ -1,0 +1,17 @@
+{
+  "id": "pink-carnation",
+  "name": "pink carnation",
+  "category": "Flowers",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 500
+      },
+      "sources": [
+        "Mom on Mother's Day."
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "blue-hydrangea-start",
+  "name": "blue-hydrangea start",
+  "category": "Trees",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 30
+      },
+      "sources": [
+        "Gardening Store (with T.I.Y.)"
+      ]
+    }
+  }
+}

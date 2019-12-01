@@ -1,0 +1,20 @@
+{
+  "id": "t-rex-torso",
+  "name": "t. rex torso",
+  "category": "Fossils",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Quirky"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 5500
+      },
+      "sources": [
+        "Underground (dig spot)"
+      ]
+    }
+  }
+}

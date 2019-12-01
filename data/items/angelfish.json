@@ -1,0 +1,17 @@
+{
+  "id": "angelfish",
+  "name": "angelfish",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3000
+      },
+      "sources": [
+        "In rivers."
+      ]
+    }
+  }
+}

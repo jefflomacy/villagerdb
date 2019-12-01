@@ -1,0 +1,27 @@
+{
+  "id": "bear-cap",
+  "name": "bear cap",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Cute"
+      ],
+      "set": "Bear Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 120
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 480
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "garbage-bin",
+  "name": "garbage bin",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 400
+      },
+      "sources": [
+        "Harvey's shop"
+      ],
+      "rvs": [
+        "boyd",
+        "jacob",
+        "stu"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        },
+        {
+          "currency": "meow",
+          "value": 5
+        }
+      ]
+    }
+  }
+}

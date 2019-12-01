@@ -1,0 +1,26 @@
+{
+  "id": "cinnamoroll-shoes",
+  "name": "Cinnamoroll shoes",
+  "category": "Shoes",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Fairy Tale"
+      ],
+      "fashionThemes": [
+        "Fancy"
+      ],
+      "set": "Welcome amiibo Update",
+      "rvs": [
+        "chai"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

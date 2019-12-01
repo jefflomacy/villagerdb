@@ -1,0 +1,23 @@
+{
+  "id": "mens-recruit-suit",
+  "name": "men's recruit suit",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Official"
+      ],
+      "set": "Welcome amiibo Update",
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 640
+        }
+      ]
+    }
+  }
+}

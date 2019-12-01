@@ -1,0 +1,14 @@
+{
+  "id": "deep-sea-egg",
+  "name": "deep-sea egg",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Bunny Day (diving",
+        "small shadow)"
+      ]
+    }
+  }
+}

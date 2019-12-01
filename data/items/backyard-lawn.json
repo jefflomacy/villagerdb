@@ -1,0 +1,35 @@
+{
+  "id": "backyard-lawn",
+  "name": "backyard lawn",
+  "category": "Flooring",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Rustic"
+      ],
+      "set": "Mossy Garden",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 220
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "rvs": [
+        "ketchup",
+        "sprocket"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 880
+        },
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

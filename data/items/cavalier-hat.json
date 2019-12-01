@@ -1,0 +1,30 @@
+{
+  "id": "cavalier-hat",
+  "name": "cavalier hat",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Antique"
+      ],
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "set": "Cavalier Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 90
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 360
+        }
+      ]
+    }
+  }
+}

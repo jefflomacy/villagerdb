@@ -1,0 +1,17 @@
+{
+  "id": "tiger-beetle",
+  "name": "tiger beetle",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1500
+      },
+      "sources": [
+        "In grassy patches."
+      ]
+    }
+  }
+}

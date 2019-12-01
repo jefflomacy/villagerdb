@@ -1,0 +1,26 @@
+{
+  "id": "steel-toed-boots",
+  "name": "steel-toed boots",
+  "category": "Shoes",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Flashy"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 155
+      },
+      "sources": [
+        "Kicks"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 620
+        }
+      ]
+    }
+  }
+}

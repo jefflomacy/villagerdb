@@ -1,0 +1,17 @@
+{
+  "id": "sapling",
+  "name": "sapling",
+  "category": "Trees",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 15
+      },
+      "sources": [
+        "Gardening Store"
+      ]
+    }
+  }
+}

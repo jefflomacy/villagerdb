@@ -1,0 +1,17 @@
+{
+  "id": "saw-shark",
+  "name": "saw shark",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 12000
+      },
+      "sources": [
+        "In the sea."
+      ]
+    }
+  }
+}

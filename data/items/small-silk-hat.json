@@ -1,0 +1,29 @@
+{
+  "id": "small-silk-hat",
+  "name": "small silk hat",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Fairy Tale"
+      ],
+      "fashionThemes": [
+        "Cute"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 600
+      },
+      "sources": [
+        "GracieGrace (spring)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 2400
+        }
+      ]
+    }
+  }
+}

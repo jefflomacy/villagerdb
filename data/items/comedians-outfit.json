@@ -1,0 +1,23 @@
+{
+  "id": "comedians-outfit",
+  "name": "comedian's outfit",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Ornate"
+      ],
+      "set": "Welcome amiibo Update",
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 640
+        }
+      ]
+    }
+  }
+}

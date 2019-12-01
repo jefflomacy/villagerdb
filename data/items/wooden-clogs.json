@@ -1,0 +1,29 @@
+{
+  "id": "wooden-clogs",
+  "name": "wooden clogs",
+  "category": "Shoes",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Rustic"
+      ],
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 130
+      },
+      "sources": [
+        "Kicks"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 520
+        }
+      ]
+    }
+  }
+}

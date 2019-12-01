@@ -1,0 +1,17 @@
+{
+  "id": "timer",
+  "name": "timer",
+  "category": "Tools",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 125
+      },
+      "sources": [
+        "Super T&T"
+      ]
+    }
+  }
+}

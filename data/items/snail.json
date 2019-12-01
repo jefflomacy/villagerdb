@@ -1,0 +1,17 @@
+{
+  "id": "snail",
+  "name": "snail",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 250
+      },
+      "sources": [
+        "On bushes and shrubs (only on rainy days)."
+      ]
+    }
+  }
+}

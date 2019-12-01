@@ -1,0 +1,27 @@
+{
+  "id": "picnic-basket",
+  "name": "picnic basket",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 490
+      },
+      "sources": [
+        "Labor Day (Isabelle -- NA only)"
+      ],
+      "rvs": [
+        "maddie",
+        "rex"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

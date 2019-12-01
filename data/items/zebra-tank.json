@@ -1,0 +1,26 @@
+{
+  "id": "zebra-tank",
+  "name": "zebra tank",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "fashionThemes": [
+        "Rock-n'-roll"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1450
+      },
+      "sources": [
+        "GracieGrace (summer)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 5800
+        }
+      ]
+    }
+  }
+}

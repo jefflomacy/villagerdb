@@ -1,0 +1,27 @@
+{
+  "id": "birdcage",
+  "name": "birdcage",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Fairy Tale",
+        "Rustic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 425
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1700
+        }
+      ]
+    }
+  }
+}

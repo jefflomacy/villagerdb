@@ -1,0 +1,26 @@
+{
+  "id": "eye-mask",
+  "name": "eye mask",
+  "category": "Accessories",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Flashy"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 40
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 160
+        }
+      ]
+    }
+  }
+}

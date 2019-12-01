@@ -1,0 +1,17 @@
+{
+  "id": "oarfish",
+  "name": "oarfish",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 9000
+      },
+      "sources": [
+        "In the sea."
+      ]
+    }
+  }
+}

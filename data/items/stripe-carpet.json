@@ -1,0 +1,27 @@
+{
+  "id": "stripe-carpet",
+  "name": "stripe carpet",
+  "category": "Flooring",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Trendy"
+      ],
+      "set": "Stripe",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 370
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1480
+        }
+      ]
+    }
+  }
+}

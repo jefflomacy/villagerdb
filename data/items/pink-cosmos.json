@@ -1,0 +1,17 @@
+{
+  "id": "pink-cosmos",
+  "name": "pink cosmos",
+  "category": "Flowers",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 80
+      },
+      "sources": [
+        "Hybrid - From Red and White Cosmos."
+      ]
+    }
+  }
+}

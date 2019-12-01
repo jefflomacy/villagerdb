@@ -1,0 +1,26 @@
+{
+  "id": "concierge-shirt",
+  "name": "concierge shirt",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Official"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 88
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 352
+        }
+      ]
+    }
+  }
+}

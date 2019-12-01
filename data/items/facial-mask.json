@@ -1,0 +1,26 @@
+{
+  "id": "facial-mask",
+  "name": "facial mask",
+  "category": "Accessories",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Flashy"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 100
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 400
+        }
+      ]
+    }
+  }
+}

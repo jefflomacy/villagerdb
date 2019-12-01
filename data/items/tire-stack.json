@@ -1,0 +1,27 @@
+{
+  "id": "tire-stack",
+  "name": "tire stack",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "sources": [
+        "Harvey's shop"
+      ],
+      "rvs": [
+        "ike"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        },
+        {
+          "currency": "meow",
+          "value": 5
+        }
+      ]
+    }
+  }
+}

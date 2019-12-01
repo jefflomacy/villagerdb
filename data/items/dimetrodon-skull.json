@@ -1,0 +1,20 @@
+{
+  "id": "dimetrodon-skull",
+  "name": "dimetrodon skull",
+  "category": "Fossils",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Quirky"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 5500
+      },
+      "sources": [
+        "Underground (dig spot)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dandelion-puff",
+  "name": "dandelion puff",
+  "category": "Flowers",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Withered dandelion"
+      ]
+    }
+  }
+}

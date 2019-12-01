@@ -1,0 +1,26 @@
+{
+  "id": "mary-janes",
+  "name": "mary janes",
+  "category": "Shoes",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Official"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 200
+      },
+      "sources": [
+        "Kicks"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 800
+        }
+      ]
+    }
+  }
+}

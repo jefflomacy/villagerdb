@@ -1,0 +1,29 @@
+{
+  "id": "straw-umbrella-hat",
+  "name": "straw umbrella hat",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Harmonious"
+      ],
+      "fashionThemes": [
+        "Historical"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 60
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 240
+        }
+      ]
+    }
+  }
+}

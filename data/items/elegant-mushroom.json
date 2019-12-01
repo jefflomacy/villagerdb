@@ -1,0 +1,17 @@
+{
+  "id": "elegant-mushroom",
+  "name": "elegant mushroom",
+  "category": "Mushrooms",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10000
+      },
+      "sources": [
+        "Near trees (only in November)"
+      ]
+    }
+  }
+}

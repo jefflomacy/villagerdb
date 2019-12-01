@@ -1,0 +1,26 @@
+{
+  "id": "leopard-pumps",
+  "name": "leopard pumps",
+  "category": "Shoes",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "fashionThemes": [
+        "Ornate"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1000
+      },
+      "sources": [
+        "GracieGrace (summer)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 4000
+        }
+      ]
+    }
+  }
+}

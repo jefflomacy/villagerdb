@@ -1,0 +1,27 @@
+{
+  "id": "kk-synth",
+  "name": "K.K. Synth",
+  "category": "Music",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Trendy"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 800
+      },
+      "sources": [
+        "K.K. Slider",
+        "T.I.Y."
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3200
+        }
+      ]
+    }
+  }
+}

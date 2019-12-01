@@ -1,0 +1,29 @@
+{
+  "id": "post-op-patch",
+  "name": "post-op patch",
+  "category": "Accessories",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Quirky"
+      ],
+      "fashionThemes": [
+        "Rock-n'-roll"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 80
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 320
+        }
+      ]
+    }
+  }
+}

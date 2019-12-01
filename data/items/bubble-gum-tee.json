@@ -1,0 +1,26 @@
+{
+  "id": "bubble-gum-tee",
+  "name": "bubble-gum tee",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Cute"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 95
+      },
+      "sources": [
+        "Able Sisters (spring)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 380
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "clownfish",
+  "name": "clownfish",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 650
+      },
+      "sources": [
+        "In the sea."
+      ]
+    }
+  }
+}

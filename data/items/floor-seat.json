@@ -1,0 +1,26 @@
+{
+  "id": "floor-seat",
+  "name": "floor seat",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 400
+      },
+      "rvs": [
+        "joan",
+        "kappn",
+        "wade"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

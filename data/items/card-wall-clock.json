@@ -1,0 +1,21 @@
+{
+  "id": "card-wall-clock",
+  "name": "card wall clock",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Toy Shop"
+      ],
+      "set": "Card",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 75000
+      },
+      "sources": [
+        "GracieGrace (during sales)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "common-floor",
+  "name": "common floor",
+  "category": "Flooring",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Rustic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 320
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1280
+        }
+      ]
+    }
+  }
+}

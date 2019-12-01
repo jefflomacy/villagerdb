@@ -1,0 +1,26 @@
+{
+  "id": "nurses-cap",
+  "name": "nurse's cap",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Official"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1200
+        }
+      ]
+    }
+  }
+}

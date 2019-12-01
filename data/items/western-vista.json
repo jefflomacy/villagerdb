@@ -1,0 +1,18 @@
+{
+  "id": "western-vista",
+  "name": "western vista",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Western",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1500
+      },
+      "sources": [
+        "Saharah"
+      ]
+    }
+  }
+}

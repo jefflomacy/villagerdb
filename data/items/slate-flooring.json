@@ -1,0 +1,26 @@
+{
+  "id": "slate-flooring",
+  "name": "slate flooring",
+  "category": "Flooring",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Harmonious"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 345
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1380
+        }
+      ]
+    }
+  }
+}

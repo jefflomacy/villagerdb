@@ -1,0 +1,26 @@
+{
+  "id": "dogtooth-dress",
+  "name": "dogtooth dress",
+  "category": "Dresses",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1800
+      },
+      "sources": [
+        "GracieGrace (during sales)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 7200
+        }
+      ]
+    }
+  }
+}

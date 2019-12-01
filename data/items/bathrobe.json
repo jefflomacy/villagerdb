@@ -1,0 +1,27 @@
+{
+  "id": "bathrobe",
+  "name": "bathrobe",
+  "category": "Dresses",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "fashionThemes": [
+        "Flashy"
+      ],
+      "set": "Spa Patron Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1450
+      },
+      "sources": [
+        "GracieGrace (spring)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 5800
+        }
+      ]
+    }
+  }
+}

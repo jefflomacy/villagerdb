@@ -1,0 +1,21 @@
+{
+  "id": "kitchen-stove",
+  "name": "kitchen stove",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "rvs": [
+        "admiral",
+        "cashmere"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

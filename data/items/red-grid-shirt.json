@@ -1,0 +1,26 @@
+{
+  "id": "red-grid-shirt",
+  "name": "red-grid shirt",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Basic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 105
+      },
+      "sources": [
+        "Able Sisters (fall)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 420
+        }
+      ]
+    }
+  }
+}

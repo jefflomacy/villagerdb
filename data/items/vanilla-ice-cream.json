@@ -1,0 +1,13 @@
+{
+  "id": "vanilla-ice-cream",
+  "name": "vanilla ice cream",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Happy Home Showcase (8 StreetPass)"
+      ]
+    }
+  }
+}

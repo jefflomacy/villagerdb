@@ -1,0 +1,21 @@
+{
+  "id": "hha-jacket",
+  "name": "hha jacket",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "fashionThemes": [
+        "Official"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 25
+      },
+      "sources": [
+        "HHA (30",
+        "000 points)"
+      ]
+    }
+  }
+}

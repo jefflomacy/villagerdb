@@ -1,0 +1,13 @@
+{
+  "id": "stone-egg",
+  "name": "stone egg",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Bunny Day (breakable rock)"
+      ]
+    }
+  }
+}

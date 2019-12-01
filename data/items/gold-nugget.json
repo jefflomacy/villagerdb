@@ -1,0 +1,17 @@
+{
+  "id": "gold-nugget",
+  "name": "gold nugget",
+  "category": "Ore",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 4000
+      },
+      "sources": [
+        "Inside rocks (smash with a shovel)"
+      ]
+    }
+  }
+}

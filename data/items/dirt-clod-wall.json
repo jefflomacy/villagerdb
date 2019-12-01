@@ -1,0 +1,33 @@
+{
+  "id": "dirt-clod-wall",
+  "name": "dirt-clod wall",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Quirky"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 200
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "rvs": [
+        "hornsby"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 800
+        },
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

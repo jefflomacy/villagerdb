@@ -1,0 +1,14 @@
+{
+  "id": "sandbox",
+  "name": "sandbox",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "sources": [
+        "DLC (JP)"
+      ]
+    }
+  }
+}

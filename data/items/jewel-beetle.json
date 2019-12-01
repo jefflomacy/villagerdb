@@ -1,0 +1,17 @@
+{
+  "id": "jewel-beetle",
+  "name": "jewel beetle",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2400
+      },
+      "sources": [
+        "On trees."
+      ]
+    }
+  }
+}

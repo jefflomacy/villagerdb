@@ -1,0 +1,20 @@
+{
+  "id": "megacero-torso",
+  "name": "megacero torso",
+  "category": "Fossils",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Quirky"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3500
+      },
+      "sources": [
+        "Underground (dig spot)"
+      ]
+    }
+  }
+}

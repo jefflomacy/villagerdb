@@ -1,0 +1,17 @@
+{
+  "id": "soft-shelled-turtle",
+  "name": "soft-shelled turtle",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3750
+      },
+      "sources": [
+        "In rivers."
+      ]
+    }
+  }
+}

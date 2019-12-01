@@ -1,0 +1,23 @@
+{
+  "id": "aries-rocking-chair",
+  "name": "Aries rocking chair",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1200
+      },
+      "sources": [
+        "DLC"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 4800
+        }
+      ]
+    }
+  }
+}

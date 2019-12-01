@@ -1,0 +1,26 @@
+{
+  "id": "white-stockings",
+  "name": "white stockings",
+  "category": "Socks",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Official"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 40
+      },
+      "sources": [
+        "Kicks"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 160
+        }
+      ]
+    }
+  }
+}

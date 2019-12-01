@@ -1,0 +1,27 @@
+{
+  "id": "large-tea-table",
+  "name": "large tea table",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "sources": [
+        "Harvey's shop"
+      ],
+      "rvs": [
+        "resetti"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        },
+        {
+          "currency": "meow",
+          "value": 5
+        }
+      ]
+    }
+  }
+}

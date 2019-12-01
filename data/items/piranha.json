@@ -1,0 +1,17 @@
+{
+  "id": "piranha",
+  "name": "piranha",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2500
+      },
+      "sources": [
+        "In rivers."
+      ]
+    }
+  }
+}

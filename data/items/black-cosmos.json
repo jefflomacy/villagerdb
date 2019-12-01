@@ -1,0 +1,17 @@
+{
+  "id": "black-cosmos",
+  "name": "black cosmos",
+  "category": "Flowers",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 240
+      },
+      "sources": [
+        "Hybrid - From two Orange Cosmos (rare)."
+      ]
+    }
+  }
+}

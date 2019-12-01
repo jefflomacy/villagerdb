@@ -1,0 +1,32 @@
+{
+  "id": "viking-helmet",
+  "name": "viking helmet",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Antique",
+        "Quirky",
+        "Toy Shop"
+      ],
+      "fashionThemes": [
+        "Historical"
+      ],
+      "set": "Viking Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 135
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 540
+        }
+      ]
+    }
+  }
+}

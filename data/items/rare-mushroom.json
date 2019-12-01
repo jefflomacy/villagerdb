@@ -1,0 +1,17 @@
+{
+  "id": "rare-mushroom",
+  "name": "rare mushroom",
+  "category": "Mushrooms",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 16000
+      },
+      "sources": [
+        "Near trees (only in November)"
+      ]
+    }
+  }
+}

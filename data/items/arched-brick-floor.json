@@ -1,0 +1,20 @@
+{
+  "id": "arched-brick-floor",
+  "name": "arched brick floor",
+  "category": "Flooring",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "rvs": [
+        "olive"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

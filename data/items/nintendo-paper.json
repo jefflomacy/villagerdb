@@ -1,0 +1,14 @@
+{
+  "id": "nintendo-paper",
+  "name": "Nintendo paper",
+  "category": "Stationery",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "sources": [
+        "Villager letters (rare)"
+      ]
+    }
+  }
+}

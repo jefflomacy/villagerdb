@@ -1,0 +1,17 @@
+{
+  "id": "sand-dollar",
+  "name": "sand dollar",
+  "category": "Seashells",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 60
+      },
+      "sources": [
+        "Beach"
+      ]
+    }
+  }
+}

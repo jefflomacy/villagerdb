@@ -1,0 +1,14 @@
+{
+  "id": "nooks-homes-paper",
+  "name": "Nook's Homes paper",
+  "category": "Stationery",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "sources": [
+        "Villager letters (rare)"
+      ]
+    }
+  }
+}

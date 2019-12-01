@@ -1,0 +1,17 @@
+{
+  "id": "persimmon",
+  "name": "persimmon",
+  "category": "Fruit",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 250
+      },
+      "sources": [
+        "T&T Emporium"
+      ]
+    }
+  }
+}

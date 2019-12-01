@@ -1,0 +1,26 @@
+{
+  "id": "deer-shirt",
+  "name": "deer shirt",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Historical"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 95
+      },
+      "sources": [
+        "Able Sisters (winter)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 380
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "yellow-rain-boots",
+  "name": "yellow rain boots",
+  "category": "Shoes",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Cute"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 150
+      },
+      "sources": [
+        "Kicks"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 600
+        }
+      ]
+    }
+  }
+}

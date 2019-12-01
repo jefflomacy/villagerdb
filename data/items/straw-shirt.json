@@ -1,0 +1,29 @@
+{
+  "id": "straw-shirt",
+  "name": "straw shirt",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Rustic"
+      ],
+      "fashionThemes": [
+        "Historical"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 90
+      },
+      "sources": [
+        "Able Sisters (fall)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 360
+        }
+      ]
+    }
+  }
+}

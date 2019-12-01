@@ -1,0 +1,26 @@
+{
+  "id": "do-rag",
+  "name": "do-rag",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Basic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 160
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 640
+        }
+      ]
+    }
+  }
+}

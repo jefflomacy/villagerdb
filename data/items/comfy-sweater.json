@@ -1,0 +1,26 @@
+{
+  "id": "comfy-sweater",
+  "name": "comfy sweater",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Basic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 90
+      },
+      "sources": [
+        "Able Sisters (winter)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 360
+        }
+      ]
+    }
+  }
+}

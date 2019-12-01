@@ -1,0 +1,30 @@
+{
+  "id": "meadow-vista",
+  "name": "meadow vista",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Rustic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2000
+      },
+      "sources": [
+        "Saharah"
+      ],
+      "rvs": [
+        "booker",
+        "maddie"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

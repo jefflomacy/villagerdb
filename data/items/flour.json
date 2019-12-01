@@ -1,0 +1,13 @@
+{
+  "id": "flour",
+  "name": "flour",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Harvest Festival (villagers)"
+      ]
+    }
+  }
+}

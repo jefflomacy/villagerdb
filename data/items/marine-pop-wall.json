@@ -1,0 +1,20 @@
+{
+  "id": "marine-pop-wall",
+  "name": "marine pop wall",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Toy Shop"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 410
+      },
+      "sources": [
+        "Fishing Tourney"
+      ]
+    }
+  }
+}

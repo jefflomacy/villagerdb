@@ -1,0 +1,29 @@
+{
+  "id": "samurai-wig",
+  "name": "samurai wig",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Harmonious"
+      ],
+      "fashionThemes": [
+        "Historical"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1200
+        }
+      ]
+    }
+  }
+}

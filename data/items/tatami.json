@@ -1,0 +1,23 @@
+{
+  "id": "tatami",
+  "name": "tatami",
+  "category": "Flooring",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Harmonious"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2125
+      },
+      "sources": [
+        "Saharah"
+      ],
+      "rvs": [
+        "joan"
+      ]
+    }
+  }
+}

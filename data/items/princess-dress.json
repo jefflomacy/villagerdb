@@ -1,0 +1,29 @@
+{
+  "id": "princess-dress",
+  "name": "princess dress",
+  "category": "Dresses",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Fairy Tale"
+      ],
+      "fashionThemes": [
+        "Ornate"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 250
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1000
+        }
+      ]
+    }
+  }
+}

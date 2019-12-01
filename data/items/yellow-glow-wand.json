@@ -1,0 +1,19 @@
+{
+  "id": "yellow-glow-wand",
+  "name": "yellow glow wand",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Nookling stores (December)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 800
+        }
+      ]
+    }
+  }
+}

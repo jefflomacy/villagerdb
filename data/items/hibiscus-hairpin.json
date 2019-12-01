@@ -1,0 +1,25 @@
+{
+  "id": "hibiscus-hairpin",
+  "name": "hibiscus hairpin",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Rustic"
+      ],
+      "fashionThemes": [
+        "Cute"
+      ],
+      "sources": [
+        "Island Gift Shop"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 20
+        }
+      ]
+    }
+  }
+}

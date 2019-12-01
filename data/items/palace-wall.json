@@ -1,0 +1,26 @@
+{
+  "id": "palace-wall",
+  "name": "palace wall",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Antique"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 500
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 2000
+        }
+      ]
+    }
+  }
+}

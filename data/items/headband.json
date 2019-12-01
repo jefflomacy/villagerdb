@@ -1,0 +1,27 @@
+{
+  "id": "headband",
+  "name": "headband",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "fashionThemes": [
+        "Flashy"
+      ],
+      "set": "Spa Patron Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1200
+      },
+      "sources": [
+        "GracieGrace (Spring)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 4800
+        }
+      ]
+    }
+  }
+}

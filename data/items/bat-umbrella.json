@@ -1,0 +1,27 @@
+{
+  "id": "bat-umbrella",
+  "name": "bat umbrella",
+  "category": "Umbrellas",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Antique",
+        "Quirky"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 80
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 320
+        }
+      ]
+    }
+  }
+}

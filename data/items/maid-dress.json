@@ -1,0 +1,29 @@
+{
+  "id": "maid-dress",
+  "name": "maid dress",
+  "category": "Dresses",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Fairy Tale"
+      ],
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1800
+      },
+      "sources": [
+        "GracieGrace (spring)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 7200
+        }
+      ]
+    }
+  }
+}

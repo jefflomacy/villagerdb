@@ -1,0 +1,26 @@
+{
+  "id": "cuckoo-clock",
+  "name": "cuckoo clock",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Rustic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 450
+      },
+      "sources": [
+        "Nookling stores (wall)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1800
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "tiki-torch",
+  "name": "tiki torch",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Rustic"
+      ],
+      "set": "Mossy Garden",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 218
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 872
+        }
+      ]
+    }
+  }
+}

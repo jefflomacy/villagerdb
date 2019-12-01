@@ -1,0 +1,26 @@
+{
+  "id": "blue-gym-shorts",
+  "name": "blue gym shorts",
+  "category": "Bottoms",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Sporty"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 80
+      },
+      "sources": [
+        "Able Sisters (summer)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 320
+        }
+      ]
+    }
+  }
+}

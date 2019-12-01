@@ -1,0 +1,18 @@
+{
+  "id": "frying-pan",
+  "name": "frying pan",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 500
+      },
+      "sources": [
+        "Clear six advanced levels in Desert Island Escape"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dawn-tee",
+  "name": "dawn tee",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 95
+      },
+      "sources": [
+        "Able Sisters (summer)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 380
+        }
+      ]
+    }
+  }
+}

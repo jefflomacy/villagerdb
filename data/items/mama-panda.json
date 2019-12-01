@@ -1,0 +1,29 @@
+{
+  "id": "mama-panda",
+  "name": "mama panda",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Fairy Tale",
+        "Harmonious",
+        "Toy Shop"
+      ],
+      "set": "Panda",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 240
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 960
+        }
+      ]
+    }
+  }
+}

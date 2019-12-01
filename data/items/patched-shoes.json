@@ -1,0 +1,13 @@
+{
+  "id": "patched-shoes",
+  "name": "patched shoes",
+  "category": "Shoes",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Halloween (Neighbor trick)"
+      ]
+    }
+  }
+}

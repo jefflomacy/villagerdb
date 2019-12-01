@@ -1,0 +1,13 @@
+{
+  "id": "mint-double-scoop",
+  "name": "mint double scoop",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Happy Home Showcase (8 StreetPass)"
+      ]
+    }
+  }
+}

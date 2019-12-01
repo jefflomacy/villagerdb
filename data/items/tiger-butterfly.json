@@ -1,0 +1,17 @@
+{
+  "id": "tiger-butterfly",
+  "name": "tiger butterfly",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 160
+      },
+      "sources": [
+        "Around red/pink flowers."
+      ]
+    }
+  }
+}

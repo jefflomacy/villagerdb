@@ -1,0 +1,17 @@
+{
+  "id": "bell-cricket",
+  "name": "bell cricket",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 430
+      },
+      "sources": [
+        "In grassy patches."
+      ]
+    }
+  }
+}

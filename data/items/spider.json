@@ -1,0 +1,17 @@
+{
+  "id": "spider",
+  "name": "spider",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "sources": [
+        "On trees."
+      ]
+    }
+  }
+}

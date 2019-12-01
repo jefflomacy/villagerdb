@@ -1,0 +1,29 @@
+{
+  "id": "stagehand-hat",
+  "name": "stagehand hat",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Harmonious"
+      ],
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 150
+      },
+      "sources": [
+        "Labelle (JP)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 600
+        }
+      ]
+    }
+  }
+}

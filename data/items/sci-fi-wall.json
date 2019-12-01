@@ -1,0 +1,21 @@
+{
+  "id": "sci-fi-wall",
+  "name": "sci-fi wall",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Sci-Fi",
+        "Toy Shop"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1500
+      },
+      "sources": [
+        "Saharah"
+      ]
+    }
+  }
+}

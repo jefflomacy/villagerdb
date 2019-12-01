@@ -1,0 +1,29 @@
+{
+  "id": "daisy-meadow",
+  "name": "daisy meadow",
+  "category": "Flooring",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Rustic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1800
+      },
+      "sources": [
+        "Saharah"
+      ],
+      "rvs": [
+        "rex"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

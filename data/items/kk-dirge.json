@@ -1,0 +1,27 @@
+{
+  "id": "kk-dirge",
+  "name": "K.K. Dirge",
+  "category": "Music",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Quirky"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 800
+      },
+      "sources": [
+        "K.K. Slider",
+        "T.I.Y."
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3200
+        }
+      ]
+    }
+  }
+}

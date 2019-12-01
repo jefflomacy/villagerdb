@@ -1,0 +1,20 @@
+{
+  "id": "styraco-tail",
+  "name": "styraco tail",
+  "category": "Fossils",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Quirky"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2500
+      },
+      "sources": [
+        "Underground (dig spot)"
+      ]
+    }
+  }
+}

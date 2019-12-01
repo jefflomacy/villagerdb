@@ -1,0 +1,21 @@
+{
+  "id": "tall-harmonoid",
+  "name": "tall harmonoid",
+  "category": "Gyroids",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Sci-Fi",
+        "Toy Shop"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 828
+      },
+      "sources": [
+        "Dig up with a shovel"
+      ]
+    }
+  }
+}

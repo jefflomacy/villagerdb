@@ -1,0 +1,31 @@
+{
+  "id": "royal-crown",
+  "name": "royal crown",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Antique",
+        "Fairy Tale"
+      ],
+      "fashionThemes": [
+        "Ornate"
+      ],
+      "set": "King Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300000
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1200000
+        }
+      ]
+    }
+  }
+}

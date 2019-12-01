@@ -1,0 +1,17 @@
+{
+  "id": "cowrie-shell",
+  "name": "cowrie shell",
+  "category": "Seashells",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 30
+      },
+      "sources": [
+        "Beach"
+      ]
+    }
+  }
+}

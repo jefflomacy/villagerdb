@@ -1,0 +1,32 @@
+{
+  "id": "sea-captains-coat",
+  "name": "sea captain's coat",
+  "category": "Dresses",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Antique",
+        "Quirky",
+        "Toy Shop"
+      ],
+      "fashionThemes": [
+        "Rock-n'-roll"
+      ],
+      "set": "Pirate Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 180
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 720
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "police-cap",
+  "name": "police cap",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Official"
+      ],
+      "set": "Police Officer Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 120
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 480
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "winning-ticket",
+  "name": "winning ticket",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Bunny Day (eating egg)"
+      ]
+    }
+  }
+}

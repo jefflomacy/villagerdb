@@ -1,0 +1,31 @@
+{
+  "id": "garden-gnome",
+  "name": "garden gnome",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "set": "Mossy Garden",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 845
+      },
+      "sources": [
+        "Nookling stores (Spotlight)"
+      ],
+      "rvs": [
+        "maddie"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3380
+        },
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

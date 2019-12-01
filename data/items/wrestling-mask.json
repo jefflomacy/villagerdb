@@ -1,0 +1,27 @@
+{
+  "id": "wrestling-mask",
+  "name": "wrestling mask",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Sporty"
+      ],
+      "set": "Pro Wrestler Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 225
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 900
+        }
+      ]
+    }
+  }
+}

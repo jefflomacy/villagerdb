@@ -1,0 +1,27 @@
+{
+  "id": "racing-helmet",
+  "name": "racing helmet",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Sporty"
+      ],
+      "set": "Racer Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1200
+        }
+      ]
+    }
+  }
+}

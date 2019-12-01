@@ -1,0 +1,13 @@
+{
+  "id": "lollipop",
+  "name": "lollipop",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Halloween (scaring villagers)"
+      ]
+    }
+  }
+}

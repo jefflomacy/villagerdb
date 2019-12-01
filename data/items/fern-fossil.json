@@ -1,0 +1,17 @@
+{
+  "id": "fern-fossil",
+  "name": "fern fossil",
+  "category": "Fossils",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1000
+      },
+      "sources": [
+        "Underground (dig spot)"
+      ]
+    }
+  }
+}

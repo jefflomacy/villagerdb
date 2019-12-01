@@ -1,0 +1,22 @@
+{
+  "id": "cutting-board-set",
+  "name": "cutting-board set",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "rvs": [
+        "buzz",
+        "cashmere",
+        "ketchup"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

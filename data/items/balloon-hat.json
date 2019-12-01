@@ -1,0 +1,23 @@
+{
+  "id": "balloon-hat",
+  "name": "balloon hat",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Toy Shop"
+      ],
+      "fashionThemes": [
+        "Cute"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 150
+      },
+      "sources": [
+        "balloon"
+      ]
+    }
+  }
+}

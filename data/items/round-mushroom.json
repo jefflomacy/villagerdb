@@ -1,0 +1,17 @@
+{
+  "id": "round-mushroom",
+  "name": "round mushroom",
+  "category": "Mushrooms",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 200
+      },
+      "sources": [
+        "Near trees (only in November)"
+      ]
+    }
+  }
+}

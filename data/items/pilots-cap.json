@@ -1,0 +1,26 @@
+{
+  "id": "pilots-cap",
+  "name": "pilot's cap",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Sporty"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 180
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 720
+        }
+      ]
+    }
+  }
+}

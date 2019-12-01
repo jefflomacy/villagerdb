@@ -1,0 +1,17 @@
+{
+  "id": "red-dragonfly",
+  "name": "red dragonfly",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 80
+      },
+      "sources": [
+        "Anywhere other than above salt water (the sea)."
+      ]
+    }
+  }
+}

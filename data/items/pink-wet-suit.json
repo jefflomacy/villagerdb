@@ -1,0 +1,19 @@
+{
+  "id": "pink-wet-suit",
+  "name": "pink wet suit",
+  "category": "Wetsuits",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Island Gift Shop (rare)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 40
+        }
+      ]
+    }
+  }
+}

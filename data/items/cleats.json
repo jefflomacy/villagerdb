@@ -1,0 +1,26 @@
+{
+  "id": "cleats",
+  "name": "cleats",
+  "category": "Shoes",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Sporty"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 180
+      },
+      "sources": [
+        "Kicks"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 720
+        }
+      ]
+    }
+  }
+}

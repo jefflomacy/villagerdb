@@ -1,0 +1,13 @@
+{
+  "id": "earth-egg",
+  "name": "earth egg",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Bunny Day (dig spot)"
+      ]
+    }
+  }
+}

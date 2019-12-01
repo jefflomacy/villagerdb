@@ -1,0 +1,20 @@
+{
+  "id": "stego-tail",
+  "name": "stego tail",
+  "category": "Fossils",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Quirky"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 4000
+      },
+      "sources": [
+        "Underground (dig spot)"
+      ]
+    }
+  }
+}

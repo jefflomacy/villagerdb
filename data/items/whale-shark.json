@@ -1,0 +1,17 @@
+{
+  "id": "whale-shark",
+  "name": "whale shark",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 13000
+      },
+      "sources": [
+        "In the sea."
+      ]
+    }
+  }
+}

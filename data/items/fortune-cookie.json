@@ -1,0 +1,19 @@
+{
+  "id": "fortune-cookie",
+  "name": "fortune cookie",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 2
+        }
+      ]
+    }
+  }
+}

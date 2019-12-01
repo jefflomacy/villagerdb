@@ -1,0 +1,33 @@
+{
+  "id": "potted-ivy",
+  "name": "potted ivy",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Rustic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 200
+      },
+      "sources": [
+        "Nookling stores (wall)"
+      ],
+      "rvs": [
+        "nat"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 800
+        },
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

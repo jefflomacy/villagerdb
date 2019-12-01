@@ -1,0 +1,29 @@
+{
+  "id": "tree-lined-wall",
+  "name": "tree-lined wall",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Rustic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1850
+      },
+      "sources": [
+        "Saharah"
+      ],
+      "rvs": [
+        "olive"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

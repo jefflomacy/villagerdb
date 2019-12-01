@@ -1,0 +1,29 @@
+{
+  "id": "pinafore",
+  "name": "pinafore",
+  "category": "Dresses",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Harmonious"
+      ],
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 145
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 580
+        }
+      ]
+    }
+  }
+}

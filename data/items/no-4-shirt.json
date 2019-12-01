@@ -1,0 +1,26 @@
+{
+  "id": "no-4-shirt",
+  "name": "no. 4 shirt",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Sporty"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 63
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 252
+        }
+      ]
+    }
+  }
+}

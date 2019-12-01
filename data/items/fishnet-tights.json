@@ -1,0 +1,26 @@
+{
+  "id": "fishnet-tights",
+  "name": "fishnet tights",
+  "category": "Socks",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Ornate"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 60
+      },
+      "sources": [
+        "Kicks"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 240
+        }
+      ]
+    }
+  }
+}

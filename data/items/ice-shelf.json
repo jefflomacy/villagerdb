@@ -1,0 +1,21 @@
+{
+  "id": "ice-shelf",
+  "name": "ice shelf",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Fairy Tale"
+      ],
+      "set": "Ice",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 8888
+      },
+      "sources": [
+        "Snowmam"
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "scorpion",
+  "name": "scorpion",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 8000
+      },
+      "sources": [
+        "On grass and dirt."
+      ]
+    }
+  }
+}

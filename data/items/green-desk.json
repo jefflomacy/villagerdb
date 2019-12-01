@@ -1,0 +1,27 @@
+{
+  "id": "green-desk",
+  "name": "green desk",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Rustic"
+      ],
+      "set": "Green",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 500
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 2000
+        }
+      ]
+    }
+  }
+}

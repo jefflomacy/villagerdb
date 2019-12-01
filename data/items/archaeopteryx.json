@@ -1,0 +1,17 @@
+{
+  "id": "archaeopteryx",
+  "name": "archaeopteryx",
+  "category": "Fossils",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1300
+      },
+      "sources": [
+        "Underground (dig spot)"
+      ]
+    }
+  }
+}

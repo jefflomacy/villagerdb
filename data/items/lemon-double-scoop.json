@@ -1,0 +1,13 @@
+{
+  "id": "lemon-double-scoop",
+  "name": "lemon double scoop",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Happy Home Showcase (8 StreetPass)"
+      ]
+    }
+  }
+}

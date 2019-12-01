@@ -1,0 +1,26 @@
+{
+  "id": "vintage-radio",
+  "name": "vintage radio",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Antique"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 320
+      },
+      "sources": [
+        "Nookling stores (Spotlight)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1280
+        }
+      ]
+    }
+  }
+}

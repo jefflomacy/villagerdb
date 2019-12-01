@@ -1,0 +1,13 @@
+{
+  "id": "milk",
+  "name": "milk",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Harvest Festival (villagers)"
+      ]
+    }
+  }
+}

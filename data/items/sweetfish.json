@@ -1,0 +1,17 @@
+{
+  "id": "sweetfish",
+  "name": "sweetfish",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 900
+      },
+      "sources": [
+        "In rivers."
+      ]
+    }
+  }
+}

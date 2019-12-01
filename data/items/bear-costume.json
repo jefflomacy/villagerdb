@@ -1,0 +1,27 @@
+{
+  "id": "bear-costume",
+  "name": "bear costume",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Cute"
+      ],
+      "set": "Bear Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 160
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 640
+        }
+      ]
+    }
+  }
+}

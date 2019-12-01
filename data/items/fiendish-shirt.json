@@ -1,0 +1,26 @@
+{
+  "id": "fiendish-shirt",
+  "name": "fiendish shirt",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Flashy"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 170
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 680
+        }
+      ]
+    }
+  }
+}

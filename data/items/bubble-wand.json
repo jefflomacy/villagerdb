@@ -1,0 +1,17 @@
+{
+  "id": "bubble-wand",
+  "name": "bubble wand",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 125
+      },
+      "sources": [
+        "Happy Home Showcase (6 StreetPass)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "diner-tile",
+  "name": "diner tile",
+  "category": "Flooring",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Trendy"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 325
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1300
+        }
+      ]
+    }
+  }
+}

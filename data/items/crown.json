@@ -1,0 +1,30 @@
+{
+  "id": "crown",
+  "name": "crown",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Antique",
+        "Fairy Tale"
+      ],
+      "fashionThemes": [
+        "Ornate"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 250000
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1000000
+        }
+      ]
+    }
+  }
+}

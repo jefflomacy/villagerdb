@@ -1,0 +1,17 @@
+{
+  "id": "puffer-fish",
+  "name": "puffer fish",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 240
+      },
+      "sources": [
+        "In the sea."
+      ]
+    }
+  }
+}

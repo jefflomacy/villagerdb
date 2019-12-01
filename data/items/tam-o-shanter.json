@@ -1,0 +1,26 @@
+{
+  "id": "tam-o-shanter",
+  "name": "tam-o'-shanter",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1000
+      },
+      "sources": [
+        "DLC (EUR)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 4000
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "football-fish",
+  "name": "football fish",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2500
+      },
+      "sources": [
+        "In the sea."
+      ]
+    }
+  }
+}

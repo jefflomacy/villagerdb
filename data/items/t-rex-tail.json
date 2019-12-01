@@ -1,0 +1,20 @@
+{
+  "id": "t-rex-tail",
+  "name": "t. rex tail",
+  "category": "Fossils",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Quirky"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 5000
+      },
+      "sources": [
+        "Underground (dig spot)"
+      ]
+    }
+  }
+}

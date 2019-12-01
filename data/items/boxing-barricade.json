@@ -1,0 +1,18 @@
+{
+  "id": "boxing-barricade",
+  "name": "boxing barricade",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "set": "Boxing",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 263
+      },
+      "sources": [
+        "Nookling stores"
+      ]
+    }
+  }
+}

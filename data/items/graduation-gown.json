@@ -1,0 +1,27 @@
+{
+  "id": "graduation-gown",
+  "name": "graduation gown",
+  "category": "Dresses",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Official"
+      ],
+      "set": "Scholar Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 200
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 800
+        }
+      ]
+    }
+  }
+}

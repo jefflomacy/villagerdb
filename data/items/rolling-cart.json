@@ -1,0 +1,22 @@
+{
+  "id": "rolling-cart",
+  "name": "rolling cart",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "rvs": [
+        "cleo",
+        "cyrus",
+        "murphy"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

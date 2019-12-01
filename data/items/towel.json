@@ -1,0 +1,17 @@
+{
+  "id": "towel",
+  "name": "towel",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 12
+      },
+      "sources": [
+        "April Fool's (villagers)"
+      ]
+    }
+  }
+}

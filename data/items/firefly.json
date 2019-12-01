@@ -1,0 +1,18 @@
+{
+  "id": "firefly",
+  "name": "firefly",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "sources": [
+        "In the air above freshwater (rivers",
+        "etc.)."
+      ]
+    }
+  }
+}

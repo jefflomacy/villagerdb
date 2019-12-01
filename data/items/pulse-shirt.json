@@ -1,0 +1,29 @@
+{
+  "id": "pulse-shirt",
+  "name": "pulse shirt",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Sci-Fi"
+      ],
+      "fashionThemes": [
+        "Rock-n'-roll"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1600
+      },
+      "sources": [
+        "GracieGrace (winter)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 6400
+        }
+      ]
+    }
+  }
+}

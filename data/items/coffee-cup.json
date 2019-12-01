@@ -1,0 +1,17 @@
+{
+  "id": "coffee-cup",
+  "name": "coffee cup",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 500
+      },
+      "sources": [
+        "Brewster (work at The Roost)"
+      ]
+    }
+  }
+}

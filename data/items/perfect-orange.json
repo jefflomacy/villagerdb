@@ -1,0 +1,17 @@
+{
+  "id": "perfect-orange",
+  "name": "perfect orange",
+  "category": "Fruit",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 600
+      },
+      "sources": [
+        "Perfect orange tree"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "overall-dress",
+  "name": "overall dress",
+  "category": "Dresses",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Cute"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 145
+      },
+      "sources": [
+        "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 580
+        }
+      ]
+    }
+  }
+}

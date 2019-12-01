@@ -1,0 +1,27 @@
+{
+  "id": "cowboy-boots",
+  "name": "cowboy boots",
+  "category": "Shoes",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "set": "Cowboy Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1000
+      },
+      "sources": [
+        "GracieGrace (fall)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 4000
+        }
+      ]
+    }
+  }
+}

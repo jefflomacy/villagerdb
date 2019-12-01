@@ -1,0 +1,26 @@
+{
+  "id": "paintball-wall",
+  "name": "paintball wall",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Toy Shop"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 400
+      },
+      "sources": [
+        "Museum Shop (complete the art exhibit)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1600
+        }
+      ]
+    }
+  }
+}

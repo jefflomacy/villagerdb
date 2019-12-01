@@ -1,0 +1,17 @@
+{
+  "id": "blowfish",
+  "name": "blowfish",
+  "category": "Fish",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 125
+      },
+      "sources": [
+        "In the sea."
+      ]
+    }
+  }
+}

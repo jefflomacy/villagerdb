@@ -1,0 +1,23 @@
+{
+  "id": "cinnamoroll-floor",
+  "name": "Cinnamoroll floor",
+  "category": "Flooring",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Fairy Tale"
+      ],
+      "set": "Welcome amiibo Update",
+      "rvs": [
+        "chai"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

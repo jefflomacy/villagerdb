@@ -1,0 +1,14 @@
+{
+  "id": "fountain-firework",
+  "name": "fountain firework",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Isabelle (Fireworks Show)",
+        "Nookling stores (August)"
+      ]
+    }
+  }
+}

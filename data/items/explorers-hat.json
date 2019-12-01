@@ -1,0 +1,27 @@
+{
+  "id": "explorers-hat",
+  "name": "explorer's hat",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Sporty"
+      ],
+      "set": "Explorer Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 40
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 160
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "id": "watermelon-hat",
+  "name": "watermelon hat",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Rustic"
+      ],
+      "fashionThemes": [
+        "Cute"
+      ],
+      "set": "Watermelon Outfit",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 160
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 640
+        }
+      ]
+    }
+  }
+}

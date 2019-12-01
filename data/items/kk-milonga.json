@@ -1,0 +1,28 @@
+{
+  "id": "kk-milonga",
+  "name": "K.K. Milonga",
+  "category": "Music",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Antique",
+        "Quirky"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 800
+      },
+      "sources": [
+        "K.K. Slider",
+        "T.I.Y."
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3200
+        }
+      ]
+    }
+  }
+}

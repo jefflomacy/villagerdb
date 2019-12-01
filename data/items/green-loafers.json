@@ -1,0 +1,26 @@
+{
+  "id": "green-loafers",
+  "name": "green loafers",
+  "category": "Shoes",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Fairy Tale"
+      ],
+      "fashionThemes": [
+        "Cute"
+      ],
+      "set": "Welcome amiibo Update",
+      "rvs": [
+        "toby"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

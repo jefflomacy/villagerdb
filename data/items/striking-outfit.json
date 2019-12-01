@@ -1,0 +1,29 @@
+{
+  "id": "striking-outfit",
+  "name": "striking outfit",
+  "category": "Tops",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Antique"
+      ],
+      "fashionThemes": [
+        "Flashy"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 115
+      },
+      "sources": [
+        "Able Sisters (winter)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 460
+        }
+      ]
+    }
+  }
+}

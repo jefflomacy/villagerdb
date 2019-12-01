@@ -1,0 +1,17 @@
+{
+  "id": "evening-cicada",
+  "name": "evening cicada",
+  "category": "Bugs",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 550
+      },
+      "sources": [
+        "On trees."
+      ]
+    }
+  }
+}

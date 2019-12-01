@@ -1,0 +1,33 @@
+{
+  "id": "cityscape-wall",
+  "name": "cityscape wall",
+  "category": "Wallpaper",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Trendy"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 400
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "rvs": [
+        "piper"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1600
+        },
+        {
+          "currency": "meow",
+          "value": 3
+        }
+      ]
+    }
+  }
+}

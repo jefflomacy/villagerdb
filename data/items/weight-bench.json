@@ -1,0 +1,24 @@
+{
+  "id": "weight-bench",
+  "name": "weight bench",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "set": "Boxing",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 898
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3592
+        }
+      ]
+    }
+  }
+}

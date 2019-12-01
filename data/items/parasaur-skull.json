@@ -1,0 +1,20 @@
+{
+  "id": "parasaur-skull",
+  "name": "parasaur skull",
+  "category": "Fossils",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Quirky"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3500
+      },
+      "sources": [
+        "Underground (dig spot)"
+      ]
+    }
+  }
+}

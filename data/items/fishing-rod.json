@@ -1,0 +1,17 @@
+{
+  "id": "fishing-rod",
+  "name": "fishing rod",
+  "category": "Tools",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 125
+      },
+      "sources": [
+        "Nookling stores"
+      ]
+    }
+  }
+}

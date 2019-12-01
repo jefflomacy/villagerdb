@@ -1,0 +1,24 @@
+{
+  "id": "shoe-locker",
+  "name": "shoe locker",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "set": "Welcome amiibo Update",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 700
+      },
+      "sources": [
+        "Harvey's shop"
+      ],
+      "buyPrices": [
+        {
+          "currency": "meow",
+          "value": 5
+        }
+      ]
+    }
+  }
+}

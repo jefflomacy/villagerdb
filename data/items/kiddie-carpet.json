@@ -1,0 +1,27 @@
+{
+  "id": "kiddie-carpet",
+  "name": "kiddie carpet",
+  "category": "Flooring",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Toy Shop"
+      ],
+      "set": "Kiddie",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 408
+      },
+      "sources": [
+        "Nookling stores"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1632
+        }
+      ]
+    }
+  }
+}

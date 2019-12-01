@@ -1,0 +1,26 @@
+{
+  "id": "swimming-cap",
+  "name": "swimming cap",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "fashionThemes": [
+        "Sporty"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 50
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 200
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "birthday-hat",
+  "name": "birthday hat",
+  "category": "Hats",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Fairy Tale"
+      ],
+      "fashionThemes": [
+        "Cute"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 100
+      },
+      "sources": [
+        "Birthday"
+      ]
+    }
+  }
+}

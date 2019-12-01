@@ -1,0 +1,26 @@
+{
+  "id": "tortoise-specs",
+  "name": "tortoise specs",
+  "category": "Accessories",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "fashionThemes": [
+        "Iconic"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1300
+      },
+      "sources": [
+        "GracieGrace (winter)"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 5200
+        }
+      ]
+    }
+  }
+}

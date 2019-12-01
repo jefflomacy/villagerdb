@@ -1,0 +1,13 @@
+{
+  "id": "sky-egg",
+  "name": "sky egg",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Bunny Day (gift balloon)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": "empty-can",
+  "name": "empty can",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": -80
+      },
+      "sources": [
+        "Freshwater or sea (small shadow)"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pouch",
+  "name": "pouch",
+  "category": "Usables",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Undelivered lost item"
+      ]
+    }
+  }
+}

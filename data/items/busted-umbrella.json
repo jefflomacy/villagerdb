@@ -1,0 +1,26 @@
+{
+  "id": "busted-umbrella",
+  "name": "busted umbrella",
+  "category": "Umbrellas",
+  "games": {
+    "nl": {
+      "orderable": true,
+      "interiorThemes": [
+        "Quirky"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 40
+      },
+      "sources": [
+        "Labelle"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 160
+        }
+      ]
+    }
+  }
+}

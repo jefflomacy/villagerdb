@@ -1,0 +1,23 @@
+{
+  "id": "ladder-shades",
+  "name": "ladder shades",
+  "category": "Accessories",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "interiorThemes": [
+        "Trendy"
+      ],
+      "fashionThemes": [
+        "Rock-n'-roll"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 400
+      },
+      "sources": [
+        "Summer Solstice (Isabelle)"
+      ]
+    }
+  }
+}

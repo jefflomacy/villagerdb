@@ -1,0 +1,17 @@
+{
+  "id": "world-map",
+  "name": "world map",
+  "category": "Furniture",
+  "games": {
+    "nl": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "sources": [
+        "Katie"
+      ]
+    }
+  }
+}

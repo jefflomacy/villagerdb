@@ -25,15 +25,33 @@ const sanitize = require('../helpers/sanitize');
  * @type {{}}
  */
 const categories = {
-    accessories: {category: ['Accessories']},
-    bottoms: {category: ['Bottoms']},
-    dresses: {category: ['Dresses']},
-    hats: {category: ['Hats']},
-    shoes: {category: ['Shoes']},
-    socks: {category: ['Socks']},
-    tops: {category: ['Tops']},
-    umbrellas: {category: ['Umbrellas']},
-    wetsuits: {category: ['Wetsuits']}
+    accessories: {filter: {category: ['Accessories']}},
+    art: {filter: {category: ['Art']}},
+    balloons: {filter: {category: ['Balloons']}},
+    bottoms: {filter: {category: ['Bottoms']}},
+    bugs: {filter: {category: ['Bugs']}},
+    'bushes-trees': {filter: {category: ['Trees']}, title: 'Bushes & Trees'},
+    dresses: {filter: {category: ['Dresses']}},
+    fish: {filter: {category: ['Fish']}},
+    flooring: {filter: {category: ['Flooring']}},
+    flowers: {filter: {category: ['Flowers']}},
+    fossils: {filter: {category: ['Fossils']}},
+    fruit: {filter: {category: ['Fruit']}},
+    furniture: {filter: {category: ['Furniture']}},
+    gyroids: {filter: {category: ['Gyroids']}},
+    hats: {filter: {category: ['Hats']}},
+    music: {filter: {category: ['Music']}},
+    mushrooms: {filter: {category: ['Mushrooms']}},
+    ore: {filter: {category: ['Ore']}},
+    shoes: {filter: {category: ['Shoes']}},
+    socks: {filter: {category: ['Socks']}},
+    stationery: {filter: {category: ['Stationery']}},
+    tools: {filter: {category: ['Tools']}},
+    tops: {filter: {category: ['Tops']}},
+    umbrellas: {filter: {category: ['Umbrellas']}},
+    usables: {filter: {category: ['Usables']}},
+    wallpaper: {filter: {category: ['Wallpaper']}},
+    wetsuits: {filter: {category: ['Wetsuits']}}
 };
 
 /**
@@ -52,9 +70,9 @@ for (let slug in categories) {
         const data = {};
         browse(res, next, sanitize.parsePositiveInteger(req.params.pageNumber),
             '/items/' + slug + '/page/',
-            'All ' + format.capFirstLetter(slug),
+            categories[slug].title ? categories[slug].title : format.capFirstLetter(slug),
             req.query,
-            categories[slug],
+            categories[slug].filter,
             data);
     });
 }

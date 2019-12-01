@@ -29,7 +29,7 @@ router.get('/page/:pageNumber', function (req, res, next) {
     const data = {};
     browse(res, next, sanitize.parsePositiveInteger(req.params.pageNumber),
         '/villagers/page/',
-        'All Villagers',
+        'Villagers',
         req.query,
         {type: ['villager']},
         data);

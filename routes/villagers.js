@@ -21,17 +21,15 @@ const sanitize = require('../helpers/sanitize');
  */
 const router = express.Router();
 
-/* GET villagers listing. */
 router.get('/', function (req, res, next) {
     res.redirect('/villagers/page/1', 302);
 });
 
-/* GET villagers page number */
 router.get('/page/:pageNumber', function (req, res, next) {
     const data = {};
     browse(res, next, sanitize.parsePositiveInteger(req.params.pageNumber),
         '/villagers/page/',
-        'All villagers',
+        'All Villagers',
         req.query,
         {type: ['villager']},
         data);

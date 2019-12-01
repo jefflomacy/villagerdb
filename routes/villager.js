@@ -1,25 +1,5 @@
 const express = require('express');
-const router = express.Router();
-const formatHelper = require('../helpers/format.js');
-
-/**
- * Return a <word> or an <word> depending on first character.
- *
- * @param word
- * @returns {string}
- */
-function aOrAn(word) {
-    if (word.length === 0) {
-        return '';
-    }
-
-    const firstChar = word[0].toLowerCase();
-    if (firstChar === 'a' || firstChar === 'e' || firstChar === 'i' || firstChar === 'o' || firstChar === 'u') {
-        return 'an ' + word;
-    }
-
-    return 'a ' + word;
-}
+const format = require('../helpers/format.js');
 
 /**
  * Find the latest game a villager was featured in.
@@ -31,9 +11,9 @@ function findLatestGame(villager) {
     let gameIndex = -1;
     let latestGame = undefined;
     for (let game in villager.games) {
-        if (gameIndex < formatHelper.games[game].order) {
+        if (gameIndex < format.games[game].order) {
             latestGame = game;
-            gameIndex = formatHelper.games[game].order;
+            gameIndex = format.games[game].order;
         }
     }
 
@@ -65,23 +45,23 @@ function generateParagraph(villager, formattedVillager) {
     let zodiac = formattedVillager.zodiac;
 
     // Build paragraph
-    let paragraph = name + ' is ' + aOrAn(personality.toLowerCase()) + ' ' + species + ' villager. ' +
-        formatHelper.capFirstLetter(pronoun) + ' was born on ' + birthday + ' and ' + posessivePronoun +
+    let paragraph = name + ' is ' + format.aOrAn(personality.toLowerCase()) + ' ' + species + ' villager. ' +
+        format.capFirstLetter(pronoun) + ' was born on ' + birthday + ' and ' + posessivePronoun +
         ' star sign  is ' + zodiac + '. ';
     if (gameData.clothes) {
         paragraph += name + ' wears the ' + gameData.clothes + '. ';
     }
     if (gameData.song) {
-        paragraph += formatHelper.capFirstLetter(posessivePronoun) + ' favorite song is ' + gameData.song + '. ';
+        paragraph += format.capFirstLetter(posessivePronoun) + ' favorite song is ' + gameData.song + '. ';
     }
     if (gameData.goal) {
-        paragraph += posessive + ' goal is to be ' + aOrAn(gameData.goal.toLowerCase()) + '. ';
+        paragraph += posessive + ' goal is to be ' + format.aOrAn(gameData.goal.toLowerCase()) + '. ';
     }
     if (gameData.skill) {
-        paragraph += formatHelper.capFirstLetter(pronoun) + ' is talented at ' + gameData.skill.toLowerCase() + '. ';
+        paragraph += format.capFirstLetter(pronoun) + ' is talented at ' + gameData.skill.toLowerCase() + '. ';
     }
     if (gameData.favoriteStyle && gameData.dislikedStyle) {
-        paragraph += formatHelper.capFirstLetter(posessivePronoun) + ' favorite style is ' +
+        paragraph += format.capFirstLetter(posessivePronoun) + ' favorite style is ' +
             gameData.favoriteStyle.toLowerCase() + ', but ' + pronoun + ' dislikes the ' +
             gameData.dislikedStyle.toLowerCase() + ' style. ';
     }
@@ -113,9 +93,9 @@ function compressGameData(games, property) {
         if (newValue) {
             newValue = newValue.trim().toLowerCase().replace(/\s+/g, ' ');
             result.push({
-                shortTitle: formatHelper.games[game].shortTitle,
-                title: formatHelper.games[game].title,
-                year: formatHelper.games[game].year,
+                shortTitle: format.games[game].shortTitle,
+                title: format.games[game].title,
+                year: format.games[game].year,
                 value: games[game][property],
                 isNew: (lastValue !== newValue)
             });
@@ -139,7 +119,7 @@ function getQuotes(villager, formattedVillager) {
     for (let game in formattedVillager.games) {
         if (villager.games[game].quote) {
             quotes.push({
-                title: formatHelper.games[game].title,
+                title: format.games[game].title,
                 quote: villager.games[game].quote
             });
         }
@@ -165,7 +145,7 @@ async function loadVillager(collection, id) {
     }
 
     // Format villager
-    const result = formatHelper.formatVillager(villager);
+    const result = format.formatVillager(villager);
 
     // Some extra metadata the template needs.
     result.id = villager.id;
@@ -198,7 +178,7 @@ async function loadVillager(collection, id) {
     return result;
 }
 
-/* GET villager page. */
+const router = express.Router();
 router.get('/:id', function (req, res, next) {
     loadVillager(res.app.locals.db.villagers, req.params.id)
         .then((data) => {

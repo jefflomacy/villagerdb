@@ -126,3 +126,23 @@ function getZodiac(date) {
     }
 }
 module.exports.getZodiac = getZodiac;
+
+/**
+ * Return a <word> or an <word> depending on first character.
+ *
+ * @param word
+ * @returns {string}
+ */
+function aOrAn(word) {
+    if (word.length === 0) {
+        return '';
+    }
+
+    const firstChar = word[0].toLowerCase();
+    if (firstChar === 'a' || firstChar === 'e' || firstChar === 'i' || firstChar === 'o' || firstChar === 'u') {
+        return 'an ' + word;
+    }
+
+    return 'a ' + word;
+}
+module.exports.aOrAn = aOrAn;

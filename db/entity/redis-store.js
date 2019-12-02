@@ -1,30 +1,32 @@
 const path = require('path');
 const fs = require('fs');
-const Birthdays = require('./birthdays');
 
 /**
- * Villager repository.
+ * Abstract redis store. Takes a redis connection, a set name, a key prefix and a directory containing JSON files.
+ * These JSON files then get loaded into Redis.
  */
-class Villagers {
+class RedisStore {
     /**
-     * Create the repository with an existing connection to redis.
+     * Create the store.
      *
-     * @param redisClient
+     * @param redis redis client instance
+     * @param setName contains all the keys we will create (without prefixes) (e.g. villagers)
+     * @param keyPrefix prefix of all keys containing json (e.g. villager_rosie)
+     * @param dataStorePath where the JSON files to be loaded exist (e.g. path.join('data', 'villagers'))
      */
-    constructor(redisClient) {
-        this.redisClient = redisClient;
-
-        // Load data and populate redis.
-        this.setName = 'villagers'; // contains all the keys we will create (without prefixes)
-        this.keyPrefix = 'villager_'; // prefix of all keys containing villager json (e.g. villager_rosie).
-        this._populateRedis(path.join('data', 'villagers'))
+    constructor(redis, setName, keyPrefix, dataStorePath) {
+        this.redisClient = redis;
+        this.setName = setName;
+        this.keyPrefix = keyPrefix + '_';
+        this.dataStorePath = dataStorePath;
+        this.populateRedis()
             .then(() => {
-                console.log('Villager databases populated.');
+                console.log(this.setName + ' databases populated.');
             });
     }
 
     /**
-     * Get total villager count.
+     * Get total entity count.
      *
      * @returns {Promise<*>}
      */
@@ -56,7 +58,7 @@ class Villagers {
     }
 
     /**
-     * Retrieve a villager by id.
+     * Retrieve an entity by id.
      * @param id
      * @returns {Promise<*>}
      */
@@ -120,19 +122,18 @@ class Villagers {
     }
 
     /**
-     * Fill the redis database with villager information.
+     * Fill the redis database with entity information. All previous information in the database for this entity type
+     * will be cleared when this routine is called.
      *
-     * @param redisClient - redis client connection
-     * @param dataDir - where the data is coming from
      * @returns {Promise<void>}
      * @private
      */
-    async _populateRedis(dataDir) {
+    async populateRedis() {
         // Track all the keys we add.
         const keys = [];
 
         // Read each file in the directory.
-        const files = fs.readdirSync(dataDir);
+        const files = fs.readdirSync(this.dataStorePath);
 
         // Clear the old setName.
         await this.redisClient.delAsync(this.setName);
@@ -142,15 +143,16 @@ class Villagers {
         do {
             const result = await this.redisClient.scanAsync(cursor, 'MATCH', this.keyPrefix + '*', 'COUNT', 100);
             cursor = result[0];
-            if (cursor != 0) {
+            if (cursor != 0 && result.length > 0 && result[1].length > 0) {
                 await this.redisClient.delAsync(result[1]);
             }
         } while (cursor != 0);
 
         // Loop through each file and add it to the database with the proper key prefix.
         for (let file of files) {
-            const data = fs.readFileSync(path.join(dataDir, file), 'utf8');
-            const parsed = JSON.parse(data);
+            const data = fs.readFileSync(path.join(this.dataStorePath, file), 'utf8');
+            let parsed = JSON.parse(data);
+            parsed = this._handleEntity(parsed); // custom logic for each specific implementation
             await this.redisClient.setAsync(this.keyPrefix + parsed.id, JSON.stringify(parsed)); // re-insert minified
             keys.push(parsed.id);
         }
@@ -161,6 +163,18 @@ class Villagers {
             await this.redisClient.zaddAsync(this.setName, i + 1, keys[i]);
         }
     }
+
+    /**
+     * Implementations can override this method to modify the object going into Redis before it is saved. By default,
+     * it just returns the entity it was given.
+     *
+     * @param entity
+     * @returns {{}}
+     * @private
+     */
+    _handleEntity(entity) {
+        return entity;
+    }
 }
 
-module.exports = Villagers;
+module.exports = RedisStore;

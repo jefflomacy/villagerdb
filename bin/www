@@ -33,8 +33,10 @@ redisClient.on('connect', () => {
 
     // Initialize the databases.
     app.locals.db = {};
-    const Villagers = require('../db/villagers');
-    app.locals.db.villagers = new Villagers(redisClient);
+    const villagers = require('../db/entity/villagers');
+    app.locals.db.villagers = villagers;
+    const items = require('../db/entity/items');
+    app.locals.db.items = items;
     const Birthdays = require('../db/birthdays');
     app.locals.db.birthdays = new Birthdays(redisClient, app.locals.db.villagers);
 

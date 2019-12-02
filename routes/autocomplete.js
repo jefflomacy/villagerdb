@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const config = require('../config/search.js');
+const es = require('../db/elasticsearch');
 
 router.get('/', function (req, res, next) {
     // Validate query
@@ -10,7 +11,7 @@ router.get('/', function (req, res, next) {
         throw e;
     }
 
-    res.app.locals.es.search({
+    es.search({
         index: config.elasticSearchIndexName,
         body: {
             suggest: {

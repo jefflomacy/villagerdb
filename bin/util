@@ -2,11 +2,14 @@
 
 const fs = require('fs');
 const path = require('path');
-const formatHelper = require('../helpers/format');
-const urlHelper = require('../helpers/url');
 const moment = require('moment');
 const elasticsearch = require('elasticsearch');
 
+const formatHelper = require('../helpers/format');
+const urlHelper = require('../helpers/url');
+const redisConnection = require('../db/redis');
+const villagers = require('../db/entity/villagers');
+const items = require('../db/entity/items');
 const config = require('../config/search.js');
 
 function usage() {
@@ -191,6 +194,26 @@ async function indexItems(es) {
     }
 }
 
+/**
+ * Build the villager and item databases. This will clear them before building them.
+ *
+ */
+function buildRedisDb() {
+    villagers.populateRedis()
+        .then(() => {
+            console.log('Villager database populated.');
+            return items.populateRedis();
+        })
+        .then(() => {
+            console.log('Items database populated.');
+            redisConnection.quit();
+        })
+        .catch((e) => {
+            console.log('Failed to build Redis databases.');
+            console.error(e);
+        });
+}
+
 if (process.argv.length !== 3) {
     usage();
 }
@@ -214,7 +237,9 @@ if (!command) {
             console.log('Failed to build search index.');
             console.error(e);
         });
+} else if (command === 'build-redis-db') {
+    buildRedisDb()
 } else {
-    console.error('Valid commands: delete-search-index, build-search-index');
+    console.error('Valid commands: delete-search-index, build-search-index, build-redis-db.');
     process.exit(1);
 }

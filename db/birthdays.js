@@ -1,3 +1,6 @@
+const redisConnection = require('../db/redis');
+const villagers = require('../db/entity/villagers');
+
 /**
  * Redis key for birthday storage.
  *
@@ -6,7 +9,7 @@
 const KEY_NAME = 'birthdays';
 
 /**
- * Birthdays repository.
+ * Birthdays calculator.
  */
 class Birthdays {
     /**
@@ -93,4 +96,4 @@ class Birthdays {
     }
 }
 
-module.exports = Birthdays;
+module.exports = new Birthdays(redisConnection, villagers);

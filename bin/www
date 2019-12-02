@@ -25,27 +25,7 @@ const server = http.createServer(app);
  */
 server.on('error', onError);
 server.on('listening', onListening);
-
-const redisClient = require('../db/redis');
-const es = require('../db/elasticsearch');
-redisClient.on('connect', () => {
-    console.log('Connected to redis successfully.');
-
-    // Initialize the databases.
-    app.locals.db = {};
-    const villagers = require('../db/entity/villagers');
-    app.locals.db.villagers = villagers;
-    const items = require('../db/entity/items');
-    app.locals.db.items = items;
-    const Birthdays = require('../db/birthdays');
-    app.locals.db.birthdays = new Birthdays(redisClient, app.locals.db.villagers);
-
-    // Set up elasticsearch
-    app.locals.es = es;
-
-    // Finally, listen on port.
-    server.listen(port);
-});
+server.listen(port);
 
 /**
  * Normalize a port into a number, string, or false.

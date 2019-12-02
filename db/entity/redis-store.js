@@ -19,10 +19,6 @@ class RedisStore {
         this.setName = setName;
         this.keyPrefix = keyPrefix + '_';
         this.dataStorePath = dataStorePath;
-        this.populateRedis()
-            .then(() => {
-                console.log(this.setName + ' databases populated.');
-            });
     }
 
     /**
@@ -126,7 +122,6 @@ class RedisStore {
      * will be cleared when this routine is called.
      *
      * @returns {Promise<void>}
-     * @private
      */
     async populateRedis() {
         // Track all the keys we add.

@@ -1,5 +1,6 @@
 const express = require('express');
 const format = require('../helpers/format.js');
+const villagers = require('../db/entity/villagers');
 
 /**
  * Find the latest game a villager was featured in.
@@ -131,13 +132,12 @@ function getQuotes(villager, formattedVillager) {
 /**
  * Load the specified villager.
  *
- * @param collection
  * @param id
  * @returns {Promise<{}>}
  */
-async function loadVillager(collection, id) {
+async function loadVillager(id) {
     // Load villager
-    const villager = await collection.getById(id);
+    const villager = await villagers.getById(id);
     if (!villager) {
         let e = new Error('Villager not found');
         e.status = 404;
@@ -180,7 +180,7 @@ async function loadVillager(collection, id) {
 
 const router = express.Router();
 router.get('/:id', function (req, res, next) {
-    loadVillager(res.app.locals.db.villagers, req.params.id)
+    loadVillager(req.params.id)
         .then((data) => {
             data.pageTitle = data.name;
             res.render('villager', data);

@@ -1,3 +1,5 @@
+const birthdays = require('../db/birthdays');
+
 /**
  * Return application state information.
  *
@@ -5,8 +7,7 @@
  */
 module.exports.getAppState = async (res) => {
     const state = {};
-    const birthdays = await res.app.locals.db.birthdays.getBirthdays();
-    state.birthdays = birthdays;
-    state.shouldDisplayBirthdays = birthdays.length > 0;
+    state.birthdays =  await birthdays.getBirthdays();
+    state.shouldDisplayBirthdays = state.birthdays.length > 0;
     return state;
 };

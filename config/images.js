@@ -1,3 +1,5 @@
 module.exports = {
-    imageNotFoundFilename: 'imageNotAvailable.svg'
+    getImageNotFoundFilename: (type) => {
+        return '/images/image-not-available-' + type + '.svg';
+    }
 }

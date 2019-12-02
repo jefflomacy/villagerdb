@@ -54,7 +54,7 @@ module.exports.getImageUrl = (entityType, imageType, id) => {
     }
 
     // Image not found.
-    return '/images/' + imageType + '/' + imageConfig.imageNotFoundFilename;
+    return imageConfig.getImageNotFoundFilename(entityType);
 };
 
 /**

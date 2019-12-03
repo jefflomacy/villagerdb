@@ -1,0 +1,84 @@
+<h1>{{pageTitle}}</h1>
+<div class="row">
+    <div class="col-sm-12 col-md-4 order-md-12 order-sm-1">
+        <div class="text-center">
+            <div>
+                <a target="_blank" href="{{image.full}}">
+                    <img src="{{image.medium}}" alt="In-game image of {{pageTitle}}"
+                         style="max-width: 200px; max-height: 200px;"/>
+                </a>
+            </div>
+        </div>
+
+        <div class="mt-3 mb-3 text-right">
+            {{> social-media shareUrl=shareUrl}}
+        </div>
+
+        <table class="table table-borderless mt-3">
+            <thead>
+            <tr>
+                <th class="bg-dark text-light font-weight-bold" colspan="2">Overview</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td class="bg-light text-dark font-weight-bold">Orderable?</td>
+                <td>
+                    {{#if orderable}}
+                        <p>Yes</p>
+                    {{else}}
+                        <p>No</p>
+                    {{/if}}
+                </td>
+            </tr>
+            <tr>
+                <td class="bg-light text-dark font-weight-bold">Cost</td>
+                <td>
+                    {{#if buyable }}
+                        {{#if hasBellCost }}
+                            <p><span class="fas fa-bell"></span> {{bellCost}} bells</p>
+                        {{/if}}
+                        {{#if hasMeowCost }}
+                            <p><span class="fas fa-money-bill-wave"></span> {{meowCost}} MEOW coupons</p>
+                        {{/if}}
+                    {{else}}
+                        <p>Not purchasable</p>
+                    {{/if}}
+                </td>
+            </tr>
+            <tr>
+                <td class="bg-light text-dark font-weight-bold">Sells for</td>
+                <td>
+                    {{#if hasBellPrice }}
+                        <p><span class="fas fa-bell"></span> {{bellPrice}} bells</p>
+                    {{else}}
+                        <p>Not sellable</p>
+                    {{/if}}
+                </td>
+            </tr>
+            </tbody>
+        </table>
+
+        <table class="table table-borderless">
+            <thead class="bg-dark text-light">
+            <th>Appears In</th>
+            </thead>
+            <tbody>
+            <tr>
+                <td>
+                    <ul class="list-unstyled">
+                        {{#each gameTitles}}
+                            <li>{{this}}</li>
+                        {{/each}}
+                    </ul>
+                </td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div class="col-sm-12 col-md-8 order-md-1 order-sm-12">
+        <h2 class="sr-only">Summary</h2>
+        <p>{{paragraph}}</p>
+    </div>
+</div>

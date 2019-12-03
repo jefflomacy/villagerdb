@@ -12,8 +12,9 @@ const indexRouter = require('./routes/index');
 const autocompleteRouter = require('./routes/autocomplete');
 const searchRouter = require('./routes/search');
 const villagerRouter = require('./routes/villager');
-const itemsRouter = require('./routes/items');
 const villagersRouter = require('./routes/villagers');
+const itemRouter = require('./routes/item');
+const itemsRouter = require('./routes/items');
 
 const app = express();
 
@@ -64,8 +65,9 @@ app.use('/', indexRouter);
 app.use('/autocomplete', autocompleteRouter);
 app.use('/search', searchRouter);
 app.use('/villager', villagerRouter);
-app.use('/items', itemsRouter);
 app.use('/villagers', villagersRouter);
+app.use('/item', itemRouter);
+app.use('/items', itemsRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

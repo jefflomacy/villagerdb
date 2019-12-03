@@ -1,17 +1,40 @@
 /**
- * Image configuration settings.
- * @type {{}}
- */
-const imageConfig = require('../config/images.js');
-
-/**
  * Filesystem manager.
  */
 const fs = require('fs');
 
+/**
+ * Staticify.
+ */
+const staticify = require('../config/staticify');
+
+/**
+ * Thumbnail
+ * @type {string}
+ */
 const THUMB = 'thumb';
+
+/**
+ * Medium-sized image
+ * @type {string}
+ */
 const MEDIUM = 'medium';
+
+/**
+ * Original scale image
+ * @type {string}
+ */
 const FULL = 'full';
+
+/**
+ * The path for an image that can't be found.
+ *
+ * @param type THUMB, MEDIUM or FULL.
+ * @returns {string}
+ */
+function getImageNotFoundFilename(type) {
+    return '/images/image-not-available-' + type + '.svg';
+}
 
 /**
  * Thumbnail type.
@@ -41,20 +64,36 @@ module.exports.FULL = FULL;
  * @param id
  * @returns {string}
  */
-module.exports.getImageUrl = (entityType, imageType, id) => {
+function getImageUrl(entityType, imageType, id) {
     if (imageType == THUMB || imageType == MEDIUM || imageType == FULL) {
         const pathPrefix = './public/images/' + entityType + 's/' + imageType + '/' + id;
         if (fs.existsSync(pathPrefix + '.jpg')) {
             return '/images/' + entityType + 's/' + imageType + '/' + id + '.jpg';
         } else if (fs.existsSync(pathPrefix + '.jpeg')) {
-            return'/images/' + entityType + 's/' + imageType + '/' + id + '.jpeg';
+            return '/images/' + entityType + 's/' + imageType + '/' + id + '.jpeg';
         } else if (fs.existsSync(pathPrefix + '.png')) {
             return '/images/' + entityType + 's/' + imageType + '/' + id + '.png';
         }
     }
 
     // Image not found.
-    return imageConfig.getImageNotFoundFilename(entityType);
+    return getImageNotFoundFilename(entityType);
+}
+module.exports.getImageUrl = getImageUrl;
+
+/**
+ * Return the thumb, medium and full URL of images for an entity.
+ *
+ * @param entityType
+ * @param id
+ * @returns {{thumb: *, medium: *, full: *}}
+ */
+module.exports.getEntityImageData = (entityType, id) => {
+    return {
+        thumb: staticify.getVersionedPath(getImageUrl(entityType, THUMB, id)),
+        medium: staticify.getVersionedPath(getImageUrl(entityType, MEDIUM, id)),
+        full: staticify.getVersionedPath(getImageUrl(entityType, FULL, id))
+    };
 };
 
 /**

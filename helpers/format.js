@@ -54,64 +54,6 @@ function capFirstLetter(string) {
 module.exports.capFirstLetter = capFirstLetter;
 
 /**
- * Format a villager for user display.
- *
- * @param villager
- */
-function formatVillager(villager) {
-    const result = {};
-
-    // Name, gender, species and birthday
-    result.id = villager.id;
-    result.name = villager.name;
-    result.gender = capFirstLetter(villager.gender);
-    result.species = capFirstLetter(villager.species);
-
-    if (villager.birthday) {
-        let momentBirthdate = moment(villager.birthday + '-2000', 'MM-DD-YYYY'); // we only store month/year, so add 2000.
-        result.birthday = momentBirthdate.format('MMMM Do');
-        result.zodiac = getZodiac(momentBirthdate);
-    } else {
-        result.birthday = 'Unknown';
-        result.zodiac = 'Unknown';
-    }
-
-    // All the game-specific data, sort games in reverse chronological order.
-    result.games = {};
-    result.gameTitles = [];
-    const gamesSorted = Object.entries(games)
-        .sort((a, b) => {
-            return (a[1].order >= b[1].order) ? -1 : 1;
-        })
-        .map((a) => {
-            return a[0];
-        });
-    for (let game of gamesSorted) {
-        let data = villager.games[game];
-        if (data) {
-            result.gameTitles.push(games[game].title);
-            result.games[game] = {
-                personality: capFirstLetter(data.personality),
-                clothes: data.clothes,
-                song: data.song,
-                phrase: data.phrase
-            };
-        }
-    }
-
-    // Coffee data, if we have any (new leaf only)
-    result.coffee = [];
-    if (villager.games['nl'] && villager.games['nl'].coffee) {
-        result.coffee.push(villager.games['nl'].coffee.beans + ',');
-        result.coffee.push(villager.games['nl'].coffee.milk + ',');
-        result.coffee.push(villager.games['nl'].coffee.sugar);
-    }
-
-    return result;
-}
-module.exports.formatVillager = formatVillager;
-
-/**
  * Get zodiac sign from moment date.
  *
  * @param date from moment

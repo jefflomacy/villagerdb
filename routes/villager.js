@@ -1,6 +1,64 @@
 const express = require('express');
+const moment = require('moment');
 const format = require('../helpers/format.js');
 const villagers = require('../db/entity/villagers');
+
+/**
+ * Format a villager for user display.
+ *
+ * @param villager
+ */
+function formatVillager(villager) {
+    const result = {};
+
+    // Name, gender, species and birthday
+    result.id = villager.id;
+    result.name = villager.name;
+    result.gender = format.capFirstLetter(villager.gender);
+    result.species = format.capFirstLetter(villager.species);
+
+    if (villager.birthday) {
+        let momentBirthdate = moment(villager.birthday + '-2000', 'MM-DD-YYYY'); // we only store month/year, so add 2000.
+        result.birthday = momentBirthdate.format('MMMM Do');
+        result.zodiac = format.getZodiac(momentBirthdate);
+    } else {
+        result.birthday = 'Unknown'; // TODO
+        result.zodiac = 'Unknown'; // TODO
+    }
+
+    // All the game-specific data, sort games in reverse chronological order.
+    result.games = {};
+    result.gameTitles = [];
+    const gamesSorted = Object.entries(format.games)
+        .sort((a, b) => {
+            return (a[1].order >= b[1].order) ? -1 : 1;
+        })
+        .map((a) => {
+            return a[0];
+        });
+    for (let game of gamesSorted) {
+        let data = villager.games[game];
+        if (data) {
+            result.gameTitles.push(format.games[game].title);
+            result.games[game] = {
+                personality: format.capFirstLetter(data.personality),
+                clothes: data.clothes,
+                song: data.song,
+                phrase: data.phrase
+            };
+        }
+    }
+
+    // Coffee data, if we have any (new leaf only)
+    result.coffee = [];
+    if (villager.games['nl'] && villager.games['nl'].coffee) {
+        result.coffee.push(villager.games['nl'].coffee.beans + ',');
+        result.coffee.push(villager.games['nl'].coffee.milk + ',');
+        result.coffee.push(villager.games['nl'].coffee.sugar);
+    }
+
+    return result;
+}
 
 /**
  * Find the latest game a villager was featured in.
@@ -145,7 +203,7 @@ async function loadVillager(id) {
     }
 
     // Format villager
-    const result = format.formatVillager(villager);
+    const result = formatVillager(villager);
 
     // Some extra metadata the template needs.
     result.id = villager.id;
@@ -174,6 +232,9 @@ async function loadVillager(id) {
 
     // For frontend awake/asleep calculation.
     result.personalityMap = JSON.stringify(compressGameData(result.games, 'personality'));
+
+    // Images.
+    result.image = villager.image;
 
     return result;
 }

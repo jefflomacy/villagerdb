@@ -2,6 +2,11 @@ const path = require('path');
 const fs = require('fs');
 
 /**
+ * URL Helper
+ */
+const urlHelper = require('../../helpers/url');
+
+/**
  * Abstract redis store. Takes a redis connection, a set name, a key prefix and a directory containing JSON files.
  * These JSON files then get loaded into Redis.
  */
@@ -11,13 +16,14 @@ class RedisStore {
      *
      * @param redis redis client instance
      * @param setName contains all the keys we will create (without prefixes) (e.g. villagers)
-     * @param keyPrefix prefix of all keys containing json (e.g. villager_rosie)
+     * @param entityType the type of the entity (villager, item, etc)
      * @param dataStorePath where the JSON files to be loaded exist (e.g. path.join('data', 'villagers'))
      */
-    constructor(redis, setName, keyPrefix, dataStorePath) {
+    constructor(redis, setName, entityType, dataStorePath) {
         this.redisClient = redis;
         this.setName = setName;
-        this.keyPrefix = keyPrefix + '_';
+        this.entityType = entityType;
+        this.keyPrefix = entityType + '_';
         this.dataStorePath = dataStorePath;
     }
 
@@ -147,6 +153,7 @@ class RedisStore {
         for (let file of files) {
             const data = fs.readFileSync(path.join(this.dataStorePath, file), 'utf8');
             let parsed = JSON.parse(data);
+            parsed = this._addImageData(parsed);
             parsed = this._handleEntity(parsed); // custom logic for each specific implementation
             await this.redisClient.setAsync(this.keyPrefix + parsed.id, JSON.stringify(parsed)); // re-insert minified
             keys.push(parsed.id);
@@ -168,6 +175,18 @@ class RedisStore {
      * @private
      */
     _handleEntity(entity) {
+        return entity;
+    }
+
+    /**
+     * Add image data to the object.
+     *
+     * @param entity
+     * @returns {{}}
+     * @private
+     */
+    _addImageData(entity) {
+        entity.image = urlHelper.getEntityImageData(this.entityType, entity.id);
         return entity;
     }
 }

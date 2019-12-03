@@ -200,7 +200,7 @@ async function indexItems(es) {
 async function buildRedisDb() {
     const villagers = require('../db/entity/villagers');
     const items = require('../db/entity/items');
-    
+
     await villagers.populateRedis()
     console.log('Villager database populated.');
     await items.populateRedis();

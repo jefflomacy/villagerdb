@@ -13,7 +13,6 @@ function formatVillager(villager) {
 
     // Name, gender, species and birthday
     result.id = villager.id;
-    result.name = villager.name;
     result.gender = format.capFirstLetter(villager.gender);
     result.species = format.capFirstLetter(villager.species);
 
@@ -94,10 +93,10 @@ function generateParagraph(villager, formattedVillager) {
     let gameData = villager.games[latestGameId];
 
     // Properties
-    let name = formattedVillager.name;
+    let name = villager.name;
     let pronoun = (villager.gender === 'male' ? 'he' : 'she');
     let posessivePronoun = (villager.gender == 'male' ? 'his' : 'her');
-    let posessive = formattedVillager.name + '\'s';
+    let posessive = villager.name + '\'s';
     let species = formattedVillager.species.toLowerCase();
     let personality = gameData.personality;
     let birthday = formattedVillager.birthday;
@@ -243,7 +242,6 @@ const router = express.Router();
 router.get('/:id', function (req, res, next) {
     loadVillager(req.params.id)
         .then((data) => {
-            data.pageTitle = data.name;
             res.render('villager', data);
         }).catch(next);
 });

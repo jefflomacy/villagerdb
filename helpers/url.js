@@ -77,7 +77,7 @@ function getImageUrl(entityType, imageType, id) {
     }
 
     // Image not found.
-    return getImageNotFoundFilename(entityType);
+    return getImageNotFoundFilename(imageType);
 }
 module.exports.getImageUrl = getImageUrl;
 

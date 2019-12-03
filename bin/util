@@ -5,12 +5,10 @@ const path = require('path');
 const moment = require('moment');
 const elasticsearch = require('elasticsearch');
 
+const staticify = require('../config/staticify');
+const searchConfig = require('../config/search.js');
 const formatHelper = require('../helpers/format');
 const urlHelper = require('../helpers/url');
-const redisConnection = require('../db/redis');
-const villagers = require('../db/entity/villagers');
-const items = require('../db/entity/items');
-const config = require('../config/search.js');
 
 function usage() {
     console.error('Usage: bin/util <command>');
@@ -22,7 +20,7 @@ async function deleteSearchIndex() {
 
     // Delete the elasticsearch index
     return es.indices.delete({
-        index: config.elasticSearchIndexName
+        index: searchConfig.elasticSearchIndexName
     })
 }
 
@@ -31,12 +29,12 @@ async function buildSearchIndex() {
 
     // Create the index.
     await es.indices.create({
-        index: config.elasticSearchIndexName
+        index: searchConfig.elasticSearchIndexName
     });
 
     // Define the index mappings properly.
     await es.indices.putMapping({
-        index: config.elasticSearchIndexName,
+        index: searchConfig.elasticSearchIndexName,
         body: {
             properties: {
                 suggest: {
@@ -106,7 +104,7 @@ async function indexVillagers(es) {
 
         // Build document.
         const document = {
-            type: config.villagerEntityType,
+            type: searchConfig.villagerEntityType,
             suggest: {
                 input: parsed.name
             },
@@ -114,8 +112,9 @@ async function indexVillagers(es) {
             gender: parsed.gender,
             species: parsed.species,
             name: parsed.name,
-            url: urlHelper.getEntityUrl(config.villagerEntityType, parsed.id),
-            imageUrl: urlHelper.getImageUrl(config.villagerEntityType, urlHelper.THUMB, parsed.id)
+            url: urlHelper.getEntityUrl(searchConfig.villagerEntityType, parsed.id),
+            imageUrl: staticify.getVersionedPath(urlHelper.getImageUrl(searchConfig.villagerEntityType,
+                urlHelper.THUMB, parsed.id))
         };
 
         // Get unique phrases and personalities.
@@ -142,8 +141,8 @@ async function indexVillagers(es) {
 
         // Create the villager document.
         await es.index({
-            index: config.elasticSearchIndexName,
-            id: config.villagerEntityType + '-' + parsed.id,
+            index: searchConfig.elasticSearchIndexName,
+            id: searchConfig.villagerEntityType + '-' + parsed.id,
             body: document
         });
         console.log('Indexed ' + parsed.id);
@@ -164,7 +163,7 @@ async function indexItems(es) {
 
         // Build document.
         const document = {
-            type: config.itemEntityType,
+            type: searchConfig.itemEntityType,
             suggest: {
                 input: parsed.name
             },
@@ -172,8 +171,8 @@ async function indexItems(es) {
             name: parsed.name,
             category: parsed.category,
             game: [],
-            url: urlHelper.getEntityUrl(config.itemEntityType, parsed.id),
-            imageUrl: urlHelper.getImageUrl(config.itemEntityType, urlHelper.THUMB, parsed.id)
+            url: urlHelper.getEntityUrl(searchConfig.itemEntityType, parsed.id),
+            imageUrl: urlHelper.getImageUrl(searchConfig.itemEntityType, urlHelper.THUMB, parsed.id)
         };
 
         for (let game in parsed.games) {
@@ -186,8 +185,8 @@ async function indexItems(es) {
 
         // Create the item document.
         await es.index({
-            index: config.elasticSearchIndexName,
-            id: config.itemEntityType + '-' + parsed.id,
+            index: searchConfig.elasticSearchIndexName,
+            id: searchConfig.itemEntityType + '-' + parsed.id,
             body: document
         });
         console.log('Indexed ' + parsed.id);
@@ -198,20 +197,14 @@ async function indexItems(es) {
  * Build the villager and item databases. This will clear them before building them.
  *
  */
-function buildRedisDb() {
-    villagers.populateRedis()
-        .then(() => {
-            console.log('Villager database populated.');
-            return items.populateRedis();
-        })
-        .then(() => {
-            console.log('Items database populated.');
-            redisConnection.quit();
-        })
-        .catch((e) => {
-            console.log('Failed to build Redis databases.');
-            console.error(e);
-        });
+async function buildRedisDb() {
+    const villagers = require('../db/entity/villagers');
+    const items = require('../db/entity/items');
+    
+    await villagers.populateRedis()
+    console.log('Villager database populated.');
+    await items.populateRedis();
+    console.log('Items database populated.');
 }
 
 if (process.argv.length !== 3) {
@@ -226,19 +219,28 @@ if (!command) {
         .catch((e) => {
         }) // doesn't matter that it failed to delete
         .then(() => {
-            console.log('Deleted ' + config.elasticSearchIndexName + ' index.');
+            console.log('Deleted ' + searchConfig.elasticSearchIndexName + ' index.');
         });
 } else if (command === 'build-search-index') {
     buildSearchIndex()
         .then(() => {
-            console.log('Built ' + config.elasticSearchIndexName + ' index successfully.');
+            console.log('Built ' + searchConfig.elasticSearchIndexName + ' index successfully.');
         })
         .catch((e) => {
             console.log('Failed to build search index.');
             console.error(e);
         });
 } else if (command === 'build-redis-db') {
+    const redisConnection = require('../db/redis');
     buildRedisDb()
+        .then(() => {
+            // So the process will actually terminate.
+            redisConnection.quit();
+        })
+        .catch((e) => {
+            console.log('Error building redis db.');
+            console.error(e);
+        })
 } else {
     console.error('Valid commands: delete-search-index, build-search-index, build-redis-db.');
     process.exit(1);

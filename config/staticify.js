@@ -8,13 +8,26 @@ if (process.env.NODE_ENV !== 'production') {
 }
 const staticifyConfigured = staticify(path.join(process.cwd(), 'public'), staticifyOpts);
 
+// Set up getVersionedPath function. In non-production environments, we do not returned hashed paths.
+let getVersionedPath;
+if (process.env.NODE_ENV !== 'production') {
+    getVersionedPath = (path) => {
+        return path;
+    }
+} else {
+    getVersionedPath = (path) => {
+        return staticifyConfigured.getVersionedPath(path);
+    }
+}
+
 /**
  * Get the hashed version of a URL.
  * @param path
  */
-const getVersionedPath = (path) => {
-    return staticifyConfigured.getVersionedPath(path);
-}
-
-module.exports.middleware = staticifyConfigured.middleware;
 module.exports.getVersionedPath = getVersionedPath;
+
+/**
+ * Staticify middleware.
+ * @type {middleware}
+ */
+module.exports.middleware = staticifyConfigured.middleware;

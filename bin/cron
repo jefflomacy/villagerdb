@@ -28,11 +28,10 @@ function clearBirthdays() {
         console.log('Established redis connection.');
 
         // Set up some things we know we need.
-        const Birthdays = require('../db/birthdays');
-        const birthdayDb = new Birthdays(redisClient, null); // not computing, just clearing - so don't need collection.
+        const birthdays = require('../db/birthdays');
 
         console.log('Clearing birthdays...');
-        birthdayDb.clearBirthdays()
+        birthdays.clearBirthdays()
             .then(() => {
                 console.log('Cleared birthdays successfully.');
             })

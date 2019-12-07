@@ -18,9 +18,6 @@ const itemsRouter = require('./routes/items');
 
 const app = express();
 
-// Staticify
-app.use(staticify.middleware);
-
 // Handlebars setup
 app.set('views', path.join(__dirname, 'views'));
 const handlebars = hbs.create({
@@ -56,6 +53,9 @@ app.use('/webfonts/fa',
     express.static(path.join(__dirname, 'node_modules', '@fortawesome', 'fontawesome-free', 'webfonts')));
 app.use('/webfonts/slick',
     express.static(path.join(__dirname, 'node_modules', 'slick-carousel', 'slick', 'fonts')));
+
+// Staticify
+app.use(staticify.middleware);
 
 // Do not send X-Powered-By header.
 app.disable('x-powered-by');

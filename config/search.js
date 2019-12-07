@@ -48,13 +48,13 @@ module.exports = {
             canAggregate: true,
             sort: 4
         },
-        interiorTheme: {
-            name: 'Interior Theme',
+        fashionTheme: {
+            name: 'Fashion Theme',
             canAggregate: true,
             sort: 5
         },
-        fashionTheme: {
-            name: 'Fashion Theme',
+        interiorTheme: {
+            name: 'Interior Theme',
             canAggregate: true,
             sort: 6
         },

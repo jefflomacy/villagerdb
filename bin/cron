@@ -6,7 +6,7 @@ const birthdays = require('../db/birthdays');
 
 // Now, start the scheduler.
 scheduleCrons();
-clearBirthdays();
+
 /**
  * Sets up all scheduled crons.
  */

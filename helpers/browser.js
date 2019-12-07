@@ -5,6 +5,16 @@ const es = require('../db/elasticsearch');
 const pageSize = config.searchResultsPageSize;
 const allFilters = config.filters;
 
+function hasTextualQuery(queryList) {
+    for (let key in queryList) {
+        if (allFilters[key] && allFilters[key].isTextSearch) {
+            return true;
+        }
+    }
+
+    return false;
+}
+
 /**
  * Whatever this function returns must be met in all queries. If nothing else, it returns a 'match_all' statement,
  * which always evaluates to true.
@@ -297,25 +307,29 @@ async function browse(pageNumber, userQueries, fixedQueries) {
     // Is it a search? Initialize result and ES body appropriately
     const aggs = getAggregations(result.appliedFilters, appliedQueries, fixedQueries);
 
-    let body;
+    // Now we can build the root query...
     const query = buildRootElasticSearchQuery(appliedQueries, fixedQueries);
 
+    // Build the sort. We only include _score if a textual search field was included.
+    const sort = [];
+    if (hasTextualQuery(appliedQueries) || hasTextualQuery(fixedQueries)) {
+        sort.push({
+            _score: {
+                order: 'desc'
+            }
+        });
+    }
+    sort.push({
+        keyword: {
+            order: "asc"
+        }
+    });
+
     // The ultimate goal is to build this body for the query.
-    body = {
+    const body = {
         query: query,
         aggregations: aggs,
-        sort: [
-            {
-                _score: {
-                    order: 'desc'
-                }
-            },
-            {
-                keyword: {
-                    order: "asc"
-                }
-            }
-        ]
+        sort: sort
     };
 
     // Count.

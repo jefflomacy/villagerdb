@@ -72,10 +72,10 @@
                     </tr>
                 {{/if}}
 
-                <tr>
-                    <td class="bg-light text-dark font-weight-bold align-middle">Cost</td>
-                    <td class="align-middle">
-                        {{#if buyable }}
+                {{#if buyable}}
+                    <tr>
+                        <td class="bg-light text-dark font-weight-bold align-middle">Cost</td>
+                        <td class="align-middle">
                             <ul class="list-unstyled">
                                 {{#each bellCost }}
                                     <li> <span class="fas fa-bell"></span> {{this}} bells</li>
@@ -84,26 +84,26 @@
                                     <li><span class="fas fa-money-bill-wave"></span> {{this}} MEOW coupons</li>
                                 {{/each}}
                             </ul>
-                        {{else}}
-                            Not purchasable
-                        {{/if}}
-                    </td>
-                </tr>
+                        </td>
+                    </tr>
+                {{/if}}
 
-                <tr>
-                    <td class="bg-light text-dark font-weight-bold align-middle">Sells for</td>
-                    <td class="align-middle">
-                        {{#if sellable }}
-                            <ul class="list-unstyled">
-                                {{#each bellPrice }}
-                                    <li><span class="fas fa-bell"></span> {{this}} bells</li>
-                                {{/each}}
-                            </ul>
-                        {{else}}
-                            Not sellable
-                        {{/if}}
-                    </td>
-                </tr>
+                {{#if sellable }}
+                    <tr>
+                        <td class="bg-light text-dark font-weight-bold align-middle">Sells for</td>
+                        <td class="align-middle">
+                            {{#if sellable }}
+                                <ul class="list-unstyled">
+                                    {{#each bellPrice }}
+                                        <li><span class="fas fa-bell"></span> {{this}} bells</li>
+                                    {{/each}}
+                                </ul>
+                            {{else}}
+                                Not sellable
+                            {{/if}}
+                        </td>
+                    </tr>
+                {{/if}}
 
                 {{#if hasFashionTheme }}
                     <tr>

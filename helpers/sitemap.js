@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const builder = require('xmlbuilder')
+const dir = path.join('public', 'sitemaps');
 
 const staticUrls = [
     "",
@@ -41,31 +42,11 @@ const staticUrls = [
 ];
 
 class SiteMap {
-    /**
-     * Clears existing sitemaps directory and all files inside recursively.
-     *
-     * @param dir
-     */
-    clearDirectory(dir) {
-        if (fs.existsSync(dir)) {
-            fs.readdirSync(dir).forEach((file) => {
-                const current = path.join(dir, file);
-                if (fs.lstatSync(current).isDirectory()) {
-                    this.clearDirectory(current);
-                } else {
-                    fs.unlinkSync(current);
-                }
-            });
-            fs.rmdirSync(dir);
-        }
-    };
 
     /**
      * Recreates the public/sitemaps directory.
-     *
-     * @param dir
      */
-    createDirectory(dir) {
+    createDirectory() {
         if (!fs.existsSync(dir)) {
             fs.mkdirSync(dir);
         } else {
@@ -76,7 +57,9 @@ class SiteMap {
     /**
      * Generate sitemaps and place them in the sitemaps directory.
      */
-    generateMaps() {
+    generateMap() {
+        this.createDirectory()
+
         const villagers = fs.readdirSync(path.join('data', 'villagers'));
         const items = fs.readdirSync(path.join('data', 'items'));
         const pattern = "(.*)\.json";
@@ -91,10 +74,7 @@ class SiteMap {
             items[i] = name;
         }
 
-        let urlData = staticUrls.concat(villagers).concat(items);
-        const siteMapXML = this.convertToXML(urlData);
-
-        fs.appendFileSync(path.join('public', 'sitemaps', 'sitemap.xml'), siteMapXML);
+        fs.writeFileSync(path.join(dir, 'sitemap.xml'), this.convertToXML(staticUrls.concat(villagers).concat(items)), 'utf8');
     }
 
     /**
@@ -117,7 +97,5 @@ class SiteMap {
     }
 
 }
-
-
 
 module.exports = new SiteMap();

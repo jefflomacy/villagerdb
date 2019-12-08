@@ -2,7 +2,6 @@
 
 // Requirements.
 const cron = require('node-cron');
-const path = require('path');
 const birthdays = require('../db/birthdays');
 const siteMap = require('../helpers/sitemap');
 
@@ -20,7 +19,7 @@ function scheduleCrons() {
     });
 
     cron.schedule('0 0 * * * *', () => {
-        generateSitemaps();
+        siteMap.generateMap();
     });
 }
 
@@ -37,19 +36,4 @@ function clearBirthdays() {
             console.log('Unexpected exception while clearing birthdays.');
             console.error(e);
         });
-}
-
-/**
- * Generates a new site map in public/sitemaps.
- */
-function generateSitemaps() {
-    const dir = path.join('public', 'sitemaps');
-
-    // Delete and re-create current sitemaps folder.
-    siteMap.clearDirectory(dir);
-    siteMap.createDirectory(dir);
-
-    // Generate sitemaps and divide into properly sized files.
-    siteMap.generateMaps();
-
 }

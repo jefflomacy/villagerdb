@@ -9,10 +9,15 @@ const staticify = require('../config/staticify');
 const searchConfig = require('../config/search.js');
 const formatHelper = require('../helpers/format');
 const urlHelper = require('../helpers/url');
+const sitemap = require('../helpers/sitemap');
 
 function usage() {
     console.error('Usage: bin/util <command>');
     process.exit(1);
+}
+
+async function generateSitemap() {
+    sitemap.generateMap();
 }
 
 async function deleteSearchIndex() {
@@ -214,6 +219,15 @@ if (process.argv.length !== 3) {
 const command = process.argv[2];
 if (!command) {
     usage();
+} else if (command === 'generate-sitemap') {
+    generateSitemap()
+        .then(() => {
+            console.log('Generated new sitemap.');
+        })
+        .catch((e) => {
+            console.log('Failed to generate new sitemap.');
+            console.error(e);
+        });
 } else if (command === 'delete-search-index') {
     deleteSearchIndex()
         .catch((e) => {

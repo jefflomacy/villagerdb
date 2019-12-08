@@ -17,7 +17,7 @@ const ASLEEP_TEXT = "Asleep";
  * @type {{}}
  */
 const newLeafSleepTimes = {
-    "Cranky" : {
+    "cranky" : {
         "normal" : {
             "wake" : 600,
             "sleep" : 240
@@ -31,7 +31,7 @@ const newLeafSleepTimes = {
             "sleep" : 360
         }
     },
-    "Jock" : {
+    "jock" : {
         "normal" : {
             "wake" : 420,
             "sleep" : 0
@@ -45,7 +45,7 @@ const newLeafSleepTimes = {
             "sleep" : 150
         }
     },
-    "Lazy" : {
+    "lazy" : {
         "normal" : {
             "wake" : 540,
             "sleep" : 1380
@@ -59,7 +59,7 @@ const newLeafSleepTimes = {
             "sleep" : 90
         }
     },
-    "Normal" : {
+    "normal" : {
         "normal" : {
             "wake" : 360,
             "sleep" : 0
@@ -73,7 +73,7 @@ const newLeafSleepTimes = {
             "sleep" : 120
         }
     },
-    "Peppy" : {
+    "peppy" : {
         "normal" : {
             "wake" : 540,
             "sleep" : 60
@@ -87,7 +87,7 @@ const newLeafSleepTimes = {
             "sleep" : 180
         }
     },
-    "Smug" : {
+    "smug" : {
         "normal" : {
             "wake" : 510,
             "sleep" : 120
@@ -101,7 +101,7 @@ const newLeafSleepTimes = {
             "sleep" : 210
         }
     },
-    "Snooty" : {
+    "snooty" : {
         "normal" : {
             "wake" : 570,
             "sleep" : 120
@@ -115,7 +115,7 @@ const newLeafSleepTimes = {
             "sleep" : 240
         }
     },
-    "Uchi" : {
+    "uchi" : {
         "normal" : {
             "wake" : 660,
             "sleep" : 180
@@ -136,27 +136,27 @@ const newLeafSleepTimes = {
  * @type {{}}
  */
 const wildWorldCityFolkSleepTimes = {
-    "Cranky" : {
+    "cranky" : {
         "wake" : 600,
         "sleep" : 270
     },
-    "Jock" : {
+    "jock" : {
         "wake" : 390,
         "sleep" : 120
     },
-    "Lazy" : {
+    "lazy" : {
         "wake" : 480,
         "sleep" : 90
     },
-    "Normal" : {
+    "normal" : {
         "wake" : 300,
         "sleep" : 60
     },
-    "Peppy" : {
+    "peppy" : {
         "wake" : 420,
         "sleep" : 150
     },
-    "Snooty" : {
+    "snooty" : {
         "wake" : 540,
         "sleep" : 210
     }
@@ -167,27 +167,27 @@ const wildWorldCityFolkSleepTimes = {
  * @type {{}}
  */
 const animalForestSleepTimes = {
-    "Cranky" : {
+    "cranky" : {
         "wake" : 600,
         "sleep" : 300
     },
-    "Jock" : {
+    "jock" : {
         "wake" : 330,
         "sleep" : 60
     },
-    "Lazy" : {
+    "lazy" : {
         "wake" : 480,
         "sleep" : 1320
     },
-    "Normal" : {
+    "normal" : {
         "wake" : 300,
         "sleep" : 1260
     },
-    "Peppy" : {
+    "peppy" : {
         "wake" : 420,
         "sleep" : 1410
     },
-    "Snooty" : {
+    "snooty" : {
         "wake" : 540,
         "sleep" : 180
     }

@@ -119,14 +119,14 @@ const diacriticsMap = [
  * @type {{}}
  */
 const games = {
-    'af':   {shortTitle: 'AF',   title: 'Animal Forest',    year: 2001, order: 1},
-    'af+':  {shortTitle: 'AF+',  title: 'Animal Forest+',   year: 2001, order: 2},
-    'ac':   {shortTitle: 'AC',   title: 'Animal Crossing',  year: 2002, order: 3},
-    'afe+': {shortTitle: 'AFe+', title: 'Animal Forest e+', year: 2003, order: 4},
-    'ww':   {shortTitle: 'WW',   title: 'Wild World',       year: 2005, order: 5},
-    'cf':   {shortTitle: 'CF',   title: 'City Folk',        year: 2008, order: 6},
-    'nl':   {shortTitle: 'NL',   title: 'New Leaf',         year: 2012, order: 7},
-    'nh':   {shortTitle: 'NH',   title: 'New Horizons',     year: 2020, order: 8}
+    'nh':   {shortTitle: 'NH',   title: 'New Horizons',     year: 2020},
+    'nl':   {shortTitle: 'NL',   title: 'New Leaf',         year: 2012},
+    'cf':   {shortTitle: 'CF',   title: 'City Folk',        year: 2008},
+    'ww':   {shortTitle: 'WW',   title: 'Wild World',       year: 2005},
+    'afe+': {shortTitle: 'AFe+', title: 'Animal Forest e+', year: 2003},
+    'ac':   {shortTitle: 'AC',   title: 'Animal Crossing',  year: 2002},
+    'af+':  {shortTitle: 'AF+',  title: 'Animal Forest+',   year: 2001},
+    'af':   {shortTitle: 'AF',   title: 'Animal Forest',    year: 2001}
 };
 module.exports.games = games;
 

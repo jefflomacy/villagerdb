@@ -86,13 +86,43 @@
         <h2 class="sr-only">Summary</h2>
         <p>{{paragraph}}</p>
 
-        <div class="row">
-            {{> villager-game-data shouldDisplay=hasPersonalities title="Personality" valueName="personality"
-                    array=personalities}}
-            {{> villager-game-data shouldDisplay=hasClothing title="Clothing" valueName="Clothes" array=clothing}}
-            {{> villager-game-data shouldDisplay=hasPhrases title="Phrases" valueName="Phrase" array=phrases }}
-            {{> villager-game-data shouldDisplay=hasSongs title="Songs" valueName="Song" array=songs }}
-        </div>
+        {{#each games}}
+            <h3>In {{gameTitle}}</h3>
+            <table class="table item-game-data">
+                <thead class="sr-only">
+                <tr>
+                    <th>Key</th>
+                    <th>Value</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    {{#if hasClothes}}
+                        <td class="bg-light text-dark font-weight-bold align-middle">Clothes</td>
+                        <td class="align-middle">{{clothes}}</td>
+                    {{/if}}
+                </tr>
+                <tr>
+                    {{#if hasPersonality}}
+                        <td class="bg-light text-dark font-weight-bold align-middle">Personality</td>
+                        <td class="align-middle">{{personality}}</td>
+                    {{/if}}
+                </tr>
+                <tr>
+                    {{#if hasPhrase}}
+                        <td class="bg-light text-dark font-weight-bold align-middle">Phrase</td>
+                        <td class="align-middle">{{phrase}}</td>
+                    {{/if}}
+                </tr>
+                <tr>
+                    {{#if hasSong}}
+                        <td class="bg-light text-dark font-weight-bold align-middle">Song</td>
+                        <td class="align-middle">{{song}}</td>
+                    {{/if}}
+                </tr>
+                </tbody>
+            </table>
+        {{/each}}
     </div>
 </div>
 

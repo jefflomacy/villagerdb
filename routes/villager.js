@@ -64,10 +64,16 @@ function formatVillager(villager) {
  */
 function generateParagraph(villager, formattedVillager) {
     // Find the latest game they are in.
-    if (formattedVillager.games.length === 0) {
+    let gameData = undefined;
+    for (let gameId in format.games) {
+        if (villager.games[gameId]) {
+            gameData = villager.games[gameId];
+            break;
+        }
+    }
+    if (!gameData) {
         return '';
     }
-    const gameData = formattedVillager.games[0];
 
     // Properties
     const name = villager.name;
@@ -186,8 +192,9 @@ async function loadVillager(id) {
     result.id = villager.id;
     result.pageTitle = villager.name;
 
-    // Game-specific attributes.
+    // Quotes
     result.quotes = getQuotes(villager, result);
+    result.hasQuotes = result.quotes.length > 0;
 
     // Generate the paragraph.
     result.paragraph = generateParagraph(villager, result);

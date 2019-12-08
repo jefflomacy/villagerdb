@@ -37,6 +37,7 @@
     "staticify": "^3.3.4",
     "underscore": "^1.9.1",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10"
+    "webpack-cli": "^3.3.10",
+    "xmlbuilder": "^13.0.2"
   }
 }

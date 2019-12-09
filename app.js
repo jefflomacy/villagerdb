@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 const createError = require('http-errors');
 const express = require('express');
 const path = require('path');
@@ -7,6 +9,8 @@ const favicon = require('serve-favicon');
 const logger = require('morgan');
 const hbs = require('express-handlebars');
 const staticify = require('./config/staticify');
+const passport = require('passport');
+const passportSetup = require('./config/passport');
 
 const indexRouter = require('./routes/index');
 const autocompleteRouter = require('./routes/autocomplete');
@@ -15,6 +19,7 @@ const villagerRouter = require('./routes/villager');
 const villagersRouter = require('./routes/villagers');
 const itemRouter = require('./routes/item');
 const itemsRouter = require('./routes/items');
+const authRouter = require('./routes/auth');
 
 const app = express();
 
@@ -57,6 +62,9 @@ app.use('/webfonts/slick',
 // Staticify
 app.use(staticify.middleware);
 
+// Passport
+app.use(passport.initialize());
+
 // Do not send X-Powered-By header.
 app.disable('x-powered-by');
 
@@ -68,6 +76,7 @@ app.use('/villager', villagerRouter);
 app.use('/villagers', villagersRouter);
 app.use('/item', itemRouter);
 app.use('/items', itemsRouter);
+app.use('/auth', authRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

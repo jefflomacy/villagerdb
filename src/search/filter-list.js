@@ -13,7 +13,7 @@ export default class FilterList extends React.Component {
 
         // Initial state.
         this.state = {
-            expandedFilter: undefined,
+            expandedFilters: [],
             mobileExpanded: false
         };
 
@@ -54,7 +54,7 @@ export default class FilterList extends React.Component {
             if (valueOptions.length >= 2) {
                 let caretClassName = 'fa-chevron-down';
                 // Only show value options if expanded.
-                if (this.state.expandedFilter !== filterId) {
+                if (!this.state.expandedFilters.includes(filterId)) {
                     valueOptions = [];
                     caretClassName = 'fa-chevron-up';
                 }
@@ -138,9 +138,22 @@ export default class FilterList extends React.Component {
      */
     expandCollapse(filterId, e) {
         e.preventDefault();
-        this.setState({
-            expandedFilter: filterId === this.state.expandedFilter ? undefined : filterId
-        })
+
+        const collapse = this.state.expandedFilters.includes(filterId);
+        this.setState((state) => {
+            let expandedFilters = [];
+            if (collapse) {
+                expandedFilters = state.expandedFilters.filter((i) => {
+                    return i !== filterId;
+                })
+            } else {
+                expandedFilters = this.state.expandedFilters.concat(filterId);
+            }
+
+            return {
+                expandedFilters: expandedFilters
+            }
+        });
     }
 
     toggleMobileExpand(e) {

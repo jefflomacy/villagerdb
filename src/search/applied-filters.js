@@ -11,9 +11,6 @@ export default class AppliedFilters extends React.Component {
      */
     constructor(props) {
         super(props);
-
-        // Bindings
-        this.clearAllFilters = this.clearAllFilters.bind(this);
     }
 
     /**
@@ -58,9 +55,6 @@ export default class AppliedFilters extends React.Component {
                     <ul className="list-inline">
                         {alreadyApplied}
                     </ul>
-                    <div>
-                        <a href="#" onClick={this.clearAllFilters}>Clear All</a>
-                    </div>
                 </div>
             )
         }
@@ -80,18 +74,4 @@ export default class AppliedFilters extends React.Component {
 
         this.props.onFilterChange(appliedFilters);
     };
-
-    clearAllFilters(e) {
-        e.preventDefault();
-
-        // Remove all aggregable filters.
-        const appliedFilters = JSON.parse(JSON.stringify(this.props.appliedFilters));
-        for (let filterId in appliedFilters) {
-            if (this.props.allFilters[filterId].canAggregate) {
-                delete appliedFilters[filterId];
-            }
-        }
-
-        this.props.onFilterChange(appliedFilters);
-    }
 }

@@ -62,7 +62,7 @@ const categories = {
         filter: {
             category: ['Trees']
         },
-        title: 'Bushes & Trees',
+        pageTitle: 'Bushes & Trees',
         pageDescription: 'All plantable bushes and trees that do not bear fruit.'
     },
     dresses: {
@@ -109,6 +109,7 @@ const categories = {
         filter: {
             category: ['Furniture']
         },
+        pageTitle: 'Indoor/Outdoor Items',
         pageDescription: 'All indoor (New Leaf and earlier) games and outdoor (New Horizons) furniture.'
     },
     gyroids: {
@@ -226,7 +227,7 @@ const categories = {
         filter: {
             category: ['Flooring', 'Furniture', 'Music', 'Wallpaper']
         },
-        title: 'All Furniture',
+        pageTitle: 'All Furniture',
         pageDescription: 'This top-level furniture category includes flooring, indoor/outdoor furniture, music and ' +
             'wallpaper.'
     },
@@ -259,7 +260,7 @@ function callBrowser(req, res, next, slug) {
 
     browse(res, next, pageNumberInt,
         '/items/' + slug + '/page/',
-        categories[slug].title ? categories[slug].title : format.capFirstLetter(slug),
+        categories[slug].pageTitle ? categories[slug].pageTitle : format.capFirstLetter(slug),
         req.query,
         categories[slug].filter,
         data);

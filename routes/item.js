@@ -123,6 +123,7 @@ function formatItem(item) {
             gameTitle: format.games[gameId].title,
             orderable: game.orderable,
             orderableText: typeof game.orderable !== 'undefined' ? (game.orderable ? 'Yes' : 'No') : undefined,
+            sizeText: game.xSize > 0 && game.ySize > 0 ? (game.xSize + ' x ' + game.ySize) : undefined,
             hasSource: source.length > 0,
             source: source,
             buyable: bellCost.length > 0 || meowCost.length > 0,

@@ -94,6 +94,7 @@
                         </td>
                     </tr>
                 {{/if}}
+
                 {{#if hasSource }}
                     <tr>
                         <td class="bg-light text-dark font-weight-bold align-middle">Where to get</td>
@@ -104,6 +105,13 @@
                                 {{/each}}
                             </ul>
                         </td>
+                    </tr>
+                {{/if}}
+
+                {{#if sizeText }}
+                    <tr>
+                        <td class="bg-light text-dark font-weight-bold align-middle">Item Size (tiles)</td>
+                        <td class="align-middle">{{sizeText}}</td>
                     </tr>
                 {{/if}}
 

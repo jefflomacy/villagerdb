@@ -52,16 +52,12 @@
                 </tr>
                 </thead>
                 <tbody>
-                <tr>
-                    <td class="bg-light text-dark font-weight-bold align-middle">Orderable?</td>
-                    <td class="align-middle">
-                        {{#if orderable}}
-                            Yes
-                        {{else}}
-                            No
-                        {{/if}}
-                    </td>
-                </tr>
+                {{#if orderableText}}
+                    <tr>
+                        <td class="bg-light text-dark font-weight-bold align-middle">Orderable?</td>
+                        <td class="align-middle">{{orderableText}}</td>
+                    </tr>
+                {{/if}}
 
                 {{#if hasRecipe }}
                     <tr>

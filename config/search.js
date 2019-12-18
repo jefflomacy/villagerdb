@@ -23,6 +23,7 @@ module.exports = {
         game: {
             name: 'Games',
             values: {
+                'nh': 'New Horizons',
                 'nl': 'New Leaf',
                 'cf': 'City Folk',
                 'ww': 'Wild World',

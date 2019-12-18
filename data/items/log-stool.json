@@ -1,0 +1,14 @@
+{
+  "id": "log-stool",
+  "name": "Log Stool",
+  "category": "Tools",
+  "games": {
+    "nh": {
+      "xSize": 1.0,
+      "ySize": 1.0,
+      "recipe": {
+        "hardwood": 4
+      }
+    }
+  }
+}

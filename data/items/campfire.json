@@ -1,8 +1,15 @@
 {
   "id": "campfire",
-  "name": "campfire",
+  "name": "Campfire",
   "category": "Furniture",
   "games": {
+    "nh": {
+      "xSize": 1.0,
+      "ySize": 1.0,
+      "recipe": {
+        "tree-branch": 3
+      }
+    },
     "nl": {
       "orderable": true,
       "sellPrice": {

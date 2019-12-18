@@ -1,8 +1,13 @@
 {
   "id": "coconut-juice",
-  "name": "coconut juice",
-  "category": "Furniture",
+  "name": "Coconut Juice",
+  "category": "Usables",
   "games": {
+    "nh": {
+      "recipe": {
+        "coconut": 1
+      }
+    },
     "nl": {
       "orderable": false,
       "set": "Welcome amiibo Update",

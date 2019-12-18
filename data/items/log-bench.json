@@ -1,0 +1,14 @@
+{
+  "id": "log-bench",
+  "name": "Log Bench",
+  "category": "Tools",
+  "games": {
+    "nh": {
+      "xSize": 2.0,
+      "ySize": 1.0,
+      "recipe": {
+        "hardwood": 5
+      }
+    }
+  }
+}

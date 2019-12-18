@@ -1,8 +1,13 @@
 {
   "id": "birdbath",
-  "name": "birdbath",
+  "name": "Birdbath",
   "category": "Furniture",
   "games": {
+    "nh": {
+      "recipe": {
+        "stone": 4
+      }
+    },
     "nl": {
       "orderable": true,
       "set": "Mossy Garden",

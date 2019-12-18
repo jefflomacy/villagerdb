@@ -1,0 +1,15 @@
+{
+  "id": "tiny-library",
+  "name": "Tiny Library",
+  "category": "Furniture",
+  "games": {
+    "nh": {
+      "xSize": 1.0,
+      "ySize": 1.0,
+      "recipe": {
+        "wood": 5,
+        "book": 3
+      }
+    }
+  }
+}

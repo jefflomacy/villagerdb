@@ -1,0 +1,14 @@
+{
+  "id": "stone-stool",
+  "name": "Stone stool",
+  "category": "Tools",
+  "games": {
+    "nh": {
+      "xSize": 1.0,
+      "ySize": 1.0,
+      "recipe": {
+        "stone": 3
+      }
+    }
+  }
+}

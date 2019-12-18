@@ -127,6 +127,9 @@ function formatItem(item) {
             hasInteriorTheme: interiorTheme.length > 0,
             interiorTheme: interiorTheme,
             hasSet: typeof game.set !== 'undefined',
+            hasRecipe: typeof game.recipe !== 'undefined',
+            normalRecipe: game.normalRecipe,
+            fullRecipe: game.fullRecipe,
             set: game.set
         };
     }

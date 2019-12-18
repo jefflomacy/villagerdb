@@ -1,8 +1,16 @@
 {
   "id": "bonfire",
-  "name": "bonfire",
+  "name": "Bonfire",
   "category": "Furniture",
   "games": {
+    "nh": {
+      "xSize": 1.0,
+      "ySize": 1.0,
+      "recipe": {
+        "campfire": 1,
+        "wood": 1
+      }
+    },
     "nl": {
       "orderable": true,
       "sellPrice": {

@@ -63,6 +63,41 @@
                     </td>
                 </tr>
 
+                {{#if hasRecipe }}
+                    <tr>
+                        <td class="bg-light text-dark font-weight-bold align-middle">Recipe</td>
+                        <td class="align-middle">
+                            <div>As shown in-game:</div>
+                            <ul class="list-unstyled">
+                                {{#each normalRecipe}}
+                                    <li>
+                                        {{#if url}}
+                                            <a href="{{url}}">{{name}}</a>:
+                                        {{else}}
+                                            {{name}}:
+                                        {{/if}}
+                                        {{count}}
+                                    </li>
+                                {{/each}}
+                            </ul>
+                            {{#if fullRecipe}}
+                                <div class="mt-2">All required materials:</div>
+                                <ul class="list-unstyled">
+                                    {{#each fullRecipe}}
+                                        <li>
+                                            {{#if url}}
+                                                <a href="{{url}}">{{name}}</a>:
+                                            {{else}}
+                                                {{name}}:
+                                            {{/if}}
+                                            {{count}}
+                                        </li>
+                                    {{/each}}
+                                </ul>
+                            {{/if}}
+                        </td>
+                    </tr>
+                {{/if}}
                 {{#if hasSource }}
                     <tr>
                         <td class="bg-light text-dark font-weight-bold align-middle">Where to get</td>

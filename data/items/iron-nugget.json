@@ -1,0 +1,10 @@
+{
+  "id": "iron-nugget",
+  "name": "Iron Nugget",
+  "category": "Usables",
+  "games": {
+    "nh": {
+      "sources": ["Hitting rocks with a flimsy axe"]
+    }
+  }
+}

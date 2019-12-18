@@ -1,0 +1,14 @@
+{
+  "id": "tulip-crown",
+  "name": "Tulip Crown",
+  "category": "Tops",
+  "games": {
+    "nh": {
+      "recipe": {
+        "red-tulip": 2,
+        "yellow-tulip": 2,
+        "white-tulip": 1
+      }
+    }
+  }
+}

@@ -56,14 +56,6 @@ function buildQuery(key, value) {
                         query: value
                     }
                 }
-            },
-            {
-                match: {
-                    phrase: {
-                        query: value,
-                        fuzziness: 'auto'
-                    }
-                }
             }
         ]
     } else if (allFilters[key]) { // faceted search (exact match - term)

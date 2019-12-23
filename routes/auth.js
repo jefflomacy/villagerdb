@@ -5,30 +5,30 @@ const passport = require('passport');
 /**
  * Login page
  */
-router.get('/login', (req, res, next) => {
+router.get('/login', (req, res) => {
     res.render('login');
 });
 
 /**
  * Logout with passport.js
  */
-router.get('/logout', (req, res, next) => {
-    // Passport.js implementation
-    res.send('logging out');
+router.get('/logout', (req, res) => {
+    req.logout();
+    res.redirect('/');
 });
 
 /**
  * Google Auth with passport.js
  */
 router.get('/google', passport.authenticate('google', {
-    scope: ['profile']
+    scope: ['email']
 }));
 
 /**
  * Google Redirect Callback Route
  */
-router.get('/google/redirect', passport.authenticate('google'), (req, res, next) => {
-    res.send('Redirecting...');
-})
+router.get('/google/redirect', passport.authenticate('google'), (req, res) => {
+    res.redirect('/')
+});
 
 module.exports = router;

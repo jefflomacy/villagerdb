@@ -6,7 +6,8 @@ const appState = require('../helpers/app-state');
 /* GET home page. */
 router.get('/', function(req, res, next) {
   const data = {
-    pageTitle: 'Home'
+        pageTitle: 'Home',
+        user: req.user
   };
 
   appState.getAppState(res)

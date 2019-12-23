@@ -1,4 +1,3 @@
-require('dotenv').config();
 
 const createError = require('http-errors');
 const express = require('express');
@@ -11,6 +10,7 @@ const hbs = require('express-handlebars');
 const staticify = require('./config/staticify');
 const passport = require('passport');
 const passportSetup = require('./config/passport');
+const cookieSession = require('cookie-session');
 
 const indexRouter = require('./routes/index');
 const autocompleteRouter = require('./routes/autocomplete');
@@ -20,6 +20,7 @@ const villagersRouter = require('./routes/villagers');
 const itemRouter = require('./routes/item');
 const itemsRouter = require('./routes/items');
 const authRouter = require('./routes/auth');
+const profileRouter = require('./routes/profile');
 
 const app = express();
 
@@ -62,11 +63,21 @@ app.use('/webfonts/slick',
 // Staticify
 app.use(staticify.middleware);
 
-// Passport
-app.use(passport.initialize());
-
 // Do not send X-Powered-By header.
 app.disable('x-powered-by');
+
+// Cookie Session
+app.use(cookieSession({
+    maxAge: 7 * 24 * 60 * 60 * 1000,
+    keys: [
+        process.env.COOKIE_KEY
+    ]
+}));
+
+// Initialize Passport
+app.use(passport.initialize());
+app.use(passport.session());
+
 
 // Router setup.
 app.use('/', indexRouter);
@@ -77,6 +88,7 @@ app.use('/villagers', villagersRouter);
 app.use('/item', itemRouter);
 app.use('/items', itemsRouter);
 app.use('/auth', authRouter);
+app.use('/profile', profileRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

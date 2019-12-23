@@ -32,7 +32,7 @@ class Villagers extends RedisStore {
             const clothingId = villager.games[gameId].clothes;
             if (clothingId) {
                 // Does this clothing item exist?
-                const clothingItem = this.loadItemData(clothingId);
+                const clothingItem = this._loadData('item', clothingId);
                 if (clothingItem) {
                     // Make a link to it.
                     villager.games[gameId].clothesName = clothingItem.name;
@@ -42,18 +42,6 @@ class Villagers extends RedisStore {
                     villager.games[gameId].clothesName = villager.games[gameId].clothes;
                 }
             }
-        }
-    }
-
-    /**
-     * Returns a parsed item for the given ID, if it exists.
-     * @param id
-     * @returns {any}
-     */
-    loadItemData(id) {
-        if (fs.existsSync(path.join('data', 'items', id + '.json'))) {
-            const item = JSON.parse(fs.readFileSync(path.join('data', 'items', id + '.json')));
-            return item;
         }
     }
 }

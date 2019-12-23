@@ -138,7 +138,7 @@ function formatItem(item) {
             hasRecipe: typeof game.recipe !== 'undefined',
             normalRecipe: game.normalRecipe,
             fullRecipe: game.fullRecipe,
-            set: game.set
+            set: game.set,
         };
     }
 
@@ -173,6 +173,10 @@ async function loadItem(id) {
     // Images.
     result.image = item.image;
 
+    // Ownership data
+    result.hasOwnership = typeof item.owners !== 'undefined' && item.owners.length > 0;
+    result.owners = item.owners;
+    
     // Social media information
     result.setSharingData = true;
     result.pageUrl = 'https://villagerdb.com/item/' + item.id;

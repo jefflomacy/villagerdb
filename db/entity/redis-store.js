@@ -213,6 +213,20 @@ class RedisStore {
     async _afterPopulation() {
 
     }
+
+    /**
+     * Returns a parsed item for the given ID, if it exists.
+     * @param entityType
+     * @param id
+     * @returns {any}
+     * @private
+     */
+    _loadData(entityType, id) {
+        if (fs.existsSync(path.join('data', entityType + 's', id + '.json'))) {
+            return JSON.parse(fs.readFileSync(path.join('data', entityType + 's', id + '.json'),
+                'utf8'));
+        }
+    }
 }
 
 module.exports = RedisStore;

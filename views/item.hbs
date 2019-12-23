@@ -185,5 +185,14 @@
                 </tbody>
             </table>
         {{/each}}
+        {{#if hasOwnership}}
+            <h3>Ownership</h3>
+            <p>The following villagers own this item:</p>
+            <ul>
+                {{#each owners}}
+                    <li><a href="{{url}}">{{name}}</a></li>
+                {{/each}}
+            </ul>
+        {{/if}}
     </div>
 </div>

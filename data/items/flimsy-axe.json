@@ -1,0 +1,15 @@
+{
+  "id": "flimsy-axe",
+  "name": "Flimsy Axe",
+  "category": "Tools",
+  "games": {
+    "nh": {
+      "xSize": 1,
+      "ySize": 1,
+      "recipe": {
+        "tree-branch": 5,
+        "stone": 1
+      }
+    }
+  }
+}

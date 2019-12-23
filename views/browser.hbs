@@ -1,6 +1,7 @@
-{{> birthdays birthdays=birthdays shouldDisplayBirthdays=shouldDisplayBirthdays }}
 <h1>{{pageTitle}}</h1>
-
+{{#if pageDescription}}
+    <p>{{pageDescription}}</p>
+{{/if}}
 <div id="entity-browser"
      data-page-url-prefix="{{pageUrlPrefix}}"
      data-initial-state="{{initialState}}"

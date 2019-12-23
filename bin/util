@@ -83,9 +83,6 @@ async function buildSearchIndex() {
                 },
                 name: {
                     type: 'text'
-                },
-                phrase: {
-                    type: 'text'
                 }
             }
         }
@@ -122,18 +119,13 @@ async function indexVillagers(es) {
                 urlHelper.THUMB, parsed.id))
         };
 
-        // Get unique phrases and personalities.
+        // Get unique personalities.
         document.game = [];
-        document.phrase = [];
         document.personality = [];
         for (let game in parsed.games) {
             document.game.push(game);
 
-            const phrase = parsed.games[game].phrase;
             const personality = parsed.games[game].personality;
-            if (phrase && !document.phrase.includes(phrase)) {
-                document.phrase.push(phrase);
-            }
             if (personality && !document.personality.includes(personality)) {
                 document.personality.push(personality);
             }
@@ -177,7 +169,8 @@ async function indexItems(es) {
             category: parsed.category,
             game: [],
             url: urlHelper.getEntityUrl(searchConfig.itemEntityType, parsed.id),
-            imageUrl: urlHelper.getImageUrl(searchConfig.itemEntityType, urlHelper.THUMB, parsed.id)
+            imageUrl: staticify.getVersionedPath(urlHelper.getImageUrl(searchConfig.itemEntityType, urlHelper.THUMB,
+                parsed.id))
         };
 
         for (let game in parsed.games) {

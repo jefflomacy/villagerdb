@@ -200,3 +200,28 @@ function getSlug(s) {
     return result;
 }
 module.exports.getSlug = getSlug;
+
+/**
+ * Turn a list into a string like "a, b, and c."
+ *
+ * @param list
+ * @returns {*}
+ */
+function andList(list) {
+    if (list.length === 1) {
+        return list[0];
+    }
+
+    let result = '';
+    for (let i = 0; i < list.length; i++) {
+        result += list[i];
+        if (i < list.length - 2) {
+            result += ', ';
+        } else if (i === list.length - 2) {
+            result += ' and ';
+        }
+    }
+
+    return result;
+}
+module.exports.andList = andList;

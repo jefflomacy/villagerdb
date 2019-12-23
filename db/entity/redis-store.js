@@ -155,7 +155,7 @@ class RedisStore {
             let parsed = JSON.parse(data);
             parsed = this._addImageData(parsed);
             parsed = this._handleEntity(parsed); // custom logic for each specific implementation
-            await this.redisClient.setAsync(this.keyPrefix + parsed.id, JSON.stringify(parsed)); // re-insert minified
+            await this.updateEntity(parsed.id, parsed); // insert minified
             keys.push(parsed.id);
         }
 
@@ -164,6 +164,21 @@ class RedisStore {
         for (let i = 0; i < keys.length; i++) {
             await this.redisClient.zaddAsync(this.setName, i + 1, keys[i]);
         }
+
+        // Post-population actions.
+        await this._afterPopulation();
+    }
+
+    /**
+     * Set a key in redis to the specified object. This should NOT be used to ADD a NEW entity, because the ZSet in
+     * Redis is NOT updated.
+     *
+     * @param id
+     * @param entity
+     * @returns {Promise<void>}
+     */
+    async updateEntity(id, entity) {
+        await this.redisClient.setAsync(this.keyPrefix + id, JSON.stringify(entity)); // insert minified
     }
 
     /**
@@ -188,6 +203,15 @@ class RedisStore {
     _addImageData(entity) {
         entity.image = urlHelper.getEntityImageData(this.entityType, entity.id);
         return entity;
+    }
+
+    /**
+     * Override this method to perform actions after the database finishes populating.
+     *
+     * @private
+     */
+    async _afterPopulation() {
+
     }
 }
 

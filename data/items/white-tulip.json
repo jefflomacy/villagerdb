@@ -1,8 +1,13 @@
 {
   "id": "white-tulip",
-  "name": "white tulip",
+  "name": "White Tulip",
   "category": "Flowers",
   "games": {
+    "nh": {
+      "sources": [
+        "Pick from flower which regrows (speculated)"
+      ]
+    },
     "nl": {
       "orderable": true,
       "sellPrice": {

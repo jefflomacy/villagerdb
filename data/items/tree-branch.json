@@ -1,0 +1,12 @@
+{
+  "id": "tree-branch",
+  "name": "Tree Branch",
+  "category": "Usables",
+  "games": {
+    "nh": {
+      "sources": [
+        "Shaking trees"
+      ]
+    }
+  }
+}

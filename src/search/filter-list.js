@@ -11,20 +11,13 @@ export default class FilterList extends React.Component {
     constructor(props) {
         super(props);
 
-        // Only expand mobile by default if aggregable filters are applied.
-        const aggregableFilterCount = Object.keys(this.props.appliedFilters)
-            .filter((f) => {
-                return this.props.allFilters[f].canAggregate;
-            }).length;
-
         // Initial state.
         this.state = {
             expandedFilters: [],
-            mobileExpanded: aggregableFilterCount > 0
-        }
+            mobileExpanded: false
+        };
 
         // Bindings
-        this.clearAllFilters = this.clearAllFilters.bind(this);
         this.toggleMobileExpand = this.toggleMobileExpand.bind(this);
     }
 
@@ -34,48 +27,6 @@ export default class FilterList extends React.Component {
      */
     render() {
         const filters = [];
-
-        // Show already-applied filters, if any.
-        const alreadyApplied = [];
-        for (let filterId in this.props.appliedFilters) {
-            if (!this.props.allFilters[filterId].canAggregate) {
-                continue; // skip textual search filters.
-            }
-
-            const values = this.props.appliedFilters[filterId].map((v) => {
-                if (this.props.allFilters[filterId].values) {
-                    return this.props.allFilters[filterId].values[v];
-                } else {
-                    return v;
-                }
-            });
-            const valuesString = values.sort().join(', ');
-            alreadyApplied.push(
-                <li key={filterId}>
-                    <span className="font-weight-bold">
-                        {this.props.allFilters[filterId].name}
-                    </span>: {valuesString}
-                    <a href="#" className="ml-2" onClick={this.removeFilterClicked.bind(this, filterId)}>
-                        <span className="fas fa-times sr-hidden" style={{color: 'red'}}></span>
-                        <span className="sr-only">Delete filter</span>
-                    </a>
-                </li>
-            )
-        }
-
-        if (alreadyApplied.length > 0) {
-            filters.push(
-                <div className="mb-3" key="already-applied">
-                    <div className="mb-1">
-                        <a className="filter-root">Applied Filters</a>
-                    </div>
-                    <ul className="list-unstyled">
-                        {alreadyApplied}
-                    </ul>
-                    <a href="#" onClick={this.clearAllFilters}>Clear all</a>
-                </div>
-            );
-        }
 
         // Build out the available filters list, and add state information to it.
         let counter = 0; // for unique ID for each form element.
@@ -122,7 +73,7 @@ export default class FilterList extends React.Component {
         }
 
         const mobileFilterText = this.state.mobileExpanded ? 'Hide Filters' : 'Show Filters';
-        const mobileFilterClass = this.state.mobileExpanded ? 'expanded-sm' : 'not-expanded-sm'
+        const mobileFilterClass = this.state.mobileExpanded ? 'expanded-sm' : 'not-expanded-sm';
         return (
             <div className="filter-container">
                 <button className="btn btn-secondary d-block d-md-none mb-3" onClick={this.toggleMobileExpand}>
@@ -179,32 +130,6 @@ export default class FilterList extends React.Component {
         this.props.onFilterChange(appliedFilters);
     };
 
-    removeFilterClicked(filterId, e) {
-        e.preventDefault();
-        this.removeFilter(filterId);
-    }
-
-    removeFilter(filterId) {
-        const appliedFilters = JSON.parse(JSON.stringify(this.props.appliedFilters));
-        delete appliedFilters[filterId];
-
-        this.props.onFilterChange(appliedFilters);
-    };
-
-    clearAllFilters(e) {
-        e.preventDefault();
-
-        // Remove all aggregable filters.
-        const appliedFilters = JSON.parse(JSON.stringify(this.props.appliedFilters));
-        for (let filterId in appliedFilters) {
-            if (this.props.allFilters[filterId].canAggregate) {
-                delete appliedFilters[filterId];
-            }
-        }
-
-        this.props.onFilterChange(appliedFilters);
-    }
-
     /**
      * Expand or collapse a filter. By default, filters are collapsed.
      *
@@ -214,7 +139,6 @@ export default class FilterList extends React.Component {
     expandCollapse(filterId, e) {
         e.preventDefault();
 
-        const expandedFilters = [];
         const collapse = this.state.expandedFilters.includes(filterId);
         this.setState((state) => {
             let expandedFilters = [];
@@ -232,9 +156,10 @@ export default class FilterList extends React.Component {
         });
     }
 
-    toggleMobileExpand() {
+    toggleMobileExpand(e) {
+        e.preventDefault();
         this.setState({
             mobileExpanded: !this.state.mobileExpanded
-        })
+        });
     }
 }

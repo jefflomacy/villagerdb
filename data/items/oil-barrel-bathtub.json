@@ -1,0 +1,14 @@
+{
+  "id": "oil-barrel-bathtub",
+  "name": "Oil Barrel Bathtub",
+  "category": "Furniture",
+  "games": {
+    "nh": {
+      "recipe": {
+        "oil-barrel": 1,
+        "campfire": 1,
+        "stone": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "log-bench",
+  "name": "Log Bench",
+  "category": "Furniture",
+  "games": {
+    "nh": {
+      "xSize": 2,
+      "ySize": 1,
+      "recipe": {
+        "hardwood": 5
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "flimsy-net",
+  "name": "Flimsy Net",
+  "category": "Tools",
+  "games": {
+    "nh": {
+      "xSize": 1,
+      "ySize": 1,
+      "recipe": {
+        "tree-branch": 5
+      }
+    }
+  }
+}

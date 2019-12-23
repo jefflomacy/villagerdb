@@ -1,0 +1,14 @@
+{
+  "id": "log-stool",
+  "name": "Log Stool",
+  "category": "Furniture",
+  "games": {
+    "nh": {
+      "xSize": 1,
+      "ySize": 1,
+      "recipe": {
+        "hardwood": 4
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "flimsy-shovel",
+  "name": "Flimsy Shovel",
+  "category": "Tools",
+  "games": {
+    "nh": {
+      "xSize": 1,
+      "ySize": 1,
+      "recipe": {
+        "hardwood": 5
+      }
+    }
+  }
+}

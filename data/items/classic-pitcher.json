@@ -1,0 +1,14 @@
+{
+  "id": "classic-pitcher",
+  "name": "Classic Pitcher",
+  "category": "Tools",
+  "games": {
+    "nh": {
+      "xSize": 1,
+      "ySize": 1,
+      "recipe": {
+        "clay": 4
+      }
+    }
+  }
+}

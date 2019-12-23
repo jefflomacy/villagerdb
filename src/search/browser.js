@@ -6,6 +6,7 @@ import Paginator from './paginator.js';
 import SearchResults from './search-results.js';
 import Loader from './loader.js';
 import FilterList from './filter-list.js';
+import AppliedFilters from './applied-filters.js';
 
 /**
  *
@@ -69,6 +70,9 @@ class Browser extends React.Component {
                                     allFilters={this.props.allFilters} />
                     </div>
                     <div className="col-12 col-md-9">
+                        <AppliedFilters onFilterChange={this.setAppliedFilters}
+                                        appliedFilters={this.state.appliedFilters}
+                                        allFilters={this.props.allFilters} />
                         <div className="browser-results-container">
                             <Paginator onPageChange={this.setPage}
                                        currentPage={this.state.currentPage}

@@ -1,8 +1,13 @@
 {
   "id": "frying-pan",
-  "name": "frying pan",
+  "name": "Frying Pan",
   "category": "Furniture",
   "games": {
+    "nh": {
+      "recipe": {
+        "iron-nugget": 2
+      }
+    },
     "nl": {
       "orderable": false,
       "set": "Welcome amiibo Update",

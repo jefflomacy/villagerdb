@@ -15,12 +15,16 @@
         </div>
 
         <table class="table table-borderless">
-            <thead class="bg-dark text-light">
-            <tr>
-                <th>Appears In</th>
-            </tr>
-            </thead>
             <tbody>
+            <tr class="bg-dark text-light font-weight-bold">
+                <td>Category</td>
+            </tr>
+            <tr>
+                <td>{{category}}</td>
+            </tr>
+            <tr class="bg-dark text-light font-weight-bold">
+                <td>Appears In</td>
+            </tr>
             <tr>
                 <td>
                     <ul class="list-unstyled">
@@ -48,16 +52,48 @@
                 </tr>
                 </thead>
                 <tbody>
-                <tr>
-                    <td class="bg-light text-dark font-weight-bold align-middle">Orderable?</td>
-                    <td class="align-middle">
-                        {{#if orderable}}
-                            Yes
-                        {{else}}
-                            No
-                        {{/if}}
-                    </td>
-                </tr>
+                {{#if orderableText}}
+                    <tr>
+                        <td class="bg-light text-dark font-weight-bold align-middle">Orderable?</td>
+                        <td class="align-middle">{{orderableText}}</td>
+                    </tr>
+                {{/if}}
+
+                {{#if hasRecipe }}
+                    <tr>
+                        <td class="bg-light text-dark font-weight-bold align-middle">Recipe</td>
+                        <td class="align-middle">
+                            <div>As shown in-game:</div>
+                            <ul class="list-unstyled">
+                                {{#each normalRecipe}}
+                                    <li>
+                                        {{#if url}}
+                                            <a href="{{url}}">{{name}}</a>:
+                                        {{else}}
+                                            {{name}}:
+                                        {{/if}}
+                                        {{count}}
+                                    </li>
+                                {{/each}}
+                            </ul>
+                            {{#if fullRecipe}}
+                                <div class="mt-2">All required materials:</div>
+                                <ul class="list-unstyled">
+                                    {{#each fullRecipe}}
+                                        <li>
+                                            {{#if url}}
+                                                <a href="{{url}}">{{name}}</a>:
+                                            {{else}}
+                                                {{name}}:
+                                            {{/if}}
+                                            {{count}}
+                                        </li>
+                                    {{/each}}
+                                </ul>
+                            {{/if}}
+                        </td>
+                    </tr>
+                {{/if}}
 
                 {{#if hasSource }}
                     <tr>
@@ -69,6 +105,13 @@
                                 {{/each}}
                             </ul>
                         </td>
+                    </tr>
+                {{/if}}
+
+                {{#if sizeText }}
+                    <tr>
+                        <td class="bg-light text-dark font-weight-bold align-middle">Item Size (tiles)</td>
+                        <td class="align-middle">{{sizeText}}</td>
                     </tr>
                 {{/if}}
 

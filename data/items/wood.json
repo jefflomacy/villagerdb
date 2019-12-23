@@ -1,0 +1,12 @@
+{
+  "id": "wood",
+  "name": "Wood",
+  "category": "Usables",
+  "games": {
+    "nh": {
+      "sources": [
+        "Hitting trees with a flimsy axe"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "clothesline",
+  "name": "Clothesline",
+  "category": "Furniture",
+  "games": {
+    "nh": {
+      "xSize": 2,
+      "ySize": 1,
+      "recipe": {
+        "softwood": 6
+      }
+    }
+  }
+}

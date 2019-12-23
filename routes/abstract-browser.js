@@ -69,7 +69,7 @@ function cleanQueries(userQueries) {
  * @param data
  */
 function browse(res, next, pageNumber, urlPrefix, pageTitle, userQueries, fixedQueries, data) {
-    data.pageTitle = pageTitle + ' - page ' + pageNumber;
+    data.pageTitle = pageTitle;
     data.pageUrlPrefix = urlPrefix;
 
     browser(pageNumber, cleanQueries(userQueries), fixedQueries)

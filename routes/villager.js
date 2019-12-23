@@ -199,14 +199,18 @@ async function loadVillager(id) {
     // Generate the paragraph.
     result.paragraph = generateParagraph(villager, result);
 
-    // Social media information
-    result.shareUrl = encodeURIComponent('https://villagerdb.com/villager/' + result.id);
-
     // For frontend awake/asleep calculation.
     result.personalityMap = JSON.stringify(compressGameData(villager.games, 'personality'));
 
     // Images.
     result.image = villager.image;
+
+    // Social media information
+    result.setSharingData = true;
+    result.pageUrl = 'https://villagerdb.com/villager/' + result.id;
+    result.pageDescription = result.paragraph;
+    result.pageImage = 'https://villagerdb.com' + result.image.full;
+    result.shareUrl = encodeURIComponent('https://villagerdb.com/villager/' + result.id);
 
     return result;
 }

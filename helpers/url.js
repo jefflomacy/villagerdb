@@ -27,6 +27,18 @@ const MEDIUM = 'medium';
 const FULL = 'full';
 
 /**
+ * Item
+ * @type {string}
+ */
+const ITEM = 'item';
+
+/**
+ * Villager
+ * @type {string}
+ */
+const VILLAGER = 'villager';
+
+/**
  * The path for an image that can't be found.
  *
  * @param type THUMB, MEDIUM or FULL.
@@ -37,22 +49,34 @@ function getImageNotFoundFilename(type) {
 }
 
 /**
- * Thumbnail type.
+ * Thumbnail image type.
  * @type {string}
  */
 module.exports.THUMB = THUMB;
 
 /**
- * Medium type.
+ * Medium image type.
  * @type {string}
  */
 module.exports.MEDIUM = MEDIUM;
 
 /**
- * Full type.
+ * Full image type.
  * @type {string}
  */
 module.exports.FULL = FULL;
+
+/**
+ * Item entity type.
+ * @type {string}
+ */
+module.exports.ITEM = ITEM;
+
+/**
+ * Villager entity type.
+ * @type {string}
+ */
+module.exports.VILLAGER = VILLAGER;
 
 /**
  * Return the requested image with ID for entity type and image type. Images are attempted in this order:

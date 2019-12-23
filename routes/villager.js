@@ -33,8 +33,9 @@ function formatVillager(villager) {
             result.gameTitles.push(format.games[gameId].title);
             result.games.push({
                 gameTitle: format.games[gameId].title,
-                hasClothes: typeof game.clothes !== 'undefined',
-                clothes: game.clothes,
+                hasClothes: typeof game.clothesName !== 'undefined',
+                clothesName: game.clothesName,
+                clothesUrl: game.clothesUrl,
                 hasPersonality: typeof game.clothes !== 'undefined',
                 personality: format.capFirstLetter(game.personality),
                 hasPhrase: typeof game.phrase !== 'undefined',

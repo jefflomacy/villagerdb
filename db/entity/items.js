@@ -1,6 +1,7 @@
 const path = require('path');
 const RedisStore = require('./redis-store');
 const redisConnection = require('../redis');
+const urlHelper = require('../../helpers/url');
 
 class Items extends RedisStore {
     constructor() {
@@ -8,18 +9,28 @@ class Items extends RedisStore {
     }
 
     async _afterPopulation() {
-        // Format recipes.
         const count = await this.count();
         const items = await this.getByRange(0, count);
 
+        // Process items.
         for (let item of items) {
-            if (item.games.nh && item.games.nh.recipe) {
-                item.games.nh.normalRecipe = await this.buildRecipeArrayFromMap(item.games.nh.recipe);
-                item.games.nh.fullRecipe = await this.buildRecipeArrayFromMap(
-                    await this.buildFullRecipe(item.games.nh.recipe)
-                );
-                await this.updateEntity(item.id, item);
-            }
+            await this.formatRecipe(item);
+            await this.updateEntity(item.id, item);
+        }
+    }
+
+    /**
+     * Recipe formatting entry point - New Horizons only
+     *
+     * @param item
+     * @returns {Promise<void>}
+     */
+    async formatRecipe(item) {
+        if (item.games.nh && item.games.nh.recipe) {
+            item.games.nh.normalRecipe = await this.buildRecipeArrayFromMap(item.games.nh.recipe);
+            item.games.nh.fullRecipe = await this.buildRecipeArrayFromMap(
+                await this.buildFullRecipe(item.games.nh.recipe)
+            );
         }
     }
 
@@ -28,7 +39,7 @@ class Items extends RedisStore {
      * data here instead of in, say, a router, because it's expensive to do.
      *
      * @param map
-     * @returns {Promise<void>}
+     * @returns {Promise<[]>}
      */
     async buildRecipeArrayFromMap(map) {
         const recipeArray = [];
@@ -41,7 +52,7 @@ class Items extends RedisStore {
             const ingredientItem = await this.getById(ingredient);
             if (ingredientItem) {
                 name = ingredientItem.name;
-                url = '/item/' + ingredientItem.id;
+                url = urlHelper.getEntityUrl(urlHelper.ITEM, ingredientItem.id);
             }
             recipeArray.push({
                 name: name,

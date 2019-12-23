@@ -96,30 +96,36 @@
                 </tr>
                 </thead>
                 <tbody>
-                <tr>
-                    {{#if hasClothes}}
+                {{#if hasClothes}}
+                    <tr>
                         <td class="bg-light text-dark font-weight-bold align-middle">Clothes</td>
-                        <td class="align-middle">{{clothes}}</td>
-                    {{/if}}
-                </tr>
-                <tr>
-                    {{#if hasPersonality}}
+                        <td class="align-middle">
+                            {{#if clothesUrl}}
+                                <a href="{{clothesUrl}}">{{clothesName}}</a>
+                            {{else}}
+                                {{clothesName}}
+                            {{/if}}
+                        </td>
+                    </tr>
+                {{/if}}
+                {{#if hasPersonality}}
+                    <tr>
                         <td class="bg-light text-dark font-weight-bold align-middle">Personality</td>
                         <td class="align-middle">{{personality}}</td>
-                    {{/if}}
-                </tr>
-                <tr>
-                    {{#if hasPhrase}}
+                    </tr>
+                {{/if}}
+                {{#if hasPhrase}}
+                    <tr>
                         <td class="bg-light text-dark font-weight-bold align-middle">Phrase</td>
                         <td class="align-middle">{{phrase}}</td>
-                    {{/if}}
-                </tr>
-                <tr>
-                    {{#if hasSong}}
+                    </tr>
+                {{/if}}
+                {{#if hasSong}}
+                    <tr>
                         <td class="bg-light text-dark font-weight-bold align-middle">Song</td>
                         <td class="align-middle">{{song}}</td>
-                    {{/if}}
-                </tr>
+                    </tr>
+                {{/if}}
                 </tbody>
             </table>
         {{/each}}

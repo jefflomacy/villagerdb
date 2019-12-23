@@ -2,15 +2,14 @@
 const createError = require('http-errors');
 const express = require('express');
 const path = require('path');
-const cookieParser = require('cookie-parser');
 const lessMiddleware = require('less-middleware');
 const favicon = require('serve-favicon');
 const logger = require('morgan');
 const hbs = require('express-handlebars');
 const staticify = require('./config/staticify');
-const passport = require('passport');
-const passportSetup = require('./config/passport');
-const cookieSession = require('cookie-session');
+
+const passport = require('./config/passport');
+const session = require('./config/session/middleware');
 
 const indexRouter = require('./routes/index');
 const autocompleteRouter = require('./routes/autocomplete');
@@ -41,7 +40,6 @@ app.set('view engine', 'hbs');
 app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
-app.use(cookieParser());
 
 // Setup favicon, but do not panic if favicon.ico can't be found.
 try {
@@ -66,18 +64,10 @@ app.use(staticify.middleware);
 // Do not send X-Powered-By header.
 app.disable('x-powered-by');
 
-// Cookie Session
-app.use(cookieSession({
-    maxAge: 7 * 24 * 60 * 60 * 1000,
-    keys: [
-        process.env.COOKIE_KEY
-    ]
-}));
-
-// Initialize Passport
-app.use(passport.initialize());
-app.use(passport.session());
-
+// Initialize passport and session
+app.use(passport.middleware.initialize());
+app.use(passport.middleware.session());
+app.use(session);
 
 // Router setup.
 app.use('/', indexRouter);

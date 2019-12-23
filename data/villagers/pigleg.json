@@ -5,16 +5,16 @@
   "games": {
     "af+": {
       "personality": "jock",
-      "clothes": "Blue Aloha Shirt"
+      "clothes": "blue-aloha-tee"
     },
     "ac": {
       "personality": "jock",
-      "clothes": "Blue Aloha Shirt",
+      "clothes": "blue-aloha-tee",
       "phrase": "arrrn"
     },
     "afe+": {
       "personality": "jock",
-      "clothes": "Blue Aloha Shirt"
+      "clothes": "blue-aloha-tee"
     }
   },
   "name": "Pigleg",

@@ -5,13 +5,13 @@
   "games": {
     "cf": {
       "personality": "cranky",
-      "clothes": "Cavalier Shirt",
+      "clothes": "cavalier-shirt",
       "song": "K.K. Aria",
       "phrase": "cluckling"
     },
     "nl": {
       "personality": "cranky",
-      "clothes": "Cavalier Shirt",
+      "clothes": "cavalier-shirt",
       "song": "K.K. Aria",
       "phrase": "cluckling",
       "skill": "Calculating tips",

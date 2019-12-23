@@ -5,28 +5,28 @@
   "games": {
     "af": {
       "personality": "jock",
-      "clothes": "Jester Shirt",
+      "clothes": "jester-shirt",
       "song": "K.K. Rally"
     },
     "af+": {
       "personality": "jock",
-      "clothes": "Jester Shirt",
+      "clothes": "jester-shirt",
       "song": "K.K. Rally"
     },
     "ac": {
       "personality": "jock",
-      "clothes": "Jester Shirt",
+      "clothes": "jester-shirt",
       "song": "K.K. Rally",
       "phrase": "munchie"
     },
     "afe+": {
       "personality": "jock",
-      "clothes": "Jester Shirt",
+      "clothes": "jester-shirt",
       "song": "K.K. Rally"
     },
     "nl": {
       "personality": "jock",
-      "clothes": "Jester Shirt",
+      "clothes": "jester-shirt",
       "song": "K.K. Rally",
       "phrase": "munchie",
       "skill": "Writing backward",

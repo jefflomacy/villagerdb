@@ -5,23 +5,23 @@
   "games": {
     "af": {
       "personality": "jock",
-      "clothes": "Spade Shirt",
+      "clothes": "spade-tee",
       "song": "K.K. Parade"
     },
     "af+": {
       "personality": "jock",
-      "clothes": "Spade Shirt",
+      "clothes": "spade-tee",
       "song": "K.K. Parade"
     },
     "ac": {
       "personality": "jock",
-      "clothes": "Spade Shirt",
+      "clothes": "spade-tee",
       "song": "K.K. Parade",
       "phrase": "ace"
     },
     "afe+": {
       "personality": "jock",
-      "clothes": "Spade Shirt",
+      "clothes": "spade-tee",
       "song": "K.K. Parade"
     }
   },

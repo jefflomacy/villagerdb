@@ -5,16 +5,16 @@
   "games": {
     "af+": {
       "personality": "peppy",
-      "clothes": "Red Aloha Shirt"
+      "clothes": "red-aloha-tee"
     },
     "ac": {
       "personality": "peppy",
-      "clothes": "Red Aloha Shirt",
+      "clothes": "red-aloha-tee",
       "phrase": "squeaker"
     },
     "afe+": {
       "personality": "peppy",
-      "clothes": "Red Aloha Shirt"
+      "clothes": "red-aloha-tee"
     }
   },
   "name": "Flossie",

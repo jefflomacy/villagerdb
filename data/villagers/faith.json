@@ -5,16 +5,16 @@
   "games": {
     "af+": {
       "personality": "normal",
-      "clothes": "Red Aloha Shirt"
+      "clothes": "red-aloha-tee"
     },
     "ac": {
       "personality": "normal",
-      "clothes": "Red Aloha Shirt",
+      "clothes": "red-aloha-tee",
       "phrase": "aloha"
     },
     "afe+": {
       "personality": "normal",
-      "clothes": "Red Aloha Shirt"
+      "clothes": "red-aloha-tee"
     }
   },
   "name": "Faith",

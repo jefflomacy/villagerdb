@@ -9,13 +9,13 @@
     },
     "ac": {
       "personality": "snooty",
-      "clothes": "Red Aloha Shirt",
+      "clothes": "red-aloha-tee",
       "song": "Marine Song 2001",
       "phrase": "me meow"
     },
     "afe+": {
       "personality": "snooty",
-      "clothes": "Red Aloha Shirt",
+      "clothes": "red-aloha-tee",
       "song": "Marine Song 2001"
     },
     "cf": {
@@ -26,7 +26,7 @@
     },
     "nl": {
       "personality": "snooty",
-      "clothes": "Mummy Shirt",
+      "clothes": "mummy-shirt",
       "song": "Marine Song 2001",
       "phrase": "me meow",
       "skill": "Writing about pickles",

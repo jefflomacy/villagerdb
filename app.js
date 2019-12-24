@@ -15,6 +15,7 @@ const villagerRouter = require('./routes/villager');
 const villagersRouter = require('./routes/villagers');
 const itemRouter = require('./routes/item');
 const itemsRouter = require('./routes/items');
+const randomRouter = require('./routes/random');
 
 const app = express();
 
@@ -68,6 +69,7 @@ app.use('/villager', villagerRouter);
 app.use('/villagers', villagersRouter);
 app.use('/item', itemRouter);
 app.use('/items', itemsRouter);
+app.use('/random', randomRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

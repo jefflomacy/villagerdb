@@ -2,7 +2,7 @@ const session = require('express-session');
 const RedisStore = require('connect-redis')(session);
 const redisClient = require('./store');
 
-module.exports = session({
+const configuredSession = session({
     secret: process.env.COOKIE_KEY,
     resave: false, // connect-redis implements touch, so this is not needed.
     saveUninitialized: false, // we only care about sessions that actually log in, so lets save disk space
@@ -12,3 +12,5 @@ module.exports = session({
         maxAge: 1000 * 60 * 60 * 24 * 365 // 1 year in milliseconds
     }
 });
+
+module.exports = configuredSession;

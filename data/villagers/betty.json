@@ -5,20 +5,20 @@
   "games": {
     "af": {
       "personality": "normal",
-      "clothes": "comfy-sweater"
+      "clothes": "Comfy Sweater"
     },
     "af+": {
       "personality": "normal",
-      "clothes": "comfy-sweater"
+      "clothes": "Comfy Sweater"
     },
     "ac": {
       "personality": "normal",
-      "clothes": "comfy-sweater",
+      "clothes": "Comfy Sweater",
       "phrase": "cluckling"
     },
     "afe+": {
       "personality": "normal",
-      "clothes": "comfy-sweater"
+      "clothes": "Comfy Sweater"
     }
   },
   "name": "Betty",

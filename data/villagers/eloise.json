@@ -5,7 +5,7 @@
   "games": {
     "af": {
       "personality": "snooty",
-      "clothes": "green-bar-shirt",
+      "clothes": "Green Bar Shirt",
       "song": "K.K. Jazz"
     },
     "af+": {
@@ -23,20 +23,20 @@
     },
     "ww": {
       "personality": "snooty",
-      "clothes": "yellow-bar-tee",
+      "clothes": "Yellow-Bar Tee",
       "song": "K.K. Jazz",
       "phrase": "tooooot",
       "quote": "You'll want to display this prominently!"
     },
     "cf": {
       "personality": "snooty",
-      "clothes": "yellow-bar-tee",
+      "clothes": "Yellow-Bar Tee",
       "song": "K.K. Jazz",
       "phrase": "tooooot"
     },
     "nl": {
       "personality": "snooty",
-      "clothes": "yellow-bar-tee",
+      "clothes": "Yellow-Bar Tee",
       "song": "K.K. Jazz",
       "phrase": "tooooot",
       "skill": "Memorizing stuff",

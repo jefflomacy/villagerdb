@@ -1,0 +1,55 @@
+{
+  "id": "rainbow-shirt",
+  "name": "Rainbow Shirt",
+  "category": "Tops",
+  "games": {
+    "af+": {
+      "orderable": true,
+      "sources": [
+        "Tom Nook (Summer)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 194
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 777
+        }
+      ]
+    },
+    "ac": {
+      "orderable": true,
+      "sources": [
+        "Tom Nook (Summer)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 194
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 777
+        }
+      ]
+    },
+    "afe+": {
+      "orderable": true,
+      "sources": [
+        "Tom Nook (Summer)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 194
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 777
+        }
+      ]
+    }
+  }
+}

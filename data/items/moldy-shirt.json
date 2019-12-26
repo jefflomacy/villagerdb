@@ -24,6 +24,54 @@
           "value": 400
         }
       ]
+    },
+    "af+": {
+      "orderable": true,
+      "sources": [
+        "Tom Nook (Summer)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 12
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 50
+        }
+      ]
+    },
+    "ac": {
+      "orderable": true,
+      "sources": [
+        "Tom Nook (Summer)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 12
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 50
+        }
+      ]
+    },
+    "afe+": {
+      "orderable": true,
+      "sources": [
+        "Tom Nook (Summer)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 12
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 50
+        }
+      ]
     }
   }
 }

@@ -1,0 +1,55 @@
+{
+  "id": "mint-gingham-top",
+  "name": "Mint Gingham Top",
+  "category": "Tops",
+  "games": {
+    "af+": {
+      "orderable": true,
+      "sources": [
+        "Tom Nook (All Seasons)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 82
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 330
+        }
+      ]
+    },
+    "ac": {
+      "orderable": true,
+      "sources": [
+        "Tom Nook (All Seasons)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 82
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 330
+        }
+      ]
+    },
+    "afe+": {
+      "orderable": true,
+      "sources": [
+        "Tom Nook (All Seasons)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 82
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 330
+        }
+      ]
+    }
+  }
+}

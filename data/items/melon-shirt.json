@@ -25,6 +25,24 @@
           "value": 280
         }
       ]
+    },
+    "af+": {
+      "orderable": false,
+      "sources": [
+        "Gracie"
+      ]
+    },
+    "ac": {
+      "orderable": false,
+      "sources": [
+        "Gracie"
+      ]
+    },
+    "afe+": {
+      "orderable": false,
+      "sources": [
+        "Gracie"
+      ]
     }
   }
 }

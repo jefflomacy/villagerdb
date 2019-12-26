@@ -1,0 +1,25 @@
+{
+  "id": "cool-shirt",
+  "name": "Cool Shirt",
+  "category": "Tops",
+  "games": {
+    "af+": {
+      "orderable": false,
+      "sources": [
+        "Gracie"
+      ]
+    },
+    "ac": {
+      "orderable": false,
+      "sources": [
+        "Gracie"
+      ]
+    },
+    "afe+": {
+      "orderable": false,
+      "sources": [
+        "Gracie"
+      ]
+    }
+  }
+}

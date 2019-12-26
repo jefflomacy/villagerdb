@@ -1,0 +1,25 @@
+{
+  "id": "red-aloha-shirt",
+  "name": "Red Aloha Shirt",
+  "category": "Tops",
+  "games": {
+    "af+": {
+      "orderable": false,
+      "sources": [
+        "Island"
+      ]
+    },
+    "ac": {
+      "orderable": false,
+      "sources": [
+        "Island"
+      ]
+    },
+    "afe+": {
+      "orderable": false,
+      "sources": [
+        "Island"
+      ]
+    }
+  }
+}

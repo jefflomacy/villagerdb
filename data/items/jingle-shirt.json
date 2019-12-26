@@ -1,0 +1,25 @@
+{
+  "id": "jingle-shirt",
+  "name": "Jingle Shirt",
+  "category": "Tops",
+  "games": {
+    "af+": {
+      "orderable": false,
+      "sources": [
+        "Jingle"
+      ]
+    },
+    "ac": {
+      "orderable": false,
+      "sources": [
+        "Jingle"
+      ]
+    },
+    "afe+": {
+      "orderable": false,
+      "sources": [
+        "Jingle"
+      ]
+    }
+  }
+}

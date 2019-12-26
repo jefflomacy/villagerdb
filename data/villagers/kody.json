@@ -5,23 +5,23 @@
   "games": {
     "af": {
       "personality": "jock",
-      "clothes": "Far-Out Shirt",
+      "clothes": "far-out-shirt",
       "song": "K.K. Country"
     },
     "af+": {
       "personality": "jock",
-      "clothes": "Far-Out Shirt",
+      "clothes": "far-out-shirt",
       "song": "K.K. Country"
     },
     "ac": {
       "personality": "jock",
-      "clothes": "Far-Out Shirt",
+      "clothes": "far-out-shirt",
       "song": "K.K. Country",
       "phrase": "okey-dokey"
     },
     "afe+": {
       "personality": "jock",
-      "clothes": "Far-Out Shirt",
+      "clothes": "far-out-shirt",
       "song": "K.K. Country"
     },
     "ww": {
@@ -39,7 +39,7 @@
     },
     "nl": {
       "personality": "jock",
-      "clothes": "Racer Tee",
+      "clothes": "racer-tee",
       "song": "K.K. Country",
       "phrase": "okey-dokey",
       "skill": "Eating frequently",

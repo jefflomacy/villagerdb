@@ -5,23 +5,23 @@
   "games": {
     "af": {
       "personality": "snooty",
-      "clothes": "Rainbow Shirt",
+      "clothes": "rainbow-shirt",
       "song": "K.K. Soul"
     },
     "af+": {
       "personality": "snooty",
-      "clothes": "Rainbow Shirt",
+      "clothes": "rainbow-shirt",
       "song": "K.K. Soul"
     },
     "ac": {
       "personality": "snooty",
-      "clothes": "Rainbow Shirt",
+      "clothes": "rainbow-shirt",
       "song": "K.K. Soul",
       "phrase": "chimp"
     },
     "afe+": {
       "personality": "snooty",
-      "clothes": "Rainbow Shirt",
+      "clothes": "rainbow-shirt",
       "song": "K.K. Soul"
     }
   },

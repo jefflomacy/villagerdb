@@ -5,7 +5,7 @@
   "games": {
     "af": {
       "personality": "cranky",
-      "clothes": "Static Shirt",
+      "clothes": "static-shirt",
       "song": "To the Edge"
     },
     "af+": {
@@ -14,7 +14,7 @@
     },
     "ac": {
       "personality": "cranky",
-      "clothes": "Static Shirt",
+      "clothes": "static-shirt",
       "song": "To the Edge",
       "phrase": "grr-ribbit"
     },
@@ -24,20 +24,20 @@
     },
     "ww": {
       "personality": "cranky",
-      "clothes": "Sharp Outfit",
+      "clothes": "sharp-outfit",
       "song": "To the Edge",
       "phrase": "grr-ribbit",
       "quote": "I've got my eye on you."
     },
     "cf": {
       "personality": "cranky",
-      "clothes": "Sharp Outfit",
+      "clothes": "sharp-outfit",
       "song": "To the Edge",
       "phrase": "grr-ribbit"
     },
     "nl": {
       "personality": "cranky",
-      "clothes": "Sharp Outfit",
+      "clothes": "sharp-outfit",
       "song": "To the Edge",
       "phrase": "grr-ribbit",
       "skill": "Writing Backwards",

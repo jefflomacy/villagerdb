@@ -5,20 +5,20 @@
   "games": {
     "af": {
       "personality": "jock",
-      "clothes": "Light Line Shirt"
+      "clothes": "light-line-shirt"
     },
     "af+": {
       "personality": "jock",
-      "clothes": "Light Line Shirt"
+      "clothes": "light-line-shirt"
     },
     "ac": {
       "personality": "jock",
-      "clothes": "Light Line Shirt",
+      "clothes": "light-line-shirt",
       "phrase": "coo-HAH"
     },
     "afe+": {
       "personality": "jock",
-      "clothes": "Light Line Shirt"
+      "clothes": "light-line-shirt"
     }
   },
   "name": "Hector",

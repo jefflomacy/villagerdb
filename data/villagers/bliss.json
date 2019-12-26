@@ -4,16 +4,16 @@
   "games": {
     "af+": {
       "personality": "normal",
-      "clothes": "Red Aloha Shirt"
+      "clothes": "red-aloha-shirt"
     },
     "ac": {
       "personality": "normal",
-      "clothes": "Red Aloha Shirt",
+      "clothes": "red-aloha-shirt",
       "phrase": "hulaaaa"
     },
     "afe+": {
       "personality": "normal",
-      "clothes": "Red Aloha Shirt"
+      "clothes": "red-aloha-shirt"
     }
   },
   "name": "Bliss",

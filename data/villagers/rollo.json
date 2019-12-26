@@ -5,20 +5,20 @@
   "games": {
     "af": {
       "personality": "lazy",
-      "clothes": "Whirly Shirt"
+      "clothes": "whirly-shirt"
     },
     "af+": {
       "personality": "lazy",
-      "clothes": "Whirly Shirt"
+      "clothes": "whirly-shirt"
     },
     "ac": {
       "personality": "lazy",
-      "clothes": "Whirly Shirt",
+      "clothes": "whirly-shirt",
       "phrase": "beaulch"
     },
     "afe+": {
       "personality": "lazy",
-      "clothes": "Whirly Shirt"
+      "clothes": "whirly-shirt"
     }
   },
   "name": "Rollo",

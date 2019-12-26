@@ -5,20 +5,20 @@
   "games": {
     "af": {
       "personality": "jock",
-      "clothes": "Anju's Shirt"
+      "clothes": "anjus-shirt"
     },
     "af+": {
       "personality": "jock",
-      "clothes": "Anju's Shirt"
+      "clothes": "anjus-shirt"
     },
     "ac": {
       "personality": "jock",
-      "clothes": "Anju's Shirt",
+      "clothes": "anjus-shirt",
       "phrase": "RAWR"
     },
     "afe+": {
       "personality": "jock",
-      "clothes": "Anju's Shirt"
+      "clothes": "anjus-shirt"
     }
   },
   "name": "Aziz",

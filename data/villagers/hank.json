@@ -5,23 +5,23 @@
   "games": {
     "af": {
       "personality": "jock",
-      "clothes": "Exotic Shirt",
+      "clothes": "exotic-shirt",
       "song": "K.K. Love Song"
     },
     "af+": {
       "personality": "jock",
-      "clothes": "Exotic Shirt",
+      "clothes": "exotic-shirt",
       "song": "K.K. Love Song"
     },
     "ac": {
       "personality": "jock",
-      "clothes": "Exotic Shirt",
+      "clothes": "exotic-shirt",
       "song": "K.K. Love Song",
       "phrase": "buhk buhk"
     },
     "afe+": {
       "personality": "jock",
-      "clothes": "Exotic Shirt",
+      "clothes": "exotic-shirt",
       "song": "K.K. Love Song"
     }
   },

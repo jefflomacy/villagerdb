@@ -5,11 +5,11 @@
   "games": {
     "af": {
       "personality": "lazy",
-      "clothes": "N64 Shirt"
+      "clothes": "N64 Logo Shirt"
     },
     "af+": {
       "personality": "lazy",
-      "clothes": "Diner Uniform"
+      "clothes": "diner-uniform"
     },
     "ac": {
       "personality": "lazy",
@@ -22,7 +22,7 @@
     },
     "nl": {
       "personality": "lazy",
-      "clothes": "Pastel-Stripe Tee",
+      "clothes": "pastel-stripe-tee",
       "phrase": "pal",
       "skill": "Competitive eating",
       "goal": "Hairstylist",

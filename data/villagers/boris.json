@@ -9,21 +9,23 @@
     },
     "af+": {
       "personality": "cranky",
-      "song": "K.K. House"
+      "song": "K.K. House",
+      "clothes": "kaffes-shirt"
     },
     "ac": {
       "personality": "cranky",
       "song": "K.K. House",
-      "phrase": "schnort"
+      "phrase": "schnort",
+      "clothes": "kaffes-shirt"
     },
     "afe+": {
       "personality": "cranky",
-      "clothes": "Kafei's Shirt",
+      "clothes": "kaffes-shirt",
       "song": "K.K. House"
     },
     "nl": {
       "personality": "cranky",
-      "clothes": "Splendid Shirt",
+      "clothes": "splendid-shirt",
       "song": "K.K. House",
       "phrase": "schnort",
       "skill": "Tonque twisters",

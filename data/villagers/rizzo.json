@@ -5,23 +5,23 @@
   "games": {
     "af": {
       "personality": "cranky",
-      "clothes": "Lavender Robe",
+      "clothes": "lavender-robe",
       "song": "K.K. Lament"
     },
     "af+": {
       "personality": "cranky",
-      "clothes": "Lavender Robe",
+      "clothes": "lavender-robe",
       "song": "K.K. Lament"
     },
     "ac": {
       "personality": "cranky",
-      "clothes": "Lavender Robe",
+      "clothes": "lavender-robe",
       "song": "K.K. Lament",
       "phrase": "squee"
     },
     "afe+": {
       "personality": "cranky",
-      "clothes": "Lavender Robe",
+      "clothes": "lavender-robe",
       "song": "K.K. Lament"
     },
     "cf": {
@@ -31,7 +31,7 @@
     },
     "nl": {
       "personality": "cranky",
-      "clothes": "Ninja Shirt",
+      "clothes": "ninja-shirt",
       "song": "K.K. Lament",
       "phrase": "squee",
       "skill": "Subsistence living",

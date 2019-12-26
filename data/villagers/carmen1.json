@@ -5,23 +5,23 @@
   "games": {
     "af": {
       "personality": "snooty",
-      "clothes": "Ribbon Shirt",
+      "clothes": "ribbon-shirt",
       "song": "K.K. Technopop"
     },
     "af+": {
       "personality": "snooty",
-      "clothes": "Ribbon Shirt",
+      "clothes": "ribbon-shirt",
       "song": "K.K. Technopop"
     },
     "ac": {
       "personality": "snooty",
-      "clothes": "Ribbon Shirt",
+      "clothes": "ribbon-shirt",
       "song": "K.K. Technopop",
       "phrase": "bumpkin"
     },
     "afe+": {
       "personality": "snooty",
-      "clothes": "Ribbon Shirt",
+      "clothes": "ribbon-shirt",
       "song": "K.K. Technopop"
     }
   },

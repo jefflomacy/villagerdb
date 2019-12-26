@@ -5,20 +5,20 @@
   "games": {
     "af": {
       "personality": "cranky",
-      "clothes": "Arctic Camo"
+      "clothes": "arctic-camo"
     },
     "af+": {
       "personality": "cranky",
-      "clothes": "Arctic Camo"
+      "clothes": "arctic-camo"
     },
     "ac": {
       "personality": "cranky",
-      "clothes": "Arctic Camo",
+      "clothes": "arctic-camo",
       "phrase": "CHIRP"
     },
     "afe+": {
       "personality": "cranky",
-      "clothes": "Arctic Camo"
+      "clothes": "arctic-camo"
     }
   },
   "name": "Twirp",

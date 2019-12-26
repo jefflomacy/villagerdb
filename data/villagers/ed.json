@@ -5,34 +5,34 @@
   "games": {
     "af": {
       "personality": "jock",
-      "clothes": "Mod Top",
+      "clothes": "mod-top",
       "song": "K.K. Ballad"
     },
     "af+": {
       "personality": "jock",
-      "clothes": "Mod Top",
+      "clothes": "mod-top",
       "song": "K.K. Ballad"
     },
     "ac": {
       "personality": "jock",
-      "clothes": "Mod Top",
+      "clothes": "mod-top",
       "song": "K.K. Ballad",
       "phrase": "greenhorn"
     },
     "afe+": {
       "personality": "jock",
-      "clothes": "Mod Top",
+      "clothes": "mod-top",
       "song": "K.K. Ballad"
     },
     "cf": {
       "personality": "jock",
-      "clothes": "Lite Polka Tee",
+      "clothes": "lite-polka-tee",
       "song": "K.K. Ballad",
       "phrase": "greenhorn"
     },
     "nl": {
       "personality": "smug",
-      "clothes": "Lite Polka Tee",
+      "clothes": "lite-polka-tee",
       "song": "K.K. Ballad",
       "phrase": "greenhorn",
       "skill": "Juggling",

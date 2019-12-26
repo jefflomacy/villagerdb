@@ -5,12 +5,12 @@
   "games": {
     "afe+": {
       "personality": "normal",
-      "clothes": "Red Aloha Shirt",
+      "clothes": "red-aloha-shirt",
       "song": "Mountain Song"
     },
     "nl": {
       "personality": "normal",
-      "clothes": "Blue Tartan Shirt",
+      "clothes": "blue-tartan-shirt",
       "song": "Mountain Song",
       "phrase": "hoof hoo",
       "skill": "Karaoke",

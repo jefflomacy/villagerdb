@@ -5,20 +5,20 @@
   "games": {
     "af": {
       "personality": "peppy",
-      "clothes": "Jade Check Print"
+      "clothes": "jade-check-print"
     },
     "af+": {
       "personality": "peppy",
-      "clothes": "Jade Check Print"
+      "clothes": "jade-check-print"
     },
     "ac": {
       "personality": "peppy",
-      "clothes": "Jade Check Print",
+      "clothes": "jade-check-print",
       "phrase": "bear"
     },
     "afe+": {
       "personality": "peppy",
-      "clothes": "Jade Check Print"
+      "clothes": "jade-check-print"
     }
   },
   "name": "Huggy",

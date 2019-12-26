@@ -5,7 +5,7 @@
   "games": {
     "af": {
       "personality": "lazy",
-      "clothes": "Vogue Top",
+      "clothes": "vogue-top",
       "song": "Two Days Ago"
     },
     "af+": {
@@ -14,31 +14,31 @@
     },
     "ac": {
       "personality": "lazy",
-      "clothes": "Vogue Top",
+      "clothes": "vogue-top",
       "song": "Two Days Ago",
       "phrase": "bucko"
     },
     "afe+": {
       "personality": "lazy",
-      "clothes": "Vogue Top",
+      "clothes": "vogue-top",
       "song": "Two Days Ago"
     },
     "ww": {
       "personality": "lazy",
-      "clothes": "Vogue Top",
+      "clothes": "vogue-top",
       "song": "Two Days Ago",
       "phrase": "bucko",
       "quote": "Don't go nuts or anything."
     },
     "cf": {
       "personality": "lazy",
-      "clothes": "Vogue Top",
+      "clothes": "vogue-top",
       "song": "Two Days Ago",
       "phrase": "bucko"
     },
     "nl": {
       "personality": "lazy",
-      "clothes": "Checkered Tee",
+      "clothes": "checkered-tee",
       "song": "Two Days Ago",
       "phrase": "bucko",
       "skill": "Vaulting",

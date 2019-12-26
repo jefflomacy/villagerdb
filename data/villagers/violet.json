@@ -5,18 +5,18 @@
   "games": {
     "afe+": {
       "personality": "peppy",
-      "clothes": "Red Aloha Shirt",
+      "clothes": "red-aloha-shirt",
       "song": "K.K. Faire"
     },
     "cf": {
       "personality": "snooty",
-      "clothes": "Misty Tee",
+      "clothes": "misty-tee",
       "song": "K.K. Faire",
       "phrase": "faboom"
     },
     "nl": {
       "personality": "snooty",
-      "clothes": "Misty Tee",
+      "clothes": "misty-tee",
       "song": "K.K. Faire",
       "phrase": "faboom",
       "skill": "Blowing bubbles",

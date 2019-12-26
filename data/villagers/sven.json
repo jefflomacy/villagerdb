@@ -5,23 +5,23 @@
   "games": {
     "af": {
       "personality": "lazy",
-      "clothes": "Desert Camo",
+      "clothes": "desert-camo",
       "song": "K.K. Western"
     },
     "af+": {
       "personality": "lazy",
-      "clothes": "Desert Camo",
+      "clothes": "desert-camo",
       "song": "K.K. Western"
     },
     "ac": {
       "personality": "lazy",
-      "clothes": "Desert Camo",
+      "clothes": "desert-camo",
       "song": "K.K. Western",
       "phrase": "buh-uh-ud"
     },
     "afe+": {
       "personality": "lazy",
-      "clothes": "Desert Camo",
+      "clothes": "desert-camo",
       "song": "K.K. Western"
     }
   },

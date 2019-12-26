@@ -5,13 +5,13 @@
   "games": {
     "cf": {
       "personality": "snooty",
-      "clothes": "Turnip Top",
+      "clothes": "turnip-top",
       "song": "K.K. Milonga",
       "phrase": "quacker"
     },
     "nl": {
       "personality": "snooty",
-      "clothes": "Corseted Shirt",
+      "clothes": "corseted-shirt",
       "song": "K.K. Milonga",
       "phrase": "quacker",
       "skill": "Board games",

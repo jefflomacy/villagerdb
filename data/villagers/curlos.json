@@ -5,12 +5,12 @@
   "games": {
     "afe+": {
       "personality": "cranky",
-      "clothes": "Blue Aloha Shirt",
+      "clothes": "blue-aloha-shirt",
       "song": "K.K. Samba"
     },
     "nl": {
       "personality": "smug",
-      "clothes": "Reggae Tee",
+      "clothes": "reggae-tee",
       "song": "K.K. Samba",
       "phrase": "shearly",
       "skill": "Calculating tips",

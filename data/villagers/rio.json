@@ -5,23 +5,23 @@
   "games": {
     "af": {
       "personality": "peppy",
-      "clothes": "Red Scale Shirt",
+      "clothes": "red-scale-shirt",
       "song": "K.K. Samba"
     },
     "af+": {
       "personality": "peppy",
-      "clothes": "Red Scale Shirt",
+      "clothes": "red-scale-shirt",
       "song": "K.K. Samba"
     },
     "ac": {
       "personality": "peppy",
-      "clothes": "Red Scale Shirt",
+      "clothes": "red-scale-shirt",
       "song": "K.K. Samba",
       "phrase": "li'l chick"
     },
     "afe+": {
       "personality": "peppy",
-      "clothes": "Red Scale Shirt",
+      "clothes": "red-scale-shirt",
       "song": "K.K. Samba"
     }
   },

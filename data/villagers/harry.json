@@ -5,18 +5,18 @@
   "games": {
     "afe+": {
       "personality": "jock",
-      "clothes": "Blue Aloha Shirt",
+      "clothes": "blue-aloha-shirt",
       "song": "K.K. Calypso"
     },
     "cf": {
       "personality": "cranky",
-      "clothes": "Jungle-Camo Tee",
+      "clothes": "jungle-camo-tee",
       "song": "K.K. Calypso",
       "phrase": "beach bum"
     },
     "nl": {
       "personality": "cranky",
-      "clothes": "Jungle-Camo Tee",
+      "clothes": "jungle-camo-tee",
       "song": "K.K. Calypso",
       "phrase": "beach bum",
       "skill": "Tongue twisters",

@@ -5,20 +5,20 @@
   "games": {
     "af": {
       "personality": "normal",
-      "clothes": "Loud Bloom Shirt"
+      "clothes": "loud-bloom-shirt"
     },
     "af+": {
       "personality": "normal",
-      "clothes": "Loud Bloom Shirt"
+      "clothes": "loud-bloom-shirt"
     },
     "ac": {
       "personality": "normal",
-      "clothes": "Loud Bloom Shirt",
+      "clothes": "loud-bloom-shirt",
       "phrase": "hoooonnk"
     },
     "afe+": {
       "personality": "normal",
-      "clothes": "Loud Bloom Shirt"
+      "clothes": "loud-bloom-shirt"
     }
   },
   "name": "Nosegay",

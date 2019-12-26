@@ -5,23 +5,23 @@
   "games": {
     "af": {
       "personality": "normal",
-      "clothes": "Berry Gingham",
+      "clothes": "berry-gingham",
       "song": "K.K. Salsa"
     },
     "af+": {
       "personality": "normal",
-      "clothes": "Berry Gingham",
+      "clothes": "berry-gingham",
       "song": "K.K. Salsa"
     },
     "ac": {
       "personality": "normal",
-      "clothes": "Berry Gingham",
+      "clothes": "berry-gingham",
       "song": "K.K. Salsa",
       "phrase": "buttercup"
     },
     "afe+": {
       "personality": "normal",
-      "clothes": "Berry Gingham",
+      "clothes": "berry-gingham",
       "song": "K.K. Salsa"
     }
   },

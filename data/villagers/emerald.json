@@ -5,23 +5,23 @@
   "games": {
     "af": {
       "personality": "normal",
-      "clothes": "Frog Shirt",
+      "clothes": "frog-shirt",
       "song": "K.K. Tango"
     },
     "af+": {
       "personality": "normal",
-      "clothes": "Frog Shirt",
+      "clothes": "frog-shirt",
       "song": "K.K. Tango"
     },
     "ac": {
       "personality": "normal",
-      "clothes": "Frog Shirt",
+      "clothes": "frog-shirt",
       "song": "K.K. Tango",
       "phrase": "sproing"
     },
     "afe+": {
       "personality": "normal",
-      "clothes": "Frog Shirt",
+      "clothes": "frog-shirt",
       "song": "K.K. Tango"
     }
   },

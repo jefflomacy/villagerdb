@@ -5,29 +5,29 @@
   "games": {
     "af+": {
       "personality": "lazy",
-      "clothes": "Blue Aloha Shirt",
+      "clothes": "blue-aloha-shirt",
       "song": "Aloha K.K."
     },
     "ac": {
       "personality": "lazy",
-      "clothes": "Blue Aloha Shirt",
+      "clothes": "blue-aloha-shirt",
       "song": "Aloha K.K.",
       "phrase": "tu-tutu"
     },
     "afe+": {
       "personality": "lazy",
-      "clothes": "Blue Aloha Shirt",
+      "clothes": "blue-aloha-shirt",
       "song": "Aloha K.K."
     },
     "cf": {
       "personality": "lazy",
-      "clothes": "Explorer Tee",
+      "clothes": "explorer-tee",
       "song": "Aloha K.K.",
       "phrase": "tu-tutu"
     },
     "nl": {
       "personality": "lazy",
-      "clothes": "Explorer Tee",
+      "clothes": "explorer-tee",
       "song": "Aloha K.K.",
       "phrase": "tu-tutu",
       "skill": "Oversleeping",

@@ -5,12 +5,12 @@
   "games": {
     "afe+": {
       "personality": "normal",
-      "clothes": "Yodel Shirt",
+      "clothes": "yodel-shirt",
       "song": "Forest Life"
     },
     "nl": {
       "personality": "normal",
-      "clothes": "Mint Shirt",
+      "clothes": "mint-shirt",
       "song": "Forest Life",
       "phrase": "schep",
       "skill": "Memorizing stuff",

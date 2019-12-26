@@ -5,18 +5,18 @@
   "games": {
     "afe+": {
       "personality": "snooty",
-      "clothes": "Kaffe's Shirt",
+      "clothes": "kaffes-shirt",
       "song": "K.K. Aria"
     },
     "cf": {
       "personality": "snooty",
-      "clothes": "Noble Shirt",
+      "clothes": "noble-shirt",
       "song": "K.K. Aria",
       "phrase": "chicklet"
     },
     "nl": {
       "personality": "snooty",
-      "clothes": "Noble Shirt",
+      "clothes": "noble-shirt",
       "song": "K.K. Aria",
       "phrase": "chicklet",
       "skill": "Writing letters",

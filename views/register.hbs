@@ -1,0 +1,14 @@
+<h1>Register for VillagerDB</h1>
+<form method="post" action="/auth/register-post">
+    <div class="form-group">
+        <label for="inputDisplayName">Display Name</label>
+        <input type="username" name="displayName" class="form-control" id="inputDisplayName" aria-describedby="displayNameHelp" placeholder="Enter display name">
+        <small id="displayNameHelp" class="form-text text-muted">Your display name is unique and is used to share your content.</small>
+    </div>
+    <div class="form-check">
+        <input type="checkbox" name="coppaCheck" class="form-check-input" id="coppaCheck">
+        <label class="form-check-label" for="coppaCheck">You must be 13 years old or older and by checking this checkbox I affirm I am 13 years old or older.</label>
+    </div>
+    <button type="submit" name="submit" class="btn btn-primary">Submit</button>
+    <button type="cancel" name="cancel" formaction="/auth/register-cancel" class="btn btn-primary">Cancel</button>
+</form>

@@ -19,11 +19,13 @@ passport.use(
             .then((existingUser) => {
                 if(existingUser) {
                     console.log('User already exists.');
+                    existingUser.isNewUser = false;
                     cb(null, existingUser);
                 } else {
                     users.saveUser(googleId, email)
                         .then((newUser) => {
                             console.log('New user created.');
+                            newUser.isNewUser = true;
                             cb(null, newUser)
                         });
                 }
@@ -36,7 +38,11 @@ passport.use(
  * Serialize user function
  */
 passport.serializeUser(function(user, cb) {
-    cb(null, user['_id']);
+    let userData = {};
+    userData.id = user._id;
+    userData.googleId = user.googleId;
+    userData.isNewUser = user.isNewUser;
+    cb(null, userData);
 });
 
 /**
@@ -45,6 +51,7 @@ passport.serializeUser(function(user, cb) {
 passport.deserializeUser(function(id, cb) {
     users.findUserById(id)
         .then((user) => {
+            console.log(user);
             cb(null, user);
         });
 });

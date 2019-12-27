@@ -10,6 +10,7 @@ const staticify = require('./config/staticify');
 
 const passport = require('./config/passport');
 const session = require('./config/session/middleware');
+const userManagement = require('./helpers/middleware/user-management');
 
 const indexRouter = require('./routes/index');
 const autocompleteRouter = require('./routes/autocomplete');
@@ -68,6 +69,7 @@ app.disable('x-powered-by');
 app.use(passport.middleware.initialize());
 app.use(passport.middleware.session());
 app.use(session);
+app.use(userManagement);
 
 // Router setup.
 app.use('/', indexRouter);

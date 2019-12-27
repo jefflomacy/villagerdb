@@ -10,7 +10,7 @@ const router = express.Router();
  * @param next
  */
 const authCheck = (req, res, next) => {
-    if (!req.user) {
+    if (!req.session.passport) {
         res.redirect('/auth/login');
     } else {
         next();
@@ -21,7 +21,8 @@ const authCheck = (req, res, next) => {
  * Route for profile.
  */
 router.get('/', authCheck, (req, res) => {
-    res.send('Your Profile : ' + req.user['email']);
+    console.log(req.session);
+    res.send('Your Profile : ' + req.session['passport']);
 })
 
 module.exports = router;

@@ -20,7 +20,7 @@ const villagersRouter = require('./routes/villagers');
 const itemRouter = require('./routes/item');
 const itemsRouter = require('./routes/items');
 const authRouter = require('./routes/auth');
-const profileRouter = require('./routes/profile');
+const userRouter = require('./routes/user');
 
 const app = express();
 
@@ -80,7 +80,7 @@ app.use('/villagers', villagersRouter);
 app.use('/item', itemRouter);
 app.use('/items', itemsRouter);
 app.use('/auth', authRouter);
-app.use('/profile', profileRouter);
+app.use('/user', userRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

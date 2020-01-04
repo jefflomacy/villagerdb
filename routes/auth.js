@@ -64,7 +64,7 @@ router.get('/register', (req, res) => {
 });
 
 /**
- * Form validation for registration
+ * Route to verify registration form
  */
 router.post('/register-post', (req, res) => {
     const displayName = req.body.displayName;
@@ -82,6 +82,9 @@ router.post('/register-post', (req, res) => {
 
 });
 
+/**
+ * Route to cancel registration. Deletes user from database and logs them out.
+ */
 router.post('/register-cancel', (req, res) => {
     console.log('User cancelling registration. Deleting user in db and destroying session.');
     users.deleteUser(res.locals.userState.googleId)

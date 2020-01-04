@@ -89,14 +89,17 @@
         <ul class="navbar-nav">
         {{#if userState.isLoggedIn}}
             <li class="nav-item">
-                <a class="nav-link" href="/profile">My Profile</a>
+                <a class="nav-link" href="/profile/{{userState.displayName}}">My Profile</a>
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="/auth/logout">Log Out</a>
             </li>
         {{else}}
             <li class="nav-item">
-                <a class="nav-link" href="/auth/login">Log In</a>
+                <a class="btn btn-outline-light" href="/auth/google" role="button" style="text-transform:none">
+                    <img width="20px" style="margin-bottom:3px; margin-right:5px" alt="Google Sign-In" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/512px-Google_%22G%22_Logo.svg.png" />
+                    Login with Google
+                </a>
             </li>
         {{/if}}
         </ul>

@@ -1,5 +1,6 @@
 const express = require('express');
 const router = express.Router();
+const users = require('../db/entity/users');
 
 /**
  *
@@ -10,19 +11,29 @@ const router = express.Router();
  * @param next
  */
 const authCheck = (req, res, next) => {
-    if (!req.session.passport) {
-        res.redirect('/auth/login');
-    } else {
+    if (res.locals.userState.isLoggedIn) {
         next();
+    } else {
+        res.redirect('/auth/login');
     }
 };
+
+async function loadProfile(googleId) {
+    const result = {};
+    const user = await users.findUserByGoogleId(googleId);
+    result.userName = user.displayName;
+
+    return result;
+}
 
 /**
  * Route for profile.
  */
-router.get('/', authCheck, (req, res) => {
-    console.log(req.session);
-    res.send('Your Profile : ' + req.session['passport']);
-})
+router.get('/:userName', authCheck, (req, res, next) => {
+    loadProfile(res.locals.userState.googleId)
+        .then((data) => {
+            res.render('profile', data);
+        }).catch(next);
+});
 
 module.exports = router;

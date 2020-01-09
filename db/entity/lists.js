@@ -24,12 +24,29 @@ class Lists {
      * @param items
      * @returns {Promise<*>}
      */
-    async createList(googleId, listName, items) {
+    async createList(googleId, listName) {
         let conn = this.db.get();
         const villagerDb = conn.db(this.dbName);
 
-        await villagerDb.collection('lists').insertOne( { googleId: googleId, name: listName, items: items } );
+        await villagerDb.collection('lists').insertOne( { googleId: googleId, name: listName } );
         return await villagerDb.collection('lists').findOne( { name: listName } );
+    }
+
+    /**
+     * Add an item to an existing list.
+     *
+     * @param listName
+     * @param itemId
+     * @returns {Promise<Promise|OrderedBulkOperation|UnorderedBulkOperation>}
+     */
+    async addItemToList(listName, itemId) {
+        let conn = this.db.get();
+        const villagerDb = conn.db(this.dbName);
+
+        return villagerDb.collection('lists').updateOne(
+            { name: listName },
+            { $addToSet: { items: itemId } }
+        );
     }
 
     /**
@@ -53,7 +70,8 @@ class Lists {
     async getListsByUser(googleId) {
         let conn = this.db.get();
         const villagerDb = conn.db(this.dbName);
-        return await villagerDb.collection('lists').find( { googleId: googleId } );
+        const cursor = villagerDb.collection('lists').find( { googleId: googleId } );
+        return await cursor.toArray();
     }
 
     /**
@@ -65,7 +83,7 @@ class Lists {
     async deleteList(listName) {
         let conn = this.db.get();
         const villagerDb = conn.db(this.dbName);
-        return await villagerDb.collection('lists').delete( { name: listName } );
+        return await villagerDb.collection('lists').deleteOne( { name: listName } );
     }
 
     /**
@@ -77,7 +95,7 @@ class Lists {
     async deleteListsByUser(googleId) {
         let conn = this.db.get();
         const villagerDb = conn.db(this.dbName);
-        return await villagerDb.collection('lists').delete( { googleId: googleId } );
+        return await villagerDb.collection('lists').deleteOne( { googleId: googleId } );
     }
 
 }

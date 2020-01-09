@@ -12,8 +12,9 @@ const lists = require('../db/entity/lists');
 async function loadUser(userName) {
     const result = {};
     const user = await users.findUserByName(userName);
-    const userLists = lists.getListsByUser(user.googleId);
+    const userLists = await lists.getListsByUser(user.googleId);
 
+    result.user = user;
     result.pageTitle = user.displayName + "'s Profile";
     result.userName = user.displayName;
     result.lists = userLists;
@@ -46,15 +47,43 @@ async function loadList(userName, listName) {
 router.get('/:userName', function (req, res, next) {
     loadUser(req.params.userName)
         .then((data) => {
+            if (data.user.googleId === res.locals.userState.googleId) {
+                data.isOwnUser = true;
+            }
             res.render('user', data);
         }).catch(next);
 });
 
+/**
+ * Route for list.
+ */
 router.get('/:userName/list/:listName', (req, res, next) => {
     loadList(req.params.userName, req.params.listName)
         .then((data) => {
             res.render('list', data);
         }).catch(next);
+});
+
+/**
+ * Route for deleting a list.
+ */
+router.get('/:userName/list/:listName/delete', (req, res) => {
+    if (res.locals.userState.isLoggedIn) {
+        users.findUserByGoogleId(res.locals.userState.googleId)
+            .then((user) => {
+                if (user.displayName === req.params.userName) {
+                    lists.deleteList(req.params.listName)
+                        .then(() => {
+                            console.log('List', req.params.listName, 'deleted.');
+                            res.redirect('/user/' + req.params.userName);
+                        })
+                } else {
+                    res.redirect('/');
+                }
+            });
+    } else {
+        res.redirect('/');
+    }
 });
 
 module.exports = router;

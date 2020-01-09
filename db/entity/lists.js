@@ -1,5 +1,6 @@
 const mongo = require('../mongo');
 const ObjectId = require('mongodb').ObjectID;
+const format = require('../../helpers/format');
 
 /**
  * Lists repository.
@@ -28,7 +29,8 @@ class Lists {
         let conn = this.db.get();
         const villagerDb = conn.db(this.dbName);
 
-        await villagerDb.collection('lists').insertOne( { googleId: googleId, name: listName } );
+        const listId = format.getSlug(listName);
+        await villagerDb.collection('lists').insertOne( { googleId: googleId, name: listName, id: listId } );
         return await villagerDb.collection('lists').findOne( { name: listName } );
     }
 
@@ -39,26 +41,27 @@ class Lists {
      * @param itemId
      * @returns {Promise<Promise|OrderedBulkOperation|UnorderedBulkOperation>}
      */
-    async addItemToList(listName, itemId) {
+    async addItemToList(listId, itemId) {
         let conn = this.db.get();
         const villagerDb = conn.db(this.dbName);
 
         return villagerDb.collection('lists').updateOne(
-            { name: listName },
+            { id: listId },
             { $addToSet: { items: itemId } }
         );
     }
 
     /**
-     * Find a list by its name.
+     * Find a list by its id.
      *
      * @param listId
      * @returns {Promise<*>}
      */
-    async getListByName(listName) {
+    async getListById(listId) {
         let conn = this.db.get();
         const villagerDb = conn.db(this.dbName);
-        return await villagerDb.collection('lists').findOne( { name: listName } );
+
+        return await villagerDb.collection('lists').findOne( { id: listId } );
     }
 
     /**
@@ -80,10 +83,10 @@ class Lists {
      * @param listId
      * @returns {Promise<Promise|OrderedBulkOperation|UnorderedBulkOperation>}
      */
-    async deleteList(listName) {
+    async deleteList(listId) {
         let conn = this.db.get();
         const villagerDb = conn.db(this.dbName);
-        return await villagerDb.collection('lists').deleteOne( { name: listName } );
+        return await villagerDb.collection('lists').deleteOne( { id: listId } );
     }
 
     /**

@@ -26,13 +26,13 @@ async function loadUser(userName) {
  * Load a list.
  *
  * @param userName
- * @param listName
+ * @param listId
  * @returns {Promise<void>}
  */
-async function loadList(userName, listName) {
+async function loadList(userName, listId) {
     const result = {};
-    const list = await lists.getListByName(listName);
-    console.log(list);
+    const list = await lists.getListById(listId);
+
     result.pageTitle = list.name;
     result.listName = list.name;
     result.author = userName;
@@ -55,10 +55,45 @@ router.get('/:userName', function (req, res, next) {
 });
 
 /**
+ * Route for getting the create-list page.
+ */
+router.get('/:userName/create-list', (req, res) => {
+    if (res.locals.userState.isLoggedIn) {
+        users.findUserByGoogleId(res.locals.userState.googleId)
+            .then((user) => {
+                if (user.displayName === req.params.userName) {
+                    res.render('create-list', user);
+                } else {
+                    res.redirect('/');
+                }
+            });
+    } else {
+        res.redirect('/')
+    }
+});
+
+/**
+ * Route for POSTing new list to the database.
+ */
+router.post('/:userName/create-list-post', (req, res) => {
+    const listName = req.body.listName;
+
+    if (listName) {
+        lists.createList(res.locals.userState.googleId, listName)
+            .then(() => {
+                console.log('List', listName, 'created.');
+                res.redirect('/user/' + req.params.userName)
+            })
+    } else {
+        res.redirect('/user/' + req.params.userName + '/create-list')
+    }
+});
+
+/**
  * Route for list.
  */
-router.get('/:userName/list/:listName', (req, res, next) => {
-    loadList(req.params.userName, req.params.listName)
+router.get('/:userName/list/:listId', (req, res, next) => {
+    loadList(req.params.userName, req.params.listId)
         .then((data) => {
             res.render('list', data);
         }).catch(next);
@@ -67,14 +102,14 @@ router.get('/:userName/list/:listName', (req, res, next) => {
 /**
  * Route for deleting a list.
  */
-router.get('/:userName/list/:listName/delete', (req, res) => {
+router.get('/:userName/list/:listId/delete', (req, res) => {
     if (res.locals.userState.isLoggedIn) {
         users.findUserByGoogleId(res.locals.userState.googleId)
             .then((user) => {
                 if (user.displayName === req.params.userName) {
-                    lists.deleteList(req.params.listName)
+                    lists.deleteList(req.params.listId)
                         .then(() => {
-                            console.log('List', req.params.listName, 'deleted.');
+                            console.log('List', req.params.listId, 'deleted.');
                             res.redirect('/user/' + req.params.userName);
                         })
                 } else {

@@ -1,0 +1,9 @@
+<h1>Create a new list</h1>
+<form method="post" action="/user/{{displayName}}/create-list-post">
+    <div class="form-group">
+        <label for="inputListName">List Name</label>
+        <input type="text" name="listName" class="form-control" id="inputListName" aria-describedby="listNameHelp" placeholder="Enter list name">
+        <small id="listNameHelp" class="form-text text-muted">You can add items to your list while you're browsing VillagerDB.</small>
+    </div>
+    <button type="submit" name="submit" class="btn btn-primary">Submit</button>
+</form>

@@ -7,11 +7,11 @@
                 {{#each lists}}
                     <li class="list-group-item">
                         <div class="float-left">
-                            <a href="/user/{{../userName}}/list/{{name}}">{{name}}</a>
+                            <a href="/user/{{../userName}}/list/{{id}}">{{name}}</a>
                         </div>
                         <div class="float-right">
-                            <a href="/user/{{../userName}}/list/{{name}}/edit" class="btn-sm btn-primary" role="button">Edit</a>
-                            <a href="/user/{{../userName}}/list/{{name}}/delete" class="btn-sm btn-danger" role="button">Delete</a>
+                            <a href="/user/{{../userName}}/list/{{id}}" class="btn-sm btn-primary" role="button">Edit</a>
+                            <a href="/user/{{../userName}}/list/{{id}}/delete" class="btn-sm btn-danger" role="button">Delete</a>
                         </div>
                     </li>
                 {{/each}}
@@ -19,7 +19,7 @@
                 {{#each lists}}
                     <li class="list-group-item">
                         <div class="float-left">
-                            <a href="/user/{{../userName}}/list/{{name}}">{{name}}</a>
+                            <a href="/user/{{../userName}}/list/{{id}}">{{name}}</a>
                         </div>
                     </li>
                 {{/each}}
@@ -30,7 +30,7 @@
     {{#if isOwnUser}}
         <div class="col-sm">
             <ul class="list-group">
-                <a href="/new-list" class="list-group-item list-group-item-action">Create a new list</a>
+                <a href="/user/{{userName}}/create-list" class="list-group-item list-group-item-action">Create a new list</a>
             </ul>
         </div>
     {{/if}}

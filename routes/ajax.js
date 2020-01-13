@@ -17,7 +17,7 @@ async function getUserLists(googleId) {
 
     let listNames = [];
     userLists.forEach(function (list) {
-        listNames.push({name: list.name, id: list.id});
+        listNames.push({name: list.name, id: list.id, items: list.items});
     });
 
     results.push(listNames);
@@ -47,8 +47,8 @@ router.get('/get-user-lists', function (req, res, next) {
  * Route for adding an item to a list.
  */
 router.post('/add-item-to-list', function (req, res) {
-    const listId = req.body.listId;
-    const itemId = req.body.itemId;
+    const listId = req.body.list.listId;
+    const itemId = req.body.list.itemId;
     lists.addItemToList(listId, itemId)
         .then((dbResponse) => {
             res.status(201).send('Item added to list successfully.');

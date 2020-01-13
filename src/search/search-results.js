@@ -17,6 +17,19 @@ export default class SearchResults extends React.Component {
         }
     }
 
+    handleChange(listId, itemId) {
+
+        const list = {
+            listId: listId,
+            itemId: itemId
+        }
+
+        axios.post('http://localhost:3000/ajax/add-item-to-list', { list })
+            .then(res => {
+                console.log(res);
+            });
+    }
+
     componentDidMount() {
         axios.get('http://localhost:3000/ajax/get-user-lists')
             .then(res => {
@@ -54,7 +67,11 @@ export default class SearchResults extends React.Component {
                                         +
                                     </button>
                                     <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                        {this.state.lists.map(list => <a className="dropdown-item">{list.name}</a>)}
+                                            {this.state.lists.map(list =>
+                                                <form onClick={(e) => this.handleChange(list.id, result.id)}>
+                                                    <button type="button" className="dropdown-item">{list.name}</button>
+                                                </form>
+                                            )}
                                     </div>
                                 </div>
 

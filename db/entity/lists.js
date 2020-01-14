@@ -1,5 +1,4 @@
 const mongo = require('../mongo');
-const ObjectId = require('mongodb').ObjectID;
 const format = require('../../helpers/format');
 
 /**
@@ -22,7 +21,7 @@ class Lists {
      * Create a new list.
      *
      * @param googleId
-     * @param items
+     * @param listName
      * @returns {Promise<*>}
      */
     async createList(googleId, listName) {
@@ -30,34 +29,54 @@ class Lists {
         const villagerDb = conn.db(this.dbName);
 
         const listId = format.getSlug(listName);
-        await villagerDb.collection('lists').insertOne( { googleId: googleId, name: listName, id: listId } );
+        await villagerDb.collection('lists').insertOne( { googleId: googleId, name: listName, id: listId, entities: [] } );
+
         return await villagerDb.collection('lists').findOne( { name: listName } );
     }
 
     /**
-     * Add an item to an existing list.
+     * Add an entity to an existing list.
      *
-     * @param listName
-     * @param itemId
+     * @param listId
+     * @param entityId
+     * @param type
      * @returns {Promise<Promise|OrderedBulkOperation|UnorderedBulkOperation>}
      */
-    async addItemToList(listId, itemId) {
+    async addEntityToList(listId, entityId, type) {
         let conn = this.db.get();
         const villagerDb = conn.db(this.dbName);
+
+        const store = {
+            entityId: entityId,
+            type: type
+        };
 
         return villagerDb.collection('lists').updateOne(
             { id: listId },
-            { $addToSet: { items: itemId } }
+            { $addToSet: { entities: store } }
         );
     }
 
-    async removeItemFromList(listId, itemId) {
+    /**
+     * Remove an entity from an existing list.
+     *
+     * @param listId
+     * @param entityId
+     * @param type
+     * @returns {Promise<Promise|OrderedBulkOperation|UnorderedBulkOperation>}
+     */
+    async removeEntityFromList(listId, entityId, type) {
         let conn = this.db.get();
         const villagerDb = conn.db(this.dbName);
 
-        return villagerDb.collection('lists').update(
+        const store = {
+            entityId: entityId,
+            type: type
+        };
+
+        return villagerDb.collection('lists').updateOne(
             { id: listId },
-            { $pull: { items: itemId } }
+            { $pull: { entities: store } }
         );
     }
 

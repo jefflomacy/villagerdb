@@ -1,5 +1,6 @@
 import React from "react";
 import axios from "axios";
+import DropdownList from './dropdown-list';
 
 /**
  *
@@ -12,24 +13,9 @@ export default class SearchResults extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
-            addRemoveMessage: "Add to",
             loggedIn: false,
             lists: []
         }
-    }
-
-    handleChange(listId, itemId, itemExists) {
-        const list = {
-            listId: listId,
-            itemId: itemId,
-            add: !itemExists
-        }
-
-        axios.post('http://localhost:3000/ajax/add-item-to-list', { list })
-            .then(res => {
-                console.log("Added item to list.");
-            });
-
     }
 
     componentDidMount() {
@@ -59,42 +45,13 @@ export default class SearchResults extends React.Component {
         const list = [];
         for (let result of this.props.results) {
             if (this.state.loggedIn) {
-
-                const includedItems = [];
-                this.state.lists.forEach((itemList) => {
-                    if (itemList.items.includes(result.id)) {
-                        //this.setState( addRemoveMessage: "Remove from");
-                        const itemExists = true;
-                        includedItems.push(
-                            <form onClick={(e) => this.handleChange(itemList.id, result.id, itemExists)}>
-                                <button type="button" className="dropdown-item">{this.state.addRemoveMessage} {itemList.name}</button>
-                            </form>
-                        );
-                    } else {
-                        this.state.addRemoveMessage = "Add to";
-                        const itemExists = false;
-                        includedItems.push(
-                            <form onClick={(e) => this.handleChange(itemList.id, result.id, itemExists)}>
-                                <button type="button" className="dropdown-item">{this.state.addRemoveMessage} {itemList.name}</button>
-                            </form>
-                        );
-                    }
-                });
-
+                let exp = '(item|villager)-(.*)';
+                const split = result.id.match(exp);
+                const entityData = { entityId: split[2], type: split[1] };
                 list.push(
                     <li key={result.id} className="col-6 col-sm-4 col-md-3">
-
                             <div className="search-result-container">
-                                <div className="dropdown">
-                                    <button className="btn btn-outline-secondary dropdown-toggle" type="button"
-                                            data-toggle="dropdown" aria-haspopup="true" id="dropdownMenuButton">
-                                        +
-                                    </button>
-                                    <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                        {includedItems}
-                                    </div>
-                                </div>
-
+                                <DropdownList entityData={entityData} lists={this.state.lists}/>
                                 <div>
                                     <a href={result.url}>
                                         <img src={result.imageUrl}

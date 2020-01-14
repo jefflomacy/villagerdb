@@ -17,7 +17,7 @@ async function getUserLists(googleId) {
 
     let listNames = [];
     userLists.forEach(function (list) {
-        listNames.push({name: list.name, id: list.id, items: list.items});
+        listNames.push({name: list.name, id: list.id, entities: list.entities});
     });
 
     results.push(listNames);
@@ -46,13 +46,14 @@ router.get('/get-user-lists', function (req, res, next) {
 /**
  * Route for adding an item to a list.
  */
-router.post('/add-item-to-list', function (req, res) {
+router.post('/add-entity-to-list', function (req, res) {
     const listId = req.body.list.listId;
-    const itemId = req.body.list.itemId;
+    const entityId = req.body.list.entityId;
+    const type = req.body.list.type;
     const add = req.body.list.add;
 
     if (add) {
-        lists.addItemToList(listId, itemId)
+        lists.addEntityToList(listId, entityId, type)
             .then((dbResponse) => {
                 res.status(201).send('Item added to list successfully.');
             })
@@ -60,7 +61,7 @@ router.post('/add-item-to-list', function (req, res) {
                 console.log(err);
             });
     } else {
-        lists.removeItemFromList(listId, itemId)
+        lists.removeEntityFromList(listId, entityId, type)
             .then((dbResponse) => {
                 res.status(201).send('Item removed from list successfully.');
             })

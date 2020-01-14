@@ -51,6 +51,16 @@ class Lists {
         );
     }
 
+    async removeItemFromList(listId, itemId) {
+        let conn = this.db.get();
+        const villagerDb = conn.db(this.dbName);
+
+        return villagerDb.collection('lists').update(
+            { id: listId },
+            { $pull: { items: itemId } }
+        );
+    }
+
     /**
      * Find a list by its id.
      *

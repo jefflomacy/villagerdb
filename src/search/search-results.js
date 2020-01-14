@@ -12,22 +12,24 @@ export default class SearchResults extends React.Component {
     constructor(props) {
         super(props);
         this.state = {
+            addRemoveMessage: "Add to",
             loggedIn: false,
             lists: []
         }
     }
 
-    handleChange(listId, itemId) {
-
+    handleChange(listId, itemId, itemExists) {
         const list = {
             listId: listId,
-            itemId: itemId
+            itemId: itemId,
+            add: !itemExists
         }
 
         axios.post('http://localhost:3000/ajax/add-item-to-list', { list })
             .then(res => {
-                console.log(res);
+                console.log("Added item to list.");
             });
+
     }
 
     componentDidMount() {
@@ -57,6 +59,28 @@ export default class SearchResults extends React.Component {
         const list = [];
         for (let result of this.props.results) {
             if (this.state.loggedIn) {
+
+                const includedItems = [];
+                this.state.lists.forEach((itemList) => {
+                    if (itemList.items.includes(result.id)) {
+                        //this.setState( addRemoveMessage: "Remove from");
+                        const itemExists = true;
+                        includedItems.push(
+                            <form onClick={(e) => this.handleChange(itemList.id, result.id, itemExists)}>
+                                <button type="button" className="dropdown-item">{this.state.addRemoveMessage} {itemList.name}</button>
+                            </form>
+                        );
+                    } else {
+                        this.state.addRemoveMessage = "Add to";
+                        const itemExists = false;
+                        includedItems.push(
+                            <form onClick={(e) => this.handleChange(itemList.id, result.id, itemExists)}>
+                                <button type="button" className="dropdown-item">{this.state.addRemoveMessage} {itemList.name}</button>
+                            </form>
+                        );
+                    }
+                });
+
                 list.push(
                     <li key={result.id} className="col-6 col-sm-4 col-md-3">
 
@@ -67,11 +91,7 @@ export default class SearchResults extends React.Component {
                                         +
                                     </button>
                                     <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                                            {this.state.lists.map(list =>
-                                                <form onClick={(e) => this.handleChange(list.id, result.id)}>
-                                                    <button type="button" className="dropdown-item">{list.name}</button>
-                                                </form>
-                                            )}
+                                        {includedItems}
                                     </div>
                                 </div>
 

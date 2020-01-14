@@ -49,13 +49,26 @@ router.get('/get-user-lists', function (req, res, next) {
 router.post('/add-item-to-list', function (req, res) {
     const listId = req.body.list.listId;
     const itemId = req.body.list.itemId;
-    lists.addItemToList(listId, itemId)
-        .then((dbResponse) => {
-            res.status(201).send('Item added to list successfully.');
-        })
-        .catch((err) => {
-            console.log(err);
-        })
+    const add = req.body.list.add;
+
+    if (add) {
+        lists.addItemToList(listId, itemId)
+            .then((dbResponse) => {
+                res.status(201).send('Item added to list successfully.');
+            })
+            .catch((err) => {
+                console.log(err);
+            });
+    } else {
+        lists.removeItemFromList(listId, itemId)
+            .then((dbResponse) => {
+                res.status(201).send('Item removed from list successfully.');
+            })
+            .catch((err) => {
+                console.log(err);
+            });
+    }
+
 });
 
 module.exports = router;

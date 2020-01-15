@@ -67,13 +67,13 @@ router.get('/register', (req, res) => {
  * Route to verify registration form
  */
 router.post('/register-post', (req, res) => {
-    const displayName = req.body.displayName;
+    const username = req.body.username;
     const coppaCheck = req.body.coppaCheck;
 
     if (coppaCheck) {
-        users.setRegistered(displayName, res.locals.userState.googleId)
+        users.setRegistered(username, res.locals.userState.googleId)
             .then(() => {
-                console.log('User', displayName, 'registered.')
+                console.log('User', username, 'registered.')
                 res.redirect('/');
             })
     } else {

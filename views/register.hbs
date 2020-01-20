@@ -1,4 +1,9 @@
 <h1>Register for VillagerDB</h1>
+{{#each errors}}
+    <div class="alert alert-danger">
+        {{msg}}
+    </div>
+{{/each}}
 <form method="post" action="/auth/register-post">
     <div class="form-group">
         <label for="inputUsername">Username</label>

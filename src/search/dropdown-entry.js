@@ -34,6 +34,8 @@ export default class DropdownEntry extends React.Component {
             add = false;
         }
 
+        console.log(add);
+
         // Grouping up data to POST.
         const list = {
             listId: listId,

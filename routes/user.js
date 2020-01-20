@@ -2,6 +2,7 @@ const express = require('express');
 const router = express.Router();
 const users = require('../db/entity/users');
 const lists = require('../db/entity/lists');
+const { check, validationResult, body } = require('express-validator');
 
 /**
  * Load user profile.
@@ -64,11 +65,17 @@ router.get('/:username', function (req, res, next) {
  * Route for getting the create-list page.
  */
 router.get('/:username/create-list', (req, res) => {
+
+    const data = {};
+    data.errors = req.session.errors;
+    delete req.session.errors;
+
     if (res.locals.userState.isLoggedIn) {
         users.findUserByGoogleId(res.locals.userState.googleId)
             .then((user) => {
                 if (user.username === req.params.username) {
-                    res.render('create-list', user);
+                    data.user = user;
+                    res.render('create-list', data);
                 } else {
                     res.redirect('/');
                 }
@@ -81,17 +88,34 @@ router.get('/:username/create-list', (req, res) => {
 /**
  * Route for POSTing new list to the database.
  */
-router.post('/:username/create-list-post', (req, res) => {
-    const listName = req.body.listName;
+router.post('/:username/create-list-post', [
+        check("listName", "Please enter a name for the list."),
+        check("listName", "List name must be at least 3 characters long.").isLength( { min: 3 } ),
+        check("listName", "List name must be alphanumeric.").matches(/^[a-z0-9 ]+$/i),
+        body("listName")
+            .custom((value, { req }) => {
+                return lists.listAlreadyExists(req.session.passport.user.googleId, value)
+                    .then((listExists) => {
+                        if (listExists) {
+                            return Promise.reject('List name already in use.');
+                        }
+                    });
+            })
+    ],
+    (req, res) => {
 
-    if (listName) {
+    const listName = req.body.listName;
+    const errors = validationResult(req);
+
+    if (!errors.isEmpty()) {
+        req.session.errors = errors;
+        res.redirect('/user/' + req.params.username + '/create-list');
+    } else {
         lists.createList(res.locals.userState.googleId, listName)
             .then(() => {
                 console.log('List', listName, 'created.');
-                res.redirect('/user/' + req.params.username)
+                res.redirect('/user/' + req.params.username);
             })
-    } else {
-        res.redirect('/user/' + req.params.username + '/create-list')
     }
 });
 

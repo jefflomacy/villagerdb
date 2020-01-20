@@ -51,9 +51,9 @@ router.post('/add-entity-to-list', function (req, res) {
     const listId = req.body.listId;
     const entityId = req.body.entityId;
     const type = req.body.type;
-    const add = (req.body.add === true);
+    const add = req.body.add;
 
-    if (add) {
+    if (add === "true") {
         lists.addEntityToList(googleId, listId, entityId, type)
             .then((dbResponse) => {
                 res.status(201).send('Item added to list successfully.');

@@ -107,6 +107,23 @@ class Users {
         return await villagerDb.collection('users').deleteOne( { googleId: googleId } );
     }
 
+    /**
+     * Method for validating if a username is already in use.
+     *
+     * @param name
+     * @returns {Promise<boolean>}
+     */
+    async usernameAlreadyExists(name) {
+        let conn = this.db.get();
+        const villagerDb = conn.db(this.dbName);
+        const user = await villagerDb.collection('users').findOne( { username: name } );
+        let userExists = false;
+        if (user !== null) {
+            userExists = true;
+        }
+        return userExists;
+    }
+
 }
 
 module.exports = new Users(mongo, process.env.DB_NAME);

@@ -106,7 +106,10 @@ class Lists {
         let conn = this.db.get();
         const villagerDb = conn.db(this.dbName);
 
-        const cursor = await villagerDb.collection('users').findOne( { googleId: googleId }, { projection: { lists: 1, _id: 0 } } );
+        const cursor = await villagerDb.collection('users').findOne(
+            { googleId: googleId },
+            { projection: { lists: 1, _id: 0 } }
+        );
         let list;
         cursor.lists.some((listIndex) => {
             if (listIndex.id === listId) {
@@ -147,6 +150,33 @@ class Lists {
             }
 
         );
+    }
+
+    /**
+     * Method for validating if a list already exists.
+     *
+     * @param googleId
+     * @param listId
+     * @returns {Promise<boolean>}
+     */
+    async listAlreadyExists(googleId, listName) {
+        let conn = this.db.get();
+        const villagerDb = conn.db(this.dbName);
+
+        const cursor = await villagerDb.collection('users').findOne(
+            { googleId: googleId },
+            { projection: { lists: 1, _id: 0 } }
+        );
+        let listExists = false;
+        if (cursor.lists != null) {
+            cursor.lists.some((listIndex) => {
+                if (listIndex.name === listName) {
+                    listExists = true;
+                }
+            });
+        }
+
+        return listExists;
     }
 
 }

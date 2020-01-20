@@ -1,5 +1,10 @@
 <h1>Create a new list</h1>
-<form method="post" action="/user/{{username}}/create-list-post">
+{{#each errors.errors}}
+    <div class="alert alert-danger">
+        {{msg}}
+    </div>
+{{/each}}
+<form method="post" action="/user/{{user.username}}/create-list-post">
     <div class="form-group">
         <label for="inputListName">List Name</label>
         <input type="text" name="listName" class="form-control" id="inputListName" aria-describedby="listNameHelp" placeholder="Enter list name">

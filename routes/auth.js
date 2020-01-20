@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const passport = require('passport');
 const users = require('../db/entity/users');
-const { check, validationResult } = require('express-validator');
+const { check, validationResult, body } = require('express-validator');
 
 /**
  * Login page
@@ -66,18 +66,32 @@ router.get('/register', (req, res) => {
 /**
  * Route to verify registration form
  */
-router.post('/register-post', (req, res) => {
+router.post('/register-post', [
+        check("username", "Username must be at least 3 characters long.").isLength( { min: 3 } ),
+        check("username", "Username must be alphanumeric.").isAlphanumeric(),
+        check("coppaCheck", "Age checkbox must be checked.").exists(),
+        body("username")
+            .custom((value) => {
+                return users.usernameAlreadyExists(value)
+                    .then((userExists) => {
+                        if (userExists) {
+                            return Promise.reject('Username already in use.');
+                        }
+                    });
+            })
+    ],
+    (req, res) => {
     const username = req.body.username;
-    const coppaCheck = req.body.coppaCheck;
+    const errors = validationResult(req);
 
-    if (coppaCheck) {
+    if (!errors.isEmpty()) {
+        res.render('register', errors);
+    } else {
         users.setRegistered(username, res.locals.userState.googleId)
             .then(() => {
                 console.log('User', username, 'registered.')
                 res.redirect('/');
             })
-    } else {
-        res.redirect('/auth/register')
     }
 
 });

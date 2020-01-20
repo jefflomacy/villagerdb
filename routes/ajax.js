@@ -47,13 +47,14 @@ router.get('/get-user-lists', function (req, res, next) {
  * Route for adding an item to a list.
  */
 router.post('/add-entity-to-list', function (req, res) {
+    const googleId = res.locals.userState.googleId;
     const listId = req.body.list.listId;
     const entityId = req.body.list.entityId;
     const type = req.body.list.type;
     const add = req.body.list.add;
 
     if (add) {
-        lists.addEntityToList(listId, entityId, type)
+        lists.addEntityToList(googleId, listId, entityId, type)
             .then((dbResponse) => {
                 res.status(201).send('Item added to list successfully.');
             })
@@ -61,7 +62,7 @@ router.post('/add-entity-to-list', function (req, res) {
                 console.log(err);
             });
     } else {
-        lists.removeEntityFromList(listId, entityId, type)
+        lists.removeEntityFromList(googleId, listId, entityId, type)
             .then((dbResponse) => {
                 res.status(201).send('Item removed from list successfully.');
             })

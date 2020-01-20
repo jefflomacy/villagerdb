@@ -1,2 +1,9 @@
-<h1>{{listName}} by {{author}}</h1>
-{{items}}
+{{#if errorMessage }}
+    <h1>Non-existent list by {{author}}</h1>
+    <div class="alert alert-danger">
+        This list doesn't exist.
+    </div>
+{{else}}
+    <h1>{{listName}} by {{author}}</h1>
+    {{items}}
+{{/if}}

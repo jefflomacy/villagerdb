@@ -12,7 +12,7 @@ const lists = require('../db/entity/lists');
 async function loadUser(username) {
     const result = {};
     const user = await users.findUserByName(username);
-    const userLists = await lists.getListsByUser(user.googleId);
+    const userLists = user.lists;
 
     result.user = user;
     result.pageTitle = user.username + "'s Profile";
@@ -29,9 +29,15 @@ async function loadUser(username) {
  * @param listId
  * @returns {Promise<void>}
  */
-async function loadList(username, listId) {
+async function loadList(googleId, username, listId) {
     const result = {};
-    const list = await lists.getListById(listId);
+    const list = await lists.getListById(googleId, listId);
+
+    if (list == null) {
+        result.author = username;
+        result.errorMessage = true;
+        return result;
+    }
 
     result.pageTitle = list.name;
     result.listName = list.name;
@@ -93,7 +99,7 @@ router.post('/:username/create-list-post', (req, res) => {
  * Route for list.
  */
 router.get('/:username/list/:listId', (req, res, next) => {
-    loadList(req.params.username, req.params.listId)
+    loadList(res.locals.userState.googleId, req.params.username, req.params.listId)
         .then((data) => {
             res.render('list', data);
         }).catch(next);
@@ -107,7 +113,7 @@ router.get('/:username/list/:listId/delete', (req, res) => {
         users.findUserByGoogleId(res.locals.userState.googleId)
             .then((user) => {
                 if (user.username === req.params.username) {
-                    lists.deleteList(req.params.listId)
+                    lists.deleteList(res.locals.userState.googleId, req.params.listId)
                         .then(() => {
                             console.log('List', req.params.listId, 'deleted.');
                             res.redirect('/user/' + req.params.username);

@@ -13,7 +13,6 @@ export default class DropdownEntry extends React.Component {
     componentDidMount() {
         if (this.props.entityList.entities) {
             this.props.entityList.entities.some((entity) => {
-                console.log(entity);
                 if (entity.entityId === this.props.entityData.entityId && entity.type === this.props.entityData.type) {
                     this.setState( { addOrRemoveMessage: 'Remove from' } );
                     return;
@@ -45,7 +44,7 @@ export default class DropdownEntry extends React.Component {
 
         axios.post('http://localhost:3000/ajax/add-entity-to-list', { list })
             .then(res => {
-                console.log("Added entity to list.");
+                console.log("Modified entity in list.");
             });
 
         // Switch state.

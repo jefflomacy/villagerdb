@@ -20,7 +20,7 @@ module.exports = (req, res, next) => {
 
         users.findUserByGoogleId(res.locals.userState.googleId)
             .then((user) => {
-                res.locals.userState.displayName = user.displayName;
+                res.locals.userState.username = user.username;
             });
     }
 

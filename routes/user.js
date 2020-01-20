@@ -6,17 +6,17 @@ const lists = require('../db/entity/lists');
 /**
  * Load user profile.
  *
- * @param userName
+ * @param username
  * @returns {Promise<{}>}
  */
-async function loadUser(userName) {
+async function loadUser(username) {
     const result = {};
-    const user = await users.findUserByName(userName);
+    const user = await users.findUserByName(username);
     const userLists = await lists.getListsByUser(user.googleId);
 
     result.user = user;
-    result.pageTitle = user.displayName + "'s Profile";
-    result.userName = user.displayName;
+    result.pageTitle = user.username + "'s Profile";
+    result.username = user.username;
     result.lists = userLists;
 
     return result;
@@ -25,17 +25,17 @@ async function loadUser(userName) {
 /**
  * Load a list.
  *
- * @param userName
+ * @param username
  * @param listId
  * @returns {Promise<void>}
  */
-async function loadList(userName, listId) {
+async function loadList(username, listId) {
     const result = {};
     const list = await lists.getListById(listId);
 
     result.pageTitle = list.name;
     result.listName = list.name;
-    result.author = userName;
+    result.author = username;
     result.items = list.items;
 
     return result;
@@ -44,8 +44,8 @@ async function loadList(userName, listId) {
 /**
  * Route for user.
  */
-router.get('/:userName', function (req, res, next) {
-    loadUser(req.params.userName)
+router.get('/:username', function (req, res, next) {
+    loadUser(req.params.username)
         .then((data) => {
             if (data.user.googleId === res.locals.userState.googleId) {
                 data.isOwnUser = true;
@@ -57,11 +57,11 @@ router.get('/:userName', function (req, res, next) {
 /**
  * Route for getting the create-list page.
  */
-router.get('/:userName/create-list', (req, res) => {
+router.get('/:username/create-list', (req, res) => {
     if (res.locals.userState.isLoggedIn) {
         users.findUserByGoogleId(res.locals.userState.googleId)
             .then((user) => {
-                if (user.displayName === req.params.userName) {
+                if (user.username === req.params.username) {
                     res.render('create-list', user);
                 } else {
                     res.redirect('/');
@@ -75,25 +75,25 @@ router.get('/:userName/create-list', (req, res) => {
 /**
  * Route for POSTing new list to the database.
  */
-router.post('/:userName/create-list-post', (req, res) => {
+router.post('/:username/create-list-post', (req, res) => {
     const listName = req.body.listName;
 
     if (listName) {
         lists.createList(res.locals.userState.googleId, listName)
             .then(() => {
                 console.log('List', listName, 'created.');
-                res.redirect('/user/' + req.params.userName)
+                res.redirect('/user/' + req.params.username)
             })
     } else {
-        res.redirect('/user/' + req.params.userName + '/create-list')
+        res.redirect('/user/' + req.params.username + '/create-list')
     }
 });
 
 /**
  * Route for list.
  */
-router.get('/:userName/list/:listId', (req, res, next) => {
-    loadList(req.params.userName, req.params.listId)
+router.get('/:username/list/:listId', (req, res, next) => {
+    loadList(req.params.username, req.params.listId)
         .then((data) => {
             res.render('list', data);
         }).catch(next);
@@ -102,15 +102,15 @@ router.get('/:userName/list/:listId', (req, res, next) => {
 /**
  * Route for deleting a list.
  */
-router.get('/:userName/list/:listId/delete', (req, res) => {
+router.get('/:username/list/:listId/delete', (req, res) => {
     if (res.locals.userState.isLoggedIn) {
         users.findUserByGoogleId(res.locals.userState.googleId)
             .then((user) => {
-                if (user.displayName === req.params.userName) {
+                if (user.username === req.params.username) {
                     lists.deleteList(req.params.listId)
                         .then(() => {
                             console.log('List', req.params.listId, 'deleted.');
-                            res.redirect('/user/' + req.params.userName);
+                            res.redirect('/user/' + req.params.username);
                         })
                 } else {
                     res.redirect('/');

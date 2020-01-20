@@ -61,7 +61,7 @@ export default class DropdownEntry extends React.Component {
         const result = [];
         result.push(
             <button type="button" className="dropdown-item" onClick={(e) => this.handleChange(this.props.entityList.id, this.props.entityData.entityId, this.props.entityData.type)}>
-                {this.state.addOrRemoveMessage} {this.props.entityList.id}
+                {this.state.addOrRemoveMessage} {this.props.entityList.name}
             </button>
         );
 

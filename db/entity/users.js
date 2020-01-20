@@ -34,16 +34,16 @@ class Users {
     /**
      * Set a user as registered.
      *
-     * @param displayName
+     * @param username
      * @param googleId
      * @returns {Promise<void>}
      */
-    async setRegistered(displayName, googleId) {
+    async setRegistered(username, googleId) {
         let conn = this.db.get();
         const villagerDb = conn.db(this.dbName);
         await villagerDb.collection('users').updateOne(
             { googleId: googleId },
-            { $set: {displayName: displayName, registered: true} }
+            { $set: {username: username, registered: true} }
         );
     }
 
@@ -92,7 +92,7 @@ class Users {
     async findUserByName(name) {
         let conn = this.db.get();
         const villagerDb = conn.db(this.dbName);
-        return await villagerDb.collection('users').findOne( { displayName: name } );
+        return await villagerDb.collection('users').findOne( { username: name } );
     }
 
     /**

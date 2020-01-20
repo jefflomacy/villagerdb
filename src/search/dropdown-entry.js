@@ -1,5 +1,5 @@
 import React from "react";
-import axios from "axios";
+import $ from 'jquery';
 
 export default class DropdownEntry extends React.Component {
 
@@ -40,12 +40,11 @@ export default class DropdownEntry extends React.Component {
             entityId: entityId,
             type: type,
             add: add
-        }
+        };
 
-        axios.post('http://localhost:3000/ajax/add-entity-to-list', { list })
-            .then(res => {
-                console.log("Modified entity in list.");
-            });
+        $.post( "http://localhost:3000/ajax/add-entity-to-list", list, function(data) {
+            console.log(data);
+        });
 
         // Switch state.
         if (this.state.addOrRemoveMessage === 'Add to') {

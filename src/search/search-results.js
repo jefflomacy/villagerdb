@@ -1,5 +1,5 @@
 import React from "react";
-import axios from "axios";
+import $ from 'jquery';
 import DropdownList from './dropdown-list';
 
 /**
@@ -19,16 +19,10 @@ export default class SearchResults extends React.Component {
     }
 
     componentDidMount() {
-        axios.get('http://localhost:3000/ajax/get-user-lists')
-            .then(res => {
-                const loggedIn = res.data[0].loggedIn;
-                const lists = res.data[1];
-                this.setState( { loggedIn: loggedIn } );
-                this.setState( { lists: lists } );
-            })
-            .catch(error => {
-                console.log(error);
-            })
+        $.get( "http://localhost:3000/ajax/get-user-lists", function(data) {
+            this.setState( { loggedIn: data[0].loggedIn } );
+            this.setState( { lists: data[1] } );
+        }.bind(this));
     }
 
     buildResults() {
@@ -44,7 +38,7 @@ export default class SearchResults extends React.Component {
 
         const list = [];
         for (let result of this.props.results) {
-            if (this.state.loggedIn) {
+            if (this.state.loggedIn && this.state.lists.length > 0) {
                 let exp = '(item|villager)-(.*)';
                 const split = result.id.match(exp);
                 const entityData = { entityId: split[2], type: split[1] };

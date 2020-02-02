@@ -102,12 +102,12 @@ class Lists {
      * @param listId
      * @returns {Promise<*>}
      */
-    async getListById(googleId, listId) {
+    async getListById(username, listId) {
         let conn = this.db.get();
         const villagerDb = conn.db(this.dbName);
 
         const cursor = await villagerDb.collection('users').findOne(
-            { googleId: googleId },
+            { username: username },
             { projection: { lists: 1, _id: 0 } }
         );
         let list;

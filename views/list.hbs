@@ -1,9 +1,27 @@
-{{#if errorMessage }}
+{{#if errorMessage}}
     <h1>Non-existent list by {{author}}</h1>
     <div class="alert alert-danger">
         This list doesn't exist.
     </div>
 {{else}}
     <h1>{{listName}} by {{author}}</h1>
-    {{items}}
+    <ul class="list-group">
+        {{#each entities}}
+            <li class="list-group-item">
+                <div class="float-left">
+                    <a href="/{{type}}/{{id}}">
+                        <img src="{{image}}" alt="Picture of {{name}}"
+                             class="img-responsive" style="max-height: 100px; margin: 0 auto"/>
+                    </a>
+                    {{name}}
+                </div>
+                {{#if ../isOwnUser}}
+                    <div class="float-right">
+                        <a href="/user/{{../author}}/list/{{../listId}}/delete-entity/{{type}}/{{id}}"
+                           class="btn-sm btn-danger" role="button">Delete</a>
+                    </div>
+                {{/if}}
+            </li>
+        {{/each}}
+    </ul>
 {{/if}}

@@ -2,6 +2,8 @@ const express = require('express');
 const router = express.Router();
 const users = require('../db/entity/users');
 const lists = require('../db/entity/lists');
+const villagers = require('../db/entity/villagers');
+const items = require('../db/entity/items');
 const { check, validationResult, body } = require('express-validator');
 
 /**
@@ -30,9 +32,9 @@ async function loadUser(username) {
  * @param listId
  * @returns {Promise<void>}
  */
-async function loadList(googleId, username, listId) {
+async function loadList(username, listId) {
     const result = {};
-    const list = await lists.getListById(googleId, listId);
+    const list = await lists.getListById(username, listId);
 
     if (list == null) {
         result.author = username;
@@ -41,11 +43,34 @@ async function loadList(googleId, username, listId) {
     }
 
     result.pageTitle = list.name;
+    result.listId = list.id;
     result.listName = list.name;
     result.author = username;
-    result.items = list.items;
+
+    let entities = {};
+    for (const entity of list.entities) {
+        if (entity.type === 'villager') {
+            const villager = await villagers.getById(entity.entityId);
+            const villagerData = await organizeData(villager, 'villager');
+            entities[villager.id] = villagerData;
+        } else {
+            const item = await items.getById(entity.entityId);
+            const itemData = await organizeData(item, 'item');
+            entities[item.id] = itemData;
+        }
+    }
+    result.entities = entities;
 
     return result;
+}
+
+async function organizeData(entity, type) {
+    let entityData = {};
+    entityData.name = entity.name;
+    entityData.id = entity.id;
+    entityData.type = type;
+    entityData.image = entity.image.thumb;
+    return entityData;
 }
 
 /**
@@ -123,10 +148,50 @@ router.post('/:username/create-list-post', [
  * Route for list.
  */
 router.get('/:username/list/:listId', (req, res, next) => {
-    loadList(res.locals.userState.googleId, req.params.username, req.params.listId)
+    loadList(req.params.username, req.params.listId)
         .then((data) => {
-            res.render('list', data);
+            if (res.locals.userState.isLoggedIn) {
+                users.findUserByGoogleId(res.locals.userState.googleId)
+                    .then((user) => {
+                        if (user.username === req.params.username) {
+                            data.isOwnUser = true;
+                        } else {
+                            data.isOwnUser = false;
+                        }
+                        res.render('list', data);
+                    })
+            } else {
+                res.render('list', data);
+            }
         }).catch(next);
+});
+
+/**
+ * Route for deleting an entity from a list.
+ */
+router.get('/:username/list/:listId/delete-entity/:type/:id', (req, res) => {
+    const googleId = res.locals.userState.googleId;
+    const listId = req.params.listId;
+    const type = req.params.type;
+    const entityId = req.params.id;
+    if (res.locals.userState.isLoggedIn) {
+        users.findUserByGoogleId(res.locals.userState.googleId)
+            .then((user) => {
+                if (user.username === req.params.username) {
+                    lists.removeEntityFromList(googleId, listId, entityId, type)
+                        .then((dbResponse) => {
+                            res.redirect('/user/' + req.params.username + '/list/' + listId);
+                        })
+                        .catch((err) => {
+                            console.log(err);
+                        });
+                } else {
+                    res.status(403).redirect('/');
+                }
+            });
+    } else {
+        res.status(403).redirect('/');
+    }
 });
 
 /**

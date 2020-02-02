@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const lists = require('../db/entity/lists');
+const users = require('../db/entity/users');
 
 /**
  * Method to query database for user lists.
@@ -53,24 +54,32 @@ router.post('/add-entity-to-list', function (req, res) {
     const type = req.body.type;
     const add = req.body.add;
 
-    if (add === "true") {
-        lists.addEntityToList(googleId, listId, entityId, type)
-            .then((dbResponse) => {
-                res.status(201).send('Item added to list successfully.');
-            })
-            .catch((err) => {
-                console.log(err);
+    if (res.locals.userState.isLoggedIn) {
+        users.findUserByGoogleId(res.locals.userState.googleId)
+            .then((user) => {
+                if (user.googleId === res.locals.userState.googleId) {
+                    if (add === "true") {
+                        lists.addEntityToList(googleId, listId, entityId, type)
+                            .then((dbResponse) => {
+                                res.status(201).send('Item added to list successfully.');
+                            })
+                            .catch((err) => {
+                                console.log(err);
+                            });
+                    } else {
+                        lists.removeEntityFromList(googleId, listId, entityId, type)
+                            .then((dbResponse) => {
+                                res.status(201).send('Item removed from list successfully.');
+                            })
+                            .catch((err) => {
+                                console.log(err);
+                            });
+                    }
+                }
             });
     } else {
-        lists.removeEntityFromList(googleId, listId, entityId, type)
-            .then((dbResponse) => {
-                res.status(201).send('Item removed from list successfully.');
-            })
-            .catch((err) => {
-                console.log(err);
-            });
+        res.redirect('/');
     }
-
 });
 
 module.exports = router;

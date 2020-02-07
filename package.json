@@ -12,7 +12,6 @@
     "@babel/preset-env": "^7.7.1",
     "@babel/preset-react": "^7.7.0",
     "@fortawesome/fontawesome-free": "^5.11.2",
-    "axios": "^0.19.1",
     "babel-loader": "^8.0.6",
     "bluebird": "^3.7.1",
     "bootstrap": "^4.3.1",

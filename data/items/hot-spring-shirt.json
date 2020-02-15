@@ -3,22 +3,6 @@
   "name": "Hot Spring Shirt",
   "category": "Tops",
   "games": {
-    "af+": {
-      "orderable": true,
-      "sources": [
-        "Tom Nook (Spring)"
-      ],
-      "sellPrice": {
-        "currency": "bells",
-        "value": 130
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 520
-        }
-      ]
-    },
     "ac": {
       "orderable": true,
       "sources": [

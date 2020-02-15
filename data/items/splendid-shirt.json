@@ -3,12 +3,6 @@
   "name": "Splendid Shirt",
   "category": "Tops",
   "games": {
-    "af+": {
-      "orderable": false,
-      "sources": [
-        "Gracie"
-      ]
-    },
     "ac": {
       "orderable": false,
       "sources": [

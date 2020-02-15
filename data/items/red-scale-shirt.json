@@ -3,22 +3,6 @@
   "name": "Red Scale Shirt",
   "category": "Tops",
   "games": {
-    "af+": {
-      "orderable": true,
-      "sources": [
-        "Tom Nook (Fall)"
-      ],
-      "sellPrice": {
-        "currency": "bells",
-        "value": 92
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 370
-        }
-      ]
-    },
     "ac": {
       "orderable": true,
       "sources": [

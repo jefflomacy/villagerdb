@@ -25,22 +25,6 @@
         }
       ]
     },
-    "af+": {
-      "orderable": true,
-      "sources": [
-        "Tom Nook (Fall)"
-      ],
-      "sellPrice": {
-        "currency": "bells",
-        "value": 90
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 360
-        }
-      ]
-    },
     "ac": {
       "orderable": true,
       "sources": [

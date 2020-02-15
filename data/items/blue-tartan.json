@@ -3,22 +3,6 @@
   "name": "Blue Tartan",
   "category": "Tops",
   "games": {
-    "af+": {
-      "orderable": true,
-      "sources": [
-        "Tom Nook (Summer)"
-      ],
-      "sellPrice": {
-        "currency": "bells",
-        "value": 97
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 390
-        }
-      ]
-    },
     "ac": {
       "orderable": true,
       "sources": [

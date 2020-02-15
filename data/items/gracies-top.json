@@ -3,12 +3,6 @@
   "name": "Gracie's Top",
   "category": "Tops",
   "games": {
-    "af+": {
-      "orderable": false,
-      "sources": [
-        "Gracie"
-      ]
-    },
     "ac": {
       "orderable": false,
       "sources": [

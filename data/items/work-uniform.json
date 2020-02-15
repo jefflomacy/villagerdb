@@ -3,12 +3,6 @@
   "name": "Work Uniform",
   "category": "Tops",
   "games": {
-    "af+": {
-      "orderable": false,
-      "sources": [
-        "Tom Nook"
-      ]
-    },
     "ac": {
       "orderable": false,
       "sources": [

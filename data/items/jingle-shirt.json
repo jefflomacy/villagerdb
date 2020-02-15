@@ -3,12 +3,6 @@
   "name": "Jingle Shirt",
   "category": "Tops",
   "games": {
-    "af+": {
-      "orderable": false,
-      "sources": [
-        "Jingle"
-      ]
-    },
     "ac": {
       "orderable": false,
       "sources": [

@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 const moment = require('moment');
-const elasticsearch = require('elasticsearch');
+const es = require('../db/elasticsearch');
 
 const staticify = require('../config/staticify');
 const searchConfig = require('../config/search.js');
@@ -21,8 +21,6 @@ async function generateSitemap() {
 }
 
 async function deleteSearchIndex() {
-    const es = new elasticsearch.Client();
-
     // Delete the elasticsearch index
     return es.indices.delete({
         index: searchConfig.elasticSearchIndexName
@@ -30,8 +28,6 @@ async function deleteSearchIndex() {
 }
 
 async function buildSearchIndex() {
-    const es = new elasticsearch.Client();
-
     // Create the index.
     await es.indices.create({
         index: searchConfig.elasticSearchIndexName

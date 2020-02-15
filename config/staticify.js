@@ -1,23 +1,23 @@
-const path = require('path');
-const staticify = require('staticify');
-
-// Configure staticify to send a short-lived cache in non-production environments.
-const staticifyOpts = {};
-if (process.env.NODE_ENV !== 'production') {
-    staticifyOpts.sendOptions = {maxAge: 1};
-}
-const staticifyConfigured = staticify(path.join(process.cwd(), 'public'), staticifyOpts);
-
-// Set up getVersionedPath function. In non-production environments, we do not returned hashed paths.
 let getVersionedPath;
-if (process.env.NODE_ENV !== 'production') {
-    getVersionedPath = (path) => {
-        return path;
-    }
-} else {
+let middleware;
+
+if (process.env.NODE_ENV === 'production') {
+    // Only run staticify in production mode.
+    const path = require('path');
+    const staticify = require('staticify');
+    const staticifyConfigured = staticify(path.join(process.cwd(), 'public'), staticifyOpts);
+    middleware = staticifyConfigured.middleware;
     getVersionedPath = (path) => {
         return staticifyConfigured.getVersionedPath(path);
-    }
+    };
+} else {
+    // Do not use staticify in development environments.
+    getVersionedPath = (path) => {
+        return path;
+    };
+    middleware = (req, res, next) => {
+        return next();
+    };
 }
 
 /**
@@ -30,4 +30,4 @@ module.exports.getVersionedPath = getVersionedPath;
  * Staticify middleware.
  * @type {middleware}
  */
-module.exports.middleware = staticifyConfigured.middleware;
+module.exports.middleware = middleware;

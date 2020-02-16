@@ -9,7 +9,9 @@ const favicon = require('serve-favicon');
 const logger = require('morgan');
 const hbs = require('express-handlebars');
 const staticify = require('./config/staticify');
+const cron = require('./helpers/cron');
 
+// Routers
 const indexRouter = require('./routes/index');
 const autocompleteRouter = require('./routes/autocomplete');
 const searchRouter = require('./routes/search');
@@ -88,5 +90,8 @@ app.use(function(err, req, res, next) {
   res.status(err.status || 500);
   res.render('error');
 });
+
+// Schedule crons
+cron.scheduleCrons();
 
 module.exports = app;

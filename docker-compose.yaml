@@ -1,6 +1,6 @@
 version: '3'
 services:
-  nginx:
+  villagerdb_webserver:
     image: nginx:1.17
     container_name: villagerdb_webserver
     ports:
@@ -8,8 +8,8 @@ services:
     volumes:
       - ./nginx-config/webserver.conf:/etc/nginx/conf.d/default.conf
     depends_on:
-      - villagerdb
-  villagerdb:
+      - villagerdb_app
+  villagerdb_app:
     build:
       context: .
     container_name: villagerdb_app
@@ -25,10 +25,10 @@ services:
       - .:/usr/src/app
       - /usr/src/app/node_modules
     depends_on:
-      - elasticsearch
-      - redis
-      - mongo
-  elasticsearch:
+      - villagerdb_es
+      - villagerdb_redis
+      - villagerdb_mongo
+  villagerdb_es:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.6.0
     container_name: villagerdb_es
     environment:
@@ -45,12 +45,12 @@ services:
       - villagerdb_es:/usr/share/elasticsearch/data
     ports:
       - 9200:9200
-  redis:
+  villagerdb_redis:
     container_name: villagerdb_redis
     image: redis:latest
     ports:
       - 6379:6379
-  mongo:
+  villagerdb_mongo:
     container_name: villagerdb_mongo
     image: mongo:4.2.3
     volumes:

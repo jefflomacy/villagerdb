@@ -14,7 +14,7 @@ const users = require('../db/entity/users');
  * @param redirectUrl
  */
 const cancelRegistration = (req, res, next, redirectUrl) => {
-    users.deleteUser(req.user.googleId)
+    users.deleteUser(req.user.id)
         .then(() => {
             req.session.destroy();
             res.redirect(redirectUrl);

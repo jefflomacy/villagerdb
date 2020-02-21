@@ -101,14 +101,14 @@ class Users {
     /**
      * Delete a user by their google id.
      *
-     * @param googleId
+     * @param id
      * @returns {Promise<*>}
      */
-    async deleteUser(googleId) {
+    async deleteUser(id) {
         const villagerDb = await this.db.get();
         return villagerDb.collection('users')
             .deleteOne({
-                googleId: googleId
+                _id: id
             });
     }
 

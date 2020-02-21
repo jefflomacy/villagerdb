@@ -9,7 +9,7 @@ const staticify = require('./config/staticify');
 const cron = require('./helpers/cron');
 const passport = require('./config/passport');
 const session = require('./config/session/middleware');
-const userManagement = require('./helpers/middleware/user-management');
+const appState = require('./helpers/middleware/app-state');
 
 // Routers
 const indexRouter = require('./routes/index');
@@ -72,7 +72,7 @@ app.disable('x-powered-by');
 app.use(session);
 app.use(passport.initialize());
 app.use(passport.session());
-app.use(userManagement);
+app.use(appState);
 
 // Router setup.
 app.use('/', indexRouter);

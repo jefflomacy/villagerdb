@@ -4,8 +4,6 @@ const users = require('../db/entity/users');
 const lists = require('../db/entity/lists');
 const villagers = require('../db/entity/villagers');
 const items = require('../db/entity/items');
-const { check, validationResult, body } = require('express-validator');
-const format = require('../helpers/format');
 
 /**
  * Load user profile.
@@ -42,9 +40,7 @@ async function loadList(username, listId) {
     const list = await lists.getListById(username, listId);
 
     if (list == null) {
-        result.author = username;
-        result.errorMessage = true;
-        return result;
+        return null;
     }
 
     result.pageTitle = list.name + ' by ' + username;
@@ -52,18 +48,24 @@ async function loadList(username, listId) {
     result.listName = list.name;
     result.author = username;
 
-    let entities = {};
+    const entities = [];
     for (const entity of list.entities) {
         if (entity.type === 'villager') {
+            // TODO make a singular call to redis
             const villager = await villagers.getById(entity.entityId);
-            const villagerData = organizeData(villager, 'villager');
-            entities[villager.id] = villagerData;
+            if (villager) {
+                entities.push(organizeData(villager, 'villager'));
+            }
         } else {
+            // TODO make a singular call to redis
             const item = await items.getById(entity.entityId);
-            const itemData = organizeData(item, 'item');
-            entities[item.id] = itemData;
+            if (item) {
+                entities.push(organizeData(item, 'item'));
+            }
+
         }
     }
+    result.isEmpty = entities.length === 0;
     result.entities = entities;
 
     return result;
@@ -102,15 +104,21 @@ router.get('/:username', function (req, res, next) {
 router.get('/:username/list/:listId', (req, res, next) => {
     loadList(req.params.username, req.params.listId)
         .then((data) => {
-            if (res.locals.userState.isRegistered) {
-                if (req.user.username === req.params.username) {
-                    data.isOwnUser = true;
-                } else {
-                    data.isOwnUser = false;
+            if (!data) {
+                const e = new Error('No such list.');
+                e.status = 404;
+                throw e;
+            } else {
+                if (res.locals.userState.isRegistered) {
+                    if (req.user.username === req.params.username) {
+                        data.isOwnUser = true;
+                    } else {
+                        data.isOwnUser = false;
+                    }
                 }
-            }
 
-            res.render('list', data);
+                res.render('list', data);
+            }
         }).catch(next);
 });
 

@@ -1,27 +1,30 @@
-{{#if errorMessage}}
-    <h1>Non-existent list by {{author}}</h1>
-    <div class="alert alert-danger">
-        This list doesn't exist.
-    </div>
+<h1>{{listName}} by {{author}}</h1>
+{{#if isEmpty}}
+    <p>
+        This list has no items yet.
+        {{#if isOwnUser}}
+            You can add some by browsing the site and clicking the <span class="fa fa-plus"></span> button next to
+            villagers and items.
+        {{/if}}
+    </p>
 {{else}}
-    <h1>{{listName}} by {{author}}</h1>
     <ul class="list-group">
-        {{#each entities}}
-            <li class="list-group-item">
-                <div class="float-left">
-                    <a href="/{{type}}/{{id}}">
-                        <img src="{{image}}" alt="Picture of {{name}}"
-                             class="img-responsive" style="max-height: 100px; margin: 0 auto"/>
-                    </a>
-                    {{name}}
+    {{#each entities}}
+        <li class="list-group-item">
+            <div class="float-left">
+                <a href="/{{type}}/{{id}}">
+                    <img src="{{image}}" alt="Picture of {{name}}"
+                         class="img-responsive" style="max-height: 100px; margin: 0 auto"/>
+                </a>
+                {{name}}
+            </div>
+            {{#if ../isOwnUser}}
+                <div class="float-right">
+                    <a href="/list/delete-entity/{{../listId}}/{{type}}/{{id}}"
+                       class="btn-sm btn-danger" role="button">Delete</a>
                 </div>
-                {{#if ../isOwnUser}}
-                    <div class="float-right">
-                        <a href="/user/{{../author}}/list/{{../listId}}/delete-entity/{{type}}/{{id}}"
-                           class="btn-sm btn-danger" role="button">Delete</a>
-                    </div>
-                {{/if}}
-            </li>
-        {{/each}}
+            {{/if}}
+        </li>
+    {{/each}}
     </ul>
 {{/if}}

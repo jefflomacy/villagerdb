@@ -46,7 +46,6 @@ passport.serializeUser(function(user, callback) {
  */
 passport.deserializeUser(function(id, callback) {
     // TODO: This will happen on every page load for a logged-in user. Potentially very painful in the long run.
-    console.log('user id: ' + id);
     users.findUserById(id)
         .then((user) => {
             if (user) {

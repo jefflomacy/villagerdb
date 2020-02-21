@@ -181,4 +181,4 @@ class Lists {
 
 }
 
-module.exports = new Lists(mongo, process.env.DB_NAME);
+module.exports = new Lists(mongo, process.env.MONGO_DB_NAME);

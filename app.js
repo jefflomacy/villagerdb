@@ -13,6 +13,7 @@ const userManagement = require('./helpers/middleware/user-management');
 
 // Routers
 const indexRouter = require('./routes/index');
+const loginRouter = require('./routes/login');
 const autocompleteRouter = require('./routes/autocomplete');
 const searchRouter = require('./routes/search');
 const villagerRouter = require('./routes/villager');
@@ -75,6 +76,7 @@ app.use(userManagement);
 
 // Router setup.
 app.use('/', indexRouter);
+app.use('/', loginRouter);
 app.use('/autocomplete', autocompleteRouter);
 app.use('/search', searchRouter);
 app.use('/villager', villagerRouter);

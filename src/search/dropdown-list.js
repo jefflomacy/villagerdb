@@ -7,33 +7,25 @@ export default class DropdownList extends React.Component {
         super(props);
     }
 
-    buildResults() {
-        const result = [];
+    render() {
         const entityLists = [];
-
         this.props.lists.forEach((entityList) => {
             entityLists.push(
                 <DropdownEntry entityList={entityList}
                                entityData={this.props.entityData}/>
             );
         });
-        result.push(
-                <div className="dropdown" aria-labelledby="dropdownMenuButton">
-                    <button className="btn btn-outline-secondary dropdown-toggle" type="button"
-                            data-toggle="dropdown" aria-haspopup="true" id="dropdownMenuButton">
-                        +
-                    </button>
-                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                        {entityLists}
-                    </div>
+
+        return (
+            <div className="dropdown" aria-labelledby="dropdownMenuButton">
+                <button className="btn btn-outline-secondary dropdown-toggle" type="button"
+                        data-toggle="dropdown" aria-haspopup="true" id="dropdownMenuButton">
+                    +
+                </button>
+                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    {entityLists}
                 </div>
+            </div>
         );
-
-        return result;
     }
-
-    render() {
-        return this.buildResults();
-    }
-
 }

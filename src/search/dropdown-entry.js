@@ -25,7 +25,6 @@ export default class DropdownEntry extends React.Component {
     }
 
     handleChange(listId, entityId, type) {
-
         // Check if we are adding or removing an entity from the database.
         let add;
         if (this.state.addOrRemoveMessage === 'Add to') {
@@ -44,7 +43,7 @@ export default class DropdownEntry extends React.Component {
             add: add
         };
 
-        $.post( "http://localhost:3000/ajax/add-entity-to-list", list, function(data) {
+        $.post( '/ajax/add-entity-to-list', list, function(data) {
             console.log(data);
         });
 

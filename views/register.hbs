@@ -1,20 +1,58 @@
-<h1>Register for VillagerDB</h1>
+<h1>Create An Account</h1>
+<p>
+    By creating an account, you can create lists to share with others.
+    You must be 13 years or older to use this website. Users found to be in violation
+    of this policy will have their data deleted and account banned.
+</p>
 {{#each errors}}
     <div class="alert alert-danger">
         {{msg}}
     </div>
 {{/each}}
 <form method="post" action="/auth/register-post">
-    <div class="form-group">
-        <label for="inputUsername">Username</label>
-        <input type="username" name="username" class="form-control" id="inputUsername" aria-describedby="usernameHelp"
-               placeholder="Enter a username">
-        <small id="usernameHelp" class="form-text text-muted">Your username is unique and is used to share your
-            content on this website.</small>
+    <div class="form-group row">
+        <label for="username" class="col-form-label col-12 col-sm-1 font-weight-bold">Username</label>
+        <div class="col-12 col-sm-11">
+            <input type="text" name="username" class="form-control" id="username" aria-describedby="username-help"
+                   maxlength="25" placeholder="Enter a username">
+            <small id="username-help" class="form-text text-muted">
+                Usernames cannot be changed. No spaces are allowed.</small>
+        </div>
     </div>
-    <div class="form-check">
-        <input type="checkbox" name="coppaCheck" class="form-check-input" id="coppaCheck">
-        <label class="form-check-label" for="coppaCheck">By checking this checkbox I affirm that I am 13 years old or older.</label>
+    <div class="form-group row">
+        <label class="col-form-label col-12 col-sm-1 font-weight-bold">Birthday</label>
+        <div class="col-12 col-sm-11">
+            <div class="row">
+                <div class="col-4 col-sm-2">
+                    Month
+                    <select class="form-control input-small" id="birth-month" style="max-width: 100px;">
+                        <option value="1">1</option>
+                        <option value="1">2</option>
+                    </select>
+                </div>
+                <div class="col-4 col-sm-2">
+                    Day
+                    <select class="form-control input-small" id="birth-day" style="max-width: 100px;">
+                        <option value="1">1</option>
+                        <option value="1">2</option>
+                    </select>
+                </div>
+                <div class="col-4 col-sm-2">
+                    Year
+                    <input class="form-control input-small" type="text" name="birth-year" id="birth-year"
+                        style="max-width: 100px;">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="form-check">
+            <input type="checkbox" name="coppa-check" class="form-check-input" id="tos-check">
+            <label class="form-check-label" for="tos-check">
+                By checking this checkbox, I agree to the <a href="/terms-of-service">Terms of Service</a>
+                and <a href="/privacy-policy">Privacy Policy</a> of this website.
+            </label>
+        </div>
     </div>
     <button type="submit" name="submit" class="btn btn-primary">Submit</button>
     <button type="cancel" name="cancel" formaction="/auth/register-cancel" class="btn btn-primary">Cancel</button>

@@ -126,4 +126,4 @@ class Users {
 
 }
 
-module.exports = new Users(mongo, process.env.DB_NAME);
+module.exports = new Users(mongo, process.env.MONGO_DB_NAME);

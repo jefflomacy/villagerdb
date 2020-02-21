@@ -1,5 +1,5 @@
 const redis = require('redis');
-const redisClient = redis.createClient();
+const redisClient = redis.createClient(process.env.REDIS_SESSION_CONNECT_STRING);
 
 // Select the proper database.
 redisClient.select(1, (error) => {

@@ -49,6 +49,6 @@ class MongoDatabase {
  * Mongo database container.
  * @type {MongoDatabase}
  */
-module.exports = new MongoDatabase(process.env.DB_URI, {
+module.exports = new MongoDatabase(process.env.MONGO_CONNECT_STRING, {
     useUnifiedTopology: true,
     useNewUrlParser: true});

@@ -19,6 +19,9 @@ services:
       - ELASTICSEARCH_CONNECT_STRING=http://villagerdb_es:9200
       - REDIS_CONNECT_STRING=redis://villagerdb_redis:6379/0
       - TZ=America/New_York
+      - DB_URI=mongodb://localhost:27017
+      - DB_NAME=villagerdb
+      - COOKIE_KEY=q1w2e3r4
     ports:
       - 3000:3000
       - 9229:9229

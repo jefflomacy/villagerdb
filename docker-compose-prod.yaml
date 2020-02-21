@@ -15,6 +15,7 @@ services:
   villagerdb_app:
     build:
       context: .
+      dockerfile: ./Dockerfile-prod
     container_name: villagerdb_app
     restart: always
     environment:
@@ -40,7 +41,7 @@ services:
       - cluster.name=villagerdb-es-cluster
       - cluster.initial_master_nodes=villagerdb_es
       - bootstrap.memory_lock=true
-      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+      - "ES_JAVA_OPTS=-Xms256m -Xmx256m"
     ulimits:
       memlock:
         soft: -1

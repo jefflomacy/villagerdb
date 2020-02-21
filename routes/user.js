@@ -95,7 +95,7 @@ router.get('/:username/create-list', (req, res) => {
     data.errors = req.session.errors;
     delete req.session.errors;
 
-    if (res.locals.userState.isLoggedIn) {
+    if (res.locals.userState.isRegistered) {
         users.findUserByGoogleId(res.locals.userState.googleId)
             .then((user) => {
                 if (user.username === req.params.username) {
@@ -150,7 +150,7 @@ router.post('/:username/create-list-post', [
 router.get('/:username/list/:listId', (req, res, next) => {
     loadList(req.params.username, req.params.listId)
         .then((data) => {
-            if (res.locals.userState.isLoggedIn) {
+            if (res.locals.userState.isRegistered) {
                 users.findUserByGoogleId(res.locals.userState.googleId)
                     .then((user) => {
                         if (user.username === req.params.username) {
@@ -174,7 +174,7 @@ router.get('/:username/list/:listId/delete-entity/:type/:id', (req, res) => {
     const listId = req.params.listId;
     const type = req.params.type;
     const entityId = req.params.id;
-    if (res.locals.userState.isLoggedIn) {
+    if (res.locals.userState.isRegistered) {
         users.findUserByGoogleId(res.locals.userState.googleId)
             .then((user) => {
                 if (user.username === req.params.username) {
@@ -198,7 +198,7 @@ router.get('/:username/list/:listId/delete-entity/:type/:id', (req, res) => {
  * Route for deleting a list.
  */
 router.get('/:username/list/:listId/delete', (req, res) => {
-    if (res.locals.userState.isLoggedIn) {
+    if (res.locals.userState.isRegistered) {
         users.findUserByGoogleId(res.locals.userState.googleId)
             .then((user) => {
                 if (user.username === req.params.username) {

@@ -5,43 +5,48 @@ const MongoClient = require('mongodb').MongoClient;
  */
 class MongoDatabase {
     /**
-     * Builds the database.
      *
-     * @param uri the database URI
-     * @param dbConfig config to pass to MongoClient
+     * @param uri
+     * @param dbName
+     * @param dbConfig
      */
-    constructor(uri, dbConfig) {
+    constructor(uri, dbName, dbConfig) {
+        /**
+         *
+         * @type {string}
+         */
         this.uri = uri;
+
+        /**
+         *
+         * @type {string}
+         */
+        this.dbName = dbName;
+
+        /**
+         *
+         * @type {{}}
+         */
         this.dbConfig = dbConfig;
-        this.connection = undefined;
-        this._connect();
+
+        /**
+         *
+         * @type {Db}
+         */
+        this.database = undefined; // undefined until a successful connection is made.
     }
 
     /**
-     * Connects to the database. Called when the class is constructed.
-     * @private
+     * Retrieves the database, connecting if not already connected.
+     *
+     * @returns {Db}
      */
-    _connect() {
-        MongoClient.connect(this.uri, this.dbConfig)
-            .then((db) => {
-                this.connection = db;
-            })
-            .catch((error) => {
-                console.error('Mongo database connection failed...');
-                console.error(error);
-            });
-    }
-
-    /**
-     * Retrieves the database, if connected.
-     * @returns {MongoClient}
-     */
-    get() {
-        if (!this.connection) {
-            throw new Error('Database is not available yet.');
+    async get() {
+        if (!this.database) {
+            const connect = await MongoClient.connect(this.uri, this.dbConfig);
+            this.database = connect.db(this.dbName);
         }
-
-        return this.connection;
+        return this.database;
     }
 }
 
@@ -49,6 +54,7 @@ class MongoDatabase {
  * Mongo database container.
  * @type {MongoDatabase}
  */
-module.exports = new MongoDatabase(process.env.MONGO_CONNECT_STRING, {
+module.exports = new MongoDatabase(process.env.MONGO_CONNECT_STRING, process.env.MONGO_DB_NAME, {
     useUnifiedTopology: true,
-    useNewUrlParser: true});
+    useNewUrlParser: true
+});

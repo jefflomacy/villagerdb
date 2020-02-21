@@ -1,7 +1,7 @@
 const createError = require('http-errors');
 const express = require('express');
-const path = require('path');
 const lessMiddleware = require('less-middleware');
+const path = require('path');
 const favicon = require('serve-favicon');
 const logger = require('morgan');
 const hbs = require('express-handlebars');
@@ -69,9 +69,9 @@ app.use(staticify.middleware);
 app.disable('x-powered-by');
 
 // Initialize passport and session
-app.use(passport.middleware.initialize());
-app.use(passport.middleware.session());
 app.use(session);
+app.use(passport.initialize());
+app.use(passport.session());
 app.use(userManagement);
 
 // Router setup.

@@ -1,9 +1,9 @@
-const express = require('express');
-const router = express.Router();
-const passport = require('passport');
-const users = require('../db/entity/users');
 const moment = require('moment');
 const { check, validationResult, body } = require('express-validator');
+const express = require('express');
+const router = express.Router();
+const passport = require('../config/passport');
+const users = require('../db/entity/users');
 
 /**
  * Terminates the session and deletes the user from the database.
@@ -14,7 +14,7 @@ const { check, validationResult, body } = require('express-validator');
  * @param redirectUrl
  */
 const cancelRegistration = (req, res, next, redirectUrl) => {
-    users.deleteUser(res.locals.userState.googleId)
+    users.deleteUser(req.user.googleId)
         .then(() => {
             req.session.destroy();
             res.redirect(redirectUrl);
@@ -32,37 +32,19 @@ router.get('/coppa-decline', (req, res, next) => {
 });
 
 /**
- * Login page
+ * Perform Google authentication with passport
  */
-router.get('/login', (req, res, next) => {
-    if (res.locals.userState.isLoggedIn) {
-        users.isRegistered(res.locals.userState.googleId)
-            .then((isRegistered) => {
-                if (isRegistered) {
-                    res.redirect('/');
-                } else {
-                    res.redirect('/auth/register');
-                }
-            });
-    } else {
-        res.render('login');
-    }
-});
+router.get('/google', passport.authenticate('google', {
+    scope: ['email']
+}));
 
 /**
- * Logout with passport.js
+ * Logs out by destroying user's session and redirecting to home.
  */
 router.get('/logout', (req, res) => {
     req.session.destroy();
     res.redirect('/');
 });
-
-/**
- * Google Auth with passport.js
- */
-router.get('/google', passport.authenticate('google', {
-    scope: ['email']
-}));
 
 /**
  * Google Redirect Callback Route
@@ -74,16 +56,15 @@ router.get('/google/redirect', passport.authenticate('google'), (req, res) => {
 /**
  * Set display name and prompt 13+ agreement after logging in with Google for the first time.
  */
-router.get('/register', (req, res) => {
+router.get('/register', (req, res, next) => {
     if (!res.locals.userState.isLoggedIn) {
         res.redirect('/auth/login')
     } else {
-        users.isRegistered(res.locals.userState.googleId)
-            .then((isRegistered) => {
-                res.locals.userState.isRegistered = isRegistered;
-                if (res.locals.userState.isLoggedIn && isRegistered) {
+        users.findUserById(req.user.id)
+            .then((user) => {
+                if (user && user.username) { // found and registered
                     res.redirect('/');
-                } else {
+                } else { // either not found, or not registered.
                     const data = {};
                     data.pageTitle = 'Create an Account';
 
@@ -111,7 +92,8 @@ router.get('/register', (req, res) => {
                     delete req.session.registrationForm;
                     res.render('register', data);
                 }
-            });
+            })
+            .catch(next);
     }
 });
 
@@ -185,10 +167,11 @@ router.post('/register',
             cancelRegistration(req, res, next, '/auth/coppa-decline');
         } else {
             // Otherwise, we can set them as registered!
-            users.setRegistered(username, res.locals.userState.googleId)
+            users.setRegistered(username, req.user.id)
                 .then(() => {
                     res.redirect('/');
                 })
+                .catch(next);
         }
     }
 });

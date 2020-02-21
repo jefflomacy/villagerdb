@@ -31,7 +31,7 @@ async function getUserLists(googleId) {
  */
 router.get('/get-user-lists', function (req, res, next) {
     if (res.locals.userState.isLoggedIn) {
-        getUserLists(res.locals.userState.googleId)
+        getUserLists(req.user.googleId)
             .then((data) => {
                 res.contentType('application/json');
                 res.send(JSON.stringify(data));
@@ -48,16 +48,16 @@ router.get('/get-user-lists', function (req, res, next) {
  * Route for adding an item to a list.
  */
 router.post('/add-entity-to-list', function (req, res) {
-    const googleId = res.locals.userState.googleId;
+    const googleId = req.user.googleId;
     const listId = req.body.listId;
     const entityId = req.body.entityId;
     const type = req.body.type;
     const add = req.body.add;
 
     if (res.locals.userState.isLoggedIn) {
-        users.findUserByGoogleId(res.locals.userState.googleId)
+        users.findUserByGoogleId(req.user.googleId)
             .then((user) => {
-                if (user.googleId === res.locals.userState.googleId) {
+                if (user.googleId === req.user.googleId) {
                     if (add === "true") {
                         lists.addEntityToList(googleId, listId, entityId, type)
                             .then((dbResponse) => {

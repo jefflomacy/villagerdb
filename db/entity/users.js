@@ -25,38 +25,35 @@ class Users {
      * @returns {Promise<*>}
      */
     async saveUser(googleId, email) {
-        let conn = this.db.get();
-        const villagerDb = conn.db(this.dbName);
-        await villagerDb.collection('users').insertOne( { googleId: googleId, email: email, registered: false } );
-        return await villagerDb.collection('users').findOne( { googleId: googleId } );
+        const villagerDb = await this.db.get();
+        await villagerDb.collection('users').insertOne({
+            googleId: googleId,
+            email: email
+        });
+        return villagerDb.collection('users')
+            .findOne({
+                googleId: googleId
+            });
     }
 
     /**
      * Set a user as registered.
      *
      * @param username
-     * @param googleId
-     * @returns {Promise<void>}
+     * @param id
+     * @returns {Promise<Promise|OrderedBulkOperation|UnorderedBulkOperation>}
      */
-    async setRegistered(username, googleId) {
-        let conn = this.db.get();
-        const villagerDb = conn.db(this.dbName);
-        await villagerDb.collection('users').updateOne(
-            { googleId: googleId },
-            { $set: {username: username, registered: true} }
-        );
-    }
-
-    /**
-     * Return whether a user is registered or not.
-     *
-     * @param googleId
-     * @returns {Promise<*>}
-     */
-    async isRegistered(googleId) {
-        let conn = this.db.get();
-        const villagerDb = conn.db(this.dbName);
-        return await villagerDb.collection('users').findOne( { googleId: googleId, registered: true });
+    async setRegistered(username, id) {
+        const villagerDb = await this.db.get();
+        return villagerDb.collection('users')
+            .updateOne({
+                _id: id
+            },
+            {
+                $set: {
+                    username: username
+                }
+            });
     }
 
     /**
@@ -66,9 +63,11 @@ class Users {
      * @returns {Promise<*>}
      */
     async findUserByGoogleId(googleId) {
-        let conn = this.db.get();
-        const villagerDb = conn.db(this.dbName);
-        return await villagerDb.collection('users').findOne( { googleId: googleId } );
+        const villagerDb = await this.db.get();
+        return villagerDb.collection('users')
+            .findOne({
+                googleId: googleId
+            });
     }
 
     /**
@@ -78,21 +77,25 @@ class Users {
      * @returns {Promise<*>}
      */
     async findUserById(id) {
-        let conn = this.db.get();
-        const villagerDb = conn.db(this.dbName);
-        return await villagerDb.collection('users').findOne( { _id: new ObjectId(id) } );
+        const villagerDb = await this.db.get();
+        return villagerDb.collection('users')
+            .findOne({
+                _id: new ObjectId(id)
+            });
     }
 
     /**
-     * Find a user by their name.
+     * Find a user by their username.
      *
-     * @param name
+     * @param username
      * @returns {Promise<*>}
      */
-    async findUserByName(name) {
-        let conn = this.db.get();
-        const villagerDb = conn.db(this.dbName);
-        return await villagerDb.collection('users').findOne( { username: name } );
+    async findUserByName(username) {
+        const villagerDb = await this.db.get();
+        return villagerDb.collection('users')
+            .findOne( {
+                username: username
+            });
     }
 
     /**
@@ -102,9 +105,11 @@ class Users {
      * @returns {Promise<*>}
      */
     async deleteUser(googleId) {
-        let conn = this.db.get();
-        const villagerDb = conn.db(this.dbName);
-        return await villagerDb.collection('users').deleteOne( { googleId: googleId } );
+        const villagerDb = await this.db.get();
+        return villagerDb.collection('users')
+            .deleteOne({
+                googleId: googleId
+            });
     }
 
     /**
@@ -114,16 +119,13 @@ class Users {
      * @returns {Promise<boolean>}
      */
     async usernameAlreadyExists(name) {
-        let conn = this.db.get();
-        const villagerDb = conn.db(this.dbName);
-        const user = await villagerDb.collection('users').findOne( { username: name } );
-        let userExists = false;
-        if (user !== null) {
-            userExists = true;
-        }
-        return userExists;
+        const villagerDb = await this.db.get();
+        const user = await villagerDb.collection('users')
+            .findOne({
+                username: name
+            });
+        return user !== null;
     }
-
 }
 
-module.exports = new Users(mongo, process.env.MONGO_DB_NAME);
+module.exports = new Users(mongo);

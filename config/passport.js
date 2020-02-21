@@ -9,51 +9,51 @@ passport.use(
     new GoogleStrategy({
         clientID: process.env.GOOGLE_CLIENT_ID,
         clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-        callbackURL: 'http://localhost/auth/google/redirect'
-    }, (accessToken, refreshToken, content, cb) => {
+        callbackURL: 'http://localhost/auth/google/redirect' // TODO
+    }, (accessToken, refreshToken, content, callback) => {
         const userInfo = content['_json'];
         const googleId = userInfo['sub'];
         const email = userInfo['email'];
 
+        // Is it a new user, or an existing one?
         users.findUserByGoogleId(googleId)
             .then((existingUser) => {
                 if(existingUser) {
-                    console.log('User already exists.');
-                    existingUser.isNewUser = false;
-                    cb(null, existingUser);
+                    callback(null, existingUser);
                 } else {
+                    // Create a new user.
                     users.saveUser(googleId, email)
                         .then((newUser) => {
-                            console.log('New user created.');
-                            newUser.isNewUser = true;
-                            cb(null, newUser)
+                            callback(null, newUser)
                         });
                 }
             });
-
     })
 );
 
 /**
- * Serialize user function
+ * Serialize user function - we turn the user into their Mongo database ID.
  */
-passport.serializeUser(function(user, cb) {
-    let userData = {};
-    userData.id = user._id;
-    userData.googleId = user.googleId;
-    userData.isNewUser = user.isNewUser;
-    cb(null, userData);
+passport.serializeUser(function(user, callback) {
+    callback(null, user._id);
 });
 
 /**
- * Deserialize user function
+ * Deserialize user function - grabs the user from the database in Mongo.
+ *
+ * TODO: Long term, this may be a pain point for efficiency. We will need to keep an eye on if we need a caching layer
+ * in Redis here.
  */
-passport.deserializeUser(function(id, cb) {
+passport.deserializeUser(function(id, callback) {
+    // TODO: This will happen on every page load for a logged-in user. Potentially very painful in the long run.
+    console.log('user id: ' + id);
     users.findUserById(id)
         .then((user) => {
-            console.log(user);
-            cb(null, user);
+            const userData = {};
+            userData.id = user._id;
+            userData.username = user.username;
+            callback(null, userData);
         });
 });
 
-module.exports.middleware = passport;
+module.exports = passport;

@@ -49,10 +49,14 @@ passport.deserializeUser(function(id, callback) {
     console.log('user id: ' + id);
     users.findUserById(id)
         .then((user) => {
-            const userData = {};
-            userData.id = user._id;
-            userData.username = user.username;
-            callback(null, userData);
+            if (user) {
+                const userData = {};
+                userData.id = user._id;
+                userData.username = user.username;
+                callback(null, userData);
+            } else {
+                callback(null, null);
+            }
         });
 });
 

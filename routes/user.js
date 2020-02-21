@@ -79,9 +79,7 @@ async function organizeData(entity, type) {
 router.get('/:username', function (req, res, next) {
     loadUser(req.params.username)
         .then((data) => {
-            if (data.user.googleId === res.locals.userState.googleId) {
-                data.isOwnUser = true;
-            }
+            data.isOwnUser = data.user.id === res.locals.userState.id;
             res.render('user', data);
         }).catch(next);
 });
@@ -90,17 +88,21 @@ router.get('/:username', function (req, res, next) {
  * Route for getting the create-list page.
  */
 router.get('/:username/create-list', (req, res) => {
-
     const data = {};
+    data.pageTitle = 'Create New List';
     data.errors = req.session.errors;
     delete req.session.errors;
 
     if (res.locals.userState.isRegistered) {
-        users.findUserByGoogleId(res.locals.userState.googleId)
+        users.findUserById(req.user.id)
             .then((user) => {
-                if (user.username === req.params.username) {
-                    data.user = user;
-                    res.render('create-list', data);
+                if (user) {
+                    if (user.username === req.params.username) {
+                        data.user = user;
+                        res.render('create-list', data);
+                    } else {
+                        res.redirect('/');
+                    }
                 } else {
                     res.redirect('/');
                 }
@@ -113,7 +115,7 @@ router.get('/:username/create-list', (req, res) => {
 /**
  * Route for POSTing new list to the database.
  */
-router.post('/:username/create-list-post', [
+router.post('/:username/create-list', [
         check("listName", "Please enter a name for the list."),
         check("listName", "List name must be at least 3 characters long.").isLength( { min: 3 } ),
         check("listName", "List name must be alphanumeric.").matches(/^[a-z0-9 ]+$/i),

@@ -6,15 +6,15 @@ const users = require('../db/entity/users');
 /**
  * Method to query database for user lists.
  *
- * @param googleId
+ * @param id
  * @returns {Promise<[]>}
  */
-async function getUserLists(googleId) {
+async function getUserLists(id) {
     let results = [];
     const loggedIn = { loggedIn: true };
     results.push(loggedIn);
 
-    const userLists = await lists.getListsByUser(googleId)
+    const userLists = await lists.getListsByUser(id)
 
     let listNames = [];
     userLists.forEach(function (list) {
@@ -30,8 +30,8 @@ async function getUserLists(googleId) {
  * Route for getting user lists.
  */
 router.get('/get-user-lists', function (req, res, next) {
-    if (res.locals.userState.isLoggedIn) {
-        getUserLists(req.user.googleId)
+    if (res.locals.userState.isRegistered) {
+        getUserLists(req.user.id)
             .then((data) => {
                 res.contentType('application/json');
                 res.send(JSON.stringify(data));
@@ -54,7 +54,7 @@ router.post('/add-entity-to-list', function (req, res) {
     const type = req.body.type;
     const add = req.body.add;
 
-    if (res.locals.userState.isLoggedIn) {
+    if (res.locals.userState.isRegistered) {
         users.findUserByGoogleId(req.user.googleId)
             .then((user) => {
                 if (user.googleId === req.user.googleId) {

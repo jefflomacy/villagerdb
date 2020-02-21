@@ -46,7 +46,7 @@ function generateParagraph(item, formatData) {
             return d.gameTitle
         });
 
-    let paragraph = 'This is an item in ' + format.andList(gameList) + '. ';
+    let paragraph = item.name + ' can be found in ' + format.andList(gameList) + '. ';
     if (typeof latestFormatData.orderable !== 'undefined') {
         paragraph += 'You ' + (latestFormatData.orderable ? 'can' : 'cannot') + ' order it from the catalog. ';
     }

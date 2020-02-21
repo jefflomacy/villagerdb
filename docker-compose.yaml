@@ -1,0 +1,72 @@
+version: '3'
+services:
+  villagerdb_webserver:
+    image: nginx:1.17
+    container_name: villagerdb_webserver
+    restart: always
+    ports:
+      - 80:80
+    volumes:
+      - ./nginx-config/webserver.conf:/etc/nginx/conf.d/default.conf
+    depends_on:
+      - villagerdb_app
+  villagerdb_app:
+    build:
+      context: .
+    container_name: villagerdb_app
+    restart: always
+    environment:
+      - ELASTICSEARCH_CONNECT_STRING=http://villagerdb_es:9200
+      - REDIS_CONNECT_STRING=redis://villagerdb_redis:6379/0
+      - TZ=America/New_York
+    ports:
+      - 3000:3000
+      - 9229:9229
+    volumes:
+      - .:/usr/src/app
+      - /usr/src/app/node_modules
+    depends_on:
+      - villagerdb_es
+      - villagerdb_redis
+      - villagerdb_mongo
+  villagerdb_es:
+    image: docker.elastic.co/elasticsearch/elasticsearch:7.6.0
+    container_name: villagerdb_es
+    restart: always
+    environment:
+      - node.name=villagerdb_es
+      - cluster.name=villagerdb-es-cluster
+      - cluster.initial_master_nodes=villagerdb_es
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    volumes:
+      - villagerdb_es:/usr/share/elasticsearch/data
+    ports:
+      - 9200:9200
+  villagerdb_redis:
+    container_name: villagerdb_redis
+    restart: always
+    image: redis:5.0.7
+    volumes:
+      - villagerdb_redis:/data
+    ports:
+      - 6379:6379
+  villagerdb_mongo:
+    container_name: villagerdb_mongo
+    restart: always
+    image: mongo:4.2.3
+    volumes:
+      - villagerdb_mongo:/data/db
+    ports:
+      -  27017:27017
+volumes:
+  villagerdb_es:
+    driver: local
+  villagerdb_mongo:
+    driver: local
+  villagerdb_redis:
+    driver: local

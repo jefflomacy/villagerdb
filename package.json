@@ -4,7 +4,8 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "build": "webpack --mode production",
+    "build-js": "webpack --mode production",
+    "build-css": "lessc public/stylesheets/style.less public/stylesheets/style.css -x",
     "watch": "webpack --mode development --watch"
   },
   "dependencies": {
@@ -46,5 +47,8 @@
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
     "xmlbuilder": "^13.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }

@@ -1,14 +1,17 @@
 <h1>Create a new list</h1>
-{{#each errors.errors}}
+{{#each errors}}
     <div class="alert alert-danger">
         {{msg}}
     </div>
 {{/each}}
-<form method="post" action="/user/{{user.username}}/create-list-post">
+<form method="post" action="/user/{{user.username}}/create-list">
     <div class="form-group">
-        <label for="inputListName">List Name</label>
-        <input type="text" name="listName" class="form-control" id="inputListName" aria-describedby="listNameHelp" placeholder="Enter list name">
-        <small id="listNameHelp" class="form-text text-muted">You can add items to your list while you're browsing VillagerDB.</small>
+        <label for="list-name">List Name</label>
+        <input type="text" name="list-name" class="form-control" id="list-name"
+               aria-describedby="list-name-help" placeholder="Enter list name">
+        <small id="list-name-help" class="form-text text-muted">
+            You can add items or villagers to your list while you're browsing the site.
+        </small>
     </div>
     <button type="submit" name="submit" class="btn btn-primary">Submit</button>
 </form>

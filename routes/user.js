@@ -5,6 +5,7 @@ const lists = require('../db/entity/lists');
 const villagers = require('../db/entity/villagers');
 const items = require('../db/entity/items');
 const { check, validationResult, body } = require('express-validator');
+const format = require('../helpers/format');
 
 /**
  * Load user profile.
@@ -42,7 +43,7 @@ async function loadList(username, listId) {
         return result;
     }
 
-    result.pageTitle = list.name;
+    result.pageTitle = list.name + ' by ' + username;
     result.listId = list.id;
     result.listName = list.name;
     result.author = username;
@@ -51,11 +52,11 @@ async function loadList(username, listId) {
     for (const entity of list.entities) {
         if (entity.type === 'villager') {
             const villager = await villagers.getById(entity.entityId);
-            const villagerData = await organizeData(villager, 'villager');
+            const villagerData = organizeData(villager, 'villager');
             entities[villager.id] = villagerData;
         } else {
             const item = await items.getById(entity.entityId);
-            const itemData = await organizeData(item, 'item');
+            const itemData = organizeData(item, 'item');
             entities[item.id] = itemData;
         }
     }
@@ -64,7 +65,7 @@ async function loadList(username, listId) {
     return result;
 }
 
-async function organizeData(entity, type) {
+function organizeData(entity, type) {
     let entityData = {};
     entityData.name = entity.name;
     entityData.id = entity.id;
@@ -116,31 +117,36 @@ router.get('/:username/create-list', (req, res) => {
  * Route for POSTing new list to the database.
  */
 router.post('/:username/create-list', [
-        check("listName", "Please enter a name for the list."),
-        check("listName", "List name must be at least 3 characters long.").isLength( { min: 3 } ),
-        check("listName", "List name must be alphanumeric.").matches(/^[a-z0-9 ]+$/i),
-        body("listName")
+        body(
+            'list-name',
+            'List names must be between 3 and 25 characters long.')
+            .isLength( { min: 3, max: 25 }),
+        body(
+            'list-name',
+            'List names can only have letters, numbers, and spaces.')
+            .matches(/^[A-Za-z0-9]+$/i),
+        body(
+            'list-name',
+            'You already have a list by that name. Please choose another name.')
             .custom((value, { req }) => {
-                return lists.listAlreadyExists(req.session.passport.user.googleId, value)
+                return lists.listAlreadyExists(req.user.id, format.getSlug(value))
                     .then((listExists) => {
                         if (listExists) {
-                            return Promise.reject('List name already in use.');
+                            return Promise.reject();
                         }
                     });
             })
     ],
     (req, res) => {
-
-    const listName = req.body.listName;
+    const listName = req.body['list-name'];
     const errors = validationResult(req);
 
     if (!errors.isEmpty()) {
-        req.session.errors = errors;
+        req.session.errors = errors.array();
         res.redirect('/user/' + req.params.username + '/create-list');
     } else {
-        lists.createList(res.locals.userState.googleId, listName)
+        lists.createList(req.user.id, format.getSlug(listName), listName)
             .then(() => {
-                console.log('List', listName, 'created.');
                 res.redirect('/user/' + req.params.username);
             })
     }
@@ -153,18 +159,14 @@ router.get('/:username/list/:listId', (req, res, next) => {
     loadList(req.params.username, req.params.listId)
         .then((data) => {
             if (res.locals.userState.isRegistered) {
-                users.findUserByGoogleId(res.locals.userState.googleId)
-                    .then((user) => {
-                        if (user.username === req.params.username) {
-                            data.isOwnUser = true;
-                        } else {
-                            data.isOwnUser = false;
-                        }
-                        res.render('list', data);
-                    })
-            } else {
-                res.render('list', data);
+                if (req.user.username === req.params.username) {
+                    data.isOwnUser = true;
+                } else {
+                    data.isOwnUser = false;
+                }
             }
+
+            res.render('list', data);
         }).catch(next);
 });
 
@@ -199,19 +201,11 @@ router.get('/:username/list/:listId/delete-entity/:type/:id', (req, res) => {
 /**
  * Route for deleting a list.
  */
-router.get('/:username/list/:listId/delete', (req, res) => {
+router.get('/list/:listId/delete', (req, res) => {
     if (res.locals.userState.isRegistered) {
-        users.findUserByGoogleId(res.locals.userState.googleId)
-            .then((user) => {
-                if (user.username === req.params.username) {
-                    lists.deleteList(res.locals.userState.googleId, req.params.listId)
-                        .then(() => {
-                            console.log('List', req.params.listId, 'deleted.');
-                            res.redirect('/user/' + req.params.username);
-                        })
-                } else {
-                    res.redirect('/');
-                }
+        lists.deleteList(req.user.id, req.params.listId)
+            .then(() => {
+                res.redirect('/user/' + req.user.username);
             });
     } else {
         res.redirect('/');

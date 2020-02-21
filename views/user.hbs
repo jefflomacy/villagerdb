@@ -1,37 +1,44 @@
-<h1>{{username}}'s Profile</h1>
+{{#if isOwnUser}}
+    <div class="text-right mb-3">
+        <a href="/user/{{username}}/create-list">
+            <span class="fas fa-plus"></span>
+            Create a new list
+        </a>
+    </div>
+{{/if}}
+
+{{#if isOwnUser}}
+    <h1>Your Profile</h1>
+{{else}}
+    <h1>{{username}}'s Profile</h1>
+{{/if}}
+
+{{#if hasLists}}
+{{else}}
+    {{#if isOwnUser}}
+        <p>
+            You have not added any lists yet. You can create one by using the link on the top right, or
+            <a href="/user/{{username}}/create-list">clicking here</a>.
+        </p>
+    {{else}}
+        <p>This user has not created any lists yet.</p>
+    {{/if}}
+{{/if}}
 <div class="row">
     <div class="col-sm">
         <ul class="list-group">
-            <li class="list-group-item action">{{username}}'s Lists</li>
-            {{#if isOwnUser}}
-                {{#each lists}}
-                    <li class="list-group-item">
-                        <div class="float-left">
-                            <a href="/user/{{../username}}/list/{{id}}">{{name}}</a>
-                        </div>
+            {{#each lists}}
+                <li class="list-group-item">
+                    <div class="float-left">
+                        <a href="/user/{{../username}}/list/{{id}}">{{name}}</a>
+                    </div>
+                    {{#if ../isOwnUser}}
                         <div class="float-right">
-                            <a href="/user/{{../username}}/list/{{id}}" class="btn-sm btn-primary" role="button">Edit</a>
-                            <a href="/user/{{../username}}/list/{{id}}/delete" class="btn-sm btn-danger" role="button">Delete</a>
+                            <a href="/user/list/{{id}}/delete" class="btn-sm btn-danger" role="button">Delete</a>
                         </div>
-                    </li>
-                {{/each}}
-            {{else}}
-                {{#each lists}}
-                    <li class="list-group-item">
-                        <div class="float-left">
-                            <a href="/user/{{../username}}/list/{{id}}">{{name}}</a>
-                        </div>
-                    </li>
-                {{/each}}
-            {{/if}}
-
+                    {{/if}}
+                </li>
+            {{/each}}
         </ul>
     </div>
-    {{#if isOwnUser}}
-        <div class="col-sm">
-            <ul class="list-group">
-                <a href="/user/{{username}}/create-list" class="list-group-item list-group-item-action">Create a new list</a>
-            </ul>
-        </div>
-    {{/if}}
 </div>

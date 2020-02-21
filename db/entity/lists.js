@@ -1,5 +1,4 @@
 const mongo = require('../mongo');
-const format = require('../../helpers/format');
 
 /**
  * Lists repository.
@@ -21,10 +20,9 @@ class Lists {
      * @param listName
      * @returns {Promise<*>}
      */
-    async createList(id, listName) {
+    async createList(id, listId, listName) {
         const villagerDb = await this.db.get();
 
-        const listId = format.getSlug(listName);
         const newList = {
             name: listName,
             id: listId,
@@ -180,7 +178,7 @@ class Lists {
      * @param listId
      * @returns {Promise<boolean>}
      */
-    async listAlreadyExists(id, listName) {
+    async listAlreadyExists(id, listId) {
         const villagerDb = await this.db.get();
 
         const cursor = await villagerDb.collection('users')
@@ -198,7 +196,7 @@ class Lists {
         let listExists = false;
         if (cursor.lists != null) {
             cursor.lists.some((listIndex) => {
-                if (listIndex.name === listName) {
+                if (listIndex.id === listId) {
                     listExists = true;
                 }
             });

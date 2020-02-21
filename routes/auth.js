@@ -2,12 +2,39 @@ const express = require('express');
 const router = express.Router();
 const passport = require('passport');
 const users = require('../db/entity/users');
+const moment = require('moment');
 const { check, validationResult, body } = require('express-validator');
+
+/**
+ * Terminates the session and deletes the user from the database.
+ *
+ * @param req
+ * @param res
+ * @param next
+ * @param redirectUrl
+ */
+const cancelRegistration = (req, res, next, redirectUrl) => {
+    users.deleteUser(res.locals.userState.googleId)
+        .then(() => {
+            req.session.destroy();
+            res.redirect(redirectUrl);
+        })
+        .catch(next);
+};
+
+/**
+ * COPPA Compliance error catcher.
+ */
+router.get('/coppa-decline', (req, res, next) => {
+    res.render('coppa-decline', {
+        pageTitle: 'COPPA Compliance Notice'
+    });
+});
 
 /**
  * Login page
  */
-router.get('/login', (req, res) => {
+router.get('/login', (req, res, next) => {
     if (res.locals.userState.isLoggedIn) {
         users.isRegistered(res.locals.userState.googleId)
             .then((isRegistered) => {
@@ -57,7 +84,32 @@ router.get('/register', (req, res) => {
                 if (res.locals.userState.isLoggedIn && isRegistered) {
                     res.redirect('/');
                 } else {
-                    res.render('register');
+                    const data = {};
+                    data.pageTitle = 'Create an Account';
+
+                    // Build out months and days
+                    data.months = [];
+                    for (let i = 1; i <= 12; i++) {
+                        data.months.push({
+                            id: i,
+                            selected: typeof req.session.registrationForm !== 'undefined' &&
+                                req.session.registrationForm.birthMonth == i
+                        });
+                    }
+                    data.days = [];
+                    for (let i = 1; i <= 31; i++) {
+                        data.days.push({
+                            id: i,
+                            selected: typeof req.session.registrationForm !== 'undefined' &&
+                                req.session.registrationForm.birthDay == i
+                        });
+                    }
+
+                    data.errors = req.session.errors;
+                    Object.assign(data, req.session.registrationForm);
+                    delete req.session.errors;
+                    delete req.session.registrationForm;
+                    res.render('register', data);
                 }
             });
     }
@@ -66,51 +118,86 @@ router.get('/register', (req, res) => {
 /**
  * Route to verify registration form
  */
-router.post('/register-post', [
-        check("username", "Username must be at least 3 characters long.").isLength( { min: 3 } ),
-        check("username", "Username must be alphanumeric.").isAlphanumeric(),
-        check("coppaCheck", "Age checkbox must be checked.").exists(),
-        body("username")
+router.post('/register',
+    [
+        body(
+            'username',
+            'Usernames must be between 3 and 25 characters long.'
+        )
+            .isLength( { min: 3, max:25 }),
+        body('username',
+            'Usernames can only have letters and numbers.'
+        )
+            .isAlphanumeric(),
+        body(
+            'tos-check',
+            'To sign up you must agree to our Privacy Policy and Terms of Service')
+            .exists(),
+        body(
+            'username',
+            'That username is already taken. Please choose a different one.'
+        )
             .custom((value) => {
                 return users.usernameAlreadyExists(value)
                     .then((userExists) => {
                         if (userExists) {
-                            return Promise.reject('Username already in use.');
+                            return Promise.reject();
                         }
                     });
-            })
+            }),
+        body(
+            'birth-month',
+            'Please enter a valid birth month.'
+        )
+            .isNumeric(),
+        body(
+            'birth-day',
+            'Please enter a valid birth day.'
+        )
+            .isNumeric(),
+        body(
+            'birth-year',
+            'Please enter a valid birth year.'
+        )
+            .matches('[1-2][0-9][0-9][0-9]')
     ],
-    (req, res) => {
+    (req, res, next) => {
     const username = req.body.username;
     const errors = validationResult(req);
 
+    // If there were validation errors, stop.
     if (!errors.isEmpty()) {
-        res.render('register', errors);
+        // Send it all back to the form.
+        req.session.errors = errors.array();
+        req.session.registrationForm = {
+            username: req.body.username,
+            birthMonth: req.body['birth-month'],
+            birthDay: req.body['birth-day'],
+            birthYear: req.body['birth-year']
+        };
+        res.redirect('/auth/register');
     } else {
-        users.setRegistered(username, res.locals.userState.googleId)
-            .then(() => {
-                console.log('User', username, 'registered.')
-                res.redirect('/');
-            })
+        // Do 13-years-or-older check. If this fails, terminate registration.
+        const diff = moment()
+            .diff(moment([req.body['birth-year'], req.body['birth-month'] - 1, req.body['birth-day']]), 'years');
+        if (diff < 13) {
+            // Terminate session and redirect to coppa rejection page.
+            cancelRegistration(req, res, next, '/auth/coppa-decline');
+        } else {
+            // Otherwise, we can set them as registered!
+            users.setRegistered(username, res.locals.userState.googleId)
+                .then(() => {
+                    res.redirect('/');
+                })
+        }
     }
-
 });
 
 /**
  * Route to cancel registration. Deletes user from database and logs them out.
  */
-router.post('/register-cancel', (req, res) => {
-    console.log('User cancelling registration. Deleting user in db and destroying session.');
-    users.deleteUser(res.locals.userState.googleId)
-        .then(() => {
-            console.log('User deleted from database.');
-            req.session.destroy();
-            res.redirect('/');
-        })
-        .catch((err) => {
-            console.log('An unexpected error has occurred while attempting to delete user from database.');
-            console.error(err);
-        });
+router.post('/register-cancel', (req, res, next) => {
+    cancelRegistration(req, res, next, '/');
 });
 
 module.exports = router;

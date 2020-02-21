@@ -11,7 +11,8 @@ export default class DropdownList extends React.Component {
         const entityLists = [];
         this.props.lists.forEach((entityList) => {
             entityLists.push(
-                <DropdownEntry entityList={entityList}
+                <DropdownEntry key={entityList.id}
+                               entityList={entityList}
                                entityData={this.props.entityData}/>
             );
         });
@@ -22,7 +23,7 @@ export default class DropdownList extends React.Component {
                         data-toggle="dropdown" aria-haspopup="true" id="dropdownMenuButton">
                     +
                 </button>
-                <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                <div className="dropdown-menu" aria-labelledby="dropdownMenuButton">
                     {entityLists}
                 </div>
             </div>

@@ -47,38 +47,28 @@ router.get('/get-user-lists', function (req, res, next) {
 /**
  * Route for adding an item to a list.
  */
-router.post('/add-entity-to-list', function (req, res) {
-    const googleId = req.user.googleId;
+router.post('/add-entity-to-list', function (req, res, next) {
     const listId = req.body.listId;
     const entityId = req.body.entityId;
     const type = req.body.type;
     const add = req.body.add;
 
     if (res.locals.userState.isRegistered) {
-        users.findUserByGoogleId(req.user.googleId)
-            .then((user) => {
-                if (user.googleId === req.user.googleId) {
-                    if (add === "true") {
-                        lists.addEntityToList(googleId, listId, entityId, type)
-                            .then((dbResponse) => {
-                                res.status(201).send('Item added to list successfully.');
-                            })
-                            .catch((err) => {
-                                console.log(err);
-                            });
-                    } else {
-                        lists.removeEntityFromList(googleId, listId, entityId, type)
-                            .then((dbResponse) => {
-                                res.status(201).send('Item removed from list successfully.');
-                            })
-                            .catch((err) => {
-                                console.log(err);
-                            });
-                    }
-                }
-            });
+        if (add) {
+            lists.addEntityToList(req.user.id, listId, entityId, type)
+                .then((dbResponse) => {
+                    res.status(201).send();
+                })
+                .catch(next);
+        } else {
+            lists.removeEntityFromList(req.user.id, listId, entityId, type)
+                .then((dbResponse) => {
+                    res.status(201).send();
+                })
+                .catch(next);
+        }
     } else {
-        res.redirect('/');
+        res.status(403).send();
     }
 });
 

@@ -33,8 +33,6 @@ export default class DropdownEntry extends React.Component {
             add = false;
         }
 
-        console.log(add);
-
         // Grouping up data to POST.
         const list = {
             listId: listId,
@@ -43,7 +41,7 @@ export default class DropdownEntry extends React.Component {
             add: add
         };
 
-        $.post( '/ajax/add-entity-to-list', list, function(data) {
+        $.post('/ajax/add-entity-to-list', list, function(data) {
             console.log(data);
         });
 
@@ -56,19 +54,13 @@ export default class DropdownEntry extends React.Component {
 
     }
 
-    buildResults() {
-        const result = [];
-        result.push(
-            <button type="button" className="dropdown-item" onClick={(e) => this.handleChange(this.props.entityList.id, this.props.entityData.entityId, this.props.entityData.type)}>
+    render() {
+        return (
+            <button type="button" className="dropdown-item"
+                    onClick={(e) => this.handleChange(this.props.entityList.id, this.props.entityData.entityId, this.props.entityData.type)}>
                 {this.state.addOrRemoveMessage} {this.props.entityList.name}
             </button>
         );
-
-        return result;
-    }
-
-    render() {
-        return this.buildResults();
     }
 
 }

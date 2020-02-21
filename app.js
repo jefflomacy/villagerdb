@@ -22,6 +22,7 @@ const itemRouter = require('./routes/item');
 const itemsRouter = require('./routes/items');
 const authRouter = require('./routes/auth');
 const userRouter = require('./routes/user');
+const listRouter = require('./routes/list');
 const ajaxRouter = require('./routes/ajax');
 const randomRouter = require('./routes/random');
 
@@ -84,6 +85,7 @@ app.use('/villagers', villagersRouter);
 app.use('/item', itemRouter);
 app.use('/items', itemsRouter);
 app.use('/auth', authRouter);
+app.use('/list', listRouter);
 app.use('/user', userRouter);
 app.use('/ajax', ajaxRouter);
 app.use('/random', randomRouter);

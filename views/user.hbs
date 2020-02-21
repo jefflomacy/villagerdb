@@ -1,6 +1,6 @@
 {{#if isOwnUser}}
     <div class="text-right mb-3">
-        <a href="/user/{{username}}/create-list">
+        <a href="/list/create">
             <span class="fas fa-plus"></span>
             Create a new list
         </a>
@@ -18,7 +18,7 @@
     {{#if isOwnUser}}
         <p>
             You have not added any lists yet. You can create one by using the link on the top right, or
-            <a href="/user/{{username}}/create-list">clicking here</a>.
+            <a href="/list/create">clicking here</a>.
         </p>
     {{else}}
         <p>This user has not created any lists yet.</p>
@@ -34,7 +34,7 @@
                     </div>
                     {{#if ../isOwnUser}}
                         <div class="float-right">
-                            <a href="/user/list/{{id}}/delete" class="btn-sm btn-danger" role="button">Delete</a>
+                            <a href="/list/delete/{{id}}" class="btn-sm btn-danger" role="button">Delete</a>
                         </div>
                     {{/if}}
                 </li>

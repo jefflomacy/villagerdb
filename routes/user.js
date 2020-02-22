@@ -87,7 +87,8 @@ router.get('/:username', function (req, res, next) {
                 e.status = 404;
                 throw e;
             } else {
-                data.isOwnUser = data.user.id === res.locals.userState.id;
+                data.isOwnUser = res.locals.userState.isRegistered &&
+                    req.user.username === req.params.username;
                 res.render('user', data);
             }
 
@@ -105,14 +106,8 @@ router.get('/:username/list/:listId', (req, res, next) => {
                 e.status = 404;
                 throw e;
             } else {
-                if (res.locals.userState.isRegistered) {
-                    if (req.user.username === req.params.username) {
-                        data.isOwnUser = true;
-                    } else {
-                        data.isOwnUser = false;
-                    }
-                }
-
+                data.isOwnUser = res.locals.userState.isRegistered &&
+                    req.user.username === req.params.username;
                 res.render('list', data);
             }
         }).catch(next);

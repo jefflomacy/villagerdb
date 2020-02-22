@@ -16,10 +16,12 @@
                          class="img-responsive" style="max-width: 50px;">
                     <a href="/{{type}}/{{id}}" class="ml-2">{{name}}</a>
                 </div>
-                <div>
-                    <a href="/list/delete-entity/{{../listId}}/{{type}}/{{id}}"
-                       class="btn-sm btn-danger" role="button">Delete</a>
-                </div>
+                {{#if ../isOwnUser}}
+                    <div>
+                        <a href="/list/delete-entity/{{../listId}}/{{type}}/{{id}}"
+                           class="btn-sm btn-danger" role="button">Delete</a>
+                    </div>
+                {{/if}}
             </li>
         {{/each}}
     </ul>

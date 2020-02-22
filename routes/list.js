@@ -44,7 +44,7 @@ router.get('/create', (req, res, next) => {
     if (res.locals.userState.isRegistered) {
         res.render('create-list', data);
     } else {
-        res.redirect('/')
+        res.redirect('/login'); // create an account to continue
     }
 });
 
@@ -135,7 +135,7 @@ router.get('/user/:entityType/:entityId', function (req, res, next) {
                 res.send(data);
             }).catch(next);
     } else {
-        res.status(403).send();
+        res.send([]); // send empty list since there are no lists for non-logged-in users.
     }
 });
 

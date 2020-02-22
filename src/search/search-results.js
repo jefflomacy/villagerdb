@@ -27,20 +27,12 @@ export default class SearchResults extends React.Component {
 
         const list = [];
         for (let result of this.props.results) {
-            // Only show dropdown if logged in and have lists.
-            let dropdown = null;
-            if (this.props.showListEditor) {
-                const split = result.id.match('(item|villager)-(.*)');
-                dropdown = (
-                    <DropdownList entityId={split[2]} entityType={split[1]} />
-                );
-            }
-
             // Result item.
+            const split = result.id.match('(item|villager)-(.*)');
             list.push(
                 <li key={result.id} className="col-6 col-sm-4 col-md-3">
                     <div className="search-result-container">
-                        {dropdown}
+                        <DropdownList entityId={split[2]} entityType={split[1]} />
                         <div>
                             <a href={result.url}>
                                 <img src={result.imageUrl}

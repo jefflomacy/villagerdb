@@ -66,6 +66,7 @@ function cleanQueries(userQueries) {
 function browse(res, next, pageNumber, urlPrefix, pageTitle, userQueries, fixedQueries, data) {
     data.pageTitle = pageTitle;
     data.pageUrlPrefix = urlPrefix;
+    data.isRegistered = res.locals.userState.isRegistered;
 
     browser(pageNumber, cleanQueries(userQueries), fixedQueries)
         .then((result) => {

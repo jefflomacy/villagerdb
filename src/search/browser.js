@@ -80,7 +80,7 @@ class Browser extends React.Component {
                                        endIndex={this.state.endIndex}
                                        totalCount={this.state.totalCount}
                                        totalPages={this.state.totalPages}/>
-                            <SearchResults results={this.state.results}/>
+                            <SearchResults results={this.state.results} showListEditor={this.props.showListEditor}/>
                             <Paginator onPageChange={this.setPage}
                                        currentPage={this.state.currentPage}
                                        startIndex={this.state.startIndex}
@@ -168,7 +168,9 @@ $(document).ready(function() {
     
     const initialState = targetElement.attr('data-initial-state');
     const allFilters = targetElement.data('all-filters');
-    const pageUrlPrefix = targetElement.data('pageUrlPrefix');
+    const pageUrlPrefix = targetElement.data('page-url-prefix');
+    const showListEditor = targetElement.data('show-list-editor');
     ReactDOM.render(<Browser id="browser" initialState={initialState}
-        allFilters={allFilters} pageUrlPrefix={pageUrlPrefix}/>, targetElement[0]);
+        allFilters={allFilters} pageUrlPrefix={pageUrlPrefix}
+        showListEditor={showListEditor} />, targetElement[0]);
 })

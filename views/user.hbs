@@ -14,6 +14,24 @@
 {{/if}}
 
 {{#if hasLists}}
+    <div class="row">
+        <div class="col-sm">
+            <ul class="list-group">
+                {{#each lists}}
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <div>
+                            <a href="/user/{{../username}}/list/{{id}}">{{name}}</a>
+                        </div>
+                        {{#if ../isOwnUser}}
+                            <div>
+                                <a href="/list/delete/{{id}}" class="btn-sm btn-danger" role="button">Delete</a>
+                            </div>
+                        {{/if}}
+                    </li>
+                {{/each}}
+            </ul>
+        </div>
+    </div>
 {{else}}
     {{#if isOwnUser}}
         <p>
@@ -24,21 +42,3 @@
         <p>This user has not created any lists yet.</p>
     {{/if}}
 {{/if}}
-<div class="row">
-    <div class="col-sm">
-        <ul class="list-group">
-            {{#each lists}}
-                <li class="list-group-item d-flex justify-content-between align-items-center">
-                    <div>
-                        <a href="/user/{{../username}}/list/{{id}}">{{name}}</a>
-                    </div>
-                    {{#if ../isOwnUser}}
-                        <div>
-                            <a href="/list/delete/{{id}}" class="btn-sm btn-danger" role="button">Delete</a>
-                        </div>
-                    {{/if}}
-                </li>
-            {{/each}}
-        </ul>
-    </div>
-</div>

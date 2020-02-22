@@ -24,7 +24,8 @@ async function loadUser(username) {
     result.pageTitle = user.username + "'s Profile";
     result.username = user.username;
     result.lists = userLists;
-
+    result.hasLists = userLists.length > 0;
+    
     return result;
 }
 

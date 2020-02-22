@@ -32,13 +32,21 @@ export default class DropdownList extends React.Component {
             if (typeof this.state.lists !== 'undefined') {
                 const listItems = [];
                 for (let list of this.state.lists) {
-                    let addOrRemove = list.hasEntity ? 'Remove from' : 'Add to';
-                    listItems.push((
-                        <button key={list.id} className="dropdown-item"
-                                onClick={this.toggleList.bind(this, list.id, list.hasEntity)}>
-                            {addOrRemove} <strong>{list.name}</strong>
-                        </button>
-                    ));
+                    if (list.isAddLink) {
+                        listItems.push((
+                            <a key="add-link" className="dropdown-item" href="/list/create">
+                                Create a new list
+                            </a>
+                        ));
+                    } else {
+                        let addOrRemove = list.hasEntity ? 'Remove from' : 'Add to';
+                        listItems.push((
+                            <a key={list.id} className="dropdown-item" href="#"
+                               onClick={this.toggleList.bind(this, list.id, list.hasEntity)}>
+                                {addOrRemove} <strong>{list.name}</strong>
+                            </a>
+                        ));
+                    }
                 }
                 listData = (
                     <div className={'dropdown-menu ' + showClass}>
@@ -58,7 +66,9 @@ export default class DropdownList extends React.Component {
         );
     }
 
-    buttonClicked() {
+    buttonClicked(e) {
+        e.preventDefault();
+
         // Reset error and success state.
         this.setState({
             isError: false,
@@ -80,6 +90,10 @@ export default class DropdownList extends React.Component {
             });
 
             const listsReturned = (data) => {
+                data.push({
+                    isAddLink: true
+                });
+
                 this.setState({
                     isLoading: false,
                     isExpanded: true,
@@ -109,8 +123,8 @@ export default class DropdownList extends React.Component {
         });
     }
 
-    toggleList(listId, hasEntity) {
-        console.log(listId + ',' + hasEntity);
+    toggleList(listId, hasEntity, e) {
+        e.preventDefault();
 
         // Set loading state and close list.
         this.setState({

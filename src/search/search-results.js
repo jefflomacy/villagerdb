@@ -19,7 +19,7 @@ export default class SearchResults extends React.Component {
     }
 
     componentDidMount() {
-        $.get( '/ajax/get-user-lists', function(data) {
+        $.get( '/list/user-lists', function(data) {
             this.setState( { loggedIn: data[0].loggedIn } );
             this.setState( { lists: data[1] } );
         }.bind(this));

@@ -41,7 +41,7 @@ export default class DropdownEntry extends React.Component {
             add: add
         };
 
-        $.post('/ajax/add-entity-to-list', list, function(data) {
+        $.post('/list/entity-to-list', list, function(data) {
             console.log(data);
         });
 

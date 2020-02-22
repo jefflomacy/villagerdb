@@ -39,7 +39,7 @@ class Lists {
                     }
                 });
 
-        return await villagerDb.collection('users')
+        return villagerDb.collection('users')
             .findOne({
                 name: listName
             });

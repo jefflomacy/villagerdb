@@ -9,7 +9,7 @@ passport.use(
     new GoogleStrategy({
         clientID: process.env.GOOGLE_CLIENT_ID,
         clientSecret: process.env.GOOGLE_CLIENT_SECRET,
-        callbackURL: 'http://localhost/auth/google/redirect' // TODO
+        callbackURL: process.env.GOOGLE_REDIRECT_URL
     }, (accessToken, refreshToken, content, callback) => {
         const userInfo = content['_json'];
         const googleId = userInfo['sub'];

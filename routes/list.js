@@ -16,7 +16,7 @@ async function getUserListsForEntity(listId, entityType, entityId) {
     let result = [];
     userLists.forEach(function (list) {
         let hasEntity = false;
-        for (let item of list) {
+        for (let item of list.entities) {
             if (item.id === entityId && item.type === entityType) {
                 hasEntity = true;
             }
@@ -58,8 +58,8 @@ router.post('/create', [
         .isLength({min: 3, max: 25}),
     body(
         'list-name',
-        'List names can only have letters, numbers, and spaces.')
-        .matches(/^[A-Za-z0-9]+$/i),
+        'List names can only have letters, numbers, and spaces, and must start with a letter or number.')
+        .matches(/^[A-Za-z0-9][A-Za-z0-9 ]+$/i),
     body(
         'list-name',
         'You already have a list by that name. Please choose another name.')
@@ -125,13 +125,13 @@ router.get('/delete/:listId', (req, res) => {
 });
 
 /**
- * Route for getting user lists.
+ * Route for getting user list for a particular entity type and ID.
  */
-router.get('/user-lists/:entityType/:entityId', function (req, res, next) {
+router.get('/user/:entityType/:entityId', function (req, res, next) {
     if (res.locals.userState.isRegistered) {
         getUserListsForEntity(req.user.id, req.params.entityType, req.params.entityId)
             .then((data) => {
-                res.send(JSON.stringify(data));
+                res.send(data);
             }).catch(next);
     } else {
         res.status(403).send();
@@ -148,16 +148,16 @@ router.post('/entity-to-list', function (req, res, next) {
     const add = req.body.add;
 
     if (res.locals.userState.isRegistered) {
-        if (add) {
+        if (add === 'true') { // i hate form data
             lists.addEntityToList(req.user.id, listId, entityId, type)
                 .then((dbResponse) => {
-                    res.status(200).send();
+                    res.status(200).send({success: true});
                 })
                 .catch(next);
         } else {
             lists.removeEntityFromList(req.user.id, listId, entityId, type)
                 .then((dbResponse) => {
-                    res.status(200).send();
+                    res.status(200).send({success: true});
                 })
                 .catch(next);
         }

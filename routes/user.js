@@ -49,13 +49,13 @@ async function loadList(username, listId) {
     for (const entity of list.entities) {
         if (entity.type === 'villager') {
             // TODO make a singular call to redis
-            const villager = await villagers.getById(entity.entityId);
+            const villager = await villagers.getById(entity.id);
             if (villager) {
                 entities.push(organizeData(villager, 'villager'));
             }
         } else {
             // TODO make a singular call to redis
-            const item = await items.getById(entity.entityId);
+            const item = await items.getById(entity.id);
             if (item) {
                 entities.push(organizeData(item, 'item'));
             }

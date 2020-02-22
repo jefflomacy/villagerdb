@@ -63,6 +63,7 @@ router.post('/create', [
     body(
         'list-name',
         'You already have a list by that name. Please choose another name.')
+        .trim()
         .custom((value, {req}) => {
             return lists.listAlreadyExists(req.user.id, format.getSlug(value))
                 .then((listExists) => {

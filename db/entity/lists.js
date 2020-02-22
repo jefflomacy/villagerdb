@@ -58,7 +58,7 @@ class Lists {
         const villagerDb = await this.db.get();
 
         const store = {
-            entityId: entityId,
+            id: entityId,
             type: type
         };
 
@@ -93,7 +93,7 @@ class Lists {
                 },
                 {
                     $pull: {
-                        "lists.$.entities": { "entityId": entityId }
+                        "lists.$.entities": { "id": entityId }
                     }
                 });
     }

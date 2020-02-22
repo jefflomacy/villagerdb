@@ -12,20 +12,17 @@ const items = require('../db/entity/items');
  * @returns {Promise<{}>}
  */
 async function loadUser(username) {
-    const result = {};
     const user = await users.findUserByName(username);
     if (!user) {
         return null;
     }
 
-    const userLists = user.lists;
-
+    const result = {};
     result.user = user;
     result.pageTitle = user.username + "'s Profile";
     result.username = user.username;
-    result.lists = userLists;
-    result.hasLists = userLists.length > 0;
-    
+    result.lists = user.lists;
+    result.hasLists = user.lists.length > 0;
     return result;
 }
 
@@ -39,7 +36,6 @@ async function loadUser(username) {
 async function loadList(username, listId) {
     const result = {};
     const list = await lists.getListById(username, listId);
-
     if (list == null) {
         return null;
     }
@@ -68,7 +64,6 @@ async function loadList(username, listId) {
     }
     result.isEmpty = entities.length === 0;
     result.entities = entities;
-
     return result;
 }
 

@@ -22,8 +22,9 @@ services:
       - MONGO_CONNECT_STRING=mongodb://villagerdb_mongo:27017
       - MONGO_DB_NAME=villagerdb
       - GOOGLE_REDIRECT_URL=http://localhost/auth/google/redirect
-      - TZ=America/New_York
       - COOKIE_KEY=q1w2e3r4
+      - SESSION_LENGTH=2592000000
+      - TZ=America/New_York
     ports:
       - 3000:3000
       - 9229:9229

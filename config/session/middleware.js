@@ -9,7 +9,7 @@ const configuredSession = session({
     store: new RedisStore({client: redisClient}),
     cookie: {
         secure: process.env.NODE_ENV === 'production', // only enforce secure cookie in production mode
-        maxAge: 1000 * 60 * 60 * 24 * 365 // 1 year in milliseconds
+        maxAge: parseInt(process.env.SESSION_LENGTH)
     }
 });
 

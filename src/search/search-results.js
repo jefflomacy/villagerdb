@@ -1,5 +1,4 @@
 import React from "react";
-import $ from 'jquery';
 import DropdownList from './dropdown-list';
 
 /**

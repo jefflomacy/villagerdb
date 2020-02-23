@@ -35,17 +35,19 @@ passport.use(
  * Serialize user function - we turn the user into their Mongo database ID.
  */
 passport.serializeUser(function(user, callback) {
-    callback(null, user._id);
+    if (user && typeof user._id !== 'undefined') {
+        callback(null, user._id);
+    } else {
+        callback(null, null);
+    }
 });
 
 /**
  * Deserialize user function - grabs the user from the database in Mongo.
  *
- * TODO: Long term, this may be a pain point for efficiency. We will need to keep an eye on if we need a caching layer
  * in Redis here.
  */
 passport.deserializeUser(function(id, callback) {
-    // TODO: This will happen on every page load for a logged-in user. Potentially very painful in the long run.
     users.findUserById(id)
         .then((user) => {
             if (user) {

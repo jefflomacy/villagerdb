@@ -7,14 +7,12 @@ const ObjectId = require('mongodb').ObjectID;
 class Users {
 
     /**
-     * Build the Users class taking in the MongoDatabase object and a database name.
+     * Build the Users class taking in the MongoDatabase object.
      *
      * @param db
-     * @param dbName
      */
-    constructor(db, dbName) {
+    constructor(db) {
         this.db = db;
-        this.dbName = dbName;
     }
 
     /**

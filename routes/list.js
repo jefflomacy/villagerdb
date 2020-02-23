@@ -13,23 +13,27 @@ const format = require('../helpers/format');
 async function getUserListsForEntity(listId, entityType, entityId) {
     const userLists = await lists.getListsByUser(listId)
 
-    let result = [];
-    userLists.forEach(function (list) {
-        let hasEntity = false;
-        for (let item of list.entities) {
-            if (item.id === entityId && item.type === entityType) {
-                hasEntity = true;
+    if (userLists) {
+        let result = [];
+        userLists.forEach(function (list) {
+            let hasEntity = false;
+            for (let item of list.entities) {
+                if (item.id === entityId && item.type === entityType) {
+                    hasEntity = true;
+                }
             }
-        }
 
-        result.push({
-            id: list.id,
-            name: list.name,
-            hasEntity: hasEntity
-        })
-    });
+            result.push({
+                id: list.id,
+                name: list.name,
+                hasEntity: hasEntity
+            })
+        });
 
-    return result;
+        return result;
+    } else {
+        return [];
+    }
 }
 
 /**

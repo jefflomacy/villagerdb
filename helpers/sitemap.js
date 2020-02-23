@@ -6,11 +6,6 @@ const dir = path.join('public', 'sitemaps');
 const staticUrls = [
     "",
     "/villagers",
-    "/search",
-    "/auth/login",
-    "/auth/logout",
-    "/auth/register",
-    "/auth/google",
     "/items/clothing",
     "/items/collectibles",
     "/items/equipment",

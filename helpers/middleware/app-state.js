@@ -1,4 +1,3 @@
-const birthdays = require('../../db/birthdays');
 
 /**
  * Basic middleware that populates some user state data so that every template can access it, if needed.
@@ -16,12 +15,5 @@ module.exports = (req, res, next) => {
         res.locals.userState.username = req.user.username;
     }
 
-    // Birthday info
-    birthdays.getBirthdays()
-        .then((birthdays) => {
-            res.locals.birthdays = birthdays;
-            res.locals.shouldDisplayBirthdays = birthdays.length > 0;
-            next();
-        })
-        .catch(next);
+    next();
 };

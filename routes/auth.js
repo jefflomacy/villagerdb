@@ -58,7 +58,7 @@ router.get('/google/redirect', passport.authenticate('google'), (req, res) => {
  */
 router.get('/register', (req, res, next) => {
     if (!res.locals.userState.isLoggedIn) {
-        res.redirect('/auth/login')
+        res.redirect('/login')
     } else {
         users.findUserById(req.user.id)
             .then((user) => {
@@ -120,9 +120,9 @@ router.post('/register',
             'That username is already taken. Please choose a different one.'
         )
             .custom((value) => {
-                return users.usernameAlreadyExists(value)
-                    .then((userExists) => {
-                        if (userExists) {
+                return users.findUserByName(value)
+                    .then((user) => {
+                        if (user) {
                             return Promise.reject();
                         }
                     });

@@ -110,21 +110,6 @@ class Users {
                 _id: id
             });
     }
-
-    /**
-     * Method for validating if a username is already in use.
-     *
-     * @param name
-     * @returns {Promise<boolean>}
-     */
-    async usernameAlreadyExists(name) {
-        const villagerDb = await this.db.get();
-        const user = await villagerDb.collection('users')
-            .findOne({
-                username: name
-            });
-        return user !== null;
-    }
 }
 
 module.exports = new Users(mongo);

@@ -36,7 +36,7 @@ async function loadUser(username) {
 async function loadList(username, listId) {
     const result = {};
     const list = await lists.getListById(username, listId);
-    if (list == null) {
+    if (list == null || typeof list.entities !== 'object') {
         return null;
     }
 

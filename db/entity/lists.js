@@ -119,14 +119,14 @@ class Lists {
                     }
                 });
 
-        // TODO: Refactor to use mongo indexing.
-        let list = undefined;
-        cursor.lists.some((listIndex) => {
-            if (listIndex.id === listId) {
-                list = listIndex;
+        // Grab the list they want.
+        if (cursor && cursor.lists) {
+            for (let list of cursor.lists) {
+                if (list.id === listId) {
+                    return list;
+                }
             }
-        });
-        return list;
+        }
     }
 
     /**
@@ -146,7 +146,11 @@ class Lists {
                     lists: 1, _id: 0
                 }
             });
-        return cursor.lists;
+
+        // Make sure the user exists and then return their lists, if defined.
+        if (cursor && cursor.lists) {
+            return cursor.lists;
+        }
     }
 
     /**
@@ -170,41 +174,6 @@ class Lists {
                     }
                 });
     }
-
-    /**
-     * Method for validating if a list already exists.
-     *
-     * @param id
-     * @param listId
-     * @returns {Promise<boolean>}
-     */
-    async listAlreadyExists(id, listId) {
-        const villagerDb = await this.db.get();
-
-        const cursor = await villagerDb.collection('users')
-            .findOne({
-                    _id: id
-                },
-                {
-                    projection: {
-                        lists: 1,
-                        _id: 0
-                    }
-                });
-
-        // TODO: Refactor to use Mongo indexing
-        let listExists = false;
-        if (cursor.lists != null) {
-            cursor.lists.some((listIndex) => {
-                if (listIndex.id === listId) {
-                    listExists = true;
-                }
-            });
-        }
-
-        return listExists;
-    }
-
 }
 
 module.exports = new Lists(mongo);

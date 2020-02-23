@@ -24,4 +24,18 @@ router.get('/login', function(req, res, next) {
     });
 });
 
+/* GET terms of service page. */
+router.get('/terms-of-service', function(req, res, next) {
+    res.render('terms-of-service', {
+        pageTitle: 'Terms of Service'
+    });
+});
+
+/* GET privacy policy page. */
+router.get('/privacy-policy', function(req, res, next) {
+    res.render('privacy-policy', {
+        pageTitle: 'Privacy Policy'
+    });
+});
+
 module.exports = router;

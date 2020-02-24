@@ -7,6 +7,9 @@
  * @param next
  */
 module.exports = (req, res, next) => {
+    // Google Analytics ID
+    res.locals.gaId = process.env.GOOGLE_ANALYTICS_ID;
+
     // User state storage.
     res.locals.userState = {};
     if (req.user) {

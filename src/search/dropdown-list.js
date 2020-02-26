@@ -16,15 +16,19 @@ export default class DropdownList extends React.Component {
 
     render() {
         let labelClass = 'fa-plus';
+        let label = 'Add To List';
         let showClass = '';
         let listData = null;
 
         if (this.state.isError) { // On error, do nothing.
             labelClass = 'fa-exclamation text-danger';
+            label = 'Sorry';
         } else if (this.state.isLoading) { // On loading, do nothing.
             labelClass = 'fa-spin fa-spinner';
+            label = 'Hold on...';
         } else if (this.state.isSuccess) {
             labelClass = 'fa-check text-success';
+            label = 'Done!';
         } else if (this.state.isExpanded) {
             showClass = 'show';
 
@@ -56,10 +60,16 @@ export default class DropdownList extends React.Component {
             }
         }
 
+        let labelSpan = null;
+        if (this.props.showLabel) {
+            labelSpan = (
+                <span>&nbsp;{label}</span>
+            );
+        }
         return (
             <div className={'dropdown ' + showClass}>
                 <button type="button" className="btn btn-outline-secondary" onClick={this.buttonClicked.bind(this)}>
-                    <span className={'fa ' + labelClass}></span>
+                    <span className={'fa ' + labelClass}></span>{labelSpan}
                 </button>
                 {listData}
             </div>

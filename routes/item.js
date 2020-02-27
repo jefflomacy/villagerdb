@@ -163,6 +163,7 @@ async function loadItem(id) {
 
     // Build page data.
     const result = {};
+    result.id = id;
     Object.assign(result, formatItem(item));
     result.games = Object.values(result.gamesData);
 

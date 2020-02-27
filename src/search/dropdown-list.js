@@ -1,5 +1,6 @@
 import React from "react";
 import $ from "jquery";
+import ReactDOM from "react-dom";
 
 export default class DropdownList extends React.Component {
     constructor(props) {
@@ -166,3 +167,17 @@ export default class DropdownList extends React.Component {
         });
     }
 }
+
+/**
+ * When DOM ready, initialize any entity add buttons that are requested.
+ */
+$(document).ready(function() {
+    $('div.entity-dropdown-init').each(function (i, elem) {
+        const target = $(elem);
+        const entityType = target.data('entity-type');
+        const entityId = target.data('entity-id');
+        const showLabel = target.data('show-label');
+        ReactDOM.render(<DropdownList entityType={entityType} entityId={entityId} showLabel={showLabel} />,
+            elem);
+    });
+})

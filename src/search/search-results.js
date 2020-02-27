@@ -32,12 +32,14 @@ export default class SearchResults extends React.Component {
                 <li key={result.id} className="col-6 col-sm-4 col-md-3">
                     <div className="search-result-container">
                         <DropdownList entityId={split[2]} entityType={split[1]} />
-                        <div>
-                            <a href={result.url}>
-                                <img src={result.imageUrl}
-                                     alt={'Picture of ' + result.name} className="img-responsive" />
-                                <p>{result.name}</p>
-                            </a>
+                        <div className="search-result-flex">
+                            <div>
+                                <a href={result.url}>
+                                    <img src={result.imageUrl}
+                                         alt={'Picture of ' + result.name} className="img-responsive" />
+                                    <p>{result.name}</p>
+                                </a>
+                            </div>
                         </div>
                     </div>
                 </li>

@@ -39,7 +39,7 @@ export default class DropdownList extends React.Component {
                     if (list.isAddLink) {
                         listItems.push((
                             <a key="add-link" className="dropdown-item" href="/list/create">
-                                Create a new list
+                                New list...
                             </a>
                         ));
                     } else {

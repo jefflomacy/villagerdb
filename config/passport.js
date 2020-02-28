@@ -44,12 +44,11 @@ passport.serializeUser(function(user, callback) {
 
 /**
  * Deserialize user function - grabs the user from the database in Mongo.
- *
- * in Redis here.
  */
 passport.deserializeUser(function(id, callback) {
     // Make sure the serialized user is a string and not something strange
     if (typeof id !== 'string') { callback(null, null); }
+
     users.findUserById(id)
         .then((user) => {
             if (user) {
@@ -60,6 +59,9 @@ passport.deserializeUser(function(id, callback) {
             } else {
                 callback(null, null);
             }
+        })
+        .catch((err) => {
+            callback(err);
         });
 });
 

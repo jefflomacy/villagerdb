@@ -48,6 +48,8 @@ passport.serializeUser(function(user, callback) {
  * in Redis here.
  */
 passport.deserializeUser(function(id, callback) {
+    // Make sure the serialized user is a string and not something strange
+    if (typeof id !== 'string') { callback(null, null); }
     users.findUserById(id)
         .then((user) => {
             if (user) {

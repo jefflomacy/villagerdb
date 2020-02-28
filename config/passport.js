@@ -25,8 +25,14 @@ passport.use(
                     users.saveUser(googleId, email)
                         .then((newUser) => {
                             callback(null, newUser)
+                        })
+                        .catch((err) => {
+                            callback(err);
                         });
                 }
+            })
+            .catch((err) => {
+                callback(err);
             });
     })
 );

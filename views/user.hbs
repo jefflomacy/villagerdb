@@ -1,4 +1,10 @@
 {{#if isOwnUser}}
+    <h1>Your Profile</h1>
+{{else}}
+    <h1>{{username}}'s Profile</h1>
+{{/if}}
+
+{{#if isOwnUser}}
     <div class="text-right mb-3">
         <a href="/list/create">
             <span class="fas fa-plus"></span>
@@ -7,15 +13,10 @@
     </div>
 {{/if}}
 
-{{#if isOwnUser}}
-    <h1>Your Profile</h1>
-{{else}}
-    <h1>{{username}}'s Profile</h1>
-{{/if}}
-
-<div class="text-right">
-    {{> social-media shareUrl=shareUrl }}
+<div class="text-right mb-3">
+    {{> social-media shareUrl=shareUrl showCopyButton=true }}
 </div>
+
 {{#if hasLists}}
     <ul class="list-group">
         {{#each lists}}

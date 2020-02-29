@@ -19,4 +19,12 @@
             <span class="sr-only">Share on Twitter</span>
         </a>
     </li>
+    {{#if showCopyButton}}
+        <li class="list-inline-item">
+            <a href="{{shareUrl}}" class="btn btn-primary linking-button">
+                <span class="fas fa-link"></span>
+                <span class="sr-only">Copy link</span>
+            </a>
+        </li>
+    {{/if}}
 </ul>

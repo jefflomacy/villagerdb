@@ -19,7 +19,10 @@
                 {{#if ../isOwnUser}}
                     <div>
                         <a href="/list/delete-entity/{{../listId}}/{{type}}/{{id}}"
-                           class="btn-sm btn-danger" role="button">Delete</a>
+                           class="btn btn-danger" role="button">
+                            <span class="fa fa-trash"></span>
+                            <span class="sr-only">Delete</span>
+                        </a>
                     </div>
                 {{/if}}
             </li>

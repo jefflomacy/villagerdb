@@ -13,35 +13,30 @@
     <h1>{{username}}'s Profile</h1>
 {{/if}}
 
+<div class="text-right">
+    {{> social-media shareUrl=shareUrl }}
+</div>
 {{#if hasLists}}
-    <div class="row">
-        <div class="col-sm">
-            <ul class="list-group">
-                {{#each lists}}
-                    <li class="list-group-item d-flex justify-content-between align-items-center">
-                        <div>
-                            <a href="/user/{{../username}}/list/{{id}}">{{name}}</a>
-                        </div>
-                        <ul class="list-inline share-buttons">
-                            {{> social-media shareUrl=shareUrl skipRootTag=true }}
-                            {{#if ../isOwnUser}}
-                                <li class="list-inline-item">
-                                    <a href="/list/delete/{{id}}" class="btn btn-danger" role="button">
-                                        <span class="fa fa-trash"></span>
-                                        <span class="sr-only">Delete</span>
-                                    </a>
-                                </li>
-                            {{/if}}
-                        </ul>
-                    </li>
-                {{/each}}
-            </ul>
-        </div>
-    </div>
+    <ul class="list-group">
+        {{#each lists}}
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <div>
+                    <a href="/user/{{../username}}/list/{{id}}">{{name}}</a>
+                </div>
+                {{#if ../isOwnUser}}
+                    <a href="/list/delete/{{id}}" class="btn btn-danger" role="button">
+                        <span class="fa fa-trash"></span>
+                        <span class="sr-only">Delete</span>
+                    </a>
+                {{/if}}
+            </li>
+        {{/each}}
+    </ul>
 {{else}}
     {{#if isOwnUser}}
         <p>
-            You have not added any lists yet. You can create one by using the link on the top right, or
+            You have not added any lists yet. You can create one by using the <span class="fas fa-plus"></span> link on
+            the top right, or
             <a href="/list/create">clicking here</a>.
         </p>
     {{else}}

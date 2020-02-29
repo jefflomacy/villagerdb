@@ -89,6 +89,13 @@ router.get('/:username', function (req, res, next) {
             } else {
                 data.isOwnUser = res.locals.userState.isRegistered &&
                     req.user.username === req.params.username;
+
+                // Add sharing URLs to the lists, if any lists are available.
+                if (data.lists) {
+                    for (let list of data.lists) {
+                        list.shareUrl = 'https://villagerdb.com/user/' + data.username + '/list/' + list.id;
+                    }
+                }
                 res.render('user', data);
             }
 

@@ -4,7 +4,7 @@
 const $ = require('jquery');
 
 $(document).ready(() => {
-    $('ul.share-buttons a').on('click', (e) => {
+    $('ul.share-buttons a.sharing-button').on('click', (e) => {
         e.preventDefault();
         if (e.currentTarget && e.currentTarget.href) {
             window.open(e.currentTarget.href, '_blank',

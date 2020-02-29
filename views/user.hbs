@@ -22,14 +22,17 @@
                         <div>
                             <a href="/user/{{../username}}/list/{{id}}">{{name}}</a>
                         </div>
-                        {{#if ../isOwnUser}}
-                            <div>
-                                <a href="/list/delete/{{id}}" class="btn btn-danger" role="button">
-                                    <span class="fa fa-trash"></span>
-                                    <span class="sr-only">Delete</span>
-                                </a>
-                            </div>
-                        {{/if}}
+                        <ul class="list-inline share-buttons">
+                            {{> social-media shareUrl=shareUrl skipRootTag=true }}
+                            {{#if ../isOwnUser}}
+                                <li class="list-inline-item">
+                                    <a href="/list/delete/{{id}}" class="btn btn-danger" role="button">
+                                        <span class="fa fa-trash"></span>
+                                        <span class="sr-only">Delete</span>
+                                    </a>
+                                </li>
+                            {{/if}}
+                        </ul>
                     </li>
                 {{/each}}
             </ul>

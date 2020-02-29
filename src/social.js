@@ -4,15 +4,6 @@
 const $ = require('jquery');
 
 $(document).ready(() => {
-    // Social media buttons
-    $('ul.share-buttons a.sharing-button').on('click', (e) => {
-        e.preventDefault();
-        if (e.currentTarget && e.currentTarget.href) {
-            window.open(e.currentTarget.href, '_blank',
-                'toolbar=no,menubar=no,scrollbars=yes,resizble=yes,width=600,height=600');
-        }
-    });
-
     // Copy link buttons
     $('ul.share-buttons a.linking-button').on('click', (e) => {
         e.preventDefault();

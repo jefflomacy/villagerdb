@@ -15,8 +15,10 @@
         {{#each entities}}
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <div>
-                    <img src="{{image}}" alt="Picture of {{name}}"
-                         class="img-responsive" style="max-width: 50px;">
+                    <a href="/{{type}}/{{id}}" class="no-link-underline">
+                        <img src="{{image}}" alt="Picture of {{name}}"
+                             class="img-responsive" style="max-width: 50px;">
+                    </a>
                     <a href="/{{type}}/{{id}}" class="ml-2">{{name}}</a>
                 </div>
                 {{#if ../isOwnUser}}

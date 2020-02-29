@@ -17,7 +17,7 @@ export default class DropdownList extends React.Component {
 
     render() {
         let labelClass = 'fa-plus';
-        let label = 'Add';
+        let label = 'List';
         let showClass = '';
         let listData = null;
 

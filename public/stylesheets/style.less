@@ -4,7 +4,6 @@
 // Font Awesome
 @import '../../node_modules/@fortawesome/fontawesome-free/less/fontawesome.less';
 @fa-font-path: '/webfonts/fa';
-@import '../../node_modules/@fortawesome/fontawesome-free/less/brands.less';
 @import '../../node_modules/@fortawesome/fontawesome-free/less/solid.less';
 
 // Slick Carousel
@@ -88,38 +87,13 @@ ul.share-buttons .btn-twitter {
 }
 
 #birthday-slider {
-  max-width: 500px;
+  display: none;
+}
+
+#birthday-slider.slick-initialized {
+  display: block;
+  max-width: 275px;
   margin: 0 auto;
-
-  .birthday-slide-table {
-    display: table;
-
-    .birthday-slide-row {
-      display: table-row;
-
-      .birthday-slide-col {
-        display: table-cell;
-        vertical-align: middle;
-      }
-
-      .birthday-left {
-        width: 60%;
-
-        p {
-          font-size: 1.4rem;
-        }
-      }
-
-      .birthday-right {
-        width: 40%;
-
-        p {
-          font-size: 1.1rem;
-        }
-      }
-    }
-  }
-
   .slick-prev:before, .slick-next:before {
     color: black;
   }
@@ -129,4 +103,8 @@ table.item-game-data {
   ul {
     margin-bottom: 0;
   }
+}
+
+a.no-link-underline:hover {
+  text-decoration: none;
 }

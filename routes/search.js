@@ -25,7 +25,7 @@ const sanitize = require('../helpers/sanitize');
 function search(req, res, next) {
     const searchQuery = sanitize.cleanQuery(req.query.q);
     const pageTitle = typeof searchQuery !== 'undefined' && searchQuery.length > 0?
-        'Search reuslts for \'' + searchQuery + '\'' : 'Browse catalog';
+        'Search results for \'' + searchQuery + '\'' : 'Browse catalog';
     const pageNumber = req.params ? req.params.pageNumber : undefined;
     const pageNumberInt = sanitize.parsePositiveInteger(pageNumber);
 

@@ -1,15 +1,15 @@
-require('dotenv').config();
-
 const createError = require('http-errors');
 const express = require('express');
-const path = require('path');
-const cookieParser = require('cookie-parser');
 const lessMiddleware = require('less-middleware');
+const path = require('path');
 const favicon = require('serve-favicon');
 const logger = require('morgan');
 const hbs = require('express-handlebars');
 const staticify = require('./config/staticify');
 const cron = require('./helpers/cron');
+const passport = require('./config/passport');
+const session = require('./config/session/middleware');
+const appState = require('./helpers/middleware/app-state');
 
 // Routers
 const indexRouter = require('./routes/index');
@@ -19,6 +19,9 @@ const villagerRouter = require('./routes/villager');
 const villagersRouter = require('./routes/villagers');
 const itemRouter = require('./routes/item');
 const itemsRouter = require('./routes/items');
+const authRouter = require('./routes/auth');
+const userRouter = require('./routes/user');
+const listRouter = require('./routes/list');
 const randomRouter = require('./routes/random');
 
 const app = express();
@@ -40,7 +43,6 @@ app.set('view engine', 'hbs');
 app.use(logger('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
-app.use(cookieParser());
 
 // Setup favicon, but do not panic if favicon.ico can't be found.
 try {
@@ -65,6 +67,13 @@ app.use(staticify.middleware);
 // Do not send X-Powered-By header.
 app.disable('x-powered-by');
 
+// Initialize passport and session
+app.set('trust proxy', 1) // trust first proxy since we run behind nginx
+app.use(session);
+app.use(passport.initialize());
+app.use(passport.session());
+app.use(appState);
+
 // Router setup.
 app.use('/', indexRouter);
 app.use('/autocomplete', autocompleteRouter);
@@ -73,6 +82,9 @@ app.use('/villager', villagerRouter);
 app.use('/villagers', villagersRouter);
 app.use('/item', itemRouter);
 app.use('/items', itemsRouter);
+app.use('/auth', authRouter);
+app.use('/list', listRouter);
+app.use('/user', userRouter);
 app.use('/random', randomRouter);
 
 // catch 404 and forward to error handler

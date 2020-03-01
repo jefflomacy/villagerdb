@@ -1,0 +1,44 @@
+{{#if isOwnUser}}
+    <div class="text-right mb-3">
+        <a href="/list/create">
+            <span class="fas fa-plus"></span>
+            Create a new list
+        </a>
+    </div>
+{{/if}}
+
+{{#if isOwnUser}}
+    <h1>Your Profile</h1>
+{{else}}
+    <h1>{{username}}'s Profile</h1>
+{{/if}}
+
+{{#if hasLists}}
+    <div class="row">
+        <div class="col-sm">
+            <ul class="list-group">
+                {{#each lists}}
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        <div>
+                            <a href="/user/{{../username}}/list/{{id}}">{{name}}</a>
+                        </div>
+                        {{#if ../isOwnUser}}
+                            <div>
+                                <a href="/list/delete/{{id}}" class="btn-sm btn-danger" role="button">Delete</a>
+                            </div>
+                        {{/if}}
+                    </li>
+                {{/each}}
+            </ul>
+        </div>
+    </div>
+{{else}}
+    {{#if isOwnUser}}
+        <p>
+            You have not added any lists yet. You can create one by using the link on the top right, or
+            <a href="/list/create">clicking here</a>.
+        </p>
+    {{else}}
+        <p>This user has not created any lists yet.</p>
+    {{/if}}
+{{/if}}

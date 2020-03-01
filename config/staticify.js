@@ -5,7 +5,7 @@ if (process.env.NODE_ENV === 'production') {
     // Only run staticify in production mode.
     const path = require('path');
     const staticify = require('staticify');
-    const staticifyConfigured = staticify(path.join(process.cwd(), 'public'), staticifyOpts);
+    const staticifyConfigured = staticify(path.join(process.cwd(), 'public'));
     middleware = staticifyConfigured.middleware;
     getVersionedPath = (path) => {
         return staticifyConfigured.getVersionedPath(path);

@@ -9,6 +9,11 @@
                      style="max-width: 200px; max-height: 200px;"/>
                 </a>
             </div>
+        </div>
+        <div class="mt-3 mb-3 text-right">
+            {{> social-media shareUrl=shareUrl showAddButton=true entityType='villager' entityId=id }}
+        </div>
+        <div class="text-center">
             {{#if hasQuotes}}
                 <ul class="list-unstyled">
                     {{#each quotes}}
@@ -16,10 +21,6 @@
                     {{/each}}
                 </ul>
             {{/if}}
-        </div>
-
-        <div class="mt-3 mb-3 text-right">
-            {{> social-media shareUrl=shareUrl}}
         </div>
 
         <table class="table table-borderless mt-3">

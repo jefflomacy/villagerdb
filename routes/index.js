@@ -1,20 +1,41 @@
 const express = require('express');
 const router = express.Router();
 
-const appState = require('../helpers/app-state');
+const birthdays = require('../db/birthdays');
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  const data = {
-    pageTitle: 'Home'
-  };
+    // Birthday info
+    birthdays.getBirthdays()
+        .then((birthdays) => {
+            res.render('index', {
+                pageTitle: 'Home',
+                birthdays: birthdays,
+                shouldDisplayBirthdays: birthdays.length > 0
+            });
+        })
+        .catch(next);
+});
 
-  appState.getAppState(res)
-      .then((state) => {
-        Object.assign(data, state);
-        res.render('index', data);
-      })
-      .catch(next);
+/* GET login page. */
+router.get('/login', function(req, res, next) {
+    res.render('login', {
+        pageTitle: 'Log In'
+    });
+});
+
+/* GET terms of service page. */
+router.get('/terms-of-service', function(req, res, next) {
+    res.render('terms-of-service', {
+        pageTitle: 'Terms of Service'
+    });
+});
+
+/* GET privacy policy page. */
+router.get('/privacy-policy', function(req, res, next) {
+    res.render('privacy-policy', {
+        pageTitle: 'Privacy Policy'
+    });
 });
 
 module.exports = router;

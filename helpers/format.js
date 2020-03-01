@@ -188,7 +188,10 @@ module.exports.aOrAn = aOrAn;
  * @returns {string}
  */
 function getSlug(s) {
-    let result = s;
+    if (typeof s !== 'string') {
+        return '';
+    }
+    let result = s.toLowerCase();
 
     // Remove diacritics
     for(let i = 0; i < diacriticsMap.length; i++) {

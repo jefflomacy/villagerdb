@@ -5,11 +5,6 @@
 const config = require('../config/search');
 
 /**
- * App state calculator.
- */
-const appState = require('../helpers/app-state');
-
-/**
  *
  * @type {browse}
  */
@@ -71,21 +66,17 @@ function cleanQueries(userQueries) {
 function browse(res, next, pageNumber, urlPrefix, pageTitle, userQueries, fixedQueries, data) {
     data.pageTitle = pageTitle;
     data.pageUrlPrefix = urlPrefix;
+    data.isRegistered = res.locals.userState.isRegistered;
 
     browser(pageNumber, cleanQueries(userQueries), fixedQueries)
         .then((result) => {
             if (userQueries.isAjax === 'true') {
                 res.send(result);
             } else {
-                appState.getAppState(res)
-                    .then((state) => {
-                        Object.assign(data, state);
-                        data.initialState = JSON.stringify(result); // TODO: Need to stop doing this someday.
-                        data.allFilters = JSON.stringify(config.filters);
-                        data.result = result;
-                        res.render('browser', data);
-                    })
-                    .catch(next);
+                data.initialState = JSON.stringify(result); // TODO: Need to stop doing this someday.
+                data.allFilters = JSON.stringify(config.filters);
+                data.result = result;
+                res.render('browser', data);
             }
         })
         .catch(next);;

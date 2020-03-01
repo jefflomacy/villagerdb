@@ -6,35 +6,32 @@ services:
     restart: always
     ports:
       - 80:80
+      - 443:443
     volumes:
-      - ./nginx-config/webserver.conf:/etc/nginx/conf.d/default.conf
+      - ./nginx-config/webserver-prod.conf:/etc/nginx/conf.d/default.conf
+      - /etc/ssl/villagerdb:/etc/ssl/villagerdb
     depends_on:
       - villagerdb_app
   villagerdb_app:
     build:
       context: .
+      dockerfile: ./Dockerfile-prod
     container_name: villagerdb_app
     restart: always
     environment:
-      - ELASTICSEARCH_CONNECT_STRING=http://villagerdb_es:9200
-      - REDIS_CONNECT_STRING=redis://villagerdb_redis:6379/0
-      - REDIS_SESSION_CONNECT_STRING=redis://villagerdb_redis:6379/1
-      - MONGO_CONNECT_STRING=mongodb://villagerdb_mongo:27017
-      - MONGO_DB_NAME=villagerdb
-      - GOOGLE_REDIRECT_URL=http://localhost/auth/google/redirect
-      - COOKIE_KEY=q1w2e3r4
-      - SESSION_LENGTH=2592000000
       - TZ=America/New_York
+      - NODE_ENV=production
     ports:
       - 3000:3000
       - 9229:9229
     volumes:
-      - .:/usr/src/app
-      - /usr/src/app/node_modules
+      - ./public/images:/usr/src/app/public/images
+      - ./public/sitemaps:/usr/src/app/public/sitemaps
     depends_on:
       - villagerdb_es
       - villagerdb_redis
       - villagerdb_mongo
+    command: './app-start-prod.sh'
   villagerdb_es:
     image: docker.elastic.co/elasticsearch/elasticsearch:7.6.0
     container_name: villagerdb_es
@@ -44,13 +41,13 @@ services:
       - cluster.name=villagerdb-es-cluster
       - cluster.initial_master_nodes=villagerdb_es
       - bootstrap.memory_lock=true
-      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+      - "ES_JAVA_OPTS=-Xms256m -Xmx256m"
     ulimits:
       memlock:
         soft: -1
         hard: -1
     volumes:
-      - villagerdb_es:/usr/share/elasticsearch/data
+      - /opt/villagerdb-es-data:/usr/share/elasticsearch/data
     ports:
       - 9200:9200
   villagerdb_redis:
@@ -58,7 +55,7 @@ services:
     restart: always
     image: redis:5.0.7
     volumes:
-      - villagerdb_redis:/data
+      - /opt/villagerdb-redis-data:/data
     ports:
       - 6379:6379
   villagerdb_mongo:
@@ -66,13 +63,6 @@ services:
     restart: always
     image: mongo:4.2.3
     volumes:
-      - villagerdb_mongo:/data/db
+      - /opt/villagerdb-mongo-data:/data/db
     ports:
       -  27017:27017
-volumes:
-  villagerdb_es:
-    driver: local
-  villagerdb_mongo:
-    driver: local
-  villagerdb_redis:
-    driver: local

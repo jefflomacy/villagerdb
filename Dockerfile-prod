@@ -11,7 +11,7 @@ COPY --chown=node:node . .
 USER node
 
 # Install app dependencies
-RUN npm install
+RUN npm ci --only=production
 
 # Run app
 ENTRYPOINT ["/bin/sh"]

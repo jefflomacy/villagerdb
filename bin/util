@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+require('dotenv').config();
+
 const fs = require('fs');
 const path = require('path');
 const moment = require('moment');
@@ -245,6 +247,6 @@ if (!command) {
             console.error(e);
         })
 } else {
-    console.error('Valid commands: delete-search-index, build-search-index, build-redis-db.');
+    console.error('Valid commands: generate-sitemap, delete-search-index, build-search-index, build-redis-db.');
     process.exit(1);
 }

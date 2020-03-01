@@ -1,0 +1,61 @@
+<h1>Create An Account</h1>
+<p>
+    By creating an account, you can create lists to share with others.
+    You must be 13 years or older to use this website. Users found to be in violation
+    of this policy will have their data deleted and account banned.
+</p>
+{{#each errors}}
+    <div class="alert alert-danger">
+        {{msg}}
+    </div>
+{{/each}}
+<form method="post" action="/auth/register">
+    <div class="form-group row">
+        <label for="username" class="col-form-label col-12 col-sm-1 font-weight-bold">Username</label>
+        <div class="col-12 col-sm-11">
+            <input type="text" name="username" class="form-control" id="username" aria-describedby="username-help"
+                   maxlength="25" placeholder="Enter a username" value="{{username}}">
+            <small id="username-help" class="form-text text-muted">
+                Usernames cannot be changed. No spaces are allowed.</small>
+        </div>
+    </div>
+    <div class="form-group row">
+        <label class="col-form-label col-12 col-sm-1 font-weight-bold">Birthday</label>
+        <div class="col-12 col-sm-11">
+            <div class="row">
+                <div class="col-4 col-sm-2">
+                    Month
+                    <select class="form-control input-small" name="birth-month" style="max-width: 100px;">
+                        {{#each months}}
+                            <option value="{{id}}" {{#if selected}}selected{{/if}}>{{id}}</option>
+                        {{/each}}
+                    </select>
+                </div>
+                <div class="col-4 col-sm-2">
+                    Day
+                    <select class="form-control input-small" name="birth-day" style="max-width: 100px;">
+                        {{#each days}}
+                            <option value="{{id}}" {{#if selected}}selected{{/if}}>{{id}}</option>
+                        {{/each}}
+                    </select>
+                </div>
+                <div class="col-4 col-sm-2">
+                    Year
+                    <input type="text" class="form-control input-small" name="birth-year"
+                        style="max-width: 100px;" value="{{birthYear}}">
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="form-check">
+            <input type="checkbox" class="form-check-input" name="tos-check" id="tos-check">
+            <label class="form-check-label" for="tos-check">
+                By checking this checkbox, I agree to the <a href="/terms-of-service">Terms of Service</a>
+                and <a href="/privacy-policy">Privacy Policy</a> of this website.
+            </label>
+        </div>
+    </div>
+    <button type="submit" name="submit" class="btn btn-primary">Submit</button>
+    <button type="cancel" name="cancel" formaction="/auth/register-cancel" class="btn btn-secondary">Cancel</button>
+</form>

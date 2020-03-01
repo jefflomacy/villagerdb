@@ -1,5 +1,4 @@
 const path = require('path');
-const fs = require('fs');
 const RedisStore = require('./redis-store');
 const redisConnection = require('../redis');
 const urlHelper = require('../../helpers/url');

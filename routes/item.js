@@ -138,7 +138,7 @@ function formatItem(item) {
             hasRecipe: typeof game.recipe !== 'undefined',
             normalRecipe: game.normalRecipe,
             fullRecipe: game.fullRecipe,
-            set: game.set,
+            set: game.set
         };
     }
 

@@ -1,4 +1,7 @@
 <h1>{{listName}} by <a href="/user/{{author}}">{{author}}</a></h1>
+<div class="text-right">
+    {{> social-media shareUrl=shareUrl showCopyButton=true }}
+</div>
 {{#if isEmpty}}
     <p>
         This list has no items yet.
@@ -12,14 +15,19 @@
         {{#each entities}}
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <div>
-                    <img src="{{image}}" alt="Picture of {{name}}"
-                         class="img-responsive" style="max-width: 50px;">
+                    <a href="/{{type}}/{{id}}" class="no-link-underline">
+                        <img src="{{image}}" alt="Picture of {{name}}"
+                             class="img-responsive" style="max-width: 50px;">
+                    </a>
                     <a href="/{{type}}/{{id}}" class="ml-2">{{name}}</a>
                 </div>
                 {{#if ../isOwnUser}}
                     <div>
                         <a href="/list/delete-entity/{{../listId}}/{{type}}/{{id}}"
-                           class="btn-sm btn-danger" role="button">Delete</a>
+                           class="btn btn-danger" role="button">
+                            <span class="fa fa-trash"></span>
+                            <span class="sr-only">Delete</span>
+                        </a>
                     </div>
                 {{/if}}
             </li>

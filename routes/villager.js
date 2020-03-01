@@ -211,7 +211,7 @@ async function loadVillager(id) {
     result.pageUrl = 'https://villagerdb.com/villager/' + result.id;
     result.pageDescription = result.paragraph;
     result.pageImage = 'https://villagerdb.com' + result.image.full;
-    result.shareUrl = encodeURIComponent('https://villagerdb.com/villager/' + result.id);
+    result.shareUrl = 'https://villagerdb.com/villager/' + result.id;
 
     return result;
 }

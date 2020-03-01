@@ -42,7 +42,6 @@ class Birthdays {
                 const serializedBirthday = {};
                 serializedBirthday.id = villager.id;
                 serializedBirthday.name = villager.name;
-                serializedBirthday.shareUrl = 'https://villagerdb.com/villager/' + villager.id;
                 results.push(serializedBirthday);
             }
         }

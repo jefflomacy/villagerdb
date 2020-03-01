@@ -23,6 +23,7 @@ async function loadUser(username) {
     result.username = user.username;
     result.lists = user.lists;
     result.hasLists = user.lists.length > 0;
+    result.shareUrl = 'https://villagerdb.com/user/' + user.username;
     return result;
 }
 
@@ -64,6 +65,7 @@ async function loadList(username, listId) {
     }
     result.isEmpty = entities.length === 0;
     result.entities = entities;
+    result.shareUrl = 'https://villagerdb.com/user/' + username + '/list/' + list.id;
     return result;
 }
 

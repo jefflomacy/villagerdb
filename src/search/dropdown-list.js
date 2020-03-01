@@ -17,7 +17,7 @@ export default class DropdownList extends React.Component {
 
     render() {
         let labelClass = 'fa-plus';
-        let label = 'Add To List';
+        let label = 'List';
         let showClass = '';
         let listData = null;
 
@@ -26,10 +26,10 @@ export default class DropdownList extends React.Component {
             label = 'Sorry';
         } else if (this.state.isLoading) { // On loading, do nothing.
             labelClass = 'fa-spin fa-spinner';
-            label = 'Hold on...';
+            label = '...';
         } else if (this.state.isSuccess) {
             labelClass = 'fa-check text-success';
-            label = 'Done!';
+            label = 'Done';
         } else if (this.state.isExpanded) {
             showClass = 'show';
 

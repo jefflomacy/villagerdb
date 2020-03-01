@@ -183,7 +183,7 @@ async function loadItem(id) {
     result.pageUrl = 'https://villagerdb.com/item/' + item.id;
     result.pageDescription = result.paragraph;
     result.pageImage = 'https://villagerdb.com' + result.image.full;
-    result.shareUrl = encodeURIComponent('https://villagerdb.com/item/' + item.id);
+    result.shareUrl = 'https://villagerdb.com/item/' + item.id;
 
     return result;
 }

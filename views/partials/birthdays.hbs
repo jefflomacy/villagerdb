@@ -2,21 +2,15 @@
     <div id="birthday-slider" class="mt-2 mb-2">
         {{#each birthdays}}
             <div>
-                <div class="birthday-slide-table">
-                    <div class="birthday-slide-row">
-                        <div class="text-center birthday-slide-col birthday-left">
-                            <p>Happy Birthday, {{name}}!</p>
-                            <div>
-                                <a href="/villager/{{id}}">
-                                    <img src="/images/villagers/medium/{{id}}.png" alt="Picture of {{name}}"
-                                         class="img-responsive" style="max-height: 100px; margin: 0 auto"/>
-                                </a>
-                            </div>
-                        </div>
-                        <div class="text-center birthday-slide-col birthday-right">
-                            <p>Celebrate with {{name}}! &#x1F389;</p>
-                            {{> social-media shareUrl=shareUrl }}
-                        </div>
+                <div class="d-flex justify-content-between align-items-center">
+                    <div>
+                        <a href="/villager/{{id}}" class="no-link-underline">
+                            <img src="/images/villagers/medium/{{id}}.png" alt="Picture of {{name}}"
+                                 class="img-responsive" style="max-height: 100px; margin: 0 auto"/>
+                        </a>
+                    </div>
+                    <div class="text-center font-weight-bold">
+                        Happy Birthday, <a href="/villager/{{id}}">{{name}}</a>! &#x1F389;
                     </div>
                 </div>
             </div>

@@ -5,16 +5,12 @@
                 data-show-label="true"></div>
         </li>
     {{/if}}
-    <li class="list-inline-item">
-        <a href="https://www.facebook.com/sharer/sharer.php?u={{shareUrl}}"
-        title="Share on Facebook" target="_blank">
-        <img alt="Share on Facebook" src="/images/social/facebook.svg">
-        </a>
-    </li>
-    <li class="list-inline-item">
-        <a href="https://twitter.com/intent/tweet?url={{shareUrl}}"
-        title="Tweet" target="_blank">
-        <img alt="Tweet" src="/images/social/twitter.svg">
-        </a>
-    </li>
+    {{#if showCopyButton}}
+        <li class="list-inline-item">
+            <a href="{{shareUrl}}" class="btn btn-primary linking-button">
+                <span class="fas fa-link"></span>
+                <span class="sr-only">Copy link</span>
+            </a>
+        </li>
+    {{/if}}
 </ul>

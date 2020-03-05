@@ -32,7 +32,25 @@ async function deleteSearchIndex() {
 async function buildSearchIndex() {
     // Create the index.
     await es.indices.create({
-        index: searchConfig.elasticSearchIndexName
+        index: searchConfig.elasticSearchIndexName,
+        body: {
+            settings: {
+                analysis: {
+                    analyzer: {
+                        vdb_asciifolding: {
+                            tokenizer: 'standard',
+                            filter: ['with_orig_asciifolding', 'lowercase']
+                        }
+                    },
+                    filter: {
+                        with_orig_asciifolding: {
+                            type: 'asciifolding',
+                            preserve_original: true
+                        }
+                    }
+                }
+            }
+        }
     });
 
     // Define the index mappings properly.
@@ -41,7 +59,8 @@ async function buildSearchIndex() {
         body: {
             properties: {
                 suggest: {
-                    type: 'completion'
+                    type: 'completion',
+                    analyzer: 'vdb_asciifolding'
                 },
                 type: {
                     type: 'keyword'
@@ -80,7 +99,8 @@ async function buildSearchIndex() {
                     type: 'keyword'
                 },
                 name: {
-                    type: 'text'
+                    type: 'text',
+                    analyzer: 'vdb_asciifolding'
                 }
             }
         }

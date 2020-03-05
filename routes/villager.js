@@ -192,7 +192,8 @@ async function loadVillager(id) {
     // Some extra metadata the template needs.
     result.id = villager.id;
     result.pageTitle = villager.name;
-
+    result.collab = villager.collab;
+    
     // Quotes
     result.quotes = getQuotes(villager, result);
     result.hasQuotes = result.quotes.length > 0;

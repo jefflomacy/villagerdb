@@ -2,6 +2,7 @@
   "gender": "male",
   "species": "cat",
   "birthday": "1-6",
+  "collab": "Monster Hunter",
   "games": {
     "nl": {
       "personality": "lazy",
@@ -15,7 +16,6 @@
       "siblings": "Only child",
       "favoriteStyle": "Sporty",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "None",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of Milk",

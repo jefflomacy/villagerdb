@@ -143,6 +143,11 @@ module.exports = {
             },
             canAggregate: true,
             sort: 10
+        },
+        collab: {
+            name: 'Collaboration',
+            canAggregate: true,
+            sort: 11
         }
     }
 };

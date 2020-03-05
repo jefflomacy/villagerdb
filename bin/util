@@ -79,6 +79,9 @@ async function buildSearchIndex() {
                 set: {
                     type: 'keyword'
                 },
+                collab: {
+                    type: 'keyword'
+                },
                 name: {
                     type: 'text'
                 }
@@ -114,12 +117,13 @@ async function indexVillagers(es) {
             name: parsed.name,
             url: urlHelper.getEntityUrl(searchConfig.villagerEntityType, parsed.id),
             imageUrl: staticify.getVersionedPath(urlHelper.getImageUrl(searchConfig.villagerEntityType,
-                urlHelper.THUMB, parsed.id))
+                urlHelper.THUMB, parsed.id)),
+            game: [],
+            personality: [],
+            collab: parsed.collab ? parsed.collab : 'Standard'
         };
 
         // Get unique personalities.
-        document.game = [];
-        document.personality = [];
         for (let game in parsed.games) {
             document.game.push(game);
 

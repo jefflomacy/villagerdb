@@ -19,7 +19,7 @@ router.get('/', function (req, res, next) {
                     prefix: req.query.q,
                     completion: {
                         field: 'suggest',
-                        size: 10,
+                        size: 5,
                         skip_duplicates: true
                     }
                 }

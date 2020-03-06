@@ -52,6 +52,25 @@ function cleanQueries(userQueries) {
 }
 
 /**
+ * Determines if a query is a pure text-only query from the search box on the site.
+ * This is only true if: 'q' is the only user query, and there are no fixed queries.
+ *
+ * @param userQueries
+ * @param fixedQueries
+ * @returns {boolean}
+ */
+function isTextOnlyQuery(userQueries, fixedQueries) {
+    // Safety null checks.
+    if (!userQueries) {
+        return false;
+    }
+
+    const userKeys = Object.keys(userQueries);
+    return userKeys.length === 1 && userKeys.includes('q')
+        && !fixedQueries;
+}
+
+/**
  * Call the browser.
  *
  * @param res
@@ -76,7 +95,14 @@ function browse(res, next, pageNumber, urlPrefix, pageTitle, userQueries, fixedQ
                 data.initialState = JSON.stringify(result); // TODO: Need to stop doing this someday.
                 data.allFilters = JSON.stringify(config.filters);
                 data.result = result;
-                res.render('browser', data);
+
+                // If there is only one result and this is a text-only query, we should just forward the user to it.
+                if (data.result.totalCount === 1 && data.result.results.length === 1 && isTextOnlyQuery(userQueries)) {
+                    res.redirect(302, data.result.results[0].url);
+                } else {
+                    // Show the browser.
+                    res.render('browser', data);
+                }
             }
         })
         .catch(next);;

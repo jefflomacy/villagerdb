@@ -37,9 +37,20 @@ async function buildSearchIndex() {
             settings: {
                 analysis: {
                     analyzer: {
-                        vdb_asciifolding: {
+                        vdb_ascii_fold: {
                             tokenizer: 'standard',
                             filter: ['with_orig_asciifolding', 'lowercase']
+                        },
+                        vdb_ascii_fold_partial_match: {
+                            tokenizer: 'vdb_tokenizer',
+                            filter: ['with_orig_asciifolding', 'lowercase']
+                        }
+                    },
+                    tokenizer: {
+                        vdb_tokenizer: {
+                            type: "edge_ngram",
+                            min_gram: 2,
+                            max_gram: 10
                         }
                     },
                     filter: {
@@ -60,7 +71,7 @@ async function buildSearchIndex() {
             properties: {
                 suggest: {
                     type: 'completion',
-                    analyzer: 'vdb_asciifolding'
+                    analyzer: 'vdb_ascii_fold'
                 },
                 type: {
                     type: 'keyword'
@@ -103,7 +114,7 @@ async function buildSearchIndex() {
                 },
                 name: {
                     type: 'text',
-                    analyzer: 'vdb_asciifolding'
+                    analyzer: 'vdb_ascii_fold_partial_match'
                 }
             }
         }

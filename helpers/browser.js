@@ -53,7 +53,8 @@ function buildQuery(key, value) {
             {
                 match: {
                     name: {
-                        query: value
+                        query: value,
+                        analyzer: 'vdb_ascii_fold'
                     }
                 }
             }

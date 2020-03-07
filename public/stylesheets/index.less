@@ -21,8 +21,75 @@
     flex-direction: column;
 
     p {
-      margin: 10px 0 0 0;
+      margin: 0 0 10px 0;
       text-align: center;
+    }
+  }
+
+  .villagers-link, .villagers-link:hover, .villagers-link:visited {
+    color: #546bb3;
+  }
+
+  .clothing-link, .clothing-link:hover, .clothing-link:visited {
+    color: #ec6494;
+  }
+
+  .equipment-link, .equipment-link:hover, .equipment-link:visited {
+    color: #343a40;
+  }
+
+  .nature-link, .nature-link:hover, .nature-link:visited {
+    color: #69afa7;
+  }
+
+  .furniture-link, .furniture-link:hover, .furniture-link:visited {
+    color: #d64f53;
+  }
+
+  .collectibles-link, .collectibles-link:hover, .collectibles-link:visited {
+    color: #452f1d;
+  }
+}
+
+.character-intro {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+
+  .character-image {
+    width: auto;
+    max-height: 150px;
+    margin-right: 10px;
+  }
+
+  .character-dialog {
+    background: #fcf9e1;
+    color: #817157;
+    border-radius: 15px;
+
+    .character-name {
+      font-weight: bold;
+      display: inline-block;
+      position: relative;
+      top: -1rem;
+      left: 1rem;
+      padding: 5px 10px 5px 10px;
+      border-radius: 10px;
+      background: #cb8444;
+      color: #492010;
+    }
+
+    p {
+      position: relative;
+      top: -1rem;
+      margin: 0;
+      padding: 10px 10px 0 10px;
+
+      a {
+        font-weight: bold;
+      }
     }
   }
 }

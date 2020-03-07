@@ -1,65 +1,69 @@
 {{> birthdays birthdays=birthdays shouldDisplayBirthdays=shouldDisplayBirthdays }}
-{{> random }}
-<h1>Welcome to VillagerDB!</h1>
-<p>Feel free to browse, but try not to carouse! Ho ho!</p>
-
-<p><span style="color: red; font-weight: bold;">New!</span> We have added some
-    <a href="/search/?game=nh">New Horizons</a> items! Check out the recipes. We will update them as soon as we get new
-    information!</p>
-
-<p>What can we help you find today, hm? This is an upcoming site, so check back regularly for updated information!</p>
+<h1 class="sr-only">Welcome to VillagerDB!</h1>
+<div class="character-intro">
+    <div>
+        <img class="character-image" src="/images/error/nook.png" alt="Tom Nook">
+    </div>
+    <div class="character-dialog">
+        <span class="character-name">Tom Nook</span>
+        <p>
+            Hello hello, yes come on in! Our journey to New Horizons begins very soon, hm? Feel free to browse our
+            <a href="/search?game=nh">New Horizons</a> catalog!
+        </p>
+    </div>
+</div>
 
 <div class="row catalog-choosers">
     <div class="col-6 col-md-4 mt-4">
-        <a href="/villagers">
+        <a href="/villagers" class="villagers-link">
             <div class="catalog-chooser">
-                <span class="fas fa-5x fa-users"></span>
                 <p>Villagers</p>
+                <span class="fas fa-5x fa-users"></span>
             </div>
         </a>
     </div>
 
     <div class="col-6 col-md-4 mt-4">
-        <a href="/items/clothing">
+        <a href="/items/clothing" class="clothing-link">
             <div class="catalog-chooser">
-                <span class="fas fa-5x fa-tshirt"></span>
                 <p>Clothing</p>
+                <span class="fas fa-5x fa-tshirt"></span>
             </div>
         </a>
     </div>
 
     <div class="col-6 col-md-4 mt-4">
-        <a href="/items/collectibles">
+        <a href="/items/collectibles" class="collectibles-link">
             <div class="catalog-chooser">
-                <span class="fas fa-5x fa-paint-brush"></span>
                 <p>Collectibles</p>
+                <span class="fas fa-5x fa-paint-brush"></span>
             </div>
         </a>
     </div>
 
     <div class="col-6 col-md-4 mt-4">
-        <a href="/items/equipment">
+        <a href="/items/equipment" class="equipment-link">
             <div class="catalog-chooser">
-                <span class="fas fa-5x fa-hammer"></span>
                 <p>Equipment</p>
+                <span class="fas fa-5x fa-hammer"></span>
             </div>
         </a>
     </div>
 
     <div class="col-6 col-md-4 mt-4">
-        <a href="/items/all-furniture">
+        <a href="/items/all-furniture" class="furniture-link">
             <div class="catalog-chooser">
-                <span class="fas fa-5x fa-couch"></span>
                 <p>Furniture</p>
+                <span class="fas fa-5x fa-couch"></span>
             </div>
         </a>
     </div>
 
     <div class="col-6 col-md-4 mt-4">
-        <a href="/items/nature">
+        <a href="/items/nature" class="nature-link">
             <div class="catalog-chooser">
-                <span class="fas fa-5x fa-tree"></span>
                 <p>Nature</p>
+                <span class="fas fa-5x fa-tree"></span>
             </div>
         </a>
     </div>

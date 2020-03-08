@@ -53,6 +53,13 @@ const VILLAGER = 'villager';
 const HASH_LENGTH = 7;
 
 /**
+ * A very small collection of cached URLs. Really only intended to hold CSS and JS links to be cached busted before
+ * reaching the CDN.
+ * @type {{}}
+ */
+const staticCache = {};
+
+/**
  * The path for an image that can't be found.
  *
  * @param type THUMB, MEDIUM or FULL.
@@ -184,11 +191,17 @@ const computeStaticAssetUrl = (inputUrl) => {
 module.exports.computeStaticAssetUrl = computeStaticAssetUrl;
 
 /**
- * Get a static asset URL that is hashed for use by the CDN.
+ * Get a static asset URL that is hashed for use by the CDN. Results are cached in-memory, so this should really only
+ * be used for CSS and JS. Images should be pre-computed and put into their respective Redis or ElasticSearch indexes.
  *
  * @param inputUrl
  * @returns {string}
  */
 module.exports.getCacheBustedUrl = (inputUrl) => {
-    return addHashToUrl(inputUrl, 'aabbccd'); // TODO random str
+    if (staticCache[inputUrl]) {
+        return staticCache[inputUrl];
+    }
+
+    staticCache[inputUrl] = computeStaticAssetUrl(inputUrl);
+    return staticCache[inputUrl];
 };

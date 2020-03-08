@@ -187,7 +187,7 @@ module.exports.computeStaticAssetUrl = computeStaticAssetUrl;
  * Get a static asset URL that is hashed for use by the CDN.
  *
  * @param inputUrl
- * @returns {Promise<string|*>}
+ * @returns {string}
  */
 module.exports.getCacheBustedUrl = (inputUrl) => {
     return addHashToUrl(inputUrl, 'aabbccd'); // TODO random str

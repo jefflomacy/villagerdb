@@ -44,7 +44,7 @@ class AbstractCache {
      * @returns {Promise<*>}
      */
     async del(key) {
-        return this.redis.delAsync(this.keyPrefix + key);
+        return this.redisClient.delAsync(this.keyPrefix + key);
     }
 
     /**
@@ -60,7 +60,7 @@ class AbstractCache {
                 'COUNT', 100); // 100 is arbitrary.
             cursor = result[0];
             for (let i = 0; i < result[1].length; i++) {
-                await this.del(result[1][i]);
+                await this.redisClient.delAsync(result[1][i]);
             }
         } while (cursor != 0);
     }

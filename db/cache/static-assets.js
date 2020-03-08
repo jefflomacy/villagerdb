@@ -4,7 +4,7 @@ const crypto = require('crypto');
 
 const redis = require('./redis');
 const AbstractCache = require('./abstract-cache');
-const cache = new AbstractCache(redis, 'img');;
+const cache = new AbstractCache(redis, 'sa');;
 
 /**
  * Length of hash key in filenames.
@@ -57,4 +57,12 @@ module.exports.getStaticAssetUrl = async (inputUrl) => {
     const finalUrl = computeStaticAssetUrl(inputUrl);
     await cache.set(inputUrl, finalUrl);
     return finalUrl;
+};
+
+/**
+ * Destroy static asset cache. It will be rebuilt and this can be done even when the app is running.
+ * @returns {Promise<void>}
+ */
+module.exports.flushCache = async () => {
+    return cache.flush();
 };

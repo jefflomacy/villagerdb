@@ -3,7 +3,6 @@ const express = require('express');
 const path = require('path');
 const logger = require('morgan');
 const hbs = require('express-handlebars');
-const staticify = require('./config/staticify');
 const cron = require('./helpers/cron');
 const passport = require('./config/passport');
 const session = require('./config/session/middleware');
@@ -31,9 +30,6 @@ const handlebars = hbs.create({
     defaultLayout: 'main',
     layoutsDir: __dirname + '/views/layouts/',
     partialsDir: __dirname + '/views/partials/',
-    helpers: {
-        getVersionedPath: staticify.getVersionedPath
-    }
 });
 app.engine('hbs', handlebars.engine);
 app.set('view engine', 'hbs');

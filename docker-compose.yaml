@@ -19,6 +19,7 @@ services:
       - ELASTICSEARCH_CONNECT_STRING=http://villagerdb_es:9200
       - REDIS_CONNECT_STRING=redis://villagerdb_redis:6379/0
       - REDIS_SESSION_CONNECT_STRING=redis://villagerdb_redis:6379/1
+      - REDIS_CACHE_CONNECT_STRING=redis://villagerdb_redis:6379/2
       - MONGO_CONNECT_STRING=mongodb://villagerdb_mongo:27017
       - MONGO_DB_NAME=villagerdb
       - GOOGLE_REDIRECT_URL=http://localhost/auth/google/redirect

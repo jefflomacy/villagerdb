@@ -4,9 +4,9 @@
 const fs = require('fs');
 
 /**
- * Staticify.
+ * Static asset management.
  */
-const staticify = require('../config/staticify');
+const sa = require('../db/cache/static-assets');
 
 /**
  * Thumbnail
@@ -114,9 +114,9 @@ module.exports.getImageUrl = getImageUrl;
  */
 module.exports.getEntityImageData = (entityType, id) => {
     return {
-        thumb: staticify.getVersionedPath(getImageUrl(entityType, THUMB, id)),
-        medium: staticify.getVersionedPath(getImageUrl(entityType, MEDIUM, id)),
-        full: staticify.getVersionedPath(getImageUrl(entityType, FULL, id))
+        thumb: sa.computeStaticAssetUrl(getImageUrl(entityType, THUMB, id)),
+        medium: sa.computeStaticAssetUrl(getImageUrl(entityType, MEDIUM, id)),
+        full: sa.computeStaticAssetUrl(getImageUrl(entityType, FULL, id))
     };
 };
 

@@ -6,8 +6,8 @@ const fs = require('fs');
 const path = require('path');
 const moment = require('moment');
 const es = require('../db/elasticsearch');
+const sa = require('../db/cache/static-assets');
 
-const staticify = require('../config/staticify');
 const searchConfig = require('../config/search.js');
 const formatHelper = require('../helpers/format');
 const urlHelper = require('../helpers/url');
@@ -136,7 +136,7 @@ async function indexVillagers(es) {
             species: parsed.species,
             name: parsed.name,
             url: urlHelper.getEntityUrl(searchConfig.villagerEntityType, parsed.id),
-            imageUrl: staticify.getVersionedPath(urlHelper.getImageUrl(searchConfig.villagerEntityType,
+            imageUrl: sa.computeStaticAssetUrl(urlHelper.getImageUrl(searchConfig.villagerEntityType,
                 urlHelper.THUMB, parsed.id)),
             game: [],
             personality: [],
@@ -191,7 +191,7 @@ async function indexItems(es) {
             category: parsed.category,
             game: [],
             url: urlHelper.getEntityUrl(searchConfig.itemEntityType, parsed.id),
-            imageUrl: staticify.getVersionedPath(urlHelper.getImageUrl(searchConfig.itemEntityType, urlHelper.THUMB,
+            imageUrl: sa.computeStaticAssetUrl(urlHelper.getImageUrl(searchConfig.itemEntityType, urlHelper.THUMB,
                 parsed.id))
         };
 
@@ -238,10 +238,12 @@ if (!command) {
     generateSitemap()
         .then(() => {
             console.log('Generated new sitemap.');
+            process.exit(0);
         })
         .catch((e) => {
             console.log('Failed to generate new sitemap.');
             console.error(e);
+            process.exit(1);
         });
 } else if (command === 'delete-search-index') {
     deleteSearchIndex()
@@ -249,26 +251,28 @@ if (!command) {
         }) // doesn't matter that it failed to delete
         .then(() => {
             console.log('Deleted ' + searchConfig.elasticSearchIndexName + ' index.');
+            process.exit(0);
         });
 } else if (command === 'build-search-index') {
     buildSearchIndex()
         .then(() => {
             console.log('Built ' + searchConfig.elasticSearchIndexName + ' index successfully.');
+            process.exit(0);
         })
         .catch((e) => {
             console.log('Failed to build search index.');
             console.error(e);
+            process.exit(1);
         });
 } else if (command === 'build-redis-db') {
-    const redisConnection = require('../db/redis');
     buildRedisDb()
         .then(() => {
-            // So the process will actually terminate.
-            redisConnection.quit();
+            process.exit(0);
         })
         .catch((e) => {
             console.log('Error building redis db.');
             console.error(e);
+            process.exit(1);
         })
 } else {
     console.error('Valid commands: generate-sitemap, delete-search-index, build-search-index, build-redis-db.');

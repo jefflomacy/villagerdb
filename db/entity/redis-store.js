@@ -94,36 +94,6 @@ class RedisStore {
     }
 
     /**
-     * Return all IDs matching on the given glob.
-     *
-     * @param glob
-     * @returns {Promise<*>}
-     */
-    async searchById(glob) {
-        // Clean up the search string a bit.
-        glob = glob.toLowerCase();
-        glob = glob.replace(/\s+/g, '_'); // replace one or more spaces with a single _
-        glob = glob.replace(/[^\w]/g, ''); // remove any non-alphanumeric characters.
-
-        // Search
-        const results = [];
-        let cursor = 0;
-        do {
-            // Result consists of: the cursor at index 0, and the results at index 1.
-            const result = await this.redisClient.zscanAsync(this.setName, cursor, 'MATCH', '*' + glob + '*',
-                'COUNT', 100); // 100 is arbitrary.
-            cursor = result[0];
-            // Results are in pairs (key, zscore). We don't care about the zscore because we just used it for sorting,
-            // so we skip every other entry.
-            for (let i = 0; i < result[1].length; i += 2) {
-                results.push(result[1][i]);
-            }
-        } while (cursor != 0);
-
-        return results;
-    }
-
-    /**
      * Fill the redis database with entity information. All previous information in the database for this entity type
      * will be cleared when this routine is called.
      *
@@ -136,19 +106,6 @@ class RedisStore {
         // Read each file in the directory.
         const files = fs.readdirSync(this.dataStorePath);
 
-        // Clear the old setName.
-        await this.redisClient.delAsync(this.setName);
-
-        // Clear all old keys matching our prefix.
-        let cursor = 0;
-        do {
-            const result = await this.redisClient.scanAsync(cursor, 'MATCH', this.keyPrefix + '*', 'COUNT', 100);
-            cursor = result[0];
-            if (cursor != 0 && result.length > 0 && result[1].length > 0) {
-                await this.redisClient.delAsync(result[1]);
-            }
-        } while (cursor != 0);
-
         // Loop through each file and add it to the database with the proper key prefix.
         for (let file of files) {
             const data = fs.readFileSync(path.join(this.dataStorePath, file), 'utf8');
@@ -159,8 +116,9 @@ class RedisStore {
             keys.push(parsed.id);
         }
 
-        // Sort keys alphabetically and then insert them.
+        // Sort keys alphabetically and then insert them after deleting old set.
         keys.sort();
+        await this.redisClient.delAsync(this.setName);
         for (let i = 0; i < keys.length; i++) {
             await this.redisClient.zaddAsync(this.setName, i + 1, keys[i]);
         }

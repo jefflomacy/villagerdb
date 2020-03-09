@@ -11,6 +11,7 @@ const searchConfig = require('../config/search.js');
 const formatHelper = require('../helpers/format');
 const urlHelper = require('../helpers/url');
 const sitemap = require('../helpers/sitemap');
+const cache = require('../db/cache');
 
 function usage() {
     console.error('Usage: bin/util <command>');
@@ -21,17 +22,12 @@ async function generateSitemap() {
     sitemap.generateMap();
 }
 
-async function deleteSearchIndex() {
-    // Delete the elasticsearch index
-    return es.indices.delete({
-        index: searchConfig.elasticSearchIndexName
-    })
-}
-
 async function buildSearchIndex() {
+    const newIndexName = 'i' + Date.now();
+
     // Create the index.
     await es.indices.create({
-        index: searchConfig.elasticSearchIndexName,
+        index: newIndexName,
         body: {
             settings: {
                 analysis: {
@@ -65,7 +61,7 @@ async function buildSearchIndex() {
 
     // Define the index mappings properly.
     await es.indices.putMapping({
-        index: searchConfig.elasticSearchIndexName,
+        index: newIndexName,
         body: {
             properties: {
                 suggest: {
@@ -119,17 +115,22 @@ async function buildSearchIndex() {
         }
     });
 
-    await indexVillagers(es);
-    await indexItems(es);
+    await indexVillagers(es, newIndexName);
+    await indexItems(es, newIndexName);
+
+    // Save the new index to the cache.
+    cache.set(searchConfig.CACHE_INDEX_NAME, newIndexName);
+    console.log('New index name: ' + newIndexName);
 }
 
 /**
  * Add villagers to the entity index.
  *
  * @param es
+ * @param newIndexName
  * @returns {Promise<void>}
  */
-async function indexVillagers(es) {
+async function indexVillagers(es, newIndexName) {
     const files = fs.readdirSync(path.join('data', 'villagers'));
     for (let file of files) {
         const data = fs.readFileSync(path.join('data', 'villagers', file), 'utf8');
@@ -170,7 +171,7 @@ async function indexVillagers(es) {
 
         // Create the villager document.
         await es.index({
-            index: searchConfig.elasticSearchIndexName,
+            index: newIndexName,
             id: searchConfig.villagerEntityType + '-' + parsed.id,
             body: document
         });
@@ -182,9 +183,10 @@ async function indexVillagers(es) {
  * Add items to the entity index.
  *
  * @param es
+ * @param newIndexName
  * @returns {Promise<void>}
  */
-async function indexItems(es) {
+async function indexItems(es, newIndexName) {
     const files = fs.readdirSync(path.join('data', 'items'));
     for (let file of files) {
         const data = fs.readFileSync(path.join('data', 'items', file), 'utf8');
@@ -215,7 +217,7 @@ async function indexItems(es) {
 
         // Create the item document.
         await es.index({
-            index: searchConfig.elasticSearchIndexName,
+            index: newIndexName,
             id: searchConfig.itemEntityType + '-' + parsed.id,
             body: document
         });
@@ -231,8 +233,10 @@ async function buildRedisDb() {
     const villagers = require('../db/entity/villagers');
     const items = require('../db/entity/items');
 
+    console.log('Populating villagers database...');
     await villagers.populateRedis()
     console.log('Villager database populated.');
+    console.log('Populating items database...');
     await items.populateRedis();
     console.log('Items database populated.');
 }
@@ -255,18 +259,10 @@ if (!command) {
             console.error(e);
             process.exit(1);
         });
-} else if (command === 'delete-search-index') {
-    deleteSearchIndex()
-        .catch((e) => {
-        }) // doesn't matter that it failed to delete
-        .then(() => {
-            console.log('Deleted ' + searchConfig.elasticSearchIndexName + ' index.');
-            process.exit(0);
-        });
 } else if (command === 'build-search-index') {
     buildSearchIndex()
         .then(() => {
-            console.log('Built ' + searchConfig.elasticSearchIndexName + ' index successfully.');
+            console.log('Built search index successfully.');
             process.exit(0);
         })
         .catch((e) => {

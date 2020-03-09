@@ -1,5 +1,17 @@
+const cache = require('../db/cache');
+
+/**
+ * Cache key for the name of the elastic search index.
+ * @type {string}
+ */
+const CACHE_INDEX_NAME = 'elasticSearchIndexName';
+
+
 module.exports = {
-    elasticSearchIndexName: 'entity',
+    CACHE_INDEX_NAME: CACHE_INDEX_NAME,
+    getElasticSearchIndexName: async () => {
+        return cache.get(CACHE_INDEX_NAME);
+    },
     villagerEntityType: 'villager',
     itemEntityType: 'item',
     searchResultsPageSize: 25,

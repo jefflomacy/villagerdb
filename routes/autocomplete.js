@@ -11,21 +11,24 @@ router.get('/', function (req, res, next) {
         throw e;
     }
 
-    es.search({
-        index: config.elasticSearchIndexName,
-        body: {
-            suggest: {
-                entity: {
-                    prefix: req.query.q,
-                    completion: {
-                        field: 'suggest',
-                        size: 5,
-                        skip_duplicates: true
+    config.getElasticSearchIndexName()
+        .then((indexName) => {
+            return es.search({
+                index: indexName,
+                body: {
+                    suggest: {
+                        entity: {
+                            prefix: req.query.q,
+                            completion: {
+                                field: 'suggest',
+                                size: 5,
+                                skip_duplicates: true
+                            }
+                        }
                     }
                 }
-            }
-        }
-    })
+            })
+        })
         .then((results) => {
             const suggestions = [];
             if (results.suggest && results.suggest.entity) {

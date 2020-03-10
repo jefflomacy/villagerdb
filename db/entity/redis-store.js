@@ -108,7 +108,9 @@ class RedisStore {
 
         // Loop through each file and add it to the database with the proper key prefix.
         for (let file of files) {
-            const data = fs.readFileSync(path.join(this.dataStorePath, file), 'utf8');
+            const filePath = path.join(this.dataStorePath, file);
+            console.log('Processing ' + filePath);
+            const data = fs.readFileSync(filePath, 'utf8');
             let parsed = JSON.parse(data);
             parsed = this._addImageData(parsed);
             parsed = this._handleEntity(parsed); // custom logic for each specific implementation

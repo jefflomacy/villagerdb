@@ -13,11 +13,6 @@ const urlHelper = require('../helpers/url');
 const sitemap = require('../helpers/sitemap');
 const cache = require('../db/cache');
 
-function usage() {
-    console.error('Usage: bin/util <command>');
-    process.exit(1);
-}
-
 async function generateSitemap() {
     sitemap.generateMap();
 }
@@ -119,8 +114,17 @@ async function buildSearchIndex() {
     await indexItems(es, newIndexName);
 
     // Save the new index to the cache.
-    cache.set(searchConfig.CACHE_INDEX_NAME, newIndexName);
+    const oldIndexName = await cache.get(searchConfig.CACHE_INDEX_NAME);
+    await cache.set(searchConfig.CACHE_INDEX_NAME, newIndexName);
     console.log('New index name: ' + newIndexName);
+
+    // Delete the old index if existing.
+    if (oldIndexName) {
+        es.indices.delete({
+            index: oldIndexName
+        });
+        console.log('Deleted old index ' + oldIndexName);
+    }
 }
 
 /**
@@ -242,7 +246,7 @@ async function buildRedisDb() {
 }
 
 if (process.argv.length !== 3) {
-    usage();
+    process.exit(1);
 }
 
 const command = process.argv[2];

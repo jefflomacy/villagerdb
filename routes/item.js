@@ -79,67 +79,71 @@ function formatItem(item) {
 
     // Game tables
     formatted.gamesData = {};
-    for (let gameId in item.games) {
+    for (let gameId in format.games) {
         const game = item.games[gameId];
+        if (game) {
+            // Where to get?
+            let source = [];
+            if (game.sources) {
+                source = source.concat(game.sources);
+                source.sort();
+            }
 
-        // Where to get?
-        let source = [];
-        if (game.sources) {
-            source = source.concat(game.sources);
-            source.sort();
-        }
+            // Gather purchase information.
+            let bellCost = [];
+            let meowCost = [];
+            let milesCost = [];
+            if (game.buyPrices) {
+                bellCost = bellCost.concat(getCurrencyValues(game.buyPrices, 'bells'));
+                meowCost = meowCost.concat(getCurrencyValues(game.buyPrices, 'meow'));
+                milesCost = milesCost.concat(getCurrencyValues(game.buyPrices, 'miles'));
+                bellCost.sort();
+                meowCost.sort();
+            }
 
-        // Gather purchase information.
-        let bellCost = [];
-        let meowCost = [];
-        if (game.buyPrices) {
-            bellCost = bellCost.concat(getCurrencyValues(game.buyPrices, 'bells'));
-            meowCost = meowCost.concat(getCurrencyValues(game.buyPrices, 'meow'));
-            bellCost.sort();
-            meowCost.sort();
-        }
+            // Gather sale information.
+            const bellPrice = [];
+            if (game.sellPrice && game.sellPrice.currency === 'bells') {
+                bellPrice.push(game.sellPrice.value);
+            }
 
-        // Gather sale information.
-        const bellPrice = [];
-        if (game.sellPrice && game.sellPrice.currency === 'bells') {
-            bellPrice.push(game.sellPrice.value);
-        }
+            // Fashion and interior theme (if defined)
+            let fashionTheme = [];
+            let interiorTheme = [];
+            if (game.fashionThemes) {
+                fashionTheme = fashionTheme.concat(game.fashionThemes);
+                fashionTheme.sort();
+            }
+            if (game.interiorThemes) {
+                interiorTheme = interiorTheme.concat(game.interiorThemes);
+                interiorTheme.sort();
+            }
 
-        // Fashion and interior theme (if defined)
-        let fashionTheme = [];
-        let interiorTheme = [];
-        if (game.fashionThemes) {
-            fashionTheme = fashionTheme.concat(game.fashionThemes);
-            fashionTheme.sort();
+            // Formatted data.
+            formatted.gamesData[gameId] = {
+                gameTitle: format.games[gameId].title,
+                orderable: game.orderable,
+                orderableText: typeof game.orderable !== 'undefined' ? (game.orderable ? 'Yes' : 'No') : undefined,
+                sizeText: game.xSize > 0 && game.ySize > 0 ? (game.xSize + ' x ' + game.ySize) : undefined,
+                hasSource: source.length > 0,
+                source: source,
+                buyable: bellCost.length > 0 || meowCost.length > 0 || milesCost.length > 0,
+                bellCost: bellCost,
+                meowCost: meowCost,
+                milesCost: milesCost,
+                sellable: bellPrice.length > 0,
+                bellPrice: bellPrice,
+                hasFashionTheme: fashionTheme.length > 0,
+                fashionTheme: fashionTheme,
+                hasInteriorTheme: interiorTheme.length > 0,
+                interiorTheme: interiorTheme,
+                hasSet: typeof game.set !== 'undefined',
+                hasRecipe: typeof game.recipe !== 'undefined',
+                normalRecipe: game.normalRecipe,
+                fullRecipe: game.fullRecipe,
+                set: game.set
+            };
         }
-        if (game.interiorThemes) {
-            interiorTheme = interiorTheme.concat(game.interiorThemes);
-            interiorTheme.sort();
-        }
-
-        // Formatted data.
-        formatted.gamesData[gameId] = {
-            gameTitle: format.games[gameId].title,
-            orderable: game.orderable,
-            orderableText: typeof game.orderable !== 'undefined' ? (game.orderable ? 'Yes' : 'No') : undefined,
-            sizeText: game.xSize > 0 && game.ySize > 0 ? (game.xSize + ' x ' + game.ySize) : undefined,
-            hasSource: source.length > 0,
-            source: source,
-            buyable: bellCost.length > 0 || meowCost.length > 0,
-            bellCost: bellCost,
-            meowCost: meowCost,
-            sellable: bellPrice.length > 0,
-            bellPrice: bellPrice,
-            hasFashionTheme: fashionTheme.length > 0,
-            fashionTheme: fashionTheme,
-            hasInteriorTheme: interiorTheme.length > 0,
-            interiorTheme: interiorTheme,
-            hasSet: typeof game.set !== 'undefined',
-            hasRecipe: typeof game.recipe !== 'undefined',
-            normalRecipe: game.normalRecipe,
-            fullRecipe: game.fullRecipe,
-            set: game.set
-        };
     }
 
     formatted.paragraph = generateParagraph(item, formatted);

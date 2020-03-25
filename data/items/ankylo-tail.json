@@ -15,6 +15,12 @@
       "sources": [
         "Underground (dig spot)"
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Underground (dig spot)"
+      ]
     }
   }
 }

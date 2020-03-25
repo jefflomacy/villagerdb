@@ -28,6 +28,12 @@
       "orderable": true,
       "sources": [
         "Nook Miles System"
+      ],
+      "buyPrices": [
+        {
+          "currency": "miles",
+          "value": 3200
+        }
       ]
     }
   }

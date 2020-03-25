@@ -9,6 +9,12 @@
         "Nook's Cranny"
       ],
       "customizable": false,
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 400
+        }
+      ],
       "recipe": {
         "tree-branch": 5
       }

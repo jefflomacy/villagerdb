@@ -3,7 +3,13 @@
   "name": "Denim Pants",
   "games": {
     "nh": {
-      "orderable": true
+      "orderable": true,
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1120
+        }
+      ]
     }
   }
 }

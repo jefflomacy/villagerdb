@@ -6,6 +6,12 @@
       "orderable": true,
       "sources": [
         "Nook Shopping"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1120
+        }
       ]
     }
   }

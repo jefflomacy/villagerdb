@@ -6,6 +6,12 @@
       "orderable": true,
       "sources": [
         "Receive in mail on your second day"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 29980
+        }
       ]
     }
   }

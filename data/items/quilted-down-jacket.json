@@ -6,6 +6,12 @@
       "orderable": true,
       "sources": [
         "Able Sisters"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1400
+        }
       ]
     }
   }

@@ -6,6 +6,12 @@
     "nh": {
       "orderable": false,
       "customizable": false,
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 800
+        }
+      ],
       "recipe": {
         "hardwood": 5
       }

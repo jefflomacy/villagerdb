@@ -7,6 +7,12 @@
       "sources": [
         "Nook's Cranny",
         "Tom Nook on your first day"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1800
+        }
       ]
     }
   }

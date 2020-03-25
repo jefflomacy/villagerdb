@@ -31,6 +31,12 @@
       "orderable": true,
       "sources": [
         "Nook's Cranny"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 920
+        }
       ]
     }
   }

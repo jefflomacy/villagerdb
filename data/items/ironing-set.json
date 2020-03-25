@@ -20,7 +20,13 @@
       ]
     },
     "nh": {
-      "orderable": true
+      "orderable": true,
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 820
+        }
+      ]
     }
   }
 }

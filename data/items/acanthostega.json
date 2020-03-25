@@ -1,0 +1,12 @@
+{
+  "id": "acanthostega",
+  "name": "Acanthostega",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Underground (dig spot)"
+      ]
+    }
+  }
+}

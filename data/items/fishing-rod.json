@@ -12,6 +12,13 @@
       "sources": [
         "Nookling stores"
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "recipe": {
+        "flimsy-fishing-rod": 1,
+        "iron-nugget": 1
+      }
     }
   }
 }

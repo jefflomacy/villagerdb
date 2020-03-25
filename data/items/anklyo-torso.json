@@ -1,0 +1,12 @@
+{
+  "id": "anklyo-torso",
+  "name": "Anklyo Torso",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Underground (dig spot)"
+      ]
+    }
+  }
+}

@@ -4,6 +4,8 @@
   "category": "Furniture",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "recipe": {
         "iron-nugget": 2
       }

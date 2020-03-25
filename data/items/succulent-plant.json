@@ -27,6 +27,14 @@
           "value": 5
         }
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "clump-of-weeds": 10,
+        "empty-can": 1
+      }
     }
   }
 }

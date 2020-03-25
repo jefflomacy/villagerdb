@@ -22,6 +22,9 @@
           "value": 640
         }
       ]
+    },
+    "nh": {
+      "orderable": true
     }
   }
 }

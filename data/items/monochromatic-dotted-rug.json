@@ -1,0 +1,12 @@
+{
+  "id": "monochromatic-dotted-rug",
+  "name": "Monochromatic Dotted Rug",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook's Cranny"
+      ]
+    }
+  }
+}

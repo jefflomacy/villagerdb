@@ -4,8 +4,9 @@
   "category": "Usables",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
-        "Hitting trees with a flimsy axe"
+        "Hitting trees with an axe"
       ]
     }
   }

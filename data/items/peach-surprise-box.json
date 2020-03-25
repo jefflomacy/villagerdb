@@ -1,0 +1,14 @@
+{
+  "id": "peach-surprise-box",
+  "name": "Peach Surprise Box",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "peach": 10,
+        "softwood": 4
+      }
+    }
+  }
+}

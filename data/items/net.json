@@ -13,6 +13,14 @@
         "Nookling stores",
         "Bug Off"
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "flimsy-net": 1,
+        "iron-nugget": 1
+      }
     }
   }
 }

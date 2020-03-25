@@ -1,0 +1,13 @@
+{
+  "id": "hay-bed",
+  "name": "Hay Bed",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "clump-of-weeds": 20
+      }
+    }
+  }
+}

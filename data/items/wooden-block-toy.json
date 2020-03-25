@@ -1,0 +1,13 @@
+{
+  "id": "wooden-block-toy",
+  "name": "Wooden-block Toy",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "softwood": 3
+      }
+    }
+  }
+}

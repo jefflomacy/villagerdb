@@ -21,6 +21,9 @@
           "value": 600
         }
       ]
+    },
+    "nh": {
+      "orderable": true
     }
   }
 }

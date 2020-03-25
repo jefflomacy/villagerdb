@@ -1,0 +1,12 @@
+{
+  "id": "nook-inc-wall",
+  "name": "Nook Inc. Wall",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Miles System"
+      ]
+    }
+  }
+}

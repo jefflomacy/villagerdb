@@ -12,6 +12,14 @@
       "sources": [
         "Nookling stores"
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "flimsy-shovel": 1,
+        "iron-nugget": 1
+      }
     }
   }
 }

@@ -1,0 +1,12 @@
+{
+  "id": "pink-simple-cloth-wall",
+  "name": "Pink Simple-cloth Wall",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook's Cranny"
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "broom-and-dustpan",
+  "name": "Broom And Dustpan",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook's Cranny"
+      ]
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "wooden-wardrobe",
+  "name": "Wooden Wardrobe",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "wood": 12
+      }
+    }
+  }
+}

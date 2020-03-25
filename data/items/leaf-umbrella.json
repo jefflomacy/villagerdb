@@ -21,6 +21,13 @@
           "value": 320
         }
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": false,
+      "recipe": {
+        "clump-of-weeds": 15
+      }
     }
   }
 }

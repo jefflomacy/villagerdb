@@ -22,6 +22,12 @@
           "value": 1480
         }
       ]
+    },
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook's Cranny"
+      ]
     }
   }
 }

@@ -22,6 +22,14 @@
           "value": 872
         }
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": false,
+      "recipe": {
+        "tree-branch": 5,
+        "wood": 5
+      }
     }
   }
 }

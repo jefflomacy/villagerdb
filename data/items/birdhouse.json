@@ -22,6 +22,14 @@
           "value": 1620
         }
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "wood": 2,
+        "softwood": 5
+      }
     }
   }
 }

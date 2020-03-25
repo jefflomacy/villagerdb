@@ -1,0 +1,15 @@
+{
+  "id": "rose-wreath",
+  "name": "Rose Wreath",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": false,
+      "recipe": {
+        "red-rose": 3,
+        "white-rose": 3,
+        "yellow-rose": 3
+      }
+    }
+  }
+}

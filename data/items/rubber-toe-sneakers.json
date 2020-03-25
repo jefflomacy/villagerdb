@@ -1,0 +1,13 @@
+{
+  "id": "rubber-toe-sneakers",
+  "name": "Rubber-toe Sneakers",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters",
+        "Nook Shopping"
+      ]
+    }
+  }
+}

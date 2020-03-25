@@ -1,0 +1,13 @@
+{
+  "id": "camping-cot",
+  "name": "Camping Cot",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook's Cranny",
+        "Tom Nook on your first day"
+      ]
+    }
+  }
+}

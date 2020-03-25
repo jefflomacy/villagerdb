@@ -1,0 +1,12 @@
+{
+  "id": "nook-inc-umbrella",
+  "name": "Nook Inc. Umbrella",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Miles System"
+      ]
+    }
+  }
+}

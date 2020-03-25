@@ -1,0 +1,12 @@
+{
+  "id": "paisley-bandanna",
+  "name": "Paisley Bandanna",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Shopping"
+      ]
+    }
+  }
+}

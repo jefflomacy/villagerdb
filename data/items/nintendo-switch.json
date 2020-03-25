@@ -1,0 +1,12 @@
+{
+  "id": "nintendo-switch",
+  "name": "Nintendo Switch",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Receive in mail on your second day"
+      ]
+    }
+  }
+}

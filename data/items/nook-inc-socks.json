@@ -1,0 +1,12 @@
+{
+  "id": "nook-inc-socks",
+  "name": "Nook Inc. Socks",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Miles System"
+      ]
+    }
+  }
+}

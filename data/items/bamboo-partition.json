@@ -1,0 +1,14 @@
+{
+  "id": "bamboo-partition",
+  "name": "Bamboo Partition",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "bamboo-piece": 7,
+        "stone": 6
+      }
+    }
+  }
+}

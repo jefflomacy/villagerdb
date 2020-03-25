@@ -1,0 +1,12 @@
+{
+  "id": "cute-music-player",
+  "name": "Cute Music Player",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook's Cranny"
+      ]
+    }
+  }
+}

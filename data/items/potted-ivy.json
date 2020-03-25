@@ -28,6 +28,13 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "clump-of-weeds": 5
+      }
     }
   }
 }

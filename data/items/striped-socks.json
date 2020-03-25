@@ -1,0 +1,9 @@
+{
+  "id": "striped-socks",
+  "name": "Striped Socks",
+  "games": {
+    "nh": {
+      "orderable": true
+    }
+  }
+}

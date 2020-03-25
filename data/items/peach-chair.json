@@ -1,0 +1,14 @@
+{
+  "id": "peach-chair",
+  "name": "Peach Chair",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "peach": 10,
+        "wood": 5
+      }
+    }
+  }
+}

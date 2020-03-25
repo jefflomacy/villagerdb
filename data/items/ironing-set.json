@@ -18,6 +18,9 @@
           "value": 1400
         }
       ]
+    },
+    "nh": {
+      "orderable": true
     }
   }
 }

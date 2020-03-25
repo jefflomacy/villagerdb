@@ -12,6 +12,15 @@
       "sources": [
         "Gardening Store"
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": false,
+      "recipe": {
+        "flimsy-axe": 1,
+        "wood": 3,
+        "iron-nugget": 1
+      }
     }
   }
 }

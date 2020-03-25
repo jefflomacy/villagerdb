@@ -1,0 +1,12 @@
+{
+  "id": "rain-hat",
+  "name": "Rain Hat",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Shopping"
+      ]
+    }
+  }
+}

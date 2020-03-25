@@ -1,0 +1,14 @@
+{
+  "id": "iron-and-stone-fence",
+  "name": "Iron-and-stone Fence",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": false,
+      "recipe": {
+        "stone": 6,
+        "iron-nugget": 3
+      }
+    }
+  }
+}

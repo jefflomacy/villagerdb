@@ -1,0 +1,12 @@
+{
+  "id": "electric-kick-scooter",
+  "name": "Electric Kick Scooter",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Shopping"
+      ]
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hi-tee",
+  "name": "Hi Tee",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Shopping"
+      ]
+    }
+  }
+}

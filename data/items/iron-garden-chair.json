@@ -26,6 +26,13 @@
           "value": 5
         }
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "iron-nugget": 3
+      }
     }
   }
 }

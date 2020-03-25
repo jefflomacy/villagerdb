@@ -1,0 +1,12 @@
+{
+  "id": "konnichiwa-tee",
+  "name": "Konnichiwa Tee",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Shopping"
+      ]
+    }
+  }
+}

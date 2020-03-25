@@ -18,6 +18,12 @@
           "value": 1180
         }
       ]
+    },
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Tom Nook on your first day"
+      ]
     }
   }
 }

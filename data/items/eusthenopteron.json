@@ -1,0 +1,12 @@
+{
+  "id": "eusthenopteron",
+  "name": "Eusthenopteron",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Underground (dig spot)"
+      ]
+    }
+  }
+}

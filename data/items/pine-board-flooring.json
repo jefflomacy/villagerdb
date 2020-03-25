@@ -1,0 +1,12 @@
+{
+  "id": "pine-board-flooring",
+  "name": "Pine-board Flooring",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook's Cranny"
+      ]
+    }
+  }
+}

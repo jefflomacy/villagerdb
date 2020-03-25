@@ -1,0 +1,12 @@
+{
+  "id": "young-spring-bamboo",
+  "name": "Young Spring Bamboo",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Chopping down bamboo in the spring"
+      ]
+    }
+  }
+}

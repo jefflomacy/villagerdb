@@ -1,0 +1,12 @@
+{
+  "id": "nook-inc-slippers",
+  "name": "Nook Inc. Slippers",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Miles System"
+      ]
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rose-crown",
+  "name": "Rose Crown",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "recipe": {
+        "red-rose": 2,
+        "yellow-rose": 2,
+        "white-rose": 2
+      }
+    }
+  }
+}

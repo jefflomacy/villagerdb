@@ -1,0 +1,13 @@
+{
+  "id": "log-dining-table",
+  "name": "Log Dining Table",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "hardwood": 15
+      }
+    }
+  }
+}

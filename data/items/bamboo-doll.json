@@ -1,0 +1,13 @@
+{
+  "id": "bamboo-doll",
+  "name": "Bamboo Doll",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": false,
+      "recipe": {
+        "young-spring-bamboo": 6
+      }
+    }
+  }
+}

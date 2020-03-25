@@ -4,11 +4,11 @@
   "category": "Furniture",
   "games": {
     "nh": {
-      "xSize": 2,
-      "ySize": 2,
+      "orderable": false,
+      "customizable": false,
       "recipe": {
         "campfire": 1,
-        "wood": 1
+        "wood": 10
       }
     },
     "nl": {

@@ -1,0 +1,14 @@
+{
+  "id": "jungle-flooring",
+  "name": "Jungle Flooring",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": false,
+      "recipe": {
+        "clump-of-weeds": 10,
+        "clay": 10
+      }
+    }
+  }
+}

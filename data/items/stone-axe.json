@@ -1,0 +1,14 @@
+{
+  "id": "stone-axe",
+  "name": "Stone Axe",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": false,
+      "recipe": {
+        "flimsy-axe": 1,
+        "wood": 3
+      }
+    }
+  }
+}

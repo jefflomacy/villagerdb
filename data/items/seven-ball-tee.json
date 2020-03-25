@@ -21,6 +21,12 @@
           "value": 340
         }
       ]
+    },
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Shopping"
+      ]
     }
   }
 }

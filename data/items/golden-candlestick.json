@@ -1,0 +1,13 @@
+{
+  "id": "golden-candlestick",
+  "name": "Golden Candlestick",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": false,
+      "recipe": {
+        "gold-nugget": 2
+      }
+    }
+  }
+}

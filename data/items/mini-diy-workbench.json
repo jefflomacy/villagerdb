@@ -1,0 +1,16 @@
+{
+  "id": "mini-diy-workbench",
+  "name": "Mini DIY Workbench",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "wood": 3,
+        "hardwood": 3,
+        "softwood": 3,
+        "iron-nugget": 2
+      }
+    }
+  }
+}

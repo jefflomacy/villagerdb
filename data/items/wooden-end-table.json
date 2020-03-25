@@ -1,0 +1,13 @@
+{
+  "id": "wooden-end-table",
+  "name": "Wooden End Table",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "wood": 8
+      }
+    }
+  }
+}

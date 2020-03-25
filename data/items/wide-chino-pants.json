@@ -1,0 +1,12 @@
+{
+  "id": "wide-chino-pants",
+  "name": "Wide Chino Pants",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Shopping"
+      ]
+    }
+  }
+}

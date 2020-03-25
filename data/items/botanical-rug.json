@@ -1,0 +1,12 @@
+{
+  "id": "botanical-rug",
+  "name": "Botanical Rug",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook's Cranny"
+      ]
+    }
+  }
+}

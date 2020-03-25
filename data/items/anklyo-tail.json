@@ -1,0 +1,12 @@
+{
+  "id": "anklyo-tail",
+  "name": "Anklyo Tail",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Underground (dig spot)"
+      ]
+    }
+  }
+}

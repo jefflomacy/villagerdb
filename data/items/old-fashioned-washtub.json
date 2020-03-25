@@ -1,0 +1,13 @@
+{
+  "id": "old-fashioned-washtub",
+  "name": "Old-fashioned Washtub",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": false,
+      "recipe": {
+        "softwood": 3
+      }
+    }
+  }
+}

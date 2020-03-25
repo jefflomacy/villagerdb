@@ -1,0 +1,12 @@
+{
+  "id": "outdoor-air-conditioner",
+  "name": "Outdoor Air Conditioner",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Shopping"
+      ]
+    }
+  }
+}

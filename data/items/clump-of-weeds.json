@@ -1,0 +1,12 @@
+{
+  "id": "clump-of-weeds",
+  "name": "Clump Of Weeds",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Pick up from ground"
+      ]
+    }
+  }
+}

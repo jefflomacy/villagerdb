@@ -1,0 +1,12 @@
+{
+  "id": "nook-inc-cap",
+  "name": "Nook Inc. Cap",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Miles System"
+      ]
+    }
+  }
+}

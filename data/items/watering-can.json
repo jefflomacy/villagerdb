@@ -12,6 +12,14 @@
       "sources": [
         "Gardening Store"
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "flimsy-watering-can": 1,
+        "iron-nugget": 1
+      }
     }
   }
 }

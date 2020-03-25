@@ -1,0 +1,12 @@
+{
+  "id": "denim-cap",
+  "name": "Denim Cap",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Shopping"
+      ]
+    }
+  }
+}

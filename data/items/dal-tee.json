@@ -1,0 +1,12 @@
+{
+  "id": "dal-tee",
+  "name": "DAL Tee",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Receive in mail"
+      ]
+    }
+  }
+}

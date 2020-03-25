@@ -1,0 +1,12 @@
+{
+  "id": "outdoor-generator",
+  "name": "Outdoor Generator",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook's Cranny"
+      ]
+    }
+  }
+}

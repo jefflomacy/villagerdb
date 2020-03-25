@@ -26,6 +26,9 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "orderable": false
     }
   }
 }

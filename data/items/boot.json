@@ -12,6 +12,12 @@
       "sources": [
         "Freshwater or sea (medium shadow)"
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Fishing"
+      ]
     }
   }
 }

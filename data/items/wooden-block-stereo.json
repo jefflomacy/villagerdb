@@ -1,0 +1,15 @@
+{
+  "id": "wooden-block-stereo",
+  "name": "Wooden-block Stereo",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "recipe": {
+        "wooden-block-toy": 1,
+        "softwood": 5,
+        "iron-nugget": 1
+      }
+    }
+  }
+}

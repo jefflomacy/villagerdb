@@ -4,8 +4,8 @@
   "category": "Furniture",
   "games": {
     "nh": {
-      "xSize": 1,
-      "ySize": 1,
+      "orderable": false,
+      "customizable": false,
       "recipe": {
         "stone": 3
       }

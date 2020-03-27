@@ -13,5 +13,19 @@
         "Apple tree"
       ]
     }
+    "nh": {
+      "orderable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 100
+      },
+      "sources": [
+        "Apple tree", "Nook's Cranny"
+        ]
+        "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 400
+      ]
   }
 }

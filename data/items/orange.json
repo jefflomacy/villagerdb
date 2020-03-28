@@ -11,8 +11,8 @@
       },
       "sources": [
         "Orange tree"
-      ]
-    }
+      ],
+    },
     "nh": {
       "orderable": true,
       "sellPrice": {
@@ -21,11 +21,13 @@
       },
       "sources": [
         "Orange tree", "Nook's Cranny"
-        ]
+        ],
         "buyPrices": [
         {
           "currency": "bells",
           "value": 400
-      
+      },
+  ],
   }
-
+},
+}

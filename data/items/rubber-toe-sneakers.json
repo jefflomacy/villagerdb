@@ -8,6 +8,10 @@
         "Able Sisters",
         "Nook Shopping"
       ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 270
+      },
       "buyPrices": [
         {
           "currency": "bells",

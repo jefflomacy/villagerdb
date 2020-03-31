@@ -1,0 +1,19 @@
+{
+  "id": "imerpial-partition",
+  "name": "Imerpial Partition",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook shopping"
+      ],
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 5000
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

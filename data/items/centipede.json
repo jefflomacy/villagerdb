@@ -12,6 +12,16 @@
       "sources": [
         "Hidden under rocks (smack with a shovel)."
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Hit rock with shovel or axe (Sept-Jun)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      }
     }
   }
 }

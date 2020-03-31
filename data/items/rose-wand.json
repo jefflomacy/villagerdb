@@ -1,0 +1,13 @@
+{
+  "id": "rose-wand",
+  "name": "Rose Wand",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1580
+      }
+    }
+  },
+  "category": "Tools"
+}

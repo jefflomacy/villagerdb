@@ -1,0 +1,19 @@
+{
+  "id": "checkered-jumper-dress",
+  "name": "Checkered Jumper Dress",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 460
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1840
+        }
+      ]
+    }
+  },
+  "category": "Dresses"
+}

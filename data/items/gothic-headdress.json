@@ -1,0 +1,19 @@
+{
+  "id": "gothic-headdress",
+  "name": "Gothic Headdress",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 280
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1120
+        }
+      ]
+    }
+  },
+  "category": "Hats"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "stripe-flooring",
+  "name": "Stripe Flooring",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1200
+        }
+      ]
+    }
+  },
+  "category": "Flooring"
+}

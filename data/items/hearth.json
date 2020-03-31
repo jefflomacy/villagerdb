@@ -29,6 +29,20 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 5470
+      },
+      "recipe": {
+        "bamboo-piece": 2,
+        "iron-nugget": 5,
+        "clay": 4,
+        "hardwood": 5
+      }
     }
   }
 }

@@ -1,0 +1,13 @@
+{
+  "id": "cherry-blossom-wand",
+  "name": "Cherry-blossom Wand",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2700
+      }
+    }
+  },
+  "category": "Tools"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "green-grass-skirt",
+  "name": "Green Grass Skirt",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 140
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 560
+        }
+      ]
+    }
+  },
+  "category": "Bottoms"
+}

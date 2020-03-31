@@ -1,0 +1,19 @@
+{
+  "id": "kettlebell",
+  "name": "Kettlebell",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3750
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 15000
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

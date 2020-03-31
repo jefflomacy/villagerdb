@@ -16,6 +16,18 @@
       "sources": [
         "Saharah"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 7500
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 30000
+        }
+      ]
     }
   }
 }

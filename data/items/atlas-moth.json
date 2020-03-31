@@ -1,0 +1,19 @@
+{
+  "id": "atlas-moth",
+  "name": "Atlas Moth",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3000
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 12000
+        }
+      ]
+    }
+  },
+  "category": "Bugs"
+}

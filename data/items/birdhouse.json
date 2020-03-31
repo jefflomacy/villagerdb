@@ -26,6 +26,10 @@
     "nh": {
       "orderable": false,
       "customizable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 840
+      },
       "recipe": {
         "wood": 2,
         "softwood": 5

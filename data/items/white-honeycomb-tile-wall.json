@@ -1,0 +1,19 @@
+{
+  "id": "white-honeycomb-tile-wall",
+  "name": "White Honeycomb-tile Wall",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 420
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1680
+        }
+      ]
+    }
+  },
+  "category": "Wallpaper"
+}

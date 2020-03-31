@@ -12,6 +12,16 @@
       "sources": [
         "On the beach."
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "On shore rocks (year round)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 200
+      }
     }
   }
 }

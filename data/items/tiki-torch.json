@@ -26,6 +26,10 @@
     "nh": {
       "orderable": false,
       "customizable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 650
+      },
       "recipe": {
         "tree-branch": 5,
         "wood": 5

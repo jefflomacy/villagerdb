@@ -1,0 +1,13 @@
+{
+  "id": "wisp-spirit-piece",
+  "name": "Wisp Spirit Piece",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 0
+      }
+    }
+  },
+  "category": "Usables"
+}

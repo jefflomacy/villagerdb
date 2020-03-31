@@ -15,6 +15,18 @@
       "sources": [
         "Fishing Tourney"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 805
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3220
+        }
+      ]
     }
   }
 }

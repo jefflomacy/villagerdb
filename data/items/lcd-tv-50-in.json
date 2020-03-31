@@ -1,0 +1,19 @@
+{
+  "id": "lcd-tv-50-in",
+  "name": "Lcd Tv (50 In.)",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 24750
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 99000
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "white-windflowers",
+  "name": "White Windflowers",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Pick from flower"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 40
+      }
+    }
+  },
+  "category": "Flowers"
+}

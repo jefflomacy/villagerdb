@@ -8,6 +8,12 @@
       "sources": [
         "Bunny Day (gift balloon)"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 200
+      }
     }
   }
 }

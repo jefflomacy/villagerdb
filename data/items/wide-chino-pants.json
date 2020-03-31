@@ -5,8 +5,12 @@
     "nh": {
       "orderable": true,
       "sources": [
-        "Able Sisters"
+        "Nook Shopping"
       ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 275
+      },
       "buyPrices": [
         {
           "currency": "bells",

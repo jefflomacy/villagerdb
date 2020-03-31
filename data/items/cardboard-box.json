@@ -30,6 +30,10 @@
     },
     "nh": {
       "orderable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 30
+      },
       "buyPrices": [
         {
           "currency": "bells",

@@ -24,10 +24,11 @@
     },
     "nh": {
       "orderable": false,
-      "sources": [
-        "Crafting"
-      ],
       "customizable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1200
+      },
       "recipe": {
         "clay": 6
       }

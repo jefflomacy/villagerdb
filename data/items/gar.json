@@ -12,6 +12,12 @@
       "sources": [
         "Location:In lakes."
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 6000
+      }
     }
   }
 }

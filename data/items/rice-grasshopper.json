@@ -12,6 +12,18 @@
       "sources": [
         "In grassy patches."
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 400
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1600
+        }
+      ]
     }
   }
 }

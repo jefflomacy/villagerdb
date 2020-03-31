@@ -32,6 +32,10 @@
     "nh": {
       "orderable": false,
       "customizable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1100
+      },
       "recipe": {
         "clump-of-weeds": 5
       }

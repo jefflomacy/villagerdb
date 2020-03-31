@@ -1,0 +1,19 @@
+{
+  "id": "iron-garden-bench",
+  "name": "Iron Garden Bench",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 6000
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 24000
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

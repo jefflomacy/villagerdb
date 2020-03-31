@@ -6,7 +6,11 @@
       "orderable": false,
       "sources": [
         "Dig up on beach"
-      ]
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 100
+      }
     }
   },
   "category": "Usables"

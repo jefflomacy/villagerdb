@@ -1,0 +1,13 @@
+{
+  "id": "rope-fence",
+  "name": "Rope Fence",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      }
+    }
+  },
+  "category": "Furniture"
+}

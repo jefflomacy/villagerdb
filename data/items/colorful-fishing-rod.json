@@ -1,0 +1,13 @@
+{
+  "id": "colorful-fishing-rod",
+  "name": "Colorful Fishing Rod",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 625
+      }
+    }
+  },
+  "category": "Tools"
+}

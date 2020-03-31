@@ -17,6 +17,18 @@
       "sources": [
         "Pick mushrooms during November"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 44000
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 176000
+        }
+      ]
     }
   }
 }

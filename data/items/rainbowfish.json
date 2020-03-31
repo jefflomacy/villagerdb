@@ -1,0 +1,13 @@
+{
+  "id": "rainbowfish",
+  "name": "Rainbowfish",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 800
+      }
+    }
+  },
+  "category": "Fish"
+}

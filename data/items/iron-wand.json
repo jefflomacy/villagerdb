@@ -1,0 +1,13 @@
+{
+  "id": "iron-wand",
+  "name": "Iron Wand",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3750
+      }
+    }
+  },
+  "category": "Tools"
+}

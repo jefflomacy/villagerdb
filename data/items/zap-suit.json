@@ -1,0 +1,17 @@
+{
+  "id": "zap-suit",
+  "name": "Zap Suit",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 690
+      }
+    }
+  },
+  "category": "Dresses"
+}

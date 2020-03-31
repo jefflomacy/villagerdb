@@ -12,6 +12,16 @@
       "sources": [
         "In rivers."
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "River (Oct-Mar)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      }
     }
   }
 }

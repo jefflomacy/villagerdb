@@ -12,6 +12,16 @@
       "sources": [
         "On bushes and shrubs (only on rainy days)."
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "On rocks during rain (year round)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 250
+      }
     }
   }
 }

@@ -1,0 +1,19 @@
+{
+  "id": "simple-well",
+  "name": "Simple Well",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2850
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 11400
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "ironwood-cupboard",
+  "name": "Ironwood Cupboard",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 9780
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 39120
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

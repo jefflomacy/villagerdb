@@ -1,0 +1,16 @@
+{
+  "id": "plesio-body",
+  "name": "Plesio Body",
+  "games": {
+    "nh": {
+      "sources": [
+        "Underground (dig spot)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 4500
+      }
+    }
+  },
+  "category": "Fossils"
+}

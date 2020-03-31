@@ -15,6 +15,17 @@
       "sources": [
         "Re-Tail (flea market) or Police Station (lost and found)"
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 120
+      },
+      "recipe": {
+        "cardboard-box": 2
+      }
     }
   }
 }

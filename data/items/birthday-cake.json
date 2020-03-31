@@ -15,6 +15,18 @@
       "sources": [
         "Birthday (friendship level is good with the 3 neighbors)"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 100
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 400
+        }
+      ]
     }
   }
 }

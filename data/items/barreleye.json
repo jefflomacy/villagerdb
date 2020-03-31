@@ -1,0 +1,13 @@
+{
+  "id": "barreleye",
+  "name": "Barreleye",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 15000
+      }
+    }
+  },
+  "category": "Fish"
+}

@@ -18,6 +18,18 @@
       "sources": [
         "Brewster (working at The Roost)"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 375
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1500
+        }
+      ]
     }
   }
 }

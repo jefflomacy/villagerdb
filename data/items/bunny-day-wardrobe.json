@@ -1,0 +1,13 @@
+{
+  "id": "bunny-day-wardrobe",
+  "name": "Bunny Day Wardrobe",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1600
+      }
+    }
+  },
+  "category": "Furniture"
+}

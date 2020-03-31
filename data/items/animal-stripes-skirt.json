@@ -1,0 +1,19 @@
+{
+  "id": "animal-stripes-skirt",
+  "name": "Animal-stripes Skirt",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 275
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1100
+        }
+      ]
+    }
+  },
+  "category": "Bottoms"
+}

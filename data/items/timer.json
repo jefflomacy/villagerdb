@@ -12,6 +12,12 @@
       "sources": [
         "Super T&T"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 210
+      }
     }
   }
 }

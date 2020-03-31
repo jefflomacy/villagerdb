@@ -1,0 +1,13 @@
+{
+  "id": "bunny-day-fence",
+  "name": "Bunny Day Fence",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 240
+      }
+    }
+  },
+  "category": "Furniture"
+}

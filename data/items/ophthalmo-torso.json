@@ -1,0 +1,16 @@
+{
+  "id": "ophthalmo-torso",
+  "name": "Ophthalmo Torso",
+  "games": {
+    "nh": {
+      "sources": [
+        "Underground (dig spot)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2000
+      }
+    }
+  },
+  "category": "Fossils"
+}

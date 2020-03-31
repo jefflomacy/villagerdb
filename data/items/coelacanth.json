@@ -12,6 +12,12 @@
       "sources": [
         "In the ocean when it is raining."
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 15000
+      }
     }
   }
 }

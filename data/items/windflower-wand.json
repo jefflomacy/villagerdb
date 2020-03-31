@@ -1,0 +1,13 @@
+{
+  "id": "windflower-wand",
+  "name": "Windflower Wand",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1580
+      }
+    }
+  },
+  "category": "Tools"
+}

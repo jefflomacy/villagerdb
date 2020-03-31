@@ -12,6 +12,12 @@
       "sources": [
         "Bug Off"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 450
+      }
     }
   }
 }

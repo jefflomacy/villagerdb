@@ -1,0 +1,13 @@
+{
+  "id": "fish-fishing-rod",
+  "name": "Fish Fishing Rod",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 625
+      }
+    }
+  },
+  "category": "Tools"
+}

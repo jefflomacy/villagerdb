@@ -1,7 +1,7 @@
 {
   "id": "diner-uniform",
   "name": "Diner Uniform",
-  "category": "Tops",
+  "category": "Dresses",
   "games": {
     "ac": {
       "orderable": true,
@@ -32,6 +32,18 @@
         {
           "currency": "bells",
           "value": 290
+        }
+      ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 450
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1800
         }
       ]
     }

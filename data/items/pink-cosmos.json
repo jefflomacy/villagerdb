@@ -12,6 +12,18 @@
       "sources": [
         "Hybrid - From Red and White Cosmos."
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 80
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 320
+        }
+      ]
     }
   }
 }

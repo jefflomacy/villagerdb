@@ -12,6 +12,16 @@
       "sources": [
         "In the sea."
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Sea (year round)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 400
+      }
     }
   }
 }

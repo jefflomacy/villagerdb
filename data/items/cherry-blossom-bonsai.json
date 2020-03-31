@@ -1,0 +1,19 @@
+{
+  "id": "cherry-blossom-bonsai",
+  "name": "Cherry-blossom Bonsai",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3300
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 13200
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

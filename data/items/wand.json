@@ -1,0 +1,13 @@
+{
+  "id": "wand",
+  "name": "Wand",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1000
+      }
+    }
+  },
+  "category": "Tools"
+}

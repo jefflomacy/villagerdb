@@ -1,0 +1,16 @@
+{
+  "id": "right-megalo-side",
+  "name": "Right Megalo Side",
+  "games": {
+    "nh": {
+      "sources": [
+        "Underground (dig spot)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 5500
+      }
+    }
+  },
+  "category": "Fossils"
+}

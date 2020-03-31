@@ -3,7 +3,11 @@
   "name": "Garden Bench",
   "games": {
     "nh": {
-      "orderable": false
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 4440
+      }
     }
   },
   "category": "Furniture"

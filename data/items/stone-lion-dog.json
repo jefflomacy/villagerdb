@@ -1,0 +1,19 @@
+{
+  "id": "stone-lion-dog",
+  "name": "Stone Lion-dog",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3600
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 14400
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

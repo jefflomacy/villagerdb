@@ -1,0 +1,13 @@
+{
+  "id": "leaf-egg",
+  "name": "Leaf Egg",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 200
+      }
+    }
+  },
+  "category": "Usables"
+}

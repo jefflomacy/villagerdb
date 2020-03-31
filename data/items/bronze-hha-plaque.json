@@ -1,0 +1,13 @@
+{
+  "id": "bronze-hha-plaque",
+  "name": "Bronze Hha Plaque",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 400
+      }
+    }
+  },
+  "category": "Furniture"
+}

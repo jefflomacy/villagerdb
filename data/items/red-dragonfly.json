@@ -12,6 +12,18 @@
       "sources": [
         "Anywhere other than above salt water (the sea)."
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 180
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 720
+        }
+      ]
     }
   }
 }

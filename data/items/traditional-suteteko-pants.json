@@ -1,0 +1,19 @@
+{
+  "id": "traditional-suteteko-pants",
+  "name": "Traditional Suteteko Pants",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 140
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 560
+        }
+      ]
+    }
+  },
+  "category": "Bottoms"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "red-tulips",
+  "name": "Red Tulips",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Pick from flower"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 40
+      }
+    }
+  },
+  "category": "Flowers"
+}

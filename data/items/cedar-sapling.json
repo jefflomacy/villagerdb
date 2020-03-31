@@ -1,7 +1,7 @@
 {
   "id": "cedar-sapling",
   "name": "Cedar Sapling",
-  "category": "Trees",
+  "category": "Usables",
   "games": {
     "nl": {
       "orderable": false,
@@ -12,6 +12,12 @@
       "sources": [
         "Gardening Store"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 160
+      }
     }
   }
 }

@@ -1,0 +1,13 @@
+{
+  "id": "mushroom-wand",
+  "name": "Mushroom Wand",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3300
+      }
+    }
+  },
+  "category": "Tools"
+}

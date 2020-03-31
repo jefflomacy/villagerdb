@@ -1,0 +1,13 @@
+{
+  "id": "tulip-wand",
+  "name": "Tulip Wand",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1580
+      }
+    }
+  },
+  "category": "Tools"
+}

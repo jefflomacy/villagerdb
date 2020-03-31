@@ -7,6 +7,10 @@
       "sources": [
         "Able Sisters"
       ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 157
+      },
       "buyPrices": [
         {
           "currency": "bells",

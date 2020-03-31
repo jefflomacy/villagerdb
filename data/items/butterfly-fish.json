@@ -1,0 +1,13 @@
+{
+  "id": "butterfly-fish",
+  "name": "Butterfly Fish",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1000
+      }
+    }
+  },
+  "category": "Fish"
+}

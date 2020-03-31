@@ -9,6 +9,18 @@
       "sources": [
         "DLC (JP)"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 20000
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 80000
+        }
+      ]
     }
   }
 }

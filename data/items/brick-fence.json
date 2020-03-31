@@ -1,0 +1,13 @@
+{
+  "id": "brick-fence",
+  "name": "Brick Fence",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 120
+      }
+    }
+  },
+  "category": "Furniture"
+}

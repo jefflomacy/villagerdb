@@ -12,6 +12,16 @@
       "sources": [
         "Around red/pink flowers."
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Around flowers (Mar-Sept)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 240
+      }
     }
   }
 }

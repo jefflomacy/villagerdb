@@ -26,6 +26,19 @@
           "value": 5
         }
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3820
+      },
+      "recipe": {
+        "clay": 8,
+        "iron-nugget": 2,
+        "wood": 6
+      }
     }
   }
 }

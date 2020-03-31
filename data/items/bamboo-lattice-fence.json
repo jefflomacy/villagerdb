@@ -1,0 +1,13 @@
+{
+  "id": "bamboo-lattice-fence",
+  "name": "Bamboo Lattice Fence",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 96
+      }
+    }
+  },
+  "category": "Furniture"
+}

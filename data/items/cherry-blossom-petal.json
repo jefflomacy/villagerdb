@@ -1,0 +1,13 @@
+{
+  "id": "cherry-blossom-petal",
+  "name": "Cherry-blossom Petal",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 200
+      }
+    }
+  },
+  "category": "Usables"
+}

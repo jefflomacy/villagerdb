@@ -1,0 +1,19 @@
+{
+  "id": "shell-speaker",
+  "name": "Shell Speaker",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 5700
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 22800
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "barbed-wire-fence",
+  "name": "Barbed-wire Fence",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 198
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "outdoorsy-shovel",
+  "name": "Outdoorsy Shovel",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 625
+      }
+    }
+  },
+  "category": "Tools"
+}

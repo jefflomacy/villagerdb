@@ -26,6 +26,18 @@
           "value": 5
         }
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 960
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3840
+        }
+      ]
     }
   }
 }

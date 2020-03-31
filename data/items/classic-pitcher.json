@@ -6,6 +6,10 @@
     "nh": {
       "orderable": false,
       "customizable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 800
+      },
       "recipe": {
         "clay": 4
       }

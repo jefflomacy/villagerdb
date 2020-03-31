@@ -12,6 +12,12 @@
       "sources": [
         "Sea (early September)/River (late September)"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 700
+      }
     }
   }
 }

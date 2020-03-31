@@ -1,0 +1,19 @@
+{
+  "id": "shell-partition",
+  "name": "Shell Partition",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 8000
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 32000
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

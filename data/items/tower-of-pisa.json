@@ -21,6 +21,16 @@
           "value": 9200
         }
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Gulliver"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2300
+      }
     }
   }
 }

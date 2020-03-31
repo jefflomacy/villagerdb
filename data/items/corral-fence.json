@@ -4,10 +4,11 @@
   "games": {
     "nh": {
       "orderable": false,
-      "sources": [
-        "Crafting"
-      ],
       "customizable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 72
+      },
       "recipe": {
         "wood": 6
       }

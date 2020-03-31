@@ -12,6 +12,18 @@
       "sources": [
         "Snowman"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3200
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 12800
+        }
+      ]
     }
   }
 }

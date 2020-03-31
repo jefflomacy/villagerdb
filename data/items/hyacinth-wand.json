@@ -1,0 +1,13 @@
+{
+  "id": "hyacinth-wand",
+  "name": "Hyacinth Wand",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1660
+      }
+    }
+  },
+  "category": "Tools"
+}

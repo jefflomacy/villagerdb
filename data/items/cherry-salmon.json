@@ -12,6 +12,16 @@
       "sources": [
         "In rivers."
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "River (Clifftop) (Mar-Jun, Sept-Nov)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1000
+      }
     }
   }
 }

@@ -1,0 +1,19 @@
+{
+  "id": "baggy-shirt",
+  "name": "Baggy Shirt",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 40
+        }
+      ]
+    }
+  },
+  "category": "Tops"
+}

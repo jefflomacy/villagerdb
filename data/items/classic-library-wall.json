@@ -1,0 +1,19 @@
+{
+  "id": "classic-library-wall",
+  "name": "Classic-library Wall",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1450
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 5800
+        }
+      ]
+    }
+  },
+  "category": "Wallpaper"
+}

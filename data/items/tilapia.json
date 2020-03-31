@@ -1,0 +1,13 @@
+{
+  "id": "tilapia",
+  "name": "Tilapia",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 800
+      }
+    }
+  },
+  "category": "Fish"
+}

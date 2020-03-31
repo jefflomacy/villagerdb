@@ -1,0 +1,19 @@
+{
+  "id": "long-bathtub",
+  "name": "Long Bathtub",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1950
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 7800
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

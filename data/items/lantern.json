@@ -24,6 +24,10 @@
       "sources": [
         "Tom Nook on your first day"
       ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 475
+      },
       "buyPrices": [
         {
           "currency": "bells",

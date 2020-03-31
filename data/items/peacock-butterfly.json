@@ -14,6 +14,16 @@
         "purple",
         "and black flowers."
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Near hybrid flowers (Mar-Jun)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2500
+      }
     }
   }
 }

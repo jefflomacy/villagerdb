@@ -12,6 +12,12 @@
       "sources": [
         "Bug Off (full insect encyclopedia)"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10400
+      }
     }
   }
 }

@@ -13,6 +13,18 @@
         "In the air above freshwater (rivers",
         "etc.)."
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1200
+        }
+      ]
     }
   }
 }

@@ -1,0 +1,13 @@
+{
+  "id": "iron-fence",
+  "name": "Iron Fence",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 450
+      }
+    }
+  },
+  "category": "Furniture"
+}

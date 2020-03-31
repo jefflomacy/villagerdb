@@ -1,0 +1,17 @@
+{
+  "id": "white-hyacinths",
+  "name": "White Hyacinths",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Pick from flower"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 40
+      }
+    }
+  },
+  "category": "Flowers"
+}

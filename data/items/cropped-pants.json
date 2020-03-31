@@ -1,0 +1,19 @@
+{
+  "id": "cropped-pants",
+  "name": "Cropped Pants",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 230
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 920
+        }
+      ]
+    }
+  },
+  "category": "Bottoms"
+}

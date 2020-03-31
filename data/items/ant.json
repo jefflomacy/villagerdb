@@ -15,6 +15,18 @@
         "lollipops",
         "and rotten fruits are left on the ground."
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 80
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 320
+        }
+      ]
     }
   }
 }

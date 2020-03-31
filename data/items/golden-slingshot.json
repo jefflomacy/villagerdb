@@ -12,6 +12,12 @@
       "sources": [
         "Gift balloon (after popping lots of balloons)"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10300
+      }
     }
   }
 }

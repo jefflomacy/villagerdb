@@ -18,6 +18,18 @@
       "sources": [
         "Summer Solstice (Isabelle)"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 220
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 880
+        }
+      ]
     }
   }
 }

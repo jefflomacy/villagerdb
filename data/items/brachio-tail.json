@@ -1,0 +1,16 @@
+{
+  "id": "brachio-tail",
+  "name": "Brachio Tail",
+  "games": {
+    "nh": {
+      "sources": [
+        "Underground (dig spot)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 5500
+      }
+    }
+  },
+  "category": "Fossils"
+}

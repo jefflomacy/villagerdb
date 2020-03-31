@@ -1,0 +1,13 @@
+{
+  "id": "spiky-fence",
+  "name": "Spiky Fence",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 96
+      }
+    }
+  },
+  "category": "Furniture"
+}

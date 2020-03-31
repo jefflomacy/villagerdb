@@ -5,6 +5,10 @@
     "nh": {
       "orderable": false,
       "customizable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 720
+      },
       "recipe": {
         "wooden-block-toy": 1,
         "softwood": 3

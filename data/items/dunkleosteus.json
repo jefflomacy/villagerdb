@@ -1,0 +1,16 @@
+{
+  "id": "dunkleosteus",
+  "name": "Dunkleosteus",
+  "games": {
+    "nh": {
+      "sources": [
+        "Underground (dig spot)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3500
+      }
+    }
+  },
+  "category": "Fossils"
+}

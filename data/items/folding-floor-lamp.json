@@ -1,0 +1,19 @@
+{
+  "id": "folding-floor-lamp",
+  "name": "Folding Floor Lamp",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 475
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1900
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

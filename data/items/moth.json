@@ -14,6 +14,18 @@
         "The Roost café",
         "and around street lamps."
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 130
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 520
+        }
+      ]
     }
   }
 }

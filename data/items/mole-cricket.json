@@ -12,6 +12,16 @@
       "sources": [
         "Hidden in dirt -- dig up with a shovel."
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Underground (dig near chirping) (Nov-May)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 500
+      }
     }
   }
 }

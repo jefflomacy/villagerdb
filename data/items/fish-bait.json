@@ -5,6 +5,10 @@
     "nh": {
       "orderable": false,
       "customizable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 200
+      },
       "recipe": {
         "manila-clam": 1
       }

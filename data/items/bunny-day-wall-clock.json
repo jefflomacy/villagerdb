@@ -1,0 +1,13 @@
+{
+  "id": "bunny-day-wall-clock",
+  "name": "Bunny Day Wall Clock",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1200
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -16,6 +16,10 @@
     "nh": {
       "orderable": false,
       "customizable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 600
+      },
       "recipe": {
         "flimsy-shovel": 1,
         "iron-nugget": 1

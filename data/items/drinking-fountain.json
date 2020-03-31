@@ -21,6 +21,18 @@
           "value": 2000
         }
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": "Yes",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2700
+      },
+      "recipe": {
+        "stone": 8,
+        "iron-nugget": 2
+      }
     }
   }
 }

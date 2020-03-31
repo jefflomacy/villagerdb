@@ -13,6 +13,16 @@
         "HHA (20",
         "000 points)"
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Mail after upgrading house"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 375
+      }
     }
   }
 }

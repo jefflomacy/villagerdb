@@ -6,7 +6,11 @@
       "orderable": false,
       "sources": [
         "Fishing"
-      ]
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      }
     }
   },
   "category": "Usables"

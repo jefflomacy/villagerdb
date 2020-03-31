@@ -28,6 +28,10 @@
       "sources": [
         "Nook Shopping"
       ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1050
+      },
       "buyPrices": [
         {
           "currency": "bells",

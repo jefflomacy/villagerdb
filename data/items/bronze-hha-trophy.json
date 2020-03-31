@@ -1,0 +1,13 @@
+{
+  "id": "bronze-hha-trophy",
+  "name": "Bronze Hha Trophy",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 400
+      }
+    }
+  },
+  "category": "Furniture"
+}

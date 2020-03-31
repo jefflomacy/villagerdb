@@ -4,10 +4,11 @@
   "games": {
     "nh": {
       "orderable": false,
-      "sources": [
-        "Crafting"
-      ],
       "customizable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1800
+      },
       "recipe": {
         "wooden-block-toy": 1,
         "softwood": 12

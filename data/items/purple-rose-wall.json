@@ -1,0 +1,19 @@
+{
+  "id": "purple-rose-wall",
+  "name": "Purple-rose Wall",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 430
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1720
+        }
+      ]
+    }
+  },
+  "category": "Wallpaper"
+}

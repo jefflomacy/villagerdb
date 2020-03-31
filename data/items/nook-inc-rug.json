@@ -7,6 +7,10 @@
       "sources": [
         "Nook Miles System"
       ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 5000
+      },
       "buyPrices": [
         {
           "currency": "miles",

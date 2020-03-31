@@ -1,0 +1,13 @@
+{
+  "id": "bunny-day-vanity",
+  "name": "Bunny Day Vanity",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1600
+      }
+    }
+  },
+  "category": "Furniture"
+}

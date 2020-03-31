@@ -1,0 +1,19 @@
+{
+  "id": "argyle-tile-flooring",
+  "name": "Argyle Tile Flooring",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 437
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1750
+        }
+      ]
+    }
+  },
+  "category": "Flooring"
+}

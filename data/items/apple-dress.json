@@ -1,0 +1,19 @@
+{
+  "id": "apple-dress",
+  "name": "Apple Dress",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1600
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 6400
+        }
+      ]
+    }
+  },
+  "category": "Dresses"
+}

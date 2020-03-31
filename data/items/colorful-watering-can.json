@@ -1,0 +1,13 @@
+{
+  "id": "colorful-watering-can",
+  "name": "Colorful Watering Can",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 625
+      }
+    }
+  },
+  "category": "Tools"
+}

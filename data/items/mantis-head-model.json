@@ -1,0 +1,19 @@
+{
+  "id": "mantis-head-model",
+  "name": "Mantis-head Model",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 375
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1500
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,7 +1,7 @@
 {
   "id": "bamboo-shoot",
   "name": "Bamboo Shoot",
-  "category": "Fruit",
+  "category": "Usables",
   "games": {
     "nl": {
       "orderable": false,
@@ -12,6 +12,12 @@
       "sources": [
         "T&T Emporium"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 250
+      }
     }
   }
 }

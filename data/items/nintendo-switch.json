@@ -7,6 +7,10 @@
       "sources": [
         "Receive in mail on your second day"
       ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 7495
+      },
       "buyPrices": [
         {
           "currency": "bells",

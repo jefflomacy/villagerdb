@@ -12,6 +12,16 @@
       "sources": [
         "On flowers."
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "On flowers (Mar-Nov)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 430
+      }
     }
   }
 }

@@ -12,6 +12,18 @@
       "sources": [
         "Around rafflesia and spoiled turnips and trash left on the ground."
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 60
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 240
+        }
+      ]
     }
   }
 }

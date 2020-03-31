@@ -15,6 +15,18 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 4300
+      },
+      "recipe": {
+        "young-spring-bamboo": 7,
+        "bamboo-shoot": 3
+      }
     }
   }
 }

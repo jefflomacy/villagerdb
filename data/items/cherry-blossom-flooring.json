@@ -1,0 +1,19 @@
+{
+  "id": "cherry-blossom-flooring",
+  "name": "Cherry-blossom Flooring",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 4400
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 17600
+        }
+      ]
+    }
+  },
+  "category": "Flooring"
+}

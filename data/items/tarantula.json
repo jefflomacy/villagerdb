@@ -12,6 +12,16 @@
       "sources": [
         "On grass and dirt."
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Ground at night (Nov-Apr)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 8000
+      }
     }
   }
 }

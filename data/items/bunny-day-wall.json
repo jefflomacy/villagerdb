@@ -1,0 +1,13 @@
+{
+  "id": "bunny-day-wall",
+  "name": "Bunny Day Wall",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 4800
+      }
+    }
+  },
+  "category": "Wallpaper"
+}

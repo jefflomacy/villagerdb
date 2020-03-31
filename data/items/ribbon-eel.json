@@ -12,6 +12,12 @@
       "sources": [
         "In the sea."
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 600
+      }
     }
   }
 }

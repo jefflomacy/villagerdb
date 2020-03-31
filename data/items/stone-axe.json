@@ -5,6 +5,10 @@
     "nh": {
       "orderable": false,
       "customizable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 560
+      },
       "recipe": {
         "flimsy-axe": 1,
         "wood": 3

@@ -1,0 +1,13 @@
+{
+  "id": "stone-fence",
+  "name": "Stone Fence",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 60
+      }
+    }
+  },
+  "category": "Furniture"
+}

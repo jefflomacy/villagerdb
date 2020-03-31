@@ -4,11 +4,16 @@
   "category": "Furniture",
   "games": {
     "nh": {
-      "recipe": {
-        "oil-barrel": 1,
-        "campfire": 1,
-        "stone": 2
-      }
+      "sellPrice": {
+        "currency": "bells",
+        "value": 655
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 2620
+        }
+      ]
     }
   }
 }

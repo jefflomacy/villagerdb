@@ -1,0 +1,19 @@
+{
+  "id": "retro-flower-print-wall",
+  "name": "Retro Flower-print Wall",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 415
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1660
+        }
+      ]
+    }
+  },
+  "category": "Wallpaper"
+}

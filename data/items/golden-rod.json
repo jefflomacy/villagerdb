@@ -12,6 +12,12 @@
       "sources": [
         "Fishing Tourney (full fish/deep-sea catch encyclopedia)"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10400
+      }
     }
   }
 }

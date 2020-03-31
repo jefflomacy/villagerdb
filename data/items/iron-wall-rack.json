@@ -1,0 +1,19 @@
+{
+  "id": "iron-wall-rack",
+  "name": "Iron Wall Rack",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2450
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 9800
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

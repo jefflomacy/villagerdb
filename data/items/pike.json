@@ -12,6 +12,12 @@
       "sources": [
         "In rivers."
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1800
+      }
     }
   }
 }

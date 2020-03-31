@@ -1,0 +1,13 @@
+{
+  "id": "mahi-mahi",
+  "name": "Mahi-mahi",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 6000
+      }
+    }
+  },
+  "category": "Fish"
+}

@@ -12,6 +12,12 @@
       "sources": [
         "Gardening Store (buy 50 or more bags of fertilizer)"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10675
+      }
     }
   }
 }

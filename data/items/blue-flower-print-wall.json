@@ -1,0 +1,19 @@
+{
+  "id": "blue-flower-print-wall",
+  "name": "Blue Flower-print Wall",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 445
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1780
+        }
+      ]
+    }
+  },
+  "category": "Wallpaper"
+}

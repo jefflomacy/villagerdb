@@ -1,0 +1,13 @@
+{
+  "id": "outdoorsy-watering-can",
+  "name": "Outdoorsy Watering Can",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 625
+      }
+    }
+  },
+  "category": "Tools"
+}

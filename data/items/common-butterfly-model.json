@@ -1,0 +1,13 @@
+{
+  "id": "common-butterfly-model",
+  "name": "Common Butterfly Model",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 480
+      }
+    }
+  },
+  "category": "Furniture"
+}

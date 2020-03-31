@@ -1,0 +1,19 @@
+{
+  "id": "sauna-heater",
+  "name": "Sauna Heater",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3510
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 14040
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

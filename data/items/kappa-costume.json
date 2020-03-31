@@ -1,7 +1,7 @@
 {
   "id": "kappa-costume",
   "name": "Kappa Costume",
-  "category": "Tops",
+  "category": "Dresses",
   "games": {
     "nl": {
       "orderable": false,
@@ -20,6 +20,18 @@
         {
           "currency": "bells",
           "value": 20
+        }
+      ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 425
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1700
         }
       ]
     }

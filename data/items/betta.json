@@ -1,0 +1,13 @@
+{
+  "id": "betta",
+  "name": "Betta",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2500
+      }
+    }
+  },
+  "category": "Fish"
+}

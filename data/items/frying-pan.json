@@ -6,6 +6,10 @@
     "nh": {
       "orderable": false,
       "customizable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1500
+      },
       "recipe": {
         "iron-nugget": 2
       }

@@ -1,0 +1,19 @@
+{
+  "id": "blue-weevil-beetle",
+  "name": "Blue Weevil Beetle",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 800
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3200
+        }
+      ]
+    }
+  },
+  "category": "Bugs"
+}

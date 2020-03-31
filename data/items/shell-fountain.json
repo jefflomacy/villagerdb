@@ -4,6 +4,10 @@
   "games": {
     "nh": {
       "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 9450
+      },
       "recipe": {
         "giant-clam": 5,
         "stone": 3

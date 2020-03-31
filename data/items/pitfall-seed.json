@@ -13,6 +13,12 @@
         "Dig spot",
         "Police Station (lost and found)"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 140
+      }
     }
   }
 }

@@ -28,6 +28,22 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook shopping"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1200
+        }
+      ]
     }
   }
 }

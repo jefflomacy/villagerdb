@@ -6,7 +6,11 @@
       "orderable": false,
       "sources": [
         "Pick up from ground"
-      ]
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      }
     }
   },
   "category": "Usables"

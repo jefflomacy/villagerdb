@@ -12,6 +12,18 @@
       "sources": [
         "On trees."
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1350
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 5400
+        }
+      ]
     }
   }
 }

@@ -21,6 +21,18 @@
           "value": 4900
         }
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 4350
+      },
+      "recipe": {
+        "stone": 20,
+        "shovel": 1
+      }
     }
   }
 }

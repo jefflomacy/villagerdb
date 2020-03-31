@@ -1,0 +1,19 @@
+{
+  "id": "diy-workbench",
+  "name": "Diy Workbench",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 6630
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 26520
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

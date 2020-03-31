@@ -1,0 +1,19 @@
+{
+  "id": "beach-ball",
+  "name": "Beach Ball",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 107
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 430
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

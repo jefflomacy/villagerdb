@@ -1,13 +1,19 @@
 {
   "id": "tulip-crown",
   "name": "Tulip Crown",
-  "category": "Accessories",
+  "category": "Hats",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 400
+      },
       "recipe": {
-        "red-tulip": 2,
-        "yellow-tulip": 2,
-        "white-tulip": 1
+        "red-tulips": 2,
+        "yellow-tulips": 2,
+        "white-tulips": 1
       }
     }
   }

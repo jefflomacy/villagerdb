@@ -16,6 +16,18 @@
       "sources": [
         "Leif (Weeding Day -- Happy Generosity Award)"
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": "Yes",
+      "sellPrice": {
+        "currency": "bells",
+        "value": 760
+      },
+      "recipe": {
+        "yellow-pansies": 5,
+        "hardwood": 3
+      }
     }
   }
 }

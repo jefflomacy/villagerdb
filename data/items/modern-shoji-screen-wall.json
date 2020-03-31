@@ -1,0 +1,19 @@
+{
+  "id": "modern-shoji-screen-wall",
+  "name": "Modern Shoji-screen Wall",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 287
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1150
+        }
+      ]
+    }
+  },
+  "category": "Wallpaper"
+}

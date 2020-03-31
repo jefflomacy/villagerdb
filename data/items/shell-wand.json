@@ -1,0 +1,13 @@
+{
+  "id": "shell-wand",
+  "name": "Shell Wand",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 5100
+      }
+    }
+  },
+  "category": "Tools"
+}

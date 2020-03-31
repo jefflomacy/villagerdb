@@ -12,6 +12,16 @@
       "sources": [
         "In rivers."
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Pond (Mar-Jul)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 100
+      }
     }
   }
 }

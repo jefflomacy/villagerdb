@@ -1,7 +1,7 @@
 {
   "id": "graduation-gown",
   "name": "Graduation Gown",
-  "category": "Dresses",
+  "category": "Tops",
   "games": {
     "nl": {
       "orderable": true,
@@ -20,6 +20,18 @@
         {
           "currency": "bells",
           "value": 800
+        }
+      ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 840
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3360
         }
       ]
     }

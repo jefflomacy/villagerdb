@@ -4,6 +4,10 @@
   "games": {
     "nh": {
       "orderable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 150
+      },
       "buyPrices": [
         {
           "currency": "bells",

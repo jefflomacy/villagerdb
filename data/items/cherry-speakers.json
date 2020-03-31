@@ -1,0 +1,19 @@
+{
+  "id": "cherry-speakers",
+  "name": "Cherry Speakers",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3500
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 14000
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

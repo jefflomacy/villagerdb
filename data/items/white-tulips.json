@@ -1,0 +1,17 @@
+{
+  "id": "white-tulips",
+  "name": "White Tulips",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Pick from flower"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 40
+      }
+    }
+  },
+  "category": "Flowers"
+}

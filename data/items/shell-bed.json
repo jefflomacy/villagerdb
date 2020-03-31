@@ -1,0 +1,19 @@
+{
+  "id": "shell-bed",
+  "name": "Shell Bed",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10200
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 40800
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

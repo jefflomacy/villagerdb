@@ -15,6 +15,15 @@
       "sources": [
         "Underground (dig spot)"
       ]
+    },
+    "nh": {
+      "sources": [
+        "Underground (dig spot)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3000
+      }
     }
   }
 }

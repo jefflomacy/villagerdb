@@ -29,6 +29,17 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1440
+      },
+      "recipe": {
+        "hardwood": 12
+      }
     }
   }
 }

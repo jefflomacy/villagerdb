@@ -1,0 +1,17 @@
+{
+  "id": "gong",
+  "name": "Gong",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Gulliver"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 5100
+      }
+    }
+  },
+  "category": "Furniture"
+}

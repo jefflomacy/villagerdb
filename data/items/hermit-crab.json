@@ -12,6 +12,16 @@
       "sources": [
         "Only found on the tropical island (never in town)."
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Beach"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1000
+      }
     }
   }
 }

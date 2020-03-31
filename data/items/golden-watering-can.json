@@ -1,0 +1,13 @@
+{
+  "id": "golden-watering-can",
+  "name": "Golden Watering Can",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10675
+      }
+    }
+  },
+  "category": "Tools"
+}

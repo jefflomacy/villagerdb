@@ -28,6 +28,19 @@
           "value": 5
         }
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "customizable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 60
+      },
+      "recipe": {
+        "empty-can": 1,
+        "boot": 1,
+        "old-tire": 1
+      }
     }
   }
 }

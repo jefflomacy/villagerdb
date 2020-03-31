@@ -1,0 +1,13 @@
+{
+  "id": "clown-fish",
+  "name": "Clown Fish",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 650
+      }
+    }
+  },
+  "category": "Fish"
+}

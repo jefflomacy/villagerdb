@@ -6,6 +6,10 @@
     "nh": {
       "orderable": false,
       "customizable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1230
+      },
       "recipe": {
         "campfire": 1,
         "wood": 10

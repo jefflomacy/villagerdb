@@ -1,0 +1,19 @@
+{
+  "id": "blue-pansies",
+  "name": "Blue Pansies",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 80
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 320
+        }
+      ]
+    }
+  },
+  "category": "Flowers"
+}

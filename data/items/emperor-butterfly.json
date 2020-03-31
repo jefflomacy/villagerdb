@@ -12,6 +12,16 @@
       "sources": [
         "Around flowers."
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "At night (Dec-Mar, Jun-Sept)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 4000
+      }
     }
   }
 }

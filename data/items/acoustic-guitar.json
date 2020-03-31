@@ -1,0 +1,19 @@
+{
+  "id": "acoustic-guitar",
+  "name": "Acoustic Guitar",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3210
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 12840
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

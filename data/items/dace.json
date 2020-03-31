@@ -12,6 +12,16 @@
       "sources": [
         "In rivers."
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "River (year round)"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 240
+      }
     }
   }
 }

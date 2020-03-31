@@ -4,6 +4,10 @@
   "games": {
     "nh": {
       "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 480
+      },
       "recipe": {
         "red-rose": 2,
         "yellow-rose": 2,

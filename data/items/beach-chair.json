@@ -32,6 +32,10 @@
       "sources": [
         "Nook's Cranny"
       ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 230
+      },
       "buyPrices": [
         {
           "currency": "bells",

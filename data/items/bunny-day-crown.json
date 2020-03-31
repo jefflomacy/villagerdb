@@ -1,0 +1,13 @@
+{
+  "id": "bunny-day-crown",
+  "name": "Bunny Day Crown",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2400
+      }
+    }
+  },
+  "category": "Hats"
+}

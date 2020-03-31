@@ -1,0 +1,13 @@
+{
+  "id": "colorful-slingshot",
+  "name": "Colorful Slingshot",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 625
+      }
+    }
+  },
+  "category": "Tools"
+}

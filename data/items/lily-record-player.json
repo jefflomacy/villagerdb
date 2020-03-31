@@ -16,6 +16,18 @@
       "sources": [
         "Leif (Weeding Day -- The Town Cleanup Prize)"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3010
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 12040
+        }
+      ]
     }
   }
 }

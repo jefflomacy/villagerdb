@@ -5,6 +5,10 @@
     "nh": {
       "orderable": false,
       "customizable": true,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2020
+      },
       "recipe": {
         "bamboo-piece": 7,
         "stone": 6

@@ -1,0 +1,19 @@
+{
+  "id": "honeycomb-wall",
+  "name": "Honeycomb Wall",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3600
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 14400
+        }
+      ]
+    }
+  },
+  "category": "Wallpaper"
+}

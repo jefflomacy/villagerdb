@@ -1,0 +1,19 @@
+{
+  "id": "marine-pop-flooring",
+  "name": "Marine Pop Flooring",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 505
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 2020
+        }
+      ]
+    }
+  },
+  "category": "Flooring"
+}

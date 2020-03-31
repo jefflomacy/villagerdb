@@ -1,0 +1,19 @@
+{
+  "id": "ironwood-diy-workbench",
+  "name": "Ironwood Diy Workbench",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 8520
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 34080
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

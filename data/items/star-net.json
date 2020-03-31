@@ -1,0 +1,13 @@
+{
+  "id": "star-net",
+  "name": "Star Net",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 625
+      }
+    }
+  },
+  "category": "Tools"
+}

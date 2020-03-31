@@ -21,6 +21,11 @@
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "smug",
+      "phrase": "Indeed",
+      "song": "Bubblegum K.K."
     }
   },
   "name": "Graham",

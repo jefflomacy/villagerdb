@@ -21,6 +21,11 @@
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "lazy",
+      "phrase": "fuzzers",
+      "song": "K.K. Safari"
     }
   },
   "name": "Tucker",

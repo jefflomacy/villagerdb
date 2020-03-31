@@ -27,6 +27,11 @@
         "milk": "No milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "snortie",
+      "song": "Two Days Ago"
     }
   },
   "name": "Gala",

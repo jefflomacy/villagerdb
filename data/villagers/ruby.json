@@ -34,6 +34,11 @@
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "peppy",
+      "phrase": "li'l ears",
+      "song": "K.K. Ska"
     }
   },
   "name": "Ruby",

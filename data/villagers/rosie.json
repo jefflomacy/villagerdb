@@ -44,6 +44,11 @@
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "peppy",
+      "phrase": "silly",
+      "song": "Bubblegum K.K."
     }
   },
   "name": "Rosie",

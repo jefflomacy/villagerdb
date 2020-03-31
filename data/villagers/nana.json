@@ -34,6 +34,11 @@
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "po po",
+      "song": "K.K. Dixie"
     }
   },
   "name": "Nana",

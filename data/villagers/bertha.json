@@ -32,6 +32,11 @@
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "bloop",
+      "song": "Space K.K."
     }
   },
   "name": "Bertha",

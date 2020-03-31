@@ -38,6 +38,11 @@
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "peppy",
+      "phrase": "hay-OK",
+      "song": "My Place"
     }
   },
   "name": "Winnie",

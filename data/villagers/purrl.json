@@ -44,6 +44,11 @@
         "milk": "None at all",
         "sugar": "None at all"
       }
+    },
+    "nh": {
+      "personality": "snooty",
+      "phrase": "kitten",
+      "song": "K.K. Swing"
     }
   },
   "name": "Purrl",

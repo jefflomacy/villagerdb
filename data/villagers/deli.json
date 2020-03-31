@@ -21,6 +21,11 @@
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "lazy",
+      "phrase": "monch",
+      "song": "K.K. Marathon"
     }
   },
   "name": "Deli",

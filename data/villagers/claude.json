@@ -32,6 +32,11 @@
         "milk": "None at all",
         "sugar": "None at all"
       }
+    },
+    "nh": {
+      "personality": "lazy",
+      "phrase": "hopalong",
+      "song": "Pondering"
     }
   },
   "name": "Claude",

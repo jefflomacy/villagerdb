@@ -45,6 +45,11 @@
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "mew",
+      "song": "K.K. Swing"
     }
   },
   "name": "Mitzi",

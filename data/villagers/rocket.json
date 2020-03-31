@@ -21,6 +21,11 @@
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "uchi",
+      "phrase": "vroom",
+      "song": "K.K. Adventure"
     }
   },
   "name": "Rocket",

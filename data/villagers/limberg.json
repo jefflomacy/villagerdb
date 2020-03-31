@@ -45,6 +45,11 @@
         "milk": "No milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "squinky",
+      "song": "K.K. Folk"
     }
   },
   "name": "Limberg",

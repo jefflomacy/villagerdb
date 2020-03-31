@@ -45,6 +45,11 @@
         "milk": "No milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "macmoo",
+      "song": "Senor K.K."
     }
   },
   "name": "Angus",

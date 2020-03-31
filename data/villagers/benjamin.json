@@ -21,6 +21,11 @@
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "lazy",
+      "phrase": "alrighty",
+      "song": "Wandering"
     }
   },
   "name": "Benjamin",

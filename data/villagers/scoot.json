@@ -38,6 +38,11 @@
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "jock",
+      "phrase": "zip zoom",
+      "song": "Marine Song 2001"
     }
   },
   "name": "Scoot",

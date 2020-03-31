@@ -21,6 +21,11 @@
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "snacky",
+      "song": "Bubblegum K.K."
     }
   },
   "name": "Gayle",

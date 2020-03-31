@@ -29,6 +29,10 @@
         "milk": "The regular amount of milk",
         "sugar": "2 spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "lazy",
+      "phrase": "pal"
     }
   },
   "name": "Paolo",

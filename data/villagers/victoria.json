@@ -39,6 +39,11 @@
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "peppy",
+      "phrase": "sugar cube",
+      "song": "K.K. Country"
     }
   },
   "name": "Victoria",

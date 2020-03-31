@@ -34,6 +34,11 @@
         "milk": "No milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "toasty",
+      "song": "K.K. Ragtime"
     }
   },
   "name": "Melba",

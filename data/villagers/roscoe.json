@@ -39,6 +39,11 @@
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "nay",
+      "song": "K.K. Dirge"
     }
   },
   "name": "Roscoe",

@@ -45,6 +45,11 @@
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "baaaffo",
+      "song": "K.K. Steppe"
     }
   },
   "name": "Vesta",

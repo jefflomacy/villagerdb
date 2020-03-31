@@ -45,6 +45,11 @@
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "peppy",
+      "phrase": "how now",
+      "song": "K.K. Calypso"
     }
   },
   "name": "Patty",

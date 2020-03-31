@@ -21,6 +21,11 @@
         "milk": "No milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "snooty",
+      "phrase": "yelp",
+      "song": "K.K. Jongara"
     }
   },
   "name": "Greta",

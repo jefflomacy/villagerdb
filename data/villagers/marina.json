@@ -39,6 +39,11 @@
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "blurp",
+      "song": "Soulful K.K."
     }
   },
   "name": "Marina",

@@ -44,6 +44,11 @@
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls sugar"
       }
+    },
+    "nh": {
+      "personality": "snooty",
+      "phrase": "ruffian",
+      "song": "Cafe K.K."
     }
   },
   "name": "Portia",

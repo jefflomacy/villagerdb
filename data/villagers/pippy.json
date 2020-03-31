@@ -45,6 +45,11 @@
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "peppy",
+      "phrase": "li'l hare",
+      "song": "K.K. Mambo"
     }
   },
   "name": "Pippy",

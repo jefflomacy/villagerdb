@@ -27,6 +27,11 @@
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "cluckling",
+      "song": "K.K. Aria"
     }
   },
   "name": "Knox",

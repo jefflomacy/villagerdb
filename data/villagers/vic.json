@@ -21,6 +21,11 @@
         "milk": "Regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "cud",
+      "song": "Lucky K.K."
     }
   },
   "name": "Vic",

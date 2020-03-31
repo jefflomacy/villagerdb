@@ -45,6 +45,11 @@
         "milk": "No milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "snoooink",
+      "song": "Comrade K.K."
     }
   },
   "name": "Lucy",

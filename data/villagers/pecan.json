@@ -45,6 +45,11 @@
         "milk": "No milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "snooty",
+      "phrase": "chipmunk",
+      "song": "Cafe K.K."
     }
   },
   "name": "Pecan",

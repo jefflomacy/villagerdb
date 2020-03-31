@@ -26,6 +26,11 @@
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "hoof hoo",
+      "song": "Mountain Song"
     }
   },
   "name": "Norma",

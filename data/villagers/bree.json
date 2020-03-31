@@ -39,6 +39,11 @@
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "snooty",
+      "phrase": "cheeseball",
+      "song": "Two Days Ago"
     }
   },
   "name": "Bree",

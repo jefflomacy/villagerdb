@@ -32,6 +32,11 @@
         "milk": "No milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "sweet pea",
+      "song": "Cafe K.K."
     }
   },
   "name": "Olive",

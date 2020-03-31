@@ -45,6 +45,11 @@
         "milk": "No milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "hippie",
+      "song": "K.K. Lament"
     }
   },
   "name": "Rocco",

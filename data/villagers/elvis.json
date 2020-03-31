@@ -34,6 +34,11 @@
         "milk": "No milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "unh-hunh",
+      "song": "K.K. Casbah"
     }
   },
   "name": "Elvis",

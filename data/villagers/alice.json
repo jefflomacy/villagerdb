@@ -39,6 +39,11 @@
         "milk": "None milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "guvnor",
+      "song": "Surfin' K.K."
     }
   },
   "name": "Alice",

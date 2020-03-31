@@ -34,6 +34,11 @@
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "g'tang",
+      "song": "Pondering"
     }
   },
   "name": "Monty",

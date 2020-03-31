@@ -27,6 +27,11 @@
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "eekers",
+      "song": "K.K. Swing"
     }
   },
   "name": "Bettina",

@@ -45,6 +45,11 @@
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "bow-WOW",
+      "song": "K.K. Soul"
     }
   },
   "name": "Daisy",

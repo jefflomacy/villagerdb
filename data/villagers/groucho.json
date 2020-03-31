@@ -37,6 +37,11 @@
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "grumble",
+      "song": "K.K. Metal"
     }
   },
   "name": "Groucho",

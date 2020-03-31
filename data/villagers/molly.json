@@ -21,6 +21,11 @@
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "quackidee",
+      "song": "K.K. Ballad"
     }
   },
   "name": "Molly",

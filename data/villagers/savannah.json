@@ -45,6 +45,11 @@
         "milk": "No milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "y'all",
+      "song": "Forest Life"
     }
   },
   "name": "Savannah",

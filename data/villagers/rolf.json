@@ -45,6 +45,11 @@
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "grrrolf",
+      "song": "Spring Blossoms"
     }
   },
   "name": "Rolf",

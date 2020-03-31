@@ -38,6 +38,11 @@
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "tweedledee",
+      "song": "K.K. Lullaby"
     }
   },
   "name": "Midge",

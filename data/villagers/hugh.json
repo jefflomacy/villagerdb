@@ -45,6 +45,11 @@
         "milk": "A lot of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "lazy",
+      "phrase": "snortle",
+      "song": "K.K. Mambo"
     }
   },
   "name": "Hugh",

@@ -32,6 +32,11 @@
         "milk": "Lots of milk",
         "sugar": "3 spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "schnort",
+      "song": "K.K. House"
     }
   },
   "name": "Boris",

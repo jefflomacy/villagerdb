@@ -38,6 +38,11 @@
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "croak-kay",
+      "song": "K.K. Country"
     }
   },
   "name": "Jambette",

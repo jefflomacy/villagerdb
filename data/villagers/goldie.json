@@ -44,6 +44,11 @@
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "woof",
+      "song": "K.K. Bossa"
     }
   },
   "name": "Goldie",

@@ -32,6 +32,11 @@
         "milk": "No milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "peppy",
+      "phrase": "hipster",
+      "song": "K.K. Stroll"
     }
   },
   "name": "Bubbles",

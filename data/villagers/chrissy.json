@@ -32,6 +32,11 @@
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "peppy",
+      "phrase": "sparkles",
+      "song": "K.K. Waltz"
     }
   },
   "name": "Chrissy",

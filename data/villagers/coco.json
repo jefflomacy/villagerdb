@@ -44,6 +44,11 @@
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "doyoing",
+      "song": "K.K. Dirge"
     }
   },
   "name": "Coco",

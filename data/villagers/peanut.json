@@ -45,6 +45,11 @@
         "milk": "The regular amount of milk",
         "sugar": "Two sugars"
       }
+    },
+    "nh": {
+      "personality": "peppy",
+      "phrase": "slacker",
+      "song": "K.K. Salsa"
     }
   },
   "name": "Peanut",

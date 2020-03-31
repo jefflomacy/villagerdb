@@ -31,6 +31,11 @@
         "milk": "No milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "speedy",
+      "song": "K.K. Soul"
     }
   },
   "name": "Sandy",

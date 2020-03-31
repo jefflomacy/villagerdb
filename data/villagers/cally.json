@@ -21,6 +21,11 @@
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "WHEE",
+      "song": "K.K. Love Song"
     }
   },
   "name": "Cally",

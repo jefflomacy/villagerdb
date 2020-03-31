@@ -21,6 +21,11 @@
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "lazy",
+      "phrase": "bloop",
+      "song": "Spring Blossoms"
     }
   },
   "name": "Zucker",

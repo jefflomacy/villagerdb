@@ -45,6 +45,11 @@
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "ah-rooooo",
+      "song": "K.K. Safari"
     }
   },
   "name": "Lobo",

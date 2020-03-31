@@ -32,6 +32,11 @@
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "bonbon",
+      "song": "K.K. Stroll"
     }
   },
   "name": "Lolly",

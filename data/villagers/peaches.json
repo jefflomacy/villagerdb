@@ -38,6 +38,11 @@
         "milk": "No milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "neighbor",
+      "song": "K.K. Song"
     }
   },
   "name": "Peaches",

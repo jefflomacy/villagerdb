@@ -44,6 +44,11 @@
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "lazy",
+      "phrase": "pudgy",
+      "song": "Rockin' K.K."
     }
   },
   "name": "Pudge",

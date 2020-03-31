@@ -44,6 +44,11 @@
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "grr-ribbit",
+      "song": "To the Edge"
     }
   },
   "name": "Wart Jr.",

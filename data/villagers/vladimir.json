@@ -36,6 +36,11 @@
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "nyet",
+      "song": "Agent K.K."
     }
   },
   "name": "Vladimir",

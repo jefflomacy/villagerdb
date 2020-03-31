@@ -45,6 +45,11 @@
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "Highness",
+      "song": "K.K. Lament"
     }
   },
   "name": "Cesar",

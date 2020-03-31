@@ -32,6 +32,11 @@
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "nutcase",
+      "song": "K.K. Western"
     }
   },
   "name": "Ricky",

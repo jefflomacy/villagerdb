@@ -45,6 +45,11 @@
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "pah",
+      "song": "K.K. Rock"
     }
   },
   "name": "Apollo",

@@ -45,6 +45,11 @@
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "jock",
+      "phrase": "quacko",
+      "song": "King K.K."
     }
   },
   "name": "Bill",

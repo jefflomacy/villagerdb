@@ -38,6 +38,11 @@
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "me-YOWZA",
+      "song": "K.K. Rally"
     }
   },
   "name": "Tom",

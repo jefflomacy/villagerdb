@@ -38,6 +38,11 @@
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "lambchop",
+      "song": "K.K. Waltz"
     }
   },
   "name": "Eunice",

@@ -45,6 +45,11 @@
         "milk": "No milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "ROOOOOWF",
+      "song": "K.K. Fusion"
     }
   },
   "name": "Butch",

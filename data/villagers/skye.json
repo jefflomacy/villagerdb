@@ -21,6 +21,11 @@
         "milk": "No milk",
         "sugar": "No sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "airmail",
+      "song": "Forest Life"
     }
   },
   "name": "Skye",

@@ -45,6 +45,11 @@
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "cranky",
+      "phrase": "harrumph",
+      "song": "DJ K.K."
     }
   },
   "name": "Chief",

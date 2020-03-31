@@ -26,6 +26,11 @@
         "milk": "The regular amount of milk",
         "sugar": "2 spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "schep",
+      "song": "Forest Life"
     }
   },
   "name": "Maggie",

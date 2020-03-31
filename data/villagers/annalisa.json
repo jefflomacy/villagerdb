@@ -21,6 +21,11 @@
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "gumdrop",
+      "song": "King K.K."
     }
   },
   "name": "Annalisa",

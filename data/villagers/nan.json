@@ -45,6 +45,11 @@
         "milk": "None at all",
         "sugar": "None at all"
       }
+    },
+    "nh": {
+      "personality": "normal",
+      "phrase": "kid",
+      "song": "K.K. Etude"
     }
   },
   "name": "Nan",

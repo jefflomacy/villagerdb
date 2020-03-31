@@ -27,6 +27,11 @@
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
       }
+    },
+    "nh": {
+      "personality": "peppy",
+      "phrase": "lambkins",
+      "song": "K.K. Bossa"
     }
   },
   "name": "Wendy",

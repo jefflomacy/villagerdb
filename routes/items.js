@@ -144,6 +144,13 @@ const categories = {
         pageDescription: 'In New Leaf, there is one fake rock in your town per day. Break it to reveal an ore! With ' +
             'a silver shovel or better, sometimes the daily money rock will reward you with ores instead.'
     },
+    photos: {
+        filter: {
+            category: ['Photos']
+        },
+        pageTitle: 'Photos and posters',
+        pageDescription: 'Photos and posters of your favorite villagers.'
+    },
     shoes: {
         filter: {
             category: ['Shoes']

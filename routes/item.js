@@ -146,7 +146,20 @@ function formatItem(item) {
         }
     }
 
+    // Paragraph
     formatted.paragraph = generateParagraph(item, formatted);
+
+    // Merge variations
+    // TODO: Do this at the redis level, not here.
+    const variations = {};
+    for (let gameId in item.games) {
+        const game = item.games[gameId];
+        if (typeof game.variations !== 'undefined') {
+            Object.assign(variations, game.variations);
+        }
+    }
+    formatted.variations = JSON.stringify(variations);
+
     return formatted;
 }
 

@@ -54,11 +54,17 @@ class Lists {
      * @param type
      * @returns {Promise<Promise|OrderedBulkOperation|UnorderedBulkOperation>}
      */
-    async addEntityToList(id, listId, entityId, type) {
+    async addEntityToList(id, listId, entityId, type, variationId) {
         const villagerDb = await this.db.get();
 
+        // TODO central location to compute these
+        let entityIdString = entityId;
+        if (variationId) {
+            entityIdString += ':' + variationId;
+        }
+
         const store = {
-            id: entityId,
+            id: entityIdString,
             type: type
         };
 
@@ -83,8 +89,14 @@ class Lists {
      * @param type
      * @returns {Promise<Promise|OrderedBulkOperation|UnorderedBulkOperation>}
      */
-    async removeEntityFromList(id, listId, entityId, type) {
+    async removeEntityFromList(id, listId, entityId, type, variationId) {
         const villagerDb = await this.db.get();
+
+        // TODO central location to compute these
+        let entityIdString = entityId;
+        if (variationId) {
+            entityIdString += ':' + variationId;
+        }
 
         return villagerDb.collection('users')
             .updateOne({
@@ -93,7 +105,7 @@ class Lists {
                 },
                 {
                     $pull: {
-                        "lists.$.entities": { "id": entityId }
+                        "lists.$.entities": { "id": entityIdString }
                     }
                 });
     }

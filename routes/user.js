@@ -58,6 +58,11 @@ async function loadList(username, listId) {
 
     const entities = [];
     for (const entity of list.entities) {
+        // TODO central location for this computation
+        const split = entity.id.split(':');
+        let entityId = split[0];
+        let variationId = split.length > 0 ? split[1] : undefined;
+
         if (entity.type === 'villager') {
             // TODO make a singular call to redis
             const villager = await villagers.getById(entity.id);
@@ -66,9 +71,9 @@ async function loadList(username, listId) {
             }
         } else {
             // TODO make a singular call to redis
-            const item = await items.getById(entity.id);
+            const item = await items.getById(entityId);
             if (item) {
-                entities.push(organizeData(item, 'item'));
+                entities.push(organizeData(item, 'item', variationId));
             }
 
         }
@@ -89,12 +94,15 @@ async function loadList(username, listId) {
     return result;
 }
 
-function organizeData(entity, type) {
+function organizeData(entity, type, variationId) {
     let entityData = {};
     entityData.name = entity.name;
     entityData.id = entity.id;
     entityData.type = type;
     entityData.image = entity.image.thumb;
+    if (variationId) {
+        entityData.variation = '(' + variationId + ')'; // TODO user friendly please
+    }
     return entityData;
 }
 

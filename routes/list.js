@@ -10,7 +10,7 @@ const format = require('../helpers/format');
  * @param listId
  * @returns {Promise<[]>}
  */
-async function getUserListsForEntity(listId, entityType, entityId) {
+async function getUserListsForEntity(listId, entityType, entityId, variationId) {
     const userLists = await lists.getListsByUser(listId)
 
     if (userLists) {
@@ -18,7 +18,11 @@ async function getUserListsForEntity(listId, entityType, entityId) {
         userLists.forEach(function (list) {
             let hasEntity = false;
             for (let item of list.entities) {
-                if (item.id === entityId && item.type === entityType) {
+                // TODO central location for this computation
+                const split = item.id.split(':');
+                const listEntityId = split[0];
+                const listVariationId = split.length > 0 ? split[1] : undefined;
+                if (listEntityId === entityId && item.type === entityType && listVariationId === variationId) {
                     hasEntity = true;
                 }
             }
@@ -133,8 +137,12 @@ router.get('/delete/:listId', (req, res) => {
  * Route for getting user list for a particular entity type and ID.
  */
 router.get('/user/:entityType/:entityId', function (req, res, next) {
-    if (res.locals.userState.isRegistered) {
-        getUserListsForEntity(req.user.id, req.params.entityType, req.params.entityId)
+    if (res.locals.userState.isRegistered && typeof req.params.entityId === 'string') {
+        // TODO central location for this computation
+        const split = req.params.entityId.split(':');
+        const entityId = split[0];
+        const variationId = split.length > 0 ? split[1] : undefined;
+        getUserListsForEntity(req.user.id, req.params.entityType, entityId, variationId)
             .then((data) => {
                 res.send(data);
             }).catch(next);
@@ -149,18 +157,19 @@ router.get('/user/:entityType/:entityId', function (req, res, next) {
 router.post('/entity-to-list', function (req, res, next) {
     const listId = req.body.listId;
     const entityId = req.body.entityId;
+    const variationId = req.body.variationId;
     const type = req.body.type;
     const add = req.body.add;
 
     if (res.locals.userState.isRegistered) {
         if (add === 'true') { // i hate form data
-            lists.addEntityToList(req.user.id, listId, entityId, type)
+            lists.addEntityToList(req.user.id, listId, entityId, type, variationId)
                 .then((dbResponse) => {
                     res.status(200).send({success: true});
                 })
                 .catch(next);
         } else {
-            lists.removeEntityFromList(req.user.id, listId, entityId, type)
+            lists.removeEntityFromList(req.user.id, listId, entityId, type, variationId)
                 .then((dbResponse) => {
                     res.status(200).send({success: true});
                 })

@@ -53,5 +53,12 @@
     "grunt-contrib-less": "^2.0.0",
     "grunt-contrib-watch": "^1.1.0",
     "nodemon": "^2.0.2"
+  },
+  "nodemonConfig": {
+    "ignore": [
+      "data/*",
+      "public/*",
+      "src/*"
+    ]
   }
 }

@@ -56,9 +56,9 @@
   },
   "nodemonConfig": {
     "ignore": [
-      "data/*",
-      "public/*",
-      "src/*"
+      "/usr/src/app/data/*",
+      "/usr/src/app/public/*",
+      "/usr/src/app/src/*"
     ]
   }
 }

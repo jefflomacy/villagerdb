@@ -3,6 +3,7 @@
   "name": "Left Ptera Wing",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Underground (dig spot)"
       ],

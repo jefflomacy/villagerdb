@@ -23,6 +23,10 @@
       ]
     },
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Shipping"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 220

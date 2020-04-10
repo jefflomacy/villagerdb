@@ -3,16 +3,14 @@
   "name": "Sky-egg Outfit",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1200
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 4800
-        }
-      ]
+      "recipe": {
+        "sky-egg": 3
+      }
     }
   },
   "category": "Dresses"

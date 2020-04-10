@@ -23,16 +23,16 @@
       ]
     },
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 20750
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 83000
-        }
-      ]
+      "recipe": {
+        "gold-nugget": 2,
+        "screen-wall": 1
+      }
     }
   }
 }

@@ -17,6 +17,10 @@
       ]
     },
     "nh": {
+      "orderable": false,
+      "sources": [
+        "During your birthday party with villagers"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 100

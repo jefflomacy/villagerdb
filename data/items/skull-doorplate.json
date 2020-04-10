@@ -3,6 +3,7 @@
   "name": "Skull Doorplate",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 135

@@ -3,6 +3,7 @@
   "name": "Great Purple Emperor",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 3000

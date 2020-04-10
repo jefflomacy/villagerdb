@@ -3,6 +3,8 @@
   "name": "Cherry-blossom Pochette",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 2400
@@ -12,7 +14,10 @@
           "currency": "bells",
           "value": 9600
         }
-      ]
+      ],
+      "recipe": {
+        "cherry-blossom-petal": 6
+      }
     }
   },
   "category": "Accessories"

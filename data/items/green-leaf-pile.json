@@ -3,16 +3,16 @@
   "name": "Green-leaf Pile",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 600
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 2400
-        }
-      ]
+      "recipe": {
+        "young-spring-bamboo": 1,
+        "clump-of-weeds": 10
+      }
     }
   },
   "category": "Furniture"

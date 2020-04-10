@@ -3,9 +3,14 @@
   "name": "Bunny Day Table",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1600
+      },
+      "recipe": {
+        "earth-egg": 4
       }
     }
   },

@@ -3,6 +3,7 @@
   "name": "Rajah Brooke's Birdwing",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 2500

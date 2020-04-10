@@ -3,6 +3,7 @@
   "name": "Grasshopper-head Model",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 350

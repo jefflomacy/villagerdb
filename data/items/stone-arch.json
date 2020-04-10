@@ -3,16 +3,15 @@
   "name": "Stone Arch",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 13500
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 54000
-        }
-      ]
+      "recipe": {
+        "stone": 90
+      }
     }
   },
   "category": "Furniture"

@@ -3,16 +3,15 @@
   "name": "Wooden Low Table",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1200
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 4800
-        }
-      ]
+      "recipe": {
+        "wood": 10
+      }
     }
   },
   "category": "Furniture"

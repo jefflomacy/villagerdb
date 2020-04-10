@@ -3,6 +3,7 @@
   "name": "Sturdy Sewing Box",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 250

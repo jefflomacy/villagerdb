@@ -7,6 +7,7 @@
       "sources": [
         "Receive in mail on your second day"
       ],
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 7495

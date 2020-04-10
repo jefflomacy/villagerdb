@@ -3,6 +3,7 @@
   "name": "Common Bluebottle",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 300

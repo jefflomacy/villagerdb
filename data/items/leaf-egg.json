@@ -3,6 +3,10 @@
   "name": "Leaf Egg",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Shake trees"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 200

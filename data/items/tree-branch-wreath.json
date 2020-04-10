@@ -3,16 +3,15 @@
   "name": "Tree Branch Wreath",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 100
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 400
-        }
-      ]
+      "recipe": {
+        "tree-branch": 10
+      }
     }
   },
   "category": "Furniture"

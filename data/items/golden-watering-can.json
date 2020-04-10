@@ -3,9 +3,15 @@
   "name": "Golden Watering Can",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 10675
+      },
+      "recipe": {
+        "gold-nugget": 1,
+        "watering-can": 1
       }
     }
   },

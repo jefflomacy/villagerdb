@@ -3,6 +3,7 @@
   "name": "White Wooden-deck Rug",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 375

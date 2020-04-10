@@ -15,6 +15,10 @@
       ]
     },
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Mail after 30,000 HHA score"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 425

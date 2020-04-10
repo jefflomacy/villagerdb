@@ -3,16 +3,16 @@
   "name": "Beekeeper's Hive",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 2400
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 9600
-        }
-      ]
+      "recipe": {
+        "wasp-nest": 3,
+        "wood": 5
+      }
     }
   },
   "category": "Furniture"

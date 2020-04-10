@@ -3,6 +3,7 @@
   "name": "Diplo Pelvis",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Underground (dig spot)"
       ],

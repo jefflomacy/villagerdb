@@ -3,6 +3,7 @@
   "name": "Colorful Net",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 625

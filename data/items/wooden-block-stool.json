@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "recipe": {
+        "wooden-block-toy": 1,
+        "softwood": 2
+      }
     }
   },
   "category": "Furniture"

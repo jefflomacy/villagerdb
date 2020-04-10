@@ -3,6 +3,7 @@
   "name": "Sleeveless Sweater Dress",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 400

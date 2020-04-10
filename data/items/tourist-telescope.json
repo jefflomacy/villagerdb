@@ -3,6 +3,7 @@
   "name": "Tourist Telescope",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 10000

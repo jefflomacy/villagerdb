@@ -26,6 +26,7 @@
       ]
     },
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 240
@@ -35,7 +36,10 @@
           "currency": "bells",
           "value": 960
         }
-      ]
+      ],
+      "recipe": {
+        "cardboard-box": 4
+      }
     }
   }
 }

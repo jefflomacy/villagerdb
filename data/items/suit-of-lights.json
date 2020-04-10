@@ -3,6 +3,7 @@
   "name": "Suit Of Lights",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 630

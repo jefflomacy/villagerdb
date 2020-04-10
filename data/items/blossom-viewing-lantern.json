@@ -3,6 +3,7 @@
   "name": "Blossom-viewing Lantern",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 2880
@@ -12,7 +13,11 @@
           "currency": "bells",
           "value": 11520
         }
-      ]
+      ],
+      "recipe": {
+        "cherry-blossom-petal": 6,
+        "hardwood": 4
+      }
     }
   },
   "category": "Furniture"

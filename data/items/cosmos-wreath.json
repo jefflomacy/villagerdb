@@ -3,6 +3,8 @@
   "name": "Cosmos Wreath",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 720
@@ -12,7 +14,12 @@
           "currency": "bells",
           "value": 2880
         }
-      ]
+      ],
+      "recipe": {
+        "yellow-cosmos": 3,
+        "white-cosmos": 3,
+        "red-cosmos": 3
+      }
     }
   },
   "category": "Furniture"

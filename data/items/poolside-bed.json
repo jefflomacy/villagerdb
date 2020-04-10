@@ -3,6 +3,7 @@
   "name": "Poolside Bed",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 850

@@ -3,6 +3,7 @@
   "name": "Pet Bed",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 275

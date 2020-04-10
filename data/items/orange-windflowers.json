@@ -3,16 +3,15 @@
   "name": "Orange Windflowers",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Find on ground at mystery island",
+        "crossbreeding flowers"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 40
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 160
-        }
-      ]
+      }
     }
   },
   "category": "Flowers"

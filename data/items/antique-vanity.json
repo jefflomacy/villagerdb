@@ -3,6 +3,7 @@
   "name": "Antique Vanity",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 7750

@@ -3,6 +3,7 @@
   "name": "Giraffe Stag",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 12000

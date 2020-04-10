@@ -3,6 +3,7 @@
   "name": "Piano Bench",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 247

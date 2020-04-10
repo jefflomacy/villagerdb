@@ -3,6 +3,10 @@
   "name": "Renaissance Dress",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 1500

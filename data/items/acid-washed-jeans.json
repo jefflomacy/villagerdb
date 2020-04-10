@@ -3,6 +3,10 @@
   "name": "Acid-washed Jeans",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 330

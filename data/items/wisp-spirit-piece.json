@@ -3,10 +3,10 @@
   "name": "Wisp Spirit Piece",
   "games": {
     "nh": {
-      "sellPrice": {
-        "currency": "bells",
-        "value": 0
-      }
+      "orderable": false,
+      "sources": [
+        "Catch with your net while Wisp quest is active"
+      ]
     }
   },
   "category": "Usables"

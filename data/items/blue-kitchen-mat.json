@@ -3,6 +3,10 @@
   "name": "Blue Kitchen Mat",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Saharah"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 250

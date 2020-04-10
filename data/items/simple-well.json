@@ -3,16 +3,16 @@
   "name": "Simple Well",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 2850
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 11400
-        }
-      ]
+      "recipe": {
+        "stone": 15,
+        "flimsy-shovel": 1
+      }
     }
   },
   "category": "Furniture"

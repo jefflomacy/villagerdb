@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 320000
         }
-      ]
+      ],
+      "recipe": {
+        "gold-nugget": 8
+      }
     }
   },
   "category": "Dresses"

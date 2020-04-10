@@ -3,6 +3,7 @@
   "name": "Small Cardboard Boxes",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 120
@@ -12,7 +13,10 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "recipe": {
+        "cardboard-box": 2
+      }
     }
   },
   "category": "Furniture"

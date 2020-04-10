@@ -3,6 +3,7 @@
   "name": "Right Megalo Side",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Underground (dig spot)"
       ],

@@ -3,6 +3,7 @@
   "name": "Diner Counter Chair",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 275

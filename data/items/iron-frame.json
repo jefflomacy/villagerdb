@@ -21,16 +21,15 @@
       ]
     },
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 15000
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 60000
-        }
-      ]
+      "recipe": {
+        "iron-nugget": 20
+      }
     }
   }
 }

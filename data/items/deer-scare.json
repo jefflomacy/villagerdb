@@ -25,6 +25,8 @@
       ]
     },
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1740
@@ -34,7 +36,12 @@
           "currency": "bells",
           "value": 6960
         }
-      ]
+      ],
+      "recipe": {
+        "bamboo-piece": 3,
+        "stone": 8,
+        "clump-of-weeds": 3
+      }
     }
   }
 }

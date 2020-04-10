@@ -3,6 +3,10 @@
   "name": "Lighthouse",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Nook Shopping"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 25000

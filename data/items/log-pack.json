@@ -3,6 +3,7 @@
   "name": "Log Pack",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 960
@@ -12,7 +13,11 @@
           "currency": "bells",
           "value": 3840
         }
-      ]
+      ],
+      "recipe": {
+        "wood": 3,
+        "hardwood": 5
+      }
     }
   },
   "category": "Accessories"

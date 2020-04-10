@@ -3,6 +3,8 @@
   "name": "Orange Wall-mounted Clock",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 2240
@@ -12,7 +14,11 @@
           "currency": "bells",
           "value": 8960
         }
-      ]
+      ],
+      "recipe": {
+        "orange": 10,
+        "wood": 2
+      }
     }
   },
   "category": "Furniture"

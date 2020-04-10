@@ -3,6 +3,7 @@
   "name": "Street Organ",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1250

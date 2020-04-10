@@ -3,16 +3,11 @@
   "name": "Construction Sign",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 5000
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 20000
-        }
-      ]
+      }
     }
   },
   "category": "Furniture"

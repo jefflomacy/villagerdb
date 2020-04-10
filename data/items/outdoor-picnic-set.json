@@ -3,16 +3,15 @@
   "name": "Outdoor Picnic Set",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 4000
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 16000
-        }
-      ]
+      "recipe": {
+        "cherry-blossom-petal": 10
+      }
     }
   },
   "category": "Furniture"

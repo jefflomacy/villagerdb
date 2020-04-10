@@ -3,6 +3,7 @@
   "name": "Queen Alexandra's Birdwing",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 4000

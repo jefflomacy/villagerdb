@@ -3,6 +3,7 @@
   "name": "Mom's Candle Set",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 88

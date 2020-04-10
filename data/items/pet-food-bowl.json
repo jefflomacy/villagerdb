@@ -3,6 +3,7 @@
   "name": "Pet Food Bowl",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 207

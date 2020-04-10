@@ -3,6 +3,8 @@
   "name": "Mantis-head Model",
   "games": {
     "nh": {
+      "orderable": true,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 375

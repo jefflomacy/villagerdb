@@ -3,6 +3,7 @@
   "name": "Sleeved Apron",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 240

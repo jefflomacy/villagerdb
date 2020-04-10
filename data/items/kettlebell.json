@@ -3,16 +3,15 @@
   "name": "Kettlebell",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 3750
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 15000
-        }
-      ]
+      "recipe": {
+        "iron-nugget": 5
+      }
     }
   },
   "category": "Furniture"

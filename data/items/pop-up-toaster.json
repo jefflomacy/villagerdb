@@ -3,6 +3,10 @@
   "name": "Pop-up Toaster",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook's Cranny"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 575

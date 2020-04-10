@@ -3,6 +3,7 @@
   "name": "Juramaia",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Underground (dig spot)"
       ],

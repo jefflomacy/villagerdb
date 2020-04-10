@@ -3,9 +3,14 @@
   "name": "Stone Fence",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 60
+      },
+      "recipe": {
+        "stone": 4
       }
     }
   },

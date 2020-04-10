@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "recipe": {
+        "pear": 6
+      }
     }
   },
   "category": "Flooring"

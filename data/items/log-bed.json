@@ -3,6 +3,8 @@
   "name": "Log Bed",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 3600
@@ -12,7 +14,10 @@
           "currency": "bells",
           "value": 14400
         }
-      ]
+      ],
+      "recipe": {
+        "hardwood": 30
+      }
     }
   },
   "category": "Furniture"

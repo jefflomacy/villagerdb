@@ -3,6 +3,10 @@
   "name": "Paw Slippers",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Kicks"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 315

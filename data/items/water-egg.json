@@ -11,6 +11,10 @@
       ]
     },
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Fishing"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 200

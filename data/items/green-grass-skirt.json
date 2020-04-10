@@ -3,16 +3,15 @@
   "name": "Green Grass Skirt",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 140
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 560
-        }
-      ]
+      "recipe": {
+        "clump-of-weeds": 7
+      }
     }
   },
   "category": "Bottoms"

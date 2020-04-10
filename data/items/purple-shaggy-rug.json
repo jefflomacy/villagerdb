@@ -3,6 +3,10 @@
   "name": "Purple Shaggy Rug",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Saharah"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 500

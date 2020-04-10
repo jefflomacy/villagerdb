@@ -3,6 +3,7 @@
   "name": "Classic-library Wall",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1450
@@ -12,7 +13,10 @@
           "currency": "bells",
           "value": 5800
         }
-      ]
+      ],
+      "recipe": {
+        "book": 10
+      }
     }
   },
   "category": "Wallpaper"

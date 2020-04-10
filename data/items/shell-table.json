@@ -3,6 +3,7 @@
   "name": "Shell Table",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 2280
@@ -12,7 +13,11 @@
           "currency": "bells",
           "value": 9120
         }
-      ]
+      ],
+      "recipe": {
+        "sand-dollar": 7,
+        "clay": 3
+      }
     }
   },
   "category": "Furniture"

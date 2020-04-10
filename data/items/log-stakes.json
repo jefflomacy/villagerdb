@@ -3,7 +3,7 @@
   "name": "Log Stakes",
   "games": {
     "nh": {
-      "orderable": false,
+      "orderable": true,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",

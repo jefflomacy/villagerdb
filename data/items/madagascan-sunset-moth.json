@@ -3,6 +3,7 @@
   "name": "Madagascan Sunset Moth",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 2500

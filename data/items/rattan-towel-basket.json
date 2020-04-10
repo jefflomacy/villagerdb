@@ -3,6 +3,7 @@
   "name": "Rattan Towel Basket",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 450

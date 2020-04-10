@@ -3,6 +3,7 @@
   "name": "Ophthalmo Skull",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Underground (dig spot)"
       ],

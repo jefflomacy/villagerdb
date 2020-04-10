@@ -3,16 +3,15 @@
   "name": "Earth-egg Outfit",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1200
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 4800
-        }
-      ]
+      "recipe": {
+        "earth-egg": 3
+      }
     }
   },
   "category": "Dresses"

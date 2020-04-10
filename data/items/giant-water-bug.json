@@ -3,6 +3,7 @@
   "name": "Giant Water Bug",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 2000

@@ -3,16 +3,15 @@
   "name": "Knitted-grass Backpack",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 400
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 1600
-        }
-      ]
+      "recipe": {
+        "clump-of-weeds": 20
+      }
     }
   },
   "category": "Accessories"

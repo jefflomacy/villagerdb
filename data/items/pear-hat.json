@@ -3,16 +3,15 @@
   "name": "Pear Hat",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1000
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 4000
-        }
-      ]
+      "recipe": {
+        "pear": 5
+      }
     }
   },
   "category": "Hats"

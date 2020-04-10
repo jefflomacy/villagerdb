@@ -3,6 +3,7 @@
   "name": "Floating-biotope Planter",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 400

@@ -3,6 +3,7 @@
   "name": "Brachio Chest",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Underground (dig spot)"
       ],

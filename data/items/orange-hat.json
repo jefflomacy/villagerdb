@@ -3,6 +3,7 @@
   "name": "Orange Hat",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1000
@@ -12,7 +13,10 @@
           "currency": "bells",
           "value": 4000
         }
-      ]
+      ],
+      "recipe": {
+        "orange": 5
+      }
     }
   },
   "category": "Hats"

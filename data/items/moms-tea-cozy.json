@@ -3,6 +3,7 @@
   "name": "Mom's Tea Cozy",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 88

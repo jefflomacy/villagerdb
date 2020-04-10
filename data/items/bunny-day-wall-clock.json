@@ -3,9 +3,14 @@
   "name": "Bunny Day Wall Clock",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1200
+      },
+      "recipe": {
+        "sky-egg": 3
       }
     }
   },

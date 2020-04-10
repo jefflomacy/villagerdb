@@ -3,6 +3,7 @@
   "name": "Gray Vinyl Flooring",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 287

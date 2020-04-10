@@ -3,6 +3,7 @@
   "name": "Shark-tooth Pattern",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Underground (dig spot)"
       ],

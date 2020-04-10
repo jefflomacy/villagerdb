@@ -3,6 +3,7 @@
   "name": "Deer Decoration",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 960
@@ -12,7 +13,10 @@
           "currency": "bells",
           "value": 3840
         }
-      ]
+      ],
+      "recipe": {
+        "softwood": 8
+      }
     }
   },
   "category": "Furniture"

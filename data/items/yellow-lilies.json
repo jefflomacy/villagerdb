@@ -3,6 +3,11 @@
   "name": "Yellow Lilies",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Find on ground",
+        "Nook's Cranny"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 40

@@ -3,6 +3,7 @@
   "name": "Marble-print Dress",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 375

@@ -3,9 +3,15 @@
   "name": "Cherry-blossom Wand",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 2700
+      },
+      "recipe": {
+        "cherry-blossom-petal": 3,
+        "star-fragment": 3
       }
     }
   },

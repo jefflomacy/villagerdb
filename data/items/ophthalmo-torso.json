@@ -3,6 +3,7 @@
   "name": "Ophthalmo Torso",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Underground (dig spot)"
       ],

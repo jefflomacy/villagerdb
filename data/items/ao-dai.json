@@ -3,6 +3,7 @@
   "name": "Áo Dài",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 630

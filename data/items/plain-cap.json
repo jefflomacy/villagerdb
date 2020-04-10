@@ -3,6 +3,7 @@
   "name": "Plain Cap",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 140

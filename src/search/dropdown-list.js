@@ -163,7 +163,7 @@ export default class DropdownList extends React.Component {
             // Request data from server and load the list when it's ready.
             let entityIdString = this.props.entityId;
             if (this.state.selectedVariation) {
-                entityIdString += ':' + this.state.selectedVariation;
+                entityIdString += '/' + this.state.selectedVariation;
             }
             $.ajax({
                 url: '/list/user/' + this.props.entityType + '/' + entityIdString,

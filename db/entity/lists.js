@@ -56,15 +56,9 @@ class Lists {
      */
     async addEntityToList(id, listId, entityId, type, variationId) {
         const villagerDb = await this.db.get();
-
-        // TODO central location to compute these
-        let entityIdString = entityId;
-        if (variationId) {
-            entityIdString += ':' + variationId;
-        }
-
         const store = {
-            id: entityIdString,
+            id: entityId,
+            variationId: variationId,
             type: type
         };
 
@@ -92,12 +86,6 @@ class Lists {
     async removeEntityFromList(id, listId, entityId, type, variationId) {
         const villagerDb = await this.db.get();
 
-        // TODO central location to compute these
-        let entityIdString = entityId;
-        if (variationId) {
-            entityIdString += ':' + variationId;
-        }
-
         return villagerDb.collection('users')
             .updateOne({
                     _id: id,
@@ -105,7 +93,10 @@ class Lists {
                 },
                 {
                     $pull: {
-                        "lists.$.entities": { "id": entityIdString }
+                        "lists.$.entities": {
+                            id: entityId,
+                            variationId: variationId
+                        }
                     }
                 });
     }
@@ -135,7 +126,7 @@ class Lists {
         if (cursor && cursor.lists) {
             for (let list of cursor.lists) {
                 if (list.id === listId) {
-                    return this._postProcessList(list);
+                    return list;
                 }
             }
         }
@@ -185,25 +176,6 @@ class Lists {
                         }
                     }
                 });
-    }
-
-    /**
-     * Post-process a list from a user to add any additional metadata that the database does not directly have.
-     * @param list
-     * @private
-     */
-    _postProcessList(list) {
-        if (typeof list.entities === 'object') {
-            for (let entity of list.entities) {
-                const split = entity.id.split(':');
-                entity.variationId = split.length > 1 ? split[1] : undefined;
-                if (entity.variationId) {
-                    entity.id = split[0]; // change id to be just the item ID
-                }
-            }
-        }
-
-        return list;
     }
 }
 

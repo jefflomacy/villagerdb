@@ -75,11 +75,11 @@ async function loadList(username, listId) {
     for (const entity of list.entities) {
         if (entity.type === 'villager') {
             if (redisVillagers[entity.id]) {
-                entities.push(organizeData(redisVillagers[entity.id], 'villager'));
+                entities.push(organizeData(list.id, redisVillagers[entity.id], 'villager'));
             }
         } else {
             if (redisItems[entity.id]) {
-                entities.push(organizeData(redisItems[entity.id], 'item', entity.variationId));
+                entities.push(organizeData(list.id, redisItems[entity.id], 'item', entity.variationId));
             }
         }
     }
@@ -102,20 +102,23 @@ async function loadList(username, listId) {
 /**
  * Clean up data for use by the frontend.
  *
+ * @param listId
  * @param entity
  * @param type
  * @param variationId
  * @returns {{}}
  */
-function organizeData(entity, type, variationId) {
+function organizeData(listId, entity, type, variationId) {
     let entityData = {};
     entityData.name = entity.name;
     entityData.id = entity.id;
     entityData.type = type;
     entityData.image = entity.image.thumb;
+    entityData.deleteUrl = '/list/delete-entity/' + listId + '/' + type + '/' + entity.id;
     if (variationId && typeof entity.variations !== 'undefined' &&
         typeof entity.variations[variationId] !== 'undefined') {
         entityData.variation = '(' + entity.variations[variationId] + ')';
+        entityData.deleteUrl += '/' + variationId;
         entityData._sortKey = entityData.name + ' ' + entityData.variation;
     } else {
         entityData._sortKey = entityData.name;

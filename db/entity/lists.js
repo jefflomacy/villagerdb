@@ -95,6 +95,7 @@ class Lists {
                     $pull: {
                         "lists.$.entities": {
                             id: entityId,
+                            type: type,
                             variationId: variationId
                         }
                     }

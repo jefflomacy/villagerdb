@@ -22,6 +22,7 @@ class Items extends RedisStore {
         for (let item of items) {
             await this.buildOwnersArray(item, villagersList);
             await this.formatRecipe(item);
+            this.collapseVariations(item);
             await this.updateEntity(item.id, item);
         }
     }
@@ -134,6 +135,23 @@ class Items extends RedisStore {
         }
 
         return outputMap;
+    }
+
+    /**
+     * Variations are stored at the game level in the dataset, but where we really need them is at the root of the
+     * object for easy retrieval at runtime.
+     *
+     * @param item
+     */
+    collapseVariations(item) {
+        const variations = {};
+        for (let gameId in item.games) {
+            const game = item.games[gameId];
+            if (typeof game.variations !== 'undefined') {
+                Object.assign(variations, game.variations);
+            }
+        }
+        item.variations = variations;
     }
 }
 

@@ -146,19 +146,9 @@ function formatItem(item) {
         }
     }
 
-    // Paragraph
+    // Paragraph and variations
     formatted.paragraph = generateParagraph(item, formatted);
-
-    // Merge variations
-    // TODO: Do this at the redis level, not here.
-    const variations = {};
-    for (let gameId in item.games) {
-        const game = item.games[gameId];
-        if (typeof game.variations !== 'undefined') {
-            Object.assign(variations, game.variations);
-        }
-    }
-    formatted.variations = JSON.stringify(variations);
+    formatted.variations = JSON.stringify(typeof item.variations === 'object' ? item.variations : {});
 
     return formatted;
 }

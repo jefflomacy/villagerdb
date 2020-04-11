@@ -71,13 +71,19 @@ class RedisStore {
 
     /**
      * Get multiple objects matching the given IDs.
+     *
      * @param ids
-     * @returns {Promise<*>}
+     * @returns {Promise<{}>}
      */
     async getByIds(ids) {
         if (ids.length === 0) {
-            return [];
+            return {};
         }
+
+        // Uniqueify the list.
+        ids = ids.filter((v, i, s) => {
+            return s.indexOf(v) === i;
+        });
 
         const prefixedIds = [];
         for (let id of ids) {
@@ -85,9 +91,13 @@ class RedisStore {
         }
 
         const raws = await this.redisClient.mgetAsync(prefixedIds);
-        const results = [];
+        const results = {};
+        let counter = 0;
         for (let raw of raws) {
-            results.push(JSON.parse(raw));
+            if (raw) {
+                results[ids[counter]] = JSON.parse(raw);
+            }
+            counter++;
         }
 
         return results;

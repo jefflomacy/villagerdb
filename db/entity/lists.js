@@ -135,7 +135,7 @@ class Lists {
         if (cursor && cursor.lists) {
             for (let list of cursor.lists) {
                 if (list.id === listId) {
-                    return list;
+                    return this._postProcessList(list);
                 }
             }
         }
@@ -185,6 +185,25 @@ class Lists {
                         }
                     }
                 });
+    }
+
+    /**
+     * Post-process a list from a user to add any additional metadata that the database does not directly have.
+     * @param list
+     * @private
+     */
+    _postProcessList(list) {
+        if (typeof list.entities === 'object') {
+            for (let entity of list.entities) {
+                const split = entity.id.split(':');
+                entity.variationId = split.length > 1 ? split[1] : undefined;
+                if (entity.variationId) {
+                    entity.id = split[0]; // change id to be just the item ID
+                }
+            }
+        }
+
+        return list;
     }
 }
 

@@ -3,9 +3,14 @@
   "name": "Bunny Day Stool",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1200
+      },
+      "recipe": {
+        "water-egg": 3
       }
     }
   },

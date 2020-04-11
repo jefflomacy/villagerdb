@@ -3,9 +3,14 @@
   "name": "Bamboo Lattice Fence",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 96
+      },
+      "recipe": {
+        "bamboo-piece": 6
       }
     }
   },

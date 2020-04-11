@@ -20,16 +20,16 @@
       ]
     },
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 2040
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 8160
-        }
-      ]
+      "recipe": {
+        "wood": 10,
+        "hardwood": 7
+      }
     }
   }
 }

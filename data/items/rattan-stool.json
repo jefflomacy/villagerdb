@@ -3,6 +3,7 @@
   "name": "Rattan Stool",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 725

@@ -6,13 +6,7 @@
       "sellPrice": {
         "currency": "bells",
         "value": 25000
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 100000
-        }
-      ]
+      }
     }
   },
   "category": "Furniture"

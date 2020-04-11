@@ -3,6 +3,7 @@
   "name": "Plesio Body",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Underground (dig spot)"
       ],

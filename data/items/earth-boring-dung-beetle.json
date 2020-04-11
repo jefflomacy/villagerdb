@@ -3,6 +3,7 @@
   "name": "Earth-boring Dung Beetle",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 300

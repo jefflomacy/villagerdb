@@ -3,6 +3,10 @@
   "name": "Retro A-line Dress",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 637

@@ -3,16 +3,15 @@
   "name": "Blue Hyacinths",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Find on ground at mystery island",
+        "crossbreeding flowers"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 80
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 320
-        }
-      ]
+      }
     }
   },
   "category": "Flowers"

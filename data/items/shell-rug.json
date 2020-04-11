@@ -3,6 +3,7 @@
   "name": "Shell Rug",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 5400
@@ -12,7 +13,10 @@
           "currency": "bells",
           "value": 21600
         }
-      ]
+      ],
+      "recipe": {
+        "giant-clam": 3
+      }
     }
   },
   "category": "Flooring"

@@ -3,16 +3,15 @@
   "name": "Rustic-stone Wall",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1750
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 7000
-        }
-      ]
+      "recipe": {
+        "stone": 5,
+        "clay": 5
+      }
     }
   },
   "category": "Wallpaper"

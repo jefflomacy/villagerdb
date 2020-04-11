@@ -3,6 +3,8 @@
   "name": "Orange Rug",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1200
@@ -12,7 +14,10 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "recipe": {
+        "orange": 6
+      }
     }
   },
   "category": "Flooring"

@@ -3,6 +3,7 @@
   "name": "Rosalia Batesi Beetle",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 3000

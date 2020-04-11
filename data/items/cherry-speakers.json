@@ -3,6 +3,7 @@
   "name": "Cherry Speakers",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 3500
@@ -12,7 +13,11 @@
           "currency": "bells",
           "value": 14000
         }
-      ]
+      ],
+      "recipe": {
+        "cherry": 10,
+        "iron-nugget": 2
+      }
     }
   },
   "category": "Furniture"

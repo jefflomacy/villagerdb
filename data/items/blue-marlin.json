@@ -14,6 +14,11 @@
       ]
     },
     "nh": {
+      "orderable": false,
+      "sources": [
+        "North: Huge Shadows at Pier, Jul-Sep and Nov-Apr (All day)",
+        "South: Huge Shadows at Pier, Jan-Mar and May-Oct (All day)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 10000

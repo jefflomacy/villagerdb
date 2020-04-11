@@ -3,6 +3,8 @@
   "name": "Apple Dress",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1600
@@ -12,7 +14,10 @@
           "currency": "bells",
           "value": 6400
         }
-      ]
+      ],
+      "recipe": {
+        "apple": 8
+      }
     }
   },
   "category": "Dresses"

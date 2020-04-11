@@ -3,6 +3,9 @@
   "name": "Peach Rug",
   "games": {
     "nh": {
+      "sources": [
+        "Villagers (recipe)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 1200
@@ -12,7 +15,10 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "recipe": {
+        "peach": 6
+      }
     }
   },
   "category": "Flooring"

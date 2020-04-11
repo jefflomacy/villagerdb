@@ -3,9 +3,14 @@
   "name": "Iron Fence",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 450
+      },
+      "recipe": {
+        "iron-nugget": 6
       }
     }
   },

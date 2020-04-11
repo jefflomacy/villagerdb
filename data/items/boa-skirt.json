@@ -3,6 +3,7 @@
   "name": "Boa Skirt",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 325

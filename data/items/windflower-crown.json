@@ -3,6 +3,7 @@
   "name": "Windflower Crown",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 480
@@ -12,7 +13,12 @@
           "currency": "bells",
           "value": 1920
         }
-      ]
+      ],
+      "recipe": {
+        "red-windflowers": 2,
+        "orange-windflowers": 2,
+        "white-windflowers": 2
+      }
     }
   },
   "category": "Hats"

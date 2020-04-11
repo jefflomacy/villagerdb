@@ -3,6 +3,7 @@
   "name": "Colorful Slingshot",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 625

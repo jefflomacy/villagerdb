@@ -3,6 +3,7 @@
   "name": "Long Bathtub",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1950

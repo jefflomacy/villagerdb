@@ -3,6 +3,7 @@
   "name": "Gray Molded-panel Wall",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 495

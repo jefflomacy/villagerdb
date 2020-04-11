@@ -3,6 +3,7 @@
   "name": "Iron Wand",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 3750

@@ -3,6 +3,9 @@
   "name": "Trophy Case",
   "games": {
     "nh": {
+      "sources": [
+        "DIY"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 33690
@@ -12,7 +15,12 @@
           "currency": "bells",
           "value": 134760
         }
-      ]
+      ],
+      "recipe": {
+        "hardwood": 24,
+        "gold-nugget": 3,
+        "iron-nugget": 6
+      }
     }
   },
   "category": "Furniture"

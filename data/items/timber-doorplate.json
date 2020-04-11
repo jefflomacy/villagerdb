@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "recipe": {
+        "wood": 2,
+        "pink-roses": 1
+      }
     }
   },
   "category": "Furniture"

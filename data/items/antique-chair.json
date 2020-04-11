@@ -3,6 +3,7 @@
   "name": "Antique Chair",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 2500

@@ -3,16 +3,15 @@
   "name": "Log Round Table",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1800
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 7200
-        }
-      ]
+      "recipe": {
+        "hardwood": 15
+      }
     }
   },
   "category": "Furniture"

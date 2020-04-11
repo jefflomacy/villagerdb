@@ -3,6 +3,10 @@
   "name": "Veil",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Gulliver"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 800

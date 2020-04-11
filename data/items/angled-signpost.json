@@ -3,6 +3,7 @@
   "name": "Angled Signpost",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 600
@@ -12,7 +13,11 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "recipe": {
+        "hardwood": 2,
+        "softwood": 3
+      }
     }
   },
   "category": "Furniture"

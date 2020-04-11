@@ -3,6 +3,7 @@
   "name": "Great White Shark",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 15000

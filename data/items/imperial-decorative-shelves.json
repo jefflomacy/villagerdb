@@ -3,6 +3,7 @@
   "name": "Imperial Decorative Shelves",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 2125

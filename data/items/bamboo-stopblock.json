@@ -3,6 +3,8 @@
   "name": "Bamboo Stopblock",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 480
@@ -12,7 +14,10 @@
           "currency": "bells",
           "value": 1920
         }
-      ]
+      ],
+      "recipe": {
+        "bamboo-piece": 3
+      }
     }
   },
   "category": "Furniture"

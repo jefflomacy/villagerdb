@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 3840
         }
-      ]
+      ],
+      "recipe": {
+        "bamboo-piece": 6
+      }
     }
   },
   "category": "Flooring"

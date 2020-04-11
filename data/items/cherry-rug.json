@@ -3,6 +3,7 @@
   "name": "Cherry Rug",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1200
@@ -12,7 +13,10 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "recipe": {
+        "cherry": 6
+      }
     }
   },
   "category": "Flooring"

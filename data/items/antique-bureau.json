@@ -3,6 +3,7 @@
   "name": "Antique Bureau",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 5000

@@ -3,6 +3,7 @@
   "name": "Pear Dress",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1600
@@ -12,7 +13,10 @@
           "currency": "bells",
           "value": 6400
         }
-      ]
+      ],
+      "recipe": {
+        "pear": 8
+      }
     }
   },
   "category": "Dresses"

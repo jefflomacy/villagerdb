@@ -3,16 +3,15 @@
   "name": "Log Garden Lounge",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1440
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 5760
-        }
-      ]
+      "recipe": {
+        "hardwood": 12
+      }
     }
   },
   "category": "Furniture"

@@ -3,16 +3,15 @@
   "name": "Shell Stool",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 600
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 2400
-        }
-      ]
+      "recipe": {
+        "cowrie": 5
+      }
     }
   },
   "category": "Furniture"

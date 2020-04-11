@@ -3,6 +3,7 @@
   "name": "Brown-brick Wall",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 250

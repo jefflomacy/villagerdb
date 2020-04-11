@@ -3,6 +3,7 @@
   "name": "Wall-mounted Candle",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 200

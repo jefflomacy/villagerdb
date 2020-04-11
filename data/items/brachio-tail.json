@@ -3,6 +3,7 @@
   "name": "Brachio Tail",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Underground (dig spot)"
       ],

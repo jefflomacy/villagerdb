@@ -1,7 +1,7 @@
 {
   "id": "mint-umbrella",
   "name": "Mint Umbrella",
-  "category": "Tools",
+  "category": "Umbrellas",
   "games": {
     "nl": {
       "orderable": true,
@@ -20,7 +20,7 @@
       ]
     },
     "nh": {
-      "orderable": true,
+      "orderable": false,
       "sources": [
         "Nook's Cranny"
       ],

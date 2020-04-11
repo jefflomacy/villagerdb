@@ -3,6 +3,7 @@
   "name": "Shower Booth",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 27500

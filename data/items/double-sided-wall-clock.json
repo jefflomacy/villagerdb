@@ -3,6 +3,7 @@
   "name": "Double-sided Wall Clock",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 275

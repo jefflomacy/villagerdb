@@ -3,6 +3,8 @@
   "name": "Bamboo-shoot Lamp",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 4900
@@ -12,7 +14,12 @@
           "currency": "bells",
           "value": 19600
         }
-      ]
+      ],
+      "recipe": {
+        "young-spring-bamboo": 4,
+        "bamboo-shoot": 5,
+        "clay": 4
+      }
     }
   },
   "category": "Furniture"

@@ -3,6 +3,7 @@
   "name": "Brachio Skull",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Underground (dig spot)"
       ],

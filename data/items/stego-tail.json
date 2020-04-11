@@ -17,6 +17,7 @@
       ]
     },
     "nh": {
+      "orderable": false,
       "sources": [
         "Underground (dig spot)"
       ],

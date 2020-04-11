@@ -3,6 +3,7 @@
   "name": "Fish Fishing Rod",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 625

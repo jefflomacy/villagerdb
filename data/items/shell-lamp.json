@@ -3,6 +3,7 @@
   "name": "Shell Lamp",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 4200
@@ -12,7 +13,11 @@
           "currency": "bells",
           "value": 16800
         }
-      ]
+      ],
+      "recipe": {
+        "giant-clam": 2,
+        "clay": 3
+      }
     }
   },
   "category": "Furniture"

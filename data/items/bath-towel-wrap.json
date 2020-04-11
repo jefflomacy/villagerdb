@@ -3,6 +3,7 @@
   "name": "Bath-towel Wrap",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 157

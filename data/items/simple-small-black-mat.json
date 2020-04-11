@@ -3,6 +3,7 @@
   "name": "Simple Small Black Mat",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Nook's Cranny"
       ],

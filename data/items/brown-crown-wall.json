@@ -3,6 +3,7 @@
   "name": "Brown-crown Wall",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 587

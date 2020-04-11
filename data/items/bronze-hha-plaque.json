@@ -3,6 +3,10 @@
   "name": "Bronze Hha Plaque",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Mail after 20,000 HHA score"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 400

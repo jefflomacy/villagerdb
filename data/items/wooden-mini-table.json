@@ -3,6 +3,8 @@
   "name": "Wooden Mini Table",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 720
@@ -12,7 +14,10 @@
           "currency": "bells",
           "value": 2880
         }
-      ]
+      ],
+      "recipe": {
+        "wood": 6
+      }
     }
   },
   "category": "Furniture"

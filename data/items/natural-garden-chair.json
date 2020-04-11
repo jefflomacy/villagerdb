@@ -3,6 +3,7 @@
   "name": "Natural Garden Chair",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 2220
@@ -12,7 +13,11 @@
           "currency": "bells",
           "value": 8880
         }
-      ]
+      ],
+      "recipe": {
+        "hardwood": 6,
+        "iron-nugget": 2
+      }
     }
   },
   "category": "Furniture"

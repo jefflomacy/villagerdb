@@ -3,7 +3,7 @@
   "name": "Two-tone Umbrella",
   "games": {
     "nh": {
-      "orderable": true,
+      "orderable": false,
       "sources": [
         "Nook's Cranny"
       ],
@@ -19,5 +19,5 @@
       ]
     }
   },
-  "category": "Tools"
+  "category": "Umbrellas"
 }

@@ -3,6 +3,10 @@
   "name": "Color-block Dress Shirt",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 240

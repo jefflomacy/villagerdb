@@ -3,6 +3,7 @@
   "name": "Fossil Doorplate",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 500
@@ -12,7 +13,11 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "recipe": {
+        "fossil": 1,
+        "stone": 2
+      }
     }
   },
   "category": "Furniture"

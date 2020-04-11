@@ -3,6 +3,7 @@
   "name": "Box-pleated Skirt",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 330

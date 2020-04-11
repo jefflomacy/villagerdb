@@ -3,6 +3,7 @@
   "name": "Ironwood Bed",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 9900
@@ -12,7 +13,11 @@
           "currency": "bells",
           "value": 39600
         }
-      ]
+      ],
+      "recipe": {
+        "wood": 20,
+        "iron-nugget": 10
+      }
     }
   },
   "category": "Furniture"

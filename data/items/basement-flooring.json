@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 6000
         }
-      ]
+      ],
+      "recipe": {
+        "stone": 10
+      }
     }
   },
   "category": "Flooring"

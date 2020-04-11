@@ -3,6 +3,7 @@
   "name": "Iron Wall Rack",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 2450
@@ -12,7 +13,11 @@
           "currency": "bells",
           "value": 9800
         }
-      ]
+      ],
+      "recipe": {
+        "iron-nugget": 3,
+        "clay": 1
+      }
     }
   },
   "category": "Furniture"

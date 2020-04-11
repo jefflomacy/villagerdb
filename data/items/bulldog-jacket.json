@@ -3,6 +3,7 @@
   "name": "Bulldog Jacket",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 360

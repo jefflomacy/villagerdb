@@ -3,16 +3,15 @@
   "name": "Pear Wall",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 4000
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 16000
-        }
-      ]
+      "recipe": {
+        "pear": 20
+      }
     }
   },
   "category": "Wallpaper"

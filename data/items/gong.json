@@ -7,9 +7,14 @@
       "sources": [
         "Gulliver"
       ],
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 5100
+      },
+      "recipe": {
+        "iron-nugget": 6,
+        "wood": 5
       }
     }
   },

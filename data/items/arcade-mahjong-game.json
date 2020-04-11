@@ -3,6 +3,7 @@
   "name": "Arcade Mahjong Game",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 16000

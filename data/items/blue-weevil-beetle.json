@@ -3,6 +3,7 @@
   "name": "Blue Weevil Beetle",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 800

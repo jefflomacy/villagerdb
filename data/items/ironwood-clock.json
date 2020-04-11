@@ -3,6 +3,7 @@
   "name": "Ironwood Clock",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1740
@@ -12,7 +13,11 @@
           "currency": "bells",
           "value": 6960
         }
-      ]
+      ],
+      "recipe": {
+        "wood": 2,
+        "iron-nugget": 2
+      }
     }
   },
   "category": "Furniture"

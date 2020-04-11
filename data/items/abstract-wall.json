@@ -3,6 +3,10 @@
   "name": "Abstract Wall",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook's Cranny"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 390

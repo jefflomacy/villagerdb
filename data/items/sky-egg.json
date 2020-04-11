@@ -10,6 +10,10 @@
       ]
     },
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Hit an egg balloon with a slingshot"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 200

@@ -3,6 +3,7 @@
   "name": "Backyard-fence Wall",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 750

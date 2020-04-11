@@ -3,16 +3,16 @@
   "name": "Cherry-blossom Flooring",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 4400
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 17600
-        }
-      ]
+      "recipe": {
+        "cherry-blossom-petal": 10,
+        "clump-of-weeds": 20
+      }
     }
   },
   "category": "Flooring"

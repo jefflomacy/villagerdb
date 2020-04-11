@@ -3,6 +3,7 @@
   "name": "Madras Plaid Shirt",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 280

@@ -3,16 +3,15 @@
   "name": "Earth-egg Shoes",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 800
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 3200
-        }
-      ]
+      "recipe": {
+        "earth-egg": 2
+      }
     }
   },
   "category": "Shoes"

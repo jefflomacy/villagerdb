@@ -3,16 +3,15 @@
   "name": "Paw-print Doorplate",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 360
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 1440
-        }
-      ]
+      "recipe": {
+        "wood": 3
+      }
     }
   },
   "category": "Furniture"

@@ -3,6 +3,7 @@
   "name": "Protein Shaker Bottle",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 350

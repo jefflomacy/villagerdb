@@ -1,8 +1,9 @@
 {
   "id": "kk-mariachi",
-  "name": "K.k. Mariachi",
+  "name": "K.K. Mariachi",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 800

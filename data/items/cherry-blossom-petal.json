@@ -3,6 +3,10 @@
   "name": "Cherry-blossom Petal",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Catch with a net"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 200

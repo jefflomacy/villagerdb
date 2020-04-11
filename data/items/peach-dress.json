@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 6400
         }
-      ]
+      ],
+      "recipe": {
+        "peach": 8
+      }
     }
   },
   "category": "Dresses"

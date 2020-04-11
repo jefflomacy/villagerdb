@@ -3,6 +3,7 @@
   "name": "Simple White Flooring",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Nook's Cranny"
       ],

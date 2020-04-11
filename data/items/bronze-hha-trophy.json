@@ -3,6 +3,7 @@
   "name": "Bronze Hha Trophy",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 400

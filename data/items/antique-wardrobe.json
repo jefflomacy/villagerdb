@@ -3,6 +3,7 @@
   "name": "Antique Wardrobe",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 9250

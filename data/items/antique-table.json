@@ -3,6 +3,7 @@
   "name": "Antique Table",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 6250

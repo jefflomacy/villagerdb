@@ -5,18 +5,13 @@
     "nh": {
       "orderable": false,
       "sources": [
-        "Pick from flower"
+        "Find on ground at mystery island",
+        "crossbreeding flowers"
       ],
       "sellPrice": {
         "currency": "bells",
         "value": 80
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 320
-        }
-      ]
+      }
     }
   },
   "category": "Flowers"

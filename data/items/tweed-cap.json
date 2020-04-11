@@ -3,6 +3,7 @@
   "name": "Tweed Cap",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 275

@@ -15,9 +15,15 @@
       ]
     },
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 140
+      },
+      "recipe": {
+        "clump-of-weeds": 4,
+        "tree-branch": 6
       }
     }
   }

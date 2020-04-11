@@ -6,6 +6,9 @@
       "sellPrice": {
         "currency": "bells",
         "value": 72
+      },
+      "recipe": {
+        "softwood": 6
       }
     }
   },

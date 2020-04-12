@@ -20,12 +20,6 @@ export default class DropdownList extends React.Component {
     }
 
     /**
-     * Sets up listener to hide the list when focus lost.
-     */
-    componentDidMount() {
-        $('body').on('click', this.hideList.bind(this));
-    }
-    /**
      * Render the button and/or expanded list.
      * @returns {*}
      */
@@ -95,7 +89,7 @@ export default class DropdownList extends React.Component {
                         let addOrRemove = list.hasEntity ? 'Remove from' : 'Add to';
                         listItems.push((
                             <a key={list.id} className="dropdown-item" href="#"
-                               onClick={this.toggleList.bind(this, list.id, list.hasEntity)}>
+                               onMouseDown={this.toggleList.bind(this, list.id, list.hasEntity)}>
                                 {addOrRemove} <strong>{list.name}</strong>
                             </a>
                         ));
@@ -116,7 +110,8 @@ export default class DropdownList extends React.Component {
             );
         }
         return (
-            <div className="d-flex justify-content-between align-items-center">
+            <div className="d-flex justify-content-between align-items-center"
+                onBlur={this.hideList.bind(this)}>
                 {variationsDropdown}
                 <div>
                     <div className={'dropdown ' + showClass}>
@@ -262,7 +257,7 @@ export default class DropdownList extends React.Component {
     /**
      * Remove the list display under any circumstance.
      */
-    hideList() {
+    hideList(e) {
         this.setState({
             isExpanded: false
         });

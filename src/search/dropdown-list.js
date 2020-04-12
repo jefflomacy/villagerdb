@@ -110,8 +110,7 @@ export default class DropdownList extends React.Component {
             );
         }
         return (
-            <div className="d-flex justify-content-between align-items-center"
-                onBlur={this.hideList.bind(this)}>
+            <div className="d-flex justify-content-between align-items-center">
                 {variationsDropdown}
                 <div>
                     <div className={'dropdown ' + showClass}>
@@ -252,15 +251,6 @@ export default class DropdownList extends React.Component {
                 selectedVariation: undefined
             });
         }
-    }
-
-    /**
-     * Remove the list display under any circumstance.
-     */
-    hideList(e) {
-        this.setState({
-            isExpanded: false
-        });
     }
 }
 

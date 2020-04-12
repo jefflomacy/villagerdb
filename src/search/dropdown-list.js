@@ -20,6 +20,12 @@ export default class DropdownList extends React.Component {
     }
 
     /**
+     * Sets up listener to hide the list when focus lost.
+     */
+    componentDidMount() {
+        $('body').on('click', this.hideList.bind(this));
+    }
+    /**
      * Render the button and/or expanded list.
      * @returns {*}
      */
@@ -54,10 +60,11 @@ export default class DropdownList extends React.Component {
                 }
 
                 variationsDropdown = (
-                    <select className="form-control d-inline-block" style={{width: 'auto'}}
-                            onChange={this.setVariation.bind(this)}>
-                        {variationsList}
-                    </select>
+                    <div className="mr-2">
+                        <select className="form-control" onChange={this.setVariation.bind(this)}>
+                            {variationsList}
+                        </select>
+                    </div>
                 );
             }
         }
@@ -109,12 +116,16 @@ export default class DropdownList extends React.Component {
             );
         }
         return (
-            <div className={'dropdown ' + showClass}>
+            <div className="d-flex justify-content-between align-items-center">
                 {variationsDropdown}
-                <button type="button" className="btn btn-outline-secondary" onClick={this.buttonClicked.bind(this)}>
-                    <span className={'fa ' + labelClass}></span>{labelSpan}
-                </button>
-                {listData}
+                <div>
+                    <div className={'dropdown ' + showClass}>
+                        <button type="button" className="btn btn-outline-secondary" onClick={this.buttonClicked.bind(this)}>
+                            <span className={'fa ' + labelClass}></span>{labelSpan}
+                        </button>
+                        {listData}
+                    </div>
+                </div>
             </div>
         );
     }
@@ -246,6 +257,15 @@ export default class DropdownList extends React.Component {
                 selectedVariation: undefined
             });
         }
+    }
+
+    /**
+     * Remove the list display under any circumstance.
+     */
+    hideList() {
+        this.setState({
+            isExpanded: false
+        });
     }
 }
 

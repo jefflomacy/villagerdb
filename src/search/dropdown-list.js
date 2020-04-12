@@ -117,10 +117,10 @@ export default class DropdownList extends React.Component {
             );
         }
         return (
-            <div className="dropdown-list-container d-flex justify-content-between align-items-center">
+            <div className="d-flex justify-content-between align-items-center">
                 {variationsDropdown}
                 <div>
-                    <div className={'dropdown ' + showClass}>
+                    <div className={'dropdown-list-container dropdown ' + showClass}>
                         <button type="button" className="btn btn-outline-secondary" onClick={this.buttonClicked.bind(this)}>
                             <span className={'fa ' + labelClass}></span>{labelSpan}
                         </button>

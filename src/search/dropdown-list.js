@@ -20,6 +20,13 @@ export default class DropdownList extends React.Component {
     }
 
     /**
+     *
+     */
+    componentDidMount() {
+        $('body').on('click', this.checkBodyClick.bind(this));
+    }
+
+    /**
      * Render the button and/or expanded list.
      * @returns {*}
      */
@@ -110,7 +117,7 @@ export default class DropdownList extends React.Component {
             );
         }
         return (
-            <div className="d-flex justify-content-between align-items-center">
+            <div className="dropdown-list-container d-flex justify-content-between align-items-center">
                 {variationsDropdown}
                 <div>
                     <div className={'dropdown ' + showClass}>
@@ -250,6 +257,21 @@ export default class DropdownList extends React.Component {
             this.setState({
                 selectedVariation: undefined
             });
+        }
+    }
+
+    /**
+     * Hide list if a click event occurs outside of us.
+     *
+     * @param e
+     */
+    checkBodyClick(e) {
+        if (e && e.target) {
+            if ($(e.target).closest('.dropdown-list-container').length === 0) {
+                this.setState({
+                    isExpanded: false
+                });
+            }
         }
     }
 }

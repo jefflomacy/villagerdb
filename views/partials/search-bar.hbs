@@ -2,6 +2,7 @@
     <form class="form" method="get" action="/search" id="search-form">
         <div class="input-group" id="autocomplete">
             <label class="sr-only" for="q">Search for a villager or item</label>
+            <input type="hidden" name="game" value="nh"/>
             <input type="text" class="form-control" maxlength="64" id="q" name="q"
                    placeholder="Item or villager name" autoComplete="off" list="qautocomplete"
                    value="{{searchQuery}}"/>

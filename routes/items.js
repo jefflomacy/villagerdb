@@ -75,8 +75,7 @@ const categories = {
         filter: {
             category: ['Fish']
         },
-        pageDescription: 'All of Blathers\'s favorite meals are on display in this category. Some fish are caught ' +
-            'with a rod, others require a wetsuit to dive and catch.'
+        pageDescription: 'All of Blathers\'s favorite meals are on display in this category.'
     },
     flooring: {
         filter: {
@@ -88,7 +87,7 @@ const categories = {
         filter: {
             category: ['Flowers']
         },
-        pageDescription: 'Every flower can be found here. Some are plantable, others are hybrids.'
+        pageDescription: 'Flowers can be found here.'
     },
     fossils: {
         filter: {
@@ -102,8 +101,7 @@ const categories = {
         filter: {
             category: ['Fruit']
         },
-        pageDescription: 'Plantable fruits can be found in this category. Note that only your native fruit can ' +
-            'yield a perfect fruit tree in New Leaf.'
+        pageDescription: 'Plantable fruits can be found in this category.'
     },
     furniture: {
         filter: {
@@ -155,14 +153,13 @@ const categories = {
         filter: {
             category: ['Shoes']
         },
-        pageDescription: 'Shoes go on your feet! Sold by Kicks at Kicks once the store opens on Main Street.'
+        pageDescription: 'Shoes go on your feet!'
     },
     socks: {
         filter: {
             category: ['Socks']
         },
-        pageDescription: 'Socks are a comfortable thing to wear on your feet with shoes. Sold by Kicks at Kicks ' +
-            'once the store opens on Main Street.'
+        pageDescription: 'Socks are a comfortable thing to wear on your feet with shoes.'
     },
     stationery: {
         filter: {

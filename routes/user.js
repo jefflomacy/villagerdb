@@ -115,14 +115,22 @@ function organizeData(listId, entity, type, variationId) {
     entityData.type = type;
     entityData.image = entity.image.thumb;
     entityData.deleteUrl = '/list/delete-entity/' + listId + '/' + type + '/' + entity.id;
-    if (variationId && typeof entity.variations !== 'undefined' &&
-        typeof entity.variations[variationId] !== 'undefined') {
-        entityData.variation = '(' + entity.variations[variationId] + ')';
+    entityData._sortKey = entityData.name;
+
+    // Variation?
+    if (variationId) {
+        // Fallback, worst case scenario: display the raw variationId slug
+        let variationDisplay = variationId;
+        // ... but let's see if we can do better?
+        if (typeof entity.variations !== 'undefined' &&
+            typeof entity.variations[variationId] !== 'undefined') {
+            variationDisplay = entity.variations[variationId];
+        }
+        entityData.variation = '(' + variationDisplay + ')';
         entityData.deleteUrl += '/' + variationId;
-        entityData._sortKey = entityData.name + ' ' + entityData.variation;
-    } else {
-        entityData._sortKey = entityData.name;
+        entityData._sortKey += ' ' + entityData.variation;
     }
+
     return entityData;
 }
 

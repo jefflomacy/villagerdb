@@ -39,3 +39,37 @@ Find bugs or want a feature? Submit a ticket and we will
 investigate as time permits. Alternatively, send us a pull
 request and we will discuss it with you. We look forward to
 your help with this large project!
+
+### Getting Started & Local Development
+
+Ensure you have Docker installed \
+Create Environments variables in an .env file in the root directory
+
+```env
+GOOGLE_CLIENT_ID=whatever.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=your-secret
+NODE_ENV=development
+```
+
+You will need to create a Google APIs project for the ClientID: \
+Find People API \
+Create Credentials \
+Calling People API from webserver \
+redirectURI `http://localhost/auth/google/redirect`
+
+
+### Running VillagerDB Locally
+You can then run
+`docker-compose up`
+
+When the application is running you will want to run 
+
+```bash
+sudo docker exec villagerdb_app npm run watch-js
+sudo docker exec villagerdb_app npm run watch-less
+sudo docker exec villagerdb_app npm run build-js
+sudo docker exec villagerdb_app npm run build-css
+```
+
+To reindex your Redis & Elasticsearch
+`./reindex.sh`

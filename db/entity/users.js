@@ -103,11 +103,11 @@ class Users {
      * @param id
      * @returns {Promise<*>}
      */
-    async deleteUser(id) {
+    async deleteUserById(id) {
         const villagerDb = await this.db.get();
         return villagerDb.collection('users')
             .deleteOne({
-                _id: id
+                _id: new ObjectId(id)
             });
     }
 }

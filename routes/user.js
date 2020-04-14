@@ -147,6 +147,10 @@ router.get('/:username', function (req, res, next) {
             } else {
                 data.isOwnUser = res.locals.userState.isRegistered &&
                     req.user.username === req.params.username;
+                if (data.isOwnUser && req.session && req.session.errors) {
+                    data.errors = req.session.errors;
+                    req.session.errors = [];
+                }
                 res.render('user', data);
             }
 

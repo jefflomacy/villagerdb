@@ -183,4 +183,36 @@ router.post('/register-cancel', (req, res, next) => {
     cancelRegistration(req, res, next, '/');
 });
 
+/**
+ * Route to delete user account.
+ */
+router.post('/delete',
+    [
+        body(
+            'delete-check',
+            'To delete your account please check the confirmation checkbox')
+            .exists(),
+    ],
+    (req, res, next) => {
+        if (res.locals.userState.isRegistered) {
+            // If there were validation errors, stop.
+            const errors = validationResult(req);
+            if (!errors.isEmpty()) {
+                // Return to profile.
+                req.session.errors = errors.array();
+                res.redirect('/user/' + req.user.username);
+            } else {
+                // Perform deletion and redirect.
+                users.deleteUserById(req.user.id)
+                    .then(() => {
+                        req.session.destroy();
+                        res.redirect('/');
+                    })
+                    .catch(next);
+            }
+        } else {
+            res.redirect('/'); // non-logged-in users can't do anything.
+        }
+});
+
 module.exports = router;

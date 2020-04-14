@@ -18,7 +18,11 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4500
-      }
+      },
+      "sources": [
+        "North: Shadows at Pier, May-Sep (All Day)",
+        "South: Shadows at Pier, Nov-Mar (All Day)"
+      ]
     }
   }
 }

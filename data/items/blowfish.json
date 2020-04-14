@@ -16,8 +16,8 @@
     "nh": {
       "orderable": false,
       "sources": [
-        "North: Medium Shadows at Sea, Nov-Feb (9pm-5am)",
-        "Medium Shadows at Sea, May-Aug (9pm-5am)"
+        "North: Medium Shadows at Sea, Nov-Feb (9pm-4am)",
+        "South: Medium Shadows at Sea, May-Aug (9pm-4am)"
       ],
       "sellPrice": {
         "currency": "bells",

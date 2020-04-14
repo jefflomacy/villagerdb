@@ -18,7 +18,11 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1800
-      }
+      },
+      "sources": [
+        "North: Shadows on River, Sep-Dec (All Day)",
+        "South: Shadows on River, Mar-Jun (All Day)"
+      ]
     }
   }
 }

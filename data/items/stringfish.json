@@ -18,7 +18,11 @@
       "sellPrice": {
         "currency": "bells",
         "value": 15000
-      }
+      },
+      "sources": [
+        "North: Shadows on Rivers Clifftop, Dec-Mar (4pm-9am)",
+        "South: Shadows on Rivers Clifftop, Jun-Sep (4pm-9am)"
+      ]
     }
   }
 }

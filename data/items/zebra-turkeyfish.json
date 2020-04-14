@@ -18,7 +18,11 @@
       "sellPrice": {
         "currency": "bells",
         "value": 500
-      }
+      },
+      "sources": [
+        "North: Shadows in Sea, Apr-Nov (All Day)",
+        "South: Shadows in Sea, Oct-May (All Day)"
+      ]
     }
   }
 }

@@ -7,7 +7,10 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4500
-      }
+      },
+      "sources": [
+        "Shadows in Pond, All Year (9am-4pm)"
+      ]
     }
   },
   "category": "Fish"

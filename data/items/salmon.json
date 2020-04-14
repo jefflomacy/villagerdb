@@ -18,7 +18,11 @@
       "sellPrice": {
         "currency": "bells",
         "value": 700
-      }
+      },
+      "sources": [
+        "North: Shadows in River Mouth, Sep (All Day)",
+        "South: Shadows in River Mouth, Mar (All Day)"
+      ]
     }
   }
 }

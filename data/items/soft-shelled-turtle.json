@@ -18,7 +18,11 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3750
-      }
+      },
+      "sources": [
+        "North: Shadows on River, Aug-Sep (4pm-9am)",
+        "South: Shadows on River, Feb-Mar (4pm-9am)"
+      ]
     }
   }
 }

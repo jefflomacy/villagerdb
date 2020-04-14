@@ -18,7 +18,11 @@
       "sellPrice": {
         "currency": "bells",
         "value": 6000
-      }
+      },
+      "sources": [
+        "North: Shadow in Pond, Jun-Sep (4pm-9am)",
+        "South: Shadow in Pond, Dec-Mar (4pm-9am)"
+      ]
     }
   }
 }

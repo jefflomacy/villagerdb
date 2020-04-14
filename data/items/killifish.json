@@ -18,7 +18,11 @@
       "sellPrice": {
         "currency": "bells",
         "value": 300
-      }
+      },
+      "sources": [
+        "North: Shadows in pond, Apr-Aug (All Day)",
+        "South: Shadows in pond, Oct-Feb (All Day)"
+      ]
     }
   }
 }

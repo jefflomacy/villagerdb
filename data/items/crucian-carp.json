@@ -15,6 +15,9 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "River (year round)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 160

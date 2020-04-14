@@ -123,13 +123,13 @@
                         <td class="align-middle">
                             <ul class="list-unstyled">
                                 {{#each bellCost }}
-                                    <li> <span class="fas fa-bell"></span> {{this}} bells</li>
+                                    <li> <span class="fas fa-bell"></span> {{toLocaleString this}} bells</li>
                                 {{/each}}
                                 {{#each meowCost }}
-                                    <li><span class="fas fa-money-bill-wave"></span> {{this}} MEOW coupons</li>
+                                    <li><span class="fas fa-money-bill-wave"></span> {{toLocaleString this}} MEOW coupons</li>
                                 {{/each}}
                                 {{#each milesCost }}
-                                    <li><span class="fas fa-money-bill-wave"></span> {{this}} Nook miles</li>
+                                    <li><span class="fas fa-money-bill-wave"></span> {{toLocaleString this}} Nook miles</li>
                                 {{/each}}
                             </ul>
                         </td>
@@ -143,7 +143,7 @@
                             {{#if sellable }}
                                 <ul class="list-unstyled">
                                     {{#each bellPrice }}
-                                        <li><span class="fas fa-bell"></span> {{this}} bells</li>
+                                        <li><span class="fas fa-bell"></span> {{toLocaleString this}} bells</li>
                                     {{/each}}
                                 </ul>
                             {{else}}

@@ -28,6 +28,7 @@ app.set('views', path.join(__dirname, 'views'));
 const handlebars = hbs.create({
     extname: 'hbs',
     defaultLayout: 'main',
+    helpers: require(__dirname + '/helpers/handlebars'),
     layoutsDir: __dirname + '/views/layouts/',
     partialsDir: __dirname + '/views/partials/',
 });

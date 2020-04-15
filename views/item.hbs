@@ -65,7 +65,7 @@
                     <tr>
                         <td class="bg-light text-dark font-weight-bold align-middle">Recipe</td>
                         <td class="align-middle">
-                            <div>As shown in-game:</div>
+                            <div>Materials to craft {{../pageTitle}} as shown in-game:</div>
                             <ul class="list-unstyled">
                                 {{#each normalRecipe}}
                                     <li>
@@ -79,7 +79,7 @@
                                 {{/each}}
                             </ul>
                             {{#if fullRecipe}}
-                                <div class="mt-2">All required materials:</div>
+                                <div class="mt-2">All required materials to craft {{../pageTitle}}:</div>
                                 <ul class="list-unstyled">
                                     {{#each fullRecipe}}
                                         <li>
@@ -201,3 +201,87 @@
         {{/if}}
     </div>
 </div>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "VillagerDB",
+            "item": "https://villagerdb.com/"
+        },{
+            "@type": "ListItem",
+            "position": 2,
+            "name": "{{category}}",
+            "item": "https://villagerdb.com/items/{{toSlug category}}"
+        },{
+            "@type": "ListItem",
+            "position": 3,
+            "name": "{{pageTitle}}"
+        }]
+    }
+</script>
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+
+    {{#each games}}
+        {{#if buyable}}
+            {{#each bellCost }}
+                {
+                    "@type": "Question",
+                    "name": "How many Bells does {{../../pageTitle}} cost in {{../gameTitle}}?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "{{../../pageTitle}} costs {{toLocaleString this}} bells."
+                    }
+                },
+            {{/each}}
+
+        {{/if}}
+
+        {{#if sellable}}
+            {{#each bellPrice}}
+                {
+                    "@type": "Question",
+                    "name": "How many Bells does {{../../pageTitle}} sell for in {{../gameTitle}}?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+                        "text": "{{../../pageTitle}} sells for {{toLocaleString this}} bells."
+                    }
+                },
+            {{/each}}
+        {{/if}}
+
+        {{#if orderableText}}
+                {
+                    "@type": "Question",
+                    "name": "Can {{pageTitle}} be ordered from the Catalog in {{gameTitle}}?",
+                    "acceptedAnswer": {
+                        "@type": "Answer",
+            {{#ifEquals orderableText "Yes"}}
+                    "text": "Yes, {{../pageTitle}} can be ordered from the Catalog."
+            {{/ifEquals}}{{#ifEquals orderableText "No"}}
+                    "text": "No, {{../pageTitle}} cannot be ordered from the Catalog."
+            {{/ifEquals}}
+                    }
+                },
+        {{/if}}
+
+
+    {{/each}}
+            {
+                "@type": "Question",
+                "name": "What games do {{pageTitle}} appear in?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "{{pageTitle}} appears in Animal Crossing {{gameNamesList games}}."
+                }
+            }
+
+        ]
+    }
+</script>

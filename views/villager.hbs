@@ -144,3 +144,25 @@
 </div>
 
 <div id="personality-data" data-personality="{{ personalityMap }}"></div>
+
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [{
+            "@type": "ListItem",
+            "position": 1,
+            "name": "VillagerDB",
+            "item": "https://villagerdb.com/"
+        },{
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Villagers",
+            "item": "https://villagerdb.com/villagers"
+        },{
+            "@type": "ListItem",
+            "position": 3,
+            "name": "{{pageTitle}}"
+        }]
+    }
+</script>

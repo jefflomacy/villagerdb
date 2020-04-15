@@ -211,6 +211,10 @@ module.exports.getSlug = getSlug;
  * @returns {*}
  */
 function andList(list) {
+    if (typeof list === 'string'){
+        return list;
+    }
+
     if (list.length === 1) {
         return list[0];
     }

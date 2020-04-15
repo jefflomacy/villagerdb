@@ -64,7 +64,7 @@ export default class Paginator extends React.Component {
         }
         return (
             <div className="text-right">
-                <p>Results {this.props.startIndex} - {this.props.endIndex} of {this.props.totalCount}</p>
+                <p>Results {this.props.startIndex} - {this.props.endIndex} of {this.props.totalCount.toLocaleString()}</p>
                 <nav aria-label="page navigation">
                     <ul className="pagination justify-content-end">
                         {previousPageLink}

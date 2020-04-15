@@ -15,12 +15,6 @@
             Create a new list
         </a>
     </div>
-
-    {{#each errors}}
-        <div class="alert alert-danger">
-            {{msg}}
-        </div>
-    {{/each}}
 {{/if}}
 
 {{#if hasLists}}
@@ -52,21 +46,5 @@
 {{/if}}
 
 {{#if isOwnUser}}
-    <h2 class="mt-5">Delete Account</h2>
-    <p>
-        If you wish to remove your account, check the box below and click &quot;Delete Account.&quot; Note that your
-        deleted lists cannot be restored, and your username will no longer be reserved. You can sign back up at any
-        time.
-    </p>
-    <form method="post" action="/auth/delete">
-        <div class="form-group">
-            <div class="form-check">
-                <input type="checkbox" class="form-check-input" name="delete-check" id="delete-check">
-                <label class="form-check-label" for="delete-check">
-                    I wish to delete my account.
-                </label>
-            </div>
-        </div>
-        <button type="submit" name="submit" class="btn btn-danger">Delete Account</button>
-    </form>
+    <p class="mt-4">You can manage your account by clicking <a href="/auth/manage">here</a>.</p>
 {{/if}}

@@ -58,7 +58,7 @@ router.get('/google/redirect', passport.authenticate('google'), (req, res) => {
  */
 router.get('/register', (req, res, next) => {
     if (!res.locals.userState.isLoggedIn) {
-        res.redirect('/login')
+        res.redirect('/login');
     } else {
         users.findUserById(req.user.id)
             .then((user) => {
@@ -183,6 +183,19 @@ router.post('/register-cancel', (req, res, next) => {
     cancelRegistration(req, res, next, '/');
 });
 
+router.get('/manage', (req, res, next) => {
+    if (!res.locals.userState.isLoggedIn) {
+        res.redirect('/login');
+    } else {
+        const data = {};
+        if (req.session && req.session.errors) {
+            data.errors = req.session.errors;
+            req.session.errors = [];
+        }
+        res.render('manage-account', data);
+    }
+});
+
 /**
  * Route to delete user account.
  */
@@ -198,9 +211,9 @@ router.post('/delete',
             // If there were validation errors, stop.
             const errors = validationResult(req);
             if (!errors.isEmpty()) {
-                // Return to profile.
+                // Return to management.
                 req.session.errors = errors.array();
-                res.redirect('/user/' + req.user.username);
+                res.redirect('/auth/manage');
             } else {
                 // Perform deletion and redirect.
                 users.deleteUserById(req.user.id)

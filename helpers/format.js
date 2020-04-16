@@ -228,3 +228,12 @@ function andList(list) {
     return result;
 }
 module.exports.andList = andList;
+
+/**
+ * Turn a number into formatted version, 40000 into 40,000
+ *
+ * @param value
+ * @returns {*}
+ */
+function numberLocale(value){return typeof value==='number'?value.toLocaleString():value;}
+module.exports.numberLocale = numberLocale;

@@ -1,4 +1,5 @@
 import React from "react";
+import {numberLocale} from "../../helpers/format";
 
 /**
  *
@@ -64,7 +65,7 @@ export default class Paginator extends React.Component {
         }
         return (
             <div className="text-right">
-                <p>Results {this.props.startIndex} - {this.props.endIndex} of {this.props.totalCount}</p>
+                <p>Results {numberLocale(this.props.startIndex)} - {numberLocale(this.props.endIndex)} of {numberLocale(this.props.totalCount)}</p>
                 <nav aria-label="page navigation">
                     <ul className="pagination justify-content-end">
                         {previousPageLink}

@@ -3,6 +3,7 @@
   "name": "Wooden Double Bed",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 3600
@@ -12,7 +13,44 @@
           "currency": "bells",
           "value": 14400
         }
-      ]
+      ],
+      "recipe": {
+        "wood": 30
+      },
+      "variations": {
+        "light-wood-orange": "Light wood / Orange",
+        "light-wood-pink": "Light wood / Pink",
+        "light-wood-blue": "Light wood / Blue",
+        "light-wood-green": "Light wood / Green",
+        "white-wood-orange": "White wood / Orange",
+        "white-wood-pink": "White wood / Pink",
+        "white-wood-blue": "White wood / Blue",
+        "white-wood-green": "White wood / Green",
+        "cherry-wood-orange": "Cherry wood / Orange",
+        "cherry-wood-pink": "Cherry wood / Pink",
+        "cherry-wood-blue": "Cherry wood / Blue",
+        "cherry-wood-green": "Cherry wood / Green",
+        "dark-wood-orange": "Dark wood / Orange",
+        "dark-wood-pink": "Dark wood / Pink",
+        "dark-wood-blue": "Dark wood / Blue",
+        "dark-wood-green": "Dark wood / Green",
+        "black-orange": "Black / Orange",
+        "black-pink": "Black / Pink",
+        "black-blue": "Black / Blue",
+        "black-green": "Black / Green",
+        "green-orange": "Green / Orange",
+        "green-pink": "Green / Pink",
+        "green-blue": "Green / Blue",
+        "green-green": "Green / Green",
+        "blue-orange": "Blue / Orange",
+        "blue-pink": "Blue / Pink",
+        "blue-blue": "Blue / Blue",
+        "blue-green": "Blue / Green",
+        "pink-wood-orange": "Pink wood / Orange",
+        "pink-wood-pink": "Pink wood / Pink",
+        "pink-wood-blue": "Pink wood / Blue",
+        "pink-wood-green": "Pink wood / Green"
+      }
     }
   },
   "category": "Furniture"

@@ -12,7 +12,13 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "variations": {
+        "ochre": "Ochre",
+        "green": "Green",
+        "blue": "Blue",
+        "red": "Red"
+      }
     }
   },
   "category": "Tops"

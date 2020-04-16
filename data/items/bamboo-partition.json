@@ -12,6 +12,11 @@
       "recipe": {
         "bamboo-piece": 7,
         "stone": 6
+      },
+      "variations": {
+        "green-bamboo": "Green bamboo",
+        "dried-bamboo": "Dried bamboo",
+        "smoke-cured-bamboo": "Smoke-cured bamboo"
       }
     }
   },

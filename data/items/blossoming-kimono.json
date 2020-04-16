@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 3220
         }
-      ]
+      ],
+      "variations": {
+        "pink": "Pink",
+        "green-tea": "Green tea"
+      }
     }
   },
   "category": "Dresses"

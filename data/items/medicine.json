@@ -16,9 +16,14 @@
       ]
     },
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 100
+      },
+      "recipe": {
+        "wasp-nest": 1,
+        "clump-of-weeds": 3
       }
     }
   }

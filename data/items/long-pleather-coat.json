@@ -12,7 +12,12 @@
           "currency": "bells",
           "value": 1840
         }
-      ]
+      ],
+      "variations": {
+        "black": "Black",
+        "purple": "Purple",
+        "brown": "Brown"
+      }
     }
   },
   "category": "Dresses"

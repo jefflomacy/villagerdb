@@ -12,7 +12,13 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "variations": {
+        "dark-blue": "Dark blue",
+        "aqua": "Aqua",
+        "green": "Green",
+        "mustard": "Mustard"
+      }
     }
   },
   "category": "Dresses"

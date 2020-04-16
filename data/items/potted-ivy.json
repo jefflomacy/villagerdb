@@ -37,7 +37,14 @@
         "value": 1100
       },
       "recipe": {
-        "clump-of-weeds": 5
+        "clump-of-weeds": 5,
+        "clay": 5
+      },
+      "variations": {
+        "light-green": "Light green",
+        "yellow": "Yellow",
+        "red": "Red",
+        "green": "Green"
       }
     }
   }

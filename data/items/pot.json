@@ -11,6 +11,13 @@
       },
       "recipe": {
         "clay": 5
+      },
+      "variations": {
+        "brown": "Brown",
+        "white": "White",
+        "black": "Black",
+        "beige": "Beige",
+        "gray": "Gray"
       }
     }
   },

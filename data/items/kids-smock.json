@@ -32,7 +32,13 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "variations": {
+        "tulip": "Tulip",
+        "chick": "Chick",
+        "cherry-blossom": "Cherry blossom",
+        "frog": "Frog"
+      }
     }
   }
 }

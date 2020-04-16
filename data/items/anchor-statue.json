@@ -3,6 +3,9 @@
   "name": "Anchor Statue",
   "games": {
     "nh": {
+      "sources": [
+        "Fishing tournament prize pool (January, April, July, October)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 1400
@@ -12,7 +15,15 @@
           "currency": "bells",
           "value": 5600
         }
-      ]
+      ],
+      "variations": {
+        "black": "Black",
+        "silver": "Silver",
+        "gold": "Gold",
+        "white": "White",
+        "blue": "Blue",
+        "retro": "Retro"
+      }
     }
   },
   "category": "Furniture"

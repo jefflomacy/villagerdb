@@ -36,6 +36,13 @@
       },
       "recipe": {
         "iron-nugget": 3
+      },
+      "variations": {
+        "silver": "Silver",
+        "bronze": "Bronze",
+        "mountain": "Mountain",
+        "boat": "Boat",
+        "castle": "Castle"
       }
     }
   }

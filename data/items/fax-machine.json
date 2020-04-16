@@ -16,7 +16,25 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "variations": {
+        "white-document": "White / Document",
+        "white-graph": "White / Graph",
+        "white-illustration": "White / Illustration",
+        "white-written-note": "White / Written note",
+        "red-document": "Red / Document",
+        "red-graph": "Red / Graph",
+        "red-illustration": "Red / Illustration",
+        "red-written-note": "Red / Written note",
+        "brown-document": "Brown / Document",
+        "brown-graph": "Brown / Graph",
+        "brown-illustration": "Brown / Illustration",
+        "brown-written-note": "Brown / Written note",
+        "black-document": "Black / Document",
+        "black-graph": "Black / Graph",
+        "black-illustration": "Black / Illustration",
+        "black-written-note": "Black / Written note"
+      }
     }
   },
   "category": "Furniture"

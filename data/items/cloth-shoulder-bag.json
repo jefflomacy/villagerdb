@@ -5,7 +5,7 @@
     "nh": {
       "orderable": true,
       "sources": [
-        "Kick's"
+        "Kicks"
       ],
       "sellPrice": {
         "currency": "bells",
@@ -16,7 +16,12 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "variations": {
+        "blue": "Blue",
+        "orange": "Orange",
+        "ivory": "Ivory"
+      }
     }
   },
   "category": "Accessories"

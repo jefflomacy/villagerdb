@@ -12,7 +12,15 @@
           "currency": "bells",
           "value": 352
         }
-      ]
+      ],
+      "variations": {
+        "striped-house": "Striped house",
+        "stone-house": "Stone house",
+        "brick-house": "Brick house",
+        "fairy-tale-house": "Fairy-tale house",
+        "simple-house": "Simple house",
+        "wood-house": "Wood house"
+      }
     }
   },
   "category": "Furniture"

@@ -16,6 +16,12 @@
         "drinking-fountain": 1,
         "stone": 20,
         "iron-nugget": 8
+      },
+      "variations": {
+        "gray": "Gray",
+        "brown": "Brown",
+        "black": "Black",
+        "white": "White"
       }
     }
   },

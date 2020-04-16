@@ -3,17 +3,12 @@
   "name": "Classic-library Wall",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1450
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 5800
-        }
-      ],
       "recipe": {
         "book": 10
       }

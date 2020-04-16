@@ -15,6 +15,10 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Tiny Shadows in Pond, Apr-Aug (All day)",
+        "South: Tiny Shadows in Pond, Oct-Feb (All day)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 300

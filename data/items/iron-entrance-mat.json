@@ -3,6 +3,9 @@
   "name": "Iron Entrance Mat",
   "games": {
     "nh": {
+      "sources": [
+        "Saharah"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 250

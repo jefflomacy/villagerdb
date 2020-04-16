@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "variations": {
+        "camel": "Camel",
+        "white": "White"
+      }
     }
   },
   "category": "Accessories"

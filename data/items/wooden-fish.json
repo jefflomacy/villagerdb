@@ -11,6 +11,11 @@
       },
       "recipe": {
         "wood": 3
+      },
+      "variations": {
+        "camphor-tree-wood": "Camphor-tree wood",
+        "unfinished-wood": "Unfinished wood",
+        "zelkova-wood": "Zelkova wood"
       }
     }
   },

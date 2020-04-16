@@ -16,7 +16,17 @@
           "currency": "bells",
           "value": 630
         }
-      ]
+      ],
+      "variations": {
+        "red": "Red",
+        "blue": "Blue",
+        "yellow": "Yellow",
+        "white": "White",
+        "red-stripes": "Red stripes",
+        "green-stripes": "Green stripes",
+        "reflective-stripes": "Reflective stripes",
+        "caution-stripes": "Caution stripes"
+      }
     }
   },
   "category": "Furniture"

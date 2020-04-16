@@ -29,6 +29,12 @@
       "recipe": {
         "wood": 2,
         "softwood": 2
+      },
+      "variations": {
+        "spring": "Spring",
+        "summer": "Summer",
+        "fall": "Fall",
+        "winter": "Winter"
       }
     }
   }

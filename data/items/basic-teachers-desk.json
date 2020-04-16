@@ -28,7 +28,12 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "variations": {
+        "standard": "Standard",
+        "wooden": "Wooden",
+        "monotone": "Monotone"
+      }
     }
   }
 }

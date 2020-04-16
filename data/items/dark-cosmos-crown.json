@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 13440
         }
-      ]
+      ],
+      "variations": {
+        "dark-red": "Dark red"
+      }
     }
   },
   "category": "Hats"

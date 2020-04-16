@@ -3,6 +3,7 @@
   "name": "Fishing Waders",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 500
@@ -12,7 +13,13 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "variations": {
+        "avocado": "Avocado",
+        "orange": "Orange",
+        "navy-blue": "Navy blue",
+        "gray": "Gray"
+      }
     }
   },
   "category": "Dresses"

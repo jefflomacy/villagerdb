@@ -29,6 +29,16 @@
         "rusted-part": 30,
         "iron-nugget": 90,
         "gold-nugget": 10
+      },
+      "variations": {
+        "red": "Red",
+        "blue": "Blue",
+        "yellow": "Yellow",
+        "green": "Green",
+        "pink": "Pink",
+        "white": "White",
+        "black": "Black",
+        "gray": "Gray"
       }
     }
   }

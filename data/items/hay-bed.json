@@ -11,6 +11,11 @@
       },
       "recipe": {
         "clump-of-weeds": 20
+      },
+      "variations": {
+        "brown": "Brown",
+        "pale-green": "Pale green",
+        "green": "Green"
       }
     }
   },

@@ -13,6 +13,11 @@
         "clay": 8,
         "wood": 5,
         "flimsy-shovel": 1
+      },
+      "variations": {
+        "red": "Red",
+        "white": "White",
+        "gray": "Gray"
       }
     }
   },

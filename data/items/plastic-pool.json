@@ -16,7 +16,15 @@
           "currency": "bells",
           "value": 3100
         }
-      ]
+      ],
+      "variations": {
+        "blue": "Blue",
+        "pink": "Pink",
+        "green": "Green",
+        "orange": "Orange",
+        "colorful": "Colorful",
+        "polka-dots": "Polka dots"
+      }
     }
   },
   "category": "Furniture"

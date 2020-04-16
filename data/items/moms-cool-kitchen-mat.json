@@ -3,6 +3,9 @@
   "name": "Mom's Cool Kitchen Mat",
   "games": {
     "nh": {
+      "sources": [
+        "In the mail"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 88

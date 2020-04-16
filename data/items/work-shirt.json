@@ -32,7 +32,14 @@
           "currency": "bells",
           "value": 1040
         }
-      ]
+      ],
+      "variations": {
+        "red-striped-necktie": "Red-striped necktie",
+        "blue-striped-necktie": "Blue-striped necktie",
+        "purple-striped-necktie": "Purple-striped necktie",
+        "green-striped-necktie": "Green-striped necktie",
+        "white-striped-necktie": "White-striped necktie"
+      }
     }
   }
 }

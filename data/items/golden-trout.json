@@ -4,6 +4,10 @@
   "games": {
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Medium Shadows on Clifftop Rivers, Mar-May and Sep-Nov (4pm-9am)",
+        "South: Medium Shadows on Clifftop Rivers, Mar-May and Sep-Nov (4pm-9am)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 15000

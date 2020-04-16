@@ -23,6 +23,7 @@
       ]
     },
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 2325
@@ -32,7 +33,41 @@
           "currency": "bells",
           "value": 9300
         }
-      ]
+      ],
+      "variations": {
+        "black": "Black",
+        "black-familiar-logo": "Black / Familiar logo",
+        "black-chic-logo": "Black / Chic logo",
+        "black-rock-logo": "Black / Rock logo",
+        "black-emblem-logo": "Black / Emblem logo",
+        "black-handwritten-logo": "Black / Handwritten logo",
+        "black-pop-logo": "Black / Pop logo",
+        "black-cute-logo": "Black / Cute logo",
+        "white": "White",
+        "white-familiar-logo": "White / Familiar logo",
+        "white-chic-logo": "White / Chic logo",
+        "white-rock-logo": "White / Rock logo",
+        "white-emblem-logo": "White / Emblem logo",
+        "white-handwritten-logo": "White / Handwritten logo",
+        "white-pop-logo": "White / Pop logo",
+        "white-cute-logo": "White / Cute logo",
+        "brown": "Brown",
+        "brown-familiar-logo": "Brown / Familiar logo",
+        "brown-chic-logo": "Brown / Chic logo",
+        "brown-rock-logo": "Brown / Rock logo",
+        "brown-emblem-logo": "Brown / Emblem logo",
+        "brown-handwritten-logo": "Brown / Handwritten logo",
+        "brown-pop-logo": "Brown / Pop logo",
+        "brown-cute-logo": "Brown / Cute logo",
+        "pink": "Pink",
+        "pink-familiar-logo": "Pink / Familiar logo",
+        "pink-chic-logo": "Pink / Chic logo",
+        "pink-rock-logo": "Pink / Rock logo",
+        "pink-emblem-logo": "Pink / Emblem logo",
+        "pink-handwritten-logo": "Pink / Handwritten logo",
+        "pink-pop-logo": "Pink / Pop logo",
+        "pink-cute-logo": "Pink / Cute logo"
+      }
     }
   }
 }

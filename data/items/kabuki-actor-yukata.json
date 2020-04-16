@@ -12,7 +12,12 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "variations": {
+        "fuchsia": "Fuchsia",
+        "dark-blue": "Dark blue",
+        "gray": "Gray"
+      }
     }
   },
   "category": "Dresses"

@@ -3,6 +3,7 @@
   "name": "Chocolate Herringbone Wall",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1800
@@ -12,7 +13,10 @@
           "currency": "bells",
           "value": 7200
         }
-      ]
+      ],
+      "recipe": {
+        "softwood": 15
+      }
     }
   },
   "category": "Wallpaper"

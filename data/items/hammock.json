@@ -37,7 +37,37 @@
           "currency": "bells",
           "value": 1300
         }
-      ]
+      ],
+      "variations": {
+        "brown-colorful": "Brown / Colorful",
+        "brown-camouflage": "Brown / Camouflage",
+        "brown-hibiscus-flowers": "Brown / Hibiscus flowers",
+        "brown-white": "Brown / White",
+        "light-brown-colorful": "Light brown / Colorful",
+        "light-brown-camouflage": "Light brown / Camouflage",
+        "light-brown-hibiscus-flowers": "Light brown / Hibiscus flowers",
+        "light-brown-white": "Light brown / White",
+        "yellow-colorful": "Yellow / Colorful",
+        "yellow-camouflage": "Yellow / Camouflage",
+        "yellow-hibiscus-flowers": "Yellow / Hibiscus flowers",
+        "yellow-white": "Yellow / White",
+        "blue-colorful": "Blue / Colorful",
+        "blue-camouflage": "Blue / Camouflage",
+        "blue-hibiscus-flowers": "Blue / Hibiscus flowers",
+        "blue-white": "Blue / White",
+        "pink-colorful": "Pink / Colorful",
+        "pink-camouflage": "Pink / Camouflage",
+        "pink-hibiscus-flowers": "Pink / Hibiscus flowers",
+        "pink-white": "Pink / White",
+        "white-colorful": "White / Colorful",
+        "white-camouflage": "White / Camouflage",
+        "white-hibiscus-flowers": "White / Hibiscus flowers",
+        "white-white": "White / White",
+        "black-colorful": "Black / Colorful",
+        "black-camouflage": "Black / Camouflage",
+        "black-hibiscus-flowers": "Black / Hibiscus flowers",
+        "black-white": "Black / White"
+      }
     }
   }
 }

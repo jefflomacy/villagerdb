@@ -15,6 +15,10 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Huge Shadows at Sea, Jul-Aug (4am-9pm)",
+        "South: Huge Shadows at Sea, Jan-Feb (4am-9pm)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 10000

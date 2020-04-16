@@ -3,20 +3,21 @@
   "name": "Key Holder",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1110
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 4440
-        }
-      ],
       "recipe": {
         "wood": 3,
         "iron-nugget": 1
+      },
+      "variations": {
+        "dark-wood": "Dark wood",
+        "brown-wood": "Brown wood",
+        "white": "White",
+        "black": "Black"
       }
     }
   },

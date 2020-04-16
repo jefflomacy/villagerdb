@@ -12,6 +12,12 @@
       "recipe": {
         "iron-nugget": 2,
         "clay": 6
+      },
+      "variations": {
+        "green": "Green",
+        "black": "Black",
+        "silver": "Silver",
+        "brown": "Brown"
       }
     }
   },

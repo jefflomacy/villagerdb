@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "variations": {
+        "pink": "Pink",
+        "red": "Red"
+      }
     }
   },
   "category": "Tops"

@@ -40,6 +40,12 @@
         "empty-can": 1,
         "boot": 1,
         "old-tire": 1
+      },
+      "variations": {
+        "black": "Black",
+        "white": "White",
+        "blue": "Blue",
+        "yellow": "Yellow"
       }
     }
   }

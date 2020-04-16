@@ -4,6 +4,9 @@
   "games": {
     "nh": {
       "orderable": true,
+      "sources": [
+        "Nook's Cranny (upgraded)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 7750
@@ -13,7 +16,12 @@
           "currency": "bells",
           "value": 31000
         }
-      ]
+      ],
+      "variations": {
+        "brown": "Brown",
+        "natural": "Natural",
+        "black": "Black"
+      }
     }
   },
   "category": "Furniture"

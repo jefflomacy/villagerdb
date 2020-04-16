@@ -13,7 +13,13 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "variations": {
+        "plain": "Plain",
+        "vanilla-flavored": "Vanilla flavored",
+        "cocoa-flavored": "Cocoa flavored",
+        "strawberry-flavored": "Strawberry flavored"
+      }
     }
   },
   "category": "Furniture"

@@ -9,16 +9,13 @@
         "currency": "bells",
         "value": 1280
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 5120
-        }
-      ],
       "recipe": {
         "blue-hyacinths": 4,
         "pink-hyacinths": 2,
         "orange-hyacinths": 2
+      },
+      "variations": {
+        "blue": "Blue"
       }
     }
   },

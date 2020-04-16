@@ -36,7 +36,14 @@
           "currency": "bells",
           "value": 770
         }
-      ]
+      ],
+      "variations": {
+        "avocado": "Avocado",
+        "beige": "Beige",
+        "navy-blue": "Navy blue",
+        "mustard": "Mustard",
+        "brown": "Brown"
+      }
     }
   }
 }

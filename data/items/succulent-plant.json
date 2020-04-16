@@ -30,7 +30,7 @@
     },
     "nh": {
       "orderable": false,
-      "customizable": true,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 220

@@ -3,16 +3,24 @@
   "name": "Modeling Clay",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 400
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 1600
-        }
-      ]
+      "recipe": {
+        "clay": 2
+      },
+      "variations": {
+        "beginning-stages": "Beginning stages",
+        "dinosaur": "Dinosaur",
+        "cake": "Cake",
+        "colorful-dinosaur": "Colorful dinosaur",
+        "colorful-cake": "Colorful cake",
+        "clay-dinosaur": "Clay dinosaur",
+        "clay-cake": "Clay cake"
+      }
     }
   },
   "category": "Furniture"

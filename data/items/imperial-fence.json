@@ -3,9 +3,15 @@
   "name": "Imperial Fence",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 120
+      },
+      "recipe": {
+        "wood": 6,
+        "softwood": 4
       }
     }
   },

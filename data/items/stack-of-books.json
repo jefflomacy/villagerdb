@@ -33,7 +33,16 @@
           "currency": "bells",
           "value": 2900
         }
-      ]
+      ],
+      "recipe": {
+        "book": 5
+      },
+      "variations": {
+        "literature": "Literature",
+        "comics": "Comics",
+        "reference": "Reference",
+        "old": "Old"
+      }
     }
   }
 }

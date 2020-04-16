@@ -16,7 +16,10 @@
           "currency": "miles",
           "value": 800
         }
-      ]
+      ],
+      "variations": {
+        "brown": "Brown"
+      }
     }
   },
   "category": "Accessories"

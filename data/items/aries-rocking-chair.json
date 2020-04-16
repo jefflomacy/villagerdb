@@ -26,12 +26,6 @@
         "currency": "bells",
         "value": 12125
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 48500
-        }
-      ],
       "recipe": {
         "star-fragment": 3,
         "aries-fragment": 2,

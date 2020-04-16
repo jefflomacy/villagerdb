@@ -3,16 +3,19 @@
   "name": "Iron Worktable",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 7500
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 30000
-        }
-      ]
+      "recipe": {
+        "iron-nugget": 10
+      },
+      "variations": {
+        "black": "Black",
+        "white": "White"
+      }
     }
   },
   "category": "Furniture"

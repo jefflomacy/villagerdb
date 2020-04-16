@@ -12,7 +12,16 @@
           "currency": "bells",
           "value": 32800
         }
-      ]
+      ],
+      "variations": {
+        "ice": "Ice",
+        "ice-blue": "Ice blue",
+        "ice-pink": "Ice pink",
+        "ice-yellow": "Ice yellow",
+        "ice-orange": "Ice orange",
+        "ice-green": "Ice green",
+        "ice-purple": "Ice purple"
+      }
     }
   },
   "category": "Furniture"

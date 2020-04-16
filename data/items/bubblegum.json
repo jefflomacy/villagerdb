@@ -16,7 +16,14 @@
           "currency": "bells",
           "value": 140
         }
-      ]
+      ],
+      "variations": {
+        "pink": "Pink",
+        "blue": "Blue",
+        "yellow": "Yellow",
+        "green": "Green",
+        "white": "White"
+      }
     }
   },
   "category": "Accessories"

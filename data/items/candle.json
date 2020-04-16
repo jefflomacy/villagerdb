@@ -33,7 +33,14 @@
           "currency": "bells",
           "value": 600
         }
-      ]
+      ],
+      "variations": {
+        "gold": "Gold",
+        "silver": "Silver",
+        "copper": "Copper",
+        "black": "Black",
+        "white": "White"
+      }
     }
   }
 }

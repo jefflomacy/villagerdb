@@ -3,6 +3,9 @@
   "name": "Cargo Shorts",
   "games": {
     "nh": {
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 270
@@ -12,7 +15,14 @@
           "currency": "bells",
           "value": 1080
         }
-      ]
+      ],
+      "variations": {
+        "beige": "Beige",
+        "navy-blue": "Navy blue",
+        "avocado": "Avocado",
+        "camel": "Camel",
+        "brown": "Brown"
+      }
     }
   },
   "category": "Bottoms"

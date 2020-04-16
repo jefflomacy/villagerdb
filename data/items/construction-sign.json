@@ -4,9 +4,25 @@
   "games": {
     "nh": {
       "orderable": true,
+      "sources": [
+        "Nook Miles System"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 5000
+      },
+      "buyPrices": [
+        {
+          "currency": "miles",
+          "value": 1000
+        }
+      ],
+      "variations": {
+        "ongoing-work": "Ongoing work",
+        "ongoing-work-little-bro": "Ongoing work - Little bro",
+        "ongoing-work-big-bro": "Ongoing work - Big bro",
+        "construction-ahead": "Construction ahead",
+        "construction-warning": "Construction warning"
       }
     }
   },

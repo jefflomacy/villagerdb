@@ -3,6 +3,9 @@
   "name": "Fish-print Tee",
   "games": {
     "nh": {
+      "sources": [
+        "Fishing Tournament prize pool (January, April, July, October)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 160
@@ -12,7 +15,10 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "variations": {
+        "avocado": "Avocado"
+      }
     }
   },
   "category": "Tops"

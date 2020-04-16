@@ -12,7 +12,14 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "variations": {
+        "navy-blue": "Navy blue",
+        "peacock-blue": "Peacock blue",
+        "beige": "Beige",
+        "greige": "Greige",
+        "moss-green": "Moss green"
+      }
     }
   },
   "category": "Dresses"

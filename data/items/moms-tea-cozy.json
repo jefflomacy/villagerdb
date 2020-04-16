@@ -13,7 +13,15 @@
           "currency": "bells",
           "value": 352
         }
-      ]
+      ],
+      "variations": {
+        "patterned": "Patterned",
+        "green-white": "Green & white",
+        "floral": "Floral",
+        "pink": "Pink",
+        "blue-cat": "Blue cat",
+        "blue-gray": "Blue & gray"
+      }
     }
   },
   "category": "Furniture"

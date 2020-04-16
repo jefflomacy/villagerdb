@@ -14,6 +14,16 @@
         "hardwood": 3,
         "softwood": 3,
         "iron-nugget": 2
+      },
+      "variations": {
+        "natural": "Natural",
+        "brown": "Brown",
+        "ash-brown": "Ash brown",
+        "gray": "Gray",
+        "yellow": "Yellow",
+        "green": "Green",
+        "blue": "Blue",
+        "pink": "Pink"
       }
     }
   },

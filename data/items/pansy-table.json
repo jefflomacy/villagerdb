@@ -27,6 +27,11 @@
       "recipe": {
         "yellow-pansies": 5,
         "hardwood": 3
+      },
+      "variations": {
+        "yellow": "Yellow",
+        "red": "Red",
+        "white": "White"
       }
     }
   }

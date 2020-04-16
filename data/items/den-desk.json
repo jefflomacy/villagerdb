@@ -16,7 +16,14 @@
           "currency": "bells",
           "value": 10000
         }
-      ]
+      ],
+      "variations": {
+        "dark-wood": "Dark wood",
+        "brown-wood": "Brown wood",
+        "red-wood": "Red wood",
+        "natural-wood": "Natural wood",
+        "white": "White"
+      }
     }
   },
   "category": "Furniture"

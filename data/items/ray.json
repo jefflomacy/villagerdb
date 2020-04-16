@@ -15,6 +15,10 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Very Large Shadows at Sea, Aug-Nov (4am-9pm)",
+        "South: Very Large Shadows at Sea, Feb-May (4am-9pm)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 3000

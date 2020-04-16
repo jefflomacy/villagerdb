@@ -3,6 +3,9 @@
   "name": "Foldover-top Backpack",
   "games": {
     "nh": {
+      "sources": [
+        "Kicks"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 325
@@ -12,7 +15,13 @@
           "currency": "bells",
           "value": 1300
         }
-      ]
+      ],
+      "variations": {
+        "green": "Green",
+        "blue": "Blue",
+        "gray": "Gray",
+        "pink": "Pink"
+      }
     }
   },
   "category": "Accessories"

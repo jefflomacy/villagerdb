@@ -37,7 +37,49 @@
           "currency": "bells",
           "value": 5100
         }
-      ]
+      ],
+      "variations": {
+        "white": "White",
+        "white-cute": "White / Cute",
+        "white-rock": "White / Rock",
+        "white-fruits": "White / Fruits",
+        "white-notices": "White / Notices",
+        "red": "Red",
+        "red-cute": "Red / Cute",
+        "red-rock": "Red / Rock",
+        "red-fruits": "Red / Fruits",
+        "red-notices": "Red / Notices",
+        "pink": "Pink",
+        "pink-cute": "Pink / Cute",
+        "pink-rock": "Pink / Rock",
+        "pink-fruits": "Pink / Fruits",
+        "pink-notices": "Pink / Notices",
+        "yellow": "Yellow",
+        "yellow-cute": "Yellow / Cute",
+        "yellow-rock": "Yellow / Rock",
+        "yellow-fruits": "Yellow / Fruits",
+        "yellow-notices": "Yellow / Notices",
+        "blue": "Blue",
+        "blue-cute": "Blue / Cute",
+        "blue-rock": "Blue / Rock",
+        "blue-fruits": "Blue / Fruits",
+        "blue-notices": "Blue / Notices",
+        "brown": "Brown",
+        "brown-cute": "Brown / Cute",
+        "brown-rock": "Brown / Rock",
+        "brown-fruits": "Brown / Fruits",
+        "brown-notices": "Brown / Notices",
+        "black": "Black",
+        "black-cute": "Black / Cute",
+        "black-rock": "Black / Rock",
+        "black-fruits": "Black / Fruits",
+        "black-notices": "Black / Notices",
+        "silver": "Silver",
+        "silver-cute": "Silver / Cute",
+        "silver-rock": "Silver / Rock",
+        "silver-fruits": "Silver / Fruits",
+        "silver-notices": "Silver / Notices"
+      }
     }
   }
 }

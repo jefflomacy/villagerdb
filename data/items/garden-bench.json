@@ -12,6 +12,14 @@
       "recipe": {
         "wood": 12,
         "iron-nugget": 4
+      },
+      "variations": {
+        "black": "Black",
+        "green": "Green",
+        "navy-blue": "Navy blue",
+        "red": "Red",
+        "silver": "Silver",
+        "white": "White"
       }
     }
   },

@@ -13,7 +13,15 @@
           "currency": "bells",
           "value": 650
         }
-      ]
+      ],
+      "variations": {
+        "colorful": "Colorful",
+        "pastel": "Pastel",
+        "boating-stripes": "Boating stripes",
+        "orange-black": "Orange & black",
+        "pop": "Pop",
+        "gorgeous": "Gorgeous"
+      }
     }
   },
   "category": "Furniture"

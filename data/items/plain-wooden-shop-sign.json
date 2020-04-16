@@ -11,6 +11,20 @@
       },
       "recipe": {
         "wood": 6
+      },
+      "variations": {
+        "natural-pet": "Natural / Pet",
+        "natural-wanted": "Natural / Wanted",
+        "natural-ad": "Natural / Ad",
+        "natural-warning": "Natural / Warning",
+        "white-pet": "White / Pet",
+        "white-wanted": "White / Wanted",
+        "white-ad": "White / Ad",
+        "white-warning": "White / Warning",
+        "dark-wood-pet": "Dark wood / Pet",
+        "dark-wood-wanted": "Dark wood / Wanted",
+        "dark-wood-ad": "Dark wood / Ad",
+        "dark-wood-warning": "Dark wood / Warning"
       }
     }
   },

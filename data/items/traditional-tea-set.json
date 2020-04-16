@@ -17,7 +17,12 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "variations": {
+        "plain": "Plain",
+        "goldfish": "Goldfish",
+        "floral": "Floral"
+      }
     }
   },
   "category": "Furniture"

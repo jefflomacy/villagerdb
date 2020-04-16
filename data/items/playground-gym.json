@@ -3,16 +3,27 @@
   "name": "Playground Gym",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Miles System"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 15000
       },
       "buyPrices": [
         {
-          "currency": "bells",
-          "value": 60000
+          "currency": "miles",
+          "value": 3000
         }
-      ]
+      ],
+      "variations": {
+        "colorful": "Colorful",
+        "monotone": "Monotone",
+        "red": "Red",
+        "blue": "Blue",
+        "green": "Green"
+      }
     }
   },
   "category": "Furniture"

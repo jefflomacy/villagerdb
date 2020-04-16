@@ -3,6 +3,7 @@
   "name": "Magazine Rack",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 690
@@ -12,7 +13,69 @@
           "currency": "bells",
           "value": 2760
         }
-      ]
+      ],
+      "recipe": {
+        "magazine": 2,
+        "wood": 4
+      },
+      "variations": {
+        "natural-cafe": "Natural / Café",
+        "natural-travel": "Natural / Travel",
+        "natural-fashion": "Natural / Fashion",
+        "natural-sports": "Natural / Sports",
+        "natural-comics": "Natural / Comics",
+        "natural-kids": "Natural / Kids",
+        "natural-weekly-news": "Natural / Weekly news",
+        "orange-cafe": "Orange / Café",
+        "orange-travel": "Orange / Travel",
+        "orange-fashion": "Orange / Fashion",
+        "orange-sports": "Orange / Sports",
+        "orange-comics": "Orange / Comics",
+        "orange-kids": "Orange / Kids",
+        "orange-weekly-news": "Orange / Weekly news",
+        "brown-cafe": "Brown / Café",
+        "brown-travel": "Brown / Travel",
+        "brown-fashion": "Brown / Fashion",
+        "brown-sports": "Brown / Sports",
+        "brown-comics": "Brown / Comics",
+        "brown-kids": "Brown / Kids",
+        "brown-weekly-news": "Brown / Weekly news",
+        "white-cafe": "White / Café",
+        "white-travel": "White / Travel",
+        "white-fashion": "White / Fashion",
+        "white-sports": "White / Sports",
+        "white-comics": "White / Comics",
+        "white-kids": "White / Kids",
+        "white-weekly-news": "White / Weekly news",
+        "black-cafe": "Black / Café",
+        "black-travel": "Black / Travel",
+        "black-fashion": "Black / Fashion",
+        "black-sports": "Black / Sports",
+        "black-comics": "Black / Comics",
+        "black-kids": "Black / Kids",
+        "black-weekly-news": "Black / Weekly news",
+        "yellow-cafe": "Yellow / Café",
+        "yellow-travel": "Yellow / Travel",
+        "yellow-fashion": "Yellow / Fashion",
+        "yellow-sports": "Yellow / Sports",
+        "yellow-comics": "Yellow / Comics",
+        "yellow-kids": "Yellow / Kids",
+        "yellow-weekly-news": "Yellow / Weekly news",
+        "green-cafe": "Green / Café",
+        "green-travel": "Green / Travel",
+        "green-fashion": "Green / Fashion",
+        "green-sports": "Green / Sports",
+        "green-comics": "Green / Comics",
+        "green-kids": "Green / Kids",
+        "green-weekly-news": "Green / Weekly news",
+        "red-cafe": "Red / Café",
+        "red-travel": "Red / Travel",
+        "red-fashion": "Red / Fashion",
+        "red-sports": "Red / Sports",
+        "red-comics": "Red / Comics",
+        "red-kids": "Red / Kids",
+        "red-weekly-news": "Red / Weekly news"
+      }
     }
   },
   "category": "Furniture"

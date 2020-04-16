@@ -33,7 +33,15 @@
           "currency": "bells",
           "value": 880
         }
-      ]
+      ],
+      "variations": {
+        "geometric-pattern": "Geometric pattern",
+        "animal": "Animal",
+        "floral": "Floral",
+        "fairy-tale": "Fairy tale",
+        "bird": "Bird",
+        "snow": "Snow"
+      }
     }
   }
 }

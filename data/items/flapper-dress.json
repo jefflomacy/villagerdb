@@ -12,7 +12,14 @@
           "currency": "bells",
           "value": 2600
         }
-      ]
+      ],
+      "variations": {
+        "silver": "Silver",
+        "gold": "Gold",
+        "black": "Black",
+        "pink": "Pink",
+        "green": "Green"
+      }
     }
   },
   "category": "Dresses"

@@ -41,7 +41,14 @@
           "currency": "bells",
           "value": 1900
         }
-      ]
+      ],
+      "variations": {
+        "red-brick": "Red brick",
+        "mosaic-tile": "Mosaic tile",
+        "wooden": "Wooden",
+        "concrete": "Concrete",
+        "stainless": "Stainless"
+      }
     }
   }
 }

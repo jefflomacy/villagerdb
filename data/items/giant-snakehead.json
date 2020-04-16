@@ -15,6 +15,10 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Very Large Shadows in Pond, Jun-Aug (9am-4pm)",
+        "South: Very Large Shadows in Pond, Dec-Feb (9am-4pm)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 5500

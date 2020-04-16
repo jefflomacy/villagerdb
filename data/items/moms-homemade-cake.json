@@ -10,6 +10,14 @@
       "sellPrice": {
         "currency": "bells",
         "value": 88
+      },
+      "variations": {
+        "cat": "Cat",
+        "strawberry-flowers": "Strawberry & flowers",
+        "carrot": "Carrot",
+        "dog": "Dog",
+        "bird": "Bird",
+        "chocolate": "Chocolate"
       }
     }
   },

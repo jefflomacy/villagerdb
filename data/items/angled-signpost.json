@@ -3,20 +3,25 @@
   "name": "Angled Signpost",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 600
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 2400
-        }
-      ],
       "recipe": {
         "hardwood": 2,
         "softwood": 3
+      },
+      "variations": {
+        "home": "Home",
+        "forest": "Forest",
+        "fishing-spot": "Fishing Spot",
+        "resident-services": "Resident Services",
+        "airport": "Airport",
+        "shop": "Shop",
+        "tailors": "Tailors",
+        "museum": "Museum"
       }
     }
   },

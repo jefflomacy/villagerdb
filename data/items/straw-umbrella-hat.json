@@ -35,7 +35,13 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "recipe": {
+        "clump-of-weeds": 10
+      },
+      "variations": {
+        "brown": "Brown"
+      }
     }
   }
 }

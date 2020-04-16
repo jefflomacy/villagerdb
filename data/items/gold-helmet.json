@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 200000
         }
-      ]
+      ],
+      "variations": {
+        "gold": "Gold"
+      }
     }
   },
   "category": "Hats"

@@ -12,6 +12,14 @@
       },
       "recipe": {
         "iron-nugget": 2
+      },
+      "variations": {
+        "empty": "Empty",
+        "veggie-saute": "Veggie sauté",
+        "pasta": "Pasta",
+        "ratatouille": "Ratatouille",
+        "pizza": "Pizza",
+        "failed-attempt": "Failed attempt"
       }
     },
     "nl": {

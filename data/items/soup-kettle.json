@@ -16,7 +16,17 @@
           "currency": "bells",
           "value": 3300
         }
-      ]
+      ],
+      "variations": {
+        "corn-soup": "Corn soup",
+        "cream-stew": "Cream stew",
+        "curry": "Curry",
+        "minestrone": "Minestrone",
+        "borscht": "Borscht",
+        "green-curry": "Green curry",
+        "hot-and-sour-soup": "Hot-and-sour soup",
+        "congee": "Congee"
+      }
     }
   },
   "category": "Furniture"

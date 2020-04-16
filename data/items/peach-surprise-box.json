@@ -12,6 +12,10 @@
       "recipe": {
         "peach": 10,
         "softwood": 4
+      },
+      "variations": {
+        "white-peach": "White peach",
+        "yellow-peach": "Yellow peach"
       }
     }
   },

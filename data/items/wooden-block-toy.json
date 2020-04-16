@@ -11,6 +11,13 @@
       },
       "recipe": {
         "softwood": 3
+      },
+      "variations": {
+        "natural": "Natural",
+        "mixed-wood": "Mixed wood",
+        "colorful": "Colorful",
+        "pastel": "Pastel",
+        "vivid": "Vivid"
       }
     }
   },

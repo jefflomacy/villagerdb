@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 1250
         }
-      ]
+      ],
+      "variations": {
+        "green": "Green",
+        "purple": "Purple"
+      }
     }
   },
   "category": "Accessories"

@@ -3,6 +3,9 @@
   "name": "Blue Vinyl Sheet",
   "games": {
     "nh": {
+      "sources": [
+        "Saharah"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 375

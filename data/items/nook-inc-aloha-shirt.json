@@ -16,7 +16,10 @@
           "currency": "miles",
           "value": 600
         }
-      ]
+      ],
+      "variations": {
+        "ivory": "Ivory"
+      }
     }
   },
   "category": "Tops"

@@ -3,19 +3,15 @@
   "name": "Peach Rug",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Villagers (recipe)"
       ],
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1200
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 4800
-        }
-      ],
       "recipe": {
         "peach": 6
       }

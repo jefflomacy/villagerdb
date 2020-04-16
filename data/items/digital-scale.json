@@ -16,7 +16,44 @@
           "currency": "bells",
           "value": 930
         }
-      ]
+      ],
+      "variations": {
+        "white-white": "White / White",
+        "white-floral": "White / Floral",
+        "white-polka-dots": "White / Polka dots",
+        "white-black-stripes": "White / Black stripes",
+        "white-wood": "White / Wood",
+        "black-white": "Black / White",
+        "black-floral": "Black / Floral",
+        "black-polka-dots": "Black / Polka dots",
+        "black-black-stripes": "Black / Black stripes",
+        "black-wood": "Black / Wood",
+        "red-white": "Red / White",
+        "red-floral": "Red / Floral",
+        "red-polka-dots": "Red / Polka dots",
+        "red-black-stripes": "Red / Black stripes",
+        "red-wood": "Red / Wood",
+        "blue-white": "Blue / White",
+        "blue-floral": "Blue / Floral",
+        "blue-polka-dots": "Blue / Polka dots",
+        "blue-black-stripes": "Blue / Black stripes",
+        "blue-wood": "Blue / Wood",
+        "yellow-white": "Yellow / White",
+        "yellow-floral": "Yellow / Floral",
+        "yellow-polka-dots": "Yellow / Polka dots",
+        "yellow-black-stripes": "Yellow / Black stripes",
+        "yellow-wood": "Yellow / Wood",
+        "green-white": "Green / White",
+        "green-floral": "Green / Floral",
+        "green-polka-dots": "Green / Polka dots",
+        "green-black-stripes": "Green / Black stripes",
+        "green-wood": "Green / Wood",
+        "brown-white": "Brown / White",
+        "brown-floral": "Brown / Floral",
+        "brown-polka-dots": "Brown / Polka dots",
+        "brown-black-stripes": "Brown / Black stripes",
+        "brown-wood": "Brown / Wood"
+      }
     }
   },
   "category": "Furniture"

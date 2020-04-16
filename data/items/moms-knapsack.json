@@ -3,16 +3,24 @@
   "name": "Mom's Knapsack",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "In the mail"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 175
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 700
-        }
-      ]
+      "variations": {
+        "m": "M",
+        "flowers": "Flowers",
+        "polka-dots": "Polka dots",
+        "colorful-quilt-design": "Colorful quilt design",
+        "cherries": "Cherries",
+        "denim-with-stripes": "Denim with stripes",
+        "forest-print": "Forest print",
+        "chick": "Chick"
+      }
     }
   },
   "category": "Accessories"

@@ -12,7 +12,14 @@
           "currency": "bells",
           "value": 3840
         }
-      ]
+      ],
+      "recipe": {
+        "orange-pansies": 3,
+        "blue-pansies": 3
+      },
+      "variations": {
+        "colorful": "Colorful"
+      }
     }
   },
   "category": "Hats"

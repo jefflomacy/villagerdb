@@ -4,6 +4,10 @@
   "games": {
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Large Shadows on River, Apr-Oct (9pm-4am)",
+        "South: Large Shadows on River, Oct-Apr (9pm-4am)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 5000

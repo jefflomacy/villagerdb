@@ -26,6 +26,7 @@
     },
     "nh": {
       "orderable": true,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 195
@@ -35,7 +36,24 @@
           "currency": "bells",
           "value": 780
         }
-      ]
+      ],
+      "variations": {
+        "natural-wood-plain": "Natural wood / Plain",
+        "natural-wood-spring": "Natural wood / Spring",
+        "natural-wood-summer": "Natural wood / Summer",
+        "natural-wood-fall": "Natural wood / Fall",
+        "natural-wood-winter": "Natural wood / Winter",
+        "dark-wood-plain": "Dark wood / Plain",
+        "dark-wood-spring": "Dark wood / Spring",
+        "dark-wood-summer": "Dark wood / Summer",
+        "dark-wood-fall": "Dark wood / Fall",
+        "dark-wood-winter": "Dark wood / Winter",
+        "orange-wood-plain": "Orange wood / Plain",
+        "orange-wood-spring": "Orange wood / Spring",
+        "orange-wood-summer": "Orange wood / Summer",
+        "orange-wood-fall": "Orange wood / Fall",
+        "orange-wood-winter": "Orange wood / Winter"
+      }
     }
   }
 }

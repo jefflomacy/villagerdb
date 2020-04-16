@@ -16,7 +16,13 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "variations": {
+        "black": "Black",
+        "red": "Red",
+        "yellow": "Yellow",
+        "blue": "Blue"
+      }
     }
   },
   "category": "Furniture"

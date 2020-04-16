@@ -16,7 +16,13 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "variations": {
+        "alphabet": "Alphabet",
+        "multiplication-tables": "Multiplication tables",
+        "periodic-table": "Periodic table",
+        "constellations": "Constellations"
+      }
     }
   },
   "category": "Furniture"

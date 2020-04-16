@@ -18,16 +18,14 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Near rotten food on the ground (year round)",
+        "South: Near rotten food on the ground (year round)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 80
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 320
-        }
-      ]
+      }
     }
   }
 }

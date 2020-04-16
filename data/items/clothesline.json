@@ -4,19 +4,21 @@
   "category": "Furniture",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 100
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 400
-        }
-      ],
       "recipe": {
         "tree-branch": 10
+      },
+      "variations": {
+        "white": "White",
+        "well-used": "Well-used",
+        "blue-stripes": "Blue stripes",
+        "red-plaid": "Red plaid",
+        "green-plaid": "Green plaid"
       }
     }
   }

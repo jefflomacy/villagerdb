@@ -12,7 +12,12 @@
           "currency": "bells",
           "value": 2660
         }
-      ]
+      ],
+      "variations": {
+        "black": "Black",
+        "indigo-blue": "Indigo blue",
+        "fuchsia": "Fuchsia"
+      }
     }
   },
   "category": "Dresses"

@@ -14,6 +14,9 @@
       ]
     },
     "nh": {
+      "sources": [
+        "Prize for reaching 300 points in fishing tournament (January, April, July, October)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 450

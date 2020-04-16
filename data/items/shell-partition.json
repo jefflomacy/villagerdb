@@ -4,9 +4,22 @@
   "games": {
     "nh": {
       "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 8000
+      },
+      "recipe": {
+        "venus-comb": 4,
+        "conch": 4
+      },
+      "variations": {
+        "white": "White",
+        "brown": "Brown",
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "purple": "Purple",
+        "pearl": "Pearl"
       }
     }
   },

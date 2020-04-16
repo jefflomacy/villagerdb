@@ -32,7 +32,16 @@
           "currency": "bells",
           "value": 2600
         }
-      ]
+      ],
+      "variations": {
+        "blank": "Blank",
+        "schedule": "Schedule",
+        "sales-meeting": "Sales meeting",
+        "language-classroom": "Language classroom",
+        "strategy-meeting": "Strategy meeting",
+        "brainstorming-meeting": "Brainstorming meeting",
+        "fact-finding-meeting": "Fact-finding meeting"
+      }
     }
   }
 }

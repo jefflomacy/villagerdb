@@ -16,7 +16,11 @@
           "currency": "bells",
           "value": 670
         }
-      ]
+      ],
+      "variations": {
+        "monotone": "Monotone",
+        "colorful": "Colorful"
+      }
     }
   },
   "category": "Furniture"

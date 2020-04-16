@@ -33,6 +33,10 @@
       "recipe": {
         "pear": 10,
         "wood": 5
+      },
+      "variations": {
+        "la-france": "La France",
+        "le-lectier": "Le Lectier"
       }
     }
   }

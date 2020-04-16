@@ -3,6 +3,7 @@
   "name": "Trophy Case",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "DIY"
       ],
@@ -10,12 +11,6 @@
         "currency": "bells",
         "value": 33690
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 134760
-        }
-      ],
       "recipe": {
         "hardwood": 24,
         "gold-nugget": 3,

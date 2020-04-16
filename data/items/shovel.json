@@ -23,6 +23,16 @@
       "recipe": {
         "flimsy-shovel": 1,
         "iron-nugget": 1
+      },
+      "variations": {
+        "red": "Red",
+        "yellow": "Yellow",
+        "green": "Green",
+        "blue": "Blue",
+        "purple": "Purple",
+        "pink": "Pink",
+        "white": "White",
+        "black": "Black"
       }
     }
   }

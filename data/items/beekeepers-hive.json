@@ -12,6 +12,13 @@
       "recipe": {
         "wasp-nest": 3,
         "wood": 5
+      },
+      "variations": {
+        "natural": "Natural",
+        "white": "White",
+        "red": "Red",
+        "blue": "Blue",
+        "yellow": "Yellow"
       }
     }
   },

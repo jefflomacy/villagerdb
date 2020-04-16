@@ -16,7 +16,17 @@
           "currency": "bells",
           "value": 700
         }
-      ]
+      ],
+      "variations": {
+        "red": "Red",
+        "blue": "Blue",
+        "yellow": "Yellow",
+        "black": "Black",
+        "green": "Green",
+        "orange": "Orange",
+        "pink": "Pink",
+        "purple": "Purple"
+      }
     }
   },
   "category": "Hats"

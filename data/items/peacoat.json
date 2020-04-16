@@ -32,7 +32,13 @@
           "currency": "bells",
           "value": 1960
         }
-      ]
+      ],
+      "variations": {
+        "navy-blue": "Navy blue",
+        "red": "Red",
+        "beige": "Beige",
+        "gray": "Gray"
+      }
     }
   }
 }

@@ -3,6 +3,9 @@
   "name": "Red-design Kitchen Mat",
   "games": {
     "nh": {
+      "sources": [
+        "Saharah"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 250

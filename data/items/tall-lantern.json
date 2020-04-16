@@ -25,6 +25,7 @@
       ]
     },
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 2700
@@ -34,7 +35,15 @@
           "currency": "bells",
           "value": 10800
         }
-      ]
+      ],
+      "recipe": {
+        "stone": 18
+      },
+      "variations": {
+        "natural": "Natural",
+        "white": "White",
+        "mossy": "Mossy"
+      }
     }
   }
 }

@@ -15,16 +15,13 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "Rolling balls of dung on group (Dec-Feb)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 3000
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 12000
-        }
-      ]
+      }
     }
   }
 }

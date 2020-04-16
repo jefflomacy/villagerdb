@@ -16,7 +16,15 @@
           "currency": "bells",
           "value": 180
         }
-      ]
+      ],
+      "variations": {
+        "red": "Red",
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "white": "White",
+        "natural-wood": "Natural wood",
+        "rattan": "Rattan"
+      }
     }
   },
   "category": "Furniture"

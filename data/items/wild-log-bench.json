@@ -12,7 +12,16 @@
           "currency": "bells",
           "value": 3840
         }
-      ]
+      ],
+      "recipe": {
+        "hardwood": 8
+      },
+      "variations": {
+        "dark-wood": "Dark wood",
+        "orange-wood": "Orange wood",
+        "white-wood": "White wood",
+        "white-birch": "White birch"
+      }
     }
   },
   "category": "Furniture"

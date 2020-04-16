@@ -27,7 +27,16 @@
           "currency": "bells",
           "value": 500
         }
-      ]
+      ],
+      "variations": {
+        "deep-blue": "Deep blue",
+        "indigo": "Indigo",
+        "azuki-red": "Azuki red",
+        "deep-green": "Deep green",
+        "goldfish": "Goldfish",
+        "crane": "Crane",
+        "gold": "Gold"
+      }
     }
   }
 }

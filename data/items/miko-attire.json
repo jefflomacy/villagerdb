@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 2240
         }
-      ]
+      ],
+      "variations": {
+        "vermilion": "Vermilion",
+        "aqua": "Aqua"
+      }
     }
   },
   "category": "Dresses"

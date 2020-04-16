@@ -15,16 +15,13 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "On the side of coconut trees (Jun-Sept)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 8000
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 32000
-        }
-      ]
+      }
     }
   }
 }

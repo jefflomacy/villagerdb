@@ -3,6 +3,9 @@
   "name": "Red Medium Round Mat",
   "games": {
     "nh": {
+      "sources": [
+        "Saharah"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 375

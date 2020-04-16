@@ -29,7 +29,11 @@
           "currency": "bells",
           "value": 100000
         }
-      ]
+      ],
+      "variations": {
+        "stacks-of-cash": "Stacks of cash",
+        "gold-bars": "Gold bars"
+      }
     }
   }
 }

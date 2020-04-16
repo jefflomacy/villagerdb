@@ -3,16 +3,26 @@
   "name": "Park Clock",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Miles System"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 12000
       },
       "buyPrices": [
         {
-          "currency": "bells",
-          "value": 48000
+          "currency": "miles",
+          "value": 2400
         }
-      ]
+      ],
+      "variations": {
+        "black": "Black",
+        "silver": "Silver",
+        "white": "White",
+        "brown": "Brown"
+      }
     }
   },
   "category": "Furniture"

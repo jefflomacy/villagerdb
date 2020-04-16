@@ -12,7 +12,16 @@
           "currency": "bells",
           "value": 12960
         }
-      ]
+      ],
+      "recipe": {
+        "clump-of-weeds": 12,
+        "iron-nugget": 4
+      },
+      "variations": {
+        "black": "Black",
+        "gold": "Gold",
+        "brown": "Brown"
+      }
     }
   },
   "category": "Furniture"

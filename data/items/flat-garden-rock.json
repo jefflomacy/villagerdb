@@ -3,16 +3,15 @@
   "name": "Flat Garden Rock",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 3000
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 12000
-        }
-      ]
+      "recipe": {
+        "stone": 20
+      }
     }
   },
   "category": "Furniture"

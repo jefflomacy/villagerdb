@@ -12,7 +12,25 @@
           "currency": "bells",
           "value": 3960
         }
-      ]
+      ],
+      "recipe": {
+        "hardwood": 2,
+        "iron-nugget": 1
+      },
+      "variations": {
+        "no-finish-red": "No finish / Red",
+        "no-finish-blue": "No finish / Blue",
+        "no-finish-yellow": "No finish / Yellow",
+        "cherry-brown-red": "Cherry brown / Red",
+        "cherry-brown-blue": "Cherry brown / Blue",
+        "cherry-brown-yellow": "Cherry brown / Yellow",
+        "dark-red": "Dark / Red",
+        "dark-blue": "Dark / Blue",
+        "dark-yellow": "Dark / Yellow",
+        "natural-red": "Natural / Red",
+        "natural-blue": "Natural / Blue",
+        "natural-yellow": "Natural / Yellow"
+      }
     }
   },
   "category": "Furniture"

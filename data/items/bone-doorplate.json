@@ -3,16 +3,24 @@
   "name": "Bone Doorplate",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 360
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 1440
-        }
-      ]
+      "recipe": {
+        "softwood": 3
+      },
+      "variations": {
+        "brown": "Brown",
+        "white": "White",
+        "black": "Black",
+        "pink": "Pink",
+        "red": "Red",
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "natural-wood": "Natural wood"
+      }
     }
   },
   "category": "Furniture"

@@ -36,7 +36,12 @@
           "currency": "bells",
           "value": 8120
         }
-      ]
+      ],
+      "variations": {
+        "red": "Red",
+        "natural-wood": "Natural wood",
+        "dark-wood": "Dark wood"
+      }
     }
   }
 }

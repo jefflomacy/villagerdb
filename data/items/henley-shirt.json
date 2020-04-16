@@ -10,6 +10,12 @@
       "sellPrice": {
         "currency": "bells",
         "value": 240
+      },
+      "variations": {
+        "green": "Green",
+        "mustard": "Mustard",
+        "light-blue": "Light blue",
+        "purple": "Purple"
       }
     }
   },

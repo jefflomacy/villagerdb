@@ -3,19 +3,20 @@
   "name": "Iron Hanger Stand",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 2250
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 9000
-        }
-      ],
       "recipe": {
         "iron-nugget": 3
+      },
+      "variations": {
+        "black-navy": "Black / Navy",
+        "black-shell-pink": "Black / Shell pink",
+        "white-navy": "White / Navy",
+        "white-shell-pink": "White / Shell pink"
       }
     }
   },

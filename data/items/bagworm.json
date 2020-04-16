@@ -16,7 +16,8 @@
     "nh": {
       "orderable": false,
       "sources": [
-        "Shake trees (year round)"
+        "North: Shake trees (year round, all day)",
+        "South: Shake trees (year round, all day)"
       ],
       "sellPrice": {
         "currency": "bells",

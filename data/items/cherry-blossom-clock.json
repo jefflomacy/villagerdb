@@ -32,6 +32,10 @@
       "recipe": {
         "cherry-blossom-petal": 5,
         "iron-nugget": 1
+      },
+      "variations": {
+        "pink": "Pink",
+        "pink-white": "Pink-white"
       }
     }
   }

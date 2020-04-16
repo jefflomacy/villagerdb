@@ -12,7 +12,13 @@
           "currency": "bells",
           "value": 1040
         }
-      ]
+      ],
+      "variations": {
+        "camel": "Camel",
+        "avocado": "Avocado",
+        "beige": "Beige",
+        "blue": "Blue"
+      }
     }
   },
   "category": "Bottoms"

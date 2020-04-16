@@ -6,13 +6,7 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4300
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 17200
-        }
-      ]
+      }
     }
   },
   "category": "Flooring"

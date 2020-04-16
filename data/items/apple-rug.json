@@ -3,16 +3,14 @@
   "name": "Apple Rug",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1200
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 4800
-        }
-      ]
+      "recipe": {
+        "apple": 6
+      }
     }
   },
   "category": "Flooring"

@@ -3,6 +3,7 @@
   "name": "Wobbling Zipper Toy",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 9600
@@ -12,7 +13,15 @@
           "currency": "bells",
           "value": 38400
         }
-      ]
+      ],
+      "recipe": {
+        "earth-egg": 4,
+        "stone-egg": 4,
+        "leaf-egg": 4,
+        "wood-egg": 4,
+        "sky-egg": 4,
+        "water-egg": 4
+      }
     }
   },
   "category": "Furniture"

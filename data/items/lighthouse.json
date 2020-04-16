@@ -3,9 +3,9 @@
   "name": "Lighthouse",
   "games": {
     "nh": {
-      "orderable": false,
+      "orderable": true,
       "sources": [
-        "Nook Shopping"
+        "Nook Miles System"
       ],
       "sellPrice": {
         "currency": "bells",
@@ -13,10 +13,18 @@
       },
       "buyPrices": [
         {
-          "currency": "bells",
-          "value": 100000
+          "currency": "miles",
+          "value": 5000
         }
-      ]
+      ],
+      "variations": {
+        "red": "Red",
+        "black": "Black",
+        "blue": "Blue",
+        "white": "White",
+        "yellow": "Yellow",
+        "gray": "Gray"
+      }
     }
   },
   "category": "Furniture"

@@ -12,7 +12,12 @@
           "currency": "bells",
           "value": 560
         }
-      ]
+      ],
+      "variations": {
+        "red": "Red",
+        "beige": "Beige",
+        "olive": "Olive"
+      }
     }
   },
   "category": "Hats"

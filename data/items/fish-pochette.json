@@ -3,16 +3,17 @@
   "name": "Fish Pochette",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Fishing tournament prize pool (January, April, July, October)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 210
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 840
-        }
-      ]
+      "variations": {
+        "blue": "Blue"
+      }
     }
   },
   "category": "Accessories"

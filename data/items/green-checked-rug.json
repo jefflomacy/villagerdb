@@ -3,6 +3,9 @@
   "name": "Green Checked Rug",
   "games": {
     "nh": {
+      "sources": [
+        "Saharah"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 500

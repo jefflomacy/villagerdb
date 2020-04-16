@@ -4,9 +4,14 @@
   "games": {
     "nh": {
       "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1580
+      },
+      "recipe": {
+        "yellow-mums": 1,
+        "star-fragment": 3
       }
     }
   },

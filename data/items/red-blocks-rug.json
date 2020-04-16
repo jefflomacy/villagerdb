@@ -3,6 +3,9 @@
   "name": "Red Blocks Rug",
   "games": {
     "nh": {
+      "sources": [
+        "Saharah"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 375

@@ -37,7 +37,24 @@
           "currency": "bells",
           "value": 870
         }
-      ]
+      ],
+      "variations": {
+        "light-brown-plain": "Light brown / Plain",
+        "light-brown-spring": "Light brown / Spring",
+        "light-brown-summer": "Light brown / Summer",
+        "light-brown-fall": "Light brown / Fall",
+        "light-brown-winter": "Light brown / Winter",
+        "dark-brown-plain": "Dark brown / Plain",
+        "dark-brown-spring": "Dark brown / Spring",
+        "dark-brown-summer": "Dark brown / Summer",
+        "dark-brown-fall": "Dark brown / Fall",
+        "dark-brown-winter": "Dark brown / Winter",
+        "brown-plain": "Brown / Plain",
+        "brown-spring": "Brown / Spring",
+        "brown-summer": "Brown / Summer",
+        "brown-fall": "Brown / Fall",
+        "brown-winter": "Brown / Winter"
+      }
     }
   }
 }

@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 120000
         }
-      ]
+      ],
+      "recipe": {
+        "gold-nugget": 3
+      }
     }
   },
   "category": "Furniture"

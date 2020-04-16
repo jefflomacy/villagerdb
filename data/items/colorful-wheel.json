@@ -34,7 +34,14 @@
           "currency": "bells",
           "value": 2900
         }
-      ]
+      ],
+      "variations": {
+        "colorful-numbers": "Colorful numbers",
+        "two-toned-numbers": "Two-toned numbers",
+        "win-or-lose": "Win or lose",
+        "black-red": "Black & red",
+        "items": "Items"
+      }
     }
   }
 }

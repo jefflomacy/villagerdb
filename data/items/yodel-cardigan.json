@@ -12,7 +12,15 @@
           "currency": "bells",
           "value": 1440
         }
-      ]
+      ],
+      "variations": {
+        "ice-blue": "Ice blue",
+        "beige": "Beige",
+        "mustard": "Mustard",
+        "mint": "Mint",
+        "red": "Red",
+        "navy-blue": "Navy blue"
+      }
     }
   },
   "category": "Tops"

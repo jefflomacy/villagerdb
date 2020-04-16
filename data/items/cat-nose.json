@@ -16,7 +16,12 @@
           "currency": "bells",
           "value": 560
         }
-      ]
+      ],
+      "variations": {
+        "white": "White",
+        "brown": "Brown",
+        "navy-blue": "Navy blue"
+      }
     }
   },
   "category": "Accessories"

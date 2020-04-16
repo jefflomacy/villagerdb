@@ -3,16 +3,22 @@
   "name": "Zen-style Stone",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 4500
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 18000
-        }
-      ]
+      "recipe": {
+        "stone": 30
+      },
+      "variations": {
+        "white-granite": "White granite",
+        "andesite": "Andesite",
+        "black-granite": "Black granite",
+        "brown-granite": "Brown granite",
+        "mossy-stone": "Mossy stone"
+      }
     }
   },
   "category": "Furniture"

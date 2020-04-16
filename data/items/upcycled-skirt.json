@@ -12,7 +12,12 @@
           "currency": "bells",
           "value": 1320
         }
-      ]
+      ],
+      "variations": {
+        "beige": "Beige",
+        "pink": "Pink",
+        "mint": "Mint"
+      }
     }
   },
   "category": "Bottoms"

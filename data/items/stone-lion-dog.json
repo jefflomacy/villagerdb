@@ -11,6 +11,11 @@
       },
       "recipe": {
         "stone": 24
+      },
+      "variations": {
+        "natural": "Natural",
+        "white": "White",
+        "mossy": "Mossy"
       }
     }
   },

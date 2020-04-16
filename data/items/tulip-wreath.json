@@ -3,6 +3,7 @@
   "name": "Tulip Wreath",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 720
@@ -12,7 +13,12 @@
           "currency": "bells",
           "value": 2880
         }
-      ]
+      ],
+      "recipe": {
+        "red-tulips": 3,
+        "yellow-tulips": 3,
+        "white-tulips": 3
+      }
     }
   },
   "category": "Furniture"

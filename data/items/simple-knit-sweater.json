@@ -12,7 +12,12 @@
           "currency": "bells",
           "value": 960
         }
-      ]
+      ],
+      "variations": {
+        "white": "White",
+        "black": "Black",
+        "camel": "Camel"
+      }
     }
   },
   "category": "Tops"

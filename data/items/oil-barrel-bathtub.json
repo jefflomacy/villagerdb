@@ -10,16 +10,18 @@
         "currency": "bells",
         "value": 655
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 2620
-        }
-      ],
       "recipe": {
         "oil-barrel": 1,
         "campfire": 1,
         "stone": 2
+      },
+      "variations": {
+        "no-coating": "No coating",
+        "green": "Green",
+        "yellow": "Yellow",
+        "red": "Red",
+        "white": "White",
+        "retro": "Retro"
       }
     }
   }

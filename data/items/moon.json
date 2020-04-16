@@ -34,7 +34,11 @@
           "currency": "bells",
           "value": 50000
         }
-      ]
+      ],
+      "recipe": {
+        "star-fragment": 15,
+        "large-star-fragment": 1
+      }
     }
   }
 }

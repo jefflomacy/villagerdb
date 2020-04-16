@@ -28,7 +28,16 @@
           "currency": "bells",
           "value": 2520
         }
-      ]
+      ],
+      "variations": {
+        "gardening": "Gardening",
+        "travel": "Travel",
+        "fashion": "Fashion",
+        "sports": "Sports",
+        "comics": "Comics",
+        "kids": "Kids",
+        "weekly-news": "Weekly news"
+      }
     }
   }
 }

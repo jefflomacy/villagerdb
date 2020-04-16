@@ -25,7 +25,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "recipe": {
+        "hardwood": 5
+      },
+      "variations": {
+        "natural": "Natural",
+        "brown": "Brown",
+        "white": "White",
+        "ocean-blue": "Ocean blue"
+      }
     }
   }
 }

@@ -11,6 +11,16 @@
       },
       "recipe": {
         "wood": 3
+      },
+      "variations": {
+        "light-wood": "Light wood",
+        "light-blue": "Light blue",
+        "dark-gray": "Dark gray",
+        "natural-wood": "Natural wood",
+        "dark-brown": "Dark brown",
+        "white": "White",
+        "blue": "Blue",
+        "pink": "Pink"
       }
     }
   },

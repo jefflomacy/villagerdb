@@ -20,6 +20,7 @@
       ]
     },
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1080
@@ -29,7 +30,19 @@
           "currency": "bells",
           "value": 4320
         }
-      ]
+      ],
+      "recipe": {
+        "wood": 4,
+        "softwood": 5
+      },
+      "variations": {
+        "spring": "Spring",
+        "cherry-blossoms": "Cherry blossoms",
+        "summer": "Summer",
+        "kyoto-in-summer": "Kyoto in summer",
+        "fall": "Fall",
+        "winter": "Winter"
+      }
     }
   }
 }

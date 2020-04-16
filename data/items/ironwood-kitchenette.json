@@ -14,6 +14,13 @@
         "iron-nugget": 3,
         "ironwood-dresser": 1,
         "cutting-board": 1
+      },
+      "variations": {
+        "birch": "Birch",
+        "teak": "Teak",
+        "walnut": "Walnut",
+        "old": "Old",
+        "oak": "Oak"
       }
     }
   },

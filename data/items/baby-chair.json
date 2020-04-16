@@ -17,7 +17,44 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "variations": {
+        "red-bear": "Red / Bear",
+        "red-strawberry": "Red / Strawberry",
+        "red-butterfly": "Red / Butterfly",
+        "red-train": "Red / Train",
+        "red-paw-print": "Red / Paw print",
+        "pink-bear": "Pink / Bear",
+        "pink-strawberry": "Pink / Strawberry",
+        "pink-butterfly": "Pink / Butterfly",
+        "pink-train": "Pink / Train",
+        "pink-paw-print": "Pink / Paw print",
+        "yellow-bear": "Yellow / Bear",
+        "yellow-strawberry": "Yellow / Strawberry",
+        "yellow-butterfly": "Yellow / Butterfly",
+        "yellow-train": "Yellow / Train",
+        "yellow-paw-print": "Yellow / Paw print",
+        "green-bear": "Green / Bear",
+        "green-strawberry": "Green / Strawberry",
+        "green-butterfly": "Green / Butterfly",
+        "green-train": "Green / Train",
+        "green-paw-print": "Green / Paw print",
+        "blue-bear": "Blue / Bear",
+        "blue-strawberry": "Blue / Strawberry",
+        "blue-butterfly": "Blue / Butterfly",
+        "blue-train": "Blue / Train",
+        "blue-paw-print": "Blue / Paw print",
+        "white-bear": "White / Bear",
+        "white-strawberry": "White / Strawberry",
+        "white-butterfly": "White / Butterfly",
+        "white-train": "White / Train",
+        "white-paw-print": "White / Paw print",
+        "black-bear": "Black / Bear",
+        "black-strawberry": "Black / Strawberry",
+        "black-butterfly": "Black / Butterfly",
+        "black-train": "Black / Train",
+        "black-paw-print": "Black / Paw print"
+      }
     }
   },
   "category": "Furniture"

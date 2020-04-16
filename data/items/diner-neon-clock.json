@@ -16,7 +16,30 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "variations": {
+        "red-red-lines": "Red / Red lines",
+        "red-blue-bee": "Red / Blue bee",
+        "red-b-w-numeral": "Red / B & W numeral",
+        "blue-red-lines": "Blue / Red lines",
+        "blue-blue-bee": "Blue / Blue bee",
+        "blue-b-w-numeral": "Blue / B & W numeral",
+        "yellow-red-lines": "Yellow / Red lines",
+        "yellow-blue-bee": "Yellow / Blue bee",
+        "yellow-b-w-numeral": "Yellow / B & W numeral",
+        "sapphire-red-lines": "Sapphire / Red lines",
+        "sapphire-blue-bee": "Sapphire / Blue bee",
+        "sapphire-b-w-numeral": "Sapphire / B & W numeral",
+        "pink-red-lines": "Pink / Red lines",
+        "pink-blue-bee": "Pink / Blue bee",
+        "pink-b-w-numeral": "Pink / B & W numeral",
+        "cream-red-lines": "Cream / Red lines",
+        "cream-blue-bee": "Cream / Blue bee",
+        "cream-b-w-numeral": "Cream / B & W numeral",
+        "purple-red-lines": "Purple / Red lines",
+        "purple-blue-bee": "Purple / Blue bee",
+        "purple-b-w-numeral": "Purple / B & W numeral"
+      }
     }
   },
   "category": "Furniture"

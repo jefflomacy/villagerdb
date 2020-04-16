@@ -32,7 +32,14 @@
           "currency": "bells",
           "value": 780
         }
-      ]
+      ],
+      "variations": {
+        "hot-air-balloons": "Hot air balloons",
+        "sheep": "Sheep",
+        "ocean-creatures": "Ocean creatures",
+        "space": "Space",
+        "gorgeous": "Gorgeous"
+      }
     }
   }
 }

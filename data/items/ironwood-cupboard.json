@@ -13,6 +13,13 @@
         "wood": 12,
         "iron-nugget": 6,
         "ironwood-dresser": 1
+      },
+      "variations": {
+        "birch": "Birch",
+        "teak": "Teak",
+        "walnut": "Walnut",
+        "old": "Old",
+        "oak": "Oak"
       }
     }
   },

@@ -32,7 +32,10 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "variations": {
+        "red": "Red"
+      }
     }
   }
 }

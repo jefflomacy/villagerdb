@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "variations": {
+        "pop": "Pop",
+        "cool": "Cool"
+      }
     }
   },
   "category": "Accessories"

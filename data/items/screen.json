@@ -33,7 +33,14 @@
           "currency": "bells",
           "value": 140000
         }
-      ]
+      ],
+      "variations": {
+        "bamboo": "Bamboo",
+        "plum": "Plum",
+        "pine": "Pine",
+        "tiger": "Tiger",
+        "dragon": "Dragon"
+      }
     }
   }
 }

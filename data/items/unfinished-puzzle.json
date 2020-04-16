@@ -4,6 +4,7 @@
   "games": {
     "nh": {
       "orderable": true,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 72
@@ -13,7 +14,14 @@
           "currency": "bells",
           "value": 290
         }
-      ]
+      ],
+      "variations": {
+        "sunset": "Sunset",
+        "light-through-the-trees": "Light Through the Trees",
+        "snow": "Snow",
+        "sepia-art": "Sepia art",
+        "castle": "Castle"
+      }
     }
   },
   "category": "Furniture"

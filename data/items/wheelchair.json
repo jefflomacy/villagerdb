@@ -16,7 +16,14 @@
           "currency": "bells",
           "value": 2700
         }
-      ]
+      ],
+      "variations": {
+        "blue": "Blue",
+        "red-plaid": "Red plaid",
+        "green-plaid": "Green plaid",
+        "beige": "Beige",
+        "colorful": "Colorful"
+      }
     }
   },
   "category": "Furniture"

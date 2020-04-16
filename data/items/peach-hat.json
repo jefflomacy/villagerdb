@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 4000
         }
-      ]
+      ],
+      "variations": {
+        "peach": "Peach"
+      }
     }
   },
   "category": "Hats"

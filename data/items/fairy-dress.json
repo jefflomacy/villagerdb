@@ -12,7 +12,14 @@
           "currency": "bells",
           "value": 3640
         }
-      ]
+      ],
+      "variations": {
+        "green": "Green",
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "mint": "Mint",
+        "purple": "Purple"
+      }
     }
   },
   "category": "Dresses"

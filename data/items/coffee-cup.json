@@ -24,7 +24,15 @@
           "currency": "bells",
           "value": 270
         }
-      ]
+      ],
+      "variations": {
+        "plain": "Plain",
+        "floral": "Floral",
+        "polka-dots": "Polka dots",
+        "rose": "Rose",
+        "royal": "Royal",
+        "elegant": "Elegant"
+      }
     }
   }
 }

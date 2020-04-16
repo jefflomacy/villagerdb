@@ -20,9 +20,26 @@
       ]
     },
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Miles System"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 5000
+      },
+      "buyPrices": [
+        {
+          "currency": "miles",
+          "value": 1000
+        }
+      ],
+      "variations": {
+        "mint": "Mint",
+        "red": "Red",
+        "blue": "Blue",
+        "yellow-green": "Yellow-green",
+        "gray": "Gray"
       }
     }
   }

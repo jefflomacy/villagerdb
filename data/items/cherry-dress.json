@@ -3,19 +3,17 @@
   "name": "Cherry Dress",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1600
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 6400
-        }
-      ],
       "recipe": {
         "cherry": 8
+      },
+      "variations": {
+        "red": "Red"
       }
     }
   },

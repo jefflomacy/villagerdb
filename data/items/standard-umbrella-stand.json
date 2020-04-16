@@ -9,14 +9,14 @@
         "currency": "bells",
         "value": 2250
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 9000
-        }
-      ],
       "recipe": {
         "iron-nugget": 3
+      },
+      "variations": {
+        "black-stripes": "Black / Stripes",
+        "black-dots": "Black / Dots",
+        "black-navy": "Black / Navy",
+        "black-red": "Black / Red"
       }
     }
   },

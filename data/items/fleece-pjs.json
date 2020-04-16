@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "variations": {
+        "pink": "Pink",
+        "beige": "Beige"
+      }
     }
   },
   "category": "Dresses"

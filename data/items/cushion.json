@@ -20,6 +20,7 @@
       ]
     },
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 75
@@ -29,7 +30,15 @@
           "currency": "bells",
           "value": 300
         }
-      ]
+      ],
+      "variations": {
+        "white": "White",
+        "floral": "Floral",
+        "alphabet": "Alphabet",
+        "paisley": "Paisley",
+        "rainbow-colors": "Rainbow colors",
+        "pop": "Pop"
+      }
     }
   }
 }

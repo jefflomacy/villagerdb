@@ -13,6 +13,14 @@
         "empty-can": 1,
         "wood": 1,
         "iron-nugget": 1
+      },
+      "variations": {
+        "unlabeled-can": "Unlabeled can",
+        "canned-olives": "Canned olives",
+        "canned-fruit": "Canned fruit",
+        "canned-fish": "Canned fish",
+        "canned-pasta-sauce": "Canned pasta sauce",
+        "canned-pet-food": "Canned pet food"
       }
     }
   },

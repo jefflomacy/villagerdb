@@ -3,20 +3,22 @@
   "name": "Ironwood Clock",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1740
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 6960
-        }
-      ],
       "recipe": {
         "wood": 2,
         "iron-nugget": 2
+      },
+      "variations": {
+        "birch": "Birch",
+        "teak": "Teak",
+        "walnut": "Walnut",
+        "old": "Old",
+        "oak": "Oak"
       }
     }
   },

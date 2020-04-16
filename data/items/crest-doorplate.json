@@ -3,20 +3,22 @@
   "name": "Crest Doorplate",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 3000
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 12000
-        }
-      ],
       "recipe": {
-        "wood": 3,
-        "iron-nugget": 2
+        "iron-nugget": 4
+      },
+      "variations": {
+        "silver": "Silver",
+        "gold-silver": "Gold & silver",
+        "silver-blue": "Silver & blue",
+        "red-white": "Red & white",
+        "silver-green": "Silver & green",
+        "colorful": "Colorful"
       }
     }
   },

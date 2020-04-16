@@ -3,6 +3,7 @@
   "name": "Wooden Waste Bin",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 480
@@ -12,7 +13,18 @@
           "currency": "bells",
           "value": 1920
         }
-      ]
+      ],
+      "recipe": {
+        "wood": 4
+      },
+      "variations": {
+        "light-wood": "Light wood",
+        "natural-wood": "Natural wood",
+        "cherry-wood": "Cherry wood",
+        "dark-wood": "Dark wood",
+        "black": "Black",
+        "white-wood": "White wood"
+      }
     }
   },
   "category": "Furniture"

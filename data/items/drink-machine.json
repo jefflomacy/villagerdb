@@ -19,9 +19,44 @@
     },
     "nh": {
       "orderable": true,
+      "sources": [
+        "Nook Miles System"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 10000
+      },
+      "buyPrices": [
+        {
+          "currency": "miles",
+          "value": 2000
+        }
+      ],
+      "variations": {
+        "red-orange-juice": "Red / Orange juice",
+        "red-sports-drink": "Red / Sports drink",
+        "red-sale": "Red / Sale",
+        "red-cute": "Red / Cute",
+        "blue-orange-juice": "Blue / Orange juice",
+        "blue-sports-drink": "Blue / Sports drink",
+        "blue-sale": "Blue / Sale",
+        "blue-cute": "Blue / Cute",
+        "white-orange-juice": "White / Orange juice",
+        "white-sports-drink": "White / Sports drink",
+        "white-sale": "White / Sale",
+        "white-cute": "White / Cute",
+        "black-orange-juice": "Black / Orange juice",
+        "black-sports-drink": "Black / Sports drink",
+        "black-sale": "Black / Sale",
+        "black-cute": "Black / Cute",
+        "green-orange-juice": "Green / Orange juice",
+        "green-sports-drink": "Green / Sports drink",
+        "green-sale": "Green / Sale",
+        "green-cute": "Green / Cute",
+        "pink-orange-juice": "Pink / Orange juice",
+        "pink-sports-drink": "Pink / Sports drink",
+        "pink-sale": "Pink / Sale",
+        "pink-cute": "Pink / Cute"
       }
     }
   }

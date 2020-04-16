@@ -12,6 +12,10 @@
       "recipe": {
         "pear": 10,
         "softwood": 6
+      },
+      "variations": {
+        "la-france": "La France",
+        "le-lectier": "Le Lectier"
       }
     }
   },

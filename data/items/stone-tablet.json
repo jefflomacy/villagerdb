@@ -11,6 +11,10 @@
       },
       "recipe": {
         "stone": 12
+      },
+      "variations": {
+        "black": "Black",
+        "mossy": "Mossy"
       }
     }
   },

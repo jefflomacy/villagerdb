@@ -36,7 +36,13 @@
           "currency": "bells",
           "value": 660
         }
-      ]
+      ],
+      "variations": {
+        "natural": "Natural",
+        "white": "White",
+        "black": "Black",
+        "brown": "Brown"
+      }
     }
   }
 }

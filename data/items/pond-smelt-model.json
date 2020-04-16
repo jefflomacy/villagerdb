@@ -3,13 +3,10 @@
   "name": "Pond Smelt Model",
   "games": {
     "nh": {
-      "customizable": true,
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1200
-      },
-      "recipe": {
-        "stone": 6
       }
     }
   },

@@ -4,6 +4,9 @@
   "games": {
     "nh": {
       "orderable": false,
+      "sources": [
+        "Recipe obtained during Bunny Day event (April)"
+      ],
       "customizable": false,
       "sellPrice": {
         "currency": "bells",

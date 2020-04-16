@@ -12,7 +12,12 @@
           "currency": "bells",
           "value": 25080
         }
-      ]
+      ],
+      "recipe": {
+        "iron-nugget": 8,
+        "wood": 2,
+        "campfire": 1
+      }
     }
   },
   "category": "Furniture"

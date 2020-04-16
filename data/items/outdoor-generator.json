@@ -16,7 +16,15 @@
           "currency": "bells",
           "value": 4900
         }
-      ]
+      ],
+      "variations": {
+        "red": "Red",
+        "blue": "Blue",
+        "yellow": "Yellow",
+        "turquoise": "Turquoise",
+        "orange": "Orange",
+        "silver": "Silver"
+      }
     }
   },
   "category": "Furniture"

@@ -33,7 +33,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "recipe": {
+        "scattered-papers": 1
+      },
+      "variations": {
+        "resource-documents": "Resource documents",
+        "text-documents": "Text documents",
+        "exam-papers": "Exam papers",
+        "storyboards": "Storyboards"
+      }
     }
   }
 }

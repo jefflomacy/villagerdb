@@ -26,18 +26,17 @@
       ]
     },
     "nh": {
+      "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 100
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 400
-        }
-      ],
       "recipe": {
         "clump-of-weeds": 5
+      },
+      "variations": {
+        "green": "Green"
       }
     }
   }

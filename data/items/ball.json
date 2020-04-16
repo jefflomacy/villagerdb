@@ -43,7 +43,13 @@
           "currency": "bells",
           "value": 520
         }
-      ]
+      ],
+      "variations": {
+        "basketball": "Basketball",
+        "soccer-ball": "Soccer ball",
+        "volleyball": "Volleyball",
+        "dodgeball": "Dodgeball"
+      }
     }
   }
 }

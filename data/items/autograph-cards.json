@@ -17,6 +17,7 @@
       ]
     },
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 350
@@ -26,7 +27,17 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "variations": {
+        "signature-musicians-signature": "Signature / Musician's signature",
+        "signature-comedians-signature": "Signature / Comedian's signature",
+        "handprints-musicians-signature": "Handprints / Musician's signature",
+        "handprints-comedians-signature": "Handprints / Comedian's signature",
+        "illustration-musicians-signature": "Illustration / Musician's signature",
+        "illustration-comedians-signature": "Illustration / Comedian's signature",
+        "words-of-wisdom-musicians-signature": "Words of wisdom / Musician's signature",
+        "words-of-wisdom-comedians-signature": "Words of wisdom / Comedian's signature"
+      }
     }
   }
 }

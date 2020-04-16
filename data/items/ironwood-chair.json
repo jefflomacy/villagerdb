@@ -3,20 +3,22 @@
   "name": "Ironwood Chair",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1860
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 7440
-        }
-      ],
       "recipe": {
         "wood": 3,
         "iron-nugget": 2
+      },
+      "variations": {
+        "birch": "Birch",
+        "teak": "Teak",
+        "walnut": "Walnut",
+        "old": "Old",
+        "oak": "Oak"
       }
     }
   },

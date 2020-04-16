@@ -3,6 +3,9 @@
   "name": "Bunny Day Basket",
   "games": {
     "nh": {
+      "sources": [
+        "Recipe obtained during Bunny Day event (April)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 1200

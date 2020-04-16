@@ -12,7 +12,13 @@
           "currency": "bells",
           "value": 1280
         }
-      ]
+      ],
+      "variations": {
+        "brown": "Brown",
+        "black": "Black",
+        "green": "Green",
+        "mustard": "Mustard"
+      }
     }
   },
   "category": "Shoes"

@@ -17,7 +17,17 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "variations": {
+        "green": "Green",
+        "yellow": "Yellow",
+        "red": "Red",
+        "blue": "Blue",
+        "snow-camouflage": "Snow camouflage",
+        "camouflage": "Camouflage",
+        "simple-pattern": "Simple pattern",
+        "pop-pattern": "Pop pattern"
+      }
     }
   },
   "category": "Furniture"

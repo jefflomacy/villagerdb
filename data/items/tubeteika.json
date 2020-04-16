@@ -10,6 +10,12 @@
       "sellPrice": {
         "currency": "bells",
         "value": 500
+      },
+      "variations": {
+        "red": "Red",
+        "blue": "Blue",
+        "camel": "Camel",
+        "purple": "Purple"
       }
     }
   },

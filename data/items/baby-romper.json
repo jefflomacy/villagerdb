@@ -12,7 +12,17 @@
           "currency": "bells",
           "value": 1920
         }
-      ]
+      ],
+      "variations": {
+        "baby-mint": "Baby mint",
+        "baby-purple": "Baby purple",
+        "baby-yellow": "Baby yellow",
+        "baby-green": "Baby green",
+        "baby-pink": "Baby pink",
+        "baby-gray": "Baby gray",
+        "baby-blue": "Baby blue",
+        "baby-orange": "Baby orange"
+      }
     }
   },
   "category": "Dresses"

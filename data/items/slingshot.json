@@ -14,7 +14,7 @@
       ]
     },
     "nh": {
-      "orderable": false,
+      "orderable": true,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",
@@ -28,6 +28,16 @@
       ],
       "recipe": {
         "hardwood": 5
+      },
+      "variations": {
+        "red": "Red",
+        "yellow": "Yellow",
+        "green": "Green",
+        "blue": "Blue",
+        "purple": "Purple",
+        "pink": "Pink",
+        "white": "White",
+        "gray": "Gray"
       }
     }
   }

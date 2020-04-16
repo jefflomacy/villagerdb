@@ -12,6 +12,11 @@
       "recipe": {
         "hardwood": 9,
         "iron-nugget": 3
+      },
+      "variations": {
+        "natural": "Natural",
+        "oak": "Oak",
+        "shabby": "Shabby"
       }
     }
   },

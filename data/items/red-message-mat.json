@@ -3,6 +3,9 @@
   "name": "Red Message Mat",
   "games": {
     "nh": {
+      "sources": [
+        "Saharah"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 250

@@ -3,9 +3,9 @@
   "name": "Cotton-candy Stall",
   "games": {
     "nh": {
-      "orderable": false,
+      "orderable": true,
       "sources": [
-        "Nook Shopping"
+        "Nook Miles System"
       ],
       "customizable": false,
       "sellPrice": {
@@ -14,10 +14,15 @@
       },
       "buyPrices": [
         {
-          "currency": "bells",
-          "value": 60000
+          "currency": "miles",
+          "value": 3000
         }
-      ]
+      ],
+      "variations": {
+        "pink": "Pink",
+        "blue": "Blue",
+        "black": "Black"
+      }
     }
   },
   "category": "Furniture"

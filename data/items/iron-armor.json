@@ -3,6 +3,7 @@
   "name": "Iron Armor",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 6000
@@ -12,7 +13,13 @@
           "currency": "bells",
           "value": 24000
         }
-      ]
+      ],
+      "recipe": {
+        "iron-nugget": 8
+      },
+      "variations": {
+        "gray": "Gray"
+      }
     }
   },
   "category": "Dresses"

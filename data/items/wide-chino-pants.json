@@ -16,7 +16,14 @@
           "currency": "bells",
           "value": 1100
         }
-      ]
+      ],
+      "variations": {
+        "brown": "Brown",
+        "beige": "Beige",
+        "navy-blue": "Navy blue",
+        "avocado": "Avocado",
+        "gray": "Gray"
+      }
     }
   },
   "category": "Bottoms"

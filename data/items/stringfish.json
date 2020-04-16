@@ -15,6 +15,10 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Huge Shadows on Clifftop Rivers, Dec-Mar (4pm-9am)",
+        "South: Huge Shadows on Clifftop Rivers, Jun-Sep (4pm-9am)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 15000

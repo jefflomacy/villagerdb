@@ -24,6 +24,7 @@
       ]
     },
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 3500
@@ -33,7 +34,15 @@
           "currency": "bells",
           "value": 14000
         }
-      ]
+      ],
+      "recipe": {
+        "apple": 10,
+        "iron-nugget": 2
+      },
+      "variations": {
+        "red-apple": "Red apple",
+        "green-apple": "Green apple"
+      }
     }
   }
 }

@@ -16,7 +16,17 @@
           "currency": "bells",
           "value": 630
         }
-      ]
+      ],
+      "variations": {
+        "vanilla": "Vanilla",
+        "chocolate": "Chocolate",
+        "gold-leaf": "Gold leaf",
+        "strawberry": "Strawberry",
+        "green-tea": "Green tea",
+        "pale-sky": "Pale sky",
+        "purple-sweet-potato": "Purple sweet potato",
+        "black-sesame": "Black sesame"
+      }
     }
   },
   "category": "Hats"

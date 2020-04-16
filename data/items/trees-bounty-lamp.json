@@ -3,6 +3,7 @@
   "name": "Tree's Bounty Lamp",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 3200
@@ -12,7 +13,15 @@
           "currency": "bells",
           "value": 12800
         }
-      ]
+      ],
+      "recipe": {
+        "acorn": 6,
+        "clay": 4
+      },
+      "variations": {
+        "red": "Red",
+        "white": "White"
+      }
     }
   },
   "category": "Furniture"

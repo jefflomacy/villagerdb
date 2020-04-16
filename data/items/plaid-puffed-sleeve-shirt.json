@@ -12,7 +12,13 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "variations": {
+        "fancy-plaid": "Fancy plaid",
+        "energetic-plaid": "Energetic plaid",
+        "dreamy-plaid": "Dreamy plaid",
+        "sweet-plaid": "Sweet plaid"
+      }
     }
   },
   "category": "Tops"

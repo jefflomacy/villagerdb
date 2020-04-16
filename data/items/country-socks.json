@@ -12,7 +12,13 @@
           "currency": "bells",
           "value": 720
         }
-      ]
+      ],
+      "variations": {
+        "red-ribbons": "Red ribbons",
+        "green-ribbons": "Green ribbons",
+        "blue-ribbons": "Blue ribbons",
+        "black-ribbons": "Black ribbons"
+      }
     }
   },
   "category": "Socks"

@@ -12,7 +12,15 @@
           "currency": "bells",
           "value": 1960
         }
-      ]
+      ],
+      "variations": {
+        "white": "White",
+        "black": "Black",
+        "purple": "Purple",
+        "berry-red": "Berry red",
+        "aquamarine": "Aquamarine",
+        "yellow": "Yellow"
+      }
     }
   },
   "category": "Tops"

@@ -12,7 +12,12 @@
           "currency": "bells",
           "value": 1960
         }
-      ]
+      ],
+      "variations": {
+        "orange": "Orange",
+        "pink": "Pink",
+        "gray": "Gray"
+      }
     }
   },
   "category": "Tops"

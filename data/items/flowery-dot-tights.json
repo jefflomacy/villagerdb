@@ -12,7 +12,14 @@
           "currency": "bells",
           "value": 720
         }
-      ]
+      ],
+      "variations": {
+        "white": "White",
+        "pink": "Pink",
+        "blue": "Blue",
+        "yellow": "Yellow",
+        "black": "Black"
+      }
     }
   },
   "category": "Socks"

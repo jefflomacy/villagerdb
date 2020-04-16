@@ -37,6 +37,13 @@
       "recipe": {
         "wood": 5,
         "softwood": 7
+      },
+      "variations": {
+        "light-wood": "Light wood",
+        "natural-wood": "Natural wood",
+        "white-wood": "White wood",
+        "red-wood": "Red wood",
+        "dark-wood": "Dark wood"
       }
     }
   }

@@ -12,7 +12,14 @@
           "currency": "bells",
           "value": 1440
         }
-      ]
+      ],
+      "variations": {
+        "camel": "Camel",
+        "beige": "Beige",
+        "light-gray": "Light gray",
+        "orange": "Orange",
+        "off-white": "Off-white"
+      }
     }
   },
   "category": "Tops"

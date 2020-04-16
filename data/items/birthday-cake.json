@@ -30,7 +30,12 @@
           "currency": "bells",
           "value": 400
         }
-      ]
+      ],
+      "variations": {
+        "whipped-cream-topping": "Whipped-cream topping",
+        "chocolate-buttercream": "Chocolate buttercream",
+        "strawberry-buttercream": "Strawberry buttercream"
+      }
     }
   }
 }

@@ -28,7 +28,12 @@
           "currency": "bells",
           "value": 1300
         }
-      ]
+      ],
+      "variations": {
+        "simple-path-game": "Simple path game",
+        "territory-game": "Territory game",
+        "kids-game": "Kids' game"
+      }
     }
   }
 }

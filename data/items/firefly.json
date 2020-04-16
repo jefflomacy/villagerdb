@@ -16,16 +16,13 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "Flying around (Jun)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 300
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 1200
-        }
-      ]
+      }
     }
   }
 }

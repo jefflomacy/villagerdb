@@ -16,7 +16,25 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "variations": {
+        "gold-green": "Gold / Green",
+        "gold-black": "Gold / Black",
+        "gold-white": "Gold / White",
+        "gold-natural-wood": "Gold / Natural wood",
+        "silver-green": "Silver / Green",
+        "silver-black": "Silver / Black",
+        "silver-white": "Silver / White",
+        "silver-natural-wood": "Silver / Natural wood",
+        "copper-green": "Copper / Green",
+        "copper-black": "Copper / Black",
+        "copper-white": "Copper / White",
+        "copper-natural-wood": "Copper / Natural wood",
+        "black-green": "Black / Green",
+        "black-black": "Black / Black",
+        "black-white": "Black / White",
+        "black-natural-wood": "Black / Natural wood"
+      }
     }
   },
   "category": "Furniture"

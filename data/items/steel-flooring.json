@@ -41,7 +41,10 @@
           "currency": "bells",
           "value": 21000
         }
-      ]
+      ],
+      "recipe": {
+        "iron-nugget": 7
+      }
     }
   }
 }

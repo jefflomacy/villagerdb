@@ -33,7 +33,13 @@
           "currency": "bells",
           "value": 1120
         }
-      ]
+      ],
+      "variations": {
+        "camel": "Camel",
+        "avocado": "Avocado",
+        "beige": "Beige",
+        "blue": "Blue"
+      }
     }
   }
 }

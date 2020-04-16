@@ -32,7 +32,13 @@
           "currency": "bells",
           "value": 3700
         }
-      ]
+      ],
+      "variations": {
+        "tic-tac-toe-pattern": "Tic-tac-toe pattern",
+        "flowers": "Flowers",
+        "checkered": "Checkered",
+        "stripes": "Stripes"
+      }
     }
   }
 }

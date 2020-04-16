@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 2240
         }
-      ]
+      ],
+      "variations": {
+        "navy-blue": "Navy blue"
+      }
     }
   },
   "category": "Dresses"

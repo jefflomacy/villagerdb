@@ -17,6 +17,7 @@
       ]
     },
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 6300
@@ -26,7 +27,38 @@
           "currency": "bells",
           "value": 25200
         }
-      ]
+      ],
+      "recipe": {
+        "papa-bear": 1,
+        "mama-bear": 1,
+        "baby-bear": 1
+      },
+      "variations": {
+        "cream": "Cream",
+        "cream-white": "Cream / White",
+        "cream-giant-dots": "Cream / Giant dots",
+        "cream-giant-stripes": "Cream / Giant stripes",
+        "caramel-mocha": "Caramel mocha",
+        "caramel-mocha-white": "Caramel mocha / White",
+        "caramel-mocha-giant-dots": "Caramel mocha / Giant dots",
+        "caramel-mocha-giant-stripes": "Caramel mocha / Giant stripes",
+        "choco": "Choco",
+        "choco-white": "Choco / White",
+        "choco-giant-dots": "Choco / Giant dots",
+        "choco-giant-stripes": "Choco / Giant stripes",
+        "floral": "Floral",
+        "floral-white": "Floral / White",
+        "floral-giant-dots": "Floral / Giant dots",
+        "floral-giant-stripes": "Floral / Giant stripes",
+        "checkered": "Checkered",
+        "checkered-white": "Checkered / White",
+        "checkered-giant-dots": "Checkered / Giant dots",
+        "checkered-giant-stripes": "Checkered / Giant stripes",
+        "tweed": "Tweed",
+        "tweed-white": "Tweed / White",
+        "tweed-giant-dots": "Tweed / Giant dots",
+        "tweed-giant-stripes": "Tweed / Giant stripes"
+      }
     }
   }
 }

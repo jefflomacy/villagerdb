@@ -4,12 +4,16 @@
   "games": {
     "nh": {
       "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 800
       },
       "recipe": {
         "water-egg": 2
+      },
+      "variations": {
+        "purple": "Purple"
       }
     }
   },

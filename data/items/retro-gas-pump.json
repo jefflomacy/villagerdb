@@ -16,7 +16,27 @@
           "currency": "bells",
           "value": 2700
         }
-      ]
+      ],
+      "variations": {
+        "red-yellow-oil": "Red / Yellow oil",
+        "red-green-with-animal": "Red / Green with animal",
+        "red-black-retro": "Red / Black retro",
+        "green-yellow-oil": "Green / Yellow oil",
+        "green-green-with-animal": "Green / Green with animal",
+        "green-black-retro": "Green / Black retro",
+        "yellow-yellow-oil": "Yellow / Yellow oil",
+        "yellow-green-with-animal": "Yellow / Green with animal",
+        "yellow-black-retro": "Yellow / Black retro",
+        "white-yellow-oil": "White / Yellow oil",
+        "white-green-with-animal": "White / Green with animal",
+        "white-black-retro": "White / Black retro",
+        "black-yellow-oil": "Black / Yellow oil",
+        "black-green-with-animal": "Black / Green with animal",
+        "black-black-retro": "Black / Black retro",
+        "retro-yellow-oil": "Retro / Yellow oil",
+        "retro-green-with-animal": "Retro / Green with animal",
+        "retro-black-retro": "Retro / Black retro"
+      }
     }
   },
   "category": "Furniture"

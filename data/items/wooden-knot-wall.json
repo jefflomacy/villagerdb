@@ -4,6 +4,7 @@
   "games": {
     "nh": {
       "orderable": false,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1800
@@ -13,7 +14,10 @@
           "currency": "bells",
           "value": 7200
         }
-      ]
+      ],
+      "recipe": {
+        "hardwood": 15
+      }
     }
   },
   "category": "Wallpaper"

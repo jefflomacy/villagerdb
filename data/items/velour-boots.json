@@ -12,7 +12,14 @@
           "currency": "bells",
           "value": 1920
         }
-      ]
+      ],
+      "variations": {
+        "ruby-red": "Ruby red",
+        "gray": "Gray",
+        "brown": "Brown",
+        "blue": "Blue",
+        "mustard": "Mustard"
+      }
     }
   },
   "category": "Shoes"

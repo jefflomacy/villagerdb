@@ -3,6 +3,7 @@
   "name": "Honeycomb Flooring",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 3000
@@ -12,7 +13,10 @@
           "currency": "bells",
           "value": 12000
         }
-      ]
+      ],
+      "recipe": {
+        "wasp-nest": 5
+      }
     }
   },
   "category": "Flooring"

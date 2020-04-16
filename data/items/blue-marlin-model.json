@@ -3,6 +3,10 @@
   "name": "Blue Marlin Model",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "CJ"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 30000

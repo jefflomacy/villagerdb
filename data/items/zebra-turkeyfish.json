@@ -15,6 +15,10 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Medium Shadows at Sea, Apr-Nov (All day)",
+        "South: Medium Shadows at Sea, Oct-May (All day)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 500

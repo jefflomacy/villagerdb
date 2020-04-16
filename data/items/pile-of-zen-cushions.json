@@ -12,7 +12,16 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "variations": {
+        "deep-blue": "Deep blue",
+        "indigo": "Indigo",
+        "azuki-red": "Azuki red",
+        "deep-green": "Deep green",
+        "goldfish": "Goldfish",
+        "crane": "Crane",
+        "gold": "Gold"
+      }
     }
   },
   "category": "Furniture"

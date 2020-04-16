@@ -29,6 +29,13 @@
       "recipe": {
         "wood": 10,
         "hardwood": 7
+      },
+      "variations": {
+        "natural": "Natural",
+        "green": "Green",
+        "blue": "Blue",
+        "red": "Red",
+        "black": "Black"
       }
     }
   }

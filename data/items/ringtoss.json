@@ -37,6 +37,12 @@
       "recipe": {
         "wood": 2,
         "softwood": 2
+      },
+      "variations": {
+        "natural": "Natural",
+        "colorful": "Colorful",
+        "pastel": "Pastel",
+        "cool": "Cool"
       }
     }
   }

@@ -4,16 +4,13 @@
   "games": {
     "nh": {
       "orderable": false,
+      "sources": [
+        "Flying around (Apr-Aug)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 300
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 1200
-        }
-      ]
+      }
     }
   },
   "category": "Bugs"

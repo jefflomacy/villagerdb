@@ -12,6 +12,11 @@
       "recipe": {
         "purple-hyacinths": 5,
         "clay": 3
+      },
+      "variations": {
+        "purple": "Purple",
+        "blue": "Blue",
+        "yellow": "Yellow"
       }
     }
   },

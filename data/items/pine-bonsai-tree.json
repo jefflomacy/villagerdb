@@ -3,6 +3,7 @@
   "name": "Pine Bonsai Tree",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 4200
@@ -12,7 +13,11 @@
           "currency": "bells",
           "value": 16800
         }
-      ]
+      ],
+      "recipe": {
+        "pine-cone": 8,
+        "clay": 5
+      }
     }
   },
   "category": "Furniture"

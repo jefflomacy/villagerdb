@@ -29,7 +29,12 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "variations": {
+        "trading-ship": "Trading ship",
+        "leisure-boat": "Leisure boat",
+        "pirate-ship": "Pirate ship"
+      }
     }
   }
 }

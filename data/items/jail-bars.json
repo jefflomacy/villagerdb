@@ -25,6 +25,11 @@
       },
       "recipe": {
         "iron-nugget": 5
+      },
+      "variations": {
+        "silver": "Silver",
+        "black": "Black",
+        "rusted-iron": "Rusted iron"
       }
     }
   }

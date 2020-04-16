@@ -3,6 +3,9 @@
   "name": "Hanging Scroll",
   "games": {
     "nh": {
+      "sources": [
+        "Nook's Cranny (upgraded)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 35000
@@ -12,7 +15,34 @@
           "currency": "bells",
           "value": 140000
         }
-      ]
+      ],
+      "variations": {
+        "green-calligraphy": "Green / Calligraphy",
+        "green-mountains": "Green / Mountains",
+        "green-fish": "Green / Fish",
+        "green-bird": "Green / Bird",
+        "green-flower": "Green / Flower",
+        "brown-calligraphy": "Brown / Calligraphy",
+        "brown-mountains": "Brown / Mountains",
+        "brown-fish": "Brown / Fish",
+        "brown-bird": "Brown / Bird",
+        "brown-flower": "Brown / Flower",
+        "pink-calligraphy": "Pink / Calligraphy",
+        "pink-mountains": "Pink / Mountains",
+        "pink-fish": "Pink / Fish",
+        "pink-bird": "Pink / Bird",
+        "pink-flower": "Pink / Flower",
+        "blue-calligraphy": "Blue / Calligraphy",
+        "blue-mountains": "Blue / Mountains",
+        "blue-fish": "Blue / Fish",
+        "blue-bird": "Blue / Bird",
+        "blue-flower": "Blue / Flower",
+        "purple-calligraphy": "Purple / Calligraphy",
+        "purple-mountains": "Purple / Mountains",
+        "purple-fish": "Purple / Fish",
+        "purple-bird": "Purple / Bird",
+        "purple-flower": "Purple / Flower"
+      }
     }
   },
   "category": "Furniture"

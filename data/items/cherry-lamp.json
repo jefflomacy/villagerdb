@@ -12,6 +12,10 @@
       "recipe": {
         "cherry": 10,
         "clay": 2
+      },
+      "variations": {
+        "cherry": "Cherry",
+        "black-cherry": "Black cherry"
       }
     }
   },

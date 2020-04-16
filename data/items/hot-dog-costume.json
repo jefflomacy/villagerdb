@@ -3,6 +3,10 @@
   "name": "Hot-dog Costume",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 320
@@ -12,7 +16,10 @@
           "currency": "bells",
           "value": 1280
         }
-      ]
+      ],
+      "variations": {
+        "mustard": "Mustard"
+      }
     }
   },
   "category": "Dresses"

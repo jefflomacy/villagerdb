@@ -32,6 +32,13 @@
       },
       "recipe": {
         "softwood": 5
+      },
+      "variations": {
+        "red": "Red",
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "brown": "Brown",
+        "green": "Green"
       }
     }
   }

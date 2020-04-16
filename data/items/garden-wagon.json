@@ -15,6 +15,12 @@
         "yellow-roses": 3,
         "wood": 8,
         "iron-nugget": 2
+      },
+      "variations": {
+        "brown": "Brown",
+        "dark-brown": "Dark brown",
+        "green": "Green",
+        "white": "White"
       }
     }
   },

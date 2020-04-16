@@ -16,7 +16,16 @@
           "currency": "bells",
           "value": 210
         }
-      ]
+      ],
+      "variations": {
+        "food": "Food",
+        "cars": "Cars",
+        "fashion": "Fashion",
+        "outdoors": "Outdoors",
+        "resorts": "Resorts",
+        "music": "Music",
+        "pop-stars": "Pop stars"
+      }
     }
   },
   "category": "Furniture"

@@ -12,7 +12,15 @@
           "currency": "bells",
           "value": 3300
         }
-      ]
+      ],
+      "variations": {
+        "twilight": "Twilight",
+        "midnight": "Midnight",
+        "passion": "Passion",
+        "ocean": "Ocean",
+        "sunset": "Sunset",
+        "love": "Love"
+      }
     }
   },
   "category": "Shoes"

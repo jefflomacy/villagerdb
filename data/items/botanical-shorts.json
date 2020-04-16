@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 700
         }
-      ]
+      ],
+      "variations": {
+        "black": "Black",
+        "white": "White"
+      }
     }
   },
   "category": "Bottoms"

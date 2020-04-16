@@ -39,7 +39,33 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "variations": {
+        "cream": "Cream",
+        "cream-heart": "Cream / Heart",
+        "cream-fish": "Cream / Fish",
+        "cream-star": "Cream / Star",
+        "caramel-mocha": "Caramel mocha",
+        "caramel-mocha-heart": "Caramel mocha / Heart",
+        "caramel-mocha-fish": "Caramel mocha / Fish",
+        "caramel-mocha-star": "Caramel mocha / Star",
+        "choco": "Choco",
+        "choco-heart": "Choco / Heart",
+        "choco-fish": "Choco / Fish",
+        "choco-star": "Choco / Star",
+        "floral": "Floral",
+        "floral-heart": "Floral / Heart",
+        "floral-fish": "Floral / Fish",
+        "floral-star": "Floral / Star",
+        "checkered": "Checkered",
+        "checkered-heart": "Checkered / Heart",
+        "checkered-fish": "Checkered / Fish",
+        "checkered-star": "Checkered / Star",
+        "tweed": "Tweed",
+        "tweed-heart": "Tweed / Heart",
+        "tweed-fish": "Tweed / Fish",
+        "tweed-star": "Tweed / Star"
+      }
     }
   }
 }

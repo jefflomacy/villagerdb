@@ -3,6 +3,10 @@
   "name": "Impish Costume",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 560
@@ -12,7 +16,11 @@
           "currency": "bells",
           "value": 2240
         }
-      ]
+      ],
+      "variations": {
+        "black": "Black",
+        "red": "Red"
+      }
     }
   },
   "category": "Dresses"

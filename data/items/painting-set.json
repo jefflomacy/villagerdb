@@ -37,7 +37,25 @@
           "currency": "bells",
           "value": 510
         }
-      ]
+      ],
+      "variations": {
+        "yellow-blank": "Yellow / Blank",
+        "yellow-smile": "Yellow / Smile",
+        "yellow-bug": "Yellow / Bug",
+        "yellow-still-life": "Yellow / Still life",
+        "pink-blank": "Pink / Blank",
+        "pink-smile": "Pink / Smile",
+        "pink-bug": "Pink / Bug",
+        "pink-still-life": "Pink / Still life",
+        "light-blue-blank": "Light blue / Blank",
+        "light-blue-smile": "Light blue / Smile",
+        "light-blue-bug": "Light blue / Bug",
+        "light-blue-still-life": "Light blue / Still life",
+        "white-blank": "White / Blank",
+        "white-smile": "White / Smile",
+        "white-bug": "White / Bug",
+        "white-still-life": "White / Still life"
+      }
     }
   }
 }

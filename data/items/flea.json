@@ -15,16 +15,13 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "Bouncing on villagers heads (Apr-Nov)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 70
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 280
-        }
-      ]
+      }
     }
   }
 }

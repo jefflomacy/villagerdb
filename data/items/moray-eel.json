@@ -15,6 +15,10 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Narrow Shadows at Sea, Aug-Oct (All day)",
+        "South: Narrow Shadows at Sea, Feb-Apr (All day)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 2000

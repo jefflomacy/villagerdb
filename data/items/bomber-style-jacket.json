@@ -13,7 +13,13 @@
           "currency": "bells",
           "value": 1440
         }
-      ]
+      ],
+      "variations": {
+        "avocado": "Avocado",
+        "black": "Black",
+        "blue": "Blue",
+        "brown": "Brown"
+      }
     }
   },
   "category": "Tops"

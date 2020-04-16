@@ -12,7 +12,14 @@
           "currency": "bells",
           "value": 1260
         }
-      ]
+      ],
+      "variations": {
+        "orange": "Orange",
+        "pink": "Pink",
+        "green": "Green",
+        "light-blue": "Light blue",
+        "blue": "Blue"
+      }
     }
   },
   "category": "Shoes"

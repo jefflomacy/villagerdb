@@ -16,7 +16,44 @@
           "currency": "bells",
           "value": 2200
         }
-      ]
+      ],
+      "variations": {
+        "white-white": "White / White",
+        "white-black": "White / Black",
+        "white-green": "White / Green",
+        "white-blue": "White / Blue",
+        "white-orange": "White / Orange",
+        "white-light-wood": "White / Light wood",
+        "white-dark-wood": "White / Dark wood",
+        "black-white": "Black / White",
+        "black-black": "Black / Black",
+        "black-green": "Black / Green",
+        "black-blue": "Black / Blue",
+        "black-orange": "Black / Orange",
+        "black-light-wood": "Black / Light wood",
+        "black-dark-wood": "Black / Dark wood",
+        "green-white": "Green / White",
+        "green-black": "Green / Black",
+        "green-green": "Green / Green",
+        "green-blue": "Green / Blue",
+        "green-orange": "Green / Orange",
+        "green-light-wood": "Green / Light wood",
+        "green-dark-wood": "Green / Dark wood",
+        "blue-white": "Blue / White",
+        "blue-black": "Blue / Black",
+        "blue-green": "Blue / Green",
+        "blue-blue": "Blue / Blue",
+        "blue-orange": "Blue / Orange",
+        "blue-light-wood": "Blue / Light wood",
+        "blue-dark-wood": "Blue / Dark wood",
+        "red-white": "Red / White",
+        "red-black": "Red / Black",
+        "red-green": "Red / Green",
+        "red-blue": "Red / Blue",
+        "red-orange": "Red / Orange",
+        "red-light-wood": "Red / Light wood",
+        "red-dark-wood": "Red / Dark wood"
+      }
     }
   },
   "category": "Furniture"

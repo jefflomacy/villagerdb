@@ -25,6 +25,10 @@
       },
       "recipe": {
         "cardboard-box": 2
+      },
+      "variations": {
+        "plain": "Plain",
+        "labeled": "Labeled"
       }
     }
   }

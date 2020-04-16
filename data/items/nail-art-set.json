@@ -16,7 +16,11 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "variations": {
+        "pink": "Pink",
+        "black": "Black"
+      }
     }
   },
   "category": "Furniture"

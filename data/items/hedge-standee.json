@@ -29,6 +29,15 @@
       "recipe": {
         "wood": 2,
         "softwood": 3
+      },
+      "variations": {
+        "spring": "Spring",
+        "azalea": "Azalea",
+        "summer": "Summer",
+        "hydrangea": "Hydrangea",
+        "hibiscus": "Hibiscus",
+        "fall": "Fall",
+        "winter": "Winter"
       }
     }
   }

@@ -16,7 +16,12 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "variations": {
+        "light-blue": "Light blue",
+        "beige": "Beige",
+        "navy-blue": "Navy blue"
+      }
     }
   },
   "category": "Tops"

@@ -13,7 +13,14 @@
           "currency": "bells",
           "value": 1300
         }
-      ]
+      ],
+      "variations": {
+        "sports": "Sports",
+        "university": "University",
+        "classic": "Classic",
+        "sponsor": "Sponsor",
+        "souvenir": "Souvenir"
+      }
     }
   },
   "category": "Furniture"

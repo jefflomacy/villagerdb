@@ -34,7 +34,18 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "variations": {
+        "natural-apple": "Natural / Apple",
+        "natural-fish": "Natural / Fish",
+        "natural-flower": "Natural / Flower",
+        "white-apple": "White / Apple",
+        "white-fish": "White / Fish",
+        "white-flower": "White / Flower",
+        "blue-apple": "Blue / Apple",
+        "blue-fish": "Blue / Fish",
+        "blue-flower": "Blue / Flower"
+      }
     }
   }
 }

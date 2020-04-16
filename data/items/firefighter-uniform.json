@@ -3,6 +3,10 @@
   "name": "Firefighter Uniform",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 560
@@ -12,7 +16,14 @@
           "currency": "bells",
           "value": 2240
         }
-      ]
+      ],
+      "variations": {
+        "black": "Black",
+        "flame-orange": "Flame orange",
+        "brown": "Brown",
+        "lime-yellow": "Lime yellow",
+        "avocado": "Avocado"
+      }
     }
   },
   "category": "Dresses"

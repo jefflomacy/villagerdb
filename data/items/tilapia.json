@@ -4,6 +4,10 @@
   "games": {
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Medium Shadows on River, Jun-Oct (All day)",
+        "South: Medium Shadows on River, Dec-Apr (All day)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 800

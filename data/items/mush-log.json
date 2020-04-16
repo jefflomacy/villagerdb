@@ -12,7 +12,14 @@
           "currency": "bells",
           "value": 6720
         }
-      ]
+      ],
+      "variations": {
+        "ordinary-mushroom": "Ordinary mushroom",
+        "white-mushroom": "White mushroom",
+        "strange-mushroom": "Strange mushroom",
+        "red-mushroom": "Red mushroom",
+        "yellow-mushroom": "Yellow mushroom"
+      }
     }
   },
   "category": "Furniture"

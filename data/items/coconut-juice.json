@@ -4,6 +4,7 @@
   "category": "Furniture",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 500
@@ -13,7 +14,10 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "recipe": {
+        "coconut": 1
+      }
     },
     "nl": {
       "orderable": false,

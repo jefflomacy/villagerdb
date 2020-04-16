@@ -13,7 +13,10 @@
           "currency": "bells",
           "value": 490
         }
-      ]
+      ],
+      "variations": {
+        "pasta": "Pasta"
+      }
     }
   },
   "category": "Accessories"

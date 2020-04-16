@@ -12,6 +12,14 @@
       },
       "recipe": {
         "clay": 4
+      },
+      "variations": {
+        "unglazed": "Unglazed",
+        "simple": "Simple",
+        "sky-blue": "Sky blue",
+        "yellow-amber": "Yellow amber",
+        "fruits": "Fruits",
+        "artistic": "Artistic"
       }
     }
   }

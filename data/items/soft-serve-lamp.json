@@ -33,7 +33,17 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "variations": {
+        "vanilla": "Vanilla",
+        "purple-sweet-potato": "Purple sweet potato",
+        "mango": "Mango",
+        "pale-sky": "Pale sky",
+        "green-tea": "Green tea",
+        "chocolate-swirl": "Chocolate swirl",
+        "strawberry-swirl": "Strawberry swirl",
+        "rainbow": "Rainbow"
+      }
     }
   }
 }

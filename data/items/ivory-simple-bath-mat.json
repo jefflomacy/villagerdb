@@ -3,6 +3,9 @@
   "name": "Ivory Simple Bath Mat",
   "games": {
     "nh": {
+      "sources": [
+        "Saharah"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 250

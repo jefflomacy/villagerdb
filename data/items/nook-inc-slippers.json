@@ -16,7 +16,10 @@
           "currency": "miles",
           "value": 400
         }
-      ]
+      ],
+      "variations": {
+        "white": "White"
+      }
     }
   },
   "category": "Shoes"

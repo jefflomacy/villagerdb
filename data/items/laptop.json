@@ -40,7 +40,51 @@
           "currency": "bells",
           "value": 70000
         }
-      ]
+      ],
+      "variations": {
+        "black-desktop": "Black / Desktop",
+        "black-search-engine": "Black / Search engine",
+        "black-calculations": "Black / Calculations",
+        "black-web-browsing": "Black / Web browsing",
+        "black-online-shopping": "Black / Online shopping",
+        "black-chat-tool": "Black / Chat tool",
+        "silver-desktop": "Silver / Desktop",
+        "silver-search-engine": "Silver / Search engine",
+        "silver-calculations": "Silver / Calculations",
+        "silver-web-browsing": "Silver / Web browsing",
+        "silver-online-shopping": "Silver / Online shopping",
+        "silver-chat-tool": "Silver / Chat tool",
+        "white-desktop": "White / Desktop",
+        "white-search-engine": "White / Search engine",
+        "white-calculations": "White / Calculations",
+        "white-web-browsing": "White / Web browsing",
+        "white-online-shopping": "White / Online shopping",
+        "white-chat-tool": "White / Chat tool",
+        "red-desktop": "Red / Desktop",
+        "red-search-engine": "Red / Search engine",
+        "red-calculations": "Red / Calculations",
+        "red-web-browsing": "Red / Web browsing",
+        "red-online-shopping": "Red / Online shopping",
+        "red-chat-tool": "Red / Chat tool",
+        "pink-desktop": "Pink / Desktop",
+        "pink-search-engine": "Pink / Search engine",
+        "pink-calculations": "Pink / Calculations",
+        "pink-web-browsing": "Pink / Web browsing",
+        "pink-online-shopping": "Pink / Online shopping",
+        "pink-chat-tool": "Pink / Chat tool",
+        "blue-desktop": "Blue / Desktop",
+        "blue-search-engine": "Blue / Search engine",
+        "blue-calculations": "Blue / Calculations",
+        "blue-web-browsing": "Blue / Web browsing",
+        "blue-online-shopping": "Blue / Online shopping",
+        "blue-chat-tool": "Blue / Chat tool",
+        "gold-desktop": "Gold / Desktop",
+        "gold-search-engine": "Gold / Search engine",
+        "gold-calculations": "Gold / Calculations",
+        "gold-web-browsing": "Gold / Web browsing",
+        "gold-online-shopping": "Gold / Online shopping",
+        "gold-chat-tool": "Gold / Chat tool"
+      }
     }
   }
 }

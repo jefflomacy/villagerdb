@@ -31,7 +31,12 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "variations": {
+        "wooden": "Wooden",
+        "stainless-steel": "Stainless steel",
+        "pop": "Pop"
+      }
     }
   }
 }

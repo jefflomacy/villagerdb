@@ -24,6 +24,7 @@
       ]
     },
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 400
@@ -33,7 +34,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "recipe": {
+        "document-stack": 1
+      },
+      "variations": {
+        "essays": "Essays",
+        "manuscript-paper": "Manuscript paper",
+        "illustrations": "Illustrations",
+        "plans": "Plans"
+      }
     }
   }
 }

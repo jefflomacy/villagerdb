@@ -12,7 +12,12 @@
           "currency": "bells",
           "value": 2640
         }
-      ]
+      ],
+      "variations": {
+        "brown": "Brown",
+        "black": "Black",
+        "greige": "Greige"
+      }
     }
   },
   "category": "Shoes"

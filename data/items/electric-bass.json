@@ -26,7 +26,17 @@
           "currency": "bells",
           "value": 82000
         }
-      ]
+      ],
+      "variations": {
+        "chic-white": "Chic white",
+        "natural-wood": "Natural wood",
+        "sunburst": "Sunburst",
+        "cosmo-black": "Cosmo black",
+        "deep-ocean": "Deep ocean",
+        "ash-green": "Ash green",
+        "shocking-pink": "Shocking pink",
+        "space-silver": "Space silver"
+      }
     }
   }
 }

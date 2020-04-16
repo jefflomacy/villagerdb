@@ -32,6 +32,12 @@
       "recipe": {
         "stone": 20,
         "shovel": 1
+      },
+      "variations": {
+        "gray": "Gray",
+        "black": "Black",
+        "brown": "Brown",
+        "white": "White"
       }
     }
   }

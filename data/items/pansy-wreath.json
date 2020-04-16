@@ -3,6 +3,7 @@
   "name": "Pansy Wreath",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 720
@@ -12,7 +13,12 @@
           "currency": "bells",
           "value": 2880
         }
-      ]
+      ],
+      "recipe": {
+        "yellow-pansies": 3,
+        "white-pansies": 3,
+        "red-pansies": 3
+      }
     }
   },
   "category": "Furniture"

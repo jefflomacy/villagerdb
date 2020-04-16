@@ -3,6 +3,7 @@
   "name": "Leaf Mask",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 200
@@ -12,7 +13,13 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "recipe": {
+        "clump-of-weeds": 10
+      },
+      "variations": {
+        "green": "Green"
+      }
     }
   },
   "category": "Hats"

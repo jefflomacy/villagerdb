@@ -1,0 +1,10 @@
+{
+  "id": "bells",
+  "name": "Bells",
+  "games": {
+    "nh": {
+      "orderable": false
+    }
+  },
+  "category": "Usables"
+}

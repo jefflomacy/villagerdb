@@ -15,16 +15,13 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "Flying around trash (year round)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 60
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 240
-        }
-      ]
+      }
     }
   }
 }

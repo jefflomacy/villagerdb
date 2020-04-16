@@ -32,6 +32,12 @@
       },
       "recipe": {
         "old-tire": 3
+      },
+      "variations": {
+        "black": "Black",
+        "green": "Green",
+        "colorful": "Colorful",
+        "old": "Old"
       }
     }
   }

@@ -36,7 +36,15 @@
           "currency": "bells",
           "value": 880
         }
-      ]
+      ],
+      "variations": {
+        "rose": "Rose",
+        "sandalwood": "Sandalwood",
+        "deep-sea": "Deep sea",
+        "forest": "Forest",
+        "cherry-blossoms": "Cherry blossoms",
+        "tea": "Tea"
+      }
     }
   }
 }

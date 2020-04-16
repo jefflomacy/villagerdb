@@ -3,16 +3,17 @@
   "name": "Star Pochette",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 3000
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 12000
-        }
-      ]
+      "recipe": {
+        "star-fragment": 6
+      },
+      "variations": {
+        "yellow": "Yellow"
+      }
     }
   },
   "category": "Accessories"

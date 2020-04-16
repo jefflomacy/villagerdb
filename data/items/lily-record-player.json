@@ -18,6 +18,7 @@
       ]
     },
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 3010
@@ -27,7 +28,17 @@
           "currency": "bells",
           "value": 12040
         }
-      ]
+      ],
+      "recipe": {
+        "white-lilies": 5,
+        "iron-nugget": 3,
+        "wood": 3
+      },
+      "variations": {
+        "white": "White",
+        "pink": "Pink",
+        "yellow": "Yellow"
+      }
     }
   }
 }

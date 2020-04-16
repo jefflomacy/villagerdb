@@ -15,6 +15,10 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Tiny Shadows on River, Apr-Nov (9am-4pm)",
+        "South: Tiny Shadows on River, Oct-May (9am-4pm)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 500

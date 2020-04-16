@@ -3,6 +3,7 @@
   "name": "Fancy Mum Wreath",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1200
@@ -12,7 +13,12 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "recipe": {
+        "pink-mums": 3,
+        "purple-mums": 3,
+        "red-mums": 3
+      }
     }
   },
   "category": "Furniture"

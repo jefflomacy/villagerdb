@@ -33,6 +33,14 @@
       "recipe": {
         "wood": 2,
         "softwood": 5
+      },
+      "variations": {
+        "natural": "Natural",
+        "dark-brown": "Dark brown",
+        "natural-white": "Natural & white",
+        "red-white": "Red & white",
+        "blue": "Blue",
+        "white": "White"
       }
     }
   }

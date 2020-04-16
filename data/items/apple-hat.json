@@ -12,7 +12,13 @@
           "currency": "bells",
           "value": 4000
         }
-      ]
+      ],
+      "recipe": {
+        "apple": 5
+      },
+      "variations": {
+        "red": "Red"
+      }
     }
   },
   "category": "Hats"

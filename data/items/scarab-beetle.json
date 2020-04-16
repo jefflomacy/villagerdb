@@ -18,13 +18,7 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10000
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 40000
-        }
-      ]
+      }
     }
   }
 }

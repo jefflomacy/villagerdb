@@ -40,7 +40,44 @@
           "currency": "bells",
           "value": 5000
         }
-      ]
+      ],
+      "variations": {
+        "silver-white": "Silver / White",
+        "silver-striped": "Silver / Striped",
+        "silver-checkered": "Silver / Checkered",
+        "silver-space": "Silver / Space",
+        "silver-colorful-lines": "Silver / Colorful lines",
+        "black-white": "Black / White",
+        "black-striped": "Black / Striped",
+        "black-checkered": "Black / Checkered",
+        "black-space": "Black / Space",
+        "black-colorful-lines": "Black / Colorful lines",
+        "white-white": "White / White",
+        "white-striped": "White / Striped",
+        "white-checkered": "White / Checkered",
+        "white-space": "White / Space",
+        "white-colorful-lines": "White / Colorful lines",
+        "red-white": "Red / White",
+        "red-striped": "Red / Striped",
+        "red-checkered": "Red / Checkered",
+        "red-space": "Red / Space",
+        "red-colorful-lines": "Red / Colorful lines",
+        "blue-white": "Blue / White",
+        "blue-striped": "Blue / Striped",
+        "blue-checkered": "Blue / Checkered",
+        "blue-space": "Blue / Space",
+        "blue-colorful-lines": "Blue / Colorful lines",
+        "yellow-white": "Yellow / White",
+        "yellow-striped": "Yellow / Striped",
+        "yellow-checkered": "Yellow / Checkered",
+        "yellow-space": "Yellow / Space",
+        "yellow-colorful-lines": "Yellow / Colorful lines",
+        "pink-white": "Pink / White",
+        "pink-striped": "Pink / Striped",
+        "pink-checkered": "Pink / Checkered",
+        "pink-space": "Pink / Space",
+        "pink-colorful-lines": "Pink / Colorful lines"
+      }
     }
   }
 }

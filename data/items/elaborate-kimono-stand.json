@@ -12,7 +12,14 @@
           "currency": "bells",
           "value": 220000
         }
-      ]
+      ],
+      "variations": {
+        "cranes": "Cranes",
+        "tree-peonies": "Tree peonies",
+        "wisteria": "Wisteria",
+        "balls": "Balls",
+        "hawk": "Hawk"
+      }
     }
   },
   "category": "Furniture"

@@ -13,7 +13,16 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "variations": {
+        "cyan-zigzags": "Cyan zigzags",
+        "red-stripes": "Red stripes",
+        "colorful": "Colorful",
+        "shells": "Shells",
+        "blue": "Blue",
+        "yellow": "Yellow",
+        "white": "White"
+      }
     }
   },
   "category": "Furniture"

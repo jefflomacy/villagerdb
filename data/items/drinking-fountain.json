@@ -32,6 +32,12 @@
       "recipe": {
         "stone": 8,
         "iron-nugget": 2
+      },
+      "variations": {
+        "ivory": "Ivory",
+        "gray": "Gray",
+        "brown": "Brown",
+        "black": "Black"
       }
     }
   }

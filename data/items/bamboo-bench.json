@@ -17,19 +17,19 @@
       ]
     },
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1280
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 5120
-        }
-      ],
       "recipe": {
         "bamboo-piece": 8
+      },
+      "variations": {
+        "green-bamboo": "Green bamboo",
+        "dried-bamboo": "Dried bamboo",
+        "smoke-cured-bamboo": "Smoke-cured bamboo"
       }
     }
   }

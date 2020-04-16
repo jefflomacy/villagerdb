@@ -3,6 +3,7 @@
   "name": "Cool Hyacinth Wreath",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1440
@@ -12,7 +13,12 @@
           "currency": "bells",
           "value": 5760
         }
-      ]
+      ],
+      "recipe": {
+        "orange-hyacinths": 3,
+        "blue-hyacinths": 3,
+        "pink-hyacinths": 3
+      }
     }
   },
   "category": "Furniture"

@@ -12,7 +12,15 @@
           "currency": "bells",
           "value": 352
         }
-      ]
+      ],
+      "variations": {
+        "flowers": "Flowers",
+        "bird": "Bird",
+        "bouquet": "Bouquet",
+        "girl": "Girl",
+        "fairy-tale": "Fairy tale",
+        "trees": "Trees"
+      }
     }
   },
   "category": "Furniture"

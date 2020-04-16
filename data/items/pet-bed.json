@@ -13,7 +13,24 @@
           "currency": "bells",
           "value": 1100
         }
-      ]
+      ],
+      "variations": {
+        "natural-white": "Natural / White",
+        "natural-moss-green": "Natural / Moss green",
+        "natural-polka-dots": "Natural / Polka dots",
+        "natural-checkered": "Natural / Checkered",
+        "natural-floral": "Natural / Floral",
+        "dark-brown-white": "Dark brown / White",
+        "dark-brown-moss-green": "Dark brown / Moss green",
+        "dark-brown-polka-dots": "Dark brown / Polka dots",
+        "dark-brown-checkered": "Dark brown / Checkered",
+        "dark-brown-floral": "Dark brown / Floral",
+        "white-white": "White / White",
+        "white-moss-green": "White / Moss green",
+        "white-polka-dots": "White / Polka dots",
+        "white-checkered": "White / Checkered",
+        "white-floral": "White / Floral"
+      }
     }
   },
   "category": "Furniture"

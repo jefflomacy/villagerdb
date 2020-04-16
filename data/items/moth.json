@@ -17,16 +17,13 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "Near lights and lamps outside"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 130
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 520
-        }
-      ]
+      }
     }
   }
 }

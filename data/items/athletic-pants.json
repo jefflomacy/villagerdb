@@ -3,6 +3,9 @@
   "name": "Athletic Pants",
   "games": {
     "nh": {
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 220
@@ -12,7 +15,15 @@
           "currency": "bells",
           "value": 880
         }
-      ]
+      ],
+      "variations": {
+        "red": "Red",
+        "green": "Green",
+        "black": "Black",
+        "blue": "Blue",
+        "berry-red": "Berry red",
+        "navy-blue": "Navy blue"
+      }
     }
   },
   "category": "Bottoms"

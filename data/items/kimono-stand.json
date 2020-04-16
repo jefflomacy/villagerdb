@@ -12,7 +12,13 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "variations": {
+        "checkered": "Checkered",
+        "goldfish": "Goldfish",
+        "camellia": "Camellia",
+        "chain-print": "Chain print"
+      }
     }
   },
   "category": "Furniture"

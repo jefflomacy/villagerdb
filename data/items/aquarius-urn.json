@@ -27,16 +27,14 @@
       ]
     },
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Celeste DIY"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 22125
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 88500
-        }
-      ]
+      }
     }
   }
 }

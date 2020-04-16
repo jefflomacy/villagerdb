@@ -28,6 +28,7 @@
     },
     "nh": {
       "orderable": true,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 3250
@@ -37,7 +38,13 @@
           "currency": "bells",
           "value": 13000
         }
-      ]
+      ],
+      "variations": {
+        "checkered": "Checkered",
+        "goldfish": "Goldfish",
+        "camellia": "Camellia",
+        "chain-print": "Chain print"
+      }
     }
   }
 }

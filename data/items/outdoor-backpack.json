@@ -12,7 +12,12 @@
           "currency": "bells",
           "value": 1560
         }
-      ]
+      ],
+      "variations": {
+        "avocado": "Avocado",
+        "orange": "Orange",
+        "navy-blue": "Navy blue"
+      }
     }
   },
   "category": "Accessories"

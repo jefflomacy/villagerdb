@@ -40,6 +40,12 @@
         "coconut": 4,
         "wood": 4,
         "clay": 4
+      },
+      "variations": {
+        "natural": "Natural",
+        "tropical": "Tropical",
+        "cute": "Cute",
+        "cool": "Cool"
       }
     }
   }

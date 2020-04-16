@@ -3,6 +3,7 @@
   "name": "Leaf Campfire",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1330
@@ -12,7 +13,16 @@
           "currency": "bells",
           "value": 5320
         }
-      ]
+      ],
+      "recipe": {
+        "pine-cone": 3,
+        "clump-of-weeds": 5,
+        "tree-branch": 3
+      },
+      "variations": {
+        "none": "None",
+        "roasting-marshmallows": "Roasting marshmallows"
+      }
     }
   },
   "category": "Furniture"

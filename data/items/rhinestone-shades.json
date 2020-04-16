@@ -16,7 +16,12 @@
           "currency": "bells",
           "value": 1040
         }
-      ]
+      ],
+      "variations": {
+        "red": "Red",
+        "ochre": "Ochre",
+        "purple": "Purple"
+      }
     }
   },
   "category": "Accessories"

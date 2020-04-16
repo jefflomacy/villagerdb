@@ -12,7 +12,14 @@
           "currency": "bells",
           "value": 1680
         }
-      ]
+      ],
+      "variations": {
+        "black": "Black",
+        "flame-orange": "Flame orange",
+        "brown": "Brown",
+        "lime-yellow": "Lime yellow",
+        "avocado": "Avocado"
+      }
     }
   },
   "category": "Hats"

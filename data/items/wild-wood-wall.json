@@ -3,16 +3,11 @@
   "name": "Wild-wood Wall",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1800
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 7200
-        }
-      ],
       "recipe": {
         "wood": 15
       }

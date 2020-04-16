@@ -12,7 +12,13 @@
           "currency": "bells",
           "value": 2520
         }
-      ]
+      ],
+      "variations": {
+        "garnet": "Garnet",
+        "aquamarine": "Aquamarine",
+        "topaz": "Topaz",
+        "amethyst": "Amethyst"
+      }
     }
   },
   "category": "Dresses"

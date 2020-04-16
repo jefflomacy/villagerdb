@@ -12,7 +12,13 @@
           "currency": "bells",
           "value": 540
         }
-      ]
+      ],
+      "variations": {
+        "blue": "Blue",
+        "indigo-blue": "Indigo blue",
+        "saxon-blue": "Saxon blue",
+        "light-blue": "Light blue"
+      }
     }
   },
   "category": "Socks"

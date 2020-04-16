@@ -3,6 +3,7 @@
   "name": "Pond Stone",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1500
@@ -12,7 +13,14 @@
           "currency": "bells",
           "value": 6000
         }
-      ]
+      ],
+      "recipe": {
+        "stone": 6
+      },
+      "variations": {
+        "white": "White",
+        "mossy": "Mossy"
+      }
     }
   },
   "category": "Furniture"

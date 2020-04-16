@@ -12,7 +12,17 @@
           "currency": "bells",
           "value": 600
         }
-      ]
+      ],
+      "variations": {
+        "red-light-blue": "Red & light blue",
+        "blue-orange": "Blue & orange",
+        "lime-pink": "Lime & pink",
+        "yellow-purple": "Yellow & purple",
+        "light-blue-red": "Light blue & red",
+        "purple-green": "Purple & green",
+        "pink-yellow": "Pink & yellow",
+        "black-gray": "Black & gray"
+      }
     }
   },
   "category": "Socks"

@@ -33,7 +33,17 @@
           "currency": "bells",
           "value": 1100
         }
-      ]
+      ],
+      "variations": {
+        "silver-plain": "Silver / Plain",
+        "silver-pe-shirt": "Silver / PE shirt",
+        "silver-fish": "Silver / Fish",
+        "silver-carrot": "Silver / Carrot",
+        "blue-plain": "Blue / Plain",
+        "blue-pe-shirt": "Blue / PE shirt",
+        "blue-fish": "Blue / Fish",
+        "blue-carrot": "Blue / Carrot"
+      }
     }
   }
 }

@@ -12,7 +12,13 @@
           "currency": "bells",
           "value": 11520
         }
-      ]
+      ],
+      "recipe": {
+        "purple-hyacinths": 6
+      },
+      "variations": {
+        "purple": "Purple"
+      }
     }
   },
   "category": "Hats"

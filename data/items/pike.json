@@ -15,6 +15,10 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Very Large Shadows on River, Sep-Dec (All Day)",
+        "South: Very Large Shadows on River, Mar-Jun (All Day)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 1800

@@ -36,7 +36,14 @@
           "currency": "bells",
           "value": 700
         }
-      ]
+      ],
+      "variations": {
+        "pink": "Pink",
+        "red": "Red",
+        "green": "Green",
+        "blue": "Blue",
+        "black": "Black"
+      }
     }
   }
 }

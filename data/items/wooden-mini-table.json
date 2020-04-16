@@ -9,14 +9,50 @@
         "currency": "bells",
         "value": 720
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 2880
-        }
-      ],
       "recipe": {
         "wood": 6
+      },
+      "variations": {
+        "light-wood": "Light wood",
+        "light-wood-orange": "Light wood / Orange",
+        "light-wood-pink": "Light wood / Pink",
+        "light-wood-blue": "Light wood / Blue",
+        "light-wood-green": "Light wood / Green",
+        "white-wood": "White wood",
+        "white-wood-orange": "White wood / Orange",
+        "white-wood-pink": "White wood / Pink",
+        "white-wood-blue": "White wood / Blue",
+        "white-wood-green": "White wood / Green",
+        "cherry-wood": "Cherry wood",
+        "cherry-wood-orange": "Cherry wood / Orange",
+        "cherry-wood-pink": "Cherry wood / Pink",
+        "cherry-wood-blue": "Cherry wood / Blue",
+        "cherry-wood-green": "Cherry wood / Green",
+        "dark-wood": "Dark wood",
+        "dark-wood-orange": "Dark wood / Orange",
+        "dark-wood-pink": "Dark wood / Pink",
+        "dark-wood-blue": "Dark wood / Blue",
+        "dark-wood-green": "Dark wood / Green",
+        "black": "Black",
+        "black-orange": "Black / Orange",
+        "black-pink": "Black / Pink",
+        "black-blue": "Black / Blue",
+        "black-green": "Black / Green",
+        "green": "Green",
+        "green-orange": "Green / Orange",
+        "green-pink": "Green / Pink",
+        "green-blue": "Green / Blue",
+        "green-green": "Green / Green",
+        "blue": "Blue",
+        "blue-orange": "Blue / Orange",
+        "blue-pink": "Blue / Pink",
+        "blue-blue": "Blue / Blue",
+        "blue-green": "Blue / Green",
+        "pink-wood": "Pink wood",
+        "pink-wood-orange": "Pink wood / Orange",
+        "pink-wood-pink": "Pink wood / Pink",
+        "pink-wood-blue": "Pink wood / Blue",
+        "pink-wood-green": "Pink wood / Green"
       }
     }
   },

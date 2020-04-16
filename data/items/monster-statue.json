@@ -3,9 +3,25 @@
   "name": "Monster Statue",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Miles System"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 25000
+      },
+      "buyPrices": [
+        {
+          "currency": "miles",
+          "value": 5000
+        }
+      ],
+      "variations": {
+        "brown": "Brown",
+        "blue": "Blue",
+        "red": "Red",
+        "black": "Black"
       }
     }
   },

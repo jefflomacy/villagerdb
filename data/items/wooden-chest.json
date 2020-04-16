@@ -3,16 +3,25 @@
   "name": "Wooden Chest",
   "games": {
     "nh": {
+      "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1920
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 7680
-        }
-      ]
+      "recipe": {
+        "wood": 16
+      },
+      "variations": {
+        "light-wood": "Light wood",
+        "white-wood": "White wood",
+        "cherry-wood": "Cherry wood",
+        "dark-wood": "Dark wood",
+        "black": "Black",
+        "green": "Green",
+        "blue": "Blue",
+        "pink-wood": "Pink wood"
+      }
     }
   },
   "category": "Furniture"

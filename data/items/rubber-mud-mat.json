@@ -3,6 +3,9 @@
   "name": "Rubber Mud Mat",
   "games": {
     "nh": {
+      "sources": [
+        "Saharah"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 250

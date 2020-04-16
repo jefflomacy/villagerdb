@@ -12,7 +12,15 @@
           "currency": "bells",
           "value": 352
         }
-      ]
+      ],
+      "variations": {
+        "bedford": "Bedford",
+        "dot": "Dot",
+        "puppers": "Puppers",
+        "pippa": "Pippa",
+        "gertie": "Gertie",
+        "roary": "Roary"
+      }
     }
   },
   "category": "Furniture"

@@ -23,7 +23,13 @@
           "currency": "bells",
           "value": 290
         }
-      ]
+      ],
+      "variations": {
+        "western-literature": "Western literature",
+        "japanese-literature": "Japanese literature",
+        "encyclopedia": "Encyclopedia",
+        "textbook": "Textbook"
+      }
     }
   }
 }

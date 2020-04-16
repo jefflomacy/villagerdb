@@ -24,6 +24,7 @@
       ]
     },
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 960
@@ -33,7 +34,19 @@
           "currency": "bells",
           "value": 3840
         }
-      ]
+      ],
+      "recipe": {
+        "hardwood": 2,
+        "softwood": 6
+      },
+      "variations": {
+        "natural": "Natural",
+        "colorful": "Colorful",
+        "pop": "Pop",
+        "cool": "Cool",
+        "pastel": "Pastel",
+        "cute": "Cute"
+      }
     }
   }
 }

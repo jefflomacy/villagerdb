@@ -22,6 +22,12 @@
       },
       "recipe": {
         "wood": 8
+      },
+      "variations": {
+        "natural": "Natural",
+        "dark-brown": "Dark brown",
+        "red": "Red",
+        "white": "White"
       }
     }
   }

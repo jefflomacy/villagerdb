@@ -12,7 +12,37 @@
           "currency": "bells",
           "value": 100000
         }
-      ]
+      ],
+      "variations": {
+        "black-desktop": "Black / Desktop",
+        "black-search-engine": "Black / Search engine",
+        "black-calculations": "Black / Calculations",
+        "black-web-browsing": "Black / Web browsing",
+        "black-programming": "Black / Programming",
+        "black-art-program": "Black / Art program",
+        "black-digital-audio-workstation": "Black / Digital audio workstation",
+        "silver-desktop": "Silver / Desktop",
+        "silver-search-engine": "Silver / Search engine",
+        "silver-calculations": "Silver / Calculations",
+        "silver-web-browsing": "Silver / Web browsing",
+        "silver-programming": "Silver / Programming",
+        "silver-art-program": "Silver / Art program",
+        "silver-digital-audio-workstation": "Silver / Digital audio workstation",
+        "white-desktop": "White / Desktop",
+        "white-search-engine": "White / Search engine",
+        "white-calculations": "White / Calculations",
+        "white-web-browsing": "White / Web browsing",
+        "white-programming": "White / Programming",
+        "white-art-program": "White / Art program",
+        "white-digital-audio-workstation": "White / Digital audio workstation",
+        "pink-desktop": "Pink / Desktop",
+        "pink-search-engine": "Pink / Search engine",
+        "pink-calculations": "Pink / Calculations",
+        "pink-web-browsing": "Pink / Web browsing",
+        "pink-programming": "Pink / Programming",
+        "pink-art-program": "Pink / Art program",
+        "pink-digital-audio-workstation": "Pink / Digital audio workstation"
+      }
     }
   },
   "category": "Furniture"

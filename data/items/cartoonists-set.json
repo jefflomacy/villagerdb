@@ -7,7 +7,7 @@
       "sources": [
         "Nook's Cranny"
       ],
-      "customizable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 300
@@ -17,7 +17,21 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "variations": {
+        "black-blank": "Black / Blank",
+        "black-comic-plan": "Black / Comic plan",
+        "black-gag-comic": "Black / Gag comic",
+        "silver-blank": "Silver / Blank",
+        "silver-comic-plan": "Silver / Comic plan",
+        "silver-gag-comic": "Silver / Gag comic",
+        "pink-blank": "Pink / Blank",
+        "pink-comic-plan": "Pink / Comic plan",
+        "pink-gag-comic": "Pink / Gag comic",
+        "brown-blank": "Brown / Blank",
+        "brown-comic-plan": "Brown / Comic plan",
+        "brown-gag-comic": "Brown / Gag comic"
+      }
     }
   },
   "category": "Furniture"

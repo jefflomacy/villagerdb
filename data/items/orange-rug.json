@@ -9,12 +9,6 @@
         "currency": "bells",
         "value": 1200
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 4800
-        }
-      ],
       "recipe": {
         "orange": 6
       }

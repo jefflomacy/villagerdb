@@ -41,7 +41,13 @@
           "currency": "bells",
           "value": 3500
         }
-      ]
+      ],
+      "variations": {
+        "white": "White",
+        "black": "Black",
+        "beige": "Beige",
+        "silver": "Silver"
+      }
     }
   }
 }

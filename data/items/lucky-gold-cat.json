@@ -33,7 +33,11 @@
           "currency": "bells",
           "value": 86700
         }
-      ]
+      ],
+      "recipe": {
+        "gold-nugget": 2,
+        "lucky-cat": 1
+      }
     }
   }
 }

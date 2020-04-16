@@ -17,19 +17,18 @@
       ]
     },
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 60
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 240
-        }
-      ],
       "recipe": {
         "cardboard-box": 1
+      },
+      "variations": {
+        "plain": "Plain",
+        "labeled": "Labeled"
       }
     }
   }

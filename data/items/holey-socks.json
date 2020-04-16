@@ -12,7 +12,12 @@
           "currency": "bells",
           "value": 40
         }
-      ]
+      ],
+      "variations": {
+        "blue": "Blue",
+        "navy-blue": "Navy blue",
+        "white": "White"
+      }
     }
   },
   "category": "Socks"

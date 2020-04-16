@@ -3,6 +3,7 @@
   "name": "Ant Farm",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 350

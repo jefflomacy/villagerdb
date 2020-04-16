@@ -12,7 +12,12 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "variations": {
+        "brown": "Brown",
+        "gray": "Gray",
+        "green": "Green"
+      }
     }
   },
   "category": "Dresses"

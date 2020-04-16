@@ -12,7 +12,15 @@
           "currency": "bells",
           "value": 21600
         }
-      ]
+      ],
+      "variations": {
+        "soda": "Soda",
+        "vanilla-chocolate": "Vanilla & chocolate",
+        "citrus": "Citrus",
+        "berry": "Berry",
+        "kiwifruit": "Kiwifruit",
+        "chocolate-mint": "Chocolate mint"
+      }
     }
   },
   "category": "Furniture"

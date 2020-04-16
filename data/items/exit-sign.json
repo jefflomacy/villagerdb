@@ -34,7 +34,13 @@
           "currency": "bells",
           "value": 810
         }
-      ]
+      ],
+      "variations": {
+        "left-arrow": "Left arrow",
+        "right-arrow": "Right arrow",
+        "red-exit": "Red exit",
+        "left-and-right-arrows": "Left and right arrows"
+      }
     }
   }
 }

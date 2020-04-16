@@ -13,7 +13,34 @@
           "currency": "bells",
           "value": 720
         }
-      ]
+      ],
+      "variations": {
+        "white-white": "White / White",
+        "white-navy-blue": "White / Navy blue",
+        "white-pink": "White / Pink",
+        "white-orange": "White / Orange",
+        "white-green": "White / Green",
+        "pink-white": "Pink / White",
+        "pink-navy-blue": "Pink / Navy blue",
+        "pink-pink": "Pink / Pink",
+        "pink-orange": "Pink / Orange",
+        "pink-green": "Pink / Green",
+        "yellow-white": "Yellow / White",
+        "yellow-navy-blue": "Yellow / Navy blue",
+        "yellow-pink": "Yellow / Pink",
+        "yellow-orange": "Yellow / Orange",
+        "yellow-green": "Yellow / Green",
+        "light-blue-white": "Light blue / White",
+        "light-blue-navy-blue": "Light blue / Navy blue",
+        "light-blue-pink": "Light blue / Pink",
+        "light-blue-orange": "Light blue / Orange",
+        "light-blue-green": "Light blue / Green",
+        "black-white": "Black / White",
+        "black-navy-blue": "Black / Navy blue",
+        "black-pink": "Black / Pink",
+        "black-orange": "Black / Orange",
+        "black-green": "Black / Green"
+      }
     }
   },
   "category": "Furniture"

@@ -12,6 +12,16 @@
       "recipe": {
         "wood": 3,
         "iron-nugget": 1
+      },
+      "variations": {
+        "light-wood": "Light wood",
+        "white-wood": "White wood",
+        "cherry-wood": "Cherry wood",
+        "dark-wood": "Dark wood",
+        "black": "Black",
+        "green": "Green",
+        "blue": "Blue",
+        "pink-wood": "Pink wood"
       }
     }
   },

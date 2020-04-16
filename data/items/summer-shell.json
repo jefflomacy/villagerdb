@@ -3,6 +3,10 @@
   "name": "Summer Shell",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Beach"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 600

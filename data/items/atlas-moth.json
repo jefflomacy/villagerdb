@@ -4,16 +4,14 @@
   "games": {
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: On side of trees during the night (Apr-Sept, 7PM-4AM)",
+        ""
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 3000
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 12000
-        }
-      ]
+      }
     }
   },
   "category": "Bugs"

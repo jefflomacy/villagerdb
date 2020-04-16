@@ -12,6 +12,13 @@
       "recipe": {
         "wood": 7,
         "iron-nugget": 4
+      },
+      "variations": {
+        "birch": "Birch",
+        "teak": "Teak",
+        "walnut": "Walnut",
+        "old": "Old",
+        "oak": "Oak"
       }
     }
   },

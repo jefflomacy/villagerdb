@@ -23,6 +23,7 @@
       ]
     },
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 182
@@ -32,7 +33,25 @@
           "currency": "bells",
           "value": 730
         }
-      ]
+      ],
+      "variations": {
+        "natural-pale-grass-green": "Natural / Pale grass green",
+        "natural-mustard-yellow": "Natural / Mustard yellow",
+        "natural-peach": "Natural / Peach",
+        "natural-deep-blue": "Natural / Deep blue",
+        "light-wood-pale-grass-green": "Light wood / Pale grass green",
+        "light-wood-mustard-yellow": "Light wood / Mustard yellow",
+        "light-wood-peach": "Light wood / Peach",
+        "light-wood-deep-blue": "Light wood / Deep blue",
+        "dark-wood-pale-grass-green": "Dark wood / Pale grass green",
+        "dark-wood-mustard-yellow": "Dark wood / Mustard yellow",
+        "dark-wood-peach": "Dark wood / Peach",
+        "dark-wood-deep-blue": "Dark wood / Deep blue",
+        "black-pale-grass-green": "Black / Pale grass green",
+        "black-mustard-yellow": "Black / Mustard yellow",
+        "black-peach": "Black / Peach",
+        "black-deep-blue": "Black / Deep blue"
+      }
     }
   }
 }

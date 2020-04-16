@@ -12,7 +12,14 @@
           "currency": "bells",
           "value": 1260
         }
-      ]
+      ],
+      "variations": {
+        "moss-green": "Moss green",
+        "blue": "Blue",
+        "brown": "Brown",
+        "purple": "Purple",
+        "green": "Green"
+      }
     }
   },
   "category": "Tops"

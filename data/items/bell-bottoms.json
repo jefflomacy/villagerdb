@@ -3,6 +3,9 @@
   "name": "Bell-bottoms",
   "games": {
     "nh": {
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 330
@@ -12,7 +15,14 @@
           "currency": "bells",
           "value": 1320
         }
-      ]
+      ],
+      "variations": {
+        "orange": "Orange",
+        "brown": "Brown",
+        "beige": "Beige",
+        "green": "Green",
+        "blue": "Blue"
+      }
     }
   },
   "category": "Bottoms"

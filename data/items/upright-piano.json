@@ -29,7 +29,13 @@
           "currency": "bells",
           "value": 53000
         }
-      ]
+      ],
+      "variations": {
+        "black": "Black",
+        "white": "White",
+        "walnut": "Walnut",
+        "maple": "Maple"
+      }
     }
   }
 }

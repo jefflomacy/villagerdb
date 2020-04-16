@@ -34,6 +34,14 @@
       },
       "recipe": {
         "softwood": 5
+      },
+      "variations": {
+        "natural": "Natural",
+        "colorful": "Colorful",
+        "white": "White",
+        "pastel": "Pastel",
+        "blue": "Blue",
+        "pop": "Pop"
       }
     }
   }

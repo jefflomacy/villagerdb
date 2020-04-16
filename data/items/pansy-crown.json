@@ -3,6 +3,7 @@
   "name": "Pansy Crown",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 480
@@ -12,7 +13,15 @@
           "currency": "bells",
           "value": 1920
         }
-      ]
+      ],
+      "recipe": {
+        "red-pansies": 2,
+        "yellow-pansies": 2,
+        "white-pansies": 2
+      },
+      "variations": {
+        "colorful": "Colorful"
+      }
     }
   },
   "category": "Hats"

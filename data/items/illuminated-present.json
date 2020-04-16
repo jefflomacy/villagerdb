@@ -12,7 +12,13 @@
           "currency": "bells",
           "value": 11800
         }
-      ]
+      ],
+      "variations": {
+        "yellow-with-red-ribbon": "Yellow with red ribbon",
+        "pink-with-green-ribbon": "Pink with green ribbon",
+        "blue-with-yellow-ribbon": "Blue with yellow ribbon",
+        "white-with-blue-ribbon": "White with blue ribbon"
+      }
     }
   },
   "category": "Furniture"

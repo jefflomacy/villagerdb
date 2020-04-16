@@ -34,7 +34,16 @@
           "currency": "bells",
           "value": 2600
         }
-      ]
+      ],
+      "variations": {
+        "blank": "Blank",
+        "after-school": "After school",
+        "foreign-language": "Foreign language",
+        "math": "Math",
+        "music": "Music",
+        "club-activities": "Club activities",
+        "art": "Art"
+      }
     }
   }
 }

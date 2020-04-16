@@ -4,6 +4,10 @@
   "games": {
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Tiny Shadows on River, May-Oct (9am-4pm)",
+        "South: Tiny Shadows on River, Nov-Apr (9am-4pm)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 800

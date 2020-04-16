@@ -3,6 +3,9 @@
   "name": "Aluminum Rug",
   "games": {
     "nh": {
+      "sources": [
+        "Sahara"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 375

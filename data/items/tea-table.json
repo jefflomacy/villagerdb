@@ -39,6 +39,13 @@
       },
       "recipe": {
         "hardwood": 12
+      },
+      "variations": {
+        "natural-wood": "Natural wood",
+        "dark-wood": "Dark wood",
+        "orange-wood": "Orange wood",
+        "light-wood": "Light wood",
+        "red-wood": "Red wood"
       }
     }
   }

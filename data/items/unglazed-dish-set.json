@@ -12,7 +12,18 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "recipe": {
+        "clay": 3
+      },
+      "variations": {
+        "unglazed": "Unglazed",
+        "powder-white": "Powder white",
+        "deep-blue": "Deep blue",
+        "oribe-style": "Oribe-style",
+        "modern": "Modern",
+        "patterned": "Patterned"
+      }
     }
   },
   "category": "Furniture"

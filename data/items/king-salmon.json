@@ -15,6 +15,10 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Huge Shadows on River Mouth, Sep (All day)",
+        "Huge Shadows on River Mouth, Mar (All day)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 1800

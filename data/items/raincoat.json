@@ -12,7 +12,17 @@
           "currency": "bells",
           "value": 1280
         }
-      ]
+      ],
+      "variations": {
+        "yellow": "Yellow",
+        "green": "Green",
+        "blue": "Blue",
+        "purple": "Purple",
+        "pink": "Pink",
+        "red": "Red",
+        "beige": "Beige",
+        "black": "Black"
+      }
     }
   },
   "category": "Tops"

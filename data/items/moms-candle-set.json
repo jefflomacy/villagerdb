@@ -13,7 +13,15 @@
           "currency": "bells",
           "value": 352
         }
-      ]
+      ],
+      "variations": {
+        "cubes": "Cubes",
+        "elegant-flowers": "Elegant flowers",
+        "chic-flowers": "Chic flowers",
+        "pastel": "Pastel",
+        "fairy-tale": "Fairy tale",
+        "marine": "Marine"
+      }
     }
   },
   "category": "Furniture"

@@ -41,7 +41,17 @@
           "currency": "bells",
           "value": 1900
         }
-      ]
+      ],
+      "variations": {
+        "sprightly-gnome": "Sprightly gnome",
+        "sleepy-gnome": "Sleepy gnome",
+        "surprised-gnome": "Surprised gnome",
+        "reliable-gnome": "Reliable gnome",
+        "hungry-gnome": "Hungry gnome",
+        "laid-back-gnome": "Laid-back gnome",
+        "passionate-gnome": "Passionate gnome",
+        "rebel-gnome": "Rebel gnome"
+      }
     }
   }
 }

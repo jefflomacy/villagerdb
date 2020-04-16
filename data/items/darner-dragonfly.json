@@ -15,16 +15,13 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "Flying around (Apr-Oct)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 230
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 920
-        }
-      ]
+      }
     }
   }
 }

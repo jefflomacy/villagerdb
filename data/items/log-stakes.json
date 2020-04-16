@@ -3,7 +3,7 @@
   "name": "Log Stakes",
   "games": {
     "nh": {
-      "orderable": true,
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",
@@ -11,6 +11,12 @@
       },
       "recipe": {
         "wood": 3
+      },
+      "variations": {
+        "dark-wood": "Dark wood",
+        "orange-wood": "Orange wood",
+        "white-wood": "White wood",
+        "white-birch": "White birch"
       }
     }
   },

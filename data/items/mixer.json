@@ -33,7 +33,17 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "variations": {
+        "tomatoes": "Tomatoes",
+        "green-smoothie": "Green smoothie",
+        "carrots": "Carrots",
+        "oranges": "Oranges",
+        "blueberries": "Blueberries",
+        "bananas": "Bananas",
+        "strawberries": "Strawberries",
+        "kiwifruit": "Kiwifruit"
+      }
     }
   }
 }

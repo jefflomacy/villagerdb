@@ -12,7 +12,37 @@
           "currency": "bells",
           "value": 36000
         }
-      ]
+      ],
+      "variations": {
+        "ice-brown": "Ice / Brown",
+        "ice-white": "Ice / White",
+        "ice-gray": "Ice / Gray",
+        "ice-dark-brown": "Ice / Dark brown",
+        "ice-blue-brown": "Ice blue / Brown",
+        "ice-blue-white": "Ice blue / White",
+        "ice-blue-gray": "Ice blue / Gray",
+        "ice-blue-dark-brown": "Ice blue / Dark brown",
+        "ice-pink-brown": "Ice pink / Brown",
+        "ice-pink-white": "Ice pink / White",
+        "ice-pink-gray": "Ice pink / Gray",
+        "ice-pink-dark-brown": "Ice pink / Dark brown",
+        "ice-yellow-brown": "Ice yellow / Brown",
+        "ice-yellow-white": "Ice yellow / White",
+        "ice-yellow-gray": "Ice yellow / Gray",
+        "ice-yellow-dark-brown": "Ice yellow / Dark brown",
+        "ice-orange-brown": "Ice orange / Brown",
+        "ice-orange-white": "Ice orange / White",
+        "ice-orange-gray": "Ice orange / Gray",
+        "ice-orange-dark-brown": "Ice orange / Dark brown",
+        "ice-green-brown": "Ice green / Brown",
+        "ice-green-white": "Ice green / White",
+        "ice-green-gray": "Ice green / Gray",
+        "ice-green-dark-brown": "Ice green / Dark brown",
+        "ice-purple-brown": "Ice purple / Brown",
+        "ice-purple-white": "Ice purple / White",
+        "ice-purple-gray": "Ice purple / Gray",
+        "ice-purple-dark-brown": "Ice purple / Dark brown"
+      }
     }
   },
   "category": "Furniture"

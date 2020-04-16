@@ -5,18 +5,19 @@
   "games": {
     "nh": {
       "orderable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 900
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 3600
-        }
-      ],
       "recipe": {
         "stone": 6
+      },
+      "variations": {
+        "natural": "Natural",
+        "red": "Red",
+        "white": "White",
+        "black": "Black"
       }
     },
     "nl": {

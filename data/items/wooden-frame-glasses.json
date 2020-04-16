@@ -3,6 +3,9 @@
   "name": "Wooden-frame Glasses",
   "games": {
     "nh": {
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 390
@@ -12,7 +15,11 @@
           "currency": "bells",
           "value": 1560
         }
-      ]
+      ],
+      "variations": {
+        "brown": "Brown",
+        "dark-brown": "Dark brown"
+      }
     }
   },
   "category": "Accessories"

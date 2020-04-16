@@ -21,6 +21,7 @@
       ]
     },
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 480
@@ -30,7 +31,19 @@
           "currency": "bells",
           "value": 1920
         }
-      ]
+      ],
+      "recipe": {
+        "softwood": 4
+      },
+      "variations": {
+        "natural": "Natural",
+        "mallard": "Mallard",
+        "spot-billed": "Spot-billed",
+        "greater-scaup": "Greater scaup",
+        "common-pochard": "Common pochard",
+        "steamer-duck": "Steamer duck",
+        "duck": "Duck"
+      }
     }
   }
 }

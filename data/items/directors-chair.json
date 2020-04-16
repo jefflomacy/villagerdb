@@ -24,6 +24,7 @@
       "sources": [
         "Nook's Cranny"
       ],
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 400
@@ -33,7 +34,21 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "variations": {
+        "light-brown-natural-white": "Light brown / Natural white",
+        "light-brown-director-black": "Light brown / Director black",
+        "light-brown-chic-pleather": "Light brown / Chic pleather",
+        "dark-brown-natural-white": "Dark brown / Natural white",
+        "dark-brown-director-black": "Dark brown / Director black",
+        "dark-brown-chic-pleather": "Dark brown / Chic pleather",
+        "white-natural-white": "White / Natural white",
+        "white-director-black": "White / Director black",
+        "white-chic-pleather": "White / Chic pleather",
+        "black-natural-white": "Black / Natural white",
+        "black-director-black": "Black / Director black",
+        "black-chic-pleather": "Black / Chic pleather"
+      }
     }
   }
 }

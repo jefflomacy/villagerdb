@@ -15,6 +15,10 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Medium Shadows on River, Jul-Sep (All day)",
+        "South: Medium Shadows on River, Jan-Mar (All day)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 900

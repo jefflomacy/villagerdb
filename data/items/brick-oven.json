@@ -38,6 +38,12 @@
         "clay": 8,
         "iron-nugget": 2,
         "wood": 6
+      },
+      "variations": {
+        "red": "Red",
+        "brown": "Brown",
+        "white": "White",
+        "black": "Black"
       }
     }
   }

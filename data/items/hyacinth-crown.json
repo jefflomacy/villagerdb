@@ -12,7 +12,15 @@
           "currency": "bells",
           "value": 2560
         }
-      ]
+      ],
+      "recipe": {
+        "red-hyacinths": 4,
+        "yellow-hyacinths": 2,
+        "white-hyacinths": 2
+      },
+      "variations": {
+        "red": "Red"
+      }
     }
   },
   "category": "Hats"

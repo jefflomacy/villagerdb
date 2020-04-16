@@ -21,6 +21,9 @@
     },
     "nh": {
       "orderable": true,
+      "sources": [
+        "Nook's Cranny"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 725
@@ -30,7 +33,13 @@
           "currency": "bells",
           "value": 2900
         }
-      ]
+      ],
+      "variations": {
+        "silver": "Silver",
+        "orange": "Orange",
+        "white": "White",
+        "black": "Black"
+      }
     }
   }
 }

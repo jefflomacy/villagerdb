@@ -37,7 +37,10 @@
           "currency": "bells",
           "value": 36000
         }
-      ]
+      ],
+      "recipe": {
+        "stone": 60
+      }
     }
   }
 }

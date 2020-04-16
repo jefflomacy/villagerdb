@@ -12,6 +12,14 @@
       "recipe": {
         "giant-clam": 5,
         "stone": 3
+      },
+      "variations": {
+        "white": "White",
+        "brown": "Brown",
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "purple": "Purple",
+        "pearl": "Pearl"
       }
     }
   },

@@ -12,7 +12,32 @@
           "currency": "bells",
           "value": 3840
         }
-      ]
+      ],
+      "recipe": {
+        "hardwood": 8
+      },
+      "variations": {
+        "dark-wood": "Dark wood",
+        "dark-wood-southwestern-flair": "Dark wood / Southwestern flair",
+        "dark-wood-geometric-print": "Dark wood / Geometric print",
+        "dark-wood-bears": "Dark wood / Bears",
+        "dark-wood-quilted": "Dark wood / Quilted",
+        "orange-wood": "Orange wood",
+        "orange-wood-southwestern-flair": "Orange wood / Southwestern flair",
+        "orange-wood-geometric-print": "Orange wood / Geometric print",
+        "orange-wood-bears": "Orange wood / Bears",
+        "orange-wood-quilted": "Orange wood / Quilted",
+        "white-wood": "White wood",
+        "white-wood-southwestern-flair": "White wood / Southwestern flair",
+        "white-wood-geometric-print": "White wood / Geometric print",
+        "white-wood-bears": "White wood / Bears",
+        "white-wood-quilted": "White wood / Quilted",
+        "white-birch": "White birch",
+        "white-birch-southwestern-flair": "White birch / Southwestern flair",
+        "white-birch-geometric-print": "White birch / Geometric print",
+        "white-birch-bears": "White birch / Bears",
+        "white-birch-quilted": "White birch / Quilted"
+      }
     }
   },
   "category": "Furniture"

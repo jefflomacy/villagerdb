@@ -34,7 +34,33 @@
           "currency": "bells",
           "value": 8500
         }
-      ]
+      ],
+      "variations": {
+        "cream": "Cream",
+        "cream-red": "Cream / Red",
+        "cream-blue": "Cream / Blue",
+        "cream-yellow": "Cream / Yellow",
+        "caramel-mocha": "Caramel mocha",
+        "caramel-mocha-red": "Caramel mocha / Red",
+        "caramel-mocha-blue": "Caramel mocha / Blue",
+        "caramel-mocha-yellow": "Caramel mocha / Yellow",
+        "choco": "Choco",
+        "choco-red": "Choco / Red",
+        "choco-blue": "Choco / Blue",
+        "choco-yellow": "Choco / Yellow",
+        "floral": "Floral",
+        "floral-red": "Floral / Red",
+        "floral-blue": "Floral / Blue",
+        "floral-yellow": "Floral / Yellow",
+        "checkered": "Checkered",
+        "checkered-red": "Checkered / Red",
+        "checkered-blue": "Checkered / Blue",
+        "checkered-yellow": "Checkered / Yellow",
+        "tweed": "Tweed",
+        "tweed-red": "Tweed / Red",
+        "tweed-blue": "Tweed / Blue",
+        "tweed-yellow": "Tweed / Yellow"
+      }
     }
   }
 }

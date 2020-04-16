@@ -37,7 +37,11 @@
           "currency": "bells",
           "value": 2160
         }
-      ]
+      ],
+      "variations": {
+        "red-necktie": "Red necktie",
+        "black-necktie": "Black necktie"
+      }
     }
   }
 }

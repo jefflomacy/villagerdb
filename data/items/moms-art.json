@@ -12,7 +12,17 @@
           "currency": "bells",
           "value": 352
         }
-      ]
+      ],
+      "variations": {
+        "still-life": "Still Life",
+        "street-with-trees": "Street with Trees",
+        "nostalgia": "Nostalgia",
+        "angel": "Angel",
+        "sweet-roses": "Sweet Roses",
+        "field-of-flowers": "Field of Flowers",
+        "dog": "Dog",
+        "blooming": "Blooming"
+      }
     }
   },
   "category": "Furniture"

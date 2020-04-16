@@ -3,20 +3,32 @@
   "name": "Ironwood Bed",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 9900
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 39600
-        }
-      ],
       "recipe": {
         "wood": 20,
         "iron-nugget": 10
+      },
+      "variations": {
+        "birch-navy": "Birch / Navy",
+        "birch-blue-gray": "Birch / Blue-gray",
+        "birch-brown": "Birch / Brown",
+        "teak-navy": "Teak / Navy",
+        "teak-blue-gray": "Teak / Blue-gray",
+        "teak-brown": "Teak / Brown",
+        "walnut-navy": "Walnut / Navy",
+        "walnut-blue-gray": "Walnut / Blue-gray",
+        "walnut-brown": "Walnut / Brown",
+        "old-navy": "Old / Navy",
+        "old-blue-gray": "Old / Blue-gray",
+        "old-brown": "Old / Brown",
+        "oak-navy": "Oak / Navy",
+        "oak-blue-gray": "Oak / Blue-gray",
+        "oak-brown": "Oak / Brown"
       }
     }
   },

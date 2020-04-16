@@ -15,6 +15,10 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Finned Shadows at Sea, Jun-Sep (4pm-9am)",
+        "South: Finned Shadows at Sea, Dec-Mar (4pm-9am)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 8000

@@ -24,16 +24,19 @@
       ]
     },
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 3200
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 12800
-        }
-      ]
+      "variations": {
+        "colorful": "Colorful",
+        "blue": "Blue",
+        "red": "Red",
+        "pink": "Pink",
+        "gold": "Gold",
+        "white": "White"
+      }
     }
   }
 }

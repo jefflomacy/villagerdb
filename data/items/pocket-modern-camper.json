@@ -3,6 +3,7 @@
   "name": "Pocket Modern Camper",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 375

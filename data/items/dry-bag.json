@@ -3,6 +3,10 @@
   "name": "Dry Bag",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Kicks"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 260
@@ -12,7 +16,11 @@
           "currency": "bells",
           "value": 1040
         }
-      ]
+      ],
+      "variations": {
+        "yellow": "Yellow",
+        "blue": "Blue"
+      }
     }
   },
   "category": "Accessories"

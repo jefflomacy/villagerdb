@@ -19,6 +19,20 @@
       "sellPrice": {
         "currency": "bells",
         "value": 600
+      },
+      "recipe": {
+        "flimsy-watering-can": 1,
+        "iron-nugget": 1
+      },
+      "variations": {
+        "blue": "Blue",
+        "orange": "Orange",
+        "green": "Green",
+        "red": "Red",
+        "purple": "Purple",
+        "pink": "Pink",
+        "white": "White",
+        "black": "Black"
       }
     }
   }

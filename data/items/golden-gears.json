@@ -3,6 +3,7 @@
   "name": "Golden Gears",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 11125
@@ -12,7 +13,11 @@
           "currency": "bells",
           "value": 44500
         }
-      ]
+      ],
+      "recipe": {
+        "gold-nugget": 1,
+        "iron-nugget": 3
+      }
     }
   },
   "category": "Furniture"

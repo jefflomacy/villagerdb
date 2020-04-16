@@ -12,6 +12,14 @@
       "recipe": {
         "hardwood": 4,
         "softwood": 8
+      },
+      "variations": {
+        "natural": "Natural",
+        "white": "White",
+        "black": "Black",
+        "colorful": "Colorful",
+        "marine": "Marine",
+        "old": "Old"
       }
     }
   },

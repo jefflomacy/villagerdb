@@ -3,6 +3,9 @@
   "name": "Red Persian Rug",
   "games": {
     "nh": {
+      "sources": [
+        "Saharah"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 500

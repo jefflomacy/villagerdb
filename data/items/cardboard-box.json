@@ -39,7 +39,16 @@
           "currency": "bells",
           "value": 120
         }
-      ]
+      ],
+      "variations": {
+        "plain": "Plain",
+        "labeled": "Labeled",
+        "oranges": "Oranges",
+        "apples": "Apples",
+        "peaches": "Peaches",
+        "pears": "Pears",
+        "cherries": "Cherries"
+      }
     }
   }
 }

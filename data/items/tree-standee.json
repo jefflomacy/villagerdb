@@ -36,7 +36,14 @@
           "currency": "bells",
           "value": 6240
         }
-      ]
+      ],
+      "variations": {
+        "spring": "Spring",
+        "cherry-blossoms": "Cherry blossoms",
+        "summer": "Summer",
+        "fall": "Fall",
+        "winter": "Winter"
+      }
     }
   }
 }

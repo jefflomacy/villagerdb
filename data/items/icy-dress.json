@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 5200
         }
-      ]
+      ],
+      "variations": {
+        "ice-blue": "Ice blue"
+      }
     }
   },
   "category": "Dresses"

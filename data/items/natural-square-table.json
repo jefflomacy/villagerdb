@@ -3,6 +3,7 @@
   "name": "Natural Square Table",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1980
@@ -12,7 +13,16 @@
           "currency": "bells",
           "value": 7920
         }
-      ]
+      ],
+      "recipe": {
+        "hardwood": 4,
+        "iron-nugget": 2
+      },
+      "variations": {
+        "natural": "Natural",
+        "oak": "Oak",
+        "shabby": "Shabby"
+      }
     }
   },
   "category": "Furniture"

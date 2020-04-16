@@ -3,17 +3,12 @@
   "name": "Shell Arch",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 12360
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 49440
-        }
-      ],
       "recipe": {
         "sea-snail": 3,
         "venus-comb": 3,
@@ -21,6 +16,14 @@
         "coral": 3,
         "giant-clam": 3,
         "cowrie": 3
+      },
+      "variations": {
+        "white": "White",
+        "brown": "Brown",
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "purple": "Purple",
+        "pearl": "Pearl"
       }
     }
   },

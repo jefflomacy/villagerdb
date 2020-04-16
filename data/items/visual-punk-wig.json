@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "variations": {
+        "hair-color": "Hair Color"
+      }
     }
   },
   "category": "Hats"

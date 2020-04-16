@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 1100
         }
-      ]
+      ],
+      "variations": {
+        "orange": "Orange",
+        "avocado": "Avocado"
+      }
     }
   },
   "category": "Tops"

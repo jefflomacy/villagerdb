@@ -12,7 +12,13 @@
           "currency": "bells",
           "value": 650
         }
-      ]
+      ],
+      "variations": {
+        "blank": "Blank",
+        "writers-block": "Writer's block",
+        "in-progress": "In progress",
+        "letter": "Letter"
+      }
     }
   },
   "category": "Furniture"

@@ -28,6 +28,12 @@
       },
       "recipe": {
         "hardwood": 8
+      },
+      "variations": {
+        "brown": "Brown",
+        "natural": "Natural",
+        "white": "White",
+        "black": "Black"
       }
     }
   }

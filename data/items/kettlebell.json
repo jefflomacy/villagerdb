@@ -11,6 +11,14 @@
       },
       "recipe": {
         "iron-nugget": 5
+      },
+      "variations": {
+        "black": "Black",
+        "red": "Red",
+        "blue": "Blue",
+        "yellow": "Yellow",
+        "green": "Green",
+        "pink": "Pink"
       }
     }
   },

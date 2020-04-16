@@ -15,6 +15,10 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Small Shadows on River, Dec-Feb (All day)",
+        "South: Small Shadows on River, Jun-Aug (All day)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 400

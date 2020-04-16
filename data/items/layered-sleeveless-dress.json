@@ -12,7 +12,12 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "variations": {
+        "moss-green": "Moss green",
+        "orange": "Orange",
+        "pink": "Pink"
+      }
     }
   },
   "category": "Dresses"

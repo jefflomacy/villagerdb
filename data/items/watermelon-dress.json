@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "variations": {
+        "red": "Red"
+      }
     }
   },
   "category": "Dresses"

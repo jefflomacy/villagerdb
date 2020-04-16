@@ -12,7 +12,17 @@
           "currency": "bells",
           "value": 1560
         }
-      ]
+      ],
+      "variations": {
+        "gray": "Gray",
+        "beige": "Beige",
+        "peach": "Peach",
+        "light-blue": "Light blue",
+        "pink": "Pink",
+        "green": "Green",
+        "blue": "Blue",
+        "red": "Red"
+      }
     }
   },
   "category": "Bottoms"

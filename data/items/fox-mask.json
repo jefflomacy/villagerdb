@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "variations": {
+        "white": "White",
+        "black": "Black"
+      }
     }
   },
   "category": "Hats"

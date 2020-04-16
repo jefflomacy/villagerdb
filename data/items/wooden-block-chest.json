@@ -12,6 +12,13 @@
       "recipe": {
         "wooden-block-toy": 1,
         "softwood": 12
+      },
+      "variations": {
+        "natural": "Natural",
+        "mixed-wood": "Mixed wood",
+        "colorful": "Colorful",
+        "pastel": "Pastel",
+        "vivid": "Vivid"
       }
     }
   },

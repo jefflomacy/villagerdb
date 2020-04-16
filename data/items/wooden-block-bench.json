@@ -12,7 +12,14 @@
           "currency": "bells",
           "value": 3360
         }
-      ]
+      ],
+      "variations": {
+        "natural": "Natural",
+        "mixed-wood": "Mixed wood",
+        "colorful": "Colorful",
+        "pastel": "Pastel",
+        "vivid": "Vivid"
+      }
     }
   },
   "category": "Furniture"

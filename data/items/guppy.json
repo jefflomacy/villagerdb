@@ -15,6 +15,10 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Tiny Shadows in Pond, Apr-Nov (9am-4pm)",
+        "South: Tiny Shadows in Pond, Oct-May (9am-4pm)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 1300

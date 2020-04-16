@@ -3,6 +3,7 @@
   "name": "Floral Swag",
   "games": {
     "nh": {
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 200
@@ -12,7 +13,17 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "recipe": {
+        "clump-of-weeds": 10
+      },
+      "variations": {
+        "yellow": "Yellow",
+        "pink": "Pink",
+        "blue": "Blue",
+        "white": "White",
+        "colorful": "Colorful"
+      }
     }
   },
   "category": "Furniture"

@@ -16,7 +16,10 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "variations": {
+        "green": "Green"
+      }
     }
   },
   "category": "Tops"

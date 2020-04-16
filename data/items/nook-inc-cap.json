@@ -16,7 +16,10 @@
           "currency": "miles",
           "value": 500
         }
-      ]
+      ],
+      "variations": {
+        "green": "Green"
+      }
     }
   },
   "category": "Hats"

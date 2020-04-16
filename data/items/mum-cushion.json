@@ -12,6 +12,11 @@
       "recipe": {
         "yellow-mums": 3,
         "clump-of-weeds": 10
+      },
+      "variations": {
+        "yellow": "Yellow",
+        "red": "Red",
+        "white": "White"
       }
     }
   },

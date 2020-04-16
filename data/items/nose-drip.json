@@ -16,7 +16,10 @@
           "currency": "bells",
           "value": 490
         }
-      ]
+      ],
+      "variations": {
+        "light-blue": "Light blue"
+      }
     }
   },
   "category": "Accessories"

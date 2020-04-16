@@ -34,7 +34,13 @@
           "currency": "bells",
           "value": 7900
         }
-      ]
+      ],
+      "variations": {
+        "spring": "Spring",
+        "summer": "Summer",
+        "fall": "Fall",
+        "winter": "Winter"
+      }
     }
   }
 }

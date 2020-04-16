@@ -12,7 +12,13 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "variations": {
+        "black": "Black",
+        "ochre": "Ochre",
+        "green": "Green",
+        "red": "Red"
+      }
     }
   },
   "category": "Dresses"

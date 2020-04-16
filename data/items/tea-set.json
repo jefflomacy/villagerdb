@@ -34,7 +34,25 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "variations": {
+        "green-yellow": "Green / Yellow",
+        "green-blue": "Green / Blue",
+        "green-red": "Green / Red",
+        "green-gray": "Green / Gray",
+        "blue-yellow": "Blue / Yellow",
+        "blue-blue": "Blue / Blue",
+        "blue-red": "Blue / Red",
+        "blue-gray": "Blue / Gray",
+        "red-yellow": "Red / Yellow",
+        "red-blue": "Red / Blue",
+        "red-red": "Red / Red",
+        "red-gray": "Red / Gray",
+        "white-yellow": "White / Yellow",
+        "white-blue": "White / Blue",
+        "white-red": "White / Red",
+        "white-gray": "White / Gray"
+      }
     }
   }
 }

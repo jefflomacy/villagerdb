@@ -15,6 +15,10 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Finned Shadows at Sea, Jun-Sep (All day)",
+        "South: Finned Shadows at Sea, Dec-Mar (All day)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 13000

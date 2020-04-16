@@ -15,6 +15,10 @@
     },
     "nh": {
       "orderable": false,
+      "sources": [
+        "North: Very Large Shadows on River, Jun-Sept (4am-9pm)",
+        "South: Very Large Shadows on River, Dec-Mar (4am-9pm)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 15000

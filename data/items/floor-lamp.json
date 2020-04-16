@@ -12,7 +12,41 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "variations": {
+        "natural-white": "Natural / White",
+        "natural-gray": "Natural / Gray",
+        "natural-pink": "Natural / Pink",
+        "natural-light-blue": "Natural / Light blue",
+        "natural-yellow-design": "Natural / Yellow design",
+        "natural-green-design": "Natural / Green design",
+        "natural-orange-design": "Natural / Orange design",
+        "natural-navy-design": "Natural / Navy design",
+        "brown-white": "Brown / White",
+        "brown-gray": "Brown / Gray",
+        "brown-pink": "Brown / Pink",
+        "brown-light-blue": "Brown / Light blue",
+        "brown-yellow-design": "Brown / Yellow design",
+        "brown-green-design": "Brown / Green design",
+        "brown-orange-design": "Brown / Orange design",
+        "brown-navy-design": "Brown / Navy design",
+        "white-white": "White / White",
+        "white-gray": "White / Gray",
+        "white-pink": "White / Pink",
+        "white-light-blue": "White / Light blue",
+        "white-yellow-design": "White / Yellow design",
+        "white-green-design": "White / Green design",
+        "white-orange-design": "White / Orange design",
+        "white-navy-design": "White / Navy design",
+        "black-white": "Black / White",
+        "black-gray": "Black / Gray",
+        "black-pink": "Black / Pink",
+        "black-light-blue": "Black / Light blue",
+        "black-yellow-design": "Black / Yellow design",
+        "black-green-design": "Black / Green design",
+        "black-orange-design": "Black / Orange design",
+        "black-navy-design": "Black / Navy design"
+      }
     }
   },
   "category": "Furniture"

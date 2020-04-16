@@ -12,7 +12,24 @@
           "currency": "bells",
           "value": 11520
         }
-      ]
+      ],
+      "recipe": {
+        "red-roses": 1,
+        "pink-roses": 2,
+        "orange-roses": 2,
+        "white-lilies": 2,
+        "yellow-lilies": 1,
+        "purple-windflowers": 4
+      },
+      "variations": {
+        "colorful": "Colorful",
+        "red": "Red",
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "purple": "Purple",
+        "blue": "Blue",
+        "white": "White"
+      }
     }
   },
   "category": "Furniture"

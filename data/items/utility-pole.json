@@ -3,9 +3,24 @@
   "name": "Utility Pole",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Miles System"
+      ],
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 5000
+      },
+      "buyPrices": [
+        {
+          "currency": "miles",
+          "value": 1000
+        }
+      ],
+      "variations": {
+        "no-ads": "No ads",
+        "with-ads": "With ads"
       }
     }
   },

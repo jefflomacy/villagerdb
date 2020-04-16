@@ -4,7 +4,7 @@ const RedisStore = require('./redis-store');
 const redisConnection = require('../redis');
 const urlHelper = require('../../helpers/url');
 const villagers = require('./villagers');
-import {numberLocale} from "../../helpers/format";
+const formatHelper = require("../../helpers/format");
 
 class Items extends RedisStore {
     constructor() {
@@ -102,7 +102,7 @@ class Items extends RedisStore {
             recipeArray.push({
                 name: name,
                 url: url,
-                count: numberLocale(map[ingredient])
+                count: formatHelper.numberLocale(map[ingredient])
             });
         }
 

@@ -235,5 +235,7 @@ module.exports.andList = andList;
  * @param value
  * @returns {*}
  */
-function numberLocale(value){return typeof value==='number'?value.toLocaleString():value;}
+function numberLocale(value){
+    return (typeof value === 'number') ? value.toLocaleString() : value;
+}
 module.exports.numberLocale = numberLocale;

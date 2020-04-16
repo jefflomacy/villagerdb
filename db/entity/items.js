@@ -70,6 +70,7 @@ class Items extends RedisStore {
      * @returns {Promise<void>}
      */
     async formatRecipe(item) {
+        console.log('Formatting recipe for ' + item.id);
         if (item.games.nh && item.games.nh.recipe) {
             item.games.nh.normalRecipe = await this.buildRecipeArrayFromMap(item.games.nh.recipe);
             item.games.nh.fullRecipe = await this.buildRecipeArrayFromMap(
@@ -114,16 +115,19 @@ class Items extends RedisStore {
      *
      * @param map
      * @param outputMap
+     * @param seenIds
      * @returns {Promise<*>}
      */
-    async buildFullRecipe(map, outputMap = {}) {
+    async buildFullRecipe(map, outputMap = {}, seenIds = {}) {
         // For every non-base item, call ourselves. For every base item, add it to the output map.
         for (let ingredient of Object.keys(map)) {
             // Is it an ingredient item that has a recipe?
             const ingredientItem = await this.getById(ingredient);
-            if (ingredientItem && ingredientItem.games.nh && ingredientItem.games.nh.recipe) {
-                // Yes. Call ourselves.
-                await this.buildFullRecipe(ingredientItem.games.nh.recipe, outputMap);
+            if (ingredientItem && ingredientItem.games.nh && ingredientItem.games.nh.recipe
+                && !seenIds[ingredient]) {
+                // Yes. Call ourselves after making sure we prevent an infinite loop.
+                seenIds[ingredient] = true; // mark it as seen
+                await this.buildFullRecipe(ingredientItem.games.nh.recipe, outputMap, seenIds);
             } else {
                 // No. Base case. Add the numbers up.
                 if (typeof outputMap[ingredient] !== 'undefined') {
@@ -144,6 +148,7 @@ class Items extends RedisStore {
      * @param item
      */
     collapseVariations(item) {
+        console.log('Collapsing variations for ' + item.id);
         const variations = {};
         for (let gameId in item.games) {
             const game = item.games[gameId];
@@ -151,7 +156,24 @@ class Items extends RedisStore {
                 Object.assign(variations, game.variations);
             }
         }
-        item.variations = variations;
+
+        // Sort before assignment.
+        const variationsSorted = {};
+        const keys = Object.keys(variations).sort((a, b) => {
+            if (variations[a] > variations[b]) {
+                return 1;
+            } else if (variations[a] < variations[b]) {
+                return -1;
+            }
+
+            return 0;
+        });
+        for (let k of keys) {
+            variationsSorted[k] = variations[k];
+        }
+
+        // Finally done.
+        item.variations = variationsSorted;
     }
 }
 

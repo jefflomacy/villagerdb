@@ -124,22 +124,32 @@ module.exports.VILLAGER = VILLAGER;
  * @param entityType
  * @param imageType: one of THUMB, MEDIUM or FULL.
  * @param id
+ * @param variationId if defined, refer to the variation image
+ * @param usePlaceholderImage if true (default), returns a placeholder image instead of undefined if image does not
+ * exist on disk.
  * @returns {string}
  */
-const getImageUrl = (entityType, imageType, id) => {
+const getImageUrl = (entityType, imageType, id, variationId = undefined,
+                     usePlaceholderImage = true) => {
     if (imageType == THUMB || imageType == MEDIUM || imageType == FULL) {
-        const pathPrefix = './public/images/' + entityType + 's/' + imageType + '/' + id;
+        let imageId = id;
+        if (variationId) {
+            imageId += '-vv-' + variationId;
+        }
+        const pathPrefix = './public/images/' + entityType + 's/' + imageType + '/' + imageId;
         if (fs.existsSync(pathPrefix + '.png')) {
-            return '/images/' + entityType + 's/' + imageType + '/' + id + '.png';
+            return '/images/' + entityType + 's/' + imageType + '/' + imageId + '.png';
         } else if (fs.existsSync(pathPrefix + '.jpg')) {
-            return '/images/' + entityType + 's/' + imageType + '/' + id + '.jpg';
+            return '/images/' + entityType + 's/' + imageType + '/' + imageId + '.jpg';
         } else if (fs.existsSync(pathPrefix + '.jpeg')) {
-            return '/images/' + entityType + 's/' + imageType + '/' + id + '.jpeg';
+            return '/images/' + entityType + 's/' + imageType + '/' + imageId + '.jpeg';
         }
     }
 
     // Image not found.
-    return getImageNotFoundFilename(imageType);
+    if (usePlaceholderImage) {
+        return getImageNotFoundFilename(imageType);
+    }
 }
 module.exports.getImageUrl = getImageUrl;
 
@@ -148,13 +158,17 @@ module.exports.getImageUrl = getImageUrl;
  *
  * @param entityType
  * @param id
+ * @param variationId if defined, refer to the variation image
+ * @param usePlaceholderImage if true (default), returns a placeholder image instead of undefined if image does not
+ * exist on disk.
  * @returns {{thumb: *, medium: *, full: *}}
  */
-module.exports.getEntityImageData = (entityType, id) => {
+module.exports.getEntityImageData = (entityType, id, variationId = undefined,
+                                     usePlaceholderImage = true) => {
     return {
-        thumb: computeStaticAssetUrl(getImageUrl(entityType, THUMB, id)),
-        medium: computeStaticAssetUrl(getImageUrl(entityType, MEDIUM, id)),
-        full: computeStaticAssetUrl(getImageUrl(entityType, FULL, id))
+        thumb: computeStaticAssetUrl(getImageUrl(entityType, THUMB, id, variationId, usePlaceholderImage)),
+        medium: computeStaticAssetUrl(getImageUrl(entityType, MEDIUM, id, variationId, usePlaceholderImage)),
+        full: computeStaticAssetUrl(getImageUrl(entityType, FULL, id, variationId, usePlaceholderImage))
     };
 };
 
@@ -175,6 +189,10 @@ module.exports.getEntityUrl = (entityType, id) => {
  * @returns {string}
  */
 const computeStaticAssetUrl = (inputUrl) => {
+    if (typeof inputUrl !== 'string') {
+        return;
+    }
+
     const filePath = path.join(process.cwd(), 'public', inputUrl);
     if (fs.existsSync(filePath)) {
         const fileStr = fs.readFileSync(filePath, 'utf8');

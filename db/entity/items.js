@@ -170,7 +170,6 @@ class Items extends RedisStore {
 
         // Only allow variations selection if more than one variant exists.
         if (Object.keys(variations).length < 2) {
-            item.variations = {};
             return;
         }
 
@@ -189,8 +188,14 @@ class Items extends RedisStore {
             variationsSorted[k] = variations[k];
         }
 
-        // Finally done.
+        // Assign variations.
         item.variations = variationsSorted;
+
+        // Now let's take a look at variation images.
+        item.variationImages = {};
+        for (let k of keys) {
+            item.variationImages[k] = urlHelper.getEntityImageData(this.entityType, item.id, k, false);
+        }
     }
 }
 

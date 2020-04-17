@@ -10,6 +10,18 @@ class Items extends RedisStore {
         super(redisConnection, 'items', 'item', path.join('data', 'items'));
     }
 
+    /**
+     * Custom post-processing logic for each item.
+     *
+     * @param item
+     * @returns {{}}
+     * @private
+     */
+    _handleEntity(item) {
+        this.collapseVariations(item);
+        return item;
+    }
+
     async _afterPopulation() {
         // We need all the villager IDs.
         const villagersCount = await villagers.count();
@@ -22,7 +34,6 @@ class Items extends RedisStore {
         for (let item of items) {
             await this.buildOwnersArray(item, villagersList);
             await this.formatRecipe(item);
-            this.collapseVariations(item);
             await this.updateEntity(item.id, item);
         }
     }

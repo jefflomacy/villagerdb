@@ -194,7 +194,18 @@ class Items extends RedisStore {
         // Now let's take a look at variation images.
         item.variationImages = {};
         for (let k of keys) {
-            item.variationImages[k] = urlHelper.getEntityImageData(this.entityType, item.id, k, false);
+            let imageData = urlHelper.getEntityImageData(this.entityType, item.id, k, false);
+            // use base images if no variation image available.
+            if (!imageData.thumb) {
+                imageData.thumb = item.image.thumb;
+            }
+            if (!imageData.medium) {
+                imageData.medium = item.image.medium;
+            }
+            if (!imageData.full) {
+                imageData.full = item.image.full;
+            }
+            item.variationImages[k] = imageData;
         }
     }
 }

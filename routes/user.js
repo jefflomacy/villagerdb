@@ -129,6 +129,13 @@ function organizeData(listId, entity, type, variationId) {
         entityData.variation = '(' + variationDisplay + ')';
         entityData.deleteUrl += '/' + variationId;
         entityData._sortKey += ' ' + entityData.variation;
+
+        // Use variation image if available.
+        if (typeof entity.variationImages !== 'undefined' &&
+            typeof entity.variationImages[variationId] !== 'undefined' &&
+            typeof entity.variationImages[variationId].thumb !== 'undefined') {
+            entityData.image = entity.variationImages[variationId].thumb;
+        }
     }
 
     return entityData;

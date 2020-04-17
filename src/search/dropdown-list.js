@@ -247,17 +247,28 @@ export default class DropdownList extends React.Component {
      * @param e
      */
     setVariation(e) {
+        let selectedVariation = undefined;
         if (e && e.target && typeof e.target.value === 'string') {
-            const selectedVariation = e.target.value.length > 0 ?
+            selectedVariation = e.target.value.length > 0 ?
                 e.target.value : undefined;
-            this.setState({
-                selectedVariation: selectedVariation
-            });
-        } else {
-            this.setState({
-                selectedVariation: undefined
-            });
         }
+
+        this.setState({
+            selectedVariation: selectedVariation
+        });
+
+        // TODO: In the long run, this really needs to be part of the component and not modifying external DOM elems.
+        if (selectedVariation && typeof this.props.variationImages !== 'undefined' &&
+            typeof this.props.variationImages[selectedVariation] !== 'undefined' &&
+            typeof this.props.variationImages[selectedVariation].medium !== 'undefined' &&
+            typeof this.props.variationImages[selectedVariation].full !== 'undefined') {
+            $(this.props.imageLinkSelector).attr('href', this.props.variationImages[selectedVariation].full);
+            $(this.props.imageElementSelector).attr('src', this.props.variationImages[selectedVariation].medium);
+        } else {
+            $(this.props.imageLinkSelector).attr('href', this.props.fullBaseImage);
+            $(this.props.imageElementSelector).attr('src' ,this.props.mediumBaseImage);
+        }
+
     }
 
     /**
@@ -286,7 +297,12 @@ $(document).ready(function() {
         const entityId = target.data('entity-id');
         const showLabel = target.data('show-label');
         const variations = target.data('variations');
+        const variationImages = target.data('variation-images');
+        const fullBaseImage = target.data('full-base-image');
+        const mediumBaseImage = target.data('medium-base-image');
         ReactDOM.render(<DropdownList entityType={entityType} entityId={entityId} showLabel={showLabel}
-            variations={variations} />, elem);
+            variations={variations} variationImages={variationImages}
+            fullBaseImage={fullBaseImage} mediumBaseImage={mediumBaseImage}
+            imageLinkSelector="#item-image-link" imageElementSelector="#item-image" />, elem);
     });
 })

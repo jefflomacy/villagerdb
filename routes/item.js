@@ -149,7 +149,8 @@ function formatItem(item) {
     // Paragraph and variations
     formatted.paragraph = generateParagraph(item, formatted);
     formatted.variations = JSON.stringify(typeof item.variations === 'object' ? item.variations : {});
-
+    formatted.variationImages = JSON.stringify(typeof item.variationImages === 'object' ? item.variationImages
+        : {});
     return formatted;
 }
 

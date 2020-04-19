@@ -178,4 +178,56 @@ router.get('/:username/list/:listId', (req, res, next) => {
         }).catch(next);
 });
 
+router.get('/:username_1/list/:listId_1/compare/:username_2/:listId_2', (req, res, next) => {
+    loadList(req.params.username_1, req.params.listId_1)
+        .then((data_1) => {
+            if (!data_1) {
+                const e = new Error('No such list.');
+                e.status = 404;
+                throw e;
+            } else {
+                loadList(req.params.username_2, req.params.listId_2)
+                    .then((data_2) => {
+                        if (!data_2) {
+                            const e = new Error('No such list.');
+                            e.status = 404;
+                            throw e;
+                        } else {
+                            response = {};
+                            response.author1 = req.params.username_1;
+                            response.author2 = req.params.username_2;
+                            response.listName1 = data_1.listName;
+                            response.listName2 = data_2.listName;
+
+                            const list_shared = [];
+                            const list_u1 = [];
+                            const list_u2 = [];
+                            const l2_ids = data_2.entities.map(e => e.id);
+                            const ids_to_skip = [];
+
+                            data_1.entities.forEach(element => {
+                                if (l2_ids.includes(element.id)) {
+                                    list_shared.push(element);
+                                    ids_to_skip.push(element.id);
+                                } else {
+                                    list_u1.push(element);
+                                }
+                            });
+
+                            data_2.entities.filter(e => !ids_to_skip.includes(e.id))
+                                .forEach(element => {
+                                    list_u2.push(element)
+                                });
+
+                            response.entities_shared = list_shared;
+                            response.entities_user1 = list_u1;
+                            response.entities_user2 = list_u2;
+
+                            res.render('list-compare', response);
+                        }
+                    }).catch(next);
+            }
+        }).catch(next);
+});
+
 module.exports = router;

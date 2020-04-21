@@ -1,34 +1,59 @@
 <h1>
-    {{listName1}}
-    <small class="text-muted">by <a href="/user/{{author1}}">{{author1}}</a></small>
+    {{listName}}
+    <small class="text-muted">by <a href="/user/{{author}}">{{author}}</a></small>
 </h1>
 <h2>
     <small>comparing against</small>
-    {{listName2}}
-    <small class="text-muted">by <a href="/user/{{author2}}">{{author2}}</a></small> 
+    {{otherListName}}
+    <small class="text-muted">by <a href="/user/{{otherAuthor}}">{{otherAuthor}}</a></small> 
 </h2>
 <div class="text-right">
     {{> social-media shareUrl=shareUrl showCopyButton=true }}
 </div>
-{{#if isOwnUser}}
-    <div class="alert alert-primary mb-4">
-        Tip: You can add a specific color or type of item to your wishlist by going to the item's detail page. On the
-        item page, select the variation you want from the dropdown and then add it to your wishlist by clicking the
-        <span class="font-weight-bold"><span class="fa fa-plus"></span> List</span> button.
+{{#if sharedList}}
+    <h3>Shared</h3>
+    <ul class="list-group mb-4">
+        {{#each sharedList}}
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <div>
+                    <a href="/{{type}}/{{id}}" class="no-link-underline">
+                        <img src="{{image}}" alt="Picture of {{name}}"
+                             class="img-responsive" style="max-width: 50px;">
+                    </a>
+                    <a href="/{{type}}/{{id}}" class="ml-2">{{name}}</a> {{variation}}
+                </div>
+            </li>
+        {{/each}}
+    </ul>
+{{else}}
+    <div class="alert alert-warning" role="alert">
+        No items are shared.
     </div>
 {{/if}}
-{{#if isEmpty}}
-    <p>
-        This list has no items yet.
-        {{#if isOwnUser}}
-            You can add some by browsing the site and clicking the <span class="fa fa-plus"></span> button next to
-            villagers and items.
-        {{/if}}
-    </p>
+{{#if otherListOnly}}
+    <h3>{{otherListName}} ({{otherAuthor}})</h3>
+    <ul class="list-group mb-4">
+        {{#each otherListOnly}}
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <div>
+                    <a href="/{{type}}/{{id}}" class="no-link-underline">
+                        <img src="{{image}}" alt="Picture of {{name}}"
+                             class="img-responsive" style="max-width: 50px;">
+                    </a>
+                    <a href="/{{type}}/{{id}}" class="ml-2">{{name}}</a> {{variation}}
+                </div>
+            </li>
+        {{/each}}
+    </ul>
 {{else}}
-    <h3>Shared</h3>
-    <ul class="list-group">
-        {{#each entities_shared}}
+    <div class="alert alert-warning" role="alert">
+        No items are in {{otherListName}} by {{otherAuthor}} only.
+    </div>
+{{/if}}
+{{#if listOnly}}
+    <h3>{{listName}} ({{author}})</h3>
+    <ul class="list-group mb-4">
+        {{#each listOnly}}
             <li class="list-group-item d-flex justify-content-between align-items-center">
                 <div>
                     <a href="/{{type}}/{{id}}" class="no-link-underline">
@@ -37,65 +62,12 @@
                     </a>
                     <a href="/{{type}}/{{id}}" class="ml-2">{{name}}</a> {{variation}}
                 </div>
-                {{#if ../isOwnUser}}
-                    <div>
-                        <a href="{{deleteUrl}}"
-                           class="btn btn-danger" role="button">
-                            <span class="fa fa-trash"></span>
-                            <span class="sr-only">Delete</span>
-                        </a>
-                    </div>
-                {{/if}}
-            </li>
-        {{/each}}
-    </ul>
-    <br />
-    <h3>{{listName2}} ({{author2}})</h3>
-    <ul class="list-group">
-        {{#each entities_user2}}
-            <li class="list-group-item d-flex justify-content-between align-items-center">
-                <div>
-                    <a href="/{{type}}/{{id}}" class="no-link-underline">
-                        <img src="{{image}}" alt="Picture of {{name}}"
-                             class="img-responsive" style="max-width: 50px;">
-                    </a>
-                    <a href="/{{type}}/{{id}}" class="ml-2">{{name}}</a> {{variation}}
-                </div>
-                {{#if ../isOwnUser}}
-                    <div>
-                        <a href="{{deleteUrl}}"
-                           class="btn btn-danger" role="button">
-                            <span class="fa fa-trash"></span>
-                            <span class="sr-only">Delete</span>
-                        </a>
-                    </div>
-                {{/if}}
-            </li>
-        {{/each}}
-    </ul>
-    <br />
-    <h3>{{listName1}} ({{author1}})</h3>
-    <ul class="list-group">
-        {{#each entities_user1}}
-            <li class="list-group-item d-flex justify-content-between align-items-center">
-                <div>
-                    <a href="/{{type}}/{{id}}" class="no-link-underline">
-                        <img src="{{image}}" alt="Picture of {{name}}"
-                             class="img-responsive" style="max-width: 50px;">
-                    </a>
-                    <a href="/{{type}}/{{id}}" class="ml-2">{{name}}</a> {{variation}}
-                </div>
-                {{#if ../isOwnUser}}
-                    <div>
-                        <a href="{{deleteUrl}}"
-                           class="btn btn-danger" role="button">
-                            <span class="fa fa-trash"></span>
-                            <span class="sr-only">Delete</span>
-                        </a>
-                    </div>
-                {{/if}}
             </li>
         {{/each}}
     </ul>
     <br /> 
+{{else}}
+    <div class="alert alert-warning" role="alert">
+        No items are in {{listName}} by {{author}} only.
+    </div>
 {{/if}}

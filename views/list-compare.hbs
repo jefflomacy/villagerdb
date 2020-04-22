@@ -8,53 +8,22 @@
     <small class="text-muted">by <a href="/user/{{otherAuthor}}">{{otherAuthor}}</a></small> 
 </h2>
 <div class="text-right">
-    {{> social-media shareUrl=shareUrl showCopyButton=true }}
+    {{> social-media shareUrl=shareUrl showCopyButton=true text="Share this comparison"}}
 </div>
-{{#if sharedList}}
-    <h3>Shared</h3>
-    <ul class="list-group mb-4">
-        {{#each sharedList}}
-            <li class="list-group-item d-flex justify-content-between align-items-center">
-                <div>
-                    <a href="/{{type}}/{{id}}" class="no-link-underline">
-                        <img src="{{image}}" alt="Picture of {{name}}"
-                             class="img-responsive" style="max-width: 50px;">
-                    </a>
-                    <a href="/{{type}}/{{id}}" class="ml-2">{{name}}</a> {{variation}}
-                </div>
-            </li>
-        {{/each}}
-    </ul>
-{{else}}
-    <div class="alert alert-warning" role="alert">
-        No items are shared.
+{{#if allShared}}
+    <div class="alert alert-info" role="alert">
+        These two lists are the same.
     </div>
 {{/if}}
-{{#if otherListOnly}}
-    <h3>{{otherListName}} ({{otherAuthor}})</h3>
-    <ul class="list-group mb-4">
-        {{#each otherListOnly}}
-            <li class="list-group-item d-flex justify-content-between align-items-center">
-                <div>
-                    <a href="/{{type}}/{{id}}" class="no-link-underline">
-                        <img src="{{image}}" alt="Picture of {{name}}"
-                             class="img-responsive" style="max-width: 50px;">
-                    </a>
-                    <a href="/{{type}}/{{id}}" class="ml-2">{{name}}</a> {{variation}}
-                </div>
-            </li>
-        {{/each}}
-    </ul>
-{{else}}
-    <div class="alert alert-warning" role="alert">
-        No items are in {{otherListName}} by {{otherAuthor}} only.
+{{#if noneShared}}
+    <div class="alert alert-info" role="alert">
+        These lists have nothing in common.
     </div>
 {{/if}}
-{{#if listOnly}}
-    <h3>{{listName}} ({{author}})</h3>
+{{#if entities}}
     <ul class="list-group mb-4">
-        {{#each listOnly}}
-            <li class="list-group-item d-flex justify-content-between align-items-center">
+        {{#each entities}}
+            <li class="list-compare-{{compareStatus}} list-group-item d-flex justify-content-between align-items-center">
                 <div>
                     <a href="/{{type}}/{{id}}" class="no-link-underline">
                         <img src="{{image}}" alt="Picture of {{name}}"
@@ -65,9 +34,4 @@
             </li>
         {{/each}}
     </ul>
-    <br /> 
-{{else}}
-    <div class="alert alert-warning" role="alert">
-        No items are in {{listName}} by {{author}} only.
-    </div>
 {{/if}}

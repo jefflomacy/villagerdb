@@ -217,7 +217,6 @@ router.get('/:username/list/:listId/compare/:compare_username/:compare_listId', 
                     throw e;
                 } else {
                     response = {};
-                    response.hasPermissions = true;
                     response.author = values[0].author;
                     response.otherAuthor = values[1].author;
                     response.listName = values[0].listName;
@@ -226,7 +225,7 @@ router.get('/:username/list/:listId/compare/:compare_username/:compare_listId', 
                     const otherListIds = values[1].entities.map(e => e.id);
                     const sharedIds = [];
                     const entities = [];
-                    const diffCount = 0;
+                    diffCount = 0;
 
                     values[0].entities.forEach(element => {
                         if (otherListIds.includes(element.id)) {
@@ -246,16 +245,10 @@ router.get('/:username/list/:listId/compare/:compare_username/:compare_listId', 
                             element.compareStatus = "missing";
                             entities.push(element);
                             diffCount++;
-                    })
+                    });
 
                     // Sort lists alphabetically
-                    entities.sort((a, b) => {
-                        if (a.name < b.name) {
-                            return -1;
-                        } else {
-                            return 1;
-                        }
-                    });
+                    entities.sort((a, b) => a.name < b.name ? -1 : 1);
 
                     response.allShared = diffCount == 0;
                     response.noneShared = sharedIds.length == 0;

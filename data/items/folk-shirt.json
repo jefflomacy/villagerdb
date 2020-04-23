@@ -1,6 +1,14 @@
 {
   "id": "folk-shirt",
-  "name": "Folk Shirt",
+  "name": {
+    "de": "Folklorepulli",
+    "en-GB": "Folk Shirt",
+    "en-US": "Folk Shirt",
+    "es": "Jersey folk",
+    "fr": "Pull folklorique",
+    "it": "Maglione folk",
+    "ja": "ネイティブニット"
+  },
   "category": "Tops",
   "games": {
     "nl": {

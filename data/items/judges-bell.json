@@ -1,6 +1,14 @@
 {
   "id": "judges-bell",
-  "name": "Judge's Bell",
+  "name": {
+    "de": "Rundengong",
+    "en-GB": "Judge's Bell",
+    "en-US": "Judge's Bell",
+    "es": "Campana de juez",
+    "fr": "Gong",
+    "it": "Campanello",
+    "ja": "ゴング"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

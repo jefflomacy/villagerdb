@@ -1,6 +1,14 @@
 {
   "id": "grape-tank",
-  "name": "Grape Tank",
+  "name": {
+    "de": "Traubentop",
+    "en-GB": "Grape Tank",
+    "en-US": "Grape Tank",
+    "es": "Top uvas",
+    "fr": "Débardeur raisin",
+    "it": "Canotta uva",
+    "ja": "ぶどうのふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

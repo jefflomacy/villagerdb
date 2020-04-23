@@ -1,6 +1,14 @@
 {
   "id": "minimalist-minitable",
-  "name": "Minimalist Minitable",
+  "name": {
+    "de": "Minimaltischchen",
+    "en-GB": "Minimalist Minitable",
+    "en-US": "Minimalist Minitable",
+    "es": "Mesita minimalista",
+    "fr": "Table b. minimaliste",
+    "it": "Tavolino minimalista",
+    "ja": "シンプルなミニテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

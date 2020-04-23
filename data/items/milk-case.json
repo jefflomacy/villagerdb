@@ -1,6 +1,14 @@
 {
   "id": "milk-case",
-  "name": "Milk Case",
+  "name": {
+    "de": "Milchtruhe",
+    "en-GB": "Milk Case",
+    "en-US": "Milk Case",
+    "es": "Nevera terma",
+    "fr": "Présentoir à lait",
+    "it": "Frigo bevande",
+    "ja": "ぎゅうにゅうケース"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

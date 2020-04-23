@@ -1,6 +1,14 @@
 {
   "id": "festival-lantern",
-  "name": "Festival Lantern",
+  "name": {
+    "de": "Lampion",
+    "en-GB": "Festival Lantern",
+    "en-US": "Festival Lantern",
+    "es": "Farolillo oriental",
+    "fr": "Lampion blanc",
+    "it": "Lanterna cinese",
+    "ja": "ちょうちん"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

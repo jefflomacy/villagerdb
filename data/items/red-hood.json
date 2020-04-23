@@ -1,6 +1,14 @@
 {
   "id": "red-hood",
-  "name": "Red Hood",
+  "name": {
+    "de": "Rothaube",
+    "en-GB": "Red Hood",
+    "en-US": "Red Hood",
+    "es": "Caperuza roja",
+    "fr": "Chaperon rouge",
+    "it": "Cappuccio rosso",
+    "ja": "あかずきん"
+  },
   "category": "Hats",
   "games": {
     "nl": {

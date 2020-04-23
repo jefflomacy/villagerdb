@@ -1,6 +1,14 @@
 {
   "id": "green-desk",
-  "name": "Green Desk",
+  "name": {
+    "de": "Smaragdpult",
+    "en-GB": "Green Desk",
+    "en-US": "Green Desk",
+    "es": "Buró verde",
+    "fr": "Secrétaire vert",
+    "it": "Scrittoio verde",
+    "ja": "みどりのデスク"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "hammock",
-  "name": "Hammock",
+  "name": {
+    "de": "Hängematte",
+    "en-GB": "Hammock",
+    "en-US": "Hammock",
+    "es": "Hamaca",
+    "fr": "Hamac",
+    "it": "Amaca",
+    "ja": "ハンモック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

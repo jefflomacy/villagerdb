@@ -1,6 +1,14 @@
 {
   "id": "question-block",
-  "name": "? Block",
+  "name": {
+    "de": "?-Block",
+    "en-GB": "? Block",
+    "en-US": "? Block",
+    "es": "Bloque ?",
+    "fr": "Bloc ?",
+    "it": "Blocco ?",
+    "ja": "ハテナブロック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

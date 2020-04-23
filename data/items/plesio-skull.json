@@ -1,6 +1,14 @@
 {
   "id": "plesio-skull",
-  "name": "Plesio Skull",
+  "name": {
+    "de": "Plesiosaurus-Schädel",
+    "en-GB": "Plesio Skull",
+    "en-US": "Plesio Skull",
+    "es": "Cráneo plesiosaurio",
+    "fr": "Crâne de plésiosaure",
+    "it": "Teschio plesiosauro",
+    "ja": "スズキリュウのあたま"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

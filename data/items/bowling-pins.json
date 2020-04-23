@@ -1,6 +1,14 @@
 {
   "id": "bowling-pins",
-  "name": "Bowling Pins",
+  "name": {
+    "de": "Bowlingset",
+    "en-GB": "Bowling Pins",
+    "en-US": "Bowling Pins",
+    "es": "Juego de bolos",
+    "fr": "Jeu de quilles",
+    "it": "Set da bowling",
+    "ja": "ボウリングのピン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

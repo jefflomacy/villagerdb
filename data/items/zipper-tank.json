@@ -1,6 +1,14 @@
 {
   "id": "zipper-tank",
-  "name": "Zipper Tank",
+  "name": {
+    "de": "Zipp-Top",
+    "en-GB": "Zipper Tank",
+    "en-US": "Zipper Tank",
+    "es": "Top cremallera",
+    "fr": "Débardeur zip",
+    "it": "Canotta cerniera",
+    "ja": "ジッパーのふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

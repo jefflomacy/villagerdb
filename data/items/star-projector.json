@@ -1,6 +1,14 @@
 {
   "id": "star-projector",
-  "name": "Star Projector",
+  "name": {
+    "de": "Planetariumprojektor",
+    "en-GB": "Star Projector",
+    "en-US": "Star Projector",
+    "es": "Proyector estrellas",
+    "fr": "Projecteur d'étoiles",
+    "it": "Cannocchiale stelle",
+    "ja": "プラネタリウム"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

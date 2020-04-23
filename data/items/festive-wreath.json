@@ -1,6 +1,14 @@
 {
   "id": "festive-wreath",
-  "name": "Festive Wreath",
+  "name": {
+    "de": "Festtagskranz",
+    "en-GB": "Festive Wreath",
+    "en-US": "Festive Wreath",
+    "es": "Corona festiva",
+    "fr": "Couronne de sapin",
+    "it": "Ghirlanda festiva",
+    "ja": "クリスマスリース"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "badge-hat",
-  "name": "Badge Hat",
+  "name": {
+    "de": "Klecksmütze",
+    "en-GB": "Badge Hat",
+    "en-US": "Badge Hat",
+    "es": "Gorro con chapas",
+    "fr": "Chapeau badge",
+    "it": "Berretto bianco",
+    "ja": "カンバッジのニットぼう"
+  },
   "category": "Hats",
   "games": {
     "nl": {

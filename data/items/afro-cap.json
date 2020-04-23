@@ -1,6 +1,14 @@
 {
   "id": "afro-cap",
-  "name": "Afro Cap",
+  "name": {
+    "de": "Afromütze",
+    "en-GB": "Afro Cap",
+    "en-US": "Afro Cap",
+    "es": "Gorra afro",
+    "fr": "Coiffe afro",
+    "it": "Parrucca con berr.",
+    "ja": "ぼうしつきアフロ"
+  },
   "category": "Hats",
   "games": {
     "nl": {

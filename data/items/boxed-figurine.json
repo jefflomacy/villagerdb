@@ -1,6 +1,14 @@
 {
   "id": "boxed-figurine",
-  "name": "Boxed Figurine",
+  "name": {
+    "de": "Spielzeugfiguren-Set",
+    "en-GB": "Boxed Figurine",
+    "en-US": "Boxed Figurine",
+    "es": "Muñeco de juguete",
+    "fr": "Figurine jouet",
+    "it": "Figura giocattolo",
+    "ja": "はこいりフィギュア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

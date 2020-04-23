@@ -1,6 +1,14 @@
 {
   "id": "school-desk",
-  "name": "School Desk",
+  "name": {
+    "de": "Schultisch",
+    "en-GB": "School Desk",
+    "en-US": "School Desk",
+    "es": "Mesa escolar",
+    "fr": "Pupitre",
+    "it": "Banco",
+    "ja": "がっこうのつくえ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "patched-knee-pants",
-  "name": "Patched-knee Pants",
+  "name": {
+    "de": "Spielplatzhose",
+    "en-GB": "Patched-Knee Pants",
+    "en-US": "Patched-Knee Pants",
+    "es": "Pantalón rodilleras",
+    "fr": "Pantalon renforcé",
+    "it": "Pantal. toppe rosse",
+    "ja": "ひざあてズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

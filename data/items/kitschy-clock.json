@@ -1,6 +1,14 @@
 {
   "id": "kitschy-clock",
-  "name": "Kitschy Clock",
+  "name": {
+    "de": "Kitsch-Uhr",
+    "en-GB": "Kitschy Clock",
+    "en-US": "Kitschy Clock",
+    "es": "Reloj ornamental",
+    "fr": "Horloge kitsch",
+    "it": "Orologio kitsch",
+    "ja": "アメリカンクロック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

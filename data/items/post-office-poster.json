@@ -1,6 +1,14 @@
 {
   "id": "post-office-poster",
-  "name": "Post-office Poster",
+  "name": {
+    "de": "Postplakat",
+    "en-GB": "Post-Office Poster",
+    "en-US": "Post-Office Poster",
+    "es": "Cartel postal",
+    "fr": "Affiche bureau poste",
+    "it": "Poster uff. postale",
+    "ja": "ゆうびんきょくのポスター"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

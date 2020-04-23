@@ -1,6 +1,14 @@
 {
   "id": "armor-pants",
-  "name": "Armor Pants",
+  "name": {
+    "de": "Silberrüstungshose",
+    "en-GB": "Armor Pants",
+    "en-US": "Armor Pants",
+    "es": "Greba",
+    "fr": "Pantalon de plates",
+    "it": "Pantalone armatura",
+    "ja": "てつのすねあて"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

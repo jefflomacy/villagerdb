@@ -1,6 +1,14 @@
 {
   "id": "gold-bug-trophy",
-  "name": "Gold Bug Trophy",
+  "name": {
+    "de": "Gold-Insektenpokal",
+    "en-GB": "Gold Bug Trophy",
+    "en-US": "Gold Bug Trophy",
+    "es": "Bichotrofeo de oro",
+    "fr": "Trophée insecte or",
+    "it": "Trofeo insetti oro",
+    "ja": "きんのムシトロフィー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

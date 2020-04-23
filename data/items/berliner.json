@@ -1,6 +1,14 @@
 {
   "id": "berliner",
-  "name": "Berliner",
+  "name": {
+    "de": "Berliner",
+    "en-GB": "Berliner",
+    "en-US": "Berliner",
+    "es": "Plato de berlinesas",
+    "fr": "Assiette de beignets",
+    "it": "Piatto di krapfen",
+    "ja": "ベルリーナー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

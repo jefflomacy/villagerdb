@@ -1,6 +1,14 @@
 {
   "id": "no-5-shirt",
-  "name": "No. 5 Shirt",
+  "name": {
+    "de": "Nr.-5-Pulli",
+    "en-GB": "No. 5 Shirt",
+    "en-US": "No. 5 Shirt",
+    "es": "Jersey n.º 5",
+    "fr": "Pull 5",
+    "it": "Maglia nº 5",
+    "ja": "No.5のふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

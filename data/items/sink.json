@@ -1,6 +1,14 @@
 {
   "id": "sink",
-  "name": "Sink",
+  "name": {
+    "de": "Spülbecken",
+    "en-GB": "Sink",
+    "en-US": "Sink",
+    "es": "Fregadero",
+    "fr": "évier",
+    "it": "Lavandino",
+    "ja": "ながしだい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "green-tights",
-  "name": "Green Tights",
+  "name": {
+    "de": "Grünstrumpfhose",
+    "en-GB": "Green Tights",
+    "en-US": "Green Tights",
+    "es": "Media verde",
+    "fr": "Collant vert",
+    "it": "Paio calze verdi",
+    "ja": "みどりのタイツ"
+  },
   "category": "Socks",
   "games": {
     "nl": {

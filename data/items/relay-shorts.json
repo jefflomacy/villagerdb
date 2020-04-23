@@ -1,6 +1,14 @@
 {
   "id": "relay-shorts",
-  "name": "Relay Shorts",
+  "name": {
+    "de": "Radlerhose",
+    "en-GB": "Relay Shorts",
+    "en-US": "Relay Shorts",
+    "es": "Bermuda maratón",
+    "fr": "Short marathon",
+    "it": "P. bermuda maratona",
+    "ja": "りくじょうたんパン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

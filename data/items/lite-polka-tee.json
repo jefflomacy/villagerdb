@@ -1,6 +1,14 @@
 {
   "id": "lite-polka-tee",
-  "name": "Lite Polka Tee",
+  "name": {
+    "de": "Konfettishirt",
+    "en-GB": "Lite Polka Tee",
+    "en-US": "Lite Polka Tee",
+    "es": "Camiseta topos día",
+    "fr": "T-shirt blanc à pois",
+    "it": "Maglietta tenue pois",
+    "ja": "しろマーブルなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

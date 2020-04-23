@@ -1,6 +1,14 @@
 {
   "id": "five-lamp",
-  "name": "Five Lamp",
+  "name": {
+    "de": "\\u201E5\\u201C-Lampe",
+    "en-GB": "Five Lamp",
+    "en-US": "Five Lamp",
+    "es": "Lámpara cinco",
+    "fr": "Lampe 5",
+    "it": "Lampada a 5",
+    "ja": "5のランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

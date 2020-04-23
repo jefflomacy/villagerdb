@@ -1,6 +1,14 @@
 {
   "id": "tiger-jacket",
-  "name": "Tiger Jacket",
+  "name": {
+    "de": "Tigerjacke",
+    "en-GB": "Tiger Jacket",
+    "en-US": "Tiger Jacket",
+    "es": "Cazadora tigre",
+    "fr": "Veste tigre",
+    "it": "Giacca viola e oro",
+    "ja": "トラのスカジャン"
+  },
   "category": "Tops",
   "games": {
     "nl": {

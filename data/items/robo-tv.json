@@ -1,6 +1,14 @@
 {
   "id": "robo-tv",
-  "name": "Robo-tv",
+  "name": {
+    "de": "Robo-Fernseher",
+    "en-GB": "Robo-Tv",
+    "en-US": "Robo-Tv",
+    "es": "Robotele",
+    "fr": "Télé robot",
+    "it": "Robo-TV",
+    "ja": "ロボテレビ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

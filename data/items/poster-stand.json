@@ -1,6 +1,14 @@
 {
   "id": "poster-stand",
-  "name": "Poster Stand",
+  "name": {
+    "de": "Posterrahmen",
+    "en-GB": "Poster Stand",
+    "en-US": "Poster Stand",
+    "es": "Cartel con póster",
+    "fr": "Porte-affiche",
+    "it": "Espositore locandine",
+    "ja": "ポスターたて"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "simple-love-seat",
-  "name": "Simple Love Seat",
+  "name": {
+    "de": "Ledersofa",
+    "en-GB": "Simple Love Seat",
+    "en-US": "Simple Love Seat",
+    "es": "Sofá normal",
+    "fr": "Canapé standard",
+    "it": "Sofà standard",
+    "ja": "ふつうのソファL"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "pear-wardrobe",
-  "name": "Pear Wardrobe",
+  "name": {
+    "de": "Birnenschrank",
+    "en-GB": "Pear Wardrobe",
+    "en-US": "Pear Wardrobe",
+    "es": "Armario pera",
+    "fr": "Armoire poire",
+    "it": "Armadio pera",
+    "ja": "ヨウナシのクロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

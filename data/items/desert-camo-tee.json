@@ -1,6 +1,14 @@
 {
   "id": "desert-camo-tee",
-  "name": "Desert-camo Tee",
+  "name": {
+    "de": "Wüstenshirt",
+    "en-GB": "Desert-Camo Tee",
+    "en-US": "Desert-Camo Tee",
+    "es": "Camiseta desierto",
+    "fr": "T-shirt motif désert",
+    "it": "Maglietta mimet. oro",
+    "ja": "デザートめいさいふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

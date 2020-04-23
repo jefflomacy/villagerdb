@@ -1,6 +1,14 @@
 {
   "id": "jingle-lamp",
-  "name": "Jingle Lamp",
+  "name": {
+    "de": "Festtagslampe",
+    "en-GB": "Jingle Lamp",
+    "en-US": "Jingle Lamp",
+    "es": "Lámpara festiva",
+    "fr": "Lampe festive",
+    "it": "Lampada Jingle",
+    "ja": "クリスマスランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

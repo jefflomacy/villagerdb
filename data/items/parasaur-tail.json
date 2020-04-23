@@ -1,6 +1,14 @@
 {
   "id": "parasaur-tail",
-  "name": "Parasaur Tail",
+  "name": {
+    "de": "Parasaurus-Schwanz",
+    "en-GB": "Parasaur Tail",
+    "en-US": "Parasaur Tail",
+    "es": "Cola parasaurio",
+    "fr": "Queue de parasauro",
+    "it": "Coda parasauro",
+    "ja": "パラサウロロフスのしっぽ"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

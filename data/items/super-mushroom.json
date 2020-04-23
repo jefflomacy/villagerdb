@@ -1,6 +1,14 @@
 {
   "id": "super-mushroom",
-  "name": "Super Mushroom",
+  "name": {
+    "de": "Superpilz",
+    "en-GB": "Super Mushroom",
+    "en-US": "Super Mushroom",
+    "es": "Superchampiñón",
+    "fr": "Super champignon",
+    "it": "Super fungo",
+    "ja": "スーパーキノコ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

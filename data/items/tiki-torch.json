@@ -1,6 +1,14 @@
 {
   "id": "tiki-torch",
-  "name": "Tiki Torch",
+  "name": {
+    "de": "Fackel",
+    "en-GB": "Tiki Torch",
+    "en-US": "Tiki Torch",
+    "es": "Antorcha",
+    "fr": "Flambeau",
+    "it": "Torcia",
+    "ja": "たいまつ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

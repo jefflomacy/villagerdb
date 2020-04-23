@@ -1,6 +1,14 @@
 {
   "id": "yoshis-egg",
-  "name": "Yoshi's Egg",
+  "name": {
+    "de": "Yoshi-Ei",
+    "en-GB": "Yoshi's Egg",
+    "en-US": "Yoshi's Egg",
+    "es": "Huevo de Yoshi",
+    "fr": "\\u0153uf de Yoshi",
+    "it": "Uovo di Yoshi",
+    "ja": "ヨッシーのタマゴ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

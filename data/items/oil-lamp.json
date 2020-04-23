@@ -1,6 +1,14 @@
 {
   "id": "oil-lamp",
-  "name": "Oil Lamp",
+  "name": {
+    "de": "Spirituslampe",
+    "en-GB": "Oil Lamp",
+    "en-US": "Oil Lamp",
+    "es": "Lámpara de aceite",
+    "fr": "Lampe à pétrole",
+    "it": "Lampada ad alcool",
+    "ja": "アルコールランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

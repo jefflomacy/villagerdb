@@ -1,6 +1,14 @@
 {
   "id": "tan-dogtooth-tee",
-  "name": "Tan Dogtooth Tee",
+  "name": {
+    "de": "Schokoshirt",
+    "en-GB": "Tan Dogtooth Tee",
+    "en-US": "Tan Dogtooth Tee",
+    "es": "Camiseta sabueso",
+    "fr": "T-shirt p. coq brun",
+    "it": "Maglietta zampetta",
+    "ja": "セピアなちどりごうし"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "tin-shirt",
-  "name": "Tin Shirt",
+  "name": {
+    "de": "Blechshirt",
+    "en-GB": "Tin Shirt",
+    "en-US": "Tin Shirt",
+    "es": "Camiseta hojalata",
+    "fr": "T-shirt métal",
+    "it": "Maglia tipo latta",
+    "ja": "ブリキのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

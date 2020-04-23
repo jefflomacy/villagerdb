@@ -1,6 +1,14 @@
 {
   "id": "train-set",
-  "name": "Train Set",
+  "name": {
+    "de": "Modelleisenbahn",
+    "en-GB": "Train Set",
+    "en-US": "Train Set",
+    "es": "Tren eléctrico",
+    "fr": "Train miniature",
+    "it": "Pista trenino",
+    "ja": "てつどうもけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

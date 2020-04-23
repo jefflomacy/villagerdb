@@ -1,6 +1,14 @@
 {
   "id": "birthday-table",
-  "name": "Birthday Table",
+  "name": {
+    "de": "Geburtstagstisch",
+    "en-GB": "Birthday Table",
+    "en-US": "Birthday Table",
+    "es": "Mesa de cumpleaños",
+    "fr": "Table d'anniv",
+    "it": "Tavolo compleanno",
+    "ja": "バースデーテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

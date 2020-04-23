@@ -1,6 +1,14 @@
 {
   "id": "dry-denim-pants",
-  "name": "Dry-denim Pants",
+  "name": {
+    "de": "Stonewashed-Hose",
+    "en-GB": "Dry-Denim Pants",
+    "en-US": "Dry-Denim Pants",
+    "es": "Pantalón tejano",
+    "fr": "Pantalon jean brut",
+    "it": "Paio jeans scuri",
+    "ja": "ノンウォッシュデニム"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

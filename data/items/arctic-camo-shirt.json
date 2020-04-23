@@ -1,6 +1,14 @@
 {
   "id": "arctic-camo-shirt",
-  "name": "Arctic-camo Shirt",
+  "name": {
+    "de": "Arktik-Pulli",
+    "en-GB": "Arctic-Camo Shirt",
+    "en-US": "Arctic-Camo Shirt",
+    "es": "Jersey polar",
+    "fr": "Pull motif glace",
+    "it": "Maglia mimetica blu",
+    "ja": "かんれいめいさいふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

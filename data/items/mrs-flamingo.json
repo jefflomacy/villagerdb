@@ -1,6 +1,14 @@
 {
   "id": "mrs-flamingo",
-  "name": "Mrs. Flamingo",
+  "name": {
+    "de": "Mrs. Flamingo",
+    "en-GB": "Mrs. Flamingo",
+    "en-US": "Mrs. Flamingo",
+    "es": "Sra. Flamenco",
+    "fr": "Mme Flamingo",
+    "it": "Fenicottero 2",
+    "ja": "めすのフラミンゴ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

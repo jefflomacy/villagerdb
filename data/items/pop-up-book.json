@@ -1,6 +1,14 @@
 {
   "id": "pop-up-book",
-  "name": "Pop-up Book",
+  "name": {
+    "de": "Aufklapp-Bilderbuch",
+    "en-GB": "Pop-Up Book",
+    "en-US": "Pop-Up Book",
+    "es": "Libro animado",
+    "fr": "Livre en relief",
+    "it": "Libro 3D",
+    "ja": "しかけえほん"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "astro-sofa",
-  "name": "Astro Sofa",
+  "name": {
+    "de": "Astrosofa",
+    "en-GB": "Astro Sofa",
+    "en-US": "Astro Sofa",
+    "es": "Sofá futurista",
+    "fr": "Canapé astro",
+    "it": "Sofà futuro",
+    "ja": "きんみらいなソファ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

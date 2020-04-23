@@ -1,6 +1,14 @@
 {
   "id": "denim-skirt",
-  "name": "Denim Skirt",
+  "name": {
+    "de": "Bluejeansrock",
+    "en-GB": "Denim Skirt",
+    "en-US": "Denim Skirt",
+    "es": "Falda vaquera",
+    "fr": "Jupe en jean",
+    "it": "Gonna di jeans",
+    "ja": "デニムスカート"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

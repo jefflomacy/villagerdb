@@ -1,6 +1,14 @@
 {
   "id": "paw-tee",
-  "name": "Paw Tee",
+  "name": {
+    "de": "Tatzenshirt",
+    "en-GB": "Paw Tee",
+    "en-US": "Paw Tee",
+    "es": "Camiseta huellas",
+    "fr": "T-shirt pattes",
+    "it": "Maglietta zampa",
+    "ja": "あしあとのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

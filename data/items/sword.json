@@ -1,6 +1,14 @@
 {
   "id": "sword",
-  "name": "Sword",
+  "name": {
+    "de": "Schwert",
+    "en-GB": "Sword",
+    "en-US": "Sword",
+    "es": "Espada",
+    "fr": "épée",
+    "it": "Spada",
+    "ja": "たち"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

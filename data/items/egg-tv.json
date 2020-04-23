@@ -1,6 +1,14 @@
 {
   "id": "egg-tv",
-  "name": "Egg Tv",
+  "name": {
+    "de": "Eierfernseher",
+    "en-GB": "Egg TV",
+    "en-US": "Egg TV",
+    "es": "Tele huevo",
+    "fr": "Télé \\u0153uf",
+    "it": "TV uovo",
+    "ja": "たまごのかべかけテレビ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

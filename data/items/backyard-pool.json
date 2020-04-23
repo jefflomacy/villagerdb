@@ -1,6 +1,14 @@
 {
   "id": "backyard-pool",
-  "name": "Backyard Pool",
+  "name": {
+    "de": "Planschbecken",
+    "en-GB": "Backyard Pool",
+    "en-US": "Backyard Pool",
+    "es": "Piscina",
+    "fr": "Piscine de jardin",
+    "it": "Piscina piccola",
+    "ja": "プール"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

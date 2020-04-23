@@ -1,6 +1,14 @@
 {
   "id": "sloppy-table",
-  "name": "Sloppy Table",
+  "name": {
+    "de": "Schlampertisch",
+    "en-GB": "Sloppy Table",
+    "en-US": "Sloppy Table",
+    "es": "Mesa desorden",
+    "fr": "Table négligée",
+    "it": "Tavolo trasandato",
+    "ja": "だらしないテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

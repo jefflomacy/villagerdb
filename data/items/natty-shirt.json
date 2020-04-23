@@ -1,6 +1,14 @@
 {
   "id": "natty-shirt",
-  "name": "Natty Shirt",
+  "name": {
+    "de": "Mohair-Pulli",
+    "en-GB": "Natty Shirt",
+    "en-US": "Natty Shirt",
+    "es": "Jersey paseo rosa",
+    "fr": "Pull filet",
+    "it": "Maglia di classe",
+    "ja": "ピンクツイードのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

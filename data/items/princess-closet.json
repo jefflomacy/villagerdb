@@ -1,6 +1,14 @@
 {
   "id": "princess-closet",
-  "name": "Princess Closet",
+  "name": {
+    "de": "Prachtschrank",
+    "en-GB": "Princess Closet",
+    "en-US": "Princess Closet",
+    "es": "Armario princesa",
+    "fr": "Buffet princesse",
+    "it": "Armadio contessa",
+    "ja": "プリンセスクロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

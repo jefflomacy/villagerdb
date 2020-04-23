@@ -1,6 +1,14 @@
 {
   "id": "beaded-tank",
-  "name": "Beaded Tank",
+  "name": {
+    "de": "Paillettentop",
+    "en-GB": "Beaded Tank",
+    "en-US": "Beaded Tank",
+    "es": "Top cuentas",
+    "fr": "Débardeur lamé",
+    "it": "Canotta perlata",
+    "ja": "ラメいりのふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

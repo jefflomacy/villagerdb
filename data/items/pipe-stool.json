@@ -1,6 +1,14 @@
 {
   "id": "pipe-stool",
-  "name": "Pipe Stool",
+  "name": {
+    "de": "Plastikhocker",
+    "en-GB": "Pipe Stool",
+    "en-US": "Pipe Stool",
+    "es": "Taburete metálico",
+    "fr": "Tabouret tube",
+    "it": "Sgabello di metallo",
+    "ja": "パイプのまるイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "spa-chair",
-  "name": "Spa Chair",
+  "name": {
+    "de": "Hockerturm",
+    "en-GB": "Spa Chair",
+    "en-US": "Spa Chair",
+    "es": "Pila de taburetes",
+    "fr": "Tas de tabourets",
+    "it": "Pila di sgabelli",
+    "ja": "おふろのイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

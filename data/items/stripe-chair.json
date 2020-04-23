@@ -1,6 +1,14 @@
 {
   "id": "stripe-chair",
-  "name": "Stripe Chair",
+  "name": {
+    "de": "Streifenstuhl",
+    "en-GB": "Stripe Chair",
+    "en-US": "Stripe Chair",
+    "es": "Silla rayas",
+    "fr": "Chaise rayures",
+    "it": "Sedia strisce",
+    "ja": "ストライプなチェア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

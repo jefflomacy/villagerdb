@@ -1,6 +1,14 @@
 {
   "id": "pickle-jar",
-  "name": "Pickle Jar",
+  "name": {
+    "de": "Einmachglas",
+    "en-GB": "Pickle Jar",
+    "en-US": "Pickle Jar",
+    "es": "Bote de encurtidos",
+    "fr": "Bocal de pickles",
+    "it": "Barattolo sottaceti",
+    "ja": "ピクルスびん"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "sloppy-clock",
-  "name": "Sloppy Clock",
+  "name": {
+    "de": "Schlamperuhr",
+    "en-GB": "Sloppy Clock",
+    "en-US": "Sloppy Clock",
+    "es": "Reloj desorden",
+    "fr": "Horloge négligée",
+    "it": "Orologio trasandato",
+    "ja": "だらしないとけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

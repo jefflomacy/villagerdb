@@ -1,6 +1,14 @@
 {
   "id": "jukebox",
-  "name": "Jukebox",
+  "name": {
+    "de": "Musikbox",
+    "en-GB": "Jukebox",
+    "en-US": "Jukebox",
+    "es": "Gramola",
+    "fr": "Juke-box",
+    "it": "Jukebox",
+    "ja": "ジュークボックス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

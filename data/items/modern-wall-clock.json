@@ -1,6 +1,14 @@
 {
   "id": "modern-wall-clock",
-  "name": "Modern Wall Clock",
+  "name": {
+    "de": "Schachwanduhr",
+    "en-GB": "Modern Wall Clock",
+    "en-US": "Modern Wall Clock",
+    "es": "Reloj pared moderno",
+    "fr": "Horloge mur moderne",
+    "it": "Orol. muro moderno",
+    "ja": "ツートンウォールクロック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

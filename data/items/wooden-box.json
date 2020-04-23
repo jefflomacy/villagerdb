@@ -1,6 +1,14 @@
 {
   "id": "wooden-box",
-  "name": "Wooden Box",
+  "name": {
+    "de": "Holzkiste",
+    "en-GB": "Wooden Box",
+    "en-US": "Wooden Box",
+    "es": "Cajón de madera",
+    "fr": "Boîte en bois",
+    "it": "Cassa di legno",
+    "ja": "きばこ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

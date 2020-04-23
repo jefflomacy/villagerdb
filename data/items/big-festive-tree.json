@@ -1,6 +1,14 @@
 {
   "id": "big-festive-tree",
-  "name": "Big Festive Tree",
+  "name": {
+    "de": "Tannenbaum",
+    "en-GB": "Big Festive Tree",
+    "en-US": "Big Festive Tree",
+    "es": "Árbol festivo",
+    "fr": "Grand sapin",
+    "it": "Albero festivo",
+    "ja": "おおきなクリスマスツリー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

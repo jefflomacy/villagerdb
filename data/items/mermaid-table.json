@@ -1,6 +1,14 @@
 {
   "id": "mermaid-table",
-  "name": "Mermaid Table",
+  "name": {
+    "de": "Nixentisch",
+    "en-GB": "Mermaid Table",
+    "en-US": "Mermaid Table",
+    "es": "Mesa sirena",
+    "fr": "Table sirène",
+    "it": "Tavolo sirena",
+    "ja": "マーメイドなテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

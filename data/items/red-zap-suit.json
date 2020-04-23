@@ -1,6 +1,14 @@
 {
   "id": "red-zap-suit",
-  "name": "Red-zap Suit",
+  "name": {
+    "de": "Rotheldenpulli",
+    "en-GB": "Red-Zap Suit",
+    "en-US": "Red-Zap Suit",
+    "es": "Superjersey rojo",
+    "fr": "Pull de héros rouge",
+    "it": "Maglia eroe rosso",
+    "ja": "ヒーロースーツR"
+  },
   "category": "Tops",
   "games": {
     "nl": {

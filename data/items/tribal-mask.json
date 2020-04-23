@@ -1,6 +1,14 @@
 {
   "id": "tribal-mask",
-  "name": "Tribal Mask",
+  "name": {
+    "de": "Stammesmaske",
+    "en-GB": "Tribal Mask",
+    "en-US": "Tribal Mask",
+    "es": "Máscara tribal",
+    "fr": "Masque tribal",
+    "it": "Maschera tribale",
+    "ja": "まじないのかめん"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

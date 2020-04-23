@@ -1,6 +1,14 @@
 {
   "id": "pansy-table",
-  "name": "Pansy Table",
+  "name": {
+    "de": "Stiefmütterchentisch",
+    "en-GB": "Pansy Table",
+    "en-US": "Pansy Table",
+    "es": "Mesa viola",
+    "fr": "Table pensée",
+    "it": "Tavolino viola",
+    "ja": "パンジーのテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

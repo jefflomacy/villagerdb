@@ -1,6 +1,14 @@
 {
   "id": "alpinist-hat",
-  "name": "Alpinist Hat",
+  "name": {
+    "de": "Gebirgshut",
+    "en-GB": "Alpinist Hat",
+    "en-US": "Alpinist Hat",
+    "es": "Sombrero tirolés",
+    "fr": "Chapeau tyrolien",
+    "it": "Cappello tirolese",
+    "ja": "チロリアンハット"
+  },
   "category": "Hats",
   "games": {
     "nl": {

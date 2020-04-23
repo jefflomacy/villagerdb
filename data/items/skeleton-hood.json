@@ -1,6 +1,14 @@
 {
   "id": "skeleton-hood",
-  "name": "Skeleton Hood",
+  "name": {
+    "de": "Skelettkapuze",
+    "en-GB": "Skeleton Hood",
+    "en-US": "Skeleton Hood",
+    "es": "Capucha calavera",
+    "fr": "Masque de squelette",
+    "it": "Copricapo scheletro",
+    "ja": "ガイコツのかぶりもの"
+  },
   "category": "Hats",
   "games": {
     "nl": {

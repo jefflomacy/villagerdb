@@ -1,6 +1,14 @@
 {
   "id": "cat-cap",
-  "name": "Cat Cap",
+  "name": {
+    "de": "Katzenmütze",
+    "en-GB": "Cat Cap",
+    "en-US": "Cat Cap",
+    "es": "Gorro de gato",
+    "fr": "Cagoule chat",
+    "it": "Cappello gatto",
+    "ja": "ネコのかぶりもの"
+  },
   "category": "Hats",
   "games": {
     "nl": {

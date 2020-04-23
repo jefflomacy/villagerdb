@@ -1,6 +1,14 @@
 {
   "id": "minimalist-vanity",
-  "name": "Minimalist Vanity",
+  "name": {
+    "de": "Minimalspiegel",
+    "en-GB": "Minimalist Vanity",
+    "en-US": "Minimalist Vanity",
+    "es": "Tocador minimalista",
+    "fr": "Coiffeu. minimaliste",
+    "it": "Toletta minimalista",
+    "ja": "シンプルなドレッサー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

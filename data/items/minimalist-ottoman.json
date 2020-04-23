@@ -1,6 +1,14 @@
 {
   "id": "minimalist-ottoman",
-  "name": "Minimalist Ottoman",
+  "name": {
+    "de": "Minimalschemel",
+    "en-GB": "Minimalist Ottoman",
+    "en-US": "Minimalist Ottoman",
+    "es": "Taburete minimalista",
+    "fr": "Pouf minimaliste",
+    "it": "Sgabello minimalista",
+    "ja": "シンプルなオットマン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

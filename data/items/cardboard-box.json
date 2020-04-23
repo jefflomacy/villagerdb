@@ -1,6 +1,14 @@
 {
   "id": "cardboard-box",
-  "name": "Cardboard Box",
+  "name": {
+    "de": "Karton",
+    "en-GB": "Cardboard Box",
+    "en-US": "Cardboard Box",
+    "es": "Caja de cartón",
+    "fr": "Boîte en carton",
+    "it": "Scatolone",
+    "ja": "ダンボール"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

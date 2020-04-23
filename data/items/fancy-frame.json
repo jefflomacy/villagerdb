@@ -1,6 +1,14 @@
 {
   "id": "fancy-frame",
-  "name": "Fancy Frame",
+  "name": {
+    "de": "Prunkbilderrahmen",
+    "en-GB": "Fancy Frame",
+    "en-US": "Fancy Frame",
+    "es": "Marco recargado",
+    "fr": "Cadre luxueux",
+    "it": "Cornice lussuosa",
+    "ja": "ごうかながくぶち"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

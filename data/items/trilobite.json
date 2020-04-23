@@ -1,6 +1,14 @@
 {
   "id": "trilobite",
-  "name": "Trilobite",
+  "name": {
+    "de": "Trilobit",
+    "en-GB": "Trilobite",
+    "en-US": "Trilobite",
+    "es": "Trilobites",
+    "fr": "Trilobite",
+    "it": "Trilobite",
+    "ja": "さんようちゅう"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "chocomint-tee",
-  "name": "Chocomint Tee",
+  "name": {
+    "de": "Minzshirt",
+    "en-GB": "Chocomint Tee",
+    "en-US": "Chocomint Tee",
+    "es": "Camiseta chocomenta",
+    "fr": "T-shirt choco-menthe",
+    "it": "Maglietta chocomenta",
+    "ja": "チョコミントなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

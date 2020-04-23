@@ -1,6 +1,14 @@
 {
   "id": "white-stockings",
-  "name": "White Stockings",
+  "name": {
+    "de": "Weißstrumpf",
+    "en-GB": "White Stockings",
+    "en-US": "White Stockings",
+    "es": "Media blanca",
+    "fr": "Paire de bas blancs",
+    "it": "Paio collant bianchi",
+    "ja": "しろいストッキング"
+  },
   "category": "Socks",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "slippers",
-  "name": "Slippers",
+  "name": {
+    "de": "Gartenpantoffel",
+    "en-GB": "Slippers",
+    "en-US": "Slippers",
+    "es": "Pantufla",
+    "fr": "Paire de pantoufles",
+    "it": "Paio pantofole verdi",
+    "ja": "スリッパ"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

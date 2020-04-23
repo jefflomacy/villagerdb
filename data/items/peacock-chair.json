@@ -1,6 +1,14 @@
 {
   "id": "peacock-chair",
-  "name": "Peacock Chair",
+  "name": {
+    "de": "Pfauenstuhl",
+    "en-GB": "Peacock Chair",
+    "en-US": "Peacock Chair",
+    "es": "Silla pavo real",
+    "fr": "Fauteuil paon",
+    "it": "Poltrona a pavone",
+    "ja": "ピーコックチェア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

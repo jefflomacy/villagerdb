@@ -1,6 +1,14 @@
 {
   "id": "saddle-fence",
-  "name": "Saddle Fence",
+  "name": {
+    "de": "Sattelablage",
+    "en-GB": "Saddle Fence",
+    "en-US": "Saddle Fence",
+    "es": "Valla con montura",
+    "fr": "Porte-selle",
+    "it": "Sella su recinto",
+    "ja": "くら"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

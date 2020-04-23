@@ -1,6 +1,14 @@
 {
   "id": "card-sofa",
-  "name": "Card Sofa",
+  "name": {
+    "de": "Kartensofa",
+    "en-GB": "Card Sofa",
+    "en-US": "Card Sofa",
+    "es": "Sofá naipes",
+    "fr": "Canapé cartes",
+    "it": "Sofà carte",
+    "ja": "トランプソファ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

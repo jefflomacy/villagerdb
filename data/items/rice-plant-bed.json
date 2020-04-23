@@ -1,6 +1,14 @@
 {
   "id": "rice-plant-bed",
-  "name": "Rice-plant Bed",
+  "name": {
+    "de": "Reisährenbett",
+    "en-GB": "Rice-Plant Bed",
+    "en-US": "Rice-Plant Bed",
+    "es": "Cama planta arroz",
+    "fr": "Lit paille de riz",
+    "it": "Letto di fieno",
+    "ja": "いなほベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

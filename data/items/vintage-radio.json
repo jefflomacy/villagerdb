@@ -1,6 +1,14 @@
 {
   "id": "vintage-radio",
-  "name": "Vintage Radio",
+  "name": {
+    "de": "Retro-Radio",
+    "en-GB": "Vintage Radio",
+    "en-US": "Vintage Radio",
+    "es": "Radio de época",
+    "fr": "Radio d'époque",
+    "it": "Radio vintage",
+    "ja": "レトロなラジオ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

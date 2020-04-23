@@ -1,6 +1,14 @@
 {
   "id": "birdcage",
-  "name": "Birdcage",
+  "name": {
+    "de": "Vogelkäfig",
+    "en-GB": "Birdcage",
+    "en-US": "Birdcage",
+    "es": "Jaula de pájaros",
+    "fr": "Cage à oiseaux",
+    "it": "Gabbia",
+    "ja": "とりかご"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "stained-glass-lamp",
-  "name": "Stained-glass Lamp",
+  "name": {
+    "de": "Buntglaslampe",
+    "en-GB": "Stained-Glass Lamp",
+    "en-US": "Stained-Glass Lamp",
+    "es": "Lámpara art nouveau",
+    "fr": "Lampe vitrail",
+    "it": "Lampada art nouveau",
+    "ja": "ステンドグラスランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

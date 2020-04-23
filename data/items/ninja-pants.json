@@ -1,6 +1,14 @@
 {
   "id": "ninja-pants",
-  "name": "Ninja Pants",
+  "name": {
+    "de": "Ninjahose",
+    "en-GB": "Ninja Pants",
+    "en-US": "Ninja Pants",
+    "es": "Pantalón de ninja",
+    "fr": "Pantalon ninja",
+    "it": "Pantalone ninja",
+    "ja": "しのびのズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

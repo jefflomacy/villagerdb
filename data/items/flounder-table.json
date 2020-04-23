@@ -1,6 +1,14 @@
 {
   "id": "flounder-table",
-  "name": "Flounder Table",
+  "name": {
+    "de": "Flundertisch",
+    "en-GB": "Flounder Table",
+    "en-US": "Flounder Table",
+    "es": "Mesa rodaballo",
+    "fr": "Table cardeau",
+    "it": "Tavolo sogliola",
+    "ja": "ヒラメいたテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

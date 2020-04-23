@@ -1,6 +1,14 @@
 {
   "id": "fan-palm",
-  "name": "Fan Palm",
+  "name": {
+    "de": "Fächerpalme",
+    "en-GB": "Fan Palm",
+    "en-US": "Fan Palm",
+    "es": "Palmera",
+    "fr": "Palmier d'Arec",
+    "it": "Palma cinese",
+    "ja": "ヤマドリヤシ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

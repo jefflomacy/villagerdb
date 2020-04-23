@@ -1,6 +1,14 @@
 {
   "id": "kaffiyeh",
-  "name": "Kaffiyeh",
+  "name": {
+    "de": "Kufiya",
+    "en-GB": "Kaffiyeh",
+    "en-US": "Kaffiyeh",
+    "es": "Pañuelo árabe",
+    "fr": "Keffieh",
+    "it": "Kefiah",
+    "ja": "アラビアのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "loud-bloom-tee",
-  "name": "Loud Bloom Tee",
+  "name": {
+    "de": "Nachtblumenshirt",
+    "en-GB": "Loud Bloom Tee",
+    "en-US": "Loud Bloom Tee",
+    "es": "Camiseta edén",
+    "fr": "T-shirt flashy",
+    "it": "Maglietta esplosiva",
+    "ja": "はでなはなのシャツ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

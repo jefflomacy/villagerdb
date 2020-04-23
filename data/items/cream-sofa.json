@@ -1,6 +1,14 @@
 {
   "id": "cream-sofa",
-  "name": "Cream Sofa",
+  "name": {
+    "de": "Cremesofa",
+    "en-GB": "Cream Sofa",
+    "en-US": "Cream Sofa",
+    "es": "Sofá crema",
+    "fr": "Canapé crème",
+    "it": "Sofà panna",
+    "ja": "しろいソファ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

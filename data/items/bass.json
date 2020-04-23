@@ -1,6 +1,14 @@
 {
   "id": "bass",
-  "name": "Bass",
+  "name": {
+    "de": "Kontrabass",
+    "en-GB": "Bass",
+    "en-US": "Bass",
+    "es": "Contrabajo",
+    "fr": "Contrebasse",
+    "it": "Contrabbasso",
+    "ja": "コントラバス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

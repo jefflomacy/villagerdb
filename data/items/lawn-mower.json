@@ -1,6 +1,14 @@
 {
   "id": "lawn-mower",
-  "name": "Lawn Mower",
+  "name": {
+    "de": "Rasenmäher",
+    "en-GB": "Lawn Mower",
+    "en-US": "Lawn Mower",
+    "es": "Cortacésped",
+    "fr": "Tondeuse à gazon",
+    "it": "Tagliaerba",
+    "ja": "しばかりき"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

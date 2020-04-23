@@ -1,6 +1,14 @@
 {
   "id": "gorgeous-closet",
-  "name": "Gorgeous Closet",
+  "name": {
+    "de": "Luxusschrank",
+    "en-GB": "Gorgeous Closet",
+    "en-US": "Gorgeous Closet",
+    "es": "Armario palacio",
+    "fr": "Armoire somptueuse",
+    "it": "Armadio divino",
+    "ja": "ゴージャスクロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

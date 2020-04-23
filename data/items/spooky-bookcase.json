@@ -1,6 +1,14 @@
 {
   "id": "spooky-bookcase",
-  "name": "Spooky Bookcase",
+  "name": {
+    "de": "Kürbisregal",
+    "en-GB": "Spooky Bookcase",
+    "en-US": "Spooky Bookcase",
+    "es": "Librería calabaza",
+    "fr": "étagère Halloween",
+    "it": "Libreria brividi",
+    "ja": "ハロウィンラック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

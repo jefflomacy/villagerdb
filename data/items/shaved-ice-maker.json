@@ -1,6 +1,14 @@
 {
   "id": "shaved-ice-maker",
-  "name": "Shaved-ice Maker",
+  "name": {
+    "de": "Eismaschine",
+    "en-GB": "Shaved-Ice Maker",
+    "en-US": "Shaved-Ice Maker",
+    "es": "Picadora hielo",
+    "fr": "Râpe-glace",
+    "it": "Tritaghiaccio",
+    "ja": "かきごおりき"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

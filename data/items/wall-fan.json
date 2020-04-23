@@ -1,6 +1,14 @@
 {
   "id": "wall-fan",
-  "name": "Wall Fan",
+  "name": {
+    "de": "Wandventilator",
+    "en-GB": "Wall Fan",
+    "en-US": "Wall Fan",
+    "es": "Ventilador de pared",
+    "fr": "Ventilateur mural",
+    "it": "Ventilatore a muro",
+    "ja": "かべかけせんぷうき"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

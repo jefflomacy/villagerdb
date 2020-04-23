@@ -1,6 +1,14 @@
 {
   "id": "retro-tv",
-  "name": "Retro Tv",
+  "name": {
+    "de": "Retro-Fernseher",
+    "en-GB": "Retro TV",
+    "en-US": "Retro TV",
+    "es": "Tele retro",
+    "fr": "Télé rétro",
+    "it": "Vecchia TV",
+    "ja": "レトロなテレビ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

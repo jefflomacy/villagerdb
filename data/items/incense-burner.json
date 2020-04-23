@@ -1,6 +1,14 @@
 {
   "id": "incense-burner",
-  "name": "Incense Burner",
+  "name": {
+    "de": "Räucherstäbchen-Set",
+    "en-GB": "Incense Burner",
+    "en-US": "Incense Burner",
+    "es": "Quemador de incienso",
+    "fr": "Porte-encens",
+    "it": "Brucia incensi",
+    "ja": "おこう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

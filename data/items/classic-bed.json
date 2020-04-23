@@ -1,6 +1,14 @@
 {
   "id": "classic-bed",
-  "name": "Classic Bed",
+  "name": {
+    "de": "Klassikbett",
+    "en-GB": "Classic Bed",
+    "en-US": "Classic Bed",
+    "es": "Cama clásica",
+    "fr": "Lit rustique",
+    "it": "Letto antico",
+    "ja": "シックなベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

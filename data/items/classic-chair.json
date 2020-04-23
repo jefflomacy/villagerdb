@@ -1,6 +1,14 @@
 {
   "id": "classic-chair",
-  "name": "Classic Chair",
+  "name": {
+    "de": "Klassikstuhl",
+    "en-GB": "Classic Chair",
+    "en-US": "Classic Chair",
+    "es": "Silla clásica",
+    "fr": "Chaise rustique",
+    "it": "Sedia antica",
+    "ja": "シックなイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

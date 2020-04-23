@@ -1,6 +1,14 @@
 {
   "id": "ghost-mask",
-  "name": "Ghost Mask",
+  "name": {
+    "de": "Gespenstermaske",
+    "en-GB": "Ghost Mask",
+    "en-US": "Ghost Mask",
+    "es": "Careta de fantasma",
+    "fr": "Masque de fantôme",
+    "it": "Maschera fantasma",
+    "ja": "オバケのかぶりもの"
+  },
   "category": "Hats",
   "games": {
     "nl": {

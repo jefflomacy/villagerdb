@@ -1,6 +1,14 @@
 {
   "id": "lace-up-boots",
-  "name": "Lace-up Boots",
+  "name": {
+    "de": "Schnürstiefel",
+    "en-GB": "Lace-Up Boots",
+    "en-US": "Lace-Up Boots",
+    "es": "Bota alta",
+    "fr": "Paire bottes lacets",
+    "it": "P. stivali con lacci",
+    "ja": "あみあげブーツ"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

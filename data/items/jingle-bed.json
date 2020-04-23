@@ -1,6 +1,14 @@
 {
   "id": "jingle-bed",
-  "name": "Jingle Bed",
+  "name": {
+    "de": "Festtagsbett",
+    "en-GB": "Jingle Bed",
+    "en-US": "Jingle Bed",
+    "es": "Cama festiva",
+    "fr": "Lit festif",
+    "it": "Letto Jingle",
+    "ja": "クリスマスベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

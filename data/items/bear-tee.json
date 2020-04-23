@@ -1,6 +1,14 @@
 {
   "id": "bear-tee",
-  "name": "Bear Tee",
+  "name": {
+    "de": "Teddy-Shirt",
+    "en-GB": "Bear Tee",
+    "en-US": "Bear Tee",
+    "es": "Camiseta osito",
+    "fr": "T-shirt ours",
+    "it": "Maglietta orsetto",
+    "ja": "クマのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

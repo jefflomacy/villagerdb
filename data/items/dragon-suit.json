@@ -1,6 +1,14 @@
 {
   "id": "dragon-suit",
-  "name": "Dragon Suit",
+  "name": {
+    "de": "Drachenshirt",
+    "en-GB": "Dragon Suit",
+    "en-US": "Dragon Suit",
+    "es": "Camiseta dragón",
+    "fr": "T-shirt dragon",
+    "it": "Maglietta drago",
+    "ja": "ドラゴンスーツ"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

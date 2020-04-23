@@ -1,6 +1,14 @@
 {
   "id": "gracie-shelf",
-  "name": "Gracie Shelf",
+  "name": {
+    "de": "Graziaregal",
+    "en-GB": "Gracie Shelf",
+    "en-US": "Gracie Shelf",
+    "es": "Aparador Graciela",
+    "fr": "étagère Carla",
+    "it": "Scaffale Griffa",
+    "ja": "グレースシェルフ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

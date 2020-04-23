@@ -1,6 +1,14 @@
 {
   "id": "crew-members-seat",
-  "name": "Crew Member's Seat",
+  "name": {
+    "de": "Crewstuhl",
+    "en-GB": "Crew Member's Seat",
+    "en-US": "Crew Member's Seat",
+    "es": "Silla de tripulación",
+    "fr": "Siège équipage",
+    "it": "Poltrona equipaggio",
+    "ja": "クルーのイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

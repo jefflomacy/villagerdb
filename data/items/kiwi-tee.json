@@ -1,6 +1,14 @@
 {
   "id": "kiwi-tee",
-  "name": "Kiwi Tee",
+  "name": {
+    "de": "Kiwishirt",
+    "en-GB": "Kiwi Tee",
+    "en-US": "Kiwi Tee",
+    "es": "Camiseta kiwi",
+    "fr": "T-shirt kiwi",
+    "it": "Maglietta kiwi",
+    "ja": "キウイのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

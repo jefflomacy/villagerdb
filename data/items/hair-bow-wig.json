@@ -1,6 +1,14 @@
 {
   "id": "hair-bow-wig",
-  "name": "Hair-bow Wig",
+  "name": {
+    "de": "Haarknotenperücke",
+    "en-GB": "Hair-Bow Wig",
+    "en-US": "Hair-Bow Wig",
+    "es": "Peluca con lazo",
+    "fr": "Perruque n\\u0153ud pap",
+    "it": "Parrucca fiocco",
+    "ja": "リボンウィッグ"
+  },
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "potbelly-stove",
-  "name": "Potbelly Stove",
+  "name": {
+    "de": "Kanonenofen",
+    "en-GB": "Potbelly Stove",
+    "en-US": "Potbelly Stove",
+    "es": "Estufa de leña",
+    "fr": "Poêle à charbon",
+    "it": "Stufetta nera",
+    "ja": "ダルマストーブ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

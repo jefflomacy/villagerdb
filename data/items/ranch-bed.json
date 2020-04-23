@@ -1,6 +1,14 @@
 {
   "id": "ranch-bed",
-  "name": "Ranch Bed",
+  "name": {
+    "de": "Western-Bett",
+    "en-GB": "Ranch Bed",
+    "en-US": "Ranch Bed",
+    "es": "Cama rústica",
+    "fr": "Lit ranch",
+    "it": "Letto country",
+    "ja": "カントリーなベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

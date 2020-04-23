@@ -1,6 +1,14 @@
 {
   "id": "polka-dot-clock",
-  "name": "Polka-dot Clock",
+  "name": {
+    "de": "Pünktchenuhr",
+    "en-GB": "Polka-Dot Clock",
+    "en-US": "Polka-Dot Clock",
+    "es": "Reloj topos",
+    "fr": "Horloge à pois rouge",
+    "it": "Orologio pois",
+    "ja": "みずたまなとけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

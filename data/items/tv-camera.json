@@ -1,6 +1,14 @@
 {
   "id": "tv-camera",
-  "name": "Tv Camera",
+  "name": {
+    "de": "Fernsehkamera",
+    "en-GB": "TV Camera",
+    "en-US": "TV Camera",
+    "es": "Cámara de televisión",
+    "fr": "Caméra de télévision",
+    "it": "Telecamera da studio",
+    "ja": "テレビカメラ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

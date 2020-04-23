@@ -1,6 +1,14 @@
 {
   "id": "hedge-standee",
-  "name": "Hedge Standee",
+  "name": {
+    "de": "Pappbusch",
+    "en-GB": "Hedge Standee",
+    "en-US": "Hedge Standee",
+    "es": "Seto atrezo",
+    "fr": "Buisson en carton",
+    "it": "Sagoma cespuglio",
+    "ja": "ハリボテのいけがき"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "parasaur-torso",
-  "name": "Parasaur Torso",
+  "name": {
+    "de": "Parasaurus-Torso",
+    "en-GB": "Parasaur Torso",
+    "en-US": "Parasaur Torso",
+    "es": "Cuerpo parasaurio",
+    "fr": "Torse de parasauro",
+    "it": "Torso parasauro",
+    "ja": "パラサウロロフスのからだ"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

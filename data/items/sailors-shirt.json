@@ -1,6 +1,14 @@
 {
   "id": "sailors-shirt",
-  "name": "Sailor's Shirt",
+  "name": {
+    "de": "Marinepulli",
+    "en-GB": "Sailor's Shirt",
+    "en-US": "Sailor's Shirt",
+    "es": "Jersey marinero",
+    "fr": "Pull matelot",
+    "it": "Maglia marinaio",
+    "ja": "ながそでセーラーふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

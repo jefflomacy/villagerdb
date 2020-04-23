@@ -1,6 +1,14 @@
 {
   "id": "navy-formal-pants",
-  "name": "Navy Formal Pants",
+  "name": {
+    "de": "Nachtblauhose",
+    "en-GB": "Navy Formal Pants",
+    "en-US": "Navy Formal Pants",
+    "es": "Pantalón lino azul",
+    "fr": "Pantalon chic marine",
+    "it": "Pantal. formale blu",
+    "ja": "こんいろフォーマルパンツ"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

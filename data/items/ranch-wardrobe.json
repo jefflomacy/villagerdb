@@ -1,6 +1,14 @@
 {
   "id": "ranch-wardrobe",
-  "name": "Ranch Wardrobe",
+  "name": {
+    "de": "Western-Schrank",
+    "en-GB": "Ranch Wardrobe",
+    "en-US": "Ranch Wardrobe",
+    "es": "Armario rústico",
+    "fr": "Armoire ranch",
+    "it": "Armadio country",
+    "ja": "カントリークロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

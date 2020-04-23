@@ -1,6 +1,14 @@
 {
   "id": "quince-bonsai",
-  "name": "Quince Bonsai",
+  "name": {
+    "de": "Quitten-Bonsai",
+    "en-GB": "Quince Bonsai",
+    "en-US": "Quince Bonsai",
+    "es": "Membrillo bonsái",
+    "fr": "Bonsaï cydonia",
+    "it": "Bonsai melo",
+    "ja": "ボケのぼんさい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "kiddie-clock",
-  "name": "Kiddie Clock",
+  "name": {
+    "de": "Kinderuhr",
+    "en-GB": "Kiddie Clock",
+    "en-US": "Kiddie Clock",
+    "es": "Reloj puzle",
+    "fr": "Horloge enfant",
+    "it": "Orologio bimbi",
+    "ja": "カラフルなとけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

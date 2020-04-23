@@ -1,6 +1,14 @@
 {
   "id": "ayers-rock",
-  "name": "Ayers Rock",
+  "name": {
+    "de": "Ayers-Rock-Modell",
+    "en-GB": "Ayers Rock",
+    "en-US": "Ayers Rock",
+    "es": "Maqueta Ayers Rock",
+    "fr": "Maquette d'Uluru",
+    "it": "Modellino Ayers Rock",
+    "ja": "エアーズロック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "garbage-pail",
-  "name": "Garbage Pail",
+  "name": {
+    "de": "Abfalltonne",
+    "en-GB": "Garbage Pail",
+    "en-US": "Garbage Pail",
+    "es": "Cubo de desechos",
+    "fr": "Conteneur à ordures",
+    "it": "Secchio rifiuti",
+    "ja": "ペール"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

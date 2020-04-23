@@ -1,6 +1,14 @@
 {
   "id": "alpine-dresser",
-  "name": "Alpine Dresser",
+  "name": {
+    "de": "Nordkommode",
+    "en-GB": "Alpine Dresser",
+    "en-US": "Alpine Dresser",
+    "es": "Cómoda nórdica",
+    "fr": "Commode nordique",
+    "it": "Comò nordico",
+    "ja": "スカンジナビアなチェスト"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

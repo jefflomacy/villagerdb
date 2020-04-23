@@ -1,6 +1,14 @@
 {
   "id": "lift-chair",
-  "name": "Lift Chair",
+  "name": {
+    "de": "Skilift",
+    "en-GB": "Lift Chair",
+    "en-US": "Lift Chair",
+    "es": "Telesilla",
+    "fr": "Télésiège",
+    "it": "Sciovia",
+    "ja": "ゲレンデのリフト"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

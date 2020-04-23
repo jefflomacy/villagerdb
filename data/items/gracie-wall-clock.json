@@ -1,6 +1,14 @@
 {
   "id": "gracie-wall-clock",
-  "name": "Gracie Wall Clock",
+  "name": {
+    "de": "Graziawanduhr",
+    "en-GB": "Gracie Wall Clock",
+    "en-US": "Gracie Wall Clock",
+    "es": "Reloj pared Graciela",
+    "fr": "Horloge mur Carla",
+    "it": "Orologio muro Griffa",
+    "ja": "グレースウォールクロック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

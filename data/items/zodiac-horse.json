@@ -1,6 +1,14 @@
 {
   "id": "zodiac-horse",
-  "name": "Zodiac Horse",
+  "name": {
+    "de": "Pferdefigur",
+    "en-GB": "Zodiac Horse",
+    "en-US": "Zodiac Horse",
+    "es": "Figura de caballo",
+    "fr": "Figurine de cheval",
+    "it": "Figurina di cavallo",
+    "ja": "えとのおきもの・うま"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

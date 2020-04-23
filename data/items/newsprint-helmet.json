@@ -1,6 +1,14 @@
 {
   "id": "newsprint-helmet",
-  "name": "Newsprint Helmet",
+  "name": {
+    "de": "Papierhut",
+    "en-GB": "Newsprint Helmet",
+    "en-US": "Newsprint Helmet",
+    "es": "Gorro de papel",
+    "fr": "Casque en papier",
+    "it": "Elmo di carta",
+    "ja": "しんぶんしのかぶと"
+  },
   "category": "Hats",
   "games": {
     "nl": {

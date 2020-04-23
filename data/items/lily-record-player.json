@@ -1,6 +1,14 @@
 {
   "id": "lily-record-player",
-  "name": "Lily Record Player",
+  "name": {
+    "de": "Liliengrammofon",
+    "en-GB": "Lily Record Player",
+    "en-US": "Lily Record Player",
+    "es": "Gramófono lirio",
+    "fr": "Phonographe lys",
+    "it": "Giradischi giglio",
+    "ja": "ユリのレコードプレーヤー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "cash-register",
-  "name": "Cash Register",
+  "name": {
+    "de": "Kasse",
+    "en-GB": "Cash Register",
+    "en-US": "Cash Register",
+    "es": "Registradora",
+    "fr": "Caisse",
+    "it": "Cassa",
+    "ja": "レジスター"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

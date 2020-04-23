@@ -1,6 +1,14 @@
 {
   "id": "typewriter",
-  "name": "Typewriter",
+  "name": {
+    "de": "Schreibmaschine",
+    "en-GB": "Typewriter",
+    "en-US": "Typewriter",
+    "es": "Máquina de escribir",
+    "fr": "Machine à écrire",
+    "it": "Macchina da scrivere",
+    "ja": "タイプライター"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

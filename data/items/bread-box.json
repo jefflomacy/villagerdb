@@ -1,6 +1,14 @@
 {
   "id": "bread-box",
-  "name": "Bread Box",
+  "name": {
+    "de": "Brotkasten",
+    "en-GB": "Bread Box",
+    "en-US": "Bread Box",
+    "es": "Panera",
+    "fr": "Boîte à pain",
+    "it": "Cassetta per il pane",
+    "ja": "パンケース"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

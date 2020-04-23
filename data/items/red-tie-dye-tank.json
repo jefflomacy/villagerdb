@@ -1,6 +1,14 @@
 {
   "id": "red-tie-dye-tank",
-  "name": "Red Tie-dye Tank",
+  "name": {
+    "de": "Naturtop",
+    "en-GB": "Red Tie-Dye Tank",
+    "en-US": "Red Tie-Dye Tank",
+    "es": "Top hippy rojo",
+    "fr": "Débard. batik rouge",
+    "it": "Canotta fucsia",
+    "ja": "いちごソーダなふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

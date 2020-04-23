@@ -1,6 +1,14 @@
 {
   "id": "patchwork-sofa",
-  "name": "Patchwork Sofa",
+  "name": {
+    "de": "Patchwork-Sofa",
+    "en-GB": "Patchwork Sofa",
+    "en-US": "Patchwork Sofa",
+    "es": "Sofá de retales",
+    "fr": "Canapé patchwork",
+    "it": "Sofà patchwork",
+    "ja": "パッチワークなソファL"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

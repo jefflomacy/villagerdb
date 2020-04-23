@@ -1,6 +1,14 @@
 {
   "id": "bridal-veil",
-  "name": "Bridal Veil",
+  "name": {
+    "de": "Brautschleier",
+    "en-GB": "Bridal Veil",
+    "en-US": "Bridal Veil",
+    "es": "Velo de novia",
+    "fr": "Voile de mariée",
+    "it": "Velo da sposa",
+    "ja": "じゅんぱくのヴェール"
+  },
   "category": "Hats",
   "games": {
     "nl": {

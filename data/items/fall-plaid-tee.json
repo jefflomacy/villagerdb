@@ -1,6 +1,14 @@
 {
   "id": "fall-plaid-tee",
-  "name": "Fall Plaid Tee",
+  "name": {
+    "de": "Herbstshirt",
+    "en-GB": "Fall Plaid Tee",
+    "en-US": "Fall Plaid Tee",
+    "es": "Camiseta tartán lila",
+    "fr": "T-shirt automne",
+    "it": "Maglietta autunnale",
+    "ja": "あきのタータンのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

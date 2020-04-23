@@ -1,6 +1,14 @@
 {
   "id": "green-tie-dye-tank",
-  "name": "Green Tie-dye Tank",
+  "name": {
+    "de": "Festivaltop",
+    "en-GB": "Green Tie-Dye Tank",
+    "en-US": "Green Tie-Dye Tank",
+    "es": "Top hippy verde",
+    "fr": "Débardeur batik vert",
+    "it": "Canotta verde",
+    "ja": "メロンソーダなふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "jingle-wardrobe",
-  "name": "Jingle Wardrobe",
+  "name": {
+    "de": "Festtagsschrank",
+    "en-GB": "Jingle Wardrobe",
+    "en-US": "Jingle Wardrobe",
+    "es": "Armario festivo",
+    "fr": "Armoire festive",
+    "it": "Armadio Jingle",
+    "ja": "クリスマスクロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

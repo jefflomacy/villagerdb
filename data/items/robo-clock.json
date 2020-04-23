@@ -1,6 +1,14 @@
 {
   "id": "robo-clock",
-  "name": "Robo-clock",
+  "name": {
+    "de": "Robo-Uhr",
+    "en-GB": "Robo-Clock",
+    "en-US": "Robo-Clock",
+    "es": "Roboloj",
+    "fr": "Horloge robot",
+    "it": "Robo-orologio",
+    "ja": "ロボクロック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

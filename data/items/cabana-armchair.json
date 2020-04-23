@@ -1,6 +1,14 @@
 {
   "id": "cabana-armchair",
-  "name": "Cabana Armchair",
+  "name": {
+    "de": "Korbsessel",
+    "en-GB": "Cabana Armchair",
+    "en-US": "Cabana Armchair",
+    "es": "Butaca mimbre",
+    "fr": "Fauteuil rotin",
+    "it": "Poltrona vimini",
+    "ja": "リゾートなソファ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

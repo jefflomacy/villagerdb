@@ -1,6 +1,14 @@
 {
   "id": "ranch-table",
-  "name": "Ranch Table",
+  "name": {
+    "de": "Western-Tisch",
+    "en-GB": "Ranch Table",
+    "en-US": "Ranch Table",
+    "es": "Mesa rústica",
+    "fr": "Table ranch",
+    "it": "Tavolo country",
+    "ja": "カントリーなテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

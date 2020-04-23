@@ -1,6 +1,14 @@
 {
   "id": "royal-crown",
-  "name": "Royal Crown",
+  "name": {
+    "de": "Königskrone",
+    "en-GB": "Royal Crown",
+    "en-US": "Royal Crown",
+    "es": "Corona imperial",
+    "fr": "Couronne royale",
+    "it": "Corona reale",
+    "ja": "おうかん"
+  },
   "category": "Hats",
   "games": {
     "nl": {

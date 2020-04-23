@@ -1,6 +1,14 @@
 {
   "id": "princess-cage",
-  "name": "Princess Cage",
+  "name": {
+    "de": "Prachtkäfig",
+    "en-GB": "Princess Cage",
+    "en-US": "Princess Cage",
+    "es": "Jaula princesa",
+    "fr": "Cage princesse",
+    "it": "Voliera contessa",
+    "ja": "プリンセスケージ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "aroma-pot",
-  "name": "Aroma Pot",
+  "name": {
+    "de": "Duftlampe",
+    "en-GB": "Aroma Pot",
+    "en-US": "Aroma Pot",
+    "es": "Quemador de esencias",
+    "fr": "Brûle-parfum",
+    "it": "Brucia essenze",
+    "ja": "アロマポット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

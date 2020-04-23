@@ -1,6 +1,14 @@
 {
   "id": "purple-pumps",
-  "name": "Purple Pumps",
+  "name": {
+    "de": "Lila-Damenschuh",
+    "en-GB": "Purple Pumps",
+    "en-US": "Purple Pumps",
+    "es": "Manoletina morada",
+    "fr": "P. ballerines mauves",
+    "it": "P. ballerine porpora",
+    "ja": "むらさきのパンプス"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

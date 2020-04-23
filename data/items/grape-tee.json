@@ -1,6 +1,14 @@
 {
   "id": "grape-tee",
-  "name": "Grape Tee",
+  "name": {
+    "de": "Traubenshirt",
+    "en-GB": "Grape Tee",
+    "en-US": "Grape Tee",
+    "es": "Camiseta uvas",
+    "fr": "T-shirt raisin",
+    "it": "Maglietta uva",
+    "ja": "ぶどうのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "t-rex-tail",
-  "name": "T. Rex Tail",
+  "name": {
+    "de": "T-Rex-Schwanz",
+    "en-GB": "T. Rex Tail",
+    "en-US": "T. Rex Tail",
+    "es": "Cola tiranosaurio",
+    "fr": "Queue de T. rex",
+    "it": "Coda tirannosauro",
+    "ja": "Tレックスのしっぽ"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "zebra-tank",
-  "name": "Zebra Tank",
+  "name": {
+    "de": "Zebratop",
+    "en-GB": "Zebra Tank",
+    "en-US": "Zebra Tank",
+    "es": "Top cebra",
+    "fr": "Débardeur zèbre",
+    "it": "Canotta zebra",
+    "ja": "ゼブラなふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "vision-tester",
-  "name": "Vision Tester",
+  "name": {
+    "de": "Augentest",
+    "en-GB": "Vision Tester",
+    "en-US": "Vision Tester",
+    "es": "Lámina oculista",
+    "fr": "Test de vision",
+    "it": "Misuratore vista",
+    "ja": "しりょくそくていき"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

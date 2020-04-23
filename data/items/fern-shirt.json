@@ -1,6 +1,14 @@
 {
   "id": "fern-shirt",
-  "name": "Fern Shirt",
+  "name": {
+    "de": "Farnpulli",
+    "en-GB": "Fern Shirt",
+    "en-US": "Fern Shirt",
+    "es": "Jersey helechos",
+    "fr": "Pull fougère",
+    "it": "Maglia felce",
+    "ja": "はっぱがらのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

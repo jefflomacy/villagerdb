@@ -1,6 +1,14 @@
 {
   "id": "watermelon-chair",
-  "name": "Watermelon Chair",
+  "name": {
+    "de": "Melonensitz",
+    "en-GB": "Watermelon Chair",
+    "en-US": "Watermelon Chair",
+    "es": "Silla sandía",
+    "fr": "Chaise pastèque",
+    "it": "Sedia anguria",
+    "ja": "スイカのイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

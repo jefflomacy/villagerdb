@@ -1,6 +1,14 @@
 {
   "id": "star-tee",
-  "name": "Star Tee",
+  "name": {
+    "de": "Buntstern-Shirt",
+    "en-GB": "Star Tee",
+    "en-US": "Star Tee",
+    "es": "Camiseta estrellas",
+    "fr": "T-shirt étoiles",
+    "it": "Maglietta stellare",
+    "ja": "スターなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

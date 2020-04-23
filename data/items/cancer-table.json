@@ -1,6 +1,14 @@
 {
   "id": "cancer-table",
-  "name": "Cancer Table",
+  "name": {
+    "de": "Krebs-Tisch",
+    "en-GB": "Cancer Table",
+    "en-US": "Cancer Table",
+    "es": "Mesa Cáncer",
+    "fr": "Table Cancer",
+    "it": "Tavolo Cancro",
+    "ja": "キャンサーのテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

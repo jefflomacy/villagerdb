@@ -1,6 +1,14 @@
 {
   "id": "black-denim-skirt",
-  "name": "Black-denim Skirt",
+  "name": {
+    "de": "Schwarzjeansrock",
+    "en-GB": "Black-Denim Skirt",
+    "en-US": "Black-Denim Skirt",
+    "es": "Falda denim negra",
+    "fr": "Jupe en jean noire",
+    "it": "Gonna di jeans nera",
+    "ja": "くろいデニムスカート"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

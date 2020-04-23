@@ -1,6 +1,14 @@
 {
   "id": "tasseled-loafers",
-  "name": "Tasseled Loafers",
+  "name": {
+    "de": "Lederhalbschuh",
+    "en-GB": "Tasseled Loafers",
+    "en-US": "Tasseled Loafers",
+    "es": "Mocasín elegante",
+    "fr": "P. mocassins pompon",
+    "it": "P. scarpe con nappe",
+    "ja": "くろいかわぐつ"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

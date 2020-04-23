@@ -1,6 +1,14 @@
 {
   "id": "red-zap-pants",
-  "name": "Red-zap Pants",
+  "name": {
+    "de": "Rotheldenhose",
+    "en-GB": "Red-Zap Pants",
+    "en-US": "Red-Zap Pants",
+    "es": "Superpantalón rojo",
+    "fr": "Pantalon héros rouge",
+    "it": "Pantalone eroe rosso",
+    "ja": "ヒーローズボンR"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

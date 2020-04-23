@@ -1,6 +1,14 @@
 {
   "id": "mush-tv",
-  "name": "Mush Tv",
+  "name": {
+    "de": "Pilzfernseher",
+    "en-GB": "Mush TV",
+    "en-US": "Mush TV",
+    "es": "Tele hongo",
+    "fr": "Télé champi",
+    "it": "TV fungo",
+    "ja": "きのこテレビ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "explorer-tee",
-  "name": "Explorer Tee",
+  "name": {
+    "de": "Safarishirt",
+    "en-GB": "Explorer Tee",
+    "en-US": "Explorer Tee",
+    "es": "Camiseta explorador",
+    "fr": "T-shirt aventure",
+    "it": "Maglietta esplorat.",
+    "ja": "たんけんふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

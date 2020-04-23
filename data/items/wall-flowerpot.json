@@ -1,6 +1,14 @@
 {
   "id": "wall-flowerpot",
-  "name": "Wall Flowerpot",
+  "name": {
+    "de": "Wandgesteck",
+    "en-GB": "Wall Flowerpot",
+    "en-US": "Wall Flowerpot",
+    "es": "Maceta pared",
+    "fr": "Pot de fleurs mural",
+    "it": "Cestino fiori a muro",
+    "ja": "かべかけフラワー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

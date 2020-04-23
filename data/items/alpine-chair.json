@@ -1,6 +1,14 @@
 {
   "id": "alpine-chair",
-  "name": "Alpine Chair",
+  "name": {
+    "de": "Nordstuhl",
+    "en-GB": "Alpine Chair",
+    "en-US": "Alpine Chair",
+    "es": "Silla nórdica",
+    "fr": "Chaise nordique",
+    "it": "Sedia nordica",
+    "ja": "スカンジナビアなチェア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

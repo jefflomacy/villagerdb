@@ -1,6 +1,14 @@
 {
   "id": "bunny-shirt",
-  "name": "Bunny Shirt",
+  "name": {
+    "de": "Hasenpulli",
+    "en-GB": "Bunny Shirt",
+    "en-US": "Bunny Shirt",
+    "es": "Jersey conejito",
+    "fr": "Pull lapin",
+    "it": "Maglia coniglio",
+    "ja": "うさぎのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

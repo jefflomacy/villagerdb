@@ -1,6 +1,14 @@
 {
   "id": "argyle-tights",
-  "name": "Argyle Tights",
+  "name": {
+    "de": "Argyle-Strumpfhose",
+    "en-GB": "Argyle Tights",
+    "en-US": "Argyle Tights",
+    "es": "Media pija",
+    "fr": "Collant écossais",
+    "it": "Paio calze a rombi",
+    "ja": "アーガイルタイツ"
+  },
   "category": "Socks",
   "games": {
     "nl": {

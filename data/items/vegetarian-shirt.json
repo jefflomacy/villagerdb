@@ -1,6 +1,14 @@
 {
   "id": "vegetarian-shirt",
-  "name": "Vegetarian Shirt",
+  "name": {
+    "de": "Streifenpulli",
+    "en-GB": "Vegetarian Shirt",
+    "en-US": "Vegetarian Shirt",
+    "es": "Jersey campo",
+    "fr": "Pull rayures blanc",
+    "it": "Maglia vegetale",
+    "ja": "ベジタリアンなふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

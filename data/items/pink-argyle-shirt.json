@@ -1,6 +1,14 @@
 {
   "id": "pink-argyle-shirt",
-  "name": "Pink Argyle Shirt",
+  "name": {
+    "de": "Rosa-Argyle-Pulli",
+    "en-GB": "Pink Argyle Shirt",
+    "en-US": "Pink Argyle Shirt",
+    "es": "Jersey pijo rosa",
+    "fr": "Pull écossais rose",
+    "it": "Maglia rombi rosa",
+    "ja": "ピンクアーガイルのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

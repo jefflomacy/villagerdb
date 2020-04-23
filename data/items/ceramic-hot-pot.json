@@ -1,6 +1,14 @@
 {
   "id": "ceramic-hot-pot",
-  "name": "Ceramic Hot Pot",
+  "name": {
+    "de": "Feuertopf",
+    "en-GB": "Ceramic Hot Pot",
+    "en-US": "Ceramic Hot Pot",
+    "es": "Fondue oriental",
+    "fr": "Appareil à fondue",
+    "it": "Set per zuppa",
+    "ja": "どなべ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

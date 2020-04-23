@@ -1,6 +1,14 @@
 {
   "id": "harvest-lamp",
-  "name": "Harvest Lamp",
+  "name": {
+    "de": "Herbstlampe",
+    "en-GB": "Harvest Lamp",
+    "en-US": "Harvest Lamp",
+    "es": "Lámpara pavo",
+    "fr": "Lampe dindon",
+    "it": "Lampada autunno",
+    "ja": "ハーベストランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

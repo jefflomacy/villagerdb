@@ -1,6 +1,14 @@
 {
   "id": "circuit-tank",
-  "name": "Circuit Tank",
+  "name": {
+    "de": "Platinentop",
+    "en-GB": "Circuit Tank",
+    "en-US": "Circuit Tank",
+    "es": "Top microchip",
+    "fr": "Débardeur circuit",
+    "it": "Canotta circuito",
+    "ja": "きばんのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

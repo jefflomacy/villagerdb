@@ -1,6 +1,14 @@
 {
   "id": "gorgeous-stool",
-  "name": "Gorgeous Stool",
+  "name": {
+    "de": "Luxushocker",
+    "en-GB": "Gorgeous Stool",
+    "en-US": "Gorgeous Stool",
+    "es": "Taburete palacio",
+    "fr": "Siège somptueux",
+    "it": "Sgabello divino",
+    "ja": "ゴージャスハイチェア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

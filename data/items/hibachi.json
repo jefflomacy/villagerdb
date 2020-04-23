@@ -1,6 +1,14 @@
 {
   "id": "hibachi",
-  "name": "Hibachi",
+  "name": {
+    "de": "Kohlebecken",
+    "en-GB": "Hibachi",
+    "en-US": "Hibachi",
+    "es": "Hibachi",
+    "fr": "Hibachi",
+    "it": "Hibachi",
+    "ja": "ひばち"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

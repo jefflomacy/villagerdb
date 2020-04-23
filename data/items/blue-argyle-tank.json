@@ -1,6 +1,14 @@
 {
   "id": "blue-argyle-tank",
-  "name": "Blue Argyle Tank",
+  "name": {
+    "de": "Blau-Argyle-Top",
+    "en-GB": "Blue Argyle Tank",
+    "en-US": "Blue Argyle Tank",
+    "es": "Top pijo azul",
+    "fr": "Débardeur écos. bleu",
+    "it": "Canotta rombi blu",
+    "ja": "あおアーガイルのふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

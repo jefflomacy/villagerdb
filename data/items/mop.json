@@ -1,6 +1,14 @@
 {
   "id": "mop",
-  "name": "Mop",
+  "name": {
+    "de": "Wischmopp",
+    "en-GB": "Mop",
+    "en-US": "Mop",
+    "es": "Fregona",
+    "fr": "Balai-éponge",
+    "it": "Spazzolone",
+    "ja": "そうじようぐ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

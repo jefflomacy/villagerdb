@@ -1,6 +1,14 @@
 {
   "id": "amp",
-  "name": "Amp",
+  "name": {
+    "de": "Verstärker",
+    "en-GB": "Amp",
+    "en-US": "Amp",
+    "es": "Amplificador",
+    "fr": "Ampli",
+    "it": "Amplificatore",
+    "ja": "アンプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

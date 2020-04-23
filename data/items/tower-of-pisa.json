@@ -1,6 +1,14 @@
 {
   "id": "tower-of-pisa",
-  "name": "Tower Of Pisa",
+  "name": {
+    "de": "Turm von Pisa",
+    "en-GB": "Tower Of Pisa",
+    "en-US": "Tower Of Pisa",
+    "es": "Torre de Pisa",
+    "fr": "Tour de Pise",
+    "it": "Torre di Pisa",
+    "ja": "ピサのしゃとう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

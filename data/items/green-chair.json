@@ -1,6 +1,14 @@
 {
   "id": "green-chair",
-  "name": "Green Chair",
+  "name": {
+    "de": "Smaragdstuhl",
+    "en-GB": "Green Chair",
+    "en-US": "Green Chair",
+    "es": "Silla verde",
+    "fr": "Chaise verte",
+    "it": "Sedia verde",
+    "ja": "みどりのイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

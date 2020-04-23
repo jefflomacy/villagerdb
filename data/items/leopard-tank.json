@@ -1,6 +1,14 @@
 {
   "id": "leopard-tank",
-  "name": "Leopard Tank",
+  "name": {
+    "de": "Leopardentop",
+    "en-GB": "Leopard Tank",
+    "en-US": "Leopard Tank",
+    "es": "Top leopardo",
+    "fr": "Débardeur léopard",
+    "it": "Canotta leopardo",
+    "ja": "ひょうがらのふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

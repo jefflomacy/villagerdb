@@ -1,6 +1,14 @@
 {
   "id": "lunar-rover",
-  "name": "Lunar Rover",
+  "name": {
+    "de": "Mondfahrzeug",
+    "en-GB": "Lunar Rover",
+    "en-US": "Lunar Rover",
+    "es": "Explorador lunar",
+    "fr": "Véhicule lunaire",
+    "it": "Rover lunare",
+    "ja": "げつめんいどうしゃ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

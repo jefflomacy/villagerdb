@@ -1,6 +1,14 @@
 {
   "id": "world-map",
-  "name": "World Map",
+  "name": {
+    "de": "Weltkarte",
+    "en-GB": "World Map",
+    "en-US": "World Map",
+    "es": "Mapamundi",
+    "fr": "Carte du monde",
+    "it": "Planisfero",
+    "ja": "せかいちず"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

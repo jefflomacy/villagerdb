@@ -1,6 +1,14 @@
 {
   "id": "outdoor-bath",
-  "name": "Outdoor Bath",
+  "name": {
+    "de": "Schwimmteich",
+    "en-GB": "Outdoor Bath",
+    "en-US": "Outdoor Bath",
+    "es": "Baño termal",
+    "fr": "Bain extérieur",
+    "it": "Bagno termale",
+    "ja": "ろてんぶろ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

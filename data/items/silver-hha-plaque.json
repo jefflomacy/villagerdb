@@ -1,6 +1,14 @@
 {
   "id": "silver-hha-plaque",
-  "name": "Silver Hha Plaque",
+  "name": {
+    "de": "AdsH-Silberabzeichen",
+    "en-GB": "Silver HHA Plaque",
+    "en-US": "Silver HHA Plaque",
+    "es": "Placa AAD de plata",
+    "fr": "Plaque AJD argent",
+    "it": "Targa ABC d'argento",
+    "ja": "アカデミーのぎんのたて"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

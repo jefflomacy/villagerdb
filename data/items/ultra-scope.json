@@ -1,6 +1,14 @@
 {
   "id": "ultra-scope",
-  "name": "Ultra Scope",
+  "name": {
+    "de": "Ultra Scope",
+    "en-GB": "Ultra Scope",
+    "en-US": "Ultra Scope",
+    "es": "Ultra Scope",
+    "fr": "Ultra Scope",
+    "it": "Ultra Scope",
+    "ja": "ウルトラコープ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

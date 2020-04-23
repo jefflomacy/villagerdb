@@ -1,6 +1,14 @@
 {
   "id": "ski-mask",
-  "name": "Ski Mask",
+  "name": {
+    "de": "Skimaske",
+    "en-GB": "Ski Mask",
+    "en-US": "Ski Mask",
+    "es": "Pasamontañas",
+    "fr": "Cagoule",
+    "it": "Passamontagna",
+    "ja": "めだしぼう"
+  },
   "category": "Hats",
   "games": {
     "nl": {

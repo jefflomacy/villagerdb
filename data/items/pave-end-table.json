@@ -1,6 +1,14 @@
 {
   "id": "pave-end-table",
-  "name": "Pavé End Table",
+  "name": {
+    "de": "Karnevalsecktisch",
+    "en-GB": "Pavé End Table",
+    "en-US": "Pavé End Table",
+    "es": "Mesita Conga",
+    "fr": "Guéridon carnaval",
+    "it": "Tavolino Pavão",
+    "ja": "カーニバルテーブルS"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "tea-set",
-  "name": "Tea Set",
+  "name": {
+    "de": "Tee-Service",
+    "en-GB": "Tea Set",
+    "en-US": "Tea Set",
+    "es": "Juego de té",
+    "fr": "Service à thé",
+    "it": "Set da tè",
+    "ja": "ティーセット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

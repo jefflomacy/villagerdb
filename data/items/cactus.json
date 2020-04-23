@@ -1,6 +1,14 @@
 {
   "id": "cactus",
-  "name": "Cactus",
+  "name": {
+    "de": "Flachkaktus",
+    "en-GB": "Cactus",
+    "en-US": "Cactus",
+    "es": "Cactus",
+    "fr": "Cactus",
+    "it": "Cactus",
+    "ja": "へんぺいサボテン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

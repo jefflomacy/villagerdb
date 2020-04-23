@@ -1,6 +1,14 @@
 {
   "id": "jingle-dresser",
-  "name": "Jingle Dresser",
+  "name": {
+    "de": "Festtagskommode",
+    "en-GB": "Jingle Dresser",
+    "en-US": "Jingle Dresser",
+    "es": "Cómoda festiva",
+    "fr": "Commode festive",
+    "it": "Comò Jingle",
+    "ja": "クリスマスタンス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

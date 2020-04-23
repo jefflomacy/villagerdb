@@ -1,6 +1,14 @@
 {
   "id": "sunflower",
-  "name": "Sunflower",
+  "name": {
+    "de": "Sonnenblume",
+    "en-GB": "Sunflower",
+    "en-US": "Sunflower",
+    "es": "Jarrón con girasoles",
+    "fr": "Tournesol",
+    "it": "Girasole",
+    "ja": "ひまわり"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "kung-fu-pants",
-  "name": "Kung-fu Pants",
+  "name": {
+    "de": "Kung-Fu-Hose",
+    "en-GB": "Kung-Fu Pants",
+    "en-US": "Kung-Fu Pants",
+    "es": "Pantalón kung-fu",
+    "fr": "Pantalon kung-fu",
+    "it": "Pantalone kung-fu",
+    "ja": "カンフーなズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

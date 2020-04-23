@@ -1,6 +1,14 @@
 {
   "id": "patchwork-lamp",
-  "name": "Patchwork Lamp",
+  "name": {
+    "de": "Patchwork-Lampe",
+    "en-GB": "Patchwork Lamp",
+    "en-US": "Patchwork Lamp",
+    "es": "Lámpara de retales",
+    "fr": "Lampe patchwork",
+    "it": "Lampada patchwork",
+    "ja": "パッチワークなランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

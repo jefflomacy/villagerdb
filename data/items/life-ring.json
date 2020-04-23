@@ -1,6 +1,14 @@
 {
   "id": "life-ring",
-  "name": "Life Ring",
+  "name": {
+    "de": "Rettungsring",
+    "en-GB": "Life Ring",
+    "en-US": "Life Ring",
+    "es": "Salvavidas",
+    "fr": "Bouée de sauvetage",
+    "it": "Salvagente",
+    "ja": "うきわ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

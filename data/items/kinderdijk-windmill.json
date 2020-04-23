@@ -1,6 +1,14 @@
 {
   "id": "kinderdijk-windmill",
-  "name": "Kinderdijk Windmill",
+  "name": {
+    "de": "Windmühlen-Souvenir",
+    "en-GB": "Kinderdijk Windmill",
+    "en-US": "Kinderdijk Windmill",
+    "es": "Molino de viento",
+    "fr": "Moulin de Kinderdijk",
+    "it": "Mulino a vento",
+    "ja": "キンデルダイクのふうしゃ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

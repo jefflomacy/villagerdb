@@ -1,6 +1,14 @@
 {
   "id": "frog-shirt",
-  "name": "Frog Shirt",
+  "name": {
+    "de": "Quak-Pulli",
+    "en-GB": "Frog Shirt",
+    "en-US": "Frog Shirt",
+    "es": "Jersey ranita",
+    "fr": "Pull rainette",
+    "it": "Maglia rana",
+    "ja": "かえるのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

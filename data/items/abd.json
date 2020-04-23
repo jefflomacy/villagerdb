@@ -1,6 +1,14 @@
 {
   "id": "abd",
-  "name": "ABD",
+  "name": {
+    "de": "Bankautomat",
+    "en-GB": "Bellpoint",
+    "en-US": "ABD",
+    "es": "Bayero",
+    "fr": "DAC",
+    "it": "Stellomat",
+    "ja": "ATM"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

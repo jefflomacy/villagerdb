@@ -1,6 +1,14 @@
 {
   "id": "toad-shirt",
-  "name": "Toad Shirt",
+  "name": {
+    "de": "Pilzpulli",
+    "en-GB": "Toad Shirt",
+    "en-US": "Toad Shirt",
+    "es": "Jersey champiñón",
+    "fr": "Pull Toad",
+    "it": "Maglia rossa a pois",
+    "ja": "きのこもようのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "oval-clock",
-  "name": "Oval Clock",
+  "name": {
+    "de": "Ovaluhr",
+    "en-GB": "Oval Clock",
+    "en-US": "Oval Clock",
+    "es": "Reloj ovalado",
+    "fr": "Horloge ovale",
+    "it": "Orologio ovale",
+    "ja": "だえんのとけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "kimbap-plate",
-  "name": "Kimbap Plate",
+  "name": {
+    "de": "Kimbap-Teller",
+    "en-GB": "Kimbap Plate",
+    "en-US": "Kimbap Plate",
+    "es": "Kimbap coreano",
+    "fr": "Plat de gimbap",
+    "it": "Kimbap coreano",
+    "ja": "キムパブ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

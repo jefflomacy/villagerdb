@@ -1,6 +1,14 @@
 {
   "id": "exotic-wardrobe",
-  "name": "Exotic Wardrobe",
+  "name": {
+    "de": "Orient-Schrank",
+    "en-GB": "Exotic Wardrobe",
+    "en-US": "Exotic Wardrobe",
+    "es": "Armario exótico",
+    "fr": "Armoire teck",
+    "it": "Armadio esotico",
+    "ja": "アジアなクロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

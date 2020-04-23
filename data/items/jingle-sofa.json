@@ -1,6 +1,14 @@
 {
   "id": "jingle-sofa",
-  "name": "Jingle Sofa",
+  "name": {
+    "de": "Festtagssofa",
+    "en-GB": "Jingle Sofa",
+    "en-US": "Jingle Sofa",
+    "es": "Sofá festivo",
+    "fr": "Canapé festif",
+    "it": "Sofà Jingle",
+    "ja": "クリスマスソファ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "cabin-bed",
-  "name": "Cabin Bed",
+  "name": {
+    "de": "Blockhausbett",
+    "en-GB": "Cabin Bed",
+    "en-US": "Cabin Bed",
+    "es": "Cama cabaña",
+    "fr": "Lit chalet",
+    "it": "Letto rustico",
+    "ja": "ログベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

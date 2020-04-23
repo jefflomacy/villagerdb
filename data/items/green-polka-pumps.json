@@ -1,6 +1,14 @@
 {
   "id": "green-polka-pumps",
-  "name": "Green Polka Pumps",
+  "name": {
+    "de": "Tüpfel-Damenschuh",
+    "en-GB": "Green Polka Pumps",
+    "en-US": "Green Polka Pumps",
+    "es": "Manoletina topos",
+    "fr": "P. ballerines V pois",
+    "it": "Paio ballerine verdi",
+    "ja": "みずたまのパンプス"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

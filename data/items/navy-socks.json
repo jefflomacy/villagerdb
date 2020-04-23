@@ -1,6 +1,14 @@
 {
   "id": "navy-socks",
-  "name": "Navy Socks",
+  "name": {
+    "de": "Nachtblausocke",
+    "en-GB": "Navy Socks",
+    "en-US": "Navy Socks",
+    "es": "Calcetín azul marino",
+    "fr": "Paire chauss. marine",
+    "it": "P. calzini blu scuro",
+    "ja": "こんいろハイソックス"
+  },
   "category": "Socks",
   "games": {
     "nl": {

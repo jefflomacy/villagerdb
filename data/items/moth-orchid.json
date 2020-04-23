@@ -1,6 +1,14 @@
 {
   "id": "moth-orchid",
-  "name": "Moth Orchid",
+  "name": {
+    "de": "Orchidee",
+    "en-GB": "Moth Orchid",
+    "en-US": "Moth Orchid",
+    "es": "Orquídea",
+    "fr": "Orchidée",
+    "it": "Orchidea",
+    "ja": "こちょうらん"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

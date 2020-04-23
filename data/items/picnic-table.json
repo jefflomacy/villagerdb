@@ -1,6 +1,14 @@
 {
   "id": "picnic-table",
-  "name": "Picnic Table",
+  "name": {
+    "de": "Picknicktisch",
+    "en-GB": "Picnic Table",
+    "en-US": "Picnic Table",
+    "es": "Mesa picnic",
+    "fr": "Table de pique-nique",
+    "it": "Tavolo da picnic",
+    "ja": "ピクニックテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

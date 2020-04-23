@@ -1,6 +1,14 @@
 {
   "id": "comfy-sweater",
-  "name": "Comfy Sweater",
+  "name": {
+    "de": "Wollpulli",
+    "en-GB": "Comfy Sweater",
+    "en-US": "Comfy Sweater",
+    "es": "Jersey andino",
+    "fr": "Pull confortable",
+    "it": "Maglione fantasia",
+    "ja": "こげちゃのニット"
+  },
   "category": "Tops",
   "games": {
     "nl": {

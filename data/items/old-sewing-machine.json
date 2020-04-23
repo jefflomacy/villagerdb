@@ -1,6 +1,14 @@
 {
   "id": "old-sewing-machine",
-  "name": "Old Sewing Machine",
+  "name": {
+    "de": "Pedalnähmaschine",
+    "en-GB": "Old Sewing Machine",
+    "en-US": "Old Sewing Machine",
+    "es": "Máquina coser vieja",
+    "fr": "Machine coudre rétro",
+    "it": "Macch. cucire antica",
+    "ja": "ふるいミシン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "mush-hanger",
-  "name": "Mush Hanger",
+  "name": {
+    "de": "Pilzgarderobe",
+    "en-GB": "Mush Hanger",
+    "en-US": "Mush Hanger",
+    "es": "Perchero hongo",
+    "fr": "Portemanteau champi",
+    "it": "Attaccapanni fungo",
+    "ja": "きのこのハンガー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

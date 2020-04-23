@@ -1,6 +1,14 @@
 {
   "id": "sweets-minitable",
-  "name": "Sweets Minitable",
+  "name": {
+    "de": "Süßminitisch",
+    "en-GB": "Sweets Minitable",
+    "en-US": "Sweets Minitable",
+    "es": "Mesita chuches",
+    "fr": "Petite table bonbons",
+    "it": "Tavolino dolci",
+    "ja": "おかしのミニテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

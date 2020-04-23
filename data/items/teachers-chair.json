@@ -1,6 +1,14 @@
 {
   "id": "teachers-chair",
-  "name": "Teacher's Chair",
+  "name": {
+    "de": "Lehrerstuhl",
+    "en-GB": "Teacher's Chair",
+    "en-US": "Teacher's Chair",
+    "es": "Silla profesor",
+    "fr": "Chaise du maître",
+    "it": "Sedia maestro",
+    "ja": "せんせいのイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

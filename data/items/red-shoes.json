@@ -1,6 +1,14 @@
 {
   "id": "red-shoes",
-  "name": "Red Shoes",
+  "name": {
+    "de": "Rotschuh",
+    "en-GB": "Red Shoes",
+    "en-US": "Red Shoes",
+    "es": "Zapato rojo",
+    "fr": "Paire babies rouges",
+    "it": "Paio scarpe rosse",
+    "ja": "あかいくつ"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

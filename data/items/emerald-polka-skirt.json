@@ -1,6 +1,14 @@
 {
   "id": "emerald-polka-skirt",
-  "name": "Emerald Polka Skirt",
+  "name": {
+    "de": "Türkis-Pünktchenrock",
+    "en-GB": "Emerald Polka Skirt",
+    "en-US": "Emerald Polka Skirt",
+    "es": "Falda esmeralda",
+    "fr": "Jupe à pois émeraude",
+    "it": "Gonna turchese",
+    "ja": "エメラルドドットスカート"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

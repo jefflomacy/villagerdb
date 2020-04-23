@@ -1,6 +1,14 @@
 {
   "id": "coffee-cup",
-  "name": "Coffee Cup",
+  "name": {
+    "de": "Kaffeetasse",
+    "en-GB": "Coffee Cup",
+    "en-US": "Coffee Cup",
+    "es": "Taza de café",
+    "fr": "Tasse de café",
+    "it": "Tazza di caffè",
+    "ja": "コーヒーカップ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

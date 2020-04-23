@@ -1,6 +1,14 @@
 {
   "id": "snow-boots",
-  "name": "Snow Boots",
+  "name": {
+    "de": "Schneestiefel",
+    "en-GB": "Snow Boots",
+    "en-US": "Snow Boots",
+    "es": "Bota de nieve",
+    "fr": "Paire d'après-skis",
+    "it": "P. scarponi da neve",
+    "ja": "スノーブーツ"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

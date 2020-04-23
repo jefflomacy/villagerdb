@@ -1,6 +1,14 @@
 {
   "id": "large-alpine-table",
-  "name": "Large Alpine Table",
+  "name": {
+    "de": "Nord-Esstisch",
+    "en-GB": "Large Alpine Table",
+    "en-US": "Large Alpine Table",
+    "es": "Mesa nórdica",
+    "fr": "Table ronde nordique",
+    "it": "Tavolo nordico",
+    "ja": "スカンジナビアテーブルL"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "stripe-tv",
-  "name": "Stripe Tv",
+  "name": {
+    "de": "Streifenfernseher",
+    "en-GB": "Stripe TV",
+    "en-US": "Stripe TV",
+    "es": "Tele rayas",
+    "fr": "Télé rayures",
+    "it": "TV strisce",
+    "ja": "ストライプなテレビ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "lucky-frog",
-  "name": "Lucky Frog",
+  "name": {
+    "de": "Glücksfroschset",
+    "en-GB": "Lucky Frog",
+    "en-US": "Lucky Frog",
+    "es": "Rana de la suerte",
+    "fr": "Rainette fétiche",
+    "it": "Rana della fortuna",
+    "ja": "ぶじかえる"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

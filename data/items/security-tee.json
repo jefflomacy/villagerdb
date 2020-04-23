@@ -1,6 +1,14 @@
 {
   "id": "security-tee",
-  "name": "Security Tee",
+  "name": {
+    "de": "Polizeishirt",
+    "en-GB": "Security Tee",
+    "en-US": "Security Tee",
+    "es": "Uniforme de policía",
+    "fr": "T-shirt sécurité",
+    "it": "Camicia polizia",
+    "ja": "けいかんのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "pink-wave-tank",
-  "name": "Pink Wave Tank",
+  "name": {
+    "de": "Himbeertop",
+    "en-GB": "Pink Wave Tank",
+    "en-US": "Pink Wave Tank",
+    "es": "Top olas rosa",
+    "fr": "Débardeur vague rose",
+    "it": "Canotta a onde rosa",
+    "ja": "ピンクスパンコール"
+  },
   "category": "Tops",
   "games": {
     "nl": {

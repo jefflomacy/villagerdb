@@ -1,6 +1,14 @@
 {
   "id": "black-denim-jacket",
-  "name": "Black-denim Jacket",
+  "name": {
+    "de": "Schwarzjeansjacke",
+    "en-GB": "Black-Denim Jacket",
+    "en-US": "Black-Denim Jacket",
+    "es": "Cazadora denim negra",
+    "fr": "Veste en jean noire",
+    "it": "Giacca di jeans nera",
+    "ja": "くろいデニムジャケット"
+  },
   "category": "Tops",
   "games": {
     "nl": {

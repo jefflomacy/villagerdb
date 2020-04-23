@@ -1,6 +1,14 @@
 {
   "id": "bucket",
-  "name": "Bucket",
+  "name": {
+    "de": "Schüssel",
+    "en-GB": "Bucket",
+    "en-US": "Bucket",
+    "es": "Palangana",
+    "fr": "Seau",
+    "it": "Secchio",
+    "ja": "おけ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

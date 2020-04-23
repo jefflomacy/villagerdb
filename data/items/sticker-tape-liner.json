@@ -1,6 +1,14 @@
 {
   "id": "sticker-tape-liner",
-  "name": "Sticker Tape Liner",
+  "name": {
+    "de": "Korrekturroller",
+    "en-GB": "Sticker Tape Liner",
+    "en-US": "Sticker Tape Liner",
+    "es": "Cinta correctora",
+    "fr": "Roller de colle",
+    "it": "Correttore a nastro",
+    "ja": "ドットライナー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

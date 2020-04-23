@@ -1,6 +1,14 @@
 {
   "id": "racer-tee",
-  "name": "Racer Tee",
+  "name": {
+    "de": "Jockeyshirt",
+    "en-GB": "Racer Tee",
+    "en-US": "Racer Tee",
+    "es": "Camiseta circuito",
+    "fr": "T-shirt course",
+    "it": "Maglietta da corsa",
+    "ja": "いかしたラインのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

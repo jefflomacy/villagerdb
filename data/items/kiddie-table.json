@@ -1,6 +1,14 @@
 {
   "id": "kiddie-table",
-  "name": "Kiddie Table",
+  "name": {
+    "de": "Kindertisch",
+    "en-GB": "Kiddie Table",
+    "en-US": "Kiddie Table",
+    "es": "Mesa puzle",
+    "fr": "Table enfant",
+    "it": "Tavolo bimbi",
+    "ja": "カラフルなテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

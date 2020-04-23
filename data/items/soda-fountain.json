@@ -1,6 +1,14 @@
 {
   "id": "soda-fountain",
-  "name": "Soda Fountain",
+  "name": {
+    "de": "Getränkespender",
+    "en-GB": "Soda Fountain",
+    "en-US": "Soda Fountain",
+    "es": "Fuente de refrescos",
+    "fr": "Fontaine à sodas",
+    "it": "Distributore bibite",
+    "ja": "ドリンクバー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

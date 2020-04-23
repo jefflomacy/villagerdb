@@ -1,6 +1,14 @@
 {
   "id": "rope-partition",
-  "name": "Rope Partition",
+  "name": {
+    "de": "Absperrkordel",
+    "en-GB": "Rope Partition",
+    "en-US": "Rope Partition",
+    "es": "Cordón divisorio",
+    "fr": "Balisage à corde",
+    "it": "Transenna per eventi",
+    "ja": "パーテーションポール"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

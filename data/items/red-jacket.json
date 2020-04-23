@@ -1,6 +1,14 @@
 {
   "id": "red-jacket",
-  "name": "Red Jacket",
+  "name": {
+    "de": "Windjacke",
+    "en-GB": "Red Jacket",
+    "en-US": "Red Jacket",
+    "es": "Chubasquero rojo",
+    "fr": "Veste rouge",
+    "it": "Giacca pioggia rossa",
+    "ja": "あかのレインウェア"
+  },
   "category": "Tops",
   "games": {
     "nl": {

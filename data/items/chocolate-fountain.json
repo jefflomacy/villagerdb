@@ -1,6 +1,14 @@
 {
   "id": "chocolate-fountain",
-  "name": "Chocolate Fountain",
+  "name": {
+    "de": "Schokoladenbrunnen",
+    "en-GB": "Chocolate Fountain",
+    "en-US": "Chocolate Fountain",
+    "es": "Fuente de chocolate",
+    "fr": "Fontaine de chocolat",
+    "it": "Fontana cioccolato",
+    "ja": "チョコレートフォンデュ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "robo-lamp",
-  "name": "Robo-lamp",
+  "name": {
+    "de": "Robo-Lampe",
+    "en-GB": "Robo-Lamp",
+    "en-US": "Robo-Lamp",
+    "es": "Robolámpara",
+    "fr": "Lampe robot",
+    "it": "Robo-lampada",
+    "ja": "ロボランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

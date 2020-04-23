@@ -1,6 +1,14 @@
 {
   "id": "caladium",
-  "name": "Caladium",
+  "name": {
+    "de": "Buntwurz",
+    "en-GB": "Caladium",
+    "en-US": "Caladium",
+    "es": "Alocasia",
+    "fr": "Caladium",
+    "it": "Calladio",
+    "ja": "カラジューム"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

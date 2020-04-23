@@ -1,6 +1,14 @@
 {
   "id": "tree-standee",
-  "name": "Tree Standee",
+  "name": {
+    "de": "Pappbaum",
+    "en-GB": "Tree Standee",
+    "en-US": "Tree Standee",
+    "es": "Árbol atrezo",
+    "fr": "Arbre en carton",
+    "it": "Sagoma albero",
+    "ja": "ハリボテのき"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

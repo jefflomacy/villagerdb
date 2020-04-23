@@ -1,6 +1,14 @@
 {
   "id": "generals-fan",
-  "name": "General's Fan",
+  "name": {
+    "de": "Holzfächer",
+    "en-GB": "General's Fan",
+    "en-US": "General's Fan",
+    "es": "Abanico samurái",
+    "fr": "éventail de samouraï",
+    "it": "Ventaglio samurai",
+    "ja": "ぐんばい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

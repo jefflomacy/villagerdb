@@ -1,6 +1,14 @@
 {
   "id": "astro-dresser",
-  "name": "Astro Dresser",
+  "name": {
+    "de": "Astrokommode",
+    "en-GB": "Astro Dresser",
+    "en-US": "Astro Dresser",
+    "es": "Cómoda futurista",
+    "fr": "Commode astro",
+    "it": "Comò futuro",
+    "ja": "きんみらいなタンス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

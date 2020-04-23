@@ -1,6 +1,14 @@
 {
   "id": "cuckoo-clock",
-  "name": "Cuckoo Clock",
+  "name": {
+    "de": "Kuckucksuhr",
+    "en-GB": "Cuckoo Clock",
+    "en-US": "Cuckoo Clock",
+    "es": "Reloj de cuco",
+    "fr": "Horloge coucou",
+    "it": "Orologio a cucù",
+    "ja": "はとどけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

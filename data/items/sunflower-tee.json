@@ -1,6 +1,14 @@
 {
   "id": "sunflower-tee",
-  "name": "Sunflower Tee",
+  "name": {
+    "de": "Sonnenblumenshirt",
+    "en-GB": "Sunflower Tee",
+    "en-US": "Sunflower Tee",
+    "es": "Camiseta girasoles",
+    "fr": "T-shirt tournesols",
+    "it": "Maglietta girasole",
+    "ja": "ひまわりのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

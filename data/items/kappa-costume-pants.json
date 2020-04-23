@@ -1,6 +1,14 @@
 {
   "id": "kappa-costume-pants",
-  "name": "Kappa-costume Pants",
+  "name": {
+    "de": "Käpten-Hose",
+    "en-GB": "Kappa-Costume Pants",
+    "en-US": "Kappa-Costume Pants",
+    "es": "Pantalón kappa",
+    "fr": "Bas kappa",
+    "it": "Pantalone tartaruga",
+    "ja": "カッパなズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "arc-de-triomphe",
-  "name": "Arc De Triomphe",
+  "name": {
+    "de": "Triumphbogen",
+    "en-GB": "Arc De Triomphe",
+    "en-US": "Arc De Triomphe",
+    "es": "Arco de Triunfo",
+    "fr": "Arc de Triomphe",
+    "it": "Arco di trionfo",
+    "ja": "がいせんもん"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

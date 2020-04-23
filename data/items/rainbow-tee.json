@@ -1,6 +1,14 @@
 {
   "id": "rainbow-tee",
-  "name": "Rainbow Tee",
+  "name": {
+    "de": "Iris-Shirt",
+    "en-GB": "Rainbow Tee",
+    "en-US": "Rainbow Tee",
+    "es": "Camiseta arcoíris",
+    "fr": "T-shirt irisé",
+    "it": "Maglietta arcobaleno",
+    "ja": "レインボーなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

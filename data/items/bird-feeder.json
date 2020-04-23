@@ -1,6 +1,14 @@
 {
   "id": "bird-feeder",
-  "name": "Bird Feeder",
+  "name": {
+    "de": "Vogelfutterplatz",
+    "en-GB": "Bird Feeder",
+    "en-US": "Bird Feeder",
+    "es": "Comedero pájaros",
+    "fr": "Mangeoire à oiseaux",
+    "it": "Portamangime",
+    "ja": "バードフィーダー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

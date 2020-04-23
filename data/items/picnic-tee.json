@@ -1,6 +1,14 @@
 {
   "id": "picnic-tee",
-  "name": "Picnic Tee",
+  "name": {
+    "de": "Rosa-Karo-Shirt",
+    "en-GB": "Picnic Tee",
+    "en-US": "Picnic Tee",
+    "es": "Camiseta vichy lila",
+    "fr": "T-shirt vichy sorbet",
+    "it": "Maglietta amarena",
+    "ja": "ベリーギンガムなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

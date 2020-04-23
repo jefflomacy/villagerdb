@@ -1,6 +1,14 @@
 {
   "id": "pave-lamp",
-  "name": "Pavé Lamp",
+  "name": {
+    "de": "Karnevalslampe",
+    "en-GB": "Pavé Lamp",
+    "en-US": "Pavé Lamp",
+    "es": "Lámpara Conga",
+    "fr": "Lampe carnaval",
+    "it": "Lampada Pavão",
+    "ja": "カーニバルランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

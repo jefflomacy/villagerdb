@@ -1,6 +1,14 @@
 {
   "id": "juicy-apple-clock",
-  "name": "Juicy-apple Clock",
+  "name": {
+    "de": "Apfeluhr",
+    "en-GB": "Juicy-Apple Clock",
+    "en-US": "Juicy-Apple Clock",
+    "es": "Reloj manzana",
+    "fr": "Horloge pomme",
+    "it": "Orologio mela",
+    "ja": "リンゴのとけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "stroller",
-  "name": "Stroller",
+  "name": {
+    "de": "Kinderwagen",
+    "en-GB": "Stroller",
+    "en-US": "Stroller",
+    "es": "Cochecito",
+    "fr": "Landau",
+    "it": "Carrozzina",
+    "ja": "うばぐるま"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

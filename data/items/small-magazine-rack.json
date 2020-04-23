@@ -1,6 +1,14 @@
 {
   "id": "small-magazine-rack",
-  "name": "Small Magazine Rack",
+  "name": {
+    "de": "Zeitschriftenablage",
+    "en-GB": "Small Magazine Rack",
+    "en-US": "Small Magazine Rack",
+    "es": "Revistero pequeño",
+    "fr": "Porte-revues",
+    "it": "Portariviste piccolo",
+    "ja": "マガジンラックS"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "deep-blue-tee",
-  "name": "Deep-blue Tee",
+  "name": {
+    "de": "Tiefseeshirt",
+    "en-GB": "Deep-Blue Tee",
+    "en-US": "Deep-Blue Tee",
+    "es": "Camiseta mar",
+    "fr": "T-shirt abysse",
+    "it": "Maglietta azzurra",
+    "ja": "グランブルーなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

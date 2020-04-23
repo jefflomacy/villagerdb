@@ -1,6 +1,14 @@
 {
   "id": "shaved-ice-lamp",
-  "name": "Shaved-ice Lamp",
+  "name": {
+    "de": "Eiscreme-Lampe",
+    "en-GB": "Shaved-Ice Lamp",
+    "en-US": "Shaved-Ice Lamp",
+    "es": "Lámpara helado",
+    "fr": "Lampe glacée",
+    "it": "Lampada coppa gelato",
+    "ja": "かきごおりのランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

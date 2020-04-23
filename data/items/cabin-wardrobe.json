@@ -1,6 +1,14 @@
 {
   "id": "cabin-wardrobe",
-  "name": "Cabin Wardrobe",
+  "name": {
+    "de": "Blockhausschrank",
+    "en-GB": "Cabin Wardrobe",
+    "en-US": "Cabin Wardrobe",
+    "es": "Armario cabaña",
+    "fr": "Armoire chalet",
+    "it": "Armadio rustico",
+    "ja": "ログクロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

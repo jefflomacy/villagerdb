@@ -1,6 +1,14 @@
 {
   "id": "snowy-sweater",
-  "name": "Snowy Sweater",
+  "name": {
+    "de": "Winterstrickjacke",
+    "en-GB": "Snowy Sweater",
+    "en-US": "Snowy Sweater",
+    "es": "Chaqueta de lana",
+    "fr": "Pull nordique",
+    "it": "Maglione nordico",
+    "ja": "アイスランドなセーター"
+  },
   "category": "Tops",
   "games": {
     "nl": {

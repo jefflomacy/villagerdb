@@ -1,6 +1,14 @@
 {
   "id": "regal-chair",
-  "name": "Regal Chair",
+  "name": {
+    "de": "Royalstuhl",
+    "en-GB": "Regal Chair",
+    "en-US": "Regal Chair",
+    "es": "Silla regia",
+    "fr": "Chaise royale",
+    "it": "Sedia chic",
+    "ja": "ロイヤルなイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

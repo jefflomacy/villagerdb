@@ -1,6 +1,14 @@
 {
   "id": "salad-bar",
-  "name": "Salad Bar",
+  "name": {
+    "de": "Salatbüfett",
+    "en-GB": "Salad Bar",
+    "en-US": "Salad Bar",
+    "es": "Bufé de ensalada",
+    "fr": "Bar à salade",
+    "it": "Bancone insalate",
+    "ja": "サラダバー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

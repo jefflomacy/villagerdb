@@ -1,6 +1,14 @@
 {
   "id": "lefty-lucky-cat",
-  "name": "Lefty Lucky Cat",
+  "name": {
+    "de": "Linkshänderkatze",
+    "en-GB": "Lefty Lucky Cat",
+    "en-US": "Lefty Lucky Cat",
+    "es": "Gato suerte zurdo",
+    "fr": "Chat fétiche gaucher",
+    "it": "Gatto fort. mancino",
+    "ja": "ひだりてまねきねこ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

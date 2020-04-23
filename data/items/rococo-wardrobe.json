@@ -1,6 +1,14 @@
 {
   "id": "rococo-wardrobe",
-  "name": "Rococo Wardrobe",
+  "name": {
+    "de": "Rokoko-Schrank",
+    "en-GB": "Rococo Wardrobe",
+    "en-US": "Rococo Wardrobe",
+    "es": "Armario rococó",
+    "fr": "Penderie rococo",
+    "it": "Armadio rococò",
+    "ja": "ロココなクロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

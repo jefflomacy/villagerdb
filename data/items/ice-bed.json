@@ -1,6 +1,14 @@
 {
   "id": "ice-bed",
-  "name": "Ice Bed",
+  "name": {
+    "de": "Eisbett",
+    "en-GB": "Ice Bed",
+    "en-US": "Ice Bed",
+    "es": "Cama hielo",
+    "fr": "Lit glace",
+    "it": "Letto ghiaccio",
+    "ja": "アイスなベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

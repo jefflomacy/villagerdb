@@ -1,6 +1,14 @@
 {
   "id": "argyle-socks",
-  "name": "Argyle Socks",
+  "name": {
+    "de": "Argyle-Socke",
+    "en-GB": "Argyle Socks",
+    "en-US": "Argyle Socks",
+    "es": "Calcetín pijo alto",
+    "fr": "Paire chauss. écos",
+    "it": "Paio calzini a rombi",
+    "ja": "アーガイルハイソックス"
+  },
   "category": "Socks",
   "games": {
     "nl": {

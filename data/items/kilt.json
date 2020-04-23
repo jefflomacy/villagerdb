@@ -1,6 +1,14 @@
 {
   "id": "kilt",
-  "name": "Kilt",
+  "name": {
+    "de": "Kilt",
+    "en-GB": "Kilt",
+    "en-US": "Kilt",
+    "es": "Kilt",
+    "fr": "Kilt",
+    "it": "Kilt",
+    "ja": "キルト"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

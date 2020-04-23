@@ -1,6 +1,14 @@
 {
   "id": "lite-polka-skirt",
-  "name": "Lite Polka Skirt",
+  "name": {
+    "de": "Konfettirock",
+    "en-GB": "Lite Polka Skirt",
+    "en-US": "Lite Polka Skirt",
+    "es": "Falda topos día",
+    "fr": "Jupe blanche à pois",
+    "it": "Gonna tenue pois",
+    "ja": "しろマーブルなスカート"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

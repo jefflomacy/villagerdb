@@ -1,6 +1,14 @@
 {
   "id": "dark-polka-skirt",
-  "name": "Dark Polka Skirt",
+  "name": {
+    "de": "Ballonrock",
+    "en-GB": "Dark Polka Skirt",
+    "en-US": "Dark Polka Skirt",
+    "es": "Falda topos noche",
+    "fr": "Jupe noire à pois",
+    "it": "Gonna scura pois",
+    "ja": "くろマーブルスカート"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

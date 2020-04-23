@@ -1,6 +1,14 @@
 {
   "id": "megacero-torso",
-  "name": "Megacero Torso",
+  "name": {
+    "de": "Megacerops-Torso",
+    "en-GB": "Megacero Torso",
+    "en-US": "Megacero Torso",
+    "es": "Cuerpo brontoterio",
+    "fr": "Corps de bronto",
+    "it": "Torso brontoterio",
+    "ja": "ブロントテリウムのからだ"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "harvest-dresser",
-  "name": "Harvest Dresser",
+  "name": {
+    "de": "Herbstkommode",
+    "en-GB": "Harvest Dresser",
+    "en-US": "Harvest Dresser",
+    "es": "Cómoda pavo",
+    "fr": "Commode dindon",
+    "it": "Comodino autunno",
+    "ja": "ハーベストチェスト"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

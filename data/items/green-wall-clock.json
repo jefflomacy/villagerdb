@@ -1,6 +1,14 @@
 {
   "id": "green-wall-clock",
-  "name": "Green Wall Clock",
+  "name": {
+    "de": "Smaragdwanduhr",
+    "en-GB": "Green Wall Clock",
+    "en-US": "Green Wall Clock",
+    "es": "Reloj de pared verde",
+    "fr": "Horloge mur verte",
+    "it": "Orologio muro verde",
+    "ja": "みどりのウォールクロック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

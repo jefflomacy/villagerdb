@@ -1,6 +1,14 @@
 {
   "id": "student-cap",
-  "name": "Student Cap",
+  "name": {
+    "de": "Schülermütze",
+    "en-GB": "Student Cap",
+    "en-US": "Student Cap",
+    "es": "Gorra escolar",
+    "fr": "Chapeau d'élève",
+    "it": "Cappello da studente",
+    "ja": "がくせいぼう"
+  },
   "category": "Hats",
   "games": {
     "nl": {

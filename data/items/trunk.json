@@ -1,6 +1,14 @@
 {
   "id": "trunk",
-  "name": "Trunk",
+  "name": {
+    "de": "Pappkoffer",
+    "en-GB": "Trunk",
+    "en-US": "Trunk",
+    "es": "Maleta",
+    "fr": "Malle",
+    "it": "Valigia",
+    "ja": "トランク"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

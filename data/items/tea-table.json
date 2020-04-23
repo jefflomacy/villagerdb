@@ -1,6 +1,14 @@
 {
   "id": "tea-table",
-  "name": "Tea Table",
+  "name": {
+    "de": "Teetischchen",
+    "en-GB": "Tea Table",
+    "en-US": "Tea Table",
+    "es": "Mesita",
+    "fr": "Table à thé",
+    "it": "Tavolo da tè",
+    "ja": "ちゃぶだい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

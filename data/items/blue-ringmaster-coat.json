@@ -1,6 +1,14 @@
 {
   "id": "blue-ringmaster-coat",
-  "name": "Blue Ringmaster Coat",
+  "name": {
+    "de": "Zirkusdirektorjacke",
+    "en-GB": "Blue Ringmaster Coat",
+    "en-US": "Blue Ringmaster Coat",
+    "es": "Casaca circense azul",
+    "fr": "Veste Loyal bleue",
+    "it": "Giacca circo blu",
+    "ja": "あおいきへいたいのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

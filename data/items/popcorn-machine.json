@@ -1,6 +1,14 @@
 {
   "id": "popcorn-machine",
-  "name": "Popcorn Machine",
+  "name": {
+    "de": "Popcorn-Maschine",
+    "en-GB": "Popcorn Machine",
+    "en-US": "Popcorn Machine",
+    "es": "Máquina de palomitas",
+    "fr": "Machine à pop-corn",
+    "it": "Macchina pop-corn",
+    "ja": "ポップコーンマシン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "blue-warm-up-pants",
-  "name": "Blue Warm-up Pants",
+  "name": {
+    "de": "Läuferhose",
+    "en-GB": "Blue Warm-Up Pants",
+    "en-US": "Blue Warm-Up Pants",
+    "es": "Pantalón sport azul",
+    "fr": "Pantalon survêt bleu",
+    "it": "Pantalone tuta blu",
+    "ja": "あおジャージズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "mugho-bonsai",
-  "name": "Mugho Bonsai",
+  "name": {
+    "de": "Bergkiefern-Bonsai",
+    "en-GB": "Mugho Bonsai",
+    "en-US": "Mugho Bonsai",
+    "es": "Pino mugo bonsái",
+    "fr": "Bonsaï pin mugho",
+    "it": "Bonsai mugo",
+    "ja": "ゴヨウマツのぼんさい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

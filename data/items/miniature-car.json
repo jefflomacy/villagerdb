@@ -1,6 +1,14 @@
 {
   "id": "miniature-car",
-  "name": "Miniature Car",
+  "name": {
+    "de": "Modellauto",
+    "en-GB": "Miniature Car",
+    "en-US": "Miniature Car",
+    "es": "Coche de juguete",
+    "fr": "Modèle voiture",
+    "it": "Modellino auto",
+    "ja": "ミニカー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

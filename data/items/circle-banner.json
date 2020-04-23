@@ -1,6 +1,14 @@
 {
   "id": "circle-banner",
-  "name": "Circle Banner",
+  "name": {
+    "de": "Fahnenmast",
+    "en-GB": "Circle Banner",
+    "en-US": "Circle Banner",
+    "es": "Banderín alargado",
+    "fr": "étendard",
+    "it": "Stendardo",
+    "ja": "のぼりのはた"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

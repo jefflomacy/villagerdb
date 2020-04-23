@@ -1,6 +1,14 @@
 {
   "id": "heros-cap",
-  "name": "Hero's Cap",
+  "name": {
+    "de": "Heldenhut",
+    "en-GB": "Hero's Cap",
+    "en-US": "Hero's Cap",
+    "es": "Gorro del héroe",
+    "fr": "Coiffe héroïque",
+    "it": "Berretto Link",
+    "ja": "ゆうしゃのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

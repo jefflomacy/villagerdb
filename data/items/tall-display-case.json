@@ -1,6 +1,14 @@
 {
   "id": "tall-display-case",
-  "name": "Tall Display Case",
+  "name": {
+    "de": "Wandvitrine",
+    "en-GB": "Tall Display Case",
+    "en-US": "Tall Display Case",
+    "es": "Expositor de pared",
+    "fr": "Vitrine murale",
+    "it": "Espositore grande",
+    "ja": "たてながてんじケース"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

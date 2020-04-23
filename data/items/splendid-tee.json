@@ -1,6 +1,14 @@
 {
   "id": "splendid-tee",
-  "name": "Splendid Tee",
+  "name": {
+    "de": "Tipptopp-Shirt",
+    "en-GB": "Splendid Tee",
+    "en-US": "Splendid Tee",
+    "es": "Camiseta espléndida",
+    "fr": "T-shirt splendide",
+    "it": "Maglietta splendida",
+    "ja": "ストレンジなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

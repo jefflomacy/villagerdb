@@ -1,6 +1,14 @@
 {
   "id": "stripe-shelf",
-  "name": "Stripe Shelf",
+  "name": {
+    "de": "Streifenregal",
+    "en-GB": "Stripe Shelf",
+    "en-US": "Stripe Shelf",
+    "es": "Librería rayas",
+    "fr": "étagère rayures",
+    "it": "Libreria strisce",
+    "ja": "ストライプなシェルフ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

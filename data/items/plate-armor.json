@@ -1,6 +1,14 @@
 {
   "id": "plate-armor",
-  "name": "Plate Armor",
+  "name": {
+    "de": "Ritterrüstung",
+    "en-GB": "Plate Armor",
+    "en-US": "Plate Armor",
+    "es": "Armadura",
+    "fr": "Armure",
+    "it": "Armatura a piastre",
+    "ja": "かっちゅう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

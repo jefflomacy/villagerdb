@@ -1,6 +1,14 @@
 {
   "id": "yellow-bar-tee",
-  "name": "Yellow-bar Tee",
+  "name": {
+    "de": "Aprikosenshirt",
+    "en-GB": "Yellow-Bar Tee",
+    "en-US": "Yellow-Bar Tee",
+    "es": "Camiseta toldo ocre",
+    "fr": "T-shirt raies orange",
+    "it": "Magliet. bande gial.",
+    "ja": "きいろボーダーのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

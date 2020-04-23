@@ -1,6 +1,14 @@
 {
   "id": "blue-clock",
-  "name": "Blue Clock",
+  "name": {
+    "de": "Azuruhr",
+    "en-GB": "Blue Clock",
+    "en-US": "Blue Clock",
+    "es": "Reloj azul",
+    "fr": "Horloge bleue",
+    "it": "Orologio blu",
+    "ja": "あおいとけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

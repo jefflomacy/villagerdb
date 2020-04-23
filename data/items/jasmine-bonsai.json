@@ -1,6 +1,14 @@
 {
   "id": "jasmine-bonsai",
-  "name": "Jasmine Bonsai",
+  "name": {
+    "de": "Jasmin-Bonsai",
+    "en-GB": "Jasmine Bonsai",
+    "en-US": "Jasmine Bonsai",
+    "es": "Jazmín bonsái",
+    "fr": "Bonsaï jasmin",
+    "it": "Bonsai gelsomino",
+    "ja": "サンシュユのぼんさい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

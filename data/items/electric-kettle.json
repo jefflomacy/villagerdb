@@ -1,6 +1,14 @@
 {
   "id": "electric-kettle",
-  "name": "Electric Kettle",
+  "name": {
+    "de": "Wasserkocher",
+    "en-GB": "Electric Kettle",
+    "en-US": "Electric Kettle",
+    "es": "Hervidor de agua",
+    "fr": "Bouilloire moderne",
+    "it": "Bollitore elettrico",
+    "ja": "でんきケトル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

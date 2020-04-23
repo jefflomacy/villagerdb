@@ -1,6 +1,14 @@
 {
   "id": "stripe-table",
-  "name": "Stripe Table",
+  "name": {
+    "de": "Streifentisch",
+    "en-GB": "Stripe Table",
+    "en-US": "Stripe Table",
+    "es": "Mesa rayas",
+    "fr": "Table rayures",
+    "it": "Tavolo strisce",
+    "ja": "ストライプなテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

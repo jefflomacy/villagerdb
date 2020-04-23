@@ -1,6 +1,14 @@
 {
   "id": "racer-6-tee",
-  "name": "Racer 6 Tee",
+  "name": {
+    "de": "Fußballshirt",
+    "en-GB": "Racer 6 Tee",
+    "en-US": "Racer 6 Tee",
+    "es": "Camiseta jinete",
+    "fr": "T-shirt course 6",
+    "it": "Maglietta da corsa 6",
+    "ja": "ゼッケン6のふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

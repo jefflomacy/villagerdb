@@ -1,6 +1,14 @@
 {
   "id": "red-grid-shirt",
-  "name": "Red-grid Shirt",
+  "name": {
+    "de": "Käfigpulli",
+    "en-GB": "Red-Grid Shirt",
+    "en-US": "Red-Grid Shirt",
+    "es": "Jersey reja roja",
+    "fr": "Pull grille rouge",
+    "it": "Maglia giallorossa",
+    "ja": "あきいろこうしのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

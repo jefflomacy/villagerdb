@@ -1,6 +1,14 @@
 {
   "id": "chefs-hat",
-  "name": "Chef's Hat",
+  "name": {
+    "de": "Kochmütze",
+    "en-GB": "Chef's Hat",
+    "en-US": "Chef's Hat",
+    "es": "Gorro de chef",
+    "fr": "Toque",
+    "it": "Cappello da cuoco",
+    "ja": "コックさんのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

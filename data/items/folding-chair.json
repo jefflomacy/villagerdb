@@ -1,6 +1,14 @@
 {
   "id": "folding-chair",
-  "name": "Folding Chair",
+  "name": {
+    "de": "Klappstuhl",
+    "en-GB": "Folding Chair",
+    "en-US": "Folding Chair",
+    "es": "Silla tijera",
+    "fr": "Chaise pliante",
+    "it": "Sedia pieghevole",
+    "ja": "パイプイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

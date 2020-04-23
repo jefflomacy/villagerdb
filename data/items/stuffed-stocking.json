@@ -1,6 +1,14 @@
 {
   "id": "stuffed-stocking",
-  "name": "Stuffed Stocking",
+  "name": {
+    "de": "Festtagssocke",
+    "en-GB": "Stuffed Stocking",
+    "en-US": "Stuffed Stocking",
+    "es": "Calcetín festivo",
+    "fr": "Chaussette",
+    "it": "Calza ripiena",
+    "ja": "おかしいりブーツ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

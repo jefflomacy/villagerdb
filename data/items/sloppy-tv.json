@@ -1,6 +1,14 @@
 {
   "id": "sloppy-tv",
-  "name": "Sloppy Tv",
+  "name": {
+    "de": "Schlamperfernseher",
+    "en-GB": "Sloppy TV",
+    "en-US": "Sloppy TV",
+    "es": "Tele desorden",
+    "fr": "Télé négligée",
+    "it": "TV trasandata",
+    "ja": "だらしないテレビ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

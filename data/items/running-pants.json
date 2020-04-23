@@ -1,6 +1,14 @@
 {
   "id": "running-pants",
-  "name": "Running Pants",
+  "name": {
+    "de": "Sprinterhose",
+    "en-GB": "Running Pants",
+    "en-US": "Running Pants",
+    "es": "Pantalón jogging",
+    "fr": "Pantalon footing",
+    "it": "Pantalone da jogging",
+    "ja": "ランニングスパッツ"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

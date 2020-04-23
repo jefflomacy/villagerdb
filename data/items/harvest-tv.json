@@ -1,6 +1,14 @@
 {
   "id": "harvest-tv",
-  "name": "Harvest Tv",
+  "name": {
+    "de": "Herbstfernseher",
+    "en-GB": "Harvest TV",
+    "en-US": "Harvest TV",
+    "es": "Tele pavo",
+    "fr": "Télé dindon",
+    "it": "TV autunno",
+    "ja": "ハーベストテレビ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

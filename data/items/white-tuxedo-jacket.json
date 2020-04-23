@@ -1,6 +1,14 @@
 {
   "id": "white-tuxedo-jacket",
-  "name": "White Tuxedo Jacket",
+  "name": {
+    "de": "Yachtjackett",
+    "en-GB": "White Tuxedo Jacket",
+    "en-US": "White Tuxedo Jacket",
+    "es": "Esmoquin blanco",
+    "fr": "Veston blanc",
+    "it": "Giacca bianca",
+    "ja": "しろいタキシード"
+  },
   "category": "Tops",
   "games": {
     "nl": {

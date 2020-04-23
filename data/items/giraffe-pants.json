@@ -1,6 +1,14 @@
 {
   "id": "giraffe-pants",
-  "name": "Giraffe Pants",
+  "name": {
+    "de": "Giraffenhose",
+    "en-GB": "Giraffe Pants",
+    "en-US": "Giraffe Pants",
+    "es": "Pantalón jirafa",
+    "fr": "Pantalon girafe",
+    "it": "Pantalone giraffa",
+    "ja": "キリンのズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

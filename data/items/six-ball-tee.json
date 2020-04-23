@@ -1,6 +1,14 @@
 {
   "id": "six-ball-tee",
-  "name": "Six-ball Tee",
+  "name": {
+    "de": "6er-Shirt",
+    "en-GB": "Six-Ball Tee",
+    "en-US": "Six-Ball Tee",
+    "es": "Camiseta bola 6",
+    "fr": "T-shirt nº 6",
+    "it": "Maglietta palla 6",
+    "ja": "6ばんだまのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

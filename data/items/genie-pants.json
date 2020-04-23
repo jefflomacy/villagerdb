@@ -1,6 +1,14 @@
 {
   "id": "genie-pants",
-  "name": "Genie Pants",
+  "name": {
+    "de": "Orient-Hose",
+    "en-GB": "Genie Pants",
+    "en-US": "Genie Pants",
+    "es": "Pantalón persa",
+    "fr": "Pantalon persan",
+    "it": "Pantalone persiano",
+    "ja": "ペルシャなズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

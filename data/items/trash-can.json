@@ -1,6 +1,14 @@
 {
   "id": "trash-can",
-  "name": "Trash Can",
+  "name": {
+    "de": "Abfalleimer",
+    "en-GB": "Trash Can",
+    "en-US": "Trash Can",
+    "es": "Papelera",
+    "fr": "Corbeille",
+    "it": "Cestino rifiuti",
+    "ja": "くずかご"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "minimalist-table",
-  "name": "Minimalist Table",
+  "name": {
+    "de": "Minimaltisch",
+    "en-GB": "Minimalist Table",
+    "en-US": "Minimalist Table",
+    "es": "Mesa minimalista",
+    "fr": "Table minimaliste",
+    "it": "Tavolo minimalista",
+    "ja": "シンプルなテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "bonfire",
-  "name": "Bonfire",
+  "name": {
+    "de": "Feuer",
+    "en-GB": "Bonfire",
+    "en-US": "Bonfire",
+    "es": "Hoguera",
+    "fr": "Feu de joie",
+    "it": "Fuoco di bivacco",
+    "ja": "キャンプファイア"
+  },
   "category": "Furniture",
   "games": {
     "nh": {

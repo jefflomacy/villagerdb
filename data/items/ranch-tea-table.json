@@ -1,6 +1,14 @@
 {
   "id": "ranch-tea-table",
-  "name": "Ranch Tea Table",
+  "name": {
+    "de": "Western-Teetisch",
+    "en-GB": "Ranch Tea Table",
+    "en-US": "Ranch Tea Table",
+    "es": "Mesita rústica",
+    "fr": "Table basse ranch",
+    "it": "Tavolino country",
+    "ja": "カントリーなつくえ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

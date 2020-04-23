@@ -1,6 +1,14 @@
 {
   "id": "checkered-socks",
-  "name": "Checkered Socks",
+  "name": {
+    "de": "Karosocke",
+    "en-GB": "Checkered Socks",
+    "en-US": "Checkered Socks",
+    "es": "Calcetín cuadros",
+    "fr": "Paire chauss. damier",
+    "it": "P. calzini quadretti",
+    "ja": "チェックのソックス"
+  },
   "category": "Socks",
   "games": {
     "nl": {

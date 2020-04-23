@@ -1,6 +1,14 @@
 {
   "id": "regal-table",
-  "name": "Regal Table",
+  "name": {
+    "de": "Royaltisch",
+    "en-GB": "Regal Table",
+    "en-US": "Regal Table",
+    "es": "Mesa regia",
+    "fr": "Table royale",
+    "it": "Tavolo chic",
+    "ja": "ロイヤルなテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

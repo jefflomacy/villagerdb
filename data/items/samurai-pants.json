@@ -1,6 +1,14 @@
 {
   "id": "samurai-pants",
-  "name": "Samurai Pants",
+  "name": {
+    "de": "Samuraihose",
+    "en-GB": "Samurai Pants",
+    "en-US": "Samurai Pants",
+    "es": "Pantalón samurái",
+    "fr": "Pantalon samouraï",
+    "it": "Pantalone samurai",
+    "ja": "かっちゅうのすねあて"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

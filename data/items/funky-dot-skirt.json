@@ -1,6 +1,14 @@
 {
   "id": "funky-dot-skirt",
-  "name": "Funky-dot Skirt",
+  "name": {
+    "de": "Funky-Rock",
+    "en-GB": "Funky-Dot Skirt",
+    "en-US": "Funky-Dot Skirt",
+    "es": "Falda topos lila",
+    "fr": "Jupe points",
+    "it": "Gonna pois lilla",
+    "ja": "パープルドットスカート"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

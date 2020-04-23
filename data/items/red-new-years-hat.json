@@ -1,6 +1,14 @@
 {
   "id": "red-new-years-hat",
-  "name": "Red New Year's Hat",
+  "name": {
+    "de": "Neujahrshut (rot)",
+    "en-GB": "Red New Year's Hat",
+    "en-US": "Red New Year's Hat",
+    "es": "Gorro Año Nuevo rojo",
+    "fr": "Chapeau nouvel an R",
+    "it": "Capp. Capodan. rosso",
+    "ja": "ニューイヤーハットあか"
+  },
   "category": "Hats",
   "games": {
     "nl": {

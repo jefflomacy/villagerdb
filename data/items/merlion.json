@@ -1,6 +1,14 @@
 {
   "id": "merlion",
-  "name": "Merlion",
+  "name": {
+    "de": "Merlion",
+    "en-GB": "Merlion",
+    "en-US": "Merlion",
+    "es": "Merlion",
+    "fr": "Merlion",
+    "it": "Merlion",
+    "ja": "マーライオン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

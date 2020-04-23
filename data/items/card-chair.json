@@ -1,6 +1,14 @@
 {
   "id": "card-chair",
-  "name": "Card Chair",
+  "name": {
+    "de": "Kartenstuhl",
+    "en-GB": "Card Chair",
+    "en-US": "Card Chair",
+    "es": "Silla naipes",
+    "fr": "Chaise cartes",
+    "it": "Sedia carte",
+    "ja": "トランプチェア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

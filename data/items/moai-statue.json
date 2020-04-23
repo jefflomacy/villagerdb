@@ -1,6 +1,14 @@
 {
   "id": "moai-statue",
-  "name": "Moai Statue",
+  "name": {
+    "de": "Moai-Statue",
+    "en-GB": "Moai Statue",
+    "en-US": "Moai Statue",
+    "es": "Moái",
+    "fr": "Statue Moai",
+    "it": "Statua Moai",
+    "ja": "モアイ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

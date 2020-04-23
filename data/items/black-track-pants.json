@@ -1,6 +1,14 @@
 {
   "id": "black-track-pants",
-  "name": "Black Track Pants",
+  "name": {
+    "de": "Aufwärmhose",
+    "en-GB": "Black Track Pants",
+    "en-US": "Black Track Pants",
+    "es": "Pantalón sport negro",
+    "fr": "Pantalon survêt gris",
+    "it": "Pantalone tuta nera",
+    "ja": "スポーツジャージのズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

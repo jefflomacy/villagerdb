@@ -1,6 +1,14 @@
 {
   "id": "festive-tree",
-  "name": "Festive Tree",
+  "name": {
+    "de": "Tannenbäumchen",
+    "en-GB": "Festive Tree",
+    "en-US": "Festive Tree",
+    "es": "Arbolito festivo",
+    "fr": "Sapin",
+    "it": "Alberello festivo",
+    "ja": "かわいいクリスマスツリー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

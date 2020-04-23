@@ -1,6 +1,14 @@
 {
   "id": "ptera-skull",
-  "name": "Ptera Skull",
+  "name": {
+    "de": "Ptera-Schädel",
+    "en-GB": "Ptera Skull",
+    "en-US": "Ptera Skull",
+    "es": "Cráneo pteranodon",
+    "fr": "Crâne de ptéra",
+    "it": "Teschio pterodattilo",
+    "ja": "プテラノドンのあたま"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

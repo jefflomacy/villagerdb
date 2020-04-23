@@ -1,6 +1,14 @@
 {
   "id": "propane-stove",
-  "name": "Propane Stove",
+  "name": {
+    "de": "Gasgrill",
+    "en-GB": "Propane Stove",
+    "en-US": "Propane Stove",
+    "es": "Barbacoa de gas",
+    "fr": "Barbecue à gaz",
+    "it": "Fornello propano",
+    "ja": "けいたいコンロ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

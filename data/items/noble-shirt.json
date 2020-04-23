@@ -1,6 +1,14 @@
 {
   "id": "noble-shirt",
-  "name": "Noble Shirt",
+  "name": {
+    "de": "Adelspulli",
+    "en-GB": "Noble Shirt",
+    "en-US": "Noble Shirt",
+    "es": "Jersey príncipe",
+    "fr": "Pull noble",
+    "it": "Giacca nobile",
+    "ja": "かくちょうたかいふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

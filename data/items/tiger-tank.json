@@ -1,6 +1,14 @@
 {
   "id": "tiger-tank",
-  "name": "Tiger Tank",
+  "name": {
+    "de": "Tigertop",
+    "en-GB": "Tiger Tank",
+    "en-US": "Tiger Tank",
+    "es": "Top tigre",
+    "fr": "Débardeur tigre",
+    "it": "Canotta tigre",
+    "ja": "とらじまのふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

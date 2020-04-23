@@ -1,6 +1,14 @@
 {
   "id": "misty-tee",
-  "name": "Misty Tee",
+  "name": {
+    "de": "Nebelshirt",
+    "en-GB": "Misty Tee",
+    "en-US": "Misty Tee",
+    "es": "Camiseta bruma",
+    "fr": "T-shirt brume",
+    "it": "Maglietta nebbia",
+    "ja": "かすみのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

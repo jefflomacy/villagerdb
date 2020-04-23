@@ -1,6 +1,14 @@
 {
   "id": "soccer-socks",
-  "name": "Soccer Socks",
+  "name": {
+    "de": "Fußballstutzen",
+    "en-GB": "Soccer Socks",
+    "en-US": "Soccer Socks",
+    "es": "Media fútbol",
+    "fr": "Paire chausset. foot",
+    "it": "P. calzini da calcio",
+    "ja": "サッカーソックス"
+  },
   "category": "Socks",
   "games": {
     "nl": {

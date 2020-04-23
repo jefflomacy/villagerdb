@@ -1,6 +1,14 @@
 {
   "id": "black-formal-skirt",
-  "name": "Black Formal Skirt",
+  "name": {
+    "de": "Schwarzrock",
+    "en-GB": "Black Formal Skirt",
+    "en-US": "Black Formal Skirt",
+    "es": "Falda lino negra",
+    "fr": "Jupe chic noire",
+    "it": "Gonna formale nera",
+    "ja": "くろのスカート"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "sleek-chair",
-  "name": "Sleek Chair",
+  "name": {
+    "de": "Designerstuhl",
+    "en-GB": "Sleek Chair",
+    "en-US": "Sleek Chair",
+    "es": "Silla tubos",
+    "fr": "Chaise design",
+    "it": "Sedia design",
+    "ja": "パイプなチェア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "racing-pants",
-  "name": "Racing Pants",
+  "name": {
+    "de": "Rennfahrerhose",
+    "en-GB": "Racing Pants",
+    "en-US": "Racing Pants",
+    "es": "Pantalón carreras",
+    "fr": "Pantalon pilote",
+    "it": "Pantalone da pilota",
+    "ja": "レーサーなズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

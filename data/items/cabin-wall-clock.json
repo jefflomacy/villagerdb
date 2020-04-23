@@ -1,6 +1,14 @@
 {
   "id": "cabin-wall-clock",
-  "name": "Cabin Wall Clock",
+  "name": {
+    "de": "Blockhauswanduhr",
+    "en-GB": "Cabin Wall Clock",
+    "en-US": "Cabin Wall Clock",
+    "es": "Reloj pared cabaña",
+    "fr": "Horloge mur chalet",
+    "it": "Orol. muro rustico",
+    "ja": "ログかべかけどけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

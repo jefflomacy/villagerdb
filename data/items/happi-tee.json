@@ -1,6 +1,14 @@
 {
   "id": "happi-tee",
-  "name": "Happi Tee",
+  "name": {
+    "de": "Fernost-Jacke",
+    "en-GB": "Happi Tee",
+    "en-US": "Happi Tee",
+    "es": "Camiseta festival",
+    "fr": "T-shirt happi",
+    "it": "Maglietta da festa",
+    "ja": "はっぴ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

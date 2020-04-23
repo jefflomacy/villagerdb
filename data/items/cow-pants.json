@@ -1,6 +1,14 @@
 {
   "id": "cow-pants",
-  "name": "Cow Pants",
+  "name": {
+    "de": "Kuhhose",
+    "en-GB": "Cow Pants",
+    "en-US": "Cow Pants",
+    "es": "Pantalón vaca",
+    "fr": "Pantalon vache",
+    "it": "Pantalone mucca",
+    "ja": "ホルスタインなズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

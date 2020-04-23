@@ -1,6 +1,14 @@
 {
   "id": "princess-bed",
-  "name": "Princess Bed",
+  "name": {
+    "de": "Prachtbett",
+    "en-GB": "Princess Bed",
+    "en-US": "Princess Bed",
+    "es": "Cama princesa",
+    "fr": "Lit princesse",
+    "it": "Letto contessa",
+    "ja": "プリンセスベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

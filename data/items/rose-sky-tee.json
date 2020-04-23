@@ -1,6 +1,14 @@
 {
   "id": "rose-sky-tee",
-  "name": "Rose-sky Tee",
+  "name": {
+    "de": "Tulpenshirt",
+    "en-GB": "Rose-Sky Tee",
+    "en-US": "Rose-Sky Tee",
+    "es": "Camiseta rosal azul",
+    "fr": "T-shirt rose ciel",
+    "it": "Maglietta rose blu",
+    "ja": "あおじのバラのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

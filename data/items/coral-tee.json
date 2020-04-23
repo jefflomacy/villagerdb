@@ -1,6 +1,14 @@
 {
   "id": "coral-tee",
-  "name": "Coral Tee",
+  "name": {
+    "de": "Korallenshirt",
+    "en-GB": "Coral Tee",
+    "en-US": "Coral Tee",
+    "es": "Camiseta coral",
+    "fr": "T-shirt corail",
+    "it": "Maglietta corallo",
+    "ja": "マーブルもようのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

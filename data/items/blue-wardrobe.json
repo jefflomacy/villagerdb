@@ -1,6 +1,14 @@
 {
   "id": "blue-wardrobe",
-  "name": "Blue Wardrobe",
+  "name": {
+    "de": "Azurschrank",
+    "en-GB": "Blue Wardrobe",
+    "en-US": "Blue Wardrobe",
+    "es": "Armario azul",
+    "fr": "Penderie bleue",
+    "it": "Armadio blu",
+    "ja": "あおいクロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

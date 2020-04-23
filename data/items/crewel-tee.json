@@ -1,6 +1,14 @@
 {
   "id": "crewel-tee",
-  "name": "Crewel Tee",
+  "name": {
+    "de": "Stickshirt",
+    "en-GB": "Crewel Tee",
+    "en-US": "Crewel Tee",
+    "es": "Camiseta estambre",
+    "fr": "T-shirt canevas",
+    "it": "Maglietta a rilievo",
+    "ja": "エンボスなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

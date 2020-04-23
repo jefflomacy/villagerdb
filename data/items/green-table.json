@@ -1,6 +1,14 @@
 {
   "id": "green-table",
-  "name": "Green Table",
+  "name": {
+    "de": "Smaragdtisch",
+    "en-GB": "Green Table",
+    "en-US": "Green Table",
+    "es": "Mesa verde",
+    "fr": "Table verte",
+    "it": "Tavolo verde",
+    "ja": "みどりのテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

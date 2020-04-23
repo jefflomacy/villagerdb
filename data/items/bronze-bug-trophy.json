@@ -1,6 +1,14 @@
 {
   "id": "bronze-bug-trophy",
-  "name": "Bronze Bug Trophy",
+  "name": {
+    "de": "Bronze-Insektenpokal",
+    "en-GB": "Bronze Bug Trophy",
+    "en-US": "Bronze Bug Trophy",
+    "es": "Bichotrofeo bronce",
+    "fr": "Trophée insecte brze",
+    "it": "Trofeo ins. bronzo",
+    "ja": "どうのムシトロフィー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

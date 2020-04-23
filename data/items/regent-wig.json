@@ -1,6 +1,14 @@
 {
   "id": "regent-wig",
-  "name": "Regent Wig",
+  "name": {
+    "de": "Schlapp-Perücke",
+    "en-GB": "Regent Wig",
+    "en-US": "Regent Wig",
+    "es": "Tupé rockabilly",
+    "fr": "Perruque banane",
+    "it": "Parrucca da principe",
+    "ja": "リーゼント"
+  },
   "category": "Hats",
   "games": {
     "nl": {

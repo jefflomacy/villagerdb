@@ -1,6 +1,14 @@
 {
   "id": "tape-deck",
-  "name": "Tape Deck",
+  "name": {
+    "de": "Radiorekorder",
+    "en-GB": "Tape Deck",
+    "en-US": "Tape Deck",
+    "es": "Radiocasete",
+    "fr": "Cassettophone",
+    "it": "Radio",
+    "ja": "ラジカセ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "polka-dot-lamp",
-  "name": "Polka-dot Lamp",
+  "name": {
+    "de": "Pünktchenlampe",
+    "en-GB": "Polka-Dot Lamp",
+    "en-US": "Polka-Dot Lamp",
+    "es": "Lámpara topos",
+    "fr": "Lampe à pois rouge",
+    "it": "Lampada pois",
+    "ja": "みずたまなランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

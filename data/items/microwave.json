@@ -1,6 +1,14 @@
 {
   "id": "microwave",
-  "name": "Microwave",
+  "name": {
+    "de": "Mikrowelle",
+    "en-GB": "Microwave",
+    "en-US": "Microwave",
+    "es": "Microondas",
+    "fr": "Micro-ondes",
+    "it": "Forno microonde",
+    "ja": "でんしレンジ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

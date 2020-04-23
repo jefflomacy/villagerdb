@@ -1,6 +1,14 @@
 {
   "id": "sabertooth-skull",
-  "name": "Sabertooth Skull",
+  "name": {
+    "de": "Säbelzahn-Schädel",
+    "en-GB": "Sabertooth Skull",
+    "en-US": "Sabertooth Skull",
+    "es": "Cráneo tigre",
+    "fr": "Crâne de smilodon",
+    "it": "Teschio smilodonte",
+    "ja": "サーベルタイガーのあたま"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "pave-table",
-  "name": "Pavé Table",
+  "name": {
+    "de": "Karnevalstisch",
+    "en-GB": "Pavé Table",
+    "en-US": "Pavé Table",
+    "es": "Mesa Conga",
+    "fr": "Table carnaval",
+    "it": "Tavolo Pavão",
+    "ja": "カーニバルテーブルL"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

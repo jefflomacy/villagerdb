@@ -1,6 +1,14 @@
 {
   "id": "silver-bug-trophy",
-  "name": "Silver Bug Trophy",
+  "name": {
+    "de": "Silber-Insektenpokal",
+    "en-GB": "Silver Bug Trophy",
+    "en-US": "Silver Bug Trophy",
+    "es": "Bichotrofeo de plata",
+    "fr": "Trophée insecte arg",
+    "it": "Trofeo ins. argento",
+    "ja": "ぎんのムシトロフィー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

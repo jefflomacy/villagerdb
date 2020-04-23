@@ -1,6 +1,14 @@
 {
   "id": "blue-bar-shirt",
-  "name": "Blue-bar Shirt",
+  "name": {
+    "de": "Gärtnerpulli",
+    "en-GB": "Blue-Bar Shirt",
+    "en-US": "Blue-Bar Shirt",
+    "es": "Jersey rayas azul",
+    "fr": "Pull rayures bleu",
+    "it": "Maglia barre blu",
+    "ja": "しぶいたてじまのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

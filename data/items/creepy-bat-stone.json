@@ -1,6 +1,14 @@
 {
   "id": "creepy-bat-stone",
-  "name": "Creepy Bat Stone",
+  "name": {
+    "de": "Gruselmausstein",
+    "en-GB": "Creepy Bat Stone",
+    "en-US": "Creepy Bat Stone",
+    "es": "Lápida pavorosa",
+    "fr": "Tombe lugubre",
+    "it": "Lastra horror",
+    "ja": "ぶきみなはかいし"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

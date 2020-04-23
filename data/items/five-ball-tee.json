@@ -1,6 +1,14 @@
 {
   "id": "five-ball-tee",
-  "name": "Five-ball Tee",
+  "name": {
+    "de": "5er-Shirt",
+    "en-GB": "Five-Ball Tee",
+    "en-US": "Five-Ball Tee",
+    "es": "Camiseta bola 5",
+    "fr": "T-shirt nº 5",
+    "it": "Maglietta palla 5",
+    "ja": "5ばんだまのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

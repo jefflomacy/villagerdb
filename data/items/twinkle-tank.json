@@ -1,6 +1,14 @@
 {
   "id": "twinkle-tank",
-  "name": "Twinkle Tank",
+  "name": {
+    "de": "Sternchentop",
+    "en-GB": "Twinkle Tank",
+    "en-US": "Twinkle Tank",
+    "es": "Top brillos",
+    "fr": "Débardeur brillant",
+    "it": "Canotta notte",
+    "ja": "トゥインクルなふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

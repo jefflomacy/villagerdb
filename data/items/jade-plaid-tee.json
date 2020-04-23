@@ -1,6 +1,14 @@
 {
   "id": "jade-plaid-tee",
-  "name": "Jade Plaid Tee",
+  "name": {
+    "de": "Aktiv-Shirt",
+    "en-GB": "Jade Plaid Tee",
+    "en-US": "Jade Plaid Tee",
+    "es": "Camiseta tartán jade",
+    "fr": "T-shirt nappe jade",
+    "it": "Maglietta estate",
+    "ja": "みどりチェックのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

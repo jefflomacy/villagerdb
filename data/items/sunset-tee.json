@@ -1,6 +1,14 @@
 {
   "id": "sunset-tee",
-  "name": "Sunset Tee",
+  "name": {
+    "de": "Sonnenshirt",
+    "en-GB": "Sunset Tee",
+    "en-US": "Sunset Tee",
+    "es": "Camiseta atardecer",
+    "fr": "T-shirt couchant",
+    "it": "Maglietta tramonto",
+    "ja": "サンセットなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

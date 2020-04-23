@@ -1,6 +1,14 @@
 {
   "id": "corkboard",
-  "name": "Corkboard",
+  "name": {
+    "de": "Pinnwand",
+    "en-GB": "Corkboard",
+    "en-US": "Corkboard",
+    "es": "Tablón de corcho",
+    "fr": "Tableau en liège",
+    "it": "Bacheca in sughero",
+    "ja": "コルクボード"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

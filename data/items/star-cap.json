@@ -1,6 +1,14 @@
 {
   "id": "star-cap",
-  "name": "Star Cap",
+  "name": {
+    "de": "Sternkappe",
+    "en-GB": "Star Cap",
+    "en-US": "Star Cap",
+    "es": "Gorra estrella",
+    "fr": "Casquette étoile",
+    "it": "Cappello stella",
+    "ja": "ピンクのキャップ"
+  },
   "category": "Hats",
   "games": {
     "nl": {

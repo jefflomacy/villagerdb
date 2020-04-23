@@ -1,6 +1,14 @@
 {
   "id": "regal-lamp",
-  "name": "Regal Lamp",
+  "name": {
+    "de": "Royallampe",
+    "en-GB": "Regal Lamp",
+    "en-US": "Regal Lamp",
+    "es": "Lámpara regia",
+    "fr": "Lampe royale",
+    "it": "Lampada chic",
+    "ja": "ロイヤルなランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

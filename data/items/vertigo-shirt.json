@@ -1,6 +1,14 @@
 {
   "id": "vertigo-shirt",
-  "name": "Vertigo Shirt",
+  "name": {
+    "de": "3D-Pulli",
+    "en-GB": "Vertigo Shirt",
+    "en-US": "Vertigo Shirt",
+    "es": "Jersey vértigo",
+    "fr": "Pull vertige",
+    "it": "Maglia vertigine",
+    "ja": "やがらのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

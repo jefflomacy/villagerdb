@@ -1,6 +1,14 @@
 {
   "id": "black-leggings",
-  "name": "Black Leggings",
+  "name": {
+    "de": "Nylongamasche",
+    "en-GB": "Black Leggings",
+    "en-US": "Black Leggings",
+    "es": "Legging negro",
+    "fr": "Legging noir",
+    "it": "Paio leggings neri",
+    "ja": "くろのレギンス"
+  },
   "category": "Socks",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "flower-bouquet",
-  "name": "Flower Bouquet",
+  "name": {
+    "de": "Blumenstrauß",
+    "en-GB": "Flower Bouquet",
+    "en-US": "Flower Bouquet",
+    "es": "Ramo de flores",
+    "fr": "Bouquet fleuri",
+    "it": "Bouquet di fiori",
+    "ja": "はなたば"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

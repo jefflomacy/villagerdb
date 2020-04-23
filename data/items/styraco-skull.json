@@ -1,6 +1,14 @@
 {
   "id": "styraco-skull",
-  "name": "Styraco Skull",
+  "name": {
+    "de": "Styraco-Schädel",
+    "en-GB": "Styraco Skull",
+    "en-US": "Styraco Skull",
+    "es": "Cráneo estira",
+    "fr": "Crâne de styraco",
+    "it": "Teschio stiracosauro",
+    "ja": "スティラコのあたま"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

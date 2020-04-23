@@ -1,6 +1,14 @@
 {
   "id": "gaudis-lizard",
-  "name": "Gaudí's Lizard",
+  "name": {
+    "de": "Gaudí-Salamander",
+    "en-GB": "Gaudí's Lizard",
+    "en-US": "Gaudí's Lizard",
+    "es": "Dragón de Gaudí",
+    "fr": "Lézard de Gaudi",
+    "it": "Salamandra di Gaudí",
+    "ja": "ガウディのリザード"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

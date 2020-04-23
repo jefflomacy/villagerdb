@@ -1,6 +1,14 @@
 {
   "id": "racing-helmet",
-  "name": "Racing Helmet",
+  "name": {
+    "de": "Rennfahrerhelm",
+    "en-GB": "Racing Helmet",
+    "en-US": "Racing Helmet",
+    "es": "Casco de carreras",
+    "fr": "Casque de course",
+    "it": "Casco da pilota",
+    "ja": "フルフェイスメット"
+  },
   "category": "Hats",
   "games": {
     "nl": {

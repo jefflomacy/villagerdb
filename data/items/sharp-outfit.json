@@ -1,6 +1,14 @@
 {
   "id": "sharp-outfit",
-  "name": "Sharp Outfit",
+  "name": {
+    "de": "Rautenshirt",
+    "en-GB": "Sharp Outfit",
+    "en-US": "Sharp Outfit",
+    "es": "Camiseta trazos",
+    "fr": "T-shirt dièse",
+    "it": "Maglietta diesis",
+    "ja": "いげたもようのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

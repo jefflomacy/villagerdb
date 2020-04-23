@@ -1,6 +1,14 @@
 {
   "id": "diplo-skull",
-  "name": "Diplo Skull",
+  "name": {
+    "de": "Seismosaurus-Schädel",
+    "en-GB": "Diplo Skull",
+    "en-US": "Diplo Skull",
+    "es": "Cráneo diplodocus",
+    "fr": "Crâne de séismo",
+    "it": "Teschio seismosauro",
+    "ja": "セイスモサウルスのあたま"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

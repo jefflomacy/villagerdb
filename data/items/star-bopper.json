@@ -1,6 +1,14 @@
 {
   "id": "star-bopper",
-  "name": "Star Bopper",
+  "name": {
+    "de": "Leuchtsternfühler",
+    "en-GB": "Star Bopper",
+    "en-US": "Star Bopper",
+    "es": "Diadema estrellas",
+    "fr": "Serre-tête étoiles",
+    "it": "Paio antenne stelle",
+    "ja": "ひかるスターアクセサリー"
+  },
   "category": "Hats",
   "games": {
     "nl": {

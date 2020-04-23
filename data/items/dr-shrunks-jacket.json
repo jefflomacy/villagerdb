@@ -1,6 +1,14 @@
 {
   "id": "dr-shrunks-jacket",
-  "name": "Dr. Shrunk's Jacket",
+  "name": {
+    "de": "Samselt-Jacke",
+    "en-GB": "Dr. Shrunk's Jacket",
+    "en-US": "Dr. Shrunk's Jacket",
+    "es": "Americana Dr. Sito",
+    "fr": "Veste Ciboulot",
+    "it": "Giacca di Strizzo",
+    "ja": "ししょーのいしょー"
+  },
   "category": "Tops",
   "games": {
     "nl": {

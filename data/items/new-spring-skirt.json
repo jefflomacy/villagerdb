@@ -1,6 +1,14 @@
 {
   "id": "new-spring-skirt",
-  "name": "New Spring Skirt",
+  "name": {
+    "de": "Satinrock",
+    "en-GB": "New Spring Skirt",
+    "en-US": "New Spring Skirt",
+    "es": "Falda escarcha",
+    "fr": "Jupe iris bleue",
+    "it": "Gonna violette",
+    "ja": "ブルーチャイナスカート"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

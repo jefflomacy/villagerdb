@@ -1,6 +1,14 @@
 {
   "id": "nutcracker",
-  "name": "Nutcracker",
+  "name": {
+    "de": "Nussknacker",
+    "en-GB": "Nutcracker",
+    "en-US": "Nutcracker",
+    "es": "Soldado cascanueces",
+    "fr": "Casse-noisettes",
+    "it": "Soldatino",
+    "ja": "くるみわりにんぎょう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

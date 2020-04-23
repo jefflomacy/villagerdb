@@ -1,6 +1,14 @@
 {
   "id": "red-boxing-shorts",
-  "name": "Red Boxing Shorts",
+  "name": {
+    "de": "Rotboxerhose",
+    "en-GB": "Red Boxing Shorts",
+    "en-US": "Red Boxing Shorts",
+    "es": "Bermuda roja",
+    "fr": "Short de boxe rouge",
+    "it": "P. berm. boxe rossi",
+    "ja": "あかいボクサーパンツ"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

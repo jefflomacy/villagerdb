@@ -1,6 +1,14 @@
 {
   "id": "crossing-shirt",
-  "name": "Crossing Shirt",
+  "name": {
+    "de": "Kreuzpulli",
+    "en-GB": "Crossing Shirt",
+    "en-US": "Crossing Shirt",
+    "es": "Jersey cruce",
+    "fr": "Pull croisé",
+    "it": "Maglia croce",
+    "ja": "シンメトリーなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

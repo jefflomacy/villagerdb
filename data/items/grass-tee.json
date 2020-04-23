@@ -1,6 +1,14 @@
 {
   "id": "grass-tee",
-  "name": "Grass Tee",
+  "name": {
+    "de": "Rasenshirt",
+    "en-GB": "Grass Tee",
+    "en-US": "Grass Tee",
+    "es": "Camiseta hierba",
+    "fr": "T-shirt herbe",
+    "it": "Maglietta erbosa",
+    "ja": "くさのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

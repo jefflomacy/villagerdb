@@ -1,6 +1,14 @@
 {
   "id": "fruit-basket",
-  "name": "Fruit Basket",
+  "name": {
+    "de": "Fruchtkorb",
+    "en-GB": "Fruit Basket",
+    "en-US": "Fruit Basket",
+    "es": "Cesta de frutas",
+    "fr": "Panier de fruits",
+    "it": "Cestino di frutta",
+    "ja": "フルーツバスケット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

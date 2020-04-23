@@ -1,6 +1,14 @@
 {
   "id": "citrus-tee",
-  "name": "Citrus Tee",
+  "name": {
+    "de": "Mandarinenshirt",
+    "en-GB": "Citrus Tee",
+    "en-US": "Citrus Tee",
+    "es": "Camiseta cítrica",
+    "fr": "T-shirt agrume",
+    "it": "Maglietta agrumi",
+    "ja": "なつみかんのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

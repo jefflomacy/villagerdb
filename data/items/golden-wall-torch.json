@@ -1,6 +1,14 @@
 {
   "id": "golden-wall-torch",
-  "name": "Golden Wall Torch",
+  "name": {
+    "de": "Goldfackel",
+    "en-GB": "Golden Wall Torch",
+    "en-US": "Golden Wall Torch",
+    "es": "Antorcha dorada",
+    "fr": "Flambeau mur d'or",
+    "it": "Torcia a muro d'oro",
+    "ja": "おうごんのトーチ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

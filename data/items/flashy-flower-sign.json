@@ -1,6 +1,14 @@
 {
   "id": "flashy-flower-sign",
-  "name": "Flashy-flower Sign",
+  "name": {
+    "de": "Blumengesteck",
+    "en-GB": "Flashy-Flower Sign",
+    "en-US": "Flashy-Flower Sign",
+    "es": "Cartel florido",
+    "fr": "Panneau fleuri",
+    "it": "Decor. inaugurazioni",
+    "ja": "はなわ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

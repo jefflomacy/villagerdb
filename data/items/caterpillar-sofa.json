@@ -1,6 +1,14 @@
 {
   "id": "caterpillar-sofa",
-  "name": "Caterpillar Sofa",
+  "name": {
+    "de": "Raupensofa",
+    "en-GB": "Caterpillar Sofa",
+    "en-US": "Caterpillar Sofa",
+    "es": "Sofá oruga",
+    "fr": "Canapé bombyx",
+    "it": "Sofà bruco",
+    "ja": "いもむしソファ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

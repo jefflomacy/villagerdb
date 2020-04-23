@@ -1,6 +1,14 @@
 {
   "id": "mint-gingham-skirt",
-  "name": "Mint Gingham Skirt",
+  "name": {
+    "de": "Mint-Karo-Rock",
+    "en-GB": "Mint Gingham Skirt",
+    "en-US": "Mint Gingham Skirt",
+    "es": "Falda vichy menta",
+    "fr": "Jupe vichy menthe",
+    "it": "Gonna menta",
+    "ja": "ミントギンガムなスカート"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

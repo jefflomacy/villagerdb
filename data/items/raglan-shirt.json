@@ -1,6 +1,14 @@
 {
   "id": "raglan-shirt",
-  "name": "Raglan Shirt",
+  "name": {
+    "de": "Raglan-Pulli",
+    "en-GB": "Raglan Shirt",
+    "en-US": "Raglan Shirt",
+    "es": "Jersey azulado",
+    "fr": "Pull coupe raglan",
+    "it": "Maglia raglan",
+    "ja": "あおのながラグランシャツ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

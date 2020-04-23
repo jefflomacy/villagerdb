@@ -1,6 +1,14 @@
 {
   "id": "backpack",
-  "name": "Backpack",
+  "name": {
+    "de": "Rucksack",
+    "en-GB": "Backpack",
+    "en-US": "Backpack",
+    "es": "Mochila",
+    "fr": "Sac à dos",
+    "it": "Zaino",
+    "ja": "バックパック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

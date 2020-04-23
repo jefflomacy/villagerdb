@@ -1,6 +1,14 @@
 {
   "id": "flower-loafers",
-  "name": "Flower Loafers",
+  "name": {
+    "de": "Blümchenslipper",
+    "en-GB": "Flower Loafers",
+    "en-US": "Flower Loafers",
+    "es": "Mocasín flores",
+    "fr": "P. mocassins fleurs",
+    "it": "Paio mocassini fiore",
+    "ja": "エスニックなローファー"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

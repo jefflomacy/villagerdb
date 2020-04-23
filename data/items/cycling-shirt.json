@@ -1,6 +1,14 @@
 {
   "id": "cycling-shirt",
-  "name": "Cycling Shirt",
+  "name": {
+    "de": "Radlerjacke",
+    "en-GB": "Cycling Shirt",
+    "en-US": "Cycling Shirt",
+    "es": "Jersey ciclista",
+    "fr": "Pull cycliste",
+    "it": "Maglia ciclista",
+    "ja": "サイクルジャージ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

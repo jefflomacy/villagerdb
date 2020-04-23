@@ -1,6 +1,14 @@
 {
   "id": "aqua-polka-tee",
-  "name": "Aqua Polka Tee",
+  "name": {
+    "de": "Tüpfelshirt",
+    "en-GB": "Aqua Polka Tee",
+    "en-US": "Aqua Polka Tee",
+    "es": "Camiseta aqua",
+    "fr": "T-shirt pois cyan",
+    "it": "Maglietta blu a pois",
+    "ja": "あおいみずたまのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "flying-saucer",
-  "name": "Flying Saucer",
+  "name": {
+    "de": "UFO",
+    "en-GB": "Flying Saucer",
+    "en-US": "Flying Saucer",
+    "es": "Platillo volante",
+    "fr": "Soucoupe volante",
+    "it": "Disco volante",
+    "ja": "そらとぶえんばん"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

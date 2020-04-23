@@ -1,6 +1,14 @@
 {
   "id": "server",
-  "name": "Server",
+  "name": {
+    "de": "Server",
+    "en-GB": "Server",
+    "en-US": "Server",
+    "es": "Servidor",
+    "fr": "Serveur informatique",
+    "it": "Server",
+    "ja": "サーバー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

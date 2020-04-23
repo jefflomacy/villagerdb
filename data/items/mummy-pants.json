@@ -1,6 +1,14 @@
 {
   "id": "mummy-pants",
-  "name": "Mummy Pants",
+  "name": {
+    "de": "Mumienhose",
+    "en-GB": "Mummy Pants",
+    "en-US": "Mummy Pants",
+    "es": "Pantalón de momia",
+    "fr": "Pantalon momie",
+    "it": "Pantalone mummia",
+    "ja": "ほうたいパンツ"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

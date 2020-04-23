@@ -1,6 +1,14 @@
 {
   "id": "royal-shirt",
-  "name": "Royal Shirt",
+  "name": {
+    "de": "Königswams",
+    "en-GB": "Royal Shirt",
+    "en-US": "Royal Shirt",
+    "es": "Jersey real",
+    "fr": "Pull royal",
+    "it": "Maglia reale",
+    "ja": "おうさまのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

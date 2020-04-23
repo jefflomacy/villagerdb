@@ -1,6 +1,14 @@
 {
   "id": "bingo-wheel",
-  "name": "Bingo Wheel",
+  "name": {
+    "de": "Zahlenkugel-Maschine",
+    "en-GB": "Bingo Wheel",
+    "en-US": "Bingo Wheel",
+    "es": "Bombo de bingo",
+    "fr": "Sphère pour tirage",
+    "it": "Urna per estrazioni",
+    "ja": "ビンゴマシン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

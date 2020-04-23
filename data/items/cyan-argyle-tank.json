@@ -1,6 +1,14 @@
 {
   "id": "cyan-argyle-tank",
-  "name": "Cyan Argyle Tank",
+  "name": {
+    "de": "Türkis-Argyle-Top",
+    "en-GB": "Cyan Argyle Tank",
+    "en-US": "Cyan Argyle Tank",
+    "es": "Top pijo cian",
+    "fr": "Débardeur écos. cyan",
+    "it": "Canotta rombi cel.",
+    "ja": "シアンアーガイルのふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "blue-bed",
-  "name": "Blue Bed",
+  "name": {
+    "de": "Azurbett",
+    "en-GB": "Blue Bed",
+    "en-US": "Blue Bed",
+    "es": "Cama azul",
+    "fr": "Lit bleu",
+    "it": "Letto blu",
+    "ja": "あおいベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

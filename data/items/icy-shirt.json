@@ -1,6 +1,14 @@
 {
   "id": "icy-shirt",
-  "name": "Icy Shirt",
+  "name": {
+    "de": "Eispulli",
+    "en-GB": "Icy Shirt",
+    "en-US": "Icy Shirt",
+    "es": "Jersey hielo",
+    "fr": "Pull givré",
+    "it": "Maglione ghiaccio",
+    "ja": "すずしげなニット"
+  },
   "category": "Tops",
   "games": {
     "nl": {

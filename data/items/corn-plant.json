@@ -1,6 +1,14 @@
 {
   "id": "corn-plant",
-  "name": "Corn Plant",
+  "name": {
+    "de": "Yuccapalme",
+    "en-GB": "Corn Plant",
+    "en-US": "Corn Plant",
+    "es": "Drácena",
+    "fr": "Yucca",
+    "it": "Pianta felicità",
+    "ja": "ドラセナ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

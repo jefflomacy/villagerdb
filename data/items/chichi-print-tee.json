@@ -1,6 +1,14 @@
 {
   "id": "chichi-print-tee",
-  "name": "Chichi-print Tee",
+  "name": {
+    "de": "Rankenshirt",
+    "en-GB": "Chichi-Print Tee",
+    "en-US": "Chichi-Print Tee",
+    "es": "Camiseta medusa",
+    "fr": "T-shirt fractal",
+    "it": "Maglietta vistosa",
+    "ja": "からくさもようのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

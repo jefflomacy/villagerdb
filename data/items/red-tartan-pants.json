@@ -1,6 +1,14 @@
 {
   "id": "red-tartan-pants",
-  "name": "Red Tartan Pants",
+  "name": {
+    "de": "Schottenkarohose",
+    "en-GB": "Red Tartan Pants",
+    "en-US": "Red Tartan Pants",
+    "es": "Pantalón tartán rojo",
+    "fr": "Pantal. tartan rouge",
+    "it": "Pantal. tartan rosso",
+    "ja": "あかいタータンパンツ"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

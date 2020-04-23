@@ -1,6 +1,14 @@
 {
   "id": "red-letter-jacket",
-  "name": "Red Letter Jacket",
+  "name": {
+    "de": "Collegejacke \\u201EC\\u201C",
+    "en-GB": "Red Letter Jacket",
+    "en-US": "Red Letter Jacket",
+    "es": "Cazadora roja",
+    "fr": "Veste collège rouge",
+    "it": "Giacca college rossa",
+    "ja": "あかいスタジャン"
+  },
   "category": "Tops",
   "games": {
     "nl": {

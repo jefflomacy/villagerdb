@@ -1,6 +1,14 @@
 {
   "id": "treasure-chest",
-  "name": "Treasure Chest",
+  "name": {
+    "de": "Schatzkiste",
+    "en-GB": "Treasure Chest",
+    "en-US": "Treasure Chest",
+    "es": "Cofre del tesoro",
+    "fr": "Coffre au trésor",
+    "it": "Cassa del tesoro",
+    "ja": "たからばこ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "fireworks-table",
-  "name": "Fireworks Table",
+  "name": {
+    "de": "Feuerwerkstisch",
+    "en-GB": "Fireworks Table",
+    "en-US": "Fireworks Table",
+    "es": "Mesa pirotécnica",
+    "fr": "Table feu d'artifice",
+    "it": "Tavolo fuoco d'art.",
+    "ja": "はなびテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

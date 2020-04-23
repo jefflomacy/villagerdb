@@ -1,6 +1,14 @@
 {
   "id": "mush-chair",
-  "name": "Mush Chair",
+  "name": {
+    "de": "Pilzstuhl",
+    "en-GB": "Mush Chair",
+    "en-US": "Mush Chair",
+    "es": "Silla hongo",
+    "fr": "Chaise champi",
+    "it": "Sedia fungo",
+    "ja": "マッシュルームチェア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

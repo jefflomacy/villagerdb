@@ -1,6 +1,14 @@
 {
   "id": "purple-tie-dye-tee",
-  "name": "Purple Tie-dye Tee",
+  "name": {
+    "de": "Ökoshirt",
+    "en-GB": "Purple Tie-Dye Tee",
+    "en-US": "Purple Tie-Dye Tee",
+    "es": "Camiseta hippy lila",
+    "fr": "T-shirt batik mauve",
+    "it": "Maglietta viola",
+    "ja": "グレープソーダなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "red-flannel-shirt",
-  "name": "Red Flannel Shirt",
+  "name": {
+    "de": "Holzfällerhemd",
+    "en-GB": "Red Flannel Shirt",
+    "en-US": "Red Flannel Shirt",
+    "es": "Camisa franela roja",
+    "fr": "Pull flanelle rouge",
+    "it": "Camicia grunge rossa",
+    "ja": "あかいネルシャツ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

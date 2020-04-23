@@ -1,6 +1,14 @@
 {
   "id": "tatami-bed",
-  "name": "Tatami Bed",
+  "name": {
+    "de": "Tatamibett",
+    "en-GB": "Tatami Bed",
+    "en-US": "Tatami Bed",
+    "es": "Cama tatami",
+    "fr": "Lit tatami",
+    "it": "Letto tatami",
+    "ja": "たたみのベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

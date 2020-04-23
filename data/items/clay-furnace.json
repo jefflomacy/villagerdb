@@ -1,6 +1,14 @@
 {
   "id": "clay-furnace",
-  "name": "Clay Furnace",
+  "name": {
+    "de": "Kochstelle",
+    "en-GB": "Clay Furnace",
+    "en-US": "Clay Furnace",
+    "es": "Chimenea terracota",
+    "fr": "Four en terre cuite",
+    "it": "Forno di terracotta",
+    "ja": "かまど"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

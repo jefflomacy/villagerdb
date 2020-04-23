@@ -1,6 +1,14 @@
 {
   "id": "pine-bonsai",
-  "name": "Pine Bonsai",
+  "name": {
+    "de": "Pinien-Bonsai",
+    "en-GB": "Pine Bonsai",
+    "en-US": "Pine Bonsai",
+    "es": "Pino bonsái",
+    "fr": "Bonsaï pin",
+    "it": "Bonsai pino",
+    "ja": "クロマツのぼんさい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

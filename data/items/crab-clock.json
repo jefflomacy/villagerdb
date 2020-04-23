@@ -1,6 +1,14 @@
 {
   "id": "crab-clock",
-  "name": "Crab Clock",
+  "name": {
+    "de": "Krebsuhr",
+    "en-GB": "Crab Clock",
+    "en-US": "Crab Clock",
+    "es": "Reloj cangrejo",
+    "fr": "Horloge crabe",
+    "it": "Orologio granchio",
+    "ja": "なんじカニ？どけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

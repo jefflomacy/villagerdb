@@ -1,6 +1,14 @@
 {
   "id": "skeleton",
-  "name": "Skeleton",
+  "name": {
+    "de": "Skelett",
+    "en-GB": "Skeleton",
+    "en-US": "Skeleton",
+    "es": "Modelo esqueleto",
+    "fr": "Squelette",
+    "it": "Scheletro",
+    "ja": "こっかくひょうほん"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

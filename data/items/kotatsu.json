@@ -1,6 +1,14 @@
 {
   "id": "kotatsu",
-  "name": "Kotatsu",
+  "name": {
+    "de": "Heiztisch",
+    "en-GB": "Kotatsu",
+    "en-US": "Kotatsu",
+    "es": "Kotatsu",
+    "fr": "Kotatsu",
+    "it": "Kotatsu",
+    "ja": "こたつ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

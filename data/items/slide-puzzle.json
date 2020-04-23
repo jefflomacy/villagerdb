@@ -1,6 +1,14 @@
 {
   "id": "slide-puzzle",
-  "name": "Slide Puzzle",
+  "name": {
+    "de": "Schiebepuzzle",
+    "en-GB": "Slide Puzzle",
+    "en-US": "Slide Puzzle",
+    "es": "Puzle deslizante",
+    "fr": "Taquin",
+    "it": "Rompicapo",
+    "ja": "スライドパズル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "automatic-washer",
-  "name": "Automatic Washer",
+  "name": {
+    "de": "Uralt-Waschmaschine",
+    "en-GB": "Automatic Washer",
+    "en-US": "Automatic Washer",
+    "es": "Lav. carga superior",
+    "fr": "Lave-linge auto",
+    "it": "Lavatrice automatica",
+    "ja": "ぜんじどうせんたくき"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

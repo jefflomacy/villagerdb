@@ -1,6 +1,14 @@
 {
   "id": "deer-scare",
-  "name": "Deer Scare",
+  "name": {
+    "de": "Wasserspiel",
+    "en-GB": "Deer Scare",
+    "en-US": "Deer Scare",
+    "es": "Fuente de bambú",
+    "fr": "Jeu d'eau",
+    "it": "Fontana bambù",
+    "ja": "ししおどし"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

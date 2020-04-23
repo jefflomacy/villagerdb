@@ -1,6 +1,14 @@
 {
   "id": "kiddie-wardrobe",
-  "name": "Kiddie Wardrobe",
+  "name": {
+    "de": "Kinderschrank",
+    "en-GB": "Kiddie Wardrobe",
+    "en-US": "Kiddie Wardrobe",
+    "es": "Ropero puzle",
+    "fr": "Penderie enfant",
+    "it": "Armadio bimbi",
+    "ja": "カラフルなクロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

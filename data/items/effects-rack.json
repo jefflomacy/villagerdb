@@ -1,6 +1,14 @@
 {
   "id": "effects-rack",
-  "name": "Effects Rack",
+  "name": {
+    "de": "Effekt-Rack",
+    "en-GB": "Effects Rack",
+    "en-US": "Effects Rack",
+    "es": "Cajón efectos",
+    "fr": "Sono",
+    "it": "Rack effetti",
+    "ja": "エフェクターラック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

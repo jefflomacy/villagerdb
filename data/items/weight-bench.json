@@ -1,6 +1,14 @@
 {
   "id": "weight-bench",
-  "name": "Weight Bench",
+  "name": {
+    "de": "Hantelbank",
+    "en-GB": "Weight Bench",
+    "en-US": "Weight Bench",
+    "es": "Banco de pesas",
+    "fr": "Banc de muscu",
+    "it": "Panca con pesi",
+    "ja": "プレスベンチ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

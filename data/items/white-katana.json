@@ -1,6 +1,14 @@
 {
   "id": "white-katana",
-  "name": "White Katana",
+  "name": {
+    "de": "Sonnenkatana",
+    "en-GB": "White Katana",
+    "en-US": "White Katana",
+    "es": "Katana blanca",
+    "fr": "Katana blanc",
+    "it": "Katana bianca",
+    "ja": "しろいにほんとう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

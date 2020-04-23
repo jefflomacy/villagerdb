@@ -1,6 +1,14 @@
 {
   "id": "robo-table",
-  "name": "Robo-table",
+  "name": {
+    "de": "Robo-Tisch",
+    "en-GB": "Robo-Table",
+    "en-US": "Robo-Table",
+    "es": "Robomesa",
+    "fr": "Table robot",
+    "it": "Robo-tavolo",
+    "ja": "ロボテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

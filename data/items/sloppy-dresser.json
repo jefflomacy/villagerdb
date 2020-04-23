@@ -1,6 +1,14 @@
 {
   "id": "sloppy-dresser",
-  "name": "Sloppy Dresser",
+  "name": {
+    "de": "Schlamperkommode",
+    "en-GB": "Sloppy Dresser",
+    "en-US": "Sloppy Dresser",
+    "es": "Cómoda desorden",
+    "fr": "Commode négligée",
+    "it": "Comò trasandato",
+    "ja": "だらしないタンス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

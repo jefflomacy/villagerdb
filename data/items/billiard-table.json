@@ -1,6 +1,14 @@
 {
   "id": "billiard-table",
-  "name": "Billiard Table",
+  "name": {
+    "de": "Billardtisch",
+    "en-GB": "Billiard Table",
+    "en-US": "Billiard Table",
+    "es": "Mesa de billar",
+    "fr": "Billard",
+    "it": "Tavolo da biliardo",
+    "ja": "ビリヤードのだい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

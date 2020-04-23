@@ -1,6 +1,14 @@
 {
   "id": "space-console",
-  "name": "Space Console",
+  "name": {
+    "de": "Forschungskonsole",
+    "en-GB": "Space Console",
+    "en-US": "Space Console",
+    "es": "Cuadro de mandos",
+    "fr": "Radar de bord",
+    "it": "Quadro comandi",
+    "ja": "とけいつきけいき"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "melon-tee",
-  "name": "Melon Tee",
+  "name": {
+    "de": "Papayashirt",
+    "en-GB": "Melon Tee",
+    "en-US": "Melon Tee",
+    "es": "Camiseta melón",
+    "fr": "T-shirt melon",
+    "it": "Maglietta melone",
+    "ja": "メロンのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

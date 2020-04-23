@@ -1,6 +1,14 @@
 {
   "id": "foosball-table",
-  "name": "Foosball Table",
+  "name": {
+    "de": "Kickertisch",
+    "en-GB": "Foosball Table",
+    "en-US": "Foosball Table",
+    "es": "Futbolín",
+    "fr": "Baby-foot",
+    "it": "Biliardino",
+    "ja": "テーブルサッカー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

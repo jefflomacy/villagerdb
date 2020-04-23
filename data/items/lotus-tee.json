@@ -1,6 +1,14 @@
 {
   "id": "lotus-tee",
-  "name": "Lotus Tee",
+  "name": {
+    "de": "Lotusshirt",
+    "en-GB": "Lotus Tee",
+    "en-US": "Lotus Tee",
+    "es": "Camiseta loto",
+    "fr": "T-shirt nénuphar",
+    "it": "Maglietta loto",
+    "ja": "ロータスなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

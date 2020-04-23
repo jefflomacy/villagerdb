@@ -1,6 +1,14 @@
 {
   "id": "blue-track-jacket",
-  "name": "Blue Track Jacket",
+  "name": {
+    "de": "Läuferjacke",
+    "en-GB": "Blue Track Jacket",
+    "en-US": "Blue Track Jacket",
+    "es": "Sudadera sport azul",
+    "fr": "Veste survêt bleue",
+    "it": "Maglia tuta blu",
+    "ja": "あおジャージ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

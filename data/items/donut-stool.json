@@ -1,6 +1,14 @@
 {
   "id": "donut-stool",
-  "name": "Donut Stool",
+  "name": {
+    "de": "Donut-Hocker",
+    "en-GB": "Donut Stool",
+    "en-US": "Donut Stool",
+    "es": "Taburete rosquilla",
+    "fr": "Tabouret beignet",
+    "it": "Sgabello a ciambella",
+    "ja": "ドーナツまるイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

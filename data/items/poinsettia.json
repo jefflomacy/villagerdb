@@ -1,6 +1,14 @@
 {
   "id": "poinsettia",
-  "name": "Poinsettia",
+  "name": {
+    "de": "Weihnachtsstern",
+    "en-GB": "Poinsettia",
+    "en-US": "Poinsettia",
+    "es": "Poinsetia",
+    "fr": "Poinsettia",
+    "it": "Poinsettia",
+    "ja": "ポインセチア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

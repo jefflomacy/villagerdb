@@ -1,6 +1,14 @@
 {
   "id": "black-veil",
-  "name": "Black Veil",
+  "name": {
+    "de": "Schwarzschleier",
+    "en-GB": "Black Veil",
+    "en-US": "Black Veil",
+    "es": "Velo negro",
+    "fr": "Voile noir",
+    "it": "Parrucca con veletta",
+    "ja": "ベールのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

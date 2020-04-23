@@ -1,6 +1,14 @@
 {
   "id": "aloe",
-  "name": "Aloe",
+  "name": {
+    "de": "Aloe Vera",
+    "en-GB": "Aloe",
+    "en-US": "Aloe",
+    "es": "Aloe",
+    "fr": "Aloès",
+    "it": "Aloe",
+    "ja": "アロエ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

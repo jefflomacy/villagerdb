@@ -1,6 +1,14 @@
 {
   "id": "clothesline-pole",
-  "name": "Clothesline Pole",
+  "name": {
+    "de": "Wäscheleine",
+    "en-GB": "Clothesline Pole",
+    "en-US": "Clothesline Pole",
+    "es": "Tendedero",
+    "fr": "étendoir",
+    "it": "Corda del bucato",
+    "ja": "ものほしざお"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

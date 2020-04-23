@@ -1,6 +1,14 @@
 {
   "id": "cabana-vanity",
-  "name": "Cabana Vanity",
+  "name": {
+    "de": "Korbspiegel",
+    "en-GB": "Cabana Vanity",
+    "en-US": "Cabana Vanity",
+    "es": "Tocador mimbre",
+    "fr": "Coiffeuse rotin",
+    "it": "Toletta vimini",
+    "ja": "リゾートなドレッサー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "green-warm-up-jacket",
-  "name": "Green Warm-up Jacket",
+  "name": {
+    "de": "Waldlaufjacke",
+    "en-GB": "Green Warm-Up Jacket",
+    "en-US": "Green Warm-Up Jacket",
+    "es": "Sudadera sport verde",
+    "fr": "Veste survêt verte",
+    "it": "Maglia tuta verde",
+    "ja": "みどりのジャージ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

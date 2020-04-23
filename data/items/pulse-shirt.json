@@ -1,6 +1,14 @@
 {
   "id": "pulse-shirt",
-  "name": "Pulse Shirt",
+  "name": {
+    "de": "EKG-Pulli",
+    "en-GB": "Pulse Shirt",
+    "en-US": "Pulse Shirt",
+    "es": "Jersey pulso",
+    "fr": "Pull ECG",
+    "it": "Maglia pulsazioni",
+    "ja": "パルスなふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

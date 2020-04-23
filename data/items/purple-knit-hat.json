@@ -1,6 +1,14 @@
 {
   "id": "purple-knit-hat",
-  "name": "Purple Knit Hat",
+  "name": {
+    "de": "Streifenmütze",
+    "en-GB": "Purple Knit Hat",
+    "en-US": "Purple Knit Hat",
+    "es": "Gorro listas",
+    "fr": "Bonnet mauve",
+    "it": "Berretto viola",
+    "ja": "むらさきのニットぼう"
+  },
   "category": "Hats",
   "games": {
     "nl": {

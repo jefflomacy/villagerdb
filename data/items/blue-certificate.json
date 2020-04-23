@@ -1,6 +1,14 @@
 {
   "id": "blue-certificate",
-  "name": "Blue Certificate",
+  "name": {
+    "de": "Urkunde",
+    "en-GB": "Blue Certificate",
+    "en-US": "Blue Certificate",
+    "es": "Certificado azul",
+    "fr": "Diplôme bleu",
+    "it": "Attestato corso surf",
+    "ja": "ヨコがきのしょうじょう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

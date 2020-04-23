@@ -1,6 +1,14 @@
 {
   "id": "kiwi-tank",
-  "name": "Kiwi Tank",
+  "name": {
+    "de": "Kiwitop",
+    "en-GB": "Kiwi Tank",
+    "en-US": "Kiwi Tank",
+    "es": "Top kiwi",
+    "fr": "Débardeur kiwi",
+    "it": "Canotta kiwi",
+    "ja": "キウイのふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

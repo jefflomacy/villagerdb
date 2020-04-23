@@ -1,6 +1,14 @@
 {
   "id": "stripe-lamp",
-  "name": "Stripe Lamp",
+  "name": {
+    "de": "Streifenlampe",
+    "en-GB": "Stripe Lamp",
+    "en-US": "Stripe Lamp",
+    "es": "Lámpara rayas",
+    "fr": "Lampe rayures",
+    "it": "Lampada strisce",
+    "ja": "ストライプなランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

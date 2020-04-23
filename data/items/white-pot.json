@@ -1,6 +1,14 @@
 {
   "id": "white-pot",
-  "name": "White Pot",
+  "name": {
+    "de": "Weißtopf",
+    "en-GB": "White Pot",
+    "en-US": "White Pot",
+    "es": "Olla blanca",
+    "fr": "Pot blanc",
+    "it": "Vaso bianco",
+    "ja": "しろいかめ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

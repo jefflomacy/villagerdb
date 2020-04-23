@@ -1,6 +1,14 @@
 {
   "id": "kappa-cap",
-  "name": "Kappa Cap",
+  "name": {
+    "de": "Käpten-Mütze",
+    "en-GB": "Kappa Cap",
+    "en-US": "Kappa Cap",
+    "es": "Gorro kappa",
+    "fr": "Cagoule kappa",
+    "it": "Cappello tartaruga",
+    "ja": "カッパのおさら"
+  },
   "category": "Hats",
   "games": {
     "nl": {

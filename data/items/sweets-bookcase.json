@@ -1,6 +1,14 @@
 {
   "id": "sweets-bookcase",
-  "name": "Sweets Bookcase",
+  "name": {
+    "de": "Süßregal",
+    "en-GB": "Sweets Bookcase",
+    "en-US": "Sweets Bookcase",
+    "es": "Librería chuches",
+    "fr": "étagère bonbons",
+    "it": "Scansia dolci",
+    "ja": "おかしのほんだな"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

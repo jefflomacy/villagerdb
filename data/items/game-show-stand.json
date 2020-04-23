@@ -1,6 +1,14 @@
 {
   "id": "game-show-stand",
-  "name": "Game-show Stand",
+  "name": {
+    "de": "Kandidatenpult",
+    "en-GB": "Game-Show Stand",
+    "en-US": "Game-Show Stand",
+    "es": "Atril de concurso",
+    "fr": "Pupitre de quiz",
+    "it": "Postazione quiz",
+    "ja": "クイズのだい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

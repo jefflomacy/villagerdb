@@ -1,6 +1,14 @@
 {
   "id": "small-igloo",
-  "name": "Small Igloo",
+  "name": {
+    "de": "Mini-Iglu",
+    "en-GB": "Small Igloo",
+    "en-US": "Small Igloo",
+    "es": "Iglú pequeño",
+    "fr": "Mini-igloo",
+    "it": "Igloo mini",
+    "ja": "ミニかまくら"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

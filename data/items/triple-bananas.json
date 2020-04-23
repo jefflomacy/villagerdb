@@ -1,6 +1,14 @@
 {
   "id": "triple-bananas",
-  "name": "Triple Bananas",
+  "name": {
+    "de": "Dreier-Banane",
+    "en-GB": "Triple Bananas",
+    "en-US": "Triple Bananas",
+    "es": "Trío de plátanos",
+    "fr": "Triple banane",
+    "it": "Tripla banana",
+    "ja": "トリプルバナナ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

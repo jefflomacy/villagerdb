@@ -1,6 +1,14 @@
 {
   "id": "mixer",
-  "name": "Mixer",
+  "name": {
+    "de": "Mixer",
+    "en-GB": "Mixer",
+    "en-US": "Mixer",
+    "es": "Batidora de vaso",
+    "fr": "Mixeur",
+    "it": "Mixer",
+    "ja": "ミキサー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

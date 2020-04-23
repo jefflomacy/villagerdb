@@ -1,6 +1,14 @@
 {
   "id": "sea-globe",
-  "name": "Sea Globe",
+  "name": {
+    "de": "Aquariumkugel",
+    "en-GB": "Sea Globe",
+    "en-US": "Sea Globe",
+    "es": "Globo de acuario",
+    "fr": "Boule aquarium",
+    "it": "Boccia acquario",
+    "ja": "シーグローブ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

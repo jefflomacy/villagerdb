@@ -1,6 +1,14 @@
 {
   "id": "spinning-wheel",
-  "name": "Spinning Wheel",
+  "name": {
+    "de": "Spinnrad",
+    "en-GB": "Spinning Wheel",
+    "en-US": "Spinning Wheel",
+    "es": "Rueca",
+    "fr": "Rouet",
+    "it": "Arcolaio",
+    "ja": "いとぐるま"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

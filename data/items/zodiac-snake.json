@@ -1,6 +1,14 @@
 {
   "id": "zodiac-snake",
-  "name": "Zodiac Snake",
+  "name": {
+    "de": "Schlangenfigur",
+    "en-GB": "Zodiac Snake",
+    "en-US": "Zodiac Snake",
+    "es": "Figura de serpiente",
+    "fr": "Figurine de serpent",
+    "it": "Figurina di serpente",
+    "ja": "えとのおきもの・み"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

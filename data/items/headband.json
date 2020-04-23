@@ -1,6 +1,14 @@
 {
   "id": "headband",
-  "name": "Headband",
+  "name": {
+    "de": "Haarturban",
+    "en-GB": "Headband",
+    "en-US": "Headband",
+    "es": "Cinta para el pelo",
+    "fr": "Bandeau de sport",
+    "it": "Fascia",
+    "ja": "ヘアターバン"
+  },
   "category": "Hats",
   "games": {
     "nl": {

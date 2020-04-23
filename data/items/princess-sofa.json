@@ -1,6 +1,14 @@
 {
   "id": "princess-sofa",
-  "name": "Princess Sofa",
+  "name": {
+    "de": "Prachtsofa",
+    "en-GB": "Princess Sofa",
+    "en-US": "Princess Sofa",
+    "es": "Sofá princesa",
+    "fr": "Canapé princesse",
+    "it": "Sofà contessa",
+    "ja": "プリンセスソファ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

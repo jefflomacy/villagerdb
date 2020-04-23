@@ -1,6 +1,14 @@
 {
   "id": "star-hairpin",
-  "name": "Star Hairpin",
+  "name": {
+    "de": "Sternhaarnadel",
+    "en-GB": "Star Hairpin",
+    "en-US": "Star Hairpin",
+    "es": "Clip estrella",
+    "fr": "épingle étoile",
+    "it": "Molletta stella",
+    "ja": "ほしのかみかざり"
+  },
   "category": "Hats",
   "games": {
     "nl": {

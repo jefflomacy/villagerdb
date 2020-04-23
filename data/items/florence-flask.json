@@ -1,6 +1,14 @@
 {
   "id": "florence-flask",
-  "name": "Florence Flask",
+  "name": {
+    "de": "Rundkolben",
+    "en-GB": "Florence Flask",
+    "en-US": "Florence Flask",
+    "es": "Psicofrasco",
+    "fr": "Alambic",
+    "it": "Ampolla",
+    "ja": "おおきなフラスコ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

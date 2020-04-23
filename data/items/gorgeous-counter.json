@@ -1,6 +1,14 @@
 {
   "id": "gorgeous-counter",
-  "name": "Gorgeous Counter",
+  "name": {
+    "de": "Luxusanrichte",
+    "en-GB": "Gorgeous Counter",
+    "en-US": "Gorgeous Counter",
+    "es": "Barra palacio",
+    "fr": "Bar somptueux",
+    "it": "Banco divino",
+    "ja": "ゴージャスカウンター"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

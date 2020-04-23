@@ -1,6 +1,14 @@
 {
   "id": "righty-desk",
-  "name": "Righty Desk",
+  "name": {
+    "de": "Pult (rechts)",
+    "en-GB": "Righty Desk",
+    "en-US": "Righty Desk",
+    "es": "Silla diestros",
+    "fr": "Tablette droite",
+    "it": "Sedia banco destr.",
+    "ja": "みぎききデスク"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

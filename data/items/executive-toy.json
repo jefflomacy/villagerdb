@@ -1,6 +1,14 @@
 {
   "id": "executive-toy",
-  "name": "Executive Toy",
+  "name": {
+    "de": "Tischspielzeug",
+    "en-GB": "Executive Toy",
+    "en-US": "Executive Toy",
+    "es": "Juguete bolas",
+    "fr": "Gadget de bureau",
+    "it": "Moto perpetuo",
+    "ja": "アメリカンクラッカー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

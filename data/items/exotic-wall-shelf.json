@@ -1,6 +1,14 @@
 {
   "id": "exotic-wall-shelf",
-  "name": "Exotic Wall Shelf",
+  "name": {
+    "de": "Orient-Wandregal",
+    "en-GB": "Exotic Wall Shelf",
+    "en-US": "Exotic Wall Shelf",
+    "es": "Estan. pared exótico",
+    "fr": "étagère mur teck",
+    "it": "Mensola esotica",
+    "ja": "アジアなウォールシェルフ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

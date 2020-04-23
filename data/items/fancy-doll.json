@@ -1,6 +1,14 @@
 {
   "id": "fancy-doll",
-  "name": "Fancy Doll",
+  "name": {
+    "de": "Barockpuppe",
+    "en-GB": "Fancy Doll",
+    "en-US": "Fancy Doll",
+    "es": "Muñeca de princesa",
+    "fr": "Poupée de princesse",
+    "it": "Bambola principessa",
+    "ja": "フランスにんぎょう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "unknown-machine",
-  "name": "Unknown Machine",
+  "name": {
+    "de": "Energiemaschine",
+    "en-GB": "Unknown Machine",
+    "en-US": "Unknown Machine",
+    "es": "Psicointerruptor",
+    "fr": "Machine inconnue",
+    "it": "Macchina ignota",
+    "ja": "よくわからないキカイ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

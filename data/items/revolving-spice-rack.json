@@ -1,6 +1,14 @@
 {
   "id": "revolving-spice-rack",
-  "name": "Revolving Spice Rack",
+  "name": {
+    "de": "Gewürzständer",
+    "en-GB": "Revolving Spice Rack",
+    "en-US": "Revolving Spice Rack",
+    "es": "Especiero giratorio",
+    "fr": "Tourniquet à épices",
+    "it": "Portaspezie rotante",
+    "ja": "ちょうみりょういれ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

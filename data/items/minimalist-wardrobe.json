@@ -1,6 +1,14 @@
 {
   "id": "minimalist-wardrobe",
-  "name": "Minimalist Wardrobe",
+  "name": {
+    "de": "Minimalschrank",
+    "en-GB": "Minimalist Wardrobe",
+    "en-US": "Minimalist Wardrobe",
+    "es": "Armario minimalista",
+    "fr": "Armoire minimaliste",
+    "it": "Armadio minimalista",
+    "ja": "シンプルなクロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

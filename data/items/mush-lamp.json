@@ -1,6 +1,14 @@
 {
   "id": "mush-lamp",
-  "name": "Mush Lamp",
+  "name": {
+    "de": "Pilzlampe",
+    "en-GB": "Mush Lamp",
+    "en-US": "Mush Lamp",
+    "es": "Lámpara hongo",
+    "fr": "Lampe champi",
+    "it": "Lampada fungo",
+    "ja": "きのこのランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "bubble-tee",
-  "name": "Bubble Tee",
+  "name": {
+    "de": "Wassershirt",
+    "en-GB": "Bubble Tee",
+    "en-US": "Bubble Tee",
+    "es": "Camiseta burbujas",
+    "fr": "T-shirt bulles",
+    "it": "Maglietta bollicine",
+    "ja": "バブルなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

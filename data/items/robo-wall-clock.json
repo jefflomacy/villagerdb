@@ -1,6 +1,14 @@
 {
   "id": "robo-wall-clock",
-  "name": "Robo-wall Clock",
+  "name": {
+    "de": "Robo-Wanduhr",
+    "en-GB": "Robo-Wall Clock",
+    "en-US": "Robo-Wall Clock",
+    "es": "Roboloj de pared",
+    "fr": "Horloge mur robot",
+    "it": "Robo-orologio a muro",
+    "ja": "ロボウォールクロック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "white-patent-shoes",
-  "name": "White Patent Shoes",
+  "name": {
+    "de": "Lackschuh",
+    "en-GB": "White Patent Shoes",
+    "en-US": "White Patent Shoes",
+    "es": "Zapato lazo negro",
+    "fr": "P. sandales blanches",
+    "it": "P. scarpe di vernice",
+    "ja": "しろいエナメルシューズ"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

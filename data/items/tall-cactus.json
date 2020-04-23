@@ -1,6 +1,14 @@
 {
   "id": "tall-cactus",
-  "name": "Tall Cactus",
+  "name": {
+    "de": "Langkaktus",
+    "en-GB": "Tall Cactus",
+    "en-US": "Tall Cactus",
+    "es": "Cactus alto",
+    "fr": "Grand cactus",
+    "it": "Cactus alto",
+    "ja": "たてながサボテン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

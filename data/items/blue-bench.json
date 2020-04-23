@@ -1,6 +1,14 @@
 {
   "id": "blue-bench",
-  "name": "Blue Bench",
+  "name": {
+    "de": "Azurbank",
+    "en-GB": "Blue Bench",
+    "en-US": "Blue Bench",
+    "es": "Banco azul",
+    "fr": "Banc bleu",
+    "it": "Panca blu",
+    "ja": "あおいベンチ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "dress-socks",
-  "name": "Dress Socks",
+  "name": {
+    "de": "Schwarzsocke",
+    "en-GB": "Dress Socks",
+    "en-US": "Dress Socks",
+    "es": "Calcetín ejecutivo",
+    "fr": "P. chausset. costume",
+    "it": "Paio calzini formali",
+    "ja": "つうきんソックス"
+  },
   "category": "Socks",
   "games": {
     "nl": {

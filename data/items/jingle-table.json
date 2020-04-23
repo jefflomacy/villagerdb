@@ -1,6 +1,14 @@
 {
   "id": "jingle-table",
-  "name": "Jingle Table",
+  "name": {
+    "de": "Festtagstisch",
+    "en-GB": "Jingle Table",
+    "en-US": "Jingle Table",
+    "es": "Mesa festiva",
+    "fr": "Table festive",
+    "it": "Tavolo Jingle",
+    "ja": "クリスマステーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

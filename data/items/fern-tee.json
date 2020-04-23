@@ -1,6 +1,14 @@
 {
   "id": "fern-tee",
-  "name": "Fern Tee",
+  "name": {
+    "de": "Farnshirt",
+    "en-GB": "Fern Tee",
+    "en-US": "Fern Tee",
+    "es": "Camiseta helechos",
+    "fr": "T-shirt fougère",
+    "it": "Maglietta felce",
+    "ja": "はっぱがらのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

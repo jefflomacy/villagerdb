@@ -1,6 +1,14 @@
 {
   "id": "barbecue-bed",
-  "name": "Barbecue Bed",
+  "name": {
+    "de": "Grillfleisch-Bett",
+    "en-GB": "Barbecue Bed",
+    "en-US": "Barbecue Bed",
+    "es": "Cama barbacoa",
+    "fr": "Lit lasagnes",
+    "it": "Letto lasagne",
+    "ja": "ねぎしおぶたカルビベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

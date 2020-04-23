@@ -1,6 +1,14 @@
 {
   "id": "alpine-low-table",
-  "name": "Alpine Low Table",
+  "name": {
+    "de": "Nord-Sofatisch",
+    "en-GB": "Alpine Low Table",
+    "en-US": "Alpine Low Table",
+    "es": "Mesita nórdica",
+    "fr": "Table basse nordique",
+    "it": "Tavolino nordico",
+    "ja": "スカンジナビアテーブルM"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

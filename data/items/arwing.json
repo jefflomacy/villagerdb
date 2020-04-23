@@ -1,6 +1,14 @@
 {
   "id": "arwing",
-  "name": "Arwing",
+  "name": {
+    "de": "Arwing",
+    "en-GB": "Arwing",
+    "en-US": "Arwing",
+    "es": "Arwing",
+    "fr": "Arwing",
+    "it": "Arwing",
+    "ja": "アーウィン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "shower",
-  "name": "Shower",
+  "name": {
+    "de": "Dusche",
+    "en-GB": "Shower",
+    "en-US": "Shower",
+    "es": "Ducha",
+    "fr": "Douche",
+    "it": "Doccia",
+    "ja": "シャワー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "scale-print-tee",
-  "name": "Scale-print Tee",
+  "name": {
+    "de": "Schuppenshirt",
+    "en-GB": "Scale-Print Tee",
+    "en-US": "Scale-Print Tee",
+    "es": "Camiseta escamas",
+    "fr": "T-shirt écailles",
+    "it": "Maglietta a squame",
+    "ja": "せいがいはのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

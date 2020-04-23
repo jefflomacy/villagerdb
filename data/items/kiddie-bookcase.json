@@ -1,6 +1,14 @@
 {
   "id": "kiddie-bookcase",
-  "name": "Kiddie Bookcase",
+  "name": {
+    "de": "Kinderregal",
+    "en-GB": "Kiddie Bookcase",
+    "en-US": "Kiddie Bookcase",
+    "es": "Librería puzle",
+    "fr": "étagère enfant",
+    "it": "Libreria bimbi",
+    "ja": "カラフルなほんだな"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

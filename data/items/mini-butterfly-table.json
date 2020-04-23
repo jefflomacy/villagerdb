@@ -1,6 +1,14 @@
 {
   "id": "mini-butterfly-table",
-  "name": "Mini Butterfly Table",
+  "name": {
+    "de": "Schmetterlingstisch",
+    "en-GB": "Mini Butterfly Table",
+    "en-US": "Mini Butterfly Table",
+    "es": "Mesa mariposa",
+    "fr": "Table papillon",
+    "it": "Tavolino farfalla",
+    "ja": "バタフライなテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

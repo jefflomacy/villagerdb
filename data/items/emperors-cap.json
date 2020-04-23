@@ -1,6 +1,14 @@
 {
   "id": "emperors-cap",
-  "name": "Emperor's Cap",
+  "name": {
+    "de": "Kaiserhut",
+    "en-GB": "Emperor's Cap",
+    "en-US": "Emperor's Cap",
+    "es": "Gorro de emperador",
+    "fr": "Chapeau impérial",
+    "it": "Cappello imperatore",
+    "ja": "おだいりさま"
+  },
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "blue-cap",
-  "name": "Blue Cap",
+  "name": {
+    "de": "Blaumütze",
+    "en-GB": "Blue Cap",
+    "en-US": "Blue Cap",
+    "es": "Gorra azul",
+    "fr": "Casquette bleu foncé",
+    "it": "Cappello blu",
+    "ja": "あおいキャップ"
+  },
   "category": "Hats",
   "games": {
     "nl": {

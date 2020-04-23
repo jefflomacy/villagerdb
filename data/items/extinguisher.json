@@ -1,6 +1,14 @@
 {
   "id": "extinguisher",
-  "name": "Extinguisher",
+  "name": {
+    "de": "Feuerlöscher",
+    "en-GB": "Extinguisher",
+    "en-US": "Extinguisher",
+    "es": "Extintor",
+    "fr": "Extincteur",
+    "it": "Estintore",
+    "ja": "しょうかき"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

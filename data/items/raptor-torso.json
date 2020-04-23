@@ -1,6 +1,14 @@
 {
   "id": "raptor-torso",
-  "name": "Raptor Torso",
+  "name": {
+    "de": "Velociraptor-Torso",
+    "en-GB": "Raptor Torso",
+    "en-US": "Raptor Torso",
+    "es": "Cuerpo velocirraptor",
+    "fr": "Corps de raptor",
+    "it": "Torso velociraptor",
+    "ja": "ラプターのからだ"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

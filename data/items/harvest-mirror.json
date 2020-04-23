@@ -1,6 +1,14 @@
 {
   "id": "harvest-mirror",
-  "name": "Harvest Mirror",
+  "name": {
+    "de": "Herbstspiegel",
+    "en-GB": "Harvest Mirror",
+    "en-US": "Harvest Mirror",
+    "es": "Tocador pavo",
+    "fr": "Coiffeuse dindon",
+    "it": "Specchio autunno",
+    "ja": "ハーベストドレッサー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "regal-bookcase",
-  "name": "Regal Bookcase",
+  "name": {
+    "de": "Royalvitrine",
+    "en-GB": "Regal Bookcase",
+    "en-US": "Regal Bookcase",
+    "es": "Librería regia",
+    "fr": "Vitrine royale",
+    "it": "Libreria chic",
+    "ja": "ロイヤルなほんだな"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

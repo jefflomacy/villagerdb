@@ -1,6 +1,14 @@
 {
   "id": "24-hour-shop-sign",
-  "name": "24-hour-shop Sign",
+  "name": {
+    "de": "Supermarktschild",
+    "en-GB": "24-Hour-Shop Sign",
+    "en-US": "24-Hour-Shop Sign",
+    "es": "Cartel súper",
+    "fr": "Enseigne d'épicerie",
+    "it": "Cartello supermarket",
+    "ja": "コンビニのかんばん"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

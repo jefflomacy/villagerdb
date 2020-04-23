@@ -1,6 +1,14 @@
 {
   "id": "stripe-sofa",
-  "name": "Stripe Sofa",
+  "name": {
+    "de": "Streifensofa",
+    "en-GB": "Stripe Sofa",
+    "en-US": "Stripe Sofa",
+    "es": "Sofá rayas",
+    "fr": "Canapé rayures",
+    "it": "Sofà strisce",
+    "ja": "ストライプなソファ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

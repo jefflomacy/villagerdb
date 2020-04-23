@@ -1,6 +1,14 @@
 {
   "id": "fire-flower",
-  "name": "Fire Flower",
+  "name": {
+    "de": "Feuerblume",
+    "en-GB": "Fire Flower",
+    "en-US": "Fire Flower",
+    "es": "Flor de fuego",
+    "fr": "Fleur de feu",
+    "it": "Fiore di fuoco",
+    "ja": "ファイアフラワー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

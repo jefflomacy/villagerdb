@@ -1,6 +1,14 @@
 {
   "id": "capricorn-ornament",
-  "name": "Capricorn Ornament",
+  "name": {
+    "de": "Steinbock-Skulptur",
+    "en-GB": "Capricorn Ornament",
+    "en-US": "Capricorn Ornament",
+    "es": "Estatua Capricornio",
+    "fr": "Statue Capricorne",
+    "it": "Statua Capricorno",
+    "ja": "カプリコーンのおきもの"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

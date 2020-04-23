@@ -1,6 +1,14 @@
 {
   "id": "wooden-clogs",
-  "name": "Wooden Clogs",
+  "name": {
+    "de": "Holzpantoffel",
+    "en-GB": "Wooden Clogs",
+    "en-US": "Wooden Clogs",
+    "es": "Zueco florido",
+    "fr": "Paire sabots décorés",
+    "it": "P. zoccoli di legno",
+    "ja": "きぐつ"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

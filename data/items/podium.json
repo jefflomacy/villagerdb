@@ -1,6 +1,14 @@
 {
   "id": "podium",
-  "name": "Podium",
+  "name": {
+    "de": "Lehrerpult",
+    "en-GB": "Podium",
+    "en-US": "Podium",
+    "es": "Escritorio profe",
+    "fr": "Bureau de professeur",
+    "it": "Cattedra",
+    "ja": "きょうたく"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "knights-helmet",
-  "name": "Knight's Helmet",
+  "name": {
+    "de": "Ritterhelm",
+    "en-GB": "Knight's Helmet",
+    "en-US": "Knight's Helmet",
+    "es": "Yelmo",
+    "fr": "Casque de chevalier",
+    "it": "Elmo medievale",
+    "ja": "てっかめん"
+  },
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "denim-jacket",
-  "name": "Denim Jacket",
+  "name": {
+    "de": "Bluejeansjacke",
+    "en-GB": "Denim Jacket",
+    "en-US": "Denim Jacket",
+    "es": "Chaqueta vaquera",
+    "fr": "Veste en jean",
+    "it": "Camicia di jeans",
+    "ja": "デニムジャケット"
+  },
   "category": "Tops",
   "games": {
     "nl": {

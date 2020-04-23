@@ -1,6 +1,14 @@
 {
   "id": "apato-torso",
-  "name": "Apato Torso",
+  "name": {
+    "de": "Apatosaurus-Torso",
+    "en-GB": "Apato Torso",
+    "en-US": "Apato Torso",
+    "es": "Cuerpo apatosaurio",
+    "fr": "Corps d'apatosaure",
+    "it": "Torso brontosauro",
+    "ja": "アパトサウルスのからだ"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "polka-dot-tv",
-  "name": "Polka-dot TV",
+  "name": {
+    "de": "Pünktchenfernseher",
+    "en-GB": "Polka-Dot TV",
+    "en-US": "Polka-Dot TV",
+    "es": "Tele topos",
+    "fr": "Télé à pois rouge",
+    "it": "TV pois",
+    "ja": "みずたまなテレビ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

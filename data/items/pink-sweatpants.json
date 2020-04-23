@@ -1,6 +1,14 @@
 {
   "id": "pink-sweatpants",
-  "name": "Pink Sweatpants",
+  "name": {
+    "de": "Aerobic-Hose",
+    "en-GB": "Pink Sweatpants",
+    "en-US": "Pink Sweatpants",
+    "es": "Pantalón cómodo rosa",
+    "fr": "Pantalon rose",
+    "it": "Pantalone tuta rosa",
+    "ja": "ピンクのスウェットパンツ"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

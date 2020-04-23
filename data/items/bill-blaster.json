@@ -1,6 +1,14 @@
 {
   "id": "bill-blaster",
-  "name": "Bill Blaster",
+  "name": {
+    "de": "Willi-Kanone",
+    "en-GB": "Bill Blaster",
+    "en-US": "Bill Blaster",
+    "es": "Cañón Bill",
+    "fr": "Bill Boum",
+    "it": "Cannone Bill",
+    "ja": "キラーほうだい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

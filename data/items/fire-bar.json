@@ -1,6 +1,14 @@
 {
   "id": "fire-bar",
-  "name": "Fire Bar",
+  "name": {
+    "de": "Feuerbarriere",
+    "en-GB": "Fire Bar",
+    "en-US": "Fire Bar",
+    "es": "Barrera de fuego",
+    "fr": "Barre de feu",
+    "it": "Barra infuocata",
+    "ja": "ファイアバー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

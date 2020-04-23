@@ -1,6 +1,14 @@
 {
   "id": "mvp-shirt",
-  "name": "Mvp Shirt",
+  "name": {
+    "de": "MVP-Pulli",
+    "en-GB": "MVP Shirt",
+    "en-US": "MVP Shirt",
+    "es": "Jersey MVP",
+    "fr": "Pull MVP",
+    "it": "Maglia MVP",
+    "ja": "MVPロングTシャツ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

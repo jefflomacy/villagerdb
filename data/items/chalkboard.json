@@ -1,6 +1,14 @@
 {
   "id": "chalkboard",
-  "name": "Chalkboard",
+  "name": {
+    "de": "Tafel",
+    "en-GB": "Chalkboard",
+    "en-US": "Chalkboard",
+    "es": "Pizarra",
+    "fr": "Tableau noir",
+    "it": "Lavagna",
+    "ja": "こくばん"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

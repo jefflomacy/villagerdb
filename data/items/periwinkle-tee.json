@@ -1,6 +1,14 @@
 {
   "id": "periwinkle-tee",
-  "name": "Periwinkle Tee",
+  "name": {
+    "de": "Östlich-Shirt",
+    "en-GB": "Periwinkle Tee",
+    "en-US": "Periwinkle Tee",
+    "es": "Camiseta asiática",
+    "fr": "T-shirt Asie",
+    "it": "Maglietta asiatica",
+    "ja": "アジアなあおいふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

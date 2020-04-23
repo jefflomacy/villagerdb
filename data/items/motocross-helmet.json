@@ -1,6 +1,14 @@
 {
   "id": "motocross-helmet",
-  "name": "Motocross Helmet",
+  "name": {
+    "de": "Motorradhelm",
+    "en-GB": "Motocross Helmet",
+    "en-US": "Motocross Helmet",
+    "es": "Casco de motocross",
+    "fr": "Casque de motocross",
+    "it": "Casco motocross",
+    "ja": "モトクロスメット"
+  },
   "category": "Hats",
   "games": {
     "nl": {

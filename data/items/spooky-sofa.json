@@ -1,6 +1,14 @@
 {
   "id": "spooky-sofa",
-  "name": "Spooky Sofa",
+  "name": {
+    "de": "Kürbissofa",
+    "en-GB": "Spooky Sofa",
+    "en-US": "Spooky Sofa",
+    "es": "Sofá calabaza",
+    "fr": "Sofa Halloween",
+    "it": "Sofà brividi",
+    "ja": "ハロウィンソファ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

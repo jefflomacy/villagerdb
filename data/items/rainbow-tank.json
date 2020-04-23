@@ -1,6 +1,14 @@
 {
   "id": "rainbow-tank",
-  "name": "Rainbow Tank",
+  "name": {
+    "de": "Iris-Top",
+    "en-GB": "Rainbow Tank",
+    "en-US": "Rainbow Tank",
+    "es": "Top arcoíris",
+    "fr": "Débardeur irisé",
+    "it": "Canotta arcobaleno",
+    "ja": "レインボーなふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

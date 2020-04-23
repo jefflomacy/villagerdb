@@ -1,6 +1,14 @@
 {
   "id": "conga-drum",
-  "name": "Conga Drum",
+  "name": {
+    "de": "Kongatrommel",
+    "en-GB": "Conga Drum",
+    "en-US": "Conga Drum",
+    "es": "Tambor conga",
+    "fr": "Conga",
+    "it": "Conga",
+    "ja": "コンガ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

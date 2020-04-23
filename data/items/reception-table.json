@@ -1,6 +1,14 @@
 {
   "id": "reception-table",
-  "name": "Reception Table",
+  "name": {
+    "de": "Empfangstisch",
+    "en-GB": "Reception Table",
+    "en-US": "Reception Table",
+    "es": "Mesa de recepción",
+    "fr": "Table d'accueil",
+    "it": "Tavolo accoglienza",
+    "ja": "うけつけテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

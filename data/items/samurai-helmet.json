@@ -1,6 +1,14 @@
 {
   "id": "samurai-helmet",
-  "name": "Samurai Helmet",
+  "name": {
+    "de": "Samuraihelm",
+    "en-GB": "Samurai Helmet",
+    "en-US": "Samurai Helmet",
+    "es": "Casco samurái",
+    "fr": "Casque de samouraï",
+    "it": "Elmo samurai",
+    "ja": "かぶと"
+  },
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "rugby-tee",
-  "name": "Rugby Tee",
+  "name": {
+    "de": "Rugby-Shirt",
+    "en-GB": "Rugby Tee",
+    "en-US": "Rugby Tee",
+    "es": "Camiseta rugby",
+    "fr": "T-shirt rugby",
+    "it": "Maglietta rugby",
+    "ja": "めだつボーダーのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

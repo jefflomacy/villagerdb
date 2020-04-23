@@ -1,6 +1,14 @@
 {
   "id": "bug-zapper",
-  "name": "Bug Zapper",
+  "name": {
+    "de": "Insektenfänger",
+    "en-GB": "Bug Zapper",
+    "en-US": "Bug Zapper",
+    "es": "Matabichos",
+    "fr": "Anti-moustiques",
+    "it": "Lampada insetticida",
+    "ja": "ゆうがとう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

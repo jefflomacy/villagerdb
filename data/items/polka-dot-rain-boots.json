@@ -1,6 +1,14 @@
 {
   "id": "polka-dot-rain-boots",
-  "name": "Polka-dot Rain Boots",
+  "name": {
+    "de": "Fliegenpilzstiefel",
+    "en-GB": "Polka-Dot Rain Boots",
+    "en-US": "Polka-Dot Rain Boots",
+    "es": "Katiuska topos",
+    "fr": "P. bottes pluie pois",
+    "it": "Paio stivali rossi",
+    "ja": "みずたまレインブーツ"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

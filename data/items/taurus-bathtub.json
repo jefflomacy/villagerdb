@@ -1,6 +1,14 @@
 {
   "id": "taurus-bathtub",
-  "name": "Taurus Bathtub",
+  "name": {
+    "de": "Stier-Badewanne",
+    "en-GB": "Taurus Bathtub",
+    "en-US": "Taurus Bathtub",
+    "es": "Bañera Tauro",
+    "fr": "Baignoire Taureau",
+    "it": "Vasca da bagno Toro",
+    "ja": "タウラスのバスタブ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

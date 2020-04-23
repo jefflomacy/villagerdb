@@ -1,6 +1,14 @@
 {
   "id": "range",
-  "name": "Range",
+  "name": {
+    "de": "Kochherd",
+    "en-GB": "Range",
+    "en-US": "Range",
+    "es": "Cocina eléctrica",
+    "fr": "Four",
+    "it": "Cucinino",
+    "ja": "コンロだい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

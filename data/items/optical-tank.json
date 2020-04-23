@@ -1,6 +1,14 @@
 {
   "id": "optical-tank",
-  "name": "Optical Tank",
+  "name": {
+    "de": "Optik-Top",
+    "en-GB": "Optical Tank",
+    "en-US": "Optical Tank",
+    "es": "Top óptico",
+    "fr": "Débardeur optique",
+    "it": "Canotta optical",
+    "ja": "オプティカルなふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

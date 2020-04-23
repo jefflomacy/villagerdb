@@ -1,6 +1,14 @@
 {
   "id": "jester-shirt",
-  "name": "Jester Shirt",
+  "name": {
+    "de": "Narrenpulli",
+    "en-GB": "Jester Shirt",
+    "en-US": "Jester Shirt",
+    "es": "Jersey de bufón",
+    "fr": "Pull bouffon",
+    "it": "Maglia giullare",
+    "ja": "ピエロのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

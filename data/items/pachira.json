@@ -1,6 +1,14 @@
 {
   "id": "pachira",
-  "name": "Pachira",
+  "name": {
+    "de": "Pachira",
+    "en-GB": "Pachira",
+    "en-US": "Pachira",
+    "es": "Pachira",
+    "fr": "Pachira",
+    "it": "Pachira",
+    "ja": "パキラ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

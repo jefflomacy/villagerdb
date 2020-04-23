@@ -1,6 +1,14 @@
 {
   "id": "camel-shirt",
-  "name": "Camel Shirt",
+  "name": {
+    "de": "Kameljacke",
+    "en-GB": "Camel Shirt",
+    "en-US": "Camel Shirt",
+    "es": "Jersey safari",
+    "fr": "Pull chameau",
+    "it": "Giacca contadina",
+    "ja": "らくだいろのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

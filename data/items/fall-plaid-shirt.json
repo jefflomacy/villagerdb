@@ -1,6 +1,14 @@
 {
   "id": "fall-plaid-shirt",
-  "name": "Fall Plaid Shirt",
+  "name": {
+    "de": "Herbstpulli",
+    "en-GB": "Fall Plaid Shirt",
+    "en-US": "Fall Plaid Shirt",
+    "es": "Jersey tartán lila",
+    "fr": "Pull automne",
+    "it": "Maglia autunnale",
+    "ja": "あきのタータンのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

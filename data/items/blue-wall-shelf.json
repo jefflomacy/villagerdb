@@ -1,6 +1,14 @@
 {
   "id": "blue-wall-shelf",
-  "name": "Blue Wall Shelf",
+  "name": {
+    "de": "Azurwandregal",
+    "en-GB": "Blue Wall Shelf",
+    "en-US": "Blue Wall Shelf",
+    "es": "Estante pared azul",
+    "fr": "étagère mur bleue",
+    "it": "Mensola blu",
+    "ja": "あおいウォールシェルフ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

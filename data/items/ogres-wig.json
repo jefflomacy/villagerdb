@@ -1,6 +1,14 @@
 {
   "id": "ogres-wig",
-  "name": "Ogre's Wig",
+  "name": {
+    "de": "Oger-Perücke",
+    "en-GB": "Ogre's Wig",
+    "en-US": "Ogre's Wig",
+    "es": "Peluca de ogro",
+    "fr": "Perruque d'ogre",
+    "it": "Parr. spirito malv.",
+    "ja": "オニのかぶりもの"
+  },
   "category": "Hats",
   "games": {
     "nl": {

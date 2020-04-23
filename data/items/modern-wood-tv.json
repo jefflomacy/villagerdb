@@ -1,6 +1,14 @@
 {
   "id": "modern-wood-tv",
-  "name": "Modern Wood Tv",
+  "name": {
+    "de": "Buntholzfernseher",
+    "en-GB": "Modern Wood TV",
+    "en-US": "Modern Wood TV",
+    "es": "Tele listones",
+    "fr": "Télé bois moderne",
+    "it": "TV legno",
+    "ja": "ミックスウッドのテレビ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

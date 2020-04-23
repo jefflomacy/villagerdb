@@ -1,6 +1,14 @@
 {
   "id": "painting-set",
-  "name": "Painting Set",
+  "name": {
+    "de": "Malset",
+    "en-GB": "Painting Set",
+    "en-US": "Painting Set",
+    "es": "Kit de pintura",
+    "fr": "Set de peinture",
+    "it": "Set da pittura",
+    "ja": "おえかきセット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "hiking-gaiters",
-  "name": "Hiking Gaiters",
+  "name": {
+    "de": "Wanderstrumpf",
+    "en-GB": "Hiking Gaiters",
+    "en-US": "Hiking Gaiters",
+    "es": "Calcetín montaña",
+    "fr": "Paire chauss. rando",
+    "it": "P. calze da trekking",
+    "ja": "とざんタイツ"
+  },
   "category": "Socks",
   "games": {
     "nl": {

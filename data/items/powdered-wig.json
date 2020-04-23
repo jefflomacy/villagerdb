@@ -1,6 +1,14 @@
 {
   "id": "powdered-wig",
-  "name": "Powdered Wig",
+  "name": {
+    "de": "Richterperücke",
+    "en-GB": "Powdered Wig",
+    "en-US": "Powdered Wig",
+    "es": "Pelucón",
+    "fr": "Perruque noble",
+    "it": "Parrucca bianca",
+    "ja": "おんがくかのかつら"
+  },
   "category": "Hats",
   "games": {
     "nl": {

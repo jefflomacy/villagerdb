@@ -1,6 +1,14 @@
 {
   "id": "green-emblem-blazer",
-  "name": "Green Emblem Blazer",
+  "name": {
+    "de": "Grün-Blazer",
+    "en-GB": "Green Emblem Blazer",
+    "en-US": "Green Emblem Blazer",
+    "es": "Americana verde",
+    "fr": "Blazer emblème vert",
+    "it": "Giacca divisa verde",
+    "ja": "みどりのブレザー"
+  },
   "category": "Tops",
   "games": {
     "nl": {

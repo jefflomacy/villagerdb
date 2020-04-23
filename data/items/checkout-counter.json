@@ -1,6 +1,14 @@
 {
   "id": "checkout-counter",
-  "name": "Checkout Counter",
+  "name": {
+    "de": "Hoteltresen",
+    "en-GB": "Checkout Counter",
+    "en-US": "Checkout Counter",
+    "es": "Mostrador",
+    "fr": "Comptoir",
+    "it": "Sportello cassa",
+    "ja": "レジカウンター"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

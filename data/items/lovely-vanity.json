@@ -1,6 +1,14 @@
 {
   "id": "lovely-vanity",
-  "name": "Lovely Vanity",
+  "name": {
+    "de": "Herzchenspiegel",
+    "en-GB": "Lovely Vanity",
+    "en-US": "Lovely Vanity",
+    "es": "Tocador corazón",
+    "fr": "Coiffeuse c\\u0153ur",
+    "it": "Toletta cuori",
+    "ja": "ラブリードレッサー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

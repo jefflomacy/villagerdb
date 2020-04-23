@@ -1,6 +1,14 @@
 {
   "id": "skull-tee",
-  "name": "Skull Tee",
+  "name": {
+    "de": "Schädelshirt",
+    "en-GB": "Skull Tee",
+    "en-US": "Skull Tee",
+    "es": "Camiseta pirata",
+    "fr": "T-shirt crâne",
+    "it": "Maglietta teschio",
+    "ja": "ドクロのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "standing-spotlight",
-  "name": "Standing Spotlight",
+  "name": {
+    "de": "Standscheinwerfer",
+    "en-GB": "Standing Spotlight",
+    "en-US": "Standing Spotlight",
+    "es": "Foco trípode",
+    "fr": "Projecteur sur pied",
+    "it": "Riflettore grande",
+    "ja": "スポットライトL"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

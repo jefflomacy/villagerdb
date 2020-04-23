@@ -1,6 +1,14 @@
 {
   "id": "holly-bonsai",
-  "name": "Holly Bonsai",
+  "name": {
+    "de": "Palmen-Bonsai",
+    "en-GB": "Holly Bonsai",
+    "en-US": "Holly Bonsai",
+    "es": "Acebo bonsái",
+    "fr": "Bonsaï houx",
+    "it": "Bonsai agrifoglio",
+    "ja": "ウメモドキのぼんさい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

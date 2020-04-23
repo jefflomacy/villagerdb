@@ -1,6 +1,14 @@
 {
   "id": "swimming-cap",
-  "name": "Swimming Cap",
+  "name": {
+    "de": "Schwimmkappe",
+    "en-GB": "Swimming Cap",
+    "en-US": "Swimming Cap",
+    "es": "Gorro piscina",
+    "fr": "Bonnet de natation",
+    "it": "Cuffia nuoto",
+    "ja": "すいえいキャップ"
+  },
   "category": "Hats",
   "games": {
     "nl": {

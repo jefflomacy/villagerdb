@@ -1,6 +1,14 @@
 {
   "id": "work-shirt",
-  "name": "Work Shirt",
+  "name": {
+    "de": "Bürohemd",
+    "en-GB": "Work Shirt",
+    "en-US": "Work Shirt",
+    "es": "Camisa con corbata",
+    "fr": "Chemise bureau",
+    "it": "Camicia da ufficio",
+    "ja": "ネクタイつきワイシャツ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "dartboard",
-  "name": "Dartboard",
+  "name": {
+    "de": "Dartbrett",
+    "en-GB": "Dartboard",
+    "en-US": "Dartboard",
+    "es": "Máquina dardos",
+    "fr": "Jeu de fléchettes",
+    "it": "Bersaglio freccette",
+    "ja": "ダーツボード"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

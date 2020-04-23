@@ -1,6 +1,14 @@
 {
   "id": "star-tights",
-  "name": "Star Tights",
+  "name": {
+    "de": "Sternstrumpfhose",
+    "en-GB": "Star Tights",
+    "en-US": "Star Tights",
+    "es": "Media estrellas",
+    "fr": "Collant étoiles",
+    "it": "Paio calze marroni",
+    "ja": "スターなタイツ"
+  },
   "category": "Socks",
   "games": {
     "nl": {

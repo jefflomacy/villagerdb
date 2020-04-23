@@ -1,6 +1,14 @@
 {
   "id": "gas-pump",
-  "name": "Gas Pump",
+  "name": {
+    "de": "Zapfsäule",
+    "en-GB": "Gas Pump",
+    "en-US": "Gas Pump",
+    "es": "Surtidor",
+    "fr": "Pompe à essence",
+    "it": "Pompa benzina",
+    "ja": "きゅうゆき"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

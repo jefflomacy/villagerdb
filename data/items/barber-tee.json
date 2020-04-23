@@ -1,6 +1,14 @@
 {
   "id": "barber-tee",
-  "name": "Barber Tee",
+  "name": {
+    "de": "Friseurshirt",
+    "en-GB": "Barber Tee",
+    "en-US": "Barber Tee",
+    "es": "Camiseta tricolor",
+    "fr": "T-shirt barbier",
+    "it": "Maglietta dolce",
+    "ja": "バーバーなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

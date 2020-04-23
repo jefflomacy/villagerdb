@@ -1,6 +1,14 @@
 {
   "id": "safety-helmet",
-  "name": "Safety Helmet",
+  "name": {
+    "de": "Baustellenhelm",
+    "en-GB": "Safety Helmet",
+    "en-US": "Safety Helmet",
+    "es": "Casco de obra",
+    "fr": "Casque de chantier",
+    "it": "Casco da lavoro",
+    "ja": "あんぜんヘルメット"
+  },
   "category": "Hats",
   "games": {
     "nl": {

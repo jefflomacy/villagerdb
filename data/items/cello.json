@@ -1,6 +1,14 @@
 {
   "id": "cello",
-  "name": "Cello",
+  "name": {
+    "de": "Cello",
+    "en-GB": "Cello",
+    "en-US": "Cello",
+    "es": "Violonchelo",
+    "fr": "Violoncelle",
+    "it": "Violoncello",
+    "ja": "チェロ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "diver-dan",
-  "name": "Diver Dan",
+  "name": {
+    "de": "Taucher Tom",
+    "en-GB": "Diver Dan",
+    "en-US": "Diver Dan",
+    "es": "Traje de buzo",
+    "fr": "Scaphandre",
+    "it": "Scafandro",
+    "ja": "せんすいふく"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

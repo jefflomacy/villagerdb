@@ -1,6 +1,14 @@
 {
   "id": "aqua-polka-tank",
-  "name": "Aqua Polka Tank",
+  "name": {
+    "de": "Tüpfeltop",
+    "en-GB": "Aqua Polka Tank",
+    "en-US": "Aqua Polka Tank",
+    "es": "Top aqua",
+    "fr": "Débardeur pois cyan",
+    "it": "Canotta blu a pois",
+    "ja": "あおみずたまのふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

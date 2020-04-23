@@ -1,6 +1,14 @@
 {
   "id": "cherry-blossom-clock",
-  "name": "Cherry-blossom Clock",
+  "name": {
+    "de": "Kirschblütenuhr",
+    "en-GB": "Cherry-Blossom Clock",
+    "en-US": "Cherry-Blossom Clock",
+    "es": "Reloj flor de cerezo",
+    "fr": "Horloge cerisier",
+    "it": "Orol. fiore ciliegio",
+    "ja": "さくらクロック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

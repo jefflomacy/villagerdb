@@ -1,6 +1,14 @@
 {
   "id": "strawberry-tank",
-  "name": "Strawberry Tank",
+  "name": {
+    "de": "Erdbeertop",
+    "en-GB": "Strawberry Tank",
+    "en-US": "Strawberry Tank",
+    "es": "Top fresa",
+    "fr": "Débardeur fraise",
+    "it": "Canotta fragola",
+    "ja": "いちごのふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

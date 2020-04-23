@@ -1,6 +1,14 @@
 {
   "id": "violin",
-  "name": "Violin",
+  "name": {
+    "de": "Geige",
+    "en-GB": "Violin",
+    "en-US": "Violin",
+    "es": "Viola",
+    "fr": "Violon",
+    "it": "Violino",
+    "ja": "ビオラ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

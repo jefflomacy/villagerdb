@@ -1,6 +1,14 @@
 {
   "id": "eagle-pole",
-  "name": "Eagle Pole",
+  "name": {
+    "de": "Adler-Totempfahl",
+    "en-GB": "Eagle Pole",
+    "en-US": "Eagle Pole",
+    "es": "Tótem águila",
+    "fr": "Totem aigle",
+    "it": "Totem aquila",
+    "ja": "トーテムポール・オヤ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

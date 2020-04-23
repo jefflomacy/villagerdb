@@ -1,6 +1,14 @@
 {
   "id": "outback-hat",
-  "name": "Outback Hat",
+  "name": {
+    "de": "Western-Hut",
+    "en-GB": "Outback Hat",
+    "en-US": "Outback Hat",
+    "es": "Sombrero austral",
+    "fr": "Feutre",
+    "it": "Cappello australiano",
+    "ja": "テンガロンハット"
+  },
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "blue-gym-tee",
-  "name": "Blue Gym Tee",
+  "name": {
+    "de": "Joggingshirt",
+    "en-GB": "Blue Gym Tee",
+    "en-US": "Blue Gym Tee",
+    "es": "Camiseta sport azul",
+    "fr": "T-shirt sport bleu",
+    "it": "Maglietta sport blu",
+    "ja": "あおいたいそうふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

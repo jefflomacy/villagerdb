@@ -1,6 +1,14 @@
 {
   "id": "celebration-hat",
-  "name": "Celebration Hat",
+  "name": {
+    "de": "Zeremonienhut",
+    "en-GB": "Celebration Hat",
+    "en-US": "Celebration Hat",
+    "es": "Gorro venerable",
+    "fr": "Chapeau cérémoniel",
+    "it": "Basco rosso",
+    "ja": "あかいだいこくぼう"
+  },
   "category": "Hats",
   "games": {
     "nl": {

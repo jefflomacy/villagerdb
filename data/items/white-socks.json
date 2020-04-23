@@ -1,6 +1,14 @@
 {
   "id": "white-socks",
-  "name": "White Socks",
+  "name": {
+    "de": "Tennissocke",
+    "en-GB": "White Socks",
+    "en-US": "White Socks",
+    "es": "Calcetín blanco",
+    "fr": "P. chauss. blanches",
+    "it": "Paio calzini bianchi",
+    "ja": "しろいハイソックス"
+  },
   "category": "Socks",
   "games": {
     "nl": {

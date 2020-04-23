@@ -1,6 +1,14 @@
 {
   "id": "tulip-tee",
-  "name": "Tulip Tee",
+  "name": {
+    "de": "Seerosenshirt",
+    "en-GB": "Tulip Tee",
+    "en-US": "Tulip Tee",
+    "es": "Camiseta tulipán",
+    "fr": "T-shirt tulipe",
+    "it": "Maglietta tulipano",
+    "ja": "チューリップのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

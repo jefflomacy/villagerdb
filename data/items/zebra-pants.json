@@ -1,6 +1,14 @@
 {
   "id": "zebra-pants",
-  "name": "Zebra Pants",
+  "name": {
+    "de": "Zebrahose",
+    "en-GB": "Zebra Pants",
+    "en-US": "Zebra Pants",
+    "es": "Pantalón cebra",
+    "fr": "Pantalon zèbre",
+    "it": "Pantalone zebra",
+    "ja": "ゼブラなズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

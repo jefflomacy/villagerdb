@@ -1,6 +1,14 @@
 {
   "id": "karaoke-system",
-  "name": "Karaoke System",
+  "name": {
+    "de": "Karaoke-Set",
+    "en-GB": "Karaoke System",
+    "en-US": "Karaoke System",
+    "es": "Karaoke",
+    "fr": "équipement karaoké",
+    "it": "Impianto per karaoke",
+    "ja": "カラオケセット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

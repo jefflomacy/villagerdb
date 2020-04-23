@@ -1,6 +1,14 @@
 {
   "id": "straw-shirt",
-  "name": "Straw Shirt",
+  "name": {
+    "de": "Strohpulli",
+    "en-GB": "Straw Shirt",
+    "en-US": "Straw Shirt",
+    "es": "Jersey ramitas",
+    "fr": "Pull paille",
+    "it": "Maglia paglia",
+    "ja": "かれくさのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

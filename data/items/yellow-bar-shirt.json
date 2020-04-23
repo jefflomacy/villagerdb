@@ -1,6 +1,14 @@
 {
   "id": "yellow-bar-shirt",
-  "name": "Yellow-bar Shirt",
+  "name": {
+    "de": "Aprikosenpulli",
+    "en-GB": "Yellow-Bar Shirt",
+    "en-US": "Yellow-Bar Shirt",
+    "es": "Jersey toldo ocre",
+    "fr": "Pull raies orange",
+    "it": "Maglia bande gialle",
+    "ja": "きいろボーダーのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "cabana-table",
-  "name": "Cabana Table",
+  "name": {
+    "de": "Korbtisch",
+    "en-GB": "Cabana Table",
+    "en-US": "Cabana Table",
+    "es": "Mesa mimbre",
+    "fr": "Table rotin",
+    "it": "Tavolo vimini",
+    "ja": "リゾートなテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

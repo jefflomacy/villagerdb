@@ -1,6 +1,14 @@
 {
   "id": "shearling-coat",
-  "name": "Shearling Coat",
+  "name": {
+    "de": "Felljacke",
+    "en-GB": "Shearling Coat",
+    "en-US": "Shearling Coat",
+    "es": "Trenca marrón",
+    "fr": "Manteau fourré",
+    "it": "Giacca scamosciata",
+    "ja": "ムートンコート"
+  },
   "category": "Tops",
   "games": {
     "nl": {

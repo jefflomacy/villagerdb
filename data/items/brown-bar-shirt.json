@@ -1,6 +1,14 @@
 {
   "id": "brown-bar-shirt",
-  "name": "Brown-bar Shirt",
+  "name": {
+    "de": "Lieblingspulli",
+    "en-GB": "Brown-Bar Shirt",
+    "en-US": "Brown-Bar Shirt",
+    "es": "Jersey chocolate",
+    "fr": "Pull rayures brun",
+    "it": "Maglia a barre rossa",
+    "ja": "ヒルのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

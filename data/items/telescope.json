@@ -1,6 +1,14 @@
 {
   "id": "telescope",
-  "name": "Telescope",
+  "name": {
+    "de": "Teleskop",
+    "en-GB": "Telescope",
+    "en-US": "Telescope",
+    "es": "Telescopio",
+    "fr": "Télescope",
+    "it": "Telescopio",
+    "ja": "ぼうえんきょう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

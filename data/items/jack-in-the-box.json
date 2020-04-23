@@ -1,6 +1,14 @@
 {
   "id": "jack-in-the-box",
-  "name": "Jack-in-the-box",
+  "name": {
+    "de": "Schachtelkobold",
+    "en-GB": "Jack-In-The-Box",
+    "en-US": "Jack-In-The-Box",
+    "es": "Caja sorpresa",
+    "fr": "Boîte à malice",
+    "it": "Zucca a molla",
+    "ja": "ビックリばこ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

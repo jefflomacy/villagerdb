@@ -1,6 +1,14 @@
 {
   "id": "roman-helmet",
-  "name": "Roman Helmet",
+  "name": {
+    "de": "Legionärshelm",
+    "en-GB": "Roman Helmet",
+    "en-US": "Roman Helmet",
+    "es": "Casco romano",
+    "fr": "Casque romain",
+    "it": "Elmo romano",
+    "ja": "ローマへいのかぶと"
+  },
   "category": "Hats",
   "games": {
     "nl": {

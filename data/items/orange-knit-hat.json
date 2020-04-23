@@ -1,6 +1,14 @@
 {
   "id": "orange-knit-hat",
-  "name": "Orange Knit Hat",
+  "name": {
+    "de": "Strickmütze",
+    "en-GB": "Orange Knit Hat",
+    "en-US": "Orange Knit Hat",
+    "es": "Gorro naranja",
+    "fr": "Bonnet orange",
+    "it": "Berretto arancione",
+    "ja": "オレンジニットぼう"
+  },
   "category": "Hats",
   "games": {
     "nl": {

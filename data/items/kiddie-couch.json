@@ -1,6 +1,14 @@
 {
   "id": "kiddie-couch",
-  "name": "Kiddie Couch",
+  "name": {
+    "de": "Kindersofa",
+    "en-GB": "Kiddie Couch",
+    "en-US": "Kiddie Couch",
+    "es": "Sofá puzle",
+    "fr": "Canapé enfant",
+    "it": "Sofà bimbi",
+    "ja": "カラフルなソファ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

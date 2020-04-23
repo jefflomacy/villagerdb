@@ -1,6 +1,14 @@
 {
   "id": "pink-knit-hat",
-  "name": "Pink Knit Hat",
+  "name": {
+    "de": "Wollmütze",
+    "en-GB": "Pink Knit Hat",
+    "en-US": "Pink Knit Hat",
+    "es": "Gorro rosa",
+    "fr": "Bonnet rose",
+    "it": "Berretto rosa",
+    "ja": "ピンクのニットぼう"
+  },
   "category": "Hats",
   "games": {
     "nl": {

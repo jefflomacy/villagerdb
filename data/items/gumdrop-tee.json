@@ -1,6 +1,14 @@
 {
   "id": "gumdrop-tee",
-  "name": "Gumdrop Tee",
+  "name": {
+    "de": "Kaugummishirt",
+    "en-GB": "Gumdrop Tee",
+    "en-US": "Gumdrop Tee",
+    "es": "Camiseta esferas",
+    "fr": "T-shirt bonbons",
+    "it": "Maglietta gommosa",
+    "ja": "はるのみずたまのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "rococo-shelf",
-  "name": "Rococo Shelf",
+  "name": {
+    "de": "Rokoko-Regal",
+    "en-GB": "Rococo Shelf",
+    "en-US": "Rococo Shelf",
+    "es": "Estantería rococó",
+    "fr": "Bibliothèque rococo",
+    "it": "Libreria rococò",
+    "ja": "ロココなシェルフ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

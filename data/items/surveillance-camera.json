@@ -1,6 +1,14 @@
 {
   "id": "surveillance-camera",
-  "name": "Surveillance Camera",
+  "name": {
+    "de": "Überwachungskamera",
+    "en-GB": "Surveillance Camera",
+    "en-US": "Surveillance Camera",
+    "es": "Cámara de vigilancia",
+    "fr": "Caméra surveillance",
+    "it": "Telecamera sicurezza",
+    "ja": "かんしカメラ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

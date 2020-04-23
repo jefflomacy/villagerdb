@@ -1,6 +1,14 @@
 {
   "id": "iron-frame",
-  "name": "Iron Frame",
+  "name": {
+    "de": "Stahlträger",
+    "en-GB": "Iron Frame",
+    "en-US": "Iron Frame",
+    "es": "Torre de vigas",
+    "fr": "Poutre en fer",
+    "it": "Trave di ferro",
+    "ja": "てっこつ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

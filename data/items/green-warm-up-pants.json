@@ -1,6 +1,14 @@
 {
   "id": "green-warm-up-pants",
-  "name": "Green Warm-up Pants",
+  "name": {
+    "de": "Waldlaufhose",
+    "en-GB": "Green Warm-Up Pants",
+    "en-US": "Green Warm-Up Pants",
+    "es": "Pantalón sport verde",
+    "fr": "Pantalon survêt vert",
+    "it": "Pantalone tuta verde",
+    "ja": "みどりジャージズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

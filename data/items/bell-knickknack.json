@@ -1,6 +1,14 @@
 {
   "id": "bell-knickknack",
-  "name": "Bell Knickknack",
+  "name": {
+    "de": "Bronzeglocke",
+    "en-GB": "Bell Knickknack",
+    "en-US": "Bell Knickknack",
+    "es": "Campana de metal",
+    "fr": "Cloche en bronze",
+    "it": "Campana di metallo",
+    "ja": "かねのおきもの"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

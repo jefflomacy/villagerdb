@@ -1,6 +1,14 @@
 {
   "id": "brown-bar-tee",
-  "name": "Brown-bar Tee",
+  "name": {
+    "de": "Lieblingsshirt",
+    "en-GB": "Brown-Bar Tee",
+    "en-US": "Brown-Bar Tee",
+    "es": "Camiseta chocolate",
+    "fr": "T-shirt rayures brun",
+    "it": "Maglietta barre ocra",
+    "ja": "ヒルのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "spooky-table",
-  "name": "Spooky Table",
+  "name": {
+    "de": "Kürbistisch",
+    "en-GB": "Spooky Table",
+    "en-US": "Spooky Table",
+    "es": "Mesa calabaza",
+    "fr": "Table Halloween",
+    "it": "Tavolo brividi",
+    "ja": "ハロウィンテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "directors-chair",
-  "name": "Director's Chair",
+  "name": {
+    "de": "Regiestuhl",
+    "en-GB": "Director's Chair",
+    "en-US": "Director's Chair",
+    "es": "Silla de director",
+    "fr": "Chaise réalisateur",
+    "it": "Sedia da regista",
+    "ja": "ディレクターチェア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

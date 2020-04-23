@@ -1,6 +1,14 @@
 {
   "id": "pink-argyle-skirt",
-  "name": "Pink Argyle Skirt",
+  "name": {
+    "de": "Rosa-Argyle-Rock",
+    "en-GB": "Pink Argyle Skirt",
+    "en-US": "Pink Argyle Skirt",
+    "es": "Falda pija rosa",
+    "fr": "Jupe écossaise rose",
+    "it": "Gonna a rombi rosa",
+    "ja": "ピンクアーガイルスカート"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

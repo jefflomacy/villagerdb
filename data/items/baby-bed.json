@@ -1,6 +1,14 @@
 {
   "id": "baby-bed",
-  "name": "Baby Bed",
+  "name": {
+    "de": "Babybett",
+    "en-GB": "Baby Bed",
+    "en-US": "Baby Bed",
+    "es": "Cuna",
+    "fr": "Lit bébé",
+    "it": "Lettino",
+    "ja": "ベビーベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

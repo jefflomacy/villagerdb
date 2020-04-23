@@ -1,6 +1,14 @@
 {
   "id": "music-stand",
-  "name": "Music Stand",
+  "name": {
+    "de": "Notenständer",
+    "en-GB": "Music Stand",
+    "en-US": "Music Stand",
+    "es": "Atril partitura",
+    "fr": "Pupitre à partition",
+    "it": "Leggìo per spartiti",
+    "ja": "ふめんだい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

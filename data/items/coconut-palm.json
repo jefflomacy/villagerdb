@@ -1,6 +1,14 @@
 {
   "id": "coconut-palm",
-  "name": "Coconut Palm",
+  "name": {
+    "de": "Kokosnusspalme",
+    "en-GB": "Coconut Palm",
+    "en-US": "Coconut Palm",
+    "es": "Cocotero",
+    "fr": "Cocotier",
+    "it": "Palma da cocco",
+    "ja": "ココヤシ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

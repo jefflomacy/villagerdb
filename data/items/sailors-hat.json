@@ -1,6 +1,14 @@
 {
   "id": "sailors-hat",
-  "name": "Sailor's Hat",
+  "name": {
+    "de": "Matrosenmütze",
+    "en-GB": "Sailor's Hat",
+    "en-US": "Sailor's Hat",
+    "es": "Gorro marinero",
+    "fr": "Bonnet marin",
+    "it": "Cappello marinaio",
+    "ja": "ふなのりのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

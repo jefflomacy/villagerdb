@@ -1,6 +1,14 @@
 {
   "id": "kiddie-bed",
-  "name": "Kiddie Bed",
+  "name": {
+    "de": "Kinderbett",
+    "en-GB": "Kiddie Bed",
+    "en-US": "Kiddie Bed",
+    "es": "Cama puzle",
+    "fr": "Lit enfant",
+    "it": "Letto bimbi",
+    "ja": "カラフルなベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

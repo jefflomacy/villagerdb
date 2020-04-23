@@ -1,6 +1,14 @@
 {
   "id": "cushion",
-  "name": "Cushion",
+  "name": {
+    "de": "Kissen",
+    "en-GB": "Cushion",
+    "en-US": "Cushion",
+    "es": "Cojín",
+    "fr": "Coussin",
+    "it": "Cuscino",
+    "ja": "クッション"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "azalea-stool",
-  "name": "Azalea Stool",
+  "name": {
+    "de": "Azaleenhocker",
+    "en-GB": "Azalea Stool",
+    "en-US": "Azalea Stool",
+    "es": "Taburete azalea",
+    "fr": "Tabouret azalée",
+    "it": "Sgabello azalea",
+    "ja": "ツツジのスツール"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

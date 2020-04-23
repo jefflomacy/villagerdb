@@ -1,6 +1,14 @@
 {
   "id": "ptera-right-wing",
-  "name": "Ptera Right Wing",
+  "name": {
+    "de": "Ptera-Flügel (R)",
+    "en-GB": "Ptera Right Wing",
+    "en-US": "Ptera Right Wing",
+    "es": "Ala dcha. pteranodon",
+    "fr": "Aile droite de ptéra",
+    "it": "Ala dx pterodattilo",
+    "ja": "プテラノドンのうよく"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

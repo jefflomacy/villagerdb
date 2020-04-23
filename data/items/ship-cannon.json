@@ -1,6 +1,14 @@
 {
   "id": "ship-cannon",
-  "name": "Ship Cannon",
+  "name": {
+    "de": "Schiffskanone",
+    "en-GB": "Ship Cannon",
+    "en-US": "Ship Cannon",
+    "es": "Cañón",
+    "fr": "Canon",
+    "it": "Cannone navale",
+    "ja": "たいほう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

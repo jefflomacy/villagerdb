@@ -1,6 +1,14 @@
 {
   "id": "mush-bed",
-  "name": "Mush Bed",
+  "name": {
+    "de": "Pilzbett",
+    "en-GB": "Mush Bed",
+    "en-US": "Mush Bed",
+    "es": "Cama hongo",
+    "fr": "Lit champi",
+    "it": "Letto fungo",
+    "ja": "きのこのベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

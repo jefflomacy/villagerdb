@@ -1,6 +1,14 @@
 {
   "id": "basketball-tank",
-  "name": "Basketball Tank",
+  "name": {
+    "de": "Basketballtrikot",
+    "en-GB": "Basketball Tank",
+    "en-US": "Basketball Tank",
+    "es": "Top básquet",
+    "fr": "Débardeur basketball",
+    "it": "Canotta basket",
+    "ja": "バスケシャツ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

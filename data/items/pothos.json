@@ -1,6 +1,14 @@
 {
   "id": "pothos",
-  "name": "Pothos",
+  "name": {
+    "de": "Pothos",
+    "en-GB": "Pothos",
+    "en-US": "Pothos",
+    "es": "Poto",
+    "fr": "Pothos",
+    "it": "Pothos",
+    "ja": "ポトス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

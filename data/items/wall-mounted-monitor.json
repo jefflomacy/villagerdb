@@ -1,6 +1,14 @@
 {
   "id": "wall-mounted-monitor",
-  "name": "Wall-mounted Monitor",
+  "name": {
+    "de": "Wandmonitor",
+    "en-GB": "Wall-Mounted Monitor",
+    "en-US": "Wall-Mounted Monitor",
+    "es": "Monitor de pared",
+    "fr": "écran mural",
+    "it": "Schermo da parete",
+    "ja": "かべかけモニター"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "pave-bookshelf",
-  "name": "Pavé Bookshelf",
+  "name": {
+    "de": "Karnevalsregal",
+    "en-GB": "Pavé Bookshelf",
+    "en-US": "Pavé Bookshelf",
+    "es": "Librería Conga",
+    "fr": "étagère carnaval",
+    "it": "Scansia Pavão",
+    "ja": "カーニバルシェルフ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

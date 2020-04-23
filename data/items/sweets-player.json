@@ -1,6 +1,14 @@
 {
   "id": "sweets-player",
-  "name": "Sweets Player",
+  "name": {
+    "de": "Süßanlage",
+    "en-GB": "Sweets Player",
+    "en-US": "Sweets Player",
+    "es": "Tocadiscos chuches",
+    "fr": "Lecteur bonbons",
+    "it": "Giradischi dolci",
+    "ja": "おかしのプレーヤー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

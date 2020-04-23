@@ -1,6 +1,14 @@
 {
   "id": "stained-glass",
-  "name": "Stained Glass",
+  "name": {
+    "de": "Buntglasscheibe",
+    "en-GB": "Stained Glass",
+    "en-US": "Stained Glass",
+    "es": "Vidriera",
+    "fr": "Vitrail",
+    "it": "Vetrata variopinta",
+    "ja": "ステンドグラス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

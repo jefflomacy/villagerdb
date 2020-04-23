@@ -1,6 +1,14 @@
 {
   "id": "green-bed",
-  "name": "Green Bed",
+  "name": {
+    "de": "Smaragdbett",
+    "en-GB": "Green Bed",
+    "en-US": "Green Bed",
+    "es": "Cama verde",
+    "fr": "Lit vert",
+    "it": "Letto verde",
+    "ja": "みどりのベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

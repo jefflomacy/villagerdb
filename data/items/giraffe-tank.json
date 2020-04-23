@@ -1,6 +1,14 @@
 {
   "id": "giraffe-tank",
-  "name": "Giraffe Tank",
+  "name": {
+    "de": "Giraffentop",
+    "en-GB": "Giraffe Tank",
+    "en-US": "Giraffe Tank",
+    "es": "Top jirafa",
+    "fr": "Débardeur girafe",
+    "it": "Canotta giraffa",
+    "ja": "キリンのふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

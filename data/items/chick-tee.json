@@ -1,6 +1,14 @@
 {
   "id": "chick-tee",
-  "name": "Chick Tee",
+  "name": {
+    "de": "Kükenshirt",
+    "en-GB": "Chick Tee",
+    "en-US": "Chick Tee",
+    "es": "Camiseta pollitos",
+    "fr": "T-shirt poussins",
+    "it": "Maglietta pulcini",
+    "ja": "ひよこのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

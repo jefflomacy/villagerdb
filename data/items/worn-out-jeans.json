@@ -1,6 +1,14 @@
 {
   "id": "worn-out-jeans",
-  "name": "Worn-out Jeans",
+  "name": {
+    "de": "Fetzenjeanshose",
+    "en-GB": "Worn-Out Jeans",
+    "en-US": "Worn-Out Jeans",
+    "es": "Pantalón agujereado",
+    "fr": "Pantalon jean usé",
+    "it": "Paio jeans strappati",
+    "ja": "あなあきデニム"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

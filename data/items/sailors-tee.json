@@ -1,6 +1,14 @@
 {
   "id": "sailors-tee",
-  "name": "Sailor's Tee",
+  "name": {
+    "de": "Marineshirt",
+    "en-GB": "Sailor's Tee",
+    "en-US": "Sailor's Tee",
+    "es": "Camiseta marinera",
+    "fr": "T-shirt matelot",
+    "it": "Maglietta marinaio",
+    "ja": "はんそでセーラーふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

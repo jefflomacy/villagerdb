@@ -1,6 +1,14 @@
 {
   "id": "ukulele",
-  "name": "Ukulele",
+  "name": {
+    "de": "Ukulele",
+    "en-GB": "Ukulele",
+    "en-US": "Ukulele",
+    "es": "Ukelele",
+    "fr": "Ukulélé",
+    "it": "Ukulele",
+    "ja": "ウクレレ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

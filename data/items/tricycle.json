@@ -1,6 +1,14 @@
 {
   "id": "tricycle",
-  "name": "Tricycle",
+  "name": {
+    "de": "Dreirad",
+    "en-GB": "Tricycle",
+    "en-US": "Tricycle",
+    "es": "Triciclo",
+    "fr": "Tricycle",
+    "it": "Triciclo",
+    "ja": "さんりんしゃ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

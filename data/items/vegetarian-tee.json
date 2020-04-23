@@ -1,6 +1,14 @@
 {
   "id": "vegetarian-tee",
-  "name": "Vegetarian Tee",
+  "name": {
+    "de": "Streifenshirt",
+    "en-GB": "Vegetarian Tee",
+    "en-US": "Vegetarian Tee",
+    "es": "Camiseta campo",
+    "fr": "T-shirt ray. blanc",
+    "it": "Maglietta vegetale",
+    "ja": "ベジタリアンなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

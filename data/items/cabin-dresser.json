@@ -1,6 +1,14 @@
 {
   "id": "cabin-dresser",
-  "name": "Cabin Dresser",
+  "name": {
+    "de": "Blockhauskommode",
+    "en-GB": "Cabin Dresser",
+    "en-US": "Cabin Dresser",
+    "es": "Cómoda cabaña",
+    "fr": "Commode chalet",
+    "it": "Comò rustico",
+    "ja": "ログチェスト"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "red-argyle-tee",
-  "name": "Red Argyle Tee",
+  "name": {
+    "de": "Rot-Argyle-Shirt",
+    "en-GB": "Red Argyle Tee",
+    "en-US": "Red Argyle Tee",
+    "es": "Camiseta pija roja",
+    "fr": "T-shirt écos. rouge",
+    "it": "Magliet. rombi ros.",
+    "ja": "あかアーガイルのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

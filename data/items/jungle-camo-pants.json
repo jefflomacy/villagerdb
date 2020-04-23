@@ -1,6 +1,14 @@
 {
   "id": "jungle-camo-pants",
-  "name": "Jungle-camo Pants",
+  "name": {
+    "de": "Dschungelhose",
+    "en-GB": "Jungle-Camo Pants",
+    "en-US": "Jungle-Camo Pants",
+    "es": "Pantalón camuflaje",
+    "fr": "Pantalon mot. jungle",
+    "it": "Pantalone mimetico",
+    "ja": "めいさいパンツ"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

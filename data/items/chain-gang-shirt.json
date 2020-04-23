@@ -1,6 +1,14 @@
 {
   "id": "chain-gang-shirt",
-  "name": "Chain-gang Shirt",
+  "name": {
+    "de": "Gefängnispulli",
+    "en-GB": "Chain-Gang Shirt",
+    "en-US": "Chain-Gang Shirt",
+    "es": "Jersey grumete",
+    "fr": "Pull bagnard",
+    "it": "Maglia carcerato",
+    "ja": "プリズンなふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

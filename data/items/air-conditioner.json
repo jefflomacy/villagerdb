@@ -1,6 +1,14 @@
 {
   "id": "air-conditioner",
-  "name": "Air Conditioner",
+  "name": {
+    "de": "Klimaanlage",
+    "en-GB": "Air Conditioner",
+    "en-US": "Air Conditioner",
+    "es": "Aire acondicionado",
+    "fr": "Climatiseur",
+    "it": "Condizionatore aria",
+    "ja": "エアコン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

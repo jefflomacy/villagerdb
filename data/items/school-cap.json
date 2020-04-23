@@ -1,6 +1,14 @@
 {
   "id": "school-cap",
-  "name": "School Cap",
+  "name": {
+    "de": "Schulmütze (blau)",
+    "en-GB": "School Cap",
+    "en-US": "School Cap",
+    "es": "Gorra colegio azul",
+    "fr": "Casqu. écol. bleue",
+    "it": "Cappellino azzurro",
+    "ja": "あおしろのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

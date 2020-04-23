@@ -1,6 +1,14 @@
 {
   "id": "waffle-shirt",
-  "name": "Waffle Shirt",
+  "name": {
+    "de": "Waffelpulli",
+    "en-GB": "Waffle Shirt",
+    "en-US": "Waffle Shirt",
+    "es": "Jersey escocés",
+    "fr": "Pull gaufre",
+    "it": "Maglia tartan ocra",
+    "ja": "しぶいタータンのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

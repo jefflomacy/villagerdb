@@ -1,6 +1,14 @@
 {
   "id": "common-bed",
-  "name": "Common Bed",
+  "name": {
+    "de": "Normalbett",
+    "en-GB": "Common Bed",
+    "en-US": "Common Bed",
+    "es": "Cama básica",
+    "fr": "Lit ordinaire",
+    "it": "Letto comune",
+    "ja": "よくあるベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

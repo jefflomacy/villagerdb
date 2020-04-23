@@ -1,6 +1,14 @@
 {
   "id": "ice-lamp",
-  "name": "Ice Lamp",
+  "name": {
+    "de": "Eislampe",
+    "en-GB": "Ice Lamp",
+    "en-US": "Ice Lamp",
+    "es": "Lámpara hielo",
+    "fr": "Lampe glace",
+    "it": "Lampada ghiaccio",
+    "ja": "アイスなランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

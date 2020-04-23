@@ -1,6 +1,14 @@
 {
   "id": "flame-shirt",
-  "name": "Flame Shirt",
+  "name": {
+    "de": "Feuerpulli",
+    "en-GB": "Flame Shirt",
+    "en-US": "Flame Shirt",
+    "es": "Jersey fuego",
+    "fr": "Pull flamme",
+    "it": "Maglia fiamma",
+    "ja": "ファイアーなふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

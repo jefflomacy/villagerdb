@@ -1,6 +1,14 @@
 {
   "id": "bronze-fish-trophy",
-  "name": "Bronze Fish Trophy",
+  "name": {
+    "de": "Bronze-Angelpokal",
+    "en-GB": "Bronze Fish Trophy",
+    "en-US": "Bronze Fish Trophy",
+    "es": "Pez de bronce",
+    "fr": "Trophée pêche bronze",
+    "it": "Trofeo pesca bronzo",
+    "ja": "どうのサカナトロフィー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

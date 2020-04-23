@@ -1,6 +1,14 @@
 {
   "id": "zodiac-tiger",
-  "name": "Zodiac Tiger",
+  "name": {
+    "de": "Tigerfigur",
+    "en-GB": "Zodiac Tiger",
+    "en-US": "Zodiac Tiger",
+    "es": "Figura de tigre",
+    "fr": "Figurine de tigre",
+    "it": "Figurina di tigre",
+    "ja": "えとのおきもの・とら"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

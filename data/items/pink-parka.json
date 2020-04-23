@@ -1,6 +1,14 @@
 {
   "id": "pink-parka",
-  "name": "Pink Parka",
+  "name": {
+    "de": "Pink-Parka",
+    "en-GB": "Pink Parka",
+    "en-US": "Pink Parka",
+    "es": "Sudadera rosa",
+    "fr": "Sweat rose",
+    "it": "Felpa rosa",
+    "ja": "ピンクのパーカー"
+  },
   "category": "Tops",
   "games": {
     "nl": {

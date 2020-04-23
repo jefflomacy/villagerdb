@@ -1,6 +1,14 @@
 {
   "id": "eggplant-cow",
-  "name": "Eggplant Cow",
+  "name": {
+    "de": "Auberginenkuh",
+    "en-GB": "Eggplant Cow",
+    "en-US": "Eggplant Cow",
+    "es": "Vaca de berenjena",
+    "fr": "Veaubergine",
+    "it": "Melanzana dell'Obon",
+    "ja": "なすびのうし"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

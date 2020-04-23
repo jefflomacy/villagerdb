@@ -1,6 +1,14 @@
 {
   "id": "1-up-mushroom",
-  "name": "1-up Mushroom",
+  "name": {
+    "de": "1-Up-Pilz",
+    "en-GB": "1-Up Mushroom",
+    "en-US": "1-Up Mushroom",
+    "es": "Champiñón vida extra",
+    "fr": "Champignon 1UP",
+    "it": "Fungo 1-Up",
+    "ja": "1UPキノコ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

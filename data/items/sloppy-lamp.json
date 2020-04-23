@@ -1,6 +1,14 @@
 {
   "id": "sloppy-lamp",
-  "name": "Sloppy Lamp",
+  "name": {
+    "de": "Schlamperlampe",
+    "en-GB": "Sloppy Lamp",
+    "en-US": "Sloppy Lamp",
+    "es": "Lámpara desorden",
+    "fr": "Lampe négligée",
+    "it": "Lampada trasandata",
+    "ja": "だらしないランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

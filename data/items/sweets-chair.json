@@ -1,6 +1,14 @@
 {
   "id": "sweets-chair",
-  "name": "Sweets Chair",
+  "name": {
+    "de": "Süßstuhl",
+    "en-GB": "Sweets Chair",
+    "en-US": "Sweets Chair",
+    "es": "Silla chuches",
+    "fr": "Chaise bonbons",
+    "it": "Sedia dolci",
+    "ja": "おかしのイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

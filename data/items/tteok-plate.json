@@ -1,6 +1,14 @@
 {
   "id": "tteok-plate",
-  "name": "Tteok Plate",
+  "name": {
+    "de": "Tteok-Schale",
+    "en-GB": "Tteok Plate",
+    "en-US": "Tteok Plate",
+    "es": "Surtido tteok",
+    "fr": "Plat de tteok",
+    "it": "Piatto di tteok",
+    "ja": "ごうかくきがんもち"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

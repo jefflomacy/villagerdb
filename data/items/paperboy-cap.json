@@ -1,6 +1,14 @@
 {
   "id": "paperboy-cap",
-  "name": "Paperboy Cap",
+  "name": {
+    "de": "Botenmütze",
+    "en-GB": "Paperboy Cap",
+    "en-US": "Paperboy Cap",
+    "es": "Gorra pilluelo",
+    "fr": "Casquette de livreur",
+    "it": "Coppola",
+    "ja": "ハンチング"
+  },
   "category": "Hats",
   "games": {
     "nl": {

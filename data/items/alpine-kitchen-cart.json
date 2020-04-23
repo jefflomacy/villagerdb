@@ -1,6 +1,14 @@
 {
   "id": "alpine-kitchen-cart",
-  "name": "Alpine Kitchen Cart",
+  "name": {
+    "de": "Nordwägelchen",
+    "en-GB": "Alpine Kitchen Cart",
+    "en-US": "Alpine Kitchen Cart",
+    "es": "Carrito nórdico",
+    "fr": "Desserte nordique",
+    "it": "Carrello nordico",
+    "ja": "スカンジナビアなワゴン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

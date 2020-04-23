@@ -1,6 +1,14 @@
 {
   "id": "coffee-grinder",
-  "name": "Coffee Grinder",
+  "name": {
+    "de": "Kaffeemühle",
+    "en-GB": "Coffee Grinder",
+    "en-US": "Coffee Grinder",
+    "es": "Molinillo de café",
+    "fr": "Moulin à café",
+    "it": "Macinino per caffè",
+    "ja": "コーヒーミル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

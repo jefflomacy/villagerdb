@@ -1,6 +1,14 @@
 {
   "id": "four-lamp",
-  "name": "Four Lamp",
+  "name": {
+    "de": "\\u201E4\\u201C-Lampe",
+    "en-GB": "Four Lamp",
+    "en-US": "Four Lamp",
+    "es": "Lámpara cuatro",
+    "fr": "Lampe 4",
+    "it": "Lampada a 4",
+    "ja": "4のランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

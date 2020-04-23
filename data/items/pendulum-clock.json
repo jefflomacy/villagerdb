@@ -1,6 +1,14 @@
 {
   "id": "pendulum-clock",
-  "name": "Pendulum Clock",
+  "name": {
+    "de": "Pendeluhr",
+    "en-GB": "Pendulum Clock",
+    "en-US": "Pendulum Clock",
+    "es": "Reloj con péndulo",
+    "fr": "Horloge à balancier",
+    "it": "Orologio a pendolo",
+    "ja": "ふりこどけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

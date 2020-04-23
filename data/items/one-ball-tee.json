@@ -1,6 +1,14 @@
 {
   "id": "one-ball-tee",
-  "name": "One-ball Tee",
+  "name": {
+    "de": "1er-Shirt",
+    "en-GB": "One-Ball Tee",
+    "en-US": "One-Ball Tee",
+    "es": "Camiseta bola 1",
+    "fr": "T-shirt nº 1",
+    "it": "Maglietta palla 1",
+    "ja": "1ばんだまのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

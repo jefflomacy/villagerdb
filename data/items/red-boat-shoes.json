@@ -1,6 +1,14 @@
 {
   "id": "red-boat-shoes",
-  "name": "Red Boat Shoes",
+  "name": {
+    "de": "Segelschuh",
+    "en-GB": "Red Boat Shoes",
+    "en-US": "Red Boat Shoes",
+    "es": "Náutico rojo",
+    "fr": "P. souliers rouges",
+    "it": "Paio scarpe da barca",
+    "ja": "あかいデッキシューズ"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

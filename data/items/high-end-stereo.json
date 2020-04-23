@@ -1,6 +1,14 @@
 {
   "id": "high-end-stereo",
-  "name": "High-end Stereo",
+  "name": {
+    "de": "Highend-Anlage",
+    "en-GB": "High-End Stereo",
+    "en-US": "High-End Stereo",
+    "es": "Cadena de lujo",
+    "fr": "Hi-fi stéréo",
+    "it": "Stereo moderno",
+    "ja": "プロしようコンポ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

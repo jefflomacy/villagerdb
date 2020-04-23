@@ -1,6 +1,14 @@
 {
   "id": "bear-costume-pants",
-  "name": "Bear-costume Pants",
+  "name": {
+    "de": "Bärenhose",
+    "en-GB": "Bear-Costume Pants",
+    "en-US": "Bear-Costume Pants",
+    "es": "Pantalón oso",
+    "fr": "Bas ours",
+    "it": "Pantalone orso",
+    "ja": "クマなズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

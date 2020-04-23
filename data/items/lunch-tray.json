@@ -1,6 +1,14 @@
 {
   "id": "lunch-tray",
-  "name": "Lunch Tray",
+  "name": {
+    "de": "Kantinentablett",
+    "en-GB": "Lunch Tray",
+    "en-US": "Lunch Tray",
+    "es": "Bandeja de comida",
+    "fr": "Plateau-repas",
+    "it": "Vassoio della mensa",
+    "ja": "ランチプレート"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

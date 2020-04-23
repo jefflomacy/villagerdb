@@ -1,6 +1,14 @@
 {
   "id": "optical-shirt",
-  "name": "Optical Shirt",
+  "name": {
+    "de": "Optik-Pulli",
+    "en-GB": "Optical Shirt",
+    "en-US": "Optical Shirt",
+    "es": "Jersey óptico",
+    "fr": "Pull optique",
+    "it": "Maglia optical",
+    "ja": "オプティカルなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

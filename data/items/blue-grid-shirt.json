@@ -1,6 +1,14 @@
 {
   "id": "blue-grid-shirt",
-  "name": "Blue-grid Shirt",
+  "name": {
+    "de": "Gitterpulli",
+    "en-GB": "Blue-Grid Shirt",
+    "en-US": "Blue-Grid Shirt",
+    "es": "Jersey reja azul",
+    "fr": "Pull grille bleu",
+    "it": "Maglia biancoblu",
+    "ja": "みずいろこうしのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

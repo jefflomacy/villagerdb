@@ -1,6 +1,14 @@
 {
   "id": "mama-panda",
-  "name": "Mama Panda",
+  "name": {
+    "de": "Mama-Panda",
+    "en-GB": "Mama Panda",
+    "en-US": "Mama Panda",
+    "es": "Mamá panda",
+    "fr": "Maman panda",
+    "it": "Mamma panda",
+    "ja": "パンダのチュンチュン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

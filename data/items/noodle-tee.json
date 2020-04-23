@@ -1,6 +1,14 @@
 {
   "id": "noodle-tee",
-  "name": "Noodle Tee",
+  "name": {
+    "de": "Nudelshirt",
+    "en-GB": "Noodle Tee",
+    "en-US": "Noodle Tee",
+    "es": "Camiseta oriental",
+    "fr": "T-shirt oriental",
+    "it": "Maglietta giapponese",
+    "ja": "ラーメンなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

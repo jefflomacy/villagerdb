@@ -1,6 +1,14 @@
 {
   "id": "monster-mask",
-  "name": "Monster Mask",
+  "name": {
+    "de": "Monstermaske",
+    "en-GB": "Monster Mask",
+    "en-US": "Monster Mask",
+    "es": "Careta de monstruo",
+    "fr": "Masque de zombistein",
+    "it": "Maschera mostro",
+    "ja": "フランケンのマスク"
+  },
   "category": "Hats",
   "games": {
     "nl": {

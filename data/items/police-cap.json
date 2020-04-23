@@ -1,6 +1,14 @@
 {
   "id": "police-cap",
-  "name": "Police Cap",
+  "name": {
+    "de": "Polizeimütze",
+    "en-GB": "Police Cap",
+    "en-US": "Police Cap",
+    "es": "Gorra de policía",
+    "fr": "Casquette de police",
+    "it": "Cappello poliziotto",
+    "ja": "けいかんのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

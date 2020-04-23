@@ -1,6 +1,14 @@
 {
   "id": "mammoth-torso",
-  "name": "Mammoth Torso",
+  "name": {
+    "de": "Mammut-Torso",
+    "en-GB": "Mammoth Torso",
+    "en-US": "Mammoth Torso",
+    "es": "Cuerpo mamut",
+    "fr": "Corps de mammouth",
+    "it": "Torso mammut",
+    "ja": "マンモスのからだ"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

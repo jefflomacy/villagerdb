@@ -1,6 +1,14 @@
 {
   "id": "cassette-player",
-  "name": "Cassette Player",
+  "name": {
+    "de": "Kassettenrekorder",
+    "en-GB": "Cassette Player",
+    "en-US": "Cassette Player",
+    "es": "Radiocasete doble",
+    "fr": "Lecteur de cassettes",
+    "it": "Mangianastri",
+    "ja": "ダブルラジカセ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

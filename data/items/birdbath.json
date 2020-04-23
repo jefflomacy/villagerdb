@@ -1,6 +1,14 @@
 {
   "id": "birdbath",
-  "name": "Birdbath",
+  "name": {
+    "de": "Vogeltränke",
+    "en-GB": "Birdbath",
+    "en-US": "Birdbath",
+    "es": "Bañadero pájaros",
+    "fr": "Bassin à oiseaux",
+    "it": "Piscina uccelli",
+    "ja": "バードバス"
+  },
   "category": "Furniture",
   "games": {
     "nh": {

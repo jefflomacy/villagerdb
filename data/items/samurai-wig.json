@@ -1,6 +1,14 @@
 {
   "id": "samurai-wig",
-  "name": "Samurai Wig",
+  "name": {
+    "de": "Samuraiperücke",
+    "en-GB": "Samurai Wig",
+    "en-US": "Samurai Wig",
+    "es": "Peluca de samurái",
+    "fr": "Coiffe de samouraï",
+    "it": "Parrucca da samurai",
+    "ja": "ちょんまげ"
+  },
   "category": "Hats",
   "games": {
     "nl": {

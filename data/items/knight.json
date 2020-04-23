@@ -1,6 +1,14 @@
 {
   "id": "knight",
-  "name": "Knight",
+  "name": {
+    "de": "Springer",
+    "en-GB": "Knight",
+    "en-US": "Knight",
+    "es": "Caballo",
+    "fr": "Cavalier",
+    "it": "Cavallo",
+    "ja": "ナイトのこま"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

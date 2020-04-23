@@ -1,6 +1,14 @@
 {
   "id": "sconce",
-  "name": "Sconce",
+  "name": {
+    "de": "Wandleuchter",
+    "en-GB": "Sconce",
+    "en-US": "Sconce",
+    "es": "Candelabro de pared",
+    "fr": "Applique ancienne",
+    "it": "Portacandele a muro",
+    "ja": "スコンス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

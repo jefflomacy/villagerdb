@@ -1,6 +1,14 @@
 {
   "id": "red-horned-hat",
-  "name": "Red-horned Hat",
+  "name": {
+    "de": "Hörnerhelm",
+    "en-GB": "Red-Horned Hat",
+    "en-US": "Red-Horned Hat",
+    "es": "Casco cuernos rojos",
+    "fr": "Chapeau cornu",
+    "it": "Cappello corna rosse",
+    "ja": "あかいつののぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

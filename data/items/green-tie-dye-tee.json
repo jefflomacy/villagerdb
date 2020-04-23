@@ -1,6 +1,14 @@
 {
   "id": "green-tie-dye-tee",
-  "name": "Green Tie-dye Tee",
+  "name": {
+    "de": "Festivalshirt",
+    "en-GB": "Green Tie-Dye Tee",
+    "en-US": "Green Tie-Dye Tee",
+    "es": "Camiseta hippy verde",
+    "fr": "T-shirt batik vert",
+    "it": "Maglietta verde",
+    "ja": "メロンソーダなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

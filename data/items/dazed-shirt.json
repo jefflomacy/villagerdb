@@ -1,6 +1,14 @@
 {
   "id": "dazed-shirt",
-  "name": "Dazed Shirt",
+  "name": {
+    "de": "Wohlfühlpulli",
+    "en-GB": "Dazed Shirt",
+    "en-US": "Dazed Shirt",
+    "es": "Jersey rombos",
+    "fr": "Pull losange",
+    "it": "Maglia quadri rosa",
+    "ja": "ゆめいろこうしのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

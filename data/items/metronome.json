@@ -1,6 +1,14 @@
 {
   "id": "metronome",
-  "name": "Metronome",
+  "name": {
+    "de": "Taktmesser",
+    "en-GB": "Metronome",
+    "en-US": "Metronome",
+    "es": "Metrónomo",
+    "fr": "Métronome",
+    "it": "Metronomo",
+    "ja": "メトロノーム"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

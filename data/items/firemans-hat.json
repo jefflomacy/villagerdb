@@ -1,6 +1,14 @@
 {
   "id": "firemans-hat",
-  "name": "Fireman's Hat",
+  "name": {
+    "de": "Feuerwehrhut",
+    "en-GB": "Fireman's Hat",
+    "en-US": "Fireman's Hat",
+    "es": "Casco de bombero",
+    "fr": "Casque de pompier",
+    "it": "Elmo da pompiere",
+    "ja": "しょうぼうしのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

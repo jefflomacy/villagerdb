@@ -1,6 +1,14 @@
 {
   "id": "combat-helmet",
-  "name": "Combat Helmet",
+  "name": {
+    "de": "Soldatenhelm",
+    "en-GB": "Combat Helmet",
+    "en-US": "Combat Helmet",
+    "es": "Casco de soldado",
+    "fr": "Casque lourd",
+    "it": "Elmetto",
+    "ja": "コンバットヘルメット"
+  },
   "category": "Hats",
   "games": {
     "nl": {

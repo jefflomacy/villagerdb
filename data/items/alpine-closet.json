@@ -1,6 +1,14 @@
 {
   "id": "alpine-closet",
-  "name": "Alpine Closet",
+  "name": {
+    "de": "Nordschrank",
+    "en-GB": "Alpine Closet",
+    "en-US": "Alpine Closet",
+    "es": "Armario nórdico",
+    "fr": "Armoire nordique",
+    "it": "Armadio nordico",
+    "ja": "スカンジナビアクロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

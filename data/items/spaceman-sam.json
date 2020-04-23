@@ -1,6 +1,14 @@
 {
   "id": "spaceman-sam",
-  "name": "Spaceman Sam",
+  "name": {
+    "de": "Raumanzug",
+    "en-GB": "Spaceman Sam",
+    "en-US": "Spaceman Sam",
+    "es": "Traje espacial",
+    "fr": "Spationaute",
+    "it": "Tuta spaziale",
+    "ja": "うちゅうふく"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "raccoon-wall-clock",
-  "name": "Raccoon Wall Clock",
+  "name": {
+    "de": "Waschbärenwanduhr",
+    "en-GB": "Raccoon Wall Clock",
+    "en-US": "Raccoon Wall Clock",
+    "es": "Reloj pared mapache",
+    "fr": "Horlo. mur r. laveur",
+    "it": "Orologio procione",
+    "ja": "タヌキのかべかけどけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "pink-argyle-tank",
-  "name": "Pink Argyle Tank",
+  "name": {
+    "de": "Rosa-Argyle-Top",
+    "en-GB": "Pink Argyle Tank",
+    "en-US": "Pink Argyle Tank",
+    "es": "Top pijo rosa",
+    "fr": "Débardeur écos. rose",
+    "it": "Canotta rombi rosa",
+    "ja": "ピンクアーガイルのふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "snow-globe",
-  "name": "Snow Globe",
+  "name": {
+    "de": "Schneekugel",
+    "en-GB": "Snow Globe",
+    "en-US": "Snow Globe",
+    "es": "Globo de nieve",
+    "fr": "Boule à neige",
+    "it": "Globo di neve",
+    "ja": "スノードーム"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

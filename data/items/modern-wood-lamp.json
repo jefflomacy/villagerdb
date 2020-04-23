@@ -1,6 +1,14 @@
 {
   "id": "modern-wood-lamp",
-  "name": "Modern Wood Lamp",
+  "name": {
+    "de": "Buntholzlampe",
+    "en-GB": "Modern Wood Lamp",
+    "en-US": "Modern Wood Lamp",
+    "es": "Lámpara listones",
+    "fr": "Lampe bois moderne",
+    "it": "Lampada legno",
+    "ja": "ミックスウッドのランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

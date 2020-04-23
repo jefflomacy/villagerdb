@@ -1,6 +1,14 @@
 {
   "id": "tan-puffy-vest",
-  "name": "Tan Puffy Vest",
+  "name": {
+    "de": "Daunenweste",
+    "en-GB": "Tan Puffy Vest",
+    "en-US": "Tan Puffy Vest",
+    "es": "Chaleco amarillo",
+    "fr": "Gilet molletonné",
+    "it": "Piumino smanicato",
+    "ja": "ダウンベスト"
+  },
   "category": "Tops",
   "games": {
     "nl": {

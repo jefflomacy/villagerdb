@@ -1,6 +1,14 @@
 {
   "id": "brown-formal-pants",
-  "name": "Brown Formal Pants",
+  "name": {
+    "de": "Cordhose",
+    "en-GB": "Brown Formal Pants",
+    "en-US": "Brown Formal Pants",
+    "es": "Pantalón lino marrón",
+    "fr": "Pantalon chic brun",
+    "it": "Pantal. formale ocra",
+    "ja": "ちゃいろフォーマルパンツ"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

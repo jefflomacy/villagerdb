@@ -1,6 +1,14 @@
 {
   "id": "mermaid-dresser",
-  "name": "Mermaid Dresser",
+  "name": {
+    "de": "Nixenkommode",
+    "en-GB": "Mermaid Dresser",
+    "en-US": "Mermaid Dresser",
+    "es": "Cómoda sirena",
+    "fr": "Commode sirène",
+    "it": "Comò sirena",
+    "ja": "マーメイドなチェスト"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

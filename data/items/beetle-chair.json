@@ -1,6 +1,14 @@
 {
   "id": "beetle-chair",
-  "name": "Beetle Chair",
+  "name": {
+    "de": "Nashornkäferstuhl",
+    "en-GB": "Beetle Chair",
+    "en-US": "Beetle Chair",
+    "es": "Silla esc. astado",
+    "fr": "Chaise scarabée",
+    "it": "Sedia scarabeo",
+    "ja": "カブトチェア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

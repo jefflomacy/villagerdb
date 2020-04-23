@@ -1,6 +1,14 @@
 {
   "id": "storefront",
-  "name": "Storefront",
+  "name": {
+    "de": "Fassade",
+    "en-GB": "Storefront",
+    "en-US": "Storefront",
+    "es": "Leñera",
+    "fr": "Devanture",
+    "it": "Tettoia west",
+    "ja": "せいぶのまちなみ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

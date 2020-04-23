@@ -1,6 +1,14 @@
 {
   "id": "red-tasseled-lantern",
-  "name": "Red-tasseled Lantern",
+  "name": {
+    "de": "Drachenlaterne",
+    "en-GB": "Red-Tasseled Lantern",
+    "en-US": "Red-Tasseled Lantern",
+    "es": "Farol con penachos",
+    "fr": "Lanterne Chine",
+    "it": "Lanterna cinese",
+    "ja": "ちゅうかなランタン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

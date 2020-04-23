@@ -1,6 +1,14 @@
 {
   "id": "spino-skull",
-  "name": "Spino Skull",
+  "name": {
+    "de": "Spinosaurus-Schädel",
+    "en-GB": "Spino Skull",
+    "en-US": "Spino Skull",
+    "es": "Cráneo espinosaurio",
+    "fr": "Crâne de spinosaurus",
+    "it": "Teschio spinosauro",
+    "ja": "スピノサウルスのあたま"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

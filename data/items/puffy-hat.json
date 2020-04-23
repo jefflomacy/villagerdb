@@ -1,6 +1,14 @@
 {
   "id": "puffy-hat",
-  "name": "Puffy Hat",
+  "name": {
+    "de": "Flauschmütze",
+    "en-GB": "Puffy Hat",
+    "en-US": "Puffy Hat",
+    "es": "Gorro ruso",
+    "fr": "Chapka",
+    "it": "Colbacco",
+    "ja": "もこもこなぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

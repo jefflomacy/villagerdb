@@ -1,6 +1,14 @@
 {
   "id": "pachy-skull",
-  "name": "Pachy Skull",
+  "name": {
+    "de": "Pachysaurus-Schädel",
+    "en-GB": "Pachysaurus Skull",
+    "en-US": "Pachy Skull",
+    "es": "Cráneo paquicefa",
+    "fr": "Crâne de pachycéphal",
+    "it": "Teschio pachicefal.",
+    "ja": "パキケファロのあたま"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

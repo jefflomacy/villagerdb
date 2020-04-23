@@ -1,6 +1,14 @@
 {
   "id": "time-clock",
-  "name": "Time Clock",
+  "name": {
+    "de": "Stechuhr",
+    "en-GB": "Time Clock",
+    "en-US": "Time Clock",
+    "es": "Reloj de fichar",
+    "fr": "Pointeuse",
+    "it": "Timbra cartellini",
+    "ja": "タイムレコーダー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

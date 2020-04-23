@@ -1,6 +1,14 @@
 {
   "id": "blue-corner",
-  "name": "Blue Corner",
+  "name": {
+    "de": "Ecke (blau)",
+    "en-GB": "Blue Corner",
+    "en-US": "Blue Corner",
+    "es": "Esquina azul",
+    "fr": "Coin bleu",
+    "it": "Angolo blu",
+    "ja": "あおコーナー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "harp",
-  "name": "Harp",
+  "name": {
+    "de": "Harfe",
+    "en-GB": "Harp",
+    "en-US": "Harp",
+    "es": "Arpa",
+    "fr": "Harpe",
+    "it": "Arpa",
+    "ja": "ハープ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

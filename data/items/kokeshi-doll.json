@@ -1,6 +1,14 @@
 {
   "id": "kokeshi-doll",
-  "name": "Kokeshi Doll",
+  "name": {
+    "de": "Kokeshi-Figur",
+    "en-GB": "Kokeshi Doll",
+    "en-US": "Kokeshi Doll",
+    "es": "Muñeca kokeshi",
+    "fr": "Poupée kokeshi",
+    "it": "Bambola Kokeshi",
+    "ja": "こけし"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

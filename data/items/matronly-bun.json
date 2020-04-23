@@ -1,6 +1,14 @@
 {
   "id": "matronly-bun",
-  "name": "Matronly Bun",
+  "name": {
+    "de": "Großmutterperücke",
+    "en-GB": "Matronly Bun",
+    "en-US": "Matronly Bun",
+    "es": "Peluca señora mayor",
+    "fr": "Perruque de matrone",
+    "it": "Parrucca da matrona",
+    "ja": "たまねぎヘアー"
+  },
   "category": "Hats",
   "games": {
     "nl": {

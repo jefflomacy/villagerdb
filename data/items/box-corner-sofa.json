@@ -1,6 +1,14 @@
 {
   "id": "box-corner-sofa",
-  "name": "Box Corner Sofa",
+  "name": {
+    "de": "Sofa-Eckelement",
+    "en-GB": "Box Corner Sofa",
+    "en-US": "Box Corner Sofa",
+    "es": "Módulo sofá esquina",
+    "fr": "Angle de canapé",
+    "it": "Sofà pezzo d'angolo",
+    "ja": "ボックスソファのコーナー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "sleigh",
-  "name": "Sleigh",
+  "name": {
+    "de": "Schlitten",
+    "en-GB": "Sleigh",
+    "en-US": "Sleigh",
+    "es": "Trineo",
+    "fr": "Luge",
+    "it": "Slitta",
+    "ja": "そり"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "covered-wagon",
-  "name": "Covered Wagon",
+  "name": {
+    "de": "Planwagen",
+    "en-GB": "Covered Wagon",
+    "en-US": "Covered Wagon",
+    "es": "Carreta",
+    "fr": "Chariot bâché",
+    "it": "Carro carovana",
+    "ja": "ほろばしゃ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

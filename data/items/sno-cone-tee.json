@@ -1,6 +1,14 @@
 {
   "id": "sno-cone-tee",
-  "name": "Sno-cone Tee",
+  "name": {
+    "de": "Bonbonshirt",
+    "en-GB": "Sno-Cone Tee",
+    "en-US": "Sno-Cone Tee",
+    "es": "Camiseta fresa-nata",
+    "fr": "T-shirt cône",
+    "it": "Maglietta granita",
+    "ja": "こおりイチゴのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

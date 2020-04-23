@@ -1,6 +1,14 @@
 {
   "id": "balloon-lamp",
-  "name": "Balloon Lamp",
+  "name": {
+    "de": "Ballonlampe",
+    "en-GB": "Balloon Lamp",
+    "en-US": "Balloon Lamp",
+    "es": "Lámpara globos",
+    "fr": "Lampe ballons",
+    "it": "Lampada palloncini",
+    "ja": "バルーンランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

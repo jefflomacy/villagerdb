@@ -1,6 +1,14 @@
 {
   "id": "wide-screen-tv",
-  "name": "Wide-screen Tv",
+  "name": {
+    "de": "Großbild-Fernseher",
+    "en-GB": "Wide-Screen TV",
+    "en-US": "Wide-Screen TV",
+    "es": "Tele panorámica",
+    "fr": "Télé 16/9",
+    "it": "TV 16:9",
+    "ja": "32がたワイドテレビ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

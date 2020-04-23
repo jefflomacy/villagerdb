@@ -1,6 +1,14 @@
 {
   "id": "natty-tee",
-  "name": "Natty Tee",
+  "name": {
+    "de": "Mohair-Shirt",
+    "en-GB": "Natty Tee",
+    "en-US": "Natty Tee",
+    "es": "Camiseta paseo rosa",
+    "fr": "T-shirt filet",
+    "it": "Maglietta di classe",
+    "ja": "ピンクツイードのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "scarecrow",
-  "name": "Scarecrow",
+  "name": {
+    "de": "Vogelscheuche",
+    "en-GB": "Scarecrow",
+    "en-US": "Scarecrow",
+    "es": "Espantapájaros",
+    "fr": "épouvantail",
+    "it": "Spaventapasseri",
+    "ja": "かかし"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

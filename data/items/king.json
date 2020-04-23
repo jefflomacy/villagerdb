@@ -1,6 +1,14 @@
 {
   "id": "king",
-  "name": "King",
+  "name": {
+    "de": "König",
+    "en-GB": "King",
+    "en-US": "King",
+    "es": "Rey",
+    "fr": "Roi",
+    "it": "Re",
+    "ja": "キングのこま"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

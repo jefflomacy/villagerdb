@@ -1,6 +1,14 @@
 {
   "id": "kart",
-  "name": "Kart",
+  "name": {
+    "de": "Kart",
+    "en-GB": "Kart",
+    "en-US": "Kart",
+    "es": "Kart",
+    "fr": "Kart",
+    "it": "Kart",
+    "ja": "カート"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

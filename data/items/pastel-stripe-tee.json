@@ -1,6 +1,14 @@
 {
   "id": "pastel-stripe-tee",
-  "name": "Pastel-stripe Tee",
+  "name": {
+    "de": "Pastellshirt",
+    "en-GB": "Pastel-Stripe Tee",
+    "en-US": "Pastel-Stripe Tee",
+    "es": "Camiseta heladería",
+    "fr": "T-shirt berlingot",
+    "it": "Maglietta pastello",
+    "ja": "アメリカンなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

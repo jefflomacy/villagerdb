@@ -1,6 +1,14 @@
 {
   "id": "pink-sneakers",
-  "name": "Pink Sneakers",
+  "name": {
+    "de": "Girlie-Turnschuh",
+    "en-GB": "Pink Sneakers",
+    "en-US": "Pink Sneakers",
+    "es": "Zapatilla rosa",
+    "fr": "Paire tennis roses",
+    "it": "P. scarpe sport rosa",
+    "ja": "ピンクのヒモつきシューズ"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "soccer-shirt",
-  "name": "Soccer Shirt",
+  "name": {
+    "de": "WM-Pulli",
+    "en-GB": "Soccer Shirt",
+    "en-US": "Soccer Shirt",
+    "es": "Jersey fútbol",
+    "fr": "Pull Brésil",
+    "it": "Maglia calcio",
+    "ja": "ラテンなユニフォームL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "kintaro-wig",
-  "name": "Kintaro Wig",
+  "name": {
+    "de": "Kintaro-Perücke",
+    "en-GB": "Kintaro Wig",
+    "en-US": "Kintaro Wig",
+    "es": "Peluca Kintaro",
+    "fr": "Perruque Kintaro",
+    "it": "Parrucca da Kintaro",
+    "ja": "きんたろう"
+  },
   "category": "Hats",
   "games": {
     "nl": {

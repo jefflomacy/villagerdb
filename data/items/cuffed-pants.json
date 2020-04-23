@@ -1,6 +1,14 @@
 {
   "id": "cuffed-pants",
-  "name": "Cuffed Pants",
+  "name": {
+    "de": "Umkrempelhose",
+    "en-GB": "Cuffed Pants",
+    "en-US": "Cuffed Pants",
+    "es": "Pantalón bajo vuelto",
+    "fr": "Pantalon à revers",
+    "it": "Pantalone risvolti",
+    "ja": "すそみせズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "cardboard-bed",
-  "name": "Cardboard Bed",
+  "name": {
+    "de": "Kartonbett",
+    "en-GB": "Cardboard Bed",
+    "en-US": "Cardboard Bed",
+    "es": "Cama cartón",
+    "fr": "Lit carton",
+    "it": "Letto scatolone",
+    "ja": "ダンボールベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

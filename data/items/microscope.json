@@ -1,6 +1,14 @@
 {
   "id": "microscope",
-  "name": "Microscope",
+  "name": {
+    "de": "Mikroskop",
+    "en-GB": "Microscope",
+    "en-US": "Microscope",
+    "es": "Microscopio",
+    "fr": "Microscope",
+    "it": "Microscopio",
+    "ja": "けんびきょう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

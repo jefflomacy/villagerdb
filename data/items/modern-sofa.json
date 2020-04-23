@@ -1,6 +1,14 @@
 {
   "id": "modern-sofa",
-  "name": "Modern Sofa",
+  "name": {
+    "de": "Schachsofa",
+    "en-GB": "Modern Sofa",
+    "en-US": "Modern Sofa",
+    "es": "Sofá moderno",
+    "fr": "Canapé moderne",
+    "it": "Sofà moderno",
+    "ja": "ツートンソファL"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

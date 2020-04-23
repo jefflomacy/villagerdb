@@ -1,6 +1,14 @@
 {
   "id": "tennis-table",
-  "name": "Tennis Table",
+  "name": {
+    "de": "Tischtennisset",
+    "en-GB": "Tennis Table",
+    "en-US": "Tennis Table",
+    "es": "Tenis de mesa",
+    "fr": "Set tennis de table",
+    "it": "Tav. tennis tavolo",
+    "ja": "たっきゅうだい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

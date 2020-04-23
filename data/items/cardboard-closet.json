@@ -1,6 +1,14 @@
 {
   "id": "cardboard-closet",
-  "name": "Cardboard Closet",
+  "name": {
+    "de": "Kartonschrank",
+    "en-GB": "Cardboard Closet",
+    "en-US": "Cardboard Closet",
+    "es": "Armario cartón",
+    "fr": "Armoire carton",
+    "it": "Armadio scatolone",
+    "ja": "ダンボールクロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

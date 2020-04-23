@@ -1,6 +1,14 @@
 {
   "id": "twinkle-tee",
-  "name": "Twinkle Tee",
+  "name": {
+    "de": "Sternchenshirt",
+    "en-GB": "Twinkle Tee",
+    "en-US": "Twinkle Tee",
+    "es": "Camiseta brillos",
+    "fr": "T-shirt brillant",
+    "it": "Maglietta notte",
+    "ja": "トゥインクルなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

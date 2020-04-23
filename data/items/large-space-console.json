@@ -1,6 +1,14 @@
 {
   "id": "large-space-console",
-  "name": "Large Space Console",
+  "name": {
+    "de": "Kontrollkonsole",
+    "en-GB": "Large Space Console",
+    "en-US": "Large Space Console",
+    "es": "Gran cuadro mandos",
+    "fr": "Ordinateur de bord",
+    "it": "Quadro comandi maxi",
+    "ja": "おおきいけいき"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

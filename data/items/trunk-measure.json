@@ -1,6 +1,14 @@
 {
   "id": "trunk-measure",
-  "name": "Trunk Measure",
+  "name": {
+    "de": "Rumpfmesser",
+    "en-GB": "Trunk Measure",
+    "en-US": "Trunk Measure",
+    "es": "Antropómetro",
+    "fr": "Mesureur",
+    "it": "Misuratore torso",
+    "ja": "ざこうけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

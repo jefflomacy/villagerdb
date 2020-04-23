@@ -1,6 +1,14 @@
 {
   "id": "kiwi-stool",
-  "name": "Kiwi Stool",
+  "name": {
+    "de": "Kiwihocker",
+    "en-GB": "Kiwi Stool",
+    "en-US": "Kiwi Stool",
+    "es": "Taburete kiwi",
+    "fr": "Tabouret kiwi",
+    "it": "Sgabello kiwi",
+    "ja": "キウイなスツール"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

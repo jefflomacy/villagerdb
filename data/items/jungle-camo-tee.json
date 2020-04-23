@@ -1,6 +1,14 @@
 {
   "id": "jungle-camo-tee",
-  "name": "Jungle-camo Tee",
+  "name": {
+    "de": "Dschungelshirt",
+    "en-GB": "Jungle-Camo Tee",
+    "en-US": "Jungle-Camo Tee",
+    "es": "Camiseta camuflaje",
+    "fr": "T-shirt motif jungle",
+    "it": "Maglietta mimetica",
+    "ja": "めいさいなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

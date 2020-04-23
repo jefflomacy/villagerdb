@@ -1,6 +1,14 @@
 {
   "id": "warbonnet",
-  "name": "Warbonnet",
+  "name": {
+    "de": "Federschmuck",
+    "en-GB": "Warbonnet",
+    "en-US": "Warbonnet",
+    "es": "Corona de plumas",
+    "fr": "Coiffe d'indien",
+    "it": "Cappello indiano",
+    "ja": "ウォーボネット"
+  },
   "category": "Hats",
   "games": {
     "nl": {

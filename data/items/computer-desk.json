@@ -1,6 +1,14 @@
 {
   "id": "computer-desk",
-  "name": "Computer Desk",
+  "name": {
+    "de": "PC-Arbeitsplatz",
+    "en-GB": "Computer Desk",
+    "en-US": "Computer Desk",
+    "es": "Ordenador oficina",
+    "fr": "Bureau avec PC",
+    "it": "Postazione ufficio",
+    "ja": "オフィスパソコンラック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

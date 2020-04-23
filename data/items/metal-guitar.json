@@ -1,6 +1,14 @@
 {
   "id": "metal-guitar",
-  "name": "Metal Guitar",
+  "name": {
+    "de": "Metal-Gitarre",
+    "en-GB": "Metal Guitar",
+    "en-US": "Metal Guitar",
+    "es": "Guitarra metal",
+    "fr": "Guitare électrique",
+    "it": "Chitarra elettrica",
+    "ja": "エレキギターES3"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

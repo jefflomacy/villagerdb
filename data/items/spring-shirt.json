@@ -1,6 +1,14 @@
 {
   "id": "spring-shirt",
-  "name": "Spring Shirt",
+  "name": {
+    "de": "Frühlingspulli",
+    "en-GB": "Spring Shirt",
+    "en-US": "Spring Shirt",
+    "es": "Jersey copitos",
+    "fr": "Pull pastel",
+    "it": "Maglione primavera",
+    "ja": "はながらのニット"
+  },
   "category": "Tops",
   "games": {
     "nl": {

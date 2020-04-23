@@ -1,6 +1,14 @@
 {
   "id": "genies-lamp",
-  "name": "Genie's Lamp",
+  "name": {
+    "de": "Wunderlampe",
+    "en-GB": "Genie's Lamp",
+    "en-US": "Genie's Lamp",
+    "es": "Lámpara de genio",
+    "fr": "Lampe à génie",
+    "it": "Lampada del genio",
+    "ja": "エジプトランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "hospital-bed",
-  "name": "Hospital Bed",
+  "name": {
+    "de": "Krankenhausbett",
+    "en-GB": "Hospital Bed",
+    "en-US": "Hospital Bed",
+    "es": "Cama paciente",
+    "fr": "Lit d'hôpital",
+    "it": "Letto d'ospedale",
+    "ja": "びょういんのベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

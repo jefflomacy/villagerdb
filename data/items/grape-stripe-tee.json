@@ -1,6 +1,14 @@
 {
   "id": "grape-stripe-tee",
-  "name": "Grape-stripe Tee",
+  "name": {
+    "de": "Lutschershirt",
+    "en-GB": "Grape-Stripe Tee",
+    "en-US": "Grape-Stripe Tee",
+    "es": "Camiseta toldo lila",
+    "fr": "T-shirt raies mauve",
+    "it": "Magliet. bande viola",
+    "ja": "むらさきボーダーのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

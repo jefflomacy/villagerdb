@@ -1,6 +1,14 @@
 {
   "id": "spiderweb-clock",
-  "name": "Spiderweb Clock",
+  "name": {
+    "de": "Spinnennetz-Uhr",
+    "en-GB": "Spiderweb Clock",
+    "en-US": "Spiderweb Clock",
+    "es": "Reloj telaraña",
+    "fr": "Horloge arachno",
+    "it": "Orologio ragnatela",
+    "ja": "クモのすどけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "chevron-shirt",
-  "name": "Chevron Shirt",
+  "name": {
+    "de": "Musterpulli",
+    "en-GB": "Chevron Shirt",
+    "en-US": "Chevron Shirt",
+    "es": "Jersey étnico",
+    "fr": "Pull chevrons",
+    "it": "Maglione geometrico",
+    "ja": "みどりのニット"
+  },
   "category": "Tops",
   "games": {
     "nl": {

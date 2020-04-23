@@ -1,6 +1,14 @@
 {
   "id": "royal-shorts",
-  "name": "Royal Shorts",
+  "name": {
+    "de": "Königshose",
+    "en-GB": "Royal Shorts",
+    "en-US": "Royal Shorts",
+    "es": "Bermuda real",
+    "fr": "Short royal",
+    "it": "Paio bermuda reali",
+    "ja": "おうさまパンツ"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "screen",
-  "name": "Screen",
+  "name": {
+    "de": "Paravent",
+    "en-GB": "Screen",
+    "en-US": "Screen",
+    "es": "Biombo",
+    "fr": "Paravent",
+    "it": "Separé",
+    "ja": "びょうぶ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "archelon-torso",
-  "name": "Archelon Torso",
+  "name": {
+    "de": "Archelon-Torso",
+    "en-GB": "Archelon Torso",
+    "en-US": "Archelon Torso",
+    "es": "Cuerpo archelon",
+    "fr": "Corps d'archelon",
+    "it": "Torso archelone",
+    "ja": "アーケロンのからだ"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "snowman-lamp",
-  "name": "Snowman Lamp",
+  "name": {
+    "de": "Schneemannlampe",
+    "en-GB": "Snowman Lamp",
+    "en-US": "Snowman Lamp",
+    "es": "Lámpara nieve",
+    "fr": "Lampe Yétiti",
+    "it": "Lampada neve",
+    "ja": "ゆきだるまランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

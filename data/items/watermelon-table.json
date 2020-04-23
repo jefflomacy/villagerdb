@@ -1,6 +1,14 @@
 {
   "id": "watermelon-table",
-  "name": "Watermelon Table",
+  "name": {
+    "de": "Melonentisch",
+    "en-GB": "Watermelon Table",
+    "en-US": "Watermelon Table",
+    "es": "Mesa sandía",
+    "fr": "Table pastèque",
+    "it": "Tavolo anguria",
+    "ja": "スイカのテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

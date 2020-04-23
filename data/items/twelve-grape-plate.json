@@ -1,6 +1,14 @@
 {
   "id": "twelve-grape-plate",
-  "name": "Twelve-grape Plate",
+  "name": {
+    "de": "Traubenteller",
+    "en-GB": "Twelve-Grape Plate",
+    "en-US": "Twelve-Grape Plate",
+    "es": "Plato con doce uvas",
+    "fr": "Assiette de raisins",
+    "it": "Piatto acini d'uva",
+    "ja": "12つぶのぶどう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

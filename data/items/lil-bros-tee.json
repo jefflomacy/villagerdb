@@ -1,6 +1,14 @@
 {
   "id": "lil-bros-tee",
-  "name": "Li'l Bro's Tee",
+  "name": {
+    "de": "Luigi-Shirt",
+    "en-GB": "Li'l Bro's Tee",
+    "en-US": "Li'l Bro's Tee",
+    "es": "Camiseta L",
+    "fr": "T-shirt Luigi",
+    "it": "Maglietta fratellino",
+    "ja": "おとうとさんのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

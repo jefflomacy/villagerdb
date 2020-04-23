@@ -1,6 +1,14 @@
 {
   "id": "cavalier-hat",
-  "name": "Cavalier Hat",
+  "name": {
+    "de": "Edelmann-Hut",
+    "en-GB": "Cavalier Hat",
+    "en-US": "Cavalier Hat",
+    "es": "Sombrero mosquetero",
+    "fr": "Chapeau d'équitation",
+    "it": "Capp. moschettiere",
+    "ja": "じゅうきしのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

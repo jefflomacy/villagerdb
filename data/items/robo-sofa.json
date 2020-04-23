@@ -1,6 +1,14 @@
 {
   "id": "robo-sofa",
-  "name": "Robo-sofa",
+  "name": {
+    "de": "Robo-Sofa",
+    "en-GB": "Robo-Sofa",
+    "en-US": "Robo-Sofa",
+    "es": "Robosofá",
+    "fr": "Sofa robot",
+    "it": "Robo-sofà",
+    "ja": "ロボソファ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

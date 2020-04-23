@@ -1,6 +1,14 @@
 {
   "id": "sketchbook",
-  "name": "Sketchbook",
+  "name": {
+    "de": "Skizzenbuch",
+    "en-GB": "Sketchbook",
+    "en-US": "Sketchbook",
+    "es": "Bloc de dibujo",
+    "fr": "Carnet de croquis",
+    "it": "Album per schizzi",
+    "ja": "スケッチブック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

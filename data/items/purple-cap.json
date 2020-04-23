@@ -1,6 +1,14 @@
 {
   "id": "purple-cap",
-  "name": "Purple Cap",
+  "name": {
+    "de": "Lilakappe",
+    "en-GB": "Purple Cap",
+    "en-US": "Purple Cap",
+    "es": "Gorra morada",
+    "fr": "Casquette mauve",
+    "it": "Cappello viola",
+    "ja": "むらさきのキャップ"
+  },
   "category": "Hats",
   "games": {
     "nl": {

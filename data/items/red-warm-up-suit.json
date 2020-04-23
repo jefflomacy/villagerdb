@@ -1,6 +1,14 @@
 {
   "id": "red-warm-up-suit",
-  "name": "Red Warm-up Suit",
+  "name": {
+    "de": "Trainingsjacke",
+    "en-GB": "Red Warm-Up Suit",
+    "en-US": "Red Warm-Up Suit",
+    "es": "Sudadera sport roja",
+    "fr": "Veste survêt rouge",
+    "it": "Maglia tuta rossa",
+    "ja": "あかジャージ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

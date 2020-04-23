@@ -1,6 +1,14 @@
 {
   "id": "hinaningyo",
-  "name": "Hinaningyo",
+  "name": {
+    "de": "Puppenset",
+    "en-GB": "Hinaningyo",
+    "en-US": "Hinaningyo",
+    "es": "Hinaningyo",
+    "fr": "Hinaningyo",
+    "it": "Hinaningyo",
+    "ja": "ひなにんぎょう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

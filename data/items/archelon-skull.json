@@ -1,6 +1,14 @@
 {
   "id": "archelon-skull",
-  "name": "Archelon Skull",
+  "name": {
+    "de": "Archelon-Schädel",
+    "en-GB": "Archelon Skull",
+    "en-US": "Archelon Skull",
+    "es": "Cráneo archelon",
+    "fr": "Crâne d'archelon",
+    "it": "Teschio archelone",
+    "ja": "アーケロンのあたま"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

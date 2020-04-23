@@ -1,6 +1,14 @@
 {
   "id": "red-vase",
-  "name": "Red Vase",
+  "name": {
+    "de": "Jugendstil-Vase",
+    "en-GB": "Red Vase",
+    "en-US": "Red Vase",
+    "es": "Jarrón rojo",
+    "fr": "Vase rouge",
+    "it": "Vaso rosso",
+    "ja": "あかつぼ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

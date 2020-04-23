@@ -1,6 +1,14 @@
 {
   "id": "grass-standee",
-  "name": "Grass Standee",
+  "name": {
+    "de": "Pappgras",
+    "en-GB": "Grass Standee",
+    "en-US": "Grass Standee",
+    "es": "Hierba atrezo",
+    "fr": "Herbe en carton",
+    "it": "Sagoma erba",
+    "ja": "ハリボテのくさ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

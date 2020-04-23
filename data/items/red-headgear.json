@@ -1,6 +1,14 @@
 {
   "id": "red-headgear",
-  "name": "Red Headgear",
+  "name": {
+    "de": "Rotboxerhelm",
+    "en-GB": "Red Headgear",
+    "en-US": "Red Headgear",
+    "es": "Protector rojo",
+    "fr": "Casque de boxe rouge",
+    "it": "Casco da boxe rosso",
+    "ja": "あかいヘッドギア"
+  },
   "category": "Hats",
   "games": {
     "nl": {

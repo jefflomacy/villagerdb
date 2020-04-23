@@ -1,6 +1,14 @@
 {
   "id": "fan",
-  "name": "Fan",
+  "name": {
+    "de": "Ventilator",
+    "en-GB": "Fan",
+    "en-US": "Fan",
+    "es": "Ventilador",
+    "fr": "Ventilateur",
+    "it": "Ventilatore",
+    "ja": "せんぷうき"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "watering-trough",
-  "name": "Watering Trough",
+  "name": {
+    "de": "Tränke",
+    "en-GB": "Watering Trough",
+    "en-US": "Watering Trough",
+    "es": "Abrevadero",
+    "fr": "Abreuvoir",
+    "it": "Abbeveratoio",
+    "ja": "うまみずおけ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

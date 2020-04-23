@@ -1,6 +1,14 @@
 {
   "id": "snowman-fridge",
-  "name": "Snowman Fridge",
+  "name": {
+    "de": "Schneemannkühler",
+    "en-GB": "Snowman Fridge",
+    "en-US": "Snowman Fridge",
+    "es": "Nevera nieve",
+    "fr": "Frigo Yétiti",
+    "it": "Frigorifero neve",
+    "ja": "ゆきだるまれいぞうこ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "bug-mask",
-  "name": "Bug Mask",
+  "name": {
+    "de": "Insektenmaske",
+    "en-GB": "Bug Mask",
+    "en-US": "Bug Mask",
+    "es": "Careta de bicho",
+    "fr": "Masque d'insecte",
+    "it": "Maschera insettone",
+    "ja": "ムシのかぶりもの"
+  },
   "category": "Hats",
   "games": {
     "nl": {

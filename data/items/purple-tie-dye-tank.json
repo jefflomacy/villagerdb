@@ -1,6 +1,14 @@
 {
   "id": "purple-tie-dye-tank",
-  "name": "Purple Tie-dye Tank",
+  "name": {
+    "de": "Ökotop",
+    "en-GB": "Purple Tie-Dye Tank",
+    "en-US": "Purple Tie-Dye Tank",
+    "es": "Top hippy lila",
+    "fr": "Débard. batik mauve",
+    "it": "Canotta viola",
+    "ja": "グレープソーダのふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

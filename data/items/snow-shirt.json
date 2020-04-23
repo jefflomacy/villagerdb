@@ -1,6 +1,14 @@
 {
   "id": "snow-shirt",
-  "name": "Snow Shirt",
+  "name": {
+    "de": "Schneepulli",
+    "en-GB": "Snow Shirt",
+    "en-US": "Snow Shirt",
+    "es": "Jersey nieve",
+    "fr": "Pull neige",
+    "it": "Maglia neve",
+    "ja": "ゆきのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "samus-mask",
-  "name": "Samus Mask",
+  "name": {
+    "de": "Samusmaske",
+    "en-GB": "Samus Mask",
+    "en-US": "Samus Mask",
+    "es": "Casco de Samus",
+    "fr": "Casque Varia",
+    "it": "Maschera da Samus",
+    "ja": "バリアスーツ・ヘッド"
+  },
   "category": "Hats",
   "games": {
     "nl": {

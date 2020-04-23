@@ -1,6 +1,14 @@
 {
   "id": "spooky-vanity",
-  "name": "Spooky Vanity",
+  "name": {
+    "de": "Kürbisspiegel",
+    "en-GB": "Spooky Vanity",
+    "en-US": "Spooky Vanity",
+    "es": "Tocador calabaza",
+    "fr": "Coiffeuse Halloween",
+    "it": "Toletta brividi",
+    "ja": "ハロウィンドレッサー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "jingle-clock",
-  "name": "Jingle Clock",
+  "name": {
+    "de": "Festtagsstanduhr",
+    "en-GB": "Jingle Clock",
+    "en-US": "Jingle Clock",
+    "es": "Reloj festivo",
+    "fr": "Horloge festive",
+    "it": "Orologio Jingle",
+    "ja": "クリスマスクロック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "gray-formal-pants",
-  "name": "Gray Formal Pants",
+  "name": {
+    "de": "Bundfaltenhose",
+    "en-GB": "Gray Formal Pants",
+    "en-US": "Gray Formal Pants",
+    "es": "Pantalón lino gris",
+    "fr": "Pantalon chic gris",
+    "it": "Pantal. form. grigio",
+    "ja": "グレーフォーマルパンツ"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

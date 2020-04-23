@@ -1,6 +1,14 @@
 {
   "id": "picnic-shirt",
-  "name": "Picnic Shirt",
+  "name": {
+    "de": "Rosa-Karo-Pulli",
+    "en-GB": "Picnic Shirt",
+    "en-US": "Picnic Shirt",
+    "es": "Jersey vichy lila",
+    "fr": "Pull vichy sorbet",
+    "it": "Maglia amarena",
+    "ja": "ベリーギンガムなふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

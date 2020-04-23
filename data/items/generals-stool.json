@@ -1,6 +1,14 @@
 {
   "id": "generals-stool",
-  "name": "General's Stool",
+  "name": {
+    "de": "Shogun-Klappstuhl",
+    "en-GB": "General's Stool",
+    "en-US": "General's Stool",
+    "es": "Silla de shogun",
+    "fr": "Siège de shogun",
+    "it": "Sgabello da shogun",
+    "ja": "しょうぐんのイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

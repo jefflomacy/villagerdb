@@ -1,6 +1,14 @@
 {
   "id": "washing-machine",
-  "name": "Washing Machine",
+  "name": {
+    "de": "Waschmaschine",
+    "en-GB": "Washing Machine",
+    "en-US": "Washing Machine",
+    "es": "Lavadora moderna",
+    "fr": "Machine à laver",
+    "it": "Lavatrice",
+    "ja": "ななめドラムせんたくき"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

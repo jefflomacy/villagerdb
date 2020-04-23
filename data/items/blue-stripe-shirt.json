@@ -1,6 +1,14 @@
 {
   "id": "blue-stripe-shirt",
-  "name": "Blue-stripe Shirt",
+  "name": {
+    "de": "Matrosenpulli",
+    "en-GB": "Blue-Stripe Shirt",
+    "en-US": "Blue-Stripe Shirt",
+    "es": "Jersey playa azul",
+    "fr": "Pull marin",
+    "it": "Maglia righe blu",
+    "ja": "マリンボーダーのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "gray-tartan-shirt",
-  "name": "Gray Tartan Shirt",
+  "name": {
+    "de": "Tartanpulli",
+    "en-GB": "Gray Tartan Shirt",
+    "en-US": "Gray Tartan Shirt",
+    "es": "Jersey tartán gris",
+    "fr": "Pull tartan gris",
+    "it": "Maglia tartan nera",
+    "ja": "グレータータンのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

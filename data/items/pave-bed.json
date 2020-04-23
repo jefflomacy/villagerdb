@@ -1,6 +1,14 @@
 {
   "id": "pave-bed",
-  "name": "Pavé Bed",
+  "name": {
+    "de": "Karnevalsbett",
+    "en-GB": "Pavé Bed",
+    "en-US": "Pavé Bed",
+    "es": "Cama Conga",
+    "fr": "Lit carnaval",
+    "it": "Letto Pavão",
+    "ja": "カーニバルベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

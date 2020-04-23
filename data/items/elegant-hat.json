@@ -1,6 +1,14 @@
 {
   "id": "elegant-hat",
-  "name": "Elegant Hat",
+  "name": {
+    "de": "Schmuckhut",
+    "en-GB": "Elegant Hat",
+    "en-US": "Elegant Hat",
+    "es": "Pamela elegante",
+    "fr": "Chapeau classe",
+    "it": "Cappello elegante",
+    "ja": "エレガントなぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

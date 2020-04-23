@@ -1,6 +1,14 @@
 {
   "id": "exercise-bike",
-  "name": "Exercise Bike",
+  "name": {
+    "de": "Fahrradergometer",
+    "en-GB": "Exercise Bike",
+    "en-US": "Exercise Bike",
+    "es": "Bicicleta estática",
+    "fr": "Vélo d'appartement",
+    "it": "Cyclette",
+    "ja": "エクササイズバイク"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

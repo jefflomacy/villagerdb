@@ -1,6 +1,14 @@
 {
   "id": "heart-bopper",
-  "name": "Heart Bopper",
+  "name": {
+    "de": "Leuchtherzchenfühler",
+    "en-GB": "Heart Bopper",
+    "en-US": "Heart Bopper",
+    "es": "Diadema corazones",
+    "fr": "Serre-tête c\\u0153urs",
+    "it": "Paio antenne cuori",
+    "ja": "ひかるハートアクセサリー"
+  },
   "category": "Hats",
   "games": {
     "nl": {

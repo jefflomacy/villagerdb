@@ -1,6 +1,14 @@
 {
   "id": "halo",
-  "name": "Halo",
+  "name": {
+    "de": "Lichtkranz",
+    "en-GB": "Halo",
+    "en-US": "Halo",
+    "es": "Halo",
+    "fr": "Auréole",
+    "it": "Aureola",
+    "ja": "てんしのわ"
+  },
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "red-snapper-chair",
-  "name": "Red-snapper Chair",
+  "name": {
+    "de": "Fischsofa",
+    "en-GB": "Red-Snapper Chair",
+    "en-US": "Red-Snapper Chair",
+    "es": "Sofá pargo rojo",
+    "fr": "Fauteuil vivaneau",
+    "it": "Sofà colisa",
+    "ja": "タイそうなソファ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

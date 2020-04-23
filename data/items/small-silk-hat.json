@@ -1,6 +1,14 @@
 {
   "id": "small-silk-hat",
-  "name": "Small Silk Hat",
+  "name": {
+    "de": "Mini-Seidenhut",
+    "en-GB": "Small Silk Hat",
+    "en-US": "Small Silk Hat",
+    "es": "Minichistera",
+    "fr": "Chapeau de cavalière",
+    "it": "Capp. di seta rossa",
+    "ja": "ちいさめシルクハット"
+  },
   "category": "Hats",
   "games": {
     "nl": {

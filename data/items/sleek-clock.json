@@ -1,6 +1,14 @@
 {
   "id": "sleek-clock",
-  "name": "Sleek Clock",
+  "name": {
+    "de": "Designeruhr",
+    "en-GB": "Sleek Clock",
+    "en-US": "Sleek Clock",
+    "es": "Reloj tubos",
+    "fr": "Horloge design",
+    "it": "Orologio design",
+    "ja": "パイプなとけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

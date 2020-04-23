@@ -1,6 +1,14 @@
 {
   "id": "jester-tank",
-  "name": "Jester Tank",
+  "name": {
+    "de": "Narrentop",
+    "en-GB": "Jester Tank",
+    "en-US": "Jester Tank",
+    "es": "Top de bufón",
+    "fr": "Débardeur bouffon",
+    "it": "Canotta giullare",
+    "ja": "ピエロのふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "complex-machine",
-  "name": "Complex Machine",
+  "name": {
+    "de": "Streckmaschine",
+    "en-GB": "Complex Machine",
+    "en-US": "Complex Machine",
+    "es": "Psicogenerador",
+    "fr": "Machine complexe",
+    "it": "Macchina complessa",
+    "ja": "ややこしそうなキカイ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

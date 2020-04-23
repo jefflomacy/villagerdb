@@ -1,6 +1,14 @@
 {
   "id": "chocolate-cake",
-  "name": "Chocolate Cake",
+  "name": {
+    "de": "Schokoladenkuchen",
+    "en-GB": "Chocolate Cake",
+    "en-US": "Chocolate Cake",
+    "es": "Tarta de chocolate",
+    "fr": "Gâteau au chocolat",
+    "it": "Torta al cioccolato",
+    "ja": "チョコレートケーキ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

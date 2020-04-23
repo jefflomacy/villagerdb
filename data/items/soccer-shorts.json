@@ -1,6 +1,14 @@
 {
   "id": "soccer-shorts",
-  "name": "Soccer Shorts",
+  "name": {
+    "de": "WM-Hose",
+    "en-GB": "Soccer Shorts",
+    "en-US": "Soccer Shorts",
+    "es": "Pantalón fútbol",
+    "fr": "Short Brésil",
+    "it": "Paio bermuda calcio",
+    "ja": "ラテンユニフォームズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "plesio-torso",
-  "name": "Plesio Torso",
+  "name": {
+    "de": "Plesiosaurus-Torso",
+    "en-GB": "Plesio Torso",
+    "en-US": "Plesio Torso",
+    "es": "Cuerpo plesiosaurio",
+    "fr": "Corps de plésiosaure",
+    "it": "Torso plesiosauro",
+    "ja": "スズキリュウのからだ"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

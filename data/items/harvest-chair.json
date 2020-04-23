@@ -1,6 +1,14 @@
 {
   "id": "harvest-chair",
-  "name": "Harvest Chair",
+  "name": {
+    "de": "Herbststuhl",
+    "en-GB": "Harvest Chair",
+    "en-US": "Harvest Chair",
+    "es": "Silla pavo",
+    "fr": "Chaise dindon",
+    "it": "Sedia autunno",
+    "ja": "ハーベストチェア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

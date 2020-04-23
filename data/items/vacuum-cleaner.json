@@ -1,6 +1,14 @@
 {
   "id": "vacuum-cleaner",
-  "name": "Vacuum Cleaner",
+  "name": {
+    "de": "Staubsauger",
+    "en-GB": "Vacuum Cleaner",
+    "en-US": "Vacuum Cleaner",
+    "es": "Aspiradora",
+    "fr": "Aspirateur",
+    "it": "Aspirapolvere",
+    "ja": "そうじき"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

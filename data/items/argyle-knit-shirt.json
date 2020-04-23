@@ -1,6 +1,14 @@
 {
   "id": "argyle-knit-shirt",
-  "name": "Argyle Knit Shirt",
+  "name": {
+    "de": "Argyle-Pulli",
+    "en-GB": "Argyle Knit Shirt",
+    "en-US": "Argyle Knit Shirt",
+    "es": "Jersey pijo",
+    "fr": "Pull écossais vert",
+    "it": "Maglione a rombi",
+    "ja": "トラッドなニット"
+  },
   "category": "Tops",
   "games": {
     "nl": {

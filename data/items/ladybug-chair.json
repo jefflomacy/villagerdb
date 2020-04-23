@@ -1,6 +1,14 @@
 {
   "id": "ladybug-chair",
-  "name": "Ladybug Chair",
+  "name": {
+    "de": "Marienkäferschemel",
+    "en-GB": "Ladybug Chair",
+    "en-US": "Ladybug Chair",
+    "es": "Taburete mariquita",
+    "fr": "Siège coccinelle",
+    "it": "Sgabello coccinella",
+    "ja": "テントウムシのイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

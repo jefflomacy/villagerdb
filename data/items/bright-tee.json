@@ -1,6 +1,14 @@
 {
   "id": "bright-tee",
-  "name": "Bright Tee",
+  "name": {
+    "de": "08/15-Shirt",
+    "en-GB": "Bright Tee",
+    "en-US": "Bright Tee",
+    "es": "Camiseta ameba",
+    "fr": "T-shirt amibe",
+    "it": "Maglietta fiore",
+    "ja": "なんかよくみるふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

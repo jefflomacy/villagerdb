@@ -1,6 +1,14 @@
 {
   "id": "sleek-dresser",
-  "name": "Sleek Dresser",
+  "name": {
+    "de": "Designerkommode",
+    "en-GB": "Sleek Dresser",
+    "en-US": "Sleek Dresser",
+    "es": "Cómoda tubos",
+    "fr": "Commode design",
+    "it": "Comò design",
+    "ja": "パイプなチェスト"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

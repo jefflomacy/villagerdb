@@ -1,6 +1,14 @@
 {
   "id": "lucky-cat",
-  "name": "Lucky Cat",
+  "name": {
+    "de": "Glückskatze",
+    "en-GB": "Lucky Cat",
+    "en-US": "Lucky Cat",
+    "es": "Gato suerte",
+    "fr": "Chat fétiche",
+    "it": "Gatto fortuna",
+    "ja": "まねきねこ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

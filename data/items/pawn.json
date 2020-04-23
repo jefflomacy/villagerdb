@@ -1,6 +1,14 @@
 {
   "id": "pawn",
-  "name": "Pawn",
+  "name": {
+    "de": "Bauer",
+    "en-GB": "Pawn",
+    "en-US": "Pawn",
+    "es": "Peón",
+    "fr": "Pion",
+    "it": "Pedone",
+    "ja": "ポーンのこま"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "yule-log",
-  "name": "Yule Log",
+  "name": {
+    "de": "Bûche de Noël",
+    "en-GB": "Yule Log",
+    "en-US": "Yule Log",
+    "es": "Tronco de chocolate",
+    "fr": "Bûche au chocolat",
+    "it": "Rotolo dolce",
+    "ja": "ブッシュ・ド・ノエル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

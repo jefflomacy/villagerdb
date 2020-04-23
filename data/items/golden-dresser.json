@@ -1,6 +1,14 @@
 {
   "id": "golden-dresser",
-  "name": "Golden Dresser",
+  "name": {
+    "de": "Goldkommode",
+    "en-GB": "Golden Dresser",
+    "en-US": "Golden Dresser",
+    "es": "Cómoda dorada",
+    "fr": "Commode d'or",
+    "it": "Toletta d'oro",
+    "ja": "おうごんのタンス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

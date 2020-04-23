@@ -1,6 +1,14 @@
 {
   "id": "green-stripe-tank",
-  "name": "Green-stripe Tank",
+  "name": {
+    "de": "Grünstreifentop",
+    "en-GB": "Green-Stripe Tank",
+    "en-US": "Green-Stripe Tank",
+    "es": "Top rayas verdes",
+    "fr": "Débardeur rayé vert",
+    "it": "Canotta righe verdi",
+    "ja": "みどりのタンクトップ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

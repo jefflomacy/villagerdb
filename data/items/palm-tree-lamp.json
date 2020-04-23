@@ -1,6 +1,14 @@
 {
   "id": "palm-tree-lamp",
-  "name": "Palm-tree Lamp",
+  "name": {
+    "de": "Palmenlampe",
+    "en-GB": "Palm-Tree Lamp",
+    "en-US": "Palm-Tree Lamp",
+    "es": "Lámpara palmera",
+    "fr": "Lampe palmier",
+    "it": "Lampada palma",
+    "ja": "パームツリーランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

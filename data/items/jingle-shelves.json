@@ -1,6 +1,14 @@
 {
   "id": "jingle-shelves",
-  "name": "Jingle Shelves",
+  "name": {
+    "de": "Festtagsregal",
+    "en-GB": "Jingle Shelves",
+    "en-US": "Jingle Shelves",
+    "es": "Librería festiva",
+    "fr": "étagère festive",
+    "it": "Libreria Jingle",
+    "ja": "クリスマスラック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

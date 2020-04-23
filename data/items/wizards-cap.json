@@ -1,6 +1,14 @@
 {
   "id": "wizards-cap",
-  "name": "Wizard's Cap",
+  "name": {
+    "de": "Zauberhut",
+    "en-GB": "Wizard's Cap",
+    "en-US": "Wizard's Cap",
+    "es": "Gorro mago",
+    "fr": "Chapeau de magicien",
+    "it": "Cappello da mago",
+    "ja": "とんがりぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

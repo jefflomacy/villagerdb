@@ -1,6 +1,14 @@
 {
   "id": "melon-gingham-shirt",
-  "name": "Melon Gingham Shirt",
+  "name": {
+    "de": "Künstlerpulli",
+    "en-GB": "Melon Gingham Shirt",
+    "en-US": "Melon Gingham Shirt",
+    "es": "Jersey vichy lima",
+    "fr": "Pull vichy vert",
+    "it": "Maglia pistacchio",
+    "ja": "わかばギンガムのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "papa-panda",
-  "name": "Papa Panda",
+  "name": {
+    "de": "Papa-Panda",
+    "en-GB": "Papa Panda",
+    "en-US": "Papa Panda",
+    "es": "Papá panda",
+    "fr": "Papa panda",
+    "it": "Papà panda",
+    "ja": "パンダのタアタア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

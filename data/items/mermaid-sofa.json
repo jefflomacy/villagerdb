@@ -1,6 +1,14 @@
 {
   "id": "mermaid-sofa",
-  "name": "Mermaid Sofa",
+  "name": {
+    "de": "Nixensofa",
+    "en-GB": "Mermaid Sofa",
+    "en-US": "Mermaid Sofa",
+    "es": "Sofá sirena",
+    "fr": "Canapé sirène",
+    "it": "Sofà sirena",
+    "ja": "マーメイドなソファ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

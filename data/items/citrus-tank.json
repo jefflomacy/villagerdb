@@ -1,6 +1,14 @@
 {
   "id": "citrus-tank",
-  "name": "Citrus Tank",
+  "name": {
+    "de": "Mandarinentop",
+    "en-GB": "Citrus Tank",
+    "en-US": "Citrus Tank",
+    "es": "Top cítrico",
+    "fr": "Débardeur agrume",
+    "it": "Canotta agrumi",
+    "ja": "なつみかんのふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

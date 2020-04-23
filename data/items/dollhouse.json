@@ -1,6 +1,14 @@
 {
   "id": "dollhouse",
-  "name": "Dollhouse",
+  "name": {
+    "de": "Puppenhaus",
+    "en-GB": "Dollhouse",
+    "en-US": "Dollhouse",
+    "es": "Casa de muñecas",
+    "fr": "Maison de poupée",
+    "it": "Casa delle bambole",
+    "ja": "ドールハウス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

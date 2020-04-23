@@ -1,6 +1,14 @@
 {
   "id": "red-bar-tee",
-  "name": "Red-bar Tee",
+  "name": {
+    "de": "Ferienshirt",
+    "en-GB": "Red-Bar Tee",
+    "en-US": "Red-Bar Tee",
+    "es": "Camiseta barras",
+    "fr": "T-shirt barre",
+    "it": "Maglietta a rigoni",
+    "ja": "あかしろラガーシャツ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "purple-star-socks",
-  "name": "Purple Star Socks",
+  "name": {
+    "de": "Sternchensocke",
+    "en-GB": "Purple Star Socks",
+    "en-US": "Purple Star Socks",
+    "es": "Calcetín estrellas",
+    "fr": "Paire chaus. étoiles",
+    "it": "P. calzini a stelle",
+    "ja": "ほしがらハイソックス"
+  },
   "category": "Socks",
   "games": {
     "nl": {

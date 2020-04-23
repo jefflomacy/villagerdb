@@ -1,6 +1,14 @@
 {
   "id": "tuk-tuk",
-  "name": "Tuk-tuk",
+  "name": {
+    "de": "Auto-Rikscha",
+    "en-GB": "Tuk-Tuk",
+    "en-US": "Tuk-Tuk",
+    "es": "Tuk tuk",
+    "fr": "Tuk-tuk",
+    "it": "Tuk tuk",
+    "ja": "トゥクトゥク"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

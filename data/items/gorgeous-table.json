@@ -1,6 +1,14 @@
 {
   "id": "gorgeous-table",
-  "name": "Gorgeous Table",
+  "name": {
+    "de": "Luxustisch",
+    "en-GB": "Gorgeous Table",
+    "en-US": "Gorgeous Table",
+    "es": "Mesa palacio",
+    "fr": "Table somptueuse",
+    "it": "Tavolo divino",
+    "ja": "ゴージャステーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "arctic-camo-pants",
-  "name": "Arctic-camo Pants",
+  "name": {
+    "de": "Arktik-Hose",
+    "en-GB": "Arctic-Camo Pants",
+    "en-US": "Arctic-Camo Pants",
+    "es": "Pantalón polar",
+    "fr": "Pantalon motif glace",
+    "it": "Pantal. mimetico blu",
+    "ja": "かんれいめいさいズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

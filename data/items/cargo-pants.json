@@ -1,6 +1,14 @@
 {
   "id": "cargo-pants",
-  "name": "Cargo Pants",
+  "name": {
+    "de": "Cargohose",
+    "en-GB": "Cargo Pants",
+    "en-US": "Cargo Pants",
+    "es": "Pantalón cargo",
+    "fr": "Pantalon cargo",
+    "it": "Pantalone con tasche",
+    "ja": "カーゴパンツ"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

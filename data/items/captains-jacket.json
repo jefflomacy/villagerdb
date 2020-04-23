@@ -1,6 +1,14 @@
 {
   "id": "captains-jacket",
-  "name": "Captain's Jacket",
+  "name": {
+    "de": "Pilotenjacke",
+    "en-GB": "Captain's Jacket",
+    "en-US": "Captain's Jacket",
+    "es": "Chaqueta de capitán",
+    "fr": "Tenue de capitaine",
+    "it": "Giacca capitano",
+    "ja": "きちょうのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

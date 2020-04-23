@@ -1,6 +1,14 @@
 {
   "id": "red-team-cap",
-  "name": "Red-team Cap",
+  "name": {
+    "de": "Rotteamkappe",
+    "en-GB": "Red-Team Cap",
+    "en-US": "Red-Team Cap",
+    "es": "Gorra rojos",
+    "fr": "Casquette des rouges",
+    "it": "Berretto team rosso",
+    "ja": "あかぐみのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

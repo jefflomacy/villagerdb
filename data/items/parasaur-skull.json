@@ -1,6 +1,14 @@
 {
   "id": "parasaur-skull",
-  "name": "Parasaur Skull",
+  "name": {
+    "de": "Parasaurus-Schädel",
+    "en-GB": "Parasaur Skull",
+    "en-US": "Parasaur Skull",
+    "es": "Cráneo parasaurio",
+    "fr": "Crâne de parasauro",
+    "it": "Teschio parasauro",
+    "ja": "パラサウロロフスのあたま"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

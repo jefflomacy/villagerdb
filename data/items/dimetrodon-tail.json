@@ -1,6 +1,14 @@
 {
   "id": "dimetrodon-tail",
-  "name": "Dimetrodon Tail",
+  "name": {
+    "de": "Dimetrodon-Schwanz",
+    "en-GB": "Dimetrodon Tail",
+    "en-US": "Dimetrodon Tail",
+    "es": "Cola dimetrodonte",
+    "fr": "Queue de dimétrodon",
+    "it": "Coda dimetrodonte",
+    "ja": "ディメトロドンのしっぽ"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

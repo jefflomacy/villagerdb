@@ -1,6 +1,14 @@
 {
   "id": "cabana-wardrobe",
-  "name": "Cabana Wardrobe",
+  "name": {
+    "de": "Korbschrank",
+    "en-GB": "Cabana Wardrobe",
+    "en-US": "Cabana Wardrobe",
+    "es": "Armario mimbre",
+    "fr": "Armoire rotin",
+    "it": "Armadio vimini",
+    "ja": "リゾートなクロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

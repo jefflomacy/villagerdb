@@ -1,6 +1,14 @@
 {
   "id": "no-1-shirt",
-  "name": "No. 1 Shirt",
+  "name": {
+    "de": "Nr.-1-Pulli",
+    "en-GB": "No. 1 Shirt",
+    "en-US": "No. 1 Shirt",
+    "es": "Jersey n.º 1",
+    "fr": "Pull 1",
+    "it": "Maglia nº 1",
+    "ja": "No.1のふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

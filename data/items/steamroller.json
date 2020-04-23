@@ -1,6 +1,14 @@
 {
   "id": "steamroller",
-  "name": "Steamroller",
+  "name": {
+    "de": "Dampfwalze",
+    "en-GB": "Steamroller",
+    "en-US": "Steamroller",
+    "es": "Apisonadora",
+    "fr": "Compacteur",
+    "it": "Rullo compressore",
+    "ja": "スチームローラー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "school-speaker",
-  "name": "School Speaker",
+  "name": {
+    "de": "Wandlautsprecher",
+    "en-GB": "School Speaker",
+    "en-US": "School Speaker",
+    "es": "Altavoz colegio",
+    "fr": "Haut-parleur",
+    "it": "Altoparlante",
+    "ja": "がっこうのスピーカー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

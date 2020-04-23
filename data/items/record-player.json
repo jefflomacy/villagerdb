@@ -1,6 +1,14 @@
 {
   "id": "record-player",
-  "name": "Record Player",
+  "name": {
+    "de": "Plattenspieler",
+    "en-GB": "Record Player",
+    "en-US": "Record Player",
+    "es": "Tocadiscos LP",
+    "fr": "Platine",
+    "it": "Giradischi anni '70",
+    "ja": "LPプレーヤー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

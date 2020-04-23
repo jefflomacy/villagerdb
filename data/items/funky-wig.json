@@ -1,6 +1,14 @@
 {
   "id": "funky-wig",
-  "name": "Funky Wig",
+  "name": {
+    "de": "Strähnchenperücke",
+    "en-GB": "Funky Wig",
+    "en-US": "Funky Wig",
+    "es": "Peluca con mechas",
+    "fr": "Perruque funky",
+    "it": "Parrucca funky",
+    "ja": "モードなウィッグ"
+  },
   "category": "Hats",
   "games": {
     "nl": {

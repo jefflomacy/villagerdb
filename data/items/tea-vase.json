@@ -1,6 +1,14 @@
 {
   "id": "tea-vase",
-  "name": "Tea Vase",
+  "name": {
+    "de": "Biedermeier-Vase",
+    "en-GB": "Tea Vase",
+    "en-US": "Tea Vase",
+    "es": "Jarrón ámbar",
+    "fr": "Pot à thé",
+    "it": "Vaso verde",
+    "ja": "ちゃつぼ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

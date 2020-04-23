@@ -1,6 +1,14 @@
 {
   "id": "handcart",
-  "name": "Handcart",
+  "name": {
+    "de": "Schubkarre",
+    "en-GB": "Handcart",
+    "en-US": "Handcart",
+    "es": "Carretilla",
+    "fr": "Brouette",
+    "it": "Carriola",
+    "ja": "ネコぐるま"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "two-ball-tee",
-  "name": "Two-ball Tee",
+  "name": {
+    "de": "2er-Shirt",
+    "en-GB": "Two-Ball Tee",
+    "en-US": "Two-Ball Tee",
+    "es": "Camiseta bola 2",
+    "fr": "T-shirt nº 2",
+    "it": "Maglietta palla 2",
+    "ja": "2ばんだまのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "kids-smock",
-  "name": "Kids' Smock",
+  "name": {
+    "de": "Malkittel",
+    "en-GB": "Kids' Smock",
+    "en-US": "Kids' Smock",
+    "es": "Jersey parvulario",
+    "fr": "Blouse enfant",
+    "it": "Maglia grembiule",
+    "ja": "スモック"
+  },
   "category": "Tops",
   "games": {
     "nl": {

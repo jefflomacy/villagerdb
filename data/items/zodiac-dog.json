@@ -1,6 +1,14 @@
 {
   "id": "zodiac-dog",
-  "name": "Zodiac Dog",
+  "name": {
+    "de": "Hundefigur",
+    "en-GB": "Zodiac Dog",
+    "en-US": "Zodiac Dog",
+    "es": "Figura de perro",
+    "fr": "Figurine de chien",
+    "it": "Figurina di cane",
+    "ja": "えとのおきもの・いぬ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

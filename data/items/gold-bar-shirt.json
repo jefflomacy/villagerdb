@@ -1,6 +1,14 @@
 {
   "id": "gold-bar-shirt",
-  "name": "Gold-bar Shirt",
+  "name": {
+    "de": "Rudererpulli",
+    "en-GB": "Gold-Bar Shirt",
+    "en-US": "Gold-Bar Shirt",
+    "es": "Jersey rayas oro",
+    "fr": "Pull rayures jaune",
+    "it": "Maglia barre gialla",
+    "ja": "じみなたてじまのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

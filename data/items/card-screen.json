@@ -1,6 +1,14 @@
 {
   "id": "card-screen",
-  "name": "Card Screen",
+  "name": {
+    "de": "Kartenraumteiler",
+    "en-GB": "Card Screen",
+    "en-US": "Card Screen",
+    "es": "Biombo naipes",
+    "fr": "Paravent cartes",
+    "it": "Separé carte",
+    "ja": "トランプスクリーン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

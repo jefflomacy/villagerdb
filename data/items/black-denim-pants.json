@@ -1,6 +1,14 @@
 {
   "id": "black-denim-pants",
-  "name": "Black-denim Pants",
+  "name": {
+    "de": "Schwarzjeanshose",
+    "en-GB": "Black-Denim Pants",
+    "en-US": "Black-Denim Pants",
+    "es": "Pantalón denim negro",
+    "fr": "Pantalon jean noir",
+    "it": "Paio jeans neri",
+    "ja": "くろいデニム"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

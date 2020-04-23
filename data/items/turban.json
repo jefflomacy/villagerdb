@@ -1,6 +1,14 @@
 {
   "id": "turban",
-  "name": "Turban",
+  "name": {
+    "de": "Turban",
+    "en-GB": "Turban",
+    "en-US": "Turban",
+    "es": "Turbante",
+    "fr": "Turban",
+    "it": "Turbante",
+    "ja": "ターバン"
+  },
   "category": "Hats",
   "games": {
     "nl": {

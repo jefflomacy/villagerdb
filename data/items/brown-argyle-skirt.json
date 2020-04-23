@@ -1,6 +1,14 @@
 {
   "id": "brown-argyle-skirt",
-  "name": "Brown Argyle Skirt",
+  "name": {
+    "de": "Braun-Argyle-Rock",
+    "en-GB": "Brown Argyle Skirt",
+    "en-US": "Brown Argyle Skirt",
+    "es": "Falda pija marrón",
+    "fr": "Jupe écossaise brune",
+    "it": "Gonna a rombi beige",
+    "ja": "アーガイルスカート"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

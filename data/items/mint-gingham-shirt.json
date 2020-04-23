@@ -1,6 +1,14 @@
 {
   "id": "mint-gingham-shirt",
-  "name": "Mint Gingham Shirt",
+  "name": {
+    "de": "Mint-Karo-Pulli",
+    "en-GB": "Mint Gingham Shirt",
+    "en-US": "Mint Gingham Shirt",
+    "es": "Jersey vichy menta",
+    "fr": "Pull vichy menthe",
+    "it": "Maglia menta",
+    "ja": "ミントギンガムなふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

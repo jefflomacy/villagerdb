@@ -1,6 +1,14 @@
 {
   "id": "crews-monitor",
-  "name": "Crew's Monitor",
+  "name": {
+    "de": "Crewmonitor",
+    "en-GB": "Crew's Monitor",
+    "en-US": "Crew's Monitor",
+    "es": "Monitor tripulación",
+    "fr": "Moniteur équipage",
+    "it": "Monitor equipaggio",
+    "ja": "クルーのモニター"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

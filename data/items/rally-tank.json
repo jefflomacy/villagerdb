@@ -1,6 +1,14 @@
 {
   "id": "rally-tank",
-  "name": "Rally Tank",
+  "name": {
+    "de": "Rallye-Top",
+    "en-GB": "Rally Tank",
+    "en-US": "Rally Tank",
+    "es": "Top toldo",
+    "fr": "Débardeur rallye",
+    "it": "Canotta da rally",
+    "ja": "ラリーなふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

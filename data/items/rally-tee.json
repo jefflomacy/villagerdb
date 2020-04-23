@@ -1,6 +1,14 @@
 {
   "id": "rally-tee",
-  "name": "Rally Tee",
+  "name": {
+    "de": "Rallye-Shirt",
+    "en-GB": "Rally Tee",
+    "en-US": "Rally Tee",
+    "es": "Camiseta toldo",
+    "fr": "T-shirt rallye",
+    "it": "Maglietta da rally",
+    "ja": "ラリーなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

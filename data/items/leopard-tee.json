@@ -1,6 +1,14 @@
 {
   "id": "leopard-tee",
-  "name": "Leopard Tee",
+  "name": {
+    "de": "Leopardenshirt",
+    "en-GB": "Leopard Tee",
+    "en-US": "Leopard Tee",
+    "es": "Camiseta leopardo",
+    "fr": "T-shirt léopard",
+    "it": "Maglietta leopardo",
+    "ja": "ひょうがらのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

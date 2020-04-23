@@ -1,6 +1,14 @@
 {
   "id": "lemon-table",
-  "name": "Lemon Table",
+  "name": {
+    "de": "Zitronentisch",
+    "en-GB": "Lemon Table",
+    "en-US": "Lemon Table",
+    "es": "Mesa limón",
+    "fr": "Table citron",
+    "it": "Tavolo limone",
+    "ja": "レモンのテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "iguanodon-skull",
-  "name": "Iguanodon Skull",
+  "name": {
+    "de": "Iguanodon-Schädel",
+    "en-GB": "Iguanodon Skull",
+    "en-US": "Iguanodon Skull",
+    "es": "Cráneo iguanodonte",
+    "fr": "Crâne d'iguanodon",
+    "it": "Teschio iguanodonte",
+    "ja": "イグアノドンのあたま"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "bunny-hood",
-  "name": "Bunny Hood",
+  "name": {
+    "de": "Hasenkapuze",
+    "en-GB": "Bunny Hood",
+    "en-US": "Bunny Hood",
+    "es": "Gorro de conejito",
+    "fr": "Cagoule lapin",
+    "it": "Cappello coniglio",
+    "ja": "うさぎのかぶりもの"
+  },
   "category": "Hats",
   "games": {
     "nl": {

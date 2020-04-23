@@ -1,6 +1,14 @@
 {
   "id": "cabin-low-table",
-  "name": "Cabin Low Table",
+  "name": {
+    "de": "Blockhaustischchen",
+    "en-GB": "Cabin Low Table",
+    "en-US": "Cabin Low Table",
+    "es": "Mesita cabaña",
+    "fr": "Table basse chalet",
+    "it": "Tavolino rustico",
+    "ja": "ログソファテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

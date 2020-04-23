@@ -1,6 +1,14 @@
 {
   "id": "green-new-years-hat",
-  "name": "Green New Year's Hat",
+  "name": {
+    "de": "Neujahrshut (grün)",
+    "en-GB": "Green New Year's Hat",
+    "en-US": "Green New Year's Hat",
+    "es": "Gorro Año N. verde",
+    "fr": "Chapeau nouvel an V",
+    "it": "Capp. Capodan. verde",
+    "ja": "ニューイヤーハットみどり"
+  },
   "category": "Hats",
   "games": {
     "nl": {

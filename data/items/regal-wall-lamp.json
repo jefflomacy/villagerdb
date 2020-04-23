@@ -1,6 +1,14 @@
 {
   "id": "regal-wall-lamp",
-  "name": "Regal Wall Lamp",
+  "name": {
+    "de": "Royalwandlampe",
+    "en-GB": "Regal Wall Lamp",
+    "en-US": "Regal Wall Lamp",
+    "es": "Lámpara pared regia",
+    "fr": "Lampe mur royale",
+    "it": "Lampada a muro chic",
+    "ja": "ロイヤルなウォールランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

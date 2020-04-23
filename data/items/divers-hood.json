@@ -1,6 +1,14 @@
 {
   "id": "divers-hood",
-  "name": "Diver's Hood",
+  "name": {
+    "de": "Taucherkappe",
+    "en-GB": "Diver's Hood",
+    "en-US": "Diver's Hood",
+    "es": "Capucha de buzo",
+    "fr": "Cagoule de plongeur",
+    "it": "Copricapo immersione",
+    "ja": "ウォーターフード"
+  },
   "category": "Hats",
   "games": {
     "nl": {

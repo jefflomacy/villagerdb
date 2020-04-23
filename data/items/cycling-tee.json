@@ -1,6 +1,14 @@
 {
   "id": "cycling-tee",
-  "name": "Cycling Tee",
+  "name": {
+    "de": "Radlershirt",
+    "en-GB": "Cycling Tee",
+    "en-US": "Cycling Tee",
+    "es": "Camiseta ciclista",
+    "fr": "T-shirt cycliste",
+    "it": "Maglietta ciclista",
+    "ja": "はんそでサイクルジャージ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

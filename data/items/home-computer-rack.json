@@ -1,6 +1,14 @@
 {
   "id": "home-computer-rack",
-  "name": "Home-computer Rack",
+  "name": {
+    "de": "Heimcomputertisch",
+    "en-GB": "Home-Computer Rack",
+    "en-US": "Home-Computer Rack",
+    "es": "Buró con portátil",
+    "fr": "Meuble informatique",
+    "it": "Scrivania con pc",
+    "ja": "ホームパソコンラック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "tube-socks",
-  "name": "Tube Socks",
+  "name": {
+    "de": "Sportsocke",
+    "en-GB": "Tube Socks",
+    "en-US": "Tube Socks",
+    "es": "Calcetín cómodo",
+    "fr": "Paire chauss. sport",
+    "it": "P. calzini di spugna",
+    "ja": "ラインソックス"
+  },
   "category": "Socks",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "blue-polka-shorts",
-  "name": "Blue Polka Shorts",
+  "name": {
+    "de": "Blaupünktchenhose",
+    "en-GB": "Blue Polka Shorts",
+    "en-US": "Blue Polka Shorts",
+    "es": "Bermuda topos azul",
+    "fr": "Short à pois bleu",
+    "it": "P. bermuda blu notte",
+    "ja": "ドットがらたんパン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

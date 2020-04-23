@@ -1,6 +1,14 @@
 {
   "id": "ice-dresser",
-  "name": "Ice Dresser",
+  "name": {
+    "de": "Eiskommode",
+    "en-GB": "Ice Dresser",
+    "en-US": "Ice Dresser",
+    "es": "Cómoda hielo",
+    "fr": "Commode glace",
+    "it": "Comò ghiaccio",
+    "ja": "アイスなチェスト"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "archaeopteryx",
-  "name": "Archaeopteryx",
+  "name": {
+    "de": "Archaeopteryx",
+    "en-GB": "Archaeopteryx",
+    "en-US": "Archaeopteryx",
+    "es": "Arqueoptérix",
+    "fr": "Archéoptéryx",
+    "it": "Archaeopteryx",
+    "ja": "しそちょう"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

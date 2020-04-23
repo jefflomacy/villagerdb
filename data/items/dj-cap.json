@@ -1,6 +1,14 @@
 {
   "id": "dj-cap",
-  "name": "Dj Cap",
+  "name": {
+    "de": "DJ-Kappe",
+    "en-GB": "DJ Cap",
+    "en-US": "DJ Cap",
+    "es": "Gorra de DJ",
+    "fr": "Casque de DJ",
+    "it": "Cappello con cuffie",
+    "ja": "ヘッドホン"
+  },
   "category": "Hats",
   "games": {
     "nl": {

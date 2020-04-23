@@ -1,6 +1,14 @@
 {
   "id": "wrestling-mask",
-  "name": "Wrestling Mask",
+  "name": {
+    "de": "Wrestlingmaske",
+    "en-GB": "Wrestling Mask",
+    "en-US": "Wrestling Mask",
+    "es": "Máscara de luchador",
+    "fr": "Masque de catch",
+    "it": "Maschera wrestling",
+    "ja": "プロレスのマスク"
+  },
   "category": "Hats",
   "games": {
     "nl": {

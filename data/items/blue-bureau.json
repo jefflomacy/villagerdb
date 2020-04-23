@@ -1,6 +1,14 @@
 {
   "id": "blue-bureau",
-  "name": "Blue Bureau",
+  "name": {
+    "de": "Azurkommode",
+    "en-GB": "Blue Bureau",
+    "en-US": "Blue Bureau",
+    "es": "Cómoda azul",
+    "fr": "Commode bleue",
+    "it": "Comò blu",
+    "ja": "あおいタンス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

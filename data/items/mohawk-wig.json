@@ -1,6 +1,14 @@
 {
   "id": "mohawk-wig",
-  "name": "Mohawk Wig",
+  "name": {
+    "de": "Irokesenperücke",
+    "en-GB": "Mohawk Wig",
+    "en-US": "Mohawk Wig",
+    "es": "Cresta india",
+    "fr": "Perruque iroquoise",
+    "it": "Parrucca da moicano",
+    "ja": "モヒカン"
+  },
   "category": "Hats",
   "games": {
     "nl": {

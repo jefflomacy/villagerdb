@@ -1,6 +1,14 @@
 {
   "id": "pink-slip-ons",
-  "name": "Pink Slip-ons",
+  "name": {
+    "de": "Girlie-Schuh",
+    "en-GB": "Pink Slip-Ons",
+    "en-US": "Pink Slip-Ons",
+    "es": "Pantufla rosa",
+    "fr": "P. pantoufles roses",
+    "it": "Paio scarpe rosa",
+    "ja": "ピンクのスニーカー"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

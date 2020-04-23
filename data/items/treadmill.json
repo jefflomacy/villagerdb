@@ -1,6 +1,14 @@
 {
   "id": "treadmill",
-  "name": "Treadmill",
+  "name": {
+    "de": "Laufband",
+    "en-GB": "Treadmill",
+    "en-US": "Treadmill",
+    "es": "Cinta de correr",
+    "fr": "Tapis roulant",
+    "it": "Tapis roulant",
+    "ja": "ランニングマシーン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

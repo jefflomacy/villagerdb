@@ -1,6 +1,14 @@
 {
   "id": "cardboard-chair",
-  "name": "Cardboard Chair",
+  "name": {
+    "de": "Kartonhocker",
+    "en-GB": "Cardboard Chair",
+    "en-US": "Cardboard Chair",
+    "es": "Silla cartón",
+    "fr": "Siège carton",
+    "it": "Sgabello scatolone",
+    "ja": "ダンボールイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

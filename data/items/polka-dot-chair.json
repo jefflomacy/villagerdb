@@ -1,6 +1,14 @@
 {
   "id": "polka-dot-chair",
-  "name": "Polka-dot Chair",
+  "name": {
+    "de": "Pünktchensessel",
+    "en-GB": "Polka-Dot Chair",
+    "en-US": "Polka-Dot Chair",
+    "es": "Silla topos",
+    "fr": "Fauteuil pois rouge",
+    "it": "Sedia pois",
+    "ja": "みずたまなイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

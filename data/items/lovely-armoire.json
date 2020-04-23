@@ -1,6 +1,14 @@
 {
   "id": "lovely-armoire",
-  "name": "Lovely Armoire",
+  "name": {
+    "de": "Herzchenschrank",
+    "en-GB": "Lovely Armoire",
+    "en-US": "Lovely Armoire",
+    "es": "Armario corazón",
+    "fr": "Armoire c\\u0153ur",
+    "it": "Armadio cuori",
+    "ja": "ラブリークロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "card-closet",
-  "name": "Card Closet",
+  "name": {
+    "de": "Kartenschrank",
+    "en-GB": "Card Closet",
+    "en-US": "Card Closet",
+    "es": "Armario naipes",
+    "fr": "Armoire cartes",
+    "it": "Armadio carte",
+    "ja": "トランプクロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

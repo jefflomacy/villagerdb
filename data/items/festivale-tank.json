@@ -1,6 +1,14 @@
 {
   "id": "festivale-tank",
-  "name": "Festivale Tank",
+  "name": {
+    "de": "Karnevals-Top",
+    "en-GB": "Festivale Tank",
+    "en-US": "Festivale Tank",
+    "es": "Top de carnaval",
+    "fr": "Débardeur carnaval",
+    "it": "Canotta samba",
+    "ja": "サンバなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

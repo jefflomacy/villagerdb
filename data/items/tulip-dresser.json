@@ -1,6 +1,14 @@
 {
   "id": "tulip-dresser",
-  "name": "Tulip Dresser",
+  "name": {
+    "de": "Tulpenkommode",
+    "en-GB": "Tulip Dresser",
+    "en-US": "Tulip Dresser",
+    "es": "Cómoda tulipán",
+    "fr": "Commode tulipe",
+    "it": "Armadio tulipano",
+    "ja": "チューリップのチェスト"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

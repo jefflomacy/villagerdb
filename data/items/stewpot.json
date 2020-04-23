@@ -1,6 +1,14 @@
 {
   "id": "stewpot",
-  "name": "Stewpot",
+  "name": {
+    "de": "Suppentopf",
+    "en-GB": "Stewpot",
+    "en-US": "Stewpot",
+    "es": "Olla",
+    "fr": "Fait-tout",
+    "it": "Pentolone",
+    "ja": "なべ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

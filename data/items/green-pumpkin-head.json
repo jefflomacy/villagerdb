@@ -1,6 +1,14 @@
 {
   "id": "green-pumpkin-head",
-  "name": "Green-pumpkin Head",
+  "name": {
+    "de": "Kürbiskopf (grün)",
+    "en-GB": "Green-Pumpkin Head",
+    "en-US": "Green-Pumpkin Head",
+    "es": "Calabaza verde",
+    "fr": "Citrouille verte",
+    "it": "Testa zucca verde",
+    "ja": "グリーンかぼちゃマスク"
+  },
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "blue-bar-tee",
-  "name": "Blue-bar Tee",
+  "name": {
+    "de": "Gärtnershirt",
+    "en-GB": "Blue-Bar Tee",
+    "en-US": "Blue-Bar Tee",
+    "es": "Camiseta rayas azul",
+    "fr": "T-shirt rayures bleu",
+    "it": "Maglietta barre blu",
+    "ja": "しぶいたてじまのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

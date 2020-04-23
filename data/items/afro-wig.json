@@ -1,6 +1,14 @@
 {
   "id": "afro-wig",
-  "name": "Afro Wig",
+  "name": {
+    "de": "Afroperücke",
+    "en-GB": "Afro Wig",
+    "en-US": "Afro Wig",
+    "es": "Peluca afro",
+    "fr": "Perruque afro",
+    "it": "Parrucca afro",
+    "ja": "アフロ"
+  },
   "category": "Hats",
   "games": {
     "nl": {

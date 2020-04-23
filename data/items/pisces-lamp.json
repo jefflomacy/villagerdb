@@ -1,6 +1,14 @@
 {
   "id": "pisces-lamp",
-  "name": "Pisces Lamp",
+  "name": {
+    "de": "Fische-Lampe",
+    "en-GB": "Pisces Lamp",
+    "en-US": "Pisces Lamp",
+    "es": "Lámpara Piscis",
+    "fr": "Lampe Poissons",
+    "it": "Lampada Pesci",
+    "ja": "ピスケスのランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

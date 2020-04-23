@@ -1,6 +1,14 @@
 {
   "id": "cardboard-table",
-  "name": "Cardboard Table",
+  "name": {
+    "de": "Kartontisch",
+    "en-GB": "Cardboard Table",
+    "en-US": "Cardboard Table",
+    "es": "Mesa cartón",
+    "fr": "Table carton",
+    "it": "Tavolo scatolone",
+    "ja": "ダンボールテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

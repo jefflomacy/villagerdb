@@ -1,6 +1,14 @@
 {
   "id": "morning-glory",
-  "name": "Morning Glory",
+  "name": {
+    "de": "Prunkwinde",
+    "en-GB": "Morning Glory",
+    "en-US": "Morning Glory",
+    "es": "Campanilla bicolor",
+    "fr": "Belle-de-jour",
+    "it": "Campanula",
+    "ja": "あさがお"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

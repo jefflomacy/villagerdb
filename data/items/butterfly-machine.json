@@ -1,6 +1,14 @@
 {
   "id": "butterfly-machine",
-  "name": "Butterfly Machine",
+  "name": {
+    "de": "Kraftstation",
+    "en-GB": "Butterfly Machine",
+    "en-US": "Butterfly Machine",
+    "es": "Máquina pectorales",
+    "fr": "Station papillon",
+    "it": "Panca pettorali",
+    "ja": "バタフライマシン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

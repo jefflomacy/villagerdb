@@ -1,6 +1,14 @@
 {
   "id": "letter-set",
-  "name": "Letter Set",
+  "name": {
+    "de": "Briefset",
+    "en-GB": "Letter Set",
+    "en-US": "Letter Set",
+    "es": "Conjunto de cartas",
+    "fr": "Set correspondance",
+    "it": "Set corrispondenza",
+    "ja": "おてがみセット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

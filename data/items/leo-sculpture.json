@@ -1,6 +1,14 @@
 {
   "id": "leo-sculpture",
-  "name": "Leo Sculpture",
+  "name": {
+    "de": "Löwe-Wandschmuck",
+    "en-GB": "Leo Sculpture",
+    "en-US": "Leo Sculpture",
+    "es": "Escultura Leo",
+    "fr": "Sculpture Lion",
+    "it": "Scultura Leone",
+    "ja": "レオのちょうこく"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

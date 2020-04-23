@@ -1,6 +1,14 @@
 {
   "id": "rococo-vanity",
-  "name": "Rococo Vanity",
+  "name": {
+    "de": "Rokoko-Spiegel",
+    "en-GB": "Rococo Vanity",
+    "en-US": "Rococo Vanity",
+    "es": "Tocador rococó",
+    "fr": "Coiffeuse rococo",
+    "it": "Toletta rococò",
+    "ja": "ロココなドレッサー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "anatomical-model",
-  "name": "Anatomical Model",
+  "name": {
+    "de": "Anatomiemodell",
+    "en-GB": "Anatomical Model",
+    "en-US": "Anatomical Model",
+    "es": "Modelo anatómico",
+    "fr": "Modèle musculaire",
+    "it": "Modellino anatomico",
+    "ja": "じんたいもけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

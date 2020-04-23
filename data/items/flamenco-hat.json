@@ -1,6 +1,14 @@
 {
   "id": "flamenco-hat",
-  "name": "Flamenco Hat",
+  "name": {
+    "de": "Flamencohut",
+    "en-GB": "Flamenco Hat",
+    "en-US": "Flamenco Hat",
+    "es": "Sombrero cordobés",
+    "fr": "Chapeau flamenco",
+    "it": "Cappello da flamenco",
+    "ja": "フラメンコのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

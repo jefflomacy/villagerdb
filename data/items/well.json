@@ -1,6 +1,14 @@
 {
   "id": "well",
-  "name": "Well",
+  "name": {
+    "de": "Brunnen",
+    "en-GB": "Well",
+    "en-US": "Well",
+    "es": "Pozo",
+    "fr": "Puits",
+    "it": "Pozzo",
+    "ja": "いど"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

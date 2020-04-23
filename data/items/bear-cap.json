@@ -1,6 +1,14 @@
 {
   "id": "bear-cap",
-  "name": "Bear Cap",
+  "name": {
+    "de": "Bärenmütze",
+    "en-GB": "Bear Cap",
+    "en-US": "Bear Cap",
+    "es": "Gorro de oso",
+    "fr": "Cagoule ours",
+    "it": "Cappello orso",
+    "ja": "クマのかぶりもの"
+  },
   "category": "Hats",
   "games": {
     "nl": {

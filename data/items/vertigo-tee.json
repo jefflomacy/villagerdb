@@ -1,6 +1,14 @@
 {
   "id": "vertigo-tee",
-  "name": "Vertigo Tee",
+  "name": {
+    "de": "3D-Shirt",
+    "en-GB": "Vertigo Tee",
+    "en-US": "Vertigo Tee",
+    "es": "Camiseta vértigo",
+    "fr": "T-shirt vertige",
+    "it": "Maglietta vertigine",
+    "ja": "やがらのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

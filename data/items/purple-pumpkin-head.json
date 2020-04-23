@@ -1,6 +1,14 @@
 {
   "id": "purple-pumpkin-head",
-  "name": "Purple-pumpkin Head",
+  "name": {
+    "de": "Kürbiskopf (lila)",
+    "en-GB": "Purple-Pumpkin Head",
+    "en-US": "Purple-Pumpkin Head",
+    "es": "Calabaza morada",
+    "fr": "Citrouille violette",
+    "it": "Testa zucca viola",
+    "ja": "パープルかぼちゃマスク"
+  },
   "category": "Hats",
   "games": {
     "nl": {

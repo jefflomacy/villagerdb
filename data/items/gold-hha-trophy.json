@@ -1,6 +1,14 @@
 {
   "id": "gold-hha-trophy",
-  "name": "Gold Hha Trophy",
+  "name": {
+    "de": "AdsH-Goldpokal",
+    "en-GB": "Gold HHA Trophy",
+    "en-US": "Gold HHA Trophy",
+    "es": "Trofeo AAD de oro",
+    "fr": "Trophée AJD or",
+    "it": "Trofeo ABC d'oro",
+    "ja": "きんのおうちトロフィー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

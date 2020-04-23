@@ -1,6 +1,14 @@
 {
   "id": "puffer-fish-tv",
-  "name": "Puffer-fish TV",
+  "name": {
+    "de": "Kugelfischfernseher",
+    "en-GB": "Puffer-Fish TV",
+    "en-US": "Puffer-Fish TV",
+    "es": "Tele pez erizo",
+    "fr": "Télé pois. porc-épic",
+    "it": "TV pesce palla",
+    "ja": "ハリセンボンテレビ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

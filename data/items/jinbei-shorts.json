@@ -1,6 +1,14 @@
 {
   "id": "jinbei-shorts",
-  "name": "Jinbei Shorts",
+  "name": {
+    "de": "Jimbei-Hose",
+    "en-GB": "Jinbei Shorts",
+    "en-US": "Jinbei Shorts",
+    "es": "Bermuda batín",
+    "fr": "Short jinbei",
+    "it": "P. bermuda giapp.",
+    "ja": "じんべいのズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

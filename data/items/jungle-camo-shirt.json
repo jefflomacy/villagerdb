@@ -1,6 +1,14 @@
 {
   "id": "jungle-camo-shirt",
-  "name": "Jungle-camo Shirt",
+  "name": {
+    "de": "Dschungelpulli",
+    "en-GB": "Jungle-Camo Shirt",
+    "en-US": "Jungle-Camo Shirt",
+    "es": "Jersey camuflaje",
+    "fr": "Pull motif jungle",
+    "it": "Maglia mimetica",
+    "ja": "めいさいなふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

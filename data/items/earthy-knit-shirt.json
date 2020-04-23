@@ -1,6 +1,14 @@
 {
   "id": "earthy-knit-shirt",
-  "name": "Earthy Knit Shirt",
+  "name": {
+    "de": "Polarpulli",
+    "en-GB": "Earthy Knit Shirt",
+    "en-US": "Earthy Knit Shirt",
+    "es": "Jersey tierra",
+    "fr": "Pull ocre",
+    "it": "Maglione campagnolo",
+    "ja": "つちいろのニット"
+  },
   "category": "Tops",
   "games": {
     "nl": {

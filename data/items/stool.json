@@ -1,6 +1,14 @@
 {
   "id": "stool",
-  "name": "Stool",
+  "name": {
+    "de": "Hocker",
+    "en-GB": "Stool",
+    "en-US": "Stool",
+    "es": "Taburete",
+    "fr": "Tabouret",
+    "it": "Sgabello",
+    "ja": "まるイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

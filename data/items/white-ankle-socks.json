@@ -1,6 +1,14 @@
 {
   "id": "white-ankle-socks",
-  "name": "White Ankle Socks",
+  "name": {
+    "de": "Weißsöckchen",
+    "en-GB": "White Ankle Socks",
+    "en-US": "White Ankle Socks",
+    "es": "Calcetín tobillo",
+    "fr": "Paire socq. blanches",
+    "it": "P. calzini da tennis",
+    "ja": "しろのくるぶしソックス"
+  },
   "category": "Socks",
   "games": {
     "nl": {

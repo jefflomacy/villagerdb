@@ -1,6 +1,14 @@
 {
   "id": "stove",
-  "name": "Stove",
+  "name": {
+    "de": "Herd",
+    "en-GB": "Stove",
+    "en-US": "Stove",
+    "es": "Cocina con horno",
+    "fr": "Cuisinière",
+    "it": "Fornello",
+    "ja": "ガスレンジ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

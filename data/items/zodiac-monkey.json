@@ -1,6 +1,14 @@
 {
   "id": "zodiac-monkey",
-  "name": "Zodiac Monkey",
+  "name": {
+    "de": "Affenfigur",
+    "en-GB": "Zodiac Monkey",
+    "en-US": "Zodiac Monkey",
+    "es": "Figura de mono",
+    "fr": "Figurine de singe",
+    "it": "Figurina di scimmia",
+    "ja": "えとのおきもの・さる"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

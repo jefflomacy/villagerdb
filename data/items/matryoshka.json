@@ -1,6 +1,14 @@
 {
   "id": "matryoshka",
-  "name": "Matryoshka",
+  "name": {
+    "de": "Matroschka",
+    "en-GB": "Matryoshka",
+    "en-US": "Matryoshka",
+    "es": "Matrioska",
+    "fr": "Série matriochka",
+    "it": "Matriosca",
+    "ja": "マトリョーシカ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

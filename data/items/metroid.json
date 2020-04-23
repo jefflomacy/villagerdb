@@ -1,6 +1,14 @@
 {
   "id": "metroid",
-  "name": "Metroid",
+  "name": {
+    "de": "Metroid",
+    "en-GB": "Metroid",
+    "en-US": "Metroid",
+    "es": "Metroide",
+    "fr": "Metroid",
+    "it": "Metroid",
+    "ja": "メトロイド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

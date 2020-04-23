@@ -1,6 +1,14 @@
 {
   "id": "red-argyle-shirt",
-  "name": "Red Argyle Shirt",
+  "name": {
+    "de": "Rot-Argyle-Pulli",
+    "en-GB": "Red Argyle Shirt",
+    "en-US": "Red Argyle Shirt",
+    "es": "Jersey pijo rojo",
+    "fr": "Pull écossais rouge",
+    "it": "Maglia rombi rossi",
+    "ja": "あかアーガイルのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

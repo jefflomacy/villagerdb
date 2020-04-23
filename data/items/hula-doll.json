@@ -1,6 +1,14 @@
 {
   "id": "hula-doll",
-  "name": "Hula Doll",
+  "name": {
+    "de": "Hula-Puppe",
+    "en-GB": "Hula Doll",
+    "en-US": "Hula Doll",
+    "es": "Muñeca hawaiana",
+    "fr": "Poupée hawaïenne",
+    "it": "Bambola hawaiana",
+    "ja": "フラダンスにんぎょう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

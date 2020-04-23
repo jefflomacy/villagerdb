@@ -1,6 +1,14 @@
 {
   "id": "crown",
-  "name": "Crown",
+  "name": {
+    "de": "Königinnenkrone",
+    "en-GB": "Crown",
+    "en-US": "Crown",
+    "es": "Corona real",
+    "fr": "Couronne",
+    "it": "Corona",
+    "ja": "クイーンのかんむり"
+  },
   "category": "Hats",
   "games": {
     "nl": {

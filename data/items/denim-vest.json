@@ -1,6 +1,14 @@
 {
   "id": "denim-vest",
-  "name": "Denim Vest",
+  "name": {
+    "de": "Jeansweste",
+    "en-GB": "Denim Vest",
+    "en-US": "Denim Vest",
+    "es": "Chaleco vaquero",
+    "fr": "Veston en jean",
+    "it": "Gilet di jeans",
+    "ja": "そでなしGジャン"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "ranch-bookcase",
-  "name": "Ranch Bookcase",
+  "name": {
+    "de": "Western-Regal",
+    "en-GB": "Ranch Bookcase",
+    "en-US": "Ranch Bookcase",
+    "es": "Librería rústica",
+    "fr": "étagère ranch",
+    "it": "Libreria country",
+    "ja": "カントリーなほんだな"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

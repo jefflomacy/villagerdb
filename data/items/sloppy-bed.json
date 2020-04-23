@@ -1,6 +1,14 @@
 {
   "id": "sloppy-bed",
-  "name": "Sloppy Bed",
+  "name": {
+    "de": "Schlamperbett",
+    "en-GB": "Sloppy Bed",
+    "en-US": "Sloppy Bed",
+    "es": "Cama desorden",
+    "fr": "Lit négligé",
+    "it": "Letto trasandato",
+    "ja": "だらしないベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "snake-plant",
-  "name": "Snake Plant",
+  "name": {
+    "de": "Bogenhanf",
+    "en-GB": "Snake Plant",
+    "en-US": "Snake Plant",
+    "es": "Sanseviera",
+    "fr": "Sansevieria",
+    "it": "Pianta serpente",
+    "ja": "サンセベリア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

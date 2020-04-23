@@ -1,6 +1,14 @@
 {
   "id": "daffodil",
-  "name": "Daffodil",
+  "name": {
+    "de": "Osterglocke",
+    "en-GB": "Daffodil",
+    "en-US": "Daffodil",
+    "es": "Jarrón con narciso",
+    "fr": "Jonquille",
+    "it": "Narciso",
+    "ja": "スイセン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

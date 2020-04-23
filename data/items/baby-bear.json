@@ -1,6 +1,14 @@
 {
   "id": "baby-bear",
-  "name": "Baby Bear",
+  "name": {
+    "de": "Baby-Bär",
+    "en-GB": "Baby Bear",
+    "en-US": "Baby Bear",
+    "es": "Osito",
+    "fr": "Bébé ours",
+    "it": "Orsetto",
+    "ja": "くまのチビちゃん"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

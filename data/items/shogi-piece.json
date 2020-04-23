@@ -1,6 +1,14 @@
 {
   "id": "shogi-piece",
-  "name": "Shogi Piece",
+  "name": {
+    "de": "Shogi-Stein",
+    "en-GB": "Shogi Piece",
+    "en-US": "Shogi Piece",
+    "es": "Pieza de shogi",
+    "fr": "Pièce de shogi",
+    "it": "Pezzo di shogi",
+    "ja": "しょうぎのこま"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

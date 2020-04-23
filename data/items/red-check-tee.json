@@ -1,6 +1,14 @@
 {
   "id": "red-check-tee",
-  "name": "Red-check Tee",
+  "name": {
+    "de": "Rotweiß-Shirt",
+    "en-GB": "Red-Check Tee",
+    "en-US": "Red-Check Tee",
+    "es": "Camiseta trapo rojo",
+    "fr": "T-shirt carrés rouge",
+    "it": "Maglietta tovaglia",
+    "ja": "あかチェックのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

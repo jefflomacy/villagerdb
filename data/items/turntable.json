@@ -1,6 +1,14 @@
 {
   "id": "turntable",
-  "name": "Turntable",
+  "name": {
+    "de": "Kastengrammofon",
+    "en-GB": "Turntable",
+    "en-US": "Turntable",
+    "es": "Tocadiscos",
+    "fr": "Tourne-disque",
+    "it": "Giradischi",
+    "ja": "しかくいちくおんき"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

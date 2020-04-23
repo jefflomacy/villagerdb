@@ -1,6 +1,14 @@
 {
   "id": "rocking-horse",
-  "name": "Rocking Horse",
+  "name": {
+    "de": "Schaukelpferd",
+    "en-GB": "Rocking Horse",
+    "en-US": "Rocking Horse",
+    "es": "Caballo balancín",
+    "fr": "Cheval à bascule",
+    "it": "Cavalluccio",
+    "ja": "もくば"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

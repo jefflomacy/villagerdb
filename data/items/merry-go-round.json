@@ -1,6 +1,14 @@
 {
   "id": "merry-go-round",
-  "name": "Merry-go-round",
+  "name": {
+    "de": "Karussell",
+    "en-GB": "Merry-Go-Round",
+    "en-US": "Merry-Go-Round",
+    "es": "Carrusel de cuna",
+    "fr": "Manège",
+    "it": "Giostra",
+    "ja": "メリーゴーランド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

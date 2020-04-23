@@ -1,6 +1,14 @@
 {
   "id": "hunters-cap",
-  "name": "Hunter's Cap",
+  "name": {
+    "de": "Jägermütze",
+    "en-GB": "Hunter's Cap",
+    "en-US": "Hunter's Cap",
+    "es": "Gorra cazador",
+    "fr": "Casquette de chasse",
+    "it": "Berretto cacciatore",
+    "ja": "ハンターのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

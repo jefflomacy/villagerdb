@@ -1,6 +1,14 @@
 {
   "id": "vaulting-horse",
-  "name": "Vaulting Horse",
+  "name": {
+    "de": "Sprungkasten",
+    "en-GB": "Vaulting Horse",
+    "en-US": "Vaulting Horse",
+    "es": "Plinto",
+    "fr": "Cheval sautoir",
+    "it": "Cavallina",
+    "ja": "とびばこ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

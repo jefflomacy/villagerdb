@@ -1,6 +1,14 @@
 {
   "id": "t-rex-torso",
-  "name": "T. Rex Torso",
+  "name": {
+    "de": "T-Rex-Torso",
+    "en-GB": "T. Rex Torso",
+    "en-US": "T. Rex Torso",
+    "es": "Cuerpo tiranosaurio",
+    "fr": "Corps de T. rex",
+    "it": "Torso tirannosauro",
+    "ja": "Tレックスのからだ"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

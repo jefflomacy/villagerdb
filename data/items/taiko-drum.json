@@ -1,6 +1,14 @@
 {
   "id": "taiko-drum",
-  "name": "Taiko Drum",
+  "name": {
+    "de": "Taiko-Trommel",
+    "en-GB": "Taiko Drum",
+    "en-US": "Taiko Drum",
+    "es": "Tambor taiko",
+    "fr": "Tambour taiko",
+    "it": "Tamburo taiko",
+    "ja": "わだいこ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

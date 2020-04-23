@@ -1,6 +1,14 @@
 {
   "id": "pineapple-bed",
-  "name": "Pineapple Bed",
+  "name": {
+    "de": "Ananasbett",
+    "en-GB": "Pineapple Bed",
+    "en-US": "Pineapple Bed",
+    "es": "Cama piña",
+    "fr": "Lit ananas",
+    "it": "Letto ananas",
+    "ja": "パイナップルのベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

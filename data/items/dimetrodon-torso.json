@@ -1,6 +1,14 @@
 {
   "id": "dimetrodon-torso",
-  "name": "Dimetrodon Torso",
+  "name": {
+    "de": "Dimetrodon-Torso",
+    "en-GB": "Dimetrodon Torso",
+    "en-US": "Dimetrodon Torso",
+    "es": "Cuerpo dimetrodonte",
+    "fr": "Corps de dimétrodon",
+    "it": "Torso dimetrodonte",
+    "ja": "ディメトロドンのからだ"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

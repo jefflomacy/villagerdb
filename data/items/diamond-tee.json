@@ -1,6 +1,14 @@
 {
   "id": "diamond-tee",
-  "name": "Diamond Tee",
+  "name": {
+    "de": "Shirt \\u201EKaro\\u201C",
+    "en-GB": "Diamond Tee",
+    "en-US": "Diamond Tee",
+    "es": "Camiseta diamante",
+    "fr": "T-shirt carreau",
+    "it": "Maglietta di quadri",
+    "ja": "ダイヤのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

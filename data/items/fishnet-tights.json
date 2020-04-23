@@ -1,6 +1,14 @@
 {
   "id": "fishnet-tights",
-  "name": "Fishnet Tights",
+  "name": {
+    "de": "Modestrumpfhose",
+    "en-GB": "Crocheted Tights",
+    "en-US": "Fishnet Tights",
+    "es": "Media de rejilla",
+    "fr": "Collant filet",
+    "it": "Paio calze a rete",
+    "ja": "あみタイツ"
+  },
   "category": "Socks",
   "games": {
     "nl": {

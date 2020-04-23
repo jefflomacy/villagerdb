@@ -1,6 +1,14 @@
 {
   "id": "pulse-tank",
-  "name": "Pulse Tank",
+  "name": {
+    "de": "EKG-Top",
+    "en-GB": "Pulse Tank",
+    "en-US": "Pulse Tank",
+    "es": "Top pulso",
+    "fr": "Débardeur ECG",
+    "it": "Canotta pulsazioni",
+    "ja": "パルスなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

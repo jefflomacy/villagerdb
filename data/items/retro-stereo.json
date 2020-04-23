@@ -1,6 +1,14 @@
 {
   "id": "retro-stereo",
-  "name": "Retro Stereo",
+  "name": {
+    "de": "Retro-Anlage",
+    "en-GB": "Retro Stereo",
+    "en-US": "Retro Stereo",
+    "es": "Cadena retro",
+    "fr": "Hi-fi rétro",
+    "it": "Vecchio stereo",
+    "ja": "レトロなステレオ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

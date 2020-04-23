@@ -1,6 +1,14 @@
 {
   "id": "balloon-dresser",
-  "name": "Balloon Dresser",
+  "name": {
+    "de": "Ballonkommode",
+    "en-GB": "Balloon Dresser",
+    "en-US": "Balloon Dresser",
+    "es": "Cómoda globos",
+    "fr": "Commode ballons",
+    "it": "Comò palloncini",
+    "ja": "バルーンチェスト"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

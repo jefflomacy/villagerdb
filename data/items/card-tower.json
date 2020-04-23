@@ -1,6 +1,14 @@
 {
   "id": "card-tower",
-  "name": "Card Tower",
+  "name": {
+    "de": "Kartenhaus",
+    "en-GB": "Card Tower",
+    "en-US": "Card Tower",
+    "es": "Torre naipes",
+    "fr": "Tour de cartes",
+    "it": "Castello carte",
+    "ja": "トランプタワー"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

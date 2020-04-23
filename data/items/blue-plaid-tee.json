@@ -1,6 +1,14 @@
 {
   "id": "blue-plaid-tee",
-  "name": "Blue Plaid Tee",
+  "name": {
+    "de": "Angora-Shirt",
+    "en-GB": "Blue Plaid Tee",
+    "en-US": "Blue Plaid Tee",
+    "es": "Camiseta tartán azul",
+    "fr": "T-shirt nappe bleu",
+    "it": "Maglietta inverno",
+    "ja": "ブルーチェックのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

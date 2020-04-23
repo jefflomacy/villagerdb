@@ -1,6 +1,14 @@
 {
   "id": "card-wall-clock",
-  "name": "Card Wall Clock",
+  "name": {
+    "de": "Kartenwanduhr",
+    "en-GB": "Card Wall Clock",
+    "en-US": "Card Wall Clock",
+    "es": "Reloj pared naipes",
+    "fr": "Horloge cartes",
+    "it": "Orologio carte",
+    "ja": "トランプウォールクロック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

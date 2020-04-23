@@ -1,6 +1,14 @@
 {
   "id": "massage-chair",
-  "name": "Massage Chair",
+  "name": {
+    "de": "Massagesessel",
+    "en-GB": "Massage Chair",
+    "en-US": "Massage Chair",
+    "es": "Sillón de masaje",
+    "fr": "Siège de massage",
+    "it": "Sedia massaggio",
+    "ja": "マッサージいす"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

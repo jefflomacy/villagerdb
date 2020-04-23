@@ -1,6 +1,14 @@
 {
   "id": "toaster",
-  "name": "Toaster",
+  "name": {
+    "de": "Toaster",
+    "en-GB": "Toaster",
+    "en-US": "Toaster",
+    "es": "Tostadora",
+    "fr": "Grille-pain",
+    "it": "Tostapane",
+    "ja": "トースター"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

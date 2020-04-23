@@ -1,6 +1,14 @@
 {
   "id": "viking-helmet",
-  "name": "Viking Helmet",
+  "name": {
+    "de": "Wikingerhelm",
+    "en-GB": "Viking Helmet",
+    "en-US": "Viking Helmet",
+    "es": "Casco vikingo",
+    "fr": "Casque viking",
+    "it": "Elmo vichingo",
+    "ja": "バイキングのかぶと"
+  },
   "category": "Hats",
   "games": {
     "nl": {

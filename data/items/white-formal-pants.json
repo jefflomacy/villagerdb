@@ -1,6 +1,14 @@
 {
   "id": "white-formal-pants",
-  "name": "White Formal Pants",
+  "name": {
+    "de": "Yachthose",
+    "en-GB": "White Formal Pants",
+    "en-US": "White Formal Pants",
+    "es": "Pantalón lino blanco",
+    "fr": "Pantalon chic blanc",
+    "it": "Pant. formale bianco",
+    "ja": "しろいフォーマルパンツ"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

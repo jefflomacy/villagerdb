@@ -1,6 +1,14 @@
 {
   "id": "racing-shirt",
-  "name": "Racing Shirt",
+  "name": {
+    "de": "Rennfahrerjacke",
+    "en-GB": "Racing Shirt",
+    "en-US": "Racing Shirt",
+    "es": "Jersey carreras",
+    "fr": "Pull pilote",
+    "it": "Maglia da pilota",
+    "ja": "レーサーなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

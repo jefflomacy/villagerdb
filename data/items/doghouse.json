@@ -1,6 +1,14 @@
 {
   "id": "doghouse",
-  "name": "Doghouse",
+  "name": {
+    "de": "Hundehütte",
+    "en-GB": "Doghouse",
+    "en-US": "Doghouse",
+    "es": "Caseta de perro",
+    "fr": "Niche",
+    "it": "Cuccia",
+    "ja": "いぬごや"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

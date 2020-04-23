@@ -1,6 +1,14 @@
 {
   "id": "kettle",
-  "name": "Kettle",
+  "name": {
+    "de": "Wasserkessel",
+    "en-GB": "Kettle",
+    "en-US": "Kettle",
+    "es": "Tetera",
+    "fr": "Bouilloire",
+    "it": "Bollitore",
+    "ja": "やかん"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

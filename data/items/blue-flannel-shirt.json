@@ -1,6 +1,14 @@
 {
   "id": "blue-flannel-shirt",
-  "name": "Blue Flannel Shirt",
+  "name": {
+    "de": "Holzhackerhemd",
+    "en-GB": "Blue Flannel Shirt",
+    "en-US": "Blue Flannel Shirt",
+    "es": "Camisa franela azul",
+    "fr": "Pull flanelle bleu",
+    "it": "Camicia grunge blu",
+    "ja": "あおいネルシャツ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

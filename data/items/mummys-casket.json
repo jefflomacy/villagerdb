@@ -1,6 +1,14 @@
 {
   "id": "mummys-casket",
-  "name": "Mummy's Casket",
+  "name": {
+    "de": "Sarkophag",
+    "en-GB": "Mummy's Casket",
+    "en-US": "Mummy's Casket",
+    "es": "Sarcófago momia",
+    "fr": "Sarcophage",
+    "it": "Sarcofago",
+    "ja": "ミイラのひつぎ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

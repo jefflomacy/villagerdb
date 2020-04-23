@@ -1,6 +1,14 @@
 {
   "id": "egg-clock",
-  "name": "Egg Clock",
+  "name": {
+    "de": "Eieruhr",
+    "en-GB": "Egg Clock",
+    "en-US": "Egg Clock",
+    "es": "Reloj huevo",
+    "fr": "Cadran \\u0153uf",
+    "it": "Orologio uovo",
+    "ja": "たまごのとけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

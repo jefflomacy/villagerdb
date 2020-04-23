@@ -1,6 +1,14 @@
 {
   "id": "ironing-set",
-  "name": "Ironing Set",
+  "name": {
+    "de": "Bügelset",
+    "en-GB": "Ironing Set",
+    "en-US": "Ironing Set",
+    "es": "Tabla de planchar",
+    "fr": "Set de repassage",
+    "it": "Asse e ferro stiro",
+    "ja": "アイロン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "pink-velvet-stool",
-  "name": "Pink Velvet Stool",
+  "name": {
+    "de": "Klavierhocker",
+    "en-GB": "Pink Velvet Stool",
+    "en-US": "Pink Velvet Stool",
+    "es": "Taburete terciopelo",
+    "fr": "Siège velours rose",
+    "it": "Sgabello di velluto",
+    "ja": "ピアノのまるいす"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

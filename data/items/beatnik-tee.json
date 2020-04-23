@@ -1,6 +1,14 @@
 {
   "id": "beatnik-tee",
-  "name": "Beatnik Tee",
+  "name": {
+    "de": "Beatnik-Shirt",
+    "en-GB": "Beatnik Tee",
+    "en-US": "Beatnik Tee",
+    "es": "Camiseta beatnik",
+    "fr": "T-shirt beatnik",
+    "it": "Maglietta hipster",
+    "ja": "くろあかラガーシャツ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

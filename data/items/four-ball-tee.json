@@ -1,6 +1,14 @@
 {
   "id": "four-ball-tee",
-  "name": "Four-ball Tee",
+  "name": {
+    "de": "4er-Shirt",
+    "en-GB": "Four-Ball Tee",
+    "en-US": "Four-Ball Tee",
+    "es": "Camiseta bola 4",
+    "fr": "T-shirt nº 4",
+    "it": "Maglietta palla 4",
+    "ja": "4ばんだまのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

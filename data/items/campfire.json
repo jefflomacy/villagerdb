@@ -1,6 +1,14 @@
 {
   "id": "campfire",
-  "name": "Campfire",
+  "name": {
+    "de": "Lagerfeuer",
+    "en-GB": "Campfire",
+    "en-US": "Campfire",
+    "es": "Fuego campamento",
+    "fr": "Feu de camp",
+    "it": "Fuoco da campo",
+    "ja": "たきび"
+  },
   "category": "Furniture",
   "games": {
     "nh": {

@@ -1,6 +1,14 @@
 {
   "id": "beach-table",
-  "name": "Beach Table",
+  "name": {
+    "de": "Strandtisch",
+    "en-GB": "Beach Table",
+    "en-US": "Beach Table",
+    "es": "Mesa de playa",
+    "fr": "Table de plage",
+    "it": "Tavolo da spiaggia",
+    "ja": "パラソルつきテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

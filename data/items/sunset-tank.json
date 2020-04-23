@@ -1,6 +1,14 @@
 {
   "id": "sunset-tank",
-  "name": "Sunset Tank",
+  "name": {
+    "de": "Sonnentop",
+    "en-GB": "Sunset Tank",
+    "en-US": "Sunset Tank",
+    "es": "Top atardecer",
+    "fr": "Débardeur couchant",
+    "it": "Canotta tramonto",
+    "ja": "サンセットなふくN"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "modern-wardrobe",
-  "name": "Modern Wardrobe",
+  "name": {
+    "de": "Schachschrank",
+    "en-GB": "Modern Wardrobe",
+    "en-US": "Modern Wardrobe",
+    "es": "Armario moderno",
+    "fr": "Armoire moderne",
+    "it": "Armadio moderno",
+    "ja": "ツートンクロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

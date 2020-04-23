@@ -1,6 +1,14 @@
 {
   "id": "ten-billion-barrel",
-  "name": "Ten Billion Barrel",
+  "name": {
+    "de": "Ten Billion Barrel",
+    "en-GB": "Ten Billion Barrel",
+    "en-US": "Ten Billion Barrel",
+    "es": "Ten Billion Barrel",
+    "fr": "Ten Billion Barrel",
+    "it": "Ten Billion Barrel",
+    "ja": "テンビリオン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

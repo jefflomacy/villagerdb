@@ -1,6 +1,14 @@
 {
   "id": "wobbelina",
-  "name": "Wobbelina",
+  "name": {
+    "de": "Stehaufpüppchen",
+    "en-GB": "Wobbelina",
+    "en-US": "Wobbelina",
+    "es": "Muñequita",
+    "fr": "Culbutine",
+    "it": "Dondolina",
+    "ja": "おきあがりこぼし"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

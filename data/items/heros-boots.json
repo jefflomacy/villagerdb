@@ -1,6 +1,14 @@
 {
   "id": "heros-boots",
-  "name": "Hero's Boots",
+  "name": {
+    "de": "Heldenstiefel",
+    "en-GB": "Hero's Boots",
+    "en-US": "Hero's Boots",
+    "es": "Bota del héroe",
+    "fr": "P. bottes héroïques",
+    "it": "Paio stivali Link",
+    "ja": "ゆうしゃのブーツ"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

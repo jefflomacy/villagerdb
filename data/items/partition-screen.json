@@ -1,6 +1,14 @@
 {
   "id": "partition-screen",
-  "name": "Partition Screen",
+  "name": {
+    "de": "Raumteiler",
+    "en-GB": "Partition Screen",
+    "en-US": "Partition Screen",
+    "es": "Biombo gris",
+    "fr": "Paravent gris",
+    "it": "Separé grigio",
+    "ja": "パーテーション"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

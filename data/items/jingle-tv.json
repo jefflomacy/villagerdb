@@ -1,6 +1,14 @@
 {
   "id": "jingle-tv",
-  "name": "Jingle Tv",
+  "name": {
+    "de": "Festtagsfernseher",
+    "en-GB": "Jingle TV",
+    "en-US": "Jingle TV",
+    "es": "Tele festiva",
+    "fr": "Télé festive",
+    "it": "TV Jingle",
+    "ja": "クリスマステレビ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

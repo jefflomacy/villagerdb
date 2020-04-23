@@ -1,6 +1,14 @@
 {
   "id": "bear-costume",
-  "name": "Bear Costume",
+  "name": {
+    "de": "Bärenpulli",
+    "en-GB": "Bear Costume",
+    "en-US": "Bear Costume",
+    "es": "Jersey oso",
+    "fr": "Haut ours",
+    "it": "Maglia orso",
+    "ja": "クマなふく"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

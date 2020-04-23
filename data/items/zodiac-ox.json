@@ -1,6 +1,14 @@
 {
   "id": "zodiac-ox",
-  "name": "Zodiac Ox",
+  "name": {
+    "de": "Büffelfigur",
+    "en-GB": "Zodiac Ox",
+    "en-US": "Zodiac Ox",
+    "es": "Figura de buey",
+    "fr": "Figurine de buffle",
+    "it": "Figurina di mucca",
+    "ja": "えとのおきもの・うし"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

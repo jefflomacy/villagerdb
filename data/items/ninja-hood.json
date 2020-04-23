@@ -1,6 +1,14 @@
 {
   "id": "ninja-hood",
-  "name": "Ninja Hood",
+  "name": {
+    "de": "Ninjakapuze",
+    "en-GB": "Ninja Hood",
+    "en-US": "Ninja Hood",
+    "es": "Caperuza ninja",
+    "fr": "Cagoule de ninja",
+    "it": "Cappuccio ninja",
+    "ja": "にんじゃずきん"
+  },
   "category": "Hats",
   "games": {
     "nl": {

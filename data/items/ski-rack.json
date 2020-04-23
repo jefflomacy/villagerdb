@@ -1,6 +1,14 @@
 {
   "id": "ski-rack",
-  "name": "Ski Rack",
+  "name": {
+    "de": "Skiständer",
+    "en-GB": "Ski Rack",
+    "en-US": "Ski Rack",
+    "es": "Estante de esquí",
+    "fr": "Rangement pour skis",
+    "it": "Portasci da parete",
+    "ja": "スキーいた"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

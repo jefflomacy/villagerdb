@@ -1,6 +1,14 @@
 {
   "id": "chefs-outfit",
-  "name": "Chef's Outfit",
+  "name": {
+    "de": "Kochshirt",
+    "en-GB": "Chef's Outfit",
+    "en-US": "Chef's Outfit",
+    "es": "Uniforme de chef",
+    "fr": "Tenue de chef",
+    "it": "Maglietta da cuoco",
+    "ja": "コックさんのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

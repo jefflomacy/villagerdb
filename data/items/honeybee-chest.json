@@ -1,6 +1,14 @@
 {
   "id": "honeybee-chest",
-  "name": "Honeybee Chest",
+  "name": {
+    "de": "Bienenkommode",
+    "en-GB": "Honeybee Chest",
+    "en-US": "Honeybee Chest",
+    "es": "Cofre abeja",
+    "fr": "Coffre abeille naine",
+    "it": "Baule ape",
+    "ja": "ハニカムチェスト"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

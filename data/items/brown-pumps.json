@@ -1,6 +1,14 @@
 {
   "id": "brown-pumps",
-  "name": "Brown Pumps",
+  "name": {
+    "de": "Wildleder-Damenschuh",
+    "en-GB": "Brown Pumps",
+    "en-US": "Brown Pumps",
+    "es": "Manoletina marrón",
+    "fr": "P. ballerines brunes",
+    "it": "P. ballerine marroni",
+    "ja": "ちゃいろいパンプス"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "brown-socks",
-  "name": "Brown Socks",
+  "name": {
+    "de": "Braunsocke",
+    "en-GB": "Brown Socks",
+    "en-US": "Brown Socks",
+    "es": "Calcetín marrón",
+    "fr": "Paire chauss. brunes",
+    "it": "Paio calzini beige",
+    "ja": "メランジソックス"
+  },
   "category": "Socks",
   "games": {
     "nl": {

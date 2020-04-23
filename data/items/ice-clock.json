@@ -1,6 +1,14 @@
 {
   "id": "ice-clock",
-  "name": "Ice Clock",
+  "name": {
+    "de": "Eisuhr",
+    "en-GB": "Ice Clock",
+    "en-US": "Ice Clock",
+    "es": "Reloj hielo",
+    "fr": "Horloge glace",
+    "it": "Orologio ghiaccio",
+    "ja": "アイスなとけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

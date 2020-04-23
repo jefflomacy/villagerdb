@@ -1,6 +1,14 @@
 {
   "id": "coprolite",
-  "name": "Coprolite",
+  "name": {
+    "de": "Koprolith",
+    "en-GB": "Coprolite",
+    "en-US": "Coprolite",
+    "es": "Coprolito",
+    "fr": "Crotte de dinosaure",
+    "it": "Coprolito",
+    "ja": "ウンコのかせき"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

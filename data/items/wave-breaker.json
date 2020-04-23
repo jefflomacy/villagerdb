@@ -1,6 +1,14 @@
 {
   "id": "wave-breaker",
-  "name": "Wave Breaker",
+  "name": {
+    "de": "Wellenbrecher",
+    "en-GB": "Wave Breaker",
+    "en-US": "Wave Breaker",
+    "es": "Rompeolas",
+    "fr": "Brise-lames",
+    "it": "Frangionde",
+    "ja": "しょうはブロック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

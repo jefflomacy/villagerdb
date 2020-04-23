@@ -1,6 +1,14 @@
 {
   "id": "winter-sweater",
-  "name": "Winter Sweater",
+  "name": {
+    "de": "Winterpulli",
+    "en-GB": "Winter Sweater",
+    "en-US": "Winter Sweater",
+    "es": "Jersey nórdico",
+    "fr": "Pull hiver",
+    "it": "Maglione invernale",
+    "ja": "ゆきぐになニット"
+  },
   "category": "Tops",
   "games": {
     "nl": {

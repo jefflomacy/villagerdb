@@ -1,6 +1,14 @@
 {
   "id": "rose-tee",
-  "name": "Rose Tee",
+  "name": {
+    "de": "Rosenshirt",
+    "en-GB": "Rose Tee",
+    "en-US": "Rose Tee",
+    "es": "Camiseta rosal",
+    "fr": "T-shirt rose",
+    "it": "Maglietta rose",
+    "ja": "しろじのバラのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

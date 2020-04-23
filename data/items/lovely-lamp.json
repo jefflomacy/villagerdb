@@ -1,6 +1,14 @@
 {
   "id": "lovely-lamp",
-  "name": "Lovely Lamp",
+  "name": {
+    "de": "Herzchenlampe",
+    "en-GB": "Lovely Lamp",
+    "en-US": "Lovely Lamp",
+    "es": "Lámpara corazón",
+    "fr": "Lampe c\\u0153ur",
+    "it": "Lampada cuori",
+    "ja": "ラブリースタンド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "hibiscus-hairpin",
-  "name": "Hibiscus Hairpin",
+  "name": {
+    "de": "Hibiskus-Haarspange",
+    "en-GB": "Hibiscus Hairpin",
+    "en-US": "Hibiscus Hairpin",
+    "es": "Horquilla hibisco",
+    "fr": "épingle hibiscus",
+    "it": "Molletta ibisco",
+    "ja": "ハイビスカスのかみかざり"
+  },
   "category": "Hats",
   "games": {
     "nl": {

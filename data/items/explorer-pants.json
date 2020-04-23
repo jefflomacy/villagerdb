@@ -1,6 +1,14 @@
 {
   "id": "explorer-pants",
-  "name": "Explorer Pants",
+  "name": {
+    "de": "Safarihose",
+    "en-GB": "Explorer Pants",
+    "en-US": "Explorer Pants",
+    "es": "Bermuda explorador",
+    "fr": "Short aventure",
+    "it": "P. bermuda esplorat.",
+    "ja": "たんけんズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

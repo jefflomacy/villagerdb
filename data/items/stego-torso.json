@@ -1,6 +1,14 @@
 {
   "id": "stego-torso",
-  "name": "Stego Torso",
+  "name": {
+    "de": "Stegosaurus-Torso",
+    "en-GB": "Stego Torso",
+    "en-US": "Stego Torso",
+    "es": "Cuerpo estegosaurio",
+    "fr": "Corps de stégosaure",
+    "it": "Torso stegosauro",
+    "ja": "ステゴサウルスのからだ"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

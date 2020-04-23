@@ -1,6 +1,14 @@
 {
   "id": "dice-stereo",
-  "name": "Dice Stereo",
+  "name": {
+    "de": "Würfel-Anlage",
+    "en-GB": "Dice Stereo",
+    "en-US": "Dice Stereo",
+    "es": "Cadena dados",
+    "fr": "Chaîne stéréo dé",
+    "it": "Stereo dadi",
+    "ja": "サイコロコンポ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "blue-zap-suit",
-  "name": "Blue-zap Suit",
+  "name": {
+    "de": "Blauheldenpulli",
+    "en-GB": "Blue-Zap Suit",
+    "en-US": "Blue-Zap Suit",
+    "es": "Superjersey azul",
+    "fr": "Pull de héros bleu",
+    "it": "Maglia eroe blu",
+    "ja": "ヒーロースーツB"
+  },
   "category": "Tops",
   "games": {
     "nl": {

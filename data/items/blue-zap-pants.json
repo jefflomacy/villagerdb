@@ -1,6 +1,14 @@
 {
   "id": "blue-zap-pants",
-  "name": "Blue-zap Pants",
+  "name": {
+    "de": "Blauheldenhose",
+    "en-GB": "Blue-Zap Pants",
+    "en-US": "Blue-Zap Pants",
+    "es": "Superpantalón azul",
+    "fr": "Pantalon héros bleu",
+    "it": "Pantalone eroe blu",
+    "ja": "ヒーローズボンB"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

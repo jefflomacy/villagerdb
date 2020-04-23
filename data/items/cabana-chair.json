@@ -1,6 +1,14 @@
 {
   "id": "cabana-chair",
-  "name": "Cabana Chair",
+  "name": {
+    "de": "Korbstuhl",
+    "en-GB": "Cabana Chair",
+    "en-US": "Cabana Chair",
+    "es": "Silla mimbre",
+    "fr": "Chaise rotin",
+    "it": "Sedia vimini",
+    "ja": "リゾートなイス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

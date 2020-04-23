@@ -1,6 +1,14 @@
 {
   "id": "ninja-sword",
-  "name": "Ninja Sword",
+  "name": {
+    "de": "Ninjaschwert",
+    "en-GB": "Ninja Sword",
+    "en-US": "Ninja Sword",
+    "es": "Espada ninja",
+    "fr": "épée de ninja",
+    "it": "Spada ninja",
+    "ja": "にんじゃとう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

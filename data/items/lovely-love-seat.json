@@ -1,6 +1,14 @@
 {
   "id": "lovely-love-seat",
-  "name": "Lovely Love Seat",
+  "name": {
+    "de": "Herzchensofa",
+    "en-GB": "Lovely Love Seat",
+    "en-US": "Lovely Love Seat",
+    "es": "Sofá corazón",
+    "fr": "Canapé c\\u0153ur",
+    "it": "Poltrona cuori",
+    "ja": "ラブリーソファ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

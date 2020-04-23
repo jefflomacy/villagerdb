@@ -1,6 +1,14 @@
 {
   "id": "djs-turntable",
-  "name": "Dj's Turntable",
+  "name": {
+    "de": "DJ-Set",
+    "en-GB": "Dj's Turntable",
+    "en-US": "Dj's Turntable",
+    "es": "Mesa DJ",
+    "fr": "Platine de DJ",
+    "it": "Console da DJ",
+    "ja": "DJブース"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "balloon-clock",
-  "name": "Balloon Clock",
+  "name": {
+    "de": "Ballonuhr",
+    "en-GB": "Balloon Clock",
+    "en-US": "Balloon Clock",
+    "es": "Reloj globos",
+    "fr": "Horloge ballons",
+    "it": "Orologio palloncini",
+    "ja": "バルーンクロック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

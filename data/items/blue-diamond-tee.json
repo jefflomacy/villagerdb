@@ -1,6 +1,14 @@
 {
   "id": "blue-diamond-tee",
-  "name": "Blue Diamond Tee",
+  "name": {
+    "de": "80er-Shirt",
+    "en-GB": "Blue Diamond Tee",
+    "en-US": "Blue Diamond Tee",
+    "es": "Camiseta de noche",
+    "fr": "T-shirt jacquard",
+    "it": "Maglietta nera rombi",
+    "ja": "ブルータイルなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

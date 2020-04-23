@@ -1,6 +1,14 @@
 {
   "id": "football-helmet",
-  "name": "Football Helmet",
+  "name": {
+    "de": "Football-Helm",
+    "en-GB": "Football Helmet",
+    "en-US": "Football Helmet",
+    "es": "Casco de rugby",
+    "fr": "Casque de football",
+    "it": "Casco football",
+    "ja": "アメフトヘルメット"
+  },
   "category": "Hats",
   "games": {
     "nl": {

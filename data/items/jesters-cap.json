@@ -1,6 +1,14 @@
 {
   "id": "jesters-cap",
-  "name": "Jester's Cap",
+  "name": {
+    "de": "Narrenkappe",
+    "en-GB": "Jester's Cap",
+    "en-US": "Jester's Cap",
+    "es": "Gorro de bufón",
+    "fr": "Chapeau de bouffon",
+    "it": "Cappello giullare",
+    "ja": "ピエロのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

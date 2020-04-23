@@ -1,6 +1,14 @@
 {
   "id": "do-rag",
-  "name": "Do-rag",
+  "name": {
+    "de": "Bandana",
+    "en-GB": "Do-Rag",
+    "en-US": "Do-Rag",
+    "es": "Pañuelo anudado",
+    "fr": "Bandana triangle",
+    "it": "Bandana triangoli",
+    "ja": "さんかくきん"
+  },
   "category": "Hats",
   "games": {
     "nl": {

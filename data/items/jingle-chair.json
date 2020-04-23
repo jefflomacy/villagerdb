@@ -1,6 +1,14 @@
 {
   "id": "jingle-chair",
-  "name": "Jingle Chair",
+  "name": {
+    "de": "Festtagsstuhl",
+    "en-GB": "Jingle Chair",
+    "en-US": "Jingle Chair",
+    "es": "Silla festiva",
+    "fr": "Chaise festive",
+    "it": "Sedia Jingle",
+    "ja": "クリスマスチェア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

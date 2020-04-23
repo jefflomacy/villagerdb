@@ -1,6 +1,14 @@
 {
   "id": "espresso-maker",
-  "name": "Espresso Maker",
+  "name": {
+    "de": "Espressokanne",
+    "en-GB": "Espresso Maker",
+    "en-US": "Espresso Maker",
+    "es": "Cafetera moka",
+    "fr": "Machine à café",
+    "it": "Moka",
+    "ja": "エスプレッソマシーン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

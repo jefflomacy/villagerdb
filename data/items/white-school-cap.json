@@ -1,6 +1,14 @@
 {
   "id": "white-school-cap",
-  "name": "White School Cap",
+  "name": {
+    "de": "Schulmütze (weiß)",
+    "en-GB": "White School Cap",
+    "en-US": "White School Cap",
+    "es": "Gorra colegio blanca",
+    "fr": "Casqu. écol. blanche",
+    "it": "Cappellino bianco",
+    "ja": "しろあおのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

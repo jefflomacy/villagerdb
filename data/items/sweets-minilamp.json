@@ -1,6 +1,14 @@
 {
   "id": "sweets-minilamp",
-  "name": "Sweets Minilamp",
+  "name": {
+    "de": "Süßminilampe",
+    "en-GB": "Sweets Minilamp",
+    "en-US": "Sweets Minilamp",
+    "es": "Foco chuches",
+    "fr": "Petite lampe bonbons",
+    "it": "Lume dolci",
+    "ja": "おかしのミニランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

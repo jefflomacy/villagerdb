@@ -1,6 +1,14 @@
 {
   "id": "pink-tartan-shirt",
-  "name": "Pink Tartan Shirt",
+  "name": {
+    "de": "Schweinchenpulli",
+    "en-GB": "Pink Tartan Shirt",
+    "en-US": "Pink Tartan Shirt",
+    "es": "Jersey tartán rosa",
+    "fr": "Pull tartan rose",
+    "it": "Maglia tartan rosa",
+    "ja": "ピンクタータンのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

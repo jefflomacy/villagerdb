@@ -1,6 +1,14 @@
 {
   "id": "bear-shirt",
-  "name": "Bear Shirt",
+  "name": {
+    "de": "Teddy-Pulli",
+    "en-GB": "Bear Shirt",
+    "en-US": "Bear Shirt",
+    "es": "Jersey osito",
+    "fr": "Pull ours",
+    "it": "Maglia orsetto",
+    "ja": "クマのふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

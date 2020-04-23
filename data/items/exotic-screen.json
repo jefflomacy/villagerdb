@@ -1,6 +1,14 @@
 {
   "id": "exotic-screen",
-  "name": "Exotic Screen",
+  "name": {
+    "de": "Orient-Paravent",
+    "en-GB": "Exotic Screen",
+    "en-US": "Exotic Screen",
+    "es": "Biombo exótico",
+    "fr": "Paravent teck",
+    "it": "Separé esotico",
+    "ja": "アジアなスクリーン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

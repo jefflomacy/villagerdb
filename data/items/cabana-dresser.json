@@ -1,6 +1,14 @@
 {
   "id": "cabana-dresser",
-  "name": "Cabana Dresser",
+  "name": {
+    "de": "Korbkommode",
+    "en-GB": "Cabana Dresser",
+    "en-US": "Cabana Dresser",
+    "es": "Cómoda mimbre",
+    "fr": "Commode rotin",
+    "it": "Comò vimini",
+    "ja": "リゾートなタンス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

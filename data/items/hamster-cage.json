@@ -1,6 +1,14 @@
 {
   "id": "hamster-cage",
-  "name": "Hamster Cage",
+  "name": {
+    "de": "Hamsterkäfig",
+    "en-GB": "Hamster Cage",
+    "en-US": "Hamster Cage",
+    "es": "Jaula de hámster",
+    "fr": "Cage à hamster",
+    "it": "Gabbia per criceti",
+    "ja": "ハムスターのかご"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

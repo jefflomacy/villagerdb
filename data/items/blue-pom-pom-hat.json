@@ -1,6 +1,14 @@
 {
   "id": "blue-pom-pom-hat",
-  "name": "Blue Pom-pom Hat",
+  "name": {
+    "de": "Schneemütze",
+    "en-GB": "Blue Pom-Pom Hat",
+    "en-US": "Blue Pom-Pom Hat",
+    "es": "Gorro montaña",
+    "fr": "Bonnet bleu",
+    "it": "Berretto blu",
+    "ja": "あおいニットぼう"
+  },
   "category": "Hats",
   "games": {
     "nl": {

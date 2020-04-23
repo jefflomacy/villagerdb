@@ -1,6 +1,14 @@
 {
   "id": "colorful-sneakers",
-  "name": "Colorful Sneakers",
+  "name": {
+    "de": "Vielfarbturnschuh",
+    "en-GB": "Colorful Sneakers",
+    "en-US": "Colorful Sneakers",
+    "es": "Zapatilla colorida",
+    "fr": "P. tennis colorées",
+    "it": "P. scarpe rossoblu",
+    "ja": "カラフルなスニーカー"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

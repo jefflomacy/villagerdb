@@ -1,6 +1,14 @@
 {
   "id": "classic-buffet",
-  "name": "Classic Buffet",
+  "name": {
+    "de": "Klassiksofatisch",
+    "en-GB": "Classic Buffet",
+    "en-US": "Classic Buffet",
+    "es": "Mesa baja clásica",
+    "fr": "Console rustique",
+    "it": "Tavolino antico",
+    "ja": "シックなローテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

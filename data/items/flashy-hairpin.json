@@ -1,6 +1,14 @@
 {
   "id": "flashy-hairpin",
-  "name": "Flashy Hairpin",
+  "name": {
+    "de": "Blumenspange",
+    "en-GB": "Flashy Hairpin",
+    "en-US": "Flashy Hairpin",
+    "es": "Horquilla flor",
+    "fr": "épingle luxueuse",
+    "it": "Fermaglio fiore",
+    "ja": "はでなかみかざり"
+  },
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "bathroom-stall",
-  "name": "Bathroom Stall",
+  "name": {
+    "de": "Toilettenkabine",
+    "en-GB": "Bathroom Stall",
+    "en-US": "Bathroom Stall",
+    "es": "Cabina retrete",
+    "fr": "Cabine de WC fixe",
+    "it": "Cabina bagno",
+    "ja": "こしつトイレ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

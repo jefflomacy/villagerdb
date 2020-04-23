@@ -1,6 +1,14 @@
 {
   "id": "ptera-left-wing",
-  "name": "Ptera Left Wing",
+  "name": {
+    "de": "Ptera-Flügel (L)",
+    "en-GB": "Ptera Left Wing",
+    "en-US": "Ptera Left Wing",
+    "es": "Ala izda. pteranodon",
+    "fr": "Aile gauche de ptéra",
+    "it": "Ala sx pterodattilo",
+    "ja": "プテラノドンのさよく"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "rococo-bed",
-  "name": "Rococo Bed",
+  "name": {
+    "de": "Rokoko-Bett",
+    "en-GB": "Rococo Bed",
+    "en-US": "Rococo Bed",
+    "es": "Cama rococó",
+    "fr": "Lit rococo",
+    "it": "Letto rococò",
+    "ja": "ロココなベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

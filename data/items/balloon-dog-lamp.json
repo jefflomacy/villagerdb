@@ -1,6 +1,14 @@
 {
   "id": "balloon-dog-lamp",
-  "name": "Balloon-dog Lamp",
+  "name": {
+    "de": "Ballonhundlampe",
+    "en-GB": "Dog Lamp",
+    "en-US": "Balloon-Dog Lamp",
+    "es": "Lámpara globos perro",
+    "fr": "Lampe-chien ballons",
+    "it": "Lampada cane pallon.",
+    "ja": "バルーンドッグランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

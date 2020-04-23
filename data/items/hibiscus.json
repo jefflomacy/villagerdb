@@ -1,6 +1,14 @@
 {
   "id": "hibiscus",
-  "name": "Hibiscus",
+  "name": {
+    "de": "Hibiskus",
+    "en-GB": "Hibiscus",
+    "en-US": "Hibiscus",
+    "es": "Hibisco",
+    "fr": "Hibiscus",
+    "it": "Ibisco",
+    "ja": "ムクゲ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

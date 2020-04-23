@@ -1,6 +1,14 @@
 {
   "id": "orange-tie-dye-tee",
-  "name": "Orange Tie-dye Tee",
+  "name": {
+    "de": "Batikshirt",
+    "en-GB": "Orange Tie-Dye Tee",
+    "en-US": "Orange Tie-Dye Tee",
+    "es": "Camiseta hippy ámbar",
+    "fr": "T-shirt batik orange",
+    "it": "Maglietta arancione",
+    "ja": "オレンジソーダなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

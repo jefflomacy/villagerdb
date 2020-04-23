@@ -1,6 +1,14 @@
 {
   "id": "gerbera",
-  "name": "Gerbera",
+  "name": {
+    "de": "Gerbera",
+    "en-GB": "Gerbera",
+    "en-US": "Gerbera",
+    "es": "Jarrón con gerberas",
+    "fr": "Gerbera",
+    "it": "Gerbera",
+    "ja": "ガーベラ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

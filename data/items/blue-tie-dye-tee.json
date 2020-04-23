@@ -1,6 +1,14 @@
 {
   "id": "blue-tie-dye-tee",
-  "name": "Blue Tie-dye Tee",
+  "name": {
+    "de": "Meershirt",
+    "en-GB": "Blue Tie-Dye Tee",
+    "en-US": "Blue Tie-Dye Tee",
+    "es": "Camiseta hippy azul",
+    "fr": "T-shirt batik bleu",
+    "it": "Maglietta celeste",
+    "ja": "ブルーハワイなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

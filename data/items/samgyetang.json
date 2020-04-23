@@ -1,6 +1,14 @@
 {
   "id": "samgyetang",
-  "name": "Samgyetang",
+  "name": {
+    "de": "Samgyetang-Suppe",
+    "en-GB": "Samgyetang",
+    "en-US": "Samgyetang",
+    "es": "Sopa samgyetang",
+    "fr": "Bol de samgyetang",
+    "it": "Samgyetang",
+    "ja": "サムゲタン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

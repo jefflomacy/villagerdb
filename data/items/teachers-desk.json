@@ -1,6 +1,14 @@
 {
   "id": "teachers-desk",
-  "name": "Teacher's Desk",
+  "name": {
+    "de": "Lehrertisch",
+    "en-GB": "Teacher's Desk",
+    "en-US": "Teacher's Desk",
+    "es": "Mesa profesor",
+    "fr": "Bureau du maître",
+    "it": "Cattedra antica",
+    "ja": "せんせいのデスク"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

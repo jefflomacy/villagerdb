@@ -1,6 +1,14 @@
 {
   "id": "spiderweb-tee",
-  "name": "Spiderweb Tee",
+  "name": {
+    "de": "Spinnwebenshirt",
+    "en-GB": "Spiderweb Tee",
+    "en-US": "Spiderweb Tee",
+    "es": "Camiseta telaraña",
+    "fr": "T-shirt arachno",
+    "it": "Maglietta ragnatela",
+    "ja": "スパイダーなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

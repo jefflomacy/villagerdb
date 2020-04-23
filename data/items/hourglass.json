@@ -1,6 +1,14 @@
 {
   "id": "hourglass",
-  "name": "Hourglass",
+  "name": {
+    "de": "Sanduhr",
+    "en-GB": "Hourglass",
+    "en-US": "Hourglass",
+    "es": "Reloj de arena",
+    "fr": "Sablier",
+    "it": "Clessidra",
+    "ja": "すなどけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

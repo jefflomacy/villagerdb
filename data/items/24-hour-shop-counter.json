@@ -1,6 +1,14 @@
 {
   "id": "24-hour-shop-counter",
-  "name": "24-hour-shop Counter",
+  "name": {
+    "de": "Supermarktkasse",
+    "en-GB": "24-Hour-Shop Counter",
+    "en-US": "24-Hour-Shop Counter",
+    "es": "Caja súper",
+    "fr": "Caisse d'épicerie",
+    "it": "Cassa supermarket",
+    "ja": "コンビニのレジカウンター"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

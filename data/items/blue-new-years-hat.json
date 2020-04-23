@@ -1,6 +1,14 @@
 {
   "id": "blue-new-years-hat",
-  "name": "Blue New Year's Hat",
+  "name": {
+    "de": "Neujahrshut (blau)",
+    "en-GB": "Blue New Year's Hat",
+    "en-US": "Blue New Year's Hat",
+    "es": "Gorro Año Nuevo azul",
+    "fr": "Chapeau nouvel an B",
+    "it": "Capp. Capodanno blu",
+    "ja": "ニューイヤーハットあお"
+  },
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "jester-pants",
-  "name": "Jester Pants",
+  "name": {
+    "de": "Narrenhose",
+    "en-GB": "Jester Pants",
+    "en-US": "Jester Pants",
+    "es": "Pantalón de bufón",
+    "fr": "Pantalon bouffon",
+    "it": "Pantalone giullare",
+    "ja": "ピエロのズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

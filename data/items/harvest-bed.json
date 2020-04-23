@@ -1,6 +1,14 @@
 {
   "id": "harvest-bed",
-  "name": "Harvest Bed",
+  "name": {
+    "de": "Herbstbett",
+    "en-GB": "Harvest Bed",
+    "en-US": "Harvest Bed",
+    "es": "Cama pavo",
+    "fr": "Lit dindon",
+    "it": "Letto autunno",
+    "ja": "ハーベストベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

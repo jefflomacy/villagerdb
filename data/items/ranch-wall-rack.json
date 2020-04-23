@@ -1,6 +1,14 @@
 {
   "id": "ranch-wall-rack",
-  "name": "Ranch Wall Rack",
+  "name": {
+    "de": "Western-Wandregal",
+    "en-GB": "Ranch Wall Rack",
+    "en-US": "Ranch Wall Rack",
+    "es": "Estantería rústica",
+    "fr": "étagère mur ranch",
+    "it": "Mensola country",
+    "ja": "カントリーかべかけラック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

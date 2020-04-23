@@ -1,6 +1,14 @@
 {
   "id": "female-mask",
-  "name": "Female Mask",
+  "name": {
+    "de": "Frauenmaske",
+    "en-GB": "Female Mask",
+    "en-US": "Female Mask",
+    "es": "Máscara de mujer",
+    "fr": "Masque de femme",
+    "it": "Maschera muro donna",
+    "ja": "おんなののうめん"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

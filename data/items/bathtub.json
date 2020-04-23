@@ -1,6 +1,14 @@
 {
   "id": "bathtub",
-  "name": "Bathtub",
+  "name": {
+    "de": "Badebecken",
+    "en-GB": "Bathtub",
+    "en-US": "Bathtub",
+    "es": "Bañera terma",
+    "fr": "Baignoire",
+    "it": "Vasca",
+    "ja": "ゆぶね"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

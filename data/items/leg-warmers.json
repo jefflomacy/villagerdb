@@ -1,6 +1,14 @@
 {
   "id": "leg-warmers",
-  "name": "Leg Warmers",
+  "name": {
+    "de": "Beinwärmer",
+    "en-GB": "Leg Warmers",
+    "en-US": "Leg Warmers",
+    "es": "Calentador",
+    "fr": "Paire de guêtres",
+    "it": "Paio scaldamuscoli",
+    "ja": "レッグウォーマー"
+  },
   "category": "Socks",
   "games": {
     "nl": {

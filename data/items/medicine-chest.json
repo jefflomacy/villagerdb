@@ -1,6 +1,14 @@
 {
   "id": "medicine-chest",
-  "name": "Medicine Chest",
+  "name": {
+    "de": "Medizinschrank",
+    "en-GB": "Medicine Chest",
+    "en-US": "Medicine Chest",
+    "es": "Psicoarmario",
+    "fr": "étagère labo",
+    "it": "Mensola laboratorio",
+    "ja": "くすりだな"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

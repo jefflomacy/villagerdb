@@ -1,6 +1,14 @@
 {
   "id": "modern-wood-chair",
-  "name": "Modern Wood Chair",
+  "name": {
+    "de": "Buntholzstuhl",
+    "en-GB": "Modern Wood Chair",
+    "en-US": "Modern Wood Chair",
+    "es": "Silla listones",
+    "fr": "Chaise bois moderne",
+    "it": "Sedia legno",
+    "ja": "ミックスウッドのチェア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

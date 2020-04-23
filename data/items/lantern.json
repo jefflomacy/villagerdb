@@ -1,6 +1,14 @@
 {
   "id": "lantern",
-  "name": "Lantern",
+  "name": {
+    "de": "Laterne",
+    "en-GB": "Lantern",
+    "en-US": "Lantern",
+    "es": "Farol",
+    "fr": "Lanterne",
+    "it": "Lanterna",
+    "ja": "ランタン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

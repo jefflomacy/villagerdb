@@ -1,6 +1,14 @@
 {
   "id": "kagamimochi",
-  "name": "Kagamimochi",
+  "name": {
+    "de": "Kagami-Mochi",
+    "en-GB": "Kagamimochi",
+    "en-US": "Kagamimochi",
+    "es": "Kagamimochi",
+    "fr": "Kagamimochi",
+    "it": "Kagamimochi",
+    "ja": "かがみもち"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

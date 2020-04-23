@@ -1,6 +1,14 @@
 {
   "id": "boxing-barricade",
-  "name": "Boxing Barricade",
+  "name": {
+    "de": "Absperrung",
+    "en-GB": "Boxing Barricade",
+    "en-US": "Boxing Barricade",
+    "es": "Valla boxeo",
+    "fr": "Barrière de ring",
+    "it": "Transenna boxe",
+    "ja": "きゃくせきのフェンス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "gracie-tank",
-  "name": "Gracie Tank",
+  "name": {
+    "de": "Graziatop",
+    "en-GB": "Gracie Tank",
+    "en-US": "Gracie Tank",
+    "es": "Top Graciela",
+    "fr": "Débardeur Carla",
+    "it": "Canotta di Griffa",
+    "ja": "グレースのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

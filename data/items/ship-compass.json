@@ -1,6 +1,14 @@
 {
   "id": "ship-compass",
-  "name": "Ship Compass",
+  "name": {
+    "de": "Schiffskompass",
+    "en-GB": "Ship Compass",
+    "en-US": "Ship Compass",
+    "es": "Brújula marina",
+    "fr": "Compas",
+    "it": "Bussola marina",
+    "ja": "らしんばん"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

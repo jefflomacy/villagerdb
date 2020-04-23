@@ -1,6 +1,14 @@
 {
   "id": "gray-formal-skirt",
-  "name": "Gray Formal Skirt",
+  "name": {
+    "de": "Graurock",
+    "en-GB": "Gray Formal Skirt",
+    "en-US": "Gray Formal Skirt",
+    "es": "Falda lino gris",
+    "fr": "Jupe chic grise",
+    "it": "Gonna formale grigia",
+    "ja": "グレーのスカート"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

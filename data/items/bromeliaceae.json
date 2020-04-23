@@ -1,6 +1,14 @@
 {
   "id": "bromeliaceae",
-  "name": "Bromeliaceae",
+  "name": {
+    "de": "Bromelia",
+    "en-GB": "Bromeliaceae",
+    "en-US": "Bromeliaceae",
+    "es": "Bromeliácea",
+    "fr": "Guzmania",
+    "it": "Bromelia",
+    "ja": "アナナス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

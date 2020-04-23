@@ -1,6 +1,14 @@
 {
   "id": "princess-chair",
-  "name": "Princess Chair",
+  "name": {
+    "de": "Prachtstuhl",
+    "en-GB": "Princess Chair",
+    "en-US": "Princess Chair",
+    "es": "Silla princesa",
+    "fr": "Chaise princesse",
+    "it": "Sedia contessa",
+    "ja": "プリンセスチェア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

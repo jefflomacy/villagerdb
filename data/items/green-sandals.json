@@ -1,6 +1,14 @@
 {
   "id": "green-sandals",
-  "name": "Green Sandals",
+  "name": {
+    "de": "Grünsandale",
+    "en-GB": "Green Sandals",
+    "en-US": "Green Sandals",
+    "es": "Sandalia verde",
+    "fr": "P. sandales vertes",
+    "it": "Paio ciabatte verdi",
+    "ja": "サンダル"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

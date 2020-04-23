@@ -1,6 +1,14 @@
 {
   "id": "pave-chair",
-  "name": "Pavé Chair",
+  "name": {
+    "de": "Karnevalssessel",
+    "en-GB": "Pavé Chair",
+    "en-US": "Pavé Chair",
+    "es": "Butaca Conga",
+    "fr": "Chaise carnaval",
+    "it": "Poltrona Pavão",
+    "ja": "カーニバルチェア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "flower-table",
-  "name": "Flower Table",
+  "name": {
+    "de": "Blümchentisch",
+    "en-GB": "Flower Table",
+    "en-US": "Flower Table",
+    "es": "Mesa flor",
+    "fr": "Table fleur",
+    "it": "Tavolo fiore",
+    "ja": "おはなテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

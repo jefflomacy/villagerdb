@@ -1,6 +1,14 @@
 {
   "id": "dharma",
-  "name": "Dharma",
+  "name": {
+    "de": "Daruma",
+    "en-GB": "Dharma",
+    "en-US": "Dharma",
+    "es": "Daruma",
+    "fr": "Matriochka",
+    "it": "Dharma",
+    "ja": "ダルマ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

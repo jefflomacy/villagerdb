@@ -1,6 +1,14 @@
 {
   "id": "elephant-slide",
-  "name": "Elephant Slide",
+  "name": {
+    "de": "Elefantenrutsche",
+    "en-GB": "Elephant Slide",
+    "en-US": "Elephant Slide",
+    "es": "Tobogán elefante",
+    "fr": "éléphoboggan",
+    "it": "Proboscivolo",
+    "ja": "ゾウのすべりだい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

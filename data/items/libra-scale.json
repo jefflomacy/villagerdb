@@ -1,6 +1,14 @@
 {
   "id": "libra-scale",
-  "name": "Libra Scale",
+  "name": {
+    "de": "Waage-Modell",
+    "en-GB": "Libra Scale",
+    "en-US": "Libra Scale",
+    "es": "Báscula Libra",
+    "fr": "Balance à plateaux",
+    "it": "Bascula Bilancia",
+    "ja": "リブラのてんびん"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

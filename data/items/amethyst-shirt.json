@@ -1,6 +1,14 @@
 {
   "id": "amethyst-shirt",
-  "name": "Amethyst Shirt",
+  "name": {
+    "de": "Amethyst-Pulli",
+    "en-GB": "Amethyst Shirt",
+    "en-US": "Amethyst Shirt",
+    "es": "Jersey amatista",
+    "fr": "Pull nébuleux",
+    "it": "Maglia ametista",
+    "ja": "アメジストなふくL"
+  },
   "category": "Tops",
   "games": {
     "nl": {

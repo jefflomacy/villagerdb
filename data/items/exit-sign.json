@@ -1,6 +1,14 @@
 {
   "id": "exit-sign",
-  "name": "Exit Sign",
+  "name": {
+    "de": "Notausgangsschild",
+    "en-GB": "Exit Sign",
+    "en-US": "Exit Sign",
+    "es": "Salida de emergencia",
+    "fr": "Panneau de sortie",
+    "it": "Segnale di uscita",
+    "ja": "ひじょうぐち"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

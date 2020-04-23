@@ -1,6 +1,14 @@
 {
   "id": "white-cap",
-  "name": "White Cap",
+  "name": {
+    "de": "N-Kappe",
+    "en-GB": "White Cap",
+    "en-US": "White Cap",
+    "es": "Gorra N",
+    "fr": "Casquette blanche",
+    "it": "Cappello bianco",
+    "ja": "しろいキャップ"
+  },
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "pirates-hat",
-  "name": "Pirate's Hat",
+  "name": {
+    "de": "Piratenhut",
+    "en-GB": "Pirate's Hat",
+    "en-US": "Pirate's Hat",
+    "es": "Sombrero pirata",
+    "fr": "Chapeau de pirate",
+    "it": "Cappello pirata",
+    "ja": "かいぞくのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

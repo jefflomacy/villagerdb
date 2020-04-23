@@ -1,6 +1,14 @@
 {
   "id": "notebook-bed",
-  "name": "Notebook Bed",
+  "name": {
+    "de": "Notizbuchbett",
+    "en-GB": "Notebook Bed",
+    "en-US": "Notebook Bed",
+    "es": "Cama cuaderno",
+    "fr": "Lit agenda",
+    "it": "Letto quadernone",
+    "ja": "Campusベッド"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

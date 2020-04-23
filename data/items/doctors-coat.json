@@ -1,6 +1,14 @@
 {
   "id": "doctors-coat",
-  "name": "Doctor's Coat",
+  "name": {
+    "de": "Arztkittel",
+    "en-GB": "Doctor's Coat",
+    "en-US": "Doctor's Coat",
+    "es": "Bata de doctor",
+    "fr": "Blouse de docteur",
+    "it": "Giacca medico",
+    "ja": "はくい"
+  },
   "category": "Tops",
   "games": {
     "nl": {

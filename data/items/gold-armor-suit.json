@@ -1,6 +1,14 @@
 {
   "id": "gold-armor-suit",
-  "name": "Gold-armor Suit",
+  "name": {
+    "de": "Goldrüstungshemd",
+    "en-GB": "Gold-Armor Suit",
+    "en-US": "Gold-Armor Suit",
+    "es": "Coraza de oro",
+    "fr": "Cuirasse plates or",
+    "it": "Armatura oro",
+    "ja": "きんのかっちゅう"
+  },
   "category": "Tops",
   "games": {
     "nl": {

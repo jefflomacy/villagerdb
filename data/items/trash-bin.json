@@ -1,6 +1,14 @@
 {
   "id": "trash-bin",
-  "name": "Trash Bin",
+  "name": {
+    "de": "Mülleimer",
+    "en-GB": "Trash Bin",
+    "en-US": "Trash Bin",
+    "es": "Papelera con tapa",
+    "fr": "Boîte à ordures",
+    "it": "Pattumiera",
+    "ja": "ごみばこ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

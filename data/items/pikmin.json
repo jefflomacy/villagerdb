@@ -1,6 +1,14 @@
 {
   "id": "pikmin",
-  "name": "Pikmin",
+  "name": {
+    "de": "Pikmin",
+    "en-GB": "Pikmin",
+    "en-US": "Pikmin",
+    "es": "Maceta con Pikmin",
+    "fr": "Pikmin",
+    "it": "Pikmin",
+    "ja": "ピクミン"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

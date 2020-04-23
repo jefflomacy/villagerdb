@@ -1,6 +1,14 @@
 {
   "id": "hearth",
-  "name": "Hearth",
+  "name": {
+    "de": "Kochfeuer",
+    "en-GB": "Hearth",
+    "en-US": "Hearth",
+    "es": "Hogar",
+    "fr": "âtre",
+    "it": "Focolare",
+    "ja": "いろり"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

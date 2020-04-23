@@ -1,6 +1,14 @@
 {
   "id": "pagoda",
-  "name": "Pagoda",
+  "name": {
+    "de": "Pagode",
+    "en-GB": "Pagoda",
+    "en-US": "Pagoda",
+    "es": "Pagoda",
+    "fr": "Pagode",
+    "it": "Pagoda",
+    "ja": "ごじゅうのとう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

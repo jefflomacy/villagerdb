@@ -1,6 +1,14 @@
 {
   "id": "white-team-cap",
-  "name": "White-team Cap",
+  "name": {
+    "de": "Weißteamkappe",
+    "en-GB": "White-Team Cap",
+    "en-US": "White-Team Cap",
+    "es": "Gorra blancos",
+    "fr": "Casquette des blancs",
+    "it": "Berretto team bianco",
+    "ja": "しろぐみのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

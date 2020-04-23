@@ -1,6 +1,14 @@
 {
   "id": "rook",
-  "name": "Rook",
+  "name": {
+    "de": "Turm",
+    "en-GB": "Rook",
+    "en-US": "Rook",
+    "es": "Torre",
+    "fr": "Tour",
+    "it": "Torre",
+    "ja": "ルークのこま"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

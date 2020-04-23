@@ -1,6 +1,14 @@
 {
   "id": "bicycle-helmet",
-  "name": "Bicycle Helmet",
+  "name": {
+    "de": "Fahrradhelm",
+    "en-GB": "Bicycle Helmet",
+    "en-US": "Bicycle Helmet",
+    "es": "Casco ciclista",
+    "fr": "Casque de vélo",
+    "it": "Casco ciclista",
+    "ja": "サイクルヘルメット"
+  },
   "category": "Hats",
   "games": {
     "nl": {

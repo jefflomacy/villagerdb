@@ -1,6 +1,14 @@
 {
   "id": "ringside-table",
-  "name": "Ringside Table",
+  "name": {
+    "de": "Kampfrichtertisch",
+    "en-GB": "Ringside Table",
+    "en-US": "Ringside Table",
+    "es": "Mesa jueces",
+    "fr": "Table d'arbitrage",
+    "it": "Tavolo boxe",
+    "ja": "じっきょうテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

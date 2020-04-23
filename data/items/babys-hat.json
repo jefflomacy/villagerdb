@@ -1,6 +1,14 @@
 {
   "id": "babys-hat",
-  "name": "Baby's Hat",
+  "name": {
+    "de": "Babyhütchen",
+    "en-GB": "Baby's Hat",
+    "en-US": "Baby's Hat",
+    "es": "Gorro de bebé",
+    "fr": "Chapeau de bébé",
+    "it": "Cuffietta",
+    "ja": "あかちゃんのぼうし"
+  },
   "category": "Hats",
   "games": {
     "nl": {

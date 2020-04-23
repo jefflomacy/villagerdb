@@ -1,6 +1,14 @@
 {
   "id": "pleather-vest",
-  "name": "Pleather Vest",
+  "name": {
+    "de": "Kunstlederweste",
+    "en-GB": "Pleather Vest",
+    "en-US": "Pleather Vest",
+    "es": "Chaleco polipiel",
+    "fr": "Gilet en cuir",
+    "it": "Canotta ecopelle",
+    "ja": "レザーベスト"
+  },
   "category": "Tops",
   "games": {
     "nl": {

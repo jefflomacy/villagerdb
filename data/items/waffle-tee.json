@@ -1,6 +1,14 @@
 {
   "id": "waffle-tee",
-  "name": "Waffle Tee",
+  "name": {
+    "de": "Waffelshirt",
+    "en-GB": "Waffle Tee",
+    "en-US": "Waffle Tee",
+    "es": "Camiseta escocesa",
+    "fr": "T-shirt gaufre",
+    "it": "Magliet. tartan ocra",
+    "ja": "しぶいタータンのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

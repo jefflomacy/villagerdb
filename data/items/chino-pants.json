@@ -1,6 +1,14 @@
 {
   "id": "chino-pants",
-  "name": "Chino Pants",
+  "name": {
+    "de": "Khaki-Hose",
+    "en-GB": "Chino Pants",
+    "en-US": "Chino Pants",
+    "es": "Pantalón chino",
+    "fr": "Pantalon en toile",
+    "it": "Pantalone beige",
+    "ja": "チノパン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

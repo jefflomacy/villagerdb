@@ -1,6 +1,14 @@
 {
   "id": "matadors-jacket",
-  "name": "Matador's Jacket",
+  "name": {
+    "de": "Matadorjacke",
+    "en-GB": "Iberian Jacket",
+    "en-US": "Matador's Jacket",
+    "es": "Chaqueta de luces",
+    "fr": "Veste ibérique",
+    "it": "Giacca da torero",
+    "ja": "とうぎゅうしのふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

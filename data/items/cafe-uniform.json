@@ -1,6 +1,14 @@
 {
   "id": "cafe-uniform",
-  "name": "Café Uniform",
+  "name": {
+    "de": "Kellnerweste",
+    "en-GB": "Café Uniform",
+    "en-US": "Café Uniform",
+    "es": "Uniforme de camarero",
+    "fr": "Tenue de barista",
+    "it": "Gilet da barista",
+    "ja": "カフェのせいふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

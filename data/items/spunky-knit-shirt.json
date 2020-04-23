@@ -1,6 +1,14 @@
 {
   "id": "spunky-knit-shirt",
-  "name": "Spunky Knit Shirt",
+  "name": {
+    "de": "Nordik-Pulli",
+    "en-GB": "Lively Knit Shirt",
+    "en-US": "Spunky Knit Shirt",
+    "es": "Jersey retro",
+    "fr": "Pull prairie",
+    "it": "Maglione vivace",
+    "ja": "かわいいニット"
+  },
   "category": "Tops",
   "games": {
     "nl": {

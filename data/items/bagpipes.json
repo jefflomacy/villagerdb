@@ -1,6 +1,14 @@
 {
   "id": "bagpipes",
-  "name": "Bagpipes",
+  "name": {
+    "de": "Dudelsack",
+    "en-GB": "Bagpipes",
+    "en-US": "Bagpipes",
+    "es": "Gaita",
+    "fr": "Cornemuse",
+    "it": "Cornamusa",
+    "ja": "バグパイプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "cleats",
-  "name": "Cleats",
+  "name": {
+    "de": "Fußballschuh",
+    "en-GB": "Cleats",
+    "en-US": "Cleats",
+    "es": "Zapatilla de tacos",
+    "fr": "P. souliers crampons",
+    "it": "P. scarpe da calcio",
+    "ja": "スパイクシューズ"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

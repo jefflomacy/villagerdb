@@ -1,6 +1,14 @@
 {
   "id": "triple-red-shells",
-  "name": "Triple Red Shells",
+  "name": {
+    "de": "Rotpanzer-Set",
+    "en-GB": "Triple Red Shells",
+    "en-US": "Triple Red Shells",
+    "es": "Trío de cap. rojos",
+    "fr": "Triple carapa. rouge",
+    "it": "Triplo guscio rosso",
+    "ja": "トリプルあかこうら"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

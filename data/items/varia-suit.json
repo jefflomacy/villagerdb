@@ -1,6 +1,14 @@
 {
   "id": "varia-suit",
-  "name": "Varia Suit",
+  "name": {
+    "de": "Varia-Jacke",
+    "en-GB": "Varia Suit",
+    "en-US": "Varia Suit",
+    "es": "Chaqueta climática",
+    "fr": "Veste Varia",
+    "it": "Maglia termotuta",
+    "ja": "バリアスーツ・ボディ"
+  },
   "category": "Tops",
   "games": {
     "nl": {

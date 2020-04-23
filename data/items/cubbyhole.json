@@ -1,6 +1,14 @@
 {
   "id": "cubbyhole",
-  "name": "Cubbyhole",
+  "name": {
+    "de": "Schuhregal",
+    "en-GB": "Cubbyhole",
+    "en-US": "Cubbyhole",
+    "es": "Casillero",
+    "fr": "Casier",
+    "it": "Libreria scuola",
+    "ja": "がっこうのげたばこ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

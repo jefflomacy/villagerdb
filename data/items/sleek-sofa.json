@@ -1,6 +1,14 @@
 {
   "id": "sleek-sofa",
-  "name": "Sleek Sofa",
+  "name": {
+    "de": "Designersofa",
+    "en-GB": "Sleek Sofa",
+    "en-US": "Sleek Sofa",
+    "es": "Sofá tubos",
+    "fr": "Canapé design",
+    "it": "Sofà design",
+    "ja": "パイプなソファ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

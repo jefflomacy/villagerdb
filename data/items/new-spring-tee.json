@@ -1,6 +1,14 @@
 {
   "id": "new-spring-tee",
-  "name": "New Spring Tee",
+  "name": {
+    "de": "Satinshirt",
+    "en-GB": "New Spring Tee",
+    "en-US": "New Spring Tee",
+    "es": "Camiseta escarcha",
+    "fr": "T-shirt iris bleu",
+    "it": "Maglietta violette",
+    "ja": "ブルーチャイナなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

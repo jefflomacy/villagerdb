@@ -1,6 +1,14 @@
 {
   "id": "wooden-stool",
-  "name": "Wooden Stool",
+  "name": {
+    "de": "Holzschemel",
+    "en-GB": "Wooden Stool",
+    "en-US": "Wooden Stool",
+    "es": "Taburete de madera",
+    "fr": "Tabouret en bois",
+    "it": "Sgabello di legno",
+    "ja": "もくせいスツール"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

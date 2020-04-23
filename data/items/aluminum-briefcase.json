@@ -1,6 +1,14 @@
 {
   "id": "aluminum-briefcase",
-  "name": "Aluminum Briefcase",
+  "name": {
+    "de": "Alukoffer",
+    "en-GB": "Aluminum Briefcase",
+    "en-US": "Aluminum Briefcase",
+    "es": "Maletín de aluminio",
+    "fr": "Mallette aluminium",
+    "it": "Valigetta di metallo",
+    "ja": "ジュラルミンケース"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

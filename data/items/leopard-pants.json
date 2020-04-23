@@ -1,6 +1,14 @@
 {
   "id": "leopard-pants",
-  "name": "Leopard Pants",
+  "name": {
+    "de": "Leopardenhose",
+    "en-GB": "Leopard Pants",
+    "en-US": "Leopard Pants",
+    "es": "Pantalón leopardo",
+    "fr": "Pantalon léopard",
+    "it": "Pantalone leopardo",
+    "ja": "ヒョウがらのズボン"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

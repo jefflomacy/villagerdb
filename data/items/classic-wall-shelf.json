@@ -1,6 +1,14 @@
 {
   "id": "classic-wall-shelf",
-  "name": "Classic Wall Shelf",
+  "name": {
+    "de": "Klassikhängeschrank",
+    "en-GB": "Classic Wall Shelf",
+    "en-US": "Classic Wall Shelf",
+    "es": "Estan. pared clásico",
+    "fr": "étagère mur rustique",
+    "it": "Mensola antica",
+    "ja": "シックなウォールシェルフ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

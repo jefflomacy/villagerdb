@@ -1,6 +1,14 @@
 {
   "id": "yut-board",
-  "name": "Yut Board",
+  "name": {
+    "de": "Yut-Spiel",
+    "en-GB": "Yut Board",
+    "en-US": "Yut Board",
+    "es": "Tablero de yut",
+    "fr": "Yut",
+    "it": "Yut",
+    "ja": "ユンノリセット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

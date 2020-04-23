@@ -1,6 +1,14 @@
 {
   "id": "spooky-clock",
-  "name": "Spooky Clock",
+  "name": {
+    "de": "Kürbisuhr",
+    "en-GB": "Spooky Clock",
+    "en-US": "Spooky Clock",
+    "es": "Reloj calabaza",
+    "fr": "Cadran Halloween",
+    "it": "Orologio brividi",
+    "ja": "ハロウィンクロック"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

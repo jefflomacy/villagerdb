@@ -1,6 +1,14 @@
 {
   "id": "modern-chair",
-  "name": "Modern Chair",
+  "name": {
+    "de": "Schachstuhl",
+    "en-GB": "Modern Chair",
+    "en-US": "Modern Chair",
+    "es": "Silla moderna",
+    "fr": "Chaise moderne",
+    "it": "Sedia moderna",
+    "ja": "ツートンチェア"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

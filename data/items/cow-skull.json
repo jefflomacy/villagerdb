@@ -1,6 +1,14 @@
 {
   "id": "cow-skull",
-  "name": "Cow Skull",
+  "name": {
+    "de": "Kuhschädel",
+    "en-GB": "Cow Skull",
+    "en-US": "Cow Skull",
+    "es": "Calavera búfalo",
+    "fr": "Crâne de vache",
+    "it": "Teschio bufalo",
+    "ja": "うしのずがいこつ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "24-hour-shop-abd",
-  "name": "24-hour-shop ABD",
+  "name": {
+    "de": "Geldautomat",
+    "en-GB": "In-Store Bellpoint",
+    "en-US": "24-Hour-Shop ABD",
+    "es": "Bayero súper",
+    "fr": "DAC d'épicerie",
+    "it": "Bancomat",
+    "ja": "コンビニのATM"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

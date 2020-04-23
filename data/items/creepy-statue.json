@@ -1,6 +1,14 @@
 {
   "id": "creepy-statue",
-  "name": "Creepy Statue",
+  "name": {
+    "de": "Gruselstatue",
+    "en-GB": "Creepy Statue",
+    "en-US": "Creepy Statue",
+    "es": "Busto pavoroso",
+    "fr": "Statue lugubre",
+    "it": "Statua horror",
+    "ja": "あやしげなきょうぞう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

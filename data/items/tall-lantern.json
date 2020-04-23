@@ -1,6 +1,14 @@
 {
   "id": "tall-lantern",
-  "name": "Tall Lantern",
+  "name": {
+    "de": "Mega-Laterne",
+    "en-GB": "Tall Lantern",
+    "en-US": "Tall Lantern",
+    "es": "Farol alto",
+    "fr": "Lanterne haute",
+    "it": "Lanterna alta",
+    "ja": "とうろう"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,14 @@
 {
   "id": "school-hat",
-  "name": "School Hat",
+  "name": {
+    "de": "Schülerhut",
+    "en-GB": "School Hat",
+    "en-US": "School Hat",
+    "es": "Gorra de colegio",
+    "fr": "Chapeau d'écolier",
+    "it": "Cappello da scolaro",
+    "ja": "つうがくぼう"
+  },
   "category": "Hats",
   "games": {
     "nl": {

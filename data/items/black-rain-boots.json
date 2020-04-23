@@ -1,6 +1,14 @@
 {
   "id": "black-rain-boots",
-  "name": "Black Rain Boots",
+  "name": {
+    "de": "Regenstiefel",
+    "en-GB": "Black Rain Boots",
+    "en-US": "Black Rain Boots",
+    "es": "Katiuska negra",
+    "fr": "P. bottes pluie N",
+    "it": "Paio stivali neri",
+    "ja": "くろいながぐつ"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

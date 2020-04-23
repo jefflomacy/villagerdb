@@ -1,6 +1,14 @@
 {
   "id": "cabana-lamp",
-  "name": "Cabana Lamp",
+  "name": {
+    "de": "Korblampe",
+    "en-GB": "Cabana Lamp",
+    "en-US": "Cabana Lamp",
+    "es": "Lámpara mimbre",
+    "fr": "Lampe rotin",
+    "it": "Lampada vimini",
+    "ja": "リゾートなランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

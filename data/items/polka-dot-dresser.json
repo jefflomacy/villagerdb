@@ -1,6 +1,14 @@
 {
   "id": "polka-dot-dresser",
-  "name": "Polka-dot Dresser",
+  "name": {
+    "de": "Pünktchenkommode",
+    "en-GB": "Polka-Dot Dresser",
+    "en-US": "Polka-Dot Dresser",
+    "es": "Cómoda topos",
+    "fr": "Commode à pois rouge",
+    "it": "Toletta pois",
+    "ja": "みずたまなタンス"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

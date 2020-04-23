@@ -1,6 +1,14 @@
 {
   "id": "blue-ribbon",
-  "name": "Blue Ribbon",
+  "name": {
+    "de": "Azurband",
+    "en-GB": "Blue Ribbon",
+    "en-US": "Blue Ribbon",
+    "es": "Lazo azul",
+    "fr": "Ruban bleu",
+    "it": "Fiocco blu",
+    "ja": "あおいリボン"
+  },
   "category": "Hats",
   "games": {
     "nl": {

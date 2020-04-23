@@ -1,6 +1,14 @@
 {
   "id": "pipe",
-  "name": "Pipe",
+  "name": {
+    "de": "Röhre",
+    "en-GB": "Pipe",
+    "en-US": "Pipe",
+    "es": "Tubería",
+    "fr": "Tuyau",
+    "it": "Tubo",
+    "ja": "どかん"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

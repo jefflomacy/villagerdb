@@ -1,6 +1,14 @@
 {
   "id": "green-zap-pants",
-  "name": "Green-zap Pants",
+  "name": {
+    "de": "Grünheldenhose",
+    "en-GB": "Green-Zap Pants",
+    "en-US": "Green-Zap Pants",
+    "es": "Superpantalón verde",
+    "fr": "Pantalon héros vert",
+    "it": "Pantalone eroe verde",
+    "ja": "ヒーローズボンG"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

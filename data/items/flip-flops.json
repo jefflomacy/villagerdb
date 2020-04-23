@@ -1,6 +1,14 @@
 {
   "id": "flip-flops",
-  "name": "Flip-flops",
+  "name": {
+    "de": "Badesandale",
+    "en-GB": "Flip-Flops",
+    "en-US": "Flip-Flops",
+    "es": "Chancla",
+    "fr": "Paire de tongs",
+    "it": "Paio infradito",
+    "ja": "ビーチサンダル"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

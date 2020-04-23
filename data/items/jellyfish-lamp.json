@@ -1,6 +1,14 @@
 {
   "id": "jellyfish-lamp",
-  "name": "Jellyfish Lamp",
+  "name": {
+    "de": "Quallenlampe",
+    "en-GB": "Jellyfish Lamp",
+    "en-US": "Jellyfish Lamp",
+    "es": "Lámpara medusa",
+    "fr": "Lampe méduse",
+    "it": "Lampada medusa",
+    "ja": "くらげランプ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

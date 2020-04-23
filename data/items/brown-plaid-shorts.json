@@ -1,6 +1,14 @@
 {
   "id": "brown-plaid-shorts",
-  "name": "Brown Plaid Shorts",
+  "name": {
+    "de": "Braun-Karo-Hose",
+    "en-GB": "Brown Plaid Shorts",
+    "en-US": "Brown Plaid Shorts",
+    "es": "Bermuda tartán",
+    "fr": "Short tartan brun",
+    "it": "Paio bermuda rame",
+    "ja": "ちゃいろハーフパンツ"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

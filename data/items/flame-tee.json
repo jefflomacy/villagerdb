@@ -1,6 +1,14 @@
 {
   "id": "flame-tee",
-  "name": "Flame Tee",
+  "name": {
+    "de": "Feuershirt",
+    "en-GB": "Flame Tee",
+    "en-US": "Flame Tee",
+    "es": "Camiseta fuego",
+    "fr": "T-shirt flamme",
+    "it": "Maglietta fiamma",
+    "ja": "ファイアーなふく"
+  },
   "category": "Tops",
   "games": {
     "nl": {

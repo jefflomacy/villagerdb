@@ -1,6 +1,14 @@
 {
   "id": "balloon-closet",
-  "name": "Balloon Closet",
+  "name": {
+    "de": "Ballonschrank",
+    "en-GB": "Balloon Closet",
+    "en-US": "Balloon Closet",
+    "es": "Armario globos",
+    "fr": "Armoire ballons",
+    "it": "Armadio palloncini",
+    "ja": "バルーンクロゼット"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

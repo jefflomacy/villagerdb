@@ -1,6 +1,14 @@
 {
   "id": "editors-desk",
-  "name": "Editor's Desk",
+  "name": {
+    "de": "Chefschreibtisch",
+    "en-GB": "Editor's Desk",
+    "en-US": "Editor's Desk",
+    "es": "Mesa despacho",
+    "fr": "Bureau de rédacteur",
+    "it": "Scrivania direttore",
+    "ja": "しゃちょうのつくえ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

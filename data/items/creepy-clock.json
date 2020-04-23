@@ -1,6 +1,14 @@
 {
   "id": "creepy-clock",
-  "name": "Creepy Clock",
+  "name": {
+    "de": "Gruseluhr",
+    "en-GB": "Creepy Clock",
+    "en-US": "Creepy Clock",
+    "es": "Reloj pavoroso",
+    "fr": "Horloge lugubre",
+    "it": "Orologio horror",
+    "ja": "くるったとけい"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

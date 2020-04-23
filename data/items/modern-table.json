@@ -1,6 +1,14 @@
 {
   "id": "modern-table",
-  "name": "Modern Table",
+  "name": {
+    "de": "Schachtisch",
+    "en-GB": "Modern Table",
+    "en-US": "Modern Table",
+    "es": "Mesa baja moderna",
+    "fr": "Table basse moderne",
+    "it": "Tavolo moderno",
+    "ja": "ツートンローテーブル"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

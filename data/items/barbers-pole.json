@@ -1,6 +1,14 @@
 {
   "id": "barbers-pole",
-  "name": "Barber's Pole",
+  "name": {
+    "de": "Streifenstange",
+    "en-GB": "Barber's Pole",
+    "en-US": "Barber's Pole",
+    "es": "Poste de barbero",
+    "fr": "Enseigne barbier",
+    "it": "Palo da barbiere",
+    "ja": "バーバーポール"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

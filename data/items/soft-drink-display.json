@@ -1,6 +1,14 @@
 {
   "id": "soft-drink-display",
-  "name": "Soft-drink Display",
+  "name": {
+    "de": "Getränkeregal",
+    "en-GB": "Soft-Drink Display",
+    "en-US": "Soft-Drink Display",
+    "es": "Estantería bebidas",
+    "fr": "Rayon boissons",
+    "it": "Banco bibite",
+    "ja": "ドリンクのちんれつだな"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

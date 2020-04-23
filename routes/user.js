@@ -132,6 +132,7 @@ function organizeData(listId, entity, type, variationId) {
     entityData.image = entity.image.thumb;
     entityData.deleteUrl = '/list/delete-entity/' + listId + '/' + type + '/' + entity.id;
     entityData._sortKey = entity.id;
+    entityData._compareId = entity.id + "_variationId_" + variationId;
 
     // Variation?
     if (variationId) {
@@ -222,15 +223,15 @@ router.get('/:username/list/:listId/compare/:compare_username/:compare_listId', 
                     response.listName = values[0].listName;
                     response.otherListName = values[1].listName;
 
-                    const otherListIds = values[1].entities.map(e => e.id);
+                    const otherListIds = values[1].entities.map(e => e._compareId);
                     const sharedIds = [];
                     const entities = [];
                     diffCount = 0;
 
                     values[0].entities.forEach(element => {
-                        if (otherListIds.includes(element.id)) {
+                        if (otherListIds.includes(element._compareId)) {
                             // Matching entries
-                            sharedIds.push(element.id);
+                            sharedIds.push(element._compareId);
                         } else {
                             // Initial user only entries
                             element.compareStatus = "present";
@@ -240,7 +241,7 @@ router.get('/:username/list/:listId/compare/:compare_username/:compare_listId', 
                     });
 
                     // Add remaining items to list
-                    values[1].entities.filter(e => !sharedIds.includes(e.id))
+                    values[1].entities.filter(e => !sharedIds.includes(e._compareId))
                         .forEach(element => {
                             element.compareStatus = "missing";
                             entities.push(element);

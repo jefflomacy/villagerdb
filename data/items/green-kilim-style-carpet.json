@@ -1,6 +1,8 @@
 {
   "id": "green-kilim-style-carpet",
-  "name": "Green Kilim-style Carpet",
+  "name": {
+    "en-US": "Green Kilim-style Carpet"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "forest-floor",
-  "name": "Forest Floor",
+  "name": {
+    "en-US": "Forest Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

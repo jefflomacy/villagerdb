@@ -1,6 +1,8 @@
 {
   "id": "snowman-paper",
-  "name": "Snowman Paper",
+  "name": {
+    "en-US": "Snowman Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

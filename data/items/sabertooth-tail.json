@@ -1,6 +1,8 @@
 {
   "id": "sabertooth-tail",
-  "name": "Sabertooth Tail",
+  "name": {
+    "en-US": "Sabertooth Tail"
+  },
   "games": {
     "nh": {
       "orderable": false,

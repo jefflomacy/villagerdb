@@ -1,6 +1,8 @@
 {
   "id": "moms-plushie",
-  "name": "Mom's Plushie",
+  "name": {
+    "en-US": "Mom's Plushie"
+  },
   "games": {
     "nh": {
       "sellPrice": {

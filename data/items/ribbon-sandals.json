@@ -1,6 +1,8 @@
 {
   "id": "ribbon-sandals",
-  "name": "Ribbon Sandals",
+  "name": {
+    "en-US": "Ribbon Sandals"
+  },
   "games": {
     "nh": {
       "sellPrice": {

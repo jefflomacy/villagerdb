@@ -1,6 +1,8 @@
 {
   "id": "proper-painting",
-  "name": "Proper Painting",
+  "name": {
+    "en-US": "Proper Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

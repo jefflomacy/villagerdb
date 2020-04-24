@@ -1,6 +1,8 @@
 {
   "id": "toolbox",
-  "name": "Toolbox",
+  "name": {
+    "en-US": "Toolbox"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

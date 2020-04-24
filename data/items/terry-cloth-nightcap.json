@@ -1,6 +1,8 @@
 {
   "id": "terry-cloth-nightcap",
-  "name": "Terry-cloth Nightcap",
+  "name": {
+    "en-US": "Terry-cloth Nightcap"
+  },
   "games": {
     "nh": {
       "sellPrice": {

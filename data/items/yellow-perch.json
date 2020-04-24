@@ -1,6 +1,8 @@
 {
   "id": "yellow-perch",
-  "name": "Yellow Perch",
+  "name": {
+    "en-US": "Yellow Perch"
+  },
   "category": "Fish",
   "games": {
     "nl": {

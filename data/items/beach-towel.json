@@ -1,6 +1,8 @@
 {
   "id": "beach-towel",
-  "name": "Beach Towel",
+  "name": {
+    "en-US": "Beach Towel"
+  },
   "games": {
     "nh": {
       "orderable": true,

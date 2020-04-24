@@ -1,6 +1,8 @@
 {
   "id": "arched-brick-floor",
-  "name": "Arched Brick Floor",
+  "name": {
+    "en-US": "Arched Brick Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

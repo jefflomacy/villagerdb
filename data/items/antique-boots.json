@@ -1,6 +1,8 @@
 {
   "id": "antique-boots",
-  "name": "Antique Boots",
+  "name": {
+    "en-US": "Antique Boots"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "everyday-socks",
-  "name": "Everyday Socks",
+  "name": {
+    "en-US": "Everyday Socks"
+  },
   "games": {
     "nh": {
       "orderable": true,

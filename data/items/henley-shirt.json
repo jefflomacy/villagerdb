@@ -1,6 +1,8 @@
 {
   "id": "henley-shirt",
-  "name": "Henley Shirt",
+  "name": {
+    "en-US": "Henley Shirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

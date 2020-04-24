@@ -1,6 +1,8 @@
 {
   "id": "pink-zap-suit",
-  "name": "Pink-zap Suit",
+  "name": {
+    "en-US": "Pink-zap Suit"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "coral-shirt",
-  "name": "Coral Shirt",
+  "name": {
+    "en-US": "Coral Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "terra-cotta-flooring",
-  "name": "Terra-cotta Flooring",
+  "name": {
+    "en-US": "Terra-cotta Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

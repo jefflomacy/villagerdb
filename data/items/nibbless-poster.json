@@ -1,6 +1,8 @@
 {
   "id": "nibbless-poster",
-  "name": "Nibbles's Poster",
+  "name": {
+    "en-US": "Nibbles's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

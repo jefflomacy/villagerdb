@@ -1,6 +1,8 @@
 {
   "id": "server-room-wall",
-  "name": "Server-room Wall",
+  "name": {
+    "en-US": "Server-room Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

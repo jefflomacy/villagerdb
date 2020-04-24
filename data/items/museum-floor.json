@@ -1,6 +1,8 @@
 {
   "id": "museum-floor",
-  "name": "Museum Floor",
+  "name": {
+    "en-US": "Museum Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

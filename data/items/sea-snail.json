@@ -1,6 +1,8 @@
 {
   "id": "sea-snail",
-  "name": "Sea Snail",
+  "name": {
+    "en-US": "Sea Snail"
+  },
   "games": {
     "nh": {
       "orderable": false,

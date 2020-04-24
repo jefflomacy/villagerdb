@@ -1,6 +1,8 @@
 {
   "id": "puddless-poster",
-  "name": "Puddles's Poster",
+  "name": {
+    "en-US": "Puddles's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

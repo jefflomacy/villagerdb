@@ -1,6 +1,8 @@
 {
   "id": "woodland-wall",
-  "name": "Woodland Wall",
+  "name": {
+    "en-US": "Woodland Wall"
+  },
   "games": {
     "nh": {
       "orderable": false,

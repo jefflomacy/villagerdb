@@ -1,6 +1,8 @@
 {
   "id": "white-azalea-start",
-  "name": "White-azalea Start",
+  "name": {
+    "en-US": "White-azalea Start"
+  },
   "category": "Trees",
   "games": {
     "nl": {

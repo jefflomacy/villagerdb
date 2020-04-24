@@ -1,6 +1,8 @@
 {
   "id": "moldy-dress",
-  "name": "Moldy Dress",
+  "name": {
+    "en-US": "Moldy Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

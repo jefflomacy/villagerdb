@@ -1,6 +1,8 @@
 {
   "id": "knitted-grass-backpack",
-  "name": "Knitted-grass Backpack",
+  "name": {
+    "en-US": "Knitted-grass Backpack"
+  },
   "games": {
     "nh": {
       "orderable": false,

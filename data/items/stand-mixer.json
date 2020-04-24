@@ -1,6 +1,8 @@
 {
   "id": "stand-mixer",
-  "name": "Stand Mixer",
+  "name": {
+    "en-US": "Stand Mixer"
+  },
   "games": {
     "nh": {
       "orderable": true,

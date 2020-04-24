@@ -1,6 +1,8 @@
 {
   "id": "tree-branch-wreath",
-  "name": "Tree Branch Wreath",
+  "name": {
+    "en-US": "Tree Branch Wreath"
+  },
   "games": {
     "nh": {
       "orderable": false,

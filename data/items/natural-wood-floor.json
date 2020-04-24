@@ -1,6 +1,8 @@
 {
   "id": "natural-wood-floor",
-  "name": "Natural Wood Floor",
+  "name": {
+    "en-US": "Natural Wood Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

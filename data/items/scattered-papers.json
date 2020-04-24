@@ -1,6 +1,8 @@
 {
   "id": "scattered-papers",
-  "name": "Scattered Papers",
+  "name": {
+    "en-US": "Scattered Papers"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

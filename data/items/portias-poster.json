@@ -1,6 +1,8 @@
 {
   "id": "portias-poster",
-  "name": "Portia's Poster",
+  "name": {
+    "en-US": "Portia's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "tourist-telescope",
-  "name": "Tourist Telescope",
+  "name": {
+    "en-US": "Tourist Telescope"
+  },
   "games": {
     "nh": {
       "orderable": true,

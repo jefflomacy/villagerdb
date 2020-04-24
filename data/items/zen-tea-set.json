@@ -1,6 +1,8 @@
 {
   "id": "zen-tea-set",
-  "name": "Zen Tea Set",
+  "name": {
+    "en-US": "Zen Tea Set"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

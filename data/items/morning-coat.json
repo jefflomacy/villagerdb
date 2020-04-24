@@ -1,6 +1,8 @@
 {
   "id": "morning-coat",
-  "name": "Morning Coat",
+  "name": {
+    "en-US": "Morning Coat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

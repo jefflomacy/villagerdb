@@ -1,6 +1,8 @@
 {
   "id": "round-pillow",
-  "name": "Round Pillow",
+  "name": {
+    "en-US": "Round Pillow"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

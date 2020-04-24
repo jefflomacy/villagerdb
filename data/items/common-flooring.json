@@ -1,6 +1,8 @@
 {
   "id": "common-flooring",
-  "name": "Common Flooring",
+  "name": {
+    "en-US": "Common Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "throwback-wall-clock",
-  "name": "Throwback Wall Clock",
+  "name": {
+    "en-US": "Throwback Wall Clock"
+  },
   "games": {
     "nh": {
       "orderable": true,

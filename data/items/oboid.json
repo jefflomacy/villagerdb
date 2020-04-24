@@ -1,6 +1,8 @@
 {
   "id": "oboid",
-  "name": "Oboid",
+  "name": {
+    "en-US": "Oboid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

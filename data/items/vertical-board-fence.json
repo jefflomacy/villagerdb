@@ -1,6 +1,8 @@
 {
   "id": "vertical-board-fence",
-  "name": "Vertical-board Fence",
+  "name": {
+    "en-US": "Vertical-board Fence"
+  },
   "games": {
     "nh": {
       "orderable": false,

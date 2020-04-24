@@ -1,6 +1,8 @@
 {
   "id": "retro-sink",
-  "name": "Retro Sink",
+  "name": {
+    "en-US": "Retro Sink"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

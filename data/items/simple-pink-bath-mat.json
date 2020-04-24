@@ -1,6 +1,8 @@
 {
   "id": "simple-pink-bath-mat",
-  "name": "Simple Pink Bath Mat",
+  "name": {
+    "en-US": "Simple Pink Bath Mat"
+  },
   "games": {
     "nh": {
       "sources": [

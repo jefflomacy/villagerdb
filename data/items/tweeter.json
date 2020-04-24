@@ -1,6 +1,8 @@
 {
   "id": "tweeter",
-  "name": "Tweeter",
+  "name": {
+    "en-US": "Tweeter"
+  },
   "category": "Usables",
   "games": {
     "nl": {

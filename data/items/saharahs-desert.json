@@ -1,6 +1,8 @@
 {
   "id": "saharahs-desert",
-  "name": "Saharah's Desert",
+  "name": {
+    "en-US": "Saharah's Desert"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "pink-lilies",
-  "name": "Pink Lilies",
+  "name": {
+    "en-US": "Pink Lilies"
+  },
   "games": {
     "nh": {
       "orderable": false,

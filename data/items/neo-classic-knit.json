@@ -1,6 +1,8 @@
 {
   "id": "neo-classic-knit",
-  "name": "Neo-Classic Knit",
+  "name": {
+    "en-US": "Neo-Classic Knit"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "pom-pom-sweater",
-  "name": "Pom-pom Sweater",
+  "name": {
+    "en-US": "Pom-pom Sweater"
+  },
   "games": {
     "nh": {
       "sellPrice": {

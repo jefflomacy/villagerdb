@@ -1,6 +1,8 @@
 {
   "id": "mega-squelchoid",
-  "name": "Mega Squelchoid",
+  "name": {
+    "en-US": "Mega Squelchoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

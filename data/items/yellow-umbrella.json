@@ -1,6 +1,8 @@
 {
   "id": "yellow-umbrella",
-  "name": "Yellow Umbrella",
+  "name": {
+    "en-US": "Yellow Umbrella"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

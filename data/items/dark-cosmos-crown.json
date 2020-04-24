@@ -1,6 +1,8 @@
 {
   "id": "dark-cosmos-crown",
-  "name": "Dark Cosmos Crown",
+  "name": {
+    "en-US": "Dark Cosmos Crown"
+  },
   "games": {
     "nh": {
       "sellPrice": {

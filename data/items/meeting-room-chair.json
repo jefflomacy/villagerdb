@@ -1,6 +1,8 @@
 {
   "id": "meeting-room-chair",
-  "name": "Meeting-room Chair",
+  "name": {
+    "en-US": "Meeting-room Chair"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

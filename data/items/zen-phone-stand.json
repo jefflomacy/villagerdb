@@ -1,6 +1,8 @@
 {
   "id": "zen-phone-stand",
-  "name": "Zen Phone Stand",
+  "name": {
+    "en-US": "Zen Phone Stand"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

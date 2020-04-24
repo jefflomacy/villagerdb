@@ -1,6 +1,8 @@
 {
   "id": "labelle-coat",
-  "name": "Labelle Coat",
+  "name": {
+    "en-US": "Labelle Coat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

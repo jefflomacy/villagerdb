@@ -1,6 +1,8 @@
 {
   "id": "milk-canister",
-  "name": "Milk Canister",
+  "name": {
+    "en-US": "Milk Canister"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

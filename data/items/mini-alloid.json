@@ -1,6 +1,8 @@
 {
   "id": "mini-alloid",
-  "name": "Mini Alloid",
+  "name": {
+    "en-US": "Mini Alloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

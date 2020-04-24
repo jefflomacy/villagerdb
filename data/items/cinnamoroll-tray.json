@@ -1,6 +1,8 @@
 {
   "id": "cinnamoroll-tray",
-  "name": "Cinnamoroll Tray",
+  "name": {
+    "en-US": "Cinnamoroll Tray"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

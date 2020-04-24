@@ -1,6 +1,8 @@
 {
   "id": "tuna-model",
-  "name": "Tuna Model",
+  "name": {
+    "en-US": "Tuna Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

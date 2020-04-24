@@ -1,6 +1,8 @@
 {
   "id": "lotus-tank-dress",
-  "name": "Lotus Tank Dress",
+  "name": {
+    "en-US": "Lotus Tank Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

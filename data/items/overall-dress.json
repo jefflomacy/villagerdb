@@ -1,6 +1,8 @@
 {
   "id": "overall-dress",
-  "name": "Overall Dress",
+  "name": {
+    "en-US": "Overall Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

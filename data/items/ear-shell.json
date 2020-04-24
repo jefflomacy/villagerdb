@@ -1,6 +1,8 @@
 {
   "id": "ear-shell",
-  "name": "Ear Shell",
+  "name": {
+    "en-US": "Ear Shell"
+  },
   "category": "Fish",
   "games": {
     "nl": {

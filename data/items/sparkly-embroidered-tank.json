@@ -1,6 +1,8 @@
 {
   "id": "sparkly-embroidered-tank",
-  "name": "Sparkly Embroidered Tank",
+  "name": {
+    "en-US": "Sparkly Embroidered Tank"
+  },
   "games": {
     "nh": {
       "sellPrice": {

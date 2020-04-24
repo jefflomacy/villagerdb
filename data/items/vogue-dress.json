@@ -1,6 +1,8 @@
 {
   "id": "vogue-dress",
-  "name": "Vogue Dress",
+  "name": {
+    "en-US": "Vogue Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

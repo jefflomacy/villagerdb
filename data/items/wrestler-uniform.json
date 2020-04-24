@@ -1,6 +1,8 @@
 {
   "id": "wrestler-uniform",
-  "name": "Wrestler Uniform",
+  "name": {
+    "en-US": "Wrestler Uniform"
+  },
   "games": {
     "nh": {
       "sellPrice": {

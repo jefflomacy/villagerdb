@@ -1,6 +1,8 @@
 {
   "id": "right-splatfest-sign",
-  "name": "Right Splatfest Sign",
+  "name": {
+    "en-US": "Right Splatfest Sign"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

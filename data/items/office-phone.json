@@ -1,6 +1,8 @@
 {
   "id": "office-phone",
-  "name": "Office Phone",
+  "name": {
+    "en-US": "Office Phone"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

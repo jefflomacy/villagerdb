@@ -1,6 +1,8 @@
 {
   "id": "pixel-shades",
-  "name": "Pixel Shades",
+  "name": {
+    "en-US": "Pixel Shades"
+  },
   "games": {
     "nh": {
       "orderable": true,

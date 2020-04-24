@@ -1,6 +1,8 @@
 {
   "id": "mosquito",
-  "name": "Mosquito",
+  "name": {
+    "en-US": "Mosquito"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "mega-quazoid",
-  "name": "Mega Quazoid",
+  "name": {
+    "en-US": "Mega Quazoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

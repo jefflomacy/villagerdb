@@ -1,6 +1,8 @@
 {
   "id": "large-tea-table",
-  "name": "Large Tea Table",
+  "name": {
+    "en-US": "Large Tea Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

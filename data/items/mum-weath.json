@@ -1,6 +1,8 @@
 {
   "id": "mum-weath",
-  "name": "Mum Weath",
+  "name": {
+    "en-US": "Mum Weath"
+  },
   "games": {
     "nh": {
       "orderable": false,

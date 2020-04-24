@@ -1,6 +1,8 @@
 {
   "id": "turban-shell",
-  "name": "Turban Shell",
+  "name": {
+    "en-US": "Turban Shell"
+  },
   "category": "Fish",
   "games": {
     "nl": {

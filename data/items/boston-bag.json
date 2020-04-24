@@ -1,6 +1,8 @@
 {
   "id": "boston-bag",
-  "name": "Boston Bag",
+  "name": {
+    "en-US": "Boston Bag"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

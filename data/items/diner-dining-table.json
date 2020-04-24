@@ -1,6 +1,8 @@
 {
   "id": "diner-dining-table",
-  "name": "Diner Dining Table",
+  "name": {
+    "en-US": "Diner Dining Table"
+  },
   "games": {
     "nh": {
       "orderable": true,

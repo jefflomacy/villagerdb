@@ -1,6 +1,8 @@
 {
   "id": "submarine",
-  "name": "Submarine",
+  "name": {
+    "en-US": "Submarine"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

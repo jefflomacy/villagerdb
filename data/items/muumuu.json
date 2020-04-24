@@ -1,6 +1,8 @@
 {
   "id": "muumuu",
-  "name": "Muumuu",
+  "name": {
+    "en-US": "Muumuu"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

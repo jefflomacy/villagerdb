@@ -1,6 +1,8 @@
 {
   "id": "bohemian-tunic-dress",
-  "name": "Bohemian Tunic Dress",
+  "name": {
+    "en-US": "Bohemian Tunic Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "anthurium-plant",
-  "name": "Anthurium Plant",
+  "name": {
+    "en-US": "Anthurium Plant"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "diner-neon-sign",
-  "name": "Diner Neon Sign",
+  "name": {
+    "en-US": "Diner Neon Sign"
+  },
   "games": {
     "nh": {
       "sellPrice": {

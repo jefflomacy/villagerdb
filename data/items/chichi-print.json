@@ -1,6 +1,8 @@
 {
   "id": "chichi-print",
-  "name": "Chichi Print",
+  "name": {
+    "en-US": "Chichi Print"
+  },
   "category": "Tops",
   "games": {
     "ac": {

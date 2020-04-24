@@ -1,6 +1,8 @@
 {
   "id": "desert-vista",
-  "name": "Desert Vista",
+  "name": {
+    "en-US": "Desert Vista"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

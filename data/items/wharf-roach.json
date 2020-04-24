@@ -1,6 +1,8 @@
 {
   "id": "wharf-roach",
-  "name": "Wharf Roach",
+  "name": {
+    "en-US": "Wharf Roach"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

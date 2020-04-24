@@ -1,6 +1,8 @@
 {
   "id": "blue-ballet-outfit",
-  "name": "Blue Ballet Outfit",
+  "name": {
+    "en-US": "Blue Ballet Outfit"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

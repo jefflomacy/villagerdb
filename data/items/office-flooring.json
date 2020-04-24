@@ -1,6 +1,8 @@
 {
   "id": "office-flooring",
-  "name": "Office Flooring",
+  "name": {
+    "en-US": "Office Flooring"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

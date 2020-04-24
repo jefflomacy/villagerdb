@@ -1,6 +1,8 @@
 {
   "id": "fruit-panel-umbrella",
-  "name": "Fruit-panel Umbrella",
+  "name": {
+    "en-US": "Fruit-panel Umbrella"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

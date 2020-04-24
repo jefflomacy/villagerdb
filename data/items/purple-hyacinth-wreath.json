@@ -1,6 +1,8 @@
 {
   "id": "purple-hyacinth-wreath",
-  "name": "Purple Hyacinth Wreath",
+  "name": {
+    "en-US": "Purple Hyacinth Wreath"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "honeybee",
-  "name": "Honeybee",
+  "name": {
+    "en-US": "Honeybee"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

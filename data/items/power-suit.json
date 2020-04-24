@@ -1,6 +1,8 @@
 {
   "id": "power-suit",
-  "name": "Power Suit",
+  "name": {
+    "en-US": "Power Suit"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "kk-mambo",
-  "name": "K.K. Mambo",
+  "name": {
+    "en-US": "K.K. Mambo"
+  },
   "category": "Music",
   "games": {
     "nl": {

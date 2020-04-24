@@ -1,6 +1,8 @@
 {
   "id": "kiki-lala-poster",
-  "name": "Kiki & Lala Poster",
+  "name": {
+    "en-US": "Kiki & Lala Poster"
+  },
   "games": {
     "nh": {
       "sources": [

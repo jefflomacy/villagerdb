@@ -1,6 +1,8 @@
 {
   "id": "goatee",
-  "name": "Goatee",
+  "name": {
+    "en-US": "Goatee"
+  },
   "games": {
     "nh": {
       "orderable": true,

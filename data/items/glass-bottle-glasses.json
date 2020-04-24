@@ -1,6 +1,8 @@
 {
   "id": "glass-bottle-glasses",
-  "name": "Glass-bottle Glasses",
+  "name": {
+    "en-US": "Glass-bottle Glasses"
+  },
   "games": {
     "nh": {
       "orderable": true,

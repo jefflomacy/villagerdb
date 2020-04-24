@@ -1,6 +1,8 @@
 {
   "id": "curry-plate",
-  "name": "Curry Plate",
+  "name": {
+    "en-US": "Curry Plate"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

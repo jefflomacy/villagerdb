@@ -1,6 +1,8 @@
 {
   "id": "retro-dotted-rug",
-  "name": "Retro Dotted Rug",
+  "name": {
+    "en-US": "Retro Dotted Rug"
+  },
   "games": {
     "nh": {
       "sources": [

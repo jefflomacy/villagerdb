@@ -1,6 +1,8 @@
 {
   "id": "dal-tee",
-  "name": "DAL Tee",
+  "name": {
+    "en-US": "DAL Tee"
+  },
   "games": {
     "nh": {
       "orderable": false,

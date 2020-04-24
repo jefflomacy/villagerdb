@@ -1,6 +1,8 @@
 {
   "id": "black-tulips",
-  "name": "Black Tulips",
+  "name": {
+    "en-US": "Black Tulips"
+  },
   "games": {
     "nh": {
       "orderable": false,

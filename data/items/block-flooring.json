@@ -1,6 +1,8 @@
 {
   "id": "block-flooring",
-  "name": "Block Flooring",
+  "name": {
+    "en-US": "Block Flooring"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

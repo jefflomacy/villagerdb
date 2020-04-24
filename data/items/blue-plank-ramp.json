@@ -1,6 +1,8 @@
 {
   "id": "blue-plank-ramp",
-  "name": "Blue-plank Ramp",
+  "name": {
+    "en-US": "Blue-plank Ramp"
+  },
   "games": {
     "nh": {
       "buyPrices": [

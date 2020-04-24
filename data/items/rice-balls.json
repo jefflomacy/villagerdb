@@ -1,6 +1,8 @@
 {
   "id": "rice-balls",
-  "name": "Rice Balls",
+  "name": {
+    "en-US": "Rice Balls"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

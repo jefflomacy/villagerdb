@@ -1,6 +1,8 @@
 {
   "id": "ekg-machine",
-  "name": "EKG Machine",
+  "name": {
+    "en-US": "EKG Machine"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

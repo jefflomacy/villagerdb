@@ -1,6 +1,8 @@
 {
   "id": "cowrie-shell",
-  "name": "Cowrie Shell",
+  "name": {
+    "en-US": "Cowrie Shell"
+  },
   "category": "Seashells",
   "games": {
     "nl": {

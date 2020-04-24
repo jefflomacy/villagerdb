@@ -1,6 +1,8 @@
 {
   "id": "cabana-flooring",
-  "name": "Cabana Flooring",
+  "name": {
+    "en-US": "Cabana Flooring"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

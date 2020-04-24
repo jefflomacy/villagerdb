@@ -1,6 +1,8 @@
 {
   "id": "basic-trash-can",
-  "name": "Basic Trash Can",
+  "name": {
+    "en-US": "Basic Trash Can"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

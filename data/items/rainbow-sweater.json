@@ -1,6 +1,8 @@
 {
   "id": "rainbow-sweater",
-  "name": "Rainbow Sweater",
+  "name": {
+    "en-US": "Rainbow Sweater"
+  },
   "games": {
     "nh": {
       "orderable": true,

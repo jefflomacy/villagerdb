@@ -1,6 +1,8 @@
 {
   "id": "silver-teapot",
-  "name": "Silver Teapot",
+  "name": {
+    "en-US": "Silver Teapot"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

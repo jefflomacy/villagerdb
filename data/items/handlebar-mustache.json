@@ -1,6 +1,8 @@
 {
   "id": "handlebar-mustache",
-  "name": "Handlebar Mustache",
+  "name": {
+    "en-US": "Handlebar Mustache"
+  },
   "games": {
     "nh": {
       "sellPrice": {

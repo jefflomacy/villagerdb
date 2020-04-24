@@ -1,6 +1,8 @@
 {
   "id": "red-vinyl-sheet",
-  "name": "Red Vinyl Sheet",
+  "name": {
+    "en-US": "Red Vinyl Sheet"
+  },
   "games": {
     "nh": {
       "orderable": true,

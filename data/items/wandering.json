@@ -1,6 +1,8 @@
 {
   "id": "wandering",
-  "name": "Wandering",
+  "name": {
+    "en-US": "Wandering"
+  },
   "category": "Music",
   "games": {
     "nl": {

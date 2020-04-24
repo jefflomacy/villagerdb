@@ -1,6 +1,8 @@
 {
   "id": "my-melody-shoes",
-  "name": "My Melody Shoes",
+  "name": {
+    "en-US": "My Melody Shoes"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

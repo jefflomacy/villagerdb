@@ -1,6 +1,8 @@
 {
   "id": "loose-fall-dress",
-  "name": "Loose Fall Dress",
+  "name": {
+    "en-US": "Loose Fall Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

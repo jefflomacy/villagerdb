@@ -1,6 +1,8 @@
 {
   "id": "round-cushion",
-  "name": "Round Cushion",
+  "name": {
+    "en-US": "Round Cushion"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

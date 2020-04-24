@@ -1,6 +1,8 @@
 {
   "id": "frilly-apron",
-  "name": "Frilly Apron",
+  "name": {
+    "en-US": "Frilly Apron"
+  },
   "category": "Tops",
   "games": {
     "nl": {

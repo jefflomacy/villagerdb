@@ -1,6 +1,8 @@
 {
   "id": "junihitoe-kimono",
-  "name": "Junihitoe Kimono",
+  "name": {
+    "en-US": "Junihitoe Kimono"
+  },
   "games": {
     "nh": {
       "sellPrice": {

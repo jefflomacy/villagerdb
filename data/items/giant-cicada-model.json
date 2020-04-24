@@ -1,6 +1,8 @@
 {
   "id": "giant-cicada-model",
-  "name": "Giant Cicada Model",
+  "name": {
+    "en-US": "Giant Cicada Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "monochrome-floor",
-  "name": "Monochrome Floor",
+  "name": {
+    "en-US": "Monochrome Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

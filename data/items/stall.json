@@ -1,6 +1,8 @@
 {
   "id": "stall",
-  "name": "Stall",
+  "name": {
+    "en-US": "Stall"
+  },
   "games": {
     "nh": {
       "orderable": false,

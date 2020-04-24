@@ -1,6 +1,8 @@
 {
   "id": "mega-clankoid",
-  "name": "Mega Clankoid",
+  "name": {
+    "en-US": "Mega Clankoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

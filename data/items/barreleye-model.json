@@ -1,6 +1,8 @@
 {
   "id": "barreleye-model",
-  "name": "Barreleye Model",
+  "name": {
+    "en-US": "Barreleye Model"
+  },
   "games": {
     "nh": {
       "orderable": false,

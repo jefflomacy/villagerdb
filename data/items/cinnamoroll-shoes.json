@@ -1,6 +1,8 @@
 {
   "id": "cinnamoroll-shoes",
-  "name": "Cinnamoroll Shoes",
+  "name": {
+    "en-US": "Cinnamoroll Shoes"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

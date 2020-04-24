@@ -1,6 +1,8 @@
 {
   "id": "amethyst",
-  "name": "Amethyst",
+  "name": {
+    "en-US": "Amethyst"
+  },
   "category": "Ore",
   "games": {
     "nl": {

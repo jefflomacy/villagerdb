@@ -1,6 +1,8 @@
 {
   "id": "broffinas-photo",
-  "name": "Broffina's Photo",
+  "name": {
+    "en-US": "Broffina's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

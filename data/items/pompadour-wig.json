@@ -1,6 +1,8 @@
 {
   "id": "pompadour-wig",
-  "name": "Pompadour Wig",
+  "name": {
+    "en-US": "Pompadour Wig"
+  },
   "games": {
     "nh": {
       "sellPrice": {

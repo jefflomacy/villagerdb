@@ -1,6 +1,8 @@
 {
   "id": "kk-technopop",
-  "name": "K.K. Technopop",
+  "name": {
+    "en-US": "K.K. Technopop"
+  },
   "category": "Music",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "red-art-deco-wall",
-  "name": "Red Art-deco Wall",
+  "name": {
+    "en-US": "Red Art-deco Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

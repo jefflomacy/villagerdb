@@ -1,6 +1,8 @@
 {
   "id": "flower-fairy-wig",
-  "name": "Flower Fairy Wig",
+  "name": {
+    "en-US": "Flower Fairy Wig"
+  },
   "category": "Hats",
   "games": {
     "nl": {

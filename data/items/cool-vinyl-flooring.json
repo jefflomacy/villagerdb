@@ -1,6 +1,8 @@
 {
   "id": "cool-vinyl-flooring",
-  "name": "Cool Vinyl Flooring",
+  "name": {
+    "en-US": "Cool Vinyl Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

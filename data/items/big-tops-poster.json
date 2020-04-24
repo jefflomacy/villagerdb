@@ -1,6 +1,8 @@
 {
   "id": "big-tops-poster",
-  "name": "Big Top's Poster",
+  "name": {
+    "en-US": "Big Top's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

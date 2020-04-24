@@ -1,6 +1,8 @@
 {
   "id": "tulip-surprise-box",
-  "name": "Tulip Surprise Box",
+  "name": {
+    "en-US": "Tulip Surprise Box"
+  },
   "games": {
     "nh": {
       "sellPrice": {

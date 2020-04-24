@@ -1,6 +1,8 @@
 {
   "id": "peanuts-poster",
-  "name": "Peanut's Poster",
+  "name": {
+    "en-US": "Peanut's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

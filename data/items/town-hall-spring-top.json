@@ -1,6 +1,8 @@
 {
   "id": "town-hall-spring-top",
-  "name": "Town-hall Spring Top",
+  "name": {
+    "en-US": "Town-hall Spring Top"
+  },
   "category": "Tops",
   "games": {
     "nl": {

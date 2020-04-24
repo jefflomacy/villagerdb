@@ -1,6 +1,8 @@
 {
   "id": "stately-wall",
-  "name": "Stately Wall",
+  "name": {
+    "en-US": "Stately Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

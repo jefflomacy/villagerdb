@@ -1,6 +1,8 @@
 {
   "id": "arcade-fighting-game",
-  "name": "Arcade Fighting Game",
+  "name": {
+    "en-US": "Arcade Fighting Game"
+  },
   "games": {
     "nh": {
       "sellPrice": {

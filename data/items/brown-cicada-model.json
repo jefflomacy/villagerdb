@@ -1,6 +1,8 @@
 {
   "id": "brown-cicada-model",
-  "name": "Brown Cicada Model",
+  "name": {
+    "en-US": "Brown Cicada Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

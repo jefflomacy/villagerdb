@@ -1,6 +1,8 @@
 {
   "id": "waitress-dress",
-  "name": "Waitress Dress",
+  "name": {
+    "en-US": "Waitress Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "hieroglyph-paper",
-  "name": "Hieroglyph Paper",
+  "name": {
+    "en-US": "Hieroglyph Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

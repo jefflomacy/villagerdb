@@ -1,6 +1,8 @@
 {
   "id": "washbasin",
-  "name": "Washbasin",
+  "name": {
+    "en-US": "Washbasin"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

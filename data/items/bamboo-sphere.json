@@ -1,6 +1,8 @@
 {
   "id": "bamboo-sphere",
-  "name": "Bamboo Sphere",
+  "name": {
+    "en-US": "Bamboo Sphere"
+  },
   "games": {
     "nh": {
       "orderable": false,

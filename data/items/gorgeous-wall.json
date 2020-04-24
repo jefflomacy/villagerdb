@@ -1,6 +1,8 @@
 {
   "id": "gorgeous-wall",
-  "name": "Gorgeous Wall",
+  "name": {
+    "en-US": "Gorgeous Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

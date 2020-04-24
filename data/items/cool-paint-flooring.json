@@ -1,6 +1,8 @@
 {
   "id": "cool-paint-flooring",
-  "name": "Cool-paint Flooring",
+  "name": {
+    "en-US": "Cool-paint Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

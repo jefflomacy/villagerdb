@@ -1,6 +1,8 @@
 {
   "id": "filberts-poster",
-  "name": "Filbert's Poster",
+  "name": {
+    "en-US": "Filbert's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

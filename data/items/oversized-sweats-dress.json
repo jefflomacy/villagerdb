@@ -1,6 +1,8 @@
 {
   "id": "oversized-sweats-dress",
-  "name": "Oversized-sweats Dress",
+  "name": {
+    "en-US": "Oversized-sweats Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

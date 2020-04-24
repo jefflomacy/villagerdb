@@ -1,6 +1,8 @@
 {
   "id": "polo-shirt",
-  "name": "Polo Shirt",
+  "name": {
+    "en-US": "Polo Shirt"
+  },
   "category": "Tops",
   "games": {
     "nl": {

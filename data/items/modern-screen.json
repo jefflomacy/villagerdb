@@ -1,6 +1,8 @@
 {
   "id": "modern-screen",
-  "name": "Modern Screen",
+  "name": {
+    "en-US": "Modern Screen"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

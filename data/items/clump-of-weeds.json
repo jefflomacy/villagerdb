@@ -1,6 +1,8 @@
 {
   "id": "clump-of-weeds",
-  "name": "Clump Of Weeds",
+  "name": {
+    "en-US": "Clump Of Weeds"
+  },
   "games": {
     "nh": {
       "orderable": false,

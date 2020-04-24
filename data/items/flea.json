@@ -1,6 +1,8 @@
 {
   "id": "flea",
-  "name": "Flea",
+  "name": {
+    "en-US": "Flea"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "mini-oombloid",
-  "name": "Mini Oombloid",
+  "name": {
+    "en-US": "Mini Oombloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

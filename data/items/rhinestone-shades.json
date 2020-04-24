@@ -1,6 +1,8 @@
 {
   "id": "rhinestone-shades",
-  "name": "Rhinestone Shades",
+  "name": {
+    "en-US": "Rhinestone Shades"
+  },
   "games": {
     "nh": {
       "orderable": true,

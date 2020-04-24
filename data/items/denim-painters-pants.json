@@ -1,6 +1,8 @@
 {
   "id": "denim-painters-pants",
-  "name": "Denim Painter's Pants",
+  "name": {
+    "en-US": "Denim Painter's Pants"
+  },
   "games": {
     "nh": {
       "orderable": true,

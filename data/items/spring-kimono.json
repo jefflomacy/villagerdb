@@ -1,6 +1,8 @@
 {
   "id": "spring-kimono",
-  "name": "Spring Kimono",
+  "name": {
+    "en-US": "Spring Kimono"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

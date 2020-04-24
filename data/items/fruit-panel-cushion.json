@@ -1,6 +1,8 @@
 {
   "id": "fruit-panel-cushion",
-  "name": "Fruit-panel Cushion",
+  "name": {
+    "en-US": "Fruit-panel Cushion"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

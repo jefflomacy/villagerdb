@@ -1,6 +1,8 @@
 {
   "id": "system-kitchen",
-  "name": "System Kitchen",
+  "name": {
+    "en-US": "System Kitchen"
+  },
   "games": {
     "nh": {
       "sellPrice": {

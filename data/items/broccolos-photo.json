@@ -1,6 +1,8 @@
 {
   "id": "broccolos-photo",
-  "name": "Broccolo's Photo",
+  "name": {
+    "en-US": "Broccolo's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "peach-checked-rug",
-  "name": "Peach Checked Rug",
+  "name": {
+    "en-US": "Peach Checked Rug"
+  },
   "games": {
     "nh": {
       "sources": [

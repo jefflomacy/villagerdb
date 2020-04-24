@@ -1,6 +1,8 @@
 {
   "id": "candy-umbrella",
-  "name": "Candy Umbrella",
+  "name": {
+    "en-US": "Candy Umbrella"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

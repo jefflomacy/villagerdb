@@ -1,6 +1,8 @@
 {
   "id": "fountain",
-  "name": "Fountain",
+  "name": {
+    "en-US": "Fountain"
+  },
   "games": {
     "nh": {
       "orderable": false,

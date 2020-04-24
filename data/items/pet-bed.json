@@ -1,6 +1,8 @@
 {
   "id": "pet-bed",
-  "name": "Pet Bed",
+  "name": {
+    "en-US": "Pet Bed"
+  },
   "games": {
     "nh": {
       "orderable": true,

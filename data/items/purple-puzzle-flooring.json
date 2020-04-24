@@ -1,6 +1,8 @@
 {
   "id": "purple-puzzle-flooring",
-  "name": "Purple Puzzle Flooring",
+  "name": {
+    "en-US": "Purple Puzzle Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

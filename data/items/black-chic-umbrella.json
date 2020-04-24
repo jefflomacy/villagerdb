@@ -1,6 +1,8 @@
 {
   "id": "black-chic-umbrella",
-  "name": "Black Chic Umbrella",
+  "name": {
+    "en-US": "Black Chic Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

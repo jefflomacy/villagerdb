@@ -1,6 +1,8 @@
 {
   "id": "houndstooth-knit",
-  "name": "Houndstooth Knit",
+  "name": {
+    "en-US": "Houndstooth Knit"
+  },
   "category": "Tops",
   "games": {
     "ac": {

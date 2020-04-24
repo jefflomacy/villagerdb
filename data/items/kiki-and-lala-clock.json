@@ -1,6 +1,8 @@
 {
   "id": "kiki-and-lala-clock",
-  "name": "Kiki And Lala Clock",
+  "name": {
+    "en-US": "Kiki And Lala Clock"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

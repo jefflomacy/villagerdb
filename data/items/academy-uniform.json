@@ -1,6 +1,8 @@
 {
   "id": "academy-uniform",
-  "name": "Academy Uniform",
+  "name": {
+    "en-US": "Academy Uniform"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

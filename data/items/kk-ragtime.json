@@ -1,6 +1,8 @@
 {
   "id": "kk-ragtime",
-  "name": "K.K. Ragtime",
+  "name": {
+    "en-US": "K.K. Ragtime"
+  },
   "category": "Music",
   "games": {
     "nl": {

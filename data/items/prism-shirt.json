@@ -1,6 +1,8 @@
 {
   "id": "prism-shirt",
-  "name": "Prism Shirt",
+  "name": {
+    "en-US": "Prism Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

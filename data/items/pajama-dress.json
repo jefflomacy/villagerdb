@@ -1,6 +1,8 @@
 {
   "id": "pajama-dress",
-  "name": "Pajama Dress",
+  "name": {
+    "en-US": "Pajama Dress"
+  },
   "games": {
     "nh": {
       "orderable": true,

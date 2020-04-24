@@ -1,6 +1,8 @@
 {
   "id": "sand-dollar",
-  "name": "Sand Dollar",
+  "name": {
+    "en-US": "Sand Dollar"
+  },
   "category": "Seashells",
   "games": {
     "nl": {

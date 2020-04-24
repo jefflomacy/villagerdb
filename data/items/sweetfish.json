@@ -1,6 +1,8 @@
 {
   "id": "sweetfish",
-  "name": "Sweetfish",
+  "name": {
+    "en-US": "Sweetfish"
+  },
   "category": "Fish",
   "games": {
     "nl": {

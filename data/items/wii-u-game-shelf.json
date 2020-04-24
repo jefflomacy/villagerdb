@@ -1,6 +1,8 @@
 {
   "id": "wii-u-game-shelf",
-  "name": "Wii U Game Shelf",
+  "name": {
+    "en-US": "Wii U Game Shelf"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

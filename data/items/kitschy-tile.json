@@ -1,6 +1,8 @@
 {
   "id": "kitschy-tile",
-  "name": "Kitschy Tile",
+  "name": {
+    "en-US": "Kitschy Tile"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

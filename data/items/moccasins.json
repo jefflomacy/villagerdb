@@ -1,6 +1,8 @@
 {
   "id": "moccasins",
-  "name": "Moccasins",
+  "name": {
+    "en-US": "Moccasins"
+  },
   "games": {
     "nh": {
       "orderable": true,

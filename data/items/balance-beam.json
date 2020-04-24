@@ -1,6 +1,8 @@
 {
   "id": "balance-beam",
-  "name": "Balance Beam",
+  "name": {
+    "en-US": "Balance Beam"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

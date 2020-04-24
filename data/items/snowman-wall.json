@@ -1,6 +1,8 @@
 {
   "id": "snowman-wall",
-  "name": "Snowman Wall",
+  "name": {
+    "en-US": "Snowman Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

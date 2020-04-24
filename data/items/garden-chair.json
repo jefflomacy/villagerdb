@@ -1,6 +1,8 @@
 {
   "id": "garden-chair",
-  "name": "Garden Chair",
+  "name": {
+    "en-US": "Garden Chair"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

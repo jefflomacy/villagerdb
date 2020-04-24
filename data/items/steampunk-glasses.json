@@ -1,6 +1,8 @@
 {
   "id": "steampunk-glasses",
-  "name": "Steampunk Glasses",
+  "name": {
+    "en-US": "Steampunk Glasses"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

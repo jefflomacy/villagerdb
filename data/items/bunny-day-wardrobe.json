@@ -1,6 +1,8 @@
 {
   "id": "bunny-day-wardrobe",
-  "name": "Bunny Day Wardrobe",
+  "name": {
+    "en-US": "Bunny Day Wardrobe"
+  },
   "games": {
     "nh": {
       "orderable": false,

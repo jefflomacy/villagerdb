@@ -1,6 +1,8 @@
 {
   "id": "flowery-dot-tights",
-  "name": "Flowery-dot Tights",
+  "name": {
+    "en-US": "Flowery-dot Tights"
+  },
   "games": {
     "nh": {
       "sellPrice": {

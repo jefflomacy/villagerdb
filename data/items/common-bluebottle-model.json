@@ -1,6 +1,8 @@
 {
   "id": "common-bluebottle-model",
-  "name": "Common Bluebottle Model",
+  "name": {
+    "en-US": "Common Bluebottle Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

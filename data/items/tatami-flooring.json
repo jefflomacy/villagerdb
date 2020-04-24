@@ -1,6 +1,8 @@
 {
   "id": "tatami-flooring",
-  "name": "Tatami Flooring",
+  "name": {
+    "en-US": "Tatami Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

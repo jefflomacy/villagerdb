@@ -1,6 +1,8 @@
 {
   "id": "splatoon-spawn-point",
-  "name": "Splatoon Spawn Point",
+  "name": {
+    "en-US": "Splatoon Spawn Point"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

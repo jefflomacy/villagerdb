@@ -1,6 +1,8 @@
 {
   "id": "tree-sweater",
-  "name": "Tree Sweater",
+  "name": {
+    "en-US": "Tree Sweater"
+  },
   "games": {
     "nh": {
       "sellPrice": {

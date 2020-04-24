@@ -1,6 +1,8 @@
 {
   "id": "bamboo-candleholder",
-  "name": "Bamboo Candleholder",
+  "name": {
+    "en-US": "Bamboo Candleholder"
+  },
   "games": {
     "nh": {
       "orderable": false,

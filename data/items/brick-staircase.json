@@ -1,6 +1,8 @@
 {
   "id": "brick-staircase",
-  "name": "Brick Staircase",
+  "name": {
+    "en-US": "Brick Staircase"
+  },
   "games": {
     "nh": {
       "buyPrices": [

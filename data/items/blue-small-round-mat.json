@@ -1,6 +1,8 @@
 {
   "id": "blue-small-round-mat",
-  "name": "Blue Small Round Mat",
+  "name": {
+    "en-US": "Blue Small Round Mat"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "two-days-ago",
-  "name": "Two Days Ago",
+  "name": {
+    "en-US": "Two Days Ago"
+  },
   "category": "Music",
   "games": {
     "nl": {

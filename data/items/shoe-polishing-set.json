@@ -1,6 +1,8 @@
 {
   "id": "shoe-polishing-set",
-  "name": "Shoe-polishing Set",
+  "name": {
+    "en-US": "Shoe-polishing Set"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

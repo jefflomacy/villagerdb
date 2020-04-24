@@ -1,6 +1,8 @@
 {
   "id": "full-body-tights",
-  "name": "Full-body Tights",
+  "name": {
+    "en-US": "Full-body Tights"
+  },
   "games": {
     "nh": {
       "sellPrice": {

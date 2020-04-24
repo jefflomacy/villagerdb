@@ -1,6 +1,8 @@
 {
   "id": "young-royal-shirt",
-  "name": "Young-royal Shirt",
+  "name": {
+    "en-US": "Young-royal Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

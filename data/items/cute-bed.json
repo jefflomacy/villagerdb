@@ -1,6 +1,8 @@
 {
   "id": "cute-bed",
-  "name": "Cute Bed",
+  "name": {
+    "en-US": "Cute Bed"
+  },
   "games": {
     "nh": {
       "orderable": true,

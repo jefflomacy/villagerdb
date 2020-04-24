@@ -1,6 +1,8 @@
 {
   "id": "zebra-print",
-  "name": "Zebra Print",
+  "name": {
+    "en-US": "Zebra Print"
+  },
   "category": "Tops",
   "games": {
     "ac": {

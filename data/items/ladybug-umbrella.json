@@ -1,6 +1,8 @@
 {
   "id": "ladybug-umbrella",
-  "name": "Ladybug Umbrella",
+  "name": {
+    "en-US": "Ladybug Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

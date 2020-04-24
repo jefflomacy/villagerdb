@@ -1,6 +1,8 @@
 {
   "id": "viking-top",
-  "name": "Viking Top",
+  "name": {
+    "en-US": "Viking Top"
+  },
   "games": {
     "nh": {
       "sellPrice": {

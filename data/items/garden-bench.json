@@ -1,6 +1,8 @@
 {
   "id": "garden-bench",
-  "name": "Garden Bench",
+  "name": {
+    "en-US": "Garden Bench"
+  },
   "games": {
     "nh": {
       "orderable": false,

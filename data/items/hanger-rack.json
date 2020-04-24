@@ -1,6 +1,8 @@
 {
   "id": "hanger-rack",
-  "name": "Hanger Rack",
+  "name": {
+    "en-US": "Hanger Rack"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

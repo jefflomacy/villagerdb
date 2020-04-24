@@ -1,6 +1,8 @@
 {
   "id": "iguanodon-model",
-  "name": "Iguanodon Model",
+  "name": {
+    "en-US": "Iguanodon Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

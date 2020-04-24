@@ -1,6 +1,8 @@
 {
   "id": "classic-screen",
-  "name": "Classic Screen",
+  "name": {
+    "en-US": "Classic Screen"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

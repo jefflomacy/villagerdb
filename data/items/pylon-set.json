@@ -1,6 +1,8 @@
 {
   "id": "pylon-set",
-  "name": "Pylon Set",
+  "name": {
+    "en-US": "Pylon Set"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "charcoal-tile",
-  "name": "Charcoal Tile",
+  "name": {
+    "en-US": "Charcoal Tile"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

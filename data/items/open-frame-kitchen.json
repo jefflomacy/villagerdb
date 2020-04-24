@@ -1,6 +1,8 @@
 {
   "id": "open-frame-kitchen",
-  "name": "Open-frame Kitchen",
+  "name": {
+    "en-US": "Open-frame Kitchen"
+  },
   "games": {
     "nh": {
       "orderable": true,

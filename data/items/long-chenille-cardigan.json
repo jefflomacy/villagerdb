@@ -1,6 +1,8 @@
 {
   "id": "long-chenille-cardigan",
-  "name": "Long Chenille Cardigan",
+  "name": {
+    "en-US": "Long Chenille Cardigan"
+  },
   "games": {
     "nh": {
       "sellPrice": {

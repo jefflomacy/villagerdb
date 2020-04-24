@@ -1,6 +1,8 @@
 {
   "id": "ladder-shades",
-  "name": "Ladder Shades",
+  "name": {
+    "en-US": "Ladder Shades"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

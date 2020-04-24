@@ -1,6 +1,8 @@
 {
   "id": "crescent-moon-chair",
-  "name": "Crescent-moon Chair",
+  "name": {
+    "en-US": "Crescent-moon Chair"
+  },
   "games": {
     "nh": {
       "sellPrice": {

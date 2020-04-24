@@ -1,6 +1,8 @@
 {
   "id": "caveman-tunic",
-  "name": "Caveman Tunic",
+  "name": {
+    "en-US": "Caveman Tunic"
+  },
   "category": "Tops",
   "games": {
     "ac": {

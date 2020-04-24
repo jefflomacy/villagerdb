@@ -1,6 +1,8 @@
 {
   "id": "wharf-roach-model",
-  "name": "Wharf Roach Model",
+  "name": {
+    "en-US": "Wharf Roach Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

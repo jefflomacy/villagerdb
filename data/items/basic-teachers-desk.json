@@ -1,6 +1,8 @@
 {
   "id": "basic-teachers-desk",
-  "name": "Basic Teacher's Desk",
+  "name": {
+    "en-US": "Basic Teacher's Desk"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

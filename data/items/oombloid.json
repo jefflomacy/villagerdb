@@ -1,6 +1,8 @@
 {
   "id": "oombloid",
-  "name": "Oombloid",
+  "name": {
+    "en-US": "Oombloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

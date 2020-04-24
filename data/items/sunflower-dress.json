@@ -1,6 +1,8 @@
 {
   "id": "sunflower-dress",
-  "name": "Sunflower Dress",
+  "name": {
+    "en-US": "Sunflower Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "fleece-pjs",
-  "name": "Fleece Pj's",
+  "name": {
+    "en-US": "Fleece Pj's"
+  },
   "games": {
     "nh": {
       "sellPrice": {

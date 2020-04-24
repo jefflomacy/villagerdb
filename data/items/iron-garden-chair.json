@@ -1,6 +1,8 @@
 {
   "id": "iron-garden-chair",
-  "name": "Iron Garden Chair",
+  "name": {
+    "en-US": "Iron Garden Chair"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "red-intricate-wall",
-  "name": "Red Intricate Wall",
+  "name": {
+    "en-US": "Red Intricate Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

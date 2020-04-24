@@ -1,6 +1,8 @@
 {
   "id": "daimyos-tray",
-  "name": "Daimyo's Tray",
+  "name": {
+    "en-US": "Daimyo's Tray"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

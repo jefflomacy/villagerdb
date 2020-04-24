@@ -1,6 +1,8 @@
 {
   "id": "sweet-shrimp",
-  "name": "Sweet Shrimp",
+  "name": {
+    "en-US": "Sweet Shrimp"
+  },
   "category": "Fish",
   "games": {
     "nl": {

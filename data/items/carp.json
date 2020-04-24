@@ -1,6 +1,8 @@
 {
   "id": "carp",
-  "name": "Carp",
+  "name": {
+    "en-US": "Carp"
+  },
   "category": "Fish",
   "games": {
     "nl": {

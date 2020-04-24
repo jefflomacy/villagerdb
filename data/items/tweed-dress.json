@@ -1,6 +1,8 @@
 {
   "id": "tweed-dress",
-  "name": "Tweed Dress",
+  "name": {
+    "en-US": "Tweed Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

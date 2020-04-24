@@ -1,6 +1,8 @@
 {
   "id": "elegant-chair",
-  "name": "Elegant Chair",
+  "name": {
+    "en-US": "Elegant Chair"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "three-tiered-snowperson",
-  "name": "Three-tiered Snowperson",
+  "name": {
+    "en-US": "Three-tiered Snowperson"
+  },
   "games": {
     "nh": {
       "sellPrice": {

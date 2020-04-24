@@ -1,6 +1,8 @@
 {
   "id": "hakama",
-  "name": "Hakama",
+  "name": {
+    "en-US": "Hakama"
+  },
   "games": {
     "nh": {
       "sellPrice": {

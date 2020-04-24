@@ -1,6 +1,8 @@
 {
   "id": "zippers-poster",
-  "name": "Zipper's Poster",
+  "name": {
+    "en-US": "Zipper's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

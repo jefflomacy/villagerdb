@@ -1,6 +1,8 @@
 {
   "id": "beaded-curtain-wall",
-  "name": "Beaded-curtain Wall",
+  "name": {
+    "en-US": "Beaded-curtain Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

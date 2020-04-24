@@ -1,6 +1,8 @@
 {
   "id": "parquet-floor-welcome-amiibo",
-  "name": "Parquet Floor [Welcome Amiibo]",
+  "name": {
+    "en-US": "Parquet Floor [Welcome Amiibo]"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "pink-crown-wall",
-  "name": "Pink-crown Wall",
+  "name": {
+    "en-US": "Pink-crown Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "anorak-jacket",
-  "name": "Anorak Jacket",
+  "name": {
+    "en-US": "Anorak Jacket"
+  },
   "games": {
     "nh": {
       "orderable": true,

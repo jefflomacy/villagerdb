@@ -1,6 +1,8 @@
 {
   "id": "wyvern-eggs",
-  "name": "Wyvern Eggs",
+  "name": {
+    "en-US": "Wyvern Eggs"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

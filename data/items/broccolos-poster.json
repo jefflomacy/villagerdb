@@ -1,6 +1,8 @@
 {
   "id": "broccolos-poster",
-  "name": "Broccolo's Poster",
+  "name": {
+    "en-US": "Broccolo's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

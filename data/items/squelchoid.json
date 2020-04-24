@@ -1,6 +1,8 @@
 {
   "id": "squelchoid",
-  "name": "Squelchoid",
+  "name": {
+    "en-US": "Squelchoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

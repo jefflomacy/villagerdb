@@ -1,6 +1,8 @@
 {
   "id": "model-bus",
-  "name": "Model Bus",
+  "name": {
+    "en-US": "Model Bus"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

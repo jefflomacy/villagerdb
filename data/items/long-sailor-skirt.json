@@ -1,6 +1,8 @@
 {
   "id": "long-sailor-skirt",
-  "name": "Long Sailor Skirt",
+  "name": {
+    "en-US": "Long Sailor Skirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

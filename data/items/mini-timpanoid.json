@@ -1,6 +1,8 @@
 {
   "id": "mini-timpanoid",
-  "name": "Mini Timpanoid",
+  "name": {
+    "en-US": "Mini Timpanoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

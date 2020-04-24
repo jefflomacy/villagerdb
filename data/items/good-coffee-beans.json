@@ -1,6 +1,8 @@
 {
   "id": "good-coffee-beans",
-  "name": "Good Coffee Beans",
+  "name": {
+    "en-US": "Good Coffee Beans"
+  },
   "category": "Usables",
   "games": {
     "nl": {

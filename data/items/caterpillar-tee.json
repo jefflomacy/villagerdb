@@ -1,6 +1,8 @@
 {
   "id": "caterpillar-tee",
-  "name": "Caterpillar Tee",
+  "name": {
+    "en-US": "Caterpillar Tee"
+  },
   "category": "Tops",
   "games": {
     "ac": {

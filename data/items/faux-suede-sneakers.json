@@ -1,6 +1,8 @@
 {
   "id": "faux-suede-sneakers",
-  "name": "Faux-suede Sneakers",
+  "name": {
+    "en-US": "Faux-suede Sneakers"
+  },
   "games": {
     "nh": {
       "sellPrice": {

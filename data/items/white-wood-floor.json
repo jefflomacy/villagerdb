@@ -1,6 +1,8 @@
 {
   "id": "white-wood-floor",
-  "name": "White Wood Floor",
+  "name": {
+    "en-US": "White Wood Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

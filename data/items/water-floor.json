@@ -1,6 +1,8 @@
 {
   "id": "water-floor",
-  "name": "Water Floor",
+  "name": {
+    "en-US": "Water Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

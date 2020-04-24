@@ -1,6 +1,8 @@
 {
   "id": "mega-poltergoid",
-  "name": "Mega Poltergoid",
+  "name": {
+    "en-US": "Mega Poltergoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

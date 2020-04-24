@@ -1,6 +1,8 @@
 {
   "id": "whitneys-poster",
-  "name": "Whitney's Poster",
+  "name": {
+    "en-US": "Whitney's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

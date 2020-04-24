@@ -1,6 +1,8 @@
 {
   "id": "chambered-nautilus",
-  "name": "Chambered Nautilus",
+  "name": {
+    "en-US": "Chambered Nautilus"
+  },
   "category": "Fish",
   "games": {
     "nl": {

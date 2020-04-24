@@ -1,6 +1,8 @@
 {
   "id": "ice-floor",
-  "name": "Ice Floor",
+  "name": {
+    "en-US": "Ice Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

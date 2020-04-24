@@ -1,6 +1,8 @@
 {
   "id": "egg-floor",
-  "name": "Egg Floor",
+  "name": {
+    "en-US": "Egg Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "pond-smelt",
-  "name": "Pond Smelt",
+  "name": {
+    "en-US": "Pond Smelt"
+  },
   "category": "Fish",
   "games": {
     "nl": {

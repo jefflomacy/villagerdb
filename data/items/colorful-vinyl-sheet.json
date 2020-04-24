@@ -1,6 +1,8 @@
 {
   "id": "colorful-vinyl-sheet",
-  "name": "Colorful Vinyl Sheet",
+  "name": {
+    "en-US": "Colorful Vinyl Sheet"
+  },
   "games": {
     "nh": {
       "sources": [

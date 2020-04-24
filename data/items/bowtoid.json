@@ -1,6 +1,8 @@
 {
   "id": "bowtoid",
-  "name": "Bowtoid",
+  "name": {
+    "en-US": "Bowtoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

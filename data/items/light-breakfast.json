@@ -1,6 +1,8 @@
 {
   "id": "light-breakfast",
-  "name": "Light Breakfast",
+  "name": {
+    "en-US": "Light Breakfast"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

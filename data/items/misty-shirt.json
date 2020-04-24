@@ -1,6 +1,8 @@
 {
   "id": "misty-shirt",
-  "name": "Misty Shirt",
+  "name": {
+    "en-US": "Misty Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

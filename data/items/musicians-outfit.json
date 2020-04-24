@@ -1,6 +1,8 @@
 {
   "id": "musicians-outfit",
-  "name": "Musician's Outfit",
+  "name": {
+    "en-US": "Musician's Outfit"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "aran-knit-cap",
-  "name": "Aran-knit Cap",
+  "name": {
+    "en-US": "Aran-knit Cap"
+  },
   "games": {
     "nh": {
       "orderable": true,

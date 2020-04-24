@@ -1,6 +1,8 @@
 {
   "id": "natural-wooden-deck-rug",
-  "name": "Natural Wooden-deck Rug",
+  "name": {
+    "en-US": "Natural Wooden-deck Rug"
+  },
   "games": {
     "nh": {
       "sources": [

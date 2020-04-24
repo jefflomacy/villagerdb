@@ -1,6 +1,8 @@
 {
   "id": "blue-steel-staircase",
-  "name": "Blue Steel Staircase",
+  "name": {
+    "en-US": "Blue Steel Staircase"
+  },
   "games": {
     "nh": {
       "buyPrices": [

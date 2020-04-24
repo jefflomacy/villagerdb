@@ -1,6 +1,8 @@
 {
   "id": "ankylo-model",
-  "name": "Ankylo Model",
+  "name": {
+    "en-US": "Ankylo Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

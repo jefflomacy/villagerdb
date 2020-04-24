@@ -1,6 +1,8 @@
 {
   "id": "puckered-socks",
-  "name": "Puckered Socks",
+  "name": {
+    "en-US": "Puckered Socks"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "blue-argyle-rug",
-  "name": "Blue Argyle Rug",
+  "name": {
+    "en-US": "Blue Argyle Rug"
+  },
   "games": {
     "nh": {
       "sources": [

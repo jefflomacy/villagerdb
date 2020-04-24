@@ -1,6 +1,8 @@
 {
   "id": "argyle-crew-socks",
-  "name": "Argyle Crew Socks",
+  "name": {
+    "en-US": "Argyle Crew Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

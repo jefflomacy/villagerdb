@@ -1,6 +1,8 @@
 {
   "id": "water-egg-outfit",
-  "name": "Water-egg Outfit",
+  "name": {
+    "en-US": "Water-egg Outfit"
+  },
   "games": {
     "nh": {
       "orderable": false,

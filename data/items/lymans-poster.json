@@ -1,6 +1,8 @@
 {
   "id": "lymans-poster",
-  "name": "Lyman's Poster",
+  "name": {
+    "en-US": "Lyman's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

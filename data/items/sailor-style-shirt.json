@@ -1,6 +1,8 @@
 {
   "id": "sailor-style-shirt",
-  "name": "Sailor-style Shirt",
+  "name": {
+    "en-US": "Sailor-style Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

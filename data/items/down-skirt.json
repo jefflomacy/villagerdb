@@ -1,6 +1,8 @@
 {
   "id": "down-skirt",
-  "name": "Down Skirt",
+  "name": {
+    "en-US": "Down Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

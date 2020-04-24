@@ -1,6 +1,8 @@
 {
   "id": "flower-sweater",
-  "name": "Flower Sweater",
+  "name": {
+    "en-US": "Flower Sweater"
+  },
   "games": {
     "nh": {
       "sellPrice": {

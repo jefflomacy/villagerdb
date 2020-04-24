@@ -1,6 +1,8 @@
 {
   "id": "willows-poster",
-  "name": "Willow's Poster",
+  "name": {
+    "en-US": "Willow's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

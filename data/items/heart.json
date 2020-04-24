@@ -1,6 +1,8 @@
 {
   "id": "heart",
-  "name": "Heart",
+  "name": {
+    "en-US": "Heart"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

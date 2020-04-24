@@ -1,6 +1,8 @@
 {
   "id": "spider-crab",
-  "name": "Spider Crab",
+  "name": {
+    "en-US": "Spider Crab"
+  },
   "category": "Fish",
   "games": {
     "nl": {

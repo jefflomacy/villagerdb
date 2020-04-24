@@ -1,6 +1,8 @@
 {
   "id": "kitchen-flooring",
-  "name": "Kitchen Flooring",
+  "name": {
+    "en-US": "Kitchen Flooring"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

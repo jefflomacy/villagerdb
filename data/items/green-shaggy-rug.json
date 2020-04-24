@@ -1,6 +1,8 @@
 {
   "id": "green-shaggy-rug",
-  "name": "Green Shaggy Rug",
+  "name": {
+    "en-US": "Green Shaggy Rug"
+  },
   "games": {
     "nh": {
       "sources": [

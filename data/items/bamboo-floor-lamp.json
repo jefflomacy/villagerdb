@@ -1,6 +1,8 @@
 {
   "id": "bamboo-floor-lamp",
-  "name": "Bamboo Floor Lamp",
+  "name": {
+    "en-US": "Bamboo Floor Lamp"
+  },
   "games": {
     "nh": {
       "orderable": false,

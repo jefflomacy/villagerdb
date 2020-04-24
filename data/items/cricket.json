@@ -1,6 +1,8 @@
 {
   "id": "cricket",
-  "name": "Cricket",
+  "name": {
+    "en-US": "Cricket"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

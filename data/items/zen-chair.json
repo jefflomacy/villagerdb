@@ -1,6 +1,8 @@
 {
   "id": "zen-chair",
-  "name": "Zen Chair",
+  "name": {
+    "en-US": "Zen Chair"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

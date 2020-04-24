@@ -1,6 +1,8 @@
 {
   "id": "dj-kk",
-  "name": "DJ K.K.",
+  "name": {
+    "en-US": "DJ K.K."
+  },
   "category": "Music",
   "games": {
     "nl": {

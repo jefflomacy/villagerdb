@@ -1,6 +1,8 @@
 {
   "id": "potato-gratin",
-  "name": "Potato Gratin",
+  "name": {
+    "en-US": "Potato Gratin"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

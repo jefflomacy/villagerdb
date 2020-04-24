@@ -1,6 +1,8 @@
 {
   "id": "skyscraper-wall",
-  "name": "Skyscraper Wall",
+  "name": {
+    "en-US": "Skyscraper Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

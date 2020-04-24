@@ -1,6 +1,8 @@
 {
   "id": "card-wall",
-  "name": "Card Wall",
+  "name": {
+    "en-US": "Card Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

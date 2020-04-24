@@ -1,6 +1,8 @@
 {
   "id": "retro-flower-print-wall",
-  "name": "Retro Flower-print Wall",
+  "name": {
+    "en-US": "Retro Flower-print Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

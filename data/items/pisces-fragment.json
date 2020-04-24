@@ -1,6 +1,8 @@
 {
   "id": "pisces-fragment",
-  "name": "Pisces Fragment",
+  "name": {
+    "en-US": "Pisces Fragment"
+  },
   "games": {
     "nh": {
       "sellPrice": {

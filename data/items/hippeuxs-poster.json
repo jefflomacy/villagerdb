@@ -1,6 +1,8 @@
 {
   "id": "hippeuxs-poster",
-  "name": "Hippeux's Poster",
+  "name": {
+    "en-US": "Hippeux's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

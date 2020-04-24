@@ -1,6 +1,8 @@
 {
   "id": "book-stands",
-  "name": "Book Stands",
+  "name": {
+    "en-US": "Book Stands"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

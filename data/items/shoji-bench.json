@@ -1,6 +1,8 @@
 {
   "id": "shoji-bench",
-  "name": "Shoji Bench",
+  "name": {
+    "en-US": "Shoji Bench"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

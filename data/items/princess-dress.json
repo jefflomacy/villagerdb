@@ -1,6 +1,8 @@
 {
   "id": "princess-dress",
-  "name": "Princess Dress",
+  "name": {
+    "en-US": "Princess Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

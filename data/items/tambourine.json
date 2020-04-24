@@ -1,6 +1,8 @@
 {
   "id": "tambourine",
-  "name": "Tambourine",
+  "name": {
+    "en-US": "Tambourine"
+  },
   "games": {
     "nh": {
       "orderable": false,

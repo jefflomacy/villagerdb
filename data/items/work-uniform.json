@@ -1,6 +1,8 @@
 {
   "id": "work-uniform",
-  "name": "Work Uniform",
+  "name": {
+    "en-US": "Work Uniform"
+  },
   "category": "Tops",
   "games": {
     "ac": {

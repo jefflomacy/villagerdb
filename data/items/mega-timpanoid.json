@@ -1,6 +1,8 @@
 {
   "id": "mega-timpanoid",
-  "name": "Mega Timpanoid",
+  "name": {
+    "en-US": "Mega Timpanoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

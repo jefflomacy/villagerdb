@@ -1,6 +1,8 @@
 {
   "id": "autograph-cards",
-  "name": "Autograph Cards",
+  "name": {
+    "en-US": "Autograph Cards"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

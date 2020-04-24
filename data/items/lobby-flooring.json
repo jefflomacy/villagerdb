@@ -1,6 +1,8 @@
 {
   "id": "lobby-flooring",
-  "name": "Lobby Flooring",
+  "name": {
+    "en-US": "Lobby Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

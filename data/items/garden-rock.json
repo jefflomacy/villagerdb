@@ -1,6 +1,8 @@
 {
   "id": "garden-rock",
-  "name": "Garden Rock",
+  "name": {
+    "en-US": "Garden Rock"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

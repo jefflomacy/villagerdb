@@ -1,6 +1,8 @@
 {
   "id": "tall-lamentoid",
-  "name": "Tall Lamentoid",
+  "name": {
+    "en-US": "Tall Lamentoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

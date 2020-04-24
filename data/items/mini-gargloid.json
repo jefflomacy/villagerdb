@@ -1,6 +1,8 @@
 {
   "id": "mini-gargloid",
-  "name": "Mini Gargloid",
+  "name": {
+    "en-US": "Mini Gargloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

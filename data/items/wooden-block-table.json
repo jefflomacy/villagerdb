@@ -1,6 +1,8 @@
 {
   "id": "wooden-block-table",
-  "name": "Wooden-block Table",
+  "name": {
+    "en-US": "Wooden-block Table"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "gingham-picnic-skirt",
-  "name": "Gingham Picnic Skirt",
+  "name": {
+    "en-US": "Gingham Picnic Skirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

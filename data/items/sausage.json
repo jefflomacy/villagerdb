@@ -1,6 +1,8 @@
 {
   "id": "sausage",
-  "name": "Sausage",
+  "name": {
+    "en-US": "Sausage"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

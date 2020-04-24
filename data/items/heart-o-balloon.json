@@ -1,6 +1,8 @@
 {
   "id": "heart-o-balloon",
-  "name": "Heart O. Balloon",
+  "name": {
+    "en-US": "Heart O. Balloon"
+  },
   "category": "Balloons",
   "games": {
     "nl": {

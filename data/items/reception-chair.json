@@ -1,6 +1,8 @@
 {
   "id": "reception-chair",
-  "name": "Reception Chair",
+  "name": {
+    "en-US": "Reception Chair"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

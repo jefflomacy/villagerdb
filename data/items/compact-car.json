@@ -1,6 +1,8 @@
 {
   "id": "compact-car",
-  "name": "Compact Car",
+  "name": {
+    "en-US": "Compact Car"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

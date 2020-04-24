@@ -1,6 +1,8 @@
 {
   "id": "slate-flooring",
-  "name": "Slate Flooring",
+  "name": {
+    "en-US": "Slate Flooring"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

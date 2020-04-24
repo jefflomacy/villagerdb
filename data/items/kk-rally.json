@@ -1,6 +1,8 @@
 {
   "id": "kk-rally",
-  "name": "K.K. Rally",
+  "name": {
+    "en-US": "K.K. Rally"
+  },
   "category": "Music",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "sprinkles-poster",
-  "name": "Sprinkle's Poster",
+  "name": {
+    "en-US": "Sprinkle's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

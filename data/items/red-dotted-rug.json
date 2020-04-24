@@ -1,6 +1,8 @@
 {
   "id": "red-dotted-rug",
-  "name": "Red Dotted Rug",
+  "name": {
+    "en-US": "Red Dotted Rug"
+  },
   "games": {
     "nh": {
       "sources": [

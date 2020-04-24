@@ -1,6 +1,8 @@
 {
   "id": "fishing-waders",
-  "name": "Fishing Waders",
+  "name": {
+    "en-US": "Fishing Waders"
+  },
   "games": {
     "nh": {
       "orderable": true,

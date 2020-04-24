@@ -1,6 +1,8 @@
 {
   "id": "drifts-poster",
-  "name": "Drift's Poster",
+  "name": {
+    "en-US": "Drift's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

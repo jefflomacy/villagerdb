@@ -1,6 +1,8 @@
 {
   "id": "palace-wall",
-  "name": "Palace Wall",
+  "name": {
+    "en-US": "Palace Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

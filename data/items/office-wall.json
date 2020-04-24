@@ -1,6 +1,8 @@
 {
   "id": "office-wall",
-  "name": "Office Wall",
+  "name": {
+    "en-US": "Office Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "football-pants",
-  "name": "Football Pants",
+  "name": {
+    "en-US": "Football Pants"
+  },
   "games": {
     "nh": {
       "sellPrice": {

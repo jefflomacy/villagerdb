@@ -1,6 +1,8 @@
 {
   "id": "sea-horse-model",
-  "name": "Sea Horse Model",
+  "name": {
+    "en-US": "Sea Horse Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

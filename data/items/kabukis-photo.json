@@ -1,6 +1,8 @@
 {
   "id": "kabukis-photo",
-  "name": "Kabuki's Photo",
+  "name": {
+    "en-US": "Kabuki's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

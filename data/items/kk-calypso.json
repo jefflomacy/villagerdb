@@ -1,6 +1,8 @@
 {
   "id": "kk-calypso",
-  "name": "K.K. Calypso",
+  "name": {
+    "en-US": "K.K. Calypso"
+  },
   "category": "Music",
   "games": {
     "nl": {

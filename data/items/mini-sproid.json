@@ -1,6 +1,8 @@
 {
   "id": "mini-sproid",
-  "name": "Mini Sproid",
+  "name": {
+    "en-US": "Mini Sproid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

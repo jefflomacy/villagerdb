@@ -1,6 +1,8 @@
 {
   "id": "bamboo-flooring",
-  "name": "Bamboo Flooring",
+  "name": {
+    "en-US": "Bamboo Flooring"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

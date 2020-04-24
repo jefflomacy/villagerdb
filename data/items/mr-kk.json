@@ -1,6 +1,8 @@
 {
   "id": "mr-kk",
-  "name": "Mr. K.K.",
+  "name": {
+    "en-US": "Mr. K.K."
+  },
   "category": "Music",
   "games": {
     "nl": {

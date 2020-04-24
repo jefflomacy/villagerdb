@@ -1,6 +1,8 @@
 {
   "id": "post-op-patch",
-  "name": "Post-op Patch",
+  "name": {
+    "en-US": "Post-op Patch"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "great-purple-emperor-model",
-  "name": "Great Purple Emperor Model",
+  "name": {
+    "en-US": "Great Purple Emperor Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

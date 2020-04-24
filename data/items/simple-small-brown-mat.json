@@ -1,6 +1,8 @@
 {
   "id": "simple-small-brown-mat",
-  "name": "Simple Small Brown Mat",
+  "name": {
+    "en-US": "Simple Small Brown Mat"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "mushroom-wreath",
-  "name": "Mushroom Wreath",
+  "name": {
+    "en-US": "Mushroom Wreath"
+  },
   "games": {
     "nh": {
       "sellPrice": {

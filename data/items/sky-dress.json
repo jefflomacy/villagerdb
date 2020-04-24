@@ -1,6 +1,8 @@
 {
   "id": "sky-dress",
-  "name": "Sky Dress",
+  "name": {
+    "en-US": "Sky Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

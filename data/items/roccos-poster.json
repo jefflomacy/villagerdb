@@ -1,6 +1,8 @@
 {
   "id": "roccos-poster",
-  "name": "Rocco's Poster",
+  "name": {
+    "en-US": "Rocco's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

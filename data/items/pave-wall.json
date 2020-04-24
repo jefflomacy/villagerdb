@@ -1,6 +1,8 @@
 {
   "id": "pave-wall",
-  "name": "Pavé Wall",
+  "name": {
+    "en-US": "Pavé Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

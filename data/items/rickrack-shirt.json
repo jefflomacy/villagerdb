@@ -1,6 +1,8 @@
 {
   "id": "rickrack-shirt",
-  "name": "Rickrack Shirt",
+  "name": {
+    "en-US": "Rickrack Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

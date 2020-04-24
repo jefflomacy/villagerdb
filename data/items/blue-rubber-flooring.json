@@ -1,6 +1,8 @@
 {
   "id": "blue-rubber-flooring",
-  "name": "Blue Rubber Flooring",
+  "name": {
+    "en-US": "Blue Rubber Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

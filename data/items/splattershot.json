@@ -1,6 +1,8 @@
 {
   "id": "splattershot",
-  "name": "Splattershot",
+  "name": {
+    "en-US": "Splattershot"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

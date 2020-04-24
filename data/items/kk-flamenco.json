@@ -1,6 +1,8 @@
 {
   "id": "kk-flamenco",
-  "name": "K.K. Flamenco",
+  "name": {
+    "en-US": "K.K. Flamenco"
+  },
   "category": "Music",
   "games": {
     "nl": {

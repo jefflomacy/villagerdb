@@ -1,6 +1,8 @@
 {
   "id": "zen-hair-clip",
-  "name": "Zen Hair Clip",
+  "name": {
+    "en-US": "Zen Hair Clip"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "gorgeous-floor",
-  "name": "Gorgeous Floor",
+  "name": {
+    "en-US": "Gorgeous Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "diving-beetle",
-  "name": "Diving Beetle",
+  "name": {
+    "en-US": "Diving Beetle"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

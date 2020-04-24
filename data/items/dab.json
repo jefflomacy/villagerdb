@@ -1,6 +1,8 @@
 {
   "id": "dab",
-  "name": "Dab",
+  "name": {
+    "en-US": "Dab"
+  },
   "category": "Fish",
   "games": {
     "nl": {

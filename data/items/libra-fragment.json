@@ -1,6 +1,8 @@
 {
   "id": "libra-fragment",
-  "name": "Libra Fragment",
+  "name": {
+    "en-US": "Libra Fragment"
+  },
   "games": {
     "nh": {
       "sellPrice": {

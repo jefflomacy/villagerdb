@@ -1,6 +1,8 @@
 {
   "id": "hypno-kk",
-  "name": "Hypno K.K.",
+  "name": {
+    "en-US": "Hypno K.K."
+  },
   "category": "Music",
   "games": {
     "nl": {

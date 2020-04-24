@@ -1,6 +1,8 @@
 {
   "id": "punching-bag",
-  "name": "Punching Bag",
+  "name": {
+    "en-US": "Punching Bag"
+  },
   "games": {
     "nh": {
       "orderable": true,

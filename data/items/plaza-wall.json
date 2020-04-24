@@ -1,6 +1,8 @@
 {
   "id": "plaza-wall",
-  "name": "Plaza Wall",
+  "name": {
+    "en-US": "Plaza Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

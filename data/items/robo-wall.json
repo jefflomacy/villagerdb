@@ -1,6 +1,8 @@
 {
   "id": "robo-wall",
-  "name": "Robo-wall",
+  "name": {
+    "en-US": "Robo-wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

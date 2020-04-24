@@ -1,6 +1,8 @@
 {
   "id": "medicine-cabinet",
-  "name": "Medicine Cabinet",
+  "name": {
+    "en-US": "Medicine Cabinet"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

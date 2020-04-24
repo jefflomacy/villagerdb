@@ -1,6 +1,8 @@
 {
   "id": "mossy-carpet",
-  "name": "Mossy Carpet",
+  "name": {
+    "en-US": "Mossy Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "yellow-tulip",
-  "name": "Yellow Tulip",
+  "name": {
+    "en-US": "Yellow Tulip"
+  },
   "category": "Flowers",
   "games": {
     "nh": {

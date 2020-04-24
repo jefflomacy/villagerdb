@@ -1,6 +1,8 @@
 {
   "id": "sci-fi-flooring",
-  "name": "Sci-fi Flooring",
+  "name": {
+    "en-US": "Sci-fi Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

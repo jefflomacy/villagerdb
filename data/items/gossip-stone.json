@@ -1,6 +1,8 @@
 {
   "id": "gossip-stone",
-  "name": "Gossip Stone",
+  "name": {
+    "en-US": "Gossip Stone"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

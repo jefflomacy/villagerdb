@@ -1,6 +1,8 @@
 {
   "id": "neon-tetra",
-  "name": "Neon Tetra",
+  "name": {
+    "en-US": "Neon Tetra"
+  },
   "category": "Fish",
   "games": {
     "nl": {

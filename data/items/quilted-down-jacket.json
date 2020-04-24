@@ -1,6 +1,8 @@
 {
   "id": "quilted-down-jacket",
-  "name": "Quilted Down Jacket",
+  "name": {
+    "en-US": "Quilted Down Jacket"
+  },
   "games": {
     "nh": {
       "orderable": true,

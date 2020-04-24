@@ -1,6 +1,8 @@
 {
   "id": "agrias-butterfly-model",
-  "name": "Agrias Butterfly Model",
+  "name": {
+    "en-US": "Agrias Butterfly Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

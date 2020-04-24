@@ -1,6 +1,8 @@
 {
   "id": "long-bathtub",
-  "name": "Long Bathtub",
+  "name": {
+    "en-US": "Long Bathtub"
+  },
   "games": {
     "nh": {
       "orderable": true,

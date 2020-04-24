@@ -1,6 +1,8 @@
 {
   "id": "tadpole",
-  "name": "Tadpole",
+  "name": {
+    "en-US": "Tadpole"
+  },
   "category": "Fish",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "maple-leaf-pond-stone",
-  "name": "Maple-leaf Pond Stone",
+  "name": {
+    "en-US": "Maple-leaf Pond Stone"
+  },
   "games": {
     "nh": {
       "sellPrice": {

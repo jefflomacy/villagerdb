@@ -1,6 +1,8 @@
 {
   "id": "splendid-shirt",
-  "name": "Splendid Shirt",
+  "name": {
+    "en-US": "Splendid Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

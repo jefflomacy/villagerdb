@@ -1,6 +1,8 @@
 {
   "id": "mermaid-carpet",
-  "name": "Mermaid Carpet",
+  "name": {
+    "en-US": "Mermaid Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

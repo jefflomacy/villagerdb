@@ -1,6 +1,8 @@
 {
   "id": "melody-paper",
-  "name": "Melody Paper",
+  "name": {
+    "en-US": "Melody Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "basic-wall",
-  "name": "Basic Wall",
+  "name": {
+    "en-US": "Basic Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

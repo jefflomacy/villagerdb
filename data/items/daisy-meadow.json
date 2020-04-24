@@ -1,6 +1,8 @@
 {
   "id": "daisy-meadow",
-  "name": "Daisy Meadow",
+  "name": {
+    "en-US": "Daisy Meadow"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

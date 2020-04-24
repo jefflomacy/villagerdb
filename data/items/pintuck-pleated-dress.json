@@ -1,6 +1,8 @@
 {
   "id": "pintuck-pleated-dress",
-  "name": "Pintuck-pleated Dress",
+  "name": {
+    "en-US": "Pintuck-pleated Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

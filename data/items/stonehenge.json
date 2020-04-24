@@ -1,6 +1,8 @@
 {
   "id": "stonehenge",
-  "name": "Stonehenge",
+  "name": {
+    "en-US": "Stonehenge"
+  },
   "games": {
     "nh": {
       "sellPrice": {

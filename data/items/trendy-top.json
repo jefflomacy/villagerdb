@@ -1,6 +1,8 @@
 {
   "id": "trendy-top",
-  "name": "Trendy Top",
+  "name": {
+    "en-US": "Trendy Top"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "timber-doorplate",
-  "name": "Timber Doorplate",
+  "name": {
+    "en-US": "Timber Doorplate"
+  },
   "games": {
     "nh": {
       "orderable": false,

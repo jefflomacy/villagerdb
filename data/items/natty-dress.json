@@ -1,6 +1,8 @@
 {
   "id": "natty-dress",
-  "name": "Natty Dress",
+  "name": {
+    "en-US": "Natty Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

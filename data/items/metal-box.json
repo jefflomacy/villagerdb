@@ -1,6 +1,8 @@
 {
   "id": "metal-box",
-  "name": "Metal Box",
+  "name": {
+    "en-US": "Metal Box"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

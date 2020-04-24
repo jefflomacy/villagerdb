@@ -1,6 +1,8 @@
 {
   "id": "long-denim-cardigan",
-  "name": "Long Denim Cardigan",
+  "name": {
+    "en-US": "Long Denim Cardigan"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "paper-bag",
-  "name": "Paper Bag",
+  "name": {
+    "en-US": "Paper Bag"
+  },
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "mush-wall",
-  "name": "Mush Wall",
+  "name": {
+    "en-US": "Mush Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

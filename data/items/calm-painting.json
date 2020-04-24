@@ -1,6 +1,8 @@
 {
   "id": "calm-painting",
-  "name": "Calm Painting",
+  "name": {
+    "en-US": "Calm Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "laced-shirt",
-  "name": "Laced Shirt",
+  "name": {
+    "en-US": "Laced Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

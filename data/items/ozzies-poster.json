@@ -1,6 +1,8 @@
 {
   "id": "ozzies-poster",
-  "name": "Ozzie's Poster",
+  "name": {
+    "en-US": "Ozzie's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "ankhas-poster",
-  "name": "Ankha's Poster",
+  "name": {
+    "en-US": "Ankha's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

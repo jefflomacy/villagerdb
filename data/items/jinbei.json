@@ -1,6 +1,8 @@
 {
   "id": "jinbei",
-  "name": "Jinbei",
+  "name": {
+    "en-US": "Jinbei"
+  },
   "games": {
     "nh": {
       "sellPrice": {

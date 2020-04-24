@@ -1,6 +1,8 @@
 {
   "id": "old-flooring",
-  "name": "Old Flooring",
+  "name": {
+    "en-US": "Old Flooring"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "rajah-brookes-birdwing",
-  "name": "Rajah Brooke's Birdwing",
+  "name": {
+    "en-US": "Rajah Brooke's Birdwing"
+  },
   "games": {
     "nh": {
       "orderable": false,

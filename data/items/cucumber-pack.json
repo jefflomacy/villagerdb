@@ -1,6 +1,8 @@
 {
   "id": "cucumber-pack",
-  "name": "Cucumber Pack",
+  "name": {
+    "en-US": "Cucumber Pack"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "mantis-head-model",
-  "name": "Mantis-head Model",
+  "name": {
+    "en-US": "Mantis-head Model"
+  },
   "games": {
     "nh": {
       "orderable": true,

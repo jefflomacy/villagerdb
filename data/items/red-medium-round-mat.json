@@ -1,6 +1,8 @@
 {
   "id": "red-medium-round-mat",
-  "name": "Red Medium Round Mat",
+  "name": {
+    "en-US": "Red Medium Round Mat"
+  },
   "games": {
     "nh": {
       "sources": [

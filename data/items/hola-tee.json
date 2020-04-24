@@ -1,6 +1,8 @@
 {
   "id": "hola-tee",
-  "name": "Hola Tee",
+  "name": {
+    "en-US": "Hola Tee"
+  },
   "games": {
     "nh": {
       "sellPrice": {

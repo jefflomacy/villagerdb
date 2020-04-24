@@ -1,6 +1,8 @@
 {
   "id": "canberras-photo",
-  "name": "Canberra's Photo",
+  "name": {
+    "en-US": "Canberra's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "pilots-uniform",
-  "name": "Pilot's Uniform",
+  "name": {
+    "en-US": "Pilot's Uniform"
+  },
   "games": {
     "nh": {
       "sellPrice": {

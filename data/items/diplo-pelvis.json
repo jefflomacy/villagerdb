@@ -1,6 +1,8 @@
 {
   "id": "diplo-pelvis",
-  "name": "Diplo Pelvis",
+  "name": {
+    "en-US": "Diplo Pelvis"
+  },
   "games": {
     "nh": {
       "orderable": false,

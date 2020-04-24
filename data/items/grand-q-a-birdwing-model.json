@@ -1,6 +1,8 @@
 {
   "id": "grand-q-a-birdwing-model",
-  "name": "Grand Q. A. Birdwing Model",
+  "name": {
+    "en-US": "Grand Q. A. Birdwing Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "humble-sweater",
-  "name": "Humble Sweater",
+  "name": {
+    "en-US": "Humble Sweater"
+  },
   "games": {
     "nh": {
       "orderable": true,

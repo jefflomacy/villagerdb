@@ -1,6 +1,8 @@
 {
   "id": "eye-mask",
-  "name": "Eye Mask",
+  "name": {
+    "en-US": "Eye Mask"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

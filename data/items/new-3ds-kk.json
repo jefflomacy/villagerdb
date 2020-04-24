@@ -1,6 +1,8 @@
 {
   "id": "new-3ds-kk",
-  "name": "New 3DS - K.K.",
+  "name": {
+    "en-US": "New 3DS - K.K."
+  },
   "category": "Furniture",
   "games": {
     "nl": {

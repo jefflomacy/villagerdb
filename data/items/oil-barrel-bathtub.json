@@ -1,6 +1,8 @@
 {
   "id": "oil-barrel-bathtub",
-  "name": "Oil Barrel Bathtub",
+  "name": {
+    "en-US": "Oil Barrel Bathtub"
+  },
   "category": "Furniture",
   "games": {
     "nh": {

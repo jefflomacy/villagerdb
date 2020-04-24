@@ -1,6 +1,8 @@
 {
   "id": "shell-dress",
-  "name": "Shell Dress",
+  "name": {
+    "en-US": "Shell Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

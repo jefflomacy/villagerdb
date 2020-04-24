@@ -1,6 +1,8 @@
 {
   "id": "construction-site-wall",
-  "name": "Construction-site Wall",
+  "name": {
+    "en-US": "Construction-site Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

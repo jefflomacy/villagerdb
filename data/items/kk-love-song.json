@@ -1,6 +1,8 @@
 {
   "id": "kk-love-song",
-  "name": "K.K. Love Song",
+  "name": {
+    "en-US": "K.K. Love Song"
+  },
   "category": "Music",
   "games": {
     "nl": {

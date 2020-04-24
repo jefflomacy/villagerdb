@@ -1,6 +1,8 @@
 {
   "id": "magazine-rack",
-  "name": "Magazine Rack",
+  "name": {
+    "en-US": "Magazine Rack"
+  },
   "games": {
     "nh": {
       "customizable": true,

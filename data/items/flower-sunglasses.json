@@ -1,6 +1,8 @@
 {
   "id": "flower-sunglasses",
-  "name": "Flower Sunglasses",
+  "name": {
+    "en-US": "Flower Sunglasses"
+  },
   "games": {
     "nh": {
       "orderable": true,

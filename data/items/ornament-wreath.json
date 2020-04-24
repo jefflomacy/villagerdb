@@ -1,6 +1,8 @@
 {
   "id": "ornament-wreath",
-  "name": "Ornament Wreath",
+  "name": {
+    "en-US": "Ornament Wreath"
+  },
   "games": {
     "nh": {
       "sellPrice": {

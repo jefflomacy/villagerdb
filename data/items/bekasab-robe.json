@@ -1,6 +1,8 @@
 {
   "id": "bekasab-robe",
-  "name": "Bekasab Robe",
+  "name": {
+    "en-US": "Bekasab Robe"
+  },
   "games": {
     "nh": {
       "sellPrice": {

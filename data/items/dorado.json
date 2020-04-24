@@ -1,6 +1,8 @@
 {
   "id": "dorado",
-  "name": "Dorado",
+  "name": {
+    "en-US": "Dorado"
+  },
   "category": "Fish",
   "games": {
     "nl": {

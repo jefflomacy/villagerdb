@@ -1,6 +1,8 @@
 {
   "id": "slacks",
-  "name": "Slacks",
+  "name": {
+    "en-US": "Slacks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

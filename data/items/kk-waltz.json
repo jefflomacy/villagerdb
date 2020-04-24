@@ -1,6 +1,8 @@
 {
   "id": "kk-waltz",
-  "name": "K.K. Waltz",
+  "name": {
+    "en-US": "K.K. Waltz"
+  },
   "category": "Music",
   "games": {
     "nl": {

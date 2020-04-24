@@ -1,6 +1,8 @@
 {
   "id": "oyster-shell",
-  "name": "Oyster Shell",
+  "name": {
+    "en-US": "Oyster Shell"
+  },
   "category": "Seashells",
   "games": {
     "nl": {

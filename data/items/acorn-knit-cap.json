@@ -1,6 +1,8 @@
 {
   "id": "acorn-knit-cap",
-  "name": "Acorn Knit Cap",
+  "name": {
+    "en-US": "Acorn Knit Cap"
+  },
   "games": {
     "nh": {
       "sellPrice": {

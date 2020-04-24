@@ -1,6 +1,8 @@
 {
   "id": "blue-pansy",
-  "name": "Blue Pansy",
+  "name": {
+    "en-US": "Blue Pansy"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

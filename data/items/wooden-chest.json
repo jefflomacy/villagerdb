@@ -1,6 +1,8 @@
 {
   "id": "wooden-chest",
-  "name": "Wooden Chest",
+  "name": {
+    "en-US": "Wooden Chest"
+  },
   "games": {
     "nh": {
       "orderable": false,

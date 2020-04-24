@@ -1,6 +1,8 @@
 {
   "id": "garden-table",
-  "name": "Garden Table",
+  "name": {
+    "en-US": "Garden Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

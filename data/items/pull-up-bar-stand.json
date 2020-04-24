@@ -1,6 +1,8 @@
 {
   "id": "pull-up-bar-stand",
-  "name": "Pull-up-bar Stand",
+  "name": {
+    "en-US": "Pull-up-bar Stand"
+  },
   "games": {
     "nh": {
       "orderable": true,

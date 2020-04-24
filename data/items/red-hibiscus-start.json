@@ -1,6 +1,8 @@
 {
   "id": "red-hibiscus-start",
-  "name": "Red-hibiscus Start",
+  "name": {
+    "en-US": "Red-hibiscus Start"
+  },
   "category": "Trees",
   "games": {
     "nl": {

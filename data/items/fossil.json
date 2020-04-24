@@ -1,6 +1,8 @@
 {
   "id": "fossil",
-  "name": "Fossil",
+  "name": {
+    "en-US": "Fossil"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

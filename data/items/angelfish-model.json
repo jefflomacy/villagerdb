@@ -1,6 +1,8 @@
 {
   "id": "angelfish-model",
-  "name": "Angelfish Model",
+  "name": {
+    "en-US": "Angelfish Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

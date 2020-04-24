@@ -1,6 +1,8 @@
 {
   "id": "grasshopper",
-  "name": "Grasshopper",
+  "name": {
+    "en-US": "Grasshopper"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

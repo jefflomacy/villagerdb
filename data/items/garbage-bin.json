@@ -1,6 +1,8 @@
 {
   "id": "garbage-bin",
-  "name": "Garbage Bin",
+  "name": {
+    "en-US": "Garbage Bin"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

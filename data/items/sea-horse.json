@@ -1,6 +1,8 @@
 {
   "id": "sea-horse",
-  "name": "Sea Horse",
+  "name": {
+    "en-US": "Sea Horse"
+  },
   "category": "Fish",
   "games": {
     "nl": {

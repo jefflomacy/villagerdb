@@ -1,6 +1,8 @@
 {
   "id": "ikada-trophy",
-  "name": "Ikada Trophy",
+  "name": {
+    "en-US": "Ikada Trophy"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

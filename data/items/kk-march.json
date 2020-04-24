@@ -1,6 +1,8 @@
 {
   "id": "kk-march",
-  "name": "K.K. March",
+  "name": {
+    "en-US": "K.K. March"
+  },
   "category": "Music",
   "games": {
     "nl": {

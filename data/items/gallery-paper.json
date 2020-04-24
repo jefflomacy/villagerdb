@@ -1,6 +1,8 @@
 {
   "id": "gallery-paper",
-  "name": "Gallery Paper",
+  "name": {
+    "en-US": "Gallery Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

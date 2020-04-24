@@ -1,6 +1,8 @@
 {
   "id": "chocolate-heart",
-  "name": "Chocolate Heart",
+  "name": {
+    "en-US": "Chocolate Heart"
+  },
   "category": "Usables",
   "games": {
     "nl": {

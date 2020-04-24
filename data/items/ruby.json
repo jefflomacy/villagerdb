@@ -1,6 +1,8 @@
 {
   "id": "ruby",
-  "name": "Ruby",
+  "name": {
+    "en-US": "Ruby"
+  },
   "category": "Ore",
   "games": {
     "nl": {

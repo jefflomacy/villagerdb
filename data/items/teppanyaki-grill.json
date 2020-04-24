@@ -1,6 +1,8 @@
 {
   "id": "teppanyaki-grill",
-  "name": "Teppanyaki Grill",
+  "name": {
+    "en-US": "Teppanyaki Grill"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

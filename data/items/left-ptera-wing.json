@@ -1,6 +1,8 @@
 {
   "id": "left-ptera-wing",
-  "name": "Left Ptera Wing",
+  "name": {
+    "en-US": "Left Ptera Wing"
+  },
   "games": {
     "nh": {
       "orderable": false,

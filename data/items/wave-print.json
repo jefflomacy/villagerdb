@@ -1,6 +1,8 @@
 {
   "id": "wave-print",
-  "name": "Wave Print",
+  "name": {
+    "en-US": "Wave Print"
+  },
   "category": "Tops",
   "games": {
     "ac": {

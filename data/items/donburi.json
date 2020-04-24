@@ -1,6 +1,8 @@
 {
   "id": "donburi",
-  "name": "Donburi",
+  "name": {
+    "en-US": "Donburi"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

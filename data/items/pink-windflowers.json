@@ -1,6 +1,8 @@
 {
   "id": "pink-windflowers",
-  "name": "Pink Windflowers",
+  "name": {
+    "en-US": "Pink Windflowers"
+  },
   "games": {
     "nh": {
       "orderable": false,

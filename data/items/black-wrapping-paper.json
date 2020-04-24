@@ -1,6 +1,8 @@
 {
   "id": "black-wrapping-paper",
-  "name": "Black Wrapping Paper",
+  "name": {
+    "en-US": "Black Wrapping Paper"
+  },
   "games": {
     "nh": {
       "sellPrice": {

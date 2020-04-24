@@ -1,6 +1,8 @@
 {
   "id": "gelato-umbrella",
-  "name": "Gelato Umbrella",
+  "name": {
+    "en-US": "Gelato Umbrella"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

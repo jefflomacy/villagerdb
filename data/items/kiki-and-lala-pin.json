@@ -1,6 +1,8 @@
 {
   "id": "kiki-and-lala-pin",
-  "name": "Kiki And Lala Pin",
+  "name": {
+    "en-US": "Kiki And Lala Pin"
+  },
   "category": "Hats",
   "games": {
     "nl": {

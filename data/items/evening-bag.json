@@ -1,6 +1,8 @@
 {
   "id": "evening-bag",
-  "name": "Evening Bag",
+  "name": {
+    "en-US": "Evening Bag"
+  },
   "games": {
     "nh": {
       "sellPrice": {

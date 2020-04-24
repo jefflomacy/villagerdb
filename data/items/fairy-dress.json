@@ -1,6 +1,8 @@
 {
   "id": "fairy-dress",
-  "name": "Fairy Dress",
+  "name": {
+    "en-US": "Fairy Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

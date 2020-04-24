@@ -1,6 +1,8 @@
 {
   "id": "yellow-butterfly",
-  "name": "Yellow Butterfly",
+  "name": {
+    "en-US": "Yellow Butterfly"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

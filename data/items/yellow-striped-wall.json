@@ -1,6 +1,8 @@
 {
   "id": "yellow-striped-wall",
-  "name": "Yellow-striped Wall",
+  "name": {
+    "en-US": "Yellow-striped Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

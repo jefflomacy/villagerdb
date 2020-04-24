@@ -1,6 +1,8 @@
 {
   "id": "lacy-tank",
-  "name": "Lacy Tank",
+  "name": {
+    "en-US": "Lacy Tank"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "cloudy-paper",
-  "name": "Cloudy Paper",
+  "name": {
+    "en-US": "Cloudy Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "hot-spring-shirt",
-  "name": "Hot Spring Shirt",
+  "name": {
+    "en-US": "Hot Spring Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

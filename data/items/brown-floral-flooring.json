@@ -1,6 +1,8 @@
 {
   "id": "brown-floral-flooring",
-  "name": "Brown Floral Flooring",
+  "name": {
+    "en-US": "Brown Floral Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

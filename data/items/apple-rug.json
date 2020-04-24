@@ -1,6 +1,8 @@
 {
   "id": "apple-rug",
-  "name": "Apple Rug",
+  "name": {
+    "en-US": "Apple Rug"
+  },
   "games": {
     "nh": {
       "orderable": false,

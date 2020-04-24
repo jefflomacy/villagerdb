@@ -1,6 +1,8 @@
 {
   "id": "hakama-with-crest",
-  "name": "Hakama With Crest",
+  "name": {
+    "en-US": "Hakama With Crest"
+  },
   "games": {
     "nh": {
       "sellPrice": {

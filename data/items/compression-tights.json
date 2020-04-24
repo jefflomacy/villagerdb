@@ -1,6 +1,8 @@
 {
   "id": "compression-tights",
-  "name": "Compression Tights",
+  "name": {
+    "en-US": "Compression Tights"
+  },
   "games": {
     "nh": {
       "sellPrice": {

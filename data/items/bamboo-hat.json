@@ -1,6 +1,8 @@
 {
   "id": "bamboo-hat",
-  "name": "Bamboo Hat",
+  "name": {
+    "en-US": "Bamboo Hat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

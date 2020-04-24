@@ -1,6 +1,8 @@
 {
   "id": "sapling-clock",
-  "name": "Sapling Clock",
+  "name": {
+    "en-US": "Sapling Clock"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "imperial-pot",
-  "name": "Imperial Pot",
+  "name": {
+    "en-US": "Imperial Pot"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

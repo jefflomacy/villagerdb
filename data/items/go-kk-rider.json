@@ -1,6 +1,8 @@
 {
   "id": "go-kk-rider",
-  "name": "Go K.K. Rider",
+  "name": {
+    "en-US": "Go K.K. Rider"
+  },
   "category": "Music",
   "games": {
     "nl": {

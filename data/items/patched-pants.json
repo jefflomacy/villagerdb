@@ -1,6 +1,8 @@
 {
   "id": "patched-pants",
-  "name": "Patched Pants",
+  "name": {
+    "en-US": "Patched Pants"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "barred-knifejaw",
-  "name": "Barred Knifejaw",
+  "name": {
+    "en-US": "Barred Knifejaw"
+  },
   "category": "Fish",
   "games": {
     "nl": {

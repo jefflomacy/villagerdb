@@ -1,6 +1,8 @@
 {
   "id": "composers-wig",
-  "name": "Composer's Wig",
+  "name": {
+    "en-US": "Composer's Wig"
+  },
   "games": {
     "nh": {
       "sellPrice": {

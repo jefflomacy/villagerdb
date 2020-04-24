@@ -1,6 +1,8 @@
 {
   "id": "lotus-paper",
-  "name": "Lotus Paper",
+  "name": {
+    "en-US": "Lotus Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

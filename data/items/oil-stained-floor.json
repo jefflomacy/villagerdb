@@ -1,6 +1,8 @@
 {
   "id": "oil-stained-floor",
-  "name": "Oil-stained Floor",
+  "name": {
+    "en-US": "Oil-stained Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

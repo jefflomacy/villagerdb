@@ -1,6 +1,8 @@
 {
   "id": "drafting-table",
-  "name": "Drafting Table",
+  "name": {
+    "en-US": "Drafting Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "blue-pinstripe",
-  "name": "Blue Pinstripe",
+  "name": {
+    "en-US": "Blue Pinstripe"
+  },
   "category": "Tops",
   "games": {
     "ac": {

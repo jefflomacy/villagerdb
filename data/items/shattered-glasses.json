@@ -1,6 +1,8 @@
 {
   "id": "shattered-glasses",
-  "name": "Shattered Glasses",
+  "name": {
+    "en-US": "Shattered Glasses"
+  },
   "games": {
     "nh": {
       "sellPrice": {

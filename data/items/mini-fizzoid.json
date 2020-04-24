@@ -1,6 +1,8 @@
 {
   "id": "mini-fizzoid",
-  "name": "Mini Fizzoid",
+  "name": {
+    "en-US": "Mini Fizzoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

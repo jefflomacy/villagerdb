@@ -1,6 +1,8 @@
 {
   "id": "message-bottle",
-  "name": "Message Bottle",
+  "name": {
+    "en-US": "Message Bottle"
+  },
   "games": {
     "nh": {
       "sellPrice": {

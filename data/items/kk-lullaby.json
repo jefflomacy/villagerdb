@@ -1,6 +1,8 @@
 {
   "id": "kk-lullaby",
-  "name": "K.K. Lullaby",
+  "name": {
+    "en-US": "K.K. Lullaby"
+  },
   "category": "Music",
   "games": {
     "nl": {

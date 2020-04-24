@@ -1,6 +1,8 @@
 {
   "id": "music-room-wall",
-  "name": "Music-room Wall",
+  "name": {
+    "en-US": "Music-room Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

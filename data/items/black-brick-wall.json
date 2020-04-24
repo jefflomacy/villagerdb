@@ -1,6 +1,8 @@
 {
   "id": "black-brick-wall",
-  "name": "Black-brick Wall",
+  "name": {
+    "en-US": "Black-brick Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

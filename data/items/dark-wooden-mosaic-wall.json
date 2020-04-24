@@ -1,6 +1,8 @@
 {
   "id": "dark-wooden-mosaic-wall",
-  "name": "Dark Wooden-mosaic Wall",
+  "name": {
+    "en-US": "Dark Wooden-mosaic Wall"
+  },
   "games": {
     "nh": {
       "orderable": false,

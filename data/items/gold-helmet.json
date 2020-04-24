@@ -1,6 +1,8 @@
 {
   "id": "gold-helmet",
-  "name": "Gold Helmet",
+  "name": {
+    "en-US": "Gold Helmet"
+  },
   "games": {
     "nh": {
       "sellPrice": {

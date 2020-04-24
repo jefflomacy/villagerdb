@@ -1,6 +1,8 @@
 {
   "id": "simple-navy-bath-mat",
-  "name": "Simple Navy Bath Mat",
+  "name": {
+    "en-US": "Simple Navy Bath Mat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "aqua-tile-flooring",
-  "name": "Aqua Tile Flooring",
+  "name": {
+    "en-US": "Aqua Tile Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

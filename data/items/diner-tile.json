@@ -1,6 +1,8 @@
 {
   "id": "diner-tile",
-  "name": "Diner Tile",
+  "name": {
+    "en-US": "Diner Tile"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

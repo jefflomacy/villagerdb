@@ -1,6 +1,8 @@
 {
   "id": "green-kitchen-mat",
-  "name": "Green Kitchen Mat",
+  "name": {
+    "en-US": "Green Kitchen Mat"
+  },
   "games": {
     "nh": {
       "sources": [

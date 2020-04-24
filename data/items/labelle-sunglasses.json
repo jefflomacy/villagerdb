@@ -1,6 +1,8 @@
 {
   "id": "labelle-sunglasses",
-  "name": "Labelle Sunglasses",
+  "name": {
+    "en-US": "Labelle Sunglasses"
+  },
   "games": {
     "nh": {
       "sellPrice": {

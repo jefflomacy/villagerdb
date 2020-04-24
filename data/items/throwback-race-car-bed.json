@@ -1,6 +1,8 @@
 {
   "id": "throwback-race-car-bed",
-  "name": "Throwback Race-car Bed",
+  "name": {
+    "en-US": "Throwback Race-car Bed"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "air-pump",
-  "name": "Air Pump",
+  "name": {
+    "en-US": "Air Pump"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

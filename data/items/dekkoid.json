@@ -1,6 +1,8 @@
 {
   "id": "dekkoid",
-  "name": "Dekkoid",
+  "name": {
+    "en-US": "Dekkoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

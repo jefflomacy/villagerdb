@@ -1,6 +1,8 @@
 {
   "id": "timpanoid",
-  "name": "Timpanoid",
+  "name": {
+    "en-US": "Timpanoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

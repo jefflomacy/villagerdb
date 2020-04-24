@@ -1,6 +1,8 @@
 {
   "id": "beauty-salon-cart",
-  "name": "Beauty Salon Cart",
+  "name": {
+    "en-US": "Beauty Salon Cart"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

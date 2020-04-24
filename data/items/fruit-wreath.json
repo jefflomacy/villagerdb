@@ -1,6 +1,8 @@
 {
   "id": "fruit-wreath",
-  "name": "Fruit Wreath",
+  "name": {
+    "en-US": "Fruit Wreath"
+  },
   "games": {
     "nh": {
       "orderable": false,

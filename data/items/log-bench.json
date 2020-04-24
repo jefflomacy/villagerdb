@@ -1,6 +1,8 @@
 {
   "id": "log-bench",
-  "name": "Log Bench",
+  "name": {
+    "en-US": "Log Bench"
+  },
   "category": "Furniture",
   "games": {
     "nh": {

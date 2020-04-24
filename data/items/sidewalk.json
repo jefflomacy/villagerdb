@@ -1,6 +1,8 @@
 {
   "id": "sidewalk",
-  "name": "Sidewalk",
+  "name": {
+    "en-US": "Sidewalk"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

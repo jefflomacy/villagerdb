@@ -1,6 +1,8 @@
 {
   "id": "pleather-ankle-booties",
-  "name": "Pleather Ankle Booties",
+  "name": {
+    "en-US": "Pleather Ankle Booties"
+  },
   "games": {
     "nh": {
       "sellPrice": {

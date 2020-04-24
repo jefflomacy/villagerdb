@@ -1,6 +1,8 @@
 {
   "id": "layered-tank",
-  "name": "Layered Tank",
+  "name": {
+    "en-US": "Layered Tank"
+  },
   "games": {
     "nh": {
       "sellPrice": {

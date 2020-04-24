@@ -1,6 +1,8 @@
 {
   "id": "spider",
-  "name": "Spider",
+  "name": {
+    "en-US": "Spider"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

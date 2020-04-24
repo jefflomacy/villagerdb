@@ -1,6 +1,8 @@
 {
   "id": "imperial-kk",
-  "name": "Imperial K.K.",
+  "name": {
+    "en-US": "Imperial K.K."
+  },
   "category": "Music",
   "games": {
     "nl": {

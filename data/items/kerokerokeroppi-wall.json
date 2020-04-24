@@ -1,6 +1,8 @@
 {
   "id": "kerokerokeroppi-wall",
-  "name": "Kerokerokeroppi Wall",
+  "name": {
+    "en-US": "Kerokerokeroppi Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

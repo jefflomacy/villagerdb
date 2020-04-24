@@ -1,6 +1,8 @@
 {
   "id": "princess-wall",
-  "name": "Princess Wall",
+  "name": {
+    "en-US": "Princess Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

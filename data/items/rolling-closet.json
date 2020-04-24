@@ -1,6 +1,8 @@
 {
   "id": "rolling-closet",
-  "name": "Rolling Closet",
+  "name": {
+    "en-US": "Rolling Closet"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "earbuds-combo",
-  "name": "Earbuds Combo",
+  "name": {
+    "en-US": "Earbuds Combo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

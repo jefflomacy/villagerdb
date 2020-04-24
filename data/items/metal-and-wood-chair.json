@@ -1,6 +1,8 @@
 {
   "id": "metal-and-wood-chair",
-  "name": "Metal-and-wood Chair",
+  "name": {
+    "en-US": "Metal-and-wood Chair"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

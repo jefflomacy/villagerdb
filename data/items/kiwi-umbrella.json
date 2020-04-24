@@ -1,6 +1,8 @@
 {
   "id": "kiwi-umbrella",
-  "name": "Kiwi Umbrella",
+  "name": {
+    "en-US": "Kiwi Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "flower-fairy-dress",
-  "name": "Flower Fairy Dress",
+  "name": {
+    "en-US": "Flower Fairy Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

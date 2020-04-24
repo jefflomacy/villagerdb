@@ -1,6 +1,8 @@
 {
   "id": "stack-of-books",
-  "name": "Stack Of Books",
+  "name": {
+    "en-US": "Stack Of Books"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

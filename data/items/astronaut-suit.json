@@ -1,6 +1,8 @@
 {
   "id": "astronaut-suit",
-  "name": "Astronaut Suit",
+  "name": {
+    "en-US": "Astronaut Suit"
+  },
   "games": {
     "nh": {
       "orderable": false,

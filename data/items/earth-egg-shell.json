@@ -1,6 +1,8 @@
 {
   "id": "earth-egg-shell",
-  "name": "Earth-egg Shell",
+  "name": {
+    "en-US": "Earth-egg Shell"
+  },
   "games": {
     "nh": {
       "orderable": false,

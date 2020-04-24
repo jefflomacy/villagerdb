@@ -1,6 +1,8 @@
 {
   "id": "heavy-tome",
-  "name": "Heavy Tome",
+  "name": {
+    "en-US": "Heavy Tome"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

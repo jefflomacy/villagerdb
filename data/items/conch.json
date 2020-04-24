@@ -1,6 +1,8 @@
 {
   "id": "conch",
-  "name": "Conch",
+  "name": {
+    "en-US": "Conch"
+  },
   "games": {
     "nh": {
       "orderable": false,

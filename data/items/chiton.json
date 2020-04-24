@@ -1,6 +1,8 @@
 {
   "id": "chiton",
-  "name": "Chiton",
+  "name": {
+    "en-US": "Chiton"
+  },
   "games": {
     "nh": {
       "sellPrice": {

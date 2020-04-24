@@ -1,6 +1,8 @@
 {
   "id": "hyacinth-lamp",
-  "name": "Hyacinth Lamp",
+  "name": {
+    "en-US": "Hyacinth Lamp"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "sky-wall",
-  "name": "Sky Wall",
+  "name": {
+    "en-US": "Sky Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "belted-dotted-dress",
-  "name": "Belted Dotted Dress",
+  "name": {
+    "en-US": "Belted Dotted Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

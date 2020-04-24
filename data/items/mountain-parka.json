@@ -1,6 +1,8 @@
 {
   "id": "mountain-parka",
-  "name": "Mountain Parka",
+  "name": {
+    "en-US": "Mountain Parka"
+  },
   "games": {
     "nh": {
       "orderable": true,

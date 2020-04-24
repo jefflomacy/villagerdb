@@ -1,6 +1,8 @@
 {
   "id": "purple-feather",
-  "name": "Purple Feather",
+  "name": {
+    "en-US": "Purple Feather"
+  },
   "category": "Hats",
   "games": {
     "nl": {

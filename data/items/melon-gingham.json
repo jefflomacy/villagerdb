@@ -1,6 +1,8 @@
 {
   "id": "melon-gingham",
-  "name": "Melon Gingham",
+  "name": {
+    "en-US": "Melon Gingham"
+  },
   "category": "Tops",
   "games": {
     "ac": {

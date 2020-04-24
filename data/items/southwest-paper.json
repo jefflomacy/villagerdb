@@ -1,6 +1,8 @@
 {
   "id": "southwest-paper",
-  "name": "Southwest Paper",
+  "name": {
+    "en-US": "Southwest Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

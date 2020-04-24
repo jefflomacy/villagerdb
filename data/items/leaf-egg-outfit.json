@@ -1,6 +1,8 @@
 {
   "id": "leaf-egg-outfit",
-  "name": "Leaf-egg Outfit",
+  "name": {
+    "en-US": "Leaf-egg Outfit"
+  },
   "games": {
     "nh": {
       "orderable": false,

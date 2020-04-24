@@ -1,6 +1,8 @@
 {
   "id": "rose-tank-dress",
-  "name": "Rose Tank Dress",
+  "name": {
+    "en-US": "Rose Tank Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

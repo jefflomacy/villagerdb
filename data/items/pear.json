@@ -1,6 +1,8 @@
 {
   "id": "pear",
-  "name": "Pear",
+  "name": {
+    "en-US": "Pear"
+  },
   "category": "Fruit",
   "games": {
     "nl": {

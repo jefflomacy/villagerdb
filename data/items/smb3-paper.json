@@ -1,6 +1,8 @@
 {
   "id": "smb3-paper",
-  "name": "Smb3 Paper",
+  "name": {
+    "en-US": "Smb3 Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

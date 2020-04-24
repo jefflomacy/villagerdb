@@ -1,6 +1,8 @@
 {
   "id": "stovetop-espresso-maker",
-  "name": "Stovetop Espresso Maker",
+  "name": {
+    "en-US": "Stovetop Espresso Maker"
+  },
   "games": {
     "nh": {
       "orderable": true,

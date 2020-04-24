@@ -1,6 +1,8 @@
 {
   "id": "coachs-photo",
-  "name": "Coach's Photo",
+  "name": {
+    "en-US": "Coach's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

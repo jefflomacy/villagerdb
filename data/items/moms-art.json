@@ -1,6 +1,8 @@
 {
   "id": "moms-art",
-  "name": "Mom's Art",
+  "name": {
+    "en-US": "Mom's Art"
+  },
   "games": {
     "nh": {
       "sellPrice": {

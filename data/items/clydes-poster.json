@@ -1,6 +1,8 @@
 {
   "id": "clydes-poster",
-  "name": "Clyde's Poster",
+  "name": {
+    "en-US": "Clyde's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

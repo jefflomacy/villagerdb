@@ -1,6 +1,8 @@
 {
   "id": "large-egg",
-  "name": "Large Egg",
+  "name": {
+    "en-US": "Large Egg"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

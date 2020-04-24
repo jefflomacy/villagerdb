@@ -1,6 +1,8 @@
 {
   "id": "sunny-parasol",
-  "name": "Sunny Parasol",
+  "name": {
+    "en-US": "Sunny Parasol"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

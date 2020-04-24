@@ -1,6 +1,8 @@
 {
   "id": "marie-shoes",
-  "name": "Marie Shoes",
+  "name": {
+    "en-US": "Marie Shoes"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

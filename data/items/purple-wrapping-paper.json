@@ -1,6 +1,8 @@
 {
   "id": "purple-wrapping-paper",
-  "name": "Purple Wrapping Paper",
+  "name": {
+    "en-US": "Purple Wrapping Paper"
+  },
   "games": {
     "nh": {
       "sellPrice": {

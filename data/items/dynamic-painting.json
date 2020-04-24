@@ -1,6 +1,8 @@
 {
   "id": "dynamic-painting",
-  "name": "Dynamic Painting",
+  "name": {
+    "en-US": "Dynamic Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

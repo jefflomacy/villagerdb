@@ -1,6 +1,8 @@
 {
   "id": "ink-splattered-floor",
-  "name": "Ink-splattered Floor",
+  "name": {
+    "en-US": "Ink-splattered Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

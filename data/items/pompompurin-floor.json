@@ -1,6 +1,8 @@
 {
   "id": "pompompurin-floor",
-  "name": "Pompompurin Floor",
+  "name": {
+    "en-US": "Pompompurin Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

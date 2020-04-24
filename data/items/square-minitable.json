@@ -1,6 +1,8 @@
 {
   "id": "square-minitable",
-  "name": "Square Minitable",
+  "name": {
+    "en-US": "Square Minitable"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "denim-cap",
-  "name": "Denim Cap",
+  "name": {
+    "en-US": "Denim Cap"
+  },
   "games": {
     "nh": {
       "orderable": true,

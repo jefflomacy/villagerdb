@@ -1,6 +1,8 @@
 {
   "id": "big-star-shirt",
-  "name": "Big Star Shirt",
+  "name": {
+    "en-US": "Big Star Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

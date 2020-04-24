@@ -1,6 +1,8 @@
 {
   "id": "rubber-tile-flooring",
-  "name": "Rubber-tile Flooring",
+  "name": {
+    "en-US": "Rubber-tile Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

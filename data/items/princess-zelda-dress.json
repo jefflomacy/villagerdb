@@ -1,6 +1,8 @@
 {
   "id": "princess-zelda-dress",
-  "name": "Princess Zelda Dress",
+  "name": {
+    "en-US": "Princess Zelda Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "jewel-beetle",
-  "name": "Jewel Beetle",
+  "name": {
+    "en-US": "Jewel Beetle"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

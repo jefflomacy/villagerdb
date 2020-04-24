@@ -1,6 +1,8 @@
 {
   "id": "sea-bass",
-  "name": "Sea Bass",
+  "name": {
+    "en-US": "Sea Bass"
+  },
   "category": "Fish",
   "games": {
     "nl": {

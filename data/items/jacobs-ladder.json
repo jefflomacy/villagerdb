@@ -1,6 +1,8 @@
 {
   "id": "jacobs-ladder",
-  "name": "Jacob's Ladder",
+  "name": {
+    "en-US": "Jacob's Ladder"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

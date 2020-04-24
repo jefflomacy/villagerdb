@@ -1,6 +1,8 @@
 {
   "id": "logo-umbrella",
-  "name": "Logo Umbrella",
+  "name": {
+    "en-US": "Logo Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

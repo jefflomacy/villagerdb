@@ -1,6 +1,8 @@
 {
   "id": "arched-window-wall",
-  "name": "Arched-window Wall",
+  "name": {
+    "en-US": "Arched-window Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

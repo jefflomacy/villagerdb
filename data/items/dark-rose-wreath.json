@@ -1,6 +1,8 @@
 {
   "id": "dark-rose-wreath",
-  "name": "Dark Rose Wreath",
+  "name": {
+    "en-US": "Dark Rose Wreath"
+  },
   "games": {
     "nh": {
       "sellPrice": {

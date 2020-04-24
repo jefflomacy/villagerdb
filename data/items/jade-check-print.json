@@ -1,6 +1,8 @@
 {
   "id": "jade-check-print",
-  "name": "Jade Check Print",
+  "name": {
+    "en-US": "Jade Check Print"
+  },
   "category": "Tops",
   "games": {
     "ac": {

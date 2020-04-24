@@ -1,6 +1,8 @@
 {
   "id": "blue-hydrangea-start",
-  "name": "Blue-hydrangea Start",
+  "name": {
+    "en-US": "Blue-hydrangea Start"
+  },
   "category": "Trees",
   "games": {
     "nl": {

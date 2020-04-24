@@ -1,6 +1,8 @@
 {
   "id": "log-sofa",
-  "name": "Log Sofa",
+  "name": {
+    "en-US": "Log Sofa"
+  },
   "games": {
     "nh": {
       "orderable": false,

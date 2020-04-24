@@ -1,6 +1,8 @@
 {
   "id": "kk-country",
-  "name": "K.K. Country",
+  "name": {
+    "en-US": "K.K. Country"
+  },
   "category": "Music",
   "games": {
     "nl": {

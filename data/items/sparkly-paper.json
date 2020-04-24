@@ -1,6 +1,8 @@
 {
   "id": "sparkly-paper",
-  "name": "Sparkly Paper",
+  "name": {
+    "en-US": "Sparkly Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

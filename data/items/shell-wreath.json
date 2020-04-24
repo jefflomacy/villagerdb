@@ -1,6 +1,8 @@
 {
   "id": "shell-wreath",
-  "name": "Shell Wreath",
+  "name": {
+    "en-US": "Shell Wreath"
+  },
   "games": {
     "nh": {
       "sellPrice": {

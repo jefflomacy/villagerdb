@@ -1,6 +1,8 @@
 {
   "id": "multipurpose-vest",
-  "name": "Multipurpose Vest",
+  "name": {
+    "en-US": "Multipurpose Vest"
+  },
   "games": {
     "nh": {
       "orderable": true,

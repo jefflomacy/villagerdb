@@ -1,6 +1,8 @@
 {
   "id": "windflower-wreath",
-  "name": "Windflower Wreath",
+  "name": {
+    "en-US": "Windflower Wreath"
+  },
   "games": {
     "nh": {
       "orderable": false,

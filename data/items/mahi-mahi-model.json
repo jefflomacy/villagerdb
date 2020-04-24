@@ -1,6 +1,8 @@
 {
   "id": "mahi-mahi-model",
-  "name": "Mahi-mahi Model",
+  "name": {
+    "en-US": "Mahi-mahi Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

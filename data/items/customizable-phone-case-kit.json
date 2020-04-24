@@ -1,6 +1,8 @@
 {
   "id": "customizable-phone-case-kit",
-  "name": "Customizable Phone Case Kit",
+  "name": {
+    "en-US": "Customizable Phone Case Kit"
+  },
   "games": {
     "nh": {
       "sellPrice": {

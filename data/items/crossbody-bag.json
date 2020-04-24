@@ -1,6 +1,8 @@
 {
   "id": "crossbody-bag",
-  "name": "Crossbody Bag",
+  "name": {
+    "en-US": "Crossbody Bag"
+  },
   "games": {
     "nh": {
       "sellPrice": {

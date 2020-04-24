@@ -1,6 +1,8 @@
 {
   "id": "concrete-wall",
-  "name": "Concrete Wall",
+  "name": {
+    "en-US": "Concrete Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

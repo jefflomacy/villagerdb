@@ -1,6 +1,8 @@
 {
   "id": "modern-office-chair",
-  "name": "Modern Office Chair",
+  "name": {
+    "en-US": "Modern Office Chair"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

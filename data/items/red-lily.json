@@ -1,6 +1,8 @@
 {
   "id": "red-lily",
-  "name": "Red Lily",
+  "name": {
+    "en-US": "Red Lily"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

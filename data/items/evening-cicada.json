@@ -1,6 +1,8 @@
 {
   "id": "evening-cicada",
-  "name": "Evening Cicada",
+  "name": {
+    "en-US": "Evening Cicada"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

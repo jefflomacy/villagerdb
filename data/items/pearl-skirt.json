@@ -1,6 +1,8 @@
 {
   "id": "pearl-skirt",
-  "name": "Pearl Skirt",
+  "name": {
+    "en-US": "Pearl Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "balloon-floor",
-  "name": "Balloon Floor",
+  "name": {
+    "en-US": "Balloon Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

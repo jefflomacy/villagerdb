@@ -1,6 +1,8 @@
 {
   "id": "strapped-books",
-  "name": "Strapped Books",
+  "name": {
+    "en-US": "Strapped Books"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

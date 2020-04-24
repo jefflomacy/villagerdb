@@ -1,6 +1,8 @@
 {
   "id": "sailor-collar-dress",
-  "name": "Sailor-collar Dress",
+  "name": {
+    "en-US": "Sailor-collar Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

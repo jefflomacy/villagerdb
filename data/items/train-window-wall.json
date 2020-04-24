@@ -1,6 +1,8 @@
 {
   "id": "train-window-wall",
-  "name": "Train-window Wall",
+  "name": {
+    "en-US": "Train-window Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

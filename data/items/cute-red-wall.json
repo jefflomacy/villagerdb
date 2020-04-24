@@ -1,6 +1,8 @@
 {
   "id": "cute-red-wall",
-  "name": "Cute Red Wall",
+  "name": {
+    "en-US": "Cute Red Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

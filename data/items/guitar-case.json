@@ -1,6 +1,8 @@
 {
   "id": "guitar-case",
-  "name": "Guitar Case",
+  "name": {
+    "en-US": "Guitar Case"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

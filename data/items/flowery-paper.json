@@ -1,6 +1,8 @@
 {
   "id": "flowery-paper",
-  "name": "Flowery Paper",
+  "name": {
+    "en-US": "Flowery Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "gallery-floor",
-  "name": "Gallery Floor",
+  "name": {
+    "en-US": "Gallery Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

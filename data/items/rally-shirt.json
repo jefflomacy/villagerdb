@@ -1,6 +1,8 @@
 {
   "id": "rally-shirt",
-  "name": "Rally Shirt",
+  "name": {
+    "en-US": "Rally Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

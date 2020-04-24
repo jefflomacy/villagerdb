@@ -1,6 +1,8 @@
 {
   "id": "tan-dogtooth-dress",
-  "name": "Tan Dogtooth Dress",
+  "name": {
+    "en-US": "Tan Dogtooth Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

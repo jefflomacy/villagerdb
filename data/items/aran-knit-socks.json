@@ -1,6 +1,8 @@
 {
   "id": "aran-knit-socks",
-  "name": "Aran-knit Socks",
+  "name": {
+    "en-US": "Aran-knit Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "cucco-ornament",
-  "name": "Cucco Ornament",
+  "name": {
+    "en-US": "Cucco Ornament"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "madras-plaid-shirt",
-  "name": "Madras Plaid Shirt",
+  "name": {
+    "en-US": "Madras Plaid Shirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

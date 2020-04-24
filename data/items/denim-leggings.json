@@ -1,6 +1,8 @@
 {
   "id": "denim-leggings",
-  "name": "Denim Leggings",
+  "name": {
+    "en-US": "Denim Leggings"
+  },
   "games": {
     "nh": {
       "sellPrice": {

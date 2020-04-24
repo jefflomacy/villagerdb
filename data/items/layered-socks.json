@@ -1,6 +1,8 @@
 {
   "id": "layered-socks",
-  "name": "Layered Socks",
+  "name": {
+    "en-US": "Layered Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

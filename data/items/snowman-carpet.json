@@ -1,6 +1,8 @@
 {
   "id": "snowman-carpet",
-  "name": "Snowman Carpet",
+  "name": {
+    "en-US": "Snowman Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

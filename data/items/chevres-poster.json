@@ -1,6 +1,8 @@
 {
   "id": "chevres-poster",
-  "name": "Chevre's Poster",
+  "name": {
+    "en-US": "Chevre's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

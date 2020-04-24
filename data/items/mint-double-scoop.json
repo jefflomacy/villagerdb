@@ -1,6 +1,8 @@
 {
   "id": "mint-double-scoop",
-  "name": "Mint Double Scoop",
+  "name": {
+    "en-US": "Mint Double Scoop"
+  },
   "category": "Usables",
   "games": {
     "nl": {

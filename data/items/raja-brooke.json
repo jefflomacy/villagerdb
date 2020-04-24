@@ -1,6 +1,8 @@
 {
   "id": "raja-brooke",
-  "name": "Raja Brooke",
+  "name": {
+    "en-US": "Raja Brooke"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

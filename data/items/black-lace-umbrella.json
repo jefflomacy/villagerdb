@@ -1,6 +1,8 @@
 {
   "id": "black-lace-umbrella",
-  "name": "Black Lace Umbrella",
+  "name": {
+    "en-US": "Black Lace Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

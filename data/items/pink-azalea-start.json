@@ -1,6 +1,8 @@
 {
   "id": "pink-azalea-start",
-  "name": "Pink-azalea Start",
+  "name": {
+    "en-US": "Pink-azalea Start"
+  },
   "category": "Trees",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "monster-statue",
-  "name": "Monster Statue",
+  "name": {
+    "en-US": "Monster Statue"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "tool-cart",
-  "name": "Tool Cart",
+  "name": {
+    "en-US": "Tool Cart"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

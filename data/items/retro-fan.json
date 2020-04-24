@@ -1,6 +1,8 @@
 {
   "id": "retro-fan",
-  "name": "Retro Fan",
+  "name": {
+    "en-US": "Retro Fan"
+  },
   "games": {
     "nh": {
       "sellPrice": {

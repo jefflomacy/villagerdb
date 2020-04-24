@@ -1,6 +1,8 @@
 {
   "id": "seaweed",
-  "name": "Seaweed",
+  "name": {
+    "en-US": "Seaweed"
+  },
   "category": "Fish",
   "games": {
     "nl": {

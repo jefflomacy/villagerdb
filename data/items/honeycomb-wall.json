@@ -1,6 +1,8 @@
 {
   "id": "honeycomb-wall",
-  "name": "Honeycomb Wall",
+  "name": {
+    "en-US": "Honeycomb Wall"
+  },
   "games": {
     "nh": {
       "orderable": false,

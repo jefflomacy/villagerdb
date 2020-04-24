@@ -1,6 +1,8 @@
 {
   "id": "gracies-top",
-  "name": "Gracie's Top",
+  "name": {
+    "en-US": "Gracie's Top"
+  },
   "category": "Tops",
   "games": {
     "ac": {

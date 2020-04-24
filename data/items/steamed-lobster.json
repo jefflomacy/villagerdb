@@ -1,6 +1,8 @@
 {
   "id": "steamed-lobster",
-  "name": "Steamed Lobster",
+  "name": {
+    "en-US": "Steamed Lobster"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

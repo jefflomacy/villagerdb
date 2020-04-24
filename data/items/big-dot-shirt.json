@@ -1,6 +1,8 @@
 {
   "id": "big-dot-shirt",
-  "name": "Big Dot Shirt",
+  "name": {
+    "en-US": "Big Dot Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "casual-pants",
-  "name": "Casual Pants",
+  "name": {
+    "en-US": "Casual Pants"
+  },
   "games": {
     "nh": {
       "orderable": true,

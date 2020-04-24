@@ -1,6 +1,8 @@
 {
   "id": "imperial-fence",
-  "name": "Imperial Fence",
+  "name": {
+    "en-US": "Imperial Fence"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "silk-bloom-shirt",
-  "name": "Silk Bloom Shirt",
+  "name": {
+    "en-US": "Silk Bloom Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

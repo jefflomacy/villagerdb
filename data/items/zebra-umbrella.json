@@ -1,6 +1,8 @@
 {
   "id": "zebra-umbrella",
-  "name": "Zebra Umbrella",
+  "name": {
+    "en-US": "Zebra Umbrella"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

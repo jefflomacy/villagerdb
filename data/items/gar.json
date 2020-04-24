@@ -1,6 +1,8 @@
 {
   "id": "gar",
-  "name": "Gar",
+  "name": {
+    "en-US": "Gar"
+  },
   "category": "Fish",
   "games": {
     "nl": {

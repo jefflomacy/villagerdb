@@ -1,6 +1,8 @@
 {
   "id": "goliath-beetle",
-  "name": "Goliath Beetle",
+  "name": {
+    "en-US": "Goliath Beetle"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

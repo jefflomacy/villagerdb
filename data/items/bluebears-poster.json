@@ -1,6 +1,8 @@
 {
   "id": "bluebears-poster",
-  "name": "Bluebear's Poster",
+  "name": {
+    "en-US": "Bluebear's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

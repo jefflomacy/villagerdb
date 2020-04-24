@@ -1,6 +1,8 @@
 {
   "id": "restroom-slippers",
-  "name": "Restroom Slippers",
+  "name": {
+    "en-US": "Restroom Slippers"
+  },
   "games": {
     "nh": {
       "sellPrice": {

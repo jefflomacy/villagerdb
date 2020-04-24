@@ -1,6 +1,8 @@
 {
   "id": "lemon-umbrella",
-  "name": "Lemon Umbrella",
+  "name": {
+    "en-US": "Lemon Umbrella"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

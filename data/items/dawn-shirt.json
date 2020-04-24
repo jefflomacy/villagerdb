@@ -1,6 +1,8 @@
 {
   "id": "dawn-shirt",
-  "name": "Dawn Shirt",
+  "name": {
+    "en-US": "Dawn Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

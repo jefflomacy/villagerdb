@@ -1,6 +1,8 @@
 {
   "id": "cat-grass",
-  "name": "Cat Grass",
+  "name": {
+    "en-US": "Cat Grass"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "sushi-container",
-  "name": "Sushi Container",
+  "name": {
+    "en-US": "Sushi Container"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

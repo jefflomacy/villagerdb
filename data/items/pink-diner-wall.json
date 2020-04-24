@@ -1,6 +1,8 @@
 {
   "id": "pink-diner-wall",
-  "name": "Pink Diner Wall",
+  "name": {
+    "en-US": "Pink Diner Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

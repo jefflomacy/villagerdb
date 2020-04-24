@@ -1,6 +1,8 @@
 {
   "id": "piece-of-heart",
-  "name": "Piece Of Heart",
+  "name": {
+    "en-US": "Piece Of Heart"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

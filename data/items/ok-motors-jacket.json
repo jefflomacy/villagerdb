@@ -1,6 +1,8 @@
 {
   "id": "ok-motors-jacket",
-  "name": "Ok Motors Jacket",
+  "name": {
+    "en-US": "Ok Motors Jacket"
+  },
   "games": {
     "nh": {
       "sellPrice": {

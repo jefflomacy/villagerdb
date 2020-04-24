@@ -1,6 +1,8 @@
 {
   "id": "daisy-shirt",
-  "name": "Daisy Shirt",
+  "name": {
+    "en-US": "Daisy Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

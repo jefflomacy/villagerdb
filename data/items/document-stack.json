@@ -1,6 +1,8 @@
 {
   "id": "document-stack",
-  "name": "Document Stack",
+  "name": {
+    "en-US": "Document Stack"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

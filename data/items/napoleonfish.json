@@ -1,6 +1,8 @@
 {
   "id": "napoleonfish",
-  "name": "Napoleonfish",
+  "name": {
+    "en-US": "Napoleonfish"
+  },
   "category": "Fish",
   "games": {
     "nl": {

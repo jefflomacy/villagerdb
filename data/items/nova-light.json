@@ -1,6 +1,8 @@
 {
   "id": "nova-light",
-  "name": "Nova Light",
+  "name": {
+    "en-US": "Nova Light"
+  },
   "games": {
     "nh": {
       "sellPrice": {

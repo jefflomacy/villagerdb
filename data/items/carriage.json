@@ -1,6 +1,8 @@
 {
   "id": "carriage",
-  "name": "Carriage",
+  "name": {
+    "en-US": "Carriage"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

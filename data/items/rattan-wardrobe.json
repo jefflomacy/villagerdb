@@ -1,6 +1,8 @@
 {
   "id": "rattan-wardrobe",
-  "name": "Rattan Wardrobe",
+  "name": {
+    "en-US": "Rattan Wardrobe"
+  },
   "games": {
     "nh": {
       "orderable": true,

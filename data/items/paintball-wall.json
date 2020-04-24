@@ -1,6 +1,8 @@
 {
   "id": "paintball-wall",
-  "name": "Paintball Wall",
+  "name": {
+    "en-US": "Paintball Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

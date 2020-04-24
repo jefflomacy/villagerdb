@@ -1,6 +1,8 @@
 {
   "id": "danger-tank",
-  "name": "Danger Tank",
+  "name": {
+    "en-US": "Danger Tank"
+  },
   "games": {
     "nh": {
       "sellPrice": {

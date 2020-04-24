@@ -1,6 +1,8 @@
 {
   "id": "diner-apron",
-  "name": "Diner Apron",
+  "name": {
+    "en-US": "Diner Apron"
+  },
   "games": {
     "nh": {
       "sellPrice": {

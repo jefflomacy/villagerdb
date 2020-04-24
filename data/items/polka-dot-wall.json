@@ -1,6 +1,8 @@
 {
   "id": "polka-dot-wall",
-  "name": "Polka-dot Wall",
+  "name": {
+    "en-US": "Polka-dot Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

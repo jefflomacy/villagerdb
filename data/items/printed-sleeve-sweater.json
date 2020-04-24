@@ -1,6 +1,8 @@
 {
   "id": "printed-sleeve-sweater",
-  "name": "Printed-sleeve Sweater",
+  "name": {
+    "en-US": "Printed-sleeve Sweater"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "phoebes-poster",
-  "name": "Phoebe's Poster",
+  "name": {
+    "en-US": "Phoebe's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

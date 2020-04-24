@@ -1,6 +1,8 @@
 {
   "id": "cowrie",
-  "name": "Cowrie",
+  "name": {
+    "en-US": "Cowrie"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "m-sunset-moth-model",
-  "name": "M. Sunset Moth Model",
+  "name": {
+    "en-US": "M. Sunset Moth Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

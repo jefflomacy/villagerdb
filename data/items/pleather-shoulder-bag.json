@@ -1,6 +1,8 @@
 {
   "id": "pleather-shoulder-bag",
-  "name": "Pleather Shoulder Bag",
+  "name": {
+    "en-US": "Pleather Shoulder Bag"
+  },
   "games": {
     "nh": {
       "sellPrice": {

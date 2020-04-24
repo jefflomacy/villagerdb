@@ -1,6 +1,8 @@
 {
   "id": "mega-oboid",
-  "name": "Mega Oboid",
+  "name": {
+    "en-US": "Mega Oboid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "shell-partition",
-  "name": "Shell Partition",
+  "name": {
+    "en-US": "Shell Partition"
+  },
   "games": {
     "nh": {
       "orderable": false,

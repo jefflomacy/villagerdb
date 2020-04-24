@@ -1,6 +1,8 @@
 {
   "id": "nook-inc-socks",
-  "name": "Nook Inc. Socks",
+  "name": {
+    "en-US": "Nook Inc. Socks"
+  },
   "games": {
     "nh": {
       "orderable": true,

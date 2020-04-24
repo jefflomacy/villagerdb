@@ -1,6 +1,8 @@
 {
   "id": "white-tile-floor",
-  "name": "White Tile Floor",
+  "name": {
+    "en-US": "White Tile Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

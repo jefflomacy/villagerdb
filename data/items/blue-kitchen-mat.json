@@ -1,6 +1,8 @@
 {
   "id": "blue-kitchen-mat",
-  "name": "Blue Kitchen Mat",
+  "name": {
+    "en-US": "Blue Kitchen Mat"
+  },
   "games": {
     "nh": {
       "orderable": true,

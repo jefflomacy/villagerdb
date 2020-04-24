@@ -1,6 +1,8 @@
 {
   "id": "plaid-print-dress",
-  "name": "Plaid-print Dress",
+  "name": {
+    "en-US": "Plaid-print Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

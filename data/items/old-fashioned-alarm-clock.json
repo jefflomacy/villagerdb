@@ -1,6 +1,8 @@
 {
   "id": "old-fashioned-alarm-clock",
-  "name": "Old-fashioned Alarm Clock",
+  "name": {
+    "en-US": "Old-fashioned Alarm Clock"
+  },
   "games": {
     "nh": {
       "sellPrice": {

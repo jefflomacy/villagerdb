@@ -1,6 +1,8 @@
 {
   "id": "snootys-poster",
-  "name": "Snooty's Poster",
+  "name": {
+    "en-US": "Snooty's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

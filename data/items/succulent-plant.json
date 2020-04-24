@@ -1,6 +1,8 @@
 {
   "id": "succulent-plant",
-  "name": "Succulent Plant",
+  "name": {
+    "en-US": "Succulent Plant"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

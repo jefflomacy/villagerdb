@@ -1,6 +1,8 @@
 {
   "id": "paisley-bandanna",
-  "name": "Paisley Bandanna",
+  "name": {
+    "en-US": "Paisley Bandanna"
+  },
   "games": {
     "nh": {
       "orderable": true,

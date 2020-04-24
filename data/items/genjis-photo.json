@@ -1,6 +1,8 @@
 {
   "id": "genjis-photo",
-  "name": "Genji's Photo",
+  "name": {
+    "en-US": "Genji's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

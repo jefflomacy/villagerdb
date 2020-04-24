@@ -1,6 +1,8 @@
 {
   "id": "snappy-print",
-  "name": "Snappy Print",
+  "name": {
+    "en-US": "Snappy Print"
+  },
   "category": "Tops",
   "games": {
     "ac": {

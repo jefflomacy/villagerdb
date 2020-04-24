@@ -1,6 +1,8 @@
 {
   "id": "ice-wand",
-  "name": "Ice Wand",
+  "name": {
+    "en-US": "Ice Wand"
+  },
   "games": {
     "nh": {
       "orderable": false,

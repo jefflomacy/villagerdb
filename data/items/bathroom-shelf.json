@@ -1,6 +1,8 @@
 {
   "id": "bathroom-shelf",
-  "name": "Bathroom Shelf",
+  "name": {
+    "en-US": "Bathroom Shelf"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

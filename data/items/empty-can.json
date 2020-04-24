@@ -1,6 +1,8 @@
 {
   "id": "empty-can",
-  "name": "Empty Can",
+  "name": {
+    "en-US": "Empty Can"
+  },
   "category": "Usables",
   "games": {
     "nl": {

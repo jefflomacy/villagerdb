@@ -1,6 +1,8 @@
 {
   "id": "fancy-display-stand",
-  "name": "Fancy Display Stand",
+  "name": {
+    "en-US": "Fancy Display Stand"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

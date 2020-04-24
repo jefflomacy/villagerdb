@@ -1,6 +1,8 @@
 {
   "id": "ufo",
-  "name": "UFO",
+  "name": {
+    "en-US": "UFO"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

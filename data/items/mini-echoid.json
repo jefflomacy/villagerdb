@@ -1,6 +1,8 @@
 {
   "id": "mini-echoid",
-  "name": "Mini Echoid",
+  "name": {
+    "en-US": "Mini Echoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

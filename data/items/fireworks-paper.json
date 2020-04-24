@@ -1,6 +1,8 @@
 {
   "id": "fireworks-paper",
-  "name": "Fireworks Paper",
+  "name": {
+    "en-US": "Fireworks Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

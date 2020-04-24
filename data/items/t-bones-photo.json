@@ -1,6 +1,8 @@
 {
   "id": "t-bones-photo",
-  "name": "T-bone's Photo",
+  "name": {
+    "en-US": "T-bone's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

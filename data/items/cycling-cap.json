@@ -1,6 +1,8 @@
 {
   "id": "cycling-cap",
-  "name": "Cycling Cap",
+  "name": {
+    "en-US": "Cycling Cap"
+  },
   "games": {
     "nh": {
       "orderable": true,

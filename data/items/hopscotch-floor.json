@@ -1,6 +1,8 @@
 {
   "id": "hopscotch-floor",
-  "name": "Hopscotch Floor",
+  "name": {
+    "en-US": "Hopscotch Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

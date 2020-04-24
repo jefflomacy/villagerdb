@@ -1,6 +1,8 @@
 {
   "id": "embroidered-shoes",
-  "name": "Embroidered Shoes",
+  "name": {
+    "en-US": "Embroidered Shoes"
+  },
   "games": {
     "nh": {
       "sellPrice": {

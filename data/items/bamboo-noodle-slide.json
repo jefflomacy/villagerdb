@@ -1,6 +1,8 @@
 {
   "id": "bamboo-noodle-slide",
-  "name": "Bamboo Noodle Slide",
+  "name": {
+    "en-US": "Bamboo Noodle Slide"
+  },
   "games": {
     "nh": {
       "orderable": false,

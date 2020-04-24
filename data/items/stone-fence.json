@@ -1,6 +1,8 @@
 {
   "id": "stone-fence",
-  "name": "Stone Fence",
+  "name": {
+    "en-US": "Stone Fence"
+  },
   "games": {
     "nh": {
       "orderable": false,

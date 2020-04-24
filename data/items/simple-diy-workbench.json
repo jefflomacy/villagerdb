@@ -1,6 +1,8 @@
 {
   "id": "simple-diy-workbench",
-  "name": "Simple DIY Workbench",
+  "name": {
+    "en-US": "Simple DIY Workbench"
+  },
   "games": {
     "nh": {
       "orderable": false,

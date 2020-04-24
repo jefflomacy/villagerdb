@@ -1,6 +1,8 @@
 {
   "id": "frozen-pillar",
-  "name": "Frozen Pillar",
+  "name": {
+    "en-US": "Frozen Pillar"
+  },
   "games": {
     "nh": {
       "sellPrice": {

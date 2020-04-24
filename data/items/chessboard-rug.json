@@ -1,6 +1,8 @@
 {
   "id": "chessboard-rug",
-  "name": "Chessboard Rug",
+  "name": {
+    "en-US": "Chessboard Rug"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

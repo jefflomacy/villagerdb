@@ -1,6 +1,8 @@
 {
   "id": "stretch-leggings",
-  "name": "Stretch Leggings",
+  "name": {
+    "en-US": "Stretch Leggings"
+  },
   "games": {
     "nh": {
       "sellPrice": {

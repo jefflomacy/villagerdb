@@ -1,6 +1,8 @@
 {
   "id": "denim-cutoffs",
-  "name": "Denim Cutoffs",
+  "name": {
+    "en-US": "Denim Cutoffs"
+  },
   "games": {
     "nh": {
       "orderable": true,

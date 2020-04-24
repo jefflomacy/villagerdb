@@ -1,6 +1,8 @@
 {
   "id": "giraffe-print-flooring",
-  "name": "Giraffe-print Flooring",
+  "name": {
+    "en-US": "Giraffe-print Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

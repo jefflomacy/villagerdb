@@ -1,6 +1,8 @@
 {
   "id": "modern-shoji-screen-wall",
-  "name": "Modern Shoji-screen Wall",
+  "name": {
+    "en-US": "Modern Shoji-screen Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "tent-wall",
-  "name": "Tent Wall",
+  "name": {
+    "en-US": "Tent Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

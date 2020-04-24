@@ -1,6 +1,8 @@
 {
   "id": "terra-cotta-floor",
-  "name": "Terra-cotta Floor",
+  "name": {
+    "en-US": "Terra-cotta Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

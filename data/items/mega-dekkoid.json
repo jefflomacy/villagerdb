@@ -1,6 +1,8 @@
 {
   "id": "mega-dekkoid",
-  "name": "Mega Dekkoid",
+  "name": {
+    "en-US": "Mega Dekkoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

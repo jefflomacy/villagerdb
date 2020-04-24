@@ -1,6 +1,8 @@
 {
   "id": "mega-dinkoid",
-  "name": "Mega Dinkoid",
+  "name": {
+    "en-US": "Mega Dinkoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

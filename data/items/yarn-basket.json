@@ -1,6 +1,8 @@
 {
   "id": "yarn-basket",
-  "name": "Yarn Basket",
+  "name": {
+    "en-US": "Yarn Basket"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

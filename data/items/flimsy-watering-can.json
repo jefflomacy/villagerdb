@@ -1,6 +1,8 @@
 {
   "id": "flimsy-watering-can",
-  "name": "Flimsy Watering Can",
+  "name": {
+    "en-US": "Flimsy Watering Can"
+  },
   "category": "Tools",
   "games": {
     "nh": {

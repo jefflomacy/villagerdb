@@ -1,6 +1,8 @@
 {
   "id": "log-round-table",
-  "name": "Log Round Table",
+  "name": {
+    "en-US": "Log Round Table"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "stack-of-clothes",
-  "name": "Stack Of Clothes",
+  "name": {
+    "en-US": "Stack Of Clothes"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

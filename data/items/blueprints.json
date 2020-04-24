@@ -1,6 +1,8 @@
 {
   "id": "blueprints",
-  "name": "Blueprints",
+  "name": {
+    "en-US": "Blueprints"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

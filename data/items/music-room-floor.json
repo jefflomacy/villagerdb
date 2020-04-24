@@ -1,6 +1,8 @@
 {
   "id": "music-room-floor",
-  "name": "Music-room Floor",
+  "name": {
+    "en-US": "Music-room Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

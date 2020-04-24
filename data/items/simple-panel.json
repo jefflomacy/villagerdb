@@ -1,6 +1,8 @@
 {
   "id": "simple-panel",
-  "name": "Simple Panel",
+  "name": {
+    "en-US": "Simple Panel"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

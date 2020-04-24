@@ -1,6 +1,8 @@
 {
   "id": "marshals-poster",
-  "name": "Marshal's Poster",
+  "name": {
+    "en-US": "Marshal's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

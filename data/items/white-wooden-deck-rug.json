@@ -1,6 +1,8 @@
 {
   "id": "white-wooden-deck-rug",
-  "name": "White Wooden-deck Rug",
+  "name": {
+    "en-US": "White Wooden-deck Rug"
+  },
   "games": {
     "nh": {
       "orderable": true,

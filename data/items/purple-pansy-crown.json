@@ -1,6 +1,8 @@
 {
   "id": "purple-pansy-crown",
-  "name": "Purple Pansy Crown",
+  "name": {
+    "en-US": "Purple Pansy Crown"
+  },
   "games": {
     "nh": {
       "sellPrice": {

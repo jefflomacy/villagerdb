@@ -1,6 +1,8 @@
 {
   "id": "cherry-blossom-pochette",
-  "name": "Cherry-blossom Pochette",
+  "name": {
+    "en-US": "Cherry-blossom Pochette"
+  },
   "games": {
     "nh": {
       "orderable": false,

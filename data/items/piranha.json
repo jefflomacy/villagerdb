@@ -1,6 +1,8 @@
 {
   "id": "piranha",
-  "name": "Piranha",
+  "name": {
+    "en-US": "Piranha"
+  },
   "category": "Fish",
   "games": {
     "nl": {

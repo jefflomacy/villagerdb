@@ -1,6 +1,8 @@
 {
   "id": "metal-flagpole",
-  "name": "Metal Flagpole",
+  "name": {
+    "en-US": "Metal Flagpole"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

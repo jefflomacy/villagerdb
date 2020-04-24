@@ -1,6 +1,8 @@
 {
   "id": "cedar-sapling",
-  "name": "Cedar Sapling",
+  "name": {
+    "en-US": "Cedar Sapling"
+  },
   "category": "Usables",
   "games": {
     "nl": {

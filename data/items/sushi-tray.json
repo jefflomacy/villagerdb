@@ -1,6 +1,8 @@
 {
   "id": "sushi-tray",
-  "name": "Sushi Tray",
+  "name": {
+    "en-US": "Sushi Tray"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "purple-tie-dye",
-  "name": "Purple Tie-Dye",
+  "name": {
+    "en-US": "Purple Tie-Dye"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "rose-crown",
-  "name": "Rose Crown",
+  "name": {
+    "en-US": "Rose Crown"
+  },
   "games": {
     "nh": {
       "orderable": false,

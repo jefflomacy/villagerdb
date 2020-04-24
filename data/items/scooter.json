@@ -1,6 +1,8 @@
 {
   "id": "scooter",
-  "name": "Scooter",
+  "name": {
+    "en-US": "Scooter"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "yellow-argyle-rug",
-  "name": "Yellow Argyle Rug",
+  "name": {
+    "en-US": "Yellow Argyle Rug"
+  },
   "games": {
     "nh": {
       "sellPrice": {

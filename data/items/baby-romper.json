@@ -1,6 +1,8 @@
 {
   "id": "baby-romper",
-  "name": "Baby Romper",
+  "name": {
+    "en-US": "Baby Romper"
+  },
   "games": {
     "nh": {
       "sellPrice": {

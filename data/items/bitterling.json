@@ -1,6 +1,8 @@
 {
   "id": "bitterling",
-  "name": "Bitterling",
+  "name": {
+    "en-US": "Bitterling"
+  },
   "category": "Fish",
   "games": {
     "nl": {

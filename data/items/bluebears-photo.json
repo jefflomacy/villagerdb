@@ -1,6 +1,8 @@
 {
   "id": "bluebears-photo",
-  "name": "Bluebear's Photo",
+  "name": {
+    "en-US": "Bluebear's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "plaster-wall",
-  "name": "Plaster Wall",
+  "name": {
+    "en-US": "Plaster Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "orange-molded-panel-wall",
-  "name": "Orange Molded-panel Wall",
+  "name": {
+    "en-US": "Orange Molded-panel Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

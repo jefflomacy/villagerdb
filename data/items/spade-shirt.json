@@ -1,6 +1,8 @@
 {
   "id": "spade-shirt",
-  "name": "Spade Shirt",
+  "name": {
+    "en-US": "Spade Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

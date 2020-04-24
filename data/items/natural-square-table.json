@@ -1,6 +1,8 @@
 {
   "id": "natural-square-table",
-  "name": "Natural Square Table",
+  "name": {
+    "en-US": "Natural Square Table"
+  },
   "games": {
     "nh": {
       "customizable": true,

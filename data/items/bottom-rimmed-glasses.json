@@ -1,6 +1,8 @@
 {
   "id": "bottom-rimmed-glasses",
-  "name": "Bottom-rimmed Glasses",
+  "name": {
+    "en-US": "Bottom-rimmed Glasses"
+  },
   "games": {
     "nh": {
       "sellPrice": {

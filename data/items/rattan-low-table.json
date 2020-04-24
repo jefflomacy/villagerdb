@@ -1,6 +1,8 @@
 {
   "id": "rattan-low-table",
-  "name": "Rattan Low Table",
+  "name": {
+    "en-US": "Rattan Low Table"
+  },
   "games": {
     "nh": {
       "sellPrice": {

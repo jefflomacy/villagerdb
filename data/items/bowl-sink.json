@@ -1,6 +1,8 @@
 {
   "id": "bowl-sink",
-  "name": "Bowl Sink",
+  "name": {
+    "en-US": "Bowl Sink"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

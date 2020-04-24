@@ -1,6 +1,8 @@
 {
   "id": "log-staircase",
-  "name": "Log Staircase",
+  "name": {
+    "en-US": "Log Staircase"
+  },
   "games": {
     "nh": {
       "buyPrices": [

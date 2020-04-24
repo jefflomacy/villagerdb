@@ -1,6 +1,8 @@
 {
   "id": "kiki-and-lala-socks",
-  "name": "Kiki And Lala Socks",
+  "name": {
+    "en-US": "Kiki And Lala Socks"
+  },
   "category": "Socks",
   "games": {
     "nl": {

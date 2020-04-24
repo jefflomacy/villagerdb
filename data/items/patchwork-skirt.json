@@ -1,6 +1,8 @@
 {
   "id": "patchwork-skirt",
-  "name": "Patchwork Skirt",
+  "name": {
+    "en-US": "Patchwork Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "darner-dragonfly",
-  "name": "Darner Dragonfly",
+  "name": {
+    "en-US": "Darner Dragonfly"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

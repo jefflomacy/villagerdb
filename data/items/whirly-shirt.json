@@ -1,6 +1,8 @@
 {
   "id": "whirly-shirt",
-  "name": "Whirly Shirt",
+  "name": {
+    "en-US": "Whirly Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

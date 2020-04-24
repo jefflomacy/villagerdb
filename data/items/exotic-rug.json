@@ -1,6 +1,8 @@
 {
   "id": "exotic-rug",
-  "name": "Exotic Rug",
+  "name": {
+    "en-US": "Exotic Rug"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

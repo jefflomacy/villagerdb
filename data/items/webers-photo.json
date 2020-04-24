@@ -1,6 +1,8 @@
 {
   "id": "webers-photo",
-  "name": "Weber's Photo",
+  "name": {
+    "en-US": "Weber's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "ancient-tile",
-  "name": "Ancient Tile",
+  "name": {
+    "en-US": "Ancient Tile"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

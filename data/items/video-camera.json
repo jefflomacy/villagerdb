@@ -1,6 +1,8 @@
 {
   "id": "video-camera",
-  "name": "Video Camera",
+  "name": {
+    "en-US": "Video Camera"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

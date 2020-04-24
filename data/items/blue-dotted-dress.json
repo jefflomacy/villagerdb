@@ -1,6 +1,8 @@
 {
   "id": "blue-dotted-dress",
-  "name": "Blue Dotted Dress",
+  "name": {
+    "en-US": "Blue Dotted Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

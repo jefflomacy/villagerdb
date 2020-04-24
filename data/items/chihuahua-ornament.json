@@ -1,6 +1,8 @@
 {
   "id": "chihuahua-ornament",
-  "name": "Chihuahua Ornament",
+  "name": {
+    "en-US": "Chihuahua Ornament"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

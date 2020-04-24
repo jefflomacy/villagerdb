@@ -1,6 +1,8 @@
 {
   "id": "leilanis-poster",
-  "name": "Leilani's Poster",
+  "name": {
+    "en-US": "Leilani's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

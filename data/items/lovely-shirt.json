@@ -1,6 +1,8 @@
 {
   "id": "lovely-shirt",
-  "name": "Lovely Shirt",
+  "name": {
+    "en-US": "Lovely Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

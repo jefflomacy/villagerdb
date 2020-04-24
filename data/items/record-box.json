@@ -1,6 +1,8 @@
 {
   "id": "record-box",
-  "name": "Record Box",
+  "name": {
+    "en-US": "Record Box"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

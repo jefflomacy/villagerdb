@@ -1,6 +1,8 @@
 {
   "id": "crucian-carp",
-  "name": "Crucian Carp",
+  "name": {
+    "en-US": "Crucian Carp"
+  },
   "category": "Fish",
   "games": {
     "nl": {

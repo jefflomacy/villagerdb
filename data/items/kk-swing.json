@@ -1,6 +1,8 @@
 {
   "id": "kk-swing",
-  "name": "K.K. Swing",
+  "name": {
+    "en-US": "K.K. Swing"
+  },
   "category": "Music",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "hippie-shirt",
-  "name": "Hippie Shirt",
+  "name": {
+    "en-US": "Hippie Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

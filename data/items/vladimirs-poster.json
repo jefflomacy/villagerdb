@@ -1,6 +1,8 @@
 {
   "id": "vladimirs-poster",
-  "name": "Vladimir's Poster",
+  "name": {
+    "en-US": "Vladimir's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "fetching-outfit",
-  "name": "Fetching Outfit",
+  "name": {
+    "en-US": "Fetching Outfit"
+  },
   "category": "Tops",
   "games": {
     "ac": {

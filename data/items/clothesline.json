@@ -1,6 +1,8 @@
 {
   "id": "clothesline",
-  "name": "Clothesline",
+  "name": {
+    "en-US": "Clothesline"
+  },
   "category": "Furniture",
   "games": {
     "nh": {

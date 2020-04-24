@@ -1,6 +1,8 @@
 {
   "id": "formal-shorts",
-  "name": "Formal Shorts",
+  "name": {
+    "en-US": "Formal Shorts"
+  },
   "games": {
     "nh": {
       "sellPrice": {

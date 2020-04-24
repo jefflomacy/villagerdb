@@ -1,6 +1,8 @@
 {
   "id": "floor-seat",
-  "name": "Floor Seat",
+  "name": {
+    "en-US": "Floor Seat"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

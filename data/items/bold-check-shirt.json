@@ -1,6 +1,8 @@
 {
   "id": "bold-check-shirt",
-  "name": "Bold Check Shirt",
+  "name": {
+    "en-US": "Bold Check Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

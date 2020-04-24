@@ -1,6 +1,8 @@
 {
   "id": "salon-mirror-stand",
-  "name": "Salon Mirror Stand",
+  "name": {
+    "en-US": "Salon Mirror Stand"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

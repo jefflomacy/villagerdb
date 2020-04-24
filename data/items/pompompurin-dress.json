@@ -1,6 +1,8 @@
 {
   "id": "pompompurin-dress",
-  "name": "Pompompurin Dress",
+  "name": {
+    "en-US": "Pompompurin Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

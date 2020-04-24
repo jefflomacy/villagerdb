@@ -1,6 +1,8 @@
 {
   "id": "crater-paper",
-  "name": "Crater Paper",
+  "name": {
+    "en-US": "Crater Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

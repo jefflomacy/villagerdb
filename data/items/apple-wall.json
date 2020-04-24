@@ -1,6 +1,8 @@
 {
   "id": "apple-wall",
-  "name": "Apple Wall",
+  "name": {
+    "en-US": "Apple Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

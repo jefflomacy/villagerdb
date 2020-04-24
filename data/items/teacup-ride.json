@@ -1,6 +1,8 @@
 {
   "id": "teacup-ride",
-  "name": "Teacup Ride",
+  "name": {
+    "en-US": "Teacup Ride"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

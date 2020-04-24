@@ -1,6 +1,8 @@
 {
   "id": "orange-retro-dress",
-  "name": "Orange Retro Dress",
+  "name": {
+    "en-US": "Orange Retro Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

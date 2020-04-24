@@ -1,6 +1,8 @@
 {
   "id": "venus-comb-shell",
-  "name": "Venus-comb Shell",
+  "name": {
+    "en-US": "Venus-comb Shell"
+  },
   "category": "Seashells",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "boxing-ring-mat",
-  "name": "Boxing-ring Mat",
+  "name": {
+    "en-US": "Boxing-ring Mat"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "koi-model",
-  "name": "Koi Model",
+  "name": {
+    "en-US": "Koi Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

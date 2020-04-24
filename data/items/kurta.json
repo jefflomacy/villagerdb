@@ -1,6 +1,8 @@
 {
   "id": "kurta",
-  "name": "Kurta",
+  "name": {
+    "en-US": "Kurta"
+  },
   "games": {
     "nh": {
       "sellPrice": {

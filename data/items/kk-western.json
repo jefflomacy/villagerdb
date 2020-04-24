@@ -1,6 +1,8 @@
 {
   "id": "kk-western",
-  "name": "K.K. Western",
+  "name": {
+    "en-US": "K.K. Western"
+  },
   "category": "Music",
   "games": {
     "nl": {

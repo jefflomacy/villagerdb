@@ -1,6 +1,8 @@
 {
   "id": "cheese-floor",
-  "name": "Cheese Floor",
+  "name": {
+    "en-US": "Cheese Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

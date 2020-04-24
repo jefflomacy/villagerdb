@@ -1,6 +1,8 @@
 {
   "id": "flower-wreath",
-  "name": "Flower Wreath",
+  "name": {
+    "en-US": "Flower Wreath"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

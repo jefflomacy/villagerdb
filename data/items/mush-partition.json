@@ -1,6 +1,8 @@
 {
   "id": "mush-partition",
-  "name": "Mush Partition",
+  "name": {
+    "en-US": "Mush Partition"
+  },
   "games": {
     "nh": {
       "sellPrice": {

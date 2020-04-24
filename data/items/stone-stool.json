@@ -1,6 +1,8 @@
 {
   "id": "stone-stool",
-  "name": "Stone Stool",
+  "name": {
+    "en-US": "Stone Stool"
+  },
   "category": "Furniture",
   "games": {
     "nh": {

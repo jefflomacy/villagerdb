@@ -1,6 +1,8 @@
 {
   "id": "mega-puffoid",
-  "name": "Mega Puffoid",
+  "name": {
+    "en-US": "Mega Puffoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

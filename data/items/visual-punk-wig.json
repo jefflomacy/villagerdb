@@ -1,6 +1,8 @@
 {
   "id": "visual-punk-wig",
-  "name": "Visual-punk Wig",
+  "name": {
+    "en-US": "Visual-punk Wig"
+  },
   "games": {
     "nh": {
       "sellPrice": {

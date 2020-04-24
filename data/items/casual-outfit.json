@@ -1,6 +1,8 @@
 {
   "id": "casual-outfit",
-  "name": "Casual Outfit",
+  "name": {
+    "en-US": "Casual Outfit"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

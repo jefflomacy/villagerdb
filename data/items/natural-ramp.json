@@ -1,6 +1,8 @@
 {
   "id": "natural-ramp",
-  "name": "Natural Ramp",
+  "name": {
+    "en-US": "Natural Ramp"
+  },
   "games": {
     "nh": {
       "buyPrices": [

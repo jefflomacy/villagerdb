@@ -1,6 +1,8 @@
 {
   "id": "boot",
-  "name": "Boot",
+  "name": {
+    "en-US": "Boot"
+  },
   "category": "Usables",
   "games": {
     "nl": {

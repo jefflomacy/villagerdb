@@ -1,6 +1,8 @@
 {
   "id": "natural-table",
-  "name": "Natural Table",
+  "name": {
+    "en-US": "Natural Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

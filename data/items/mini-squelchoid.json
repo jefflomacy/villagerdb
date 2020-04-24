@@ -1,6 +1,8 @@
 {
   "id": "mini-squelchoid",
-  "name": "Mini Squelchoid",
+  "name": {
+    "en-US": "Mini Squelchoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

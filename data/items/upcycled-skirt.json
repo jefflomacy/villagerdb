@@ -1,6 +1,8 @@
 {
   "id": "upcycled-skirt",
-  "name": "Upcycled Skirt",
+  "name": {
+    "en-US": "Upcycled Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

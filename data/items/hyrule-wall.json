@@ -1,6 +1,8 @@
 {
   "id": "hyrule-wall",
-  "name": "Hyrule Wall",
+  "name": {
+    "en-US": "Hyrule Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

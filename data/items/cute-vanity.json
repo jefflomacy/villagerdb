@@ -1,6 +1,8 @@
 {
   "id": "cute-vanity",
-  "name": "Cute Vanity",
+  "name": {
+    "en-US": "Cute Vanity"
+  },
   "games": {
     "nh": {
       "orderable": true,

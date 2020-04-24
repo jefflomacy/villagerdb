@@ -1,6 +1,8 @@
 {
   "id": "snapping-turtle",
-  "name": "Snapping Turtle",
+  "name": {
+    "en-US": "Snapping Turtle"
+  },
   "games": {
     "nh": {
       "orderable": false,

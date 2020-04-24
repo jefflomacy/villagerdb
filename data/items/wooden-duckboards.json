@@ -1,6 +1,8 @@
 {
   "id": "wooden-duckboards",
-  "name": "Wooden Duckboards",
+  "name": {
+    "en-US": "Wooden Duckboards"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

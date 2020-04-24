@@ -1,6 +1,8 @@
 {
   "id": "golden-can",
-  "name": "Golden Can",
+  "name": {
+    "en-US": "Golden Can"
+  },
   "category": "Tools",
   "games": {
     "nl": {

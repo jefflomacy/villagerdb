@@ -1,6 +1,8 @@
 {
   "id": "crop-circles-flooring",
-  "name": "Crop-circles Flooring",
+  "name": {
+    "en-US": "Crop-circles Flooring"
+  },
   "games": {
     "nh": {
       "orderable": false,

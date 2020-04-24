@@ -1,6 +1,8 @@
 {
   "id": "kk-casbah",
-  "name": "K.K. Casbah",
+  "name": {
+    "en-US": "K.K. Casbah"
+  },
   "category": "Music",
   "games": {
     "nl": {

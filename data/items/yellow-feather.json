@@ -1,6 +1,8 @@
 {
   "id": "yellow-feather",
-  "name": "Yellow Feather",
+  "name": {
+    "en-US": "Yellow Feather"
+  },
   "category": "Hats",
   "games": {
     "nl": {

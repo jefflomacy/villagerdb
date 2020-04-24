@@ -1,6 +1,8 @@
 {
   "id": "jewel-beetle-model",
-  "name": "Jewel Beetle Model",
+  "name": {
+    "en-US": "Jewel Beetle Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

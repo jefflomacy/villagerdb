@@ -1,6 +1,8 @@
 {
   "id": "extra-large-backpack",
-  "name": "Extra-large Backpack",
+  "name": {
+    "en-US": "Extra-large Backpack"
+  },
   "games": {
     "nh": {
       "sellPrice": {

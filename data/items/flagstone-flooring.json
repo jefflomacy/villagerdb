@@ -1,6 +1,8 @@
 {
   "id": "flagstone-flooring",
-  "name": "Flagstone Flooring",
+  "name": {
+    "en-US": "Flagstone Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

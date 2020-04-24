@@ -1,6 +1,8 @@
 {
   "id": "red-riding-dress",
-  "name": "Red Riding Dress",
+  "name": {
+    "en-US": "Red Riding Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

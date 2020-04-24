@@ -1,6 +1,8 @@
 {
   "id": "whole-pizza",
-  "name": "Whole Pizza",
+  "name": {
+    "en-US": "Whole Pizza"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

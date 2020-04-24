@@ -1,6 +1,8 @@
 {
   "id": "plaza-tile",
-  "name": "Plaza Tile",
+  "name": {
+    "en-US": "Plaza Tile"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

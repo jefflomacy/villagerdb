@@ -1,6 +1,8 @@
 {
   "id": "pompompurin-chair",
-  "name": "Pompompurin Chair",
+  "name": {
+    "en-US": "Pompompurin Chair"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "bunny-c-balloon",
-  "name": "Bunny C. Balloon",
+  "name": {
+    "en-US": "Bunny C. Balloon"
+  },
   "category": "Balloons",
   "games": {
     "nl": {

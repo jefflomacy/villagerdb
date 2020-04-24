@@ -1,6 +1,8 @@
 {
   "id": "reneighs-poster",
-  "name": "Reneigh's Poster",
+  "name": {
+    "en-US": "Reneigh's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

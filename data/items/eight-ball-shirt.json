@@ -1,6 +1,8 @@
 {
   "id": "eight-ball-shirt",
-  "name": "Eight-Ball Shirt",
+  "name": {
+    "en-US": "Eight-Ball Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

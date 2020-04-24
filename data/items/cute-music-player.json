@@ -1,6 +1,8 @@
 {
   "id": "cute-music-player",
-  "name": "Cute Music Player",
+  "name": {
+    "en-US": "Cute Music Player"
+  },
   "games": {
     "nh": {
       "orderable": true,

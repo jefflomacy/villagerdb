@@ -1,6 +1,8 @@
 {
   "id": "stone-table",
-  "name": "Stone Table",
+  "name": {
+    "en-US": "Stone Table"
+  },
   "games": {
     "nh": {
       "orderable": false,

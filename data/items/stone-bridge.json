@@ -1,6 +1,8 @@
 {
   "id": "stone-bridge",
-  "name": "Stone Bridge",
+  "name": {
+    "en-US": "Stone Bridge"
+  },
   "games": {
     "nh": {
       "buyPrices": [

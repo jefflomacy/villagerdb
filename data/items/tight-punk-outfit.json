@@ -1,6 +1,8 @@
 {
   "id": "tight-punk-outfit",
-  "name": "Tight Punk Outfit",
+  "name": {
+    "en-US": "Tight Punk Outfit"
+  },
   "games": {
     "nh": {
       "sellPrice": {

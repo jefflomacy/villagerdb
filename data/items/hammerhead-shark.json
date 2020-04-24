@@ -1,6 +1,8 @@
 {
   "id": "hammerhead-shark",
-  "name": "Hammerhead Shark",
+  "name": {
+    "en-US": "Hammerhead Shark"
+  },
   "category": "Fish",
   "games": {
     "nl": {

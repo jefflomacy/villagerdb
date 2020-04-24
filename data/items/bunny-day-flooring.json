@@ -1,6 +1,8 @@
 {
   "id": "bunny-day-flooring",
-  "name": "Bunny Day Flooring",
+  "name": {
+    "en-US": "Bunny Day Flooring"
+  },
   "games": {
     "nh": {
       "orderable": false,

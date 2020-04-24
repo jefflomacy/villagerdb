@@ -1,6 +1,8 @@
 {
   "id": "r-brookes-birdwing-model",
-  "name": "R. Brooke's Birdwing Model",
+  "name": {
+    "en-US": "R. Brooke's Birdwing Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "bidet",
-  "name": "Bidet",
+  "name": {
+    "en-US": "Bidet"
+  },
   "games": {
     "nh": {
       "orderable": true,

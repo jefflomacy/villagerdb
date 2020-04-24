@@ -1,6 +1,8 @@
 {
   "id": "perfect-peach",
-  "name": "Perfect Peach",
+  "name": {
+    "en-US": "Perfect Peach"
+  },
   "category": "Fruit",
   "games": {
     "nl": {

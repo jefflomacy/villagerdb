@@ -1,6 +1,8 @@
 {
   "id": "mermaid-wall",
-  "name": "Mermaid Wall",
+  "name": {
+    "en-US": "Mermaid Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

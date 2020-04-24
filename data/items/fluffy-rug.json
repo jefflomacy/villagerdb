@@ -1,6 +1,8 @@
 {
   "id": "fluffy-rug",
-  "name": "Fluffy Rug",
+  "name": {
+    "en-US": "Fluffy Rug"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "my-melody-hat",
-  "name": "My Melody Hat",
+  "name": {
+    "en-US": "My Melody Hat"
+  },
   "category": "Hats",
   "games": {
     "nl": {

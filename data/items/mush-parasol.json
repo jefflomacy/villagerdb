@@ -1,6 +1,8 @@
 {
   "id": "mush-parasol",
-  "name": "Mush Parasol",
+  "name": {
+    "en-US": "Mush Parasol"
+  },
   "games": {
     "nh": {
       "sellPrice": {

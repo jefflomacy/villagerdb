@@ -1,6 +1,8 @@
 {
   "id": "trees-bounty-big-tree",
-  "name": "Tree's Bounty Big Tree",
+  "name": {
+    "en-US": "Tree's Bounty Big Tree"
+  },
   "games": {
     "nh": {
       "sellPrice": {

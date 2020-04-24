@@ -1,6 +1,8 @@
 {
   "id": "wavy-tile-wall",
-  "name": "Wavy-tile Wall",
+  "name": {
+    "en-US": "Wavy-tile Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

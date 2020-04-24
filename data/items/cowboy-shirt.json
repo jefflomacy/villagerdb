@@ -1,6 +1,8 @@
 {
   "id": "cowboy-shirt",
-  "name": "Cowboy Shirt",
+  "name": {
+    "en-US": "Cowboy Shirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

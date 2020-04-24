@@ -1,6 +1,8 @@
 {
   "id": "nice-painting",
-  "name": "Nice Painting",
+  "name": {
+    "en-US": "Nice Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "curloss-poster",
-  "name": "Curlos's Poster",
+  "name": {
+    "en-US": "Curlos's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "fueki-table",
-  "name": "Fueki Table",
+  "name": {
+    "en-US": "Fueki Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

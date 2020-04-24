@@ -1,6 +1,8 @@
 {
   "id": "sweater-dress",
-  "name": "Sweater Dress",
+  "name": {
+    "en-US": "Sweater Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

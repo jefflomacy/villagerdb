@@ -1,6 +1,8 @@
 {
   "id": "womens-office-suit",
-  "name": "Women's Office Suit",
+  "name": {
+    "en-US": "Women's Office Suit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

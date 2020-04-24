@@ -1,6 +1,8 @@
 {
   "id": "junes-poster",
-  "name": "June's Poster",
+  "name": {
+    "en-US": "June's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

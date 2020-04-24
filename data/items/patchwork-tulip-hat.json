@@ -1,6 +1,8 @@
 {
   "id": "patchwork-tulip-hat",
-  "name": "Patchwork Tulip Hat",
+  "name": {
+    "en-US": "Patchwork Tulip Hat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "isabelle-scooter",
-  "name": "Isabelle Scooter",
+  "name": {
+    "en-US": "Isabelle Scooter"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

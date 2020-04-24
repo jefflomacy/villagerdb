@@ -1,6 +1,8 @@
 {
   "id": "sandlot",
-  "name": "Sandlot",
+  "name": {
+    "en-US": "Sandlot"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

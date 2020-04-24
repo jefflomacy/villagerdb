@@ -1,6 +1,8 @@
 {
   "id": "kiki-and-lala-outfit",
-  "name": "Kiki And Lala Outfit",
+  "name": {
+    "en-US": "Kiki And Lala Outfit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

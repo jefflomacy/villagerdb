@@ -1,6 +1,8 @@
 {
   "id": "snail-model",
-  "name": "Snail Model",
+  "name": {
+    "en-US": "Snail Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "rice-bales",
-  "name": "Rice Bales",
+  "name": {
+    "en-US": "Rice Bales"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

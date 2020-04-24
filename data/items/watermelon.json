@@ -1,6 +1,8 @@
 {
   "id": "watermelon",
-  "name": "Watermelon",
+  "name": {
+    "en-US": "Watermelon"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

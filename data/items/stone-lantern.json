@@ -1,6 +1,8 @@
 {
   "id": "stone-lantern",
-  "name": "Stone Lantern",
+  "name": {
+    "en-US": "Stone Lantern"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

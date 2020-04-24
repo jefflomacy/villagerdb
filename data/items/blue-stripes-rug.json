@@ -1,6 +1,8 @@
 {
   "id": "blue-stripes-rug",
-  "name": "Blue Stripes Rug",
+  "name": {
+    "en-US": "Blue Stripes Rug"
+  },
   "games": {
     "nh": {
       "sources": [

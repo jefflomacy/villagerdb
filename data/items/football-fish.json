@@ -1,6 +1,8 @@
 {
   "id": "football-fish",
-  "name": "Football Fish",
+  "name": {
+    "en-US": "Football Fish"
+  },
   "category": "Fish",
   "games": {
     "nl": {

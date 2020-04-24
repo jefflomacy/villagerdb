@@ -1,6 +1,8 @@
 {
   "id": "cruiser-bike",
-  "name": "Cruiser Bike",
+  "name": {
+    "en-US": "Cruiser Bike"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

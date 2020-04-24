@@ -1,6 +1,8 @@
 {
   "id": "simple-medium-purple-mat",
-  "name": "Simple Medium Purple Mat",
+  "name": {
+    "en-US": "Simple Medium Purple Mat"
+  },
   "games": {
     "nh": {
       "orderable": true,

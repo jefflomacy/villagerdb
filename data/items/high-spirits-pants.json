@@ -1,6 +1,8 @@
 {
   "id": "high-spirits-pants",
-  "name": "High-spirits Pants",
+  "name": {
+    "en-US": "High-spirits Pants"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

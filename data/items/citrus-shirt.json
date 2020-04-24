@@ -1,6 +1,8 @@
 {
   "id": "citrus-shirt",
-  "name": "Citrus Shirt",
+  "name": {
+    "en-US": "Citrus Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

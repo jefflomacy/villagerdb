@@ -1,6 +1,8 @@
 {
   "id": "white-honeycomb-tile-wall",
-  "name": "White Honeycomb-tile Wall",
+  "name": {
+    "en-US": "White Honeycomb-tile Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

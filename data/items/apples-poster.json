@@ -1,6 +1,8 @@
 {
   "id": "apples-poster",
-  "name": "Apple's Poster",
+  "name": {
+    "en-US": "Apple's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

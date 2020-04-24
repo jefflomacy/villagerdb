@@ -1,6 +1,8 @@
 {
   "id": "clankoid",
-  "name": "Clankoid",
+  "name": {
+    "en-US": "Clankoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

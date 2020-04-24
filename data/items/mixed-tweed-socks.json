@@ -1,6 +1,8 @@
 {
   "id": "mixed-tweed-socks",
-  "name": "Mixed-tweed Socks",
+  "name": {
+    "en-US": "Mixed-tweed Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

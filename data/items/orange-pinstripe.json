@@ -1,6 +1,8 @@
 {
   "id": "orange-pinstripe",
-  "name": "Orange Pinstripe",
+  "name": {
+    "en-US": "Orange Pinstripe"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "my-melody-chair",
-  "name": "My Melody Chair",
+  "name": {
+    "en-US": "My Melody Chair"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

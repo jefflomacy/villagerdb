@@ -1,6 +1,8 @@
 {
   "id": "mini-strumboid",
-  "name": "Mini Strumboid",
+  "name": {
+    "en-US": "Mini Strumboid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

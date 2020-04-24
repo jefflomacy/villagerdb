@@ -1,6 +1,8 @@
 {
   "id": "mango",
-  "name": "Mango",
+  "name": {
+    "en-US": "Mango"
+  },
   "category": "Fruit",
   "games": {
     "nl": {

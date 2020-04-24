@@ -1,6 +1,8 @@
 {
   "id": "pastel-stripe-dress",
-  "name": "Pastel-stripe Dress",
+  "name": {
+    "en-US": "Pastel-stripe Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

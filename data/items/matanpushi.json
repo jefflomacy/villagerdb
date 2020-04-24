@@ -1,6 +1,8 @@
 {
   "id": "matanpushi",
-  "name": "Matanpushi",
+  "name": {
+    "en-US": "Matanpushi"
+  },
   "games": {
     "nh": {
       "orderable": true,

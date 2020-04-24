@@ -1,6 +1,8 @@
 {
   "id": "cork-flooring",
-  "name": "Cork Flooring",
+  "name": {
+    "en-US": "Cork Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

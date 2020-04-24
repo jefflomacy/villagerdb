@@ -1,6 +1,8 @@
 {
   "id": "stylish-suit",
-  "name": "Stylish Suit",
+  "name": {
+    "en-US": "Stylish Suit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

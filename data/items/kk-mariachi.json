@@ -1,6 +1,8 @@
 {
   "id": "kk-mariachi",
-  "name": "K.K. Mariachi",
+  "name": {
+    "en-US": "K.K. Mariachi"
+  },
   "games": {
     "nh": {
       "orderable": true,

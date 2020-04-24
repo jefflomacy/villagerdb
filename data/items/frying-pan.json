@@ -1,6 +1,8 @@
 {
   "id": "frying-pan",
-  "name": "Frying Pan",
+  "name": {
+    "en-US": "Frying Pan"
+  },
   "category": "Furniture",
   "games": {
     "nh": {

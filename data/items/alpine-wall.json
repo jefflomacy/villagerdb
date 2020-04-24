@@ -1,6 +1,8 @@
 {
   "id": "alpine-wall",
-  "name": "Alpine Wall",
+  "name": {
+    "en-US": "Alpine Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

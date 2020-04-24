@@ -1,6 +1,8 @@
 {
   "id": "dollhouse-dress",
-  "name": "Dollhouse Dress",
+  "name": {
+    "en-US": "Dollhouse Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

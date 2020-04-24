@@ -1,6 +1,8 @@
 {
   "id": "festive-dress",
-  "name": "Festive Dress",
+  "name": {
+    "en-US": "Festive Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

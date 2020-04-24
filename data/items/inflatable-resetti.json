@@ -1,6 +1,8 @@
 {
   "id": "inflatable-resetti",
-  "name": "Inflatable Resetti",
+  "name": {
+    "en-US": "Inflatable Resetti"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

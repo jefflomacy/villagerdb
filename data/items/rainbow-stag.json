@@ -1,6 +1,8 @@
 {
   "id": "rainbow-stag",
-  "name": "Rainbow Stag",
+  "name": {
+    "en-US": "Rainbow Stag"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

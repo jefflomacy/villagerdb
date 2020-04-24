@@ -1,6 +1,8 @@
 {
   "id": "straw-pochette",
-  "name": "Straw Pochette",
+  "name": {
+    "en-US": "Straw Pochette"
+  },
   "games": {
     "nh": {
       "orderable": true,

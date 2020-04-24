@@ -1,6 +1,8 @@
 {
   "id": "nabiru-ornament",
-  "name": "Nabiru Ornament",
+  "name": {
+    "en-US": "Nabiru Ornament"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

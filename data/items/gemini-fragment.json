@@ -1,6 +1,8 @@
 {
   "id": "gemini-fragment",
-  "name": "Gemini Fragment",
+  "name": {
+    "en-US": "Gemini Fragment"
+  },
   "games": {
     "nh": {
       "sellPrice": {

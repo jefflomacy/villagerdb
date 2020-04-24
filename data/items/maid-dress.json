@@ -1,6 +1,8 @@
 {
   "id": "maid-dress",
-  "name": "Maid Dress",
+  "name": {
+    "en-US": "Maid Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

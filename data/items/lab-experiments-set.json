@@ -1,6 +1,8 @@
 {
   "id": "lab-experiments-set",
-  "name": "Lab-experiments Set",
+  "name": {
+    "en-US": "Lab-experiments Set"
+  },
   "games": {
     "nh": {
       "orderable": true,

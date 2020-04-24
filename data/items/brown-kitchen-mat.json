@@ -1,6 +1,8 @@
 {
   "id": "brown-kitchen-mat",
-  "name": "Brown Kitchen Mat",
+  "name": {
+    "en-US": "Brown Kitchen Mat"
+  },
   "games": {
     "nh": {
       "sources": [

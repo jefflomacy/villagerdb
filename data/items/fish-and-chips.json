@@ -1,6 +1,8 @@
 {
   "id": "fish-and-chips",
-  "name": "Fish And Chips",
+  "name": {
+    "en-US": "Fish And Chips"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

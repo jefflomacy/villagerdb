@@ -1,6 +1,8 @@
 {
   "id": "stone-egg",
-  "name": "Stone Egg",
+  "name": {
+    "en-US": "Stone Egg"
+  },
   "category": "Usables",
   "games": {
     "nl": {

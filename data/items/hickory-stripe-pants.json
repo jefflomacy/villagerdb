@@ -1,6 +1,8 @@
 {
   "id": "hickory-stripe-pants",
-  "name": "Hickory-stripe Pants",
+  "name": {
+    "en-US": "Hickory-stripe Pants"
+  },
   "games": {
     "nh": {
       "sellPrice": {

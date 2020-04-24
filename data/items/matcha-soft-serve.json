@@ -1,6 +1,8 @@
 {
   "id": "matcha-soft-serve",
-  "name": "Matcha Soft-serve",
+  "name": {
+    "en-US": "Matcha Soft-serve"
+  },
   "category": "Usables",
   "games": {
     "nl": {

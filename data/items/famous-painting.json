@@ -1,6 +1,8 @@
 {
   "id": "famous-painting",
-  "name": "Famous Painting",
+  "name": {
+    "en-US": "Famous Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

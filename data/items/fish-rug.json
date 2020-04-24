@@ -1,6 +1,8 @@
 {
   "id": "fish-rug",
-  "name": "Fish Rug",
+  "name": {
+    "en-US": "Fish Rug"
+  },
   "games": {
     "nh": {
       "orderable": false,

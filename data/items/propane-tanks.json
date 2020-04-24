@@ -1,6 +1,8 @@
 {
   "id": "propane-tanks",
-  "name": "Propane Tanks",
+  "name": {
+    "en-US": "Propane Tanks"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

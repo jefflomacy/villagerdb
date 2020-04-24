@@ -1,6 +1,8 @@
 {
   "id": "casablanca-lilies",
-  "name": "Casablanca Lilies",
+  "name": {
+    "en-US": "Casablanca Lilies"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

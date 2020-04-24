@@ -1,6 +1,8 @@
 {
   "id": "rattan-armchair",
-  "name": "Rattan Armchair",
+  "name": {
+    "en-US": "Rattan Armchair"
+  },
   "games": {
     "nh": {
       "orderable": true,

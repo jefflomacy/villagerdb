@@ -1,6 +1,8 @@
 {
   "id": "lullaboid",
-  "name": "Lullaboid",
+  "name": {
+    "en-US": "Lullaboid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

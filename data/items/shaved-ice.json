@@ -1,6 +1,8 @@
 {
   "id": "shaved-ice",
-  "name": "Shaved Ice",
+  "name": {
+    "en-US": "Shaved Ice"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

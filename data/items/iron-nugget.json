@@ -1,6 +1,8 @@
 {
   "id": "iron-nugget",
-  "name": "Iron Nugget",
+  "name": {
+    "en-US": "Iron Nugget"
+  },
   "category": "Usables",
   "games": {
     "nh": {

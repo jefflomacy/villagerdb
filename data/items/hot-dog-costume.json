@@ -1,6 +1,8 @@
 {
   "id": "hot-dog-costume",
-  "name": "Hot-dog Costume",
+  "name": {
+    "en-US": "Hot-dog Costume"
+  },
   "games": {
     "nh": {
       "orderable": true,

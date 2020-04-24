@@ -1,6 +1,8 @@
 {
   "id": "polar-fleece",
-  "name": "Polar Fleece",
+  "name": {
+    "en-US": "Polar Fleece"
+  },
   "category": "Tops",
   "games": {
     "ac": {

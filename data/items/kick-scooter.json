@@ -1,6 +1,8 @@
 {
   "id": "kick-scooter",
-  "name": "Kick Scooter",
+  "name": {
+    "en-US": "Kick Scooter"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

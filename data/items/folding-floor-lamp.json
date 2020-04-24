@@ -1,6 +1,8 @@
 {
   "id": "folding-floor-lamp",
-  "name": "Folding Floor Lamp",
+  "name": {
+    "en-US": "Folding Floor Lamp"
+  },
   "games": {
     "nh": {
       "orderable": true,

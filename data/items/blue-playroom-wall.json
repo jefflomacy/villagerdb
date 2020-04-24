@@ -1,6 +1,8 @@
 {
   "id": "blue-playroom-wall",
-  "name": "Blue Playroom Wall",
+  "name": {
+    "en-US": "Blue Playroom Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

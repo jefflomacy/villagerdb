@@ -1,6 +1,8 @@
 {
   "id": "marble-dots-dress",
-  "name": "Marble-dots Dress",
+  "name": {
+    "en-US": "Marble-dots Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

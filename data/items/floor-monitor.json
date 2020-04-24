@@ -1,6 +1,8 @@
 {
   "id": "floor-monitor",
-  "name": "Floor Monitor",
+  "name": {
+    "en-US": "Floor Monitor"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

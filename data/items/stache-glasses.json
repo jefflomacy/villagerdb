@@ -1,6 +1,8 @@
 {
   "id": "stache-glasses",
-  "name": "Stache & Glasses",
+  "name": {
+    "en-US": "Stache & Glasses"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

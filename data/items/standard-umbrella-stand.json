@@ -1,6 +1,8 @@
 {
   "id": "standard-umbrella-stand",
-  "name": "Standard Umbrella Stand",
+  "name": {
+    "en-US": "Standard Umbrella Stand"
+  },
   "games": {
     "nh": {
       "orderable": false,

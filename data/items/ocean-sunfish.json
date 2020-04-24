@@ -1,6 +1,8 @@
 {
   "id": "ocean-sunfish",
-  "name": "Ocean Sunfish",
+  "name": {
+    "en-US": "Ocean Sunfish"
+  },
   "category": "Fish",
   "games": {
     "nl": {

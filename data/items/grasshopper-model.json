@@ -1,6 +1,8 @@
 {
   "id": "grasshopper-model",
-  "name": "Grasshopper Model",
+  "name": {
+    "en-US": "Grasshopper Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

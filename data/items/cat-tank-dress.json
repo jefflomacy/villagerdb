@@ -1,6 +1,8 @@
 {
   "id": "cat-tank-dress",
-  "name": "Cat Tank Dress",
+  "name": {
+    "en-US": "Cat Tank Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

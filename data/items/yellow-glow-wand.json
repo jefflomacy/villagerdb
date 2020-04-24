@@ -1,6 +1,8 @@
 {
   "id": "yellow-glow-wand",
-  "name": "Yellow Glow Wand",
+  "name": {
+    "en-US": "Yellow Glow Wand"
+  },
   "category": "Usables",
   "games": {
     "nl": {

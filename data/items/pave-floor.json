@@ -1,6 +1,8 @@
 {
   "id": "pave-floor",
-  "name": "Pavé Floor",
+  "name": {
+    "en-US": "Pavé Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

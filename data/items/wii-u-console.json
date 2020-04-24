@@ -1,6 +1,8 @@
 {
   "id": "wii-u-console",
-  "name": "Wii U Console",
+  "name": {
+    "en-US": "Wii U Console"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "perfect-cherry",
-  "name": "Perfect Cherry",
+  "name": {
+    "en-US": "Perfect Cherry"
+  },
   "category": "Fruit",
   "games": {
     "nl": {

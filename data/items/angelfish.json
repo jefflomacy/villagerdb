@@ -1,6 +1,8 @@
 {
   "id": "angelfish",
-  "name": "Angelfish",
+  "name": {
+    "en-US": "Angelfish"
+  },
   "category": "Fish",
   "games": {
     "nl": {

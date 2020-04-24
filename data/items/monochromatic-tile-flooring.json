@@ -1,6 +1,8 @@
 {
   "id": "monochromatic-tile-flooring",
-  "name": "Monochromatic Tile Flooring",
+  "name": {
+    "en-US": "Monochromatic Tile Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

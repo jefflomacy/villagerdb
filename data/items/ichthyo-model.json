@@ -1,6 +1,8 @@
 {
   "id": "ichthyo-model",
-  "name": "Ichthyo Model",
+  "name": {
+    "en-US": "Ichthyo Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

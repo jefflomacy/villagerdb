@@ -1,6 +1,8 @@
 {
   "id": "yellow-persian-rug",
-  "name": "Yellow Persian Rug",
+  "name": {
+    "en-US": "Yellow Persian Rug"
+  },
   "games": {
     "nh": {
       "sellPrice": {

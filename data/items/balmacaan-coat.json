@@ -1,6 +1,8 @@
 {
   "id": "balmacaan-coat",
-  "name": "Balmacaan Coat",
+  "name": {
+    "en-US": "Balmacaan Coat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "beehive",
-  "name": "Beehive",
+  "name": {
+    "en-US": "Beehive"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "mitten-crab-model",
-  "name": "Mitten Crab Model",
+  "name": {
+    "en-US": "Mitten Crab Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

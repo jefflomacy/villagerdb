@@ -1,6 +1,8 @@
 {
   "id": "museum-clock",
-  "name": "Museum Clock",
+  "name": {
+    "en-US": "Museum Clock"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

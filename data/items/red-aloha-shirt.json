@@ -1,6 +1,8 @@
 {
   "id": "red-aloha-shirt",
-  "name": "Red Aloha Shirt",
+  "name": {
+    "en-US": "Red Aloha Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

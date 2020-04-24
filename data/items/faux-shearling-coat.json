@@ -1,6 +1,8 @@
 {
   "id": "faux-shearling-coat",
-  "name": "Faux-shearling Coat",
+  "name": {
+    "en-US": "Faux-shearling Coat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

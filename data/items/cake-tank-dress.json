@@ -1,6 +1,8 @@
 {
   "id": "cake-tank-dress",
-  "name": "Cake Tank Dress",
+  "name": {
+    "en-US": "Cake Tank Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

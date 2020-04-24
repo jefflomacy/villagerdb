@@ -1,6 +1,8 @@
 {
   "id": "chic-cosmos-wreath",
-  "name": "Chic Cosmos Wreath",
+  "name": {
+    "en-US": "Chic Cosmos Wreath"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "sea-cucumber",
-  "name": "Sea Cucumber",
+  "name": {
+    "en-US": "Sea Cucumber"
+  },
   "category": "Fish",
   "games": {
     "nl": {

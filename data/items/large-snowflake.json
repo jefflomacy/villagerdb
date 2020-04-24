@@ -1,6 +1,8 @@
 {
   "id": "large-snowflake",
-  "name": "Large Snowflake",
+  "name": {
+    "en-US": "Large Snowflake"
+  },
   "games": {
     "nh": {
       "sellPrice": {

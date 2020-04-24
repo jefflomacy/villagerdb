@@ -1,6 +1,8 @@
 {
   "id": "loach",
-  "name": "Loach",
+  "name": {
+    "en-US": "Loach"
+  },
   "category": "Fish",
   "games": {
     "nl": {

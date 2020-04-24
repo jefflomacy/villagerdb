@@ -1,6 +1,8 @@
 {
   "id": "boots",
-  "name": "Boots",
+  "name": {
+    "en-US": "Boots"
+  },
   "games": {
     "nh": {
       "orderable": true,

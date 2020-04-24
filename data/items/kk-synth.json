@@ -1,6 +1,8 @@
 {
   "id": "kk-synth",
-  "name": "K.K. Synth",
+  "name": {
+    "en-US": "K.K. Synth"
+  },
   "category": "Music",
   "games": {
     "nl": {

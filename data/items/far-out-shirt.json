@@ -1,6 +1,8 @@
 {
   "id": "far-out-shirt",
-  "name": "Far-Out Shirt",
+  "name": {
+    "en-US": "Far-Out Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

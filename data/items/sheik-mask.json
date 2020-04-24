@@ -1,6 +1,8 @@
 {
   "id": "sheik-mask",
-  "name": "Sheik Mask",
+  "name": {
+    "en-US": "Sheik Mask"
+  },
   "category": "Hats",
   "games": {
     "nl": {

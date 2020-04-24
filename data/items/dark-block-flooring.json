@@ -1,6 +1,8 @@
 {
   "id": "dark-block-flooring",
-  "name": "Dark-block Flooring",
+  "name": {
+    "en-US": "Dark-block Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "kerokerokeroppi-doll",
-  "name": "Kerokerokeroppi Doll",
+  "name": {
+    "en-US": "Kerokerokeroppi Doll"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

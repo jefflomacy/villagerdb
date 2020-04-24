@@ -1,6 +1,8 @@
 {
   "id": "zen-screen",
-  "name": "Zen Screen",
+  "name": {
+    "en-US": "Zen Screen"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

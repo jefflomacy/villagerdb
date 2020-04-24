@@ -1,6 +1,8 @@
 {
   "id": "black-brick-flooring",
-  "name": "Black-brick Flooring",
+  "name": {
+    "en-US": "Black-brick Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "corte-skirt",
-  "name": "Corte Skirt",
+  "name": {
+    "en-US": "Corte Skirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "blue-dot-flooring",
-  "name": "Blue Dot Flooring",
+  "name": {
+    "en-US": "Blue Dot Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

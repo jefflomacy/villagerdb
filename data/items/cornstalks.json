@@ -1,6 +1,8 @@
 {
   "id": "cornstalks",
-  "name": "Cornstalks",
+  "name": {
+    "en-US": "Cornstalks"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

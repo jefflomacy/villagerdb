@@ -1,6 +1,8 @@
 {
   "id": "wild-wood-wall",
-  "name": "Wild-wood Wall",
+  "name": {
+    "en-US": "Wild-wood Wall"
+  },
   "games": {
     "nh": {
       "orderable": false,

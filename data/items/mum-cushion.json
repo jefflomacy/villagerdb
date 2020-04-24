@@ -1,6 +1,8 @@
 {
   "id": "mum-cushion",
-  "name": "Mum Cushion",
+  "name": {
+    "en-US": "Mum Cushion"
+  },
   "games": {
     "nh": {
       "orderable": false,

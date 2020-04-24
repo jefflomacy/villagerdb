@@ -1,6 +1,8 @@
 {
   "id": "lace-skirt",
-  "name": "Lace Skirt",
+  "name": {
+    "en-US": "Lace Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

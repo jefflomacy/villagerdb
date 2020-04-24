@@ -1,6 +1,8 @@
 {
   "id": "sleek-carpet",
-  "name": "Sleek Carpet",
+  "name": {
+    "en-US": "Sleek Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

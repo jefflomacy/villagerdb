@@ -1,6 +1,8 @@
 {
   "id": "zen-low-table",
-  "name": "Zen Low Table",
+  "name": {
+    "en-US": "Zen Low Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

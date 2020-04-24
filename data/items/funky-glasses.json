@@ -1,6 +1,8 @@
 {
   "id": "funky-glasses",
-  "name": "Funky Glasses",
+  "name": {
+    "en-US": "Funky Glasses"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

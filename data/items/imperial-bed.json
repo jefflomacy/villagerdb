@@ -1,6 +1,8 @@
 {
   "id": "imperial-bed",
-  "name": "Imperial Bed",
+  "name": {
+    "en-US": "Imperial Bed"
+  },
   "games": {
     "nh": {
       "sellPrice": {

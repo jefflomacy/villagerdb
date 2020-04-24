@@ -1,6 +1,8 @@
 {
   "id": "moms-reliable-kitchen-mat",
-  "name": "Mom's Reliable Kitchen Mat",
+  "name": {
+    "en-US": "Mom's Reliable Kitchen Mat"
+  },
   "games": {
     "nh": {
       "sources": [

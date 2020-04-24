@@ -1,6 +1,8 @@
 {
   "id": "biker-jacket",
-  "name": "Biker Jacket",
+  "name": {
+    "en-US": "Biker Jacket"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "poltergoid",
-  "name": "Poltergoid",
+  "name": {
+    "en-US": "Poltergoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

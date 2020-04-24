@@ -1,6 +1,8 @@
 {
   "id": "layered-shirt",
-  "name": "Layered Shirt",
+  "name": {
+    "en-US": "Layered Shirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

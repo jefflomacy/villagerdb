@@ -1,6 +1,8 @@
 {
   "id": "jesters-mask",
-  "name": "Jester's Mask",
+  "name": {
+    "en-US": "Jester's Mask"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

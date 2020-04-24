@@ -1,6 +1,8 @@
 {
   "id": "pop-bloom-shirt",
-  "name": "Pop Bloom Shirt",
+  "name": {
+    "en-US": "Pop Bloom Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

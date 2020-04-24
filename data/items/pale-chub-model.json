@@ -1,6 +1,8 @@
 {
   "id": "pale-chub-model",
-  "name": "Pale Chub Model",
+  "name": {
+    "en-US": "Pale Chub Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

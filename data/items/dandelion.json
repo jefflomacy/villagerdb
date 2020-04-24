@@ -1,6 +1,8 @@
 {
   "id": "dandelion",
-  "name": "Dandelion",
+  "name": {
+    "en-US": "Dandelion"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "notebook-wall",
-  "name": "Notebook Wall",
+  "name": {
+    "en-US": "Notebook Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

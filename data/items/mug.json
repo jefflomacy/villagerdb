@@ -1,6 +1,8 @@
 {
   "id": "mug",
-  "name": "Mug",
+  "name": {
+    "en-US": "Mug"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

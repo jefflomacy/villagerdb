@@ -1,6 +1,8 @@
 {
   "id": "embellished-denim-pants",
-  "name": "Embellished Denim Pants",
+  "name": {
+    "en-US": "Embellished Denim Pants"
+  },
   "games": {
     "nh": {
       "sellPrice": {

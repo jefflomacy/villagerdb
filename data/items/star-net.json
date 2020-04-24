@@ -1,6 +1,8 @@
 {
   "id": "star-net",
-  "name": "Star Net",
+  "name": {
+    "en-US": "Star Net"
+  },
   "games": {
     "nh": {
       "orderable": false,

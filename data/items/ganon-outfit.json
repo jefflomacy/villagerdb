@@ -1,6 +1,8 @@
 {
   "id": "ganon-outfit",
-  "name": "Ganon Outfit",
+  "name": {
+    "en-US": "Ganon Outfit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

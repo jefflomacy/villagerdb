@@ -1,6 +1,8 @@
 {
   "id": "puzzling-shirt",
-  "name": "Puzzling Shirt",
+  "name": {
+    "en-US": "Puzzling Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

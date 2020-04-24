@@ -1,6 +1,8 @@
 {
   "id": "bomber-style-skirt",
-  "name": "Bomber-style Skirt",
+  "name": {
+    "en-US": "Bomber-style Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

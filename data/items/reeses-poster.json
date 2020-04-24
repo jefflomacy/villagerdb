@@ -1,6 +1,8 @@
 {
   "id": "reeses-poster",
-  "name": "Reese's Poster",
+  "name": {
+    "en-US": "Reese's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "kk-rockabilly",
-  "name": "K.K. Rockabilly",
+  "name": {
+    "en-US": "K.K. Rockabilly"
+  },
   "category": "Music",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "hanten-jacket",
-  "name": "Hanten Jacket",
+  "name": {
+    "en-US": "Hanten Jacket"
+  },
   "games": {
     "nh": {
       "sellPrice": {

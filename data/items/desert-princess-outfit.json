@@ -1,6 +1,8 @@
 {
   "id": "desert-princess-outfit",
-  "name": "Desert-princess Outfit",
+  "name": {
+    "en-US": "Desert-princess Outfit"
+  },
   "games": {
     "nh": {
       "sellPrice": {

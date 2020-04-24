@@ -1,6 +1,8 @@
 {
   "id": "analog-kitchen-scale",
-  "name": "Analog Kitchen Scale",
+  "name": {
+    "en-US": "Analog Kitchen Scale"
+  },
   "games": {
     "nh": {
       "sellPrice": {

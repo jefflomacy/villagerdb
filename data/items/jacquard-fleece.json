@@ -1,6 +1,8 @@
 {
   "id": "jacquard-fleece",
-  "name": "Jacquard Fleece",
+  "name": {
+    "en-US": "Jacquard Fleece"
+  },
   "category": "Tops",
   "games": {
     "nl": {

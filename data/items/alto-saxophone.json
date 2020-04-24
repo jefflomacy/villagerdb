@@ -1,6 +1,8 @@
 {
   "id": "alto-saxophone",
-  "name": "Alto Saxophone",
+  "name": {
+    "en-US": "Alto Saxophone"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "kk-salsa",
-  "name": "K.K. Salsa",
+  "name": {
+    "en-US": "K.K. Salsa"
+  },
   "category": "Music",
   "games": {
     "nl": {

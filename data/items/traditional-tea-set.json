@@ -1,6 +1,8 @@
 {
   "id": "traditional-tea-set",
-  "name": "Traditional Tea Set",
+  "name": {
+    "en-US": "Traditional Tea Set"
+  },
   "games": {
     "nh": {
       "orderable": true,

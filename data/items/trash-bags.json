@@ -1,6 +1,8 @@
 {
   "id": "trash-bags",
-  "name": "Trash Bags",
+  "name": {
+    "en-US": "Trash Bags"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

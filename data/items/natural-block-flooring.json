@@ -1,6 +1,8 @@
 {
   "id": "natural-block-flooring",
-  "name": "Natural-block Flooring",
+  "name": {
+    "en-US": "Natural-block Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

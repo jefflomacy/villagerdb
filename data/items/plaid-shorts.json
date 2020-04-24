@@ -1,6 +1,8 @@
 {
   "id": "plaid-shorts",
-  "name": "Plaid Shorts",
+  "name": {
+    "en-US": "Plaid Shorts"
+  },
   "games": {
     "nh": {
       "sellPrice": {

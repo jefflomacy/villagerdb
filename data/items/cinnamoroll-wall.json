@@ -1,6 +1,8 @@
 {
   "id": "cinnamoroll-wall",
-  "name": "Cinnamoroll Wall",
+  "name": {
+    "en-US": "Cinnamoroll Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

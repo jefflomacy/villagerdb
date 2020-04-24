@@ -1,6 +1,8 @@
 {
   "id": "worn-out-cutoffs",
-  "name": "Worn-out Cutoffs",
+  "name": {
+    "en-US": "Worn-out Cutoffs"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "mega-rustoid",
-  "name": "Mega Rustoid",
+  "name": {
+    "en-US": "Mega Rustoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

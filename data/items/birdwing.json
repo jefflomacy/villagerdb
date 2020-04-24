@@ -1,6 +1,8 @@
 {
   "id": "birdwing",
-  "name": "Birdwing",
+  "name": {
+    "en-US": "Birdwing"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

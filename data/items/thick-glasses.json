@@ -1,6 +1,8 @@
 {
   "id": "thick-glasses",
-  "name": "Thick Glasses",
+  "name": {
+    "en-US": "Thick Glasses"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "alpine-rug",
-  "name": "Alpine Rug",
+  "name": {
+    "en-US": "Alpine Rug"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

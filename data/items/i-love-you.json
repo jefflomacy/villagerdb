@@ -1,6 +1,8 @@
 {
   "id": "i-love-you",
-  "name": "I Love You",
+  "name": {
+    "en-US": "I Love You"
+  },
   "category": "Music",
   "games": {
     "nl": {

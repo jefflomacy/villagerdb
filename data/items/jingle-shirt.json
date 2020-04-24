@@ -1,6 +1,8 @@
 {
   "id": "jingle-shirt",
-  "name": "Jingle Shirt",
+  "name": {
+    "en-US": "Jingle Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

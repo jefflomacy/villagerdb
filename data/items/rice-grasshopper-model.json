@@ -1,6 +1,8 @@
 {
   "id": "rice-grasshopper-model",
-  "name": "Rice Grasshopper Model",
+  "name": {
+    "en-US": "Rice Grasshopper Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

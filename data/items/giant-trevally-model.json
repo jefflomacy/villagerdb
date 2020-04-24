@@ -1,6 +1,8 @@
 {
   "id": "giant-trevally-model",
-  "name": "Giant Trevally Model",
+  "name": {
+    "en-US": "Giant Trevally Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

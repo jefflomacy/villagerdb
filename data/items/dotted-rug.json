@@ -1,6 +1,8 @@
 {
   "id": "dotted-rug",
-  "name": "Dotted Rug",
+  "name": {
+    "en-US": "Dotted Rug"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

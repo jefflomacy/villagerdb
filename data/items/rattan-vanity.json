@@ -1,6 +1,8 @@
 {
   "id": "rattan-vanity",
-  "name": "Rattan Vanity",
+  "name": {
+    "en-US": "Rattan Vanity"
+  },
   "games": {
     "nh": {
       "sellPrice": {

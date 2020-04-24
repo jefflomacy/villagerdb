@@ -1,6 +1,8 @@
 {
   "id": "caterpillar-costume",
-  "name": "Caterpillar Costume",
+  "name": {
+    "en-US": "Caterpillar Costume"
+  },
   "games": {
     "nh": {
       "sellPrice": {

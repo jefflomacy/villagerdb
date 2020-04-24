@@ -1,6 +1,8 @@
 {
   "id": "hardwood",
-  "name": "Hardwood",
+  "name": {
+    "en-US": "Hardwood"
+  },
   "category": "Usables",
   "games": {
     "nh": {

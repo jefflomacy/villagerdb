@@ -1,6 +1,8 @@
 {
   "id": "silver-axe",
-  "name": "Silver Axe",
+  "name": {
+    "en-US": "Silver Axe"
+  },
   "category": "Tools",
   "games": {
     "nl": {

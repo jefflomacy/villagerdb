@@ -1,6 +1,8 @@
 {
   "id": "mint-wrapping-paper",
-  "name": "Mint Wrapping Paper",
+  "name": {
+    "en-US": "Mint Wrapping Paper"
+  },
   "games": {
     "nh": {
       "sellPrice": {

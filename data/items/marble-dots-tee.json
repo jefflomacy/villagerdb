@@ -1,6 +1,8 @@
 {
   "id": "marble-dots-tee",
-  "name": "Marble-dots Tee",
+  "name": {
+    "en-US": "Marble-dots Tee"
+  },
   "games": {
     "nh": {
       "sellPrice": {

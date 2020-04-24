@@ -1,6 +1,8 @@
 {
   "id": "perfect-painting",
-  "name": "Perfect Painting",
+  "name": {
+    "en-US": "Perfect Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

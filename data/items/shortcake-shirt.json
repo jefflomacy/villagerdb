@@ -1,6 +1,8 @@
 {
   "id": "shortcake-shirt",
-  "name": "Shortcake Shirt",
+  "name": {
+    "en-US": "Shortcake Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

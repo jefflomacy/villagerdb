@@ -1,6 +1,8 @@
 {
   "id": "giant-stew-pot",
-  "name": "Giant Stew Pot",
+  "name": {
+    "en-US": "Giant Stew Pot"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

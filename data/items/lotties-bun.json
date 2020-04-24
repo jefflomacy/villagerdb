@@ -1,6 +1,8 @@
 {
   "id": "lotties-bun",
-  "name": "Lottie's Bun",
+  "name": {
+    "en-US": "Lottie's Bun"
+  },
   "category": "Hats",
   "games": {
     "nl": {

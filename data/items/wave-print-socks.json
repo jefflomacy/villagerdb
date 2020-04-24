@@ -1,6 +1,8 @@
 {
   "id": "wave-print-socks",
-  "name": "Wave-print Socks",
+  "name": {
+    "en-US": "Wave-print Socks"
+  },
   "games": {
     "nh": {
       "orderable": true,

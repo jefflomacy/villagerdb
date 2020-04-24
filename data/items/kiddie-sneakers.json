@@ -1,6 +1,8 @@
 {
   "id": "kiddie-sneakers",
-  "name": "Kiddie Sneakers",
+  "name": {
+    "en-US": "Kiddie Sneakers"
+  },
   "games": {
     "nh": {
       "sellPrice": {

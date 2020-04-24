@@ -1,6 +1,8 @@
 {
   "id": "lunch-box",
-  "name": "Lunch Box",
+  "name": {
+    "en-US": "Lunch Box"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

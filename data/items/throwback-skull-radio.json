@@ -1,6 +1,8 @@
 {
   "id": "throwback-skull-radio",
-  "name": "Throwback Skull Radio",
+  "name": {
+    "en-US": "Throwback Skull Radio"
+  },
   "games": {
     "nh": {
       "orderable": true,

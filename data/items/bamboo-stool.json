@@ -1,6 +1,8 @@
 {
   "id": "bamboo-stool",
-  "name": "Bamboo Stool",
+  "name": {
+    "en-US": "Bamboo Stool"
+  },
   "games": {
     "nh": {
       "orderable": false,

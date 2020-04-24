@@ -1,6 +1,8 @@
 {
   "id": "frozen-partition",
-  "name": "Frozen Partition",
+  "name": {
+    "en-US": "Frozen Partition"
+  },
   "games": {
     "nh": {
       "sellPrice": {

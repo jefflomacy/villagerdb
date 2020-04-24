@@ -1,6 +1,8 @@
 {
   "id": "tiger-print-flooring",
-  "name": "Tiger-print Flooring",
+  "name": {
+    "en-US": "Tiger-print Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

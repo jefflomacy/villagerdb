@@ -1,6 +1,8 @@
 {
   "id": "felyne-guardian",
-  "name": "Felyne Guardian",
+  "name": {
+    "en-US": "Felyne Guardian"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

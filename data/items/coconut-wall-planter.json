@@ -1,6 +1,8 @@
 {
   "id": "coconut-wall-planter",
-  "name": "Coconut Wall Planter",
+  "name": {
+    "en-US": "Coconut Wall Planter"
+  },
   "games": {
     "nh": {
       "orderable": false,

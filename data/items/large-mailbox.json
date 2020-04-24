@@ -1,6 +1,8 @@
 {
   "id": "large-mailbox",
-  "name": "Large Mailbox",
+  "name": {
+    "en-US": "Large Mailbox"
+  },
   "games": {
     "nh": {}
   },

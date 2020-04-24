@@ -1,6 +1,8 @@
 {
   "id": "t-rex-model",
-  "name": "T. Rex Model",
+  "name": {
+    "en-US": "T. Rex Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

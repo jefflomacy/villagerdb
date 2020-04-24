@@ -1,6 +1,8 @@
 {
   "id": "bubble-shirt",
-  "name": "Bubble Shirt",
+  "name": {
+    "en-US": "Bubble Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

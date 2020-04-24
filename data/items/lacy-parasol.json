@@ -1,6 +1,8 @@
 {
   "id": "lacy-parasol",
-  "name": "Lacy Parasol",
+  "name": {
+    "en-US": "Lacy Parasol"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

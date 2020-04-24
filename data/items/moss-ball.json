@@ -1,6 +1,8 @@
 {
   "id": "moss-ball",
-  "name": "Moss Ball",
+  "name": {
+    "en-US": "Moss Ball"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "rain-pants",
-  "name": "Rain Pants",
+  "name": {
+    "en-US": "Rain Pants"
+  },
   "games": {
     "nh": {
       "sellPrice": {

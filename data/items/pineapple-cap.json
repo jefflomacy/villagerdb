@@ -1,6 +1,8 @@
 {
   "id": "pineapple-cap",
-  "name": "Pineapple Cap",
+  "name": {
+    "en-US": "Pineapple Cap"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "bingata-dress",
-  "name": "Bingata Dress",
+  "name": {
+    "en-US": "Bingata Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "blue-tarp",
-  "name": "Blue Tarp",
+  "name": {
+    "en-US": "Blue Tarp"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

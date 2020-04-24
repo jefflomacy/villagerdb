@@ -1,6 +1,8 @@
 {
   "id": "wash-station",
-  "name": "Wash Station",
+  "name": {
+    "en-US": "Wash Station"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

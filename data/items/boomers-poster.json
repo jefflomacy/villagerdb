@@ -1,6 +1,8 @@
 {
   "id": "boomers-poster",
-  "name": "Boomer's Poster",
+  "name": {
+    "en-US": "Boomer's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

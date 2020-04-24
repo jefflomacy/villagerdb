@@ -1,6 +1,8 @@
 {
   "id": "hibiscus-muumuu",
-  "name": "Hibiscus Muumuu",
+  "name": {
+    "en-US": "Hibiscus Muumuu"
+  },
   "games": {
     "nh": {
       "sellPrice": {

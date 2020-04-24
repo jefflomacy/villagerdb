@@ -1,6 +1,8 @@
 {
   "id": "walking-shoes",
-  "name": "Walking Shoes",
+  "name": {
+    "en-US": "Walking Shoes"
+  },
   "games": {
     "nh": {
       "orderable": true,

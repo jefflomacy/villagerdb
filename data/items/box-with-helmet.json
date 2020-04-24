@@ -1,6 +1,8 @@
 {
   "id": "box-with-helmet",
-  "name": "Box With Helmet",
+  "name": {
+    "en-US": "Box With Helmet"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

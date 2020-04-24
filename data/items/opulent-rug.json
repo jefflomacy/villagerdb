@@ -1,6 +1,8 @@
 {
   "id": "opulent-rug",
-  "name": "Opulent Rug",
+  "name": {
+    "en-US": "Opulent Rug"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

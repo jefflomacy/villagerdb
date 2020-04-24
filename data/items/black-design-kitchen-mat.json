@@ -1,6 +1,8 @@
 {
   "id": "black-design-kitchen-mat",
-  "name": "Black-design Kitchen Mat",
+  "name": {
+    "en-US": "Black-design Kitchen Mat"
+  },
   "games": {
     "nh": {
       "sources": [

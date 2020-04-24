@@ -1,6 +1,8 @@
 {
   "id": "the-k-funk",
-  "name": "The K. Funk",
+  "name": {
+    "en-US": "The K. Funk"
+  },
   "category": "Music",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "denim-overalls",
-  "name": "Denim Overalls",
+  "name": {
+    "en-US": "Denim Overalls"
+  },
   "games": {
     "nh": {
       "sellPrice": {

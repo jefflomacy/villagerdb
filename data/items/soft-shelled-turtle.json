@@ -1,6 +1,8 @@
 {
   "id": "soft-shelled-turtle",
-  "name": "Soft-shelled Turtle",
+  "name": {
+    "en-US": "Soft-shelled Turtle"
+  },
   "category": "Fish",
   "games": {
     "nl": {

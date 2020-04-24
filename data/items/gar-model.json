@@ -1,6 +1,8 @@
 {
   "id": "gar-model",
-  "name": "Gar Model",
+  "name": {
+    "en-US": "Gar Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "fueki-floor",
-  "name": "Fueki Floor",
+  "name": {
+    "en-US": "Fueki Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

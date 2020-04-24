@@ -1,6 +1,8 @@
 {
   "id": "dark-lily-crown",
-  "name": "Dark Lily Crown",
+  "name": {
+    "en-US": "Dark Lily Crown"
+  },
   "games": {
     "nh": {
       "sellPrice": {

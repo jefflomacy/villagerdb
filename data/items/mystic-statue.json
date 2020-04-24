@@ -1,6 +1,8 @@
 {
   "id": "mystic-statue",
-  "name": "Mystic Statue",
+  "name": {
+    "en-US": "Mystic Statue"
+  },
   "category": "Art",
   "games": {
     "nl": {

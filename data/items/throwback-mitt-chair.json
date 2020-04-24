@@ -1,6 +1,8 @@
 {
   "id": "throwback-mitt-chair",
-  "name": "Throwback Mitt Chair",
+  "name": {
+    "en-US": "Throwback Mitt Chair"
+  },
   "games": {
     "nh": {
       "orderable": true,

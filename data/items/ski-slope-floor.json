@@ -1,6 +1,8 @@
 {
   "id": "ski-slope-floor",
-  "name": "Ski-slope Floor",
+  "name": {
+    "en-US": "Ski-slope Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

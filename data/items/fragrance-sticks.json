@@ -1,6 +1,8 @@
 {
   "id": "fragrance-sticks",
-  "name": "Fragrance Sticks",
+  "name": {
+    "en-US": "Fragrance Sticks"
+  },
   "games": {
     "nh": {
       "orderable": true,

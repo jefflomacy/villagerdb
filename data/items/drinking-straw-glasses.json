@@ -1,6 +1,8 @@
 {
   "id": "drinking-straw-glasses",
-  "name": "Drinking-straw Glasses",
+  "name": {
+    "en-US": "Drinking-straw Glasses"
+  },
   "games": {
     "nh": {
       "orderable": true,

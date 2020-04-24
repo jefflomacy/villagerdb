@@ -1,6 +1,8 @@
 {
   "id": "bunny-dress",
-  "name": "Bunny Dress",
+  "name": {
+    "en-US": "Bunny Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

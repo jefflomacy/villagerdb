@@ -1,6 +1,8 @@
 {
   "id": "ancient-knit",
-  "name": "Ancient Knit",
+  "name": {
+    "en-US": "Ancient Knit"
+  },
   "category": "Tops",
   "games": {
     "ac": {

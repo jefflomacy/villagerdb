@@ -1,6 +1,8 @@
 {
   "id": "mini-dingloid",
-  "name": "Mini Dingloid",
+  "name": {
+    "en-US": "Mini Dingloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

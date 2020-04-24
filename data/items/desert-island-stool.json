@@ -1,6 +1,8 @@
 {
   "id": "desert-island-stool",
-  "name": "Desert Island Stool",
+  "name": {
+    "en-US": "Desert Island Stool"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

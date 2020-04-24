@@ -1,6 +1,8 @@
 {
   "id": "pa-system",
-  "name": "PA System",
+  "name": {
+    "en-US": "PA System"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

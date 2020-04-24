@@ -1,6 +1,8 @@
 {
   "id": "anicottis-poster",
-  "name": "Anicotti's Poster",
+  "name": {
+    "en-US": "Anicotti's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

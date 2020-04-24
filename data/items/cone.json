@@ -1,6 +1,8 @@
 {
   "id": "cone",
-  "name": "Cone",
+  "name": {
+    "en-US": "Cone"
+  },
   "games": {
     "nh": {
       "orderable": true,

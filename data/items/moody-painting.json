@@ -1,6 +1,8 @@
 {
   "id": "moody-painting",
-  "name": "Moody Painting",
+  "name": {
+    "en-US": "Moody Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

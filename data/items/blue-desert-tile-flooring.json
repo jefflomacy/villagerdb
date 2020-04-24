@@ -1,6 +1,8 @@
 {
   "id": "blue-desert-tile-flooring",
-  "name": "Blue Desert-tile Flooring",
+  "name": {
+    "en-US": "Blue Desert-tile Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

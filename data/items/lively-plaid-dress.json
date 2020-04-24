@@ -1,6 +1,8 @@
 {
   "id": "lively-plaid-dress",
-  "name": "Lively Plaid Dress",
+  "name": {
+    "en-US": "Lively Plaid Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

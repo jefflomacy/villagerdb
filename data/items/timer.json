@@ -1,6 +1,8 @@
 {
   "id": "timer",
-  "name": "Timer",
+  "name": {
+    "en-US": "Timer"
+  },
   "category": "Tools",
   "games": {
     "nl": {

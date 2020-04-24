@@ -1,6 +1,8 @@
 {
   "id": "deer-decoration",
-  "name": "Deer Decoration",
+  "name": {
+    "en-US": "Deer Decoration"
+  },
   "games": {
     "nh": {
       "orderable": false,

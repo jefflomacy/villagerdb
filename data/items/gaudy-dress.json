@@ -1,6 +1,8 @@
 {
   "id": "gaudy-dress",
-  "name": "Gaudy Dress",
+  "name": {
+    "en-US": "Gaudy Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

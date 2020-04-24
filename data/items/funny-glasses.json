@@ -1,6 +1,8 @@
 {
   "id": "funny-glasses",
-  "name": "Funny Glasses",
+  "name": {
+    "en-US": "Funny Glasses"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

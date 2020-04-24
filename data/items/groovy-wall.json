@@ -1,6 +1,8 @@
 {
   "id": "groovy-wall",
-  "name": "Groovy Wall",
+  "name": {
+    "en-US": "Groovy Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

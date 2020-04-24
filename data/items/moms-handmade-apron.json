@@ -1,6 +1,8 @@
 {
   "id": "moms-handmade-apron",
-  "name": "Mom's Handmade Apron",
+  "name": {
+    "en-US": "Mom's Handmade Apron"
+  },
   "games": {
     "nh": {
       "sellPrice": {

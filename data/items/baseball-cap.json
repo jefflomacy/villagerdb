@@ -1,6 +1,8 @@
 {
   "id": "baseball-cap",
-  "name": "Baseball Cap",
+  "name": {
+    "en-US": "Baseball Cap"
+  },
   "games": {
     "nh": {
       "sellPrice": {

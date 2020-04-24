@@ -1,6 +1,8 @@
 {
   "id": "tire",
-  "name": "Tire",
+  "name": {
+    "en-US": "Tire"
+  },
   "category": "Usables",
   "games": {
     "nl": {

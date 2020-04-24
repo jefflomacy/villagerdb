@@ -1,6 +1,8 @@
 {
   "id": "galaxy-floor",
-  "name": "Galaxy Floor",
+  "name": {
+    "en-US": "Galaxy Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

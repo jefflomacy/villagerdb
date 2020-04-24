@@ -1,6 +1,8 @@
 {
   "id": "pharaohs-outfit",
-  "name": "Pharaoh's Outfit",
+  "name": {
+    "en-US": "Pharaoh's Outfit"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

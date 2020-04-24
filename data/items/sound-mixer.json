@@ -1,6 +1,8 @@
 {
   "id": "sound-mixer",
-  "name": "Sound Mixer",
+  "name": {
+    "en-US": "Sound Mixer"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

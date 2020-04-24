@@ -1,6 +1,8 @@
 {
   "id": "football-fish-model",
-  "name": "Football Fish Model",
+  "name": {
+    "en-US": "Football Fish Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

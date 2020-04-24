@@ -1,6 +1,8 @@
 {
   "id": "tile-screen",
-  "name": "Tile Screen",
+  "name": {
+    "en-US": "Tile Screen"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

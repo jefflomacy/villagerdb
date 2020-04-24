@@ -1,6 +1,8 @@
 {
   "id": "mini-fridge",
-  "name": "Mini Fridge",
+  "name": {
+    "en-US": "Mini Fridge"
+  },
   "games": {
     "nh": {
       "sellPrice": {

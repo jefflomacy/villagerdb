@@ -1,6 +1,8 @@
 {
   "id": "arowana",
-  "name": "Arowana",
+  "name": {
+    "en-US": "Arowana"
+  },
   "category": "Fish",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "plover-skirt",
-  "name": "Plover Skirt",
+  "name": {
+    "en-US": "Plover Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

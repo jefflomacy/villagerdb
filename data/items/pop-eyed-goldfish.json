@@ -1,6 +1,8 @@
 {
   "id": "pop-eyed-goldfish",
-  "name": "Pop-eyed Goldfish",
+  "name": {
+    "en-US": "Pop-eyed Goldfish"
+  },
   "games": {
     "nh": {
       "orderable": false,

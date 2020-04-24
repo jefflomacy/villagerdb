@@ -1,6 +1,8 @@
 {
   "id": "coachs-poster",
-  "name": "Coach's Poster",
+  "name": {
+    "en-US": "Coach's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

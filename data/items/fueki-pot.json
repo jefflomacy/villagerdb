@@ -1,6 +1,8 @@
 {
   "id": "fueki-pot",
-  "name": "Fueki Pot",
+  "name": {
+    "en-US": "Fueki Pot"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

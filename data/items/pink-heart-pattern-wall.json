@@ -1,6 +1,8 @@
 {
   "id": "pink-heart-pattern-wall",
-  "name": "Pink Heart-pattern Wall",
+  "name": {
+    "en-US": "Pink Heart-pattern Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "earth-rug",
-  "name": "Earth Rug",
+  "name": {
+    "en-US": "Earth Rug"
+  },
   "games": {
     "nh": {
       "sources": [

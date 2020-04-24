@@ -1,6 +1,8 @@
 {
   "id": "gaudy-sweater",
-  "name": "Gaudy Sweater",
+  "name": {
+    "en-US": "Gaudy Sweater"
+  },
   "category": "Tops",
   "games": {
     "ac": {

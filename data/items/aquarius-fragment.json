@@ -1,6 +1,8 @@
 {
   "id": "aquarius-fragment",
-  "name": "Aquarius Fragment",
+  "name": {
+    "en-US": "Aquarius Fragment"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "green-flower-print-wall",
-  "name": "Green Flower-print Wall",
+  "name": {
+    "en-US": "Green Flower-print Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

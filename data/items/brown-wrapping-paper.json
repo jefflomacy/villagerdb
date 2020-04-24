@@ -1,6 +1,8 @@
 {
   "id": "brown-wrapping-paper",
-  "name": "Brown Wrapping Paper",
+  "name": {
+    "en-US": "Brown Wrapping Paper"
+  },
   "games": {
     "nh": {
       "sellPrice": {

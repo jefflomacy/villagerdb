@@ -1,6 +1,8 @@
 {
   "id": "horse-mackerel",
-  "name": "Horse Mackerel",
+  "name": {
+    "en-US": "Horse Mackerel"
+  },
   "category": "Fish",
   "games": {
     "nl": {

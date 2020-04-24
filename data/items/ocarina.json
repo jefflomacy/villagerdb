@@ -1,6 +1,8 @@
 {
   "id": "ocarina",
-  "name": "Ocarina",
+  "name": {
+    "en-US": "Ocarina"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "giant-isopod",
-  "name": "Giant Isopod",
+  "name": {
+    "en-US": "Giant Isopod"
+  },
   "category": "Fish",
   "games": {
     "nl": {

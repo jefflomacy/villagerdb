@@ -1,6 +1,8 @@
 {
   "id": "exquisite-wall",
-  "name": "Exquisite Wall",
+  "name": {
+    "en-US": "Exquisite Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

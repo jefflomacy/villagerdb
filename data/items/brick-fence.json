@@ -1,6 +1,8 @@
 {
   "id": "brick-fence",
-  "name": "Brick Fence",
+  "name": {
+    "en-US": "Brick Fence"
+  },
   "games": {
     "nh": {
       "orderable": false,

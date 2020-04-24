@@ -1,6 +1,8 @@
 {
   "id": "otomon-egg",
-  "name": "Otomon Egg",
+  "name": {
+    "en-US": "Otomon Egg"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

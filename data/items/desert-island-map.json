@@ -1,6 +1,8 @@
 {
   "id": "desert-island-map",
-  "name": "Desert Island Map",
+  "name": {
+    "en-US": "Desert Island Map"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

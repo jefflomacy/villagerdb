@@ -1,6 +1,8 @@
 {
   "id": "twiggys-poster",
-  "name": "Twiggy's Poster",
+  "name": {
+    "en-US": "Twiggy's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

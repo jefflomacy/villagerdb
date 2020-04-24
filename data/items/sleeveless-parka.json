@@ -1,6 +1,8 @@
 {
   "id": "sleeveless-parka",
-  "name": "Sleeveless Parka",
+  "name": {
+    "en-US": "Sleeveless Parka"
+  },
   "games": {
     "nh": {
       "sellPrice": {

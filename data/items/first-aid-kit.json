@@ -1,6 +1,8 @@
 {
   "id": "first-aid-kit",
-  "name": "First-aid Kit",
+  "name": {
+    "en-US": "First-aid Kit"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

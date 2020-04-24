@@ -1,6 +1,8 @@
 {
   "id": "kandoora",
-  "name": "Kandoora",
+  "name": {
+    "en-US": "Kandoora"
+  },
   "games": {
     "nh": {
       "sellPrice": {

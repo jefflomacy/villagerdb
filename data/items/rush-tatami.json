@@ -1,6 +1,8 @@
 {
   "id": "rush-tatami",
-  "name": "Rush Tatami",
+  "name": {
+    "en-US": "Rush Tatami"
+  },
   "games": {
     "nh": {
       "sellPrice": {

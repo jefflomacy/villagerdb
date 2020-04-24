@@ -1,6 +1,8 @@
 {
   "id": "unglazed-dish-set",
-  "name": "Unglazed Dish Set",
+  "name": {
+    "en-US": "Unglazed Dish Set"
+  },
   "games": {
     "nh": {
       "sellPrice": {

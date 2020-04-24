@@ -1,6 +1,8 @@
 {
   "id": "hallway-wall",
-  "name": "Hallway Wall",
+  "name": {
+    "en-US": "Hallway Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

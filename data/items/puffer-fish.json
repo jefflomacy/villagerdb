@@ -1,6 +1,8 @@
 {
   "id": "puffer-fish",
-  "name": "Puffer Fish",
+  "name": {
+    "en-US": "Puffer Fish"
+  },
   "category": "Fish",
   "games": {
     "nl": {

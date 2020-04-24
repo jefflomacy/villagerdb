@@ -1,6 +1,8 @@
 {
   "id": "pj-outfit",
-  "name": "Pj Outfit",
+  "name": {
+    "en-US": "Pj Outfit"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "water-pot",
-  "name": "Water Pot",
+  "name": {
+    "en-US": "Water Pot"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

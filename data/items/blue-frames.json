@@ -1,6 +1,8 @@
 {
   "id": "blue-frames",
-  "name": "Blue Frames",
+  "name": {
+    "en-US": "Blue Frames"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

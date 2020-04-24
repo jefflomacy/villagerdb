@@ -1,6 +1,8 @@
 {
   "id": "lunar-surface",
-  "name": "Lunar Surface",
+  "name": {
+    "en-US": "Lunar Surface"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

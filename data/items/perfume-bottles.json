@@ -1,6 +1,8 @@
 {
   "id": "perfume-bottles",
-  "name": "Perfume Bottles",
+  "name": {
+    "en-US": "Perfume Bottles"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "kiwi-dress",
-  "name": "Kiwi Dress",
+  "name": {
+    "en-US": "Kiwi Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

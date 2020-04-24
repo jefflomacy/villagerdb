@@ -1,6 +1,8 @@
 {
   "id": "butterfly-dress",
-  "name": "Butterfly Dress",
+  "name": {
+    "en-US": "Butterfly Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

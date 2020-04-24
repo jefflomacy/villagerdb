@@ -1,6 +1,8 @@
 {
   "id": "nintendo-3ds-station",
-  "name": "Nintendo 3DS Station",
+  "name": {
+    "en-US": "Nintendo 3DS Station"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

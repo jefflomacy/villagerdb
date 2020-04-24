@@ -1,6 +1,8 @@
 {
   "id": "rosalia-batesi-beetle",
-  "name": "Rosalia Batesi Beetle",
+  "name": {
+    "en-US": "Rosalia Batesi Beetle"
+  },
   "games": {
     "nh": {
       "orderable": false,

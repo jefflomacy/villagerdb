@@ -1,6 +1,8 @@
 {
   "id": "seven-ball-shirt",
-  "name": "Seven-Ball Shirt",
+  "name": {
+    "en-US": "Seven-Ball Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

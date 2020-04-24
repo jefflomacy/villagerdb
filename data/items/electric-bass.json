@@ -1,6 +1,8 @@
 {
   "id": "electric-bass",
-  "name": "Electric Bass",
+  "name": {
+    "en-US": "Electric Bass"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

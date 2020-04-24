@@ -1,6 +1,8 @@
 {
   "id": "patched-hat",
-  "name": "Patched Hat",
+  "name": {
+    "en-US": "Patched Hat"
+  },
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "zen-cushion",
-  "name": "Zen Cushion",
+  "name": {
+    "en-US": "Zen Cushion"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

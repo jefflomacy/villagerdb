@@ -1,6 +1,8 @@
 {
   "id": "red-and-blue-checked-rug",
-  "name": "Red-and-blue Checked Rug",
+  "name": {
+    "en-US": "Red-and-blue Checked Rug"
+  },
   "games": {
     "nh": {
       "sources": [

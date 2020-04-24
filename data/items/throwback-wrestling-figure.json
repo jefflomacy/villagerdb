@@ -1,6 +1,8 @@
 {
   "id": "throwback-wrestling-figure",
-  "name": "Throwback Wrestling Figure",
+  "name": {
+    "en-US": "Throwback Wrestling Figure"
+  },
   "games": {
     "nh": {
       "orderable": true,

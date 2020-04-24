@@ -1,6 +1,8 @@
 {
   "id": "labelle-shorts",
-  "name": "Labelle Shorts",
+  "name": {
+    "en-US": "Labelle Shorts"
+  },
   "games": {
     "nh": {
       "sellPrice": {

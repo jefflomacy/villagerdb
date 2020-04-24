@@ -1,6 +1,8 @@
 {
   "id": "reindeer-sweater",
-  "name": "Reindeer Sweater",
+  "name": {
+    "en-US": "Reindeer Sweater"
+  },
   "games": {
     "nh": {
       "sellPrice": {

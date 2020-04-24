@@ -1,6 +1,8 @@
 {
   "id": "kaiseki-meal",
-  "name": "Kaiseki Meal",
+  "name": {
+    "en-US": "Kaiseki Meal"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

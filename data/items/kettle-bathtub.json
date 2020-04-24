@@ -1,6 +1,8 @@
 {
   "id": "kettle-bathtub",
-  "name": "Kettle Bathtub",
+  "name": {
+    "en-US": "Kettle Bathtub"
+  },
   "games": {
     "nh": {
       "sellPrice": {

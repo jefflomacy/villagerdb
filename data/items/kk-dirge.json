@@ -1,6 +1,8 @@
 {
   "id": "kk-dirge",
-  "name": "K.K. Dirge",
+  "name": {
+    "en-US": "K.K. Dirge"
+  },
   "category": "Music",
   "games": {
     "nl": {

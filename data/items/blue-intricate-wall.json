@@ -1,6 +1,8 @@
 {
   "id": "blue-intricate-wall",
-  "name": "Blue Intricate Wall",
+  "name": {
+    "en-US": "Blue Intricate Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

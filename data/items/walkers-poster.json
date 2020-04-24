@@ -1,6 +1,8 @@
 {
   "id": "walkers-poster",
-  "name": "Walker's Poster",
+  "name": {
+    "en-US": "Walker's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

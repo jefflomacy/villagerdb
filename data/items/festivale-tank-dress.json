@@ -1,6 +1,8 @@
 {
   "id": "festivale-tank-dress",
-  "name": "Festivale Tank Dress",
+  "name": {
+    "en-US": "Festivale Tank Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

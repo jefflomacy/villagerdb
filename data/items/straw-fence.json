@@ -1,6 +1,8 @@
 {
   "id": "straw-fence",
-  "name": "Straw Fence",
+  "name": {
+    "en-US": "Straw Fence"
+  },
   "games": {
     "nh": {
       "orderable": false,

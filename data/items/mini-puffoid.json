@@ -1,6 +1,8 @@
 {
   "id": "mini-puffoid",
-  "name": "Mini Puffoid",
+  "name": {
+    "en-US": "Mini Puffoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

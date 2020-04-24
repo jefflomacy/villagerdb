@@ -1,6 +1,8 @@
 {
   "id": "pompompurin-bed",
-  "name": "Pompompurin Bed",
+  "name": {
+    "en-US": "Pompompurin Bed"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

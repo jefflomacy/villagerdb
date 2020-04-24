@@ -1,6 +1,8 @@
 {
   "id": "freshwater-goby-model",
-  "name": "Freshwater Goby Model",
+  "name": {
+    "en-US": "Freshwater Goby Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

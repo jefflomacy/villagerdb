@@ -1,6 +1,8 @@
 {
   "id": "massage-recliner",
-  "name": "Massage Recliner",
+  "name": {
+    "en-US": "Massage Recliner"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

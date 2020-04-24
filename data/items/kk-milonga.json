@@ -1,6 +1,8 @@
 {
   "id": "kk-milonga",
-  "name": "K.K. Milonga",
+  "name": {
+    "en-US": "K.K. Milonga"
+  },
   "category": "Music",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "pineapple-dress",
-  "name": "Pineapple Dress",
+  "name": {
+    "en-US": "Pineapple Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

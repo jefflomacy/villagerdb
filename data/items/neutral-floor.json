@@ -1,6 +1,8 @@
 {
   "id": "neutral-floor",
-  "name": "Neutral Floor",
+  "name": {
+    "en-US": "Neutral Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

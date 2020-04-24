@@ -1,6 +1,8 @@
 {
   "id": "studio-headphones",
-  "name": "Studio Headphones",
+  "name": {
+    "en-US": "Studio Headphones"
+  },
   "category": "Hats",
   "games": {
     "nl": {

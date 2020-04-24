@@ -1,6 +1,8 @@
 {
   "id": "whale-shark",
-  "name": "Whale Shark",
+  "name": {
+    "en-US": "Whale Shark"
+  },
   "category": "Fish",
   "games": {
     "nl": {

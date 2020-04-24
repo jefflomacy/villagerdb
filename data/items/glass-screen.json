@@ -1,6 +1,8 @@
 {
   "id": "glass-screen",
-  "name": "Glass Screen",
+  "name": {
+    "en-US": "Glass Screen"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

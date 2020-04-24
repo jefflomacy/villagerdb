@@ -1,6 +1,8 @@
 {
   "id": "retro-sleeveless-dress",
-  "name": "Retro Sleeveless Dress",
+  "name": {
+    "en-US": "Retro Sleeveless Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

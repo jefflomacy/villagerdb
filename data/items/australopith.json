@@ -1,6 +1,8 @@
 {
   "id": "australopith",
-  "name": "Australopith",
+  "name": {
+    "en-US": "Australopith"
+  },
   "games": {
     "nh": {
       "orderable": false,

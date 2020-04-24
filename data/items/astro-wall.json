@@ -1,6 +1,8 @@
 {
   "id": "astro-wall",
-  "name": "Astro Wall",
+  "name": {
+    "en-US": "Astro Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "gold-rose-crown",
-  "name": "Gold Rose Crown",
+  "name": {
+    "en-US": "Gold Rose Crown"
+  },
   "games": {
     "nh": {
       "sellPrice": {

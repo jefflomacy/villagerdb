@@ -1,6 +1,8 @@
 {
   "id": "dace",
-  "name": "Dace",
+  "name": {
+    "en-US": "Dace"
+  },
   "category": "Fish",
   "games": {
     "nl": {

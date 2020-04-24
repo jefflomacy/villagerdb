@@ -1,6 +1,8 @@
 {
   "id": "playroom-wall",
-  "name": "Playroom Wall",
+  "name": {
+    "en-US": "Playroom Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

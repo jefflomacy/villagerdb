@@ -1,6 +1,8 @@
 {
   "id": "toilet-cleaning-set",
-  "name": "Toilet-cleaning Set",
+  "name": {
+    "en-US": "Toilet-cleaning Set"
+  },
   "games": {
     "nh": {
       "orderable": true,

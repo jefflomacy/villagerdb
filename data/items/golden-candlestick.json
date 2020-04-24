@@ -1,6 +1,8 @@
 {
   "id": "golden-candlestick",
-  "name": "Golden Candlestick",
+  "name": {
+    "en-US": "Golden Candlestick"
+  },
   "games": {
     "nh": {
       "orderable": false,

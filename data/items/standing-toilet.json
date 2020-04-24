@@ -1,6 +1,8 @@
 {
   "id": "standing-toilet",
-  "name": "Standing Toilet",
+  "name": {
+    "en-US": "Standing Toilet"
+  },
   "games": {
     "nh": {
       "orderable": true,

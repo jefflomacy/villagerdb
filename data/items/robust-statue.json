@@ -1,6 +1,8 @@
 {
   "id": "robust-statue",
-  "name": "Robust Statue",
+  "name": {
+    "en-US": "Robust Statue"
+  },
   "category": "Art",
   "games": {
     "nl": {

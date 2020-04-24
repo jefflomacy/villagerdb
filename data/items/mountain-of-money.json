@@ -1,6 +1,8 @@
 {
   "id": "mountain-of-money",
-  "name": "Mountain Of Money",
+  "name": {
+    "en-US": "Mountain Of Money"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

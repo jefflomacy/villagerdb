@@ -1,6 +1,8 @@
 {
   "id": "flicker-shirt",
-  "name": "Flicker Shirt",
+  "name": {
+    "en-US": "Flicker Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

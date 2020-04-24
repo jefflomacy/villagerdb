@@ -1,6 +1,8 @@
 {
   "id": "operating-room-cart",
-  "name": "Operating-room Cart",
+  "name": {
+    "en-US": "Operating-room Cart"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

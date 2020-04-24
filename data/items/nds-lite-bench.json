@@ -1,6 +1,8 @@
 {
   "id": "nds-lite-bench",
-  "name": "NDS Lite Bench",
+  "name": {
+    "en-US": "NDS Lite Bench"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "cart-return",
-  "name": "Cart Return",
+  "name": {
+    "en-US": "Cart Return"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "dotted-wall",
-  "name": "Dotted Wall",
+  "name": {
+    "en-US": "Dotted Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

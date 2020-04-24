@@ -1,6 +1,8 @@
 {
   "id": "common-butterfly",
-  "name": "Common Butterfly",
+  "name": {
+    "en-US": "Common Butterfly"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

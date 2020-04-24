@@ -1,6 +1,8 @@
 {
   "id": "nook-inc-rug",
-  "name": "Nook Inc. Rug",
+  "name": {
+    "en-US": "Nook Inc. Rug"
+  },
   "games": {
     "nh": {
       "orderable": true,

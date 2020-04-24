@@ -1,6 +1,8 @@
 {
   "id": "bread-making-set",
-  "name": "Bread-making Set",
+  "name": {
+    "en-US": "Bread-making Set"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "satin-dress",
-  "name": "Satin Dress",
+  "name": {
+    "en-US": "Satin Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

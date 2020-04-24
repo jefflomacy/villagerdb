@@ -1,6 +1,8 @@
 {
   "id": "hello-kitty-bed",
-  "name": "Hello Kitty Bed",
+  "name": {
+    "en-US": "Hello Kitty Bed"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

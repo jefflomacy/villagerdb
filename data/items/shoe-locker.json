@@ -1,6 +1,8 @@
 {
   "id": "shoe-locker",
-  "name": "Shoe Locker",
+  "name": {
+    "en-US": "Shoe Locker"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

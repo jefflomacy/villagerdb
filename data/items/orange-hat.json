@@ -1,6 +1,8 @@
 {
   "id": "orange-hat",
-  "name": "Orange Hat",
+  "name": {
+    "en-US": "Orange Hat"
+  },
   "games": {
     "nh": {
       "orderable": false,

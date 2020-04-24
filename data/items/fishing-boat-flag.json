@@ -1,6 +1,8 @@
 {
   "id": "fishing-boat-flag",
-  "name": "Fishing-boat Flag",
+  "name": {
+    "en-US": "Fishing-boat Flag"
+  },
   "games": {
     "nh": {
       "orderable": true,

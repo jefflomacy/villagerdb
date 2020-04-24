@@ -1,6 +1,8 @@
 {
   "id": "log-decorative-shelves",
-  "name": "Log Decorative Shelves",
+  "name": {
+    "en-US": "Log Decorative Shelves"
+  },
   "games": {
     "nh": {
       "sellPrice": {

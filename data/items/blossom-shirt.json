@@ -1,6 +1,8 @@
 {
   "id": "blossom-shirt",
-  "name": "Blossom Shirt",
+  "name": {
+    "en-US": "Blossom Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "octavians-poster",
-  "name": "Octavian's Poster",
+  "name": {
+    "en-US": "Octavian's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

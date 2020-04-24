@@ -1,6 +1,8 @@
 {
   "id": "leopard-umbrella",
-  "name": "Leopard Umbrella",
+  "name": {
+    "en-US": "Leopard Umbrella"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "embroidered-pattern-skirt",
-  "name": "Embroidered-pattern Skirt",
+  "name": {
+    "en-US": "Embroidered-pattern Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

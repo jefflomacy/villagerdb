@@ -1,6 +1,8 @@
 {
   "id": "cold-country-dress",
-  "name": "Cold-country Dress",
+  "name": {
+    "en-US": "Cold-country Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

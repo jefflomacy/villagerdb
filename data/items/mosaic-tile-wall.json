@@ -1,6 +1,8 @@
 {
   "id": "mosaic-tile-wall",
-  "name": "Mosaic-tile Wall",
+  "name": {
+    "en-US": "Mosaic-tile Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

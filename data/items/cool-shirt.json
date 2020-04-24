@@ -1,6 +1,8 @@
 {
   "id": "cool-shirt",
-  "name": "Cool Shirt",
+  "name": {
+    "en-US": "Cool Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

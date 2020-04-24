@@ -1,6 +1,8 @@
 {
   "id": "windsock-shirt",
-  "name": "Windsock Shirt",
+  "name": {
+    "en-US": "Windsock Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

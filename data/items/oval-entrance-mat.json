@@ -1,6 +1,8 @@
 {
   "id": "oval-entrance-mat",
-  "name": "Oval Entrance Mat",
+  "name": {
+    "en-US": "Oval Entrance Mat"
+  },
   "games": {
     "nh": {
       "sources": [

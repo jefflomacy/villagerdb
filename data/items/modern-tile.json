@@ -1,6 +1,8 @@
 {
   "id": "modern-tile",
-  "name": "Modern Tile",
+  "name": {
+    "en-US": "Modern Tile"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

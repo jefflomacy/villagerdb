@@ -1,6 +1,8 @@
 {
   "id": "tile-paper",
-  "name": "Tile Paper",
+  "name": {
+    "en-US": "Tile Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

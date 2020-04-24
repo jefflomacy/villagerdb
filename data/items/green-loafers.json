@@ -1,6 +1,8 @@
 {
   "id": "green-loafers",
-  "name": "Green Loafers",
+  "name": {
+    "en-US": "Green Loafers"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "pom-casquette",
-  "name": "Pom Casquette",
+  "name": {
+    "en-US": "Pom Casquette"
+  },
   "games": {
     "nh": {
       "sellPrice": {

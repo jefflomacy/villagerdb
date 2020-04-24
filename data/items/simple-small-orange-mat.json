@@ -1,6 +1,8 @@
 {
   "id": "simple-small-orange-mat",
-  "name": "Simple Small Orange Mat",
+  "name": {
+    "en-US": "Simple Small Orange Mat"
+  },
   "games": {
     "nh": {
       "sources": [

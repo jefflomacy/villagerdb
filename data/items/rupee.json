@@ -1,6 +1,8 @@
 {
   "id": "rupee",
-  "name": "Rupee",
+  "name": {
+    "en-US": "Rupee"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "sea-star",
-  "name": "Sea Star",
+  "name": {
+    "en-US": "Sea Star"
+  },
   "category": "Fish",
   "games": {
     "nl": {

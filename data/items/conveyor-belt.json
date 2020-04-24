@@ -1,6 +1,8 @@
 {
   "id": "conveyor-belt",
-  "name": "Conveyor Belt",
+  "name": {
+    "en-US": "Conveyor Belt"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

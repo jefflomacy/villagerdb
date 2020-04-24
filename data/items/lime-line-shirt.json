@@ -1,6 +1,8 @@
 {
   "id": "lime-line-shirt",
-  "name": "Lime Line Shirt",
+  "name": {
+    "en-US": "Lime Line Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

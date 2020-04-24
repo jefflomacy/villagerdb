@@ -1,6 +1,8 @@
 {
   "id": "rovers-poster",
-  "name": "Rover's Poster",
+  "name": {
+    "en-US": "Rover's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

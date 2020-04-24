@@ -1,6 +1,8 @@
 {
   "id": "lattice-wall",
-  "name": "Lattice Wall",
+  "name": {
+    "en-US": "Lattice Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

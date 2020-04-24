@@ -1,6 +1,8 @@
 {
   "id": "twinkle-tank-dress",
-  "name": "Twinkle Tank Dress",
+  "name": {
+    "en-US": "Twinkle Tank Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

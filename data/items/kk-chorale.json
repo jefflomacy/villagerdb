@@ -1,6 +1,8 @@
 {
   "id": "kk-chorale",
-  "name": "K.K. Chorale",
+  "name": {
+    "en-US": "K.K. Chorale"
+  },
   "category": "Music",
   "games": {
     "nl": {

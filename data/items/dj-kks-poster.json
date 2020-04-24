@@ -1,6 +1,8 @@
 {
   "id": "dj-kks-poster",
-  "name": "Dj Kk's Poster",
+  "name": {
+    "en-US": "Dj Kk's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

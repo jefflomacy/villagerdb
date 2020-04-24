@@ -1,6 +1,8 @@
 {
   "id": "illuminated-snowflakes",
-  "name": "Illuminated Snowflakes",
+  "name": {
+    "en-US": "Illuminated Snowflakes"
+  },
   "games": {
     "nh": {
       "sellPrice": {

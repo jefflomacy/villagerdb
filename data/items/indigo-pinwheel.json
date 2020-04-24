@@ -1,6 +1,8 @@
 {
   "id": "indigo-pinwheel",
-  "name": "Indigo Pinwheel",
+  "name": {
+    "en-US": "Indigo Pinwheel"
+  },
   "category": "Balloons",
   "games": {
     "nl": {

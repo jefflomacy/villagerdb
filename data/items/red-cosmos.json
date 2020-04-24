@@ -1,6 +1,8 @@
 {
   "id": "red-cosmos",
-  "name": "Red Cosmos",
+  "name": {
+    "en-US": "Red Cosmos"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "dish-drying-rack",
-  "name": "Dish-drying Rack",
+  "name": {
+    "en-US": "Dish-drying Rack"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "bookers-poster",
-  "name": "Booker's Poster",
+  "name": {
+    "en-US": "Booker's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

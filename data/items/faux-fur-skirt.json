@@ -1,6 +1,8 @@
 {
   "id": "faux-fur-skirt",
-  "name": "Faux-fur Skirt",
+  "name": {
+    "en-US": "Faux-fur Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "marine-pop-wall",
-  "name": "Marine Pop Wall",
+  "name": {
+    "en-US": "Marine Pop Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

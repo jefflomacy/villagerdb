@@ -1,6 +1,8 @@
 {
   "id": "flowery-shirt",
-  "name": "Flowery Shirt",
+  "name": {
+    "en-US": "Flowery Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

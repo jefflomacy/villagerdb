@@ -1,6 +1,8 @@
 {
   "id": "horned-atlas",
-  "name": "Horned Atlas",
+  "name": {
+    "en-US": "Horned Atlas"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "hunters-hive",
-  "name": "Hunter's Hive",
+  "name": {
+    "en-US": "Hunter's Hive"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

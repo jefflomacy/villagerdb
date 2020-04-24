@@ -1,6 +1,8 @@
 {
   "id": "airmail-paper",
-  "name": "Airmail Paper",
+  "name": {
+    "en-US": "Airmail Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

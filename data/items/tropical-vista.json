@@ -1,6 +1,8 @@
 {
   "id": "tropical-vista",
-  "name": "Tropical Vista",
+  "name": {
+    "en-US": "Tropical Vista"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

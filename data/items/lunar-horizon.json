@@ -1,6 +1,8 @@
 {
   "id": "lunar-horizon",
-  "name": "Lunar Horizon",
+  "name": {
+    "en-US": "Lunar Horizon"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

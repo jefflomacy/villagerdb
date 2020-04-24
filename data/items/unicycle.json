@@ -1,6 +1,8 @@
 {
   "id": "unicycle",
-  "name": "Unicycle",
+  "name": {
+    "en-US": "Unicycle"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

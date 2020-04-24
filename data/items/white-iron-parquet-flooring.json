@@ -1,6 +1,8 @@
 {
   "id": "white-iron-parquet-flooring",
-  "name": "White Iron-parquet Flooring",
+  "name": {
+    "en-US": "White Iron-parquet Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

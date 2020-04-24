@@ -1,6 +1,8 @@
 {
   "id": "fine-painting",
-  "name": "Fine Painting",
+  "name": {
+    "en-US": "Fine Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

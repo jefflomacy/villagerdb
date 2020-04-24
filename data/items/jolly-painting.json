@@ -1,6 +1,8 @@
 {
   "id": "jolly-painting",
-  "name": "Jolly Painting",
+  "name": {
+    "en-US": "Jolly Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

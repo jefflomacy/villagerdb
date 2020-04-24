@@ -1,6 +1,8 @@
 {
   "id": "natural-bench",
-  "name": "Natural Bench",
+  "name": {
+    "en-US": "Natural Bench"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

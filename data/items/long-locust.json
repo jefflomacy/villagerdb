@@ -1,6 +1,8 @@
 {
   "id": "long-locust",
-  "name": "Long Locust",
+  "name": {
+    "en-US": "Long Locust"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

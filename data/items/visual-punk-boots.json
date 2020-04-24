@@ -1,6 +1,8 @@
 {
   "id": "visual-punk-boots",
-  "name": "Visual-punk Boots",
+  "name": {
+    "en-US": "Visual-punk Boots"
+  },
   "games": {
     "nh": {
       "sellPrice": {

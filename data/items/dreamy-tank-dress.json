@@ -1,6 +1,8 @@
 {
   "id": "dreamy-tank-dress",
-  "name": "Dreamy Tank Dress",
+  "name": {
+    "en-US": "Dreamy Tank Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

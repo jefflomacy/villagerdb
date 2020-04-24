@@ -1,6 +1,8 @@
 {
   "id": "clam",
-  "name": "Clam",
+  "name": {
+    "en-US": "Clam"
+  },
   "category": "Fish",
   "games": {
     "nl": {

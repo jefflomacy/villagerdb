@@ -1,6 +1,8 @@
 {
   "id": "pompompurin-pudding",
-  "name": "Pompompurin Pudding",
+  "name": {
+    "en-US": "Pompompurin Pudding"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

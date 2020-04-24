@@ -1,6 +1,8 @@
 {
   "id": "street-organ",
-  "name": "Street Organ",
+  "name": {
+    "en-US": "Street Organ"
+  },
   "games": {
     "nh": {
       "orderable": true,

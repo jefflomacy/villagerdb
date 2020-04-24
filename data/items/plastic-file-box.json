@@ -1,6 +1,8 @@
 {
   "id": "plastic-file-box",
-  "name": "Plastic File Box",
+  "name": {
+    "en-US": "Plastic File Box"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

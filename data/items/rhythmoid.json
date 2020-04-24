@@ -1,6 +1,8 @@
 {
   "id": "rhythmoid",
-  "name": "Rhythmoid",
+  "name": {
+    "en-US": "Rhythmoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

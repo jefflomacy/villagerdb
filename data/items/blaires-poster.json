@@ -1,6 +1,8 @@
 {
   "id": "blaires-poster",
-  "name": "Blaire's Poster",
+  "name": {
+    "en-US": "Blaire's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

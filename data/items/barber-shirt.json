@@ -1,6 +1,8 @@
 {
   "id": "barber-shirt",
-  "name": "Barber Shirt",
+  "name": {
+    "en-US": "Barber Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

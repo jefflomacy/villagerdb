@@ -1,6 +1,8 @@
 {
   "id": "ribbon-straps-tank",
-  "name": "Ribbon-straps Tank",
+  "name": {
+    "en-US": "Ribbon-straps Tank"
+  },
   "games": {
     "nh": {
       "sellPrice": {

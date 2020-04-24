@@ -1,6 +1,8 @@
 {
   "id": "high-tops",
-  "name": "High-tops",
+  "name": {
+    "en-US": "High-tops"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "kerokerokeroppi-pins",
-  "name": "Kerokerokeroppi Pins",
+  "name": {
+    "en-US": "Kerokerokeroppi Pins"
+  },
   "category": "Hats",
   "games": {
     "nl": {

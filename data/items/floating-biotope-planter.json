@@ -1,6 +1,8 @@
 {
   "id": "floating-biotope-planter",
-  "name": "Floating-biotope Planter",
+  "name": {
+    "en-US": "Floating-biotope Planter"
+  },
   "games": {
     "nh": {
       "orderable": true,

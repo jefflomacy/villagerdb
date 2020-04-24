@@ -1,6 +1,8 @@
 {
   "id": "prim-outfit",
-  "name": "Prim Outfit",
+  "name": {
+    "en-US": "Prim Outfit"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "kk-island",
-  "name": "K.K. Island",
+  "name": {
+    "en-US": "K.K. Island"
+  },
   "category": "Music",
   "games": {
     "nl": {

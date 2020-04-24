@@ -1,6 +1,8 @@
 {
   "id": "parka-dress",
-  "name": "Parka Dress",
+  "name": {
+    "en-US": "Parka Dress"
+  },
   "games": {
     "nh": {
       "orderable": true,

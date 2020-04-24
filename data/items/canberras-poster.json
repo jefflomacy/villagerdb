@@ -1,6 +1,8 @@
 {
   "id": "canberras-poster",
-  "name": "Canberra's Poster",
+  "name": {
+    "en-US": "Canberra's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

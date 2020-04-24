@@ -1,6 +1,8 @@
 {
   "id": "dog-nose",
-  "name": "Dog Nose",
+  "name": {
+    "en-US": "Dog Nose"
+  },
   "games": {
     "nh": {
       "sellPrice": {

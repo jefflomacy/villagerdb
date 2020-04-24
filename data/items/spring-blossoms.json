@@ -1,6 +1,8 @@
 {
   "id": "spring-blossoms",
-  "name": "Spring Blossoms",
+  "name": {
+    "en-US": "Spring Blossoms"
+  },
   "category": "Music",
   "games": {
     "nl": {

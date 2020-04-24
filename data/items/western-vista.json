@@ -1,6 +1,8 @@
 {
   "id": "western-vista",
-  "name": "Western Vista",
+  "name": {
+    "en-US": "Western Vista"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "mini-rustoid",
-  "name": "Mini Rustoid",
+  "name": {
+    "en-US": "Mini Rustoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

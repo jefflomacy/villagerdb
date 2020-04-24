@@ -1,6 +1,8 @@
 {
   "id": "graduation-gown",
-  "name": "Graduation Gown",
+  "name": {
+    "en-US": "Graduation Gown"
+  },
   "category": "Tops",
   "games": {
     "nl": {

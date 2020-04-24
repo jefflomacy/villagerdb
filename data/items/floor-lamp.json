@@ -1,6 +1,8 @@
 {
   "id": "floor-lamp",
-  "name": "Floor Lamp",
+  "name": {
+    "en-US": "Floor Lamp"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "coin-locker",
-  "name": "Coin Locker",
+  "name": {
+    "en-US": "Coin Locker"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

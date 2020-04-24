@@ -1,6 +1,8 @@
 {
   "id": "zen-cupboard",
-  "name": "Zen Cupboard",
+  "name": {
+    "en-US": "Zen Cupboard"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

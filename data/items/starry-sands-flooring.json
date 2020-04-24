@@ -1,6 +1,8 @@
 {
   "id": "starry-sands-flooring",
-  "name": "Starry-sands Flooring",
+  "name": {
+    "en-US": "Starry-sands Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

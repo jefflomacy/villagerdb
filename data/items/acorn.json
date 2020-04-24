@@ -1,6 +1,8 @@
 {
   "id": "acorn",
-  "name": "Acorn",
+  "name": {
+    "en-US": "Acorn"
+  },
   "games": {
     "nh": {
       "sellPrice": {

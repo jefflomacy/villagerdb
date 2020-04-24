@@ -1,6 +1,8 @@
 {
   "id": "suit-with-stand-up-collar",
-  "name": "Suit With Stand-up Collar",
+  "name": {
+    "en-US": "Suit With Stand-up Collar"
+  },
   "games": {
     "nh": {
       "sellPrice": {

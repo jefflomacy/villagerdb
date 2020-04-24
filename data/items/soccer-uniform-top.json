@@ -1,6 +1,8 @@
 {
   "id": "soccer-uniform-top",
-  "name": "Soccer-uniform Top",
+  "name": {
+    "en-US": "Soccer-uniform Top"
+  },
   "games": {
     "nh": {
       "sellPrice": {

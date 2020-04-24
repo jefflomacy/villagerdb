@@ -1,6 +1,8 @@
 {
   "id": "ok-motors-sign",
-  "name": "Ok Motors Sign",
+  "name": {
+    "en-US": "Ok Motors Sign"
+  },
   "games": {
     "nh": {
       "sellPrice": {

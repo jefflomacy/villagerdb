@@ -1,6 +1,8 @@
 {
   "id": "color-block-dress-shirt",
-  "name": "Color-block Dress Shirt",
+  "name": {
+    "en-US": "Color-block Dress Shirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

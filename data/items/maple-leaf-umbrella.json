@@ -1,6 +1,8 @@
 {
   "id": "maple-leaf-umbrella",
-  "name": "Maple-leaf Umbrella",
+  "name": {
+    "en-US": "Maple-leaf Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

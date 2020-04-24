@@ -1,6 +1,8 @@
 {
   "id": "weathered-paper",
-  "name": "Weathered Paper",
+  "name": {
+    "en-US": "Weathered Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

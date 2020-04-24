@@ -1,6 +1,8 @@
 {
   "id": "sparkler",
-  "name": "Sparkler",
+  "name": {
+    "en-US": "Sparkler"
+  },
   "category": "Usables",
   "games": {
     "nl": {

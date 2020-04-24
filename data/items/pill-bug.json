@@ -1,6 +1,8 @@
 {
   "id": "pill-bug",
-  "name": "Pill Bug",
+  "name": {
+    "en-US": "Pill Bug"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

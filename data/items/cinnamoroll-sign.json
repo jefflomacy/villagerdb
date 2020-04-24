@@ -1,6 +1,8 @@
 {
   "id": "cinnamoroll-sign",
-  "name": "Cinnamoroll Sign",
+  "name": {
+    "en-US": "Cinnamoroll Sign"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "great-white-shark",
-  "name": "Great White Shark",
+  "name": {
+    "en-US": "Great White Shark"
+  },
   "games": {
     "nh": {
       "orderable": false,

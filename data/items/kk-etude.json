@@ -1,6 +1,8 @@
 {
   "id": "kk-etude",
-  "name": "K.K. Étude",
+  "name": {
+    "en-US": "K.K. Étude"
+  },
   "category": "Music",
   "games": {
     "nl": {

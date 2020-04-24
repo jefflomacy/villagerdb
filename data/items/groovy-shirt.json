@@ -1,6 +1,8 @@
 {
   "id": "groovy-shirt",
-  "name": "Groovy Shirt",
+  "name": {
+    "en-US": "Groovy Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

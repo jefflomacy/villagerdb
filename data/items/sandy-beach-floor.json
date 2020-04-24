@@ -1,6 +1,8 @@
 {
   "id": "sandy-beach-floor",
-  "name": "Sandy-beach Floor",
+  "name": {
+    "en-US": "Sandy-beach Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "jogging-shorts",
-  "name": "Jogging Shorts",
+  "name": {
+    "en-US": "Jogging Shorts"
+  },
   "games": {
     "nh": {
       "sellPrice": {

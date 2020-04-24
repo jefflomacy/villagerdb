@@ -1,6 +1,8 @@
 {
   "id": "dark-tulip-crown",
-  "name": "Dark Tulip Crown",
+  "name": {
+    "en-US": "Dark Tulip Crown"
+  },
   "games": {
     "nh": {
       "sellPrice": {

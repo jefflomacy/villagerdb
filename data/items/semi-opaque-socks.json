@@ -1,6 +1,8 @@
 {
   "id": "semi-opaque-socks",
-  "name": "Semi-opaque Socks",
+  "name": {
+    "en-US": "Semi-opaque Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "cute-sofa",
-  "name": "Cute Sofa",
+  "name": {
+    "en-US": "Cute Sofa"
+  },
   "games": {
     "nh": {
       "sellPrice": {

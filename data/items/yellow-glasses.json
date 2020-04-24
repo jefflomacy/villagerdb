@@ -1,6 +1,8 @@
 {
   "id": "yellow-glasses",
-  "name": "Yellow Glasses",
+  "name": {
+    "en-US": "Yellow Glasses"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

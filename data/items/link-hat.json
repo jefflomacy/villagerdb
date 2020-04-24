@@ -1,6 +1,8 @@
 {
   "id": "link-hat",
-  "name": "Link Hat",
+  "name": {
+    "en-US": "Link Hat"
+  },
   "category": "Hats",
   "games": {
     "nl": {

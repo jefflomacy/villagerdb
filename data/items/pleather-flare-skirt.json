@@ -1,6 +1,8 @@
 {
   "id": "pleather-flare-skirt",
-  "name": "Pleather Flare Skirt",
+  "name": {
+    "en-US": "Pleather Flare Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

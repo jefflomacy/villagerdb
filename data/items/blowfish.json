@@ -1,6 +1,8 @@
 {
   "id": "blowfish",
-  "name": "Blowfish",
+  "name": {
+    "en-US": "Blowfish"
+  },
   "category": "Fish",
   "games": {
     "nl": {

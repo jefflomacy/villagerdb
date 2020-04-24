@@ -1,6 +1,8 @@
 {
   "id": "red-zen-bridge",
-  "name": "Red Zen Bridge",
+  "name": {
+    "en-US": "Red Zen Bridge"
+  },
   "games": {
     "nh": {
       "buyPrices": [

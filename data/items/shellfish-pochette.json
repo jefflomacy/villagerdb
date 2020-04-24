@@ -1,6 +1,8 @@
 {
   "id": "shellfish-pochette",
-  "name": "Shellfish Pochette",
+  "name": {
+    "en-US": "Shellfish Pochette"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "silver-rod",
-  "name": "Silver Rod",
+  "name": {
+    "en-US": "Silver Rod"
+  },
   "category": "Tools",
   "games": {
     "nl": {

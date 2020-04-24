@@ -1,6 +1,8 @@
 {
   "id": "deinony-torso",
-  "name": "Deinony Torso",
+  "name": {
+    "en-US": "Deinony Torso"
+  },
   "games": {
     "nh": {
       "orderable": false,

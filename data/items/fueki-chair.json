@@ -1,6 +1,8 @@
 {
   "id": "fueki-chair",
-  "name": "Fueki Chair",
+  "name": {
+    "en-US": "Fueki Chair"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

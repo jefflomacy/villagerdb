@@ -1,6 +1,8 @@
 {
   "id": "hunter",
-  "name": "Hunter",
+  "name": {
+    "en-US": "Hunter"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

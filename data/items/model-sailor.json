@@ -1,6 +1,8 @@
 {
   "id": "model-sailor",
-  "name": "Model Sailor",
+  "name": {
+    "en-US": "Model Sailor"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "convenient-floor",
-  "name": "Convenient Floor",
+  "name": {
+    "en-US": "Convenient Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

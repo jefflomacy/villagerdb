@@ -1,6 +1,8 @@
 {
   "id": "rotten-cherry",
-  "name": "Rotten Cherry",
+  "name": {
+    "en-US": "Rotten Cherry"
+  },
   "category": "Fruit",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "leopard-paper",
-  "name": "Leopard Paper",
+  "name": {
+    "en-US": "Leopard Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

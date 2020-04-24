@@ -1,6 +1,8 @@
 {
   "id": "vinyl-round-toed-pumps",
-  "name": "Vinyl Round-toed Pumps",
+  "name": {
+    "en-US": "Vinyl Round-toed Pumps"
+  },
   "games": {
     "nh": {
       "sellPrice": {

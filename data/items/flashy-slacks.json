@@ -1,6 +1,8 @@
 {
   "id": "flashy-slacks",
-  "name": "Flashy Slacks",
+  "name": {
+    "en-US": "Flashy Slacks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

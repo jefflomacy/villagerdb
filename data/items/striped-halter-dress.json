@@ -1,6 +1,8 @@
 {
   "id": "striped-halter-dress",
-  "name": "Striped Halter Dress",
+  "name": {
+    "en-US": "Striped Halter Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "kk-folk",
-  "name": "K.K. Folk",
+  "name": {
+    "en-US": "K.K. Folk"
+  },
   "category": "Music",
   "games": {
     "nl": {

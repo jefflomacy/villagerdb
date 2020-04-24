@@ -1,6 +1,8 @@
 {
   "id": "red-wavy-rug",
-  "name": "Red Wavy Rug",
+  "name": {
+    "en-US": "Red Wavy Rug"
+  },
   "games": {
     "nh": {
       "sources": [

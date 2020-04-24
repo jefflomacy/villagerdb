@@ -1,6 +1,8 @@
 {
   "id": "mantis-shrimp",
-  "name": "Mantis Shrimp",
+  "name": {
+    "en-US": "Mantis Shrimp"
+  },
   "category": "Fish",
   "games": {
     "nl": {

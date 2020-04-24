@@ -1,6 +1,8 @@
 {
   "id": "orange-umbrella",
-  "name": "Orange Umbrella",
+  "name": {
+    "en-US": "Orange Umbrella"
+  },
   "games": {
     "nh": {
       "customizable": false,

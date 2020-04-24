@@ -1,6 +1,8 @@
 {
   "id": "white-ring-shirt",
-  "name": "White Ring Shirt",
+  "name": {
+    "en-US": "White Ring Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

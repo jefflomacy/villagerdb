@@ -1,6 +1,8 @@
 {
   "id": "labelle-tights",
-  "name": "Labelle Tights",
+  "name": {
+    "en-US": "Labelle Tights"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "rubber-mud-mat",
-  "name": "Rubber Mud Mat",
+  "name": {
+    "en-US": "Rubber Mud Mat"
+  },
   "games": {
     "nh": {
       "sources": [

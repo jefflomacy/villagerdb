@@ -1,6 +1,8 @@
 {
   "id": "i-love-gc-shirt",
-  "name": "I Love GC Shirt",
+  "name": {
+    "en-US": "I Love GC Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

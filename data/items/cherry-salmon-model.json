@@ -1,6 +1,8 @@
 {
   "id": "cherry-salmon-model",
-  "name": "Cherry Salmon Model",
+  "name": {
+    "en-US": "Cherry Salmon Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "mushroom-wand",
-  "name": "Mushroom Wand",
+  "name": {
+    "en-US": "Mushroom Wand"
+  },
   "games": {
     "nh": {
       "orderable": false,

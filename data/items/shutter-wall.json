@@ -1,6 +1,8 @@
 {
   "id": "shutter-wall",
-  "name": "Shutter Wall",
+  "name": {
+    "en-US": "Shutter Wall"
+  },
   "games": {
     "nh": {
       "orderable": false,

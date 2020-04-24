@@ -1,6 +1,8 @@
 {
   "id": "shop-mat",
-  "name": "Shop Mat",
+  "name": {
+    "en-US": "Shop Mat"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

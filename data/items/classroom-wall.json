@@ -1,6 +1,8 @@
 {
   "id": "classroom-wall",
-  "name": "Classroom Wall",
+  "name": {
+    "en-US": "Classroom Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

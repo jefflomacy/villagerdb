@@ -1,6 +1,8 @@
 {
   "id": "pancakes",
-  "name": "Pancakes",
+  "name": {
+    "en-US": "Pancakes"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

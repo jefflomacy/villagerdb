@@ -1,6 +1,8 @@
 {
   "id": "my-melody-wall",
-  "name": "My Melody Wall",
+  "name": {
+    "en-US": "My Melody Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

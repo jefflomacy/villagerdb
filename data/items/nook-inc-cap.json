@@ -1,6 +1,8 @@
 {
   "id": "nook-inc-cap",
-  "name": "Nook Inc. Cap",
+  "name": {
+    "en-US": "Nook Inc. Cap"
+  },
   "games": {
     "nh": {
       "orderable": true,

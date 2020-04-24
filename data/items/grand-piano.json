@@ -1,6 +1,8 @@
 {
   "id": "grand-piano",
-  "name": "Grand Piano",
+  "name": {
+    "en-US": "Grand Piano"
+  },
   "games": {
     "nh": {
       "sellPrice": {

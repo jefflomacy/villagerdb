@@ -1,6 +1,8 @@
 {
   "id": "pansy-wreath",
-  "name": "Pansy Wreath",
+  "name": {
+    "en-US": "Pansy Wreath"
+  },
   "games": {
     "nh": {
       "customizable": false,

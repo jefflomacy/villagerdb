@@ -1,6 +1,8 @@
 {
   "id": "cordless-phone",
-  "name": "Cordless Phone",
+  "name": {
+    "en-US": "Cordless Phone"
+  },
   "games": {
     "nh": {
       "orderable": true,

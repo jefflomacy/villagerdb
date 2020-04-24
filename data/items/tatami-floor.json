@@ -1,6 +1,8 @@
 {
   "id": "tatami-floor",
-  "name": "Tatami Floor",
+  "name": {
+    "en-US": "Tatami Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

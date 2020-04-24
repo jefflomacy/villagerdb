@@ -1,6 +1,8 @@
 {
   "id": "colorful-fishing-rod",
-  "name": "Colorful Fishing Rod",
+  "name": {
+    "en-US": "Colorful Fishing Rod"
+  },
   "games": {
     "nh": {
       "orderable": false,

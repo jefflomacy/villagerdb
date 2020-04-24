@@ -1,6 +1,8 @@
 {
   "id": "keatons-poster",
-  "name": "Keaton's Poster",
+  "name": {
+    "en-US": "Keaton's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

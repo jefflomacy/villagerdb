@@ -1,6 +1,8 @@
 {
   "id": "blue-scale-shirt",
-  "name": "Blue Scale Shirt",
+  "name": {
+    "en-US": "Blue Scale Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

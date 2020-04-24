@@ -1,6 +1,8 @@
 {
   "id": "colorful-puzzle-flooring",
-  "name": "Colorful Puzzle Flooring",
+  "name": {
+    "en-US": "Colorful Puzzle Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

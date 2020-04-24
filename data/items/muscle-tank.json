@@ -1,6 +1,8 @@
 {
   "id": "muscle-tank",
-  "name": "Muscle Tank",
+  "name": {
+    "en-US": "Muscle Tank"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "jitterss-poster",
-  "name": "Jitters's Poster",
+  "name": {
+    "en-US": "Jitters's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

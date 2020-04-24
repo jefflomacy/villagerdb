@@ -1,6 +1,8 @@
 {
   "id": "grand-b-dragonfly-model",
-  "name": "Grand B. Dragonfly Model",
+  "name": {
+    "en-US": "Grand B. Dragonfly Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

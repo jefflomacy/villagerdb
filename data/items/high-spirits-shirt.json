@@ -1,6 +1,8 @@
 {
   "id": "high-spirits-shirt",
-  "name": "High-spirits Shirt",
+  "name": {
+    "en-US": "High-spirits Shirt"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "flower-print-dress",
-  "name": "Flower-print Dress",
+  "name": {
+    "en-US": "Flower-print Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

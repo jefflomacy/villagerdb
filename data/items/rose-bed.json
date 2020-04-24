@@ -1,6 +1,8 @@
 {
   "id": "rose-bed",
-  "name": "Rose Bed",
+  "name": {
+    "en-US": "Rose Bed"
+  },
   "games": {
     "nh": {
       "orderable": false,

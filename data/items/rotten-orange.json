@@ -1,6 +1,8 @@
 {
   "id": "rotten-orange",
-  "name": "Rotten Orange",
+  "name": {
+    "en-US": "Rotten Orange"
+  },
   "category": "Fruit",
   "games": {
     "nl": {

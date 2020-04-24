@@ -1,6 +1,8 @@
 {
   "id": "camofrogs-poster",
-  "name": "Camofrog's Poster",
+  "name": {
+    "en-US": "Camofrog's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

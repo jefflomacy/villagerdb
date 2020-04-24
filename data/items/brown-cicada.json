@@ -1,6 +1,8 @@
 {
   "id": "brown-cicada",
-  "name": "Brown Cicada",
+  "name": {
+    "en-US": "Brown Cicada"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

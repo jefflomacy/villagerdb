@@ -1,6 +1,8 @@
 {
   "id": "tall-brewstoid",
-  "name": "Tall Brewstoid",
+  "name": {
+    "en-US": "Tall Brewstoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

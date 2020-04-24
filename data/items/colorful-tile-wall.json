@@ -1,6 +1,8 @@
 {
   "id": "colorful-tile-wall",
-  "name": "Colorful-tile Wall",
+  "name": {
+    "en-US": "Colorful-tile Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

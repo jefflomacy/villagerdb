@@ -1,6 +1,8 @@
 {
   "id": "moms-hand-knit-sweater",
-  "name": "Mom's Hand-knit Sweater",
+  "name": {
+    "en-US": "Mom's Hand-knit Sweater"
+  },
   "games": {
     "nh": {
       "sellPrice": {

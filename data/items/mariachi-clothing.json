@@ -1,6 +1,8 @@
 {
   "id": "mariachi-clothing",
-  "name": "Mariachi Clothing",
+  "name": {
+    "en-US": "Mariachi Clothing"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "elmers-poster",
-  "name": "Elmer's Poster",
+  "name": {
+    "en-US": "Elmer's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

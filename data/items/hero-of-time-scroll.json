@@ -1,6 +1,8 @@
 {
   "id": "hero-of-time-scroll",
-  "name": "Hero Of Time Scroll",
+  "name": {
+    "en-US": "Hero Of Time Scroll"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

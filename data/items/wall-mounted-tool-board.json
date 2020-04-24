@@ -1,6 +1,8 @@
 {
   "id": "wall-mounted-tool-board",
-  "name": "Wall-mounted Tool Board",
+  "name": {
+    "en-US": "Wall-mounted Tool Board"
+  },
   "games": {
     "nh": {
       "sellPrice": {

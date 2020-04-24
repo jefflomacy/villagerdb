@@ -1,6 +1,8 @@
 {
   "id": "dunkleosteus",
-  "name": "Dunkleosteus",
+  "name": {
+    "en-US": "Dunkleosteus"
+  },
   "games": {
     "nh": {
       "orderable": false,

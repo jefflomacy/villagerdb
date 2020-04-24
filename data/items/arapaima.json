@@ -1,6 +1,8 @@
 {
   "id": "arapaima",
-  "name": "Arapaima",
+  "name": {
+    "en-US": "Arapaima"
+  },
   "category": "Fish",
   "games": {
     "nl": {

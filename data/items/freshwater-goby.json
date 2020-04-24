@@ -1,6 +1,8 @@
 {
   "id": "freshwater-goby",
-  "name": "Freshwater Goby",
+  "name": {
+    "en-US": "Freshwater Goby"
+  },
   "category": "Fish",
   "games": {
     "nl": {

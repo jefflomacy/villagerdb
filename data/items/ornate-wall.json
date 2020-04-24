@@ -1,6 +1,8 @@
 {
   "id": "ornate-wall",
-  "name": "Ornate Wall",
+  "name": {
+    "en-US": "Ornate Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

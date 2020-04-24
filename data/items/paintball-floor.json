@@ -1,6 +1,8 @@
 {
   "id": "paintball-floor",
-  "name": "Paintball Floor",
+  "name": {
+    "en-US": "Paintball Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

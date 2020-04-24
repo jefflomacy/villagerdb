@@ -1,6 +1,8 @@
 {
   "id": "wild-painting",
-  "name": "Wild Painting",
+  "name": {
+    "en-US": "Wild Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

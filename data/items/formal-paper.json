@@ -1,6 +1,8 @@
 {
   "id": "formal-paper",
-  "name": "Formal Paper",
+  "name": {
+    "en-US": "Formal Paper"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "meadow-vista",
-  "name": "Meadow Vista",
+  "name": {
+    "en-US": "Meadow Vista"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

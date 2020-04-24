@@ -1,6 +1,8 @@
 {
   "id": "golden-trout",
-  "name": "Golden Trout",
+  "name": {
+    "en-US": "Golden Trout"
+  },
   "games": {
     "nh": {
       "orderable": false,

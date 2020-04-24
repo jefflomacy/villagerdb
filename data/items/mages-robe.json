@@ -1,6 +1,8 @@
 {
   "id": "mages-robe",
-  "name": "Mage's Robe",
+  "name": {
+    "en-US": "Mage's Robe"
+  },
   "games": {
     "nh": {
       "sellPrice": {

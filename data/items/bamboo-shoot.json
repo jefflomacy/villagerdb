@@ -1,6 +1,8 @@
 {
   "id": "bamboo-shoot",
-  "name": "Bamboo Shoot",
+  "name": {
+    "en-US": "Bamboo Shoot"
+  },
   "category": "Usables",
   "games": {
     "nl": {

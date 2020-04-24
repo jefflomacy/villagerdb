@@ -1,6 +1,8 @@
 {
   "id": "candy",
-  "name": "Candy",
+  "name": {
+    "en-US": "Candy"
+  },
   "category": "Usables",
   "games": {
     "nl": {

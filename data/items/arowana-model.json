@@ -1,6 +1,8 @@
 {
   "id": "arowana-model",
-  "name": "Arowana Model",
+  "name": {
+    "en-US": "Arowana Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

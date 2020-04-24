@@ -1,6 +1,8 @@
 {
   "id": "round-cloth-table",
-  "name": "Round-cloth Table",
+  "name": {
+    "en-US": "Round-cloth Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

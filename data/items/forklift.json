@@ -1,6 +1,8 @@
 {
   "id": "forklift",
-  "name": "Forklift",
+  "name": {
+    "en-US": "Forklift"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "stripe-carpet",
-  "name": "Stripe Carpet",
+  "name": {
+    "en-US": "Stripe Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

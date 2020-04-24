@@ -1,6 +1,8 @@
 {
   "id": "mush-log",
-  "name": "Mush Log",
+  "name": {
+    "en-US": "Mush Log"
+  },
   "games": {
     "nh": {
       "sellPrice": {

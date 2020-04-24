@@ -1,6 +1,8 @@
 {
   "id": "grasshopper-head-model",
-  "name": "Grasshopper-head Model",
+  "name": {
+    "en-US": "Grasshopper-head Model"
+  },
   "games": {
     "nh": {
       "orderable": true,

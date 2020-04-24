@@ -1,6 +1,8 @@
 {
   "id": "bad-bros-stache",
-  "name": "Bad Bro's Stache",
+  "name": {
+    "en-US": "Bad Bro's Stache"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

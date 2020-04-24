@@ -1,6 +1,8 @@
 {
   "id": "retro-radiator",
-  "name": "Retro Radiator",
+  "name": {
+    "en-US": "Retro Radiator"
+  },
   "games": {
     "nh": {
       "sellPrice": {

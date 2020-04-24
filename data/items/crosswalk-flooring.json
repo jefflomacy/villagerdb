@@ -1,6 +1,8 @@
 {
   "id": "crosswalk-flooring",
-  "name": "Crosswalk Flooring",
+  "name": {
+    "en-US": "Crosswalk Flooring"
+  },
   "games": {
     "nh": {
       "orderable": false,

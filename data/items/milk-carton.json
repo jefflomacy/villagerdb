@@ -1,6 +1,8 @@
 {
   "id": "milk-carton",
-  "name": "Milk Carton",
+  "name": {
+    "en-US": "Milk Carton"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

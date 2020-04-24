@@ -1,6 +1,8 @@
 {
   "id": "school-locker",
-  "name": "School Locker",
+  "name": {
+    "en-US": "School Locker"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

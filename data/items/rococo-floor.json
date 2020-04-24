@@ -1,6 +1,8 @@
 {
   "id": "rococo-floor",
-  "name": "Rococo Floor",
+  "name": {
+    "en-US": "Rococo Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

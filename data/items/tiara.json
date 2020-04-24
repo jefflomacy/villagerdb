@@ -1,6 +1,8 @@
 {
   "id": "tiara",
-  "name": "Tiara",
+  "name": {
+    "en-US": "Tiara"
+  },
   "games": {
     "nh": {
       "sellPrice": {

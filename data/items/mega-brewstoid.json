@@ -1,6 +1,8 @@
 {
   "id": "mega-brewstoid",
-  "name": "Mega Brewstoid",
+  "name": {
+    "en-US": "Mega Brewstoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

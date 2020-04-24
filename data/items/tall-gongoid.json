@@ -1,6 +1,8 @@
 {
   "id": "tall-gongoid",
-  "name": "Tall Gongoid",
+  "name": {
+    "en-US": "Tall Gongoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

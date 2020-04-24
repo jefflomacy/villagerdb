@@ -1,6 +1,8 @@
 {
   "id": "golden-rod",
-  "name": "Golden Rod",
+  "name": {
+    "en-US": "Golden Rod"
+  },
   "category": "Tools",
   "games": {
     "nl": {

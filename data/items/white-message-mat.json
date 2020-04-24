@@ -1,6 +1,8 @@
 {
   "id": "white-message-mat",
-  "name": "White Message Mat",
+  "name": {
+    "en-US": "White Message Mat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "man-faced-stink-bug-model",
-  "name": "Man-faced Stink Bug Model",
+  "name": {
+    "en-US": "Man-faced Stink Bug Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

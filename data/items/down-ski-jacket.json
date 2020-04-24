@@ -1,6 +1,8 @@
 {
   "id": "down-ski-jacket",
-  "name": "Down Ski Jacket",
+  "name": {
+    "en-US": "Down Ski Jacket"
+  },
   "games": {
     "nh": {
       "sellPrice": {

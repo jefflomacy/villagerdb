@@ -1,6 +1,8 @@
 {
   "id": "music-fest-shirt",
-  "name": "Music-fest Shirt",
+  "name": {
+    "en-US": "Music-fest Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

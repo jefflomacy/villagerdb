@@ -1,6 +1,8 @@
 {
   "id": "fairy-tale-dress",
-  "name": "Fairy-tale Dress",
+  "name": {
+    "en-US": "Fairy-tale Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

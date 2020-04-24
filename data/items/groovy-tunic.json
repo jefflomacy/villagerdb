@@ -1,6 +1,8 @@
 {
   "id": "groovy-tunic",
-  "name": "Groovy Tunic",
+  "name": {
+    "en-US": "Groovy Tunic"
+  },
   "games": {
     "nh": {
       "sellPrice": {

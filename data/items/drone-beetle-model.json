@@ -1,6 +1,8 @@
 {
   "id": "drone-beetle-model",
-  "name": "Drone Beetle Model",
+  "name": {
+    "en-US": "Drone Beetle Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

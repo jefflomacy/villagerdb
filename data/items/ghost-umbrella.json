@@ -1,6 +1,8 @@
 {
   "id": "ghost-umbrella",
-  "name": "Ghost Umbrella",
+  "name": {
+    "en-US": "Ghost Umbrella"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

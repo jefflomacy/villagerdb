@@ -1,6 +1,8 @@
 {
   "id": "ink-splattered-wall",
-  "name": "Ink-splattered Wall",
+  "name": {
+    "en-US": "Ink-splattered Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "cinnamoroll-stool",
-  "name": "Cinnamoroll Stool",
+  "name": {
+    "en-US": "Cinnamoroll Stool"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

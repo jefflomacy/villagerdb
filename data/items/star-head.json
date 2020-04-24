@@ -1,6 +1,8 @@
 {
   "id": "star-head",
-  "name": "Star Head",
+  "name": {
+    "en-US": "Star Head"
+  },
   "games": {
     "nh": {
       "sellPrice": {

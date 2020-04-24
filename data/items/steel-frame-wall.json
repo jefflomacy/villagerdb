@@ -1,6 +1,8 @@
 {
   "id": "steel-frame-wall",
-  "name": "Steel-frame Wall",
+  "name": {
+    "en-US": "Steel-frame Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

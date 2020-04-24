@@ -1,6 +1,8 @@
 {
   "id": "round-glasses",
-  "name": "Round Glasses",
+  "name": {
+    "en-US": "Round Glasses"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

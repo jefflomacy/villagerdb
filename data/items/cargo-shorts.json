@@ -1,6 +1,8 @@
 {
   "id": "cargo-shorts",
-  "name": "Cargo Shorts",
+  "name": {
+    "en-US": "Cargo Shorts"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "laboratory-capsule",
-  "name": "Laboratory Capsule",
+  "name": {
+    "en-US": "Laboratory Capsule"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

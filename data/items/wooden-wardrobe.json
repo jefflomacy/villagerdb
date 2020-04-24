@@ -1,6 +1,8 @@
 {
   "id": "wooden-wardrobe",
-  "name": "Wooden Wardrobe",
+  "name": {
+    "en-US": "Wooden Wardrobe"
+  },
   "games": {
     "nh": {
       "orderable": false,

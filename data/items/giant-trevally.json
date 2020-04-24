@@ -1,6 +1,8 @@
 {
   "id": "giant-trevally",
-  "name": "Giant Trevally",
+  "name": {
+    "en-US": "Giant Trevally"
+  },
   "category": "Fish",
   "games": {
     "nl": {

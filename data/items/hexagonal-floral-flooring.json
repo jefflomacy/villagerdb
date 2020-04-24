@@ -1,6 +1,8 @@
 {
   "id": "hexagonal-floral-flooring",
-  "name": "Hexagonal Floral Flooring",
+  "name": {
+    "en-US": "Hexagonal Floral Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "arctic-camo",
-  "name": "Arctic Camo",
+  "name": {
+    "en-US": "Arctic Camo"
+  },
   "category": "Tops",
   "games": {
     "ac": {

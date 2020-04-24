@@ -1,6 +1,8 @@
 {
   "id": "stretcher",
-  "name": "Stretcher",
+  "name": {
+    "en-US": "Stretcher"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

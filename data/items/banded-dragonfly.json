@@ -1,6 +1,8 @@
 {
   "id": "banded-dragonfly",
-  "name": "Banded Dragonfly",
+  "name": {
+    "en-US": "Banded Dragonfly"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

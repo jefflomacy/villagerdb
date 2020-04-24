@@ -1,6 +1,8 @@
 {
   "id": "electric-sign",
-  "name": "Electric Sign",
+  "name": {
+    "en-US": "Electric Sign"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

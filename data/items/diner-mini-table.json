@@ -1,6 +1,8 @@
 {
   "id": "diner-mini-table",
-  "name": "Diner Mini Table",
+  "name": {
+    "en-US": "Diner Mini Table"
+  },
   "games": {
     "nh": {
       "sellPrice": {

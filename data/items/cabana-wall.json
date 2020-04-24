@@ -1,6 +1,8 @@
 {
   "id": "cabana-wall",
-  "name": "Cabana Wall",
+  "name": {
+    "en-US": "Cabana Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

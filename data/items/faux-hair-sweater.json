@@ -1,6 +1,8 @@
 {
   "id": "faux-hair-sweater",
-  "name": "Faux-hair Sweater",
+  "name": {
+    "en-US": "Faux-hair Sweater"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "frozen-chair",
-  "name": "Frozen Chair",
+  "name": {
+    "en-US": "Frozen Chair"
+  },
   "games": {
     "nh": {
       "sellPrice": {

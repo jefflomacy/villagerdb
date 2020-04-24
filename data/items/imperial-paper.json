@@ -1,6 +1,8 @@
 {
   "id": "imperial-paper",
-  "name": "Imperial Paper",
+  "name": {
+    "en-US": "Imperial Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

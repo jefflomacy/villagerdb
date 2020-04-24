@@ -1,6 +1,8 @@
 {
   "id": "labelle-dress",
-  "name": "Labelle Dress",
+  "name": {
+    "en-US": "Labelle Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

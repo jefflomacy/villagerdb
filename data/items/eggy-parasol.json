@@ -1,6 +1,8 @@
 {
   "id": "eggy-parasol",
-  "name": "Eggy Parasol",
+  "name": {
+    "en-US": "Eggy Parasol"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

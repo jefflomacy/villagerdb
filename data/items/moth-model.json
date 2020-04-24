@@ -1,6 +1,8 @@
 {
   "id": "moth-model",
-  "name": "Moth Model",
+  "name": {
+    "en-US": "Moth Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

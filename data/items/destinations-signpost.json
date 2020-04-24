@@ -1,6 +1,8 @@
 {
   "id": "destinations-signpost",
-  "name": "Destinations Signpost",
+  "name": {
+    "en-US": "Destinations Signpost"
+  },
   "games": {
     "nh": {
       "orderable": false,

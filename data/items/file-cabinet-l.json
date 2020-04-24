@@ -1,6 +1,8 @@
 {
   "id": "file-cabinet-l",
-  "name": "File Cabinet (L)",
+  "name": {
+    "en-US": "File Cabinet (L)"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

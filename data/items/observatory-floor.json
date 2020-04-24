@@ -1,6 +1,8 @@
 {
   "id": "observatory-floor",
-  "name": "Observatory Floor",
+  "name": {
+    "en-US": "Observatory Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

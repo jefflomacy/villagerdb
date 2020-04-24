@@ -1,6 +1,8 @@
 {
   "id": "garden-lantern",
-  "name": "Garden Lantern",
+  "name": {
+    "en-US": "Garden Lantern"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

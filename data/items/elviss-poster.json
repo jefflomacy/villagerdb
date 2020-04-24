@@ -1,6 +1,8 @@
 {
   "id": "elviss-poster",
-  "name": "Elvis's Poster",
+  "name": {
+    "en-US": "Elvis's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

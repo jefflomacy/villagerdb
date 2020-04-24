@@ -1,6 +1,8 @@
 {
   "id": "tall-gargloid",
-  "name": "Tall Gargloid",
+  "name": {
+    "en-US": "Tall Gargloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

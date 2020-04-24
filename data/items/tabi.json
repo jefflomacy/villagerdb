@@ -1,6 +1,8 @@
 {
   "id": "tabi",
-  "name": "Tabi",
+  "name": {
+    "en-US": "Tabi"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "tulip-wreath",
-  "name": "Tulip Wreath",
+  "name": {
+    "en-US": "Tulip Wreath"
+  },
   "games": {
     "nh": {
       "customizable": false,

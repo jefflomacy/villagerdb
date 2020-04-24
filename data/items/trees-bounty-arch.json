@@ -1,6 +1,8 @@
 {
   "id": "trees-bounty-arch",
-  "name": "Tree's Bounty Arch",
+  "name": {
+    "en-US": "Tree's Bounty Arch"
+  },
   "games": {
     "nh": {
       "sellPrice": {

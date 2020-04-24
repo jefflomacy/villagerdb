@@ -1,6 +1,8 @@
 {
   "id": "quazoid",
-  "name": "Quazoid",
+  "name": {
+    "en-US": "Quazoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

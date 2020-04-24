@@ -1,6 +1,8 @@
 {
   "id": "giant-ribbon",
-  "name": "Giant Ribbon",
+  "name": {
+    "en-US": "Giant Ribbon"
+  },
   "games": {
     "nh": {
       "sellPrice": {

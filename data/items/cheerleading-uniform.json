@@ -1,6 +1,8 @@
 {
   "id": "cheerleading-uniform",
-  "name": "Cheerleading Uniform",
+  "name": {
+    "en-US": "Cheerleading Uniform"
+  },
   "games": {
     "nh": {
       "sellPrice": {

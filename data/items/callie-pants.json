@@ -1,6 +1,8 @@
 {
   "id": "callie-pants",
-  "name": "Callie Pants",
+  "name": {
+    "en-US": "Callie Pants"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

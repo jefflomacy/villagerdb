@@ -1,6 +1,8 @@
 {
   "id": "notebook-floor",
-  "name": "Notebook Floor",
+  "name": {
+    "en-US": "Notebook Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

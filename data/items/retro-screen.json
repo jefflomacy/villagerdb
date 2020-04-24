@@ -1,6 +1,8 @@
 {
   "id": "retro-screen",
-  "name": "Retro Screen",
+  "name": {
+    "en-US": "Retro Screen"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

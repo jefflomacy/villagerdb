@@ -1,6 +1,8 @@
 {
   "id": "egg-party-hat",
-  "name": "Egg Party Hat",
+  "name": {
+    "en-US": "Egg Party Hat"
+  },
   "games": {
     "nh": {
       "orderable": false,

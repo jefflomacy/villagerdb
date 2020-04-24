@@ -1,6 +1,8 @@
 {
   "id": "arapaima-model",
-  "name": "Arapaima Model",
+  "name": {
+    "en-US": "Arapaima Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

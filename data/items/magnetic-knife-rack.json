@@ -1,6 +1,8 @@
 {
   "id": "magnetic-knife-rack",
-  "name": "Magnetic Knife Rack",
+  "name": {
+    "en-US": "Magnetic Knife Rack"
+  },
   "games": {
     "nh": {
       "orderable": true,

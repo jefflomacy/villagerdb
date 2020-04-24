@@ -1,6 +1,8 @@
 {
   "id": "light-stick",
-  "name": "Light Stick",
+  "name": {
+    "en-US": "Light Stick"
+  },
   "games": {
     "nh": {
       "orderable": false,

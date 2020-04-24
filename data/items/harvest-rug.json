@@ -1,6 +1,8 @@
 {
   "id": "harvest-rug",
-  "name": "Harvest Rug",
+  "name": {
+    "en-US": "Harvest Rug"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

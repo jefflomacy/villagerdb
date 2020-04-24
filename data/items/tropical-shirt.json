@@ -1,6 +1,8 @@
 {
   "id": "tropical-shirt",
-  "name": "Tropical Shirt",
+  "name": {
+    "en-US": "Tropical Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

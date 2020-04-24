@@ -1,6 +1,8 @@
 {
   "id": "anchor-statue",
-  "name": "Anchor Statue",
+  "name": {
+    "en-US": "Anchor Statue"
+  },
   "games": {
     "nh": {
       "sources": [

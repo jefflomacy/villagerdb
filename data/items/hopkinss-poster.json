@@ -1,6 +1,8 @@
 {
   "id": "hopkinss-poster",
-  "name": "Hopkins's Poster",
+  "name": {
+    "en-US": "Hopkins's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

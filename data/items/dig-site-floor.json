@@ -1,6 +1,8 @@
 {
   "id": "dig-site-floor",
-  "name": "Dig-site Floor",
+  "name": {
+    "en-US": "Dig-site Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

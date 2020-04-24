@@ -1,6 +1,8 @@
 {
   "id": "layered-sleeveless-dress",
-  "name": "Layered Sleeveless Dress",
+  "name": {
+    "en-US": "Layered Sleeveless Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

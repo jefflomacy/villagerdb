@@ -1,6 +1,8 @@
 {
   "id": "pompompurin-outfit",
-  "name": "Pompompurin Outfit",
+  "name": {
+    "en-US": "Pompompurin Outfit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

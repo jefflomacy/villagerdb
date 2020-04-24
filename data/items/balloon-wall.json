@@ -1,6 +1,8 @@
 {
   "id": "balloon-wall",
-  "name": "Balloon Wall",
+  "name": {
+    "en-US": "Balloon Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

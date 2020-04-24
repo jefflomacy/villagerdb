@@ -1,6 +1,8 @@
 {
   "id": "mod-top",
-  "name": "Mod Top",
+  "name": {
+    "en-US": "Mod Top"
+  },
   "category": "Tops",
   "games": {
     "ac": {

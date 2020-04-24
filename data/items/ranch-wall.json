@@ -1,6 +1,8 @@
 {
   "id": "ranch-wall",
-  "name": "Ranch Wall",
+  "name": {
+    "en-US": "Ranch Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "rattan-table-lamp",
-  "name": "Rattan Table Lamp",
+  "name": {
+    "en-US": "Rattan Table Lamp"
+  },
   "games": {
     "nh": {
       "orderable": true,

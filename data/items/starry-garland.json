@@ -1,6 +1,8 @@
 {
   "id": "starry-garland",
-  "name": "Starry Garland",
+  "name": {
+    "en-US": "Starry Garland"
+  },
   "games": {
     "nh": {
       "orderable": false,

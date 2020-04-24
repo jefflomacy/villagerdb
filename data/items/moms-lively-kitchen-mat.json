@@ -1,6 +1,8 @@
 {
   "id": "moms-lively-kitchen-mat",
-  "name": "Mom's Lively Kitchen Mat",
+  "name": {
+    "en-US": "Mom's Lively Kitchen Mat"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "chocolate-coin",
-  "name": "Chocolate Coin",
+  "name": {
+    "en-US": "Chocolate Coin"
+  },
   "category": "Usables",
   "games": {
     "nl": {

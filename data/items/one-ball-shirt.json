@@ -1,6 +1,8 @@
 {
   "id": "one-ball-shirt",
-  "name": "One-Ball Shirt",
+  "name": {
+    "en-US": "One-Ball Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "doms-poster",
-  "name": "Dom's Poster",
+  "name": {
+    "en-US": "Dom's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

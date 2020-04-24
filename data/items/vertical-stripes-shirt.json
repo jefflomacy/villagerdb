@@ -1,6 +1,8 @@
 {
   "id": "vertical-stripes-shirt",
-  "name": "Vertical-stripes Shirt",
+  "name": {
+    "en-US": "Vertical-stripes Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

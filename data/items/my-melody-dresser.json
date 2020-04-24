@@ -1,6 +1,8 @@
 {
   "id": "my-melody-dresser",
-  "name": "My Melody Dresser",
+  "name": {
+    "en-US": "My Melody Dresser"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

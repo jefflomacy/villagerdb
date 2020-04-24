@@ -1,6 +1,8 @@
 {
   "id": "ribbon-paper",
-  "name": "Ribbon Paper",
+  "name": {
+    "en-US": "Ribbon Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

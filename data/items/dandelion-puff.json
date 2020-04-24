@@ -1,6 +1,8 @@
 {
   "id": "dandelion-puff",
-  "name": "Dandelion Puff",
+  "name": {
+    "en-US": "Dandelion Puff"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "stego-model",
-  "name": "Stego Model",
+  "name": {
+    "en-US": "Stego Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "celebratory-candles",
-  "name": "Celebratory Candles",
+  "name": {
+    "en-US": "Celebratory Candles"
+  },
   "games": {
     "nh": {
       "sellPrice": {

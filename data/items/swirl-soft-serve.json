@@ -1,6 +1,8 @@
 {
   "id": "swirl-soft-serve",
-  "name": "Swirl Soft-serve",
+  "name": {
+    "en-US": "Swirl Soft-serve"
+  },
   "category": "Usables",
   "games": {
     "nl": {

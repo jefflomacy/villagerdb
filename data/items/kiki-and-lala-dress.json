@@ -1,6 +1,8 @@
 {
   "id": "kiki-and-lala-dress",
-  "name": "Kiki And Lala Dress",
+  "name": {
+    "en-US": "Kiki And Lala Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

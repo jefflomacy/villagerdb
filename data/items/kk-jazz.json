@@ -1,6 +1,8 @@
 {
   "id": "kk-jazz",
-  "name": "K.K. Jazz",
+  "name": {
+    "en-US": "K.K. Jazz"
+  },
   "category": "Music",
   "games": {
     "nl": {

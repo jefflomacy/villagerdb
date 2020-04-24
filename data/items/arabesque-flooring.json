@@ -1,6 +1,8 @@
 {
   "id": "arabesque-flooring",
-  "name": "Arabesque Flooring",
+  "name": {
+    "en-US": "Arabesque Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

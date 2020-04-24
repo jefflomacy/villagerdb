@@ -1,6 +1,8 @@
 {
   "id": "moody-blue-shirt",
-  "name": "Moody Blue Shirt",
+  "name": {
+    "en-US": "Moody Blue Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

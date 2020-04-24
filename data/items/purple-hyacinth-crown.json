@@ -1,6 +1,8 @@
 {
   "id": "purple-hyacinth-crown",
-  "name": "Purple Hyacinth Crown",
+  "name": {
+    "en-US": "Purple Hyacinth Crown"
+  },
   "games": {
     "nh": {
       "sellPrice": {

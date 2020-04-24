@@ -1,6 +1,8 @@
 {
   "id": "hoppers-poster",
-  "name": "Hopper's Poster",
+  "name": {
+    "en-US": "Hopper's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "nook-inc-aloha-shirt",
-  "name": "Nook Inc. Aloha Shirt",
+  "name": {
+    "en-US": "Nook Inc. Aloha Shirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

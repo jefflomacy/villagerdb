@@ -1,6 +1,8 @@
 {
   "id": "metatoid",
-  "name": "Metatoid",
+  "name": {
+    "en-US": "Metatoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

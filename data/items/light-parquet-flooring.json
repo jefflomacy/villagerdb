@@ -1,6 +1,8 @@
 {
   "id": "light-parquet-flooring",
-  "name": "Light Parquet Flooring",
+  "name": {
+    "en-US": "Light Parquet Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

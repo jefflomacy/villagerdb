@@ -1,6 +1,8 @@
 {
   "id": "cashmeres-poster",
-  "name": "Cashmere's Poster",
+  "name": {
+    "en-US": "Cashmere's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "neon-tetra-model",
-  "name": "Neon Tetra Model",
+  "name": {
+    "en-US": "Neon Tetra Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

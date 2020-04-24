@@ -1,6 +1,8 @@
 {
   "id": "kk-birthday",
-  "name": "K.K. Birthday",
+  "name": {
+    "en-US": "K.K. Birthday"
+  },
   "category": "Music",
   "games": {
     "nl": {

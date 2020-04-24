@@ -1,6 +1,8 @@
 {
   "id": "tortoise-specs",
-  "name": "Tortoise Specs",
+  "name": {
+    "en-US": "Tortoise Specs"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

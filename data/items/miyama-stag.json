@@ -1,6 +1,8 @@
 {
   "id": "miyama-stag",
-  "name": "Miyama Stag",
+  "name": {
+    "en-US": "Miyama Stag"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

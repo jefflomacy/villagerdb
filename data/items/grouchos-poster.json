@@ -1,6 +1,8 @@
 {
   "id": "grouchos-poster",
-  "name": "Groucho's Poster",
+  "name": {
+    "en-US": "Groucho's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

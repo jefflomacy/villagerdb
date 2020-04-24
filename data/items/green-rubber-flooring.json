@@ -1,6 +1,8 @@
 {
   "id": "green-rubber-flooring",
-  "name": "Green Rubber Flooring",
+  "name": {
+    "en-US": "Green Rubber Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "rattan-towel-basket",
-  "name": "Rattan Towel Basket",
+  "name": {
+    "en-US": "Rattan Towel Basket"
+  },
   "games": {
     "nh": {
       "orderable": true,

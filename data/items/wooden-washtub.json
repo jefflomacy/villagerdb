@@ -1,6 +1,8 @@
 {
   "id": "wooden-washtub",
-  "name": "Wooden Washtub",
+  "name": {
+    "en-US": "Wooden Washtub"
+  },
   "category": "Furniture",
   "games": {
     "nh": {

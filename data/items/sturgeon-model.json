@@ -1,6 +1,8 @@
 {
   "id": "sturgeon-model",
-  "name": "Sturgeon Model",
+  "name": {
+    "en-US": "Sturgeon Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

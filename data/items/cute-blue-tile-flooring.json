@@ -1,6 +1,8 @@
 {
   "id": "cute-blue-tile-flooring",
-  "name": "Cute Blue-tile Flooring",
+  "name": {
+    "en-US": "Cute Blue-tile Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

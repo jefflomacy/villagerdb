@@ -1,6 +1,8 @@
 {
   "id": "pastel-low-table",
-  "name": "Pastel Low Table",
+  "name": {
+    "en-US": "Pastel Low Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

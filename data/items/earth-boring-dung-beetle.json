@@ -1,6 +1,8 @@
 {
   "id": "earth-boring-dung-beetle",
-  "name": "Earth-boring Dung Beetle",
+  "name": {
+    "en-US": "Earth-boring Dung Beetle"
+  },
   "games": {
     "nh": {
       "orderable": false,

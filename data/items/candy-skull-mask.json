@@ -1,6 +1,8 @@
 {
   "id": "candy-skull-mask",
-  "name": "Candy-skull Mask",
+  "name": {
+    "en-US": "Candy-skull Mask"
+  },
   "games": {
     "nh": {
       "sellPrice": {

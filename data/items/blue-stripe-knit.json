@@ -1,6 +1,8 @@
 {
   "id": "blue-stripe-knit",
-  "name": "Blue Stripe Knit",
+  "name": {
+    "en-US": "Blue Stripe Knit"
+  },
   "category": "Tops",
   "games": {
     "ac": {

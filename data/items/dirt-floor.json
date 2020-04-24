@@ -1,6 +1,8 @@
 {
   "id": "dirt-floor",
-  "name": "Dirt Floor",
+  "name": {
+    "en-US": "Dirt Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

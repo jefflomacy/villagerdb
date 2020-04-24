@@ -1,6 +1,8 @@
 {
   "id": "pennant",
-  "name": "Pennant",
+  "name": {
+    "en-US": "Pennant"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "crocheted-socks",
-  "name": "Crocheted Socks",
+  "name": {
+    "en-US": "Crocheted Socks"
+  },
   "games": {
     "nh": {
       "orderable": true,

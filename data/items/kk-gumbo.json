@@ -1,6 +1,8 @@
 {
   "id": "kk-gumbo",
-  "name": "K.K. Gumbo",
+  "name": {
+    "en-US": "K.K. Gumbo"
+  },
   "category": "Music",
   "games": {
     "nl": {

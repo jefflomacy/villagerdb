@@ -1,6 +1,8 @@
 {
   "id": "24-hour-shop-banner",
-  "name": "24-hour-shop Banner",
+  "name": {
+    "en-US": "24-hour-shop Banner"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

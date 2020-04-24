@@ -1,6 +1,8 @@
 {
   "id": "monitor-tower",
-  "name": "Monitor Tower",
+  "name": {
+    "en-US": "Monitor Tower"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

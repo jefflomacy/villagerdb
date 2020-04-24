@@ -1,6 +1,8 @@
 {
   "id": "bath-set",
-  "name": "Bath Set",
+  "name": {
+    "en-US": "Bath Set"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

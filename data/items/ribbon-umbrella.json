@@ -1,6 +1,8 @@
 {
   "id": "ribbon-umbrella",
-  "name": "Ribbon Umbrella",
+  "name": {
+    "en-US": "Ribbon Umbrella"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

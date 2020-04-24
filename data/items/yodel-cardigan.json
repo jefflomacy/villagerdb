@@ -1,6 +1,8 @@
 {
   "id": "yodel-cardigan",
-  "name": "Yodel Cardigan",
+  "name": {
+    "en-US": "Yodel Cardigan"
+  },
   "games": {
     "nh": {
       "sellPrice": {

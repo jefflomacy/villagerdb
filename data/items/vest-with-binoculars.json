@@ -1,6 +1,8 @@
 {
   "id": "vest-with-binoculars",
-  "name": "Vest With Binoculars",
+  "name": {
+    "en-US": "Vest With Binoculars"
+  },
   "games": {
     "nh": {
       "orderable": true,

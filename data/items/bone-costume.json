@@ -1,6 +1,8 @@
 {
   "id": "bone-costume",
-  "name": "Bone Costume",
+  "name": {
+    "en-US": "Bone Costume"
+  },
   "games": {
     "nh": {
       "sellPrice": {

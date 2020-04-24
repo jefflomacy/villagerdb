@@ -1,6 +1,8 @@
 {
   "id": "kerokerokeroppi-top",
-  "name": "Kerokerokeroppi Top",
+  "name": {
+    "en-US": "Kerokerokeroppi Top"
+  },
   "category": "Tops",
   "games": {
     "nl": {

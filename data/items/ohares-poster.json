@@ -1,6 +1,8 @@
 {
   "id": "ohares-poster",
-  "name": "O'hare's Poster",
+  "name": {
+    "en-US": "O'hare's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

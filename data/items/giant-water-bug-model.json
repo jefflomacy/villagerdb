@@ -1,6 +1,8 @@
 {
   "id": "giant-water-bug-model",
-  "name": "Giant Water Bug Model",
+  "name": {
+    "en-US": "Giant Water Bug Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

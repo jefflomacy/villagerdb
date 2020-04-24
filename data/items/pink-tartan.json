@@ -1,6 +1,8 @@
 {
   "id": "pink-tartan",
-  "name": "Pink Tartan",
+  "name": {
+    "en-US": "Pink Tartan"
+  },
   "category": "Tops",
   "games": {
     "ac": {

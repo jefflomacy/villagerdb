@@ -1,6 +1,8 @@
 {
   "id": "superhero-mask",
-  "name": "Superhero Mask",
+  "name": {
+    "en-US": "Superhero Mask"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

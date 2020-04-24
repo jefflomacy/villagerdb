@@ -1,6 +1,8 @@
 {
   "id": "green-umbrella",
-  "name": "Green Umbrella",
+  "name": {
+    "en-US": "Green Umbrella"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

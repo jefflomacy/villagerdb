@@ -1,6 +1,8 @@
 {
   "id": "ladybug-model",
-  "name": "Ladybug Model",
+  "name": {
+    "en-US": "Ladybug Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

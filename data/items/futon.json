@@ -1,6 +1,8 @@
 {
   "id": "futon",
-  "name": "Futon",
+  "name": {
+    "en-US": "Futon"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "barbel-steed",
-  "name": "Barbel Steed",
+  "name": {
+    "en-US": "Barbel Steed"
+  },
   "category": "Fish",
   "games": {
     "nl": {

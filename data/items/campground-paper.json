@@ -1,6 +1,8 @@
 {
   "id": "campground-paper",
-  "name": "Campground Paper",
+  "name": {
+    "en-US": "Campground Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "iron-hanger-stand",
-  "name": "Iron Hanger Stand",
+  "name": {
+    "en-US": "Iron Hanger Stand"
+  },
   "games": {
     "nh": {
       "orderable": false,

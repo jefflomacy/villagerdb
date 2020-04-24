@@ -1,6 +1,8 @@
 {
   "id": "blatherss-poster",
-  "name": "Blathers's Poster",
+  "name": {
+    "en-US": "Blathers's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

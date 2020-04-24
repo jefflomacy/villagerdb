@@ -1,6 +1,8 @@
 {
   "id": "slip-on-sandals",
-  "name": "Slip-on Sandals",
+  "name": {
+    "en-US": "Slip-on Sandals"
+  },
   "games": {
     "nh": {
       "sellPrice": {

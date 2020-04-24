@@ -1,6 +1,8 @@
 {
   "id": "hose-reel",
-  "name": "Hose Reel",
+  "name": {
+    "en-US": "Hose Reel"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

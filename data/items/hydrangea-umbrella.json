@@ -1,6 +1,8 @@
 {
   "id": "hydrangea-umbrella",
-  "name": "Hydrangea Umbrella",
+  "name": {
+    "en-US": "Hydrangea Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

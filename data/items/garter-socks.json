@@ -1,6 +1,8 @@
 {
   "id": "garter-socks",
-  "name": "Garter Socks",
+  "name": {
+    "en-US": "Garter Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

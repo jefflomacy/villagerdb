@@ -1,6 +1,8 @@
 {
   "id": "embroidered-floral-skirt",
-  "name": "Embroidered Floral Skirt",
+  "name": {
+    "en-US": "Embroidered Floral Skirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

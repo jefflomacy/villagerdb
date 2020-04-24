@@ -1,6 +1,8 @@
 {
   "id": "botanical-rug",
-  "name": "Botanical Rug",
+  "name": {
+    "en-US": "Botanical Rug"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "caveman-tank-dress",
-  "name": "Caveman Tank Dress",
+  "name": {
+    "en-US": "Caveman Tank Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

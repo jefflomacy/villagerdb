@@ -1,6 +1,8 @@
 {
   "id": "casual-chic-dress",
-  "name": "Casual Chic Dress",
+  "name": {
+    "en-US": "Casual Chic Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

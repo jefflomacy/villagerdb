@@ -1,6 +1,8 @@
 {
   "id": "oversized-print-dress",
-  "name": "Oversized Print Dress",
+  "name": {
+    "en-US": "Oversized Print Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

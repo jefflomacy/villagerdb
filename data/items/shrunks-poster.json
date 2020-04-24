@@ -1,6 +1,8 @@
 {
   "id": "shrunks-poster",
-  "name": "Shrunk's Poster",
+  "name": {
+    "en-US": "Shrunk's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

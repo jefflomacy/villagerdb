@@ -1,6 +1,8 @@
 {
   "id": "ivory-small-round-mat",
-  "name": "Ivory Small Round Mat",
+  "name": {
+    "en-US": "Ivory Small Round Mat"
+  },
   "games": {
     "nh": {
       "sources": [

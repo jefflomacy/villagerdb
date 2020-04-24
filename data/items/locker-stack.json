@@ -1,6 +1,8 @@
 {
   "id": "locker-stack",
-  "name": "Locker Stack",
+  "name": {
+    "en-US": "Locker Stack"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "drilloid",
-  "name": "Drilloid",
+  "name": {
+    "en-US": "Drilloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

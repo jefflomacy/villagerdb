@@ -1,6 +1,8 @@
 {
   "id": "pink-wet-suit",
-  "name": "Pink Wet Suit",
+  "name": {
+    "en-US": "Pink Wet Suit"
+  },
   "category": "Wetsuits",
   "games": {
     "nl": {

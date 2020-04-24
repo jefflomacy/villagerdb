@@ -1,6 +1,8 @@
 {
   "id": "ribbon-dress",
-  "name": "Ribbon Dress",
+  "name": {
+    "en-US": "Ribbon Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

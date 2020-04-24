@@ -1,6 +1,8 @@
 {
   "id": "mega-plinkoid",
-  "name": "Mega Plinkoid",
+  "name": {
+    "en-US": "Mega Plinkoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "fluffy-tank-dress",
-  "name": "Fluffy Tank Dress",
+  "name": {
+    "en-US": "Fluffy Tank Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "chic-paper",
-  "name": "Chic Paper",
+  "name": {
+    "en-US": "Chic Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

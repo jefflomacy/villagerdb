@@ -1,6 +1,8 @@
 {
   "id": "house-centipede",
-  "name": "House Centipede",
+  "name": {
+    "en-US": "House Centipede"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

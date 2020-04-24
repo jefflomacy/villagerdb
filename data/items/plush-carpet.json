@@ -1,6 +1,8 @@
 {
   "id": "plush-carpet",
-  "name": "Plush Carpet",
+  "name": {
+    "en-US": "Plush Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

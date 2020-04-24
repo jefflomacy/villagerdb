@@ -1,6 +1,8 @@
 {
   "id": "stadium-wall",
-  "name": "Stadium Wall",
+  "name": {
+    "en-US": "Stadium Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

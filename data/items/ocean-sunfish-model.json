@@ -1,6 +1,8 @@
 {
   "id": "ocean-sunfish-model",
-  "name": "Ocean Sunfish Model",
+  "name": {
+    "en-US": "Ocean Sunfish Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

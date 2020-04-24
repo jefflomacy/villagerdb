@@ -1,6 +1,8 @@
 {
   "id": "lemon-pack",
-  "name": "Lemon Pack",
+  "name": {
+    "en-US": "Lemon Pack"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

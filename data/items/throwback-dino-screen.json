@@ -1,6 +1,8 @@
 {
   "id": "throwback-dino-screen",
-  "name": "Throwback Dino Screen",
+  "name": {
+    "en-US": "Throwback Dino Screen"
+  },
   "games": {
     "nh": {
       "orderable": true,

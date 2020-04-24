@@ -1,6 +1,8 @@
 {
   "id": "travel-pouch",
-  "name": "Travel Pouch",
+  "name": {
+    "en-US": "Travel Pouch"
+  },
   "games": {
     "nh": {
       "sellPrice": {

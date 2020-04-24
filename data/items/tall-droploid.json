@@ -1,6 +1,8 @@
 {
   "id": "tall-droploid",
-  "name": "Tall Droploid",
+  "name": {
+    "en-US": "Tall Droploid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

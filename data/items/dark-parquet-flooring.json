@@ -1,6 +1,8 @@
 {
   "id": "dark-parquet-flooring",
-  "name": "Dark Parquet Flooring",
+  "name": {
+    "en-US": "Dark Parquet Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

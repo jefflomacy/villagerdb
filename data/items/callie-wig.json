@@ -1,6 +1,8 @@
 {
   "id": "callie-wig",
-  "name": "Callie Wig",
+  "name": {
+    "en-US": "Callie Wig"
+  },
   "category": "Hats",
   "games": {
     "nl": {

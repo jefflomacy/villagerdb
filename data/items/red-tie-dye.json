@@ -1,6 +1,8 @@
 {
   "id": "red-tie-dye",
-  "name": "Red Tie-Dye",
+  "name": {
+    "en-US": "Red Tie-Dye"
+  },
   "category": "Tops",
   "games": {
     "ac": {

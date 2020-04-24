@@ -1,6 +1,8 @@
 {
   "id": "bone-tee",
-  "name": "Bone Tee",
+  "name": {
+    "en-US": "Bone Tee"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "spino-model",
-  "name": "Spino Model",
+  "name": {
+    "en-US": "Spino Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "plaid-cami-dress",
-  "name": "Plaid Cami Dress",
+  "name": {
+    "en-US": "Plaid Cami Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "acnh-nintendo-switch",
-  "name": "Acnh Nintendo Switch",
+  "name": {
+    "en-US": "Acnh Nintendo Switch"
+  },
   "games": {
     "nh": {
       "orderable": true,

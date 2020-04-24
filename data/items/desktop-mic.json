@@ -1,6 +1,8 @@
 {
   "id": "desktop-mic",
-  "name": "Desktop Mic",
+  "name": {
+    "en-US": "Desktop Mic"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

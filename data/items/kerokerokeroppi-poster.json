@@ -1,6 +1,8 @@
 {
   "id": "kerokerokeroppi-poster",
-  "name": "Kerokerokeroppi Poster",
+  "name": {
+    "en-US": "Kerokerokeroppi Poster"
+  },
   "games": {
     "nh": {
       "sources": [

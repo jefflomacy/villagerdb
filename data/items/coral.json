@@ -1,6 +1,8 @@
 {
   "id": "coral",
-  "name": "Coral",
+  "name": {
+    "en-US": "Coral"
+  },
   "category": "Seashells",
   "games": {
     "nl": {

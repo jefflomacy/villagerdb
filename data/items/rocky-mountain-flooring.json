@@ -1,6 +1,8 @@
 {
   "id": "rocky-mountain-flooring",
-  "name": "Rocky-mountain Flooring",
+  "name": {
+    "en-US": "Rocky-mountain Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

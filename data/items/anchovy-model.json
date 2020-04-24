@@ -1,6 +1,8 @@
 {
   "id": "anchovy-model",
-  "name": "Anchovy Model",
+  "name": {
+    "en-US": "Anchovy Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "marinas-poster",
-  "name": "Marina's Poster",
+  "name": {
+    "en-US": "Marina's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

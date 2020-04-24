@@ -1,6 +1,8 @@
 {
   "id": "yodel-dress",
-  "name": "Yodel Dress",
+  "name": {
+    "en-US": "Yodel Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "casual-kimono",
-  "name": "Casual Kimono",
+  "name": {
+    "en-US": "Casual Kimono"
+  },
   "games": {
     "nh": {
       "sellPrice": {

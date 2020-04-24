@@ -1,6 +1,8 @@
 {
   "id": "turnip-top",
-  "name": "Turnip Top",
+  "name": {
+    "en-US": "Turnip Top"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "elegant-paper",
-  "name": "Elegant Paper",
+  "name": {
+    "en-US": "Elegant Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

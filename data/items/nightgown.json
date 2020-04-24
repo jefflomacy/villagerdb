@@ -1,6 +1,8 @@
 {
   "id": "nightgown",
-  "name": "Nightgown",
+  "name": {
+    "en-US": "Nightgown"
+  },
   "games": {
     "nh": {
       "sellPrice": {

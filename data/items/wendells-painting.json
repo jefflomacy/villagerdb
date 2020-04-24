@@ -1,6 +1,8 @@
 {
   "id": "wendells-painting",
-  "name": "Wendell's Painting",
+  "name": {
+    "en-US": "Wendell's Painting"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

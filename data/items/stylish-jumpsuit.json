@@ -1,6 +1,8 @@
 {
   "id": "stylish-jumpsuit",
-  "name": "Stylish Jumpsuit",
+  "name": {
+    "en-US": "Stylish Jumpsuit"
+  },
   "games": {
     "nh": {
       "sellPrice": {

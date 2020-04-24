@@ -1,6 +1,8 @@
 {
   "id": "kings-beard",
-  "name": "King's Beard",
+  "name": {
+    "en-US": "King's Beard"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

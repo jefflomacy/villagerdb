@@ -1,6 +1,8 @@
 {
   "id": "kitchen-wall",
-  "name": "Kitchen Wall",
+  "name": {
+    "en-US": "Kitchen Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

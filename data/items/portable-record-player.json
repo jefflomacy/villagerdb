@@ -1,6 +1,8 @@
 {
   "id": "portable-record-player",
-  "name": "Portable Record Player",
+  "name": {
+    "en-US": "Portable Record Player"
+  },
   "games": {
     "nh": {
       "orderable": true,

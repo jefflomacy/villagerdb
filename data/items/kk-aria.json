@@ -1,6 +1,8 @@
 {
   "id": "kk-aria",
-  "name": "K.K. Aria",
+  "name": {
+    "en-US": "K.K. Aria"
+  },
   "category": "Music",
   "games": {
     "nl": {

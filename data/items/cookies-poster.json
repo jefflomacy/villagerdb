@@ -1,6 +1,8 @@
 {
   "id": "cookies-poster",
-  "name": "Cookie's Poster",
+  "name": {
+    "en-US": "Cookie's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "fish-knit",
-  "name": "Fish Knit",
+  "name": {
+    "en-US": "Fish Knit"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "citrus-gingham",
-  "name": "Citrus Gingham",
+  "name": {
+    "en-US": "Citrus Gingham"
+  },
   "category": "Tops",
   "games": {
     "ac": {

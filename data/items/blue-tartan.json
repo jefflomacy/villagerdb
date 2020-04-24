@@ -1,6 +1,8 @@
 {
   "id": "blue-tartan",
-  "name": "Blue Tartan",
+  "name": {
+    "en-US": "Blue Tartan"
+  },
   "category": "Tops",
   "games": {
     "ac": {

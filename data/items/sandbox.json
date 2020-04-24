@@ -1,6 +1,8 @@
 {
   "id": "sandbox",
-  "name": "Sandbox",
+  "name": {
+    "en-US": "Sandbox"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

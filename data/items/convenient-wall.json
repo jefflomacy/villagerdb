@@ -1,6 +1,8 @@
 {
   "id": "convenient-wall",
-  "name": "Convenient Wall",
+  "name": {
+    "en-US": "Convenient Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

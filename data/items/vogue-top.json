@@ -1,6 +1,8 @@
 {
   "id": "vogue-top",
-  "name": "Vogue Top",
+  "name": {
+    "en-US": "Vogue Top"
+  },
   "category": "Tops",
   "games": {
     "ac": {

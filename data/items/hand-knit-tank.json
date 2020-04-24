@@ -1,6 +1,8 @@
 {
   "id": "hand-knit-tank",
-  "name": "Hand-knit Tank",
+  "name": {
+    "en-US": "Hand-knit Tank"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "miyama-stag-model",
-  "name": "Miyama Stag Model",
+  "name": {
+    "en-US": "Miyama Stag Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "future-shirt",
-  "name": "Future Shirt",
+  "name": {
+    "en-US": "Future Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

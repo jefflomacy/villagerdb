@@ -1,6 +1,8 @@
 {
   "id": "maple-umbrella",
-  "name": "Maple Umbrella",
+  "name": {
+    "en-US": "Maple Umbrella"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "wistful-painting",
-  "name": "Wistful Painting",
+  "name": {
+    "en-US": "Wistful Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

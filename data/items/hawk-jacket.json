@@ -1,6 +1,8 @@
 {
   "id": "hawk-jacket",
-  "name": "Hawk Jacket",
+  "name": {
+    "en-US": "Hawk Jacket"
+  },
   "games": {
     "nh": {
       "sellPrice": {

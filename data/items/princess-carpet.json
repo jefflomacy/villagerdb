@@ -1,6 +1,8 @@
 {
   "id": "princess-carpet",
-  "name": "Princess Carpet",
+  "name": {
+    "en-US": "Princess Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

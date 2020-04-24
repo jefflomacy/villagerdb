@@ -1,6 +1,8 @@
 {
   "id": "illuminated-present",
-  "name": "Illuminated Present",
+  "name": {
+    "en-US": "Illuminated Present"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "bunny-day-stool",
-  "name": "Bunny Day Stool",
+  "name": {
+    "en-US": "Bunny Day Stool"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "fluffy-dress",
-  "name": "Fluffy Dress",
+  "name": {
+    "en-US": "Fluffy Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

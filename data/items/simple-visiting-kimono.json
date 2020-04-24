@@ -1,6 +1,8 @@
 {
   "id": "simple-visiting-kimono",
-  "name": "Simple Visiting Kimono",
+  "name": {
+    "en-US": "Simple Visiting Kimono"
+  },
   "games": {
     "nh": {
       "sellPrice": {

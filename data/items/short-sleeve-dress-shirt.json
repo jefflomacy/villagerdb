@@ -1,6 +1,8 @@
 {
   "id": "short-sleeve-dress-shirt",
-  "name": "Short-sleeve Dress Shirt",
+  "name": {
+    "en-US": "Short-sleeve Dress Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

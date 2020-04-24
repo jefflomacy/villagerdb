@@ -1,6 +1,8 @@
 {
   "id": "green-blossoming-wall",
-  "name": "Green Blossoming Wall",
+  "name": {
+    "en-US": "Green Blossoming Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "natural-chair",
-  "name": "Natural Chair",
+  "name": {
+    "en-US": "Natural Chair"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

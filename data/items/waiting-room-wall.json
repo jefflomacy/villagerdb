@@ -1,6 +1,8 @@
 {
   "id": "waiting-room-wall",
-  "name": "Waiting-room Wall",
+  "name": {
+    "en-US": "Waiting-room Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

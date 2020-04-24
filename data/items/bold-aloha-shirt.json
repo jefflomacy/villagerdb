@@ -1,6 +1,8 @@
 {
   "id": "bold-aloha-shirt",
-  "name": "Bold Aloha Shirt",
+  "name": {
+    "en-US": "Bold Aloha Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

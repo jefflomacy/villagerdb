@@ -1,6 +1,8 @@
 {
   "id": "standing-sink",
-  "name": "Standing Sink",
+  "name": {
+    "en-US": "Standing Sink"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

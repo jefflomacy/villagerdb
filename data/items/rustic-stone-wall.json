@@ -1,6 +1,8 @@
 {
   "id": "rustic-stone-wall",
-  "name": "Rustic-stone Wall",
+  "name": {
+    "en-US": "Rustic-stone Wall"
+  },
   "games": {
     "nh": {
       "orderable": false,

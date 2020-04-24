@@ -1,6 +1,8 @@
 {
   "id": "mega-strumboid",
-  "name": "Mega Strumboid",
+  "name": {
+    "en-US": "Mega Strumboid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

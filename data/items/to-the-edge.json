@@ -1,6 +1,8 @@
 {
   "id": "to-the-edge",
-  "name": "To The Edge",
+  "name": {
+    "en-US": "To The Edge"
+  },
   "category": "Music",
   "games": {
     "nl": {

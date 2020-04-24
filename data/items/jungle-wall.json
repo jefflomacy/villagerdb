@@ -1,6 +1,8 @@
 {
   "id": "jungle-wall",
-  "name": "Jungle Wall",
+  "name": {
+    "en-US": "Jungle Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

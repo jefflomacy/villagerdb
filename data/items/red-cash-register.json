@@ -1,6 +1,8 @@
 {
   "id": "red-cash-register",
-  "name": "Red Cash Register",
+  "name": {
+    "en-US": "Red Cash Register"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "natural-mum-wreath",
-  "name": "Natural Mum Wreath",
+  "name": {
+    "en-US": "Natural Mum Wreath"
+  },
   "games": {
     "nh": {
       "sellPrice": {

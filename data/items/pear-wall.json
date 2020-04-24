@@ -1,6 +1,8 @@
 {
   "id": "pear-wall",
-  "name": "Pear Wall",
+  "name": {
+    "en-US": "Pear Wall"
+  },
   "games": {
     "nh": {
       "orderable": false,

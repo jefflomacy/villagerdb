@@ -1,6 +1,8 @@
 {
   "id": "navy-wrapping-paper",
-  "name": "Navy Wrapping Paper",
+  "name": {
+    "en-US": "Navy Wrapping Paper"
+  },
   "games": {
     "nh": {
       "sellPrice": {

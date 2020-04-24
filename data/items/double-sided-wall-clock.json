@@ -1,6 +1,8 @@
 {
   "id": "double-sided-wall-clock",
-  "name": "Double-sided Wall Clock",
+  "name": {
+    "en-US": "Double-sided Wall Clock"
+  },
   "games": {
     "nh": {
       "orderable": true,

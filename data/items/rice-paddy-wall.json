@@ -1,6 +1,8 @@
 {
   "id": "rice-paddy-wall",
-  "name": "Rice-paddy Wall",
+  "name": {
+    "en-US": "Rice-paddy Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

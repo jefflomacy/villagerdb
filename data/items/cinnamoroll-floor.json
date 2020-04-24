@@ -1,6 +1,8 @@
 {
   "id": "cinnamoroll-floor",
-  "name": "Cinnamoroll Floor",
+  "name": {
+    "en-US": "Cinnamoroll Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

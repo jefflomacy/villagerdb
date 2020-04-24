@@ -1,6 +1,8 @@
 {
   "id": "tom-nooks-poster",
-  "name": "Tom Nook's Poster",
+  "name": {
+    "en-US": "Tom Nook's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

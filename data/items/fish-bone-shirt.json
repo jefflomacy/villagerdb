@@ -1,6 +1,8 @@
 {
   "id": "fish-bone-shirt",
-  "name": "Fish Bone Shirt",
+  "name": {
+    "en-US": "Fish Bone Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

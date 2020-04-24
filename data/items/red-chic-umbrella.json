@@ -1,6 +1,8 @@
 {
   "id": "red-chic-umbrella",
-  "name": "Red Chic Umbrella",
+  "name": {
+    "en-US": "Red Chic Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

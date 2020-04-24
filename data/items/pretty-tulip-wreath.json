@@ -1,6 +1,8 @@
 {
   "id": "pretty-tulip-wreath",
-  "name": "Pretty Tulip Wreath",
+  "name": {
+    "en-US": "Pretty Tulip Wreath"
+  },
   "games": {
     "nh": {
       "sellPrice": {

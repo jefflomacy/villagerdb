@@ -1,6 +1,8 @@
 {
   "id": "changing-room",
-  "name": "Changing Room",
+  "name": {
+    "en-US": "Changing Room"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

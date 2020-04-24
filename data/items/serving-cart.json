@@ -1,6 +1,8 @@
 {
   "id": "serving-cart",
-  "name": "Serving Cart",
+  "name": {
+    "en-US": "Serving Cart"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

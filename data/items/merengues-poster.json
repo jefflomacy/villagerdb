@@ -1,6 +1,8 @@
 {
   "id": "merengues-poster",
-  "name": "Merengue's Poster",
+  "name": {
+    "en-US": "Merengue's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

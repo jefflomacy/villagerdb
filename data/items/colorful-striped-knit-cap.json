@@ -1,6 +1,8 @@
 {
   "id": "colorful-striped-knit-cap",
-  "name": "Colorful Striped Knit Cap",
+  "name": {
+    "en-US": "Colorful Striped Knit Cap"
+  },
   "games": {
     "nh": {
       "sellPrice": {

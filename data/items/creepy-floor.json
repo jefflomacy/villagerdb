@@ -1,6 +1,8 @@
 {
   "id": "creepy-floor",
-  "name": "Creepy Floor",
+  "name": {
+    "en-US": "Creepy Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

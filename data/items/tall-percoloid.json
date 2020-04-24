@@ -1,6 +1,8 @@
 {
   "id": "tall-percoloid",
-  "name": "Tall Percoloid",
+  "name": {
+    "en-US": "Tall Percoloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "tin-watering-can",
-  "name": "Tin Watering Can",
+  "name": {
+    "en-US": "Tin Watering Can"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

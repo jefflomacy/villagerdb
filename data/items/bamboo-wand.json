@@ -1,6 +1,8 @@
 {
   "id": "bamboo-wand",
-  "name": "Bamboo Wand",
+  "name": {
+    "en-US": "Bamboo Wand"
+  },
   "games": {
     "nh": {
       "orderable": false,

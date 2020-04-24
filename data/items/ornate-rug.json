@@ -1,6 +1,8 @@
 {
   "id": "ornate-rug",
-  "name": "Ornate Rug",
+  "name": {
+    "en-US": "Ornate Rug"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

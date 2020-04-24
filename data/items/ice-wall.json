@@ -1,6 +1,8 @@
 {
   "id": "ice-wall",
-  "name": "Ice Wall",
+  "name": {
+    "en-US": "Ice Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

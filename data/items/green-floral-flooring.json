@@ -1,6 +1,8 @@
 {
   "id": "green-floral-flooring",
-  "name": "Green Floral Flooring",
+  "name": {
+    "en-US": "Green Floral Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

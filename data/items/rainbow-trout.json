@@ -1,6 +1,8 @@
 {
   "id": "rainbow-trout",
-  "name": "Rainbow Trout",
+  "name": {
+    "en-US": "Rainbow Trout"
+  },
   "category": "Fish",
   "games": {
     "nl": {

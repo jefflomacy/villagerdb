@@ -1,6 +1,8 @@
 {
   "id": "arched-window",
-  "name": "Arched Window",
+  "name": {
+    "en-US": "Arched Window"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

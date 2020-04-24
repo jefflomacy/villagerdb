@@ -1,6 +1,8 @@
 {
   "id": "wrapping-paper",
-  "name": "Wrapping Paper",
+  "name": {
+    "en-US": "Wrapping Paper"
+  },
   "category": "Usables",
   "games": {
     "nl": {

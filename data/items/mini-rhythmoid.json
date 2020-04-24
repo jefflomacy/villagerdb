@@ -1,6 +1,8 @@
 {
   "id": "mini-rhythmoid",
-  "name": "Mini Rhythmoid",
+  "name": {
+    "en-US": "Mini Rhythmoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

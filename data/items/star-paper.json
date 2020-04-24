@@ -1,6 +1,8 @@
 {
   "id": "star-paper",
-  "name": "Star Paper",
+  "name": {
+    "en-US": "Star Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

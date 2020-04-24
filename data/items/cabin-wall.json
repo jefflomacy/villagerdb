@@ -1,6 +1,8 @@
 {
   "id": "cabin-wall",
-  "name": "Cabin Wall",
+  "name": {
+    "en-US": "Cabin Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

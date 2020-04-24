@@ -1,6 +1,8 @@
 {
   "id": "orange-lace-up-dress",
-  "name": "Orange Lace-up Dress",
+  "name": {
+    "en-US": "Orange Lace-up Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

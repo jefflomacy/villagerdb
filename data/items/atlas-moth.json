@@ -1,6 +1,8 @@
 {
   "id": "atlas-moth",
-  "name": "Atlas Moth",
+  "name": {
+    "en-US": "Atlas Moth"
+  },
   "games": {
     "nh": {
       "orderable": false,

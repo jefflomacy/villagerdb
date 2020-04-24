@@ -1,6 +1,8 @@
 {
   "id": "planked-tatami",
-  "name": "Planked Tatami",
+  "name": {
+    "en-US": "Planked Tatami"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

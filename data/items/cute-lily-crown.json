@@ -1,6 +1,8 @@
 {
   "id": "cute-lily-crown",
-  "name": "Cute Lily Crown",
+  "name": {
+    "en-US": "Cute Lily Crown"
+  },
   "games": {
     "nh": {
       "orderable": false,

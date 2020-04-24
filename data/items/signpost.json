@@ -1,6 +1,8 @@
 {
   "id": "signpost",
-  "name": "Signpost",
+  "name": {
+    "en-US": "Signpost"
+  },
   "category": "Furniture",
   "games": {
     "nh": {

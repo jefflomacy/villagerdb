@@ -1,6 +1,8 @@
 {
   "id": "plant-partition",
-  "name": "Plant Partition",
+  "name": {
+    "en-US": "Plant Partition"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

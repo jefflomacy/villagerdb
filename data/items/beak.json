@@ -1,6 +1,8 @@
 {
   "id": "beak",
-  "name": "Beak",
+  "name": {
+    "en-US": "Beak"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

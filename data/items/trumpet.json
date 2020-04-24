@@ -1,6 +1,8 @@
 {
   "id": "trumpet",
-  "name": "Trumpet",
+  "name": {
+    "en-US": "Trumpet"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

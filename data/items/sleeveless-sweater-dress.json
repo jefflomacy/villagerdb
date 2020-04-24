@@ -1,6 +1,8 @@
 {
   "id": "sleeveless-sweater-dress",
-  "name": "Sleeveless Sweater Dress",
+  "name": {
+    "en-US": "Sleeveless Sweater Dress"
+  },
   "games": {
     "nh": {
       "orderable": true,

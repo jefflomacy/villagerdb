@@ -1,6 +1,8 @@
 {
   "id": "dice-shirt",
-  "name": "Dice Shirt",
+  "name": {
+    "en-US": "Dice Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

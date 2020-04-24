@@ -1,6 +1,8 @@
 {
   "id": "crewel-shirt",
-  "name": "Crewel Shirt",
+  "name": {
+    "en-US": "Crewel Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

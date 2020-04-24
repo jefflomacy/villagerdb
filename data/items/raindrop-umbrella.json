@@ -1,6 +1,8 @@
 {
   "id": "raindrop-umbrella",
-  "name": "Raindrop Umbrella",
+  "name": {
+    "en-US": "Raindrop Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

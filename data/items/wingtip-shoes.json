@@ -1,6 +1,8 @@
 {
   "id": "wingtip-shoes",
-  "name": "Wingtip Shoes",
+  "name": {
+    "en-US": "Wingtip Shoes"
+  },
   "games": {
     "nh": {
       "orderable": true,

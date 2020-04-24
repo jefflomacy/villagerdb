@@ -1,6 +1,8 @@
 {
   "id": "simple-medium-red-mat",
-  "name": "Simple Medium Red Mat",
+  "name": {
+    "en-US": "Simple Medium Red Mat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

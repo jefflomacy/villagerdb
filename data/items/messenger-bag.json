@@ -1,6 +1,8 @@
 {
   "id": "messenger-bag",
-  "name": "Messenger Bag",
+  "name": {
+    "en-US": "Messenger Bag"
+  },
   "games": {
     "nh": {
       "sellPrice": {

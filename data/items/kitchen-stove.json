@@ -1,6 +1,8 @@
 {
   "id": "kitchen-stove",
-  "name": "Kitchen Stove",
+  "name": {
+    "en-US": "Kitchen Stove"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

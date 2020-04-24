@@ -1,6 +1,8 @@
 {
   "id": "operating-table",
-  "name": "Operating Table",
+  "name": {
+    "en-US": "Operating Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

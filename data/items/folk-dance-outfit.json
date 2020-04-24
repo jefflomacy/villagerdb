@@ -1,6 +1,8 @@
 {
   "id": "folk-dance-outfit",
-  "name": "Folk-dance Outfit",
+  "name": {
+    "en-US": "Folk-dance Outfit"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "basket-chair",
-  "name": "Basket Chair",
+  "name": {
+    "en-US": "Basket Chair"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

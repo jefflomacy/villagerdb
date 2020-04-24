@@ -1,6 +1,8 @@
 {
   "id": "modern-cash-register",
-  "name": "Modern Cash Register",
+  "name": {
+    "en-US": "Modern Cash Register"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "tilapia-model",
-  "name": "Tilapia Model",
+  "name": {
+    "en-US": "Tilapia Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

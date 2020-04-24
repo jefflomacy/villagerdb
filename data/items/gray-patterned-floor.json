@@ -1,6 +1,8 @@
 {
   "id": "gray-patterned-floor",
-  "name": "Gray Patterned Floor",
+  "name": {
+    "en-US": "Gray Patterned Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

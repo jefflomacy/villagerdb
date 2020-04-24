@@ -1,6 +1,8 @@
 {
   "id": "red-glasses",
-  "name": "Red Glasses",
+  "name": {
+    "en-US": "Red Glasses"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

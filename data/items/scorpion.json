@@ -1,6 +1,8 @@
 {
   "id": "scorpion",
-  "name": "Scorpion",
+  "name": {
+    "en-US": "Scorpion"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

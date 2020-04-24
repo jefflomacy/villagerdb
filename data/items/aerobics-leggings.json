@@ -1,6 +1,8 @@
 {
   "id": "aerobics-leggings",
-  "name": "Aerobics Leggings",
+  "name": {
+    "en-US": "Aerobics Leggings"
+  },
   "games": {
     "nh": {
       "sellPrice": {

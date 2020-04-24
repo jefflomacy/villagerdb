@@ -1,6 +1,8 @@
 {
   "id": "harmonious-wall",
-  "name": "Harmonious Wall",
+  "name": {
+    "en-US": "Harmonious Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

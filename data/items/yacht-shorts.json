@@ -1,6 +1,8 @@
 {
   "id": "yacht-shorts",
-  "name": "Yacht Shorts",
+  "name": {
+    "en-US": "Yacht Shorts"
+  },
   "games": {
     "nh": {
       "orderable": true,

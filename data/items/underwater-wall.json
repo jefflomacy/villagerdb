@@ -1,6 +1,8 @@
 {
   "id": "underwater-wall",
-  "name": "Underwater Wall",
+  "name": {
+    "en-US": "Underwater Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

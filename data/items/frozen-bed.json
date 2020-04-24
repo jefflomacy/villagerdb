@@ -1,6 +1,8 @@
 {
   "id": "frozen-bed",
-  "name": "Frozen Bed",
+  "name": {
+    "en-US": "Frozen Bed"
+  },
   "games": {
     "nh": {
       "sellPrice": {

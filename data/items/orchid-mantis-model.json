@@ -1,6 +1,8 @@
 {
   "id": "orchid-mantis-model",
-  "name": "Orchid Mantis Model",
+  "name": {
+    "en-US": "Orchid Mantis Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

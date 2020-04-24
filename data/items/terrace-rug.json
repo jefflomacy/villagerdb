@@ -1,6 +1,8 @@
 {
   "id": "terrace-rug",
-  "name": "Terrace Rug",
+  "name": {
+    "en-US": "Terrace Rug"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "tall-timpanoid",
-  "name": "Tall Timpanoid",
+  "name": {
+    "en-US": "Tall Timpanoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

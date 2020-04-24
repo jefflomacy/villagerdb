@@ -1,6 +1,8 @@
 {
   "id": "kk-stroll",
-  "name": "K.K. Stroll",
+  "name": {
+    "en-US": "K.K. Stroll"
+  },
   "category": "Music",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "dirt-clod-wall",
-  "name": "Dirt-clod Wall",
+  "name": {
+    "en-US": "Dirt-clod Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "ganondorf-wig",
-  "name": "Ganondorf Wig",
+  "name": {
+    "en-US": "Ganondorf Wig"
+  },
   "category": "Hats",
   "games": {
     "nl": {

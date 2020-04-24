@@ -1,6 +1,8 @@
 {
   "id": "snowflake-rug",
-  "name": "Snowflake Rug",
+  "name": {
+    "en-US": "Snowflake Rug"
+  },
   "games": {
     "nh": {
       "sellPrice": {

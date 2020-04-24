@@ -1,6 +1,8 @@
 {
   "id": "oyster",
-  "name": "Oyster",
+  "name": {
+    "en-US": "Oyster"
+  },
   "category": "Fish",
   "games": {
     "nl": {

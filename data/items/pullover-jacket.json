@@ -1,6 +1,8 @@
 {
   "id": "pullover-jacket",
-  "name": "Pullover Jacket",
+  "name": {
+    "en-US": "Pullover Jacket"
+  },
   "games": {
     "nh": {
       "sellPrice": {

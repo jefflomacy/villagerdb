@@ -1,6 +1,8 @@
 {
   "id": "pachy-model",
-  "name": "Pachy Model",
+  "name": {
+    "en-US": "Pachy Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

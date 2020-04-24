@@ -1,6 +1,8 @@
 {
   "id": "polka-dot-paper",
-  "name": "Polka-dot Paper",
+  "name": {
+    "en-US": "Polka-dot Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

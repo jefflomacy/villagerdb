@@ -1,6 +1,8 @@
 {
   "id": "log-dining-table",
-  "name": "Log Dining Table",
+  "name": {
+    "en-US": "Log Dining Table"
+  },
   "games": {
     "nh": {
       "orderable": false,

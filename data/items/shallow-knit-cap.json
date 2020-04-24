@@ -1,6 +1,8 @@
 {
   "id": "shallow-knit-cap",
-  "name": "Shallow Knit Cap",
+  "name": {
+    "en-US": "Shallow Knit Cap"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "apple-hat",
-  "name": "Apple Hat",
+  "name": {
+    "en-US": "Apple Hat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

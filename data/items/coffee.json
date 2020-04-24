@@ -1,6 +1,8 @@
 {
   "id": "coffee",
-  "name": "Coffee",
+  "name": {
+    "en-US": "Coffee"
+  },
   "category": "Usables",
   "games": {
     "nl": {

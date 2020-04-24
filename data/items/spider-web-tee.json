@@ -1,6 +1,8 @@
 {
   "id": "spider-web-tee",
-  "name": "Spider-web Tee",
+  "name": {
+    "en-US": "Spider-web Tee"
+  },
   "games": {
     "nh": {
       "sellPrice": {

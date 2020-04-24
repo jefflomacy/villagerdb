@@ -1,6 +1,8 @@
 {
   "id": "cute-yellow-wall",
-  "name": "Cute Yellow Wall",
+  "name": {
+    "en-US": "Cute Yellow Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

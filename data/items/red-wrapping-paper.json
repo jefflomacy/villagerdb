@@ -1,6 +1,8 @@
 {
   "id": "red-wrapping-paper",
-  "name": "Red Wrapping Paper",
+  "name": {
+    "en-US": "Red Wrapping Paper"
+  },
   "games": {
     "nh": {
       "sellPrice": {

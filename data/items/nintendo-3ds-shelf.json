@@ -1,6 +1,8 @@
 {
   "id": "nintendo-3ds-shelf",
-  "name": "Nintendo 3DS Shelf",
+  "name": {
+    "en-US": "Nintendo 3DS Shelf"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

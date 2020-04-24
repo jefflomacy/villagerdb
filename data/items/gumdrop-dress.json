@@ -1,6 +1,8 @@
 {
   "id": "gumdrop-dress",
-  "name": "Gumdrop Dress",
+  "name": {
+    "en-US": "Gumdrop Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

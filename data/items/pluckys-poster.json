@@ -1,6 +1,8 @@
 {
   "id": "pluckys-poster",
-  "name": "Plucky's Poster",
+  "name": {
+    "en-US": "Plucky's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

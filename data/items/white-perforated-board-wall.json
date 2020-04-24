@@ -1,6 +1,8 @@
 {
   "id": "white-perforated-board-wall",
-  "name": "White Perforated-board Wall",
+  "name": {
+    "en-US": "White Perforated-board Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

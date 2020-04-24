@@ -1,6 +1,8 @@
 {
   "id": "citrus-gingham-dress",
-  "name": "Citrus Gingham Dress",
+  "name": {
+    "en-US": "Citrus Gingham Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

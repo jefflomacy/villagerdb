@@ -1,6 +1,8 @@
 {
   "id": "floor-light",
-  "name": "Floor Light",
+  "name": {
+    "en-US": "Floor Light"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

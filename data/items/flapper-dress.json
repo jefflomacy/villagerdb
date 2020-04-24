@@ -1,6 +1,8 @@
 {
   "id": "flapper-dress",
-  "name": "Flapper Dress",
+  "name": {
+    "en-US": "Flapper Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

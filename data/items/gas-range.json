@@ -1,6 +1,8 @@
 {
   "id": "gas-range",
-  "name": "Gas Range",
+  "name": {
+    "en-US": "Gas Range"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "ski-sweater",
-  "name": "Ski Sweater",
+  "name": {
+    "en-US": "Ski Sweater"
+  },
   "category": "Tops",
   "games": {
     "ac": {

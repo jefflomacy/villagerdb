@@ -1,6 +1,8 @@
 {
   "id": "layered-tank-dress",
-  "name": "Layered Tank Dress",
+  "name": {
+    "en-US": "Layered Tank Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

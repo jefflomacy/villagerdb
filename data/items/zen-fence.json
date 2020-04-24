@@ -1,6 +1,8 @@
 {
   "id": "zen-fence",
-  "name": "Zen Fence",
+  "name": {
+    "en-US": "Zen Fence"
+  },
   "games": {
     "nh": {
       "orderable": false,

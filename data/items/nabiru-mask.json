@@ -1,6 +1,8 @@
 {
   "id": "nabiru-mask",
-  "name": "Nabiru Mask",
+  "name": {
+    "en-US": "Nabiru Mask"
+  },
   "category": "Hats",
   "games": {
     "nl": {

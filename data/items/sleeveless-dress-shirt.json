@@ -1,6 +1,8 @@
 {
   "id": "sleeveless-dress-shirt",
-  "name": "Sleeveless Dress Shirt",
+  "name": {
+    "en-US": "Sleeveless Dress Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

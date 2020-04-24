@@ -1,6 +1,8 @@
 {
   "id": "green-tie-dye",
-  "name": "Green Tie-Dye",
+  "name": {
+    "en-US": "Green Tie-Dye"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "pleather-patch-skirt",
-  "name": "Pleather Patch Skirt",
+  "name": {
+    "en-US": "Pleather Patch Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

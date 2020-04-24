@@ -1,6 +1,8 @@
 {
   "id": "sushi-menu",
-  "name": "Sushi Menu",
+  "name": {
+    "en-US": "Sushi Menu"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

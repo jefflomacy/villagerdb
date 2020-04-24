@@ -1,6 +1,8 @@
 {
   "id": "snail",
-  "name": "Snail",
+  "name": {
+    "en-US": "Snail"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

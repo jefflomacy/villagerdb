@@ -1,6 +1,8 @@
 {
   "id": "cinnamoroll-outfit",
-  "name": "Cinnamoroll Outfit",
+  "name": {
+    "en-US": "Cinnamoroll Outfit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

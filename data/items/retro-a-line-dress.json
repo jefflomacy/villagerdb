@@ -1,6 +1,8 @@
 {
   "id": "retro-a-line-dress",
-  "name": "Retro A-line Dress",
+  "name": {
+    "en-US": "Retro A-line Dress"
+  },
   "games": {
     "nh": {
       "orderable": true,

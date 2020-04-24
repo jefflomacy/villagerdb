@@ -1,6 +1,8 @@
 {
   "id": "jungle-camo",
-  "name": "Jungle Camo",
+  "name": {
+    "en-US": "Jungle Camo"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "pleather-trench-coat",
-  "name": "Pleather Trench Coat",
+  "name": {
+    "en-US": "Pleather Trench Coat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

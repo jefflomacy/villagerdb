@@ -1,6 +1,8 @@
 {
   "id": "surgeonfish",
-  "name": "Surgeonfish",
+  "name": {
+    "en-US": "Surgeonfish"
+  },
   "category": "Fish",
   "games": {
     "nl": {

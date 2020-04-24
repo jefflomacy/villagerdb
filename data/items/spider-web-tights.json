@@ -1,6 +1,8 @@
 {
   "id": "spider-web-tights",
-  "name": "Spider-web Tights",
+  "name": {
+    "en-US": "Spider-web Tights"
+  },
   "games": {
     "nh": {
       "sellPrice": {

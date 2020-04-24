@@ -1,6 +1,8 @@
 {
   "id": "terry-cloth-socks",
-  "name": "Terry-cloth Socks",
+  "name": {
+    "en-US": "Terry-cloth Socks"
+  },
   "games": {
     "nh": {
       "orderable": true,

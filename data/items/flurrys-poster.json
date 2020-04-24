@@ -1,6 +1,8 @@
 {
   "id": "flurrys-poster",
-  "name": "Flurry's Poster",
+  "name": {
+    "en-US": "Flurry's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "forest-wall",
-  "name": "Forest Wall",
+  "name": {
+    "en-US": "Forest Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

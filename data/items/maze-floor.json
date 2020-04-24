@@ -1,6 +1,8 @@
 {
   "id": "maze-floor",
-  "name": "Maze Floor",
+  "name": {
+    "en-US": "Maze Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

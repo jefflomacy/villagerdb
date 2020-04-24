@@ -1,6 +1,8 @@
 {
   "id": "green-net",
-  "name": "Green Net",
+  "name": {
+    "en-US": "Green Net"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

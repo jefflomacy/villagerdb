@@ -1,6 +1,8 @@
 {
   "id": "purple-heart-rug",
-  "name": "Purple Heart Rug",
+  "name": {
+    "en-US": "Purple Heart Rug"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "mini-pleather-bag",
-  "name": "Mini Pleather Bag",
+  "name": {
+    "en-US": "Mini Pleather Bag"
+  },
   "games": {
     "nh": {
       "sellPrice": {

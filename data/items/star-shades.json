@@ -1,6 +1,8 @@
 {
   "id": "star-shades",
-  "name": "Star Shades",
+  "name": {
+    "en-US": "Star Shades"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "camo-bomber-style-jacket",
-  "name": "Camo Bomber-style Jacket",
+  "name": {
+    "en-US": "Camo Bomber-style Jacket"
+  },
   "games": {
     "nh": {
       "orderable": true,

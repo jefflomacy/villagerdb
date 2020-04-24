@@ -1,6 +1,8 @@
 {
   "id": "goldfish-paper",
-  "name": "Goldfish Paper",
+  "name": {
+    "en-US": "Goldfish Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "six-ball-shirt",
-  "name": "Six-Ball Shirt",
+  "name": {
+    "en-US": "Six-Ball Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

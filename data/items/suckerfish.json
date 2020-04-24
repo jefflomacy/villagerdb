@@ -1,6 +1,8 @@
 {
   "id": "suckerfish",
-  "name": "Suckerfish",
+  "name": {
+    "en-US": "Suckerfish"
+  },
   "games": {
     "nh": {
       "orderable": false,

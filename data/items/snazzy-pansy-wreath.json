@@ -1,6 +1,8 @@
 {
   "id": "snazzy-pansy-wreath",
-  "name": "Snazzy Pansy Wreath",
+  "name": {
+    "en-US": "Snazzy Pansy Wreath"
+  },
   "games": {
     "nh": {
       "orderable": false,

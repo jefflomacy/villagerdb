@@ -1,6 +1,8 @@
 {
   "id": "giant-snakehead",
-  "name": "Giant Snakehead",
+  "name": {
+    "en-US": "Giant Snakehead"
+  },
   "category": "Fish",
   "games": {
     "nl": {

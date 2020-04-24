@@ -1,6 +1,8 @@
 {
   "id": "rainbow-stag-model",
-  "name": "Rainbow Stag Model",
+  "name": {
+    "en-US": "Rainbow Stag Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

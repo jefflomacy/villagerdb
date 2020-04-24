@@ -1,6 +1,8 @@
 {
   "id": "dels-poster",
-  "name": "Del's Poster",
+  "name": {
+    "en-US": "Del's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

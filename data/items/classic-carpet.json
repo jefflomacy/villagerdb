@@ -1,6 +1,8 @@
 {
   "id": "classic-carpet",
-  "name": "Classic Carpet",
+  "name": {
+    "en-US": "Classic Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

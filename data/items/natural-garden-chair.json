@@ -1,6 +1,8 @@
 {
   "id": "natural-garden-chair",
-  "name": "Natural Garden Chair",
+  "name": {
+    "en-US": "Natural Garden Chair"
+  },
   "games": {
     "nh": {
       "orderable": false,

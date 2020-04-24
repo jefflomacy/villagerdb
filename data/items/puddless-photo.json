@@ -1,6 +1,8 @@
 {
   "id": "puddless-photo",
-  "name": "Puddles's Photo",
+  "name": {
+    "en-US": "Puddles's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

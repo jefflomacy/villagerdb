@@ -1,6 +1,8 @@
 {
   "id": "lamentoid",
-  "name": "Lamentoid",
+  "name": {
+    "en-US": "Lamentoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

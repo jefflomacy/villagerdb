@@ -1,6 +1,8 @@
 {
   "id": "mega-alloid",
-  "name": "Mega Alloid",
+  "name": {
+    "en-US": "Mega Alloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

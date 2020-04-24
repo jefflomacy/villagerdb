@@ -1,6 +1,8 @@
 {
   "id": "green-ring-shirt",
-  "name": "Green Ring Shirt",
+  "name": {
+    "en-US": "Green Ring Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "diamond-shirt",
-  "name": "Diamond Shirt",
+  "name": {
+    "en-US": "Diamond Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

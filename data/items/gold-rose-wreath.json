@@ -1,6 +1,8 @@
 {
   "id": "gold-rose-wreath",
-  "name": "Gold Rose Wreath",
+  "name": {
+    "en-US": "Gold Rose Wreath"
+  },
   "games": {
     "nh": {
       "sellPrice": {

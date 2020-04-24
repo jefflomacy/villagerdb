@@ -1,6 +1,8 @@
 {
   "id": "flat-garden-rock",
-  "name": "Flat Garden Rock",
+  "name": {
+    "en-US": "Flat Garden Rock"
+  },
   "games": {
     "nh": {
       "orderable": false,

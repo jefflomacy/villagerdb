@@ -1,6 +1,8 @@
 {
   "id": "slipper-rack",
-  "name": "Slipper Rack",
+  "name": {
+    "en-US": "Slipper Rack"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

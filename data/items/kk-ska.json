@@ -1,6 +1,8 @@
 {
   "id": "kk-ska",
-  "name": "K.K. Ska",
+  "name": {
+    "en-US": "K.K. Ska"
+  },
   "category": "Music",
   "games": {
     "nl": {

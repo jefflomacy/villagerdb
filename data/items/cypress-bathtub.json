@@ -1,6 +1,8 @@
 {
   "id": "cypress-bathtub",
-  "name": "Cypress Bathtub",
+  "name": {
+    "en-US": "Cypress Bathtub"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "nook-inc-slippers",
-  "name": "Nook Inc. Slippers",
+  "name": {
+    "en-US": "Nook Inc. Slippers"
+  },
   "games": {
     "nh": {
       "orderable": true,

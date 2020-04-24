@@ -1,6 +1,8 @@
 {
   "id": "pascals-poster",
-  "name": "Pascal's Poster",
+  "name": {
+    "en-US": "Pascal's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

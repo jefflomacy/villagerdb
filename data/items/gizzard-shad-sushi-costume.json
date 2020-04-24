@@ -1,6 +1,8 @@
 {
   "id": "gizzard-shad-sushi-costume",
-  "name": "Gizzard-shad-sushi Costume",
+  "name": {
+    "en-US": "Gizzard-shad-sushi Costume"
+  },
   "games": {
     "nh": {
       "sellPrice": {

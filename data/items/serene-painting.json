@@ -1,6 +1,8 @@
 {
   "id": "serene-painting",
-  "name": "Serene Painting",
+  "name": {
+    "en-US": "Serene Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

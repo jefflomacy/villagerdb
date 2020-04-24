@@ -1,6 +1,8 @@
 {
   "id": "lemon-lime-paper",
-  "name": "Lemon-lime Paper",
+  "name": {
+    "en-US": "Lemon-lime Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "visual-punk-outfit",
-  "name": "Visual-punk Outfit",
+  "name": {
+    "en-US": "Visual-punk Outfit"
+  },
   "games": {
     "nh": {
       "sellPrice": {

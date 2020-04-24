@@ -1,6 +1,8 @@
 {
   "id": "simple-medium-avocado-mat",
-  "name": "Simple Medium Avocado Mat",
+  "name": {
+    "en-US": "Simple Medium Avocado Mat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "light-line-shirt",
-  "name": "Light Line Shirt",
+  "name": {
+    "en-US": "Light Line Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

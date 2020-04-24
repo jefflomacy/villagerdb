@@ -1,6 +1,8 @@
 {
   "id": "gobelin-shorts",
-  "name": "Gobelin Shorts",
+  "name": {
+    "en-US": "Gobelin Shorts"
+  },
   "games": {
     "nh": {
       "sellPrice": {

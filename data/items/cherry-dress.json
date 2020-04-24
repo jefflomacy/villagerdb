@@ -1,6 +1,8 @@
 {
   "id": "cherry-dress",
-  "name": "Cherry Dress",
+  "name": {
+    "en-US": "Cherry Dress"
+  },
   "games": {
     "nh": {
       "orderable": false,

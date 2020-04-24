@@ -1,6 +1,8 @@
 {
   "id": "tent",
-  "name": "Tent",
+  "name": {
+    "en-US": "Tent"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

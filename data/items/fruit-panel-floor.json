@@ -1,6 +1,8 @@
 {
   "id": "fruit-panel-floor",
-  "name": "Fruit-panel Floor",
+  "name": {
+    "en-US": "Fruit-panel Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

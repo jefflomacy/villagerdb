@@ -1,6 +1,8 @@
 {
   "id": "doctors-mirror",
-  "name": "Doctor's Mirror",
+  "name": {
+    "en-US": "Doctor's Mirror"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

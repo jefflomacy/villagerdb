@@ -1,6 +1,8 @@
 {
   "id": "two-ball-shirt",
-  "name": "Two-Ball Shirt",
+  "name": {
+    "en-US": "Two-Ball Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

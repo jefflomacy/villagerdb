@@ -1,6 +1,8 @@
 {
   "id": "stone-lion-dog",
-  "name": "Stone Lion-dog",
+  "name": {
+    "en-US": "Stone Lion-dog"
+  },
   "games": {
     "nh": {
       "orderable": false,

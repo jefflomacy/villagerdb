@@ -1,6 +1,8 @@
 {
   "id": "fuzzy-vest",
-  "name": "Fuzzy Vest",
+  "name": {
+    "en-US": "Fuzzy Vest"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "ocean-horizon-wall",
-  "name": "Ocean-horizon Wall",
+  "name": {
+    "en-US": "Ocean-horizon Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

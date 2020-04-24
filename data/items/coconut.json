@@ -1,6 +1,8 @@
 {
   "id": "coconut",
-  "name": "Coconut",
+  "name": {
+    "en-US": "Coconut"
+  },
   "category": "Fruit",
   "games": {
     "nl": {

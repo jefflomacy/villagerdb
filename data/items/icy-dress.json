@@ -1,6 +1,8 @@
 {
   "id": "icy-dress",
-  "name": "Icy Dress",
+  "name": {
+    "en-US": "Icy Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

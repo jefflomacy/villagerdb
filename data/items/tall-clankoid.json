@@ -1,6 +1,8 @@
 {
   "id": "tall-clankoid",
-  "name": "Tall Clankoid",
+  "name": {
+    "en-US": "Tall Clankoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

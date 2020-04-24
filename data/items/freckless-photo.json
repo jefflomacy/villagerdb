@@ -1,6 +1,8 @@
 {
   "id": "freckless-photo",
-  "name": "Freckles's Photo",
+  "name": {
+    "en-US": "Freckles's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

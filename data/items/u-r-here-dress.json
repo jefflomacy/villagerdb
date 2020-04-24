@@ -1,6 +1,8 @@
 {
   "id": "u-r-here-dress",
-  "name": "U-r-here Dress",
+  "name": {
+    "en-US": "U-r-here Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

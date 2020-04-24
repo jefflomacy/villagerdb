@@ -1,6 +1,8 @@
 {
   "id": "colorful-shovel",
-  "name": "Colorful Shovel",
+  "name": {
+    "en-US": "Colorful Shovel"
+  },
   "games": {
     "nh": {
       "orderable": false,

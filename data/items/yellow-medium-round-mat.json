@@ -1,6 +1,8 @@
 {
   "id": "yellow-medium-round-mat",
-  "name": "Yellow Medium Round Mat",
+  "name": {
+    "en-US": "Yellow Medium Round Mat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

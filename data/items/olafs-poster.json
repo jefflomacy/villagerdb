@@ -1,6 +1,8 @@
 {
   "id": "olafs-poster",
-  "name": "Olaf's Poster",
+  "name": {
+    "en-US": "Olaf's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

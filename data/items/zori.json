@@ -1,6 +1,8 @@
 {
   "id": "zori",
-  "name": "Zori",
+  "name": {
+    "en-US": "Zori"
+  },
   "games": {
     "nh": {
       "sellPrice": {

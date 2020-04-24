@@ -1,6 +1,8 @@
 {
   "id": "sporty-wall",
-  "name": "Sporty Wall",
+  "name": {
+    "en-US": "Sporty Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

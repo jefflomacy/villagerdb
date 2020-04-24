@@ -1,6 +1,8 @@
 {
   "id": "skinny-mushroom",
-  "name": "Skinny Mushroom",
+  "name": {
+    "en-US": "Skinny Mushroom"
+  },
   "category": "Usables",
   "games": {
     "nl": {

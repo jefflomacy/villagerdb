@@ -1,6 +1,8 @@
 {
   "id": "flower-fairy-boots",
-  "name": "Flower Fairy Boots",
+  "name": {
+    "en-US": "Flower Fairy Boots"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

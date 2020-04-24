@@ -1,6 +1,8 @@
 {
   "id": "knapsack",
-  "name": "Knapsack",
+  "name": {
+    "en-US": "Knapsack"
+  },
   "games": {
     "nh": {
       "sellPrice": {

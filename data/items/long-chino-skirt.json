@@ -1,6 +1,8 @@
 {
   "id": "long-chino-skirt",
-  "name": "Long Chino Skirt",
+  "name": {
+    "en-US": "Long Chino Skirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

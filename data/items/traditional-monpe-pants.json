@@ -1,6 +1,8 @@
 {
   "id": "traditional-monpe-pants",
-  "name": "Traditional Monpe Pants",
+  "name": {
+    "en-US": "Traditional Monpe Pants"
+  },
   "games": {
     "nh": {
       "sellPrice": {

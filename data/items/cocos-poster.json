@@ -1,6 +1,8 @@
 {
   "id": "cocos-poster",
-  "name": "Coco's Poster",
+  "name": {
+    "en-US": "Coco's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

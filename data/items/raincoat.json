@@ -1,6 +1,8 @@
 {
   "id": "raincoat",
-  "name": "Raincoat",
+  "name": {
+    "en-US": "Raincoat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

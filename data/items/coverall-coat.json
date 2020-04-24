@@ -1,6 +1,8 @@
 {
   "id": "coverall-coat",
-  "name": "Coverall Coat",
+  "name": {
+    "en-US": "Coverall Coat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "rattan-end-table",
-  "name": "Rattan End Table",
+  "name": {
+    "en-US": "Rattan End Table"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "mega-nebuloid",
-  "name": "Mega Nebuloid",
+  "name": {
+    "en-US": "Mega Nebuloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

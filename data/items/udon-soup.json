@@ -1,6 +1,8 @@
 {
   "id": "udon-soup",
-  "name": "Udon Soup",
+  "name": {
+    "en-US": "Udon Soup"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

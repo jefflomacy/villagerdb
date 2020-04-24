@@ -1,6 +1,8 @@
 {
   "id": "tango-dress",
-  "name": "Tango Dress",
+  "name": {
+    "en-US": "Tango Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

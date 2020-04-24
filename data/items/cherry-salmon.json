@@ -1,6 +1,8 @@
 {
   "id": "cherry-salmon",
-  "name": "Cherry Salmon",
+  "name": {
+    "en-US": "Cherry Salmon"
+  },
   "category": "Fish",
   "games": {
     "nl": {

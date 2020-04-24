@@ -1,6 +1,8 @@
 {
   "id": "sloppy-wall",
-  "name": "Sloppy Wall",
+  "name": {
+    "en-US": "Sloppy Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

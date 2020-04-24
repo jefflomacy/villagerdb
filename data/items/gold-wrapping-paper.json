@@ -1,6 +1,8 @@
 {
   "id": "gold-wrapping-paper",
-  "name": "Gold Wrapping Paper",
+  "name": {
+    "en-US": "Gold Wrapping Paper"
+  },
   "games": {
     "nh": {
       "sellPrice": {

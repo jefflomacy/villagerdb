@@ -1,6 +1,8 @@
 {
   "id": "office-clock",
-  "name": "Office Clock",
+  "name": {
+    "en-US": "Office Clock"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

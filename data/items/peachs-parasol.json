@@ -1,6 +1,8 @@
 {
   "id": "peachs-parasol",
-  "name": "Peach's Parasol",
+  "name": {
+    "en-US": "Peach's Parasol"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

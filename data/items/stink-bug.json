@@ -1,6 +1,8 @@
 {
   "id": "stink-bug",
-  "name": "Stink Bug",
+  "name": {
+    "en-US": "Stink Bug"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

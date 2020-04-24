@@ -1,6 +1,8 @@
 {
   "id": "orange-camo-flooring",
-  "name": "Orange Camo Flooring",
+  "name": {
+    "en-US": "Orange Camo Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

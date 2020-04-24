@@ -1,6 +1,8 @@
 {
   "id": "brown-herringbone-wall",
-  "name": "Brown Herringbone Wall",
+  "name": {
+    "en-US": "Brown Herringbone Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

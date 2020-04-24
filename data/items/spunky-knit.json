@@ -1,6 +1,8 @@
 {
   "id": "spunky-knit",
-  "name": "Spunky Knit",
+  "name": {
+    "en-US": "Spunky Knit"
+  },
   "category": "Tops",
   "games": {
     "ac": {

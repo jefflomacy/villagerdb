@@ -1,6 +1,8 @@
 {
   "id": "tweed-frilly-skirt",
-  "name": "Tweed Frilly Skirt",
+  "name": {
+    "en-US": "Tweed Frilly Skirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

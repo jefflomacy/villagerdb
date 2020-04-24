@@ -1,6 +1,8 @@
 {
   "id": "ski-boots",
-  "name": "Ski Boots",
+  "name": {
+    "en-US": "Ski Boots"
+  },
   "games": {
     "nh": {
       "sellPrice": {

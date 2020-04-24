@@ -1,6 +1,8 @@
 {
   "id": "mega-oombloid",
-  "name": "Mega Oombloid",
+  "name": {
+    "en-US": "Mega Oombloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "botanical-shirt",
-  "name": "Botanical Shirt",
+  "name": {
+    "en-US": "Botanical Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "future-tech-flooring",
-  "name": "Future-tech Flooring",
+  "name": {
+    "en-US": "Future-tech Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

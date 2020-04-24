@@ -1,6 +1,8 @@
 {
   "id": "silver-slingshot",
-  "name": "Silver Slingshot",
+  "name": {
+    "en-US": "Silver Slingshot"
+  },
   "category": "Tools",
   "games": {
     "nl": {

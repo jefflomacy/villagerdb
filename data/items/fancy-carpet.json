@@ -1,6 +1,8 @@
 {
   "id": "fancy-carpet",
-  "name": "Fancy Carpet",
+  "name": {
+    "en-US": "Fancy Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

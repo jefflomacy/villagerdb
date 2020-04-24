@@ -1,6 +1,8 @@
 {
   "id": "only-me",
-  "name": "Only Me",
+  "name": {
+    "en-US": "Only Me"
+  },
   "category": "Music",
   "games": {
     "nl": {

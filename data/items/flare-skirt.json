@@ -1,6 +1,8 @@
 {
   "id": "flare-skirt",
-  "name": "Flare Skirt",
+  "name": {
+    "en-US": "Flare Skirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

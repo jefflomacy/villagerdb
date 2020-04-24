@@ -1,6 +1,8 @@
 {
   "id": "parquet-floor",
-  "name": "Parquet Floor",
+  "name": {
+    "en-US": "Parquet Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

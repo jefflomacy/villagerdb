@@ -1,6 +1,8 @@
 {
   "id": "rainbowfish-model",
-  "name": "Rainbowfish Model",
+  "name": {
+    "en-US": "Rainbowfish Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

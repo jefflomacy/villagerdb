@@ -1,6 +1,8 @@
 {
   "id": "fruit-panel-wall",
-  "name": "Fruit-panel Wall",
+  "name": {
+    "en-US": "Fruit-panel Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

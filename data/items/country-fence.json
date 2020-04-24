@@ -1,6 +1,8 @@
 {
   "id": "country-fence",
-  "name": "Country Fence",
+  "name": {
+    "en-US": "Country Fence"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "sweetfish-model",
-  "name": "Sweetfish Model",
+  "name": {
+    "en-US": "Sweetfish Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

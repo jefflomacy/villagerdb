@@ -1,6 +1,8 @@
 {
   "id": "collarless-coat",
-  "name": "Collarless Coat",
+  "name": {
+    "en-US": "Collarless Coat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

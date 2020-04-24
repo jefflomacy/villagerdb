@@ -1,6 +1,8 @@
 {
   "id": "purrls-poster",
-  "name": "Purrl's Poster",
+  "name": {
+    "en-US": "Purrl's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

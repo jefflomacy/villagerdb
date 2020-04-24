@@ -1,6 +1,8 @@
 {
   "id": "new-nintendo-3ds",
-  "name": "New Nintendo 3DS",
+  "name": {
+    "en-US": "New Nintendo 3DS"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

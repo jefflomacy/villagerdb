@@ -1,6 +1,8 @@
 {
   "id": "anguss-photo",
-  "name": "Angus's Photo",
+  "name": {
+    "en-US": "Angus's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

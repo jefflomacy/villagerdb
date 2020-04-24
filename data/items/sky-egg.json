@@ -1,6 +1,8 @@
 {
   "id": "sky-egg",
-  "name": "Sky Egg",
+  "name": {
+    "en-US": "Sky Egg"
+  },
   "category": "Usables",
   "games": {
     "nl": {

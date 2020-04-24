@@ -1,6 +1,8 @@
 {
   "id": "pink-tulip",
-  "name": "Pink Tulip",
+  "name": {
+    "en-US": "Pink Tulip"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "purple-desert-tile-flooring",
-  "name": "Purple Desert-tile Flooring",
+  "name": {
+    "en-US": "Purple Desert-tile Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

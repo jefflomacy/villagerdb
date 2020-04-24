@@ -1,6 +1,8 @@
 {
   "id": "rotten-peach",
-  "name": "Rotten Peach",
+  "name": {
+    "en-US": "Rotten Peach"
+  },
   "category": "Fruit",
   "games": {
     "nl": {

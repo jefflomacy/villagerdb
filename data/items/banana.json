@@ -1,6 +1,8 @@
 {
   "id": "banana",
-  "name": "Banana",
+  "name": {
+    "en-US": "Banana"
+  },
   "category": "Fruit",
   "games": {
     "nl": {

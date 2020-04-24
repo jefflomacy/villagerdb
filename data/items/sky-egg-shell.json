@@ -1,6 +1,8 @@
 {
   "id": "sky-egg-shell",
-  "name": "Sky-egg Shell",
+  "name": {
+    "en-US": "Sky-egg Shell"
+  },
   "games": {
     "nh": {
       "orderable": false,

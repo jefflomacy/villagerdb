@@ -1,6 +1,8 @@
 {
   "id": "classic-dress",
-  "name": "Classic Dress",
+  "name": {
+    "en-US": "Classic Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

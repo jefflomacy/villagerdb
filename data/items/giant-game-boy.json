@@ -1,6 +1,8 @@
 {
   "id": "giant-game-boy",
-  "name": "Giant Game Boy",
+  "name": {
+    "en-US": "Giant Game Boy"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

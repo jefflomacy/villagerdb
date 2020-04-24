@@ -1,6 +1,8 @@
 {
   "id": "surfin-kk",
-  "name": "Surfin' K.K.",
+  "name": {
+    "en-US": "Surfin' K.K."
+  },
   "category": "Music",
   "games": {
     "nl": {

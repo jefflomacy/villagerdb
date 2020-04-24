@@ -1,6 +1,8 @@
 {
   "id": "papis-poster",
-  "name": "Papi's Poster",
+  "name": {
+    "en-US": "Papi's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

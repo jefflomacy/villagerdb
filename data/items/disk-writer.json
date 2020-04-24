@@ -1,6 +1,8 @@
 {
   "id": "disk-writer",
-  "name": "Disk Writer",
+  "name": {
+    "en-US": "Disk Writer"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

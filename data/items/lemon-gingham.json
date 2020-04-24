@@ -1,6 +1,8 @@
 {
   "id": "lemon-gingham",
-  "name": "Lemon Gingham",
+  "name": {
+    "en-US": "Lemon Gingham"
+  },
   "category": "Tops",
   "games": {
     "ac": {

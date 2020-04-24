@@ -1,6 +1,8 @@
 {
   "id": "rotten-pear",
-  "name": "Rotten Pear",
+  "name": {
+    "en-US": "Rotten Pear"
+  },
   "category": "Fruit",
   "games": {
     "nl": {

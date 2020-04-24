@@ -1,6 +1,8 @@
 {
   "id": "loafers",
-  "name": "Loafers",
+  "name": {
+    "en-US": "Loafers"
+  },
   "games": {
     "nh": {
       "orderable": true,

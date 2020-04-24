@@ -1,6 +1,8 @@
 {
   "id": "paella",
-  "name": "Paella",
+  "name": {
+    "en-US": "Paella"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

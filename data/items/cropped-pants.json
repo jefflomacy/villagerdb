@@ -1,6 +1,8 @@
 {
   "id": "cropped-pants",
-  "name": "Cropped Pants",
+  "name": {
+    "en-US": "Cropped Pants"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "grass-shirt",
-  "name": "Grass Shirt",
+  "name": {
+    "en-US": "Grass Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

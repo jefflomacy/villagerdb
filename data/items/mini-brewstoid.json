@@ -1,6 +1,8 @@
 {
   "id": "mini-brewstoid",
-  "name": "Mini Brewstoid",
+  "name": {
+    "en-US": "Mini Brewstoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "ringtoss",
-  "name": "Ringtoss",
+  "name": {
+    "en-US": "Ringtoss"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

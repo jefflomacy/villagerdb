@@ -1,6 +1,8 @@
 {
   "id": "trellis",
-  "name": "Trellis",
+  "name": {
+    "en-US": "Trellis"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

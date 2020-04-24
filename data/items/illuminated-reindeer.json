@@ -1,6 +1,8 @@
 {
   "id": "illuminated-reindeer",
-  "name": "Illuminated Reindeer",
+  "name": {
+    "en-US": "Illuminated Reindeer"
+  },
   "games": {
     "nh": {
       "sellPrice": {

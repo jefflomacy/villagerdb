@@ -1,6 +1,8 @@
 {
   "id": "misty-garden-wall",
-  "name": "Misty-garden Wall",
+  "name": {
+    "en-US": "Misty-garden Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "wall-mounted-tv",
-  "name": "Wall-mounted TV",
+  "name": {
+    "en-US": "Wall-mounted TV"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

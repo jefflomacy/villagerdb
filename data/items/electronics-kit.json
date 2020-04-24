@@ -1,6 +1,8 @@
 {
   "id": "electronics-kit",
-  "name": "Electronics Kit",
+  "name": {
+    "en-US": "Electronics Kit"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "damselfly-model",
-  "name": "Damselfly Model",
+  "name": {
+    "en-US": "Damselfly Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "back-bow-socks",
-  "name": "Back-bow Socks",
+  "name": {
+    "en-US": "Back-bow Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

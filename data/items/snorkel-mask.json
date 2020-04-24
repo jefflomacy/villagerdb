@@ -1,6 +1,8 @@
 {
   "id": "snorkel-mask",
-  "name": "Snorkel Mask",
+  "name": {
+    "en-US": "Snorkel Mask"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

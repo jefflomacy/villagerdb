@@ -1,6 +1,8 @@
 {
   "id": "tire-stack",
-  "name": "Tire Stack",
+  "name": {
+    "en-US": "Tire Stack"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

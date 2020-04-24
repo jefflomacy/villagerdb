@@ -1,6 +1,8 @@
 {
   "id": "animal-print-coat",
-  "name": "Animal-print Coat",
+  "name": {
+    "en-US": "Animal-print Coat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

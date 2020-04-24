@@ -1,6 +1,8 @@
 {
   "id": "giant-teddy-bear",
-  "name": "Giant Teddy Bear",
+  "name": {
+    "en-US": "Giant Teddy Bear"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

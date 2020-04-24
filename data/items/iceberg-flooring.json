@@ -1,6 +1,8 @@
 {
   "id": "iceberg-flooring",
-  "name": "Iceberg Flooring",
+  "name": {
+    "en-US": "Iceberg Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

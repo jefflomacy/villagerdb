@@ -1,6 +1,8 @@
 {
   "id": "labelle-knit-shirt",
-  "name": "Labelle Knit Shirt",
+  "name": {
+    "en-US": "Labelle Knit Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

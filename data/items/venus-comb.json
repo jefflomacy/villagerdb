@@ -1,6 +1,8 @@
 {
   "id": "venus-comb",
-  "name": "Venus Comb",
+  "name": {
+    "en-US": "Venus Comb"
+  },
   "games": {
     "nh": {
       "orderable": false,

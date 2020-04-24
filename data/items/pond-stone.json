@@ -1,6 +1,8 @@
 {
   "id": "pond-stone",
-  "name": "Pond Stone",
+  "name": {
+    "en-US": "Pond Stone"
+  },
   "games": {
     "nh": {
       "customizable": true,

@@ -1,6 +1,8 @@
 {
   "id": "macrame-tapestry",
-  "name": "Macrame Tapestry",
+  "name": {
+    "en-US": "Macrame Tapestry"
+  },
   "games": {
     "nh": {
       "sellPrice": {

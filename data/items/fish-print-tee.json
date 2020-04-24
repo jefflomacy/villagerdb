@@ -1,6 +1,8 @@
 {
   "id": "fish-print-tee",
-  "name": "Fish-print Tee",
+  "name": {
+    "en-US": "Fish-print Tee"
+  },
   "games": {
     "nh": {
       "sources": [

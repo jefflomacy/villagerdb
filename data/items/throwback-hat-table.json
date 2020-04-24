@@ -1,6 +1,8 @@
 {
   "id": "throwback-hat-table",
-  "name": "Throwback Hat Table",
+  "name": {
+    "en-US": "Throwback Hat Table"
+  },
   "games": {
     "nh": {
       "orderable": true,

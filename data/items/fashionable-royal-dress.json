@@ -1,6 +1,8 @@
 {
   "id": "fashionable-royal-dress",
-  "name": "Fashionable Royal Dress",
+  "name": {
+    "en-US": "Fashionable Royal Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

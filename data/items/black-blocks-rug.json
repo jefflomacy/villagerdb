@@ -1,6 +1,8 @@
 {
   "id": "black-blocks-rug",
-  "name": "Black Blocks Rug",
+  "name": {
+    "en-US": "Black Blocks Rug"
+  },
   "games": {
     "nh": {
       "sources": [

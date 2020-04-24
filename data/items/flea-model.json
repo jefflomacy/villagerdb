@@ -1,6 +1,8 @@
 {
   "id": "flea-model",
-  "name": "Flea Model",
+  "name": {
+    "en-US": "Flea Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

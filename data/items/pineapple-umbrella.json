@@ -1,6 +1,8 @@
 {
   "id": "pineapple-umbrella",
-  "name": "Pineapple Umbrella",
+  "name": {
+    "en-US": "Pineapple Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

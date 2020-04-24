@@ -1,6 +1,8 @@
 {
   "id": "kk-faire",
-  "name": "K.K. Faire",
+  "name": {
+    "en-US": "K.K. Faire"
+  },
   "category": "Music",
   "games": {
     "nl": {

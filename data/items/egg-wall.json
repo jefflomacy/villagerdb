@@ -1,6 +1,8 @@
 {
   "id": "egg-wall",
-  "name": "Egg Wall",
+  "name": {
+    "en-US": "Egg Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

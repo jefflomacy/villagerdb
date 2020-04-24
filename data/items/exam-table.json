@@ -1,6 +1,8 @@
 {
   "id": "exam-table",
-  "name": "Exam Table",
+  "name": {
+    "en-US": "Exam Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

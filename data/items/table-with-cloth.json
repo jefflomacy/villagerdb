@@ -1,6 +1,8 @@
 {
   "id": "table-with-cloth",
-  "name": "Table With Cloth",
+  "name": {
+    "en-US": "Table With Cloth"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

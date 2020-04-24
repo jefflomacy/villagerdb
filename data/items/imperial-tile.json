@@ -1,6 +1,8 @@
 {
   "id": "imperial-tile",
-  "name": "Imperial Tile",
+  "name": {
+    "en-US": "Imperial Tile"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

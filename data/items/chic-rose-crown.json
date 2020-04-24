@@ -1,6 +1,8 @@
 {
   "id": "chic-rose-crown",
-  "name": "Chic Rose Crown",
+  "name": {
+    "en-US": "Chic Rose Crown"
+  },
   "games": {
     "nh": {
       "sellPrice": {

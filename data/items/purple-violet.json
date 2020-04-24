@@ -1,6 +1,8 @@
 {
   "id": "purple-violet",
-  "name": "Purple Violet",
+  "name": {
+    "en-US": "Purple Violet"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

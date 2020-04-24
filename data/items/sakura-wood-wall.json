@@ -1,6 +1,8 @@
 {
   "id": "sakura-wood-wall",
-  "name": "Sakura-wood Wall",
+  "name": {
+    "en-US": "Sakura-wood Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

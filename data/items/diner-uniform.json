@@ -1,6 +1,8 @@
 {
   "id": "diner-uniform",
-  "name": "Diner Uniform",
+  "name": {
+    "en-US": "Diner Uniform"
+  },
   "category": "Dresses",
   "games": {
     "ac": {

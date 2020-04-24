@@ -1,6 +1,8 @@
 {
   "id": "outdoor-sign",
-  "name": "Outdoor Sign",
+  "name": {
+    "en-US": "Outdoor Sign"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

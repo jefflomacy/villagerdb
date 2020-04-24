@@ -1,6 +1,8 @@
 {
   "id": "tall-lullaboid",
-  "name": "Tall Lullaboid",
+  "name": {
+    "en-US": "Tall Lullaboid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

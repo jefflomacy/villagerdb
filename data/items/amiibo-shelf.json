@@ -1,6 +1,8 @@
 {
   "id": "amiibo-shelf",
-  "name": "Amiibo Shelf",
+  "name": {
+    "en-US": "Amiibo Shelf"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

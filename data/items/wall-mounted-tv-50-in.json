@@ -1,6 +1,8 @@
 {
   "id": "wall-mounted-tv-50-in",
-  "name": "Wall-mounted Tv (50 In.)",
+  "name": {
+    "en-US": "Wall-mounted Tv (50 In.)"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "flimsy-shovel",
-  "name": "Flimsy Shovel",
+  "name": {
+    "en-US": "Flimsy Shovel"
+  },
   "category": "Tools",
   "games": {
     "nh": {

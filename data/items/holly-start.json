@@ -1,6 +1,8 @@
 {
   "id": "holly-start",
-  "name": "Holly Start",
+  "name": {
+    "en-US": "Holly Start"
+  },
   "category": "Trees",
   "games": {
     "nl": {

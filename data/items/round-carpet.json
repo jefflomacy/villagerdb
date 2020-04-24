@@ -1,6 +1,8 @@
 {
   "id": "round-carpet",
-  "name": "Round Carpet",
+  "name": {
+    "en-US": "Round Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "china-poblana",
-  "name": "China Poblana",
+  "name": {
+    "en-US": "China Poblana"
+  },
   "games": {
     "nh": {
       "sellPrice": {

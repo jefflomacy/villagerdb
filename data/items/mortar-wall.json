@@ -1,6 +1,8 @@
 {
   "id": "mortar-wall",
-  "name": "Mortar Wall",
+  "name": {
+    "en-US": "Mortar Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

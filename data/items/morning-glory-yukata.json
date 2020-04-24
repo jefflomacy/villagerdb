@@ -1,6 +1,8 @@
 {
   "id": "morning-glory-yukata",
-  "name": "Morning-glory Yukata",
+  "name": {
+    "en-US": "Morning-glory Yukata"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "flimsy-net",
-  "name": "Flimsy Net",
+  "name": {
+    "en-US": "Flimsy Net"
+  },
   "category": "Tools",
   "games": {
     "nh": {

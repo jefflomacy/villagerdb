@@ -1,6 +1,8 @@
 {
   "id": "rose-flooring",
-  "name": "Rose Flooring",
+  "name": {
+    "en-US": "Rose Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

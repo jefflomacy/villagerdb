@@ -1,6 +1,8 @@
 {
   "id": "thunder-shirt",
-  "name": "Thunder Shirt",
+  "name": {
+    "en-US": "Thunder Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "striped-dress",
-  "name": "Striped Dress",
+  "name": {
+    "en-US": "Striped Dress"
+  },
   "games": {
     "nh": {
       "orderable": true,

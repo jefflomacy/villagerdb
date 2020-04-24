@@ -1,6 +1,8 @@
 {
   "id": "barred-knifejaw-model",
-  "name": "Barred Knifejaw Model",
+  "name": {
+    "en-US": "Barred Knifejaw Model"
+  },
   "games": {
     "nh": {
       "orderable": false,

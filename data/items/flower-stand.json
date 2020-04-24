@@ -1,6 +1,8 @@
 {
   "id": "flower-stand",
-  "name": "Flower Stand",
+  "name": {
+    "en-US": "Flower Stand"
+  },
   "games": {
     "nh": {
       "sellPrice": {

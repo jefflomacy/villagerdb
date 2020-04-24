@@ -1,6 +1,8 @@
 {
   "id": "mint-dot-flooring",
-  "name": "Mint Dot Flooring",
+  "name": {
+    "en-US": "Mint Dot Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

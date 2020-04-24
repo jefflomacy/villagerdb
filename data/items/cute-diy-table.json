@@ -1,6 +1,8 @@
 {
   "id": "cute-diy-table",
-  "name": "Cute Diy Table",
+  "name": {
+    "en-US": "Cute Diy Table"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "bunny-i-balloon",
-  "name": "Bunny I. Balloon",
+  "name": {
+    "en-US": "Bunny I. Balloon"
+  },
   "category": "Balloons",
   "games": {
     "nl": {

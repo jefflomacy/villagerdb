@@ -1,6 +1,8 @@
 {
   "id": "backyard-fence",
-  "name": "Backyard Fence",
+  "name": {
+    "en-US": "Backyard Fence"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

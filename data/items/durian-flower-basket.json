@@ -1,6 +1,8 @@
 {
   "id": "durian-flower-basket",
-  "name": "Durian Flower Basket",
+  "name": {
+    "en-US": "Durian Flower Basket"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

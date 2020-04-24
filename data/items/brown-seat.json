@@ -1,6 +1,8 @@
 {
   "id": "brown-seat",
-  "name": "Brown Seat",
+  "name": {
+    "en-US": "Brown Seat"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

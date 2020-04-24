@@ -1,6 +1,8 @@
 {
   "id": "cute-floor-lamp",
-  "name": "Cute Floor Lamp",
+  "name": {
+    "en-US": "Cute Floor Lamp"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "gym-tee",
-  "name": "Gym Tee",
+  "name": {
+    "en-US": "Gym Tee"
+  },
   "games": {
     "nh": {
       "orderable": true,

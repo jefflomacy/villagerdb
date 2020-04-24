@@ -1,6 +1,8 @@
 {
   "id": "exercise-ball",
-  "name": "Exercise Ball",
+  "name": {
+    "en-US": "Exercise Ball"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "mini-howloid",
-  "name": "Mini Howloid",
+  "name": {
+    "en-US": "Mini Howloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

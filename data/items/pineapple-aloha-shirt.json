@@ -1,6 +1,8 @@
 {
   "id": "pineapple-aloha-shirt",
-  "name": "Pineapple Aloha Shirt",
+  "name": {
+    "en-US": "Pineapple Aloha Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "cinnamoroll-table",
-  "name": "Cinnamoroll Table",
+  "name": {
+    "en-US": "Cinnamoroll Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

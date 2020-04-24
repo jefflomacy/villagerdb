@@ -1,6 +1,8 @@
 {
   "id": "space-boots",
-  "name": "Space Boots",
+  "name": {
+    "en-US": "Space Boots"
+  },
   "games": {
     "nh": {
       "sellPrice": {

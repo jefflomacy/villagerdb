@@ -1,6 +1,8 @@
 {
   "id": "toad-parasol",
-  "name": "Toad Parasol",
+  "name": {
+    "en-US": "Toad Parasol"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

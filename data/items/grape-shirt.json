@@ -1,6 +1,8 @@
 {
   "id": "grape-shirt",
-  "name": "Grape Shirt",
+  "name": {
+    "en-US": "Grape Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

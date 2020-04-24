@@ -1,6 +1,8 @@
 {
   "id": "yellow-tartan",
-  "name": "Yellow Tartan",
+  "name": {
+    "en-US": "Yellow Tartan"
+  },
   "category": "Tops",
   "games": {
     "ac": {

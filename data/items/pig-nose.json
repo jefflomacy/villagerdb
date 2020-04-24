@@ -1,6 +1,8 @@
 {
   "id": "pig-nose",
-  "name": "Pig Nose",
+  "name": {
+    "en-US": "Pig Nose"
+  },
   "games": {
     "nh": {
       "orderable": true,

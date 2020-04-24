@@ -1,6 +1,8 @@
 {
   "id": "squat-toilet",
-  "name": "Squat Toilet",
+  "name": {
+    "en-US": "Squat Toilet"
+  },
   "games": {
     "nh": {
       "sellPrice": {

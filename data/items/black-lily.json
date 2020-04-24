@@ -1,6 +1,8 @@
 {
   "id": "black-lily",
-  "name": "Black Lily",
+  "name": {
+    "en-US": "Black Lily"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "squat-dingloid",
-  "name": "Squat Dingloid",
+  "name": {
+    "en-US": "Squat Dingloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

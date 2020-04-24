@@ -1,6 +1,8 @@
 {
   "id": "red-delicate-blooms-wall",
-  "name": "Red Delicate-blooms Wall",
+  "name": {
+    "en-US": "Red Delicate-blooms Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

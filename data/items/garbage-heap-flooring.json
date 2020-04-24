@@ -1,6 +1,8 @@
 {
   "id": "garbage-heap-flooring",
-  "name": "Garbage-heap Flooring",
+  "name": {
+    "en-US": "Garbage-heap Flooring"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "dung-beetle-model",
-  "name": "Dung Beetle Model",
+  "name": {
+    "en-US": "Dung Beetle Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

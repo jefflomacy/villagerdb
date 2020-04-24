@@ -1,6 +1,8 @@
 {
   "id": "air-circulator",
-  "name": "Air Circulator",
+  "name": {
+    "en-US": "Air Circulator"
+  },
   "games": {
     "nh": {
       "sellPrice": {

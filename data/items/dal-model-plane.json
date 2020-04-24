@@ -1,6 +1,8 @@
 {
   "id": "dal-model-plane",
-  "name": "Dal Model Plane",
+  "name": {
+    "en-US": "Dal Model Plane"
+  },
   "games": {
     "nh": {
       "sellPrice": {

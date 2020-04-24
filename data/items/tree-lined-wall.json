@@ -1,6 +1,8 @@
 {
   "id": "tree-lined-wall",
-  "name": "Tree-lined Wall",
+  "name": {
+    "en-US": "Tree-lined Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

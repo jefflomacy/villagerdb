@@ -1,6 +1,8 @@
 {
   "id": "sequin-leggings",
-  "name": "Sequin Leggings",
+  "name": {
+    "en-US": "Sequin Leggings"
+  },
   "games": {
     "nh": {
       "sellPrice": {

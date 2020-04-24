@@ -1,6 +1,8 @@
 {
   "id": "rolling-cart",
-  "name": "Rolling Cart",
+  "name": {
+    "en-US": "Rolling Cart"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

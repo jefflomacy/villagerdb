@@ -1,6 +1,8 @@
 {
   "id": "kk-metal",
-  "name": "K.K. Metal",
+  "name": {
+    "en-US": "K.K. Metal"
+  },
   "category": "Music",
   "games": {
     "nl": {

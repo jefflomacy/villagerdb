@@ -1,6 +1,8 @@
 {
   "id": "sputnoid",
-  "name": "Sputnoid",
+  "name": {
+    "en-US": "Sputnoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

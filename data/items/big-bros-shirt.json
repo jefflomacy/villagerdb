@@ -1,6 +1,8 @@
 {
   "id": "big-bros-shirt",
-  "name": "Big Bro's Shirt",
+  "name": {
+    "en-US": "Big Bro's Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

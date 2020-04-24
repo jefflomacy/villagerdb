@@ -1,6 +1,8 @@
 {
   "id": "aloha-kk",
-  "name": "Aloha K.K.",
+  "name": {
+    "en-US": "Aloha K.K."
+  },
   "category": "Music",
   "games": {
     "nl": {

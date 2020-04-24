@@ -1,6 +1,8 @@
 {
   "id": "espresso-machine",
-  "name": "Espresso Machine",
+  "name": {
+    "en-US": "Espresso Machine"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

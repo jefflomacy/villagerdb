@@ -1,6 +1,8 @@
 {
   "id": "ivy-wall",
-  "name": "Ivy Wall",
+  "name": {
+    "en-US": "Ivy Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

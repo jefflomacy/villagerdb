@@ -1,6 +1,8 @@
 {
   "id": "killifish",
-  "name": "Killifish",
+  "name": {
+    "en-US": "Killifish"
+  },
   "category": "Fish",
   "games": {
     "nl": {

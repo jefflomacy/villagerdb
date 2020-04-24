@@ -1,6 +1,8 @@
 {
   "id": "slip-on-school-shoes",
-  "name": "Slip-on School Shoes",
+  "name": {
+    "en-US": "Slip-on School Shoes"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "olivias-poster",
-  "name": "Olivia's Poster",
+  "name": {
+    "en-US": "Olivia's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

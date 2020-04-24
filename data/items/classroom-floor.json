@@ -1,6 +1,8 @@
 {
   "id": "classroom-floor",
-  "name": "Classroom Floor",
+  "name": {
+    "en-US": "Classroom Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

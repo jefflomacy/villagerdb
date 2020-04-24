@@ -1,6 +1,8 @@
 {
   "id": "purple-desert-tile-wall",
-  "name": "Purple Desert-tile Wall",
+  "name": {
+    "en-US": "Purple Desert-tile Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

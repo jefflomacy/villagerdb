@@ -1,6 +1,8 @@
 {
   "id": "lon-lon-milk",
-  "name": "Lon Lon Milk",
+  "name": {
+    "en-US": "Lon Lon Milk"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

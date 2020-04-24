@@ -1,6 +1,8 @@
 {
   "id": "chartreuse-wrapping-paper",
-  "name": "Chartreuse Wrapping Paper",
+  "name": {
+    "en-US": "Chartreuse Wrapping Paper"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "exotic-shirt",
-  "name": "Exotic Shirt",
+  "name": {
+    "en-US": "Exotic Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

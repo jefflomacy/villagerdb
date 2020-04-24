@@ -1,6 +1,8 @@
 {
   "id": "wii-remote-cabinet",
-  "name": "Wii Remote Cabinet",
+  "name": {
+    "en-US": "Wii Remote Cabinet"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

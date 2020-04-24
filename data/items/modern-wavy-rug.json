@@ -1,6 +1,8 @@
 {
   "id": "modern-wavy-rug",
-  "name": "Modern Wavy Rug",
+  "name": {
+    "en-US": "Modern Wavy Rug"
+  },
   "games": {
     "nh": {
       "sources": [

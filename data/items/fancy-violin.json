@@ -1,6 +1,8 @@
 {
   "id": "fancy-violin",
-  "name": "Fancy Violin",
+  "name": {
+    "en-US": "Fancy Violin"
+  },
   "games": {
     "nh": {
       "sellPrice": {

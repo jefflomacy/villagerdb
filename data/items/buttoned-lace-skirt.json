@@ -1,6 +1,8 @@
 {
   "id": "buttoned-lace-skirt",
-  "name": "Buttoned Lace Skirt",
+  "name": {
+    "en-US": "Buttoned Lace Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

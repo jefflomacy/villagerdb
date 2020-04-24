@@ -1,6 +1,8 @@
 {
   "id": "monochromatic-wavy-rug",
-  "name": "Monochromatic Wavy Rug",
+  "name": {
+    "en-US": "Monochromatic Wavy Rug"
+  },
   "games": {
     "nh": {
       "sources": [

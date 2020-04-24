@@ -1,6 +1,8 @@
 {
   "id": "horned-elephant-model",
-  "name": "Horned Elephant Model",
+  "name": {
+    "en-US": "Horned Elephant Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

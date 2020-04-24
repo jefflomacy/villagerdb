@@ -1,6 +1,8 @@
 {
   "id": "sepia-puzzle-flooring",
-  "name": "Sepia Puzzle Flooring",
+  "name": {
+    "en-US": "Sepia Puzzle Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

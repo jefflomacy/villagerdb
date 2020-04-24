@@ -1,6 +1,8 @@
 {
   "id": "kiki-and-lala-bed",
-  "name": "Kiki And Lala Bed",
+  "name": {
+    "en-US": "Kiki And Lala Bed"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

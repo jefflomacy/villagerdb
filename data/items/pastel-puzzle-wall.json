@@ -1,6 +1,8 @@
 {
   "id": "pastel-puzzle-wall",
-  "name": "Pastel Puzzle Wall",
+  "name": {
+    "en-US": "Pastel Puzzle Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

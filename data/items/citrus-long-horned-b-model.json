@@ -1,6 +1,8 @@
 {
   "id": "citrus-long-horned-b-model",
-  "name": "Citrus Long-horned B. Model",
+  "name": {
+    "en-US": "Citrus Long-horned B. Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

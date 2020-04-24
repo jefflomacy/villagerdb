@@ -1,6 +1,8 @@
 {
   "id": "large-cardboard-boxes",
-  "name": "Large Cardboard Boxes",
+  "name": {
+    "en-US": "Large Cardboard Boxes"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "barrel-planter",
-  "name": "Barrel Planter",
+  "name": {
+    "en-US": "Barrel Planter"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

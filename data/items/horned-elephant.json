@@ -1,6 +1,8 @@
 {
   "id": "horned-elephant",
-  "name": "Horned Elephant",
+  "name": {
+    "en-US": "Horned Elephant"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

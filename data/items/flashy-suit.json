@@ -1,6 +1,8 @@
 {
   "id": "flashy-suit",
-  "name": "Flashy Suit",
+  "name": {
+    "en-US": "Flashy Suit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

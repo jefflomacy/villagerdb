@@ -1,6 +1,8 @@
 {
   "id": "wee-dingloid",
-  "name": "Wee Dingloid",
+  "name": {
+    "en-US": "Wee Dingloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

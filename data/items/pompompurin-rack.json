@@ -1,6 +1,8 @@
 {
   "id": "pompompurin-rack",
-  "name": "Pompompurin Rack",
+  "name": {
+    "en-US": "Pompompurin Rack"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "soothing-tearoom-wall",
-  "name": "Soothing Tearoom Wall",
+  "name": {
+    "en-US": "Soothing Tearoom Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "hunters-cart",
-  "name": "Hunter's Cart",
+  "name": {
+    "en-US": "Hunter's Cart"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

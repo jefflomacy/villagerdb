@@ -1,6 +1,8 @@
 {
   "id": "wooden-block-wall-clock",
-  "name": "Wooden-block Wall Clock",
+  "name": {
+    "en-US": "Wooden-block Wall Clock"
+  },
   "games": {
     "nh": {
       "orderable": false,

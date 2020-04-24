@@ -1,6 +1,8 @@
 {
   "id": "antique-table",
-  "name": "Antique Table",
+  "name": {
+    "en-US": "Antique Table"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "skull-print-flooring",
-  "name": "Skull-print Flooring",
+  "name": {
+    "en-US": "Skull-print Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

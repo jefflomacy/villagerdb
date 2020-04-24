@@ -1,6 +1,8 @@
 {
   "id": "ancient-belted-robe",
-  "name": "Ancient Belted Robe",
+  "name": {
+    "en-US": "Ancient Belted Robe"
+  },
   "games": {
     "nh": {
       "sellPrice": {

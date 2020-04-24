@@ -1,6 +1,8 @@
 {
   "id": "doctors-mask",
-  "name": "Doctor's Mask",
+  "name": {
+    "en-US": "Doctor's Mask"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

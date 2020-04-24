@@ -1,6 +1,8 @@
 {
   "id": "portable-radio",
-  "name": "Portable Radio",
+  "name": {
+    "en-US": "Portable Radio"
+  },
   "games": {
     "nh": {
       "orderable": true,

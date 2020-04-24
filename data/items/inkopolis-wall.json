@@ -1,6 +1,8 @@
 {
   "id": "inkopolis-wall",
-  "name": "Inkopolis Wall",
+  "name": {
+    "en-US": "Inkopolis Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

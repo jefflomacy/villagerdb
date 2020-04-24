@@ -1,6 +1,8 @@
 {
   "id": "bathhouse-wall",
-  "name": "Bathhouse Wall",
+  "name": {
+    "en-US": "Bathhouse Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "corduroy-pants",
-  "name": "Corduroy Pants",
+  "name": {
+    "en-US": "Corduroy Pants"
+  },
   "games": {
     "nh": {
       "sellPrice": {

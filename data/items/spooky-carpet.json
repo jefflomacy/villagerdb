@@ -1,6 +1,8 @@
 {
   "id": "spooky-carpet",
-  "name": "Spooky Carpet",
+  "name": {
+    "en-US": "Spooky Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

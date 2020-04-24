@@ -1,6 +1,8 @@
 {
   "id": "desktop-computer",
-  "name": "Desktop Computer",
+  "name": {
+    "en-US": "Desktop Computer"
+  },
   "games": {
     "nh": {
       "sellPrice": {

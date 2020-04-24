@@ -1,6 +1,8 @@
 {
   "id": "menu-chalkboard",
-  "name": "Menu Chalkboard",
+  "name": {
+    "en-US": "Menu Chalkboard"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "mini-freakoid",
-  "name": "Mini Freakoid",
+  "name": {
+    "en-US": "Mini Freakoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

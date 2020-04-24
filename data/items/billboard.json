@@ -1,6 +1,8 @@
 {
   "id": "billboard",
-  "name": "Billboard",
+  "name": {
+    "en-US": "Billboard"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

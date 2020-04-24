@@ -1,6 +1,8 @@
 {
   "id": "towel-basket",
-  "name": "Towel Basket",
+  "name": {
+    "en-US": "Towel Basket"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

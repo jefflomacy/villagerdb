@@ -1,6 +1,8 @@
 {
   "id": "retro-dress",
-  "name": "Retro Dress",
+  "name": {
+    "en-US": "Retro Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

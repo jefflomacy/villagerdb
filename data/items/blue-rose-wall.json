@@ -1,6 +1,8 @@
 {
   "id": "blue-rose-wall",
-  "name": "Blue-rose Wall",
+  "name": {
+    "en-US": "Blue-rose Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

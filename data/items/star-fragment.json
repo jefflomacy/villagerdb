@@ -1,6 +1,8 @@
 {
   "id": "star-fragment",
-  "name": "Star Fragment",
+  "name": {
+    "en-US": "Star Fragment"
+  },
   "games": {
     "nh": {
       "sources": [

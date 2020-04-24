@@ -1,6 +1,8 @@
 {
   "id": "bathrobe",
-  "name": "Bathrobe",
+  "name": {
+    "en-US": "Bathrobe"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

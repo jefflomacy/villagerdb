@@ -1,6 +1,8 @@
 {
   "id": "anjus-shirt",
-  "name": "Anju's Shirt",
+  "name": {
+    "en-US": "Anju's Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

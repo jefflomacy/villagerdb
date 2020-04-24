@@ -1,6 +1,8 @@
 {
   "id": "chain-link-fence",
-  "name": "Chain-link Fence",
+  "name": {
+    "en-US": "Chain-link Fence"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

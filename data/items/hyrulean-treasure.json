@@ -1,6 +1,8 @@
 {
   "id": "hyrulean-treasure",
-  "name": "Hyrulean Treasure",
+  "name": {
+    "en-US": "Hyrulean Treasure"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "terminas-moon",
-  "name": "Termina's Moon",
+  "name": {
+    "en-US": "Termina's Moon"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

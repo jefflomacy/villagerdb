@@ -1,6 +1,8 @@
 {
   "id": "sea-urchin",
-  "name": "Sea Urchin",
+  "name": {
+    "en-US": "Sea Urchin"
+  },
   "category": "Fish",
   "games": {
     "nl": {

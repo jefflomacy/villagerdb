@@ -1,6 +1,8 @@
 {
   "id": "dace-model",
-  "name": "Dace Model",
+  "name": {
+    "en-US": "Dace Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "scenic-painting",
-  "name": "Scenic Painting",
+  "name": {
+    "en-US": "Scenic Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

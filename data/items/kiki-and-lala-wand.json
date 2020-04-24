@@ -1,6 +1,8 @@
 {
   "id": "kiki-and-lala-wand",
-  "name": "Kiki And Lala Wand",
+  "name": {
+    "en-US": "Kiki And Lala Wand"
+  },
   "category": "Tools",
   "games": {
     "nl": {

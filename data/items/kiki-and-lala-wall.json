@@ -1,6 +1,8 @@
 {
   "id": "kiki-and-lala-wall",
-  "name": "Kiki And Lala Wall",
+  "name": {
+    "en-US": "Kiki And Lala Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "white-festive-tree",
-  "name": "White Festive Tree",
+  "name": {
+    "en-US": "White Festive Tree"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

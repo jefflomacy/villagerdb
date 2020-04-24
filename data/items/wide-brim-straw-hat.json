@@ -1,6 +1,8 @@
 {
   "id": "wide-brim-straw-hat",
-  "name": "Wide-brim Straw Hat",
+  "name": {
+    "en-US": "Wide-brim Straw Hat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

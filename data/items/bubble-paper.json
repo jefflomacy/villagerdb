@@ -1,6 +1,8 @@
 {
   "id": "bubble-paper",
-  "name": "Bubble Paper",
+  "name": {
+    "en-US": "Bubble Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

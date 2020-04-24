@@ -1,6 +1,8 @@
 {
   "id": "mum-crown",
-  "name": "Mum Crown",
+  "name": {
+    "en-US": "Mum Crown"
+  },
   "games": {
     "nh": {
       "sellPrice": {

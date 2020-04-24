@@ -1,6 +1,8 @@
 {
   "id": "sweetheart-tank-and-shirt",
-  "name": "Sweetheart Tank And Shirt",
+  "name": {
+    "en-US": "Sweetheart Tank And Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

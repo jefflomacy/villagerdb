@@ -1,6 +1,8 @@
 {
   "id": "citrus-carpet",
-  "name": "Citrus Carpet",
+  "name": {
+    "en-US": "Citrus Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "oval-shades",
-  "name": "Oval Shades",
+  "name": {
+    "en-US": "Oval Shades"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

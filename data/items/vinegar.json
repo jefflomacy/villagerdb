@@ -1,6 +1,8 @@
 {
   "id": "vinegar",
-  "name": "Vinegar",
+  "name": {
+    "en-US": "Vinegar"
+  },
   "category": "Usables",
   "games": {
     "nl": {

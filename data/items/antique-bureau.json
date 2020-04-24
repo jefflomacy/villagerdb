@@ -1,6 +1,8 @@
 {
   "id": "antique-bureau",
-  "name": "Antique Bureau",
+  "name": {
+    "en-US": "Antique Bureau"
+  },
   "games": {
     "nh": {
       "orderable": true,

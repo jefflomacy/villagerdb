@@ -1,6 +1,8 @@
 {
   "id": "plain-sink",
-  "name": "Plain Sink",
+  "name": {
+    "en-US": "Plain Sink"
+  },
   "games": {
     "nh": {
       "orderable": false,

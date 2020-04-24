@@ -1,6 +1,8 @@
 {
   "id": "town-hall-winter-top",
-  "name": "Town-hall Winter Top",
+  "name": {
+    "en-US": "Town-hall Winter Top"
+  },
   "category": "Tops",
   "games": {
     "nl": {

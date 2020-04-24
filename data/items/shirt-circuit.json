@@ -1,6 +1,8 @@
 {
   "id": "shirt-circuit",
-  "name": "Shirt Circuit",
+  "name": {
+    "en-US": "Shirt Circuit"
+  },
   "category": "Tops",
   "games": {
     "ac": {

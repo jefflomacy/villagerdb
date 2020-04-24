@@ -1,6 +1,8 @@
 {
   "id": "gamecube-drawer",
-  "name": "GameCube Drawer",
+  "name": {
+    "en-US": "GameCube Drawer"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

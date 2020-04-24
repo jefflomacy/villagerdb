@@ -1,6 +1,8 @@
 {
   "id": "mint-glasses",
-  "name": "Mint Glasses",
+  "name": {
+    "en-US": "Mint Glasses"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

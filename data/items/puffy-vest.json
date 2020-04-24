@@ -1,6 +1,8 @@
 {
   "id": "puffy-vest",
-  "name": "Puffy Vest",
+  "name": {
+    "en-US": "Puffy Vest"
+  },
   "games": {
     "nh": {
       "sellPrice": {

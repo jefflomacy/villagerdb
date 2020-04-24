@@ -1,6 +1,8 @@
 {
   "id": "antique-vanity",
-  "name": "Antique Vanity",
+  "name": {
+    "en-US": "Antique Vanity"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "fish-print",
-  "name": "Fish Print",
+  "name": {
+    "en-US": "Fish Print"
+  },
   "games": {
     "nh": {
       "sources": [

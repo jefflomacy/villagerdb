@@ -1,6 +1,8 @@
 {
   "id": "coveralls-with-arm-covers",
-  "name": "Coveralls With Arm Covers",
+  "name": {
+    "en-US": "Coveralls With Arm Covers"
+  },
   "games": {
     "nh": {
       "orderable": true,

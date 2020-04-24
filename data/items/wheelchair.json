@@ -1,6 +1,8 @@
 {
   "id": "wheelchair",
-  "name": "Wheelchair",
+  "name": {
+    "en-US": "Wheelchair"
+  },
   "games": {
     "nh": {
       "orderable": true,

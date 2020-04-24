@@ -1,6 +1,8 @@
 {
   "id": "sales-graph",
-  "name": "Sales Graph",
+  "name": {
+    "en-US": "Sales Graph"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

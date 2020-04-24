@@ -1,6 +1,8 @@
 {
   "id": "garden-faucet",
-  "name": "Garden Faucet",
+  "name": {
+    "en-US": "Garden Faucet"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

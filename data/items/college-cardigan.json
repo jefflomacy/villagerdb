@@ -1,6 +1,8 @@
 {
   "id": "college-cardigan",
-  "name": "College Cardigan",
+  "name": {
+    "en-US": "College Cardigan"
+  },
   "games": {
     "nh": {
       "orderable": true,

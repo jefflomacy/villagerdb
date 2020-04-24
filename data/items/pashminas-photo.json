@@ -1,6 +1,8 @@
 {
   "id": "pashminas-photo",
-  "name": "Pashmina's Photo",
+  "name": {
+    "en-US": "Pashmina's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

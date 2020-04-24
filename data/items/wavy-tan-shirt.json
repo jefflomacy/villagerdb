@@ -1,6 +1,8 @@
 {
   "id": "wavy-tan-shirt",
-  "name": "Wavy Tan Shirt",
+  "name": {
+    "en-US": "Wavy Tan Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

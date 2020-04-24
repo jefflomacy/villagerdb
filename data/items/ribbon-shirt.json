@@ -1,6 +1,8 @@
 {
   "id": "ribbon-shirt",
-  "name": "Ribbon Shirt",
+  "name": {
+    "en-US": "Ribbon Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

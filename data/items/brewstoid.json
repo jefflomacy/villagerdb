@@ -1,6 +1,8 @@
 {
   "id": "brewstoid",
-  "name": "Brewstoid",
+  "name": {
+    "en-US": "Brewstoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

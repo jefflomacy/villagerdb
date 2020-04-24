@@ -1,6 +1,8 @@
 {
   "id": "santa-beard",
-  "name": "Santa Beard",
+  "name": {
+    "en-US": "Santa Beard"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

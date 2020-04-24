@@ -1,6 +1,8 @@
 {
   "id": "rizzos-poster",
-  "name": "Rizzo's Poster",
+  "name": {
+    "en-US": "Rizzo's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

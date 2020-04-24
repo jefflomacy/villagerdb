@@ -1,6 +1,8 @@
 {
   "id": "senor-kk",
-  "name": "Señor K.K.",
+  "name": {
+    "en-US": "Señor K.K."
+  },
   "category": "Music",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "coelacanth",
-  "name": "Coelacanth",
+  "name": {
+    "en-US": "Coelacanth"
+  },
   "category": "Fish",
   "games": {
     "nl": {

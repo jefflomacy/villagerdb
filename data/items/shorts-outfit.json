@@ -1,6 +1,8 @@
 {
   "id": "shorts-outfit",
-  "name": "Shorts Outfit",
+  "name": {
+    "en-US": "Shorts Outfit"
+  },
   "games": {
     "nh": {
       "sellPrice": {

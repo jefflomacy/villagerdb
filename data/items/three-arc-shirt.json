@@ -1,6 +1,8 @@
 {
   "id": "three-arc-shirt",
-  "name": "Three Arc Shirt",
+  "name": {
+    "en-US": "Three Arc Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

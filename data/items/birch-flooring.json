@@ -1,6 +1,8 @@
 {
   "id": "birch-flooring",
-  "name": "Birch Flooring",
+  "name": {
+    "en-US": "Birch Flooring"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

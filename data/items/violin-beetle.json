@@ -1,6 +1,8 @@
 {
   "id": "violin-beetle",
-  "name": "Violin Beetle",
+  "name": {
+    "en-US": "Violin Beetle"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

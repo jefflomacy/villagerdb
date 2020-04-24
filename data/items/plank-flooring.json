@@ -1,6 +1,8 @@
 {
   "id": "plank-flooring",
-  "name": "Plank Flooring",
+  "name": {
+    "en-US": "Plank Flooring"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

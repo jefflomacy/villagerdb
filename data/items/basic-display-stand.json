@@ -1,6 +1,8 @@
 {
   "id": "basic-display-stand",
-  "name": "Basic Display Stand",
+  "name": {
+    "en-US": "Basic Display Stand"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

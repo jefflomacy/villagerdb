@@ -1,6 +1,8 @@
 {
   "id": "tall-croakoid",
-  "name": "Tall Croakoid",
+  "name": {
+    "en-US": "Tall Croakoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

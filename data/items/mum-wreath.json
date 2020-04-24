@@ -1,6 +1,8 @@
 {
   "id": "mum-wreath",
-  "name": "Mum Wreath",
+  "name": {
+    "en-US": "Mum Wreath"
+  },
   "games": {
     "nh": {
       "orderable": false,

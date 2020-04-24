@@ -1,6 +1,8 @@
 {
   "id": "bamboo-screen-wall",
-  "name": "Bamboo-screen Wall",
+  "name": {
+    "en-US": "Bamboo-screen Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "patched-shoes",
-  "name": "Patched Shoes",
+  "name": {
+    "en-US": "Patched Shoes"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "exquisite-rug",
-  "name": "Exquisite Rug",
+  "name": {
+    "en-US": "Exquisite Rug"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

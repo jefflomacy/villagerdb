@@ -1,6 +1,8 @@
 {
   "id": "skateboarding-helmet",
-  "name": "Skateboarding Helmet",
+  "name": {
+    "en-US": "Skateboarding Helmet"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "moving-painting",
-  "name": "Moving Painting",
+  "name": {
+    "en-US": "Moving Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

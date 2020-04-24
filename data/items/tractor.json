@@ -1,6 +1,8 @@
 {
   "id": "tractor",
-  "name": "Tractor",
+  "name": {
+    "en-US": "Tractor"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

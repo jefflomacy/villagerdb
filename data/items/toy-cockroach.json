@@ -1,6 +1,8 @@
 {
   "id": "toy-cockroach",
-  "name": "Toy Cockroach",
+  "name": {
+    "en-US": "Toy Cockroach"
+  },
   "games": {
     "nh": {
       "sellPrice": {

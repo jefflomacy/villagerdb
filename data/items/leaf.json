@@ -1,6 +1,8 @@
 {
   "id": "leaf",
-  "name": "Leaf",
+  "name": {
+    "en-US": "Leaf"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

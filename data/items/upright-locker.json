@@ -1,6 +1,8 @@
 {
   "id": "upright-locker",
-  "name": "Upright Locker",
+  "name": {
+    "en-US": "Upright Locker"
+  },
   "games": {
     "nh": {
       "orderable": true,

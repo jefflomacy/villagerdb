@@ -1,6 +1,8 @@
 {
   "id": "moms-embroidery",
-  "name": "Mom's Embroidery",
+  "name": {
+    "en-US": "Mom's Embroidery"
+  },
   "games": {
     "nh": {
       "sellPrice": {

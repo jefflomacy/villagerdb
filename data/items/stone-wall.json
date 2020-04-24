@@ -1,6 +1,8 @@
 {
   "id": "stone-wall",
-  "name": "Stone Wall",
+  "name": {
+    "en-US": "Stone Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

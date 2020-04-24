@@ -1,6 +1,8 @@
 {
   "id": "birthday-cupcake",
-  "name": "Birthday Cupcake",
+  "name": {
+    "en-US": "Birthday Cupcake"
+  },
   "games": {
     "nh": {
       "sellPrice": {

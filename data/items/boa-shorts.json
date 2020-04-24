@@ -1,6 +1,8 @@
 {
   "id": "boa-shorts",
-  "name": "Boa Shorts",
+  "name": {
+    "en-US": "Boa Shorts"
+  },
   "games": {
     "nh": {
       "sellPrice": {

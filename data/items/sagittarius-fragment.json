@@ -1,6 +1,8 @@
 {
   "id": "sagittarius-fragment",
-  "name": "Sagittarius Fragment",
+  "name": {
+    "en-US": "Sagittarius Fragment"
+  },
   "games": {
     "nh": {
       "sellPrice": {

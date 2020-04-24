@@ -1,6 +1,8 @@
 {
   "id": "mod-parka",
-  "name": "Mod Parka",
+  "name": {
+    "en-US": "Mod Parka"
+  },
   "games": {
     "nh": {
       "sellPrice": {

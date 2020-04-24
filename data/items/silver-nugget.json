@@ -1,6 +1,8 @@
 {
   "id": "silver-nugget",
-  "name": "Silver Nugget",
+  "name": {
+    "en-US": "Silver Nugget"
+  },
   "category": "Ore",
   "games": {
     "nl": {

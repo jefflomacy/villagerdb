@@ -1,6 +1,8 @@
 {
   "id": "bamboo-bench",
-  "name": "Bamboo Bench",
+  "name": {
+    "en-US": "Bamboo Bench"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

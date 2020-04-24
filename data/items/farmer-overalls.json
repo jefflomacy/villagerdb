@@ -1,6 +1,8 @@
 {
   "id": "farmer-overalls",
-  "name": "Farmer Overalls",
+  "name": {
+    "en-US": "Farmer Overalls"
+  },
   "games": {
     "nh": {
       "orderable": true,

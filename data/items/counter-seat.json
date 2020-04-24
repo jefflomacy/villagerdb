@@ -1,6 +1,8 @@
 {
   "id": "counter-seat",
-  "name": "Counter Seat",
+  "name": {
+    "en-US": "Counter Seat"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

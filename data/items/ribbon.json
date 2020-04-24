@@ -1,6 +1,8 @@
 {
   "id": "ribbon",
-  "name": "Ribbon",
+  "name": {
+    "en-US": "Ribbon"
+  },
   "games": {
     "nh": {
       "sellPrice": {

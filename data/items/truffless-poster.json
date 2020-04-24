@@ -1,6 +1,8 @@
 {
   "id": "truffless-poster",
-  "name": "Truffles's Poster",
+  "name": {
+    "en-US": "Truffles's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "ice-hockey-uniform",
-  "name": "Ice-hockey Uniform",
+  "name": {
+    "en-US": "Ice-hockey Uniform"
+  },
   "games": {
     "nh": {
       "sellPrice": {

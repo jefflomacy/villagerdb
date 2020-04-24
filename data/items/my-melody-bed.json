@@ -1,6 +1,8 @@
 {
   "id": "my-melody-bed",
-  "name": "My Melody Bed",
+  "name": {
+    "en-US": "My Melody Bed"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

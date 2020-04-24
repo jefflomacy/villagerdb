@@ -1,6 +1,8 @@
 {
   "id": "squid",
-  "name": "Squid",
+  "name": {
+    "en-US": "Squid"
+  },
   "category": "Fish",
   "games": {
     "nl": {

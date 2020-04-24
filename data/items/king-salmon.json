@@ -1,6 +1,8 @@
 {
   "id": "king-salmon",
-  "name": "King Salmon",
+  "name": {
+    "en-US": "King Salmon"
+  },
   "category": "Fish",
   "games": {
     "nl": {

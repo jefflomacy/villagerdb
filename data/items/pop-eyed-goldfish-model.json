@@ -1,6 +1,8 @@
 {
   "id": "pop-eyed-goldfish-model",
-  "name": "Pop-eyed Goldfish Model",
+  "name": {
+    "en-US": "Pop-eyed Goldfish Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

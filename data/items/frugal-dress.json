@@ -1,6 +1,8 @@
 {
   "id": "frugal-dress",
-  "name": "Frugal Dress",
+  "name": {
+    "en-US": "Frugal Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

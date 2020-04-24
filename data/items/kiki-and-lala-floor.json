@@ -1,6 +1,8 @@
 {
   "id": "kiki-and-lala-floor",
-  "name": "Kiki And Lala Floor",
+  "name": {
+    "en-US": "Kiki And Lala Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

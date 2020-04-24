@@ -1,6 +1,8 @@
 {
   "id": "common-wall",
-  "name": "Common Wall",
+  "name": {
+    "en-US": "Common Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

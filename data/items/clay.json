@@ -1,6 +1,8 @@
 {
   "id": "clay",
-  "name": "Clay",
+  "name": {
+    "en-US": "Clay"
+  },
   "category": "Usables",
   "games": {
     "nh": {

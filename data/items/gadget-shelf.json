@@ -1,6 +1,8 @@
 {
   "id": "gadget-shelf",
-  "name": "Gadget Shelf",
+  "name": {
+    "en-US": "Gadget Shelf"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

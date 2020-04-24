@@ -1,6 +1,8 @@
 {
   "id": "kk-bazaar",
-  "name": "K.K. Bazaar",
+  "name": {
+    "en-US": "K.K. Bazaar"
+  },
   "category": "Music",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "blue-party-dress",
-  "name": "Blue Party Dress",
+  "name": {
+    "en-US": "Blue Party Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

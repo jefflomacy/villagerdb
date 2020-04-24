@@ -1,6 +1,8 @@
 {
   "id": "floral-knit",
-  "name": "Floral Knit",
+  "name": {
+    "en-US": "Floral Knit"
+  },
   "category": "Tops",
   "games": {
     "ac": {

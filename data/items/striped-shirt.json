@@ -1,6 +1,8 @@
 {
   "id": "striped-shirt",
-  "name": "Striped Shirt",
+  "name": {
+    "en-US": "Striped Shirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

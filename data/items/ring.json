@@ -1,6 +1,8 @@
 {
   "id": "ring",
-  "name": "Ring",
+  "name": {
+    "en-US": "Ring"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

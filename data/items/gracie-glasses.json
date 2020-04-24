@@ -1,6 +1,8 @@
 {
   "id": "gracie-glasses",
-  "name": "Gracie Glasses",
+  "name": {
+    "en-US": "Gracie Glasses"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

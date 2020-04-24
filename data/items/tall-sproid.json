@@ -1,6 +1,8 @@
 {
   "id": "tall-sproid",
-  "name": "Tall Sproid",
+  "name": {
+    "en-US": "Tall Sproid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

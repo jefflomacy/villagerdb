@@ -1,6 +1,8 @@
 {
   "id": "tire-toy",
-  "name": "Tire Toy",
+  "name": {
+    "en-US": "Tire Toy"
+  },
   "games": {
     "nh": {
       "orderable": false,

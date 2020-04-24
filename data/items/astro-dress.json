@@ -1,6 +1,8 @@
 {
   "id": "astro-dress",
-  "name": "Astro Dress",
+  "name": {
+    "en-US": "Astro Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

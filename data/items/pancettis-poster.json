@@ -1,6 +1,8 @@
 {
   "id": "pancettis-poster",
-  "name": "Pancetti's Poster",
+  "name": {
+    "en-US": "Pancetti's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

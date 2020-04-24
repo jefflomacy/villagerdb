@@ -1,6 +1,8 @@
 {
   "id": "sugar",
-  "name": "Sugar",
+  "name": {
+    "en-US": "Sugar"
+  },
   "category": "Usables",
   "games": {
     "nl": {

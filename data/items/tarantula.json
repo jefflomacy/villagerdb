@@ -1,6 +1,8 @@
 {
   "id": "tarantula",
-  "name": "Tarantula",
+  "name": {
+    "en-US": "Tarantula"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

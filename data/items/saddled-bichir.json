@@ -1,6 +1,8 @@
 {
   "id": "saddled-bichir",
-  "name": "Saddled Bichir",
+  "name": {
+    "en-US": "Saddled Bichir"
+  },
   "category": "Fish",
   "games": {
     "nl": {

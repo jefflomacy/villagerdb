@@ -1,6 +1,8 @@
 {
   "id": "cloud-flooring",
-  "name": "Cloud Flooring",
+  "name": {
+    "en-US": "Cloud Flooring"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

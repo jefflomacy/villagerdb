@@ -1,6 +1,8 @@
 {
   "id": "tall-warbloid",
-  "name": "Tall Warbloid",
+  "name": {
+    "en-US": "Tall Warbloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "candis-poster",
-  "name": "Candi's Poster",
+  "name": {
+    "en-US": "Candi's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

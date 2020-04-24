@@ -1,6 +1,8 @@
 {
   "id": "wooden-mini-table",
-  "name": "Wooden Mini Table",
+  "name": {
+    "en-US": "Wooden Mini Table"
+  },
   "games": {
     "nh": {
       "orderable": false,

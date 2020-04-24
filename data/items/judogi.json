@@ -1,6 +1,8 @@
 {
   "id": "judogi",
-  "name": "Judogi",
+  "name": {
+    "en-US": "Judogi"
+  },
   "games": {
     "nh": {
       "sellPrice": {

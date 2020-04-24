@@ -1,6 +1,8 @@
 {
   "id": "magma-cavern-wall",
-  "name": "Magma-cavern Wall",
+  "name": {
+    "en-US": "Magma-cavern Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

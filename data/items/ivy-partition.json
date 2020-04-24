@@ -1,6 +1,8 @@
 {
   "id": "ivy-partition",
-  "name": "Ivy Partition",
+  "name": {
+    "en-US": "Ivy Partition"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

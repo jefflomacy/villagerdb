@@ -1,6 +1,8 @@
 {
   "id": "superb-coffee-beans",
-  "name": "Superb Coffee Beans",
+  "name": {
+    "en-US": "Superb Coffee Beans"
+  },
   "category": "Usables",
   "games": {
     "nl": {

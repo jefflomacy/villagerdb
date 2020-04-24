@@ -1,6 +1,8 @@
 {
   "id": "round-shades",
-  "name": "Round Shades",
+  "name": {
+    "en-US": "Round Shades"
+  },
   "games": {
     "nh": {
       "sellPrice": {

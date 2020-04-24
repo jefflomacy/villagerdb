@@ -1,6 +1,8 @@
 {
   "id": "lunas-poster",
-  "name": "Luna's Poster",
+  "name": {
+    "en-US": "Luna's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

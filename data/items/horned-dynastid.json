@@ -1,6 +1,8 @@
 {
   "id": "horned-dynastid",
-  "name": "Horned Dynastid",
+  "name": {
+    "en-US": "Horned Dynastid"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

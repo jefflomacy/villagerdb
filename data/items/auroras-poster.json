@@ -1,6 +1,8 @@
 {
   "id": "auroras-poster",
-  "name": "Aurora's Poster",
+  "name": {
+    "en-US": "Aurora's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

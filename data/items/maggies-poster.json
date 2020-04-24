@@ -1,6 +1,8 @@
 {
   "id": "maggies-poster",
-  "name": "Maggie's Poster",
+  "name": {
+    "en-US": "Maggie's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

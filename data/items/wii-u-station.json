@@ -1,6 +1,8 @@
 {
   "id": "wii-u-station",
-  "name": "Wii U Station",
+  "name": {
+    "en-US": "Wii U Station"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

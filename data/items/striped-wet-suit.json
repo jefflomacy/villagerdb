@@ -1,6 +1,8 @@
 {
   "id": "striped-wet-suit",
-  "name": "Striped Wet Suit",
+  "name": {
+    "en-US": "Striped Wet Suit"
+  },
   "category": "Wetsuits",
   "games": {
     "nl": {

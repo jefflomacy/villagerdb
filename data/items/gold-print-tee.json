@@ -1,6 +1,8 @@
 {
   "id": "gold-print-tee",
-  "name": "Gold-print Tee",
+  "name": {
+    "en-US": "Gold-print Tee"
+  },
   "games": {
     "nh": {
       "sellPrice": {

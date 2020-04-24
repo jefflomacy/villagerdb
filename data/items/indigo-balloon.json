@@ -1,6 +1,8 @@
 {
   "id": "indigo-balloon",
-  "name": "Indigo Balloon",
+  "name": {
+    "en-US": "Indigo Balloon"
+  },
   "category": "Balloons",
   "games": {
     "nl": {

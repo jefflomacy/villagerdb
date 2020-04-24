@@ -1,6 +1,8 @@
 {
   "id": "kaffes-shirt",
-  "name": "Kaffe's Shirt",
+  "name": {
+    "en-US": "Kaffe's Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "vivians-poster",
-  "name": "Vivian's Poster",
+  "name": {
+    "en-US": "Vivian's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "pouch",
-  "name": "Pouch",
+  "name": {
+    "en-US": "Pouch"
+  },
   "category": "Usables",
   "games": {
     "nl": {

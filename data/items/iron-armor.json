@@ -1,6 +1,8 @@
 {
   "id": "iron-armor",
-  "name": "Iron Armor",
+  "name": {
+    "en-US": "Iron Armor"
+  },
   "games": {
     "nh": {
       "customizable": false,

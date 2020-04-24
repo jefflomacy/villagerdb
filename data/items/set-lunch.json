@@ -1,6 +1,8 @@
 {
   "id": "set-lunch",
-  "name": "Set Lunch",
+  "name": {
+    "en-US": "Set Lunch"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

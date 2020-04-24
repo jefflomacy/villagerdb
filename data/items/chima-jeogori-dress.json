@@ -1,6 +1,8 @@
 {
   "id": "chima-jeogori-dress",
-  "name": "Chima Jeogori Dress",
+  "name": {
+    "en-US": "Chima Jeogori Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

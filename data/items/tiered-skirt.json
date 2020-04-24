@@ -1,6 +1,8 @@
 {
   "id": "tiered-skirt",
-  "name": "Tiered Skirt",
+  "name": {
+    "en-US": "Tiered Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

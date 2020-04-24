@@ -1,6 +1,8 @@
 {
   "id": "chic-tuxedo-dress",
-  "name": "Chic Tuxedo Dress",
+  "name": {
+    "en-US": "Chic Tuxedo Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

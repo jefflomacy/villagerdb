@@ -1,6 +1,8 @@
 {
   "id": "concrete-floor",
-  "name": "Concrete Floor",
+  "name": {
+    "en-US": "Concrete Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "reflector",
-  "name": "Reflector",
+  "name": {
+    "en-US": "Reflector"
+  },
   "games": {
     "nh": {
       "sellPrice": {

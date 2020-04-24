@@ -1,6 +1,8 @@
 {
   "id": "modern-wash-station",
-  "name": "Modern Wash Station",
+  "name": {
+    "en-US": "Modern Wash Station"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

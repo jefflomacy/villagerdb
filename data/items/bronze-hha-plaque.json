@@ -1,6 +1,8 @@
 {
   "id": "bronze-hha-plaque",
-  "name": "Bronze Hha Plaque",
+  "name": {
+    "en-US": "Bronze Hha Plaque"
+  },
   "games": {
     "nh": {
       "orderable": false,

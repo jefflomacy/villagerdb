@@ -1,6 +1,8 @@
 {
   "id": "gas-mask",
-  "name": "Gas Mask",
+  "name": {
+    "en-US": "Gas Mask"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

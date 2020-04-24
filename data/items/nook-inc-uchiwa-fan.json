@@ -1,6 +1,8 @@
 {
   "id": "nook-inc-uchiwa-fan",
-  "name": "Nook Inc. Uchiwa Fan",
+  "name": {
+    "en-US": "Nook Inc. Uchiwa Fan"
+  },
   "games": {
     "nh": {
       "orderable": true,

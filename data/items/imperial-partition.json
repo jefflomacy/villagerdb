@@ -1,6 +1,8 @@
 {
   "id": "imperial-partition",
-  "name": "Imperial Partition",
+  "name": {
+    "en-US": "Imperial Partition"
+  },
   "games": {
     "nh": {
       "orderable": true,

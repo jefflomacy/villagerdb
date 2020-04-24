@@ -1,6 +1,8 @@
 {
   "id": "yellow-blocks-rug",
-  "name": "Yellow Blocks Rug",
+  "name": {
+    "en-US": "Yellow Blocks Rug"
+  },
   "games": {
     "nh": {
       "sellPrice": {

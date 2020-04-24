@@ -1,6 +1,8 @@
 {
   "id": "lemon-skirt",
-  "name": "Lemon Skirt",
+  "name": {
+    "en-US": "Lemon Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "lab-floor",
-  "name": "Lab Floor",
+  "name": {
+    "en-US": "Lab Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

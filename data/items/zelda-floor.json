@@ -1,6 +1,8 @@
 {
   "id": "zelda-floor",
-  "name": "Zelda Floor",
+  "name": {
+    "en-US": "Zelda Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

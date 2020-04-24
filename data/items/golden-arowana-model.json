@@ -1,6 +1,8 @@
 {
   "id": "golden-arowana-model",
-  "name": "Golden Arowana Model",
+  "name": {
+    "en-US": "Golden Arowana Model"
+  },
   "games": {
     "nh": {
       "customizable": false,

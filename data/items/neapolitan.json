@@ -1,6 +1,8 @@
 {
   "id": "neapolitan",
-  "name": "Neapolitan",
+  "name": {
+    "en-US": "Neapolitan"
+  },
   "category": "Music",
   "games": {
     "nl": {

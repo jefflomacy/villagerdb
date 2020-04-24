@@ -1,6 +1,8 @@
 {
   "id": "fox-mask",
-  "name": "Fox Mask",
+  "name": {
+    "en-US": "Fox Mask"
+  },
   "games": {
     "nh": {
       "sellPrice": {

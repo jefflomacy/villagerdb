@@ -1,6 +1,8 @@
 {
   "id": "painters-smock",
-  "name": "Painter's Smock",
+  "name": {
+    "en-US": "Painter's Smock"
+  },
   "category": "Tops",
   "games": {
     "ac": {

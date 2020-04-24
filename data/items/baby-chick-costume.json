@@ -1,6 +1,8 @@
 {
   "id": "baby-chick-costume",
-  "name": "Baby-chick Costume",
+  "name": {
+    "en-US": "Baby-chick Costume"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "nook-inc-silk-rug",
-  "name": "Nook Inc. Silk Rug",
+  "name": {
+    "en-US": "Nook Inc. Silk Rug"
+  },
   "games": {
     "nh": {
       "orderable": true,

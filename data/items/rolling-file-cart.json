@@ -1,6 +1,8 @@
 {
   "id": "rolling-file-cart",
-  "name": "Rolling File Cart",
+  "name": {
+    "en-US": "Rolling File Cart"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

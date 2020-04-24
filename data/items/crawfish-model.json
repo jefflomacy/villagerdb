@@ -1,6 +1,8 @@
 {
   "id": "crawfish-model",
-  "name": "Crawfish Model",
+  "name": {
+    "en-US": "Crawfish Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

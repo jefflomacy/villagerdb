@@ -1,6 +1,8 @@
 {
   "id": "eye-patch",
-  "name": "Eye Patch",
+  "name": {
+    "en-US": "Eye Patch"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

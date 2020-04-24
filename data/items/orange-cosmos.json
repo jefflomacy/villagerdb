@@ -1,6 +1,8 @@
 {
   "id": "orange-cosmos",
-  "name": "Orange Cosmos",
+  "name": {
+    "en-US": "Orange Cosmos"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

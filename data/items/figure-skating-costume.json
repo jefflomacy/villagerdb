@@ -1,6 +1,8 @@
 {
   "id": "figure-skating-costume",
-  "name": "Figure-skating Costume",
+  "name": {
+    "en-US": "Figure-skating Costume"
+  },
   "games": {
     "nh": {
       "sellPrice": {

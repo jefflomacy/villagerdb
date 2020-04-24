@@ -1,6 +1,8 @@
 {
   "id": "house-print-dress",
-  "name": "House-print Dress",
+  "name": {
+    "en-US": "House-print Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

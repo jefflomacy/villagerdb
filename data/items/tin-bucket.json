@@ -1,6 +1,8 @@
 {
   "id": "tin-bucket",
-  "name": "Tin Bucket",
+  "name": {
+    "en-US": "Tin Bucket"
+  },
   "games": {
     "nh": {
       "orderable": true,

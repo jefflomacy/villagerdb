@@ -1,6 +1,8 @@
 {
   "id": "abstract-wall",
-  "name": "Abstract Wall",
+  "name": {
+    "en-US": "Abstract Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "reception-window",
-  "name": "Reception Window",
+  "name": {
+    "en-US": "Reception Window"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

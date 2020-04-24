@@ -1,6 +1,8 @@
 {
   "id": "towel-rack",
-  "name": "Towel Rack",
+  "name": {
+    "en-US": "Towel Rack"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

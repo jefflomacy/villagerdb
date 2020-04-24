@@ -1,6 +1,8 @@
 {
   "id": "card-carpet",
-  "name": "Card Carpet",
+  "name": {
+    "en-US": "Card Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

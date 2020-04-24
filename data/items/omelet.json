@@ -1,6 +1,8 @@
 {
   "id": "omelet",
-  "name": "Omelet",
+  "name": {
+    "en-US": "Omelet"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

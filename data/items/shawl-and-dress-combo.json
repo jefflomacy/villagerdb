@@ -1,6 +1,8 @@
 {
   "id": "shawl-and-dress-combo",
-  "name": "Shawl-and-dress Combo",
+  "name": {
+    "en-US": "Shawl-and-dress Combo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

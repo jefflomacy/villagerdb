@@ -1,6 +1,8 @@
 {
   "id": "kyles-poster",
-  "name": "Kyle's Poster",
+  "name": {
+    "en-US": "Kyle's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

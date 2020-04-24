@@ -1,6 +1,8 @@
 {
   "id": "blue-marlin-model",
-  "name": "Blue Marlin Model",
+  "name": {
+    "en-US": "Blue Marlin Model"
+  },
   "games": {
     "nh": {
       "orderable": false,

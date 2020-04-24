@@ -1,6 +1,8 @@
 {
   "id": "curly-mustache",
-  "name": "Curly Mustache",
+  "name": {
+    "en-US": "Curly Mustache"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

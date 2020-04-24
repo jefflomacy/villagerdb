@@ -1,6 +1,8 @@
 {
   "id": "horsehair-crab",
-  "name": "Horsehair Crab",
+  "name": {
+    "en-US": "Horsehair Crab"
+  },
   "category": "Fish",
   "games": {
     "nl": {

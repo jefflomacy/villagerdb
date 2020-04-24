@@ -1,6 +1,8 @@
 {
   "id": "bluegill",
-  "name": "Bluegill",
+  "name": {
+    "en-US": "Bluegill"
+  },
   "category": "Fish",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "perfect-orange",
-  "name": "Perfect Orange",
+  "name": {
+    "en-US": "Perfect Orange"
+  },
   "category": "Fruit",
   "games": {
     "nl": {

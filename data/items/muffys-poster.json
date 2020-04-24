@@ -1,6 +1,8 @@
 {
   "id": "muffys-poster",
-  "name": "Muffy's Poster",
+  "name": {
+    "en-US": "Muffy's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "white-office-desk",
-  "name": "White Office Desk",
+  "name": {
+    "en-US": "White Office Desk"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

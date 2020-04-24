@@ -1,6 +1,8 @@
 {
   "id": "orange-tulips",
-  "name": "Orange Tulips",
+  "name": {
+    "en-US": "Orange Tulips"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "bell-cricket",
-  "name": "Bell Cricket",
+  "name": {
+    "en-US": "Bell Cricket"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

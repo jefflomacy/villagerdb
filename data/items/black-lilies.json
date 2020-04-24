@@ -1,6 +1,8 @@
 {
   "id": "black-lilies",
-  "name": "Black Lilies",
+  "name": {
+    "en-US": "Black Lilies"
+  },
   "games": {
     "nh": {
       "orderable": false,

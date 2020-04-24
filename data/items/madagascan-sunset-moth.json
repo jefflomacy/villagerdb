@@ -1,6 +1,8 @@
 {
   "id": "madagascan-sunset-moth",
-  "name": "Madagascan Sunset Moth",
+  "name": {
+    "en-US": "Madagascan Sunset Moth"
+  },
   "games": {
     "nh": {
       "orderable": false,

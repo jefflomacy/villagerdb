@@ -1,6 +1,8 @@
 {
   "id": "red-mums",
-  "name": "Red Mums",
+  "name": {
+    "en-US": "Red Mums"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "cherry-blossom-petal",
-  "name": "Cherry-blossom Petal",
+  "name": {
+    "en-US": "Cherry-blossom Petal"
+  },
   "games": {
     "nh": {
       "orderable": false,

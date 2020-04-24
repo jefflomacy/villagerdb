@@ -1,6 +1,8 @@
 {
   "id": "drifts-photo",
-  "name": "Drift's Photo",
+  "name": {
+    "en-US": "Drift's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

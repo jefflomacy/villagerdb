@@ -1,6 +1,8 @@
 {
   "id": "crest-doorplate",
-  "name": "Crest Doorplate",
+  "name": {
+    "en-US": "Crest Doorplate"
+  },
   "games": {
     "nh": {
       "orderable": false,

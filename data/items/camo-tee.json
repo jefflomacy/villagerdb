@@ -1,6 +1,8 @@
 {
   "id": "camo-tee",
-  "name": "Camo Tee",
+  "name": {
+    "en-US": "Camo Tee"
+  },
   "games": {
     "nh": {
       "sellPrice": {

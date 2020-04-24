@@ -1,6 +1,8 @@
 {
   "id": "shoe-boxes",
-  "name": "Shoe Boxes",
+  "name": {
+    "en-US": "Shoe Boxes"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

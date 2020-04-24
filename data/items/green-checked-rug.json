@@ -1,6 +1,8 @@
 {
   "id": "green-checked-rug",
-  "name": "Green Checked Rug",
+  "name": {
+    "en-US": "Green Checked Rug"
+  },
   "games": {
     "nh": {
       "sources": [

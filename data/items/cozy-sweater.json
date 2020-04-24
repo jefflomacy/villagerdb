@@ -1,6 +1,8 @@
 {
   "id": "cozy-sweater",
-  "name": "Cozy Sweater",
+  "name": {
+    "en-US": "Cozy Sweater"
+  },
   "category": "Tops",
   "games": {
     "ac": {

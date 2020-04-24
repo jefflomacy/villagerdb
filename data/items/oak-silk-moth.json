@@ -1,6 +1,8 @@
 {
   "id": "oak-silk-moth",
-  "name": "Oak Silk Moth",
+  "name": {
+    "en-US": "Oak Silk Moth"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

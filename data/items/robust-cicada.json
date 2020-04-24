@@ -1,6 +1,8 @@
 {
   "id": "robust-cicada",
-  "name": "Robust Cicada",
+  "name": {
+    "en-US": "Robust Cicada"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

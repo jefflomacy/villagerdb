@@ -1,6 +1,8 @@
 {
   "id": "marie-tights",
-  "name": "Marie Tights",
+  "name": {
+    "en-US": "Marie Tights"
+  },
   "category": "Socks",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "racer-shirt",
-  "name": "Racer Shirt",
+  "name": {
+    "en-US": "Racer Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

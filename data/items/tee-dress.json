@@ -1,6 +1,8 @@
 {
   "id": "tee-dress",
-  "name": "Tee Dress",
+  "name": {
+    "en-US": "Tee Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

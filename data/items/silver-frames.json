@@ -1,6 +1,8 @@
 {
   "id": "silver-frames",
-  "name": "Silver Frames",
+  "name": {
+    "en-US": "Silver Frames"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

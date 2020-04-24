@@ -1,6 +1,8 @@
 {
   "id": "jungle-flooring",
-  "name": "Jungle Flooring",
+  "name": {
+    "en-US": "Jungle Flooring"
+  },
   "games": {
     "nh": {
       "orderable": false,

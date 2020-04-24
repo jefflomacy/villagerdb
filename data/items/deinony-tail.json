@@ -1,6 +1,8 @@
 {
   "id": "deinony-tail",
-  "name": "Deinony Tail",
+  "name": {
+    "en-US": "Deinony Tail"
+  },
   "games": {
     "nh": {
       "orderable": false,

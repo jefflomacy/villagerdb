@@ -1,6 +1,8 @@
 {
   "id": "acoustic-guitar",
-  "name": "Acoustic Guitar",
+  "name": {
+    "en-US": "Acoustic Guitar"
+  },
   "games": {
     "nh": {
       "orderable": false,

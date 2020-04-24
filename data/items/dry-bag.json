@@ -1,6 +1,8 @@
 {
   "id": "dry-bag",
-  "name": "Dry Bag",
+  "name": {
+    "en-US": "Dry Bag"
+  },
   "games": {
     "nh": {
       "orderable": true,

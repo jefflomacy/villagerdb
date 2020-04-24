@@ -1,6 +1,8 @@
 {
   "id": "glass-teapot",
-  "name": "Glass Teapot",
+  "name": {
+    "en-US": "Glass Teapot"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

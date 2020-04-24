@@ -1,6 +1,8 @@
 {
   "id": "kiddie-shirt",
-  "name": "Kiddie Shirt",
+  "name": {
+    "en-US": "Kiddie Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

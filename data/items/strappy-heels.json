@@ -1,6 +1,8 @@
 {
   "id": "strappy-heels",
-  "name": "Strappy Heels",
+  "name": {
+    "en-US": "Strappy Heels"
+  },
   "games": {
     "nh": {
       "sellPrice": {

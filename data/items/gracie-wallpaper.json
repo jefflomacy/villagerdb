@@ -1,6 +1,8 @@
 {
   "id": "gracie-wallpaper",
-  "name": "Gracie Wallpaper",
+  "name": {
+    "en-US": "Gracie Wallpaper"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

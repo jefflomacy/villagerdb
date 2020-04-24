@@ -1,6 +1,8 @@
 {
   "id": "yukas-poster",
-  "name": "Yuka's Poster",
+  "name": {
+    "en-US": "Yuka's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

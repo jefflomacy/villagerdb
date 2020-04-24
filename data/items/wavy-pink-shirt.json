@@ -1,6 +1,8 @@
 {
   "id": "wavy-pink-shirt",
-  "name": "Wavy Pink Shirt",
+  "name": {
+    "en-US": "Wavy Pink Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

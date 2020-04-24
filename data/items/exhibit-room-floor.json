@@ -1,6 +1,8 @@
 {
   "id": "exhibit-room-floor",
-  "name": "Exhibit-room Floor",
+  "name": {
+    "en-US": "Exhibit-room Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

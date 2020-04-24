@@ -1,6 +1,8 @@
 {
   "id": "blue-rose",
-  "name": "Blue Rose",
+  "name": {
+    "en-US": "Blue Rose"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "trees-bounty-mobile",
-  "name": "Tree's Bounty Mobile",
+  "name": {
+    "en-US": "Tree's Bounty Mobile"
+  },
   "games": {
     "nh": {
       "sellPrice": {

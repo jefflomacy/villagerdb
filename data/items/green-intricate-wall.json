@@ -1,6 +1,8 @@
 {
   "id": "green-intricate-wall",
-  "name": "Green Intricate Wall",
+  "name": {
+    "en-US": "Green Intricate Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

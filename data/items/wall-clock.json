@@ -1,6 +1,8 @@
 {
   "id": "wall-clock",
-  "name": "Wall Clock",
+  "name": {
+    "en-US": "Wall Clock"
+  },
   "games": {
     "nh": {
       "sellPrice": {

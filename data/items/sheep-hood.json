@@ -1,6 +1,8 @@
 {
   "id": "sheep-hood",
-  "name": "Sheep Hood",
+  "name": {
+    "en-US": "Sheep Hood"
+  },
   "games": {
     "nh": {
       "sellPrice": {

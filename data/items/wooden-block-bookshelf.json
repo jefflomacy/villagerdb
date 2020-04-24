@@ -1,6 +1,8 @@
 {
   "id": "wooden-block-bookshelf",
-  "name": "Wooden-block Bookshelf",
+  "name": {
+    "en-US": "Wooden-block Bookshelf"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "worktable",
-  "name": "Worktable",
+  "name": {
+    "en-US": "Worktable"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

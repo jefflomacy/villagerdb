@@ -1,6 +1,8 @@
 {
   "id": "pekoes-poster",
-  "name": "Pekoe's Poster",
+  "name": {
+    "en-US": "Pekoe's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

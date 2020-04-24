@@ -1,6 +1,8 @@
 {
   "id": "alpinist-overalls",
-  "name": "Alpinist Overalls",
+  "name": {
+    "en-US": "Alpinist Overalls"
+  },
   "games": {
     "nh": {
       "sellPrice": {

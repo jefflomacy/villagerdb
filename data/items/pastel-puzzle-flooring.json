@@ -1,6 +1,8 @@
 {
   "id": "pastel-puzzle-flooring",
-  "name": "Pastel Puzzle Flooring",
+  "name": {
+    "en-US": "Pastel Puzzle Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

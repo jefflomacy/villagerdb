@@ -1,6 +1,8 @@
 {
   "id": "kiki-and-lala-shoes",
-  "name": "Kiki And Lala Shoes",
+  "name": {
+    "en-US": "Kiki And Lala Shoes"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

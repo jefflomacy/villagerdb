@@ -1,6 +1,8 @@
 {
   "id": "patterned-vinyl-umbrella",
-  "name": "Patterned Vinyl Umbrella",
+  "name": {
+    "en-US": "Patterned Vinyl Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "zebra-print-flooring",
-  "name": "Zebra-print Flooring",
+  "name": {
+    "en-US": "Zebra-print Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

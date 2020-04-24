@@ -1,6 +1,8 @@
 {
   "id": "zebra-turkeyfish",
-  "name": "Zebra Turkeyfish",
+  "name": {
+    "en-US": "Zebra Turkeyfish"
+  },
   "category": "Fish",
   "games": {
     "nl": {

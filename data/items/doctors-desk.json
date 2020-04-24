@@ -1,6 +1,8 @@
 {
   "id": "doctors-desk",
-  "name": "Doctor's Desk",
+  "name": {
+    "en-US": "Doctor's Desk"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

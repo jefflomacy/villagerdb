@@ -1,6 +1,8 @@
 {
   "id": "jingle-carpet",
-  "name": "Jingle Carpet",
+  "name": {
+    "en-US": "Jingle Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

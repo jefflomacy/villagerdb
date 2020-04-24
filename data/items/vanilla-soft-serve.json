@@ -1,6 +1,8 @@
 {
   "id": "vanilla-soft-serve",
-  "name": "Vanilla Soft-serve",
+  "name": {
+    "en-US": "Vanilla Soft-serve"
+  },
   "category": "Usables",
   "games": {
     "nl": {

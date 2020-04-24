@@ -1,6 +1,8 @@
 {
   "id": "single-rose",
-  "name": "Single Rose",
+  "name": {
+    "en-US": "Single Rose"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

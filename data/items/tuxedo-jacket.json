@@ -1,6 +1,8 @@
 {
   "id": "tuxedo-jacket",
-  "name": "Tuxedo Jacket",
+  "name": {
+    "en-US": "Tuxedo Jacket"
+  },
   "games": {
     "nh": {
       "sellPrice": {

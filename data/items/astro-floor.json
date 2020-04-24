@@ -1,6 +1,8 @@
 {
   "id": "astro-floor",
-  "name": "Astro Floor",
+  "name": {
+    "en-US": "Astro Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

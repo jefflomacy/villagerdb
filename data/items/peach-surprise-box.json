@@ -1,6 +1,8 @@
 {
   "id": "peach-surprise-box",
-  "name": "Peach Surprise Box",
+  "name": {
+    "en-US": "Peach Surprise Box"
+  },
   "games": {
     "nh": {
       "orderable": false,

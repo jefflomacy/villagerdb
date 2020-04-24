@@ -1,6 +1,8 @@
 {
   "id": "cold-country-bunad",
-  "name": "Cold-country Bunad",
+  "name": {
+    "en-US": "Cold-country Bunad"
+  },
   "games": {
     "nh": {
       "sellPrice": {

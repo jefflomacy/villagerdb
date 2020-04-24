@@ -1,6 +1,8 @@
 {
   "id": "vaulting-pole",
-  "name": "Vaulting Pole",
+  "name": {
+    "en-US": "Vaulting Pole"
+  },
   "category": "Tools",
   "games": {
     "nh": {

@@ -1,6 +1,8 @@
 {
   "id": "heart-container",
-  "name": "Heart Container",
+  "name": {
+    "en-US": "Heart Container"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "basket-pack",
-  "name": "Basket Pack",
+  "name": {
+    "en-US": "Basket Pack"
+  },
   "games": {
     "nh": {
       "orderable": false,

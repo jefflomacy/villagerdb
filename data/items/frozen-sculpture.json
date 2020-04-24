@@ -1,6 +1,8 @@
 {
   "id": "frozen-sculpture",
-  "name": "Frozen Sculpture",
+  "name": {
+    "en-US": "Frozen Sculpture"
+  },
   "games": {
     "nh": {
       "sellPrice": {

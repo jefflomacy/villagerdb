@@ -1,6 +1,8 @@
 {
   "id": "ironwood-low-table",
-  "name": "Ironwood Low Table",
+  "name": {
+    "en-US": "Ironwood Low Table"
+  },
   "games": {
     "nh": {
       "customizable": true,

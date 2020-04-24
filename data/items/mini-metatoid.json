@@ -1,6 +1,8 @@
 {
   "id": "mini-metatoid",
-  "name": "Mini Metatoid",
+  "name": {
+    "en-US": "Mini Metatoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

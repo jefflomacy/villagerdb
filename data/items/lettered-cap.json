@@ -1,6 +1,8 @@
 {
   "id": "lettered-cap",
-  "name": "Lettered Cap",
+  "name": {
+    "en-US": "Lettered Cap"
+  },
   "games": {
     "nh": {
       "sellPrice": {

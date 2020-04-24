@@ -1,6 +1,8 @@
 {
   "id": "orange-wall-mounted-clock",
-  "name": "Orange Wall-mounted Clock",
+  "name": {
+    "en-US": "Orange Wall-mounted Clock"
+  },
   "games": {
     "nh": {
       "orderable": false,

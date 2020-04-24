@@ -1,6 +1,8 @@
 {
   "id": "petaltail-dragonfly",
-  "name": "Petaltail Dragonfly",
+  "name": {
+    "en-US": "Petaltail Dragonfly"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

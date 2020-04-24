@@ -1,6 +1,8 @@
 {
   "id": "monarch-butterfly",
-  "name": "Monarch Butterfly",
+  "name": {
+    "en-US": "Monarch Butterfly"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "nook-inc-bandanna",
-  "name": "Nook Inc. Bandanna",
+  "name": {
+    "en-US": "Nook Inc. Bandanna"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "kk-parade",
-  "name": "K.K. Parade",
+  "name": {
+    "en-US": "K.K. Parade"
+  },
   "category": "Music",
   "games": {
     "nl": {

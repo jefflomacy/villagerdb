@@ -1,6 +1,8 @@
 {
   "id": "ultra-no-show-socks",
-  "name": "Ultra No-show Socks",
+  "name": {
+    "en-US": "Ultra No-show Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

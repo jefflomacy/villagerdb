@@ -1,6 +1,8 @@
 {
   "id": "fishing-rod-stand",
-  "name": "Fishing-rod Stand",
+  "name": {
+    "en-US": "Fishing-rod Stand"
+  },
   "games": {
     "nh": {
       "sources": [

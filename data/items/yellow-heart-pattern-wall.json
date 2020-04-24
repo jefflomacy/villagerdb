@@ -1,6 +1,8 @@
 {
   "id": "yellow-heart-pattern-wall",
-  "name": "Yellow Heart-pattern Wall",
+  "name": {
+    "en-US": "Yellow Heart-pattern Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

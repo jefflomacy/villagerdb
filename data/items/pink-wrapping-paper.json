@@ -1,6 +1,8 @@
 {
   "id": "pink-wrapping-paper",
-  "name": "Pink Wrapping Paper",
+  "name": {
+    "en-US": "Pink Wrapping Paper"
+  },
   "games": {
     "nh": {
       "sellPrice": {

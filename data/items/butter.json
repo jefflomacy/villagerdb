@@ -1,6 +1,8 @@
 {
   "id": "butter",
-  "name": "Butter",
+  "name": {
+    "en-US": "Butter"
+  },
   "category": "Usables",
   "games": {
     "nl": {

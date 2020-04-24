@@ -1,6 +1,8 @@
 {
   "id": "sabertooth-model",
-  "name": "Sabertooth Model",
+  "name": {
+    "en-US": "Sabertooth Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "red-snapper",
-  "name": "Red Snapper",
+  "name": {
+    "en-US": "Red Snapper"
+  },
   "category": "Fish",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "purple-pansies",
-  "name": "Purple Pansies",
+  "name": {
+    "en-US": "Purple Pansies"
+  },
   "games": {
     "nh": {
       "orderable": false,

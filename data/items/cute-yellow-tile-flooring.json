@@ -1,6 +1,8 @@
 {
   "id": "cute-yellow-tile-flooring",
-  "name": "Cute Yellow-tile Flooring",
+  "name": {
+    "en-US": "Cute Yellow-tile Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

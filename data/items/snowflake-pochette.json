@@ -1,6 +1,8 @@
 {
   "id": "snowflake-pochette",
-  "name": "Snowflake Pochette",
+  "name": {
+    "en-US": "Snowflake Pochette"
+  },
   "games": {
     "nh": {
       "orderable": false,

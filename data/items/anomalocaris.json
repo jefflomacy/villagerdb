@@ -1,6 +1,8 @@
 {
   "id": "anomalocaris",
-  "name": "Anomalocaris",
+  "name": {
+    "en-US": "Anomalocaris"
+  },
   "games": {
     "nh": {
       "orderable": false,

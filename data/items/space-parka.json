@@ -1,6 +1,8 @@
 {
   "id": "space-parka",
-  "name": "Space Parka",
+  "name": {
+    "en-US": "Space Parka"
+  },
   "games": {
     "nh": {
       "sellPrice": {

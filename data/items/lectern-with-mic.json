@@ -1,6 +1,8 @@
 {
   "id": "lectern-with-mic",
-  "name": "Lectern With Mic",
+  "name": {
+    "en-US": "Lectern With Mic"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

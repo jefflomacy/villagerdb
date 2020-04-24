@@ -1,6 +1,8 @@
 {
   "id": "g-logo-shirt",
-  "name": "G Logo Shirt",
+  "name": {
+    "en-US": "G Logo Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

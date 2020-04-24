@@ -1,6 +1,8 @@
 {
   "id": "paper-kite-butterfly-model",
-  "name": "Paper Kite Butterfly Model",
+  "name": {
+    "en-US": "Paper Kite Butterfly Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

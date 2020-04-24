@@ -1,6 +1,8 @@
 {
   "id": "grand-h-hercules-model",
-  "name": "Grand H. Hercules Model",
+  "name": {
+    "en-US": "Grand H. Hercules Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

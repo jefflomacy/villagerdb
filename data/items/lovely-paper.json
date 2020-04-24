@@ -1,6 +1,8 @@
 {
   "id": "lovely-paper",
-  "name": "Lovely Paper",
+  "name": {
+    "en-US": "Lovely Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "takoroka-mesh",
-  "name": "Takoroka Mesh",
+  "name": {
+    "en-US": "Takoroka Mesh"
+  },
   "category": "Hats",
   "games": {
     "nl": {

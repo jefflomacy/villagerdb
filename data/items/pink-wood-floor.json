@@ -1,6 +1,8 @@
 {
   "id": "pink-wood-floor",
-  "name": "Pink Wood Floor",
+  "name": {
+    "en-US": "Pink Wood Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

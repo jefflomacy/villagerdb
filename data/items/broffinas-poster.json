@@ -1,6 +1,8 @@
 {
   "id": "broffinas-poster",
-  "name": "Broffina's Poster",
+  "name": {
+    "en-US": "Broffina's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

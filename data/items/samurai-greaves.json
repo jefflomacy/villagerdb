@@ -1,6 +1,8 @@
 {
   "id": "samurai-greaves",
-  "name": "Samurai Greaves",
+  "name": {
+    "en-US": "Samurai Greaves"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "conch-shell",
-  "name": "Conch Shell",
+  "name": {
+    "en-US": "Conch Shell"
+  },
   "category": "Seashells",
   "games": {
     "nl": {

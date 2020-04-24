@@ -1,6 +1,8 @@
 {
   "id": "galaxy-flooring",
-  "name": "Galaxy Flooring",
+  "name": {
+    "en-US": "Galaxy Flooring"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "pilot-shades",
-  "name": "Pilot Shades",
+  "name": {
+    "en-US": "Pilot Shades"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

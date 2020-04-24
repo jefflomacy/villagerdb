@@ -1,6 +1,8 @@
 {
   "id": "walkingstick",
-  "name": "Walkingstick",
+  "name": {
+    "en-US": "Walkingstick"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

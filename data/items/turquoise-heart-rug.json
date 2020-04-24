@@ -1,6 +1,8 @@
 {
   "id": "turquoise-heart-rug",
-  "name": "Turquoise Heart Rug",
+  "name": {
+    "en-US": "Turquoise Heart Rug"
+  },
   "games": {
     "nh": {
       "sellPrice": {

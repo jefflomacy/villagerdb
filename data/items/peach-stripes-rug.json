@@ -1,6 +1,8 @@
 {
   "id": "peach-stripes-rug",
-  "name": "Peach Stripes Rug",
+  "name": {
+    "en-US": "Peach Stripes Rug"
+  },
   "games": {
     "nh": {
       "sources": [

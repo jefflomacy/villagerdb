@@ -1,6 +1,8 @@
 {
   "id": "belted-wraparound-skirt",
-  "name": "Belted Wraparound Skirt",
+  "name": {
+    "en-US": "Belted Wraparound Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

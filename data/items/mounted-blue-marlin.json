@@ -1,6 +1,8 @@
 {
   "id": "mounted-blue-marlin",
-  "name": "Mounted Blue Marlin",
+  "name": {
+    "en-US": "Mounted Blue Marlin"
+  },
   "games": {
     "nh": {
       "sellPrice": {

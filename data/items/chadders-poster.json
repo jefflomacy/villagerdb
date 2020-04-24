@@ -1,6 +1,8 @@
 {
   "id": "chadders-poster",
-  "name": "Chadder's Poster",
+  "name": {
+    "en-US": "Chadder's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

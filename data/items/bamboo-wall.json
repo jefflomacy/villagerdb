@@ -1,6 +1,8 @@
 {
   "id": "bamboo-wall",
-  "name": "Bamboo Wall",
+  "name": {
+    "en-US": "Bamboo Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "bagworm",
-  "name": "Bagworm",
+  "name": {
+    "en-US": "Bagworm"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

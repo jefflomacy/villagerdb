@@ -1,6 +1,8 @@
 {
   "id": "stinkbug",
-  "name": "Stinkbug",
+  "name": {
+    "en-US": "Stinkbug"
+  },
   "games": {
     "nh": {
       "orderable": false,

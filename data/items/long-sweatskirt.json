@@ -1,6 +1,8 @@
 {
   "id": "long-sweatskirt",
-  "name": "Long Sweatskirt",
+  "name": {
+    "en-US": "Long Sweatskirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

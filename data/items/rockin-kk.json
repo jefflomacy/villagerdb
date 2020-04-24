@@ -1,6 +1,8 @@
 {
   "id": "rockin-kk",
-  "name": "Rockin' K.K.",
+  "name": {
+    "en-US": "Rockin' K.K."
+  },
   "category": "Music",
   "games": {
     "nl": {

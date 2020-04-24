@@ -1,6 +1,8 @@
 {
   "id": "long-polka-skirt",
-  "name": "Long Polka Skirt",
+  "name": {
+    "en-US": "Long Polka Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

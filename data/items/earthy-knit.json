@@ -1,6 +1,8 @@
 {
   "id": "earthy-knit",
-  "name": "Earthy Knit",
+  "name": {
+    "en-US": "Earthy Knit"
+  },
   "category": "Tops",
   "games": {
     "ac": {

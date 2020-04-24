@@ -1,6 +1,8 @@
 {
   "id": "sunset-top",
-  "name": "Sunset Top",
+  "name": {
+    "en-US": "Sunset Top"
+  },
   "category": "Tops",
   "games": {
     "ac": {

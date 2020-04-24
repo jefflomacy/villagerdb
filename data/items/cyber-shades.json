@@ -1,6 +1,8 @@
 {
   "id": "cyber-shades",
-  "name": "Cyber Shades",
+  "name": {
+    "en-US": "Cyber Shades"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

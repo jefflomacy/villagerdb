@@ -1,6 +1,8 @@
 {
   "id": "pleather-shorts",
-  "name": "Pleather Shorts",
+  "name": {
+    "en-US": "Pleather Shorts"
+  },
   "games": {
     "nh": {
       "orderable": true,

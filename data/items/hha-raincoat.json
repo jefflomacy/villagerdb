@@ -1,6 +1,8 @@
 {
   "id": "hha-raincoat",
-  "name": "HHA Raincoat",
+  "name": {
+    "en-US": "HHA Raincoat"
+  },
   "category": "Tops",
   "games": {
     "nl": {

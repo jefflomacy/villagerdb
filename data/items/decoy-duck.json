@@ -1,6 +1,8 @@
 {
   "id": "decoy-duck",
-  "name": "Decoy Duck",
+  "name": {
+    "en-US": "Decoy Duck"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

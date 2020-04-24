@@ -1,6 +1,8 @@
 {
   "id": "neutral-wall",
-  "name": "Neutral Wall",
+  "name": {
+    "en-US": "Neutral Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "cicada-shell",
-  "name": "Cicada Shell",
+  "name": {
+    "en-US": "Cicada Shell"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

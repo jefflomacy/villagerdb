@@ -1,6 +1,8 @@
 {
   "id": "used-firework",
-  "name": "Used Firework",
+  "name": {
+    "en-US": "Used Firework"
+  },
   "category": "Usables",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "stale-cupcakes",
-  "name": "Stale Cupcakes",
+  "name": {
+    "en-US": "Stale Cupcakes"
+  },
   "category": "Music",
   "games": {
     "nl": {

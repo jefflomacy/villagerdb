@@ -1,6 +1,8 @@
 {
   "id": "three-ball-shirt",
-  "name": "Three-Ball Shirt",
+  "name": {
+    "en-US": "Three-Ball Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

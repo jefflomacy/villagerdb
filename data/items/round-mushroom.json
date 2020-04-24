@@ -1,6 +1,8 @@
 {
   "id": "round-mushroom",
-  "name": "Round Mushroom",
+  "name": {
+    "en-US": "Round Mushroom"
+  },
   "category": "Usables",
   "games": {
     "nl": {

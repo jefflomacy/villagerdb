@@ -1,6 +1,8 @@
 {
   "id": "sheldons-poster",
-  "name": "Sheldon's Poster",
+  "name": {
+    "en-US": "Sheldon's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

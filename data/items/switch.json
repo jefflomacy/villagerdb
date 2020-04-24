@@ -1,6 +1,8 @@
 {
   "id": "switch",
-  "name": "Switch",
+  "name": {
+    "en-US": "Switch"
+  },
   "games": {
     "nh": {
       "sellPrice": {

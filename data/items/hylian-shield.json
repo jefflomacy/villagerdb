@@ -1,6 +1,8 @@
 {
   "id": "hylian-shield",
-  "name": "Hylian Shield",
+  "name": {
+    "en-US": "Hylian Shield"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

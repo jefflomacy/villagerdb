@@ -1,6 +1,8 @@
 {
   "id": "iron-closet",
-  "name": "Iron Closet",
+  "name": {
+    "en-US": "Iron Closet"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "tacos",
-  "name": "Tacos",
+  "name": {
+    "en-US": "Tacos"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

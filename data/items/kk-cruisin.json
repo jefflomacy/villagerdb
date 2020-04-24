@@ -1,6 +1,8 @@
 {
   "id": "kk-cruisin",
-  "name": "K.K. Cruisin'",
+  "name": {
+    "en-US": "K.K. Cruisin'"
+  },
   "category": "Music",
   "games": {
     "nl": {

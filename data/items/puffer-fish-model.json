@@ -1,6 +1,8 @@
 {
   "id": "puffer-fish-model",
-  "name": "Puffer Fish Model",
+  "name": {
+    "en-US": "Puffer Fish Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

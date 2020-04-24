@@ -1,6 +1,8 @@
 {
   "id": "canvas-backpack",
-  "name": "Canvas Backpack",
+  "name": {
+    "en-US": "Canvas Backpack"
+  },
   "games": {
     "nh": {
       "sellPrice": {

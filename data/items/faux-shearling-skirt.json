@@ -1,6 +1,8 @@
 {
   "id": "faux-shearling-skirt",
-  "name": "Faux-shearling Skirt",
+  "name": {
+    "en-US": "Faux-shearling Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

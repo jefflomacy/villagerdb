@@ -1,6 +1,8 @@
 {
   "id": "strawberry-umbrella",
-  "name": "Strawberry Umbrella",
+  "name": {
+    "en-US": "Strawberry Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

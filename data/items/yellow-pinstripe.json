@@ -1,6 +1,8 @@
 {
   "id": "yellow-pinstripe",
-  "name": "Yellow Pinstripe",
+  "name": {
+    "en-US": "Yellow Pinstripe"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "green-wall",
-  "name": "Green Wall",
+  "name": {
+    "en-US": "Green Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

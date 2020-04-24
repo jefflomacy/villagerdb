@@ -1,6 +1,8 @@
 {
   "id": "giant-clam",
-  "name": "Giant Clam",
+  "name": {
+    "en-US": "Giant Clam"
+  },
   "games": {
     "nh": {
       "orderable": false,

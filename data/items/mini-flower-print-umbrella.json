@@ -1,6 +1,8 @@
 {
   "id": "mini-flower-print-umbrella",
-  "name": "Mini-flower-print Umbrella",
+  "name": {
+    "en-US": "Mini-flower-print Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

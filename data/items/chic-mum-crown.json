@@ -1,6 +1,8 @@
 {
   "id": "chic-mum-crown",
-  "name": "Chic Mum Crown",
+  "name": {
+    "en-US": "Chic Mum Crown"
+  },
   "games": {
     "nh": {
       "orderable": false,

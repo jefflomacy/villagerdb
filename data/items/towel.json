@@ -1,6 +1,8 @@
 {
   "id": "towel",
-  "name": "Towel",
+  "name": {
+    "en-US": "Towel"
+  },
   "category": "Usables",
   "games": {
     "nl": {

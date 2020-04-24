@@ -1,6 +1,8 @@
 {
   "id": "iceberg",
-  "name": "Iceberg",
+  "name": {
+    "en-US": "Iceberg"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

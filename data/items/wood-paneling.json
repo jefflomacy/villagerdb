@@ -1,6 +1,8 @@
 {
   "id": "wood-paneling",
-  "name": "Wood Paneling",
+  "name": {
+    "en-US": "Wood Paneling"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

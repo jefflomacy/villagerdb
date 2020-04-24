@@ -1,6 +1,8 @@
 {
   "id": "big-amp",
-  "name": "Big Amp",
+  "name": {
+    "en-US": "Big Amp"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

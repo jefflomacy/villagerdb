@@ -1,6 +1,8 @@
 {
   "id": "handbag",
-  "name": "Handbag",
+  "name": {
+    "en-US": "Handbag"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

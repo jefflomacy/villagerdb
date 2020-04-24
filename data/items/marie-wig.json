@@ -1,6 +1,8 @@
 {
   "id": "marie-wig",
-  "name": "Marie Wig",
+  "name": {
+    "en-US": "Marie Wig"
+  },
   "category": "Hats",
   "games": {
     "nl": {

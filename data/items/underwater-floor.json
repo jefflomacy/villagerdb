@@ -1,6 +1,8 @@
 {
   "id": "underwater-floor",
-  "name": "Underwater Floor",
+  "name": {
+    "en-US": "Underwater Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

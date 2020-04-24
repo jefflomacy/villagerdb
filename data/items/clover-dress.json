@@ -1,6 +1,8 @@
 {
   "id": "clover-dress",
-  "name": "Clover Dress",
+  "name": {
+    "en-US": "Clover Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

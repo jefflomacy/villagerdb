@@ -1,6 +1,8 @@
 {
   "id": "rosalia-batesi-beetle-model",
-  "name": "Rosalia Batesi Beetle Model",
+  "name": {
+    "en-US": "Rosalia Batesi Beetle Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

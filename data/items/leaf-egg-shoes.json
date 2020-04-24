@@ -1,6 +1,8 @@
 {
   "id": "leaf-egg-shoes",
-  "name": "Leaf-egg Shoes",
+  "name": {
+    "en-US": "Leaf-egg Shoes"
+  },
   "games": {
     "nh": {
       "orderable": false,

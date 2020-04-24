@@ -1,6 +1,8 @@
 {
   "id": "cinnamoroll-sofa",
-  "name": "Cinnamoroll Sofa",
+  "name": {
+    "en-US": "Cinnamoroll Sofa"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "long-down-coat",
-  "name": "Long Down Coat",
+  "name": {
+    "en-US": "Long Down Coat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

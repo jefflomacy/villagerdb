@@ -1,6 +1,8 @@
 {
   "id": "career-skirt",
-  "name": "Career Skirt",
+  "name": {
+    "en-US": "Career Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "my-melody-floor",
-  "name": "My Melody Floor",
+  "name": {
+    "en-US": "My Melody Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

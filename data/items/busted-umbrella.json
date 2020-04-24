@@ -1,6 +1,8 @@
 {
   "id": "busted-umbrella",
-  "name": "Busted Umbrella",
+  "name": {
+    "en-US": "Busted Umbrella"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "frozen-tree",
-  "name": "Frozen Tree",
+  "name": {
+    "en-US": "Frozen Tree"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "lotus-pond",
-  "name": "Lotus Pond",
+  "name": {
+    "en-US": "Lotus Pond"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

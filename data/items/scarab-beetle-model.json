@@ -1,6 +1,8 @@
 {
   "id": "scarab-beetle-model",
-  "name": "Scarab Beetle Model",
+  "name": {
+    "en-US": "Scarab Beetle Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

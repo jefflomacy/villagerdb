@@ -1,6 +1,8 @@
 {
   "id": "wall-mounted-candle",
-  "name": "Wall-mounted Candle",
+  "name": {
+    "en-US": "Wall-mounted Candle"
+  },
   "games": {
     "nh": {
       "customizable": false,

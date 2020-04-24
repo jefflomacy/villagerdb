@@ -1,6 +1,8 @@
 {
   "id": "palatial-tank-dress",
-  "name": "Palatial Tank Dress",
+  "name": {
+    "en-US": "Palatial Tank Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

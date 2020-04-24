@@ -1,6 +1,8 @@
 {
   "id": "mini-plinkoid",
-  "name": "Mini Plinkoid",
+  "name": {
+    "en-US": "Mini Plinkoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "orange-pinwheel",
-  "name": "Orange Pinwheel",
+  "name": {
+    "en-US": "Orange Pinwheel"
+  },
   "category": "Balloons",
   "games": {
     "nl": {

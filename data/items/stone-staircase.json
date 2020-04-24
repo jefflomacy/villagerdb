@@ -1,6 +1,8 @@
 {
   "id": "stone-staircase",
-  "name": "Stone Staircase",
+  "name": {
+    "en-US": "Stone Staircase"
+  },
   "games": {
     "nh": {
       "buyPrices": [

@@ -1,6 +1,8 @@
 {
   "id": "tall-strumboid",
-  "name": "Tall Strumboid",
+  "name": {
+    "en-US": "Tall Strumboid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

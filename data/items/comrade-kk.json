@@ -1,6 +1,8 @@
 {
   "id": "comrade-kk",
-  "name": "Comrade K.K.",
+  "name": {
+    "en-US": "Comrade K.K."
+  },
   "category": "Music",
   "games": {
     "nl": {

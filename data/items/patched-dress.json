@@ -1,6 +1,8 @@
 {
   "id": "patched-dress",
-  "name": "Patched Dress",
+  "name": {
+    "en-US": "Patched Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "desert-camo",
-  "name": "Desert Camo",
+  "name": {
+    "en-US": "Desert Camo"
+  },
   "category": "Tops",
   "games": {
     "ac": {

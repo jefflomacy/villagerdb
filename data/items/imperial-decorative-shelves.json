@@ -1,6 +1,8 @@
 {
   "id": "imperial-decorative-shelves",
-  "name": "Imperial Decorative Shelves",
+  "name": {
+    "en-US": "Imperial Decorative Shelves"
+  },
   "games": {
     "nh": {
       "orderable": true,

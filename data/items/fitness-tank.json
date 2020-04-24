@@ -1,6 +1,8 @@
 {
   "id": "fitness-tank",
-  "name": "Fitness Tank",
+  "name": {
+    "en-US": "Fitness Tank"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "labelle-cap",
-  "name": "Labelle Cap",
+  "name": {
+    "en-US": "Labelle Cap"
+  },
   "games": {
     "nh": {
       "sellPrice": {

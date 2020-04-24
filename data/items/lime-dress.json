@@ -1,6 +1,8 @@
 {
   "id": "lime-dress",
-  "name": "Lime Dress",
+  "name": {
+    "en-US": "Lime Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

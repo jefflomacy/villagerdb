@@ -1,6 +1,8 @@
 {
   "id": "facial-mask",
-  "name": "Facial Mask",
+  "name": {
+    "en-US": "Facial Mask"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

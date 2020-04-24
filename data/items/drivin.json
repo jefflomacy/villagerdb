@@ -1,6 +1,8 @@
 {
   "id": "drivin",
-  "name": "Drivin'",
+  "name": {
+    "en-US": "Drivin'"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "savannahs-poster",
-  "name": "Savannah's Poster",
+  "name": {
+    "en-US": "Savannah's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

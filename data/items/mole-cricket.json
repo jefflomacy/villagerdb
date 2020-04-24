@@ -1,6 +1,8 @@
 {
   "id": "mole-cricket",
-  "name": "Mole Cricket",
+  "name": {
+    "en-US": "Mole Cricket"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

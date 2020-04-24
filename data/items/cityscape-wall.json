@@ -1,6 +1,8 @@
 {
   "id": "cityscape-wall",
-  "name": "Cityscape Wall",
+  "name": {
+    "en-US": "Cityscape Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

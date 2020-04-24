@@ -1,6 +1,8 @@
 {
   "id": "argyle-vest",
-  "name": "Argyle Vest",
+  "name": {
+    "en-US": "Argyle Vest"
+  },
   "games": {
     "nh": {
       "orderable": true,

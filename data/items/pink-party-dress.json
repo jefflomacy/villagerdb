@@ -1,6 +1,8 @@
 {
   "id": "pink-party-dress",
-  "name": "Pink Party Dress",
+  "name": {
+    "en-US": "Pink Party Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

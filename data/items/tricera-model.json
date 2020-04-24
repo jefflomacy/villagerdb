@@ -1,6 +1,8 @@
 {
   "id": "tricera-model",
-  "name": "Tricera Model",
+  "name": {
+    "en-US": "Tricera Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

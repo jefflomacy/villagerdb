@@ -1,6 +1,8 @@
 {
   "id": "pasta",
-  "name": "Pasta",
+  "name": {
+    "en-US": "Pasta"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

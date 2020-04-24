@@ -1,6 +1,8 @@
 {
   "id": "amethyst-tank",
-  "name": "Amethyst Tank",
+  "name": {
+    "en-US": "Amethyst Tank"
+  },
   "category": "Tops",
   "games": {
     "nl": {

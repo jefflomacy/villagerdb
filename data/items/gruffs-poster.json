@@ -1,6 +1,8 @@
 {
   "id": "gruffs-poster",
-  "name": "Gruff's Poster",
+  "name": {
+    "en-US": "Gruff's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

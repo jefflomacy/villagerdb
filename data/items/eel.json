@@ -1,6 +1,8 @@
 {
   "id": "eel",
-  "name": "Eel",
+  "name": {
+    "en-US": "Eel"
+  },
   "category": "Fish",
   "games": {
     "nl": {

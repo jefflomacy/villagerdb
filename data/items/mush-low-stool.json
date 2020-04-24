@@ -1,6 +1,8 @@
 {
   "id": "mush-low-stool",
-  "name": "Mush Low Stool",
+  "name": {
+    "en-US": "Mush Low Stool"
+  },
   "games": {
     "nh": {
       "sellPrice": {

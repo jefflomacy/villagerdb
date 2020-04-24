@@ -1,6 +1,8 @@
 {
   "id": "heart-p-balloon",
-  "name": "Heart P. Balloon",
+  "name": {
+    "en-US": "Heart P. Balloon"
+  },
   "category": "Balloons",
   "games": {
     "nl": {

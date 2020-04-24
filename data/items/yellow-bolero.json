@@ -1,6 +1,8 @@
 {
   "id": "yellow-bolero",
-  "name": "Yellow Bolero",
+  "name": {
+    "en-US": "Yellow Bolero"
+  },
   "category": "Tops",
   "games": {
     "ac": {

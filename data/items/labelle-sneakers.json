@@ -1,6 +1,8 @@
 {
   "id": "labelle-sneakers",
-  "name": "Labelle Sneakers",
+  "name": {
+    "en-US": "Labelle Sneakers"
+  },
   "games": {
     "nh": {
       "sellPrice": {

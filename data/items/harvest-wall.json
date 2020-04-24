@@ -1,6 +1,8 @@
 {
   "id": "harvest-wall",
-  "name": "Harvest Wall",
+  "name": {
+    "en-US": "Harvest Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "faux-fur-bag",
-  "name": "Faux-fur Bag",
+  "name": {
+    "en-US": "Faux-fur Bag"
+  },
   "games": {
     "nh": {
       "sellPrice": {

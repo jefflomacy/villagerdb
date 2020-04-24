@@ -1,6 +1,8 @@
 {
   "id": "flimsy-axe",
-  "name": "Flimsy Axe",
+  "name": {
+    "en-US": "Flimsy Axe"
+  },
   "category": "Tools",
   "games": {
     "nh": {

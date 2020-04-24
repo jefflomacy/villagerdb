@@ -1,6 +1,8 @@
 {
   "id": "wooden-deck-floor",
-  "name": "Wooden-deck Floor",
+  "name": {
+    "en-US": "Wooden-deck Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

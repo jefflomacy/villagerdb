@@ -1,6 +1,8 @@
 {
   "id": "desk-mirror",
-  "name": "Desk Mirror",
+  "name": {
+    "en-US": "Desk Mirror"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

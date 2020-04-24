@@ -1,6 +1,8 @@
 {
   "id": "t-bones-poster",
-  "name": "T-bone's Poster",
+  "name": {
+    "en-US": "T-bone's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

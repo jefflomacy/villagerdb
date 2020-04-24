@@ -1,6 +1,8 @@
 {
   "id": "cinnamoroll-hat",
-  "name": "Cinnamoroll Hat",
+  "name": {
+    "en-US": "Cinnamoroll Hat"
+  },
   "category": "Hats",
   "games": {
     "nl": {

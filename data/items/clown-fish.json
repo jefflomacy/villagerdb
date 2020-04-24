@@ -1,6 +1,8 @@
 {
   "id": "clown-fish",
-  "name": "Clown Fish",
+  "name": {
+    "en-US": "Clown Fish"
+  },
   "games": {
     "nh": {
       "orderable": false,

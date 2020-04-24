@@ -1,6 +1,8 @@
 {
   "id": "green-dress",
-  "name": "Green Dress",
+  "name": {
+    "en-US": "Green Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

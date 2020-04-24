@@ -1,6 +1,8 @@
 {
   "id": "ruffled-dress",
-  "name": "Ruffled Dress",
+  "name": {
+    "en-US": "Ruffled Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "flashy-jacket",
-  "name": "Flashy Jacket",
+  "name": {
+    "en-US": "Flashy Jacket"
+  },
   "games": {
     "nh": {
       "sellPrice": {

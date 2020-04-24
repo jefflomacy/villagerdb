@@ -1,6 +1,8 @@
 {
   "id": "tall-oombloid",
-  "name": "Tall Oombloid",
+  "name": {
+    "en-US": "Tall Oombloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

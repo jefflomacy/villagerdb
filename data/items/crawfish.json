@@ -1,6 +1,8 @@
 {
   "id": "crawfish",
-  "name": "Crawfish",
+  "name": {
+    "en-US": "Crawfish"
+  },
   "category": "Fish",
   "games": {
     "nl": {

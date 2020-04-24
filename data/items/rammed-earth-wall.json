@@ -1,6 +1,8 @@
 {
   "id": "rammed-earth-wall",
-  "name": "Rammed-earth Wall",
+  "name": {
+    "en-US": "Rammed-earth Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

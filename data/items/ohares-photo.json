@@ -1,6 +1,8 @@
 {
   "id": "ohares-photo",
-  "name": "O'hare's Photo",
+  "name": {
+    "en-US": "O'hare's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

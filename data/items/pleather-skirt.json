@@ -1,6 +1,8 @@
 {
   "id": "pleather-skirt",
-  "name": "Pleather Skirt",
+  "name": {
+    "en-US": "Pleather Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

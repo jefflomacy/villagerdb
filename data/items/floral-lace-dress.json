@@ -1,6 +1,8 @@
 {
   "id": "floral-lace-dress",
-  "name": "Floral Lace Dress",
+  "name": {
+    "en-US": "Floral Lace Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

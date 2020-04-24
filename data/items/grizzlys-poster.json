@@ -1,6 +1,8 @@
 {
   "id": "grizzlys-poster",
-  "name": "Grizzly's Poster",
+  "name": {
+    "en-US": "Grizzly's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

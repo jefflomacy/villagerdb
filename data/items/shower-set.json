@@ -1,6 +1,8 @@
 {
   "id": "shower-set",
-  "name": "Shower Set",
+  "name": {
+    "en-US": "Shower Set"
+  },
   "games": {
     "nh": {
       "orderable": true,

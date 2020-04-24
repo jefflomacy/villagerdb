@@ -1,6 +1,8 @@
 {
   "id": "blowfish-sashimi",
-  "name": "Blowfish Sashimi",
+  "name": {
+    "en-US": "Blowfish Sashimi"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "famous-mushroom",
-  "name": "Famous Mushroom",
+  "name": {
+    "en-US": "Famous Mushroom"
+  },
   "category": "Mushrooms",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "jeremiahs-poster",
-  "name": "Jeremiah's Poster",
+  "name": {
+    "en-US": "Jeremiah's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

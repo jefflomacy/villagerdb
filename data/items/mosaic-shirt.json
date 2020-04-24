@@ -1,6 +1,8 @@
 {
   "id": "mosaic-shirt",
-  "name": "Mosaic Shirt",
+  "name": {
+    "en-US": "Mosaic Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

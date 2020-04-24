@@ -1,6 +1,8 @@
 {
   "id": "imp-hood",
-  "name": "Imp Hood",
+  "name": {
+    "en-US": "Imp Hood"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "kitchen-tile",
-  "name": "Kitchen Tile",
+  "name": {
+    "en-US": "Kitchen Tile"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

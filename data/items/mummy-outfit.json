@@ -1,6 +1,8 @@
 {
   "id": "mummy-outfit",
-  "name": "Mummy Outfit",
+  "name": {
+    "en-US": "Mummy Outfit"
+  },
   "games": {
     "nh": {
       "sellPrice": {

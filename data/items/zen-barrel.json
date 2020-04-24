@@ -1,6 +1,8 @@
 {
   "id": "zen-barrel",
-  "name": "Zen Barrel",
+  "name": {
+    "en-US": "Zen Barrel"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

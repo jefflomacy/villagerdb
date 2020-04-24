@@ -1,6 +1,8 @@
 {
   "id": "speaker",
-  "name": "Speaker",
+  "name": {
+    "en-US": "Speaker"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

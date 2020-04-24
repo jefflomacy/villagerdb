@@ -1,6 +1,8 @@
 {
   "id": "angled-signpost",
-  "name": "Angled Signpost",
+  "name": {
+    "en-US": "Angled Signpost"
+  },
   "games": {
     "nh": {
       "orderable": false,

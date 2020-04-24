@@ -1,6 +1,8 @@
 {
   "id": "red-striped-socks",
-  "name": "Red Striped Socks",
+  "name": {
+    "en-US": "Red Striped Socks"
+  },
   "category": "Socks",
   "games": {
     "nl": {

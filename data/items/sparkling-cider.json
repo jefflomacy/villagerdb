@@ -1,6 +1,8 @@
 {
   "id": "sparkling-cider",
-  "name": "Sparkling Cider",
+  "name": {
+    "en-US": "Sparkling Cider"
+  },
   "category": "Usables",
   "games": {
     "nl": {

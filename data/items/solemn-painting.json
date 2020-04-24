@@ -1,6 +1,8 @@
 {
   "id": "solemn-painting",
-  "name": "Solemn Painting",
+  "name": {
+    "en-US": "Solemn Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "earth-boring-dung-b-model",
-  "name": "Earth-boring Dung B. Model",
+  "name": {
+    "en-US": "Earth-boring Dung B. Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

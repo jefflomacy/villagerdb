@@ -1,6 +1,8 @@
 {
   "id": "construction-sign",
-  "name": "Construction Sign",
+  "name": {
+    "en-US": "Construction Sign"
+  },
   "games": {
     "nh": {
       "orderable": true,

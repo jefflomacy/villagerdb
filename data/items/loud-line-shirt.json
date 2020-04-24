@@ -1,6 +1,8 @@
 {
   "id": "loud-line-shirt",
-  "name": "Loud Line Shirt",
+  "name": {
+    "en-US": "Loud Line Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

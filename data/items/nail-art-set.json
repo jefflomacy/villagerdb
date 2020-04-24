@@ -1,6 +1,8 @@
 {
   "id": "nail-art-set",
-  "name": "Nail-art Set",
+  "name": {
+    "en-US": "Nail-art Set"
+  },
   "games": {
     "nh": {
       "orderable": true,

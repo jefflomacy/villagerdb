@@ -1,6 +1,8 @@
 {
   "id": "ancient-statue",
-  "name": "Ancient Statue",
+  "name": {
+    "en-US": "Ancient Statue"
+  },
   "category": "Art",
   "games": {
     "nl": {

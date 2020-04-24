@@ -1,6 +1,8 @@
 {
   "id": "raptor-model",
-  "name": "Raptor Model",
+  "name": {
+    "en-US": "Raptor Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

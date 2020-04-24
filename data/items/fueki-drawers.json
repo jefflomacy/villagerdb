@@ -1,6 +1,8 @@
 {
   "id": "fueki-drawers",
-  "name": "Fueki Drawers",
+  "name": {
+    "en-US": "Fueki Drawers"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "archelon-model",
-  "name": "Archelon Model",
+  "name": {
+    "en-US": "Archelon Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

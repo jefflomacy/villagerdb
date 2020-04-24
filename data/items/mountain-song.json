@@ -1,6 +1,8 @@
 {
   "id": "mountain-song",
-  "name": "Mountain Song",
+  "name": {
+    "en-US": "Mountain Song"
+  },
   "category": "Music",
   "games": {
     "nl": {

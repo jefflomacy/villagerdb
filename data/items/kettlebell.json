@@ -1,6 +1,8 @@
 {
   "id": "kettlebell",
-  "name": "Kettlebell",
+  "name": {
+    "en-US": "Kettlebell"
+  },
   "games": {
     "nh": {
       "orderable": false,

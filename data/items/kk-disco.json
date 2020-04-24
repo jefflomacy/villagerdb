@@ -1,6 +1,8 @@
 {
   "id": "kk-disco",
-  "name": "K.K. Disco",
+  "name": {
+    "en-US": "K.K. Disco"
+  },
   "category": "Music",
   "games": {
     "nl": {

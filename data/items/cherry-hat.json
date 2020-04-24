@@ -1,6 +1,8 @@
 {
   "id": "cherry-hat",
-  "name": "Cherry Hat",
+  "name": {
+    "en-US": "Cherry Hat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "accordion-screen",
-  "name": "Accordion Screen",
+  "name": {
+    "en-US": "Accordion Screen"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

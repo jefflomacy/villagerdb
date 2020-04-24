@@ -1,6 +1,8 @@
 {
   "id": "orange-wall",
-  "name": "Orange Wall",
+  "name": {
+    "en-US": "Orange Wall"
+  },
   "games": {
     "nh": {
       "customizable": false,

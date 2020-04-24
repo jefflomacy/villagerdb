@@ -1,6 +1,8 @@
 {
   "id": "cycling-shorts",
-  "name": "Cycling Shorts",
+  "name": {
+    "en-US": "Cycling Shorts"
+  },
   "games": {
     "nh": {
       "sellPrice": {

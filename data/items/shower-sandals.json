@@ -1,6 +1,8 @@
 {
   "id": "shower-sandals",
-  "name": "Shower Sandals",
+  "name": {
+    "en-US": "Shower Sandals"
+  },
   "games": {
     "nh": {
       "sellPrice": {

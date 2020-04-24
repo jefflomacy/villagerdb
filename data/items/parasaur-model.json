@@ -1,6 +1,8 @@
 {
   "id": "parasaur-model",
-  "name": "Parasaur Model",
+  "name": {
+    "en-US": "Parasaur Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

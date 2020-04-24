@@ -1,6 +1,8 @@
 {
   "id": "round-electric-sign",
-  "name": "Round Electric Sign",
+  "name": {
+    "en-US": "Round Electric Sign"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

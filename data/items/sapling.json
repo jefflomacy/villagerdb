@@ -1,6 +1,8 @@
 {
   "id": "sapling",
-  "name": "Sapling",
+  "name": {
+    "en-US": "Sapling"
+  },
   "category": "Usables",
   "games": {
     "nl": {

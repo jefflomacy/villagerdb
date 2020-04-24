@@ -1,6 +1,8 @@
 {
   "id": "kk-adventure",
-  "name": "K.K. Adventure",
+  "name": {
+    "en-US": "K.K. Adventure"
+  },
   "category": "Music",
   "games": {
     "nl": {

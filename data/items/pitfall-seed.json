@@ -1,6 +1,8 @@
 {
   "id": "pitfall-seed",
-  "name": "Pitfall Seed",
+  "name": {
+    "en-US": "Pitfall Seed"
+  },
   "category": "Usables",
   "games": {
     "nl": {

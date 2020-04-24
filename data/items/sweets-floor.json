@@ -1,6 +1,8 @@
 {
   "id": "sweets-floor",
-  "name": "Sweets Floor",
+  "name": {
+    "en-US": "Sweets Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

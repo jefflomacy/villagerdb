@@ -1,6 +1,8 @@
 {
   "id": "animal-city",
-  "name": "Animal City",
+  "name": {
+    "en-US": "Animal City"
+  },
   "games": {
     "nh": {
       "sellPrice": {

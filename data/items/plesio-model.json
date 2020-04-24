@@ -1,6 +1,8 @@
 {
   "id": "plesio-model",
-  "name": "Plesio Model",
+  "name": {
+    "en-US": "Plesio Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

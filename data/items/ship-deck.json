@@ -1,6 +1,8 @@
 {
   "id": "ship-deck",
-  "name": "Ship Deck",
+  "name": {
+    "en-US": "Ship Deck"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

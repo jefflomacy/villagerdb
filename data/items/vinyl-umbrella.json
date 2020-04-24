@@ -1,6 +1,8 @@
 {
   "id": "vinyl-umbrella",
-  "name": "Vinyl Umbrella",
+  "name": {
+    "en-US": "Vinyl Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

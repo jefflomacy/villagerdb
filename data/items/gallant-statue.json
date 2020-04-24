@@ -1,6 +1,8 @@
 {
   "id": "gallant-statue",
-  "name": "Gallant Statue",
+  "name": {
+    "en-US": "Gallant Statue"
+  },
   "category": "Art",
   "games": {
     "nl": {

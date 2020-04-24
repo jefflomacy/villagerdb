@@ -1,6 +1,8 @@
 {
   "id": "renaissance-dress",
-  "name": "Renaissance Dress",
+  "name": {
+    "en-US": "Renaissance Dress"
+  },
   "games": {
     "nh": {
       "orderable": true,

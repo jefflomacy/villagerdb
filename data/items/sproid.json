@@ -1,6 +1,8 @@
 {
   "id": "sproid",
-  "name": "Sproid",
+  "name": {
+    "en-US": "Sproid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

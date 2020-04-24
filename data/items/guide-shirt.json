@@ -1,6 +1,8 @@
 {
   "id": "guide-shirt",
-  "name": "Guide Shirt",
+  "name": {
+    "en-US": "Guide Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

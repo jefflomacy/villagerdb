@@ -1,6 +1,8 @@
 {
   "id": "apollos-poster",
-  "name": "Apollo's Poster",
+  "name": {
+    "en-US": "Apollo's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

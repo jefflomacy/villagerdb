@@ -1,6 +1,8 @@
 {
   "id": "space-kk",
-  "name": "Space K.K.",
+  "name": {
+    "en-US": "Space K.K."
+  },
   "category": "Music",
   "games": {
     "nl": {

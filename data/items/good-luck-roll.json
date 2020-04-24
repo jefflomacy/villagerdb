@@ -1,6 +1,8 @@
 {
   "id": "good-luck-roll",
-  "name": "Good-luck Roll",
+  "name": {
+    "en-US": "Good-luck Roll"
+  },
   "category": "Usables",
   "games": {
     "nl": {

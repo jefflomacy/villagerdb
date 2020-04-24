@@ -1,6 +1,8 @@
 {
   "id": "instant-muscles-suit",
-  "name": "Instant-muscles Suit",
+  "name": {
+    "en-US": "Instant-muscles Suit"
+  },
   "games": {
     "nh": {
       "sellPrice": {

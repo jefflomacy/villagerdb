@@ -1,6 +1,8 @@
 {
   "id": "red-carpet",
-  "name": "Red Carpet",
+  "name": {
+    "en-US": "Red Carpet"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "pleather-mask",
-  "name": "Pleather Mask",
+  "name": {
+    "en-US": "Pleather Mask"
+  },
   "games": {
     "nh": {
       "sellPrice": {

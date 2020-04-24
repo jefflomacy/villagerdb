@@ -1,6 +1,8 @@
 {
   "id": "croakoid",
-  "name": "Croakoid",
+  "name": {
+    "en-US": "Croakoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

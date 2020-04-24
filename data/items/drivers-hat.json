@@ -1,6 +1,8 @@
 {
   "id": "drivers-hat",
-  "name": "Driver's Hat",
+  "name": {
+    "en-US": "Driver's Hat"
+  },
   "category": "Hats",
   "games": {
     "nl": {

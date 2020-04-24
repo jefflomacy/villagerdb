@@ -1,6 +1,8 @@
 {
   "id": "public-telephone",
-  "name": "Public Telephone",
+  "name": {
+    "en-US": "Public Telephone"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

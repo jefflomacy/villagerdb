@@ -1,6 +1,8 @@
 {
   "id": "rustoid",
-  "name": "Rustoid",
+  "name": {
+    "en-US": "Rustoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

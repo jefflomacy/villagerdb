@@ -1,6 +1,8 @@
 {
   "id": "chic-windflower-wreath",
-  "name": "Chic Windflower Wreath",
+  "name": {
+    "en-US": "Chic Windflower Wreath"
+  },
   "games": {
     "nh": {
       "sellPrice": {

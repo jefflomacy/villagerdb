@@ -1,6 +1,8 @@
 {
   "id": "black-phone",
-  "name": "Black Phone",
+  "name": {
+    "en-US": "Black Phone"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "tuna",
-  "name": "Tuna",
+  "name": {
+    "en-US": "Tuna"
+  },
   "category": "Fish",
   "games": {
     "nl": {

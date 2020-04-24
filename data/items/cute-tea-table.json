@@ -1,6 +1,8 @@
 {
   "id": "cute-tea-table",
-  "name": "Cute Tea Table",
+  "name": {
+    "en-US": "Cute Tea Table"
+  },
   "games": {
     "nh": {
       "orderable": true,

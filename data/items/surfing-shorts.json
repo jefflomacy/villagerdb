@@ -1,6 +1,8 @@
 {
   "id": "surfing-shorts",
-  "name": "Surfing Shorts",
+  "name": {
+    "en-US": "Surfing Shorts"
+  },
   "games": {
     "nh": {
       "sellPrice": {

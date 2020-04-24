@@ -1,6 +1,8 @@
 {
   "id": "jointed-mat-flooring",
-  "name": "Jointed-mat Flooring",
+  "name": {
+    "en-US": "Jointed-mat Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

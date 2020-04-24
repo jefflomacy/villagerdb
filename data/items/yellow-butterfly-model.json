@@ -1,6 +1,8 @@
 {
   "id": "yellow-butterfly-model",
-  "name": "Yellow Butterfly Model",
+  "name": {
+    "en-US": "Yellow Butterfly Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "knit-cap-with-earflaps",
-  "name": "Knit Cap With Earflaps",
+  "name": {
+    "en-US": "Knit Cap With Earflaps"
+  },
   "games": {
     "nh": {
       "sellPrice": {

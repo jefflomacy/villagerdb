@@ -1,6 +1,8 @@
 {
   "id": "bistro-table",
-  "name": "Bistro Table",
+  "name": {
+    "en-US": "Bistro Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

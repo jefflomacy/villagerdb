@@ -1,6 +1,8 @@
 {
   "id": "futon-mattress",
-  "name": "Futon Mattress",
+  "name": {
+    "en-US": "Futon Mattress"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

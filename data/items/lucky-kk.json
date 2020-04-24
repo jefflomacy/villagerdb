@@ -1,6 +1,8 @@
 {
   "id": "lucky-kk",
-  "name": "Lucky K.K.",
+  "name": {
+    "en-US": "Lucky K.K."
+  },
   "category": "Music",
   "games": {
     "nl": {

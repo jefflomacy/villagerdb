@@ -1,6 +1,8 @@
 {
   "id": "quilted-tapestry",
-  "name": "Quilted Tapestry",
+  "name": {
+    "en-US": "Quilted Tapestry"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

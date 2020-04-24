@@ -1,6 +1,8 @@
 {
   "id": "witchs-robe",
-  "name": "Witch's Robe",
+  "name": {
+    "en-US": "Witch's Robe"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

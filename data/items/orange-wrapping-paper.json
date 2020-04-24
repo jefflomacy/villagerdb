@@ -1,6 +1,8 @@
 {
   "id": "orange-wrapping-paper",
-  "name": "Orange Wrapping Paper",
+  "name": {
+    "en-US": "Orange Wrapping Paper"
+  },
   "games": {
     "nh": {
       "sellPrice": {

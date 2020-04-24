@@ -1,6 +1,8 @@
 {
   "id": "francines-poster",
-  "name": "Francine's Poster",
+  "name": {
+    "en-US": "Francine's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

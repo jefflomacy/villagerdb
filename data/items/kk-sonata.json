@@ -1,6 +1,8 @@
 {
   "id": "kk-sonata",
-  "name": "K.K. Sonata",
+  "name": {
+    "en-US": "K.K. Sonata"
+  },
   "category": "Music",
   "games": {
     "nl": {

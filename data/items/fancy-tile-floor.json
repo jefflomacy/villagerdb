@@ -1,6 +1,8 @@
 {
   "id": "fancy-tile-floor",
-  "name": "Fancy Tile Floor",
+  "name": {
+    "en-US": "Fancy Tile Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

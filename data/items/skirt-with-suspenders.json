@@ -1,6 +1,8 @@
 {
   "id": "skirt-with-suspenders",
-  "name": "Skirt With Suspenders",
+  "name": {
+    "en-US": "Skirt With Suspenders"
+  },
   "games": {
     "nh": {
       "orderable": true,

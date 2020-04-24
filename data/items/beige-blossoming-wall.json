@@ -1,6 +1,8 @@
 {
   "id": "beige-blossoming-wall",
-  "name": "Beige Blossoming Wall",
+  "name": {
+    "en-US": "Beige Blossoming Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

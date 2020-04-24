@@ -1,6 +1,8 @@
 {
   "id": "moray-eel",
-  "name": "Moray Eel",
+  "name": {
+    "en-US": "Moray Eel"
+  },
   "category": "Fish",
   "games": {
     "nl": {

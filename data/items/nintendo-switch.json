@@ -1,6 +1,8 @@
 {
   "id": "nintendo-switch",
-  "name": "Nintendo Switch",
+  "name": {
+    "en-US": "Nintendo Switch"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "rusted-part",
-  "name": "Rusted Part",
+  "name": {
+    "en-US": "Rusted Part"
+  },
   "games": {
     "nh": {
       "orderable": false,

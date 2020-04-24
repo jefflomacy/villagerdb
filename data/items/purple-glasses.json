@@ -1,6 +1,8 @@
 {
   "id": "purple-glasses",
-  "name": "Purple Glasses",
+  "name": {
+    "en-US": "Purple Glasses"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

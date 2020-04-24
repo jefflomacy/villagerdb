@@ -1,6 +1,8 @@
 {
   "id": "rain-hat",
-  "name": "Rain Hat",
+  "name": {
+    "en-US": "Rain Hat"
+  },
   "games": {
     "nh": {
       "orderable": true,

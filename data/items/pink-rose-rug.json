@@ -1,6 +1,8 @@
 {
   "id": "pink-rose-rug",
-  "name": "Pink Rose Rug",
+  "name": {
+    "en-US": "Pink Rose Rug"
+  },
   "games": {
     "nh": {
       "sources": [

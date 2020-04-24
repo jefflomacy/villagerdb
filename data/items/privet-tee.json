@@ -1,6 +1,8 @@
 {
   "id": "privet-tee",
-  "name": "Privét Tee",
+  "name": {
+    "en-US": "Privét Tee"
+  },
   "games": {
     "nh": {
       "sellPrice": {

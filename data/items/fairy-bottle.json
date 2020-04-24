@@ -1,6 +1,8 @@
 {
   "id": "fairy-bottle",
-  "name": "Fairy Bottle",
+  "name": {
+    "en-US": "Fairy Bottle"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

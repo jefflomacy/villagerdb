@@ -1,6 +1,8 @@
 {
   "id": "bamboo-grove-wall",
-  "name": "Bamboo-grove Wall",
+  "name": {
+    "en-US": "Bamboo-grove Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

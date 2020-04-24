@@ -1,6 +1,8 @@
 {
   "id": "pink-painted-wood-wall",
-  "name": "Pink Painted-wood Wall",
+  "name": {
+    "en-US": "Pink Painted-wood Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

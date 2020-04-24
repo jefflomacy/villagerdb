@@ -1,6 +1,8 @@
 {
   "id": "moms-playful-kitchen-mat",
-  "name": "Mom's Playful Kitchen Mat",
+  "name": {
+    "en-US": "Mom's Playful Kitchen Mat"
+  },
   "games": {
     "nh": {
       "sources": [

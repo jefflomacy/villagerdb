@@ -1,6 +1,8 @@
 {
   "id": "ancient-wall",
-  "name": "Ancient Wall",
+  "name": {
+    "en-US": "Ancient Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

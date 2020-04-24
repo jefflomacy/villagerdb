@@ -1,6 +1,8 @@
 {
   "id": "standing-tv",
-  "name": "Standing TV",
+  "name": {
+    "en-US": "Standing TV"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

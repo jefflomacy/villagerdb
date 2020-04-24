@@ -1,6 +1,8 @@
 {
   "id": "old-fashioned-washtub",
-  "name": "Old-fashioned Washtub",
+  "name": {
+    "en-US": "Old-fashioned Washtub"
+  },
   "games": {
     "nh": {
       "orderable": false,

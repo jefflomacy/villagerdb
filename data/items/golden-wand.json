@@ -1,6 +1,8 @@
 {
   "id": "golden-wand",
-  "name": "Golden Wand",
+  "name": {
+    "en-US": "Golden Wand"
+  },
   "games": {
     "nh": {
       "orderable": false,

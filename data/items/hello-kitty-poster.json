@@ -1,6 +1,8 @@
 {
   "id": "hello-kitty-poster",
-  "name": "Hello Kitty Poster",
+  "name": {
+    "en-US": "Hello Kitty Poster"
+  },
   "games": {
     "nh": {
       "sources": [

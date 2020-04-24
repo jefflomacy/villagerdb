@@ -1,6 +1,8 @@
 {
   "id": "bb-shirt",
-  "name": "BB Shirt",
+  "name": {
+    "en-US": "BB Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

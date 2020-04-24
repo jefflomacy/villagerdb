@@ -1,6 +1,8 @@
 {
   "id": "yellow-small-round-mat",
-  "name": "Yellow Small Round Mat",
+  "name": {
+    "en-US": "Yellow Small Round Mat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "faux-fur-hat",
-  "name": "Faux-fur Hat",
+  "name": {
+    "en-US": "Faux-fur Hat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

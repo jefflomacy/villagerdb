@@ -1,6 +1,8 @@
 {
   "id": "butterfly-shirt",
-  "name": "Butterfly Shirt",
+  "name": {
+    "en-US": "Butterfly Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

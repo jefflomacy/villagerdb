@@ -1,6 +1,8 @@
 {
   "id": "tippers-poster",
-  "name": "Tipper's Poster",
+  "name": {
+    "en-US": "Tipper's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

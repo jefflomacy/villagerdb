@@ -1,6 +1,8 @@
 {
   "id": "tiny-shades",
-  "name": "Tiny Shades",
+  "name": {
+    "en-US": "Tiny Shades"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

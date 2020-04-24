@@ -1,6 +1,8 @@
 {
   "id": "shaded-floor-lamp",
-  "name": "Shaded Floor Lamp",
+  "name": {
+    "en-US": "Shaded Floor Lamp"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "ant-farm",
-  "name": "Ant Farm",
+  "name": {
+    "en-US": "Ant Farm"
+  },
   "games": {
     "nh": {
       "orderable": true,

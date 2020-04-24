@@ -1,6 +1,8 @@
 {
   "id": "poncho",
-  "name": "Poncho",
+  "name": {
+    "en-US": "Poncho"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

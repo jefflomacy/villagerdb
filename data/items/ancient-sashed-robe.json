@@ -1,6 +1,8 @@
 {
   "id": "ancient-sashed-robe",
-  "name": "Ancient Sashed Robe",
+  "name": {
+    "en-US": "Ancient Sashed Robe"
+  },
   "games": {
     "nh": {
       "sellPrice": {

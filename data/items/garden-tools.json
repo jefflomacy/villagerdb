@@ -1,6 +1,8 @@
 {
   "id": "garden-tools",
-  "name": "Garden Tools",
+  "name": {
+    "en-US": "Garden Tools"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

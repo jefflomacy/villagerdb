@@ -1,6 +1,8 @@
 {
   "id": "paintball-flooring",
-  "name": "Paintball Flooring",
+  "name": {
+    "en-US": "Paintball Flooring"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "dazed-dress",
-  "name": "Dazed Dress",
+  "name": {
+    "en-US": "Dazed Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

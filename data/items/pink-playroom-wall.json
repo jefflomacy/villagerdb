@@ -1,6 +1,8 @@
 {
   "id": "pink-playroom-wall",
-  "name": "Pink Playroom Wall",
+  "name": {
+    "en-US": "Pink Playroom Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

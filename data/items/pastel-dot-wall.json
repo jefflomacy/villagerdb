@@ -1,6 +1,8 @@
 {
   "id": "pastel-dot-wall",
-  "name": "Pastel-dot Wall",
+  "name": {
+    "en-US": "Pastel-dot Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

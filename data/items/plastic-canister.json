@@ -1,6 +1,8 @@
 {
   "id": "plastic-canister",
-  "name": "Plastic Canister",
+  "name": {
+    "en-US": "Plastic Canister"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

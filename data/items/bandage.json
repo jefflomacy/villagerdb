@@ -1,6 +1,8 @@
 {
   "id": "bandage",
-  "name": "Bandage",
+  "name": {
+    "en-US": "Bandage"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

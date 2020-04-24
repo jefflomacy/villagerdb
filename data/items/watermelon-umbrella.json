@@ -1,6 +1,8 @@
 {
   "id": "watermelon-umbrella",
-  "name": "Watermelon Umbrella",
+  "name": {
+    "en-US": "Watermelon Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "koi",
-  "name": "Koi",
+  "name": {
+    "en-US": "Koi"
+  },
   "category": "Fish",
   "games": {
     "nl": {

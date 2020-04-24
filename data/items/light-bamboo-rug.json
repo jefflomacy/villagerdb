@@ -1,6 +1,8 @@
 {
   "id": "light-bamboo-rug",
-  "name": "Light Bamboo Rug",
+  "name": {
+    "en-US": "Light Bamboo Rug"
+  },
   "games": {
     "nh": {
       "orderable": false,

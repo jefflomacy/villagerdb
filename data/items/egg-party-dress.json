@@ -1,6 +1,8 @@
 {
   "id": "egg-party-dress",
-  "name": "Egg Party Dress",
+  "name": {
+    "en-US": "Egg Party Dress"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "croques-poster",
-  "name": "Croque's Poster",
+  "name": {
+    "en-US": "Croque's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

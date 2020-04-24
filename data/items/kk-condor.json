@@ -1,6 +1,8 @@
 {
   "id": "kk-condor",
-  "name": "K.K. Condor",
+  "name": {
+    "en-US": "K.K. Condor"
+  },
   "category": "Music",
   "games": {
     "nl": {

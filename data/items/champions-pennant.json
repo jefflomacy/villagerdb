@@ -1,6 +1,8 @@
 {
   "id": "champions-pennant",
-  "name": "Champion's Pennant",
+  "name": {
+    "en-US": "Champion's Pennant"
+  },
   "games": {
     "nh": {
       "orderable": true,

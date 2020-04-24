@@ -1,6 +1,8 @@
 {
   "id": "bangles-poster",
-  "name": "Bangle's Poster",
+  "name": {
+    "en-US": "Bangle's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

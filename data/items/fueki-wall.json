@@ -1,6 +1,8 @@
 {
   "id": "fueki-wall",
-  "name": "Fueki Wall",
+  "name": {
+    "en-US": "Fueki Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

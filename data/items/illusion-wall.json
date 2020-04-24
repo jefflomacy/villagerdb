@@ -1,6 +1,8 @@
 {
   "id": "illusion-wall",
-  "name": "Illusion Wall",
+  "name": {
+    "en-US": "Illusion Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

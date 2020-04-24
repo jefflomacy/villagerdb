@@ -1,6 +1,8 @@
 {
   "id": "beige-desert-tile-flooring",
-  "name": "Beige Desert-tile Flooring",
+  "name": {
+    "en-US": "Beige Desert-tile Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

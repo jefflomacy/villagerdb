@@ -1,6 +1,8 @@
 {
   "id": "flos-poster",
-  "name": "Flo's Poster",
+  "name": {
+    "en-US": "Flo's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

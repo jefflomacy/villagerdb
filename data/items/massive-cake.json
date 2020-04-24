@@ -1,6 +1,8 @@
 {
   "id": "massive-cake",
-  "name": "Massive Cake",
+  "name": {
+    "en-US": "Massive Cake"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

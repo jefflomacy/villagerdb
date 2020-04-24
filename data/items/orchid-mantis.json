@@ -1,6 +1,8 @@
 {
   "id": "orchid-mantis",
-  "name": "Orchid Mantis",
+  "name": {
+    "en-US": "Orchid Mantis"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

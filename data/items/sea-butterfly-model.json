@@ -1,6 +1,8 @@
 {
   "id": "sea-butterfly-model",
-  "name": "Sea Butterfly Model",
+  "name": {
+    "en-US": "Sea Butterfly Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

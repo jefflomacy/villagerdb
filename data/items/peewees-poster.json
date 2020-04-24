@@ -1,6 +1,8 @@
 {
   "id": "peewees-poster",
-  "name": "Peewee's Poster",
+  "name": {
+    "en-US": "Peewee's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

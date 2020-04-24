@@ -1,6 +1,8 @@
 {
   "id": "stripe-wall",
-  "name": "Stripe Wall",
+  "name": {
+    "en-US": "Stripe Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

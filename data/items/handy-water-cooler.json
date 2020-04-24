@@ -1,6 +1,8 @@
 {
   "id": "handy-water-cooler",
-  "name": "Handy Water Cooler",
+  "name": {
+    "en-US": "Handy Water Cooler"
+  },
   "games": {
     "nh": {
       "sellPrice": {

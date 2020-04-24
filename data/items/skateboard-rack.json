@@ -1,6 +1,8 @@
 {
   "id": "skateboard-rack",
-  "name": "Skateboard Rack",
+  "name": {
+    "en-US": "Skateboard Rack"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "hornsbys-poster",
-  "name": "Hornsby's Poster",
+  "name": {
+    "en-US": "Hornsby's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

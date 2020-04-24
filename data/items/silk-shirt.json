@@ -1,6 +1,8 @@
 {
   "id": "silk-shirt",
-  "name": "Silk Shirt",
+  "name": {
+    "en-US": "Silk Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

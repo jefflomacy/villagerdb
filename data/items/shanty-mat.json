@@ -1,6 +1,8 @@
 {
   "id": "shanty-mat",
-  "name": "Shanty Mat",
+  "name": {
+    "en-US": "Shanty Mat"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

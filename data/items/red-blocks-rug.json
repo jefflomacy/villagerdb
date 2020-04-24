@@ -1,6 +1,8 @@
 {
   "id": "red-blocks-rug",
-  "name": "Red Blocks Rug",
+  "name": {
+    "en-US": "Red Blocks Rug"
+  },
   "games": {
     "nh": {
       "sources": [

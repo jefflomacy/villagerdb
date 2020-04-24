@@ -1,6 +1,8 @@
 {
   "id": "diplo-tail-tip",
-  "name": "Diplo Tail Tip",
+  "name": {
+    "en-US": "Diplo Tail Tip"
+  },
   "games": {
     "nh": {
       "orderable": false,

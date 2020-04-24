@@ -1,6 +1,8 @@
 {
   "id": "blue-camo-flooring",
-  "name": "Blue Camo Flooring",
+  "name": {
+    "en-US": "Blue Camo Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

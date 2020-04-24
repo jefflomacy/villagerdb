@@ -1,6 +1,8 @@
 {
   "id": "ornament-mobile",
-  "name": "Ornament Mobile",
+  "name": {
+    "en-US": "Ornament Mobile"
+  },
   "games": {
     "nh": {
       "sellPrice": {

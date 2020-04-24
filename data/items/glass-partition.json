@@ -1,6 +1,8 @@
 {
   "id": "glass-partition",
-  "name": "Glass Partition",
+  "name": {
+    "en-US": "Glass Partition"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

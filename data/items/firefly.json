@@ -1,6 +1,8 @@
 {
   "id": "firefly",
-  "name": "Firefly",
+  "name": {
+    "en-US": "Firefly"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

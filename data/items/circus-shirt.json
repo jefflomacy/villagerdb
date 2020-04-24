@@ -1,6 +1,8 @@
 {
   "id": "circus-shirt",
-  "name": "Circus Shirt",
+  "name": {
+    "en-US": "Circus Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

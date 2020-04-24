@@ -1,6 +1,8 @@
 {
   "id": "silver-mic",
-  "name": "Silver Mic",
+  "name": {
+    "en-US": "Silver Mic"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

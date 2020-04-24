@@ -1,6 +1,8 @@
 {
   "id": "front-tie-button-down-shirt",
-  "name": "Front-tie Button-down Shirt",
+  "name": {
+    "en-US": "Front-tie Button-down Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

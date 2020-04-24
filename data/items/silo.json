@@ -1,6 +1,8 @@
 {
   "id": "silo",
-  "name": "Silo",
+  "name": {
+    "en-US": "Silo"
+  },
   "games": {
     "nh": {
       "sources": [

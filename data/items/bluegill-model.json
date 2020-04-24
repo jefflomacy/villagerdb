@@ -1,6 +1,8 @@
 {
   "id": "bluegill-model",
-  "name": "Bluegill Model",
+  "name": {
+    "en-US": "Bluegill Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

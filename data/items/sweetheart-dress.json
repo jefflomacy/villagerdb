@@ -1,6 +1,8 @@
 {
   "id": "sweetheart-dress",
-  "name": "Sweetheart Dress",
+  "name": {
+    "en-US": "Sweetheart Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

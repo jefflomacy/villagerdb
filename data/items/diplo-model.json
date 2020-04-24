@@ -1,6 +1,8 @@
 {
   "id": "diplo-model",
-  "name": "Diplo Model",
+  "name": {
+    "en-US": "Diplo Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

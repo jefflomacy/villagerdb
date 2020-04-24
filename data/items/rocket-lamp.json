@@ -1,6 +1,8 @@
 {
   "id": "rocket-lamp",
-  "name": "Rocket Lamp",
+  "name": {
+    "en-US": "Rocket Lamp"
+  },
   "games": {
     "nh": {
       "orderable": true,

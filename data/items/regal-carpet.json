@@ -1,6 +1,8 @@
 {
   "id": "regal-carpet",
-  "name": "Regal Carpet",
+  "name": {
+    "en-US": "Regal Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

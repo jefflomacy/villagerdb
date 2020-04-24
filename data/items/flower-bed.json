@@ -1,6 +1,8 @@
 {
   "id": "flower-bed",
-  "name": "Flower Bed",
+  "name": {
+    "en-US": "Flower Bed"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "tiger-butterfly",
-  "name": "Tiger Butterfly",
+  "name": {
+    "en-US": "Tiger Butterfly"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

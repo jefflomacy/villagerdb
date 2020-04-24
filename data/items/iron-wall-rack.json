@@ -1,6 +1,8 @@
 {
   "id": "iron-wall-rack",
-  "name": "Iron Wall Rack",
+  "name": {
+    "en-US": "Iron Wall Rack"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "security-uniform",
-  "name": "Security Uniform",
+  "name": {
+    "en-US": "Security Uniform"
+  },
   "games": {
     "nh": {
       "sellPrice": {

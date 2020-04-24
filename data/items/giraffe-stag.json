@@ -1,6 +1,8 @@
 {
   "id": "giraffe-stag",
-  "name": "Giraffe Stag",
+  "name": {
+    "en-US": "Giraffe Stag"
+  },
   "games": {
     "nh": {
       "orderable": false,

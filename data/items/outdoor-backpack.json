@@ -1,6 +1,8 @@
 {
   "id": "outdoor-backpack",
-  "name": "Outdoor Backpack",
+  "name": {
+    "en-US": "Outdoor Backpack"
+  },
   "games": {
     "nh": {
       "sellPrice": {

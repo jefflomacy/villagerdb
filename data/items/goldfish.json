@@ -1,6 +1,8 @@
 {
   "id": "goldfish",
-  "name": "Goldfish",
+  "name": {
+    "en-US": "Goldfish"
+  },
   "category": "Fish",
   "games": {
     "nl": {

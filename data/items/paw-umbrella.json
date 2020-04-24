@@ -1,6 +1,8 @@
 {
   "id": "paw-umbrella",
-  "name": "Paw Umbrella",
+  "name": {
+    "en-US": "Paw Umbrella"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

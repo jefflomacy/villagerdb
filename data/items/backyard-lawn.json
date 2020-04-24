@@ -1,6 +1,8 @@
 {
   "id": "backyard-lawn",
-  "name": "Backyard Lawn",
+  "name": {
+    "en-US": "Backyard Lawn"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

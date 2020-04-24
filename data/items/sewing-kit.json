@@ -1,6 +1,8 @@
 {
   "id": "sewing-kit",
-  "name": "Sewing Kit",
+  "name": {
+    "en-US": "Sewing Kit"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

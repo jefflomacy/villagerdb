@@ -1,6 +1,8 @@
 {
   "id": "kk-moody",
-  "name": "K.K. Moody",
+  "name": {
+    "en-US": "K.K. Moody"
+  },
   "category": "Music",
   "games": {
     "nl": {

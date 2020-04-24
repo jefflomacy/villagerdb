@@ -1,6 +1,8 @@
 {
   "id": "cousteaus-photo",
-  "name": "Cousteau's Photo",
+  "name": {
+    "en-US": "Cousteau's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

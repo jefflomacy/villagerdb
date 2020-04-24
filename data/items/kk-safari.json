@@ -1,6 +1,8 @@
 {
   "id": "kk-safari",
-  "name": "K.K. Safari",
+  "name": {
+    "en-US": "K.K. Safari"
+  },
   "category": "Music",
   "games": {
     "nl": {

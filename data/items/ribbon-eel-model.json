@@ -1,6 +1,8 @@
 {
   "id": "ribbon-eel-model",
-  "name": "Ribbon Eel Model",
+  "name": {
+    "en-US": "Ribbon Eel Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

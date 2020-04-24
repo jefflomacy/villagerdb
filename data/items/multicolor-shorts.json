@@ -1,6 +1,8 @@
 {
   "id": "multicolor-shorts",
-  "name": "Multicolor Shorts",
+  "name": {
+    "en-US": "Multicolor Shorts"
+  },
   "games": {
     "nh": {
       "sellPrice": {

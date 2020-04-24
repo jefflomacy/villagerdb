@@ -1,6 +1,8 @@
 {
   "id": "re-tail-clock",
-  "name": "Re-Tail Clock",
+  "name": {
+    "en-US": "Re-Tail Clock"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

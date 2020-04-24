@@ -1,6 +1,8 @@
 {
   "id": "durian",
-  "name": "Durian",
+  "name": {
+    "en-US": "Durian"
+  },
   "category": "Fruit",
   "games": {
     "nl": {

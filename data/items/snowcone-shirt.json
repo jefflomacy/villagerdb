@@ -1,6 +1,8 @@
 {
   "id": "snowcone-shirt",
-  "name": "Snowcone Shirt",
+  "name": {
+    "en-US": "Snowcone Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

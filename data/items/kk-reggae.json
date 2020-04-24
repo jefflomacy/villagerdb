@@ -1,6 +1,8 @@
 {
   "id": "kk-reggae",
-  "name": "K.K. Reggae",
+  "name": {
+    "en-US": "K.K. Reggae"
+  },
   "category": "Music",
   "games": {
     "nl": {

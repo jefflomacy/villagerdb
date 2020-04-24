@@ -1,6 +1,8 @@
 {
   "id": "sweet-olive-start",
-  "name": "Sweet-olive Start",
+  "name": {
+    "en-US": "Sweet-olive Start"
+  },
   "category": "Trees",
   "games": {
     "nl": {

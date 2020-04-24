@@ -1,6 +1,8 @@
 {
   "id": "camo-skirt",
-  "name": "Camo Skirt",
+  "name": {
+    "en-US": "Camo Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

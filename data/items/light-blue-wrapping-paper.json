@@ -1,6 +1,8 @@
 {
   "id": "light-blue-wrapping-paper",
-  "name": "Light-blue Wrapping Paper",
+  "name": {
+    "en-US": "Light-blue Wrapping Paper"
+  },
   "games": {
     "nh": {
       "sellPrice": {

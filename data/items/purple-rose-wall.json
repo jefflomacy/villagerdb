@@ -1,6 +1,8 @@
 {
   "id": "purple-rose-wall",
-  "name": "Purple-rose Wall",
+  "name": {
+    "en-US": "Purple-rose Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "party-popper",
-  "name": "Party Popper",
+  "name": {
+    "en-US": "Party Popper"
+  },
   "category": "Usables",
   "games": {
     "nl": {

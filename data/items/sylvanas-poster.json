@@ -1,6 +1,8 @@
 {
   "id": "sylvanas-poster",
-  "name": "Sylvana's Poster",
+  "name": {
+    "en-US": "Sylvana's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

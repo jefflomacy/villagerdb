@@ -1,6 +1,8 @@
 {
   "id": "sepia-puzzle-wall",
-  "name": "Sepia Puzzle Wall",
+  "name": {
+    "en-US": "Sepia Puzzle Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "nooks-homes-car",
-  "name": "Nook's Homes Car",
+  "name": {
+    "en-US": "Nook's Homes Car"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

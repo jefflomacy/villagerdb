@@ -1,6 +1,8 @@
 {
   "id": "pitcher-plant",
-  "name": "Pitcher Plant",
+  "name": {
+    "en-US": "Pitcher Plant"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

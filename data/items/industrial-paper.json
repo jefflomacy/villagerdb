@@ -1,6 +1,8 @@
 {
   "id": "industrial-paper",
-  "name": "Industrial Paper",
+  "name": {
+    "en-US": "Industrial Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

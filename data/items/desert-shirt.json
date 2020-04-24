@@ -1,6 +1,8 @@
 {
   "id": "desert-shirt",
-  "name": "Desert Shirt",
+  "name": {
+    "en-US": "Desert Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

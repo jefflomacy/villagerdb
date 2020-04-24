@@ -1,6 +1,8 @@
 {
   "id": "centipede",
-  "name": "Centipede",
+  "name": {
+    "en-US": "Centipede"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

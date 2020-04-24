@@ -1,6 +1,8 @@
 {
   "id": "tartan-rug",
-  "name": "Tartan Rug",
+  "name": {
+    "en-US": "Tartan Rug"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

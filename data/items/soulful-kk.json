@@ -1,6 +1,8 @@
 {
   "id": "soulful-kk",
-  "name": "Soulful K.K.",
+  "name": {
+    "en-US": "Soulful K.K."
+  },
   "category": "Music",
   "games": {
     "nl": {

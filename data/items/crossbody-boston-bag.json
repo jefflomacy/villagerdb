@@ -1,6 +1,8 @@
 {
   "id": "crossbody-boston-bag",
-  "name": "Crossbody Boston Bag",
+  "name": {
+    "en-US": "Crossbody Boston Bag"
+  },
   "games": {
     "nh": {
       "sellPrice": {

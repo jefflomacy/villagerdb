@@ -1,6 +1,8 @@
 {
   "id": "imperial-chair",
-  "name": "Imperial Chair",
+  "name": {
+    "en-US": "Imperial Chair"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

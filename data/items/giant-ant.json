@@ -1,6 +1,8 @@
 {
   "id": "giant-ant",
-  "name": "Giant Ant",
+  "name": {
+    "en-US": "Giant Ant"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

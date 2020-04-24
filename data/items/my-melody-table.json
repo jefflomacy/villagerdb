@@ -1,6 +1,8 @@
 {
   "id": "my-melody-table",
-  "name": "My Melody Table",
+  "name": {
+    "en-US": "My Melody Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

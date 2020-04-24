@@ -1,6 +1,8 @@
 {
   "id": "gigis-poster",
-  "name": "Gigi's Poster",
+  "name": {
+    "en-US": "Gigi's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

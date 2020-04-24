@@ -1,6 +1,8 @@
 {
   "id": "tranquil-bridge",
-  "name": "Tranquil Bridge",
+  "name": {
+    "en-US": "Tranquil Bridge"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

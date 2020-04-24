@@ -1,6 +1,8 @@
 {
   "id": "trench-coat",
-  "name": "Trench Coat",
+  "name": {
+    "en-US": "Trench Coat"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "mushroom-mural",
-  "name": "Mushroom Mural",
+  "name": {
+    "en-US": "Mushroom Mural"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

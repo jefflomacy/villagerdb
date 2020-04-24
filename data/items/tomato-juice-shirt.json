@@ -1,6 +1,8 @@
 {
   "id": "tomato-juice-shirt",
-  "name": "Tomato Juice Shirt",
+  "name": {
+    "en-US": "Tomato Juice Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "petal-skirt",
-  "name": "Petal Skirt",
+  "name": {
+    "en-US": "Petal Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

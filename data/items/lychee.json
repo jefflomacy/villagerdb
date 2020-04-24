@@ -1,6 +1,8 @@
 {
   "id": "lychee",
-  "name": "Lychee",
+  "name": {
+    "en-US": "Lychee"
+  },
   "category": "Fruit",
   "games": {
     "nl": {

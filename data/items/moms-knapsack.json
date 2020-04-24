@@ -1,6 +1,8 @@
 {
   "id": "moms-knapsack",
-  "name": "Mom's Knapsack",
+  "name": {
+    "en-US": "Mom's Knapsack"
+  },
   "games": {
     "nh": {
       "orderable": false,

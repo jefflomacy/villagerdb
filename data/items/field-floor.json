@@ -1,6 +1,8 @@
 {
   "id": "field-floor",
-  "name": "Field Floor",
+  "name": {
+    "en-US": "Field Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

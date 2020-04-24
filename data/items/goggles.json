@@ -1,6 +1,8 @@
 {
   "id": "goggles",
-  "name": "Goggles",
+  "name": {
+    "en-US": "Goggles"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "kitchen-counter",
-  "name": "Kitchen Counter",
+  "name": {
+    "en-US": "Kitchen Counter"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

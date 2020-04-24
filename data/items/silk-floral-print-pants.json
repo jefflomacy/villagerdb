@@ -1,6 +1,8 @@
 {
   "id": "silk-floral-print-pants",
-  "name": "Silk Floral-print Pants",
+  "name": {
+    "en-US": "Silk Floral-print Pants"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "giant-cicada",
-  "name": "Giant Cicada",
+  "name": {
+    "en-US": "Giant Cicada"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

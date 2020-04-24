@@ -1,6 +1,8 @@
 {
   "id": "cowhide-rug",
-  "name": "Cowhide Rug",
+  "name": {
+    "en-US": "Cowhide Rug"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

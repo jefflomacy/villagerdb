@@ -1,6 +1,8 @@
 {
   "id": "nook-inc-flooring",
-  "name": "Nook Inc. Flooring",
+  "name": {
+    "en-US": "Nook Inc. Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

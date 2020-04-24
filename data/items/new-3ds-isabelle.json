@@ -1,6 +1,8 @@
 {
   "id": "new-3ds-isabelle",
-  "name": "New 3DS - Isabelle",
+  "name": {
+    "en-US": "New 3DS - Isabelle"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

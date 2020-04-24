@@ -1,6 +1,8 @@
 {
   "id": "lacy-rug",
-  "name": "Lacy Rug",
+  "name": {
+    "en-US": "Lacy Rug"
+  },
   "games": {
     "nh": {
       "sources": [

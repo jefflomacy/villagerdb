@@ -1,6 +1,8 @@
 {
   "id": "super-sea-snail",
-  "name": "Super Sea Snail",
+  "name": {
+    "en-US": "Super Sea Snail"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

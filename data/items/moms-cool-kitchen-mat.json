@@ -1,6 +1,8 @@
 {
   "id": "moms-cool-kitchen-mat",
-  "name": "Mom's Cool Kitchen Mat",
+  "name": {
+    "en-US": "Mom's Cool Kitchen Mat"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "pacifier",
-  "name": "Pacifier",
+  "name": {
+    "en-US": "Pacifier"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

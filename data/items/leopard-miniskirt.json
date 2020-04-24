@@ -1,6 +1,8 @@
 {
   "id": "leopard-miniskirt",
-  "name": "Leopard Miniskirt",
+  "name": {
+    "en-US": "Leopard Miniskirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

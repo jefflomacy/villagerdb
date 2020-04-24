@@ -1,6 +1,8 @@
 {
   "id": "ramshackle-wall",
-  "name": "Ramshackle Wall",
+  "name": {
+    "en-US": "Ramshackle Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

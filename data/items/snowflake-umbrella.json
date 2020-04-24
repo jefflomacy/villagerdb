@@ -1,6 +1,8 @@
 {
   "id": "snowflake-umbrella",
-  "name": "Snowflake Umbrella",
+  "name": {
+    "en-US": "Snowflake Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

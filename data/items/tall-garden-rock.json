@@ -1,6 +1,8 @@
 {
   "id": "tall-garden-rock",
-  "name": "Tall Garden Rock",
+  "name": {
+    "en-US": "Tall Garden Rock"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

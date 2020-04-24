@@ -1,6 +1,8 @@
 {
   "id": "lcd-tv-20-in",
-  "name": "Lcd Tv (20 In.)",
+  "name": {
+    "en-US": "Lcd Tv (20 In.)"
+  },
   "games": {
     "nh": {
       "sellPrice": {

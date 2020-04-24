@@ -1,6 +1,8 @@
 {
   "id": "fortune-cookie-cart",
-  "name": "Fortune-cookie Cart",
+  "name": {
+    "en-US": "Fortune-cookie Cart"
+  },
   "games": {
     "nh": {
       "sellPrice": {

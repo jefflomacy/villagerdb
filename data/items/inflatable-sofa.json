@@ -1,6 +1,8 @@
 {
   "id": "inflatable-sofa",
-  "name": "Inflatable Sofa",
+  "name": {
+    "en-US": "Inflatable Sofa"
+  },
   "games": {
     "nh": {
       "orderable": true,

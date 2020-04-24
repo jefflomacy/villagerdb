@@ -1,6 +1,8 @@
 {
   "id": "my-melody-poster",
-  "name": "My Melody Poster",
+  "name": {
+    "en-US": "My Melody Poster"
+  },
   "games": {
     "nh": {
       "sources": [

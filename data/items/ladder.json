@@ -1,6 +1,8 @@
 {
   "id": "ladder",
-  "name": "Ladder",
+  "name": {
+    "en-US": "Ladder"
+  },
   "games": {
     "nh": {
       "orderable": false,

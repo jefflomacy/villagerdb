@@ -1,6 +1,8 @@
 {
   "id": "hello-kitty-outfit",
-  "name": "Hello Kitty Outfit",
+  "name": {
+    "en-US": "Hello Kitty Outfit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

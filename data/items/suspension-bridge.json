@@ -1,6 +1,8 @@
 {
   "id": "suspension-bridge",
-  "name": "Suspension Bridge",
+  "name": {
+    "en-US": "Suspension Bridge"
+  },
   "games": {
     "nh": {
       "buyPrices": [

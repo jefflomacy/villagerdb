@@ -1,6 +1,8 @@
 {
   "id": "orange-tulip",
-  "name": "Orange Tulip",
+  "name": {
+    "en-US": "Orange Tulip"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

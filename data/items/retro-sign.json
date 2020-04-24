@@ -1,6 +1,8 @@
 {
   "id": "retro-sign",
-  "name": "Retro Sign",
+  "name": {
+    "en-US": "Retro Sign"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

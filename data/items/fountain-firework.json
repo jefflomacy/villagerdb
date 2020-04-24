@@ -1,6 +1,8 @@
 {
   "id": "fountain-firework",
-  "name": "Fountain Firework",
+  "name": {
+    "en-US": "Fountain Firework"
+  },
   "category": "Usables",
   "games": {
     "nl": {

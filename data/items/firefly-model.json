@@ -1,6 +1,8 @@
 {
   "id": "firefly-model",
-  "name": "Firefly Model",
+  "name": {
+    "en-US": "Firefly Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

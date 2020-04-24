@@ -1,6 +1,8 @@
 {
   "id": "silk-bloom-dress",
-  "name": "Silk Bloom Dress",
+  "name": {
+    "en-US": "Silk Bloom Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

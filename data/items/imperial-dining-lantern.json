@@ -1,6 +1,8 @@
 {
   "id": "imperial-dining-lantern",
-  "name": "Imperial Dining Lantern",
+  "name": {
+    "en-US": "Imperial Dining Lantern"
+  },
   "games": {
     "nh": {
       "sellPrice": {

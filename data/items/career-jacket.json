@@ -1,6 +1,8 @@
 {
   "id": "career-jacket",
-  "name": "Career Jacket",
+  "name": {
+    "en-US": "Career Jacket"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "snowflake-sweater",
-  "name": "Snowflake Sweater",
+  "name": {
+    "en-US": "Snowflake Sweater"
+  },
   "games": {
     "nh": {
       "sellPrice": {

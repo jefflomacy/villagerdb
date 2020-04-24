@@ -1,6 +1,8 @@
 {
   "id": "hockey-mask",
-  "name": "Hockey Mask",
+  "name": {
+    "en-US": "Hockey Mask"
+  },
   "category": "Hats",
   "games": {
     "nl": {

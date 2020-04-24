@@ -1,6 +1,8 @@
 {
   "id": "kiddie-socks",
-  "name": "Kiddie Socks",
+  "name": {
+    "en-US": "Kiddie Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

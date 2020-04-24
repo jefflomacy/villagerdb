@@ -1,6 +1,8 @@
 {
   "id": "pink-balloon",
-  "name": "Pink Balloon",
+  "name": {
+    "en-US": "Pink Balloon"
+  },
   "category": "Balloons",
   "games": {
     "nl": {

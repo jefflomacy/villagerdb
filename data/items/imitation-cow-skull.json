@@ -1,6 +1,8 @@
 {
   "id": "imitation-cow-skull",
-  "name": "Imitation Cow Skull",
+  "name": {
+    "en-US": "Imitation Cow Skull"
+  },
   "games": {
     "nh": {
       "sellPrice": {

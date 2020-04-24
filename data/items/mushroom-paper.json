@@ -1,6 +1,8 @@
 {
   "id": "mushroom-paper",
-  "name": "Mushroom Paper",
+  "name": {
+    "en-US": "Mushroom Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

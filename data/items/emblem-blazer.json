@@ -1,6 +1,8 @@
 {
   "id": "emblem-blazer",
-  "name": "Emblem Blazer",
+  "name": {
+    "en-US": "Emblem Blazer"
+  },
   "games": {
     "nh": {
       "sellPrice": {

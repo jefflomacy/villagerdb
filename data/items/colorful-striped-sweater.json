@@ -1,6 +1,8 @@
 {
   "id": "colorful-striped-sweater",
-  "name": "Colorful Striped Sweater",
+  "name": {
+    "en-US": "Colorful Striped Sweater"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "iron-entrance-mat",
-  "name": "Iron Entrance Mat",
+  "name": {
+    "en-US": "Iron Entrance Mat"
+  },
   "games": {
     "nh": {
       "sources": [

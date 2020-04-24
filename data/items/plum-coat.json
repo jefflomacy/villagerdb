@@ -1,6 +1,8 @@
 {
   "id": "plum-coat",
-  "name": "Plum Coat",
+  "name": {
+    "en-US": "Plum Coat"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

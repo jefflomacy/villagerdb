@@ -1,6 +1,8 @@
 {
   "id": "flour",
-  "name": "Flour",
+  "name": {
+    "en-US": "Flour"
+  },
   "category": "Usables",
   "games": {
     "nl": {

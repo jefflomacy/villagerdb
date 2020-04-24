@@ -1,6 +1,8 @@
 {
   "id": "cable-spool",
-  "name": "Cable Spool",
+  "name": {
+    "en-US": "Cable Spool"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

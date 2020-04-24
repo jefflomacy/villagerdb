@@ -1,6 +1,8 @@
 {
   "id": "digital-alarm-clock",
-  "name": "Digital Alarm Clock",
+  "name": {
+    "en-US": "Digital Alarm Clock"
+  },
   "games": {
     "nh": {
       "orderable": true,

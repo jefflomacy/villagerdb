@@ -1,6 +1,8 @@
 {
   "id": "bathroom-towel-rack",
-  "name": "Bathroom Towel Rack",
+  "name": {
+    "en-US": "Bathroom Towel Rack"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "bronze-hha-trophy",
-  "name": "Bronze Hha Trophy",
+  "name": {
+    "en-US": "Bronze Hha Trophy"
+  },
   "games": {
     "nh": {
       "orderable": false,

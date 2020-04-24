@@ -1,6 +1,8 @@
 {
   "id": "inkopolis-floor",
-  "name": "Inkopolis Floor",
+  "name": {
+    "en-US": "Inkopolis Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

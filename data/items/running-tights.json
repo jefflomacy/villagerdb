@@ -1,6 +1,8 @@
 {
   "id": "running-tights",
-  "name": "Running Tights",
+  "name": {
+    "en-US": "Running Tights"
+  },
   "games": {
     "nh": {
       "sellPrice": {

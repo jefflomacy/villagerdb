@@ -1,6 +1,8 @@
 {
   "id": "quillsons-poster",
-  "name": "Quillson's Poster",
+  "name": {
+    "en-US": "Quillson's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

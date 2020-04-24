@@ -1,6 +1,8 @@
 {
   "id": "nooks-homes-model",
-  "name": "Nook's Homes Model",
+  "name": {
+    "en-US": "Nook's Homes Model"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

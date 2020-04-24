@@ -1,6 +1,8 @@
 {
   "id": "arched-brick-flooring",
-  "name": "Arched-brick Flooring",
+  "name": {
+    "en-US": "Arched-brick Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

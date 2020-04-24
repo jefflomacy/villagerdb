@@ -1,6 +1,8 @@
 {
   "id": "cute-rose-crown",
-  "name": "Cute Rose Crown",
+  "name": {
+    "en-US": "Cute Rose Crown"
+  },
   "games": {
     "nh": {
       "sellPrice": {

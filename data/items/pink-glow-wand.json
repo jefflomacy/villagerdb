@@ -1,6 +1,8 @@
 {
   "id": "pink-glow-wand",
-  "name": "Pink Glow Wand",
+  "name": {
+    "en-US": "Pink Glow Wand"
+  },
   "category": "Usables",
   "games": {
     "nl": {

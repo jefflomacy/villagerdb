@@ -1,6 +1,8 @@
 {
   "id": "mages-hat",
-  "name": "Mage's Hat",
+  "name": {
+    "en-US": "Mage's Hat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

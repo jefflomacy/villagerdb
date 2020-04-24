@@ -1,6 +1,8 @@
 {
   "id": "labrador-ornament",
-  "name": "Labrador Ornament",
+  "name": {
+    "en-US": "Labrador Ornament"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

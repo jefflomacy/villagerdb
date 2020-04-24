@@ -1,6 +1,8 @@
 {
   "id": "golden-dung-beetle",
-  "name": "Golden Dung Beetle",
+  "name": {
+    "en-US": "Golden Dung Beetle"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "money-box",
-  "name": "Money Box",
+  "name": {
+    "en-US": "Money Box"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

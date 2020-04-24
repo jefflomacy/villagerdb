@@ -1,6 +1,8 @@
 {
   "id": "peacock-butterfly-model",
-  "name": "Peacock Butterfly Model",
+  "name": {
+    "en-US": "Peacock Butterfly Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

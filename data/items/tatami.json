@@ -1,6 +1,8 @@
 {
   "id": "tatami",
-  "name": "Tatami",
+  "name": {
+    "en-US": "Tatami"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

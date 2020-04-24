@@ -1,6 +1,8 @@
 {
   "id": "fruit-drink",
-  "name": "Fruit Drink",
+  "name": {
+    "en-US": "Fruit Drink"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

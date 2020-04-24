@@ -1,6 +1,8 @@
 {
   "id": "medli-outfit",
-  "name": "Medli Outfit",
+  "name": {
+    "en-US": "Medli Outfit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

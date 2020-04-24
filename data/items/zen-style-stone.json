@@ -1,6 +1,8 @@
 {
   "id": "zen-style-stone",
-  "name": "Zen-style Stone",
+  "name": {
+    "en-US": "Zen-style Stone"
+  },
   "games": {
     "nh": {
       "orderable": false,

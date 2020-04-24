@@ -1,6 +1,8 @@
 {
   "id": "mini-buzzoid",
-  "name": "Mini Buzzoid",
+  "name": {
+    "en-US": "Mini Buzzoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

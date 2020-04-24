@@ -1,6 +1,8 @@
 {
   "id": "daisy-umbrella",
-  "name": "Daisy Umbrella",
+  "name": {
+    "en-US": "Daisy Umbrella"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

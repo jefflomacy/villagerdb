@@ -1,6 +1,8 @@
 {
   "id": "tartan-plaid-outfit",
-  "name": "Tartan-plaid Outfit",
+  "name": {
+    "en-US": "Tartan-plaid Outfit"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

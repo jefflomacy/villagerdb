@@ -1,6 +1,8 @@
 {
   "id": "lacy-paper",
-  "name": "Lacy Paper",
+  "name": {
+    "en-US": "Lacy Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

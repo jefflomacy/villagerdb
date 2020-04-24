@@ -1,6 +1,8 @@
 {
   "id": "polka-dot-mini-skirt",
-  "name": "Polka-dot Mini Skirt",
+  "name": {
+    "en-US": "Polka-dot Mini Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "nintendo-dsi-bench",
-  "name": "Nintendo DSI Bench",
+  "name": {
+    "en-US": "Nintendo DSI Bench"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "wood-plank-table",
-  "name": "Wood-plank Table",
+  "name": {
+    "en-US": "Wood-plank Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "traditional-flower-shoes",
-  "name": "Traditional Flower Shoes",
+  "name": {
+    "en-US": "Traditional Flower Shoes"
+  },
   "games": {
     "nh": {
       "sellPrice": {

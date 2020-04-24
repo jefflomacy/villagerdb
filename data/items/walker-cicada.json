@@ -1,6 +1,8 @@
 {
   "id": "walker-cicada",
-  "name": "Walker Cicada",
+  "name": {
+    "en-US": "Walker Cicada"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

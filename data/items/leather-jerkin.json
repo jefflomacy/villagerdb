@@ -1,6 +1,8 @@
 {
   "id": "leather-jerkin",
-  "name": "Leather Jerkin",
+  "name": {
+    "en-US": "Leather Jerkin"
+  },
   "category": "Tops",
   "games": {
     "ac": {

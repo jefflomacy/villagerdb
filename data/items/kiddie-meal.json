@@ -1,6 +1,8 @@
 {
   "id": "kiddie-meal",
-  "name": "Kiddie Meal",
+  "name": {
+    "en-US": "Kiddie Meal"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

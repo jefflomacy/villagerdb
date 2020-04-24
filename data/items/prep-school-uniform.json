@@ -1,6 +1,8 @@
 {
   "id": "prep-school-uniform",
-  "name": "Prep-school Uniform",
+  "name": {
+    "en-US": "Prep-school Uniform"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

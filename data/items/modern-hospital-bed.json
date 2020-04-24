@@ -1,6 +1,8 @@
 {
   "id": "modern-hospital-bed",
-  "name": "Modern Hospital Bed",
+  "name": {
+    "en-US": "Modern Hospital Bed"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

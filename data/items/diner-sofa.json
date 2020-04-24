@@ -1,6 +1,8 @@
 {
   "id": "diner-sofa",
-  "name": "Diner Sofa",
+  "name": {
+    "en-US": "Diner Sofa"
+  },
   "games": {
     "nh": {
       "orderable": true,

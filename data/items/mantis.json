@@ -1,6 +1,8 @@
 {
   "id": "mantis",
-  "name": "Mantis",
+  "name": {
+    "en-US": "Mantis"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "marine-pop-floor",
-  "name": "Marine Pop Floor",
+  "name": {
+    "en-US": "Marine Pop Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

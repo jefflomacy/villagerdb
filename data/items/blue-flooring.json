@@ -1,6 +1,8 @@
 {
   "id": "blue-flooring",
-  "name": "Blue Flooring",
+  "name": {
+    "en-US": "Blue Flooring"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

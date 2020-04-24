@@ -1,6 +1,8 @@
 {
   "id": "nurses-uniform",
-  "name": "Nurse's Uniform",
+  "name": {
+    "en-US": "Nurse's Uniform"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

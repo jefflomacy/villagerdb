@@ -1,6 +1,8 @@
 {
   "id": "metal-rim-table",
-  "name": "Metal-rim Table",
+  "name": {
+    "en-US": "Metal-rim Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

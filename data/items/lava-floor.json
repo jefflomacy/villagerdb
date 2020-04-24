@@ -1,6 +1,8 @@
 {
   "id": "lava-floor",
-  "name": "Lava Floor",
+  "name": {
+    "en-US": "Lava Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

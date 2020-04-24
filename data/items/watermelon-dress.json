@@ -1,6 +1,8 @@
 {
   "id": "watermelon-dress",
-  "name": "Watermelon Dress",
+  "name": {
+    "en-US": "Watermelon Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

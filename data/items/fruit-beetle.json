@@ -1,6 +1,8 @@
 {
   "id": "fruit-beetle",
-  "name": "Fruit Beetle",
+  "name": {
+    "en-US": "Fruit Beetle"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

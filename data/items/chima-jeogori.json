@@ -1,6 +1,8 @@
 {
   "id": "chima-jeogori",
-  "name": "Chima Jeogori",
+  "name": {
+    "en-US": "Chima Jeogori"
+  },
   "games": {
     "nh": {
       "sellPrice": {

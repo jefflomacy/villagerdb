@@ -1,6 +1,8 @@
 {
   "id": "large-star-fragment",
-  "name": "Large Star Fragment",
+  "name": {
+    "en-US": "Large Star Fragment"
+  },
   "games": {
     "nh": {
       "sources": [

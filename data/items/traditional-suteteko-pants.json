@@ -1,6 +1,8 @@
 {
   "id": "traditional-suteteko-pants",
-  "name": "Traditional Suteteko Pants",
+  "name": {
+    "en-US": "Traditional Suteteko Pants"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "choco-soft-serve",
-  "name": "Choco Soft-serve",
+  "name": {
+    "en-US": "Choco Soft-serve"
+  },
   "category": "Usables",
   "games": {
     "nl": {

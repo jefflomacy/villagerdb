@@ -1,6 +1,8 @@
 {
   "id": "maxi-shirtdress",
-  "name": "Maxi Shirtdress",
+  "name": {
+    "en-US": "Maxi Shirtdress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

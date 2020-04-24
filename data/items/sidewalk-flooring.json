@@ -1,6 +1,8 @@
 {
   "id": "sidewalk-flooring",
-  "name": "Sidewalk Flooring",
+  "name": {
+    "en-US": "Sidewalk Flooring"
+  },
   "games": {
     "nh": {
       "orderable": false,

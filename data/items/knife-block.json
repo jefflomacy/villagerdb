@@ -1,6 +1,8 @@
 {
   "id": "knife-block",
-  "name": "Knife Block",
+  "name": {
+    "en-US": "Knife Block"
+  },
   "games": {
     "nh": {
       "orderable": true,

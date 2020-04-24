@@ -1,6 +1,8 @@
 {
   "id": "net",
-  "name": "Net",
+  "name": {
+    "en-US": "Net"
+  },
   "category": "Tools",
   "games": {
     "nl": {

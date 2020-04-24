@@ -1,6 +1,8 @@
 {
   "id": "tweed-jacket",
-  "name": "Tweed Jacket",
+  "name": {
+    "en-US": "Tweed Jacket"
+  },
   "games": {
     "nh": {
       "orderable": true,

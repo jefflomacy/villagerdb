@@ -1,6 +1,8 @@
 {
   "id": "rainbow-paper",
-  "name": "Rainbow Paper",
+  "name": {
+    "en-US": "Rainbow Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

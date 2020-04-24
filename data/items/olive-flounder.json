@@ -1,6 +1,8 @@
 {
   "id": "olive-flounder",
-  "name": "Olive Flounder",
+  "name": {
+    "en-US": "Olive Flounder"
+  },
   "category": "Fish",
   "games": {
     "nl": {

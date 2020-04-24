@@ -1,6 +1,8 @@
 {
   "id": "printed-fleece-sweater",
-  "name": "Printed Fleece Sweater",
+  "name": {
+    "en-US": "Printed Fleece Sweater"
+  },
   "games": {
     "nh": {
       "sellPrice": {

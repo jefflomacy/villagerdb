@@ -1,6 +1,8 @@
 {
   "id": "evening-cicada-model",
-  "name": "Evening Cicada Model",
+  "name": {
+    "en-US": "Evening Cicada Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

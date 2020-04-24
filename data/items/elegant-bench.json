@@ -1,6 +1,8 @@
 {
   "id": "elegant-bench",
-  "name": "Elegant Bench",
+  "name": {
+    "en-US": "Elegant Bench"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

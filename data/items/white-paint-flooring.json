@@ -1,6 +1,8 @@
 {
   "id": "white-paint-flooring",
-  "name": "White-paint Flooring",
+  "name": {
+    "en-US": "White-paint Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

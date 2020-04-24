@@ -1,6 +1,8 @@
 {
   "id": "peacock-butterfly",
-  "name": "Peacock Butterfly",
+  "name": {
+    "en-US": "Peacock Butterfly"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

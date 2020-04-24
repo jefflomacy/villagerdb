@@ -1,6 +1,8 @@
 {
   "id": "square-mailbox",
-  "name": "Square Mailbox",
+  "name": {
+    "en-US": "Square Mailbox"
+  },
   "games": {
     "nh": {}
   },

@@ -1,6 +1,8 @@
 {
   "id": "wolf-link-outfit",
-  "name": "Wolf Link Outfit",
+  "name": {
+    "en-US": "Wolf Link Outfit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

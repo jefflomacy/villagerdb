@@ -1,6 +1,8 @@
 {
   "id": "camouflage-paper",
-  "name": "Camouflage Paper",
+  "name": {
+    "en-US": "Camouflage Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

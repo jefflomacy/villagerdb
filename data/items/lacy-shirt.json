@@ -1,6 +1,8 @@
 {
   "id": "lacy-shirt",
-  "name": "Lacy Shirt",
+  "name": {
+    "en-US": "Lacy Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

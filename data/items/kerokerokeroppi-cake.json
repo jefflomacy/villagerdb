@@ -1,6 +1,8 @@
 {
   "id": "kerokerokeroppi-cake",
-  "name": "Kerokerokeroppi Cake",
+  "name": {
+    "en-US": "Kerokerokeroppi Cake"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

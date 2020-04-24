@@ -1,6 +1,8 @@
 {
   "id": "color-blocked-socks",
-  "name": "Color-blocked Socks",
+  "name": {
+    "en-US": "Color-blocked Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

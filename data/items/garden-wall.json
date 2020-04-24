@@ -1,6 +1,8 @@
 {
   "id": "garden-wall",
-  "name": "Garden Wall",
+  "name": {
+    "en-US": "Garden Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

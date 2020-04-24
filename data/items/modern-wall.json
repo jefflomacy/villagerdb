@@ -1,6 +1,8 @@
 {
   "id": "modern-wall",
-  "name": "Modern Wall",
+  "name": {
+    "en-US": "Modern Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "polka-dot-dress",
-  "name": "Polka-dot Dress",
+  "name": {
+    "en-US": "Polka-dot Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

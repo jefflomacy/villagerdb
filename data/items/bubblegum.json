@@ -1,6 +1,8 @@
 {
   "id": "bubblegum",
-  "name": "Bubblegum",
+  "name": {
+    "en-US": "Bubblegum"
+  },
   "games": {
     "nh": {
       "orderable": true,

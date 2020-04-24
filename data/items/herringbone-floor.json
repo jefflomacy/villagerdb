@@ -1,6 +1,8 @@
 {
   "id": "herringbone-floor",
-  "name": "Herringbone Floor",
+  "name": {
+    "en-US": "Herringbone Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

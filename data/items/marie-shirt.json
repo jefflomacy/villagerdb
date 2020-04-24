@@ -1,6 +1,8 @@
 {
   "id": "marie-shirt",
-  "name": "Marie Shirt",
+  "name": {
+    "en-US": "Marie Shirt"
+  },
   "category": "Tops",
   "games": {
     "nl": {

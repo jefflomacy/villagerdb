@@ -1,6 +1,8 @@
 {
   "id": "sweatpants",
-  "name": "Sweatpants",
+  "name": {
+    "en-US": "Sweatpants"
+  },
   "games": {
     "nh": {
       "orderable": true,

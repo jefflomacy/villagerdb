@@ -1,6 +1,8 @@
 {
   "id": "modern-wood-wall",
-  "name": "Modern Wood Wall",
+  "name": {
+    "en-US": "Modern Wood Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

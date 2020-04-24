@@ -1,6 +1,8 @@
 {
   "id": "yellow-flooring",
-  "name": "Yellow Flooring",
+  "name": {
+    "en-US": "Yellow Flooring"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

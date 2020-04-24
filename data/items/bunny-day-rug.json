@@ -1,6 +1,8 @@
 {
   "id": "bunny-day-rug",
-  "name": "Bunny Day Rug",
+  "name": {
+    "en-US": "Bunny Day Rug"
+  },
   "games": {
     "nh": {
       "orderable": false,

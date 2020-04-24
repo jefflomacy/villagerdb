@@ -1,6 +1,8 @@
 {
   "id": "spiderweb-shirt",
-  "name": "Spiderweb Shirt",
+  "name": {
+    "en-US": "Spiderweb Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

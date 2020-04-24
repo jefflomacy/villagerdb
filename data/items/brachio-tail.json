@@ -1,6 +1,8 @@
 {
   "id": "brachio-tail",
-  "name": "Brachio Tail",
+  "name": {
+    "en-US": "Brachio Tail"
+  },
   "games": {
     "nh": {
       "orderable": false,

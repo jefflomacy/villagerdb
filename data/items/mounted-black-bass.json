@@ -1,6 +1,8 @@
 {
   "id": "mounted-black-bass",
-  "name": "Mounted Black Bass",
+  "name": {
+    "en-US": "Mounted Black Bass"
+  },
   "games": {
     "nh": {
       "orderable": true,

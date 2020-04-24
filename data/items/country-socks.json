@@ -1,6 +1,8 @@
 {
   "id": "country-socks",
-  "name": "Country Socks",
+  "name": {
+    "en-US": "Country Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

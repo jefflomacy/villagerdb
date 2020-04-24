@@ -1,6 +1,8 @@
 {
   "id": "kk-ballad",
-  "name": "K.K. Ballad",
+  "name": {
+    "en-US": "K.K. Ballad"
+  },
   "category": "Music",
   "games": {
     "nl": {

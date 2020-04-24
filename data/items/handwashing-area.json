@@ -1,6 +1,8 @@
 {
   "id": "handwashing-area",
-  "name": "Handwashing Area",
+  "name": {
+    "en-US": "Handwashing Area"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

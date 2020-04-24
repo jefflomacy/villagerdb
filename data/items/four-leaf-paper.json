@@ -1,6 +1,8 @@
 {
   "id": "four-leaf-paper",
-  "name": "Four-leaf Paper",
+  "name": {
+    "en-US": "Four-leaf Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

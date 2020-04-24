@@ -1,6 +1,8 @@
 {
   "id": "mega-sputnoid",
-  "name": "Mega Sputnoid",
+  "name": {
+    "en-US": "Mega Sputnoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

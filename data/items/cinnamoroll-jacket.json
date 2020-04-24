@@ -1,6 +1,8 @@
 {
   "id": "cinnamoroll-jacket",
-  "name": "Cinnamoroll Jacket",
+  "name": {
+    "en-US": "Cinnamoroll Jacket"
+  },
   "category": "Tops",
   "games": {
     "nl": {

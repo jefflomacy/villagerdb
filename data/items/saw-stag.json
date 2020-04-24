@@ -1,6 +1,8 @@
 {
   "id": "saw-stag",
-  "name": "Saw Stag",
+  "name": {
+    "en-US": "Saw Stag"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

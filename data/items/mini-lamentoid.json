@@ -1,6 +1,8 @@
 {
   "id": "mini-lamentoid",
-  "name": "Mini Lamentoid",
+  "name": {
+    "en-US": "Mini Lamentoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "dance-warm-up-pants",
-  "name": "Dance Warm-up Pants",
+  "name": {
+    "en-US": "Dance Warm-up Pants"
+  },
   "games": {
     "nh": {
       "sellPrice": {

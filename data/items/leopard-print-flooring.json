@@ -1,6 +1,8 @@
 {
   "id": "leopard-print-flooring",
-  "name": "Leopard-print Flooring",
+  "name": {
+    "en-US": "Leopard-print Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

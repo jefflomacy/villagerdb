@@ -1,6 +1,8 @@
 {
   "id": "library-wall",
-  "name": "Library Wall",
+  "name": {
+    "en-US": "Library Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

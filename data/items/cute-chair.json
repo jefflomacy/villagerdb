@@ -1,6 +1,8 @@
 {
   "id": "cute-chair",
-  "name": "Cute Chair",
+  "name": {
+    "en-US": "Cute Chair"
+  },
   "games": {
     "nh": {
       "sellPrice": {

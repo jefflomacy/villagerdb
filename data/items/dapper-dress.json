@@ -1,6 +1,8 @@
 {
   "id": "dapper-dress",
-  "name": "Dapper Dress",
+  "name": {
+    "en-US": "Dapper Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "gongoid",
-  "name": "Gongoid",
+  "name": {
+    "en-US": "Gongoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

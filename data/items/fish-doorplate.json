@@ -1,6 +1,8 @@
 {
   "id": "fish-doorplate",
-  "name": "Fish Doorplate",
+  "name": {
+    "en-US": "Fish Doorplate"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "ancient-administrator-hat",
-  "name": "Ancient Administrator Hat",
+  "name": {
+    "en-US": "Ancient Administrator Hat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

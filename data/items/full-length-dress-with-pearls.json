@@ -1,6 +1,8 @@
 {
   "id": "full-length-dress-with-pearls",
-  "name": "Full-length Dress With Pearls",
+  "name": {
+    "en-US": "Full-length Dress With Pearls"
+  },
   "games": {
     "nh": {
       "sellPrice": {

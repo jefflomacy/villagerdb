@@ -1,6 +1,8 @@
 {
   "id": "fuchsias-photo",
-  "name": "Fuchsia's Photo",
+  "name": {
+    "en-US": "Fuchsia's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

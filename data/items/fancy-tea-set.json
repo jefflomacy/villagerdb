@@ -1,6 +1,8 @@
 {
   "id": "fancy-tea-set",
-  "name": "Fancy Tea Set",
+  "name": {
+    "en-US": "Fancy Tea Set"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

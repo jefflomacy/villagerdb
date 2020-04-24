@@ -1,6 +1,8 @@
 {
   "id": "plaid-puffed-sleeve-shirt",
-  "name": "Plaid Puffed-sleeve Shirt",
+  "name": {
+    "en-US": "Plaid Puffed-sleeve Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

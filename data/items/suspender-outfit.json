@@ -1,6 +1,8 @@
 {
   "id": "suspender-outfit",
-  "name": "Suspender Outfit",
+  "name": {
+    "en-US": "Suspender Outfit"
+  },
   "games": {
     "nh": {
       "orderable": true,

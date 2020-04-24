@@ -1,6 +1,8 @@
 {
   "id": "my-melody-clock",
-  "name": "My Melody Clock",
+  "name": {
+    "en-US": "My Melody Clock"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

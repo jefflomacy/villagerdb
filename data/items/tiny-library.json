@@ -1,6 +1,8 @@
 {
   "id": "tiny-library",
-  "name": "Tiny Library",
+  "name": {
+    "en-US": "Tiny Library"
+  },
   "category": "Furniture",
   "games": {
     "nh": {

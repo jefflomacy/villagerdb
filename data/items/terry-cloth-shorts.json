@@ -1,6 +1,8 @@
 {
   "id": "terry-cloth-shorts",
-  "name": "Terry-cloth Shorts",
+  "name": {
+    "en-US": "Terry-cloth Shorts"
+  },
   "games": {
     "nh": {
       "sellPrice": {

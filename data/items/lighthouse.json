@@ -1,6 +1,8 @@
 {
   "id": "lighthouse",
-  "name": "Lighthouse",
+  "name": {
+    "en-US": "Lighthouse"
+  },
   "games": {
     "nh": {
       "orderable": true,

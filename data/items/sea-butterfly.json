@@ -1,6 +1,8 @@
 {
   "id": "sea-butterfly",
-  "name": "Sea Butterfly",
+  "name": {
+    "en-US": "Sea Butterfly"
+  },
   "category": "Fish",
   "games": {
     "nl": {

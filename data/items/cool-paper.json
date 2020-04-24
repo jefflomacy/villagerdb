@@ -1,6 +1,8 @@
 {
   "id": "cool-paper",
-  "name": "Cool Paper",
+  "name": {
+    "en-US": "Cool Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

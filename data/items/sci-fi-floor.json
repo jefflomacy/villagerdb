@@ -1,6 +1,8 @@
 {
   "id": "sci-fi-floor",
-  "name": "Sci-fi Floor",
+  "name": {
+    "en-US": "Sci-fi Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "green-wrapping-paper",
-  "name": "Green Wrapping Paper",
+  "name": {
+    "en-US": "Green Wrapping Paper"
+  },
   "games": {
     "nh": {
       "sellPrice": {

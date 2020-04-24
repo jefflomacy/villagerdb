@@ -1,6 +1,8 @@
 {
   "id": "toga",
-  "name": "Toga",
+  "name": {
+    "en-US": "Toga"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

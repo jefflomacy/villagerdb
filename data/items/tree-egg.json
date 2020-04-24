@@ -1,6 +1,8 @@
 {
   "id": "tree-egg",
-  "name": "Tree Egg",
+  "name": {
+    "en-US": "Tree Egg"
+  },
   "category": "Usables",
   "games": {
     "nl": {

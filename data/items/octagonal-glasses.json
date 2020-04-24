@@ -1,6 +1,8 @@
 {
   "id": "octagonal-glasses",
-  "name": "Octagonal Glasses",
+  "name": {
+    "en-US": "Octagonal Glasses"
+  },
   "games": {
     "nh": {
       "orderable": true,

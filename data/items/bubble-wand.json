@@ -1,6 +1,8 @@
 {
   "id": "bubble-wand",
-  "name": "Bubble Wand",
+  "name": {
+    "en-US": "Bubble Wand"
+  },
   "category": "Usables",
   "games": {
     "nl": {

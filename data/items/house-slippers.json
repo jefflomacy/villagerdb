@@ -1,6 +1,8 @@
 {
   "id": "house-slippers",
-  "name": "House Slippers",
+  "name": {
+    "en-US": "House Slippers"
+  },
   "games": {
     "nh": {
       "orderable": true,

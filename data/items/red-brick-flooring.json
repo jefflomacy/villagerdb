@@ -1,6 +1,8 @@
 {
   "id": "red-brick-flooring",
-  "name": "Red-brick Flooring",
+  "name": {
+    "en-US": "Red-brick Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "zigzag-shirt",
-  "name": "Zigzag Shirt",
+  "name": {
+    "en-US": "Zigzag Shirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

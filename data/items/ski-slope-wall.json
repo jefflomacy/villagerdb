@@ -1,6 +1,8 @@
 {
   "id": "ski-slope-wall",
-  "name": "Ski-slope Wall",
+  "name": {
+    "en-US": "Ski-slope Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "dachshund-ornament",
-  "name": "Dachshund Ornament",
+  "name": {
+    "en-US": "Dachshund Ornament"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

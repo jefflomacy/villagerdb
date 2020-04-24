@@ -1,6 +1,8 @@
 {
   "id": "subdued-print",
-  "name": "Subdued Print",
+  "name": {
+    "en-US": "Subdued Print"
+  },
   "category": "Tops",
   "games": {
     "ac": {

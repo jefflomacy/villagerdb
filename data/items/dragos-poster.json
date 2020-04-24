@@ -1,6 +1,8 @@
 {
   "id": "dragos-poster",
-  "name": "Drago's Poster",
+  "name": {
+    "en-US": "Drago's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

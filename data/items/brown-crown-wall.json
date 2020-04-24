@@ -1,6 +1,8 @@
 {
   "id": "brown-crown-wall",
-  "name": "Brown-crown Wall",
+  "name": {
+    "en-US": "Brown-crown Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

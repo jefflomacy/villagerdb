@@ -1,6 +1,8 @@
 {
   "id": "boa-parka",
-  "name": "Boa Parka",
+  "name": {
+    "en-US": "Boa Parka"
+  },
   "games": {
     "nh": {
       "sellPrice": {

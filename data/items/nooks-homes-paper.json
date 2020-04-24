@@ -1,6 +1,8 @@
 {
   "id": "nooks-homes-paper",
-  "name": "Nook's Homes Paper",
+  "name": {
+    "en-US": "Nook's Homes Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

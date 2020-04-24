@@ -1,6 +1,8 @@
 {
   "id": "raddles-poster",
-  "name": "Raddle's Poster",
+  "name": {
+    "en-US": "Raddle's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

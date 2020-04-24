@@ -1,6 +1,8 @@
 {
   "id": "tatami-mat",
-  "name": "Tatami Mat",
+  "name": {
+    "en-US": "Tatami Mat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

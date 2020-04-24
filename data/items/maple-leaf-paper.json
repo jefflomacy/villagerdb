@@ -1,6 +1,8 @@
 {
   "id": "maple-leaf-paper",
-  "name": "Maple-leaf Paper",
+  "name": {
+    "en-US": "Maple-leaf Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

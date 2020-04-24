@@ -1,6 +1,8 @@
 {
   "id": "dig-site-wall",
-  "name": "Dig-site Wall",
+  "name": {
+    "en-US": "Dig-site Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

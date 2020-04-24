@@ -1,6 +1,8 @@
 {
   "id": "printed-layered-shirt",
-  "name": "Printed Layered Shirt",
+  "name": {
+    "en-US": "Printed Layered Shirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "dreamy-pants",
-  "name": "Dreamy Pants",
+  "name": {
+    "en-US": "Dreamy Pants"
+  },
   "games": {
     "nh": {
       "sellPrice": {

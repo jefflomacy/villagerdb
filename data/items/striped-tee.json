@@ -1,6 +1,8 @@
 {
   "id": "striped-tee",
-  "name": "Striped Tee",
+  "name": {
+    "en-US": "Striped Tee"
+  },
   "games": {
     "nh": {
       "orderable": true,

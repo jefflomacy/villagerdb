@@ -1,6 +1,8 @@
 {
   "id": "winning-ticket",
-  "name": "Winning Ticket",
+  "name": {
+    "en-US": "Winning Ticket"
+  },
   "category": "Usables",
   "games": {
     "nl": {

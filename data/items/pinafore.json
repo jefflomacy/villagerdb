@@ -1,6 +1,8 @@
 {
   "id": "pinafore",
-  "name": "Pinafore",
+  "name": {
+    "en-US": "Pinafore"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

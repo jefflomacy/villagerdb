@@ -1,6 +1,8 @@
 {
   "id": "fancy-rose-wreath",
-  "name": "Fancy Rose Wreath",
+  "name": {
+    "en-US": "Fancy Rose Wreath"
+  },
   "games": {
     "nh": {
       "orderable": false,

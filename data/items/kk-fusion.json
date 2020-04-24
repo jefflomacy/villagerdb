@@ -1,6 +1,8 @@
 {
   "id": "kk-fusion",
-  "name": "K.K. Fusion",
+  "name": {
+    "en-US": "K.K. Fusion"
+  },
   "category": "Music",
   "games": {
     "nl": {

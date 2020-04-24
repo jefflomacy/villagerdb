@@ -1,6 +1,8 @@
 {
   "id": "paintball-mask",
-  "name": "Paintball Mask",
+  "name": {
+    "en-US": "Paintball Mask"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "lollipop",
-  "name": "Lollipop",
+  "name": {
+    "en-US": "Lollipop"
+  },
   "category": "Usables",
   "games": {
     "nl": {

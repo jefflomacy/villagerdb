@@ -1,6 +1,8 @@
 {
   "id": "blue-design-kitchen-mat",
-  "name": "Blue-design Kitchen Mat",
+  "name": {
+    "en-US": "Blue-design Kitchen Mat"
+  },
   "games": {
     "nh": {
       "sources": [

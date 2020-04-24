@@ -1,6 +1,8 @@
 {
   "id": "bug-cage",
-  "name": "Bug Cage",
+  "name": {
+    "en-US": "Bug Cage"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "aviator-shades",
-  "name": "Aviator Shades",
+  "name": {
+    "en-US": "Aviator Shades"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

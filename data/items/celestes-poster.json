@@ -1,6 +1,8 @@
 {
   "id": "celestes-poster",
-  "name": "Celeste's Poster",
+  "name": {
+    "en-US": "Celeste's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

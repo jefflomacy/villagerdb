@@ -1,6 +1,8 @@
 {
   "id": "kk-house",
-  "name": "K.K. House",
+  "name": {
+    "en-US": "K.K. House"
+  },
   "category": "Music",
   "games": {
     "nl": {

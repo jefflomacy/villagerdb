@@ -1,6 +1,8 @@
 {
   "id": "manila-clam",
-  "name": "Manila Clam",
+  "name": {
+    "en-US": "Manila Clam"
+  },
   "games": {
     "nh": {
       "orderable": false,

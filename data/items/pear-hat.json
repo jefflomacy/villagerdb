@@ -1,6 +1,8 @@
 {
   "id": "pear-hat",
-  "name": "Pear Hat",
+  "name": {
+    "en-US": "Pear Hat"
+  },
   "games": {
     "nh": {
       "orderable": false,

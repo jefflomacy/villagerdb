@@ -1,6 +1,8 @@
 {
   "id": "pleather-crossbody-bag",
-  "name": "Pleather Crossbody Bag",
+  "name": {
+    "en-US": "Pleather Crossbody Bag"
+  },
   "games": {
     "nh": {
       "orderable": true,

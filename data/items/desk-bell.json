@@ -1,6 +1,8 @@
 {
   "id": "desk-bell",
-  "name": "Desk Bell",
+  "name": {
+    "en-US": "Desk Bell"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

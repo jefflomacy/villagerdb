@@ -1,6 +1,8 @@
 {
   "id": "buttercup-paper",
-  "name": "Buttercup Paper",
+  "name": {
+    "en-US": "Buttercup Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

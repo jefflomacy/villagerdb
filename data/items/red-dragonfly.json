@@ -1,6 +1,8 @@
 {
   "id": "red-dragonfly",
-  "name": "Red Dragonfly",
+  "name": {
+    "en-US": "Red Dragonfly"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

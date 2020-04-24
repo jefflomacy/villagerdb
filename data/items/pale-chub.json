@@ -1,6 +1,8 @@
 {
   "id": "pale-chub",
-  "name": "Pale Chub",
+  "name": {
+    "en-US": "Pale Chub"
+  },
   "category": "Fish",
   "games": {
     "nl": {

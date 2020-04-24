@@ -1,6 +1,8 @@
 {
   "id": "plover-cardigan",
-  "name": "Plover Cardigan",
+  "name": {
+    "en-US": "Plover Cardigan"
+  },
   "games": {
     "nh": {
       "sellPrice": {

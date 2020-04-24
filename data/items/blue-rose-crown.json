@@ -1,6 +1,8 @@
 {
   "id": "blue-rose-crown",
-  "name": "Blue Rose Crown",
+  "name": {
+    "en-US": "Blue Rose Crown"
+  },
   "games": {
     "nh": {
       "sellPrice": {

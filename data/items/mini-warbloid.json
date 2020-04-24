@@ -1,6 +1,8 @@
 {
   "id": "mini-warbloid",
-  "name": "Mini Warbloid",
+  "name": {
+    "en-US": "Mini Warbloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

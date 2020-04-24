@@ -1,6 +1,8 @@
 {
   "id": "lil-bros-shirt",
-  "name": "Li'l Bro's Shirt",
+  "name": {
+    "en-US": "Li'l Bro's Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "wobbling-zipper-toy",
-  "name": "Wobbling Zipper Toy",
+  "name": {
+    "en-US": "Wobbling Zipper Toy"
+  },
   "games": {
     "nh": {
       "customizable": false,

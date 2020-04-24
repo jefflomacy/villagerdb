@@ -1,6 +1,8 @@
 {
   "id": "museum-wall",
-  "name": "Museum Wall",
+  "name": {
+    "en-US": "Museum Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

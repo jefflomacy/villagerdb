@@ -1,6 +1,8 @@
 {
   "id": "brick-oven",
-  "name": "Brick Oven",
+  "name": {
+    "en-US": "Brick Oven"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

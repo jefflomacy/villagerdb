@@ -1,6 +1,8 @@
 {
   "id": "simple-white-flooring",
-  "name": "Simple White Flooring",
+  "name": {
+    "en-US": "Simple White Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

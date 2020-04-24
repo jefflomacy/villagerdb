@@ -1,6 +1,8 @@
 {
   "id": "zelda-wig",
-  "name": "Zelda Wig",
+  "name": {
+    "en-US": "Zelda Wig"
+  },
   "category": "Hats",
   "games": {
     "nl": {

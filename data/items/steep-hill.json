@@ -1,6 +1,8 @@
 {
   "id": "steep-hill",
-  "name": "Steep Hill",
+  "name": {
+    "en-US": "Steep Hill"
+  },
   "category": "Music",
   "games": {
     "nl": {

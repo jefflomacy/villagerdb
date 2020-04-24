@@ -1,6 +1,8 @@
 {
   "id": "wooden-end-table",
-  "name": "Wooden End Table",
+  "name": {
+    "en-US": "Wooden End Table"
+  },
   "games": {
     "nh": {
       "orderable": false,

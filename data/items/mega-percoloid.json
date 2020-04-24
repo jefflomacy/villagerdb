@@ -1,6 +1,8 @@
 {
   "id": "mega-percoloid",
-  "name": "Mega Percoloid",
+  "name": {
+    "en-US": "Mega Percoloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

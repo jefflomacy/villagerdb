@@ -1,6 +1,8 @@
 {
   "id": "imperial-wall",
-  "name": "Imperial Wall",
+  "name": {
+    "en-US": "Imperial Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

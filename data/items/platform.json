@@ -1,6 +1,8 @@
 {
   "id": "platform",
-  "name": "Platform",
+  "name": {
+    "en-US": "Platform"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "elephant-print-pants",
-  "name": "Elephant-print Pants",
+  "name": {
+    "en-US": "Elephant-print Pants"
+  },
   "games": {
     "nh": {
       "sellPrice": {

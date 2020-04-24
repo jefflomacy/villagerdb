@@ -1,6 +1,8 @@
 {
   "id": "white-simple-small-mat",
-  "name": "White Simple Small Mat",
+  "name": {
+    "en-US": "White Simple Small Mat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

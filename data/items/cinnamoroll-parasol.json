@@ -1,6 +1,8 @@
 {
   "id": "cinnamoroll-parasol",
-  "name": "Cinnamoroll Parasol",
+  "name": {
+    "en-US": "Cinnamoroll Parasol"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

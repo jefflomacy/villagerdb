@@ -1,6 +1,8 @@
 {
   "id": "maple-leaf",
-  "name": "Maple Leaf",
+  "name": {
+    "en-US": "Maple Leaf"
+  },
   "games": {
     "nh": {
       "sellPrice": {

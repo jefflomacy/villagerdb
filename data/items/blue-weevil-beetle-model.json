@@ -1,6 +1,8 @@
 {
   "id": "blue-weevil-beetle-model",
-  "name": "Blue Weevil Beetle Model",
+  "name": {
+    "en-US": "Blue Weevil Beetle Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

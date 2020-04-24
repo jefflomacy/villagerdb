@@ -1,6 +1,8 @@
 {
   "id": "mini-harmonoid",
-  "name": "Mini Harmonoid",
+  "name": {
+    "en-US": "Mini Harmonoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

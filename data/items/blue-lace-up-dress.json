@@ -1,6 +1,8 @@
 {
   "id": "blue-lace-up-dress",
-  "name": "Blue Lace-up Dress",
+  "name": {
+    "en-US": "Blue Lace-up Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

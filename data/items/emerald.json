@@ -1,6 +1,8 @@
 {
   "id": "emerald",
-  "name": "Emerald",
+  "name": {
+    "en-US": "Emerald"
+  },
   "category": "Ore",
   "games": {
     "nl": {

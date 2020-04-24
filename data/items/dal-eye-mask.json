@@ -1,6 +1,8 @@
 {
   "id": "dal-eye-mask",
-  "name": "Dal Eye Mask",
+  "name": {
+    "en-US": "Dal Eye Mask"
+  },
   "games": {
     "nh": {
       "orderable": false,

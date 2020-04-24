@@ -1,6 +1,8 @@
 {
   "id": "clownfish",
-  "name": "Clownfish",
+  "name": {
+    "en-US": "Clownfish"
+  },
   "category": "Fish",
   "games": {
     "nl": {

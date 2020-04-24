@@ -1,6 +1,8 @@
 {
   "id": "yellow-wrapping-paper",
-  "name": "Yellow Wrapping Paper",
+  "name": {
+    "en-US": "Yellow Wrapping Paper"
+  },
   "games": {
     "nh": {
       "sellPrice": {

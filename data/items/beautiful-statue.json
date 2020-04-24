@@ -1,6 +1,8 @@
 {
   "id": "beautiful-statue",
-  "name": "Beautiful Statue",
+  "name": {
+    "en-US": "Beautiful Statue"
+  },
   "category": "Art",
   "games": {
     "nl": {

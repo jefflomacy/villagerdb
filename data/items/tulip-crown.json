@@ -1,6 +1,8 @@
 {
   "id": "tulip-crown",
-  "name": "Tulip Crown",
+  "name": {
+    "en-US": "Tulip Crown"
+  },
   "category": "Hats",
   "games": {
     "nh": {

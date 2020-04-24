@@ -1,6 +1,8 @@
 {
   "id": "tart",
-  "name": "Tart",
+  "name": {
+    "en-US": "Tart"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

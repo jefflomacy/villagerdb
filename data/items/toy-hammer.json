@@ -1,6 +1,8 @@
 {
   "id": "toy-hammer",
-  "name": "Toy Hammer",
+  "name": {
+    "en-US": "Toy Hammer"
+  },
   "category": "Tools",
   "games": {
     "nl": {

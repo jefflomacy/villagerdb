@@ -1,6 +1,8 @@
 {
   "id": "pineapple-aloha-shorts",
-  "name": "Pineapple Aloha Shorts",
+  "name": {
+    "en-US": "Pineapple Aloha Shorts"
+  },
   "games": {
     "nh": {
       "sellPrice": {

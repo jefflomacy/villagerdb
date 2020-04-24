@@ -1,6 +1,8 @@
 {
   "id": "fringe-skirt",
-  "name": "Fringe Skirt",
+  "name": {
+    "en-US": "Fringe Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

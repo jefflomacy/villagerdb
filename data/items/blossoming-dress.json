@@ -1,6 +1,8 @@
 {
   "id": "blossoming-dress",
-  "name": "Blossoming Dress",
+  "name": {
+    "en-US": "Blossoming Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

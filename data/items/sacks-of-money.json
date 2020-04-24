@@ -1,6 +1,8 @@
 {
   "id": "sacks-of-money",
-  "name": "Sacks Of Money",
+  "name": {
+    "en-US": "Sacks Of Money"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

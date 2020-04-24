@@ -1,6 +1,8 @@
 {
   "id": "babouches",
-  "name": "Babouches",
+  "name": {
+    "en-US": "Babouches"
+  },
   "games": {
     "nh": {
       "sellPrice": {

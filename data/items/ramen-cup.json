@@ -1,6 +1,8 @@
 {
   "id": "ramen-cup",
-  "name": "Ramen Cup",
+  "name": {
+    "en-US": "Ramen Cup"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

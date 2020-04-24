@@ -1,6 +1,8 @@
 {
   "id": "hanging-terrarium",
-  "name": "Hanging Terrarium",
+  "name": {
+    "en-US": "Hanging Terrarium"
+  },
   "games": {
     "nh": {
       "sellPrice": {

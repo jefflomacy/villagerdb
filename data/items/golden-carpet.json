@@ -1,6 +1,8 @@
 {
   "id": "golden-carpet",
-  "name": "Golden Carpet",
+  "name": {
+    "en-US": "Golden Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

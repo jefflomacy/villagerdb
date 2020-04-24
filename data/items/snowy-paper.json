@@ -1,6 +1,8 @@
 {
   "id": "snowy-paper",
-  "name": "Snowy Paper",
+  "name": {
+    "en-US": "Snowy Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

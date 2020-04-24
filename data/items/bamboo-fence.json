@@ -1,6 +1,8 @@
 {
   "id": "bamboo-fence",
-  "name": "Bamboo Fence",
+  "name": {
+    "en-US": "Bamboo Fence"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

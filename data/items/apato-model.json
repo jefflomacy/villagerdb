@@ -1,6 +1,8 @@
 {
   "id": "apato-model",
-  "name": "Apato Model",
+  "name": {
+    "en-US": "Apato Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

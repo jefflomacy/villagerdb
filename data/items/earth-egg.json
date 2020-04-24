@@ -1,6 +1,8 @@
 {
   "id": "earth-egg",
-  "name": "Earth Egg",
+  "name": {
+    "en-US": "Earth Egg"
+  },
   "category": "Usables",
   "games": {
     "nl": {

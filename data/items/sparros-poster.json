@@ -1,6 +1,8 @@
 {
   "id": "sparros-poster",
-  "name": "Sparro's Poster",
+  "name": {
+    "en-US": "Sparro's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

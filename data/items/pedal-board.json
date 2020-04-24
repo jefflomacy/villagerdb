@@ -1,6 +1,8 @@
 {
   "id": "pedal-board",
-  "name": "Pedal Board",
+  "name": {
+    "en-US": "Pedal Board"
+  },
   "games": {
     "nh": {
       "sellPrice": {

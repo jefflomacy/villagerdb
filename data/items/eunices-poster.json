@@ -1,6 +1,8 @@
 {
   "id": "eunices-poster",
-  "name": "Eunice's Poster",
+  "name": {
+    "en-US": "Eunice's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

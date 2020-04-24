@@ -1,6 +1,8 @@
 {
   "id": "dark-wood-pattern-flooring",
-  "name": "Dark Wood-pattern Flooring",
+  "name": {
+    "en-US": "Dark Wood-pattern Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

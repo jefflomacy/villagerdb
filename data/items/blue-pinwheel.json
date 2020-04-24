@@ -1,6 +1,8 @@
 {
   "id": "blue-pinwheel",
-  "name": "Blue Pinwheel",
+  "name": {
+    "en-US": "Blue Pinwheel"
+  },
   "category": "Balloons",
   "games": {
     "nl": {

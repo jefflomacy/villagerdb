@@ -1,6 +1,8 @@
 {
   "id": "fish-umbrella",
-  "name": "Fish Umbrella",
+  "name": {
+    "en-US": "Fish Umbrella"
+  },
   "games": {
     "nh": {
       "sources": [

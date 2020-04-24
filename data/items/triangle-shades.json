@@ -1,6 +1,8 @@
 {
   "id": "triangle-shades",
-  "name": "Triangle Shades",
+  "name": {
+    "en-US": "Triangle Shades"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

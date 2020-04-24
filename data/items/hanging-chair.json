@@ -1,6 +1,8 @@
 {
   "id": "hanging-chair",
-  "name": "Hanging Chair",
+  "name": {
+    "en-US": "Hanging Chair"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

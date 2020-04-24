@@ -1,6 +1,8 @@
 {
   "id": "cherry-blossom-pond-stone",
-  "name": "Cherry-blossom Pond Stone",
+  "name": {
+    "en-US": "Cherry-blossom Pond Stone"
+  },
   "games": {
     "nh": {
       "orderable": false,

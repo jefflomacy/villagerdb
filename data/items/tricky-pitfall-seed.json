@@ -1,6 +1,8 @@
 {
   "id": "tricky-pitfall-seed",
-  "name": "Tricky Pitfall Seed",
+  "name": {
+    "en-US": "Tricky Pitfall Seed"
+  },
   "category": "Usables",
   "games": {
     "nl": {

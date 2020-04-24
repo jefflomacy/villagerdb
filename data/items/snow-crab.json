@@ -1,6 +1,8 @@
 {
   "id": "snow-crab",
-  "name": "Snow Crab",
+  "name": {
+    "en-US": "Snow Crab"
+  },
   "category": "Fish",
   "games": {
     "nl": {

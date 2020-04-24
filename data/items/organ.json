@@ -1,6 +1,8 @@
 {
   "id": "organ",
-  "name": "Organ",
+  "name": {
+    "en-US": "Organ"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

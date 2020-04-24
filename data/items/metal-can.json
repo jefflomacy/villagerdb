@@ -1,6 +1,8 @@
 {
   "id": "metal-can",
-  "name": "Metal Can",
+  "name": {
+    "en-US": "Metal Can"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

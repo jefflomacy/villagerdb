@@ -1,6 +1,8 @@
 {
   "id": "golden-seat",
-  "name": "Golden Seat",
+  "name": {
+    "en-US": "Golden Seat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

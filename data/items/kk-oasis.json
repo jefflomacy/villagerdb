@@ -1,6 +1,8 @@
 {
   "id": "kk-oasis",
-  "name": "K.K. Oasis",
+  "name": {
+    "en-US": "K.K. Oasis"
+  },
   "category": "Music",
   "games": {
     "nl": {

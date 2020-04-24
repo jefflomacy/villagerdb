@@ -1,6 +1,8 @@
 {
   "id": "megaphone",
-  "name": "Megaphone",
+  "name": {
+    "en-US": "Megaphone"
+  },
   "category": "Tools",
   "games": {
     "nl": {

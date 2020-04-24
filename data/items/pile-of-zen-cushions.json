@@ -1,6 +1,8 @@
 {
   "id": "pile-of-zen-cushions",
-  "name": "Pile Of Zen Cushions",
+  "name": {
+    "en-US": "Pile Of Zen Cushions"
+  },
   "games": {
     "nh": {
       "sellPrice": {

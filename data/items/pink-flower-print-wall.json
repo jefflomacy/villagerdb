@@ -1,6 +1,8 @@
 {
   "id": "pink-flower-print-wall",
-  "name": "Pink Flower-print Wall",
+  "name": {
+    "en-US": "Pink Flower-print Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

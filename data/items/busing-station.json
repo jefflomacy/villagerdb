@@ -1,6 +1,8 @@
 {
   "id": "busing-station",
-  "name": "Busing Station",
+  "name": {
+    "en-US": "Busing Station"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "pearl-oyster",
-  "name": "Pearl Oyster",
+  "name": {
+    "en-US": "Pearl Oyster"
+  },
   "category": "Fish",
   "games": {
     "nl": {

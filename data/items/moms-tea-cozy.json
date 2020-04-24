@@ -1,6 +1,8 @@
 {
   "id": "moms-tea-cozy",
-  "name": "Mom's Tea Cozy",
+  "name": {
+    "en-US": "Mom's Tea Cozy"
+  },
   "games": {
     "nh": {
       "orderable": false,

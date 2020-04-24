@@ -1,6 +1,8 @@
 {
   "id": "shopping-bag",
-  "name": "Shopping Bag",
+  "name": {
+    "en-US": "Shopping Bag"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

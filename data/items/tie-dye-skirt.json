@@ -1,6 +1,8 @@
 {
   "id": "tie-dye-skirt",
-  "name": "Tie-dye Skirt",
+  "name": {
+    "en-US": "Tie-dye Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

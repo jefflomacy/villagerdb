@@ -1,6 +1,8 @@
 {
   "id": "cafe-kk",
-  "name": "Café K.K.",
+  "name": {
+    "en-US": "Café K.K."
+  },
   "category": "Music",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "shirtdress",
-  "name": "Shirtdress",
+  "name": {
+    "en-US": "Shirtdress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

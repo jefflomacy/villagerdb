@@ -1,6 +1,8 @@
 {
   "id": "white-subway-tile-wall",
-  "name": "White Subway-tile Wall",
+  "name": {
+    "en-US": "White Subway-tile Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

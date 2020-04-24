@@ -1,6 +1,8 @@
 {
   "id": "gravel-flooring",
-  "name": "Gravel Flooring",
+  "name": {
+    "en-US": "Gravel Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

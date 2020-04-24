@@ -1,6 +1,8 @@
 {
   "id": "bread-basket",
-  "name": "Bread Basket",
+  "name": {
+    "en-US": "Bread Basket"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "halloween-paper",
-  "name": "Halloween Paper",
+  "name": {
+    "en-US": "Halloween Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

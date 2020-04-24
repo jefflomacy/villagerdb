@@ -1,6 +1,8 @@
 {
   "id": "pear-umbrella",
-  "name": "Pear Umbrella",
+  "name": {
+    "en-US": "Pear Umbrella"
+  },
   "games": {
     "nh": {
       "orderable": false,

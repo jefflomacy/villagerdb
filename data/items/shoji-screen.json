@@ -1,6 +1,8 @@
 {
   "id": "shoji-screen",
-  "name": "Shoji Screen",
+  "name": {
+    "en-US": "Shoji Screen"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

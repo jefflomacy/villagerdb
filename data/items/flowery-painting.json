@@ -1,6 +1,8 @@
 {
   "id": "flowery-painting",
-  "name": "Flowery Painting",
+  "name": {
+    "en-US": "Flowery Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

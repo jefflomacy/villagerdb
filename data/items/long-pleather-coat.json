@@ -1,6 +1,8 @@
 {
   "id": "long-pleather-coat",
-  "name": "Long Pleather Coat",
+  "name": {
+    "en-US": "Long Pleather Coat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

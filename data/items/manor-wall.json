@@ -1,6 +1,8 @@
 {
   "id": "manor-wall",
-  "name": "Manor Wall",
+  "name": {
+    "en-US": "Manor Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "oversized-shawl-overshirt",
-  "name": "Oversized Shawl Overshirt",
+  "name": {
+    "en-US": "Oversized Shawl Overshirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

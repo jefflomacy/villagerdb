@@ -1,6 +1,8 @@
 {
   "id": "comedians-pants",
-  "name": "Comedian's Pants",
+  "name": {
+    "en-US": "Comedian's Pants"
+  },
   "games": {
     "nh": {
       "sellPrice": {

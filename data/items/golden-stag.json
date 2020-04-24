@@ -1,6 +1,8 @@
 {
   "id": "golden-stag",
-  "name": "Golden Stag",
+  "name": {
+    "en-US": "Golden Stag"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

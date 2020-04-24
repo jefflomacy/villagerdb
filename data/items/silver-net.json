@@ -1,6 +1,8 @@
 {
   "id": "silver-net",
-  "name": "Silver Net",
+  "name": {
+    "en-US": "Silver Net"
+  },
   "category": "Tools",
   "games": {
     "nl": {

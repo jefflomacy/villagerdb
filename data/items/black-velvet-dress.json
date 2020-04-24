@@ -1,6 +1,8 @@
 {
   "id": "black-velvet-dress",
-  "name": "Black-velvet Dress",
+  "name": {
+    "en-US": "Black-velvet Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

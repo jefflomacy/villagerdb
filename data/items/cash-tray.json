@@ -1,6 +1,8 @@
 {
   "id": "cash-tray",
-  "name": "Cash Tray",
+  "name": {
+    "en-US": "Cash Tray"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

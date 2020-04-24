@@ -1,6 +1,8 @@
 {
   "id": "palico-board",
-  "name": "Palico Board",
+  "name": {
+    "en-US": "Palico Board"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

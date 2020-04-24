@@ -1,6 +1,8 @@
 {
   "id": "kk-samba",
-  "name": "K.K. Samba",
+  "name": {
+    "en-US": "K.K. Samba"
+  },
   "category": "Music",
   "games": {
     "nl": {

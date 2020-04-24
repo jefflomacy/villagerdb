@@ -1,6 +1,8 @@
 {
   "id": "party-wall",
-  "name": "Party Wall",
+  "name": {
+    "en-US": "Party Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

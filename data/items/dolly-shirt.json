@@ -1,6 +1,8 @@
 {
   "id": "dolly-shirt",
-  "name": "Dolly Shirt",
+  "name": {
+    "en-US": "Dolly Shirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

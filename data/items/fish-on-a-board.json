@@ -1,6 +1,8 @@
 {
   "id": "fish-on-a-board",
-  "name": "Fish On A Board",
+  "name": {
+    "en-US": "Fish On A Board"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

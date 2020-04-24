@@ -1,6 +1,8 @@
 {
   "id": "geometric-print-socks",
-  "name": "Geometric-print Socks",
+  "name": {
+    "en-US": "Geometric-print Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

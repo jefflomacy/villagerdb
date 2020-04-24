@@ -1,6 +1,8 @@
 {
   "id": "simple-wooden-fence",
-  "name": "Simple Wooden Fence",
+  "name": {
+    "en-US": "Simple Wooden Fence"
+  },
   "games": {
     "nh": {
       "orderable": false,

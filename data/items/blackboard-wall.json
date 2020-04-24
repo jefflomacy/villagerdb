@@ -1,6 +1,8 @@
 {
   "id": "blackboard-wall",
-  "name": "Blackboard Wall",
+  "name": {
+    "en-US": "Blackboard Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

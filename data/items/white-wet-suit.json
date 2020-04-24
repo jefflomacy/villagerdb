@@ -1,6 +1,8 @@
 {
   "id": "white-wet-suit",
-  "name": "White Wet Suit",
+  "name": {
+    "en-US": "White Wet Suit"
+  },
   "category": "Wetsuits",
   "games": {
     "nl": {

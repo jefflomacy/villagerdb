@@ -1,6 +1,8 @@
 {
   "id": "golden-shovel",
-  "name": "Golden Shovel",
+  "name": {
+    "en-US": "Golden Shovel"
+  },
   "category": "Tools",
   "games": {
     "nl": {

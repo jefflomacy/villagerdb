@@ -1,6 +1,8 @@
 {
   "id": "berry-gingham",
-  "name": "Berry Gingham",
+  "name": {
+    "en-US": "Berry Gingham"
+  },
   "category": "Tops",
   "games": {
     "ac": {

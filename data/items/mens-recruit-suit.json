@@ -1,6 +1,8 @@
 {
   "id": "mens-recruit-suit",
-  "name": "Men's Recruit Suit",
+  "name": {
+    "en-US": "Men's Recruit Suit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "double-bridge-glasses",
-  "name": "Double-bridge Glasses",
+  "name": {
+    "en-US": "Double-bridge Glasses"
+  },
   "games": {
     "nh": {
       "sources": [

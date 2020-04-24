@@ -1,6 +1,8 @@
 {
   "id": "kk-bossa",
-  "name": "K.K. Bossa",
+  "name": {
+    "en-US": "K.K. Bossa"
+  },
   "category": "Music",
   "games": {
     "nl": {

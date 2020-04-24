@@ -1,6 +1,8 @@
 {
   "id": "tweed-vest",
-  "name": "Tweed Vest",
+  "name": {
+    "en-US": "Tweed Vest"
+  },
   "games": {
     "nh": {
       "sellPrice": {

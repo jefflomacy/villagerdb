@@ -1,6 +1,8 @@
 {
   "id": "doras-poster",
-  "name": "Dora's Poster",
+  "name": {
+    "en-US": "Dora's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

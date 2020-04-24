@@ -1,6 +1,8 @@
 {
   "id": "ranch-flooring",
-  "name": "Ranch Flooring",
+  "name": {
+    "en-US": "Ranch Flooring"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

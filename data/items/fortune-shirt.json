@@ -1,6 +1,8 @@
 {
   "id": "fortune-shirt",
-  "name": "Fortune Shirt",
+  "name": {
+    "en-US": "Fortune Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "juramaia",
-  "name": "Juramaia",
+  "name": {
+    "en-US": "Juramaia"
+  },
   "games": {
     "nh": {
       "orderable": false,

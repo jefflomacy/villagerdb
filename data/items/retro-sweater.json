@@ -1,6 +1,8 @@
 {
   "id": "retro-sweater",
-  "name": "Retro Sweater",
+  "name": {
+    "en-US": "Retro Sweater"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "twinkle-shirt",
-  "name": "Twinkle Shirt",
+  "name": {
+    "en-US": "Twinkle Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

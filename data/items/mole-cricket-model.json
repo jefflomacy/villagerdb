@@ -1,6 +1,8 @@
 {
   "id": "mole-cricket-model",
-  "name": "Mole Cricket Model",
+  "name": {
+    "en-US": "Mole Cricket Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "brown-wooden-deck-rug",
-  "name": "Brown Wooden-deck Rug",
+  "name": {
+    "en-US": "Brown Wooden-deck Rug"
+  },
   "games": {
     "nh": {
       "sources": [

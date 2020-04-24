@@ -1,6 +1,8 @@
 {
   "id": "dinnerware",
-  "name": "Dinnerware",
+  "name": {
+    "en-US": "Dinnerware"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

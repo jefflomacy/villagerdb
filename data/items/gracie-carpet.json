@@ -1,6 +1,8 @@
 {
   "id": "gracie-carpet",
-  "name": "Gracie Carpet",
+  "name": {
+    "en-US": "Gracie Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "hermit-crab",
-  "name": "Hermit Crab",
+  "name": {
+    "en-US": "Hermit Crab"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

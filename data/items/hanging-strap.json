@@ -1,6 +1,8 @@
 {
   "id": "hanging-strap",
-  "name": "Hanging Strap",
+  "name": {
+    "en-US": "Hanging Strap"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "timbras-poster",
-  "name": "Timbra's Poster",
+  "name": {
+    "en-US": "Timbra's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

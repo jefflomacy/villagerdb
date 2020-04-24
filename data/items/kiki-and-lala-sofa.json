@@ -1,6 +1,8 @@
 {
   "id": "kiki-and-lala-sofa",
-  "name": "Kiki And Lala Sofa",
+  "name": {
+    "en-US": "Kiki And Lala Sofa"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

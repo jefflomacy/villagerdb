@@ -1,6 +1,8 @@
 {
   "id": "termite-mound",
-  "name": "Termite Mound",
+  "name": {
+    "en-US": "Termite Mound"
+  },
   "games": {
     "nh": {
       "sellPrice": {

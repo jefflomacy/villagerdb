@@ -1,6 +1,8 @@
 {
   "id": "danger-shirt",
-  "name": "Danger Shirt",
+  "name": {
+    "en-US": "Danger Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

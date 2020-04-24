@@ -1,6 +1,8 @@
 {
   "id": "new-years-cards",
-  "name": "New Year's Cards",
+  "name": {
+    "en-US": "New Year's Cards"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

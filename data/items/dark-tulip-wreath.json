@@ -1,6 +1,8 @@
 {
   "id": "dark-tulip-wreath",
-  "name": "Dark Tulip Wreath",
+  "name": {
+    "en-US": "Dark Tulip Wreath"
+  },
   "games": {
     "nh": {
       "sellPrice": {

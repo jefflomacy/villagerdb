@@ -1,6 +1,8 @@
 {
   "id": "coatigan",
-  "name": "Coatigan",
+  "name": {
+    "en-US": "Coatigan"
+  },
   "games": {
     "nh": {
       "sellPrice": {

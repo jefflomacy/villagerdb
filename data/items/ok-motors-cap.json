@@ -1,6 +1,8 @@
 {
   "id": "ok-motors-cap",
-  "name": "Ok Motors Cap",
+  "name": {
+    "en-US": "Ok Motors Cap"
+  },
   "games": {
     "nh": {
       "sellPrice": {

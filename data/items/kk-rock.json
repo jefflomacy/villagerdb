@@ -1,6 +1,8 @@
 {
   "id": "kk-rock",
-  "name": "K.K. Rock",
+  "name": {
+    "en-US": "K.K. Rock"
+  },
   "category": "Music",
   "games": {
     "nl": {

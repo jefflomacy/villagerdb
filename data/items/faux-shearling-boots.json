@@ -1,6 +1,8 @@
 {
   "id": "faux-shearling-boots",
-  "name": "Faux-shearling Boots",
+  "name": {
+    "en-US": "Faux-shearling Boots"
+  },
   "games": {
     "nh": {
       "sellPrice": {

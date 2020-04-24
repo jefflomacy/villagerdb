@@ -1,6 +1,8 @@
 {
   "id": "splatoon-tower",
-  "name": "Splatoon Tower",
+  "name": {
+    "en-US": "Splatoon Tower"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

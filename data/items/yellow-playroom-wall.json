@@ -1,6 +1,8 @@
 {
   "id": "yellow-playroom-wall",
-  "name": "Yellow Playroom Wall",
+  "name": {
+    "en-US": "Yellow Playroom Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

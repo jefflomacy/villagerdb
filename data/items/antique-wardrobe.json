@@ -1,6 +1,8 @@
 {
   "id": "antique-wardrobe",
-  "name": "Antique Wardrobe",
+  "name": {
+    "en-US": "Antique Wardrobe"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "sloppy-carpet",
-  "name": "Sloppy Carpet",
+  "name": {
+    "en-US": "Sloppy Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "kabuki-actor-yukata",
-  "name": "Kabuki-actor Yukata",
+  "name": {
+    "en-US": "Kabuki-actor Yukata"
+  },
   "games": {
     "nh": {
       "sellPrice": {

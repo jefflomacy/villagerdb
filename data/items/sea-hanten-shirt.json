@@ -1,6 +1,8 @@
 {
   "id": "sea-hanten-shirt",
-  "name": "Sea Hanten Shirt",
+  "name": {
+    "en-US": "Sea Hanten Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

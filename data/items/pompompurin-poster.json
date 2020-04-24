@@ -1,6 +1,8 @@
 {
   "id": "pompompurin-poster",
-  "name": "Pompompurin Poster",
+  "name": {
+    "en-US": "Pompompurin Poster"
+  },
   "games": {
     "nh": {
       "sources": [

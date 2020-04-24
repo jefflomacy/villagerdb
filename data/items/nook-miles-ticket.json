@@ -1,6 +1,8 @@
 {
   "id": "nook-miles-ticket",
-  "name": "Nook Miles Ticket",
+  "name": {
+    "en-US": "Nook Miles Ticket"
+  },
   "games": {
     "nh": {
       "sellPrice": {

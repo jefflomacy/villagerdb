@@ -1,6 +1,8 @@
 {
   "id": "zen-bridge",
-  "name": "Zen Bridge",
+  "name": {
+    "en-US": "Zen Bridge"
+  },
   "games": {
     "nh": {
       "buyPrices": [

@@ -1,6 +1,8 @@
 {
   "id": "inkopolis-sign",
-  "name": "Inkopolis Sign",
+  "name": {
+    "en-US": "Inkopolis Sign"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

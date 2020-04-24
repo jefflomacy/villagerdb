@@ -1,6 +1,8 @@
 {
   "id": "pine-cone",
-  "name": "Pine Cone",
+  "name": {
+    "en-US": "Pine Cone"
+  },
   "games": {
     "nh": {
       "sellPrice": {

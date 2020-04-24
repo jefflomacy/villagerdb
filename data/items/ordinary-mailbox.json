@@ -1,6 +1,8 @@
 {
   "id": "ordinary-mailbox",
-  "name": "Ordinary Mailbox",
+  "name": {
+    "en-US": "Ordinary Mailbox"
+  },
   "games": {
     "nh": {}
   },

@@ -1,6 +1,8 @@
 {
   "id": "jagged-shirt",
-  "name": "Jagged Shirt",
+  "name": {
+    "en-US": "Jagged Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

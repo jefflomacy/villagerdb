@@ -1,6 +1,8 @@
 {
   "id": "power-helmet",
-  "name": "Power Helmet",
+  "name": {
+    "en-US": "Power Helmet"
+  },
   "games": {
     "nh": {
       "sellPrice": {

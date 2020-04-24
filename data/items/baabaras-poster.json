@@ -1,6 +1,8 @@
 {
   "id": "baabaras-poster",
-  "name": "Baabara's Poster",
+  "name": {
+    "en-US": "Baabara's Poster"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "workout-top",
-  "name": "Workout Top",
+  "name": {
+    "en-US": "Workout Top"
+  },
   "games": {
     "nh": {
       "orderable": true,

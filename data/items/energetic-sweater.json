@@ -1,6 +1,8 @@
 {
   "id": "energetic-sweater",
-  "name": "Energetic Sweater",
+  "name": {
+    "en-US": "Energetic Sweater"
+  },
   "games": {
     "nh": {
       "sellPrice": {

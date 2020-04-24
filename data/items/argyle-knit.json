@@ -1,6 +1,8 @@
 {
   "id": "argyle-knit",
-  "name": "Argyle Knit",
+  "name": {
+    "en-US": "Argyle Knit"
+  },
   "category": "Tops",
   "games": {
     "ac": {

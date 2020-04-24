@@ -1,6 +1,8 @@
 {
   "id": "geometric-print-pants",
-  "name": "Geometric-print Pants",
+  "name": {
+    "en-US": "Geometric-print Pants"
+  },
   "games": {
     "nh": {
       "sellPrice": {

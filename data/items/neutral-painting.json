@@ -1,6 +1,8 @@
 {
   "id": "neutral-painting",
-  "name": "Neutral Painting",
+  "name": {
+    "en-US": "Neutral Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

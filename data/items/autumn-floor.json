@@ -1,6 +1,8 @@
 {
   "id": "autumn-floor",
-  "name": "Autumn Floor",
+  "name": {
+    "en-US": "Autumn Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

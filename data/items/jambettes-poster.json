@@ -1,6 +1,8 @@
 {
   "id": "jambettes-poster",
-  "name": "Jambette's Poster",
+  "name": {
+    "en-US": "Jambette's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

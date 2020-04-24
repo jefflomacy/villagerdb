@@ -1,6 +1,8 @@
 {
   "id": "new-hero-wig",
-  "name": "New Hero Wig",
+  "name": {
+    "en-US": "New Hero Wig"
+  },
   "category": "Hats",
   "games": {
     "nl": {

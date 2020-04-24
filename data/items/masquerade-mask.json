@@ -1,6 +1,8 @@
 {
   "id": "masquerade-mask",
-  "name": "Masquerade Mask",
+  "name": {
+    "en-US": "Masquerade Mask"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

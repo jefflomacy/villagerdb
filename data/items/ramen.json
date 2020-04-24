@@ -1,6 +1,8 @@
 {
   "id": "ramen",
-  "name": "Ramen",
+  "name": {
+    "en-US": "Ramen"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

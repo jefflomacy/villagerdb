@@ -1,6 +1,8 @@
 {
   "id": "tiger-beetle",
-  "name": "Tiger Beetle",
+  "name": {
+    "en-US": "Tiger Beetle"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

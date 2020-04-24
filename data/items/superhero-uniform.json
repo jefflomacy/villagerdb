@@ -1,6 +1,8 @@
 {
   "id": "superhero-uniform",
-  "name": "Superhero Uniform",
+  "name": {
+    "en-US": "Superhero Uniform"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "shiny-bow-platform-shoes",
-  "name": "Shiny Bow Platform Shoes",
+  "name": {
+    "en-US": "Shiny Bow Platform Shoes"
+  },
   "games": {
     "nh": {
       "sellPrice": {

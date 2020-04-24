@@ -1,6 +1,8 @@
 {
   "id": "botanical-tee",
-  "name": "Botanical Tee",
+  "name": {
+    "en-US": "Botanical Tee"
+  },
   "games": {
     "nh": {
       "sellPrice": {

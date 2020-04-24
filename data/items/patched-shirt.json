@@ -1,6 +1,8 @@
 {
   "id": "patched-shirt",
-  "name": "Patched Shirt",
+  "name": {
+    "en-US": "Patched Shirt"
+  },
   "category": "Tops",
   "games": {
     "nl": {

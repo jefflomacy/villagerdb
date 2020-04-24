@@ -1,6 +1,8 @@
 {
   "id": "lemon-double-scoop",
-  "name": "Lemon Double Scoop",
+  "name": {
+    "en-US": "Lemon Double Scoop"
+  },
   "category": "Usables",
   "games": {
     "nl": {

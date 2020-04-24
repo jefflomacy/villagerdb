@@ -1,6 +1,8 @@
 {
   "id": "cutting-board-set",
-  "name": "Cutting-board Set",
+  "name": {
+    "en-US": "Cutting-board Set"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

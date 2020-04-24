@@ -1,6 +1,8 @@
 {
   "id": "denim-shirt",
-  "name": "Denim Shirt",
+  "name": {
+    "en-US": "Denim Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

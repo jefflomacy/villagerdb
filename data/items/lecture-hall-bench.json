@@ -1,6 +1,8 @@
 {
   "id": "lecture-hall-bench",
-  "name": "Lecture-hall Bench",
+  "name": {
+    "en-US": "Lecture-hall Bench"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

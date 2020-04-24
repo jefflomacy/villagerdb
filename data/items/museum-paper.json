@@ -1,6 +1,8 @@
 {
   "id": "museum-paper",
-  "name": "Museum Paper",
+  "name": {
+    "en-US": "Museum Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

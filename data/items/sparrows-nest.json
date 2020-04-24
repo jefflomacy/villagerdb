@@ -1,6 +1,8 @@
 {
   "id": "sparrows-nest",
-  "name": "Sparrow's Nest",
+  "name": {
+    "en-US": "Sparrow's Nest"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

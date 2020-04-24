@@ -1,6 +1,8 @@
 {
   "id": "down-jacket",
-  "name": "Down Jacket",
+  "name": {
+    "en-US": "Down Jacket"
+  },
   "games": {
     "nh": {
       "sellPrice": {

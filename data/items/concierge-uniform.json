@@ -1,6 +1,8 @@
 {
   "id": "concierge-uniform",
-  "name": "Concierge Uniform",
+  "name": {
+    "en-US": "Concierge Uniform"
+  },
   "games": {
     "nh": {
       "sellPrice": {

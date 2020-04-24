@@ -1,6 +1,8 @@
 {
   "id": "hello-kitty-planter",
-  "name": "Hello Kitty Planter",
+  "name": {
+    "en-US": "Hello Kitty Planter"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

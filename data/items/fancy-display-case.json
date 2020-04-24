@@ -1,6 +1,8 @@
 {
   "id": "fancy-display-case",
-  "name": "Fancy Display Case",
+  "name": {
+    "en-US": "Fancy Display Case"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

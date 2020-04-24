@@ -1,6 +1,8 @@
 {
   "id": "normal-coffee-beans",
-  "name": "Normal Coffee Beans",
+  "name": {
+    "en-US": "Normal Coffee Beans"
+  },
   "category": "Usables",
   "games": {
     "nl": {

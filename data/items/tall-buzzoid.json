@@ -1,6 +1,8 @@
 {
   "id": "tall-buzzoid",
-  "name": "Tall Buzzoid",
+  "name": {
+    "en-US": "Tall Buzzoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "cleos-poster",
-  "name": "Cleo's Poster",
+  "name": {
+    "en-US": "Cleo's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

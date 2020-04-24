@@ -1,6 +1,8 @@
 {
   "id": "train-seat",
-  "name": "Train Seat",
+  "name": {
+    "en-US": "Train Seat"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

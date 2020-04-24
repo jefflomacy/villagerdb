@@ -1,6 +1,8 @@
 {
   "id": "centipede-model",
-  "name": "Centipede Model",
+  "name": {
+    "en-US": "Centipede Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

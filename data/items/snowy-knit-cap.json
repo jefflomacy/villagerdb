@@ -1,6 +1,8 @@
 {
   "id": "snowy-knit-cap",
-  "name": "Snowy Knit Cap",
+  "name": {
+    "en-US": "Snowy Knit Cap"
+  },
   "games": {
     "nh": {
       "sellPrice": {

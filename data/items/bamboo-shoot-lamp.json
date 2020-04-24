@@ -1,6 +1,8 @@
 {
   "id": "bamboo-shoot-lamp",
-  "name": "Bamboo-shoot Lamp",
+  "name": {
+    "en-US": "Bamboo-shoot Lamp"
+  },
   "games": {
     "nh": {
       "orderable": false,

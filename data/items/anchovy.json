@@ -1,6 +1,8 @@
 {
   "id": "anchovy",
-  "name": "Anchovy",
+  "name": {
+    "en-US": "Anchovy"
+  },
   "games": {
     "nh": {
       "orderable": false,

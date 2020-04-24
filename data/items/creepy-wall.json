@@ -1,6 +1,8 @@
 {
   "id": "creepy-wall",
-  "name": "Creepy Wall",
+  "name": {
+    "en-US": "Creepy Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

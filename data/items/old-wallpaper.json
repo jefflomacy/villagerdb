@@ -1,6 +1,8 @@
 {
   "id": "old-wallpaper",
-  "name": "Old Wallpaper",
+  "name": {
+    "en-US": "Old Wallpaper"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

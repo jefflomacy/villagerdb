@@ -1,6 +1,8 @@
 {
   "id": "blossoming-kimono",
-  "name": "Blossoming Kimono",
+  "name": {
+    "en-US": "Blossoming Kimono"
+  },
   "games": {
     "nh": {
       "sellPrice": {

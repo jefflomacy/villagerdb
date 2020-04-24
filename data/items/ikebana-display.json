@@ -1,6 +1,8 @@
 {
   "id": "ikebana-display",
-  "name": "Ikebana Display",
+  "name": {
+    "en-US": "Ikebana Display"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "culottes",
-  "name": "Culottes",
+  "name": {
+    "en-US": "Culottes"
+  },
   "games": {
     "nh": {
       "orderable": true,

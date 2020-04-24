@@ -1,6 +1,8 @@
 {
   "id": "yellow-kitchen-mat",
-  "name": "Yellow Kitchen Mat",
+  "name": {
+    "en-US": "Yellow Kitchen Mat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

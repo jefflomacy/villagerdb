@@ -1,6 +1,8 @@
 {
   "id": "forest-life",
-  "name": "Forest Life",
+  "name": {
+    "en-US": "Forest Life"
+  },
   "category": "Music",
   "games": {
     "nl": {

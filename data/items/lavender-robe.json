@@ -1,6 +1,8 @@
 {
   "id": "lavender-robe",
-  "name": "Lavender Robe",
+  "name": {
+    "en-US": "Lavender Robe"
+  },
   "category": "Tops",
   "games": {
     "ac": {

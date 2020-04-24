@@ -1,6 +1,8 @@
 {
   "id": "ant-model",
-  "name": "Ant Model",
+  "name": {
+    "en-US": "Ant Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

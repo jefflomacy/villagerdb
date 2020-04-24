@@ -1,6 +1,8 @@
 {
   "id": "mega-echoid",
-  "name": "Mega Echoid",
+  "name": {
+    "en-US": "Mega Echoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

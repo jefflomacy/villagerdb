@@ -1,6 +1,8 @@
 {
   "id": "heart-sweater",
-  "name": "Heart Sweater",
+  "name": {
+    "en-US": "Heart Sweater"
+  },
   "games": {
     "nh": {
       "sellPrice": {

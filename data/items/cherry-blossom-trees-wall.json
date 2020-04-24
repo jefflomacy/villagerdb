@@ -1,6 +1,8 @@
 {
   "id": "cherry-blossom-trees-wall",
-  "name": "Cherry-blossom-trees Wall",
+  "name": {
+    "en-US": "Cherry-blossom-trees Wall"
+  },
   "games": {
     "nh": {
       "orderable": false,

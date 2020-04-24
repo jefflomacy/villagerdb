@@ -1,6 +1,8 @@
 {
   "id": "ramshackle-floor",
-  "name": "Ramshackle Floor",
+  "name": {
+    "en-US": "Ramshackle Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

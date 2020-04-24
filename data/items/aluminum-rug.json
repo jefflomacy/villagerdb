@@ -1,6 +1,8 @@
 {
   "id": "aluminum-rug",
-  "name": "Aluminum Rug",
+  "name": {
+    "en-US": "Aluminum Rug"
+  },
   "games": {
     "nh": {
       "sources": [

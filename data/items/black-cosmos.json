@@ -1,6 +1,8 @@
 {
   "id": "black-cosmos",
-  "name": "Black Cosmos",
+  "name": {
+    "en-US": "Black Cosmos"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "vivid-tights",
-  "name": "Vivid Tights",
+  "name": {
+    "en-US": "Vivid Tights"
+  },
   "games": {
     "nh": {
       "sellPrice": {

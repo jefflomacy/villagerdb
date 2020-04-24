@@ -1,6 +1,8 @@
 {
   "id": "lily-wreath",
-  "name": "Lily Wreath",
+  "name": {
+    "en-US": "Lily Wreath"
+  },
   "games": {
     "nh": {
       "orderable": false,

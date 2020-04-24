@@ -1,6 +1,8 @@
 {
   "id": "electric-kick-scooter",
-  "name": "Electric Kick Scooter",
+  "name": {
+    "en-US": "Electric Kick Scooter"
+  },
   "games": {
     "nh": {
       "orderable": true,

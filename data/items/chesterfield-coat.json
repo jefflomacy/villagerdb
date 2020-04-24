@@ -1,6 +1,8 @@
 {
   "id": "chesterfield-coat",
-  "name": "Chesterfield Coat",
+  "name": {
+    "en-US": "Chesterfield Coat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

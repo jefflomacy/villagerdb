@@ -1,6 +1,8 @@
 {
   "id": "tall-harmonoid",
-  "name": "Tall Harmonoid",
+  "name": {
+    "en-US": "Tall Harmonoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

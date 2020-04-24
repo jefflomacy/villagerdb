@@ -1,6 +1,8 @@
 {
   "id": "styraco-model",
-  "name": "Styraco Model",
+  "name": {
+    "en-US": "Styraco Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

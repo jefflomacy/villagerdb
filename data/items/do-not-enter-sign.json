@@ -1,6 +1,8 @@
 {
   "id": "do-not-enter-sign",
-  "name": "Do-not-enter Sign",
+  "name": {
+    "en-US": "Do-not-enter Sign"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

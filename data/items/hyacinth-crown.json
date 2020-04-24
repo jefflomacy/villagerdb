@@ -1,6 +1,8 @@
 {
   "id": "hyacinth-crown",
-  "name": "Hyacinth Crown",
+  "name": {
+    "en-US": "Hyacinth Crown"
+  },
   "games": {
     "nh": {
       "sellPrice": {

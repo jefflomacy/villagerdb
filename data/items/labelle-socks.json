@@ -1,6 +1,8 @@
 {
   "id": "labelle-socks",
-  "name": "Labelle Socks",
+  "name": {
+    "en-US": "Labelle Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

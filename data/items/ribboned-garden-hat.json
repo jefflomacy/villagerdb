@@ -1,6 +1,8 @@
 {
   "id": "ribboned-garden-hat",
-  "name": "Ribboned Garden Hat",
+  "name": {
+    "en-US": "Ribboned Garden Hat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

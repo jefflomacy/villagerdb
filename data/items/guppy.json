@@ -1,6 +1,8 @@
 {
   "id": "guppy",
-  "name": "Guppy",
+  "name": {
+    "en-US": "Guppy"
+  },
   "category": "Fish",
   "games": {
     "nl": {

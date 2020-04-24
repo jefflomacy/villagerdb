@@ -1,6 +1,8 @@
 {
   "id": "pen-case-chair",
-  "name": "Pen-case Chair",
+  "name": {
+    "en-US": "Pen-case Chair"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

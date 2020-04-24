@@ -1,6 +1,8 @@
 {
   "id": "huge-shades",
-  "name": "Huge Shades",
+  "name": {
+    "en-US": "Huge Shades"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

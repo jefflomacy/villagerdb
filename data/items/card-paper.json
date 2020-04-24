@@ -1,6 +1,8 @@
 {
   "id": "card-paper",
-  "name": "Card Paper",
+  "name": {
+    "en-US": "Card Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

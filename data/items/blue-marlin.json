@@ -1,6 +1,8 @@
 {
   "id": "blue-marlin",
-  "name": "Blue Marlin",
+  "name": {
+    "en-US": "Blue Marlin"
+  },
   "category": "Fish",
   "games": {
     "nl": {

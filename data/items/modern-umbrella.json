@@ -1,6 +1,8 @@
 {
   "id": "modern-umbrella",
-  "name": "Modern Umbrella",
+  "name": {
+    "en-US": "Modern Umbrella"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

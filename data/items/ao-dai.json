@@ -1,6 +1,8 @@
 {
   "id": "ao-dai",
-  "name": "Áo Dài",
+  "name": {
+    "en-US": "Áo Dài"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "sprite-costume",
-  "name": "Sprite Costume",
+  "name": {
+    "en-US": "Sprite Costume"
+  },
   "games": {
     "nh": {
       "orderable": true,

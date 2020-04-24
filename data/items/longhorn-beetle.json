@@ -1,6 +1,8 @@
 {
   "id": "longhorn-beetle",
-  "name": "Longhorn Beetle",
+  "name": {
+    "en-US": "Longhorn Beetle"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

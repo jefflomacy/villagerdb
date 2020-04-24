@@ -1,6 +1,8 @@
 {
   "id": "crayons",
-  "name": "Crayons",
+  "name": {
+    "en-US": "Crayons"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

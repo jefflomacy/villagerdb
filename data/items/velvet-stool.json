@@ -1,6 +1,8 @@
 {
   "id": "velvet-stool",
-  "name": "Velvet Stool",
+  "name": {
+    "en-US": "Velvet Stool"
+  },
   "games": {
     "nh": {
       "orderable": true,

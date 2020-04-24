@@ -1,6 +1,8 @@
 {
   "id": "dark-herringbone-flooring",
-  "name": "Dark Herringbone Flooring",
+  "name": {
+    "en-US": "Dark Herringbone Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

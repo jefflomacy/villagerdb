@@ -1,6 +1,8 @@
 {
   "id": "texs-poster",
-  "name": "Tex's Poster",
+  "name": {
+    "en-US": "Tex's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

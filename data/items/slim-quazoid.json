@@ -1,6 +1,8 @@
 {
   "id": "slim-quazoid",
-  "name": "Slim Quazoid",
+  "name": {
+    "en-US": "Slim Quazoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

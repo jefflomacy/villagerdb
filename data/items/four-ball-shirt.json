@@ -1,6 +1,8 @@
 {
   "id": "four-ball-shirt",
-  "name": "Four-Ball Shirt",
+  "name": {
+    "en-US": "Four-Ball Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

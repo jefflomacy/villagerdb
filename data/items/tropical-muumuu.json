@@ -1,6 +1,8 @@
 {
   "id": "tropical-muumuu",
-  "name": "Tropical Muumuu",
+  "name": {
+    "en-US": "Tropical Muumuu"
+  },
   "games": {
     "nh": {
       "sellPrice": {

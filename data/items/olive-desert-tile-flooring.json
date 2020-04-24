@@ -1,6 +1,8 @@
 {
   "id": "olive-desert-tile-flooring",
-  "name": "Olive Desert-tile Flooring",
+  "name": {
+    "en-US": "Olive Desert-tile Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

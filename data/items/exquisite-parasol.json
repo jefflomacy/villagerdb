@@ -1,6 +1,8 @@
 {
   "id": "exquisite-parasol",
-  "name": "Exquisite Parasol",
+  "name": {
+    "en-US": "Exquisite Parasol"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "animal-stripes-tee",
-  "name": "Animal-stripes Tee",
+  "name": {
+    "en-US": "Animal-stripes Tee"
+  },
   "games": {
     "nh": {
       "sellPrice": {

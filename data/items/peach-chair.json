@@ -1,6 +1,8 @@
 {
   "id": "peach-chair",
-  "name": "Peach Chair",
+  "name": {
+    "en-US": "Peach Chair"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "white-tulip",
-  "name": "White Tulip",
+  "name": {
+    "en-US": "White Tulip"
+  },
   "category": "Flowers",
   "games": {
     "nh": {

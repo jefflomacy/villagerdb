@@ -1,6 +1,8 @@
 {
   "id": "iron-garden-table",
-  "name": "Iron Garden Table",
+  "name": {
+    "en-US": "Iron Garden Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "tall-sputnoid",
-  "name": "Tall Sputnoid",
+  "name": {
+    "en-US": "Tall Sputnoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

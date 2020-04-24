@@ -1,6 +1,8 @@
 {
   "id": "mossy-garden-wall",
-  "name": "Mossy-garden Wall",
+  "name": {
+    "en-US": "Mossy-garden Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

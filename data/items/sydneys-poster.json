@@ -1,6 +1,8 @@
 {
   "id": "sydneys-poster",
-  "name": "Sydney's Poster",
+  "name": {
+    "en-US": "Sydney's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

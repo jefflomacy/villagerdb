@@ -1,6 +1,8 @@
 {
   "id": "rubber-apron",
-  "name": "Rubber Apron",
+  "name": {
+    "en-US": "Rubber Apron"
+  },
   "category": "Tops",
   "games": {
     "nl": {

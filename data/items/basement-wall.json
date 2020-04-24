@@ -1,6 +1,8 @@
 {
   "id": "basement-wall",
-  "name": "Basement Wall",
+  "name": {
+    "en-US": "Basement Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

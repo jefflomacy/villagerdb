@@ -1,6 +1,8 @@
 {
   "id": "portias-photo",
-  "name": "Portia's Photo",
+  "name": {
+    "en-US": "Portia's Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

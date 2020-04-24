@@ -1,6 +1,8 @@
 {
   "id": "nintendo-paper",
-  "name": "Nintendo Paper",
+  "name": {
+    "en-US": "Nintendo Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

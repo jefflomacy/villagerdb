@@ -1,6 +1,8 @@
 {
   "id": "soft-serve-hat",
-  "name": "Soft-serve Hat",
+  "name": {
+    "en-US": "Soft-serve Hat"
+  },
   "games": {
     "nh": {
       "orderable": true,

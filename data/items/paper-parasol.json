@@ -1,6 +1,8 @@
 {
   "id": "paper-parasol",
-  "name": "Paper Parasol",
+  "name": {
+    "en-US": "Paper Parasol"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

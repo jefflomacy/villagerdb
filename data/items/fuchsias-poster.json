@@ -1,6 +1,8 @@
 {
   "id": "fuchsias-poster",
-  "name": "Fuchsia's Poster",
+  "name": {
+    "en-US": "Fuchsia's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

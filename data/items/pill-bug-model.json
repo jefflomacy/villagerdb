@@ -1,6 +1,8 @@
 {
   "id": "pill-bug-model",
-  "name": "Pill Bug Model",
+  "name": {
+    "en-US": "Pill Bug Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "sleeveless-shirtdress",
-  "name": "Sleeveless Shirtdress",
+  "name": {
+    "en-US": "Sleeveless Shirtdress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

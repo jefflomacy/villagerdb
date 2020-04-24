@@ -1,6 +1,8 @@
 {
   "id": "neon-tights",
-  "name": "Neon Tights",
+  "name": {
+    "en-US": "Neon Tights"
+  },
   "games": {
     "nh": {
       "sellPrice": {

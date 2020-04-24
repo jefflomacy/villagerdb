@@ -1,6 +1,8 @@
 {
   "id": "vivid-leggings",
-  "name": "Vivid Leggings",
+  "name": {
+    "en-US": "Vivid Leggings"
+  },
   "games": {
     "nh": {
       "orderable": true,

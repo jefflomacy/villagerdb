@@ -1,6 +1,8 @@
 {
   "id": "gumdrop-shoulder-bag",
-  "name": "Gumdrop Shoulder Bag",
+  "name": {
+    "en-US": "Gumdrop Shoulder Bag"
+  },
   "games": {
     "nh": {
       "sellPrice": {

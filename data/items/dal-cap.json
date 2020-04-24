@@ -1,6 +1,8 @@
 {
   "id": "dal-cap",
-  "name": "Dal Cap",
+  "name": {
+    "en-US": "Dal Cap"
+  },
   "games": {
     "nh": {
       "sellPrice": {

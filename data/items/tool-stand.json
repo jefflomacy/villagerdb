@@ -1,6 +1,8 @@
 {
   "id": "tool-stand",
-  "name": "Tool Stand",
+  "name": {
+    "en-US": "Tool Stand"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

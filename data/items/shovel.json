@@ -1,6 +1,8 @@
 {
   "id": "shovel",
-  "name": "Shovel",
+  "name": {
+    "en-US": "Shovel"
+  },
   "category": "Tools",
   "games": {
     "nl": {

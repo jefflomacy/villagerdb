@@ -1,6 +1,8 @@
 {
   "id": "fish-wand",
-  "name": "Fish Wand",
+  "name": {
+    "en-US": "Fish Wand"
+  },
   "games": {
     "nh": {
       "orderable": false,

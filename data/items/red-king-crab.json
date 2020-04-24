@@ -1,6 +1,8 @@
 {
   "id": "red-king-crab",
-  "name": "Red King Crab",
+  "name": {
+    "en-US": "Red King Crab"
+  },
   "category": "Fish",
   "games": {
     "nl": {

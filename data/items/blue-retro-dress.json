@@ -1,6 +1,8 @@
 {
   "id": "blue-retro-dress",
-  "name": "Blue Retro Dress",
+  "name": {
+    "en-US": "Blue Retro Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

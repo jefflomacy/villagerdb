@@ -1,6 +1,8 @@
 {
   "id": "violets-poster",
-  "name": "Violet's Poster",
+  "name": {
+    "en-US": "Violet's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

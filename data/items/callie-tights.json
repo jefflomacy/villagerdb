@@ -1,6 +1,8 @@
 {
   "id": "callie-tights",
-  "name": "Callie Tights",
+  "name": {
+    "en-US": "Callie Tights"
+  },
   "category": "Socks",
   "games": {
     "nl": {

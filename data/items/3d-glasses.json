@@ -1,6 +1,8 @@
 {
   "id": "3d-glasses",
-  "name": "3D Glasses",
+  "name": {
+    "en-US": "3D Glasses"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

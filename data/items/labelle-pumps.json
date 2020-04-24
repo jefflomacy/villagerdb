@@ -1,6 +1,8 @@
 {
   "id": "labelle-pumps",
-  "name": "Labelle Pumps",
+  "name": {
+    "en-US": "Labelle Pumps"
+  },
   "games": {
     "nh": {
       "sellPrice": {

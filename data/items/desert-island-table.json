@@ -1,6 +1,8 @@
 {
   "id": "desert-island-table",
-  "name": "Desert Island Table",
+  "name": {
+    "en-US": "Desert Island Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

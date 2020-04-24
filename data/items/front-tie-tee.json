@@ -1,6 +1,8 @@
 {
   "id": "front-tie-tee",
-  "name": "Front-tie Tee",
+  "name": {
+    "en-US": "Front-tie Tee"
+  },
   "games": {
     "nh": {
       "sellPrice": {

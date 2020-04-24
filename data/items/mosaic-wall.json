@@ -1,6 +1,8 @@
 {
   "id": "mosaic-wall",
-  "name": "Mosaic Wall",
+  "name": {
+    "en-US": "Mosaic Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

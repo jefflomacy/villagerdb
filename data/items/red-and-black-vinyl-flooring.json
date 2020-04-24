@@ -1,6 +1,8 @@
 {
   "id": "red-and-black-vinyl-flooring",
-  "name": "Red-and-black Vinyl Flooring",
+  "name": {
+    "en-US": "Red-and-black Vinyl Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

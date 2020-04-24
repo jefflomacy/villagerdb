@@ -1,6 +1,8 @@
 {
   "id": "mini-poltergoid",
-  "name": "Mini Poltergoid",
+  "name": {
+    "en-US": "Mini Poltergoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

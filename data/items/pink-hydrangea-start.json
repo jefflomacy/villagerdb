@@ -1,6 +1,8 @@
 {
   "id": "pink-hydrangea-start",
-  "name": "Pink-hydrangea Start",
+  "name": {
+    "en-US": "Pink-hydrangea Start"
+  },
   "category": "Trees",
   "games": {
     "nl": {

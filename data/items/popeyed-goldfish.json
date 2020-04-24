@@ -1,6 +1,8 @@
 {
   "id": "popeyed-goldfish",
-  "name": "Popeyed Goldfish",
+  "name": {
+    "en-US": "Popeyed Goldfish"
+  },
   "category": "Fish",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "lab-wall",
-  "name": "Lab Wall",
+  "name": {
+    "en-US": "Lab Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "sherbet-gingham",
-  "name": "Sherbet Gingham",
+  "name": {
+    "en-US": "Sherbet Gingham"
+  },
   "category": "Tops",
   "games": {
     "ac": {

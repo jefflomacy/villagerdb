@@ -1,6 +1,8 @@
 {
   "id": "kiddie-wall",
-  "name": "Kiddie Wall",
+  "name": {
+    "en-US": "Kiddie Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

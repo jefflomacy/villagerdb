@@ -1,6 +1,8 @@
 {
   "id": "ocean-paper",
-  "name": "Ocean Paper",
+  "name": {
+    "en-US": "Ocean Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "pink-quilt-wall",
-  "name": "Pink Quilt Wall",
+  "name": {
+    "en-US": "Pink Quilt Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

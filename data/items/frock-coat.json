@@ -1,6 +1,8 @@
 {
   "id": "frock-coat",
-  "name": "Frock Coat",
+  "name": {
+    "en-US": "Frock Coat"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

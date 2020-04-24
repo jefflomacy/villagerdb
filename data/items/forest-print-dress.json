@@ -1,6 +1,8 @@
 {
   "id": "forest-print-dress",
-  "name": "Forest-print Dress",
+  "name": {
+    "en-US": "Forest-print Dress"
+  },
   "games": {
     "nh": {
       "orderable": true,

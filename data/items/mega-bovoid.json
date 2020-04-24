@@ -1,6 +1,8 @@
 {
   "id": "mega-bovoid",
-  "name": "Mega Bovoid",
+  "name": {
+    "en-US": "Mega Bovoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

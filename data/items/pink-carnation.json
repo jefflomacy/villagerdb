@@ -1,6 +1,8 @@
 {
   "id": "pink-carnation",
-  "name": "Pink Carnation",
+  "name": {
+    "en-US": "Pink Carnation"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "sporks-poster",
-  "name": "Spork's Poster",
+  "name": {
+    "en-US": "Spork's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

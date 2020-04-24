@@ -1,6 +1,8 @@
 {
   "id": "wasp",
-  "name": "Wasp",
+  "name": {
+    "en-US": "Wasp"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "cute-paint-flooring",
-  "name": "Cute-paint Flooring",
+  "name": {
+    "en-US": "Cute-paint Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

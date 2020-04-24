@@ -1,6 +1,8 @@
 {
   "id": "market-place-decoration",
-  "name": "Market Place Decoration",
+  "name": {
+    "en-US": "Market Place Decoration"
+  },
   "games": {
     "nh": {
       "sellPrice": {

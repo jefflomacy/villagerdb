@@ -1,6 +1,8 @@
 {
   "id": "sporty-shades",
-  "name": "Sporty Shades",
+  "name": {
+    "en-US": "Sporty Shades"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

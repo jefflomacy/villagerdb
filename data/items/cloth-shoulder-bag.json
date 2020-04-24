@@ -1,6 +1,8 @@
 {
   "id": "cloth-shoulder-bag",
-  "name": "Cloth Shoulder Bag",
+  "name": {
+    "en-US": "Cloth Shoulder Bag"
+  },
   "games": {
     "nh": {
       "orderable": true,

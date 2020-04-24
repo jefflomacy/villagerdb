@@ -1,6 +1,8 @@
 {
   "id": "labelle-hat",
-  "name": "Labelle Hat",
+  "name": {
+    "en-US": "Labelle Hat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

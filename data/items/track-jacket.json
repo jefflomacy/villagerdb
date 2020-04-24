@@ -1,6 +1,8 @@
 {
   "id": "track-jacket",
-  "name": "Track Jacket",
+  "name": {
+    "en-US": "Track Jacket"
+  },
   "games": {
     "nh": {
       "sellPrice": {

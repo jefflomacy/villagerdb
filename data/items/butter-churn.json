@@ -1,6 +1,8 @@
 {
   "id": "butter-churn",
-  "name": "Butter Churn",
+  "name": {
+    "en-US": "Butter Churn"
+  },
   "games": {
     "nh": {
       "orderable": false,

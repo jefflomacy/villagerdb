@@ -1,6 +1,8 @@
 {
   "id": "butterfly-shades",
-  "name": "Butterfly Shades",
+  "name": {
+    "en-US": "Butterfly Shades"
+  },
   "games": {
     "nh": {
       "orderable": true,

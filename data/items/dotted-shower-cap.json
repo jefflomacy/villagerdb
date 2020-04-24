@@ -1,6 +1,8 @@
 {
   "id": "dotted-shower-cap",
-  "name": "Dotted Shower Cap",
+  "name": {
+    "en-US": "Dotted Shower Cap"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "brick-well",
-  "name": "Brick Well",
+  "name": {
+    "en-US": "Brick Well"
+  },
   "games": {
     "nh": {
       "orderable": false,

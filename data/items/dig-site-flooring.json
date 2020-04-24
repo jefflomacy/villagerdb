@@ -1,6 +1,8 @@
 {
   "id": "dig-site-flooring",
-  "name": "Dig-site Flooring",
+  "name": {
+    "en-US": "Dig-site Flooring"
+  },
   "games": {
     "nh": {
       "orderable": false,

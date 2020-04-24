@@ -1,6 +1,8 @@
 {
   "id": "ice-cream-display",
-  "name": "Ice-cream Display",
+  "name": {
+    "en-US": "Ice-cream Display"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "yellow-leaf-pile",
-  "name": "Yellow-leaf Pile",
+  "name": {
+    "en-US": "Yellow-leaf Pile"
+  },
   "games": {
     "nh": {
       "sellPrice": {

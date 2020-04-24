@@ -1,6 +1,8 @@
 {
   "id": "square-backpack",
-  "name": "Square Backpack",
+  "name": {
+    "en-US": "Square Backpack"
+  },
   "games": {
     "nh": {
       "sellPrice": {

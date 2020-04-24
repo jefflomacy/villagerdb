@@ -1,6 +1,8 @@
 {
   "id": "kiddie-carpet",
-  "name": "Kiddie Carpet",
+  "name": {
+    "en-US": "Kiddie Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

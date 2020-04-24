@@ -1,6 +1,8 @@
 {
   "id": "vintage-tv-tray",
-  "name": "Vintage Tv Tray",
+  "name": {
+    "en-US": "Vintage Tv Tray"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "new-years-hat",
-  "name": "New Year's Hat",
+  "name": {
+    "en-US": "New Year's Hat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

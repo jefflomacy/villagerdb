@@ -1,6 +1,8 @@
 {
   "id": "dung-beetle",
-  "name": "Dung Beetle",
+  "name": {
+    "en-US": "Dung Beetle"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "macs-poster",
-  "name": "Mac's Poster",
+  "name": {
+    "en-US": "Mac's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "sauna-heater",
-  "name": "Sauna Heater",
+  "name": {
+    "en-US": "Sauna Heater"
+  },
   "games": {
     "nh": {
       "orderable": false,

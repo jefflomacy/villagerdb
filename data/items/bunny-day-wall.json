@@ -1,6 +1,8 @@
 {
   "id": "bunny-day-wall",
-  "name": "Bunny Day Wall",
+  "name": {
+    "en-US": "Bunny Day Wall"
+  },
   "games": {
     "nh": {
       "orderable": false,

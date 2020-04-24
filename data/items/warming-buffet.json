@@ -1,6 +1,8 @@
 {
   "id": "warming-buffet",
-  "name": "Warming Buffet",
+  "name": {
+    "en-US": "Warming Buffet"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

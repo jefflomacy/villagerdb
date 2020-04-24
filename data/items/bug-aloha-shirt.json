@@ -1,6 +1,8 @@
 {
   "id": "bug-aloha-shirt",
-  "name": "Bug Aloha Shirt",
+  "name": {
+    "en-US": "Bug Aloha Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

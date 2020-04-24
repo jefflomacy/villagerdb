@@ -1,6 +1,8 @@
 {
   "id": "athletic-jacket",
-  "name": "Athletic Jacket",
+  "name": {
+    "en-US": "Athletic Jacket"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "lovely-carpet",
-  "name": "Lovely Carpet",
+  "name": {
+    "en-US": "Lovely Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

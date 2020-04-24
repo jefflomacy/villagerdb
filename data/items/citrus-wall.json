@@ -1,6 +1,8 @@
 {
   "id": "citrus-wall",
-  "name": "Citrus Wall",
+  "name": {
+    "en-US": "Citrus Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

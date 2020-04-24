@@ -1,6 +1,8 @@
 {
   "id": "marble-print-dress",
-  "name": "Marble-print Dress",
+  "name": {
+    "en-US": "Marble-print Dress"
+  },
   "games": {
     "nh": {
       "orderable": true,

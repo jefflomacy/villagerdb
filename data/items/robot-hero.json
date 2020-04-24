@@ -1,6 +1,8 @@
 {
   "id": "robot-hero",
-  "name": "Robot Hero",
+  "name": {
+    "en-US": "Robot Hero"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

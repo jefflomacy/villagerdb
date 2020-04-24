@@ -1,6 +1,8 @@
 {
   "id": "ladybug-shirt",
-  "name": "Ladybug Shirt",
+  "name": {
+    "en-US": "Ladybug Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

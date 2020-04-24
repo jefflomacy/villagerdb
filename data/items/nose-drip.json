@@ -1,6 +1,8 @@
 {
   "id": "nose-drip",
-  "name": "Nose Drip",
+  "name": {
+    "en-US": "Nose Drip"
+  },
   "games": {
     "nh": {
       "orderable": true,

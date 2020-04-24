@@ -1,6 +1,8 @@
 {
   "id": "summit-wall",
-  "name": "Summit Wall",
+  "name": {
+    "en-US": "Summit Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "pleather-fringe-bag",
-  "name": "Pleather Fringe Bag",
+  "name": {
+    "en-US": "Pleather Fringe Bag"
+  },
   "games": {
     "nh": {
       "sellPrice": {

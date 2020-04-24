@@ -1,6 +1,8 @@
 {
   "id": "colored-leaves-flooring",
-  "name": "Colored-leaves Flooring",
+  "name": {
+    "en-US": "Colored-leaves Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

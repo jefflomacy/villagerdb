@@ -1,6 +1,8 @@
 {
   "id": "alpinist-dress",
-  "name": "Alpinist Dress",
+  "name": {
+    "en-US": "Alpinist Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

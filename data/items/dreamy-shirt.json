@@ -1,6 +1,8 @@
 {
   "id": "dreamy-shirt",
-  "name": "Dreamy Shirt",
+  "name": {
+    "en-US": "Dreamy Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

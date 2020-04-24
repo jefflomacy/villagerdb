@@ -1,6 +1,8 @@
 {
   "id": "light-wood-pattern-flooring",
-  "name": "Light Wood-pattern Flooring",
+  "name": {
+    "en-US": "Light Wood-pattern Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

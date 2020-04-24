@@ -1,6 +1,8 @@
 {
   "id": "leaf-campfire",
-  "name": "Leaf Campfire",
+  "name": {
+    "en-US": "Leaf Campfire"
+  },
   "games": {
     "nh": {
       "customizable": true,

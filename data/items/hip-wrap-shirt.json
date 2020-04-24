@@ -1,6 +1,8 @@
 {
   "id": "hip-wrap-shirt",
-  "name": "Hip-wrap Shirt",
+  "name": {
+    "en-US": "Hip-wrap Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

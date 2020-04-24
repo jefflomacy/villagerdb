@@ -1,6 +1,8 @@
 {
   "id": "pompompurin-shoes",
-  "name": "Pompompurin Shoes",
+  "name": {
+    "en-US": "Pompompurin Shoes"
+  },
   "category": "Shoes",
   "games": {
     "nl": {

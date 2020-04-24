@@ -1,6 +1,8 @@
 {
   "id": "horned-hercules",
-  "name": "Horned Hercules",
+  "name": {
+    "en-US": "Horned Hercules"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

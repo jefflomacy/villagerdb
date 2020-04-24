@@ -1,6 +1,8 @@
 {
   "id": "backgammon-wall",
-  "name": "Backgammon Wall",
+  "name": {
+    "en-US": "Backgammon Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

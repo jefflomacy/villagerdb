@@ -1,6 +1,8 @@
 {
   "id": "silver-can",
-  "name": "Silver Can",
+  "name": {
+    "en-US": "Silver Can"
+  },
   "category": "Tools",
   "games": {
     "nl": {

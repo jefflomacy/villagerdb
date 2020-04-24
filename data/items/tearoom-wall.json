@@ -1,6 +1,8 @@
 {
   "id": "tearoom-wall",
-  "name": "Tearoom Wall",
+  "name": {
+    "en-US": "Tearoom Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

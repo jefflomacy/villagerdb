@@ -1,6 +1,8 @@
 {
   "id": "emperor-butterfly",
-  "name": "Emperor Butterfly",
+  "name": {
+    "en-US": "Emperor Butterfly"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

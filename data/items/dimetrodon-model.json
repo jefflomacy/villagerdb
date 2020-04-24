@@ -1,6 +1,8 @@
 {
   "id": "dimetrodon-model",
-  "name": "Dimetrodon Model",
+  "name": {
+    "en-US": "Dimetrodon Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

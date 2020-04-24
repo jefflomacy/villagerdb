@@ -1,6 +1,8 @@
 {
   "id": "violin-beetle-model",
-  "name": "Violin Beetle Model",
+  "name": {
+    "en-US": "Violin Beetle Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

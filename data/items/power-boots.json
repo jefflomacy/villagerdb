@@ -1,6 +1,8 @@
 {
   "id": "power-boots",
-  "name": "Power Boots",
+  "name": {
+    "en-US": "Power Boots"
+  },
   "games": {
     "nh": {
       "sellPrice": {

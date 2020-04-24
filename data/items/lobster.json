@@ -1,6 +1,8 @@
 {
   "id": "lobster",
-  "name": "Lobster",
+  "name": {
+    "en-US": "Lobster"
+  },
   "category": "Fish",
   "games": {
     "nl": {

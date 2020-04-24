@@ -1,6 +1,8 @@
 {
   "id": "climbing-wall",
-  "name": "Climbing Wall",
+  "name": {
+    "en-US": "Climbing Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

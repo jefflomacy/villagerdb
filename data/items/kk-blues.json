@@ -1,6 +1,8 @@
 {
   "id": "kk-blues",
-  "name": "K.K. Blues",
+  "name": {
+    "en-US": "K.K. Blues"
+  },
   "category": "Music",
   "games": {
     "nl": {

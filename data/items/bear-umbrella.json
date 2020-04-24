@@ -1,6 +1,8 @@
 {
   "id": "bear-umbrella",
-  "name": "Bear Umbrella",
+  "name": {
+    "en-US": "Bear Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

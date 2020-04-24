@@ -1,6 +1,8 @@
 {
   "id": "lovely-cosmos-crown",
-  "name": "Lovely Cosmos Crown",
+  "name": {
+    "en-US": "Lovely Cosmos Crown"
+  },
   "games": {
     "nh": {
       "sellPrice": {

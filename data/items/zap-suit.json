@@ -1,6 +1,8 @@
 {
   "id": "zap-suit",
-  "name": "Zap Suit",
+  "name": {
+    "en-US": "Zap Suit"
+  },
   "games": {
     "nh": {
       "orderable": true,

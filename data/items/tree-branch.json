@@ -1,6 +1,8 @@
 {
   "id": "tree-branch",
-  "name": "Tree Branch",
+  "name": {
+    "en-US": "Tree Branch"
+  },
   "category": "Usables",
   "games": {
     "nh": {

@@ -1,6 +1,8 @@
 {
   "id": "wooden-block-chair",
-  "name": "Wooden-block Chair",
+  "name": {
+    "en-US": "Wooden-block Chair"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "sleek-wall",
-  "name": "Sleek Wall",
+  "name": {
+    "en-US": "Sleek Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

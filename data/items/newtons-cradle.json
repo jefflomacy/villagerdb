@@ -1,6 +1,8 @@
 {
   "id": "newtons-cradle",
-  "name": "Newton's Cradle",
+  "name": {
+    "en-US": "Newton's Cradle"
+  },
   "games": {
     "nh": {
       "sellPrice": {

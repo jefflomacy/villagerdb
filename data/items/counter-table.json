@@ -1,6 +1,8 @@
 {
   "id": "counter-table",
-  "name": "Counter Table",
+  "name": {
+    "en-US": "Counter Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

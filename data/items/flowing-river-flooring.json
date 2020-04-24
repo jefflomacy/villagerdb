@@ -1,6 +1,8 @@
 {
   "id": "flowing-river-flooring",
-  "name": "Flowing-river Flooring",
+  "name": {
+    "en-US": "Flowing-river Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

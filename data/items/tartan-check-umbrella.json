@@ -1,6 +1,8 @@
 {
   "id": "tartan-check-umbrella",
-  "name": "Tartan-check Umbrella",
+  "name": {
+    "en-US": "Tartan-check Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

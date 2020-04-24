@@ -1,6 +1,8 @@
 {
   "id": "patchwork-top",
-  "name": "Patchwork Top",
+  "name": {
+    "en-US": "Patchwork Top"
+  },
   "category": "Tops",
   "games": {
     "ac": {

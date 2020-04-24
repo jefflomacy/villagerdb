@@ -1,6 +1,8 @@
 {
   "id": "racetrack-flooring",
-  "name": "Racetrack Flooring",
+  "name": {
+    "en-US": "Racetrack Flooring"
+  },
   "games": {
     "nh": {
       "orderable": false,

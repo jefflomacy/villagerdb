@@ -1,6 +1,8 @@
 {
   "id": "modern-wood-flooring",
-  "name": "Modern Wood Flooring",
+  "name": {
+    "en-US": "Modern Wood Flooring"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

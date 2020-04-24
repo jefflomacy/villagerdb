@@ -1,6 +1,8 @@
 {
   "id": "new-heros-outfit",
-  "name": "New Hero's Outfit",
+  "name": {
+    "en-US": "New Hero's Outfit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

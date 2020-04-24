@@ -1,6 +1,8 @@
 {
   "id": "black-tulip",
-  "name": "Black Tulip",
+  "name": {
+    "en-US": "Black Tulip"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

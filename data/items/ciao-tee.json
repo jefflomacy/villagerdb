@@ -1,6 +1,8 @@
 {
   "id": "ciao-tee",
-  "name": "Ciao Tee",
+  "name": {
+    "en-US": "Ciao Tee"
+  },
   "games": {
     "nh": {
       "sellPrice": {

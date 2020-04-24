@@ -1,6 +1,8 @@
 {
   "id": "gold-nugget",
-  "name": "Gold Nugget",
+  "name": {
+    "en-US": "Gold Nugget"
+  },
   "category": "Usables",
   "games": {
     "nl": {

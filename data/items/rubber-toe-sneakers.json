@@ -1,6 +1,8 @@
 {
   "id": "rubber-toe-sneakers",
-  "name": "Rubber-toe Sneakers",
+  "name": {
+    "en-US": "Rubber-toe Sneakers"
+  },
   "games": {
     "nh": {
       "orderable": true,

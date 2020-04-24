@@ -1,6 +1,8 @@
 {
   "id": "narrow-clock",
-  "name": "Narrow Clock",
+  "name": {
+    "en-US": "Narrow Clock"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

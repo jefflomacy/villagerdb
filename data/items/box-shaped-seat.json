@@ -1,6 +1,8 @@
 {
   "id": "box-shaped-seat",
-  "name": "Box-shaped Seat",
+  "name": {
+    "en-US": "Box-shaped Seat"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

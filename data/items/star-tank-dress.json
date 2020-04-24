@@ -1,6 +1,8 @@
 {
   "id": "star-tank-dress",
-  "name": "Star Tank Dress",
+  "name": {
+    "en-US": "Star Tank Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

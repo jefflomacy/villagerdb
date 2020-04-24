@@ -1,6 +1,8 @@
 {
   "id": "scallop-shell",
-  "name": "Scallop Shell",
+  "name": {
+    "en-US": "Scallop Shell"
+  },
   "category": "Seashells",
   "games": {
     "nl": {

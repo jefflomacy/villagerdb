@@ -1,6 +1,8 @@
 {
   "id": "roman-candle",
-  "name": "Roman Candle",
+  "name": {
+    "en-US": "Roman Candle"
+  },
   "category": "Usables",
   "games": {
     "nl": {

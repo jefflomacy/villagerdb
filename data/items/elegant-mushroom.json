@@ -1,6 +1,8 @@
 {
   "id": "elegant-mushroom",
-  "name": "Elegant Mushroom",
+  "name": {
+    "en-US": "Elegant Mushroom"
+  },
   "category": "Usables",
   "games": {
     "nl": {

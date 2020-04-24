@@ -1,6 +1,8 @@
 {
   "id": "cherry-shirt",
-  "name": "Cherry Shirt",
+  "name": {
+    "en-US": "Cherry Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

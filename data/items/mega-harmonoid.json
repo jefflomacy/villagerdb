@@ -1,6 +1,8 @@
 {
   "id": "mega-harmonoid",
-  "name": "Mega Harmonoid",
+  "name": {
+    "en-US": "Mega Harmonoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

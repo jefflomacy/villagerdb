@@ -1,6 +1,8 @@
 {
   "id": "shell-arch",
-  "name": "Shell Arch",
+  "name": {
+    "en-US": "Shell Arch"
+  },
   "games": {
     "nh": {
       "orderable": false,

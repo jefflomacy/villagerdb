@@ -1,6 +1,8 @@
 {
   "id": "anchovys-poster",
-  "name": "Anchovy's Poster",
+  "name": {
+    "en-US": "Anchovy's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

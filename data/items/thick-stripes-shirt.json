@@ -1,6 +1,8 @@
 {
   "id": "thick-stripes-shirt",
-  "name": "Thick-stripes Shirt",
+  "name": {
+    "en-US": "Thick-stripes Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

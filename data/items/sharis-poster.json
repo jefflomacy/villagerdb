@@ -1,6 +1,8 @@
 {
   "id": "sharis-poster",
-  "name": "Shari's Poster",
+  "name": {
+    "en-US": "Shari's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "board-game",
-  "name": "Board Game",
+  "name": {
+    "en-US": "Board Game"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

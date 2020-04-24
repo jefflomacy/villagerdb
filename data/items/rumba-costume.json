@@ -1,6 +1,8 @@
 {
   "id": "rumba-costume",
-  "name": "Rumba Costume",
+  "name": {
+    "en-US": "Rumba Costume"
+  },
   "games": {
     "nh": {
       "sellPrice": {

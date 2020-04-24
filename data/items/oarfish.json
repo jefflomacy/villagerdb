@@ -1,6 +1,8 @@
 {
   "id": "oarfish",
-  "name": "Oarfish",
+  "name": {
+    "en-US": "Oarfish"
+  },
   "category": "Fish",
   "games": {
     "nl": {

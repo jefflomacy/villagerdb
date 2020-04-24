@@ -1,6 +1,8 @@
 {
   "id": "terry-cloth-nightgown",
-  "name": "Terry-cloth Nightgown",
+  "name": {
+    "en-US": "Terry-cloth Nightgown"
+  },
   "games": {
     "nh": {
       "sellPrice": {

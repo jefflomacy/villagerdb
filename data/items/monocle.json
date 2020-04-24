@@ -1,6 +1,8 @@
 {
   "id": "monocle",
-  "name": "Monocle",
+  "name": {
+    "en-US": "Monocle"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

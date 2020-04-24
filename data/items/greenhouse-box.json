@@ -1,6 +1,8 @@
 {
   "id": "greenhouse-box",
-  "name": "Greenhouse Box",
+  "name": {
+    "en-US": "Greenhouse Box"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

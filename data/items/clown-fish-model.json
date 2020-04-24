@@ -1,6 +1,8 @@
 {
   "id": "clown-fish-model",
-  "name": "Clown Fish Model",
+  "name": {
+    "en-US": "Clown Fish Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

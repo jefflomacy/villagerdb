@@ -1,6 +1,8 @@
 {
   "id": "elephant-watering-can",
-  "name": "Elephant Watering Can",
+  "name": {
+    "en-US": "Elephant Watering Can"
+  },
   "games": {
     "nh": {
       "orderable": false,

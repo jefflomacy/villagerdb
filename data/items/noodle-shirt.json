@@ -1,6 +1,8 @@
 {
   "id": "noodle-shirt",
-  "name": "Noodle Shirt",
+  "name": {
+    "en-US": "Noodle Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

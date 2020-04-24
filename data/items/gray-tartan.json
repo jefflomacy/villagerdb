@@ -1,6 +1,8 @@
 {
   "id": "gray-tartan",
-  "name": "Gray Tartan",
+  "name": {
+    "en-US": "Gray Tartan"
+  },
   "category": "Tops",
   "games": {
     "ac": {

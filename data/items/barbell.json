@@ -1,6 +1,8 @@
 {
   "id": "barbell",
-  "name": "Barbell",
+  "name": {
+    "en-US": "Barbell"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

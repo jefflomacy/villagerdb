@@ -1,6 +1,8 @@
 {
   "id": "nintendo-bench",
-  "name": "Nintendo Bench",
+  "name": {
+    "en-US": "Nintendo Bench"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

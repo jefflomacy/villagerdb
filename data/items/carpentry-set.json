@@ -1,6 +1,8 @@
 {
   "id": "carpentry-set",
-  "name": "Carpentry Set",
+  "name": {
+    "en-US": "Carpentry Set"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "brachio-pelvis",
-  "name": "Brachio Pelvis",
+  "name": {
+    "en-US": "Brachio Pelvis"
+  },
   "games": {
     "nh": {
       "orderable": false,

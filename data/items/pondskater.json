@@ -1,6 +1,8 @@
 {
   "id": "pondskater",
-  "name": "Pondskater",
+  "name": {
+    "en-US": "Pondskater"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

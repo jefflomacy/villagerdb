@@ -1,6 +1,8 @@
 {
   "id": "yellow-floral-flooring",
-  "name": "Yellow Floral Flooring",
+  "name": {
+    "en-US": "Yellow Floral Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

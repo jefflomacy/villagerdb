@@ -1,6 +1,8 @@
 {
   "id": "gold-screen-wall",
-  "name": "Gold Screen Wall",
+  "name": {
+    "en-US": "Gold Screen Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

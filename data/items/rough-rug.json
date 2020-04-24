@@ -1,6 +1,8 @@
 {
   "id": "rough-rug",
-  "name": "Rough Rug",
+  "name": {
+    "en-US": "Rough Rug"
+  },
   "games": {
     "nh": {
       "orderable": true,

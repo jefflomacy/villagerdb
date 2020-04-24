@@ -1,6 +1,8 @@
 {
   "id": "tent-rug",
-  "name": "Tent Rug",
+  "name": {
+    "en-US": "Tent Rug"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "stinkbug-model",
-  "name": "Stinkbug Model",
+  "name": {
+    "en-US": "Stinkbug Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "cancer-fragment",
-  "name": "Cancer Fragment",
+  "name": {
+    "en-US": "Cancer Fragment"
+  },
   "games": {
     "nh": {
       "sellPrice": {

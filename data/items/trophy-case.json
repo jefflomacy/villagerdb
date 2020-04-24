@@ -1,6 +1,8 @@
 {
   "id": "trophy-case",
-  "name": "Trophy Case",
+  "name": {
+    "en-US": "Trophy Case"
+  },
   "games": {
     "nh": {
       "orderable": false,

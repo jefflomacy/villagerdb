@@ -1,6 +1,8 @@
 {
   "id": "palace-tile",
-  "name": "Palace Tile",
+  "name": {
+    "en-US": "Palace Tile"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

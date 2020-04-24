@@ -1,6 +1,8 @@
 {
   "id": "tailcoat",
-  "name": "Tailcoat",
+  "name": {
+    "en-US": "Tailcoat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "blue-vinyl-sheet",
-  "name": "Blue Vinyl Sheet",
+  "name": {
+    "en-US": "Blue Vinyl Sheet"
+  },
   "games": {
     "nh": {
       "sources": [

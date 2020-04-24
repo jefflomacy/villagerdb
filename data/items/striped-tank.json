@@ -1,6 +1,8 @@
 {
   "id": "striped-tank",
-  "name": "Striped Tank",
+  "name": {
+    "en-US": "Striped Tank"
+  },
   "games": {
     "nh": {
       "orderable": true,

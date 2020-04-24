@@ -1,6 +1,8 @@
 {
   "id": "moms-cushion",
-  "name": "Mom's Cushion",
+  "name": {
+    "en-US": "Mom's Cushion"
+  },
   "games": {
     "nh": {
       "sellPrice": {

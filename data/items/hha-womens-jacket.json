@@ -1,6 +1,8 @@
 {
   "id": "hha-womens-jacket",
-  "name": "HHA Women's Jacket",
+  "name": {
+    "en-US": "HHA Women's Jacket"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "snowperson-head",
-  "name": "Snowperson Head",
+  "name": {
+    "en-US": "Snowperson Head"
+  },
   "games": {
     "nh": {
       "sellPrice": {

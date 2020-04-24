@@ -1,6 +1,8 @@
 {
   "id": "closed-road",
-  "name": "Closed Road",
+  "name": {
+    "en-US": "Closed Road"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

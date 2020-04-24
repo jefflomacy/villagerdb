@@ -1,6 +1,8 @@
 {
   "id": "midges-poster",
-  "name": "Midge's Poster",
+  "name": {
+    "en-US": "Midge's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

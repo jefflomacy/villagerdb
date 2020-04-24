@@ -1,6 +1,8 @@
 {
   "id": "apron",
-  "name": "Apron",
+  "name": {
+    "en-US": "Apron"
+  },
   "games": {
     "nh": {
       "orderable": true,

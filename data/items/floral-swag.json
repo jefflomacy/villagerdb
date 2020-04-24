@@ -1,6 +1,8 @@
 {
   "id": "floral-swag",
-  "name": "Floral Swag",
+  "name": {
+    "en-US": "Floral Swag"
+  },
   "games": {
     "nh": {
       "customizable": true,

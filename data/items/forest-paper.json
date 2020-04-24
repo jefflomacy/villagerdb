@@ -1,6 +1,8 @@
 {
   "id": "forest-paper",
-  "name": "Forest Paper",
+  "name": {
+    "en-US": "Forest Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "cabin-rug",
-  "name": "Cabin Rug",
+  "name": {
+    "en-US": "Cabin Rug"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

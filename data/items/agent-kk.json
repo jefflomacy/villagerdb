@@ -1,6 +1,8 @@
 {
   "id": "agent-kk",
-  "name": "Agent K.K.",
+  "name": {
+    "en-US": "Agent K.K."
+  },
   "category": "Music",
   "games": {
     "nl": {

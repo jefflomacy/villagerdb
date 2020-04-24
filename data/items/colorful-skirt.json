@@ -1,6 +1,8 @@
 {
   "id": "colorful-skirt",
-  "name": "Colorful Skirt",
+  "name": {
+    "en-US": "Colorful Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

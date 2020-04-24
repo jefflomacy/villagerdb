@@ -1,6 +1,8 @@
 {
   "id": "sushi-bench",
-  "name": "Sushi Bench",
+  "name": {
+    "en-US": "Sushi Bench"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

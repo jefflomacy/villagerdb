@@ -1,6 +1,8 @@
 {
   "id": "loft-bed-with-desk",
-  "name": "Loft Bed With Desk",
+  "name": {
+    "en-US": "Loft Bed With Desk"
+  },
   "games": {
     "nh": {
       "customizable": true,

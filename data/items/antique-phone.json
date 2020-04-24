@@ -1,6 +1,8 @@
 {
   "id": "antique-phone",
-  "name": "Antique Phone",
+  "name": {
+    "en-US": "Antique Phone"
+  },
   "games": {
     "nh": {
       "sellPrice": {

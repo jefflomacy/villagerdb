@@ -1,6 +1,8 @@
 {
   "id": "jockey-uniform",
-  "name": "Jockey Uniform",
+  "name": {
+    "en-US": "Jockey Uniform"
+  },
   "games": {
     "nh": {
       "sellPrice": {

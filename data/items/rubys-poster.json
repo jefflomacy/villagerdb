@@ -1,6 +1,8 @@
 {
   "id": "rubys-poster",
-  "name": "Ruby's Poster",
+  "name": {
+    "en-US": "Ruby's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

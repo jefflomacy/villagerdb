@@ -1,6 +1,8 @@
 {
   "id": "hi-tech-sneakers",
-  "name": "Hi-tech Sneakers",
+  "name": {
+    "en-US": "Hi-tech Sneakers"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "leaf-mask",
-  "name": "Leaf Mask",
+  "name": {
+    "en-US": "Leaf Mask"
+  },
   "games": {
     "nh": {
       "customizable": false,

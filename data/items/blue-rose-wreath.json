@@ -1,6 +1,8 @@
 {
   "id": "blue-rose-wreath",
-  "name": "Blue Rose Wreath",
+  "name": {
+    "en-US": "Blue Rose Wreath"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "candy-house",
-  "name": "Candy House",
+  "name": {
+    "en-US": "Candy House"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "simple-dots-dress",
-  "name": "Simple-dots Dress",
+  "name": {
+    "en-US": "Simple-dots Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

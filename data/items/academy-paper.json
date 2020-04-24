@@ -1,6 +1,8 @@
 {
   "id": "academy-paper",
-  "name": "Academy Paper",
+  "name": {
+    "en-US": "Academy Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

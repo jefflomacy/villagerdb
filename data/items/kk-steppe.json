@@ -1,6 +1,8 @@
 {
   "id": "kk-steppe",
-  "name": "K.K. Steppe",
+  "name": {
+    "en-US": "K.K. Steppe"
+  },
   "category": "Music",
   "games": {
     "nl": {

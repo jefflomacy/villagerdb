@@ -1,6 +1,8 @@
 {
   "id": "walker-cicada-model",
-  "name": "Walker Cicada Model",
+  "name": {
+    "en-US": "Walker Cicada Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

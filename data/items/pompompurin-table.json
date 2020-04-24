@@ -1,6 +1,8 @@
 {
   "id": "pompompurin-table",
-  "name": "Pompompurin Table",
+  "name": {
+    "en-US": "Pompompurin Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

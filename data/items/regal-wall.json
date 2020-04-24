@@ -1,6 +1,8 @@
 {
   "id": "regal-wall",
-  "name": "Regal Wall",
+  "name": {
+    "en-US": "Regal Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

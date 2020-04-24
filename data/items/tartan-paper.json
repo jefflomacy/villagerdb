@@ -1,6 +1,8 @@
 {
   "id": "tartan-paper",
-  "name": "Tartan Paper",
+  "name": {
+    "en-US": "Tartan Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

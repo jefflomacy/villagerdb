@@ -1,6 +1,8 @@
 {
   "id": "green-retro-flooring",
-  "name": "Green Retro Flooring",
+  "name": {
+    "en-US": "Green Retro Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

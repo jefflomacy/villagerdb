@@ -1,6 +1,8 @@
 {
   "id": "tiger-prawn",
-  "name": "Tiger Prawn",
+  "name": {
+    "en-US": "Tiger Prawn"
+  },
   "category": "Fish",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "warm-painting",
-  "name": "Warm Painting",
+  "name": {
+    "en-US": "Warm Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

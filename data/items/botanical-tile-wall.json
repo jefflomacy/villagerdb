@@ -1,6 +1,8 @@
 {
   "id": "botanical-tile-wall",
-  "name": "Botanical-tile Wall",
+  "name": {
+    "en-US": "Botanical-tile Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

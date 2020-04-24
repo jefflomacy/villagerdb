@@ -1,6 +1,8 @@
 {
   "id": "nooks-homes-mat",
-  "name": "Nook's Homes Mat",
+  "name": {
+    "en-US": "Nook's Homes Mat"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "snare-drum",
-  "name": "Snare Drum",
+  "name": {
+    "en-US": "Snare Drum"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

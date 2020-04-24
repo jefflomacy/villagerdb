@@ -1,6 +1,8 @@
 {
   "id": "sea-bass-model",
-  "name": "Sea Bass Model",
+  "name": {
+    "en-US": "Sea Bass Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

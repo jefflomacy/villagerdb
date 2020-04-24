@@ -1,6 +1,8 @@
 {
   "id": "fossil-doorplate",
-  "name": "Fossil Doorplate",
+  "name": {
+    "en-US": "Fossil Doorplate"
+  },
   "games": {
     "nh": {
       "orderable": false,

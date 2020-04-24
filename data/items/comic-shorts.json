@@ -1,6 +1,8 @@
 {
   "id": "comic-shorts",
-  "name": "Comic Shorts",
+  "name": {
+    "en-US": "Comic Shorts"
+  },
   "games": {
     "nh": {
       "sellPrice": {

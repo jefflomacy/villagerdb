@@ -1,6 +1,8 @@
 {
   "id": "visual-punk-dress",
-  "name": "Visual-punk Dress",
+  "name": {
+    "en-US": "Visual-punk Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

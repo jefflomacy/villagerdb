@@ -1,6 +1,8 @@
 {
   "id": "cyruss-poster",
-  "name": "Cyrus's Poster",
+  "name": {
+    "en-US": "Cyrus's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

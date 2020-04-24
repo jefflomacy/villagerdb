@@ -1,6 +1,8 @@
 {
   "id": "admirals-photo",
-  "name": "Admiral's Photo",
+  "name": {
+    "en-US": "Admiral's Photo"
+  },
   "games": {
     "nh": {
       "sources": [

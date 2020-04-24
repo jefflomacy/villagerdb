@@ -1,6 +1,8 @@
 {
   "id": "pompompurin-tv",
-  "name": "Pompompurin TV",
+  "name": {
+    "en-US": "Pompompurin TV"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

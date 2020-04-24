@@ -1,6 +1,8 @@
 {
   "id": "old-brick-wall",
-  "name": "Old Brick Wall",
+  "name": {
+    "en-US": "Old Brick Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "rustic-mailbox",
-  "name": "Rustic Mailbox",
+  "name": {
+    "en-US": "Rustic Mailbox"
+  },
   "games": {
     "nh": {}
   },

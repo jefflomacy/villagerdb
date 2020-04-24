@@ -1,6 +1,8 @@
 {
   "id": "welding-mask",
-  "name": "Welding Mask",
+  "name": {
+    "en-US": "Welding Mask"
+  },
   "games": {
     "nh": {
       "sellPrice": {

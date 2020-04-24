@@ -1,6 +1,8 @@
 {
   "id": "bunnies-poster",
-  "name": "Bunnie's Poster",
+  "name": {
+    "en-US": "Bunnie's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

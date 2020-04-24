@@ -1,6 +1,8 @@
 {
   "id": "cool-windflower-wreath",
-  "name": "Cool Windflower Wreath",
+  "name": {
+    "en-US": "Cool Windflower Wreath"
+  },
   "games": {
     "nh": {
       "sellPrice": {

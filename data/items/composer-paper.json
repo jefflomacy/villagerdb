@@ -1,6 +1,8 @@
 {
   "id": "composer-paper",
-  "name": "Composer Paper",
+  "name": {
+    "en-US": "Composer Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

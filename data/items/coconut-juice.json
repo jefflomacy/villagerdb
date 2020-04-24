@@ -1,6 +1,8 @@
 {
   "id": "coconut-juice",
-  "name": "Coconut Juice",
+  "name": {
+    "en-US": "Coconut Juice"
+  },
   "category": "Furniture",
   "games": {
     "nh": {

@@ -1,6 +1,8 @@
 {
   "id": "solar-panel",
-  "name": "Solar Panel",
+  "name": {
+    "en-US": "Solar Panel"
+  },
   "games": {
     "nh": {
       "orderable": true,

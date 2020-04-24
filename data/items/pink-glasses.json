@@ -1,6 +1,8 @@
 {
   "id": "pink-glasses",
-  "name": "Pink Glasses",
+  "name": {
+    "en-US": "Pink Glasses"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

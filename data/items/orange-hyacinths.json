@@ -1,6 +1,8 @@
 {
   "id": "orange-hyacinths",
-  "name": "Orange Hyacinths",
+  "name": {
+    "en-US": "Orange Hyacinths"
+  },
   "games": {
     "nh": {
       "orderable": false,

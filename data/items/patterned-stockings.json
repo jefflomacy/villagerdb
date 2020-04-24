@@ -1,6 +1,8 @@
 {
   "id": "patterned-stockings",
-  "name": "Patterned Stockings",
+  "name": {
+    "en-US": "Patterned Stockings"
+  },
   "games": {
     "nh": {
       "sellPrice": {

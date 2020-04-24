@@ -1,6 +1,8 @@
 {
   "id": "lily-crown",
-  "name": "Lily Crown",
+  "name": {
+    "en-US": "Lily Crown"
+  },
   "games": {
     "nh": {
       "customizable": false,

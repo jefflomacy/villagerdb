@@ -1,6 +1,8 @@
 {
   "id": "gift-pile",
-  "name": "Gift Pile",
+  "name": {
+    "en-US": "Gift Pile"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

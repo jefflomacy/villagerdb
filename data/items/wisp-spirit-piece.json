@@ -1,6 +1,8 @@
 {
   "id": "wisp-spirit-piece",
-  "name": "Wisp Spirit Piece",
+  "name": {
+    "en-US": "Wisp Spirit Piece"
+  },
   "games": {
     "nh": {
       "orderable": false,

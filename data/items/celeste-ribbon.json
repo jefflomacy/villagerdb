@@ -1,6 +1,8 @@
 {
   "id": "celeste-ribbon",
-  "name": "Celeste Ribbon",
+  "name": {
+    "en-US": "Celeste Ribbon"
+  },
   "category": "Hats",
   "games": {
     "nl": {

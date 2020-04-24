@@ -1,6 +1,8 @@
 {
   "id": "pompompurin-wall",
-  "name": "Pompompurin Wall",
+  "name": {
+    "en-US": "Pompompurin Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

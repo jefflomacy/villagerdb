@@ -1,6 +1,8 @@
 {
   "id": "valiant-statue",
-  "name": "Valiant Statue",
+  "name": {
+    "en-US": "Valiant Statue"
+  },
   "category": "Art",
   "games": {
     "nl": {

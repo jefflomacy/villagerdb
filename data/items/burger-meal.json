@@ -1,6 +1,8 @@
 {
   "id": "burger-meal",
-  "name": "Burger Meal",
+  "name": {
+    "en-US": "Burger Meal"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

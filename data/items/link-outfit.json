@@ -1,6 +1,8 @@
 {
   "id": "link-outfit",
-  "name": "Link Outfit",
+  "name": {
+    "en-US": "Link Outfit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "great-white-shark-model",
-  "name": "Great White Shark Model",
+  "name": {
+    "en-US": "Great White Shark Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

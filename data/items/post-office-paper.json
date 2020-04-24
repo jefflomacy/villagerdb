@@ -1,6 +1,8 @@
 {
   "id": "post-office-paper",
-  "name": "Post-office Paper",
+  "name": {
+    "en-US": "Post-office Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

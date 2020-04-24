@@ -1,6 +1,8 @@
 {
   "id": "recycled-can-thumb-piano",
-  "name": "Recycled-can Thumb Piano",
+  "name": {
+    "en-US": "Recycled-can Thumb Piano"
+  },
   "games": {
     "nh": {
       "orderable": false,

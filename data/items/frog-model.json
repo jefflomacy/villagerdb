@@ -1,6 +1,8 @@
 {
   "id": "frog-model",
-  "name": "Frog Model",
+  "name": {
+    "en-US": "Frog Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

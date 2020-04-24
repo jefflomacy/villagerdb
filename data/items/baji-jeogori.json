@@ -1,6 +1,8 @@
 {
   "id": "baji-jeogori",
-  "name": "Baji Jeogori",
+  "name": {
+    "en-US": "Baji Jeogori"
+  },
   "games": {
     "nh": {
       "sellPrice": {

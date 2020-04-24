@@ -1,6 +1,8 @@
 {
   "id": "rounded-beard",
-  "name": "Rounded Beard",
+  "name": {
+    "en-US": "Rounded Beard"
+  },
   "games": {
     "nh": {
       "sellPrice": {

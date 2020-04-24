@@ -1,6 +1,8 @@
 {
   "id": "quaint-painting",
-  "name": "Quaint Painting",
+  "name": {
+    "en-US": "Quaint Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "chain-divider",
-  "name": "Chain Divider",
+  "name": {
+    "en-US": "Chain Divider"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

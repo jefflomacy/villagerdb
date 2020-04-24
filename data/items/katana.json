@@ -1,6 +1,8 @@
 {
   "id": "katana",
-  "name": "Katana",
+  "name": {
+    "en-US": "Katana"
+  },
   "games": {
     "nh": {
       "sellPrice": {

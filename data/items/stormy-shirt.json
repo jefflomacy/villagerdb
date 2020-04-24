@@ -1,6 +1,8 @@
 {
   "id": "stormy-shirt",
-  "name": "Stormy Shirt",
+  "name": {
+    "en-US": "Stormy Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "skull-wall",
-  "name": "Skull Wall",
+  "name": {
+    "en-US": "Skull Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

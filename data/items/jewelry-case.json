@@ -1,6 +1,8 @@
 {
   "id": "jewelry-case",
-  "name": "Jewelry Case",
+  "name": {
+    "en-US": "Jewelry Case"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

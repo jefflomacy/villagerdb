@@ -1,6 +1,8 @@
 {
   "id": "stacked-magazines",
-  "name": "Stacked Magazines",
+  "name": {
+    "en-US": "Stacked Magazines"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "hot-snack-case",
-  "name": "Hot-snack Case",
+  "name": {
+    "en-US": "Hot-snack Case"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

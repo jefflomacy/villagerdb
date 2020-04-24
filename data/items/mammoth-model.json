@@ -1,6 +1,8 @@
 {
   "id": "mammoth-model",
-  "name": "Mammoth Model",
+  "name": {
+    "en-US": "Mammoth Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

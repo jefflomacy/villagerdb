@@ -1,6 +1,8 @@
 {
   "id": "throwback-container",
-  "name": "Throwback Container",
+  "name": {
+    "en-US": "Throwback Container"
+  },
   "games": {
     "nh": {
       "sellPrice": {

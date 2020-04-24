@@ -1,6 +1,8 @@
 {
   "id": "zen-backpack",
-  "name": "Zen Backpack",
+  "name": {
+    "en-US": "Zen Backpack"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

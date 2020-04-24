@@ -1,6 +1,8 @@
 {
   "id": "orange-paint-wall",
-  "name": "Orange-paint Wall",
+  "name": {
+    "en-US": "Orange-paint Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

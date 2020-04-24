@@ -1,6 +1,8 @@
 {
   "id": "chic-wall",
-  "name": "Chic Wall",
+  "name": {
+    "en-US": "Chic Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

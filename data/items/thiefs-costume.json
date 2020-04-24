@@ -1,6 +1,8 @@
 {
   "id": "thiefs-costume",
-  "name": "Thief's Costume",
+  "name": {
+    "en-US": "Thief's Costume"
+  },
   "games": {
     "nh": {
       "orderable": true,

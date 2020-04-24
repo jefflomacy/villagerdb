@@ -1,6 +1,8 @@
 {
   "id": "gilet-and-shirt",
-  "name": "Gilet And Shirt",
+  "name": {
+    "en-US": "Gilet And Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

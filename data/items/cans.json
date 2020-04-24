@@ -1,6 +1,8 @@
 {
   "id": "cans",
-  "name": "Cans",
+  "name": {
+    "en-US": "Cans"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

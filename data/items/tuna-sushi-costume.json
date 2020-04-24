@@ -1,6 +1,8 @@
 {
   "id": "tuna-sushi-costume",
-  "name": "Tuna-sushi Costume",
+  "name": {
+    "en-US": "Tuna-sushi Costume"
+  },
   "games": {
     "nh": {
       "sellPrice": {

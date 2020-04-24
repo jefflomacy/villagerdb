@@ -1,6 +1,8 @@
 {
   "id": "rice-grasshopper",
-  "name": "Rice Grasshopper",
+  "name": {
+    "en-US": "Rice Grasshopper"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

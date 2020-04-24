@@ -1,6 +1,8 @@
 {
   "id": "hermit-crab-model",
-  "name": "Hermit Crab Model",
+  "name": {
+    "en-US": "Hermit Crab Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

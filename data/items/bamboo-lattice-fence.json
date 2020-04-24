@@ -1,6 +1,8 @@
 {
   "id": "bamboo-lattice-fence",
-  "name": "Bamboo Lattice Fence",
+  "name": {
+    "en-US": "Bamboo Lattice Fence"
+  },
   "games": {
     "nh": {
       "orderable": false,

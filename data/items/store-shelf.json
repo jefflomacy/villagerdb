@@ -1,6 +1,8 @@
 {
   "id": "store-shelf",
-  "name": "Store Shelf",
+  "name": {
+    "en-US": "Store Shelf"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

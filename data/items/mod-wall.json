@@ -1,6 +1,8 @@
 {
   "id": "mod-wall",
-  "name": "Mod Wall",
+  "name": {
+    "en-US": "Mod Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

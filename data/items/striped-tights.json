@@ -1,6 +1,8 @@
 {
   "id": "striped-tights",
-  "name": "Striped Tights",
+  "name": {
+    "en-US": "Striped Tights"
+  },
   "games": {
     "nh": {
       "sellPrice": {

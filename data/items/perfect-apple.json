@@ -1,6 +1,8 @@
 {
   "id": "perfect-apple",
-  "name": "Perfect Apple",
+  "name": {
+    "en-US": "Perfect Apple"
+  },
   "category": "Fruit",
   "games": {
     "nl": {

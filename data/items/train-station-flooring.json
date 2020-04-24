@@ -1,6 +1,8 @@
 {
   "id": "train-station-flooring",
-  "name": "Train-station Flooring",
+  "name": {
+    "en-US": "Train-station Flooring"
+  },
   "games": {
     "nh": {
       "orderable": false,

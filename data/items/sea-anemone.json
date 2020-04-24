@@ -1,6 +1,8 @@
 {
   "id": "sea-anemone",
-  "name": "Sea Anemone",
+  "name": {
+    "en-US": "Sea Anemone"
+  },
   "category": "Fish",
   "games": {
     "nl": {

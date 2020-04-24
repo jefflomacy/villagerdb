@@ -1,6 +1,8 @@
 {
   "id": "tailored-jacket",
-  "name": "Tailored Jacket",
+  "name": {
+    "en-US": "Tailored Jacket"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "aries-fragment",
-  "name": "Aries Fragment",
+  "name": {
+    "en-US": "Aries Fragment"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "parka-undercoat",
-  "name": "Parka Undercoat",
+  "name": {
+    "en-US": "Parka Undercoat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

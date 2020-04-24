@@ -1,6 +1,8 @@
 {
   "id": "big-bros-mustache",
-  "name": "Big Bro's Mustache",
+  "name": {
+    "en-US": "Big Bro's Mustache"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

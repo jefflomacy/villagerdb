@@ -1,6 +1,8 @@
 {
   "id": "shell-speaker",
-  "name": "Shell Speaker",
+  "name": {
+    "en-US": "Shell Speaker"
+  },
   "games": {
     "nh": {
       "orderable": false,

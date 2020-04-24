@@ -1,6 +1,8 @@
 {
   "id": "roscoes-poster",
-  "name": "Roscoe's Poster",
+  "name": {
+    "en-US": "Roscoe's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

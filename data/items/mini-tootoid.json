@@ -1,6 +1,8 @@
 {
   "id": "mini-tootoid",
-  "name": "Mini Tootoid",
+  "name": {
+    "en-US": "Mini Tootoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

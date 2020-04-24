@@ -1,6 +1,8 @@
 {
   "id": "frilly-knee-high-socks",
-  "name": "Frilly Knee-high Socks",
+  "name": {
+    "en-US": "Frilly Knee-high Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

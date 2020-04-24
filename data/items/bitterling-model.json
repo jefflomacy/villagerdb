@@ -1,6 +1,8 @@
 {
   "id": "bitterling-model",
-  "name": "Bitterling Model",
+  "name": {
+    "en-US": "Bitterling Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

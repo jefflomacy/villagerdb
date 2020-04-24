@@ -1,6 +1,8 @@
 {
   "id": "medicine",
-  "name": "Medicine",
+  "name": {
+    "en-US": "Medicine"
+  },
   "category": "Usables",
   "games": {
     "nl": {

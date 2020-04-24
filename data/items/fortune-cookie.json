@@ -1,6 +1,8 @@
 {
   "id": "fortune-cookie",
-  "name": "Fortune Cookie",
+  "name": {
+    "en-US": "Fortune Cookie"
+  },
   "category": "Usables",
   "games": {
     "nl": {

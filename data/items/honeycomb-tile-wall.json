@@ -1,6 +1,8 @@
 {
   "id": "honeycomb-tile-wall",
-  "name": "Honeycomb-tile Wall",
+  "name": {
+    "en-US": "Honeycomb-tile Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

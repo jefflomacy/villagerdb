@@ -1,6 +1,8 @@
 {
   "id": "natural-lamp",
-  "name": "Natural Lamp",
+  "name": {
+    "en-US": "Natural Lamp"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

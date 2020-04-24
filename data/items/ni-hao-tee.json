@@ -1,6 +1,8 @@
 {
   "id": "ni-hao-tee",
-  "name": "Ni Hao Tee",
+  "name": {
+    "en-US": "Ni Hao Tee"
+  },
   "games": {
     "nh": {
       "sellPrice": {

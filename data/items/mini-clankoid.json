@@ -1,6 +1,8 @@
 {
   "id": "mini-clankoid",
-  "name": "Mini Clankoid",
+  "name": {
+    "en-US": "Mini Clankoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

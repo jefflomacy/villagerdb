@@ -1,6 +1,8 @@
 {
   "id": "sushi-chefs-outfit",
-  "name": "Sushi Chef's Outfit",
+  "name": {
+    "en-US": "Sushi Chef's Outfit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

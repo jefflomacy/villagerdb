@@ -1,6 +1,8 @@
 {
   "id": "bomber-style-jacket",
-  "name": "Bomber-style Jacket",
+  "name": {
+    "en-US": "Bomber-style Jacket"
+  },
   "games": {
     "nh": {
       "orderable": true,

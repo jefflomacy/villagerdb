@@ -1,6 +1,8 @@
 {
   "id": "fire-pit",
-  "name": "Fire Pit",
+  "name": {
+    "en-US": "Fire Pit"
+  },
   "games": {
     "nh": {
       "sellPrice": {

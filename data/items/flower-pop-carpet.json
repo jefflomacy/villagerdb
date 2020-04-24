@@ -1,6 +1,8 @@
 {
   "id": "flower-pop-carpet",
-  "name": "Flower Pop Carpet",
+  "name": {
+    "en-US": "Flower Pop Carpet"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

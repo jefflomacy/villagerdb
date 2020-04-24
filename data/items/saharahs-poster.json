@@ -1,6 +1,8 @@
 {
   "id": "saharahs-poster",
-  "name": "Saharah's Poster",
+  "name": {
+    "en-US": "Saharah's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "deep-sea-egg",
-  "name": "Deep-sea Egg",
+  "name": {
+    "en-US": "Deep-sea Egg"
+  },
   "category": "Usables",
   "games": {
     "nl": {

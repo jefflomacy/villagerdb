@@ -1,6 +1,8 @@
 {
   "id": "rimmed-glasses",
-  "name": "Rimmed Glasses",
+  "name": {
+    "en-US": "Rimmed Glasses"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

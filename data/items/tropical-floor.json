@@ -1,6 +1,8 @@
 {
   "id": "tropical-floor",
-  "name": "Tropical Floor",
+  "name": {
+    "en-US": "Tropical Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

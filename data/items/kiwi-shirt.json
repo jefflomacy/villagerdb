@@ -1,6 +1,8 @@
 {
   "id": "kiwi-shirt",
-  "name": "Kiwi Shirt",
+  "name": {
+    "en-US": "Kiwi Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

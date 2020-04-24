@@ -1,6 +1,8 @@
 {
   "id": "five-ball-shirt",
-  "name": "Five-Ball Shirt",
+  "name": {
+    "en-US": "Five-Ball Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

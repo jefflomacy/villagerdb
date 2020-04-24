@@ -1,6 +1,8 @@
 {
   "id": "sea-grapes",
-  "name": "Sea Grapes",
+  "name": {
+    "en-US": "Sea Grapes"
+  },
   "category": "Fish",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "cafeteria-table",
-  "name": "Cafeteria Table",
+  "name": {
+    "en-US": "Cafeteria Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

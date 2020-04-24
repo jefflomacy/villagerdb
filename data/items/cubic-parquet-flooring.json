@@ -1,6 +1,8 @@
 {
   "id": "cubic-parquet-flooring",
-  "name": "Cubic Parquet Flooring",
+  "name": {
+    "en-US": "Cubic Parquet Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

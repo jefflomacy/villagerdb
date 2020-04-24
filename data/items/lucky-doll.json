@@ -1,6 +1,8 @@
 {
   "id": "lucky-doll",
-  "name": "Lucky Doll",
+  "name": {
+    "en-US": "Lucky Doll"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

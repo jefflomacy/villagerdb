@@ -1,6 +1,8 @@
 {
   "id": "virgo-fragment",
-  "name": "Virgo Fragment",
+  "name": {
+    "en-US": "Virgo Fragment"
+  },
   "games": {
     "nh": {
       "sellPrice": {

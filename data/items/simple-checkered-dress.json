@@ -1,6 +1,8 @@
 {
   "id": "simple-checkered-dress",
-  "name": "Simple Checkered Dress",
+  "name": {
+    "en-US": "Simple Checkered Dress"
+  },
   "games": {
     "nh": {
       "orderable": true,

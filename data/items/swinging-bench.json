@@ -1,6 +1,8 @@
 {
   "id": "swinging-bench",
-  "name": "Swinging Bench",
+  "name": {
+    "en-US": "Swinging Bench"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

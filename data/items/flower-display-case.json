@@ -1,6 +1,8 @@
 {
   "id": "flower-display-case",
-  "name": "Flower Display Case",
+  "name": {
+    "en-US": "Flower Display Case"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

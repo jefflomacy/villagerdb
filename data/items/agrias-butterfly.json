@@ -1,6 +1,8 @@
 {
   "id": "agrias-butterfly",
-  "name": "Agrias Butterfly",
+  "name": {
+    "en-US": "Agrias Butterfly"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

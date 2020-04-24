@@ -1,6 +1,8 @@
 {
   "id": "cool-pansy-wreath",
-  "name": "Cool Pansy Wreath",
+  "name": {
+    "en-US": "Cool Pansy Wreath"
+  },
   "games": {
     "nh": {
       "sellPrice": {

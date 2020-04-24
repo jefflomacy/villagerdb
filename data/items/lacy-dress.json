@@ -1,6 +1,8 @@
 {
   "id": "lacy-dress",
-  "name": "Lacy Dress",
+  "name": {
+    "en-US": "Lacy Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

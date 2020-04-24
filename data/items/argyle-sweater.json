@@ -1,6 +1,8 @@
 {
   "id": "argyle-sweater",
-  "name": "Argyle Sweater",
+  "name": {
+    "en-US": "Argyle Sweater"
+  },
   "games": {
     "nh": {
       "sellPrice": {

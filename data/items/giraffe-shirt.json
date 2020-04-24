@@ -1,6 +1,8 @@
 {
   "id": "giraffe-shirt",
-  "name": "Giraffe Shirt",
+  "name": {
+    "en-US": "Giraffe Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

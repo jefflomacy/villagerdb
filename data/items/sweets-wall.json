@@ -1,6 +1,8 @@
 {
   "id": "sweets-wall",
-  "name": "Sweets Wall",
+  "name": {
+    "en-US": "Sweets Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

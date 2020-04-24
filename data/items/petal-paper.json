@@ -1,6 +1,8 @@
 {
   "id": "petal-paper",
-  "name": "Petal Paper",
+  "name": {
+    "en-US": "Petal Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

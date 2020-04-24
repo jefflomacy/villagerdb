@@ -1,6 +1,8 @@
 {
   "id": "snowflake-wreath",
-  "name": "Snowflake Wreath",
+  "name": {
+    "en-US": "Snowflake Wreath"
+  },
   "games": {
     "nh": {
       "sellPrice": {

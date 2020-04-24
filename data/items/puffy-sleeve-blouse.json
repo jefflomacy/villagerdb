@@ -1,6 +1,8 @@
 {
   "id": "puffy-sleeve-blouse",
-  "name": "Puffy-sleeve Blouse",
+  "name": {
+    "en-US": "Puffy-sleeve Blouse"
+  },
   "games": {
     "nh": {
       "sellPrice": {

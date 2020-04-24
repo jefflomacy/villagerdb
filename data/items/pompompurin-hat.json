@@ -1,6 +1,8 @@
 {
   "id": "pompompurin-hat",
-  "name": "Pompompurin Hat",
+  "name": {
+    "en-US": "Pompompurin Hat"
+  },
   "category": "Hats",
   "games": {
     "nl": {

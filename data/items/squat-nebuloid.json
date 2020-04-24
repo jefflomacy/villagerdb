@@ -1,6 +1,8 @@
 {
   "id": "squat-nebuloid",
-  "name": "Squat Nebuloid",
+  "name": {
+    "en-US": "Squat Nebuloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

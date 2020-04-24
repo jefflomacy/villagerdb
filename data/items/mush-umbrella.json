@@ -1,6 +1,8 @@
 {
   "id": "mush-umbrella",
-  "name": "Mush Umbrella",
+  "name": {
+    "en-US": "Mush Umbrella"
+  },
   "games": {
     "nh": {
       "sellPrice": {

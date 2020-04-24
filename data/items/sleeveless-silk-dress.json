@@ -1,6 +1,8 @@
 {
   "id": "sleeveless-silk-dress",
-  "name": "Sleeveless Silk Dress",
+  "name": {
+    "en-US": "Sleeveless Silk Dress"
+  },
   "games": {
     "nh": {
       "orderable": true,

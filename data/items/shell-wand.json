@@ -1,6 +1,8 @@
 {
   "id": "shell-wand",
-  "name": "Shell Wand",
+  "name": {
+    "en-US": "Shell Wand"
+  },
   "games": {
     "nh": {
       "orderable": false,

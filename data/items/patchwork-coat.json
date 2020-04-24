@@ -1,6 +1,8 @@
 {
   "id": "patchwork-coat",
-  "name": "Patchwork Coat",
+  "name": {
+    "en-US": "Patchwork Coat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

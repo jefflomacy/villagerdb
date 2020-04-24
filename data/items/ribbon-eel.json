@@ -1,6 +1,8 @@
 {
   "id": "ribbon-eel",
-  "name": "Ribbon Eel",
+  "name": {
+    "en-US": "Ribbon Eel"
+  },
   "category": "Fish",
   "games": {
     "nl": {

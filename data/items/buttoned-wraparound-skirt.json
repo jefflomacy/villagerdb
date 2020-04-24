@@ -1,6 +1,8 @@
 {
   "id": "buttoned-wraparound-skirt",
-  "name": "Buttoned Wraparound Skirt",
+  "name": {
+    "en-US": "Buttoned Wraparound Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

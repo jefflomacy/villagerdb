@@ -1,6 +1,8 @@
 {
   "id": "yucca",
-  "name": "Yucca",
+  "name": {
+    "en-US": "Yucca"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "explorer-shorts",
-  "name": "Explorer Shorts",
+  "name": {
+    "en-US": "Explorer Shorts"
+  },
   "games": {
     "nh": {
       "sellPrice": {

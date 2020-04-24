@@ -1,6 +1,8 @@
 {
   "id": "monarch-butterfly-model",
-  "name": "Monarch Butterfly Model",
+  "name": {
+    "en-US": "Monarch Butterfly Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

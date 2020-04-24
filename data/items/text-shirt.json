@@ -1,6 +1,8 @@
 {
   "id": "text-shirt",
-  "name": "Text Shirt",
+  "name": {
+    "en-US": "Text Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

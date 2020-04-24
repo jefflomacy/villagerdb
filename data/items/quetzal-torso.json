@@ -1,6 +1,8 @@
 {
   "id": "quetzal-torso",
-  "name": "Quetzal Torso",
+  "name": {
+    "en-US": "Quetzal Torso"
+  },
   "games": {
     "nh": {
       "orderable": false,

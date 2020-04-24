@@ -1,6 +1,8 @@
 {
   "id": "office-cabinet",
-  "name": "Office Cabinet",
+  "name": {
+    "en-US": "Office Cabinet"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

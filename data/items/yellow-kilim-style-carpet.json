@@ -1,6 +1,8 @@
 {
   "id": "yellow-kilim-style-carpet",
-  "name": "Yellow Kilim-style Carpet",
+  "name": {
+    "en-US": "Yellow Kilim-style Carpet"
+  },
   "games": {
     "nh": {
       "sellPrice": {

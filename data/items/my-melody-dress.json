@@ -1,6 +1,8 @@
 {
   "id": "my-melody-dress",
-  "name": "My Melody Dress",
+  "name": {
+    "en-US": "My Melody Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

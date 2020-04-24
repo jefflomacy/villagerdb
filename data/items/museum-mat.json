@@ -1,6 +1,8 @@
 {
   "id": "museum-mat",
-  "name": "Museum Mat",
+  "name": {
+    "en-US": "Museum Mat"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

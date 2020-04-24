@@ -1,6 +1,8 @@
 {
   "id": "floral-rush-mat-flooring",
-  "name": "Floral Rush-mat Flooring",
+  "name": {
+    "en-US": "Floral Rush-mat Flooring"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "soccer-goal",
-  "name": "Soccer Goal",
+  "name": {
+    "en-US": "Soccer Goal"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

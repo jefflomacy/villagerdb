@@ -1,6 +1,8 @@
 {
   "id": "garden-wagon",
-  "name": "Garden Wagon",
+  "name": {
+    "en-US": "Garden Wagon"
+  },
   "games": {
     "nh": {
       "orderable": false,

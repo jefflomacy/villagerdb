@@ -1,6 +1,8 @@
 {
   "id": "giant-clam-shell",
-  "name": "Giant-clam Shell",
+  "name": {
+    "en-US": "Giant-clam Shell"
+  },
   "category": "Seashells",
   "games": {
     "nl": {

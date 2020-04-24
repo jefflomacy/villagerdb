@@ -1,6 +1,8 @@
 {
   "id": "red-scale-shirt",
-  "name": "Red Scale Shirt",
+  "name": {
+    "en-US": "Red Scale Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

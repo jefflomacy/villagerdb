@@ -1,6 +1,8 @@
 {
   "id": "turnip-dress",
-  "name": "Turnip Dress",
+  "name": {
+    "en-US": "Turnip Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

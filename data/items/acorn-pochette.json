@@ -1,6 +1,8 @@
 {
   "id": "acorn-pochette",
-  "name": "Acorn Pochette",
+  "name": {
+    "en-US": "Acorn Pochette"
+  },
   "games": {
     "nh": {
       "orderable": false,

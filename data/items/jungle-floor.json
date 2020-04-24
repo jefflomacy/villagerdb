@@ -1,6 +1,8 @@
 {
   "id": "jungle-floor",
-  "name": "Jungle Floor",
+  "name": {
+    "en-US": "Jungle Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "synthesizer",
-  "name": "Synthesizer",
+  "name": {
+    "en-US": "Synthesizer"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

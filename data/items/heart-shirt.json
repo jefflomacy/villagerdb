@@ -1,6 +1,8 @@
 {
   "id": "heart-shirt",
-  "name": "Heart Shirt",
+  "name": {
+    "en-US": "Heart Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

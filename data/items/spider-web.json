@@ -1,6 +1,8 @@
 {
   "id": "spider-web",
-  "name": "Spider Web",
+  "name": {
+    "en-US": "Spider Web"
+  },
   "games": {
     "nh": {
       "sellPrice": {

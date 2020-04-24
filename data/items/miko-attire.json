@@ -1,6 +1,8 @@
 {
   "id": "miko-attire",
-  "name": "Miko Attire",
+  "name": {
+    "en-US": "Miko Attire"
+  },
   "games": {
     "nh": {
       "sellPrice": {

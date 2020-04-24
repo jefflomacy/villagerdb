@@ -1,6 +1,8 @@
 {
   "id": "mallarys-poster",
-  "name": "Mallary's Poster",
+  "name": {
+    "en-US": "Mallary's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

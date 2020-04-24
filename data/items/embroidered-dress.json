@@ -1,6 +1,8 @@
 {
   "id": "embroidered-dress",
-  "name": "Embroidered Dress",
+  "name": {
+    "en-US": "Embroidered Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

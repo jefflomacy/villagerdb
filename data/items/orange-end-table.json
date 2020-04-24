@@ -1,6 +1,8 @@
 {
   "id": "orange-end-table",
-  "name": "Orange End Table",
+  "name": {
+    "en-US": "Orange End Table"
+  },
   "games": {
     "nh": {
       "orderable": false,

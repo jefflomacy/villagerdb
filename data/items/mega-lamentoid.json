@@ -1,6 +1,8 @@
 {
   "id": "mega-lamentoid",
-  "name": "Mega Lamentoid",
+  "name": {
+    "en-US": "Mega Lamentoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

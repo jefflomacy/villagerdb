@@ -1,6 +1,8 @@
 {
   "id": "banana-flower-basket",
-  "name": "Banana Flower Basket",
+  "name": {
+    "en-US": "Banana Flower Basket"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

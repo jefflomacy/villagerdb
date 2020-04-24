@@ -1,6 +1,8 @@
 {
   "id": "spooky-wall",
-  "name": "Spooky Wall",
+  "name": {
+    "en-US": "Spooky Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

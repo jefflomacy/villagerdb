@@ -1,6 +1,8 @@
 {
   "id": "axe",
-  "name": "Axe",
+  "name": {
+    "en-US": "Axe"
+  },
   "category": "Tools",
   "games": {
     "nl": {

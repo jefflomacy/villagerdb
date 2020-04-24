@@ -1,6 +1,8 @@
 {
   "id": "work-boots",
-  "name": "Work Boots",
+  "name": {
+    "en-US": "Work Boots"
+  },
   "games": {
     "nh": {
       "orderable": true,

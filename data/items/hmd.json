@@ -1,6 +1,8 @@
 {
   "id": "hmd",
-  "name": "Hmd",
+  "name": {
+    "en-US": "Hmd"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

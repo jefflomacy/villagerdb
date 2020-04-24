@@ -1,6 +1,8 @@
 {
   "id": "mountain",
-  "name": "Mountain",
+  "name": {
+    "en-US": "Mountain"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

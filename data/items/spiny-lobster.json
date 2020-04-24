@@ -1,6 +1,8 @@
 {
   "id": "spiny-lobster",
-  "name": "Spiny Lobster",
+  "name": {
+    "en-US": "Spiny Lobster"
+  },
   "category": "Fish",
   "games": {
     "nl": {

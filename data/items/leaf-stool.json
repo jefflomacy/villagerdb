@@ -1,6 +1,8 @@
 {
   "id": "leaf-stool",
-  "name": "Leaf Stool",
+  "name": {
+    "en-US": "Leaf Stool"
+  },
   "games": {
     "nh": {
       "sellPrice": {

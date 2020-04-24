@@ -1,6 +1,8 @@
 {
   "id": "hard-shell-backpack",
-  "name": "Hard-shell Backpack",
+  "name": {
+    "en-US": "Hard-shell Backpack"
+  },
   "games": {
     "nh": {
       "sellPrice": {

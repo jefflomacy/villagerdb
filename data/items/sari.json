@@ -1,6 +1,8 @@
 {
   "id": "sari",
-  "name": "Sari",
+  "name": {
+    "en-US": "Sari"
+  },
   "games": {
     "nh": {
       "sellPrice": {

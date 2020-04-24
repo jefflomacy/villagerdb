@@ -1,6 +1,8 @@
 {
   "id": "cut-pleather-skirt",
-  "name": "Cut-pleather Skirt",
+  "name": {
+    "en-US": "Cut-pleather Skirt"
+  },
   "games": {
     "nh": {
       "orderable": true,

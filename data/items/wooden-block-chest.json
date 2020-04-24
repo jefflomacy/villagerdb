@@ -1,6 +1,8 @@
 {
   "id": "wooden-block-chest",
-  "name": "Wooden-block Chest",
+  "name": {
+    "en-US": "Wooden-block Chest"
+  },
   "games": {
     "nh": {
       "orderable": false,

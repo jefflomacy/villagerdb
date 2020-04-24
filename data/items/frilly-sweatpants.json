@@ -1,6 +1,8 @@
 {
   "id": "frilly-sweatpants",
-  "name": "Frilly Sweatpants",
+  "name": {
+    "en-US": "Frilly Sweatpants"
+  },
   "games": {
     "nh": {
       "sellPrice": {

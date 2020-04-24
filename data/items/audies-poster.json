@@ -1,6 +1,8 @@
 {
   "id": "audies-poster",
-  "name": "Audie's Poster",
+  "name": {
+    "en-US": "Audie's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

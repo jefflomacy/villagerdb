@@ -1,6 +1,8 @@
 {
   "id": "log-garden-lounge",
-  "name": "Log Garden Lounge",
+  "name": {
+    "en-US": "Log Garden Lounge"
+  },
   "games": {
     "nh": {
       "orderable": false,

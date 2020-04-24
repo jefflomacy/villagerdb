@@ -1,6 +1,8 @@
 {
   "id": "cupcake",
-  "name": "Cupcake",
+  "name": {
+    "en-US": "Cupcake"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

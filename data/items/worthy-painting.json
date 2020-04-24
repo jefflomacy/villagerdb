@@ -1,6 +1,8 @@
 {
   "id": "worthy-painting",
-  "name": "Worthy Painting",
+  "name": {
+    "en-US": "Worthy Painting"
+  },
   "category": "Art",
   "games": {
     "nl": {

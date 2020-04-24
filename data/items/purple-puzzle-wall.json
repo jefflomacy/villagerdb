@@ -1,6 +1,8 @@
 {
   "id": "purple-puzzle-wall",
-  "name": "Purple Puzzle Wall",
+  "name": {
+    "en-US": "Purple Puzzle Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "mint-gingham-top",
-  "name": "Mint Gingham Top",
+  "name": {
+    "en-US": "Mint Gingham Top"
+  },
   "category": "Tops",
   "games": {
     "ac": {

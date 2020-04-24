@@ -1,6 +1,8 @@
 {
   "id": "fish-pochette",
-  "name": "Fish Pochette",
+  "name": {
+    "en-US": "Fish Pochette"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "ganondorf-pants",
-  "name": "Ganondorf Pants",
+  "name": {
+    "en-US": "Ganondorf Pants"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

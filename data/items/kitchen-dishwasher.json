@@ -1,6 +1,8 @@
 {
   "id": "kitchen-dishwasher",
-  "name": "Kitchen Dishwasher",
+  "name": {
+    "en-US": "Kitchen Dishwasher"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

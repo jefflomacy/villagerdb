@@ -1,6 +1,8 @@
 {
   "id": "benedicts-poster",
-  "name": "Benedict's Poster",
+  "name": {
+    "en-US": "Benedict's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

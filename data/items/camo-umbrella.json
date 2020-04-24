@@ -1,6 +1,8 @@
 {
   "id": "camo-umbrella",
-  "name": "Camo Umbrella",
+  "name": {
+    "en-US": "Camo Umbrella"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

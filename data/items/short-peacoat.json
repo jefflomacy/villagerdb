@@ -1,6 +1,8 @@
 {
   "id": "short-peacoat",
-  "name": "Short Peacoat",
+  "name": {
+    "en-US": "Short Peacoat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

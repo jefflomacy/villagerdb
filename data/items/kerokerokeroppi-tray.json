@@ -1,6 +1,8 @@
 {
   "id": "kerokerokeroppi-tray",
-  "name": "Kerokerokeroppi Tray",
+  "name": {
+    "en-US": "Kerokerokeroppi Tray"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

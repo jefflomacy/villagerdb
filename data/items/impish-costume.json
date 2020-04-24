@@ -1,6 +1,8 @@
 {
   "id": "impish-costume",
-  "name": "Impish Costume",
+  "name": {
+    "en-US": "Impish Costume"
+  },
   "games": {
     "nh": {
       "orderable": true,

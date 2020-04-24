@@ -1,6 +1,8 @@
 {
   "id": "grand-atlas-moth-model",
-  "name": "Grand Atlas Moth Model",
+  "name": {
+    "en-US": "Grand Atlas Moth Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

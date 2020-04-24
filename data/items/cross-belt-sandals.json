@@ -1,6 +1,8 @@
 {
   "id": "cross-belt-sandals",
-  "name": "Cross-belt Sandals",
+  "name": {
+    "en-US": "Cross-belt Sandals"
+  },
   "games": {
     "nh": {
       "sellPrice": {

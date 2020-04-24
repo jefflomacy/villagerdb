@@ -1,6 +1,8 @@
 {
   "id": "apron-skirt",
-  "name": "Apron Skirt",
+  "name": {
+    "en-US": "Apron Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

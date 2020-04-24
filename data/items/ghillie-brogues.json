@@ -1,6 +1,8 @@
 {
   "id": "ghillie-brogues",
-  "name": "Ghillie Brogues",
+  "name": {
+    "en-US": "Ghillie Brogues"
+  },
   "games": {
     "nh": {
       "sellPrice": {

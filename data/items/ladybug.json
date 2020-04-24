@@ -1,6 +1,8 @@
 {
   "id": "ladybug",
-  "name": "Ladybug",
+  "name": {
+    "en-US": "Ladybug"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

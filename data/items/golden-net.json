@@ -1,6 +1,8 @@
 {
   "id": "golden-net",
-  "name": "Golden Net",
+  "name": {
+    "en-US": "Golden Net"
+  },
   "category": "Tools",
   "games": {
     "nl": {

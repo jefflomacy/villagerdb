@@ -1,6 +1,8 @@
 {
   "id": "new-3ds-tt",
-  "name": "New 3DS - T&T",
+  "name": {
+    "en-US": "New 3DS - T&T"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "candelabra",
-  "name": "Candelabra",
+  "name": {
+    "en-US": "Candelabra"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

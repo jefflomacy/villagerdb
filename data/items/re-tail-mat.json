@@ -1,6 +1,8 @@
 {
   "id": "re-tail-mat",
-  "name": "Re-Tail Mat",
+  "name": {
+    "en-US": "Re-Tail Mat"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

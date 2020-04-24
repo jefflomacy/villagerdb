@@ -1,6 +1,8 @@
 {
   "id": "red-message-mat",
-  "name": "Red Message Mat",
+  "name": {
+    "en-US": "Red Message Mat"
+  },
   "games": {
     "nh": {
       "sources": [

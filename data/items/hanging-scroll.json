@@ -1,6 +1,8 @@
 {
   "id": "hanging-scroll",
-  "name": "Hanging Scroll",
+  "name": {
+    "en-US": "Hanging Scroll"
+  },
   "games": {
     "nh": {
       "sources": [

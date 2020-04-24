@@ -1,6 +1,8 @@
 {
   "id": "cotton-candy-stall",
-  "name": "Cotton-candy Stall",
+  "name": {
+    "en-US": "Cotton-candy Stall"
+  },
   "games": {
     "nh": {
       "orderable": true,

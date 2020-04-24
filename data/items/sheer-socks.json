@@ -1,6 +1,8 @@
 {
   "id": "sheer-socks",
-  "name": "Sheer Socks",
+  "name": {
+    "en-US": "Sheer Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "bathtub-paper",
-  "name": "Bathtub Paper",
+  "name": {
+    "en-US": "Bathtub Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "black-rose",
-  "name": "Black Rose",
+  "name": {
+    "en-US": "Black Rose"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

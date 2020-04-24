@@ -1,6 +1,8 @@
 {
   "id": "arcade-mahjong-game",
-  "name": "Arcade Mahjong Game",
+  "name": {
+    "en-US": "Arcade Mahjong Game"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "pants-press",
-  "name": "Pants Press",
+  "name": {
+    "en-US": "Pants Press"
+  },
   "games": {
     "nh": {
       "orderable": true,

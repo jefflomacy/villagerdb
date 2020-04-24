@@ -1,6 +1,8 @@
 {
   "id": "black-wooden-deck-rug",
-  "name": "Black Wooden-deck Rug",
+  "name": {
+    "en-US": "Black Wooden-deck Rug"
+  },
   "games": {
     "nh": {
       "orderable": true,

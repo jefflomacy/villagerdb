@@ -1,6 +1,8 @@
 {
   "id": "iron-bridge",
-  "name": "Iron Bridge",
+  "name": {
+    "en-US": "Iron Bridge"
+  },
   "games": {
     "nh": {
       "buyPrices": [

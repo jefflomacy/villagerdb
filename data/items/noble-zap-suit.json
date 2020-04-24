@@ -1,6 +1,8 @@
 {
   "id": "noble-zap-suit",
-  "name": "Noble Zap Suit",
+  "name": {
+    "en-US": "Noble Zap Suit"
+  },
   "games": {
     "nh": {
       "sellPrice": {

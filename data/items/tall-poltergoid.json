@@ -1,6 +1,8 @@
 {
   "id": "tall-poltergoid",
-  "name": "Tall Poltergoid",
+  "name": {
+    "en-US": "Tall Poltergoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

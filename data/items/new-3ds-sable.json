@@ -1,6 +1,8 @@
 {
   "id": "new-3ds-sable",
-  "name": "New 3DS - Sable",
+  "name": {
+    "en-US": "New 3DS - Sable"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

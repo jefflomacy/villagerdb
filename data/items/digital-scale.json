@@ -1,6 +1,8 @@
 {
   "id": "digital-scale",
-  "name": "Digital Scale",
+  "name": {
+    "en-US": "Digital Scale"
+  },
   "games": {
     "nh": {
       "orderable": true,

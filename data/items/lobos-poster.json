@@ -1,6 +1,8 @@
 {
   "id": "lobos-poster",
-  "name": "Lobo's Poster",
+  "name": {
+    "en-US": "Lobo's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

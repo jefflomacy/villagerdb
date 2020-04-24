@@ -1,6 +1,8 @@
 {
   "id": "strawberry-shirt",
-  "name": "Strawberry Shirt",
+  "name": {
+    "en-US": "Strawberry Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

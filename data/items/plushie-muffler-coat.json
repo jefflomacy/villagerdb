@@ -1,6 +1,8 @@
 {
   "id": "plushie-muffler-coat",
-  "name": "Plushie-muffler Coat",
+  "name": {
+    "en-US": "Plushie-muffler Coat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

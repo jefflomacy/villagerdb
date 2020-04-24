@@ -1,6 +1,8 @@
 {
   "id": "cheese-wall",
-  "name": "Cheese Wall",
+  "name": {
+    "en-US": "Cheese Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

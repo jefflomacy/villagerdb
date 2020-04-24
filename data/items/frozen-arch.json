@@ -1,6 +1,8 @@
 {
   "id": "frozen-arch",
-  "name": "Frozen Arch",
+  "name": {
+    "en-US": "Frozen Arch"
+  },
   "games": {
     "nh": {
       "sellPrice": {

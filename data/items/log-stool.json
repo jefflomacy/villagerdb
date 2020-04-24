@@ -1,6 +1,8 @@
 {
   "id": "log-stool",
-  "name": "Log Stool",
+  "name": {
+    "en-US": "Log Stool"
+  },
   "category": "Furniture",
   "games": {
     "nh": {

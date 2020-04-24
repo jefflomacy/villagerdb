@@ -1,6 +1,8 @@
 {
   "id": "ironwood-kitchenette",
-  "name": "Ironwood Kitchenette",
+  "name": {
+    "en-US": "Ironwood Kitchenette"
+  },
   "games": {
     "nh": {
       "orderable": false,

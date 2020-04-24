@@ -1,6 +1,8 @@
 {
   "id": "red-tile",
-  "name": "Red Tile",
+  "name": {
+    "en-US": "Red Tile"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

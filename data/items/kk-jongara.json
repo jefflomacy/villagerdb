@@ -1,6 +1,8 @@
 {
   "id": "kk-jongara",
-  "name": "K.K. Jongara",
+  "name": {
+    "en-US": "K.K. Jongara"
+  },
   "category": "Music",
   "games": {
     "nl": {

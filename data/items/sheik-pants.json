@@ -1,6 +1,8 @@
 {
   "id": "sheik-pants",
-  "name": "Sheik Pants",
+  "name": {
+    "en-US": "Sheik Pants"
+  },
   "category": "Bottoms",
   "games": {
     "nl": {

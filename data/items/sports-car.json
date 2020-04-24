@@ -1,6 +1,8 @@
 {
   "id": "sports-car",
-  "name": "Sports Car",
+  "name": {
+    "en-US": "Sports Car"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

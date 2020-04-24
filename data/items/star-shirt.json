@@ -1,6 +1,8 @@
 {
   "id": "star-shirt",
-  "name": "Star Shirt",
+  "name": {
+    "en-US": "Star Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

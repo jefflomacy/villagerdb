@@ -1,6 +1,8 @@
 {
   "id": "log-stakes",
-  "name": "Log Stakes",
+  "name": {
+    "en-US": "Log Stakes"
+  },
   "games": {
     "nh": {
       "orderable": false,

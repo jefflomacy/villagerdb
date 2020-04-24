@@ -1,6 +1,8 @@
 {
   "id": "dal-pilot-jacket",
-  "name": "Dal Pilot Jacket",
+  "name": {
+    "en-US": "Dal Pilot Jacket"
+  },
   "games": {
     "nh": {
       "sellPrice": {

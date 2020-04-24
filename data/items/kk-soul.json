@@ -1,6 +1,8 @@
 {
   "id": "kk-soul",
-  "name": "K.K. Soul",
+  "name": {
+    "en-US": "K.K. Soul"
+  },
   "category": "Music",
   "games": {
     "nl": {

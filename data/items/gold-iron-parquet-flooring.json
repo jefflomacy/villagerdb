@@ -1,6 +1,8 @@
 {
   "id": "gold-iron-parquet-flooring",
-  "name": "Gold Iron-parquet Flooring",
+  "name": {
+    "en-US": "Gold Iron-parquet Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

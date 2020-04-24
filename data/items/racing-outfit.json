@@ -1,6 +1,8 @@
 {
   "id": "racing-outfit",
-  "name": "Racing Outfit",
+  "name": {
+    "en-US": "Racing Outfit"
+  },
   "games": {
     "nh": {
       "sellPrice": {

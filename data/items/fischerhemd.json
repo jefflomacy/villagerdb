@@ -1,6 +1,8 @@
 {
   "id": "fischerhemd",
-  "name": "Fischerhemd",
+  "name": {
+    "en-US": "Fischerhemd"
+  },
   "games": {
     "nh": {
       "sellPrice": {

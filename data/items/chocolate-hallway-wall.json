@@ -1,6 +1,8 @@
 {
   "id": "chocolate-hallway-wall",
-  "name": "Chocolate Hallway Wall",
+  "name": {
+    "en-US": "Chocolate Hallway Wall"
+  },
   "games": {
     "nh": {
       "orderable": true,

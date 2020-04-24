@@ -1,6 +1,8 @@
 {
   "id": "wooden-block-stereo",
-  "name": "Wooden-block Stereo",
+  "name": {
+    "en-US": "Wooden-block Stereo"
+  },
   "games": {
     "nh": {
       "orderable": false,

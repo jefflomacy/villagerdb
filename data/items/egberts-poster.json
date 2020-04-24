@@ -1,6 +1,8 @@
 {
   "id": "egberts-poster",
-  "name": "Egbert's Poster",
+  "name": {
+    "en-US": "Egbert's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

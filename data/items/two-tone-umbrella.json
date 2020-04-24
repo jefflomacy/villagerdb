@@ -1,6 +1,8 @@
 {
   "id": "two-tone-umbrella",
-  "name": "Two-tone Umbrella",
+  "name": {
+    "en-US": "Two-tone Umbrella"
+  },
   "games": {
     "nh": {
       "orderable": false,

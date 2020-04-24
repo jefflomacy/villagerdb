@@ -1,6 +1,8 @@
 {
   "id": "phylliss-poster",
-  "name": "Phyllis's Poster",
+  "name": {
+    "en-US": "Phyllis's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

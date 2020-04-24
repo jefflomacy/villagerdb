@@ -1,6 +1,8 @@
 {
   "id": "red-nose",
-  "name": "Red Nose",
+  "name": {
+    "en-US": "Red Nose"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

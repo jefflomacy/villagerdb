@@ -1,6 +1,8 @@
 {
   "id": "cyranos-poster",
-  "name": "Cyrano's Poster",
+  "name": {
+    "en-US": "Cyrano's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

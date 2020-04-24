@@ -1,6 +1,8 @@
 {
   "id": "striped-maxi-dress",
-  "name": "Striped Maxi Dress",
+  "name": {
+    "en-US": "Striped Maxi Dress"
+  },
   "games": {
     "nh": {
       "sellPrice": {

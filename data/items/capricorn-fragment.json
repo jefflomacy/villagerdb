@@ -1,6 +1,8 @@
 {
   "id": "capricorn-fragment",
-  "name": "Capricorn Fragment",
+  "name": {
+    "en-US": "Capricorn Fragment"
+  },
   "games": {
     "nh": {
       "sellPrice": {

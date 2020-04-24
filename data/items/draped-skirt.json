@@ -1,6 +1,8 @@
 {
   "id": "draped-skirt",
-  "name": "Draped Skirt",
+  "name": {
+    "en-US": "Draped Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

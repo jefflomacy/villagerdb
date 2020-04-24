@@ -1,6 +1,8 @@
 {
   "id": "luchas-poster",
-  "name": "Lucha's Poster",
+  "name": {
+    "en-US": "Lucha's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

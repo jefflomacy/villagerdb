@@ -1,6 +1,8 @@
 {
   "id": "ballroom-mask",
-  "name": "Ballroom Mask",
+  "name": {
+    "en-US": "Ballroom Mask"
+  },
   "category": "Accessories",
   "games": {
     "nl": {

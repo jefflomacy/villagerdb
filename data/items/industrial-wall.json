@@ -1,6 +1,8 @@
 {
   "id": "industrial-wall",
-  "name": "Industrial Wall",
+  "name": {
+    "en-US": "Industrial Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

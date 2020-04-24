@@ -1,6 +1,8 @@
 {
   "id": "decorative-plate",
-  "name": "Decorative Plate",
+  "name": {
+    "en-US": "Decorative Plate"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "sea-slug",
-  "name": "Sea Slug",
+  "name": {
+    "en-US": "Sea Slug"
+  },
   "category": "Fish",
   "games": {
     "nl": {

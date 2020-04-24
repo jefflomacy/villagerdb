@@ -1,6 +1,8 @@
 {
   "id": "butterfly-backpack",
-  "name": "Butterfly Backpack",
+  "name": {
+    "en-US": "Butterfly Backpack"
+  },
   "games": {
     "nh": {
       "sellPrice": {

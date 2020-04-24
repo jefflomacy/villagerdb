@@ -1,6 +1,8 @@
 {
   "id": "protein-shaker-bottle",
-  "name": "Protein Shaker Bottle",
+  "name": {
+    "en-US": "Protein Shaker Bottle"
+  },
   "games": {
     "nh": {
       "orderable": true,

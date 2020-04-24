@@ -1,6 +1,8 @@
 {
   "id": "sleeved-apron",
-  "name": "Sleeved Apron",
+  "name": {
+    "en-US": "Sleeved Apron"
+  },
   "games": {
     "nh": {
       "orderable": true,

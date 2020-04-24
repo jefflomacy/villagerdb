@@ -1,6 +1,8 @@
 {
   "id": "oarfish-model",
-  "name": "Oarfish Model",
+  "name": {
+    "en-US": "Oarfish Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

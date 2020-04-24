@@ -1,6 +1,8 @@
 {
   "id": "minifridge",
-  "name": "Minifridge",
+  "name": {
+    "en-US": "Minifridge"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

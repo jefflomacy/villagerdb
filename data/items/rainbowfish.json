@@ -1,6 +1,8 @@
 {
   "id": "rainbowfish",
-  "name": "Rainbowfish",
+  "name": {
+    "en-US": "Rainbowfish"
+  },
   "games": {
     "nh": {
       "orderable": false,

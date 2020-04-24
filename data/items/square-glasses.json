@@ -1,6 +1,8 @@
 {
   "id": "square-glasses",
-  "name": "Square Glasses",
+  "name": {
+    "en-US": "Square Glasses"
+  },
   "games": {
     "nh": {
       "orderable": true,

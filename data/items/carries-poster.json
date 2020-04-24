@@ -1,6 +1,8 @@
 {
   "id": "carries-poster",
-  "name": "Carrie's Poster",
+  "name": {
+    "en-US": "Carrie's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

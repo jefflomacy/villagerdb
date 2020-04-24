@@ -1,6 +1,8 @@
 {
   "id": "paw-print-wall",
-  "name": "Paw-print Wall",
+  "name": {
+    "en-US": "Paw-print Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

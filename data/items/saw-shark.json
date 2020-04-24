@@ -1,6 +1,8 @@
 {
   "id": "saw-shark",
-  "name": "Saw Shark",
+  "name": {
+    "en-US": "Saw Shark"
+  },
   "category": "Fish",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "sapphire",
-  "name": "Sapphire",
+  "name": {
+    "en-US": "Sapphire"
+  },
   "category": "Ore",
   "games": {
     "nl": {

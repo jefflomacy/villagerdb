@@ -1,6 +1,8 @@
 {
   "id": "loach-model",
-  "name": "Loach Model",
+  "name": {
+    "en-US": "Loach Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

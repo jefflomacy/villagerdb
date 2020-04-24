@@ -1,6 +1,8 @@
 {
   "id": "suspenders-shirt",
-  "name": "Suspenders Shirt",
+  "name": {
+    "en-US": "Suspenders Shirt"
+  },
   "category": "Tops",
   "games": {
     "nl": {

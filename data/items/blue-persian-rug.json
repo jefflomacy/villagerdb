@@ -1,6 +1,8 @@
 {
   "id": "blue-persian-rug",
-  "name": "Blue Persian Rug",
+  "name": {
+    "en-US": "Blue Persian Rug"
+  },
   "games": {
     "nh": {
       "sources": [

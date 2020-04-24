@@ -1,6 +1,8 @@
 {
   "id": "sea-snail-shell",
-  "name": "Sea-snail Shell",
+  "name": {
+    "en-US": "Sea-snail Shell"
+  },
   "category": "Seashells",
   "games": {
     "nl": {

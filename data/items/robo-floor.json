@@ -1,6 +1,8 @@
 {
   "id": "robo-floor",
-  "name": "Robo-floor",
+  "name": {
+    "en-US": "Robo-floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

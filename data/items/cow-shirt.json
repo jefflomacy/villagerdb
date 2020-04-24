@@ -1,6 +1,8 @@
 {
   "id": "cow-shirt",
-  "name": "Cow Shirt",
+  "name": {
+    "en-US": "Cow Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

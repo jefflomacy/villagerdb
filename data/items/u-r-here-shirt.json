@@ -1,6 +1,8 @@
 {
   "id": "u-r-here-shirt",
-  "name": "U R Here Shirt",
+  "name": {
+    "en-US": "U R Here Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

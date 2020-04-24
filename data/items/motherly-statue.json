@@ -1,6 +1,8 @@
 {
   "id": "motherly-statue",
-  "name": "Motherly Statue",
+  "name": {
+    "en-US": "Motherly Statue"
+  },
   "category": "Art",
   "games": {
     "nl": {

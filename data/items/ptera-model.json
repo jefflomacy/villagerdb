@@ -1,6 +1,8 @@
 {
   "id": "ptera-model",
-  "name": "Ptera Model",
+  "name": {
+    "en-US": "Ptera Model"
+  },
   "category": "Fossils",
   "games": {
     "nl": {

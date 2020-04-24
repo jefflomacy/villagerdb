@@ -1,6 +1,8 @@
 {
   "id": "purple-windflower-crown",
-  "name": "Purple Windflower Crown",
+  "name": {
+    "en-US": "Purple Windflower Crown"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "lunch-pack",
-  "name": "Lunch Pack",
+  "name": {
+    "en-US": "Lunch Pack"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "sleeveless-tunic",
-  "name": "Sleeveless Tunic",
+  "name": {
+    "en-US": "Sleeveless Tunic"
+  },
   "games": {
     "nh": {
       "sellPrice": {

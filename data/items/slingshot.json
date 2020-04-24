@@ -1,6 +1,8 @@
 {
   "id": "slingshot",
-  "name": "Slingshot",
+  "name": {
+    "en-US": "Slingshot"
+  },
   "category": "Tools",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "sheik-outfit",
-  "name": "Sheik Outfit",
+  "name": {
+    "en-US": "Sheik Outfit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

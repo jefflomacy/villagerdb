@@ -1,6 +1,8 @@
 {
   "id": "kicks-mat",
-  "name": "Kicks Mat",
+  "name": {
+    "en-US": "Kicks Mat"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "bus-stop-stand",
-  "name": "Bus-stop Stand",
+  "name": {
+    "en-US": "Bus-stop Stand"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

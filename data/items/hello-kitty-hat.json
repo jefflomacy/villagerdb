@@ -1,6 +1,8 @@
 {
   "id": "hello-kitty-hat",
-  "name": "Hello Kitty Hat",
+  "name": {
+    "en-US": "Hello Kitty Hat"
+  },
   "category": "Hats",
   "games": {
     "nl": {

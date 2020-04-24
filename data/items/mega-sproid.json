@@ -1,6 +1,8 @@
 {
   "id": "mega-sproid",
-  "name": "Mega Sproid",
+  "name": {
+    "en-US": "Mega Sproid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

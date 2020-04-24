@@ -1,6 +1,8 @@
 {
   "id": "half-eaten-pizza",
-  "name": "Half-eaten Pizza",
+  "name": {
+    "en-US": "Half-eaten Pizza"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

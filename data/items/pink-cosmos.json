@@ -1,6 +1,8 @@
 {
   "id": "pink-cosmos",
-  "name": "Pink Cosmos",
+  "name": {
+    "en-US": "Pink Cosmos"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

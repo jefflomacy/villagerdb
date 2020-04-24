@@ -1,6 +1,8 @@
 {
   "id": "freckless-poster",
-  "name": "Freckles's Poster",
+  "name": {
+    "en-US": "Freckles's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

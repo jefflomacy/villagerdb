@@ -1,6 +1,8 @@
 {
   "id": "mega-tootoid",
-  "name": "Mega Tootoid",
+  "name": {
+    "en-US": "Mega Tootoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "common-bluebottle",
-  "name": "Common Bluebottle",
+  "name": {
+    "en-US": "Common Bluebottle"
+  },
   "games": {
     "nh": {
       "orderable": false,

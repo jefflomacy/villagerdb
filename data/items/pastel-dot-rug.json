@@ -1,6 +1,8 @@
 {
   "id": "pastel-dot-rug",
-  "name": "Pastel-dot Rug",
+  "name": {
+    "en-US": "Pastel-dot Rug"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

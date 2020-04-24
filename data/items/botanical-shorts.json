@@ -1,6 +1,8 @@
 {
   "id": "botanical-shorts",
-  "name": "Botanical Shorts",
+  "name": {
+    "en-US": "Botanical Shorts"
+  },
   "games": {
     "nh": {
       "sellPrice": {

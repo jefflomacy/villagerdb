@@ -1,6 +1,8 @@
 {
   "id": "sacoche-bag",
-  "name": "Sacoche Bag",
+  "name": {
+    "en-US": "Sacoche Bag"
+  },
   "games": {
     "nh": {
       "sellPrice": {

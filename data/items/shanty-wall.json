@@ -1,6 +1,8 @@
 {
   "id": "shanty-wall",
-  "name": "Shanty Wall",
+  "name": {
+    "en-US": "Shanty Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "pansy-crown",
-  "name": "Pansy Crown",
+  "name": {
+    "en-US": "Pansy Crown"
+  },
   "games": {
     "nh": {
       "customizable": false,

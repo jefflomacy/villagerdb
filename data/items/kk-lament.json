@@ -1,6 +1,8 @@
 {
   "id": "kk-lament",
-  "name": "K.K. Lament",
+  "name": {
+    "en-US": "K.K. Lament"
+  },
   "category": "Music",
   "games": {
     "nl": {

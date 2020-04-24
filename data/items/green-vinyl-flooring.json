@@ -1,6 +1,8 @@
 {
   "id": "green-vinyl-flooring",
-  "name": "Green Vinyl Flooring",
+  "name": {
+    "en-US": "Green Vinyl Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

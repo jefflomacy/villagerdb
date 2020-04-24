@@ -1,6 +1,8 @@
 {
   "id": "playroom-rug",
-  "name": "Playroom Rug",
+  "name": {
+    "en-US": "Playroom Rug"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

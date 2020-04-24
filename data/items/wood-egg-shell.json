@@ -1,6 +1,8 @@
 {
   "id": "wood-egg-shell",
-  "name": "Wood-egg Shell",
+  "name": {
+    "en-US": "Wood-egg Shell"
+  },
   "games": {
     "nh": {
       "orderable": false,

@@ -1,6 +1,8 @@
 {
   "id": "persimmon",
-  "name": "Persimmon",
+  "name": {
+    "en-US": "Persimmon"
+  },
   "category": "Fruit",
   "games": {
     "nl": {

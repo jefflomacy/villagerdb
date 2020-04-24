@@ -1,6 +1,8 @@
 {
   "id": "pilot-goggles",
-  "name": "Pilot Goggles",
+  "name": {
+    "en-US": "Pilot Goggles"
+  },
   "category": "Hats",
   "games": {
     "nl": {

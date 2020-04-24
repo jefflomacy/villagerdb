@@ -1,6 +1,8 @@
 {
   "id": "purple-camo-flooring",
-  "name": "Purple Camo Flooring",
+  "name": {
+    "en-US": "Purple Camo Flooring"
+  },
   "games": {
     "nh": {
       "orderable": true,

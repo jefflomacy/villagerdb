@@ -1,6 +1,8 @@
 {
   "id": "infused-water-dispenser",
-  "name": "Infused-water Dispenser",
+  "name": {
+    "en-US": "Infused-water Dispenser"
+  },
   "games": {
     "nh": {
       "customizable": false,

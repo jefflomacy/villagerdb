@@ -1,6 +1,8 @@
 {
   "id": "tool-shelf",
-  "name": "Tool Shelf",
+  "name": {
+    "en-US": "Tool Shelf"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

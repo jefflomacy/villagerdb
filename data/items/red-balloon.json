@@ -1,6 +1,8 @@
 {
   "id": "red-balloon",
-  "name": "Red Balloon",
+  "name": {
+    "en-US": "Red Balloon"
+  },
   "category": "Balloons",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "giant-stag",
-  "name": "Giant Stag",
+  "name": {
+    "en-US": "Giant Stag"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

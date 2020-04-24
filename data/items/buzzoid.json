@@ -1,6 +1,8 @@
 {
   "id": "buzzoid",
-  "name": "Buzzoid",
+  "name": {
+    "en-US": "Buzzoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

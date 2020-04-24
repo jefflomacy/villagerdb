@@ -1,6 +1,8 @@
 {
   "id": "rush-tatami-flooring",
-  "name": "Rush Tatami Flooring",
+  "name": {
+    "en-US": "Rush Tatami Flooring"
+  },
   "games": {
     "nh": {
       "sellPrice": {

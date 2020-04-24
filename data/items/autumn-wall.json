@@ -1,6 +1,8 @@
 {
   "id": "autumn-wall",
-  "name": "Autumn Wall",
+  "name": {
+    "en-US": "Autumn Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

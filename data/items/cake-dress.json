@@ -1,6 +1,8 @@
 {
   "id": "cake-dress",
-  "name": "Cake Dress",
+  "name": {
+    "en-US": "Cake Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

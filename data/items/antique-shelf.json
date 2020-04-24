@@ -1,6 +1,8 @@
 {
   "id": "antique-shelf",
-  "name": "Antique Shelf",
+  "name": {
+    "en-US": "Antique Shelf"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

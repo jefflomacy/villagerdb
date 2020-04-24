@@ -1,6 +1,8 @@
 {
   "id": "rover-suitcase",
-  "name": "Rover Suitcase",
+  "name": {
+    "en-US": "Rover Suitcase"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

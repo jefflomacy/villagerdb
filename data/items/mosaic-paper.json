@@ -1,6 +1,8 @@
 {
   "id": "mosaic-paper",
-  "name": "Mosaic Paper",
+  "name": {
+    "en-US": "Mosaic Paper"
+  },
   "category": "Stationery",
   "games": {
     "nl": {

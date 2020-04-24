@@ -1,6 +1,8 @@
 {
   "id": "strumboid",
-  "name": "Strumboid",
+  "name": {
+    "en-US": "Strumboid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

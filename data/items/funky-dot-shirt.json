@@ -1,6 +1,8 @@
 {
   "id": "funky-dot-shirt",
-  "name": "Funky Dot Shirt",
+  "name": {
+    "en-US": "Funky Dot Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

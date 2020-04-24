@@ -1,6 +1,8 @@
 {
   "id": "mega-howloid",
-  "name": "Mega Howloid",
+  "name": {
+    "en-US": "Mega Howloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

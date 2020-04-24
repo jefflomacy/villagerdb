@@ -1,6 +1,8 @@
 {
   "id": "beaded-sandals",
-  "name": "Beaded Sandals",
+  "name": {
+    "en-US": "Beaded Sandals"
+  },
   "games": {
     "nh": {
       "orderable": true,

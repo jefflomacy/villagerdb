@@ -1,6 +1,8 @@
 {
   "id": "parlor-wall",
-  "name": "Parlor Wall",
+  "name": {
+    "en-US": "Parlor Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

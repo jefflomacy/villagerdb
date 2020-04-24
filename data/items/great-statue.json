@@ -1,6 +1,8 @@
 {
   "id": "great-statue",
-  "name": "Great Statue",
+  "name": {
+    "en-US": "Great Statue"
+  },
   "category": "Art",
   "games": {
     "nl": {

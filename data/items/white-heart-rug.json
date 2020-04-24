@@ -1,6 +1,8 @@
 {
   "id": "white-heart-rug",
-  "name": "White Heart Rug",
+  "name": {
+    "en-US": "White Heart Rug"
+  },
   "games": {
     "nh": {
       "sellPrice": {

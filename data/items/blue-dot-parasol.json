@@ -1,6 +1,8 @@
 {
   "id": "blue-dot-parasol",
-  "name": "Blue Dot Parasol",
+  "name": {
+    "en-US": "Blue Dot Parasol"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

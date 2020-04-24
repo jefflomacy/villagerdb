@@ -1,6 +1,8 @@
 {
   "id": "carp-model",
-  "name": "Carp Model",
+  "name": {
+    "en-US": "Carp Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

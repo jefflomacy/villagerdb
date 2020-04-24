@@ -1,6 +1,8 @@
 {
   "id": "mini-bowtoid",
-  "name": "Mini Bowtoid",
+  "name": {
+    "en-US": "Mini Bowtoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

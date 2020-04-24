@@ -1,6 +1,8 @@
 {
   "id": "tweed-cap",
-  "name": "Tweed Cap",
+  "name": {
+    "en-US": "Tweed Cap"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "red-wing",
-  "name": "Red Wing",
+  "name": {
+    "en-US": "Red Wing"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

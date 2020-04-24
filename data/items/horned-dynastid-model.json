@@ -1,6 +1,8 @@
 {
   "id": "horned-dynastid-model",
-  "name": "Horned Dynastid Model",
+  "name": {
+    "en-US": "Horned Dynastid Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

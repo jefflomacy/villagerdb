@@ -1,6 +1,8 @@
 {
   "id": "nibble-fish",
-  "name": "Nibble Fish",
+  "name": {
+    "en-US": "Nibble Fish"
+  },
   "category": "Fish",
   "games": {
     "nl": {

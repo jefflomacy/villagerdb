@@ -1,6 +1,8 @@
 {
   "id": "steel-flooring",
-  "name": "Steel Flooring",
+  "name": {
+    "en-US": "Steel Flooring"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

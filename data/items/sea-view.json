@@ -1,6 +1,8 @@
 {
   "id": "sea-view",
-  "name": "Sea View",
+  "name": {
+    "en-US": "Sea View"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

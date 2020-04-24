@@ -1,6 +1,8 @@
 {
   "id": "limbergs-poster",
-  "name": "Limberg's Poster",
+  "name": {
+    "en-US": "Limberg's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

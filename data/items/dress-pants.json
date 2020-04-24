@@ -1,6 +1,8 @@
 {
   "id": "dress-pants",
-  "name": "Dress Pants",
+  "name": {
+    "en-US": "Dress Pants"
+  },
   "games": {
     "nh": {
       "sellPrice": {

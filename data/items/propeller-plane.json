@@ -1,6 +1,8 @@
 {
   "id": "propeller-plane",
-  "name": "Propeller Plane",
+  "name": {
+    "en-US": "Propeller Plane"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

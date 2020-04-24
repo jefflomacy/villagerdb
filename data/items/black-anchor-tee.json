@@ -1,6 +1,8 @@
 {
   "id": "black-anchor-tee",
-  "name": "Black Anchor Tee",
+  "name": {
+    "en-US": "Black Anchor Tee"
+  },
   "category": "Tops",
   "games": {
     "nl": {

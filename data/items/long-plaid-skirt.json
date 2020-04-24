@@ -1,6 +1,8 @@
 {
   "id": "long-plaid-skirt",
-  "name": "Long Plaid Skirt",
+  "name": {
+    "en-US": "Long Plaid Skirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

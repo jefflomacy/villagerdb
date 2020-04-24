@@ -1,6 +1,8 @@
 {
   "id": "cyclommatus",
-  "name": "Cyclommatus",
+  "name": {
+    "en-US": "Cyclommatus"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

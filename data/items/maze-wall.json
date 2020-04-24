@@ -1,6 +1,8 @@
 {
   "id": "maze-wall",
-  "name": "Maze Wall",
+  "name": {
+    "en-US": "Maze Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

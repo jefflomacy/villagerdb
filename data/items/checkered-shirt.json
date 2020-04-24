@@ -1,6 +1,8 @@
 {
   "id": "checkered-shirt",
-  "name": "Checkered Shirt",
+  "name": {
+    "en-US": "Checkered Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

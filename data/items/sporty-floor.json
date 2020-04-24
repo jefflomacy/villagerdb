@@ -1,6 +1,8 @@
 {
   "id": "sporty-floor",
-  "name": "Sporty Floor",
+  "name": {
+    "en-US": "Sporty Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "milkmaid-dress",
-  "name": "Milkmaid Dress",
+  "name": {
+    "en-US": "Milkmaid Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

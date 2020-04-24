@@ -1,6 +1,8 @@
 {
   "id": "pocket-modern-camper",
-  "name": "Pocket Modern Camper",
+  "name": {
+    "en-US": "Pocket Modern Camper"
+  },
   "games": {
     "nh": {
       "customizable": true,

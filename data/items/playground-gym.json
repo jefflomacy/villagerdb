@@ -1,6 +1,8 @@
 {
   "id": "playground-gym",
-  "name": "Playground Gym",
+  "name": {
+    "en-US": "Playground Gym"
+  },
   "games": {
     "nh": {
       "orderable": true,

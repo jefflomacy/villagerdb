@@ -1,6 +1,8 @@
 {
   "id": "simple-small-avocado-mat",
-  "name": "Simple Small Avocado Mat",
+  "name": {
+    "en-US": "Simple Small Avocado Mat"
+  },
   "games": {
     "nh": {
       "sources": [

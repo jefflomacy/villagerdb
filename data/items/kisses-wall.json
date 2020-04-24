@@ -1,6 +1,8 @@
 {
   "id": "kisses-wall",
-  "name": "Kisses Wall",
+  "name": {
+    "en-US": "Kisses Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

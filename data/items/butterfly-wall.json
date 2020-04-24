@@ -1,6 +1,8 @@
 {
   "id": "butterfly-wall",
-  "name": "Butterfly Wall",
+  "name": {
+    "en-US": "Butterfly Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

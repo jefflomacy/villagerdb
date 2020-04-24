@@ -1,6 +1,8 @@
 {
   "id": "dogtooth-dress",
-  "name": "Dogtooth Dress",
+  "name": {
+    "en-US": "Dogtooth Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

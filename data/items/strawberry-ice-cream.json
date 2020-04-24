@@ -1,6 +1,8 @@
 {
   "id": "strawberry-ice-cream",
-  "name": "Strawberry Ice Cream",
+  "name": {
+    "en-US": "Strawberry Ice Cream"
+  },
   "category": "Usables",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "old-board-floor",
-  "name": "Old Board Floor",
+  "name": {
+    "en-US": "Old Board Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

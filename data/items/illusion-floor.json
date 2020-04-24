@@ -1,6 +1,8 @@
 {
   "id": "illusion-floor",
-  "name": "Illusion Floor",
+  "name": {
+    "en-US": "Illusion Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

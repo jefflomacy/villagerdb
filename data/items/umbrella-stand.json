@@ -1,6 +1,8 @@
 {
   "id": "umbrella-stand",
-  "name": "Umbrella Stand",
+  "name": {
+    "en-US": "Umbrella Stand"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

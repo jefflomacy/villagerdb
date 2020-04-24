@@ -1,6 +1,8 @@
 {
   "id": "walking-leaf",
-  "name": "Walking Leaf",
+  "name": {
+    "en-US": "Walking Leaf"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

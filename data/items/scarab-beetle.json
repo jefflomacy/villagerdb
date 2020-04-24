@@ -1,6 +1,8 @@
 {
   "id": "scarab-beetle",
-  "name": "Scarab Beetle",
+  "name": {
+    "en-US": "Scarab Beetle"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

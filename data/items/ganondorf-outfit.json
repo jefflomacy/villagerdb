@@ -1,6 +1,8 @@
 {
   "id": "ganondorf-outfit",
-  "name": "Ganondorf Outfit",
+  "name": {
+    "en-US": "Ganondorf Outfit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "mega-drilloid",
-  "name": "Mega Drilloid",
+  "name": {
+    "en-US": "Mega Drilloid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

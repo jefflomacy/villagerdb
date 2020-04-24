@@ -1,6 +1,8 @@
 {
   "id": "black-botanical-tile-wall",
-  "name": "Black Botanical-tile Wall",
+  "name": {
+    "en-US": "Black Botanical-tile Wall"
+  },
   "games": {
     "nh": {
       "sellPrice": {

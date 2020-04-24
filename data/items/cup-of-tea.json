@@ -1,6 +1,8 @@
 {
   "id": "cup-of-tea",
-  "name": "Cup Of Tea",
+  "name": {
+    "en-US": "Cup Of Tea"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

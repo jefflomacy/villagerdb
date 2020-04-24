@@ -1,6 +1,8 @@
 {
   "id": "brachio-chest",
-  "name": "Brachio Chest",
+  "name": {
+    "en-US": "Brachio Chest"
+  },
   "games": {
     "nh": {
       "orderable": false,

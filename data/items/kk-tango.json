@@ -1,6 +1,8 @@
 {
   "id": "kk-tango",
-  "name": "K.K. Tango",
+  "name": {
+    "en-US": "K.K. Tango"
+  },
   "category": "Music",
   "games": {
     "nl": {

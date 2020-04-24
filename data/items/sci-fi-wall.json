@@ -1,6 +1,8 @@
 {
   "id": "sci-fi-wall",
-  "name": "Sci-fi Wall",
+  "name": {
+    "en-US": "Sci-fi Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

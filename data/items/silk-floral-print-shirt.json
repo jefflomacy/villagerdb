@@ -1,6 +1,8 @@
 {
   "id": "silk-floral-print-shirt",
-  "name": "Silk Floral-print Shirt",
+  "name": {
+    "en-US": "Silk Floral-print Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

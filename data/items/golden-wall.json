@@ -1,6 +1,8 @@
 {
   "id": "golden-wall",
-  "name": "Golden Wall",
+  "name": {
+    "en-US": "Golden Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "squid-bumper",
-  "name": "Squid Bumper",
+  "name": {
+    "en-US": "Squid Bumper"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

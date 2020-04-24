@@ -1,6 +1,8 @@
 {
   "id": "muay-thai-shorts",
-  "name": "Muay-thai Shorts",
+  "name": {
+    "en-US": "Muay-thai Shorts"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "stone-arch",
-  "name": "Stone Arch",
+  "name": {
+    "en-US": "Stone Arch"
+  },
   "games": {
     "nh": {
       "orderable": false,

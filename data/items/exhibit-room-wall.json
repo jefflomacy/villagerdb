@@ -1,6 +1,8 @@
 {
   "id": "exhibit-room-wall",
-  "name": "Exhibit-room Wall",
+  "name": {
+    "en-US": "Exhibit-room Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

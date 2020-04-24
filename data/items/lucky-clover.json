@@ -1,6 +1,8 @@
 {
   "id": "lucky-clover",
-  "name": "Lucky Clover",
+  "name": {
+    "en-US": "Lucky Clover"
+  },
   "category": "Flowers",
   "games": {
     "nl": {

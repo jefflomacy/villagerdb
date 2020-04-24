@@ -1,6 +1,8 @@
 {
   "id": "red-tulip",
-  "name": "Red Tulip",
+  "name": {
+    "en-US": "Red Tulip"
+  },
   "category": "Flowers",
   "games": {
     "nh": {

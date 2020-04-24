@@ -1,6 +1,8 @@
 {
   "id": "petal-parasol",
-  "name": "Petal Parasol",
+  "name": {
+    "en-US": "Petal Parasol"
+  },
   "category": "Umbrellas",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "pink-shiny-bows-parasol",
-  "name": "Pink Shiny-bows Parasol",
+  "name": {
+    "en-US": "Pink Shiny-bows Parasol"
+  },
   "games": {
     "nh": {
       "sellPrice": {

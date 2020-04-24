@@ -1,6 +1,8 @@
 {
   "id": "mosquito-model",
-  "name": "Mosquito Model",
+  "name": {
+    "en-US": "Mosquito Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

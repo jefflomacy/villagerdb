@@ -1,6 +1,8 @@
 {
   "id": "pansy-wand",
-  "name": "Pansy Wand",
+  "name": {
+    "en-US": "Pansy Wand"
+  },
   "games": {
     "nh": {
       "orderable": false,

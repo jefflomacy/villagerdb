@@ -1,6 +1,8 @@
 {
   "id": "nordic-socks",
-  "name": "Nordic Socks",
+  "name": {
+    "en-US": "Nordic Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

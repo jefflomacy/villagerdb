@@ -1,6 +1,8 @@
 {
   "id": "beans",
-  "name": "Beans",
+  "name": {
+    "en-US": "Beans"
+  },
   "category": "Usables",
   "games": {
     "nl": {

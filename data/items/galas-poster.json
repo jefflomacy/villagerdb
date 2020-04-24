@@ -1,6 +1,8 @@
 {
   "id": "galas-poster",
-  "name": "Gala's Poster",
+  "name": {
+    "en-US": "Gala's Poster"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "sun",
-  "name": "Sun",
+  "name": {
+    "en-US": "Sun"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

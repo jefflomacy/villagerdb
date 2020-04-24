@@ -1,6 +1,8 @@
 {
   "id": "embroidered-flower-tights",
-  "name": "Embroidered-flower Tights",
+  "name": {
+    "en-US": "Embroidered-flower Tights"
+  },
   "games": {
     "nh": {
       "orderable": true,

@@ -1,6 +1,8 @@
 {
   "id": "spotted-garden-eel",
-  "name": "Spotted Garden Eel",
+  "name": {
+    "en-US": "Spotted Garden Eel"
+  },
   "category": "Fish",
   "games": {
     "nl": {

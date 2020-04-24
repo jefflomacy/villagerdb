@@ -1,6 +1,8 @@
 {
   "id": "natural-low-table",
-  "name": "Natural Low Table",
+  "name": {
+    "en-US": "Natural Low Table"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

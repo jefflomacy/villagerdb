@@ -1,6 +1,8 @@
 {
   "id": "bell-bottoms",
-  "name": "Bell-bottoms",
+  "name": {
+    "en-US": "Bell-bottoms"
+  },
   "games": {
     "nh": {
       "sources": [

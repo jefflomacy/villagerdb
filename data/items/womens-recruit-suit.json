@@ -1,6 +1,8 @@
 {
   "id": "womens-recruit-suit",
-  "name": "Women's Recruit Suit",
+  "name": {
+    "en-US": "Women's Recruit Suit"
+  },
   "category": "Tops",
   "games": {
     "nl": {

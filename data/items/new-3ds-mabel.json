@@ -1,6 +1,8 @@
 {
   "id": "new-3ds-mabel",
-  "name": "New 3DS - Mabel",
+  "name": {
+    "en-US": "New 3DS - Mabel"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

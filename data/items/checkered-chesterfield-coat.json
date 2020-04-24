@@ -1,6 +1,8 @@
 {
   "id": "checkered-chesterfield-coat",
-  "name": "Checkered Chesterfield Coat",
+  "name": {
+    "en-US": "Checkered Chesterfield Coat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

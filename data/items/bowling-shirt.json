@@ -1,6 +1,8 @@
 {
   "id": "bowling-shirt",
-  "name": "Bowling Shirt",
+  "name": {
+    "en-US": "Bowling Shirt"
+  },
   "games": {
     "nh": {
       "sellPrice": {

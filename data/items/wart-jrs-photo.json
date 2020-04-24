@@ -1,6 +1,8 @@
 {
   "id": "wart-jrs-photo",
-  "name": "Wart Jr.'s Photo",
+  "name": {
+    "en-US": "Wart Jr.'s Photo"
+  },
   "games": {
     "nh": {
       "sellPrice": {

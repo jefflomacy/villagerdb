@@ -1,6 +1,8 @@
 {
   "id": "leopard-shirt",
-  "name": "Leopard Shirt",
+  "name": {
+    "en-US": "Leopard Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

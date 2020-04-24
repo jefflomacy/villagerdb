@@ -1,6 +1,8 @@
 {
   "id": "stellar-jumpsuit",
-  "name": "Stellar Jumpsuit",
+  "name": {
+    "en-US": "Stellar Jumpsuit"
+  },
   "games": {
     "nh": {
       "sellPrice": {

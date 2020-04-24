@@ -1,6 +1,8 @@
 {
   "id": "poogie",
-  "name": "Poogie",
+  "name": {
+    "en-US": "Poogie"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

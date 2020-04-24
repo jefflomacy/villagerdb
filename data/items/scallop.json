@@ -1,6 +1,8 @@
 {
   "id": "scallop",
-  "name": "Scallop",
+  "name": {
+    "en-US": "Scallop"
+  },
   "category": "Fish",
   "games": {
     "nl": {

@@ -1,6 +1,8 @@
 {
   "id": "foldover-top-backpack",
-  "name": "Foldover-top Backpack",
+  "name": {
+    "en-US": "Foldover-top Backpack"
+  },
   "games": {
     "nh": {
       "sources": [

@@ -1,6 +1,8 @@
 {
   "id": "kk-groove",
-  "name": "K.K. Groove",
+  "name": {
+    "en-US": "K.K. Groove"
+  },
   "category": "Music",
   "games": {
     "nl": {

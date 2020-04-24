@@ -1,6 +1,8 @@
 {
   "id": "kk-marathon",
-  "name": "K.K. Marathon",
+  "name": {
+    "en-US": "K.K. Marathon"
+  },
   "category": "Music",
   "games": {
     "nl": {

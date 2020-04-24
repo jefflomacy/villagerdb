@@ -1,6 +1,8 @@
 {
   "id": "velour-boots",
-  "name": "Velour Boots",
+  "name": {
+    "en-US": "Velour Boots"
+  },
   "games": {
     "nh": {
       "sellPrice": {

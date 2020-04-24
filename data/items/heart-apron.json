@@ -1,6 +1,8 @@
 {
   "id": "heart-apron",
-  "name": "Heart Apron",
+  "name": {
+    "en-US": "Heart Apron"
+  },
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,6 +1,8 @@
 {
   "id": "green-rug",
-  "name": "Green Rug",
+  "name": {
+    "en-US": "Green Rug"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

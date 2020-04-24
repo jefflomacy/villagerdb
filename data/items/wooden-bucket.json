@@ -1,6 +1,8 @@
 {
   "id": "wooden-bucket",
-  "name": "Wooden Bucket",
+  "name": {
+    "en-US": "Wooden Bucket"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

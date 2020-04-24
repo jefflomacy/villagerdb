@@ -1,6 +1,8 @@
 {
   "id": "lantern-fly",
-  "name": "Lantern Fly",
+  "name": {
+    "en-US": "Lantern Fly"
+  },
   "category": "Bugs",
   "games": {
     "nl": {

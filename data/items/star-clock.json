@@ -1,6 +1,8 @@
 {
   "id": "star-clock",
-  "name": "Star Clock",
+  "name": {
+    "en-US": "Star Clock"
+  },
   "games": {
     "nh": {
       "sellPrice": {

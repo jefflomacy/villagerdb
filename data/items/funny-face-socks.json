@@ -1,6 +1,8 @@
 {
   "id": "funny-face-socks",
-  "name": "Funny-face Socks",
+  "name": {
+    "en-US": "Funny-face Socks"
+  },
   "games": {
     "nh": {
       "sellPrice": {

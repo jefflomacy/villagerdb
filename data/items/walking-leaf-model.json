@@ -1,6 +1,8 @@
 {
   "id": "walking-leaf-model",
-  "name": "Walking Leaf Model",
+  "name": {
+    "en-US": "Walking Leaf Model"
+  },
   "games": {
     "nh": {
       "sellPrice": {

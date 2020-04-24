@@ -1,6 +1,8 @@
 {
   "id": "aurora-knit",
-  "name": "Aurora Knit",
+  "name": {
+    "en-US": "Aurora Knit"
+  },
   "category": "Tops",
   "games": {
     "ac": {

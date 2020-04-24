@@ -1,6 +1,8 @@
 {
   "id": "mitten",
-  "name": "Mitten",
+  "name": {
+    "en-US": "Mitten"
+  },
   "category": "Usables",
   "games": {
     "nl": {

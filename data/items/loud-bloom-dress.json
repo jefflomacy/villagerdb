@@ -1,6 +1,8 @@
 {
   "id": "loud-bloom-dress",
-  "name": "Loud Bloom Dress",
+  "name": {
+    "en-US": "Loud Bloom Dress"
+  },
   "category": "Dresses",
   "games": {
     "nl": {

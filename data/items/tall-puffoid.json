@@ -1,6 +1,8 @@
 {
   "id": "tall-puffoid",
-  "name": "Tall Puffoid",
+  "name": {
+    "en-US": "Tall Puffoid"
+  },
   "category": "Gyroids",
   "games": {
     "nl": {

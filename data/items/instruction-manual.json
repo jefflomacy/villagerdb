@@ -1,6 +1,8 @@
 {
   "id": "instruction-manual",
-  "name": "Instruction Manual",
+  "name": {
+    "en-US": "Instruction Manual"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

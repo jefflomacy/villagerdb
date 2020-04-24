@@ -1,6 +1,8 @@
 {
   "id": "flagstone-floor",
-  "name": "Flagstone Floor",
+  "name": {
+    "en-US": "Flagstone Floor"
+  },
   "category": "Flooring",
   "games": {
     "nl": {

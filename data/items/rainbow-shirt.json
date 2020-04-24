@@ -1,6 +1,8 @@
 {
   "id": "rainbow-shirt",
-  "name": "Rainbow Shirt",
+  "name": {
+    "en-US": "Rainbow Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,6 +1,8 @@
 {
   "id": "nine-ball-shirt",
-  "name": "Nine-Ball Shirt",
+  "name": {
+    "en-US": "Nine-Ball Shirt"
+  },
   "category": "Tops",
   "games": {
     "ac": {

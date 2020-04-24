@@ -1,6 +1,8 @@
 {
   "id": "water-pump",
-  "name": "Water Pump",
+  "name": {
+    "en-US": "Water Pump"
+  },
   "games": {
     "nh": {
       "orderable": false,

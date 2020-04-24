@@ -1,6 +1,8 @@
 {
   "id": "acorn-barnacle",
-  "name": "Acorn Barnacle",
+  "name": {
+    "en-US": "Acorn Barnacle"
+  },
   "category": "Fish",
   "games": {
     "nl": {

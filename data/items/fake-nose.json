@@ -1,6 +1,8 @@
 {
   "id": "fake-nose",
-  "name": "Fake Nose",
+  "name": {
+    "en-US": "Fake Nose"
+  },
   "games": {
     "nh": {
       "sellPrice": {

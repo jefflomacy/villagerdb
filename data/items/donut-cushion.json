@@ -1,6 +1,8 @@
 {
   "id": "donut-cushion",
-  "name": "Donut Cushion",
+  "name": {
+    "en-US": "Donut Cushion"
+  },
   "category": "Furniture",
   "games": {
     "nl": {

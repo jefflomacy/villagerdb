@@ -1,6 +1,8 @@
 {
   "id": "dotted-shorts",
-  "name": "Dotted Shorts",
+  "name": {
+    "en-US": "Dotted Shorts"
+  },
   "games": {
     "nh": {
       "sellPrice": {

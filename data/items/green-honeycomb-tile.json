@@ -1,6 +1,8 @@
 {
   "id": "green-honeycomb-tile",
-  "name": "Green Honeycomb Tile",
+  "name": {
+    "en-US": "Green Honeycomb Tile"
+  },
   "games": {
     "nh": {
       "sellPrice": {

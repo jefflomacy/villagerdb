@@ -1,6 +1,8 @@
 {
   "id": "tropical-hat",
-  "name": "Tropical Hat",
+  "name": {
+    "en-US": "Tropical Hat"
+  },
   "games": {
     "nh": {
       "sellPrice": {

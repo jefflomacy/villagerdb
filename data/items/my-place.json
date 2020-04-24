@@ -1,6 +1,8 @@
 {
   "id": "my-place",
-  "name": "My Place",
+  "name": {
+    "en-US": "My Place"
+  },
   "category": "Music",
   "games": {
     "nl": {

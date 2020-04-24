@@ -1,6 +1,8 @@
 {
   "id": "flower-pop-wall",
-  "name": "Flower Pop Wall",
+  "name": {
+    "en-US": "Flower Pop Wall"
+  },
   "category": "Wallpaper",
   "games": {
     "nl": {

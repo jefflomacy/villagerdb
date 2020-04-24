@@ -1,6 +1,8 @@
 {
   "id": "wart-jrs-poster",
-  "name": "Wart Jr.'s Poster",
+  "name": {
+    "en-US": "Wart Jr.'s Poster"
+  },
   "games": {
     "nh": {
       "sources": [

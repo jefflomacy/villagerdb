@@ -1,6 +1,8 @@
 {
   "id": "walking-stick",
-  "name": "Walking Stick",
+  "name": {
+    "en-US": "Walking Stick"
+  },
   "games": {
     "nh": {
       "orderable": false,

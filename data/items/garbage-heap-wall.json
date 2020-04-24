@@ -1,6 +1,8 @@
 {
   "id": "garbage-heap-wall",
-  "name": "Garbage-heap Wall",
+  "name": {
+    "en-US": "Garbage-heap Wall"
+  },
   "games": {
     "nh": {
       "orderable": false,

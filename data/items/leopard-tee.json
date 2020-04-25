@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Leopardenshirt",
+        "en-GB": "Leopard Tee",
+        "en-US": "Leopard Tee",
+        "es": "Camiseta leopardo",
+        "fr": "T-shirt léopard",
+        "it": "Maglietta leopardo",
+        "ja": "ひょうがらのふく"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -38,6 +47,19 @@
         "pink": "Pink",
         "green": "Green",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Leopard Tee",
+        "en-GB": "Leopard Tee",
+        "de": "Leopardenshirt",
+        "es": "Camiseta de leopardo",
+        "fr": "T-Shirt léopard",
+        "it": "Maglietta maculata",
+        "nl": "Luipaard-T-Shirt",
+        "zh-CN": "豹纹T恤",
+        "zh-TW": "豹紋T恤",
+        "jp": "ヒョウがらＴシャツ",
+        "ko": "표범무늬 티셔츠"
       }
     }
   }

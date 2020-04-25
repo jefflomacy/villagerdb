@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1880
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Cute Blue Wall",
+        "en-GB": "Cute Blue Wall",
+        "de": "Blau-Niedlichwand",
+        "es": "Pared cuqui azul",
+        "fr": "Mur sobre cœurs bleu",
+        "it": "Muro grazioso blu",
+        "nl": "Schattige blauwe wand",
+        "zh-CN": "蓝色可爱墙",
+        "zh-TW": "藍色可愛牆",
+        "jp": "ブルーなキュートのかべ",
+        "ko": "블루 큐트 벽"
+      }
     }
   },
   "category": "Wallpaper"

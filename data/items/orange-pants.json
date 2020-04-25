@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Arbeitshose",
+        "en-GB": "Orange Pants",
+        "en-US": "Orange Pants",
+        "es": "Pantalón de trabajo",
+        "fr": "Pantalon d'ouvrier",
+        "it": "Pantalone da lavoro",
+        "ja": "オレンジさぎょうぎズボン"
+      }
     }
   }
 }

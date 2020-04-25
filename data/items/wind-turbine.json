@@ -20,6 +20,19 @@
       "variations": {
         "blue": "Blue",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Wind Turbine",
+        "en-GB": "Wind Turbine",
+        "de": "Windrad",
+        "es": "Aerogenerador",
+        "fr": "Éolienne",
+        "it": "Turbina eolica",
+        "nl": "Windmolen",
+        "zh-CN": "风力发电机",
+        "zh-TW": "風力發電機",
+        "jp": "ふうりょくはつでんき",
+        "ko": "풍력 발전기"
       }
     }
   },

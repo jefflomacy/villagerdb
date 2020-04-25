@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White Honeycomb Tile",
+        "en-GB": "White Honeycomb Tile",
+        "de": "Weiß-Wabenfliesenboden",
+        "es": "Suelo panal blanco",
+        "fr": "Sol alvéolé blanc",
+        "it": "Pavimento esagoni bianco",
+        "nl": "Witte bijenraattegelvloer",
+        "zh-CN": "白色六角砖地板",
+        "zh-TW": "白色六角磚地板",
+        "jp": "ホワイトハニカムタイルのゆか",
+        "ko": "하얀 육각 타일 바닥"
+      }
     }
   },
   "category": "Flooring"

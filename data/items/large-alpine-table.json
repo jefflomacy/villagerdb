@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Nord-Esstisch",
+        "en-GB": "Large Alpine Table",
+        "en-US": "Large Alpine Table",
+        "es": "Mesa nórdica",
+        "fr": "Table ronde nordique",
+        "it": "Tavolo nordico",
+        "ja": "スカンジナビアテーブルL"
+      }
     }
   }
 }

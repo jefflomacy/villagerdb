@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Birch Flooring"
+      }
     },
     "nh": {
       "orderable": true,
@@ -37,7 +40,20 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Birch Flooring",
+        "en-GB": "Birch Flooring",
+        "de": "Birkenboden",
+        "es": "Suelo abedul",
+        "fr": "Parquet bouleau",
+        "it": "Pavimento betulla",
+        "nl": "Berkenhouten parket",
+        "zh-CN": "原木地板",
+        "zh-TW": "原木地板",
+        "jp": "しらきのフローリング",
+        "ko": "가공한 나무 바닥"
+      }
     }
   }
 }

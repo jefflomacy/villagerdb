@@ -20,6 +20,19 @@
       "variations": {
         "real": "Real",
         "fake": "Fake"
+      },
+      "name": {
+        "en-US": "Rock-Head Statue",
+        "en-GB": "Rock-Head Statue",
+        "de": "Dickkopfskulptur",
+        "es": "Cabeza colosal",
+        "fr": "Sculpture déterminée",
+        "it": "Testa di roccia",
+        "nl": "Koppige standbeeld",
+        "zh-CN": "石头颅雕塑",
+        "zh-TW": "石頭顱雕塑",
+        "jp": "いしあたまなちょうこく",
+        "ko": "돌 머리의 조각"
       }
     }
   },

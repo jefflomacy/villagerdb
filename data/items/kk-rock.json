@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Rock"
+      }
     },
     "nh": {
       "orderable": true,
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Rock",
+        "en-GB": "K.K. Rock",
+        "de": "K.K. Rock",
+        "es": "Tota-Rock",
+        "fr": "Rock Kéké",
+        "it": "K.K. Rock",
+        "nl": "K.K.-Rock",
+        "zh-CN": "K.K.摇滚",
+        "zh-TW": "K.K.搖滾",
+        "jp": "けけロック",
+        "ko": "K.K.록",
+        "ru": "Рок К. К."
+      }
     }
   }
 }

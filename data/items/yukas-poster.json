@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "尤嘉莉的海报",
+        "de": "Poster's von Ute",
+        "en-GB": "Yuka's Poster",
+        "es": "Póster de Yuka",
+        "fr": "Poster de Calypso",
+        "it": "Poster di Yuka",
+        "jp": "ユーカリのポスター",
+        "ko": "유카리의 포스터",
+        "nl": "Poster van Yuka",
+        "zh-TW": "尤嘉莉的海報",
+        "en-US": "Yuka's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Shutter Wall",
+        "en-GB": "Shutter Wall",
+        "de": "Rollladenwand",
+        "es": "Pared persiana",
+        "fr": "Mur volet roulant",
+        "it": "Muro saracinesca",
+        "nl": "Rolluikwand",
+        "zh-CN": "铁卷门墙",
+        "zh-TW": "鐵捲門牆",
+        "jp": "シャッターのかべ",
+        "ko": "닫힌 셔터 벽"
+      }
     }
   },
   "category": "Wallpaper"

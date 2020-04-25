@@ -16,6 +16,19 @@
       ],
       "recipe": {
         "bells": 50000
+      },
+      "name": {
+        "en-US": "Money Flooring",
+        "en-GB": "Money Flooring",
+        "de": "Monetenboden",
+        "es": "Suelo dinero",
+        "fr": "Sol billets de banque",
+        "it": "Pavimento banconote",
+        "nl": "Poenvloer",
+        "zh-CN": "金钱地板",
+        "zh-TW": "金錢地板",
+        "jp": "マネーなゆか",
+        "ko": "돈다발 바닥"
       }
     }
   },

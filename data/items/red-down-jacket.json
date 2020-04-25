@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 520
         }
-      ]
+      ],
+      "name": {
+        "de": "Erdbeerpulli",
+        "en-GB": "Red Down Jacket",
+        "en-US": "Red Down Jacket",
+        "es": "Chaqueta roja",
+        "fr": "Doudoune rouge",
+        "it": "Golfino rosso",
+        "ja": "あかいダウンジャケット"
+      }
     }
   }
 }

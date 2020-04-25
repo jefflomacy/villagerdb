@@ -21,6 +21,19 @@
         "blue": "Blue",
         "gray": "Gray",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Foldover-Top Backpack",
+        "en-GB": "Foldover-Top Backpack",
+        "de": "Faltverschluss-Rucksack",
+        "es": "Mochila de cierre sellado",
+        "fr": "Sac à dos à rabat",
+        "it": "Zaino apertura ripiegabile",
+        "nl": "Rugzak met flap",
+        "zh-CN": "翻盖双肩包",
+        "zh-TW": "掀蓋後背包",
+        "jp": "ふたつきリュック",
+        "ko": "폴드오버 배낭"
       }
     }
   },

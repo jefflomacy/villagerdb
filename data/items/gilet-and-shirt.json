@@ -18,6 +18,19 @@
         "blue": "Blue",
         "red": "Red",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Gilet And Shirt",
+        "en-GB": "Gilet And Shirt",
+        "de": "Weste mit T-Shirt",
+        "es": "Camiseta con chaleco",
+        "fr": "T-Shirt avec veston",
+        "it": "Set gilet e maglietta",
+        "nl": "Shirt met gilet",
+        "zh-CN": "马甲搭配T恤",
+        "zh-TW": "背心搭配T恤",
+        "jp": "ジレコーデＴシャツ",
+        "ko": "질레 티셔츠"
       }
     }
   },

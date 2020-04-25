@@ -17,6 +17,19 @@
         "green": "Green",
         "purple": "Purple",
         "orange": "Orange"
+      },
+      "name": {
+        "en-US": "Hand-Knit Socks",
+        "en-GB": "Hand-Knit Socks",
+        "de": "Paars Stricksocken",
+        "es": "Calcetín de punto",
+        "fr": "P. chauss. tricotées main",
+        "it": "Paio di calzini di maglia",
+        "nl": "Handgebreide sokken",
+        "zh-CN": "手工编织袜",
+        "zh-TW": "手工編織襪",
+        "jp": "てあみのソックス",
+        "ko": "털실 양말"
       }
     }
   },

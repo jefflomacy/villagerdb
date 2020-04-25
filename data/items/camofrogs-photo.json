@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "迷仔的照片",
+        "de": "Foto's von Tarno",
+        "en-GB": "Camofrog's Photo",
+        "es": "Foto de Comando",
+        "fr": "Photo de Milos",
+        "it": "Foto di Crambo",
+        "jp": "フルメタルのしゃしん",
+        "ko": "충성의 사진",
+        "nl": "Foto van Camofrog",
+        "zh-TW": "迷仔的照片",
+        "en-US": "Camofrog's Photo"
       }
     }
   },

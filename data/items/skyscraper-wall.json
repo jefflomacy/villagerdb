@@ -14,7 +14,10 @@
       },
       "sources": [
         "Saharah"
-      ]
+      ],
+      "name": {
+        "en-US": "Skyscraper Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -26,7 +29,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Skyscraper Wall",
+        "en-GB": "Skyscraper Wall",
+        "de": "Wolkenkratzertapete",
+        "es": "Pared rascacielos",
+        "fr": "Mur gratte-ciel",
+        "it": "Muro grattacieli",
+        "nl": "Wolkenkrabberswand",
+        "zh-CN": "摩天大楼墙",
+        "zh-TW": "摩天大樓牆",
+        "jp": "まてんろうのかべ",
+        "ko": "마천루 벽"
+      }
     }
   }
 }

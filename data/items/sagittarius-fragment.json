@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 500
+      },
+      "name": {
+        "zh-CN": "射手座碎片",
+        "de": "Schütze-Splitter's",
+        "en-GB": "Sagittarius Fragment",
+        "es": "Fragmento de Sagitario",
+        "fr": "Fragment de Sagittaire",
+        "it": "Frammento di Sagittario",
+        "jp": "いてざのかけら",
+        "ko": "사수자리 조각",
+        "nl": "Boogschutterfragment",
+        "zh-TW": "射手座碎片",
+        "en-US": "Sagittarius Fragment"
       }
     }
   },

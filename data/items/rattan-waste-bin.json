@@ -21,6 +21,19 @@
         "white": "White",
         "gray": "Gray",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Rattan Waste Bin",
+        "en-GB": "Rattan Waste Bin",
+        "de": "Flecht-Papierkorb",
+        "es": "Papelera de ratán",
+        "fr": "Poubelle jonc",
+        "it": "Cestino per rifiuti di rattan",
+        "nl": "Rotan prullenmand",
+        "zh-CN": "藤编废纸篓",
+        "zh-TW": "藤編廢紙簍",
+        "jp": "ラタンのくずかご",
+        "ko": "라탄 쓰레기통"
       }
     }
   },

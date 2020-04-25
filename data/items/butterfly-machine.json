@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 2680
         }
-      ]
+      ],
+      "name": {
+        "de": "Kraftstation",
+        "en-GB": "Butterfly Machine",
+        "en-US": "Butterfly Machine",
+        "es": "Máquina pectorales",
+        "fr": "Station papillon",
+        "it": "Panca pettorali",
+        "ja": "バタフライマシン"
+      }
     }
   }
 }

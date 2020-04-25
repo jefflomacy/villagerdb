@@ -19,6 +19,19 @@
       ],
       "variations": {
         "light-blue": "Light blue"
+      },
+      "name": {
+        "en-US": "Nose Drip",
+        "en-GB": "Nose Drip",
+        "de": "Rotznase",
+        "es": "Gota de moco",
+        "fr": "Goutte de morve",
+        "it": "Goccia di moccio",
+        "nl": "Snottebel",
+        "zh-CN": "鼻水",
+        "zh-TW": "鼻水",
+        "jp": "はなみず",
+        "ko": "콧물"
       }
     }
   },

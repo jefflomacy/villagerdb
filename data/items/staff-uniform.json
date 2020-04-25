@@ -17,6 +17,19 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Staff Uniform",
+        "en-GB": "Staff Uniform",
+        "de": "Mitarbeitershirt",
+        "es": "Camiseta de personal",
+        "fr": "T-Shirt STAFF",
+        "it": "Uniforme da staff",
+        "nl": "Personeels-T-Shirt",
+        "zh-CN": "工作人员制服",
+        "zh-TW": "工作人員衣服",
+        "jp": "スタッフのふく",
+        "ko": "스태프 옷"
       }
     }
   },

@@ -18,7 +18,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Zementmischer",
+        "en-GB": "Cement Mixer",
+        "en-US": "Cement Mixer",
+        "es": "Hormigonera",
+        "fr": "Bétonneuse",
+        "it": "Betoniera",
+        "ja": "セメントミキサー"
+      }
     }
   }
 }

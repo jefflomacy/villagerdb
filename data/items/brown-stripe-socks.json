@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 200
         }
-      ]
+      ],
+      "name": {
+        "de": "Braunringelsocke",
+        "en-GB": "Brown-Stripe Socks",
+        "en-US": "Brown-Stripe Socks",
+        "es": "Calcetín a rayas",
+        "fr": "Paire chaus. rayées",
+        "it": "P. calzini a strisce",
+        "ja": "ボーダーソックス"
+      }
     }
   }
 }

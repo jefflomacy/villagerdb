@@ -25,7 +25,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Ship Deck"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -37,7 +40,20 @@
           "currency": "bells",
           "value": 4000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Ship Deck",
+        "en-GB": "Ship Deck",
+        "de": "Schiffsdeck",
+        "es": "Suelo cubierta",
+        "fr": "Sol pont de navire",
+        "it": "Pavimento ponte di nave",
+        "nl": "Scheepsdekvloer",
+        "zh-CN": "甲板地板",
+        "zh-TW": "甲板地板",
+        "jp": "かんぱんのゆか",
+        "ko": "갑판 바닥"
+      }
     }
   }
 }

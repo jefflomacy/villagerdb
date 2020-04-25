@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 2200
         }
-      ]
+      ],
+      "name": {
+        "de": "Kamin",
+        "en-GB": "Fireplace",
+        "en-US": "Fireplace",
+        "es": "Chimenea",
+        "fr": "Cheminée",
+        "it": "Caminetto",
+        "ja": "だんろ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -35,6 +44,19 @@
         "dark-brown": "Dark brown",
         "beige": "Beige",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Fireplace",
+        "en-GB": "Fireplace",
+        "de": "Kamin",
+        "es": "Chimenea",
+        "fr": "Cheminée",
+        "it": "Caminetto",
+        "nl": "Open haard",
+        "zh-CN": "壁炉",
+        "zh-TW": "壁爐",
+        "jp": "だんろ",
+        "ko": "난로"
       }
     }
   }

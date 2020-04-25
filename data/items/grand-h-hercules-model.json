@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 36000
+      },
+      "name": {
+        "en-US": "Grand H. Hercules Model",
+        "en-GB": "Grand H. Hercules Model",
+        "de": "Mega-Herkuleskäf.-Modell",
+        "es": "Estatua es. astado hércules",
+        "fr": "Modèle du Roi Dynaste",
+        "it": "Replica XL scarabeo Ercole",
+        "nl": "Modelherculeskever XL",
+        "zh-CN": "巨大兜虫模型",
+        "zh-TW": "巨大獨角仙模型",
+        "jp": "おおいなるカブトのもけい",
+        "ko": "위대한 장수풍뎅이 모형"
       }
     }
   },

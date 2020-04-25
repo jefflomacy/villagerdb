@@ -18,7 +18,16 @@
           "currency": "bells",
           "value": 1760
         }
-      ]
+      ],
+      "name": {
+        "de": "Grill",
+        "en-GB": "Barbecue",
+        "en-US": "Barbecue",
+        "es": "Barbacoa",
+        "fr": "Barbecue",
+        "it": "Barbecue",
+        "ja": "バーベキューグリル"
+      }
     },
     "nh": {
       "orderable": true,
@@ -41,6 +50,19 @@
         "green": "Green",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Barbecue",
+        "en-GB": "Barbecue",
+        "de": "Grill",
+        "es": "Barbacoa",
+        "fr": "Barbecue",
+        "it": "Barbecue",
+        "nl": "Barbecue",
+        "zh-CN": "烤肉炉",
+        "zh-TW": "烤肉爐",
+        "jp": "バーベキューグリル",
+        "ko": "바비큐 그릴"
       }
     }
   }

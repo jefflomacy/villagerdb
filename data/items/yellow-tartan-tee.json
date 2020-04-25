@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 432
         }
-      ]
+      ],
+      "name": {
+        "de": "Kanarienshirt",
+        "en-GB": "Yellow Tartan Tee",
+        "en-US": "Yellow Tartan Tee",
+        "es": "Camiseta tartán oro",
+        "fr": "T-shirt tartan jaune",
+        "it": "Maglietta tartan oro",
+        "ja": "きいろタータンのふく"
+      }
     }
   }
 }

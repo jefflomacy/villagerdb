@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2200
         }
-      ]
+      ],
+      "name": {
+        "de": "Herzchenspiegel",
+        "en-GB": "Lovely Vanity",
+        "en-US": "Lovely Vanity",
+        "es": "Tocador corazón",
+        "fr": "Coiffeuse c\\u0153ur",
+        "it": "Toletta cuori",
+        "ja": "ラブリードレッサー"
+      }
     }
   }
 }

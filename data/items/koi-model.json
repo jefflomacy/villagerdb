@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 12000
+      },
+      "name": {
+        "en-US": "Koi Model",
+        "en-GB": "Koi Model",
+        "de": "Koi-Karpfen-Modell",
+        "es": "Figura de koi",
+        "fr": "Modèle de carpe koï",
+        "it": "Replica di koi",
+        "nl": "Modelkoikarper",
+        "zh-CN": "锦鲤模型",
+        "zh-TW": "錦鯉模型",
+        "jp": "ニシキゴイのもけい",
+        "ko": "비단잉어 모형"
       }
     }
   },

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1300
         }
-      ]
+      ],
+      "name": {
+        "de": "Eulenuhr",
+        "en-GB": "Owl Clock",
+        "en-US": "Owl Clock",
+        "es": "Reloj búho",
+        "fr": "Horloge chouette",
+        "it": "Sveglia gufo",
+        "ja": "みみずくどけい"
+      }
     }
   }
 }

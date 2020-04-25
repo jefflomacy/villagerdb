@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2300
         }
-      ]
+      ],
+      "name": {
+        "de": "Smaragdschrank",
+        "en-GB": "Green Wardrobe",
+        "en-US": "Green Wardrobe",
+        "es": "Armario verde",
+        "fr": "Armoire verte",
+        "it": "Armadio verde",
+        "ja": "みどりのクロゼット"
+      }
     }
   }
 }

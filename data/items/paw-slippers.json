@@ -23,6 +23,19 @@
         "white": "White",
         "blue": "Blue",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Paw Slippers",
+        "en-GB": "Paw Slippers",
+        "de": "Paars Pfoten",
+        "es": "Pantufla zarpa",
+        "fr": "Paire de chaussons animal",
+        "it": "Paio di pantofole a zampa",
+        "nl": "Pootpantoffels",
+        "zh-CN": "兽爪鞋",
+        "zh-TW": "動物拖鞋",
+        "jp": "アニマルスリッパ",
+        "ko": "동물 슬리퍼"
       }
     }
   },

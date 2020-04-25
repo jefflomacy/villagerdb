@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 3280
         }
-      ]
+      ],
+      "name": {
+        "de": "Astrosofa",
+        "en-GB": "Astro Sofa",
+        "en-US": "Astro Sofa",
+        "es": "Sofá futurista",
+        "fr": "Canapé astro",
+        "it": "Sofà futuro",
+        "ja": "きんみらいなソファ"
+      }
     }
   }
 }

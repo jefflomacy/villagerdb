@@ -25,7 +25,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Gartenzwerg",
+        "en-GB": "Garden Gnome",
+        "en-US": "Garden Gnome",
+        "es": "Gnomo jardín",
+        "fr": "Nain de jardin",
+        "it": "Gnomo giardino",
+        "ja": "ノームのおきもの"
+      }
     },
     "nh": {
       "orderable": true,
@@ -51,6 +60,19 @@
         "laid-back-gnome": "Laid-back gnome",
         "passionate-gnome": "Passionate gnome",
         "rebel-gnome": "Rebel gnome"
+      },
+      "name": {
+        "en-US": "Garden Gnome",
+        "en-GB": "Garden Gnome",
+        "de": "Gartenzwerg",
+        "es": "Gnomo de jardín",
+        "fr": "Nain de jardin",
+        "it": "Gnomo da giardino",
+        "nl": "Tuinkabouter",
+        "zh-CN": "地精摆饰",
+        "zh-TW": "地精擺飾",
+        "jp": "ノームのおきもの",
+        "ko": "노움 모형"
       }
     }
   }

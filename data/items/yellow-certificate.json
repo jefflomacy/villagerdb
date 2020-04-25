@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 960
         }
-      ]
+      ],
+      "name": {
+        "de": "Fernost-Urkunde",
+        "en-GB": "Yellow Certificate",
+        "en-US": "Yellow Certificate",
+        "es": "Certificado amarillo",
+        "fr": "Diplôme jaune",
+        "it": "Attestato corso judo",
+        "ja": "タテがきのしょうじょう"
+      }
     }
   }
 }

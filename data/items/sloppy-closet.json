@@ -16,7 +16,16 @@
       },
       "sources": [
         "Re-Tail (flea market) or Police Station (lost and found)"
-      ]
+      ],
+      "name": {
+        "de": "Schlamperschrank",
+        "en-GB": "Sloppy Closet",
+        "en-US": "Sloppy Closet",
+        "es": "Armario desorden",
+        "fr": "Armoire négligée",
+        "it": "Armadio trasandato",
+        "ja": "だらしないクロゼット"
+      }
     }
   }
 }

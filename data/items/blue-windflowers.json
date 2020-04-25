@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 80
+      },
+      "name": {
+        "en-US": "Blue Windflowers",
+        "en-GB": "Blue Windflowers",
+        "de": "Blauanemone",
+        "es": "Anémona azul",
+        "fr": "Anémone bleue",
+        "it": "Anemone blu",
+        "nl": "Blauwe anemoon",
+        "zh-CN": "蓝色银莲花",
+        "zh-TW": "藍色銀蓮花",
+        "jp": "あおいアネモネ",
+        "ko": "파란 아네모네"
       }
     }
   },

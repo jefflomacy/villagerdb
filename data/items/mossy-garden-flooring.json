@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mossy-Garden Flooring",
+        "en-GB": "Mossy-Garden Flooring",
+        "de": "Moosboden",
+        "es": "Suelo musgo",
+        "fr": "Sol moussu",
+        "it": "Moquette muschio",
+        "nl": "Mossige tuinvloer",
+        "zh-CN": "青苔庭院地板",
+        "zh-TW": "青苔庭園地板",
+        "jp": "こけにわのゆか",
+        "ko": "이끼 낀 바닥"
+      }
     }
   },
   "category": "Flooring"

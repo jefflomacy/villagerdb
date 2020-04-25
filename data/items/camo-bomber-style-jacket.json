@@ -21,6 +21,19 @@
         "green": "Green",
         "gray": "Gray",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Camo Bomber-Style Jacket",
+        "en-GB": "Camo Bomber-Style Jacket",
+        "de": "Tarnfarbenjacke",
+        "es": "Cazadora militar camuflaje",
+        "fr": "Bomber camouflage",
+        "it": "Bomber mimetico",
+        "nl": "Camouflagejack",
+        "zh-CN": "迷彩MA-1飞行外套",
+        "zh-TW": "迷彩MA-1飛行外套",
+        "jp": "めいさいのＭＡ‐１",
+        "ko": "밀리터리 MA-1"
       }
     }
   },

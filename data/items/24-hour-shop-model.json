@@ -23,7 +23,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Supermarktmodell",
+        "en-GB": "24-Hour-Shop Model",
+        "en-US": "24-Hour-Shop Model",
+        "es": "Maqueta súper",
+        "fr": "Maquette d'épicerie",
+        "it": "Modello supermarket",
+        "ja": "セブンイレブンのもけい"
+      }
     }
   }
 }

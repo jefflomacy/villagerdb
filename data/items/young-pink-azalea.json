@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Young Pink Azalea",
+        "en-GB": "Young Pink Azalea",
+        "de": "Heckenazaleenbüschlein",
+        "es": "Azalea rosa joven",
+        "fr": "Jeune azalée rose",
+        "it": "Azalea rosa giovane",
+        "nl": "Jonge roze azalea",
+        "zh-CN": "粉红杜鹃花小树",
+        "zh-TW": "粉紅杜鵑花小樹",
+        "jp": "ピンクのツツジのわかぎ",
+        "ko": "어린 핑크색 진달래나무"
+      }
     }
   },
   "category": "Bushes"

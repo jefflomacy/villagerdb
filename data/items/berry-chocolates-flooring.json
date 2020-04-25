@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Berry-Chocolates Flooring",
+        "en-GB": "Berry-Chocolates Flooring",
+        "de": "Erdbeerschokoladenboden",
+        "es": "Suelo chocolate rosa",
+        "fr": "Sol chocolat fraise",
+        "it": "Pavimento cioccofragola",
+        "nl": "Aardbeichocoladevloer",
+        "zh-CN": "草莓巧克力混合色地板",
+        "zh-TW": "草莓巧克力地板",
+        "jp": "いちごチョコアソートなゆか",
+        "ko": "딸기 초콜릿 바닥"
+      }
     }
   },
   "category": "Flooring"

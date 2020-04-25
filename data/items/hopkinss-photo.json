@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "风杰的照片",
+        "de": "Foto's von Poldi",
+        "en-GB": "Hopkins's Photo",
+        "es": "Foto de Saltiago",
+        "fr": "Photo de Grignote",
+        "it": "Foto di Azeglio",
+        "jp": "プースケのしゃしん",
+        "ko": "홉킨스의 사진",
+        "nl": "Foto van Hopkins",
+        "zh-TW": "風杰的照片",
+        "en-US": "Hopkins's Photo"
       }
     }
   },

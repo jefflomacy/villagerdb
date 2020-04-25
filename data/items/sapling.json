@@ -11,12 +11,28 @@
       },
       "sources": [
         "Gardening Store"
-      ]
+      ],
+      "name": {
+        "en-US": "Sapling"
+      }
     },
     "nh": {
       "sellPrice": {
         "currency": "bells",
         "value": 160
+      },
+      "name": {
+        "en-US": "Sapling",
+        "en-GB": "Sapling",
+        "de": "Setzling",
+        "es": "Caducifolio de vivero",
+        "fr": "Pousse d'arbre",
+        "it": "Germoglio",
+        "nl": "Loofboomzaailing",
+        "zh-CN": "树苗",
+        "zh-TW": "樹苗",
+        "jp": "きのなえ",
+        "ko": "나무 묘목"
       }
     }
   }

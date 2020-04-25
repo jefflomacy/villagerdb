@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Stegosaurus-Schädel",
+        "en-GB": "Stego Skull",
+        "en-US": "Stego Skull",
+        "es": "Cráneo estegosaurio",
+        "fr": "Crâne de stégosaure",
+        "it": "Teschio stegosauro",
+        "ja": "ステゴサウルスのあたま"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5000
+      },
+      "name": {
+        "en-US": "Stego Skull",
+        "en-GB": "Stego Skull",
+        "de": "Stegosaurus-Schädel",
+        "es": "Cráneo estegosaurio",
+        "fr": "Crâne de stégosaure",
+        "it": "Cranio stegosauro",
+        "nl": "Stegosauruskop",
+        "zh-CN": "剑龙的头",
+        "zh-TW": "劍龍的頭",
+        "jp": "ステゴサウルスのあたま",
+        "ko": "스테고사우루스의 머리"
       }
     }
   }

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "1-Up-Kappe",
+        "en-GB": "1-Up Cap",
+        "en-US": "1-Up Cap",
+        "es": "Gorra 1UP",
+        "fr": "Casquette 1UP",
+        "it": "Cappello 1-Up",
+        "ja": "くろいキャップ"
+      }
     }
   }
 }

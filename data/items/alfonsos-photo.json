@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿泥的照片",
+        "de": "Foto's von Markus",
+        "en-GB": "Alfonso's Photo",
+        "es": "Foto de Kaimán",
+        "fr": "Photo d'alphonse",
+        "it": "Foto di Alfonso",
+        "jp": "アルベルトのしゃしん",
+        "ko": "알베르트의 사진",
+        "nl": "Foto van Alfonso",
+        "zh-TW": "阿泥的照片",
+        "en-US": "Alfonso's Photo"
       }
     }
   },

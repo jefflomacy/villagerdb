@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 3920
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Proper Painting"
+      }
     },
     "nh": {
       "orderable": false,
@@ -36,7 +39,20 @@
           "currency": "bells",
           "value": 4980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Proper Painting",
+        "en-GB": "Proper Painting",
+        "de": "Strenggemälde",
+        "es": "Cuadro dama",
+        "fr": "Toile austère",
+        "it": "Quadro austero",
+        "nl": "Formele schilderij",
+        "zh-CN": "热闹的名画",
+        "zh-TW": "熱鬧的名畫",
+        "jp": "にぎやかなめいが",
+        "ko": "활기 넘치는 명화"
+      }
     }
   }
 }

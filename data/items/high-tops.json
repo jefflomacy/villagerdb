@@ -22,6 +22,19 @@
         "red": "Red",
         "yellow": "Yellow",
         "white": "White"
+      },
+      "name": {
+        "en-US": "High-Tops",
+        "en-GB": "High-Tops",
+        "de": "Paars Basketballstiefel",
+        "es": "Zapatilla alta",
+        "fr": "Paire de baskets montantes",
+        "it": "Paio di scarpe alte",
+        "nl": "Hoge sneakers",
+        "zh-CN": "高筒休闲鞋",
+        "zh-TW": "高筒運動鞋",
+        "jp": "ハイカットスニーカー",
+        "ko": "하이탑 스니커"
       }
     }
   },

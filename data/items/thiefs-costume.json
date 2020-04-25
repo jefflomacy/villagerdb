@@ -19,6 +19,19 @@
       ],
       "variations": {
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Thief's Costume",
+        "en-GB": "Thief's Costume",
+        "de": "Räuberkostüm",
+        "es": "Disfraz de maleante",
+        "fr": "Costume de cambrioleur",
+        "it": "Costume da ladro",
+        "nl": "Bandietenkostuum",
+        "zh-CN": "怪盗服",
+        "zh-TW": "怪盜服",
+        "jp": "かいとうのふく",
+        "ko": "괴도 옷"
       }
     }
   },

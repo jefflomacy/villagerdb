@@ -13,7 +13,20 @@
           "currency": "bells",
           "value": 2100
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Wood-Burning Stove",
+        "en-GB": "Wood-Burning Stove",
+        "de": "Holzofen",
+        "es": "Chimenea de forja",
+        "fr": "Poêle à bois",
+        "it": "Stufa a legna",
+        "nl": "Houtkachel",
+        "zh-CN": "柴火暖炉",
+        "zh-TW": "柴火暖爐",
+        "jp": "まきストーブ",
+        "ko": "장작 스토브"
+      }
     }
   },
   "category": "Furniture"

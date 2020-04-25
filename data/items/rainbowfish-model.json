@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2400
+      },
+      "name": {
+        "en-US": "Rainbowfish Model",
+        "en-GB": "Rainbowfish Model",
+        "de": "Regenbogenfischmodell",
+        "es": "Figura de pez arcoíris",
+        "fr": "Modèle poisson arc-en-ciel",
+        "it": "Replica di pesce arcobaleno",
+        "nl": "Modelregenboogvis",
+        "zh-CN": "彩虹鱼模型",
+        "zh-TW": "彩虹魚模型",
+        "jp": "レインボーフィッシュのもけい",
+        "ko": "레인보우피시 모형"
       }
     }
   },

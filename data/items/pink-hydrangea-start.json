@@ -11,7 +11,10 @@
       },
       "sources": [
         "Gardening Store (with T.I.Y.)"
-      ]
+      ],
+      "name": {
+        "en-US": "Pink-Hydrangea Start"
+      }
     },
     "nh": {
       "orderable": false,
@@ -27,7 +30,20 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pink-Hydrangea Start",
+        "en-GB": "Pink-Hydrangea Start",
+        "de": "Abendhortensiensetzling",
+        "es": "Hortensia rosa de vivero",
+        "fr": "Pousse d'hortensia rose",
+        "it": "Germoglio di ortensia viola",
+        "nl": "Roze-Hortensia-Zaailing",
+        "zh-CN": "粉红绣球花苗",
+        "zh-TW": "粉紅繡球花苗",
+        "jp": "ピンクのアジサイのなえ",
+        "ko": "핑크색 수국 묘목"
+      }
     }
   }
 }

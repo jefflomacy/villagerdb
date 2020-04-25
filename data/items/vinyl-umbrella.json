@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 770
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Vinyl Umbrella",
+        "en-GB": "Vinyl Umbrella",
+        "de": "Plastikschirm",
+        "es": "Paraguas de vinilo",
+        "fr": "Parapluie vinyle",
+        "it": "Ombrello di plastica",
+        "nl": "Vinylparaplu",
+        "zh-CN": "透明雨伞",
+        "zh-TW": "透明雨傘",
+        "jp": "ビニールがさ",
+        "ko": "비닐 우산"
+      }
     }
   },
   "category": "Umbrellas"

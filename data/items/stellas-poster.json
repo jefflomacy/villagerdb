@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "毡毡的海报",
+        "de": "Poster's von Stella",
+        "en-GB": "Stella's Poster",
+        "es": "Póster de Merina",
+        "fr": "Poster de Bigoudi",
+        "it": "Poster di Merina",
+        "jp": "アクリルのポスター",
+        "ko": "아크릴의 포스터",
+        "nl": "Poster van Stella",
+        "zh-TW": "氈氈的海報",
+        "en-US": "Stella's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3920
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Valiant Statue"
+      }
     },
     "nh": {
       "orderable": false,
@@ -41,6 +44,19 @@
       "variations": {
         "real": "Real",
         "fake": "Fake"
+      },
+      "name": {
+        "en-US": "Valiant Statue",
+        "en-GB": "Valiant Statue",
+        "de": "Erhabenstatue",
+        "es": "Estatua alada",
+        "fr": "Statue héroïque",
+        "it": "Statua eroica",
+        "nl": "Heroïsche standbeeld",
+        "zh-CN": "神圣的雕塑",
+        "zh-TW": "神聖的雕塑",
+        "jp": "こうごうしいちょうこく",
+        "ko": "거룩한 조각"
       }
     }
   }

@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Disco-Pulli",
+        "en-GB": "Go-Go Shirt",
+        "en-US": "Go-Go Shirt",
+        "es": "Jersey lalalá",
+        "fr": "Pull go-go",
+        "it": "Maglia a rettangoli",
+        "ja": "レクタングルなふく"
+      }
     },
     "ac": {
       "orderable": true,
@@ -39,7 +48,10 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Go-Go Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -55,7 +67,10 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Go-Go Shirt"
+      }
     }
   }
 }

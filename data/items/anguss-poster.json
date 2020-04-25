@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "施万德的海报",
+        "de": "Poster's von Angus",
+        "en-GB": "Angus's Poster",
+        "es": "Póster de Aliste",
+        "fr": "Poster d'angus",
+        "it": "Poster di Angus",
+        "jp": "セルバンテスのポスター",
+        "ko": "반데스의 포스터",
+        "nl": "Poster van Angus",
+        "zh-TW": "施萬德的海報",
+        "en-US": "Angus's Poster"
+      }
     }
   },
   "category": "Photos"

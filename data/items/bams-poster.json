@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "小健的海报",
+        "de": "Poster's von Benjamin",
+        "en-GB": "Bam's Poster",
+        "es": "Póster de Cornelio",
+        "fr": "Poster de Nacer",
+        "it": "Poster di Cornelio",
+        "jp": "タケルのポスター",
+        "ko": "록키의 포스터",
+        "nl": "Poster van Bam",
+        "zh-TW": "小健的海報",
+        "en-US": "Bam's Poster"
+      }
     }
   },
   "category": "Photos"

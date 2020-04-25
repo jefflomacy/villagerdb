@@ -26,7 +26,10 @@
           "currency": "meow",
           "value": 5
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Menu Chalkboard"
+      }
     },
     "nh": {
       "orderable": true,
@@ -46,6 +49,19 @@
         "white": "White",
         "blue": "Blue",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Menu Chalkboard",
+        "en-GB": "Menu Chalkboard",
+        "de": "Restauranttafel",
+        "es": "Pizarra con menú",
+        "fr": "Tableau menu du jour",
+        "it": "Lavagna con menu",
+        "nl": "Krijtmenukaart",
+        "zh-CN": "菜单黑板",
+        "zh-TW": "菜單黑板",
+        "jp": "メニューこくばん",
+        "ko": "메뉴 칠판"
       }
     }
   }

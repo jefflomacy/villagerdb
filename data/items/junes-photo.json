@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿妹的照片",
+        "de": "Foto's von Juna",
+        "en-GB": "June's Photo",
+        "es": "Foto de Hanalulú",
+        "fr": "Photo d'agnès",
+        "it": "Foto di June",
+        "jp": "メイのしゃしん",
+        "ko": "메이의 사진",
+        "nl": "Foto van June",
+        "zh-TW": "阿妹的照片",
+        "en-US": "June's Photo"
       }
     }
   },

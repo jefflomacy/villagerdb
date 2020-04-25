@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "陌陌的海报",
+        "de": "Poster's von Olli",
+        "en-GB": "Rover's Poster",
+        "es": "Póster de Fran",
+        "fr": "Poster de Charly",
+        "it": "Poster di Girolamo",
+        "jp": "みしらぬネコのポスター",
+        "ko": "낯선고양이의 포스터",
+        "nl": "Poster van Rover",
+        "zh-TW": "陌陌的海報",
+        "en-US": "Rover's Poster"
+      }
     }
   },
   "category": "Photos"

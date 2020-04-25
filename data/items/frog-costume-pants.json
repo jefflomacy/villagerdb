@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 600
         }
-      ]
+      ],
+      "name": {
+        "de": "Froschhose",
+        "en-GB": "Frog-Costume Pants",
+        "en-US": "Frog-Costume Pants",
+        "es": "Pantalón rana",
+        "fr": "Bas grenouille",
+        "it": "Pantalone rana",
+        "ja": "カエルなズボン"
+      }
     }
   }
 }

@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1300
         }
-      ]
+      ],
+      "name": {
+        "de": "Bromelia",
+        "en-GB": "Bromeliaceae",
+        "en-US": "Bromeliaceae",
+        "es": "Bromeliácea",
+        "fr": "Guzmania",
+        "it": "Bromelia",
+        "ja": "アナナス"
+      }
     }
   }
 }

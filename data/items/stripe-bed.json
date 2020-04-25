@@ -28,7 +28,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Streifenbett",
+        "en-GB": "Stripe Bed",
+        "en-US": "Stripe Bed",
+        "es": "Cama rayas",
+        "fr": "Lit rayures",
+        "it": "Letto strisce",
+        "ja": "ストライプなベッド"
+      }
     }
   }
 }

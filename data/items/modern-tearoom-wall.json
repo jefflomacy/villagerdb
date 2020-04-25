@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1750
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Modern Tearoom Wall",
+        "en-GB": "Modern Tearoom Wall",
+        "de": "Modern-Teezimmerwand",
+        "es": "Pared sala de té moderna",
+        "fr": "Mur salon de thé moderne",
+        "it": "Muro sala da tè moderno",
+        "nl": "Moderne theehuiswand",
+        "zh-CN": "摩登茶室墙",
+        "zh-TW": "摩登茶室牆",
+        "jp": "モダンなちゃしつのかべ",
+        "ko": "모던 다도실 벽"
+      }
     }
   },
   "category": "Wallpaper"

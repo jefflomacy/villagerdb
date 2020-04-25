@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2380
         }
-      ]
+      ],
+      "name": {
+        "de": "Nordschrank",
+        "en-GB": "Alpine Closet",
+        "en-US": "Alpine Closet",
+        "es": "Armario nórdico",
+        "fr": "Armoire nordique",
+        "it": "Armadio nordico",
+        "ja": "スカンジナビアクロゼット"
+      }
     }
   }
 }

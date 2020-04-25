@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Fitness-Shirt",
+        "en-GB": "Red Gym Tee",
+        "en-US": "Red Gym Tee",
+        "es": "Camiseta sport roja",
+        "fr": "T-shirt sport rouge",
+        "it": "Magliet. sport rossa",
+        "ja": "あかいたいそうふく"
+      }
     }
   }
 }

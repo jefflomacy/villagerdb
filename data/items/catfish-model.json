@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2400
+      },
+      "name": {
+        "en-US": "Catfish Model",
+        "en-GB": "Catfish Model",
+        "de": "Katzenwelsmodell",
+        "es": "Figura de siluro",
+        "fr": "Modèle de silure",
+        "it": "Replica di pesce gatto",
+        "nl": "Modelmeerval",
+        "zh-CN": "鲶鱼模型",
+        "zh-TW": "鯰魚模型",
+        "jp": "ナマズのもけい",
+        "ko": "메기 모형"
       }
     }
   },

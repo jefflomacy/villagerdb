@@ -24,6 +24,19 @@
         "blue": "Blue",
         "gray": "Gray",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Cardigan-Shirt Combo",
+        "en-GB": "Cardigan-Shirt Combo",
+        "de": "Strickjacke mit Hemd",
+        "es": "Cárdigan sobre camiseta",
+        "fr": "Gilet avec t-shirt",
+        "it": "Set cardigan e maglietta",
+        "nl": "Shirt met vest",
+        "zh-CN": "针织罩衫配衬衫",
+        "zh-TW": "針織罩衫&襯衫",
+        "jp": "カーディガン&シャツ",
+        "ko": "가디건&셔츠"
       }
     }
   },

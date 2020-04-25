@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 300
+      },
+      "name": {
+        "zh-CN": "蜂巢",
+        "de": "Wespennest",
+        "en-GB": "Wasp Nest",
+        "es": "Avispero",
+        "fr": "Nid de guêpes",
+        "it": "Vespaio",
+        "jp": "ハチのす",
+        "ko": "벌집",
+        "nl": "Wespennest",
+        "zh-TW": "蜂巢",
+        "en-US": "Wasp Nest"
       }
     }
   },

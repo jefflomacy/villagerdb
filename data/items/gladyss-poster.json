@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "仙仙的海报",
+        "de": "Poster's von Sandra",
+        "en-GB": "Gladys's Poster",
+        "es": "Póster de Gladis",
+        "fr": "Poster de Gladys",
+        "it": "Poster di Marta",
+        "jp": "ちとせのポスター",
+        "ko": "빅토리아의 포스터",
+        "nl": "Poster van Gladys",
+        "zh-TW": "仙仙的海報",
+        "en-US": "Gladys's Poster"
+      }
     }
   },
   "category": "Photos"

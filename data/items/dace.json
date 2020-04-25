@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Dace"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 240
+      },
+      "name": {
+        "en-US": "Dace",
+        "en-GB": "Dace",
+        "de": "Hasel",
+        "es": "Leucisco",
+        "fr": "Vandoise",
+        "it": "Lasca",
+        "nl": "Serpeling",
+        "zh-CN": "雅罗鱼",
+        "zh-TW": "珠星三塊魚",
+        "jp": "ウグイ",
+        "ko": "황어"
       }
     }
   }

@@ -16,7 +16,16 @@
       },
       "sources": [
         "Re-Tail (flea market) or Police Station (lost and found)"
-      ]
+      ],
+      "name": {
+        "de": "Schlamperfernseher",
+        "en-GB": "Sloppy TV",
+        "en-US": "Sloppy TV",
+        "es": "Tele desorden",
+        "fr": "Télé négligée",
+        "it": "TV trasandata",
+        "ja": "だらしないテレビ"
+      }
     }
   }
 }

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1200
+      },
+      "name": {
+        "en-US": "Sea Bass Model",
+        "en-GB": "Sea Bass Model",
+        "de": "Seebarschmodell",
+        "es": "Figura de lubina",
+        "fr": "Modèle de bar commun",
+        "it": "Replica di spigola",
+        "nl": "Modelzeebaars",
+        "zh-CN": "鲈鱼模型",
+        "zh-TW": "鱸魚模型",
+        "jp": "スズキのもけい",
+        "ko": "농어 모형"
       }
     }
   },

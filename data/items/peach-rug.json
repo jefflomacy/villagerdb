@@ -14,6 +14,19 @@
       },
       "recipe": {
         "peach": 6
+      },
+      "name": {
+        "en-US": "Peach Rug",
+        "en-GB": "Peach Rug",
+        "de": "Pfirsich-Teppich",
+        "es": "Alfombra melocotón",
+        "fr": "Tapis pêche",
+        "it": "Tappeto pesca",
+        "nl": "Perziktapijt",
+        "zh-CN": "桃子地毯",
+        "zh-TW": "桃子地毯",
+        "jp": "モモのラグ",
+        "ko": "복숭아 러그"
       }
     }
   },

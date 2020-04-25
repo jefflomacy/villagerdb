@@ -9,6 +9,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2500
+      },
+      "name": {
+        "zh-CN": "大星星碎片",
+        "de": "Riesensternensplitter's",
+        "en-GB": "Large Star Fragment",
+        "es": "Fragmento de estrella XL",
+        "fr": "Fragment de grande étoile",
+        "it": "Frammento di stella grande",
+        "jp": "おおきなほしのかけら",
+        "ko": "커다란 별의 조각",
+        "nl": "Grote sterrenfragment",
+        "zh-TW": "大星星碎片",
+        "en-US": "Large Star Fragment"
       }
     }
   },

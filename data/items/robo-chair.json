@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Robo-Stuhl",
+        "en-GB": "Robo-Chair",
+        "en-US": "Robo-Chair",
+        "es": "Robosilla",
+        "fr": "Fauteuil robot",
+        "it": "Robo-sedia",
+        "ja": "ロボチェア"
+      }
     }
   }
 }

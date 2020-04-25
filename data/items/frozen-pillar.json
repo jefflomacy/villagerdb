@@ -21,6 +21,19 @@
         "ice-orange": "Ice orange",
         "ice-green": "Ice green",
         "ice-purple": "Ice purple"
+      },
+      "name": {
+        "en-US": "Frozen Pillar",
+        "en-GB": "Frozen Pillar",
+        "de": "Eissäule",
+        "es": "Columna iceberg",
+        "fr": "Pilier arctique",
+        "it": "Pilastro iceberg",
+        "nl": "Ijspilaar",
+        "zh-CN": "冰块柱子",
+        "zh-TW": "冰柱子",
+        "jp": "こおりのはしら",
+        "ko": "얼음 기둥"
       }
     }
   },

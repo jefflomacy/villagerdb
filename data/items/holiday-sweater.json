@@ -17,6 +17,19 @@
         "green": "Green",
         "red": "Red",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Holiday Sweater",
+        "en-GB": "Holiday Sweater",
+        "de": "Festtagspulli",
+        "es": "Jersey árbol festivo",
+        "fr": "Pull sapin festif",
+        "it": "Maglia festiva",
+        "nl": "Feestboomtrui",
+        "zh-CN": "圣诞毛衣",
+        "zh-TW": "聖誕毛衣",
+        "jp": "クリスマスセーター",
+        "ko": "크리스마스 스웨터"
       }
     }
   },

@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 4980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Twinkling Painting",
+        "en-GB": "Twinkling Painting",
+        "de": "Funkelgemälde",
+        "es": "Paisaje estrellado",
+        "fr": "Toile scintillante",
+        "it": "Quadro sfavillante",
+        "nl": "Nachtelijke schilderij",
+        "zh-CN": "闪烁的名画",
+        "zh-TW": "閃爍的名畫",
+        "jp": "またたくめいが",
+        "ko": "반짝이는 명화"
+      }
     }
   },
   "category": "Art"

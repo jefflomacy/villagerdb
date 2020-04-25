@@ -18,7 +18,16 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "de": "Schubkarre",
+        "en-GB": "Handcart",
+        "en-US": "Handcart",
+        "es": "Carretilla",
+        "fr": "Brouette",
+        "it": "Carriola",
+        "ja": "ネコぐるま"
+      }
     },
     "nh": {
       "orderable": true,
@@ -42,6 +51,19 @@
         "yellow": "Yellow",
         "red": "Red",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Handcart",
+        "en-GB": "Handcart",
+        "de": "Schubkarre",
+        "es": "Carretilla",
+        "fr": "Brouette",
+        "it": "Carriola",
+        "nl": "Kruiwagen",
+        "zh-CN": "独轮推车",
+        "zh-TW": "獨輪推車",
+        "jp": "ネコぐるま",
+        "ko": "외바퀴 손수레"
       }
     }
   }

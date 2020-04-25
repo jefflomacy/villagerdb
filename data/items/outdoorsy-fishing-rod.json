@@ -17,6 +17,19 @@
         "pink": "Pink",
         "yellow": "Yellow",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Outdoorsy Fishing Rod",
+        "en-GB": "Outdoorsy Fishing Rod",
+        "de": "Profi-Angel",
+        "es": "Caña de acampada",
+        "fr": "Canne à pêche de rando",
+        "it": "Canna da campeggio",
+        "nl": "Kampeerhengel",
+        "zh-CN": "户外钓竿",
+        "zh-TW": "戶外釣竿",
+        "jp": "アウトドアなつりざお",
+        "ko": "아웃도어 낚싯대"
       }
     }
   },

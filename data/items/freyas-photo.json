@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "冰冰的照片",
+        "de": "Foto's von Freya",
+        "en-GB": "Freya's Photo",
+        "es": "Foto de Lupita",
+        "fr": "Photo de Luppa",
+        "it": "Foto di Freya",
+        "jp": "ツンドラのしゃしん",
+        "ko": "산드라의 사진",
+        "nl": "Foto van Freya",
+        "zh-TW": "冰冰的照片",
+        "en-US": "Freya's Photo"
       }
     }
   },

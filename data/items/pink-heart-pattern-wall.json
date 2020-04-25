@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pink Heart-Pattern Wall",
+        "en-GB": "Pink Heart-Pattern Wall",
+        "de": "Herz-Auf-Rosa-Tapete",
+        "es": "Pared amor rosa",
+        "fr": "Mur motif cœurs rose",
+        "it": "Muro amore rosa",
+        "nl": "Roze hartjeswand",
+        "zh-CN": "粉红爱心壁纸",
+        "zh-TW": "粉紅愛心壁紙",
+        "jp": "ピンクハートのかべがみ",
+        "ko": "핑크 하트 벽지"
+      }
     }
   },
   "category": "Wallpaper"

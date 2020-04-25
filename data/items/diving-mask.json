@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 2200
         }
-      ]
+      ],
+      "name": {
+        "de": "Taucherhelm",
+        "en-GB": "Diving Mask",
+        "en-US": "Diving Mask",
+        "es": "Casco de buzo",
+        "fr": "Casque de scaphandre",
+        "it": "Casco palombaro",
+        "ja": "せんすいヘルメット"
+      }
     }
   }
 }

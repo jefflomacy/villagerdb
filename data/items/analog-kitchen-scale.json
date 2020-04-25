@@ -23,6 +23,19 @@
         "ivory": "Ivory",
         "light-blue": "Light blue",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Analog Kitchen Scale",
+        "en-GB": "Analog Kitchen Scale",
+        "de": "Analog-Küchenwaage",
+        "es": "Báscula de cocina con plato",
+        "fr": "Balance de cuisine",
+        "it": "Bilancia analogica da cucina",
+        "nl": "Keukenweegschaal",
+        "zh-CN": "料理秤",
+        "zh-TW": "料理秤",
+        "jp": "キッチンスケール",
+        "ko": "주방용 저울"
       }
     }
   },

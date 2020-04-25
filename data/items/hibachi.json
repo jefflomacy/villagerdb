@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Kohlebecken",
+        "en-GB": "Hibachi",
+        "en-US": "Hibachi",
+        "es": "Hibachi",
+        "fr": "Hibachi",
+        "it": "Hibachi",
+        "ja": "ひばち"
+      }
     }
   }
 }

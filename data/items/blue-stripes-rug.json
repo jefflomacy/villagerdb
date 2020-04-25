@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Stripes Rug",
+        "en-GB": "Blue Stripes Rug",
+        "de": "Blau-Streifenteppich",
+        "es": "Alfombra rayas azul",
+        "fr": "Tapis à rayures bleues",
+        "it": "Tappeto a strisce blu",
+        "nl": "Blauwe gestreepte tapijt",
+        "zh-CN": "蓝色粗条纹地毯",
+        "zh-TW": "藍色粗橫紋地毯",
+        "jp": "あおボーダーのラグ",
+        "ko": "파란 줄무늬 러그"
+      }
     }
   },
   "category": "Flooring"

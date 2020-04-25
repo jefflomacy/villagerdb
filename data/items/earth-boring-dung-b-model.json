@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 900
+      },
+      "name": {
+        "en-US": "Earth-Boring Dung B. Model",
+        "en-GB": "Earth-Boring Dung B. Model",
+        "de": "Gold-Mistkäfermodell",
+        "es": "Figura escarab. geotrúpido",
+        "fr": "Modèle de geotrupidae",
+        "it": "Replica di geotrupidae",
+        "nl": "Model-Echte-Mestkever",
+        "zh-CN": "雪隐金龟模型",
+        "zh-TW": "雪隱金龜模型",
+        "jp": "オオセンチコガネのもけい",
+        "ko": "보라금풍뎅이 모형"
       }
     }
   },

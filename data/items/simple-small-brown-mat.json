@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Simple Small Brown Mat",
+        "en-GB": "Simple Small Brown Mat",
+        "de": "Braun-Standardmatte S",
+        "es": "Alfombra sencilla marrón P",
+        "fr": "Tapis simple brun S",
+        "it": "Tappetino marrone S",
+        "nl": "Simpele kleine bruine mat",
+        "zh-CN": "茶色简约地垫S",
+        "zh-TW": "小型茶色簡約地墊",
+        "jp": "ちゃいろいシンプルマット・S",
+        "ko": "갈색 심플 매트 S"
+      }
     }
   },
   "category": "Flooring"

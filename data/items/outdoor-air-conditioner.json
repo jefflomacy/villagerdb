@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Outdoor Air Conditioner",
+        "en-GB": "Outdoor Air Conditioner",
+        "de": "Klima-Außengerät",
+        "es": "Aire acondicionado exterior",
+        "fr": "Ventilateur d'extérieur",
+        "it": "Condizionatore esterno",
+        "nl": "Airco-Condensor",
+        "zh-CN": "室外机",
+        "zh-TW": "室外機",
+        "jp": "しつがいき",
+        "ko": "에어컨 실외기"
+      }
     }
   },
   "category": "Furniture"

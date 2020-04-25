@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿排的照片",
+        "de": "Foto's von Patricia",
+        "en-GB": "Patty's Photo",
+        "es": "Foto de Vacarena",
+        "fr": "Photo de Margaux",
+        "it": "Foto di Patty",
+        "jp": "カルピのしゃしん",
+        "ko": "밀크의 사진",
+        "nl": "Foto van Patty",
+        "zh-TW": "阿排的照片",
+        "en-US": "Patty's Photo"
       }
     }
   },

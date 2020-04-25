@@ -12,7 +12,10 @@
       },
       "sources": [
         "Saharah"
-      ]
+      ],
+      "name": {
+        "en-US": "Western Desert"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -24,7 +27,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Western Desert",
+        "en-GB": "Western Desert",
+        "de": "Wüstengrund",
+        "es": "Suelo Oeste",
+        "fr": "Sol Far West",
+        "it": "Deserto west",
+        "nl": "Westernvloer",
+        "zh-CN": "旷野地板",
+        "zh-TW": "曠野地板",
+        "jp": "こうやのゆか",
+        "ko": "황야 바닥"
+      }
     }
   }
 }

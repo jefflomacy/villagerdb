@@ -18,6 +18,19 @@
         "brown": "Brown",
         "black": "Black",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Pants Press",
+        "en-GB": "Pants Press",
+        "de": "Hosenbügler",
+        "es": "Plancha para pantalones",
+        "fr": "Presse-Pantalon",
+        "it": "Pressa per pantaloni",
+        "nl": "Broekenpers",
+        "zh-CN": "熨裤机",
+        "zh-TW": "熨褲機",
+        "jp": "ズボンプレッサー",
+        "ko": "팬츠 프레스"
       }
     }
   },

@@ -18,7 +18,10 @@
           "currency": "meow",
           "value": 5
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Desktop Mic"
+      }
     }
   }
 }

@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Young Pink Camellia",
+        "en-GB": "Young Pink Camellia",
+        "de": "Pink-Kamelienbüschlein",
+        "es": "Camelia rosa joven",
+        "fr": "Jeune camélia rose",
+        "it": "Camelia rosa giovane",
+        "nl": "Jonge roze camelia",
+        "zh-CN": "粉红山茶花小树",
+        "zh-TW": "粉紅山茶花小樹",
+        "jp": "ピンクのツバキのわかぎ",
+        "ko": "어린 핑크색 동백나무"
+      }
     }
   },
   "category": "Bushes"

@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 372
         }
-      ]
+      ],
+      "name": {
+        "de": "A-Shirt",
+        "en-GB": "A Tee",
+        "en-US": "A Tee",
+        "es": "Camiseta A",
+        "fr": "T-shirt A",
+        "it": "Maglietta A",
+        "ja": "エースのふく"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -38,6 +47,19 @@
       ],
       "variations": {
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "A Tee",
+        "en-GB": "A Tee",
+        "de": "A-Shirt",
+        "es": "Camiseta A",
+        "fr": "T-Shirt A",
+        "it": "Maglietta A",
+        "nl": "A-Shirt",
+        "zh-CN": "A字T恤",
+        "zh-TW": "A字T恤",
+        "jp": "エースのＴシャツ",
+        "ko": "에이스 티셔츠"
       }
     }
   }

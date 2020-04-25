@@ -21,7 +21,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Plastic Canister"
+      }
     },
     "nh": {
       "orderable": true,
@@ -41,6 +44,19 @@
         "green": "Green",
         "white": "White",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Plastic Canister",
+        "en-GB": "Plastic Canister",
+        "de": "Kanister",
+        "es": "Bidón de gasolina",
+        "fr": "Jerrican",
+        "it": "Tanica",
+        "nl": "Jerrycan",
+        "zh-CN": "储油桶",
+        "zh-TW": "儲油桶",
+        "jp": "ポリタンク",
+        "ko": "플라스틱 액체 용기"
       }
     }
   }

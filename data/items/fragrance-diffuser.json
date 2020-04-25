@@ -20,6 +20,19 @@
         "pink": "Pink",
         "green": "Green",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Fragrance Diffuser",
+        "en-GB": "Fragrance Diffuser",
+        "de": "Duftspender",
+        "es": "Difusor de aromas",
+        "fr": "Diffuseur d'ambiance",
+        "it": "Diffusore di fragranza",
+        "nl": "Geurverspreider",
+        "zh-CN": "香氛机",
+        "zh-TW": "香氛機",
+        "jp": "アロマディフューザー",
+        "ko": "아로마 디퓨저"
       }
     }
   },

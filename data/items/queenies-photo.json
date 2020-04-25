@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "果果的照片",
+        "de": "Foto's von Isabella",
+        "en-GB": "Queenie's Photo",
+        "es": "Foto de Marujita",
+        "fr": "Photo de Reine",
+        "it": "Foto di Regina",
+        "jp": "タキュのしゃしん",
+        "ko": "택주의 사진",
+        "nl": "Foto van Queenie",
+        "zh-TW": "果果的照片",
+        "en-US": "Queenie's Photo"
       }
     }
   },

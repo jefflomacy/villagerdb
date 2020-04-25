@@ -17,6 +17,19 @@
         "blue": "Blue",
         "green": "Green",
         "orange": "Orange"
+      },
+      "name": {
+        "en-US": "Retro Fan",
+        "en-GB": "Retro Fan",
+        "de": "Retro-Ventilator",
+        "es": "Ventilador retro",
+        "fr": "Ventilateur rétro",
+        "it": "Ventilatore rétro",
+        "nl": "Retroventilator",
+        "zh-CN": "复古风扇",
+        "zh-TW": "復古風扇",
+        "jp": "レトロなせんぷうき",
+        "ko": "복고풍 선풍기"
       }
     }
   },

@@ -11,7 +11,10 @@
       },
       "sources": [
         "In grassy patches."
-      ]
+      ],
+      "name": {
+        "en-US": "Tiger Beetle"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1500
+      },
+      "name": {
+        "en-US": "Tiger Beetle",
+        "en-GB": "Tiger Beetle",
+        "de": "Sandlaufkäfer",
+        "es": "Escarabajo tigre",
+        "fr": "Cicindèle",
+        "it": "Cicindela",
+        "nl": "Zandloopkever",
+        "zh-CN": "虎甲虫",
+        "zh-TW": "虎甲蟲",
+        "jp": "ハンミョウ",
+        "ko": "길앞잡이"
       }
     }
   }

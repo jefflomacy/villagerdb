@@ -11,6 +11,19 @@
       },
       "recipe": {
         "pear": 7
+      },
+      "name": {
+        "en-US": "Pear Umbrella",
+        "en-GB": "Pear Umbrella",
+        "de": "Birnenschirm",
+        "es": "Paraguas pera",
+        "fr": "Parapluie poire",
+        "it": "Ombrello pera",
+        "nl": "Perenparaplu",
+        "zh-CN": "梨子雨伞",
+        "zh-TW": "梨子雨傘",
+        "jp": "ナシのかさ",
+        "ko": "배 우산"
       }
     }
   },

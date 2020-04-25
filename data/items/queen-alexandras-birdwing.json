@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4000
+      },
+      "name": {
+        "en-US": "Queen Alexandra's Birdwing",
+        "en-GB": "Queen Alexandra's Birdwing",
+        "de": "Vogelfalter",
+        "es": "Mariposa alas de pájaro",
+        "fr": "Troides alexandrae",
+        "it": "Farfalla regina Alessandra",
+        "nl": "Alexandra's vogelvlinder",
+        "zh-CN": "亚历山大凤蝶",
+        "zh-TW": "亞歷山大鳳蝶",
+        "jp": "アレキサンドラトリバネアゲハ",
+        "ko": "알렉산드라비단제비나비"
       }
     }
   },

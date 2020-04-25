@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Dotted Rug",
+        "en-GB": "Red Dotted Rug",
+        "de": "Rot-Tüpfelteppich",
+        "es": "Alfombra topos pastel roja",
+        "fr": "Tapis à pois rouge",
+        "it": "Tappeto rosso a pois",
+        "nl": "Rode stippentapijt",
+        "zh-CN": "红色点点地毯",
+        "zh-TW": "紅色點點地墊",
+        "jp": "レッドドットのラグ",
+        "ko": "레드 도트 러그"
+      }
     }
   },
   "category": "Flooring"

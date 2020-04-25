@@ -23,7 +23,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "DJ K.K."
+      }
     },
     "nh": {
       "orderable": true,
@@ -36,7 +39,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "DJ K.K.",
+        "en-GB": "DJ K.K.",
+        "de": "DJ K.K.",
+        "es": "Tota-D.J.-Total",
+        "fr": "DJ Kéké",
+        "it": "K.K. DJ",
+        "nl": "DJ K.K.",
+        "zh-CN": "欧陆节拍",
+        "zh-TW": "歐陸節拍",
+        "jp": "ユーロビート",
+        "ko": "유로 비트",
+        "ru": "DJ KK"
+      }
     }
   }
 }

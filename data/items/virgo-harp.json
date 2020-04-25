@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "name": {
+        "de": "Jungfrau-Harfe",
+        "en-GB": "Virgo Harp",
+        "en-US": "Virgo Harp",
+        "es": "Arpa Virgo",
+        "fr": "Harpe Vierge",
+        "it": "Arpa Vergine",
+        "ja": "ヴァルゴのハープ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -29,7 +38,20 @@
           "currency": "bells",
           "value": 88200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Virgo Harp",
+        "en-GB": "Virgo Harp",
+        "de": "Jungfrau-Harfe",
+        "es": "Arpa Virgo",
+        "fr": "Harpe Vierge",
+        "it": "Arpa Vergine",
+        "nl": "Maagd-Harp",
+        "zh-CN": "处女座竖琴",
+        "zh-TW": "處女座豎琴",
+        "jp": "ヴァルゴのハープ",
+        "ko": "처녀자리 하프"
+      }
     }
   }
 }

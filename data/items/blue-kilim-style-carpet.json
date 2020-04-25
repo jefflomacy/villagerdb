@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Kilim-Style Carpet",
+        "en-GB": "Blue Kilim-Style Carpet",
+        "de": "Blau-Kelimteppich",
+        "es": "Alfombra kilim azul",
+        "fr": "Tapis kilim bleu",
+        "it": "Tappeto kilim blu",
+        "nl": "Blauwe kelimtapijt",
+        "zh-CN": "蓝色基里姆地毯",
+        "zh-TW": "藍色基里姆地毯",
+        "jp": "あおいキリムのカーペット",
+        "ko": "파란 킬림 카펫"
+      }
     }
   },
   "category": "Flooring"

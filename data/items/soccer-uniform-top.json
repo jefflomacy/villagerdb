@@ -22,6 +22,19 @@
         "green": "Green",
         "orange": "Orange",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Soccer-Uniform Top",
+        "en-GB": "Soccer-Uniform Top",
+        "de": "Fußballtrikot",
+        "es": "Camiseta equipo de fútbol",
+        "fr": "Maillot de foot",
+        "it": "Maglietta da calcio",
+        "nl": "Voetbalshirt",
+        "zh-CN": "足球队服",
+        "zh-TW": "足球隊服",
+        "jp": "サッカーのユニフォーム",
+        "ko": "축구 유니폼"
       }
     }
   },

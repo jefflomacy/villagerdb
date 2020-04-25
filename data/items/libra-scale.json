@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "name": {
+        "de": "Waage-Modell",
+        "en-GB": "Libra Scale",
+        "en-US": "Libra Scale",
+        "es": "Báscula Libra",
+        "fr": "Balance à plateaux",
+        "it": "Bascula Bilancia",
+        "ja": "リブラのてんびん"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -29,7 +38,20 @@
           "currency": "bells",
           "value": 87000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Libra Scale",
+        "en-GB": "Libra Scale",
+        "de": "Balkenwaage",
+        "es": "Balanza Libra",
+        "fr": "Balance à plateaux",
+        "it": "Pesa oggetti Bilancia",
+        "nl": "Weegschaal-Bascule",
+        "zh-CN": "天秤",
+        "zh-TW": "天秤",
+        "jp": "リブラのてんびん",
+        "ko": "천칭자리 저울"
+      }
     }
   }
 }

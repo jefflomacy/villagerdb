@@ -19,6 +19,19 @@
         "light-blue": "Light blue",
         "red": "Red",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Flight-Crew Uniform",
+        "en-GB": "Flight-Crew Uniform",
+        "de": "Stewardessuniform",
+        "es": "Uniforme de azafata",
+        "fr": "Uniforme d'hôtesse de l'air",
+        "it": "Uniforme da hostess",
+        "nl": "Stewardessenuniform",
+        "zh-CN": "空乘制服",
+        "zh-TW": "空姐服",
+        "jp": "フライトアテンダントのふく",
+        "ko": "승무원 옷"
       }
     }
   },

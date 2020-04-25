@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Karo-Filzhut",
+        "en-GB": "Blue Plaid Fedora",
+        "en-US": "Blue Plaid Fedora",
+        "es": "Sombrero cuadros",
+        "fr": "Borsalino plaid bleu",
+        "it": "Cappello plaid blu",
+        "ja": "なかおれハット"
+      }
     }
   }
 }

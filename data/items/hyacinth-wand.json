@@ -7,6 +7,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1660
+      },
+      "name": {
+        "en-US": "Hyacinth Wand",
+        "en-GB": "Hyacinth Wand",
+        "de": "Hyazinthenstab",
+        "es": "Varita jacinto",
+        "fr": "Baguette jacinthe",
+        "it": "Bacchetta giacinto",
+        "nl": "Hyacintenstaf",
+        "zh-CN": "风信子棒",
+        "zh-TW": "風信子棒",
+        "jp": "ヒヤシンスのステッキ",
+        "ko": "히아신스 지팡이"
       }
     }
   },

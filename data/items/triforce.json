@@ -15,7 +15,16 @@
       },
       "sources": [
         "Fortune cookie #37"
-      ]
+      ],
+      "name": {
+        "de": "Triforce",
+        "en-GB": "Triforce",
+        "en-US": "Triforce",
+        "es": "Trifuerza",
+        "fr": "Triforce",
+        "it": "Triforza",
+        "ja": "トライフォース"
+      }
     }
   }
 }

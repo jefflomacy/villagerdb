@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Parking Flooring",
+        "en-GB": "Parking Flooring",
+        "de": "Parkplatzboden",
+        "es": "Suelo aparcamiento",
+        "fr": "Sol parking",
+        "it": "Pavimento parcheggio",
+        "nl": "Parkeerplaats",
+        "zh-CN": "停车场地板",
+        "zh-TW": "停車場地板",
+        "jp": "パーキングのゆか",
+        "ko": "주차장 바닥"
+      }
     }
   },
   "category": "Flooring"

@@ -23,7 +23,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Summit Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -35,7 +38,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Summit Wall",
+        "en-GB": "Summit Wall",
+        "de": "Gipfeltapete",
+        "es": "Pared cumbre",
+        "fr": "Mur montagnes",
+        "it": "Muro montagne",
+        "nl": "Bergtopwand",
+        "zh-CN": "山顶墙",
+        "zh-TW": "山頂牆",
+        "jp": "さんちょうのかべ",
+        "ko": "산 정상 벽"
+      }
     }
   }
 }

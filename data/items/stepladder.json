@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Stehleiter",
+        "en-GB": "Stepladder",
+        "en-US": "Stepladder",
+        "es": "Escalera plegable",
+        "fr": "Marchepied",
+        "it": "Scaletta",
+        "ja": "きゃたつ"
+      }
     }
   }
 }

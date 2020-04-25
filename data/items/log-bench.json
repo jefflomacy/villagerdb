@@ -18,6 +18,19 @@
         "orange-wood": "Orange wood",
         "white-wood": "White wood",
         "white-birch": "White birch"
+      },
+      "name": {
+        "en-US": "Log Bench",
+        "en-GB": "Log Bench",
+        "de": "Baumstammbank",
+        "es": "Banco leño",
+        "fr": "Banc tronc",
+        "it": "Panchina tronco",
+        "nl": "Boomstambank",
+        "zh-CN": "圆木长凳",
+        "zh-TW": "圓木長椅",
+        "jp": "まるたのベンチ",
+        "ko": "통나무 벤치"
       }
     }
   }

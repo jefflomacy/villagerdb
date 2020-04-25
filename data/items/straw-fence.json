@@ -12,6 +12,19 @@
       "recipe": {
         "clump-of-weeds": 10,
         "wood": 3
+      },
+      "name": {
+        "en-US": "Straw Fence",
+        "en-GB": "Straw Fence",
+        "de": "Strohzaun",
+        "es": "Valla de paja",
+        "fr": "Clôture de paille",
+        "it": "Recinzione di paglia",
+        "nl": "Strohek",
+        "zh-CN": "干稻草栅栏",
+        "zh-TW": "乾稻草柵欄",
+        "jp": "わらぼしのさく",
+        "ko": "짚단 울타리"
       }
     }
   },

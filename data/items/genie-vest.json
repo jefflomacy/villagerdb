@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "de": "Orient-Top",
+        "en-GB": "Genie Vest",
+        "en-US": "Genie Vest",
+        "es": "Chaleco persa",
+        "fr": "Débardeur persan",
+        "it": "Canotta persiana",
+        "ja": "ペルシャのチョッキN"
+      }
     }
   }
 }

@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "de": "Rennfahrerhose",
+        "en-GB": "Racing Pants",
+        "en-US": "Racing Pants",
+        "es": "Pantalón carreras",
+        "fr": "Pantalon pilote",
+        "it": "Pantalone da pilota",
+        "ja": "レーサーなズボン"
+      }
     }
   }
 }

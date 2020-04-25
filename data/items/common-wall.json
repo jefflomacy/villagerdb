@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 1240
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Common Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -29,7 +32,20 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Common Wall",
+        "en-GB": "Common Wall",
+        "de": "Normaltapete",
+        "es": "Pared básica",
+        "fr": "Mur ordinaire",
+        "it": "Muro comune",
+        "nl": "Standaardwand",
+        "zh-CN": "常见墙",
+        "zh-TW": "常見牆",
+        "jp": "よくあるかべ",
+        "ko": "평범한 벽"
+      }
     }
   }
 }

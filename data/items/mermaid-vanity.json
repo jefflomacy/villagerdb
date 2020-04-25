@@ -28,7 +28,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Nixenspiegel",
+        "en-GB": "Mermaid Vanity",
+        "en-US": "Mermaid Vanity",
+        "es": "Tocador sirena",
+        "fr": "Coiffeuse sirène",
+        "it": "Toletta sirena",
+        "ja": "マーメイドなドレッサー"
+      }
     }
   }
 }

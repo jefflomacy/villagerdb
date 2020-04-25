@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1720
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Purple-Rose Wall",
+        "en-GB": "Purple-Rose Wall",
+        "de": "Lilarosentapete",
+        "es": "Pared rosas lila",
+        "fr": "Mur de roses bleues",
+        "it": "Muro con rose indaco",
+        "nl": "Paarserozenwand",
+        "zh-CN": "紫色玫瑰壁纸",
+        "zh-TW": "紫色玫瑰壁紙",
+        "jp": "むらさきのバラのかべがみ",
+        "ko": "보라 장미 벽지"
+      }
     }
   },
   "category": "Wallpaper"

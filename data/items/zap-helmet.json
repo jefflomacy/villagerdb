@@ -22,6 +22,19 @@
         "black": "Black",
         "silver": "Silver",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Zap Helmet",
+        "en-GB": "Zap Helmet",
+        "de": "Superheldenhelm",
+        "es": "Supercasco",
+        "fr": "Casque de héros",
+        "it": "Casco da eroe",
+        "nl": "Superhelm",
+        "zh-CN": "英雄头盔",
+        "zh-TW": "英雄安全帽",
+        "jp": "ヒーローヘルメット",
+        "ko": "히어로 헬멧"
       }
     }
   },

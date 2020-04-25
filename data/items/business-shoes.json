@@ -16,6 +16,19 @@
       "variations": {
         "black": "Black",
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Business Shoes",
+        "en-GB": "Business Shoes",
+        "de": "Paars Business-Schuhe",
+        "es": "Zapato ejecutivo",
+        "fr": "Paire de chaussures pro",
+        "it": "Paio di scarpe da impiegato",
+        "nl": "Zakenschoenen",
+        "zh-CN": "商务皮鞋",
+        "zh-TW": "商務皮鞋",
+        "jp": "ビジネスシューズ",
+        "ko": "비즈니스 슈즈"
       }
     }
   },

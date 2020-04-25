@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Rock-Climbing Wall",
+        "en-GB": "Rock-Climbing Wall",
+        "de": "Boulderwand",
+        "es": "Pared escalada",
+        "fr": "Mur pierres d'escalade",
+        "it": "Muro bouldering",
+        "nl": "Klimwand",
+        "zh-CN": "抱石墙",
+        "zh-TW": "抱石牆",
+        "jp": "ボルダリングのかべ",
+        "ko": "암벽 등반 벽"
+      }
     }
   },
   "category": "Wallpaper"

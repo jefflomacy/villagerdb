@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "富蓝的海报",
+        "de": "Poster's von Gernod",
+        "en-GB": "Franklin's Poster",
+        "es": "Póster de Guindo",
+        "fr": "Poster de Dindou",
+        "it": "Poster di Cedrone",
+        "jp": "フランクリンのポスター",
+        "ko": "프랭클린의 포스터",
+        "nl": "Poster van Franklin",
+        "zh-TW": "富藍的海報",
+        "en-US": "Franklin's Poster"
+      }
     }
   },
   "category": "Photos"

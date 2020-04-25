@@ -11,12 +11,28 @@
       },
       "sources": [
         "Near trees (only in November)"
-      ]
+      ],
+      "name": {
+        "en-US": "Rare Mushroom"
+      }
     },
     "nh": {
       "sellPrice": {
         "currency": "bells",
         "value": 16000
+      },
+      "name": {
+        "en-US": "Rare Mushroom",
+        "en-GB": "Rare Mushroom",
+        "de": "Seltenpilz",
+        "es": "Champiñón raro",
+        "fr": "Champignon rare",
+        "it": "Fungo raro",
+        "nl": "Zeldzame paddenstoel",
+        "zh-CN": "珍贵蘑菇",
+        "zh-TW": "珍貴蘑菇",
+        "jp": "めずらしいキノコ",
+        "ko": "희귀 버섯"
       }
     }
   }

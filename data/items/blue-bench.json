@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1900
         }
-      ]
+      ],
+      "name": {
+        "de": "Azurbank",
+        "en-GB": "Blue Bench",
+        "en-US": "Blue Bench",
+        "es": "Banco azul",
+        "fr": "Banc bleu",
+        "it": "Panca blu",
+        "ja": "あおいベンチ"
+      }
     }
   }
 }

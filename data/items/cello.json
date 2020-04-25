@@ -18,7 +18,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Cello",
+        "en-GB": "Cello",
+        "en-US": "Cello",
+        "es": "Violonchelo",
+        "fr": "Violoncelle",
+        "it": "Violoncello",
+        "ja": "チェロ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -35,6 +44,19 @@
         "natural": "Natural",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Cello",
+        "en-GB": "Cello",
+        "de": "Cello",
+        "es": "Violonchelo",
+        "fr": "Violoncelle",
+        "it": "Violoncello",
+        "nl": "Cello",
+        "zh-CN": "大提琴",
+        "zh-TW": "大提琴",
+        "jp": "チェロ",
+        "ko": "첼로"
       }
     }
   }

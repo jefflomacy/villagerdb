@@ -7,7 +7,10 @@
       "orderable": false,
       "sources": [
         "Undelivered lost item"
-      ]
+      ],
+      "name": {
+        "en-US": "Paper Bag"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -22,6 +25,19 @@
       ],
       "variations": {
         "beige": "Beige"
+      },
+      "name": {
+        "en-US": "Paper Bag",
+        "en-GB": "Paper Bag",
+        "de": "Papiertüte",
+        "es": "Bolsa de papel",
+        "fr": "Sac en papier",
+        "it": "Sacchetto di carta",
+        "nl": "Papieren zak",
+        "zh-CN": "纸袋",
+        "zh-TW": "紙袋",
+        "jp": "かみぶくろ",
+        "ko": "종이 봉투"
       }
     }
   }

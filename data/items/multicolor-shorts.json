@@ -18,6 +18,19 @@
         "red": "Red",
         "blue": "Blue",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Multicolor Shorts",
+        "en-GB": "Multicolor Shorts",
+        "de": "Vielfarben-Shorts",
+        "es": "Pantalón corto multicolor",
+        "fr": "Short multicolore",
+        "it": "Pantaloncino multicolore",
+        "nl": "Veelkleurige korte broek",
+        "zh-CN": "混色五分裤",
+        "zh-TW": "多色五分褲",
+        "jp": "マルチカラーのハーフパンツ",
+        "ko": "컬러풀 반바지"
       }
     }
   },

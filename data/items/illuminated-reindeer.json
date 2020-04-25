@@ -19,6 +19,19 @@
         "blue": "Blue",
         "green": "Green",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Illuminated Reindeer",
+        "en-GB": "Illuminated Reindeer",
+        "de": "Leucht-Rentier",
+        "es": "Reno de luces",
+        "fr": "Renne illuminé",
+        "it": "Renna illuminata",
+        "nl": "Rendierverlichting",
+        "zh-CN": "驯鹿灯饰",
+        "zh-TW": "馴鹿燈飾",
+        "jp": "トナカイのイルミネーション",
+        "ko": "순록 일루미네이션"
       }
     }
   },

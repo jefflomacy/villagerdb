@@ -20,6 +20,19 @@
         "red": "Red",
         "blue": "Blue",
         "orange": "Orange"
+      },
+      "name": {
+        "en-US": "Victorian Dress",
+        "en-GB": "Victorian Dress",
+        "de": "Señorita-Kleid",
+        "es": "Vestido de época",
+        "fr": "Robe victorienne",
+        "it": "Abito d'epoca",
+        "nl": "Saloonjurk",
+        "zh-CN": "西班牙少女洋装",
+        "zh-TW": "墨西哥少女洋裝",
+        "jp": "セニョリータなドレス",
+        "ko": "세뇨리따 드레스"
       }
     }
   },

@@ -22,6 +22,19 @@
         "blue": "Blue",
         "pink": "Pink",
         "light-blue": "Light blue"
+      },
+      "name": {
+        "en-US": "Wall-Mounted TV (20 In.)",
+        "en-GB": "Wall-Mounted TV (20 In.)",
+        "de": "20-Zoll-Wandfernseher",
+        "es": "Tele LCD de 20\" para pared",
+        "fr": "Télé murale (20\")",
+        "it": "TV a LED a muro (20 pollici)",
+        "nl": "Tv aan de muur (20 inch)",
+        "zh-CN": "20寸壁挂式电视",
+        "zh-TW": "壁掛式電視 20吋",
+        "jp": "かべかけテレビ 20インチ",
+        "ko": "20인치 벽걸이 TV"
       }
     }
   },

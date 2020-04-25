@@ -25,6 +25,19 @@
         "resorts": "Resorts",
         "music": "Music",
         "pop-stars": "Pop stars"
+      },
+      "name": {
+        "en-US": "Magazine",
+        "en-GB": "Magazine",
+        "de": "Magazin",
+        "es": "Revista",
+        "fr": "Magazine",
+        "it": "Rivista",
+        "nl": "Tijdschrift",
+        "zh-CN": "杂志",
+        "zh-TW": "雜誌",
+        "jp": "ざっし",
+        "ko": "잡지"
       }
     }
   },

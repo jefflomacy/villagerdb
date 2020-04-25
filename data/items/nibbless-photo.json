@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "咬咬的照片",
+        "de": "Foto's von Knuspi",
+        "en-GB": "Nibbles's Photo",
+        "es": "Foto de Dentina",
+        "fr": "Photo de Lola",
+        "it": "Foto di Rododea",
+        "jp": "ガリガリのしゃしん",
+        "ko": "그리미의 사진",
+        "nl": "Foto van Nibbles",
+        "zh-TW": "咬咬的照片",
+        "en-US": "Nibbles's Photo"
       }
     }
   },

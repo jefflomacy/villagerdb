@@ -19,6 +19,19 @@
         "red": "Red",
         "green": "Green",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Funny-Face Socks",
+        "en-GB": "Funny-Face Socks",
+        "de": "Paars Charaktersocken",
+        "es": "Calcetín caritas",
+        "fr": "P. de chaussettes rigolotes",
+        "it": "Paio di calzini con faccina",
+        "nl": "Sokken met een gezichtje",
+        "zh-CN": "卡通图案袜",
+        "zh-TW": "卡通圖案襪",
+        "jp": "キャラクターソックス",
+        "ko": "캐릭터 양말"
       }
     }
   },

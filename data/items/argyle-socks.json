@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "de": "Argyle-Socke",
+        "en-GB": "Argyle Socks",
+        "en-US": "Argyle Socks",
+        "es": "Calcetín pijo alto",
+        "fr": "Paire chauss. écos",
+        "it": "Paio calzini a rombi",
+        "ja": "アーガイルハイソックス"
+      }
     }
   }
 }

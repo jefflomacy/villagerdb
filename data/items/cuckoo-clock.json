@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Kuckucksuhr",
+        "en-GB": "Cuckoo Clock",
+        "en-US": "Cuckoo Clock",
+        "es": "Reloj de cuco",
+        "fr": "Horloge coucou",
+        "it": "Orologio a cucù",
+        "ja": "はとどけい"
+      }
     },
     "nh": {
       "customizable": false,
@@ -42,6 +51,19 @@
         "red": "Red",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Cuckoo Clock",
+        "en-GB": "Cuckoo Clock",
+        "de": "Kuckucksuhr",
+        "es": "Reloj de cuco",
+        "fr": "Horloge coucou",
+        "it": "Orologio a cucù",
+        "nl": "Koekoeksklok",
+        "zh-CN": "布谷鸟钟",
+        "zh-TW": "布穀鳥鐘",
+        "jp": "はとどけい",
+        "ko": "뻐꾸기 시계"
       }
     }
   }

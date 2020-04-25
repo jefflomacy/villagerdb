@@ -13,7 +13,10 @@
         "Around the lit up windows of Re-Tail",
         "The Roost café",
         "and around street lamps."
-      ]
+      ],
+      "name": {
+        "en-US": "Moth"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +27,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 130
+      },
+      "name": {
+        "en-US": "Moth",
+        "en-GB": "Moth",
+        "de": "Motte",
+        "es": "Polilla",
+        "fr": "Papillon de nuit",
+        "it": "Falena",
+        "nl": "Mot",
+        "zh-CN": "飞蛾",
+        "zh-TW": "飛蛾",
+        "jp": "ガ",
+        "ko": "나방"
       }
     }
   }

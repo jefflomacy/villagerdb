@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "袋钢的照片",
+        "de": "Foto's von Sinan",
+        "en-GB": "Walt's Photo",
+        "es": "Foto de Brinco",
+        "fr": "Photo de Walt",
+        "it": "Foto di Zompo",
+        "jp": "カンロクのしゃしん",
+        "ko": "관록의 사진",
+        "nl": "Foto van Walt",
+        "zh-TW": "袋鋼的照片",
+        "en-US": "Walt's Photo"
       }
     }
   },

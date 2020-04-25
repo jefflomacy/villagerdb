@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 124000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Princess Carpet"
+      }
     }
   }
 }

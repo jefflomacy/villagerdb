@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 2700
         }
-      ]
+      ],
+      "name": {
+        "de": "Brunnen",
+        "en-GB": "Well",
+        "en-US": "Well",
+        "es": "Pozo",
+        "fr": "Puits",
+        "it": "Pozzo",
+        "ja": "いど"
+      }
     }
   }
 }

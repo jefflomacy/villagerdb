@@ -16,7 +16,16 @@
       },
       "sources": [
         "Pascal"
-      ]
+      ],
+      "name": {
+        "de": "Piratenflagge",
+        "en-GB": "Jolly Roger",
+        "en-US": "Jolly Roger",
+        "es": "Bandera pirata",
+        "fr": "Drapeau pirate",
+        "it": "Bandiera dei pirati",
+        "ja": "かいぞくのはた"
+      }
     }
   }
 }

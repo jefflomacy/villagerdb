@@ -25,7 +25,16 @@
           "currency": "bells",
           "value": 600
         }
-      ]
+      ],
+      "name": {
+        "de": "Grünheldenhelm",
+        "en-GB": "Green-Zap Helmet",
+        "en-US": "Green-Zap Helmet",
+        "es": "Supercasco verde",
+        "fr": "Casque de héros vert",
+        "it": "Casco eroe verde",
+        "ja": "ヒーローヘルメットG"
+      }
     }
   }
 }

@@ -21,6 +21,19 @@
         "pink": "Pink",
         "orange": "Orange",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Star Clock",
+        "en-GB": "Star Clock",
+        "de": "Sternuhr",
+        "es": "Reloj estrella",
+        "fr": "Horloge étoile",
+        "it": "Orologio stella",
+        "nl": "Sterrenklok",
+        "zh-CN": "星星时钟",
+        "zh-TW": "星星時鐘",
+        "jp": "スタークロック",
+        "ko": "별 시계"
       }
     }
   },

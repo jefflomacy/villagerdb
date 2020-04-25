@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "金牌的海报",
+        "de": "Poster's von Wuffi",
+        "en-GB": "Mac's Poster",
+        "es": "Póster de Pit",
+        "fr": "Poster de Brutus",
+        "it": "Poster di Teo",
+        "jp": "チャンプのポスター",
+        "ko": "챔프의 포스터",
+        "nl": "Poster van Mac",
+        "zh-TW": "金牌的海報",
+        "en-US": "Mac's Poster"
+      }
     }
   },
   "category": "Photos"

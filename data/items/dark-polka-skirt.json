@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Ballonrock",
+        "en-GB": "Dark Polka Skirt",
+        "en-US": "Dark Polka Skirt",
+        "es": "Falda topos noche",
+        "fr": "Jupe noire à pois",
+        "it": "Gonna scura pois",
+        "ja": "くろマーブルスカート"
+      }
     }
   }
 }

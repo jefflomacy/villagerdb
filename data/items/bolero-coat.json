@@ -18,6 +18,19 @@
         "yellow": "Yellow",
         "blue": "Blue",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Bolero Coat",
+        "en-GB": "Bolero Coat",
+        "de": "Bolero-Mantel",
+        "es": "Abrigo bolero",
+        "fr": "Manteau boléro",
+        "it": "Cappotto con bolero",
+        "nl": "Winterjas met strik",
+        "zh-CN": "礼服小外套",
+        "zh-TW": "禮服小外套",
+        "jp": "ボレロコート",
+        "ko": "볼레로 코트"
       }
     }
   },

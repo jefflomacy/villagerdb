@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 340
         }
-      ]
+      ],
+      "name": {
+        "de": "Würfeltop",
+        "en-GB": "Dice Tank",
+        "en-US": "Dice Tank",
+        "es": "Top dados",
+        "fr": "Débardeur dés",
+        "it": "Maglietta dadi",
+        "ja": "サイコロのふく"
+      }
     }
   }
 }

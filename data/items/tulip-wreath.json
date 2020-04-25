@@ -18,6 +18,19 @@
         "red-tulips": 3,
         "yellow-tulips": 3,
         "white-tulips": 3
+      },
+      "name": {
+        "en-US": "Tulip Wreath",
+        "en-GB": "Tulip Wreath",
+        "de": "Tulpentürkranz",
+        "es": "Corona tulipán",
+        "fr": "Couronne tulipes",
+        "it": "Ghirlanda tulipani",
+        "nl": "Tulpenkrans",
+        "zh-CN": "郁金香花环",
+        "zh-TW": "鬱金香花圈",
+        "jp": "チューリップのリース",
+        "ko": "튤립 리스"
       }
     }
   },

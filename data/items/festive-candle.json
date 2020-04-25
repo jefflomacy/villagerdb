@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Kerzenleuchter",
+        "en-GB": "Festive Candle",
+        "en-US": "Festive Candle",
+        "es": "Candelabro festivo",
+        "fr": "Chandelier de fête",
+        "it": "Candela festiva",
+        "ja": "おまつりのろうそく"
+      }
     }
   }
 }

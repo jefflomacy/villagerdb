@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿栗的照片",
+        "de": "Foto's von Oskar",
+        "en-GB": "Ozzie's Photo",
+        "es": "Foto de Koloa",
+        "fr": "Photo de Koko",
+        "it": "Foto di Ozzy",
+        "jp": "ドングリのしゃしん",
+        "ko": "동동이의 사진",
+        "nl": "Foto van Ozzie",
+        "zh-TW": "阿栗的照片",
+        "en-US": "Ozzie's Photo"
       }
     }
   },

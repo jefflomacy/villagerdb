@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Stormy-Night Wall",
+        "en-GB": "Stormy-Night Wall",
+        "de": "Sturmnachttapete",
+        "es": "Pared noche de tormenta",
+        "fr": "Mur nuit d'orage",
+        "it": "Muro notte tempestosa",
+        "nl": "Stormnachtwand",
+        "zh-CN": "暴风雨夜晚墙",
+        "zh-TW": "暴風雨夜晚牆",
+        "jp": "あらしのよるのかべ",
+        "ko": "폭풍우 벽"
+      }
     }
   },
   "category": "Wallpaper"

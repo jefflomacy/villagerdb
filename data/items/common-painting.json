@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 3920
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Common Painting"
+      }
     },
     "nh": {
       "orderable": false,
@@ -36,7 +39,20 @@
           "currency": "bells",
           "value": 4980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Common Painting",
+        "en-GB": "Common Painting",
+        "de": "Bekanntgemälde",
+        "es": "Cuadro segadoras",
+        "fr": "Toile commune",
+        "it": "Quadro povero",
+        "nl": "Landelijke schilderij",
+        "zh-CN": "常见的名画",
+        "zh-TW": "常見的名畫",
+        "jp": "よくみるめいが",
+        "ko": "평범한 명화"
+      }
     }
   }
 }

@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 1540
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Cowhide Rug"
+      }
     }
   }
 }

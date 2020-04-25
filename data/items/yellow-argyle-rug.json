@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Argyle Rug",
+        "en-GB": "Yellow Argyle Rug",
+        "de": "Gelb-Argyle-Teppich",
+        "es": "Alfombra rombos amarilla",
+        "fr": "Tapis argyle jaune",
+        "it": "Tappeto a rombi giallo",
+        "nl": "Geel geruite tapijt",
+        "zh-CN": "黄色菱格纹地毯",
+        "zh-TW": "黃色菱格紋地毯",
+        "jp": "きいろいアーガイルのラグ",
+        "ko": "노란 아가일 러그"
+      }
     }
   },
   "category": "Flooring"

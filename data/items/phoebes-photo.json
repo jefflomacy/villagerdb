@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "火鸟的照片",
+        "de": "Foto's von Philippa",
+        "en-GB": "Phoebe's Photo",
+        "es": "Foto de Avelina",
+        "fr": "Photo de Faustine",
+        "it": "Foto di Fenicia",
+        "jp": "ヒノコのしゃしん",
+        "ko": "휘니의 사진",
+        "nl": "Foto van Phoebe",
+        "zh-TW": "火鳥的照片",
+        "en-US": "Phoebe's Photo"
       }
     }
   },

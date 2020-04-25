@@ -17,6 +17,19 @@
         "black": "Black",
         "white": "White",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Text Shirt",
+        "en-GB": "Text Shirt",
+        "de": "Textprintpulli",
+        "es": "Camiseta tipografía",
+        "fr": "T-Shirt à texte",
+        "it": "Maglietta con scritte",
+        "nl": "Shirt met tekstopdruk",
+        "zh-CN": "英文字母T恤",
+        "zh-TW": "英文字母T恤",
+        "jp": "えいじＴシャツ",
+        "ko": "영어 티셔츠"
       }
     }
   },

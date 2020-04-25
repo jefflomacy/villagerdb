@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "name": {
+        "de": "Zwillinge-Schrank",
+        "en-GB": "Gemini Closet",
+        "en-US": "Gemini Closet",
+        "es": "Armario Géminis",
+        "fr": "Armoire Gémeaux",
+        "it": "Armadio Gemelli",
+        "ja": "ジェミニのクロゼット"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -29,7 +38,20 @@
           "currency": "bells",
           "value": 88800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Gemini Closet",
+        "en-GB": "Gemini Closet",
+        "de": "Zwillinge-Schrank",
+        "es": "Armario Géminis",
+        "fr": "Armoire Gémeaux",
+        "it": "Armadio Gemelli",
+        "nl": "Tweelingen-Kast",
+        "zh-CN": "双子座衣柜",
+        "zh-TW": "雙子座衣櫃",
+        "jp": "ジェミニのクロゼット",
+        "ko": "쌍둥이자리 옷장"
+      }
     }
   }
 }

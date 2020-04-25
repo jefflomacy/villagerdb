@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 620
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pink Shanty Wall",
+        "en-GB": "Pink Shanty Wall",
+        "de": "Pink-Wellblechwand",
+        "es": "Pared reciclaje rosa",
+        "fr": "Mur baraquement rose",
+        "it": "Muro lamiera rosa",
+        "nl": "Roze golfplaatwand",
+        "zh-CN": "粉红铁皮墙",
+        "zh-TW": "粉紅鐵皮牆",
+        "jp": "ピンクのトタンかべ",
+        "ko": "핑크 강판 벽"
+      }
     }
   },
   "category": "Wallpaper"

@@ -15,7 +15,16 @@
       },
       "sources": [
         "Snowboy"
-      ]
+      ],
+      "name": {
+        "de": "Schneemannbett",
+        "en-GB": "Snowman Bed",
+        "en-US": "Snowman Bed",
+        "es": "Cama nieve",
+        "fr": "Lit Yétiti",
+        "it": "Letto neve",
+        "ja": "ゆきだるまベッド"
+      }
     }
   }
 }

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "竹轮的照片",
+        "de": "Foto's von Staksi",
+        "en-GB": "Wade's Photo",
+        "es": "Foto de Petín",
+        "fr": "Photo de Miglou",
+        "it": "Foto di Plinio",
+        "jp": "カマボコのしゃしん",
+        "ko": "호떡의 사진",
+        "nl": "Foto van Wade",
+        "zh-TW": "竹輪的照片",
+        "en-US": "Wade's Photo"
       }
     }
   },

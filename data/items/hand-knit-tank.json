@@ -24,6 +24,19 @@
         "blue": "Blue",
         "green": "Green",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Hand-Knit Tank",
+        "en-GB": "Hand-Knit Tank",
+        "de": "Stricktop",
+        "es": "Chaleco de punto",
+        "fr": "Débardeur tricoté main",
+        "it": "Maglione smanicato",
+        "nl": "Handgebreide tanktop",
+        "zh-CN": "无袖针织衫",
+        "zh-TW": "無袖針織衫",
+        "jp": "ノースリーブのニット",
+        "ko": "민소매 니트"
       }
     }
   },

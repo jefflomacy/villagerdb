@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 2800
         }
-      ]
+      ],
+      "name": {
+        "de": "Astroregal",
+        "en-GB": "Astro Shelf",
+        "en-US": "Astro Shelf",
+        "es": "Estantería futurista",
+        "fr": "étagère astro",
+        "it": "Scaffale futuro",
+        "ja": "きんみらいなシェルフ"
+      }
     }
   }
 }

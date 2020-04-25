@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 500
         }
-      ]
+      ],
+      "name": {
+        "de": "Ten Billion Barrel",
+        "en-GB": "Ten Billion Barrel",
+        "en-US": "Ten Billion Barrel",
+        "es": "Ten Billion Barrel",
+        "fr": "Ten Billion Barrel",
+        "it": "Ten Billion Barrel",
+        "ja": "テンビリオン"
+      }
     }
   }
 }

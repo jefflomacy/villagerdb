@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "吸管的照片",
+        "de": "Foto's von Knuth",
+        "en-GB": "Huck's Photo",
+        "es": "Foto de Ricardo",
+        "fr": "Photo de Bajoue",
+        "it": "Foto di Berto",
+        "jp": "ストローのしゃしん",
+        "ko": "스트로의 사진",
+        "nl": "Foto van Huck",
+        "zh-TW": "吸管的照片",
+        "en-US": "Huck's Photo"
       }
     }
   },

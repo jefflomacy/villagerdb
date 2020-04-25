@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Ninjahose",
+        "en-GB": "Ninja Pants",
+        "en-US": "Ninja Pants",
+        "es": "Pantalón de ninja",
+        "fr": "Pantalon ninja",
+        "it": "Pantalone ninja",
+        "ja": "しのびのズボン"
+      }
     }
   }
 }

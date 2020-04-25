@@ -11,7 +11,10 @@
       },
       "sources": [
         "Inside rocks (smash with a shovel)"
-      ]
+      ],
+      "name": {
+        "en-US": "Gold Nugget"
+      }
     },
     "nh": {
       "orderable": false,
@@ -21,6 +24,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10000
+      },
+      "name": {
+        "zh-CN": "金矿石",
+        "de": "Golderz",
+        "en-GB": "Gold Nugget",
+        "es": "Pepita de oro",
+        "fr": "Pépite d'or",
+        "it": "Minerale d'oro",
+        "jp": "きんこうせき",
+        "ko": "금광석",
+        "nl": "Goudklompje",
+        "zh-TW": "金礦石",
+        "en-US": "Gold Nugget"
       }
     }
   }

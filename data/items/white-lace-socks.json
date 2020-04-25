@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 120
         }
-      ]
+      ],
+      "name": {
+        "de": "Spitzensöckchen",
+        "en-GB": "White-Lace Socks",
+        "en-US": "White-Lace Socks",
+        "es": "Calcetín encaje",
+        "fr": "Paire chaus. crochet",
+        "it": "P. calzini merlett.",
+        "ja": "レースのソックス"
+      }
     }
   }
 }

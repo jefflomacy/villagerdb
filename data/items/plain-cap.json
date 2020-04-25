@@ -20,6 +20,19 @@
         "red": "Red",
         "blue": "Blue",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Plain Cap",
+        "en-GB": "Plain Cap",
+        "de": "Schirmmütze",
+        "es": "Gorra sencilla",
+        "fr": "Casquette militaire",
+        "it": "Berretto militare",
+        "nl": "Eenvoudige pet",
+        "zh-CN": "军帽",
+        "zh-TW": "軍帽",
+        "jp": "ワークキャップ",
+        "ko": "워크캡"
       }
     }
   },

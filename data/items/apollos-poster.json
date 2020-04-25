@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿波罗的海报",
+        "de": "Poster's von Apollo",
+        "en-GB": "Apollo's Poster",
+        "es": "Póster de Apolo",
+        "fr": "Poster d'apollon",
+        "it": "Poster di Apollo",
+        "jp": "アポロのポスター",
+        "ko": "아폴로의 포스터",
+        "nl": "Poster van Apollo",
+        "zh-TW": "阿波羅的海報",
+        "en-US": "Apollo's Poster"
+      }
     }
   },
   "category": "Photos"

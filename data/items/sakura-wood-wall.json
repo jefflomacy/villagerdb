@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 12800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sakura-Wood Wall",
+        "en-GB": "Sakura-Wood Wall",
+        "de": "Kirschholzverkleidung",
+        "es": "Pared cerezo",
+        "fr": "Mur bois sakura",
+        "it": "Muro legno rosa",
+        "nl": "Kersenbloesemroze wand",
+        "zh-CN": "樱花木墙",
+        "zh-TW": "櫻花木牆",
+        "jp": "さくらのウッドウォール",
+        "ko": "벚꽃색 우드 벽"
+      }
     }
   },
   "category": "Wallpaper"

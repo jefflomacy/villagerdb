@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Wandventilator",
+        "en-GB": "Wall Fan",
+        "en-US": "Wall Fan",
+        "es": "Ventilador de pared",
+        "fr": "Ventilateur mural",
+        "it": "Ventilatore a muro",
+        "ja": "かべかけせんぷうき"
+      }
     },
     "nh": {
       "orderable": true,
@@ -47,6 +56,19 @@
         "black": "Black",
         "silver": "Silver",
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Wall Fan",
+        "en-GB": "Wall Fan",
+        "de": "Wandventilator",
+        "es": "Ventilador de pared",
+        "fr": "Ventilateur mural",
+        "it": "Ventilatore a muro",
+        "nl": "Wandventilator",
+        "zh-CN": "壁挂式风扇",
+        "zh-TW": "壁掛式風扇",
+        "jp": "かべかけせんぷうき",
+        "ko": "벽걸이 선풍기"
       }
     }
   }

@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2292
         }
-      ]
+      ],
+      "name": {
+        "de": "Smaragdbüfett",
+        "en-GB": "Green Pantry",
+        "en-US": "Green Pantry",
+        "es": "Alacena verde",
+        "fr": "Buffet vert",
+        "it": "Dispensa verde",
+        "ja": "みどりのチェスト"
+      }
     }
   }
 }

@@ -17,7 +17,20 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Lilies",
+        "en-GB": "Yellow Lilies",
+        "de": "Pyrenäenlilien",
+        "es": "Lirios amarillos",
+        "fr": "Lys jaunes",
+        "it": "Gigli gialli",
+        "nl": "Gele lelies",
+        "zh-CN": "黄色百合",
+        "zh-TW": "黃色百合",
+        "jp": "きいろいユリ",
+        "ko": "노란 백합"
+      }
     }
   },
   "category": "Flowers"

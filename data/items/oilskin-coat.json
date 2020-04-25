@@ -17,6 +17,19 @@
         "yellow": "Yellow",
         "red": "Red",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Oilskin Coat",
+        "en-GB": "Oilskin Coat",
+        "de": "Öljacke",
+        "es": "Impermeable de trabajo",
+        "fr": "Manteau huilé",
+        "it": "Giacca cerata",
+        "nl": "Oliejas",
+        "zh-CN": "油布外套",
+        "zh-TW": "油布外套",
+        "jp": "オイルスキンのジャケット",
+        "ko": "방수 재킷"
       }
     }
   },

@@ -19,6 +19,19 @@
         "yellow": "Yellow",
         "blue": "Blue",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Dreamy Dress",
+        "en-GB": "Dreamy Dress",
+        "de": "Fantasiekleid",
+        "es": "Vestido fantasía",
+        "fr": "Robe joli rêve",
+        "it": "Vestito sognante",
+        "nl": "Dromerige jurk",
+        "zh-CN": "梦幻可爱洋装",
+        "zh-TW": "夢幻可愛洋裝",
+        "jp": "ゆめかわなドレス",
+        "ko": "아기자기한 드레스"
       }
     }
   },

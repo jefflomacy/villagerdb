@@ -13,6 +13,19 @@
       },
       "recipe": {
         "common-butterfly": 3
+      },
+      "name": {
+        "en-US": "Common Butterfly Model",
+        "en-GB": "Common Butterfly Model",
+        "de": "Kohlweißlingmodell",
+        "es": "Figura de mariposa común",
+        "fr": "Modèle de piéride",
+        "it": "Replica di farfalla comune",
+        "nl": "Modelkoolwitje",
+        "zh-CN": "白粉蝶模型",
+        "zh-TW": "白粉蝶模型",
+        "jp": "モンシロチョウのもけい",
+        "ko": "배추흰나비 모형"
       }
     }
   },

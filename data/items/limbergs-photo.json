@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "韭菜的照片",
+        "de": "Foto's von Rafael",
+        "en-GB": "Limberg's Photo",
+        "es": "Foto de Camember",
+        "fr": "Photo de Gruyère",
+        "it": "Foto di Rosico",
+        "jp": "らっきょのしゃしん",
+        "ko": "단무지의 사진",
+        "nl": "Foto van Limberg",
+        "zh-TW": "韭菜的照片",
+        "en-US": "Limberg's Photo"
       }
     }
   },

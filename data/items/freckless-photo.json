@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "小鲔的照片",
+        "de": "Foto's von Quacks",
+        "en-GB": "Freckles's Photo",
+        "es": "Foto de Rebeca",
+        "fr": "Photo de Caro",
+        "it": "Foto di Semola",
+        "jp": "マグロのしゃしん",
+        "ko": "다랑어의 사진",
+        "nl": "Foto van Freckles",
+        "zh-TW": "小鮪的照片",
+        "en-US": "Freckles's Photo"
       }
     }
   },

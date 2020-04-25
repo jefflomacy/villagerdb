@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 7000
         }
-      ]
+      ],
+      "name": {
+        "de": "\\u201E7\\u201C-Lampe",
+        "en-GB": "Seven Lamp",
+        "en-US": "Seven Lamp",
+        "es": "Lámpara siete",
+        "fr": "Lampe 7",
+        "it": "Lampada a 7",
+        "ja": "7のランプ"
+      }
     }
   }
 }

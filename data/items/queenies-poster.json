@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "果果的海报",
+        "de": "Poster's von Isabella",
+        "en-GB": "Queenie's Poster",
+        "es": "Póster de Marujita",
+        "fr": "Poster de Reine",
+        "it": "Poster di Regina",
+        "jp": "タキュのポスター",
+        "ko": "택주의 포스터",
+        "nl": "Poster van Queenie",
+        "zh-TW": "果果的海報",
+        "en-US": "Queenie's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -13,7 +13,20 @@
           "currency": "bells",
           "value": 1440
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Gray Argyle-Tile Flooring",
+        "en-GB": "Gray Argyle-Tile Flooring",
+        "de": "Grau-Rautenfliesenboden",
+        "es": "Suelo rombos gris",
+        "fr": "Carrelage diagonal gris",
+        "it": "Pavimento rombi grigio",
+        "nl": "Grijze geruite tegelvloer",
+        "zh-CN": "灰色菱格纹砖地板",
+        "zh-TW": "灰色菱格紋磚地板",
+        "jp": "グレーのアーガイルタイルゆか",
+        "ko": "그레이 아가일 타일 바닥"
+      }
     }
   },
   "category": "Flooring"

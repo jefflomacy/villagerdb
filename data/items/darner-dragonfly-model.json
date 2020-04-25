@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 690
+      },
+      "name": {
+        "en-US": "Darner Dragonfly Model",
+        "en-GB": "Darner Dragonfly Model",
+        "de": "Königslibellenmodell",
+        "es": "Figura libélula cab. diablo",
+        "fr": "Modèle d'anax napolitain",
+        "it": "Replica di libellula depressa",
+        "nl": "Model-Zuidelijke-Keizerlibel",
+        "zh-CN": "绿胸晏蜓模型",
+        "zh-TW": "綠胸晏蜓模型",
+        "jp": "ギンヤンマのもけい",
+        "ko": "왕잠자리 모형"
       }
     }
   },

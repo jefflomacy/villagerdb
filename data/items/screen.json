@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1652
         }
-      ]
+      ],
+      "name": {
+        "de": "Paravent",
+        "en-GB": "Screen",
+        "en-US": "Screen",
+        "es": "Biombo",
+        "fr": "Paravent",
+        "it": "Separé",
+        "ja": "びょうぶ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -40,6 +49,19 @@
         "pine": "Pine",
         "tiger": "Tiger",
         "dragon": "Dragon"
+      },
+      "name": {
+        "en-US": "Screen",
+        "en-GB": "Screen",
+        "de": "Paravent",
+        "es": "Biombo",
+        "fr": "Paravent",
+        "it": "Paravento",
+        "nl": "Kamerscherm",
+        "zh-CN": "屏风",
+        "zh-TW": "屏風",
+        "jp": "びょうぶ",
+        "ko": "병풍"
       }
     }
   }

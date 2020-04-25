@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 240
         }
-      ]
+      ],
+      "name": {
+        "de": "Rubinband",
+        "en-GB": "Red Ribbon",
+        "en-US": "Red Ribbon",
+        "es": "Lazo rojo",
+        "fr": "Ruban rouge",
+        "it": "Fiocco rosso",
+        "ja": "あかいリボン"
+      }
     }
   }
 }

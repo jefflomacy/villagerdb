@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "雷贝嘉的海报",
+        "de": "Poster's von Noisette",
+        "en-GB": "Pecan's Poster",
+        "es": "Póster de Camila",
+        "fr": "Poster de Pécan",
+        "it": "Poster di Nocina",
+        "jp": "レベッカのポスター",
+        "ko": "레베카의 포스터",
+        "nl": "Poster van Pecan",
+        "zh-TW": "雷貝嘉的海報",
+        "en-US": "Pecan's Poster"
+      }
     }
   },
   "category": "Photos"

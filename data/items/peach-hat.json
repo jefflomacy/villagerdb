@@ -15,6 +15,19 @@
       ],
       "variations": {
         "peach": "Peach"
+      },
+      "name": {
+        "en-US": "Peach Hat",
+        "en-GB": "Peach Hat",
+        "de": "Pfirsichhut",
+        "es": "Gorro melocotón",
+        "fr": "Chapeau pêche",
+        "it": "Berretto pesca",
+        "nl": "Perzikmuts",
+        "zh-CN": "桃子帽子",
+        "zh-TW": "桃子帽子",
+        "jp": "モモのぼうし",
+        "ko": "복숭아 모자"
       }
     }
   },

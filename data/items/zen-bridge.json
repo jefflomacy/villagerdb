@@ -8,7 +8,20 @@
           "currency": "bells",
           "value": 228000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Zen Bridge",
+        "en-GB": "Zen Bridge",
+        "de": "Japan-Brücke",
+        "es": "Puente de madera",
+        "fr": "Pont zen",
+        "it": "Ponte giapponese",
+        "nl": "Zenbrug",
+        "zh-CN": "和风桥",
+        "zh-TW": "和風橋",
+        "jp": "わふうのはし",
+        "ko": "동양풍 다리"
+      }
     }
   },
   "category": "Furniture"

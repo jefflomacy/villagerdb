@@ -21,6 +21,19 @@
         "green": "Green",
         "beige": "Beige",
         "navy-blue": "Navy blue"
+      },
+      "name": {
+        "en-US": "Embroidered Tank",
+        "en-GB": "Embroidered Tank",
+        "de": "Spitzenträgertop",
+        "es": "Top bordado",
+        "fr": "Débardeur brodé",
+        "it": "Canotta ricamata",
+        "nl": "Geborduurde hemdje",
+        "zh-CN": "刺绣细肩带背心",
+        "zh-TW": "刺繡細肩帶背心",
+        "jp": "ししゅうのキャミソール",
+        "ko": "자수 캐미솔"
       }
     }
   },

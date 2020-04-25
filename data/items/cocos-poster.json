@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "仰韶的海报",
+        "de": "Poster's von Koko",
+        "en-GB": "Coco's Poster",
+        "es": "Póster de Cocoloca",
+        "fr": "Poster de Coco",
+        "it": "Poster di Coco",
+        "jp": "やよいのポスター",
+        "ko": "이요의 포스터",
+        "nl": "Poster van Coco",
+        "zh-TW": "仰韶的海報",
+        "en-US": "Coco's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -16,6 +16,19 @@
       "variations": {
         "black": "Black",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Collarless Shirt",
+        "en-GB": "Collarless Shirt",
+        "de": "Serafino-Hemd",
+        "es": "Camisa cuello mao",
+        "fr": "Chemise à col mandarin",
+        "it": "Camicia senza collo",
+        "nl": "",
+        "zh-CN": "无领衬衫",
+        "zh-TW": "無領襯衫",
+        "jp": "ノーカラーシャツ",
+        "ko": "노 칼라 셔츠"
       }
     }
   },

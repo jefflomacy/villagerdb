@@ -19,6 +19,19 @@
         "gray": "Gray",
         "purple": "Purple",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Crocheted Socks",
+        "en-GB": "Crocheted Socks",
+        "de": "Paars Häkelsocken",
+        "es": "Calcetín de croché",
+        "fr": "Paire chaussettes crochet",
+        "it": "Paio di calzini all'uncinetto",
+        "nl": "Gehaakte sokken",
+        "zh-CN": "钩针编织袜",
+        "zh-TW": "鉤針編織襪",
+        "jp": "かぎばりあみソックス",
+        "ko": "손뜨개 양말"
       }
     }
   },

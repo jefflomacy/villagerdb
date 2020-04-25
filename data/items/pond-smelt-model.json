@@ -7,6 +7,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1200
+      },
+      "name": {
+        "en-US": "Pond Smelt Model",
+        "en-GB": "Pond Smelt Model",
+        "de": "Stintmodell",
+        "es": "Figura de eperlano",
+        "fr": "Modèle d'éperlan",
+        "it": "Replica di pingo",
+        "nl": "Modelspiering",
+        "zh-CN": "西太公鱼模型",
+        "zh-TW": "西太公魚模型",
+        "jp": "ワカサギのもけい",
+        "ko": "빙어 모형"
       }
     }
   },

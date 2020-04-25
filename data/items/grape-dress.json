@@ -15,6 +15,19 @@
       ],
       "variations": {
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Grape Dress",
+        "en-GB": "Grape Dress",
+        "de": "Traubenkleid",
+        "es": "Vestido uvas",
+        "fr": "Robe raisin",
+        "it": "Vestito uva",
+        "nl": "Druivenjurk",
+        "zh-CN": "葡萄服",
+        "zh-TW": "葡萄服",
+        "jp": "ぶどうのふく",
+        "ko": "포도 옷"
       }
     }
   },

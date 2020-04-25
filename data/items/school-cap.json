@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Schulmütze (blau)",
+        "en-GB": "School Cap",
+        "en-US": "School Cap",
+        "es": "Gorra colegio azul",
+        "fr": "Casqu. écol. bleue",
+        "it": "Cappellino azzurro",
+        "ja": "あおしろのぼうし"
+      }
     }
   }
 }

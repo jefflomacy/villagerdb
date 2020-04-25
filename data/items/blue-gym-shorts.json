@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Jogginghose",
+        "en-GB": "Blue Gym Shorts",
+        "en-US": "Blue Gym Shorts",
+        "es": "Bermuda sport azul",
+        "fr": "Short sport bleu",
+        "it": "P. bermuda sport blu",
+        "ja": "あおいたいそうズボン"
+      }
     }
   }
 }

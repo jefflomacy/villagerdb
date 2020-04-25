@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mossy-Garden Wall",
+        "en-GB": "Mossy-Garden Wall",
+        "de": "Mooswand",
+        "es": "Pared ladrillo musgoso",
+        "fr": "Mur moussu",
+        "it": "Muro muschioso",
+        "nl": "Mossige tuinwand",
+        "zh-CN": "青苔庭院墙",
+        "zh-TW": "青苔庭園牆",
+        "jp": "こけにわのかべ",
+        "ko": "이끼 낀 벽"
+      }
     }
   },
   "category": "Wallpaper"

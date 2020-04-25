@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 2120
         }
-      ]
+      ],
+      "name": {
+        "de": "Basketballkorb",
+        "en-GB": "Basketball Hoop",
+        "en-US": "Basketball Hoop",
+        "es": "Canasta",
+        "fr": "Panneau de basket",
+        "it": "Canestro basket",
+        "ja": "バスケットのゴール"
+      }
     },
     "nh": {
       "orderable": true,
@@ -35,6 +44,19 @@
         "blue": "Blue",
         "green": "Green",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Basketball Hoop",
+        "en-GB": "Basketball Hoop",
+        "de": "Basketballkorb",
+        "es": "Canasta",
+        "fr": "Panneau de basket",
+        "it": "Canestro da basket",
+        "nl": "Basket",
+        "zh-CN": "篮框",
+        "zh-TW": "籃框",
+        "jp": "バスケットのゴール",
+        "ko": "농구 골대"
       }
     }
   }

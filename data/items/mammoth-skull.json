@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Mammut-Schädel",
+        "en-GB": "Mammoth Skull",
+        "en-US": "Mammoth Skull",
+        "es": "Cráneo mamut",
+        "fr": "Crâne de mammouth",
+        "it": "Teschio mammut",
+        "ja": "マンモスのあたま"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3000
+      },
+      "name": {
+        "en-US": "Mammoth Skull",
+        "en-GB": "Mammoth Skull",
+        "de": "Mammut-Schädel",
+        "es": "Cráneo mamut",
+        "fr": "Crâne de mammouth",
+        "it": "Cranio mammut",
+        "nl": "Mammoetkop",
+        "zh-CN": "长毛象的头",
+        "zh-TW": "長毛象的頭",
+        "jp": "マンモスのあたま",
+        "ko": "매머드의 머리"
       }
     }
   }

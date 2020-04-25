@@ -14,6 +14,19 @@
       },
       "variations": {
         "orange": "Orange"
+      },
+      "name": {
+        "en-US": "Orange Hat",
+        "en-GB": "Orange Hat",
+        "de": "Orangenhut",
+        "es": "Gorro naranja",
+        "fr": "Chapeau orange",
+        "it": "Cappello arancia",
+        "nl": "Sinaasappelmuts",
+        "zh-CN": "橘子帽子",
+        "zh-TW": "夏蜜柑帽子",
+        "jp": "オレンジのぼうし",
+        "ko": "귤 모자"
       }
     }
   },

@@ -3,7 +3,10 @@
   "name": "Bells",
   "games": {
     "nh": {
-      "orderable": false
+      "orderable": false,
+      "name": {
+        "en-US": "Bells"
+      }
     }
   },
   "category": "Usables"

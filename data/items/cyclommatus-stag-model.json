@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 24000
+      },
+      "name": {
+        "en-US": "Cyclommatus Stag Model",
+        "en-GB": "Cyclommatus Stag Model",
+        "de": "Cyclommatusmodell",
+        "es": "Figura esc. cyclommatus",
+        "fr": "Modèle lucane cyclommatus",
+        "it": "Replica di col. cyclommatus",
+        "nl": "Model-Vliegend-Hert",
+        "zh-CN": "细身赤锹形虫模型",
+        "zh-TW": "細身赤鍬形蟲模型",
+        "jp": "ホソアカクワガタのもけい",
+        "ko": "엘라푸스가위사슴벌레 모형"
       }
     }
   },

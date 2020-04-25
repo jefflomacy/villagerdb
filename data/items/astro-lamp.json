@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 2680
         }
-      ]
+      ],
+      "name": {
+        "de": "Astrolampe",
+        "en-GB": "Astro Lamp",
+        "en-US": "Astro Lamp",
+        "es": "Lámpara futurista",
+        "fr": "Lampe astro",
+        "it": "Lampada futuro",
+        "ja": "きんみらいなランプ"
+      }
     }
   }
 }

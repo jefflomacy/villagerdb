@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4500
+      },
+      "name": {
+        "en-US": "Quetzal Torso",
+        "en-GB": "Quetzal Torso",
+        "de": "Quetzalcoatlus-Torso",
+        "es": "Cuerpo quetzalcoatlus",
+        "fr": "Corps de quetzal",
+        "it": "Torso quetzalcoatlus",
+        "nl": "Quetzalcoatluskop",
+        "zh-CN": "风神翼龙的头",
+        "zh-TW": "風神翼龍的頭",
+        "jp": "ケツァルコアトルスのあたま",
+        "ko": "케찰코아틀루스의 머리"
       }
     }
   },

@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1300
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Giraffe-Print Flooring",
+        "en-GB": "Giraffe-Print Flooring",
+        "de": "Giraffenmusterboden",
+        "es": "Suelo jirafa",
+        "fr": "Sol girafe",
+        "it": "Pavimento giraffa",
+        "nl": "Giraffevloer",
+        "zh-CN": "长颈鹿纹地板",
+        "zh-TW": "長頸鹿紋地板",
+        "jp": "ジラフなゆか",
+        "ko": "기린 무늬 바닥"
+      }
     }
   },
   "category": "Flooring"

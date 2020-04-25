@@ -25,7 +25,10 @@
           "currency": "meow",
           "value": 5
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Tall Garden Rock"
+      }
     },
     "nh": {
       "customizable": false,
@@ -41,6 +44,19 @@
       ],
       "recipe": {
         "stone": 60
+      },
+      "name": {
+        "en-US": "Tall Garden Rock",
+        "en-GB": "Tall Garden Rock",
+        "de": "Gartenfels",
+        "es": "Roca alta",
+        "fr": "Grand rocher jardin",
+        "it": "Pietra da giardino alta",
+        "nl": "Rotsenduo",
+        "zh-CN": "高耸庭院石",
+        "zh-TW": "高聳庭園石",
+        "jp": "たかいにわいし",
+        "ko": "키가 큰 정원 돌"
       }
     }
   }

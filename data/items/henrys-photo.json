@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "亨利的照片",
+        "de": "Foto's von Freddy",
+        "en-GB": "Henry's Photo",
+        "es": "Foto de Saperto",
+        "fr": "Photo d'henri",
+        "it": "Foto di Renato",
+        "jp": "ヘンリーのしゃしん",
+        "ko": "헨리의 사진",
+        "nl": "Foto van Henry",
+        "zh-TW": "亨利的照片",
+        "en-US": "Henry's Photo"
       }
     }
   },

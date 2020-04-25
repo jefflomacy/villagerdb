@@ -28,7 +28,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Harvest Rug"
+      }
     }
   }
 }

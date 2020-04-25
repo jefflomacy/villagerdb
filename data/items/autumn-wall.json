@@ -14,7 +14,10 @@
       },
       "sources": [
         "Saharah"
-      ]
+      ],
+      "name": {
+        "en-US": "Autumn Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -26,7 +29,20 @@
           "currency": "bells",
           "value": 18800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Autumn Wall",
+        "en-GB": "Autumn Wall",
+        "de": "Herbstlaubtapete",
+        "es": "Pared otoñal",
+        "fr": "Mur automne",
+        "it": "Muro autunnale",
+        "nl": "Herfstwand",
+        "zh-CN": "枫叶墙",
+        "zh-TW": "楓葉牆",
+        "jp": "こうようのかべ",
+        "ko": "단풍 벽"
+      }
     }
   }
 }

@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1850
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Peach Two-Toned Tile Wall",
+        "en-GB": "Peach Two-Toned Tile Wall",
+        "de": "Rosa-Weiß-Fliesenwand",
+        "es": "Pared damero rosa",
+        "fr": "Mur carrelé bicolore rose",
+        "it": "Muro piastrelle biancorosa",
+        "nl": "Roze tegelpatroonwand",
+        "zh-CN": "桃红色撞色砖墙",
+        "zh-TW": "桃紅色撞色磚牆",
+        "jp": "ももいろツートンタイルのかべ",
+        "ko": "분홍 투톤 타일 벽"
+      }
     }
   },
   "category": "Wallpaper"

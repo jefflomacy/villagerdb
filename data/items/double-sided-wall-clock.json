@@ -21,6 +21,19 @@
         "green": "Green",
         "red": "Red",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Double-Sided Wall Clock",
+        "en-GB": "Double-Sided Wall Clock",
+        "de": "Doppelwanduhr",
+        "es": "Reloj de estación",
+        "fr": "Horloge murale double face",
+        "it": "Orologio a muro a due facce",
+        "nl": "Stationsklok",
+        "zh-CN": "双面壁钟",
+        "zh-TW": "雙面壁鐘",
+        "jp": "りょうめんウォールクロック",
+        "ko": "양면 벽시계"
       }
     }
   },

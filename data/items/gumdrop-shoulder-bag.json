@@ -16,6 +16,19 @@
       "variations": {
         "pop": "Pop",
         "cool": "Cool"
+      },
+      "name": {
+        "en-US": "Gumdrop Shoulder Bag",
+        "en-GB": "Gumdrop Shoulder Bag",
+        "de": "Frühlings-Umhängetasche",
+        "es": "Bandolera esferas",
+        "fr": "Sac bandoulière bonbons",
+        "it": "Borsa gommosa bandoliera",
+        "nl": "Schoudertas met stippen",
+        "zh-CN": "春天波点单肩包",
+        "zh-TW": "春天圓點肩背包",
+        "jp": "はるのみずたまショルダー",
+        "ko": "봄의 물방울 숄더백"
       }
     }
   },

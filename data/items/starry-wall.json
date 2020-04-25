@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 30000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Starry Wall",
+        "en-GB": "Starry Wall",
+        "de": "Sternentapete",
+        "es": "Pared estrellas plateadas",
+        "fr": "Mur d'étoiles",
+        "it": "Muro stellato",
+        "nl": "Sterrenwand",
+        "zh-CN": "星星墙",
+        "zh-TW": "星星牆",
+        "jp": "スターなかべ",
+        "ko": "별 무늬 벽지"
+      }
     }
   },
   "category": "Wallpaper"

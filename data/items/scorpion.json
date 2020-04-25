@@ -11,7 +11,10 @@
       },
       "sources": [
         "On grass and dirt."
-      ]
+      ],
+      "name": {
+        "en-US": "Scorpion"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 8000
+      },
+      "name": {
+        "en-US": "Scorpion",
+        "en-GB": "Scorpion",
+        "de": "Skorpion",
+        "es": "Escorpión",
+        "fr": "Scorpion",
+        "it": "Scorpione",
+        "nl": "Schorpioen",
+        "zh-CN": "蝎子",
+        "zh-TW": "蠍子",
+        "jp": "サソリ",
+        "ko": "전갈"
       }
     }
   }

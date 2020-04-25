@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "伏特的照片",
+        "de": "Foto's von Matze",
+        "en-GB": "Tex's Photo",
+        "es": "Foto de Tomeo",
+        "fr": "Photo d'émilien",
+        "it": "Foto di Freddy",
+        "jp": "ボルトのしゃしん",
+        "ko": "볼트의 사진",
+        "nl": "Foto van Tex",
+        "zh-TW": "伏特的照片",
+        "en-US": "Tex's Photo"
       }
     }
   },

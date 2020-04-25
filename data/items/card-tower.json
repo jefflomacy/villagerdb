@@ -15,7 +15,16 @@
       },
       "sources": [
         "GracieGrace (during sales)"
-      ]
+      ],
+      "name": {
+        "de": "Kartenhaus",
+        "en-GB": "Card Tower",
+        "en-US": "Card Tower",
+        "es": "Torre naipes",
+        "fr": "Tour de cartes",
+        "it": "Castello carte",
+        "ja": "トランプタワー"
+      }
     }
   }
 }

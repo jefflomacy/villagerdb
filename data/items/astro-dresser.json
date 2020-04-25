@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 3400
         }
-      ]
+      ],
+      "name": {
+        "de": "Astrokommode",
+        "en-GB": "Astro Dresser",
+        "en-US": "Astro Dresser",
+        "es": "Cómoda futurista",
+        "fr": "Commode astro",
+        "it": "Comò futuro",
+        "ja": "きんみらいなタンス"
+      }
     }
   }
 }

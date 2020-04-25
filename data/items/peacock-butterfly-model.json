@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 7500
+      },
+      "name": {
+        "en-US": "Peacock Butterfly Model",
+        "en-GB": "Peacock Butterfly Model",
+        "de": "Ritterfaltermodell",
+        "es": "Figura de mariposa bianor",
+        "fr": "Modèle de papilio bianor",
+        "it": "Replica di farfalla vanessa io",
+        "nl": "Modelpauwenpage",
+        "zh-CN": "乌鸦凤蝶模型",
+        "zh-TW": "烏鴉鳳蝶模型",
+        "jp": "カラスアゲハのもけい",
+        "ko": "제비나비 모형"
       }
     }
   },

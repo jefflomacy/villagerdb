@@ -19,6 +19,19 @@
         "red": "Red",
         "purple": "Purple",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Faux-Fur Skirt",
+        "en-GB": "Faux-Fur Skirt",
+        "de": "Schleifchen-Kunstfellrock",
+        "es": "Falda corta de pelo sintético",
+        "fr": "Jupe en fausse fourrure",
+        "it": "Gonna di ecopelliccia",
+        "nl": "Imitatiebontrok",
+        "zh-CN": "仿毛皮短裙",
+        "zh-TW": "毛毛裙",
+        "jp": "ファースカート",
+        "ko": "인조털 치마"
       }
     }
   },

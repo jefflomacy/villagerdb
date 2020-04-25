@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Kung-Fu-Hose",
+        "en-GB": "Kung-Fu Pants",
+        "en-US": "Kung-Fu Pants",
+        "es": "Pantalón kung-fu",
+        "fr": "Pantalon kung-fu",
+        "it": "Pantalone kung-fu",
+        "ja": "カンフーなズボン"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -42,6 +51,19 @@
         "light-blue": "Light blue",
         "yellow": "Yellow",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Kung-Fu Pants",
+        "en-GB": "Kung-Fu Pants",
+        "de": "Kung-Fu-Hose",
+        "es": "Pantalón kung-fu",
+        "fr": "Pantalon de kung-fu",
+        "it": "Pantalone da kung fu",
+        "nl": "Kungfubroek",
+        "zh-CN": "功夫裤",
+        "zh-TW": "功夫褲",
+        "jp": "カンフーなズボン",
+        "ko": "쿵푸 바지"
       }
     }
   }

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 600
+      },
+      "name": {
+        "en-US": "Wharf Roach Model",
+        "en-GB": "Wharf Roach Model",
+        "de": "Ligia-Exotica-Modell",
+        "es": "Figura cochinilla de arena",
+        "fr": "Modèle de ligie",
+        "it": "Replica di ligia exotica",
+        "nl": "Modelstrandpissebed",
+        "zh-CN": "海蟑螂模型",
+        "zh-TW": "海蟑螂模型",
+        "jp": "フナムシのもけい",
+        "ko": "갯강구 모형"
       }
     }
   },

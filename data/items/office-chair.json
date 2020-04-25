@@ -18,7 +18,16 @@
           "currency": "bells",
           "value": 1100
         }
-      ]
+      ],
+      "name": {
+        "de": "Bürostuhl",
+        "en-GB": "Office Chair",
+        "en-US": "Office Chair",
+        "es": "Silla oficina",
+        "fr": "Chaise pro",
+        "it": "Sedia ufficio",
+        "ja": "じむイス"
+      }
     }
   }
 }

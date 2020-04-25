@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Sicherungskasten",
+        "en-GB": "Breaker",
+        "en-US": "Breaker",
+        "es": "Interruptor",
+        "fr": "Disjoncteur",
+        "it": "Quadro interruttori",
+        "ja": "ブレーカー"
+      }
     },
     "nh": {
       "orderable": true,
@@ -43,7 +52,20 @@
           "currency": "bells",
           "value": 820
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Breaker",
+        "en-GB": "Breaker",
+        "de": "Sicherungskasten",
+        "es": "Interruptor",
+        "fr": "Disjoncteur",
+        "it": "Quadro interruttori",
+        "nl": "Zekeringkast",
+        "zh-CN": "电源总开关",
+        "zh-TW": "電源總開關",
+        "jp": "ブレーカー",
+        "ko": "전원 차단기"
+      }
     }
   }
 }

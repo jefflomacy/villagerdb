@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "毕克萝的照片",
+        "de": "Foto's von Linda",
+        "en-GB": "Olive's Photo",
+        "es": "Foto de Osalina",
+        "fr": "Photo de Grisa",
+        "it": "Foto di Olivia",
+        "jp": "ピッコロのしゃしん",
+        "ko": "올리브의 사진",
+        "nl": "Foto van Olive",
+        "zh-TW": "畢克蘿的照片",
+        "en-US": "Olive's Photo"
       }
     }
   },

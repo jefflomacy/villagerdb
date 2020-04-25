@@ -7,6 +7,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 9000
+      },
+      "name": {
+        "en-US": "Angelfish Model",
+        "en-GB": "Angelfish Model",
+        "de": "Skalarmodell",
+        "es": "Figura de pez ángel",
+        "fr": "Modèle de poisson-ange",
+        "it": "Replica di pesce angelo",
+        "nl": "Modelmaanvis",
+        "zh-CN": "神仙鱼模型",
+        "zh-TW": "神仙魚模型",
+        "jp": "エンゼルフィッシュのもけい",
+        "ko": "천사어 모형"
       }
     }
   },

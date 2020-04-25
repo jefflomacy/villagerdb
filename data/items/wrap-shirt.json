@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Bänderkittel",
+        "en-GB": "Wrap Shirt",
+        "en-US": "Wrap Shirt",
+        "es": "Jersey bandoleras",
+        "fr": "Pull lancier",
+        "it": "Maglia a fasce",
+        "ja": "クロスたすきなふく"
+      }
     }
   }
 }

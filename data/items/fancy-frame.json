@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 10000
         }
-      ]
+      ],
+      "name": {
+        "de": "Prunkbilderrahmen",
+        "en-GB": "Fancy Frame",
+        "en-US": "Fancy Frame",
+        "es": "Marco recargado",
+        "fr": "Cadre luxueux",
+        "it": "Cornice lussuosa",
+        "ja": "ごうかながくぶち"
+      }
     }
   }
 }

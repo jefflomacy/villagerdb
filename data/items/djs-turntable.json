@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 3600
         }
-      ]
+      ],
+      "name": {
+        "de": "DJ-Set",
+        "en-GB": "Dj's Turntable",
+        "en-US": "Dj's Turntable",
+        "es": "Mesa DJ",
+        "fr": "Platine de DJ",
+        "it": "Console da DJ",
+        "ja": "DJブース"
+      }
     },
     "nh": {
       "customizable": true,
@@ -67,6 +76,19 @@
         "pink-handwritten-logo": "Pink / Handwritten logo",
         "pink-pop-logo": "Pink / Pop logo",
         "pink-cute-logo": "Pink / Cute logo"
+      },
+      "name": {
+        "en-US": "Dj's Turntable",
+        "en-GB": "Dj's Turntable",
+        "de": "Dj-Set",
+        "es": "Mesa de DJ",
+        "fr": "Platine de DJ",
+        "it": "Console da DJ",
+        "nl": "Dj-Set",
+        "zh-CN": "DJ台",
+        "zh-TW": "DJ台",
+        "jp": "DJブース",
+        "ko": "DJ 테이블"
       }
     }
   }

@@ -25,7 +25,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Picknicktisch",
+        "en-GB": "Picnic Table",
+        "en-US": "Picnic Table",
+        "es": "Mesa picnic",
+        "fr": "Table de pique-nique",
+        "it": "Tavolo da picnic",
+        "ja": "ピクニックテーブル"
+      }
     }
   }
 }

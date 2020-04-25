@@ -18,6 +18,19 @@
         "red": "Red",
         "gray": "Gray",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Arcade Seat",
+        "en-GB": "Arcade Seat",
+        "de": "Arcade-Hocker",
+        "es": "Taburete apilable",
+        "fr": "Siège d'arcade",
+        "it": "Sgabello da sala giochi",
+        "nl": "Arcadekruk",
+        "zh-CN": "游戏机中心凳子",
+        "zh-TW": "遊戲機中心椅子",
+        "jp": "ゲームセンターのイス",
+        "ko": "오락실 의자"
       }
     }
   },

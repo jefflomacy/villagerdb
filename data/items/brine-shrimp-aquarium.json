@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Brine-Shrimp Aquarium",
+        "en-GB": "Brine-Shrimp Aquarium",
+        "de": "Artemia-Aquarium",
+        "es": "Acuario de artemias",
+        "fr": "Aquarium d'artémies",
+        "it": "Acquario per artemie",
+        "nl": "Pekelkreeftaquarium",
+        "zh-CN": "丰年虾水族缸",
+        "zh-TW": "豐年蝦水箱",
+        "jp": "アルテミアすいそう",
+        "ko": "브라인슈림프 수조"
+      }
     }
   },
   "category": "Furniture"

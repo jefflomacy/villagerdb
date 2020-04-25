@@ -12,6 +12,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5
+      },
+      "name": {
+        "zh-CN": "树枝",
+        "de": "Ast's",
+        "en-GB": "Tree Branch",
+        "es": "Rama",
+        "fr": "Branche d'arbre",
+        "it": "Ramo",
+        "jp": "きのえだ",
+        "ko": "나뭇가지",
+        "nl": "Tak",
+        "zh-TW": "樹枝",
+        "en-US": "Tree Branch"
       }
     }
   }

@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 4000
         }
-      ]
+      ],
+      "name": {
+        "de": "Cowboystiefel",
+        "en-GB": "Cowboy Boots",
+        "en-US": "Cowboy Boots",
+        "es": "Bota del Oeste",
+        "fr": "P. bottes cowboy",
+        "it": "Paio stivali west",
+        "ja": "ウェスタンブーツ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -44,6 +53,19 @@
         "ivory": "Ivory",
         "pink": "Pink",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Cowboy Boots",
+        "en-GB": "Cowboy Boots",
+        "de": "Paars Cowboystiefel",
+        "es": "Bota del Oeste",
+        "fr": "Paire de bottes de cow-boy",
+        "it": "Paio di stivali da cowboy",
+        "nl": "Cowboylaarzen",
+        "zh-CN": "西部牛仔靴",
+        "zh-TW": "西部牛仔靴",
+        "jp": "ウェスタンブーツ",
+        "ko": "웨스턴 부츠"
       }
     }
   }

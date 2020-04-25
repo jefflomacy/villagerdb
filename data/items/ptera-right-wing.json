@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Ptera-Flügel (R)",
+        "en-GB": "Ptera Right Wing",
+        "en-US": "Ptera Right Wing",
+        "es": "Ala dcha. pteranodon",
+        "fr": "Aile droite de ptéra",
+        "it": "Ala dx pterodattilo",
+        "ja": "プテラノドンのうよく"
+      }
     }
   }
 }

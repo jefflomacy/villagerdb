@@ -14,7 +14,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Lecture-Hall Bench"
+      }
     },
     "nh": {
       "orderable": true,
@@ -31,6 +34,19 @@
       "variations": {
         "light-brown": "Light brown",
         "dark-brown": "Dark brown"
+      },
+      "name": {
+        "en-US": "Lecture-Hall Bench",
+        "en-GB": "Lecture-Hall Bench",
+        "de": "Hörsaalbank",
+        "es": "Silla doble de aula",
+        "fr": "Double siège d'amphi",
+        "it": "Coppia di sedie per aula",
+        "nl": "Collegezaalbank",
+        "zh-CN": "讲堂椅子",
+        "zh-TW": "講堂椅子",
+        "jp": "こうぎしつのイス",
+        "ko": "강의실 의자"
       }
     }
   }

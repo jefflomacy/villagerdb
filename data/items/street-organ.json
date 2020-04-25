@@ -19,6 +19,19 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "dark-brown": "Dark brown"
+      },
+      "name": {
+        "en-US": "Street Organ",
+        "en-GB": "Street Organ",
+        "de": "Drehorgel",
+        "es": "Organillo en carro",
+        "fr": "Orgue de barbarie",
+        "it": "Organo a rullo",
+        "nl": "Draaiorgel",
+        "zh-CN": "手摇风琴",
+        "zh-TW": "手搖風琴",
+        "jp": "てまわしオルガン",
+        "ko": "배럴 오르간"
       }
     }
   },

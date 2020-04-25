@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "范妮沙的照片",
+        "de": "Foto's von Viviane",
+        "en-GB": "Vivian's Photo",
+        "es": "Foto de Viviana",
+        "fr": "Photo de Viviane",
+        "it": "Foto di Viviana",
+        "jp": "ヴァネッサのしゃしん",
+        "ko": "바네사의 사진",
+        "nl": "Foto van Vivian",
+        "zh-TW": "范妮莎的照片",
+        "en-US": "Vivian's Photo"
       }
     }
   },

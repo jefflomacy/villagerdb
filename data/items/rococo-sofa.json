@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 2100
         }
-      ]
+      ],
+      "name": {
+        "de": "Rokoko-Sofa",
+        "en-GB": "Rococo Sofa",
+        "en-US": "Rococo Sofa",
+        "es": "Sofá rococó",
+        "fr": "Canapé rococo",
+        "it": "Sofà rococò",
+        "ja": "ロココなソファ"
+      }
     }
   }
 }

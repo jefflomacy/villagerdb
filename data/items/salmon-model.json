@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2100
+      },
+      "name": {
+        "en-US": "Salmon Model",
+        "en-GB": "Salmon Model",
+        "de": "Lachsmodell",
+        "es": "Figura de salmón",
+        "fr": "Modèle de saumon",
+        "it": "Replica di salmone",
+        "nl": "Modelzalm",
+        "zh-CN": "鲑鱼模型",
+        "zh-TW": "鮭魚模型",
+        "jp": "サケのもけい",
+        "ko": "연어 모형"
       }
     }
   },

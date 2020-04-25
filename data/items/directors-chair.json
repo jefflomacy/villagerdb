@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1480
         }
-      ]
+      ],
+      "name": {
+        "de": "Regiestuhl",
+        "en-GB": "Director's Chair",
+        "en-US": "Director's Chair",
+        "es": "Silla de director",
+        "fr": "Chaise réalisateur",
+        "it": "Sedia da regista",
+        "ja": "ディレクターチェア"
+      }
     },
     "nh": {
       "orderable": true,
@@ -48,6 +57,19 @@
         "black-natural-white": "Black / Natural white",
         "black-director-black": "Black / Director black",
         "black-chic-pleather": "Black / Chic pleather"
+      },
+      "name": {
+        "en-US": "Director's Chair",
+        "en-GB": "Director's Chair",
+        "de": "Regiestuhl",
+        "es": "Silla de director",
+        "fr": "Chaise réalisateur",
+        "it": "Sedia da regista",
+        "nl": "Regisseursstoel",
+        "zh-CN": "导演椅",
+        "zh-TW": "導演椅",
+        "jp": "ディレクターズチェア",
+        "ko": "영화감독 의자"
       }
     }
   }

@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 240
         }
-      ]
+      ],
+      "name": {
+        "de": "Flach-Reishut",
+        "en-GB": "Straw Umbrella Hat",
+        "en-US": "Straw Umbrella Hat",
+        "es": "Gorro paja achatado",
+        "fr": "Chapeau de bambou",
+        "it": "Capp. paglia oriente",
+        "ja": "さんどがさ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -42,6 +51,19 @@
       },
       "variations": {
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Straw Umbrella Hat",
+        "en-GB": "Straw Umbrella Hat",
+        "de": "Flach-Reishut",
+        "es": "Gorro de paja achatado",
+        "fr": "Chapeau de bambou",
+        "it": "Cappello di paglia orientale",
+        "nl": "Ronde strohoed",
+        "zh-CN": "三度笠",
+        "zh-TW": "三度笠",
+        "jp": "さんどがさ",
+        "ko": "삿갓"
       }
     }
   }

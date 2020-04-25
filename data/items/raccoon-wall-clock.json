@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Waschbärenwanduhr",
+        "en-GB": "Raccoon Wall Clock",
+        "en-US": "Raccoon Wall Clock",
+        "es": "Reloj pared mapache",
+        "fr": "Horlo. mur r. laveur",
+        "it": "Orologio procione",
+        "ja": "タヌキのかべかけどけい"
+      }
     }
   }
 }

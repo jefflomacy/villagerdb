@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 240
+      },
+      "name": {
+        "en-US": "Green Mums",
+        "en-GB": "Green Mums",
+        "de": "Grünchrysanthemen",
+        "es": "Crisantemos verdes",
+        "fr": "Chrysanthèmes verts",
+        "it": "Crisantemi verdi",
+        "nl": "Groene chrysanten",
+        "zh-CN": "绿色菊花",
+        "zh-TW": "綠色菊花",
+        "jp": "みどりのキク",
+        "ko": "초록색 국화"
       }
     }
   },

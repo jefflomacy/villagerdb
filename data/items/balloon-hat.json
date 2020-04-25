@@ -17,7 +17,16 @@
       },
       "sources": [
         "balloon"
-      ]
+      ],
+      "name": {
+        "de": "Ballonhut",
+        "en-GB": "Balloon Hat",
+        "en-US": "Balloon Hat",
+        "es": "Sombrero de globos",
+        "fr": "Chapeau ballons",
+        "it": "Cappello palloncini",
+        "ja": "バルーンハット"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -35,6 +44,19 @@
         "orange": "Orange",
         "blue": "Blue",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Balloon Hat",
+        "en-GB": "Balloon Hat",
+        "de": "Ballonhut",
+        "es": "Sombrero de globos",
+        "fr": "Chapeau ballons",
+        "it": "Cappello di palloncini",
+        "nl": "Ballonnenhoed",
+        "zh-CN": "气球帽",
+        "zh-TW": "氣球帽",
+        "jp": "バルーンハット",
+        "ko": "풍선 모자"
       }
     }
   }

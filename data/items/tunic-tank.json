@@ -18,6 +18,19 @@
         "yellow": "Yellow",
         "pink": "Pink",
         "mint": "Mint"
+      },
+      "name": {
+        "en-US": "Tunic Tank",
+        "en-GB": "Tunic Tank",
+        "de": "Langtop",
+        "es": "Top largo",
+        "fr": "Débardeur tunique",
+        "it": "Tunica a canottiera",
+        "nl": "Tanktoptuniek",
+        "zh-CN": "长版坦克背心",
+        "zh-TW": "長版坦克背心",
+        "jp": "タンクトップチュニック",
+        "ko": "탱크톱 튜닉"
       }
     }
   },

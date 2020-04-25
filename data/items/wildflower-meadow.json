@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Wildflower Meadow",
+        "en-GB": "Wildflower Meadow",
+        "de": "Blumenwiese",
+        "es": "Suelo silvestre",
+        "fr": "Sol fleurs sauvages",
+        "it": "Prato selvatico",
+        "nl": "Bloemenweide",
+        "zh-CN": "花草地板",
+        "zh-TW": "花草地板",
+        "jp": "くさばなのじゅうたん",
+        "ko": "풀꽃 카펫 바닥"
+      }
     }
   },
   "category": "Flooring"

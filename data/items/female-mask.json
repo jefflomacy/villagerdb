@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Frauenmaske",
+        "en-GB": "Female Mask",
+        "en-US": "Female Mask",
+        "es": "Máscara de mujer",
+        "fr": "Masque de femme",
+        "it": "Maschera muro donna",
+        "ja": "おんなののうめん"
+      }
     }
   }
 }

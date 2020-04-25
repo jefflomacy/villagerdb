@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Lichtkranz",
+        "en-GB": "Halo",
+        "en-US": "Halo",
+        "es": "Halo",
+        "fr": "Auréole",
+        "it": "Aureola",
+        "ja": "てんしのわ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -39,6 +48,19 @@
       ],
       "variations": {
         "gold": "Gold"
+      },
+      "name": {
+        "en-US": "Halo",
+        "en-GB": "Halo",
+        "de": "Lichtkranz",
+        "es": "Halo",
+        "fr": "Auréole",
+        "it": "Aureola",
+        "nl": "Aureool",
+        "zh-CN": "天使光环",
+        "zh-TW": "天使光環",
+        "jp": "てんしのわ",
+        "ko": "천사 링"
       }
     }
   }

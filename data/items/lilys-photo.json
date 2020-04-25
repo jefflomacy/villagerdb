@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "雷妮的照片",
+        "de": "Foto's von Liliane",
+        "en-GB": "Lily's Photo",
+        "es": "Foto de Lili",
+        "fr": "Photo de Raina",
+        "it": "Foto di Gigliola",
+        "jp": "レイニーのしゃしん",
+        "ko": "레이니의 사진",
+        "nl": "Foto van Lily",
+        "zh-TW": "雷妮的照片",
+        "en-US": "Lily's Photo"
       }
     }
   },

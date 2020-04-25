@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 2752
         }
-      ]
+      ],
+      "name": {
+        "de": "Highend-Anlage",
+        "en-GB": "High-End Stereo",
+        "en-US": "High-End Stereo",
+        "es": "Cadena de lujo",
+        "fr": "Hi-fi stéréo",
+        "it": "Stereo moderno",
+        "ja": "プロしようコンポ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -36,7 +45,20 @@
           "currency": "bells",
           "value": 10000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "High-End Stereo",
+        "en-GB": "High-End Stereo",
+        "de": "Highend-Anlage",
+        "es": "Cadena de lujo",
+        "fr": "Hi-Fi stéréo",
+        "it": "Stereo moderno",
+        "nl": "Luxe stereo",
+        "zh-CN": "多媒体音响",
+        "zh-TW": "多媒體音響",
+        "jp": "マルチコンポ",
+        "ko": "멀티 오디오"
+      }
     }
   }
 }

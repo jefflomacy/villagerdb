@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "de": "Aufklapp-Bilderbuch",
+        "en-GB": "Pop-Up Book",
+        "en-US": "Pop-Up Book",
+        "es": "Libro animado",
+        "fr": "Livre en relief",
+        "it": "Libro 3D",
+        "ja": "しかけえほん"
+      }
     }
   }
 }

@@ -12,6 +12,19 @@
         "orange-roses": 3,
         "pink-roses": 3,
         "yellow-roses": 3
+      },
+      "name": {
+        "en-US": "Fancy Rose Wreath",
+        "en-GB": "Fancy Rose Wreath",
+        "de": "Prachtrosentürkranz",
+        "es": "Corona rosa pomposa",
+        "fr": "Couronne rose élégante",
+        "it": "Ghirlanda rose sbarazzina",
+        "nl": "Luxe rozenkrans",
+        "zh-CN": "精美玫瑰花环",
+        "zh-TW": "精美玫瑰花圈",
+        "jp": "ファンシーなバラのリース",
+        "ko": "팬시 장미 리스"
       }
     }
   },

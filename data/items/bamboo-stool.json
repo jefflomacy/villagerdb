@@ -12,6 +12,19 @@
         "green-bamboo": "Green bamboo",
         "dried-bamboo": "Dried bamboo",
         "smoke-cured-bamboo": "Smoke-cured bamboo"
+      },
+      "name": {
+        "en-US": "Bamboo Stool",
+        "en-GB": "Bamboo Stool",
+        "de": "Bambushocker",
+        "es": "Taburete de bambú",
+        "fr": "Tabouret en bambou",
+        "it": "Sgabello di bambù",
+        "nl": "Bamboekruk",
+        "zh-CN": "竹凳子",
+        "zh-TW": "竹凳子",
+        "jp": "たけのスツール",
+        "ko": "대나무 스툴"
       }
     }
   },

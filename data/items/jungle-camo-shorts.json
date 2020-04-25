@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "de": "Dschungel-Sporthose",
+        "en-GB": "Jungle-Camo Shorts",
+        "en-US": "Jungle-Camo Shorts",
+        "es": "Bermuda camuflaje",
+        "fr": "Short motif jungle",
+        "it": "P. bermuda mimetici",
+        "ja": "めいさいハーフパンツ"
+      }
     }
   }
 }

@@ -26,7 +26,16 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "de": "Samuraihelm",
+        "en-GB": "Samurai Helmet",
+        "en-US": "Samurai Helmet",
+        "es": "Casco samurái",
+        "fr": "Casque de samouraï",
+        "it": "Elmo samurai",
+        "ja": "かぶと"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -45,6 +54,19 @@
         "blue": "Blue",
         "white": "White",
         "golden-yellow": "Golden yellow"
+      },
+      "name": {
+        "en-US": "Samurai Helmet",
+        "en-GB": "Samurai Helmet",
+        "de": "Samuraihelm",
+        "es": "Casco de samurái",
+        "fr": "Casque de samouraï",
+        "it": "Elmo da samurai",
+        "nl": "Samoeraihelm",
+        "zh-CN": "头盔",
+        "zh-TW": "頭盔",
+        "jp": "かぶと",
+        "ko": "일본 무사 투구"
       }
     }
   }

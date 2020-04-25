@@ -11,7 +11,10 @@
       },
       "sources": [
         "In grassy patches."
-      ]
+      ],
+      "name": {
+        "en-US": "Bell Cricket"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 430
+      },
+      "name": {
+        "en-US": "Bell Cricket",
+        "en-GB": "Bell Cricket",
+        "de": "Singgrille",
+        "es": "Grillo campana",
+        "fr": "Grillon du Midi",
+        "it": "Suzumushi",
+        "nl": "Belkrekel",
+        "zh-CN": "铃虫",
+        "zh-TW": "鈴蟲",
+        "jp": "スズムシ",
+        "ko": "방울벌레"
       }
     }
   }

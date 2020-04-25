@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Freshwater Goby"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 400
+      },
+      "name": {
+        "en-US": "Freshwater Goby",
+        "en-GB": "Freshwater Goby",
+        "de": "Flussgrundel",
+        "es": "Gobio de río",
+        "fr": "Gobie d'eau douce",
+        "it": "Ghiozzo",
+        "nl": "Zoetwatergrondel",
+        "zh-CN": "塘鳢鱼",
+        "zh-TW": "塘鱧魚",
+        "jp": "ドンコ",
+        "ko": "동사리"
       }
     }
   }

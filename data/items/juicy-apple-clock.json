@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Apfeluhr",
+        "en-GB": "Juicy-Apple Clock",
+        "en-US": "Juicy-Apple Clock",
+        "es": "Reloj manzana",
+        "fr": "Horloge pomme",
+        "it": "Orologio mela",
+        "ja": "リンゴのとけい"
+      }
     }
   }
 }

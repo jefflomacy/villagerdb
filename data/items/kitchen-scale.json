@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Küchenwaage",
+        "en-GB": "Kitchen Scale",
+        "en-US": "Kitchen Scale",
+        "es": "Báscula de cocina",
+        "fr": "Balance de cuisine",
+        "it": "Bilancia da cucina",
+        "ja": "はかり"
+      }
     }
   }
 }

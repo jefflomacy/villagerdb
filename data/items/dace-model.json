@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 720
+      },
+      "name": {
+        "en-US": "Dace Model",
+        "en-GB": "Dace Model",
+        "de": "Haselmodell",
+        "es": "Figura de leucisco",
+        "fr": "Modèle de vandoise",
+        "it": "Replica di lasca",
+        "nl": "Modelserpeling",
+        "zh-CN": "雅罗鱼模型",
+        "zh-TW": "珠星三塊魚模型",
+        "jp": "ウグイのもけい",
+        "ko": "황어 모형"
       }
     }
   },

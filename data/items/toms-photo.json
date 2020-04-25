@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿邦的照片",
+        "de": "Foto's von Timo",
+        "en-GB": "Tom's Photo",
+        "es": "Foto de Zapirón",
+        "fr": "Photo de Tom",
+        "it": "Foto di Isidoro",
+        "jp": "バンタムのしゃしん",
+        "ko": "밴덤의 사진",
+        "nl": "Foto van Tom",
+        "zh-TW": "阿邦的照片",
+        "en-US": "Tom's Photo"
       }
     }
   },

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "缝缝的海报",
+        "de": "Poster's von Kerstin",
+        "en-GB": "Kitt's Poster",
+        "es": "Póster de Antípoda",
+        "fr": "Poster de Poquette",
+        "it": "Poster di Kitt",
+        "jp": "アップリケのポスター",
+        "ko": "애플리케의 포스터",
+        "nl": "Poster van Kitt",
+        "zh-TW": "縫縫的海報",
+        "en-US": "Kitt's Poster"
+      }
     }
   },
   "category": "Photos"

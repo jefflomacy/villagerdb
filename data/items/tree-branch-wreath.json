@@ -11,6 +11,19 @@
       },
       "recipe": {
         "tree-branch": 10
+      },
+      "name": {
+        "en-US": "Tree Branch Wreath",
+        "en-GB": "Tree Branch Wreath",
+        "de": "Zweigetürkranz",
+        "es": "Corona ramas",
+        "fr": "Couronne branches",
+        "it": "Ghirlanda rami",
+        "nl": "Twijgenkrans",
+        "zh-CN": "树枝花环",
+        "zh-TW": "樹枝花圈",
+        "jp": "きのえだのリース",
+        "ko": "나뭇가지 리스"
       }
     }
   },

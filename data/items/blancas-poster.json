@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "无脸猫的海报",
+        "de": "Poster's von Blanka",
+        "en-GB": "Blanca's Poster",
+        "es": "Póster de Blanca",
+        "fr": "Poster de Blanca",
+        "it": "Poster di Blanca",
+        "jp": "あやしいネコのポスター",
+        "ko": "아트고양이의 포스터",
+        "nl": "Poster van Blanca",
+        "zh-TW": "無臉貓的海報",
+        "en-US": "Blanca's Poster"
+      }
     }
   },
   "category": "Photos"

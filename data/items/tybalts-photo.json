@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "谷丰的照片",
+        "de": "Foto's von Arne",
+        "en-GB": "Tybalt's Photo",
+        "es": "Foto de Teobaldo",
+        "fr": "Photo de Jeff",
+        "it": "Foto di Ubaldo",
+        "jp": "ハリマオのしゃしん",
+        "ko": "티볼트의 사진",
+        "nl": "Foto van Tybalt",
+        "zh-TW": "谷豐的照片",
+        "en-US": "Tybalt's Photo"
       }
     }
   },

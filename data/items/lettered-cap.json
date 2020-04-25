@@ -17,6 +17,19 @@
         "red": "Red",
         "beige": "Beige",
         "olive": "Olive"
+      },
+      "name": {
+        "en-US": "Lettered Cap",
+        "en-GB": "Lettered Cap",
+        "de": "Schriftzug-Mütze",
+        "es": "Gorra serigrafiada",
+        "fr": "Casquette à message",
+        "it": "Cappello con scritta",
+        "nl": "Pet met tekst",
+        "zh-CN": "文字帽",
+        "zh-TW": "文字帽",
+        "jp": "もじキャップ",
+        "ko": "글자 모자"
       }
     }
   },

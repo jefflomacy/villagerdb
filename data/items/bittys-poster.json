@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "艾咪的海报",
+        "de": "Poster's von Biggi",
+        "en-GB": "Bitty's Poster",
+        "es": "Póster de Ofelia",
+        "fr": "Poster de Potama",
+        "it": "Poster di Rosetta",
+        "jp": "エーミーのポスター",
+        "ko": "비티의 포스터",
+        "nl": "Poster van Bitty",
+        "zh-TW": "艾咪的海報",
+        "en-US": "Bitty's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -11,7 +11,10 @@
       },
       "sources": [
         "On palm trees."
-      ]
+      ],
+      "name": {
+        "en-US": "Horned Elephant"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 8000
+      },
+      "name": {
+        "en-US": "Horned Elephant",
+        "en-GB": "Horned Elephant",
+        "de": "Elefantenkäfer",
+        "es": "Escarabajo astado elefante",
+        "fr": "Scarabée éléphant",
+        "it": "Scarabeo elefante",
+        "nl": "Olifantkever",
+        "zh-CN": "象兜虫",
+        "zh-TW": "象兜蟲",
+        "jp": "ゾウカブト",
+        "ko": "코끼리장수풍뎅이"
       }
     }
   }

@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mountain Song"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,7 +36,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mountain Song",
+        "en-GB": "Mountain Song",
+        "de": "Berglied",
+        "es": "Totalerileriló",
+        "fr": "Chant montagnard",
+        "it": "Canzone montana",
+        "nl": "Jodelaheho",
+        "zh-CN": "阿尔卑斯山乐曲",
+        "zh-TW": "阿爾卑斯山樂曲",
+        "jp": "アルペンそんぐ",
+        "ko": "알프스의 노래",
+        "ru": "Горная песнь"
+      }
     }
   }
 }

@@ -21,6 +21,19 @@
         "pink": "Pink",
         "orange": "Orange",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Nova Light",
+        "en-GB": "Nova Light",
+        "de": "Lichtstern",
+        "es": "Lámpara estrella",
+        "fr": "Lampe nova",
+        "it": "Lampada stella",
+        "nl": "Novalamp",
+        "zh-CN": "星光",
+        "zh-TW": "星光",
+        "jp": "スターライト",
+        "ko": "별 조명"
       }
     }
   },

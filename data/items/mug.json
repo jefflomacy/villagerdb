@@ -15,7 +15,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mug"
+      }
     },
     "nh": {
       "orderable": true,
@@ -81,6 +84,19 @@
         "black-fish": "Black / Fish",
         "black-carrot": "Black / Carrot",
         "black-cheese": "Black / Cheese"
+      },
+      "name": {
+        "en-US": "Mug",
+        "en-GB": "Mug",
+        "de": "Tasse",
+        "es": "Taza grande",
+        "fr": "Mug",
+        "it": "Tazza",
+        "nl": "Mok",
+        "zh-CN": "马克杯",
+        "zh-TW": "馬克杯",
+        "jp": "マグカップ",
+        "ko": "머그컵"
       }
     }
   }

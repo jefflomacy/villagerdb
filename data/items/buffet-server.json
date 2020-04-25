@@ -23,7 +23,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Büfett",
+        "en-GB": "Buffet Server",
+        "en-US": "Buffet Server",
+        "es": "Bufé",
+        "fr": "Chauffe-plat",
+        "it": "Scaldavivande buffet",
+        "ja": "おでんのなべ"
+      }
     }
   }
 }

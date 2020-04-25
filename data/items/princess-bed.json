@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 80000
         }
-      ]
+      ],
+      "name": {
+        "de": "Prachtbett",
+        "en-GB": "Princess Bed",
+        "en-US": "Princess Bed",
+        "es": "Cama princesa",
+        "fr": "Lit princesse",
+        "it": "Letto contessa",
+        "ja": "プリンセスベッド"
+      }
     }
   }
 }

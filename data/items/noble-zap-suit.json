@@ -22,6 +22,19 @@
         "black": "Black",
         "silver": "Silver",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Noble Zap Suit",
+        "en-GB": "Noble Zap Suit",
+        "de": "Heldinnenkleid",
+        "es": "Supervestido",
+        "fr": "Tenue d'héroïne",
+        "it": "Costume da eroina nobile",
+        "nl": "Superjurk",
+        "zh-CN": "女英雄装",
+        "zh-TW": "女英雄裝",
+        "jp": "ヒロインスーツ",
+        "ko": "히어로 슈트 P"
       }
     }
   },

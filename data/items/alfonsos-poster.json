@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿泥的海报",
+        "de": "Poster's von Markus",
+        "en-GB": "Alfonso's Poster",
+        "es": "Póster de Kaimán",
+        "fr": "Poster d'alphonse",
+        "it": "Poster di Alfonso",
+        "jp": "アルベルトのポスター",
+        "ko": "알베르트의 포스터",
+        "nl": "Poster van Alfonso",
+        "zh-TW": "阿泥的海報",
+        "en-US": "Alfonso's Poster"
+      }
     }
   },
   "category": "Photos"

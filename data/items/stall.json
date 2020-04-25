@@ -53,6 +53,19 @@
         "gray-red-stripes": "Gray / Red stripes",
         "gray-colorful": "Gray / Colorful",
         "gray-waves": "Gray / Waves"
+      },
+      "name": {
+        "en-US": "Stall",
+        "en-GB": "Stall",
+        "de": "Verkaufsstand",
+        "es": "Tenderete",
+        "fr": "Stand",
+        "it": "Bancarella",
+        "nl": "Kraampje",
+        "zh-CN": "路边摊",
+        "zh-TW": "路邊攤",
+        "jp": "やたい",
+        "ko": "노점"
       }
     }
   },

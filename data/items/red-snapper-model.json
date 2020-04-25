@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 9000
+      },
+      "name": {
+        "en-US": "Red Snapper Model",
+        "en-GB": "Red Snapper Model",
+        "de": "Kaiserschnappermodell",
+        "es": "Figura de pargo rojo",
+        "fr": "Modèle de vivaneau",
+        "it": "Replica di lutiano rosso",
+        "nl": "Model-Rode-Snapper",
+        "zh-CN": "鲷鱼模型",
+        "zh-TW": "鯛魚模型",
+        "jp": "タイのもけい",
+        "ko": "도미 모형"
       }
     }
   },

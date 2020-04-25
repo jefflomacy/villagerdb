@@ -22,6 +22,19 @@
         "orange": "Orange",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Outdoor Sandals",
+        "en-GB": "Outdoor Sandals",
+        "de": "Paars Outdoor-Sandalen",
+        "es": "Sandalia de paseo",
+        "fr": "Paire de sandales de rando",
+        "it": "Paio di sandali tecnici",
+        "nl": "Kampeersandalen",
+        "zh-CN": "户外凉鞋",
+        "zh-TW": "戶外涼鞋",
+        "jp": "アウトドアサンダル",
+        "ko": "아웃도어 샌들"
       }
     }
   },

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "胖达的海报",
+        "de": "Poster's von Eduard",
+        "en-GB": "Chester's Poster",
+        "es": "Póster de Osunio",
+        "fr": "Poster de Placide",
+        "it": "Poster di Clemente",
+        "jp": "パンタのポスター",
+        "ko": "팬타의 포스터",
+        "nl": "Poster van Chester",
+        "zh-TW": "胖達的海報",
+        "en-US": "Chester's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -17,6 +17,19 @@
         "pink": "Pink",
         "yellow": "Yellow",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Bunny Dress",
+        "en-GB": "Bunny Dress",
+        "de": "Hasenkleid",
+        "es": "Vestido de conejito",
+        "fr": "Robe lapin",
+        "it": "Vestito da coniglio",
+        "nl": "Konijnenjurk",
+        "zh-CN": "兔子服",
+        "zh-TW": "兔子服",
+        "jp": "ウサギなふく",
+        "ko": "토끼 의상"
       }
     }
   },

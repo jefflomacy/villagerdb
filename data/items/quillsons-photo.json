@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "何童的照片",
+        "de": "Foto's von Quentin",
+        "en-GB": "Quillson's Photo",
+        "es": "Foto de Cuálter",
+        "fr": "Photo de Narcisse",
+        "it": "Foto di Verdonio",
+        "jp": "タックンのしゃしん",
+        "ko": "덕근의 사진",
+        "nl": "Foto van Quillson",
+        "zh-TW": "何童的照片",
+        "en-US": "Quillson's Photo"
       }
     }
   },

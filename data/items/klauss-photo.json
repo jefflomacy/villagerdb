@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "熊战士的照片",
+        "de": "Foto's von Grischa",
+        "en-GB": "Klaus's Photo",
+        "es": "Foto de Gruñerto",
+        "fr": "Photo de Klaus",
+        "it": "Foto di Maciste",
+        "jp": "クマロスのしゃしん",
+        "ko": "곰도로스의 사진",
+        "nl": "Foto van Klaus",
+        "zh-TW": "熊戰士的照片",
+        "en-US": "Klaus's Photo"
       }
     }
   },

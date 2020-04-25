@@ -16,7 +16,16 @@
       },
       "sources": [
         "Re-Tail (flea market) or Police Station (lost and found)"
-      ]
+      ],
+      "name": {
+        "de": "Schlamperlampe",
+        "en-GB": "Sloppy Lamp",
+        "en-US": "Sloppy Lamp",
+        "es": "Lámpara desorden",
+        "fr": "Lampe négligée",
+        "it": "Lampada trasandata",
+        "ja": "だらしないランプ"
+      }
     }
   }
 }

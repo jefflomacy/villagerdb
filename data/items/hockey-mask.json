@@ -23,7 +23,10 @@
           "currency": "bells",
           "value": 600
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Hockey Mask"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -38,6 +41,19 @@
       ],
       "variations": {
         "white": "White"
+      },
+      "name": {
+        "en-US": "Hockey Mask",
+        "en-GB": "Hockey Mask",
+        "de": "Hockeymaske",
+        "es": "Máscara de hockey",
+        "fr": "Masque de hockey",
+        "it": "Maschera da hockey",
+        "nl": "Ijshockeymasker",
+        "zh-CN": "曲棍球面罩",
+        "zh-TW": "曲棍球面罩",
+        "jp": "ホッケーのマスク",
+        "ko": "하키 마스크"
       }
     }
   }

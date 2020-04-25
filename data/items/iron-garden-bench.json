@@ -18,6 +18,19 @@
         "brown": "Brown",
         "black": "Black",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Iron Garden Bench",
+        "en-GB": "Iron Garden Bench",
+        "de": "Romantikgartenbank",
+        "es": "Banco de forja",
+        "fr": "Banc de jardin fer",
+        "it": "Panca da giardino di ferro",
+        "nl": "Ijzeren tuinbank",
+        "zh-CN": "花园铸铁长椅",
+        "zh-TW": "鑄鐵花園長椅",
+        "jp": "アイアンガーデンベンチ",
+        "ko": "아이언 가든 벤치"
       }
     }
   },

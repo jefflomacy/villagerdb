@@ -20,6 +20,19 @@
         "yellow": "Yellow",
         "blue": "Blue",
         "natural-wood": "Natural wood"
+      },
+      "name": {
+        "en-US": "Bone Doorplate",
+        "en-GB": "Bone Doorplate",
+        "de": "Hundeknochentürschild",
+        "es": "Placa hueso",
+        "fr": "Plaque nonosse",
+        "it": "Targa da porta osso",
+        "nl": "Bottendeurplaatje",
+        "zh-CN": "骨头门牌",
+        "zh-TW": "骨頭門牌",
+        "jp": "ボーンなドアプレート",
+        "ko": "뼈다귀 문패"
       }
     }
   },

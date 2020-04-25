@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 60
+      },
+      "name": {
+        "zh-CN": "硬木材",
+        "de": "Hartholz",
+        "en-GB": "Hardwood",
+        "es": "Tabla rígida",
+        "fr": "Bois dur",
+        "it": "Legno duro",
+        "jp": "かたいもくざい",
+        "ko": "단단한 목재",
+        "nl": "Hardhout",
+        "zh-TW": "硬木材",
+        "en-US": "Hardwood"
       }
     }
   }

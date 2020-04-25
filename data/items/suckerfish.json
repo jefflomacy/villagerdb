@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1500
+      },
+      "name": {
+        "en-US": "Suckerfish",
+        "en-GB": "Suckerfish",
+        "de": "Schiffshalter",
+        "es": "Rémora",
+        "fr": "Rémora rayé",
+        "it": "Remora",
+        "nl": "Zuigvis",
+        "zh-CN": "吸盘鱼",
+        "zh-TW": "吸盤魚",
+        "jp": "コバンザメ",
+        "ko": "빨판상어"
       }
     }
   },

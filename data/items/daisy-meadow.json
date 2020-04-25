@@ -23,7 +23,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Daisy Meadow"
+      }
     },
     "nh": {
       "orderable": false,
@@ -39,7 +42,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Daisy Meadow",
+        "en-GB": "Daisy Meadow",
+        "de": "Alpengrund",
+        "es": "Prado margaritas",
+        "fr": "Sol pâquerettes",
+        "it": "Prato fiorito",
+        "nl": "Madeliefjesveld",
+        "zh-CN": "草原地板",
+        "zh-TW": "草原地板",
+        "jp": "そうげんのゆか",
+        "ko": "초원 바닥"
+      }
     }
   }
 }

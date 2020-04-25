@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "锵锵的照片",
+        "de": "Foto's von Robbi",
+        "en-GB": "Ribbot's Photo",
+        "es": "Foto de Ranobot",
+        "fr": "Photo de Crabot",
+        "it": "Foto di Ranabot",
+        "jp": "ガチャのしゃしん",
+        "ko": "철컥의 사진",
+        "nl": "Foto van Ribbot",
+        "zh-TW": "鏘鏘的照片",
+        "en-US": "Ribbot's Photo"
       }
     }
   },

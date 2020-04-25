@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White-Azalea Nursery",
+        "en-GB": "White-Azalea Nursery",
+        "de": "Gartenazaleenspross",
+        "es": "Azalea blanca retoño",
+        "fr": "Serre d'azalées blanches",
+        "it": "Piantina di azalea bianca",
+        "nl": "Kleine jonge witte azalea",
+        "zh-CN": "白色杜鹃花幼苗",
+        "zh-TW": "白色杜鵑花幼苗",
+        "jp": "しろいツツジのようぼく",
+        "ko": "하얀 진달래 유목"
+      }
     }
   },
   "category": "Bushes"

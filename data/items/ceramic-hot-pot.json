@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "de": "Feuertopf",
+        "en-GB": "Ceramic Hot Pot",
+        "en-US": "Ceramic Hot Pot",
+        "es": "Fondue oriental",
+        "fr": "Appareil à fondue",
+        "it": "Set per zuppa",
+        "ja": "どなべ"
+      }
     }
   }
 }

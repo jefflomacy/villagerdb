@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Buntholzbank",
+        "en-GB": "Modern Wood Sofa",
+        "en-US": "Modern Wood Sofa",
+        "es": "Banco listones",
+        "fr": "Canapé bois moderne",
+        "it": "Sofà legno",
+        "ja": "ミックスウッドのベンチ"
+      }
     }
   }
 }

@@ -25,7 +25,10 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Jester's Mask"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -43,6 +46,19 @@
         "red": "Red",
         "green": "Green",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Jester's Mask",
+        "en-GB": "Jester's Mask",
+        "de": "Clownsmaske",
+        "es": "Careta de bufón",
+        "fr": "Masque de clown",
+        "it": "Maschera da giullare",
+        "nl": "Narrenmasker",
+        "zh-CN": "小丑面具",
+        "zh-TW": "小丑面具",
+        "jp": "ピエロのかめん",
+        "ko": "피에로 가면"
       }
     }
   }

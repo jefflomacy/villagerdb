@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "T-Rex-Torso",
+        "en-GB": "T. Rex Torso",
+        "en-US": "T. Rex Torso",
+        "es": "Cuerpo tiranosaurio",
+        "fr": "Corps de T. rex",
+        "it": "Torso tirannosauro",
+        "ja": "Tレックスのからだ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5500
+      },
+      "name": {
+        "en-US": "T. Rex Torso",
+        "en-GB": "T. Rex Torso",
+        "de": "T-Rex-Torso",
+        "es": "Cuerpo tiranosaurio",
+        "fr": "Corps de tyrannosaure",
+        "it": "Torso tirannosauro",
+        "nl": "Tyrannosaurusromp",
+        "zh-CN": "暴龙的身体",
+        "zh-TW": "暴龍的身體",
+        "jp": "Tレックスのからだ",
+        "ko": "티렉스의 몸통"
       }
     }
   }

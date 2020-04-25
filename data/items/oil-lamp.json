@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 680
         }
-      ]
+      ],
+      "name": {
+        "de": "Spirituslampe",
+        "en-GB": "Oil Lamp",
+        "en-US": "Oil Lamp",
+        "es": "Lámpara de aceite",
+        "fr": "Lampe à pétrole",
+        "it": "Lampada ad alcool",
+        "ja": "アルコールランプ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,7 +42,20 @@
           "currency": "bells",
           "value": 400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Oil Lamp",
+        "en-GB": "Oil Lamp",
+        "de": "Spirituslampe",
+        "es": "Lámpara de aceite",
+        "fr": "Lampe à pétrole",
+        "it": "Lampada ad alcool",
+        "nl": "Olielamp",
+        "zh-CN": "酒精灯",
+        "zh-TW": "酒精燈",
+        "jp": "アルコールランプ",
+        "ko": "알코올램프"
+      }
     }
   }
 }

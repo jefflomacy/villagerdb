@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1980
         }
-      ]
+      ],
+      "name": {
+        "de": "Geschirrspüler",
+        "en-GB": "Dishwasher",
+        "en-US": "Dishwasher",
+        "es": "Lavavajillas",
+        "fr": "Lave-vaisselle",
+        "it": "Lavastoviglie",
+        "ja": "しょっきあらいき"
+      }
     }
   }
 }

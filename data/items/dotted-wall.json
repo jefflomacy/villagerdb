@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 1840
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Dotted Wall"
+      }
     }
   }
 }

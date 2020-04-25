@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "音音的海报",
+        "de": "Poster's von Fatima",
+        "en-GB": "Fauna's Poster",
+        "es": "Póster de Fauna",
+        "fr": "Poster de Bibi",
+        "it": "Poster di Cervina",
+        "jp": "ドレミのポスター",
+        "ko": "솔미의 포스터",
+        "nl": "Poster van Fauna",
+        "zh-TW": "音音的海報",
+        "en-US": "Fauna's Poster"
+      }
     }
   },
   "category": "Photos"

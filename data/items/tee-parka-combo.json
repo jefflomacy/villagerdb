@@ -23,6 +23,19 @@
         "orange": "Orange",
         "pink": "Pink",
         "mint": "Mint"
+      },
+      "name": {
+        "en-US": "Tee-Parka Combo",
+        "en-GB": "Tee-Parka Combo",
+        "de": "Kapuzenpulli-Shirt-Kombi",
+        "es": "Sudadera con camiseta",
+        "fr": "T-Shirt sur sweat à capuche",
+        "it": "Set maglietta e felpa",
+        "nl": "Laagjestrui",
+        "zh-CN": "连帽上衣配T恤",
+        "zh-TW": "連帽上衣配T恤",
+        "jp": "パーカーオンＴシャツ",
+        "ko": "티셔츠와 후드 집업"
       }
     }
   },

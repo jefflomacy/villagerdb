@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mangrove Wall",
+        "en-GB": "Mangrove Wall",
+        "de": "Mangroventapete",
+        "es": "Pared manglar",
+        "fr": "Mur mangrove",
+        "it": "Muro mangrovie",
+        "nl": "Mangrovewand",
+        "zh-CN": "红树林墙",
+        "zh-TW": "紅樹林牆",
+        "jp": "マングローブのかべ",
+        "ko": "맹그로브 벽"
+      }
     }
   },
   "category": "Wallpaper"

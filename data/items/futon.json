@@ -18,6 +18,19 @@
         "blue": "Blue",
         "orange": "Orange",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Futon",
+        "en-GB": "Futon",
+        "de": "Futon-Schlafplatz",
+        "es": "Futón extendido",
+        "fr": "Futon traditionnel",
+        "it": "Futon srotolato",
+        "nl": "Futon",
+        "zh-CN": "日式床垫",
+        "zh-TW": "日式床墊",
+        "jp": "ふとん",
+        "ko": "이불"
       }
     }
   },

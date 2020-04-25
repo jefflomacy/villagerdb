@@ -23,7 +23,10 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Ballet Outfit"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -45,6 +48,19 @@
         "white": "White",
         "yellow": "Yellow",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Ballet Outfit",
+        "en-GB": "Ballet Outfit",
+        "de": "Ballett-Trägerkleid",
+        "es": "Vestido ballet",
+        "fr": "Robe d'été ballet",
+        "it": "Tutù",
+        "nl": "Balletkostuum",
+        "zh-CN": "芭蕾舞衣",
+        "zh-TW": "芭蕾舞衣",
+        "jp": "バレエのいしょう",
+        "ko": "발레 의상"
       }
     }
   }

@@ -16,6 +16,19 @@
       "variations": {
         "blue": "Blue",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Peacoat-And-Skirt Combo",
+        "en-GB": "Peacoat-And-Skirt Combo",
+        "de": "Mantel-Rock-Kombi",
+        "es": "Chaquetón sobre falda",
+        "fr": "Combi jupe et caban",
+        "it": "Giacca montgomery e gonna",
+        "nl": "Jekker met rok",
+        "zh-CN": "海军大衣连短裙",
+        "zh-TW": "海軍大衣連裙子",
+        "jp": "スカートつきピーコート",
+        "ko": "스커트와 모직 코트"
       }
     }
   },

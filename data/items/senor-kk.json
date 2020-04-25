@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Señor K.K."
+      }
     }
   }
 }

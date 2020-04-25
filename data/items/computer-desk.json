@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 3600
         }
-      ]
+      ],
+      "name": {
+        "de": "PC-Arbeitsplatz",
+        "en-GB": "Computer Desk",
+        "en-US": "Computer Desk",
+        "es": "Ordenador oficina",
+        "fr": "Bureau avec PC",
+        "it": "Postazione ufficio",
+        "ja": "オフィスパソコンラック"
+      }
     }
   }
 }

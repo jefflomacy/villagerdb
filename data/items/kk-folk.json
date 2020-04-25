@@ -18,7 +18,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Folk"
+      }
     },
     "nh": {
       "orderable": true,
@@ -31,7 +34,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Folk",
+        "en-GB": "K.K. Folk",
+        "de": "K.K. Folk",
+        "es": "Tota-Folk",
+        "fr": "Folk Kéké",
+        "it": "K.K. Folk",
+        "nl": "K.K.-Folk",
+        "zh-CN": "K.K.民谣",
+        "zh-TW": "K.K.民謠",
+        "jp": "けけみんよう",
+        "ko": "K.K.민요",
+        "ru": "Фолк К. К."
+      }
     }
   }
 }

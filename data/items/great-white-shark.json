@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 15000
+      },
+      "name": {
+        "en-US": "Great White Shark",
+        "en-GB": "Great White Shark",
+        "de": "Hai",
+        "es": "Tiburón",
+        "fr": "Grand requin blanc",
+        "it": "Squalo bianco",
+        "nl": "Witte haai",
+        "zh-CN": "鲨鱼",
+        "zh-TW": "鯊魚",
+        "jp": "サメ",
+        "ko": "상어"
       }
     }
   },

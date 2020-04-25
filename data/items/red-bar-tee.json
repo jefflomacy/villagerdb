@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Ferienshirt",
+        "en-GB": "Red-Bar Tee",
+        "en-US": "Red-Bar Tee",
+        "es": "Camiseta barras",
+        "fr": "T-shirt barre",
+        "it": "Maglietta a rigoni",
+        "ja": "あかしろラガーシャツ"
+      }
     }
   }
 }

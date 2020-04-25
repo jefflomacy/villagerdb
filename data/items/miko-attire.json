@@ -16,6 +16,19 @@
       "variations": {
         "vermilion": "Vermilion",
         "aqua": "Aqua"
+      },
+      "name": {
+        "en-US": "Miko Attire",
+        "en-GB": "Miko Attire",
+        "de": "Miko-Outfit",
+        "es": "Uniforme de sacerdotisa",
+        "fr": "Tenue de miko",
+        "it": "Tenuta da miko",
+        "nl": "Miko-Outfit",
+        "zh-CN": "巫女服",
+        "zh-TW": "巫女服",
+        "jp": "みこしょうぞく",
+        "ko": "무녀 의상"
       }
     }
   },

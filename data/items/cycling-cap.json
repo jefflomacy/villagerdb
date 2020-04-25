@@ -23,6 +23,19 @@
         "red": "Red",
         "lime-purple": "Lime & purple",
         "blue-purple": "Blue & purple"
+      },
+      "name": {
+        "en-US": "Cycling Cap",
+        "en-GB": "Cycling Cap",
+        "de": "Radlermütze",
+        "es": "Gorra de ciclista",
+        "fr": "Casquette cycliste",
+        "it": "Cappellino da ciclista",
+        "nl": "Wielrennerspet",
+        "zh-CN": "骑行帽",
+        "zh-TW": "單車帽",
+        "jp": "サイクルキャップ",
+        "ko": "사이클 야구 모자"
       }
     }
   },

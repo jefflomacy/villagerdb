@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "范妮沙的海报",
+        "de": "Poster's von Viviane",
+        "en-GB": "Vivian's Poster",
+        "es": "Póster de Viviana",
+        "fr": "Poster de Viviane",
+        "it": "Poster di Viviana",
+        "jp": "ヴァネッサのポスター",
+        "ko": "바네사의 포스터",
+        "nl": "Poster van Vivian",
+        "zh-TW": "范妮莎的海報",
+        "en-US": "Vivian's Poster"
+      }
     }
   },
   "category": "Photos"

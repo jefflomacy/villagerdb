@@ -13,7 +13,20 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mint Dot Flooring",
+        "en-GB": "Mint Dot Flooring",
+        "de": "Grün-Punktboden",
+        "es": "Suelo topos menta",
+        "fr": "Moquette à pois menthe",
+        "it": "Pavimento a pois turchese",
+        "nl": "Groene stippelvloer",
+        "zh-CN": "薄荷绿点点地毯",
+        "zh-TW": "薄荷綠點點地毯",
+        "jp": "ミントドットカーペット",
+        "ko": "민트 도트 카펫 바닥"
+      }
     }
   },
   "category": "Flooring"

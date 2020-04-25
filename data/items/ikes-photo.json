@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "大功的照片",
+        "de": "Foto's von Ike",
+        "en-GB": "Ike's Photo",
+        "es": "Foto de Astillas",
+        "fr": "Photo d'isaac",
+        "it": "Foto di Ortensio",
+        "jp": "ダイクのしゃしん",
+        "ko": "대공의 사진",
+        "nl": "Foto van Ike",
+        "zh-TW": "大功的照片",
+        "en-US": "Ike's Photo"
       }
     }
   },

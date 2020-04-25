@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "de": "Plastikhocker",
+        "en-GB": "Pipe Stool",
+        "en-US": "Pipe Stool",
+        "es": "Taburete metálico",
+        "fr": "Tabouret tube",
+        "it": "Sgabello di metallo",
+        "ja": "パイプのまるイス"
+      }
     }
   }
 }

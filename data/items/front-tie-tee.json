@@ -18,6 +18,19 @@
         "white": "White",
         "red": "Red",
         "lime": "Lime"
+      },
+      "name": {
+        "en-US": "Front-Tie Tee",
+        "en-GB": "Front-Tie Tee",
+        "de": "Knotenshirt",
+        "es": "Camiseta anudada",
+        "fr": "T-Shirt noué devant",
+        "it": "Maglietta legata davanti",
+        "nl": "Geknoopte T-shirt",
+        "zh-CN": "前绑结T恤",
+        "zh-TW": "前綁結T恤",
+        "jp": "まえむすびＴシャツ",
+        "ko": "매듭 티셔츠"
       }
     }
   },

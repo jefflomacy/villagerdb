@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Rough Rug",
+        "en-GB": "Rough Rug",
+        "de": "Rau-Matte",
+        "es": "Felpudo robusto",
+        "fr": "Paillasson",
+        "it": "Tappetino ruvido",
+        "nl": "Ruwe tapijt",
+        "zh-CN": "坚硬地垫",
+        "zh-TW": "硬地墊",
+        "jp": "ハードマット",
+        "ko": "하드 매트"
+      }
     }
   },
   "category": "Flooring"

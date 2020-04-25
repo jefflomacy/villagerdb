@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Star Shades"
+      }
     },
     "nh": {
       "sources": [
@@ -42,6 +45,19 @@
         "blue": "Blue",
         "purple": "Purple",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Star Shades",
+        "en-GB": "Star Shades",
+        "de": "Sternenbrille",
+        "es": "Gafa estrella",
+        "fr": "Monture étoiles",
+        "it": "Montatura a stelle",
+        "nl": "Sterrenzonnebril",
+        "zh-CN": "星形墨镜",
+        "zh-TW": "星形墨鏡",
+        "jp": "ほしのサングラス",
+        "ko": "별 선글라스"
       }
     }
   }

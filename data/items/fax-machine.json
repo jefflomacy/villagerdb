@@ -34,6 +34,19 @@
         "black-graph": "Black / Graph",
         "black-illustration": "Black / Illustration",
         "black-written-note": "Black / Written note"
+      },
+      "name": {
+        "en-US": "Fax Machine",
+        "en-GB": "Fax Machine",
+        "de": "Faxgerät",
+        "es": "Fax",
+        "fr": "Fax",
+        "it": "Fax",
+        "nl": "Fax",
+        "zh-CN": "传真机",
+        "zh-TW": "傳真機",
+        "jp": "ファクシミリ",
+        "ko": "팩스"
       }
     }
   },

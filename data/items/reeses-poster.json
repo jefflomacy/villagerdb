@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "莉咏的海报",
+        "de": "Poster's von Rosina",
+        "en-GB": "Reese's Poster",
+        "es": "Póster de Paca",
+        "fr": "Poster de Risette",
+        "it": "Poster di Alpaca",
+        "jp": "リサのポスター",
+        "ko": "리사의 포스터",
+        "nl": "Poster van Reese",
+        "zh-TW": "莉詠的海報",
+        "en-US": "Reese's Poster"
+      }
     }
   },
   "category": "Photos"

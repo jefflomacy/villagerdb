@@ -23,6 +23,19 @@
         "oribe-style": "Oribe-style",
         "modern": "Modern",
         "patterned": "Patterned"
+      },
+      "name": {
+        "en-US": "Unglazed Dish Set",
+        "en-GB": "Unglazed Dish Set",
+        "de": "Keramikgeschirr",
+        "es": "Servicio de mesa de barro",
+        "fr": "Vaisselle en terracotta",
+        "it": "Set da tavola non smaltato",
+        "nl": "Aardewerken servies",
+        "zh-CN": "素烧碗盘",
+        "zh-TW": "素燒碗盤",
+        "jp": "すやきのしょっき",
+        "ko": "질그릇 세트"
       }
     }
   },

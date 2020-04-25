@@ -25,7 +25,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Tropical Vista"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -37,7 +40,20 @@
           "currency": "bells",
           "value": 24000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Tropical Vista",
+        "en-GB": "Tropical Vista",
+        "de": "Tropentapete",
+        "es": "Pared tropical",
+        "fr": "Mur vue tropiques",
+        "it": "Muro tropicale",
+        "nl": "Strandwand",
+        "zh-CN": "南方海洋墙",
+        "zh-TW": "南方海洋牆",
+        "jp": "みなみのうみなかべ",
+        "ko": "남쪽 해변 벽"
+      }
     }
   }
 }

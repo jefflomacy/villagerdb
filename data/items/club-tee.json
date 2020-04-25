@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Shirt \\u201EKreuz\\u201C",
+        "en-GB": "Club Tee",
+        "en-US": "Club Tee",
+        "es": "Camiseta trébol",
+        "fr": "T-shirt trèfle",
+        "it": "Maglietta di fiori",
+        "ja": "クラブのふく"
+      }
     }
   }
 }

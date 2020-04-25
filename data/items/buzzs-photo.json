@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "继光的照片",
+        "de": "Foto's von Balduin",
+        "en-GB": "Buzz's Photo",
+        "es": "Foto de Nabar",
+        "fr": "Photo de Phébus",
+        "it": "Foto di Golia",
+        "jp": "ひでよしのしゃしん",
+        "ko": "근엄의 사진",
+        "nl": "Foto van Buzz",
+        "zh-TW": "繼光的照片",
+        "en-US": "Buzz's Photo"
       }
     }
   },

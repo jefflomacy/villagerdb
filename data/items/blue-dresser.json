@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2100
         }
-      ]
+      ],
+      "name": {
+        "de": "Azurschränkchen",
+        "en-GB": "Blue Dresser",
+        "en-US": "Blue Dresser",
+        "es": "Cajonera azul",
+        "fr": "Buffet bleu",
+        "it": "Comodino blu",
+        "ja": "あおいチェスト"
+      }
     }
   }
 }

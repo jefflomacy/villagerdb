@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "太子的照片",
+        "de": "Foto's von Carlo",
+        "en-GB": "Croque's Photo",
+        "es": "Foto de Ranolfo",
+        "fr": "Photo de Carlos",
+        "it": "Foto di Gracido",
+        "jp": "タイシのしゃしん",
+        "ko": "투투의 사진",
+        "nl": "Foto van Croque",
+        "zh-TW": "太子的照片",
+        "en-US": "Croque's Photo"
       }
     }
   },

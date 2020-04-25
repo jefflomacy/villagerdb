@@ -15,7 +15,16 @@
       },
       "sources": [
         "Re-Tail (refurbish)"
-      ]
+      ],
+      "name": {
+        "de": "Goldmann",
+        "en-GB": "Golden Man",
+        "en-US": "Golden Man",
+        "es": "Figura hombre dorada",
+        "fr": "Totem homme d'or",
+        "it": "Statua di uomo d'oro",
+        "ja": "おうごんのせんしぞう"
+      }
     }
   }
 }

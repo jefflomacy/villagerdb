@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 460
         }
-      ]
+      ],
+      "name": {
+        "de": "Botenmütze",
+        "en-GB": "Paperboy Cap",
+        "en-US": "Paperboy Cap",
+        "es": "Gorra pilluelo",
+        "fr": "Casquette de livreur",
+        "it": "Coppola",
+        "ja": "ハンチング"
+      }
     },
     "nh": {
       "orderable": true,
@@ -40,6 +49,19 @@
         "green": "Green",
         "blue": "Blue",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Paperboy Cap",
+        "en-GB": "Paperboy Cap",
+        "de": "Botenmütze",
+        "es": "Gorra de granujilla",
+        "fr": "Casquette de livreur",
+        "it": "Coppola",
+        "nl": "Golfpet",
+        "zh-CN": "狩猎帽",
+        "zh-TW": "狩獵帽",
+        "jp": "ハンチング",
+        "ko": "헌팅캡"
       }
     }
   }

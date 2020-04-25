@@ -15,7 +15,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Basic Teacher's Desk"
+      }
     },
     "nh": {
       "orderable": true,
@@ -33,6 +36,19 @@
         "standard": "Standard",
         "wooden": "Wooden",
         "monotone": "Monotone"
+      },
+      "name": {
+        "en-US": "Basic Teacher's Desk",
+        "en-GB": "Basic Teacher's Desk",
+        "de": "Schulpult",
+        "es": "Mesa de maestro",
+        "fr": "Bureau du prof",
+        "it": "Cattedra da professore",
+        "nl": "Lerarenbureau",
+        "zh-CN": "讲台",
+        "zh-TW": "講桌",
+        "jp": "きょうたく",
+        "ko": "교탁"
       }
     }
   }

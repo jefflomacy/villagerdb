@@ -16,6 +16,19 @@
       "variations": {
         "navy-blue": "Navy blue",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Bold Aloha Shirt",
+        "en-GB": "Bold Aloha Shirt",
+        "de": "Aloha-Hemd",
+        "es": "Camisa aloha polinesia",
+        "fr": "Chemise aloha",
+        "it": "Camicia aloha sgargiante",
+        "nl": "Bontgekleurde hawaïshirt",
+        "zh-CN": "波利尼西亚夏威夷衬衫",
+        "zh-TW": "玻里尼西亞夏威夷襯衫",
+        "jp": "ポリネシアンなアロハ",
+        "ko": "폴리네시안 알로하셔츠"
       }
     }
   },

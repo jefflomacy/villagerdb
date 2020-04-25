@@ -14,6 +14,19 @@
       },
       "variations": {
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Recycled Boots",
+        "en-GB": "Recycled Boots",
+        "de": "Paars Recyclingstiefel",
+        "es": "Bota reciclada",
+        "fr": "Paire de bottes recyclées",
+        "it": "Paio di stivali riciclati",
+        "nl": "Hergebruikte laarzen",
+        "zh-CN": "回收长靴",
+        "zh-TW": "舊長靴",
+        "jp": "リサイクルながぐつ",
+        "ko": "재활용 장화"
       }
     }
   },

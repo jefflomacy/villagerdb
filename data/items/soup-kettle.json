@@ -26,6 +26,19 @@
         "green-curry": "Green curry",
         "hot-and-sour-soup": "Hot-and-sour soup",
         "congee": "Congee"
+      },
+      "name": {
+        "en-US": "Soup Kettle",
+        "en-GB": "Soup Kettle",
+        "de": "Suppenkessel",
+        "es": "Sopera eléctrica",
+        "fr": "Soupière électrique",
+        "it": "Zuppiera elettrica",
+        "nl": "Soepketel",
+        "zh-CN": "保温汤锅",
+        "zh-TW": "保溫湯鍋",
+        "jp": "スープジャー",
+        "ko": "수프 워머"
       }
     }
   },

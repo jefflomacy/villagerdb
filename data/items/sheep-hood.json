@@ -18,6 +18,19 @@
         "pink": "Pink",
         "light-blue": "Light blue",
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Sheep Hood",
+        "en-GB": "Sheep Hood",
+        "de": "Schafkapuze",
+        "es": "Gorro de carnero",
+        "fr": "Capuche de bélier",
+        "it": "Cappello da montone",
+        "nl": "Schapenmuts",
+        "zh-CN": "绵羊头套",
+        "zh-TW": "綿羊頭套",
+        "jp": "ひつじのかぶりもの",
+        "ko": "양 모자"
       }
     }
   },

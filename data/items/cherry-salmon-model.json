@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3000
+      },
+      "name": {
+        "en-US": "Cherry Salmon Model",
+        "en-GB": "Cherry Salmon Model",
+        "de": "Masulachsmodell",
+        "es": "Figura de salmón japonés",
+        "fr": "Modèle de saumon masou",
+        "it": "Replica salmone giapponese",
+        "nl": "Model-Japanse-Zalm",
+        "zh-CN": "樱花钩吻鲑模型",
+        "zh-TW": "櫻花鉤吻鮭模型",
+        "jp": "ヤマメのもけい",
+        "ko": "산천어 모형"
       }
     }
   },

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 240
         }
-      ]
+      ],
+      "name": {
+        "de": "Mädchen-Pyjamahose",
+        "en-GB": "Pink Pj Bottoms",
+        "en-US": "Pink Pj Bottoms",
+        "es": "Pantalón pijama rosa",
+        "fr": "Pantalon pyj. rose",
+        "it": "Pantal. pigiama rosa",
+        "ja": "あかパジャマズボン"
+      }
     }
   }
 }

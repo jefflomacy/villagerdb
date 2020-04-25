@@ -10,6 +10,19 @@
       },
       "recipe": {
         "bamboo-piece": 6
+      },
+      "name": {
+        "en-US": "Dark Bamboo Rug",
+        "en-GB": "Dark Bamboo Rug",
+        "de": "Dunkel-Bambusmatte",
+        "es": "Alfombra bambú oscura",
+        "fr": "Tapis bambou sombre",
+        "it": "Tappeto di bambù scuro",
+        "nl": "Donkere bamboemat",
+        "zh-CN": "深色竹子地垫",
+        "zh-TW": "深色竹地毯",
+        "jp": "ダークなバンブーラグ",
+        "ko": "어두운 대나무 러그"
       }
     }
   },

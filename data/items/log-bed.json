@@ -29,6 +29,19 @@
         "white-birch-geometric-print": "White birch / Geometric print",
         "white-birch-bears": "White birch / Bears",
         "white-birch-quilted": "White birch / Quilted"
+      },
+      "name": {
+        "en-US": "Log Bed",
+        "en-GB": "Log Bed",
+        "de": "Baumstammbett",
+        "es": "Cama leño",
+        "fr": "Lit tronc",
+        "it": "Letto tronco",
+        "nl": "Boomstambed",
+        "zh-CN": "圆木床铺",
+        "zh-TW": "圓木床鋪",
+        "jp": "まるたのベッド",
+        "ko": "통나무 침대"
       }
     }
   },

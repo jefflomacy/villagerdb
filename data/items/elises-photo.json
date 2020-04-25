@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "孟琪的照片",
+        "de": "Foto's von Steffi",
+        "en-GB": "Elise's Photo",
+        "es": "Foto de Mayra",
+        "fr": "Photo d'élise",
+        "it": "Foto di Elisa",
+        "jp": "モンこのしゃしん",
+        "ko": "몽자의 사진",
+        "nl": "Foto van Elise",
+        "zh-TW": "孟琪的照片",
+        "en-US": "Elise's Photo"
       }
     }
   },

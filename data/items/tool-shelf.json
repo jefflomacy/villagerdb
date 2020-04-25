@@ -14,7 +14,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Tool Shelf"
+      }
     },
     "nh": {
       "orderable": true,
@@ -36,6 +39,19 @@
         "green": "Green",
         "blue": "Blue",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Tool Shelf",
+        "en-GB": "Tool Shelf",
+        "de": "Werkzeugregal",
+        "es": "Estantería metálica",
+        "fr": "Étagère à outils",
+        "it": "Scaffale attrezzi",
+        "nl": "Gereedschapsrek",
+        "zh-CN": "工具架",
+        "zh-TW": "工具架",
+        "jp": "こうぐだな",
+        "ko": "공구 선반"
       }
     }
   }

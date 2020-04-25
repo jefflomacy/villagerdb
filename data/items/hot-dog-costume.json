@@ -19,6 +19,19 @@
       ],
       "variations": {
         "mustard": "Mustard"
+      },
+      "name": {
+        "en-US": "Hot-Dog Costume",
+        "en-GB": "Hot-Dog Costume",
+        "de": "Hotdogkostüm",
+        "es": "Disfraz de perrito caliente",
+        "fr": "Costume de hot dog",
+        "it": "Costume hot-dog",
+        "nl": "Hotdogpak",
+        "zh-CN": "热狗装",
+        "zh-TW": "熱狗服",
+        "jp": "ホットドッグなふく",
+        "ko": "핫도그 의상"
       }
     }
   },

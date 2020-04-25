@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 45000
+      },
+      "name": {
+        "en-US": "Barreleye Model",
+        "en-GB": "Barreleye Model",
+        "de": "Glaskopffischmodell",
+        "es": "Figura pez cab. transparente",
+        "fr": "Modèle de macropinna",
+        "it": "Replica di macropinna",
+        "nl": "Modelhemelkijker",
+        "zh-CN": "太平洋桶眼鱼模型",
+        "zh-TW": "太平洋桶眼魚模型",
+        "jp": "デメニギスのもけい",
+        "ko": "데메니기스 모형"
       }
     }
   },

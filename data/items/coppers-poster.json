@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "警察叔叔的海报",
+        "de": "Poster's von Harry",
+        "en-GB": "Copper's Poster",
+        "es": "Póster de Vigilio",
+        "fr": "Poster de Maret",
+        "it": "Poster di Birro",
+        "jp": "おまわりさんのポスター",
+        "ko": "경찰관의 포스터",
+        "nl": "Poster van Copper",
+        "zh-TW": "警察叔叔的海報",
+        "en-US": "Copper's Poster"
+      }
     }
   },
   "category": "Photos"

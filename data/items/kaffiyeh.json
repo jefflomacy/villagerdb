@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Kufiya",
+        "en-GB": "Kaffiyeh",
+        "en-US": "Kaffiyeh",
+        "es": "Pañuelo árabe",
+        "fr": "Keffieh",
+        "it": "Kefiah",
+        "ja": "アラビアのぼうし"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -37,6 +46,19 @@
         "white": "White",
         "red": "Red",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Kaffiyeh",
+        "en-GB": "Kaffiyeh",
+        "de": "Kufija",
+        "es": "Pañuelo árabe",
+        "fr": "Keffieh",
+        "it": "Kefiah",
+        "nl": "Keffiyeh",
+        "zh-CN": "阿拉伯帽子",
+        "zh-TW": "阿拉伯帽子",
+        "jp": "アラビアのぼうし",
+        "ko": "아라비아 모자"
       }
     }
   }

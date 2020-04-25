@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 700
         }
-      ]
+      ],
+      "name": {
+        "de": "Stehaufpüppchen",
+        "en-GB": "Wobbelina",
+        "en-US": "Wobbelina",
+        "es": "Muñequita",
+        "fr": "Culbutine",
+        "it": "Dondolina",
+        "ja": "おきあがりこぼし"
+      }
     }
   }
 }

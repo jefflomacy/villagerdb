@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Hochsteckperücke",
+        "en-GB": "Topknot Wig",
+        "en-US": "Topknot Wig",
+        "es": "Peluca con moño",
+        "fr": "Perruque à chignon",
+        "it": "Parrucca con codino",
+        "ja": "おおいちょう"
+      }
     }
   }
 }

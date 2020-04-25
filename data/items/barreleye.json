@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 15000
+      },
+      "name": {
+        "en-US": "Barreleye",
+        "en-GB": "Barreleye",
+        "de": "Glaskopffisch",
+        "es": "Pez cabeza transparente",
+        "fr": "Macropinna",
+        "it": "Macropinna",
+        "nl": "Hemelkijker",
+        "zh-CN": "太平洋桶眼鱼",
+        "zh-TW": "太平洋桶眼魚",
+        "jp": "デメニギス",
+        "ko": "데메니기스"
       }
     }
   },

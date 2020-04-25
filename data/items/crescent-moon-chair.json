@@ -21,6 +21,19 @@
         "pink": "Pink",
         "orange": "Orange",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Crescent-Moon Chair",
+        "en-GB": "Crescent-Moon Chair",
+        "de": "Mondsichelstuhl",
+        "es": "Sillón cuarto creciente",
+        "fr": "Fauteuil croissant de lune",
+        "it": "Sofà mezzaluna con stella",
+        "nl": "Maansikkelstoel",
+        "zh-CN": "新月椅",
+        "zh-TW": "新月椅",
+        "jp": "みかづきチェア",
+        "ko": "초승달 체어"
       }
     }
   },

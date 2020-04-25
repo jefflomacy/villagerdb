@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 500
+      },
+      "name": {
+        "zh-CN": "摩羯座碎片",
+        "de": "Steinbock-Splitter's",
+        "en-GB": "Capricorn Fragment",
+        "es": "Fragmento de Capricornio",
+        "fr": "Fragment de Capricorne",
+        "it": "Frammento di Capricorno",
+        "jp": "やぎざのかけら",
+        "ko": "염소자리 조각",
+        "nl": "Steenbokfragment",
+        "zh-TW": "摩羯座碎片",
+        "en-US": "Capricorn Fragment"
       }
     }
   },

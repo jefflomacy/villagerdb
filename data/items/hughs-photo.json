@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿猪的照片",
+        "de": "Foto's von Hugo",
+        "en-GB": "Hugh's Photo",
+        "es": "Foto de Jacobo",
+        "fr": "Photo de Bonno",
+        "it": "Foto di Jambon",
+        "jp": "クッチャネのしゃしん",
+        "ko": "먹고파의 사진",
+        "nl": "Foto van Hugh",
+        "zh-TW": "阿豬的照片",
+        "en-US": "Hugh's Photo"
       }
     }
   },

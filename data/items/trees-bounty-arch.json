@@ -16,6 +16,19 @@
       "variations": {
         "brown": "Brown",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Tree's Bounty Arch",
+        "en-GB": "Tree's Bounty Arch",
+        "de": "Baumfrucht-Bogen",
+        "es": "Arco frutos del bosque",
+        "fr": "Arche fruits des bois",
+        "it": "Arco frutti dell'albero",
+        "nl": "Herfstpoort",
+        "zh-CN": "树果拱门",
+        "zh-TW": "樹果拱門",
+        "jp": "きのみのアーチ",
+        "ko": "나무 열매 아치"
       }
     }
   },

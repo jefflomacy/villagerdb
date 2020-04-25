@@ -17,7 +17,20 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White Windflowers",
+        "en-GB": "White Windflowers",
+        "de": "Weißanemone",
+        "es": "Anémona blanca",
+        "fr": "Anémone blanche",
+        "it": "Anemone bianco",
+        "nl": "Witte anemoon",
+        "zh-CN": "白色银莲花",
+        "zh-TW": "白色銀蓮花",
+        "jp": "しろいアネモネ",
+        "ko": "하얀 아네모네"
+      }
     }
   },
   "category": "Flowers"

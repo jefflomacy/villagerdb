@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "de": "Blättershirt",
+        "en-GB": "Fall Leaf Tee",
+        "en-US": "Fall Leaf Tee",
+        "es": "Camiseta otoño",
+        "fr": "T-shirt automnal",
+        "it": "Maglietta autunno",
+        "ja": "あきいろはっぱなふく"
+      }
     }
   }
 }

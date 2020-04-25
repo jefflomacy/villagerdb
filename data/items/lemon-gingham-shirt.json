@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Gelb-Karo-Pulli",
+        "en-GB": "Lemon Gingham Shirt",
+        "en-US": "Lemon Gingham Shirt",
+        "es": "Jersey vichy oro",
+        "fr": "Pull vichy jaune",
+        "it": "Maglia limone",
+        "ja": "レモンギンガムのふくL"
+      }
     }
   }
 }

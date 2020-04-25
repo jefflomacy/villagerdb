@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "克莉琪的照片",
+        "de": "Foto's von Anne",
+        "en-GB": "Chrissy's Photo",
+        "es": "Foto de Lali",
+        "fr": "Photo de Kristine",
+        "it": "Foto di Natascha",
+        "jp": "クリスチーヌのしゃしん",
+        "ko": "크리스틴의 사진",
+        "nl": "Foto van Chrissy",
+        "zh-TW": "克莉琪的照片",
+        "en-US": "Chrissy's Photo"
       }
     }
   },

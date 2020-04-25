@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Iguanodon-Schwanz",
+        "en-GB": "Iguanodon Tail",
+        "en-US": "Iguanodon Tail",
+        "es": "Cola iguanodonte",
+        "fr": "Queue d'iguanodon",
+        "it": "Coda iguanodonte",
+        "ja": "イグアノドンのしっぽ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3000
+      },
+      "name": {
+        "en-US": "Iguanodon Tail",
+        "en-GB": "Iguanodon Tail",
+        "de": "Iguanodon-Schwanz",
+        "es": "Cola iguanodonte",
+        "fr": "Queue d'iguanodon",
+        "it": "Coda iguanodonte",
+        "nl": "Iguanodonstaart",
+        "zh-CN": "禽龙的尾巴",
+        "zh-TW": "禽龍的尾巴",
+        "jp": "イグアノドンのしっぽ",
+        "ko": "이구아노돈의 꼬리"
       }
     }
   }

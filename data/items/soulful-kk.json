@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Soulful K.K."
+      }
     },
     "nh": {
       "sellPrice": {
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Soulful K.K.",
+        "en-GB": "Soulful K.K.",
+        "de": "K.K. mit Gefühl",
+        "es": "Tota-Lenta",
+        "fr": "Kéké soul",
+        "it": "K.K. Anima",
+        "nl": "K.K.-Soulblues",
+        "zh-CN": "K.K.心灵音乐",
+        "zh-TW": "K.K.心靈音樂",
+        "jp": "けけゴスペル",
+        "ko": "K.K.가스펠",
+        "ru": "Соулфул К. К."
+      }
     }
   }
 }

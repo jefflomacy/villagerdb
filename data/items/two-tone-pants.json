@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 3600
         }
-      ]
+      ],
+      "name": {
+        "de": "Zweifarbhose",
+        "en-GB": "Two-Tone Pants",
+        "en-US": "Two-Tone Pants",
+        "es": "Pantalón bicolor",
+        "fr": "Pantalon bicolore",
+        "it": "Pantalone bicolore",
+        "ja": "ツートンなズボン"
+      }
     },
     "nh": {
       "orderable": true,
@@ -42,6 +51,19 @@
         "yellow": "Yellow",
         "red": "Red",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Two-Tone Pants",
+        "en-GB": "Two-Tone Pants",
+        "de": "Zweifarbhose",
+        "es": "Pantalón bicolor",
+        "fr": "Pantalon bicolore",
+        "it": "Pantalone bicolore",
+        "nl": "Tweekleurige broek",
+        "zh-CN": "口袋撞色裤",
+        "zh-TW": "撞色褲",
+        "jp": "ツートンなズボン",
+        "ko": "투톤 바지"
       }
     }
   }

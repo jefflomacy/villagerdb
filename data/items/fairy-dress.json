@@ -19,6 +19,19 @@
         "yellow": "Yellow",
         "mint": "Mint",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Fairy Dress",
+        "en-GB": "Fairy Dress",
+        "de": "Feenkleid",
+        "es": "Vestido de hada",
+        "fr": "Robe de fée",
+        "it": "Vestito da fata",
+        "nl": "Elfenjurk",
+        "zh-CN": "妖精裙",
+        "zh-TW": "妖精服",
+        "jp": "ようせいのふく",
+        "ko": "요정의 옷"
       }
     }
   },

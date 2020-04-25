@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "de": "Riemchenschuh",
+        "en-GB": "School Shoes",
+        "en-US": "Mary Janes",
+        "es": "Mercedita negra",
+        "fr": "Paire babies noires",
+        "it": "P. scarpe cinturino",
+        "ja": "ベルトつきシューズ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -46,6 +55,19 @@
         "blue": "Blue",
         "green": "Green",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Mary Janes",
+        "en-GB": "Mary Janes",
+        "de": "Paars Riemchenschuhe",
+        "es": "Mercedita",
+        "fr": "Paire de babies",
+        "it": "Paio di scarpe con cinturino",
+        "nl": "Kinderschoenen",
+        "zh-CN": "扣带鞋",
+        "zh-TW": "扣帶鞋",
+        "jp": "ストラップシューズ",
+        "ko": "메리제인 슈즈"
       }
     }
   }

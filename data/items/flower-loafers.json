@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Blümchenslipper",
+        "en-GB": "Flower Loafers",
+        "en-US": "Flower Loafers",
+        "es": "Mocasín flores",
+        "fr": "P. mocassins fleurs",
+        "it": "Paio mocassini fiore",
+        "ja": "エスニックなローファー"
+      }
     }
   }
 }

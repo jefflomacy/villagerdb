@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sumo Ring",
+        "en-GB": "Sumo Ring",
+        "de": "Sumoringboden",
+        "es": "Suelo cuadrilátero de sumo",
+        "fr": "Sol sumotori",
+        "it": "Pavimento ring di sumo",
+        "nl": "Sumo-Ring",
+        "zh-CN": "相扑擂台",
+        "zh-TW": "相撲擂台",
+        "jp": "どひょう",
+        "ko": "씨름판"
+      }
     }
   },
   "category": "Flooring"

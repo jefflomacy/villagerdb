@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Bûche de Noël",
+        "en-GB": "Yule Log",
+        "en-US": "Yule Log",
+        "es": "Tronco de chocolate",
+        "fr": "Bûche au chocolat",
+        "it": "Rotolo dolce",
+        "ja": "ブッシュ・ド・ノエル"
+      }
     }
   }
 }

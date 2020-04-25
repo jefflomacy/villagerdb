@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "拉拉米的海报",
+        "de": "Poster's von Hanne",
+        "en-GB": "Sally's Poster",
+        "es": "Póster de Praliné",
+        "fr": "Poster de Damia",
+        "it": "Poster di Rossella",
+        "jp": "ララミーのポスター",
+        "ko": "라라미의 포스터",
+        "nl": "Poster van Sally",
+        "zh-TW": "拉拉米的海報",
+        "en-US": "Sally's Poster"
+      }
     }
   },
   "category": "Photos"

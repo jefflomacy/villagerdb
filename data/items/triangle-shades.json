@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 240
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Triangle Shades"
+      }
     },
     "nh": {
       "orderable": true,
@@ -42,6 +45,19 @@
         "green": "Green",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Triangle Shades",
+        "en-GB": "Triangle Shades",
+        "de": "Dreiecksbrille",
+        "es": "Gafa de sol roquera",
+        "fr": "Monture triangle",
+        "it": "Montatura triangolare",
+        "nl": "Driehoekige zonnebril",
+        "zh-CN": "三角形墨镜",
+        "zh-TW": "三角形墨鏡",
+        "jp": "さんかくサングラス",
+        "ko": "삼각 선글라스"
       }
     }
   }

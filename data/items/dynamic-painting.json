@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3920
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Dynamic Painting"
+      }
     },
     "nh": {
       "orderable": false,
@@ -37,7 +40,20 @@
           "currency": "bells",
           "value": 4980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Dynamic Painting",
+        "en-GB": "Dynamic Painting",
+        "de": "Wellengemälde",
+        "es": "Cuadro ola",
+        "fr": "Toile déferlante",
+        "it": "Quadro marino",
+        "nl": "Woelige schilderij",
+        "zh-CN": "磅礴的名画",
+        "zh-TW": "磅礡的名畫",
+        "jp": "いきなめいが",
+        "ko": "멋들어진 명화"
+      }
     }
   }
 }

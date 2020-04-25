@@ -22,6 +22,19 @@
         "purple": "Purple",
         "yellow": "Yellow",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Noble Coat",
+        "en-GB": "Noble Coat",
+        "de": "Adelsrobe",
+        "es": "Casaca nobiliaria",
+        "fr": "Redingote",
+        "it": "Redingote",
+        "nl": "Aristocratenjas",
+        "zh-CN": "贵族大衣",
+        "zh-TW": "貴族大衣",
+        "jp": "きぞくのコート",
+        "ko": "귀족 코트"
       }
     }
   },

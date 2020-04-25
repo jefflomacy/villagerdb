@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "春卷的海报",
+        "de": "Poster's von Jacques",
+        "en-GB": "Cousteau's Poster",
+        "es": "Póster de Cousteau",
+        "fr": "Poster de Figaro",
+        "it": "Poster di Jacques",
+        "jp": "ハルマキのポスター",
+        "ko": "왕서방의 포스터",
+        "nl": "Poster van Cousteau",
+        "zh-TW": "春卷的海報",
+        "en-US": "Cousteau's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Rundkragenpulli",
+        "en-GB": "Mint Shirt",
+        "en-US": "Mint Shirt",
+        "es": "Blusa verde",
+        "fr": "Pull menthe",
+        "it": "Camicia verde chiaro",
+        "ja": "まるえりのふく"
+      }
     }
   }
 }

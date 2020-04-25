@@ -17,7 +17,20 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Tulips",
+        "en-GB": "Red Tulips",
+        "de": "Papageitulpen",
+        "es": "Tulipanes rojos",
+        "fr": "Tulipes rouges",
+        "it": "Tulipani rossi",
+        "nl": "Rode tulpen",
+        "zh-CN": "红色郁金香",
+        "zh-TW": "紅色鬱金香",
+        "jp": "あかいチューリップ",
+        "ko": "빨간 튤립"
+      }
     }
   },
   "category": "Flowers"

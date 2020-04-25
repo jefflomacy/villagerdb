@@ -22,6 +22,19 @@
         "yellow": "Yellow",
         "orange": "Orange",
         "silver": "Silver"
+      },
+      "name": {
+        "en-US": "Rotary Phone",
+        "en-GB": "Rotary Phone",
+        "de": "Wählscheibentelefon",
+        "es": "Teléfono de disco",
+        "fr": "Téléphone à cadran",
+        "it": "Telefono a disco",
+        "nl": "Telefoon met kiesschijf",
+        "zh-CN": "转盘式电话",
+        "zh-TW": "轉盤式電話",
+        "jp": "ダイヤルしきでんわ",
+        "ko": "다이얼 전화기"
       }
     }
   },

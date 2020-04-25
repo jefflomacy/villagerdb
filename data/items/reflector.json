@@ -15,6 +15,19 @@
       ],
       "variations": {
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Reflector",
+        "en-GB": "Reflector",
+        "de": "Arztspiegels",
+        "es": "Espejo médico",
+        "fr": "Réflecteur de dentiste",
+        "it": "Specchio ortodontico",
+        "nl": "Oogspiegel",
+        "zh-CN": "反射镜",
+        "zh-TW": "反射鏡",
+        "jp": "はんしゃきょう",
+        "ko": "반사경"
       }
     }
   },

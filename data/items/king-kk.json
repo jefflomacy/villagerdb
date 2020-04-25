@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "King K.K."
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,7 +36,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "King K.K.",
+        "en-GB": "King K.K.",
+        "de": "King K.K.",
+        "es": "Rey Tota",
+        "fr": "Kéké King",
+        "it": "K.K. Re",
+        "nl": "Keizer K.K.",
+        "zh-CN": "K.K.领主",
+        "zh-TW": "K.K.領主",
+        "jp": "けけだいみょう",
+        "ko": "K.K.왕조",
+        "ru": "Король К. К."
+      }
     }
   }
 }

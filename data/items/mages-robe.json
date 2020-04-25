@@ -18,6 +18,19 @@
         "blue": "Blue",
         "white": "White",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Mage's Robe",
+        "en-GB": "Mage's Robe",
+        "de": "Zauberumhang",
+        "es": "Capa de hechicería",
+        "fr": "Robe de sorcellerie",
+        "it": "Vestito da illusionista",
+        "nl": "Heksengewaad",
+        "zh-CN": "魔法师长袍",
+        "zh-TW": "魔法師長袍",
+        "jp": "まほうつかいのローブ",
+        "ko": "마술사의 로브"
       }
     }
   },

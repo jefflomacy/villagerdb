@@ -25,7 +25,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Schlampertisch",
+        "en-GB": "Sloppy Table",
+        "en-US": "Sloppy Table",
+        "es": "Mesa desorden",
+        "fr": "Table négligée",
+        "it": "Tavolo trasandato",
+        "ja": "だらしないテーブル"
+      }
     }
   }
 }

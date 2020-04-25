@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 520
         }
-      ]
+      ],
+      "name": {
+        "de": "Blaubeerpulli",
+        "en-GB": "Blue Down Jacket",
+        "en-US": "Blue Down Jacket",
+        "es": "Chaqueta azul",
+        "fr": "Doudoune bleue",
+        "it": "Golfino blu",
+        "ja": "あおいダウンジャケット"
+      }
     }
   }
 }

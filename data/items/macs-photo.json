@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "金牌的照片",
+        "de": "Foto's von Wuffi",
+        "en-GB": "Mac's Photo",
+        "es": "Foto de Pit",
+        "fr": "Photo de Brutus",
+        "it": "Foto di Teo",
+        "jp": "チャンプのしゃしん",
+        "ko": "챔프의 사진",
+        "nl": "Foto van Mac",
+        "zh-TW": "金牌的照片",
+        "en-US": "Mac's Photo"
       }
     }
   },

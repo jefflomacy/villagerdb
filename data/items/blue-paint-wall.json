@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue-Paint Wall",
+        "en-GB": "Blue-Paint Wall",
+        "de": "Blauwand",
+        "es": "Pared pintada azul",
+        "fr": "Mur peint bleu",
+        "it": "Muro dipinto blu",
+        "nl": "Blauwe wand",
+        "zh-CN": "蓝色油漆墙",
+        "zh-TW": "藍色油漆牆",
+        "jp": "あおいペイントウォール",
+        "ko": "파란 페인트 벽"
+      }
     }
   },
   "category": "Wallpaper"

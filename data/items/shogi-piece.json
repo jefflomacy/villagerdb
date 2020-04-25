@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Shogi-Stein",
+        "en-GB": "Shogi Piece",
+        "en-US": "Shogi Piece",
+        "es": "Pieza de shogi",
+        "fr": "Pièce de shogi",
+        "it": "Pezzo di shogi",
+        "ja": "しょうぎのこま"
+      }
     }
   }
 }

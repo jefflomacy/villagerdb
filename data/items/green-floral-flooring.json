@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1520
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Green Floral Flooring",
+        "en-GB": "Green Floral Flooring",
+        "de": "Grün-Blütenmusterboden",
+        "es": "Suelo floral verde",
+        "fr": "Sol floral strié vert",
+        "it": "Pavimento floreale verde",
+        "nl": "Groene bloemetjesvloer",
+        "zh-CN": "绿色花朵地板",
+        "zh-TW": "綠色花朵地板",
+        "jp": "グリーンのフラワーフローリング",
+        "ko": "초록 꽃무늬 마룻바닥"
+      }
     }
   },
   "category": "Flooring"

@@ -11,7 +11,10 @@
       },
       "sources": [
         "On palm trees."
-      ]
+      ],
+      "name": {
+        "en-US": "Horned Atlas"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 8000
+      },
+      "name": {
+        "en-US": "Horned Atlas",
+        "en-GB": "Horned Atlas",
+        "de": "Atlaskäfer",
+        "es": "Escarabajo astado atlas",
+        "fr": "Scarabée Atlas",
+        "it": "Scarabeo atlas",
+        "nl": "Atlaskever",
+        "zh-CN": "高卡萨斯南洋大兜虫",
+        "zh-TW": "高卡薩斯南洋大兜蟲",
+        "jp": "コーカサスオオカブト",
+        "ko": "코카서스장수풍뎅이"
       }
     }
   }

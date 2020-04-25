@@ -18,6 +18,19 @@
         "red": "Red",
         "purple": "Purple",
         "light-blue": "Light blue"
+      },
+      "name": {
+        "en-US": "Music-Fest Shirt",
+        "en-GB": "Music-Fest Shirt",
+        "de": "Festivalshirt",
+        "es": "Camiseta festival de música",
+        "fr": "T-Shirt festival de musique",
+        "it": "Maglia musicale",
+        "nl": "Festivalshirt",
+        "zh-CN": "音乐节上装",
+        "zh-TW": "音樂節衣服",
+        "jp": "ミュージックフェスなふく",
+        "ko": "뮤직 페스티벌 옷"
       }
     }
   },

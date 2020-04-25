@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1300
         }
-      ]
+      ],
+      "name": {
+        "de": "Gummibaum",
+        "en-GB": "Rubber Tree",
+        "en-US": "Rubber Tree",
+        "es": "Ficus",
+        "fr": "Caoutchouc",
+        "it": "Albero gomma",
+        "ja": "ゴムのき"
+      }
     }
   }
 }

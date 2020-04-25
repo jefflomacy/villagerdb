@@ -11,7 +11,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Dino-Ei",
+        "en-GB": "Dinosaur Egg",
+        "en-US": "Dinosaur Egg",
+        "es": "Huevo dinosaurio",
+        "fr": "\\u0153uf de dinosaure",
+        "it": "Uovo dinosauro",
+        "ja": "タマゴのかせき"
+      }
     }
   }
 }

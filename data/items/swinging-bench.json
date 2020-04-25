@@ -25,7 +25,10 @@
           "currency": "meow",
           "value": 5
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Swinging Bench"
+      }
     },
     "nh": {
       "orderable": false,
@@ -44,6 +47,19 @@
         "white-wood": "White wood",
         "red-wood": "Red wood",
         "dark-wood": "Dark wood"
+      },
+      "name": {
+        "en-US": "Swinging Bench",
+        "en-GB": "Swinging Bench",
+        "de": "Schwingschaukel",
+        "es": "Balancín de jardín",
+        "fr": "Balancelle",
+        "it": "Dondolo",
+        "nl": "Schommelbank",
+        "zh-CN": "秋千椅",
+        "zh-TW": "鞦韆椅",
+        "jp": "ベンチブランコ",
+        "ko": "벤치 그네"
       }
     }
   }

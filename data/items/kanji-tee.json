@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Motiv-Shirt",
+        "en-GB": "Kanji Tee",
+        "en-US": "Kanji Tee",
+        "es": "Camiseta kanji",
+        "fr": "T-shirt kanji",
+        "it": "Maglietta ideogramma",
+        "ja": "かんじTシャツ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -41,6 +50,19 @@
         "pink": "Pink",
         "blue": "Blue",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Kanji Tee",
+        "en-GB": "Kanji Tee",
+        "de": "Motiv-Shirt",
+        "es": "Camiseta kanji",
+        "fr": "T-Shirt kanji",
+        "it": "Maglietta con ideogramma",
+        "nl": "Kanji-T-Shirt",
+        "zh-CN": "汉字T恤",
+        "zh-TW": "漢字T恤",
+        "jp": "かんじＴシャツ",
+        "ko": "한자 티셔츠"
       }
     }
   }

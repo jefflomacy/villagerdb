@@ -15,7 +15,16 @@
       },
       "sources": [
         "Leif (Weeding Day -- Happy Generosity Award)"
-      ]
+      ],
+      "name": {
+        "de": "Stiefmütterchentisch",
+        "en-GB": "Pansy Table",
+        "en-US": "Pansy Table",
+        "es": "Mesa viola",
+        "fr": "Table pensée",
+        "it": "Tavolino viola",
+        "ja": "パンジーのテーブル"
+      }
     },
     "nh": {
       "orderable": false,
@@ -32,6 +41,19 @@
         "yellow": "Yellow",
         "red": "Red",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Pansy Table",
+        "en-GB": "Pansy Table",
+        "de": "Stiefmütterchentisch",
+        "es": "Mesa viola",
+        "fr": "Table pensée",
+        "it": "Tavolo a viola",
+        "nl": "Viooltjestafel",
+        "zh-CN": "三色堇桌",
+        "zh-TW": "三色堇桌",
+        "jp": "パンジーのテーブル",
+        "ko": "팬지 테이블"
       }
     }
   }

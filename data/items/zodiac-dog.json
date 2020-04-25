@@ -14,7 +14,16 @@
       },
       "sources": [
         "New Year's (Isabelle)"
-      ]
+      ],
+      "name": {
+        "de": "Hundefigur",
+        "en-GB": "Zodiac Dog",
+        "en-US": "Zodiac Dog",
+        "es": "Figura de perro",
+        "fr": "Figurine de chien",
+        "it": "Figurina di cane",
+        "ja": "えとのおきもの・いぬ"
+      }
     }
   }
 }

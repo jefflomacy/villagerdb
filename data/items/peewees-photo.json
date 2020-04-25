@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "哑铃的照片",
+        "de": "Foto's von Manfred",
+        "en-GB": "Peewee's Photo",
+        "es": "Foto de Lotar",
+        "fr": "Photo de Gogo",
+        "it": "Foto di Kong",
+        "jp": "ダンベルのしゃしん",
+        "ko": "덤벨의 사진",
+        "nl": "Foto van Peewee",
+        "zh-TW": "啞鈴的照片",
+        "en-US": "Peewee's Photo"
       }
     }
   },

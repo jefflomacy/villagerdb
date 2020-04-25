@@ -18,6 +18,19 @@
         "black": "Black",
         "blue": "Blue",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Imperial Dining Lantern",
+        "en-GB": "Imperial Dining Lantern",
+        "de": "Asia-Restaurant-Laterne",
+        "es": "Farol restaurante oriental",
+        "fr": "Lanterne restaurant chinois",
+        "it": "Lanterna ristorante cinese",
+        "nl": "Keizerlijke eettafellantaarn",
+        "zh-CN": "中式灯笼",
+        "zh-TW": "中式燈籠",
+        "jp": "ちゅうかなランタン",
+        "ko": "중국풍 랜턴"
       }
     }
   },

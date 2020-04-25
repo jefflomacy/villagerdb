@@ -25,7 +25,10 @@
           "currency": "meow",
           "value": 5
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Ringtoss"
+      }
     },
     "nh": {
       "orderable": false,
@@ -43,6 +46,19 @@
         "colorful": "Colorful",
         "pastel": "Pastel",
         "cool": "Cool"
+      },
+      "name": {
+        "en-US": "Ringtoss",
+        "en-GB": "Ringtoss",
+        "de": "Ringwurfspiel",
+        "es": "Juego de lanzar aros",
+        "fr": "Jeu lancer d'anneaux",
+        "it": "Gioco degli anelli",
+        "nl": "Ringwerpspel",
+        "zh-CN": "套圈圈",
+        "zh-TW": "套圈圈",
+        "jp": "わなげ",
+        "ko": "고리 던지기"
       }
     }
   }

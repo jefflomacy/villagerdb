@@ -22,6 +22,19 @@
         "red": "Red",
         "white": "White",
         "retro": "Retro"
+      },
+      "name": {
+        "en-US": "Oil-Barrel Bathtub",
+        "en-GB": "Oil-Barrel Bathtub",
+        "de": "Ölfassbad",
+        "es": "Bañera barril",
+        "fr": "Baignoire baril de pétrole",
+        "it": "Vasca fusto di petrolio",
+        "nl": "Badvat",
+        "zh-CN": "泡澡汽油桶",
+        "zh-TW": "泡澡汽油桶",
+        "jp": "ドラムかんぶろ",
+        "ko": "드럼통 욕조"
       }
     }
   }

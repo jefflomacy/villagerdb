@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1650
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pink Painted-Wood Wall",
+        "en-GB": "Pink Painted-Wood Wall",
+        "de": "Rosaholzwand",
+        "es": "Panelado madera rosa",
+        "fr": "Mur en bois peint rose",
+        "it": "Muro a pannelli rosa",
+        "nl": "Roze houten wand",
+        "zh-CN": "粉红油漆木墙",
+        "zh-TW": "粉紅油漆木牆",
+        "jp": "ピンクのペイントウッドのかべ",
+        "ko": "핑크 페인트 우드 벽"
+      }
     }
   },
   "category": "Wallpaper"

@@ -11,6 +11,19 @@
       },
       "recipe": {
         "cardboard-box": 5
+      },
+      "name": {
+        "en-US": "Large Cardboard Boxes",
+        "en-GB": "Large Cardboard Boxes",
+        "de": "Umzugskistenset",
+        "es": "Lote grande de cajas",
+        "fr": "Tas de cartons L",
+        "it": "Set di scatoloni grandi",
+        "nl": "Grote set kartonnen dozen",
+        "zh-CN": "搬家纸箱L",
+        "zh-TW": "搬家紙箱L",
+        "jp": "ひっこしダンボールL",
+        "ko": "이삿짐 박스 L"
       }
     }
   },

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿西的照片",
+        "de": "Foto's von Hubert",
+        "en-GB": "Barold's Photo",
+        "es": "Foto de Plácido",
+        "fr": "Photo de Manu",
+        "it": "Foto di Placido",
+        "jp": "ニッシーのしゃしん",
+        "ko": "곰시의 사진",
+        "nl": "Foto van Barold",
+        "zh-TW": "阿西的照片",
+        "en-US": "Barold's Photo"
       }
     }
   },

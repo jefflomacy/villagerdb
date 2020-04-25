@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Market Place Decoration",
+        "en-GB": "Market Place Decoration",
+        "de": "Markt-Dekoration",
+        "es": "Estandarte del mercado",
+        "fr": "Décoration place du marché",
+        "it": "Insegna piazza mercato",
+        "nl": "Marktdecoratie",
+        "zh-CN": "林荫广场饰品",
+        "zh-TW": "林蔭廣場裝飾",
+        "jp": "こもれびひろばのかざり",
+        "ko": "햇살 광장 장식"
+      }
     }
   },
   "category": "Furniture"

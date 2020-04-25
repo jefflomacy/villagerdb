@@ -17,6 +17,19 @@
         "black-dots": "Black / Dots",
         "black-navy": "Black / Navy",
         "black-red": "Black / Red"
+      },
+      "name": {
+        "en-US": "Standard Umbrella Stand",
+        "en-GB": "Standard Umbrella Stand",
+        "de": "Regenschirmständer",
+        "es": "Paragüero cuadrado",
+        "fr": "Porte-Parapluie",
+        "it": "Portaombrelli standard",
+        "nl": "Parapluhouder",
+        "zh-CN": "雨伞架",
+        "zh-TW": "雨傘架",
+        "jp": "かさたて",
+        "ko": "우산꽂이"
       }
     }
   },

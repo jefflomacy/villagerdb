@@ -23,7 +23,10 @@
           "currency": "bells",
           "value": 580
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pinafore"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -40,6 +43,19 @@
         "dark-blue": "Dark blue",
         "pink": "Pink",
         "muslin": "Muslin"
+      },
+      "name": {
+        "en-US": "Pinafore",
+        "en-GB": "Pinafore",
+        "de": "Küchenkleid",
+        "es": "Mandil añejo",
+        "fr": "Robe tablier",
+        "it": "Vestito grembiulone",
+        "nl": "Schortjurk",
+        "zh-CN": "和风连袖围裙",
+        "zh-TW": "和風連袖圍裙",
+        "jp": "かっぽうぎ",
+        "ko": "조리복"
       }
     }
   }

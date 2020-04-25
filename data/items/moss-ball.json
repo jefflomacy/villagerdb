@@ -25,7 +25,10 @@
           "currency": "meow",
           "value": 5
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Moss Ball"
+      }
     },
     "nh": {
       "orderable": true,
@@ -38,7 +41,20 @@
           "currency": "bells",
           "value": 720
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Moss Ball",
+        "en-GB": "Moss Ball",
+        "de": "Moosgesteck",
+        "es": "Bola de musgo",
+        "fr": "Boule de mousse",
+        "it": "Vaso di muschio",
+        "nl": "Mosbal",
+        "zh-CN": "青苔球",
+        "zh-TW": "青苔球",
+        "jp": "こけだま",
+        "ko": "이끼 볼"
+      }
     }
   }
 }

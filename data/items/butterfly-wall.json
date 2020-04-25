@@ -15,7 +15,10 @@
       },
       "sources": [
         "Bug Off"
-      ]
+      ],
+      "name": {
+        "en-US": "Butterfly Wall"
+      }
     }
   }
 }

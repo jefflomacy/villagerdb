@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Archelon-Schädel",
+        "en-GB": "Archelon Skull",
+        "en-US": "Archelon Skull",
+        "es": "Cráneo archelon",
+        "fr": "Crâne d'archelon",
+        "it": "Teschio archelone",
+        "ja": "アーケロンのあたま"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4000
+      },
+      "name": {
+        "en-US": "Archelon Skull",
+        "en-GB": "Archelon Skull",
+        "de": "Archelon-Vorderteil",
+        "es": "Cuerpo archelon",
+        "fr": "Crâne d'archélon",
+        "it": "Cranio archelone",
+        "nl": "Archelonkop",
+        "zh-CN": "帝龟的头",
+        "zh-TW": "帝龜的頭",
+        "jp": "アーケロンのあたま",
+        "ko": "아르켈론의 머리"
       }
     }
   }

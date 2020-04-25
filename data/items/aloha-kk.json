@@ -18,7 +18,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Aloha K.K."
+      }
     },
     "nh": {
       "orderable": true,
@@ -31,7 +34,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Aloha K.K.",
+        "en-GB": "Aloha K.K.",
+        "de": "K.K. Südseetraum",
+        "es": "Tota-Aloha",
+        "fr": "Ukulélé Kéké",
+        "it": "K.K. Aloha",
+        "nl": "Aloha K.K.",
+        "zh-CN": "夏威夷K.K.",
+        "zh-TW": "夏威夷K.K.",
+        "jp": "アロハけけ",
+        "ko": "알로하K.K.",
+        "ru": "Алоха К. К."
+      }
     }
   }
 }

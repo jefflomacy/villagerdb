@@ -21,6 +21,19 @@
         "ice-orange": "Ice orange",
         "ice-green": "Ice green",
         "ice-purple": "Ice purple"
+      },
+      "name": {
+        "en-US": "Frozen Table",
+        "en-GB": "Frozen Table",
+        "de": "Eistisch",
+        "es": "Mesa iceberg",
+        "fr": "Table arctique",
+        "it": "Tavolo iceberg",
+        "nl": "Ijstafel",
+        "zh-CN": "冰块桌",
+        "zh-TW": "冰桌",
+        "jp": "こおりのテーブル",
+        "ko": "얼음 테이블"
       }
     }
   },

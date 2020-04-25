@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Paintball Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -32,7 +35,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Paintball Wall",
+        "en-GB": "Paintball Wall",
+        "de": "Farbkleckstapete",
+        "es": "Pared pintura",
+        "fr": "Mur paintball",
+        "it": "Muro atelier",
+        "nl": "Paintballwand",
+        "zh-CN": "画室墙",
+        "zh-TW": "畫室牆",
+        "jp": "アトリエのかべ",
+        "ko": "아틀리에 벽"
+      }
     }
   }
 }

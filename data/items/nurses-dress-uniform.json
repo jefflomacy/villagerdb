@@ -17,6 +17,19 @@
         "pink": "Pink",
         "white": "White",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Nurse's Dress Uniform",
+        "en-GB": "Nurse's Dress Uniform",
+        "de": "Schwesternkittel",
+        "es": "Bata auxiliar de clínica",
+        "fr": "Blouse d'infirmière",
+        "it": "Uniforme da infermiera",
+        "nl": "Verpleegstersuniform",
+        "zh-CN": "护士连身裙",
+        "zh-TW": "護士連身裙",
+        "jp": "かんごしのワンピース",
+        "ko": "간호사 원피스"
       }
     }
   },

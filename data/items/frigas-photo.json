@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "谢宾娜的照片",
+        "de": "Foto's von Frieda",
+        "en-GB": "Friga's Photo",
+        "es": "Foto de Frida",
+        "fr": "Photo de Friga",
+        "it": "Foto di Frida",
+        "jp": "サブリナのしゃしん",
+        "ko": "사브리나의 사진",
+        "nl": "Foto van Friga",
+        "zh-TW": "謝賓娜的照片",
+        "en-US": "Friga's Photo"
       }
     }
   },

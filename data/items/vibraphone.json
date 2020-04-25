@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1900
         }
-      ]
+      ],
+      "name": {
+        "de": "Vibrafon",
+        "en-GB": "Vibraphone",
+        "en-US": "Vibraphone",
+        "es": "Vibráfono",
+        "fr": "Vibraphone",
+        "it": "Vibrafono",
+        "ja": "ヴィブラフォン"
+      }
     }
   }
 }

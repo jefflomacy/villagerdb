@@ -16,6 +16,19 @@
       "variations": {
         "blue": "Blue",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Space Parka",
+        "en-GB": "Space Parka",
+        "de": "Galaxien-Parka",
+        "es": "Sudadera espacial",
+        "fr": "Parka nébuleuse",
+        "it": "Felpa spaziale",
+        "nl": "Jas met ruimteprint",
+        "zh-CN": "太空连帽上衣",
+        "zh-TW": "太空連帽上衣",
+        "jp": "スペースパーカー",
+        "ko": "우주 파카"
       }
     }
   },

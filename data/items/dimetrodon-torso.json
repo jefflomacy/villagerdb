@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Dimetrodon-Torso",
+        "en-GB": "Dimetrodon Torso",
+        "en-US": "Dimetrodon Torso",
+        "es": "Cuerpo dimetrodonte",
+        "fr": "Corps de dimétrodon",
+        "it": "Torso dimetrodonte",
+        "ja": "ディメトロドンのからだ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5000
+      },
+      "name": {
+        "en-US": "Dimetrodon Torso",
+        "en-GB": "Dimetrodon Torso",
+        "de": "Dimetrodon-Torso",
+        "es": "Cuerpo dimetrodonte",
+        "fr": "Corps de dimétrodon",
+        "it": "Torso dimetrodonte",
+        "nl": "Dimetrodonromp",
+        "zh-CN": "异齿龙的身体",
+        "zh-TW": "異齒龍的身體",
+        "jp": "ディメトロドンのからだ",
+        "ko": "디메트로돈의 몸통"
       }
     }
   }

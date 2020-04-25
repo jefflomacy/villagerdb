@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 2200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Tatami Flooring",
+        "en-GB": "Tatami Flooring",
+        "de": "Tatamibelag",
+        "es": "Tatami cuadrado verde",
+        "fr": "Sol tatamis carrés",
+        "it": "Tatami a quadrati",
+        "nl": "Groene tatamivloer",
+        "zh-CN": "无边榻榻米",
+        "zh-TW": "無邊榻榻米",
+        "jp": "ふちなしたたみ",
+        "ko": "일본식 돗자리 바닥"
+      }
     }
   },
   "category": "Flooring"

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "08/15-Shirt",
+        "en-GB": "Bright Tee",
+        "en-US": "Bright Tee",
+        "es": "Camiseta ameba",
+        "fr": "T-shirt amibe",
+        "it": "Maglietta fiore",
+        "ja": "なんかよくみるふく"
+      }
     }
   }
 }

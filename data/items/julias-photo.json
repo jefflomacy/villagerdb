@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "朱莉亚的照片",
+        "de": "Foto's von Julia",
+        "en-GB": "Julia's Photo",
+        "es": "Foto de Julia",
+        "fr": "Photo de Julie",
+        "it": "Foto di Giulia",
+        "jp": "ジュリアのしゃしん",
+        "ko": "줄리아의 사진",
+        "nl": "Foto van Julia",
+        "zh-TW": "朱莉亞的照片",
+        "en-US": "Julia's Photo"
       }
     }
   },

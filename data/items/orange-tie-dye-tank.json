@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "de": "Batiktop",
+        "en-GB": "Orange Tie-Dye Tank",
+        "en-US": "Orange Tie-Dye Tank",
+        "es": "Top hippy ámbar",
+        "fr": "Débard. batik orange",
+        "it": "Canotta arancione",
+        "ja": "オレンジソーダなふくN"
+      }
     }
   }
 }

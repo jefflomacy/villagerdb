@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Wollmütze",
+        "en-GB": "Pink Knit Hat",
+        "en-US": "Pink Knit Hat",
+        "es": "Gorro rosa",
+        "fr": "Bonnet rose",
+        "it": "Berretto rosa",
+        "ja": "ピンクのニットぼう"
+      }
     }
   }
 }

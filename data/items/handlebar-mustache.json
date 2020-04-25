@@ -15,6 +15,19 @@
       ],
       "variations": {
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Handlebar Mustache",
+        "en-GB": "Handlebar Mustache",
+        "de": "Zwirbelbarts",
+        "es": "Bigote inglés",
+        "fr": "Moustache en guidon",
+        "it": "Baffo a manubrio",
+        "nl": "Klassieke snor",
+        "zh-CN": "八字翘胡",
+        "zh-TW": "八字翹鬍",
+        "jp": "カイゼルひげ",
+        "ko": "콧수염"
       }
     }
   },

@@ -17,6 +17,19 @@
         "yellow": "Yellow",
         "blue": "Blue",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Hip-Wrap Shirt",
+        "en-GB": "Hip-Wrap Shirt",
+        "de": "Grunge-Outfit",
+        "es": "Camiseta con camisa atada",
+        "fr": "Chemise sur les hanches",
+        "it": "Camicia legata in vita",
+        "nl": "Shirt met omgeknoopt hemd",
+        "zh-CN": "绑腰衬衫",
+        "zh-TW": "綁腰襯衫",
+        "jp": "こしまきシャツ",
+        "ko": "허리에 두른 셔츠"
       }
     }
   },

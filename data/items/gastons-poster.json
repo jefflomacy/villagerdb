@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "猛兔的海报",
+        "de": "Poster's von Gaston",
+        "en-GB": "Gaston's Poster",
+        "es": "Póster de Gastón",
+        "fr": "Poster de Gaston",
+        "it": "Poster di Gaston",
+        "jp": "モサキチのポスター",
+        "ko": "대길의 포스터",
+        "nl": "Poster van Gaston",
+        "zh-TW": "猛兔的海報",
+        "en-US": "Gaston's Poster"
+      }
     }
   },
   "category": "Photos"

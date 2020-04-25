@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2200
         }
-      ]
+      ],
+      "name": {
+        "de": "Kindergarderobe",
+        "en-GB": "Kiddie Bureau",
+        "en-US": "Kiddie Bureau",
+        "es": "Armario puzle",
+        "fr": "Armoire enfant",
+        "it": "Comò bimbi",
+        "ja": "カラフルなビューロ"
+      }
     }
   }
 }

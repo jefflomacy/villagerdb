@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "月兔的海报",
+        "de": "Poster's von Rubina",
+        "en-GB": "Ruby's Poster",
+        "es": "Póster de Rubí",
+        "fr": "Poster de Rubis",
+        "it": "Poster di Rubina",
+        "jp": "ルナのポスター",
+        "ko": "루나의 포스터",
+        "nl": "Poster van Ruby",
+        "zh-TW": "月兔的海報",
+        "en-US": "Ruby's Poster"
+      }
     }
   },
   "category": "Photos"

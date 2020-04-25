@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1650
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Green Painted-Wood Wall",
+        "en-GB": "Green Painted-Wood Wall",
+        "de": "Grünholzwand",
+        "es": "Panelado madera verde",
+        "fr": "Mur en bois peint vert",
+        "it": "Muro a pannelli verde",
+        "nl": "Groene houten wand",
+        "zh-CN": "绿色油漆木墙",
+        "zh-TW": "綠色油漆木牆",
+        "jp": "みどりのペイントウッドのかべ",
+        "ko": "초록 페인트 우드 벽"
+      }
     }
   },
   "category": "Wallpaper"

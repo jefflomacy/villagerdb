@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 8000
         }
-      ]
+      ],
+      "name": {
+        "de": "\\u201E8\\u201C-Lampe",
+        "en-GB": "Eight Lamp",
+        "en-US": "Eight Lamp",
+        "es": "Lámpara ocho",
+        "fr": "Lampe 8",
+        "it": "Lampada a 8",
+        "ja": "8のランプ"
+      }
     }
   }
 }

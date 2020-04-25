@@ -24,7 +24,10 @@
           "currency": "bells",
           "value": 8000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Dollhouse Dress"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -45,6 +48,19 @@
         "purple": "Purple",
         "sky-blue": "Sky blue",
         "light-blue": "Light blue"
+      },
+      "name": {
+        "en-US": "Dollhouse Dress",
+        "en-GB": "Dollhouse Dress",
+        "de": "Püppchenkleid",
+        "es": "Vestido amplio con encaje",
+        "fr": "Robe d'été poupée",
+        "it": "Scamiciato con balze",
+        "nl": "Poppenjurk",
+        "zh-CN": "吊带蛋糕裙",
+        "zh-TW": "偶像服",
+        "jp": "アイドルなふく",
+        "ko": "아이돌 의상"
       }
     }
   }

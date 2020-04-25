@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 9200
         }
-      ]
+      ],
+      "name": {
+        "de": "Turm von Pisa",
+        "en-GB": "Tower Of Pisa",
+        "en-US": "Tower Of Pisa",
+        "es": "Torre de Pisa",
+        "fr": "Tour de Pise",
+        "it": "Torre di Pisa",
+        "ja": "ピサのしゃとう"
+      }
     },
     "nh": {
       "orderable": false,
@@ -30,6 +39,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2300
+      },
+      "name": {
+        "en-US": "Tower Of Pisa",
+        "en-GB": "Tower Of Pisa",
+        "de": "Turm",
+        "es": "Torre de Pisa",
+        "fr": "Tour de Pise",
+        "it": "Torre di Pisa",
+        "nl": "Toren van Pisa",
+        "zh-CN": "比萨斜塔",
+        "zh-TW": "比薩斜塔",
+        "jp": "ピサのしゃとう",
+        "ko": "피사의 사탑"
       }
     }
   }

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "玛莎的照片",
+        "de": "Foto's von Doro",
+        "en-GB": "Dotty's Photo",
+        "es": "Foto de Katia",
+        "fr": "Photo de Dorothée",
+        "it": "Foto di Dotty",
+        "jp": "マーサのしゃしん",
+        "ko": "서머의 사진",
+        "nl": "Foto van Dotty",
+        "zh-TW": "瑪莎的照片",
+        "en-US": "Dotty's Photo"
       }
     }
   },

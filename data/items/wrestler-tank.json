@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "de": "Wrestlingtrikot",
+        "en-GB": "Wrestler Tank",
+        "en-US": "Wrestler Tank",
+        "es": "Top luchador",
+        "fr": "Débardeur catch",
+        "it": "Canotta wrestling",
+        "ja": "プロレススーツ"
+      }
     }
   }
 }

@@ -11,6 +11,19 @@
       },
       "recipe": {
         "iron-nugget": 6
+      },
+      "name": {
+        "en-US": "Iron Fence",
+        "en-GB": "Iron Fence",
+        "de": "Eisenzaun",
+        "es": "Verja de hierro",
+        "fr": "Clôture en fer",
+        "it": "Recinzione di ferro",
+        "nl": "Ijzeren hek",
+        "zh-CN": "铁栅栏",
+        "zh-TW": "鐵柵欄",
+        "jp": "てつのさく",
+        "ko": "철제 울타리"
       }
     }
   },

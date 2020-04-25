@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "樱桃的照片",
+        "de": "Foto's von Claudia",
+        "en-GB": "Cheri's Photo",
+        "es": "Foto de Cerecita",
+        "fr": "Photo de Rosalie",
+        "it": "Foto di Bonbon",
+        "jp": "アセロラのしゃしん",
+        "ko": "아세로라의 사진",
+        "nl": "Foto van Cheri",
+        "zh-TW": "櫻桃的照片",
+        "en-US": "Cheri's Photo"
       }
     }
   },

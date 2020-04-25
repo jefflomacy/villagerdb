@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Spring Blossoms"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,7 +36,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Spring Blossoms",
+        "en-GB": "Spring Blossoms",
+        "de": "Frühlingsblüten",
+        "es": "Capullos en flor",
+        "fr": "Floraison",
+        "it": "Fiori marzolini",
+        "nl": "Lentebloesems",
+        "zh-CN": "春暖花开",
+        "zh-TW": "春暖花開",
+        "jp": "はるのこもれび",
+        "ko": "봄날의 여유",
+        "ru": "Весенний цвету"
+      }
     }
   }
 }

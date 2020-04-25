@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 6400
         }
-      ]
+      ],
+      "name": {
+        "de": "Schmuckhut",
+        "en-GB": "Elegant Hat",
+        "en-US": "Elegant Hat",
+        "es": "Pamela elegante",
+        "fr": "Chapeau classe",
+        "it": "Cappello elegante",
+        "ja": "エレガントなぼうし"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -42,6 +51,19 @@
         "red": "Red",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Elegant Hat",
+        "en-GB": "Elegant Hat",
+        "de": "Schmuckhut",
+        "es": "Pamela elegante",
+        "fr": "Chapeau classe",
+        "it": "Cappello elegante",
+        "nl": "Elegante hoed",
+        "zh-CN": "优雅帽子",
+        "zh-TW": "優雅帽子",
+        "jp": "エレガントなぼうし",
+        "ko": "엘레강스 모자"
       }
     }
   }

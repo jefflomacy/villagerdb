@@ -14,7 +14,10 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Instruction Manual"
+      }
     }
   }
 }

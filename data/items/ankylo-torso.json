@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Ankylosaurus-Torso",
+        "en-GB": "Ankylo Torso",
+        "en-US": "Ankylo Torso",
+        "es": "Cuerpo anquilosaurio",
+        "fr": "Torse d'ankylosaure",
+        "it": "Torso anchilosauro",
+        "ja": "アンキロサウルスのからだ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3000
+      },
+      "name": {
+        "en-US": "Ankylo Torso",
+        "en-GB": "Ankylo Torso",
+        "de": "Ankylosaurus-Torso",
+        "es": "Cuerpo anquilosaurio",
+        "fr": "Torse d'ankylosaure",
+        "it": "Torso anchilosauro",
+        "nl": "Ankylosaurusromp",
+        "zh-CN": "甲龙的身体",
+        "zh-TW": "甲龍的身體",
+        "jp": "アンキロサウルスのからだ",
+        "ko": "안킬로사우루스의 몸통"
       }
     }
   }

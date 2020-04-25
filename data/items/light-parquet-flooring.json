@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1560
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Light Parquet Flooring",
+        "en-GB": "Light Parquet Flooring",
+        "de": "Hell-Rautenparkett",
+        "es": "Parqué rombos claro",
+        "fr": "Sol parquet clair",
+        "it": "Parquet chiaro",
+        "nl": "Licht",
+        "zh-CN": "浅色拼花地板",
+        "zh-TW": "淺色拼花地板",
+        "jp": "ライトなパーケットフローリング",
+        "ko": "밝은 쪽모이 바닥"
+      }
     }
   },
   "category": "Flooring"

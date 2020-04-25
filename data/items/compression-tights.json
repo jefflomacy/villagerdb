@@ -19,6 +19,19 @@
         "pink": "Pink",
         "mint": "Mint",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Compression Tights",
+        "en-GB": "Compression Tights",
+        "de": "Kompressionsstrumpfhose",
+        "es": "Malla de compresión",
+        "fr": "Collant de contention",
+        "it": "Paio di calze contenitive",
+        "nl": "Compressielegging",
+        "zh-CN": "压力裤袜",
+        "zh-TW": "壓力褲襪",
+        "jp": "コンプレッションタイツ",
+        "ko": "압박 타이츠"
       }
     }
   },

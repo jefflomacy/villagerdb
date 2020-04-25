@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "朱禄的海报",
+        "de": "Poster's von Guido",
+        "en-GB": "Cranston's Poster",
+        "es": "Póster de Carmelo",
+        "fr": "Poster de Gabin",
+        "it": "Poster di Carmine",
+        "jp": "トキオのポスター",
+        "ko": "타키의 포스터",
+        "nl": "Poster van Cranston",
+        "zh-TW": "朱祿的海報",
+        "en-US": "Cranston's Poster"
+      }
     }
   },
   "category": "Photos"

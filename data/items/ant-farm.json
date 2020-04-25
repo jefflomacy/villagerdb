@@ -13,7 +13,20 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Ant Farm",
+        "en-GB": "Ant Farm",
+        "de": "Ameisenfarm",
+        "es": "Granja de hormigas",
+        "fr": "Élevage de fourmis",
+        "it": "Allevamento di formiche",
+        "nl": "Mierenboerderij",
+        "zh-CN": "蚂蚁农场",
+        "zh-TW": "螞蟻農場",
+        "jp": "アントファーム",
+        "ko": "개미 키우기 세트"
+      }
     }
   },
   "category": "Furniture"

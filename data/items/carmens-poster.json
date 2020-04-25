@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "巧蔻的海报",
+        "de": "Poster's von Hilda",
+        "en-GB": "Carmen's Poster",
+        "es": "Póster de Linda",
+        "fr": "Poster de Zoé",
+        "it": "Poster di Conny",
+        "jp": "チョコのポスター",
+        "ko": "초코의 포스터",
+        "nl": "Poster van Carmen",
+        "zh-TW": "巧蔻的海報",
+        "en-US": "Carmen's Poster"
+      }
     }
   },
   "category": "Photos"

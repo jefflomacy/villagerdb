@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "de": "Sekretärstuhl",
+        "en-GB": "Writing Chair",
+        "en-US": "Writing Chair",
+        "es": "Silla escritorio",
+        "fr": "Siège secrétaire",
+        "it": "Sedia scrittoio",
+        "ja": "べんきょうイス"
+      }
     },
     "nh": {
       "customizable": true,
@@ -48,6 +57,19 @@
         "white-yellow": "White / Yellow",
         "white-blue": "White / Blue",
         "white-pink": "White / Pink"
+      },
+      "name": {
+        "en-US": "Writing Chair",
+        "en-GB": "Writing Chair",
+        "de": "Lern-Stuhl",
+        "es": "Silla aprendizaje",
+        "fr": "Chaise d'études",
+        "it": "Sedia da studio",
+        "nl": "Huiswerkstoel",
+        "zh-CN": "学习椅",
+        "zh-TW": "學習椅",
+        "jp": "がくしゅうチェア",
+        "ko": "공부 의자"
       }
     }
   }

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "小润的照片",
+        "de": "Foto's von Huschke",
+        "en-GB": "Marshal's Photo",
+        "es": "Foto de Munchi",
+        "fr": "Photo de Mathéo",
+        "it": "Foto di Scott",
+        "jp": "ジュンのしゃしん",
+        "ko": "쭈니의 사진",
+        "nl": "Foto van Marshal",
+        "zh-TW": "小潤的照片",
+        "en-US": "Marshal's Photo"
       }
     }
   },

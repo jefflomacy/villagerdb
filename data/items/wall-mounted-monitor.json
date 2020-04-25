@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 3800
         }
-      ]
+      ],
+      "name": {
+        "de": "Wandmonitor",
+        "en-GB": "Wall-Mounted Monitor",
+        "en-US": "Wall-Mounted Monitor",
+        "es": "Monitor de pared",
+        "fr": "écran mural",
+        "it": "Schermo da parete",
+        "ja": "かべかけモニター"
+      }
     }
   }
 }

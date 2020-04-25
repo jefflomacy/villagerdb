@@ -18,7 +18,16 @@
           "currency": "bells",
           "value": 1792
         }
-      ]
+      ],
+      "name": {
+        "de": "Rundengong",
+        "en-GB": "Judge's Bell",
+        "en-US": "Judge's Bell",
+        "es": "Campana de juez",
+        "fr": "Gong",
+        "it": "Campanello",
+        "ja": "ゴング"
+      }
     },
     "nh": {
       "orderable": true,
@@ -31,7 +40,20 @@
           "currency": "bells",
           "value": 920
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Judge's Bell",
+        "en-GB": "Judge's Bell",
+        "de": "Rundengong",
+        "es": "Campana de juez",
+        "fr": "Gong",
+        "it": "Campanella",
+        "nl": "Wedstrijdbel",
+        "zh-CN": "拳击钟",
+        "zh-TW": "拳擊鐘",
+        "jp": "ゴング",
+        "ko": "시합을 알리는 공"
+      }
     }
   }
 }

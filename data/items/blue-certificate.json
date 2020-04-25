@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 960
         }
-      ]
+      ],
+      "name": {
+        "de": "Urkunde",
+        "en-GB": "Blue Certificate",
+        "en-US": "Blue Certificate",
+        "es": "Certificado azul",
+        "fr": "Diplôme bleu",
+        "it": "Attestato corso surf",
+        "ja": "ヨコがきのしょうじょう"
+      }
     }
   }
 }

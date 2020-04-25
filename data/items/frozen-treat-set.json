@@ -20,6 +20,19 @@
         "berry": "Berry",
         "kiwifruit": "Kiwifruit",
         "chocolate-mint": "Chocolate mint"
+      },
+      "name": {
+        "en-US": "Frozen-Treat Set",
+        "en-GB": "Frozen-Treat Set",
+        "de": "Stieleis-Duo",
+        "es": "Bandeja con polos",
+        "fr": "Lot de glaces à l'eau",
+        "it": "Set di ghiaccioli iceberg",
+        "nl": "Ijslollyset",
+        "zh-CN": "冰棒",
+        "zh-TW": "冰棒",
+        "jp": "アイスキャンディー",
+        "ko": "막대 아이스크림"
       }
     }
   },

@@ -22,6 +22,19 @@
         "light-blue": "Light blue",
         "green": "Green",
         "two-toned-tile": "Two-toned tile"
+      },
+      "name": {
+        "en-US": "Long Bathtub",
+        "en-GB": "Long Bathtub",
+        "de": "Luxus-Badewanne",
+        "es": "Bañera estrecha",
+        "fr": "Baignoire longue",
+        "it": "Vasca da bagno lunga",
+        "nl": "Ligbad",
+        "zh-CN": "浴缸",
+        "zh-TW": "浴缸",
+        "jp": "バスタブ",
+        "ko": "욕조"
       }
     }
   },

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Heiztisch",
+        "en-GB": "Kotatsu",
+        "en-US": "Kotatsu",
+        "es": "Kotatsu",
+        "fr": "Kotatsu",
+        "it": "Kotatsu",
+        "ja": "こたつ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -38,6 +47,19 @@
         "flowers": "Flowers",
         "checkered": "Checkered",
         "stripes": "Stripes"
+      },
+      "name": {
+        "en-US": "Kotatsu",
+        "en-GB": "Kotatsu",
+        "de": "Heiztisch",
+        "es": "Kotatsu",
+        "fr": "Kotatsu",
+        "it": "Kotatsu",
+        "nl": "Kotatsutafel",
+        "zh-CN": "被炉",
+        "zh-TW": "被爐",
+        "jp": "こたつ",
+        "ko": "이불탁자"
       }
     }
   }

@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2000
+      },
+      "name": {
+        "en-US": "Giant Water Bug",
+        "en-GB": "Giant Water Bug",
+        "de": "Riesenwanze",
+        "es": "Chinche acuática gigante",
+        "fr": "Punaise d'eau géante",
+        "it": "Cimice d'acqua gigante",
+        "nl": "Reuzenwaterwants",
+        "zh-CN": "田鳖",
+        "zh-TW": "田鱉",
+        "jp": "タガメ",
+        "ko": "물장군"
       }
     }
   },

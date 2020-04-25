@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "史培亚的照片",
+        "de": "Foto's von Grimm",
+        "en-GB": "Fang's Photo",
+        "es": "Foto de Colmillo",
+        "fr": "Photo de Pierrot",
+        "it": "Foto di Zanna",
+        "jp": "シベリアのしゃしん",
+        "ko": "시베리아의 사진",
+        "nl": "Foto van Fang",
+        "zh-TW": "史培亞的照片",
+        "en-US": "Fang's Photo"
       }
     }
   },

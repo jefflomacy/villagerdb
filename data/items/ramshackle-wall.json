@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Ramshackle Wall"
+      }
     },
     "nh": {
       "orderable": false,
@@ -36,7 +39,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Ramshackle Wall",
+        "en-GB": "Ramshackle Wall",
+        "de": "Bruchbudenwand",
+        "es": "Pared ruinas",
+        "fr": "Mur délabré",
+        "it": "Muro diroccato",
+        "nl": "Krakkemikkige wand",
+        "zh-CN": "废墟墙",
+        "zh-TW": "廢墟牆",
+        "jp": "はいきょのかべ",
+        "ko": "폐허 벽"
+      }
     }
   }
 }

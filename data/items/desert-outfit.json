@@ -18,6 +18,19 @@
         "blue": "Blue",
         "pink": "Pink",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Desert Outfit",
+        "en-GB": "Desert Outfit",
+        "de": "1001-Nacht-Outfit",
+        "es": "Traje del desierto",
+        "fr": "Tenue prince du désert",
+        "it": "Abito da mille e una notte",
+        "nl": "Woestijnoutfit",
+        "zh-CN": "阿拉伯传统服装",
+        "zh-TW": "阿拉伯服",
+        "jp": "アラビアなふく",
+        "ko": "아라비아풍 옷"
       }
     }
   },

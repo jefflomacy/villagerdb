@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Wellenbrecher",
+        "en-GB": "Wave Breaker",
+        "en-US": "Wave Breaker",
+        "es": "Rompeolas",
+        "fr": "Brise-lames",
+        "it": "Frangionde",
+        "ja": "しょうはブロック"
+      }
     },
     "nh": {
       "orderable": false,
@@ -36,6 +45,19 @@
       "recipe": {
         "stone": 10,
         "clay": 10
+      },
+      "name": {
+        "en-US": "Wave Breaker",
+        "en-GB": "Wave Breaker",
+        "de": "Wellenbrecher",
+        "es": "Rompeolas",
+        "fr": "Brise-Lames",
+        "it": "Frangionde",
+        "nl": "Golfbreker",
+        "zh-CN": "消波块",
+        "zh-TW": "消波塊",
+        "jp": "しょうはブロック",
+        "ko": "방파제 블록"
       }
     }
   }

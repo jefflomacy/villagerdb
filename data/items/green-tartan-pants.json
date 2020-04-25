@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Kontrast-Karo-Hose",
+        "en-GB": "Green Tartan Pants",
+        "en-US": "Green Tartan Pants",
+        "es": "Pantalón tartán jade",
+        "fr": "Pantalon tartan vert",
+        "it": "Pantal. tartan verde",
+        "ja": "みどりのタータンパンツ"
+      }
     }
   }
 }

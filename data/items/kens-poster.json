@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "乌骨鸡的海报",
+        "de": "Poster's von Hannes",
+        "en-GB": "Ken's Poster",
+        "es": "Póster de Pichón",
+        "fr": "Poster de Ken",
+        "it": "Poster di Aligalli",
+        "jp": "クロベエのポスター",
+        "ko": "오골의 포스터",
+        "nl": "Poster van Ken",
+        "zh-TW": "烏骨雞的海報",
+        "en-US": "Ken's Poster"
+      }
     }
   },
   "category": "Photos"

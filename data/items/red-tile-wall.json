@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 1680
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Tile Wall"
+      }
     }
   }
 }

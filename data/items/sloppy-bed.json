@@ -16,7 +16,16 @@
       },
       "sources": [
         "Re-Tail (flea market) or Police Station (lost and found)"
-      ]
+      ],
+      "name": {
+        "de": "Schlamperbett",
+        "en-GB": "Sloppy Bed",
+        "en-US": "Sloppy Bed",
+        "es": "Cama desorden",
+        "fr": "Lit négligé",
+        "it": "Letto trasandato",
+        "ja": "だらしないベッド"
+      }
     }
   }
 }

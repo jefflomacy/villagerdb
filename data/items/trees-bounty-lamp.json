@@ -21,6 +21,19 @@
       "variations": {
         "red": "Red",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Tree's Bounty Lamp",
+        "en-GB": "Tree's Bounty Lamp",
+        "de": "Baumfrucht-Lampe",
+        "es": "Lámpara frutos del bosque",
+        "fr": "Lampe fruits des bois",
+        "it": "Lampada frutti dell'albero",
+        "nl": "Herfstlamp",
+        "zh-CN": "树果灯",
+        "zh-TW": "樹果燈",
+        "jp": "きのみのランプ",
+        "ko": "나무 열매 램프"
       }
     }
   },

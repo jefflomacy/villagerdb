@@ -8,7 +8,20 @@
           "currency": "bells",
           "value": 168000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Log Staircase",
+        "en-GB": "Log Staircase",
+        "de": "Baumstammtreppe",
+        "es": "Escalera de troncos",
+        "fr": "Escalier en rondins",
+        "it": "Scala di tronchi",
+        "nl": "Boomstammentrap",
+        "zh-CN": "圆木台阶",
+        "zh-TW": "圓木樓梯",
+        "jp": "まるたのかいだん",
+        "ko": "통나무 계단"
+      }
     }
   },
   "category": "Furniture"

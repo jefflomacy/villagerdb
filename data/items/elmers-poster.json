@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "酥饼的海报",
+        "de": "Poster's von Emil",
+        "en-GB": "Elmer's Poster",
+        "es": "Póster de Jacinto",
+        "fr": "Poster de Martin",
+        "it": "Poster di Oreste",
+        "jp": "サブレのポスター",
+        "ko": "샤브렌의 포스터",
+        "nl": "Poster van Elmer",
+        "zh-TW": "酥餅的海報",
+        "en-US": "Elmer's Poster"
+      }
     }
   },
   "category": "Photos"

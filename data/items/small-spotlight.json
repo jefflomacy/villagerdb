@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "name": {
+        "de": "Scheinwerfer",
+        "en-GB": "Small Spotlight",
+        "en-US": "Small Spotlight",
+        "es": "Foco pequeño",
+        "fr": "Projecteur",
+        "it": "Riflettore piccolo",
+        "ja": "スポットライトS"
+      }
     }
   }
 }

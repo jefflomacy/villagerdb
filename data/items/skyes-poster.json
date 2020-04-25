@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "百合的海报",
+        "de": "Poster's von Sabine",
+        "en-GB": "Skye's Poster",
+        "es": "Póster de Alderia",
+        "fr": "Poster de Marilou",
+        "it": "Poster di Lupilla",
+        "jp": "リリィのポスター",
+        "ko": "릴리의 포스터",
+        "nl": "Poster van Skye",
+        "zh-TW": "百合的海報",
+        "en-US": "Skye's Poster"
+      }
     }
   },
   "category": "Photos"

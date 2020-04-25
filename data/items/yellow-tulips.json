@@ -17,7 +17,20 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Tulips",
+        "en-GB": "Yellow Tulips",
+        "de": "Viridifloratulpe",
+        "es": "Tulipán amarillo",
+        "fr": "Tulipe jaune",
+        "it": "Tulipano giallo",
+        "nl": "Gele tulp",
+        "zh-CN": "黄色郁金香",
+        "zh-TW": "黃色鬱金香",
+        "jp": "きいろいチューリップ",
+        "ko": "노란 튤립"
+      }
     }
   },
   "category": "Flowers"

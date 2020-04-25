@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Tropical Rug",
+        "en-GB": "Tropical Rug",
+        "de": "Tropikteppich",
+        "es": "Alfombra tropical",
+        "fr": "Tapis tropical",
+        "it": "Tappeto tropicale",
+        "nl": "Tropische tapijt",
+        "zh-CN": "热带岛屿地毯",
+        "zh-TW": "南方小島地毯",
+        "jp": "みなみのしまのラグ",
+        "ko": "남쪽 섬 러그"
+      }
     }
   },
   "category": "Flooring"

@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "name": {
+        "de": "Schwert",
+        "en-GB": "Sword",
+        "en-US": "Sword",
+        "es": "Espada",
+        "fr": "épée",
+        "it": "Spada",
+        "ja": "たち"
+      }
     }
   }
 }

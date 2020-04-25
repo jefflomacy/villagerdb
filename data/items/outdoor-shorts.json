@@ -26,6 +26,19 @@
         "green": "Green",
         "brown": "Brown",
         "yellow-green": "Yellow-green"
+      },
+      "name": {
+        "en-US": "Outdoor Shorts",
+        "en-GB": "Outdoor Shorts",
+        "de": "Outdoor-Hose",
+        "es": "Pantalón de paseo",
+        "fr": "Short de randonnée",
+        "it": "Pantaloncino da camminata",
+        "nl": "Kampeerbroek",
+        "zh-CN": "户外活动裤",
+        "zh-TW": "戶外活動褲",
+        "jp": "アウトドアパンツ",
+        "ko": "아웃도어 팬츠"
       }
     }
   },

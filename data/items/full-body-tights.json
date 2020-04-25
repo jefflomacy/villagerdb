@@ -22,6 +22,19 @@
         "pink": "Pink",
         "gold": "Gold",
         "silver": "Silver"
+      },
+      "name": {
+        "en-US": "Full-Body Tights",
+        "en-GB": "Full-Body Tights",
+        "de": "Neoprenanzug",
+        "es": "Traje térmico",
+        "fr": "Collant intégral",
+        "it": "Tuta aderente",
+        "nl": "Stretchpak",
+        "zh-CN": "全身紧身衣",
+        "zh-TW": "全身緊身衣",
+        "jp": "ぜんしんタイツ",
+        "ko": "전신 타이츠"
       }
     }
   },

@@ -28,7 +28,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Badematte",
+        "en-GB": "Bath Mat",
+        "en-US": "Bath Mat",
+        "es": "Alfombra baño",
+        "fr": "Tapis de bain",
+        "it": "Tappetino bagno",
+        "ja": "おふろマット"
+      }
     }
   }
 }

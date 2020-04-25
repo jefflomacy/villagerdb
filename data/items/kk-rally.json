@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Rally"
+      }
     },
     "nh": {
       "orderable": true,
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Rally",
+        "en-GB": "K.K. Rally",
+        "de": "K.K. Parade 2",
+        "es": "Tota-Parada",
+        "fr": "Parade Kéké",
+        "it": "K.K. Gran galà",
+        "nl": "K.K.-Optocht",
+        "zh-CN": "K.K.大和祭典",
+        "zh-TW": "K.K.大和祭典",
+        "jp": "けけおんど",
+        "ko": "K.K.축제",
+        "ru": "Ралли К. К."
+      }
     }
   }
 }

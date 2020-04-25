@@ -12,6 +12,19 @@
       "recipe": {
         "gold-nugget": 1,
         "watering-can": 1
+      },
+      "name": {
+        "en-US": "Golden Watering Can",
+        "en-GB": "Golden Watering Can",
+        "de": "Goldkanne",
+        "es": "Regadera de oro",
+        "fr": "Arrosoir doré",
+        "it": "Annaffiatoio d'oro",
+        "nl": "Gouden gieter",
+        "zh-CN": "金色浇花壶",
+        "zh-TW": "金色澆花壺",
+        "jp": "きんのジョウロ",
+        "ko": "금 물뿌리개"
       }
     }
   },

@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 900
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White Mosaic-Tile Flooring",
+        "en-GB": "White Mosaic-Tile Flooring",
+        "de": "Weiß-Minifliesenboden",
+        "es": "Suelo alicatado blanco",
+        "fr": "Sol mosaïque blanche",
+        "it": "Pavimento mosaico bianco",
+        "nl": "Witte mozaïektegelvloer",
+        "zh-CN": "白色马赛克砖地板",
+        "zh-TW": "白色馬賽克磚地板",
+        "jp": "しろいモザイクタイルのゆか",
+        "ko": "하얀 모자이크 타일 바닥"
+      }
     }
   },
   "category": "Flooring"

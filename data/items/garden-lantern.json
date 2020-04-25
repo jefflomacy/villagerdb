@@ -25,7 +25,10 @@
           "currency": "meow",
           "value": 5
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Garden Lantern"
+      }
     },
     "nh": {
       "orderable": true,
@@ -46,6 +49,19 @@
         "black": "Black",
         "white": "White",
         "bronze": "Bronze"
+      },
+      "name": {
+        "en-US": "Garden Lantern",
+        "en-GB": "Garden Lantern",
+        "de": "Gartenlaterne",
+        "es": "Farol de jardín",
+        "fr": "Lampe de jardin",
+        "it": "Lanterna da giardino",
+        "nl": "Tuinlantaarn",
+        "zh-CN": "花园灯",
+        "zh-TW": "花園燈",
+        "jp": "ガーデンライト",
+        "ko": "정원 랜턴"
       }
     }
   }

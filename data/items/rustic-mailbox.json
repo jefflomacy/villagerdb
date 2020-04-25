@@ -2,7 +2,21 @@
   "id": "rustic-mailbox",
   "name": "Rustic Mailbox",
   "games": {
-    "nh": {}
+    "nh": {
+      "name": {
+        "zh-CN": "朴素信箱",
+        "de": "Rustikalbriefkasten's",
+        "en-GB": "Rustic Mailbox",
+        "es": "Buzón rústico",
+        "fr": "B.A.L. rudimentaire",
+        "it": "Cassetta posta grezza",
+        "jp": "そぼくなポスト",
+        "ko": "소박한 우편함",
+        "nl": "Rustieke brievenbus",
+        "zh-TW": "樸素郵筒",
+        "en-US": "Rustic Mailbox"
+      }
+    }
   },
   "category": "Furniture"
 }

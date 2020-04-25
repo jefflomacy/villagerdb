@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 600
         }
-      ]
+      ],
+      "name": {
+        "de": "Hockerturm",
+        "en-GB": "Spa Chair",
+        "en-US": "Spa Chair",
+        "es": "Pila de taburetes",
+        "fr": "Tas de tabourets",
+        "it": "Pila di sgabelli",
+        "ja": "おふろのイス"
+      }
     }
   }
 }

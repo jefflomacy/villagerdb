@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Kirschenshirt",
+        "en-GB": "Cherry Tee",
+        "en-US": "Cherry Tee",
+        "es": "Camiseta cereza",
+        "fr": "T-shirt cerises",
+        "it": "Maglietta ciliegia",
+        "ja": "さくらんぼのふく"
+      }
     }
   }
 }

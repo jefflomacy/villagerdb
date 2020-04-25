@@ -12,7 +12,10 @@
       },
       "sources": [
         "Saharah"
-      ]
+      ],
+      "name": {
+        "en-US": "Ringside Seating"
+      }
     },
     "nh": {
       "orderable": false,
@@ -28,7 +31,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Ringside Seating",
+        "en-GB": "Ringside Seating",
+        "de": "Publikumstapete",
+        "es": "Pared boxeo",
+        "fr": "Mur gymnase",
+        "it": "Muro con platea",
+        "nl": "Boksringwand",
+        "zh-CN": "职业摔角墙",
+        "zh-TW": "職業摔角牆",
+        "jp": "プロレスのかべ",
+        "ko": "레슬링 경기장 벽"
+      }
     }
   }
 }

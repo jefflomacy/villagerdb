@@ -14,7 +14,10 @@
           "currency": "bells",
           "value": 8000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Giant Teddy Bear"
+      }
     },
     "nh": {
       "customizable": true,
@@ -58,6 +61,19 @@
         "tweed-white": "Tweed / White",
         "tweed-giant-dots": "Tweed / Giant dots",
         "tweed-giant-stripes": "Tweed / Giant stripes"
+      },
+      "name": {
+        "en-US": "Giant Teddy Bear",
+        "en-GB": "Giant Teddy Bear",
+        "de": "Riesenteddy",
+        "es": "Papá oso gigante",
+        "fr": "Nounours géant",
+        "it": "Orsacchiotto gigante",
+        "nl": "Reuzenteddybeer",
+        "zh-CN": "特大熊熊",
+        "zh-TW": "特大熊熊",
+        "jp": "くまのトクダイちゃん",
+        "ko": "특대 곰인형"
       }
     }
   }

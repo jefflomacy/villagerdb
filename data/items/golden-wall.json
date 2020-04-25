@@ -15,7 +15,10 @@
       },
       "sources": [
         "Re-Tail (refurbish)"
-      ]
+      ],
+      "name": {
+        "en-US": "Golden Wall"
+      }
     },
     "nh": {
       "orderable": false,
@@ -25,6 +28,19 @@
       },
       "recipe": {
         "gold-nugget": 4
+      },
+      "name": {
+        "en-US": "Golden Wall",
+        "en-GB": "Golden Wall",
+        "de": "Goldtapete",
+        "es": "Pared dorada",
+        "fr": "Mur d'or",
+        "it": "Muro d'oro",
+        "nl": "Gouden wand",
+        "zh-CN": "黄金墙",
+        "zh-TW": "黃金牆",
+        "jp": "おうごんのかべ",
+        "ko": "황금 벽"
       }
     }
   }

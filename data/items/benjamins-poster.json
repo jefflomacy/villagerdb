@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "小八的海报",
+        "de": "Poster's von Wastl",
+        "en-GB": "Benjamin's Poster",
+        "es": "Póster de Bernardo",
+        "fr": "Poster de Bernardo",
+        "it": "Poster di Bernardo",
+        "jp": "ハチのポスター",
+        "ko": "땡칠이의 포스터",
+        "nl": "Poster van Benjamin",
+        "zh-TW": "小八的海報",
+        "en-US": "Benjamin's Poster"
+      }
     }
   },
   "category": "Photos"

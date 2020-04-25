@@ -20,6 +20,19 @@
         "green": "Green",
         "olive": "Olive",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Sheer Socks",
+        "en-GB": "Sheer Socks",
+        "de": "Paars Seidensocken",
+        "es": "Calcetín traslúcido",
+        "fr": "Paires de chaussettes fines",
+        "it": "Paio di calzini traslucidi",
+        "nl": "Doorschijnende sokken",
+        "zh-CN": "透肤袜",
+        "zh-TW": "透膚襪",
+        "jp": "シースルーソックス",
+        "ko": "시스루 양말"
       }
     }
   },

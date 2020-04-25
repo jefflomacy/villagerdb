@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 15000
+      },
+      "name": {
+        "en-US": "Golden Trout",
+        "en-GB": "Golden Trout",
+        "de": "Goldforelle",
+        "es": "Trucha dorada",
+        "fr": "Truite dorée",
+        "it": "Trota dorata",
+        "nl": "Goudforel",
+        "zh-CN": "金鳟",
+        "zh-TW": "金鱒",
+        "jp": "ゴールデントラウト",
+        "ko": "금송어"
       }
     }
   },

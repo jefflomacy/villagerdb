@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Green Molded-Panel Wall",
+        "en-GB": "Green Molded-Panel Wall",
+        "de": "Grün-Wandvertäfelung",
+        "es": "Pared con molduras verde",
+        "fr": "Mur à moulures vert",
+        "it": "Muro modanature verde",
+        "nl": "Groene lambrisering",
+        "zh-CN": "绿色线板墙",
+        "zh-TW": "綠色線板牆",
+        "jp": "みどりのパネルモールドかべ",
+        "ko": "초록 패널 몰드 벽"
+      }
     }
   },
   "category": "Wallpaper"

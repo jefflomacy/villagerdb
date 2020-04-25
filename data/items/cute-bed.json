@@ -23,6 +23,19 @@
         "yellow": "Yellow",
         "red": "Red",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Cute Bed",
+        "en-GB": "Cute Bed",
+        "de": "Bonbon-Bett",
+        "es": "Cama cuqui",
+        "fr": "Lit mimi",
+        "it": "Letto grazioso",
+        "nl": "Schattige bed",
+        "zh-CN": "可爱床铺",
+        "zh-TW": "可愛床鋪",
+        "jp": "キュートなベッド",
+        "ko": "큐트 침대"
       }
     }
   },

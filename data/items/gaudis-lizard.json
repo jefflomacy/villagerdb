@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Gaudí-Salamander",
+        "en-GB": "Gaudí's Lizard",
+        "en-US": "Gaudí's Lizard",
+        "es": "Dragón de Gaudí",
+        "fr": "Lézard de Gaudi",
+        "it": "Salamandra di Gaudí",
+        "ja": "ガウディのリザード"
+      }
     }
   }
 }

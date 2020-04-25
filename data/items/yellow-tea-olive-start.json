@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow-Tea-Olive Start",
+        "en-GB": "Yellow-Tea-Olive Start",
+        "de": "Gelb-Duftblütensetzling",
+        "es": "Olivo olor. amarillo de vivero",
+        "fr": "Pousse d'osmanthus jaune",
+        "it": "Germoglio osmanto giallo",
+        "nl": "Gele-Schijnhulst-Zaailing",
+        "zh-CN": "黄色桂花苗",
+        "zh-TW": "黃色桂花苗",
+        "jp": "きいろいキンモクセイのなえ",
+        "ko": "노란 금목서 묘목"
+      }
     }
   },
   "category": "Bushes"

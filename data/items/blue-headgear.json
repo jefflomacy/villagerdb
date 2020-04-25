@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "de": "Blauboxerhelm",
+        "en-GB": "Blue Headgear",
+        "en-US": "Blue Headgear",
+        "es": "Protector azul",
+        "fr": "Casque de boxe bleu",
+        "it": "Casco da boxe blu",
+        "ja": "あおいヘッドギア"
+      }
     }
   }
 }

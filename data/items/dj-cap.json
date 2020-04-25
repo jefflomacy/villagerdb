@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 600
         }
-      ]
+      ],
+      "name": {
+        "de": "DJ-Kappe",
+        "en-GB": "DJ Cap",
+        "en-US": "DJ Cap",
+        "es": "Gorra de DJ",
+        "fr": "Casque de DJ",
+        "it": "Cappello con cuffie",
+        "ja": "ヘッドホン"
+      }
     },
     "nh": {
       "orderable": true,
@@ -45,6 +54,19 @@
         "pink": "Pink",
         "orange": "Orange",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "DJ Cap",
+        "en-GB": "DJ Cap",
+        "de": "Dj-Kappe",
+        "es": "Gorra de DJ",
+        "fr": "Casque de DJ",
+        "it": "Cappello con cuffie",
+        "nl": "Dj-Pet",
+        "zh-CN": "头戴式耳机",
+        "zh-TW": "頭戴式耳機",
+        "jp": "ヘッドホン",
+        "ko": "헤드폰"
       }
     }
   }

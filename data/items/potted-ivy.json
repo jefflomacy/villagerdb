@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Efeu-Topfpflanze",
+        "en-GB": "Potted Ivy",
+        "en-US": "Potted Ivy",
+        "es": "Maceta hiedra",
+        "fr": "Lierre en pot",
+        "it": "Pianta edera in vaso",
+        "ja": "かべかけのはっぱ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -45,6 +54,19 @@
         "yellow": "Yellow",
         "red": "Red",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Potted Ivy",
+        "en-GB": "Potted Ivy",
+        "de": "Efeu-Topfpflanze",
+        "es": "Maceta con hiedra",
+        "fr": "Lierre en pot",
+        "it": "Edera in vaso",
+        "nl": "Klimop in pot",
+        "zh-CN": "壁挂式盆栽",
+        "zh-TW": "壁掛式盆栽",
+        "jp": "かべかけのはっぱ",
+        "ko": "벽걸이 식물"
       }
     }
   }

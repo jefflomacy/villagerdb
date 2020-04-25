@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "de": "Waschbärenfigur",
+        "en-GB": "Raccoon Figurine",
+        "en-US": "Raccoon Figurine",
+        "es": "Figura mapache",
+        "fr": "Raton laveur",
+        "it": "Bambola procione",
+        "ja": "たぬきのおきもの"
+      }
     },
     "nh": {
       "orderable": false,
@@ -31,6 +40,19 @@
       },
       "recipe": {
         "clay": 6
+      },
+      "name": {
+        "en-US": "Raccoon Figurine",
+        "en-GB": "Raccoon Figurine",
+        "de": "Waschbärenfigur",
+        "es": "Figura oriental de mapache",
+        "fr": "Raton laveur",
+        "it": "Bambola procione",
+        "nl": "Tanukibeeldje",
+        "zh-CN": "狸猫摆饰",
+        "zh-TW": "狸貓擺飾",
+        "jp": "たぬきのおきもの",
+        "ko": "너구리 모형"
       }
     }
   }

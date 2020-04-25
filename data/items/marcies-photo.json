@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "玛莉亚的照片",
+        "de": "Foto's von Marlies",
+        "en-GB": "Marcie's Photo",
+        "es": "Foto de Brisa",
+        "fr": "Photo de Selma",
+        "it": "Foto di Adelaide",
+        "jp": "マリアのしゃしん",
+        "ko": "마리아의 사진",
+        "nl": "Foto van Marcie",
+        "zh-TW": "瑪莉亞的照片",
+        "en-US": "Marcie's Photo"
       }
     }
   },

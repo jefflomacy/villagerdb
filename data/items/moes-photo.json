@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "仁平的照片",
+        "de": "Foto's von Tristan",
+        "en-GB": "Moe's Photo",
+        "es": "Foto de Tristán",
+        "fr": "Photo de Momo",
+        "it": "Foto di Moe",
+        "jp": "ジンペイのしゃしん",
+        "ko": "진상의 사진",
+        "nl": "Foto van Moe",
+        "zh-TW": "仁平的照片",
+        "en-US": "Moe's Photo"
       }
     }
   },

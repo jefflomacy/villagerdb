@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 24000
+      },
+      "name": {
+        "en-US": "Horned Elephant Model",
+        "en-GB": "Horned Elephant Model",
+        "de": "Elefantenkäfermodell",
+        "es": "Figura esc. astado elefante",
+        "fr": "Modèle scarabée éléphant",
+        "it": "Replica di scarabeo elefante",
+        "nl": "Modelolifantkever",
+        "zh-CN": "象兜虫模型",
+        "zh-TW": "象兜蟲模型",
+        "jp": "ゾウカブトのもけい",
+        "ko": "코끼리장수풍뎅이 모형"
       }
     }
   },

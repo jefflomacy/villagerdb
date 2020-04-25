@@ -16,7 +16,16 @@
       },
       "sources": [
         "Pick mushrooms during November"
-      ]
+      ],
+      "name": {
+        "de": "Pilzlampe",
+        "en-GB": "Mush Lamp",
+        "en-US": "Mush Lamp",
+        "es": "Lámpara hongo",
+        "fr": "Lampe champi",
+        "it": "Lampada fungo",
+        "ja": "きのこのランプ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -35,6 +44,19 @@
         "strange-mushroom": "Strange mushroom",
         "red-mushroom": "Red mushroom",
         "yellow-mushroom": "Yellow mushroom"
+      },
+      "name": {
+        "en-US": "Mush Lamp",
+        "en-GB": "Mush Lamp",
+        "de": "Pilzlampe",
+        "es": "Lámpara hongo",
+        "fr": "Lampe champi",
+        "it": "Lampada fungo",
+        "nl": "Paddenstoellamp",
+        "zh-CN": "蘑菇灯",
+        "zh-TW": "蘑菇燈",
+        "jp": "キノコのランプ",
+        "ko": "버섯 램프"
       }
     }
   }

@@ -19,6 +19,19 @@
         "strange-mushroom": "Strange mushroom",
         "red-mushroom": "Red mushroom",
         "yellow-mushroom": "Yellow mushroom"
+      },
+      "name": {
+        "en-US": "Mush Partition",
+        "en-GB": "Mush Partition",
+        "de": "Pilzwandschirm",
+        "es": "Mampara hongo",
+        "fr": "Paravent champi",
+        "it": "Divisorio fungo",
+        "nl": "Paddenstoelwand",
+        "zh-CN": "蘑菇屏风",
+        "zh-TW": "蘑菇屏風",
+        "jp": "キノコのスクリーン",
+        "ko": "버섯 파티션"
       }
     }
   },

@@ -13,7 +13,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Stripes Rug",
+        "en-GB": "Yellow Stripes Rug",
+        "de": "Gelb-Streifenteppich",
+        "es": "Alfombra rayas amarilla",
+        "fr": "Tapis à rayures jaunes",
+        "it": "Tappeto a strisce gialle",
+        "nl": "Geel gestreepte tapijt",
+        "zh-CN": "黄色粗条纹地毯",
+        "zh-TW": "黃色粗橫紋地毯",
+        "jp": "きいろボーダーのラグ",
+        "ko": "노란 줄무늬 러그"
+      }
     }
   },
   "category": "Flooring"

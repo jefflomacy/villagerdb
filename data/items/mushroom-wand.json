@@ -14,6 +14,19 @@
         "strange-mushroom": "Strange mushroom",
         "red-mushroom": "Red mushroom",
         "yellow-mushroom": "Yellow mushroom"
+      },
+      "name": {
+        "en-US": "Mushroom Wand",
+        "en-GB": "Mushroom Wand",
+        "de": "Pilzstab",
+        "es": "Varita champiñón",
+        "fr": "Baguette champignon",
+        "it": "Bacchetta fungo",
+        "nl": "Paddenstoelstaf",
+        "zh-CN": "蘑菇棒",
+        "zh-TW": "蘑菇棒",
+        "jp": "キノコのステッキ",
+        "ko": "버섯 지팡이"
       }
     }
   },

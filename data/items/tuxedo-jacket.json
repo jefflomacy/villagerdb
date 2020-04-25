@@ -17,6 +17,19 @@
         "black": "Black",
         "gray": "Gray",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Tuxedo Jacket",
+        "en-GB": "Tuxedo Jacket",
+        "de": "Smokingjackett",
+        "es": "Esmoquin",
+        "fr": "Smoking",
+        "it": "Giacca dello smoking",
+        "nl": "Smokingjasje",
+        "zh-CN": "无尾礼服",
+        "zh-TW": "晚禮服",
+        "jp": "タキシード",
+        "ko": "턱시도"
       }
     }
   },

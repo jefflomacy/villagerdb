@@ -10,6 +10,19 @@
       },
       "recipe": {
         "peach": 20
+      },
+      "name": {
+        "en-US": "Peach Wall",
+        "en-GB": "Peach Wall",
+        "de": "Pfirsichtapete",
+        "es": "Pared melocotones",
+        "fr": "Mur pêches",
+        "it": "Muro pesche",
+        "nl": "Perzikwand",
+        "zh-CN": "桃子壁纸",
+        "zh-TW": "桃子壁紙",
+        "jp": "モモのかべがみ",
+        "ko": "복숭아 벽지"
       }
     }
   },

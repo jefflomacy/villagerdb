@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Gasgrill",
+        "en-GB": "Propane Stove",
+        "en-US": "Propane Stove",
+        "es": "Barbacoa de gas",
+        "fr": "Barbecue à gaz",
+        "it": "Fornello propano",
+        "ja": "けいたいコンロ"
+      }
     }
   }
 }

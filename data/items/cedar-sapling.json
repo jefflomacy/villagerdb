@@ -11,12 +11,28 @@
       },
       "sources": [
         "Gardening Store"
-      ]
+      ],
+      "name": {
+        "en-US": "Cedar Sapling"
+      }
     },
     "nh": {
       "sellPrice": {
         "currency": "bells",
         "value": 160
+      },
+      "name": {
+        "en-US": "Cedar Sapling",
+        "en-GB": "Cedar Sapling",
+        "de": "Nadelbaumsetzling",
+        "es": "Cedro de vivero",
+        "fr": "Pousse de cèdre",
+        "it": "Germoglio di cedro",
+        "nl": "Cederzaailing",
+        "zh-CN": "针叶树苗",
+        "zh-TW": "針葉樹苗",
+        "jp": "しんようじゅのなえ",
+        "ko": "침엽수 묘목"
       }
     }
   }

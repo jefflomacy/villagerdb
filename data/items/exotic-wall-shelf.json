@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Orient-Wandregal",
+        "en-GB": "Exotic Wall Shelf",
+        "en-US": "Exotic Wall Shelf",
+        "es": "Estan. pared exótico",
+        "fr": "étagère mur teck",
+        "it": "Mensola esotica",
+        "ja": "アジアなウォールシェルフ"
+      }
     }
   }
 }

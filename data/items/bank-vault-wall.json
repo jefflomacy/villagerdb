@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Bank-Vault Wall",
+        "en-GB": "Bank-Vault Wall",
+        "de": "Schließfachwand",
+        "es": "Pared cajas de seguridad",
+        "fr": "Mur coffres-forts",
+        "it": "Muro cassette di sicurezza",
+        "nl": "Kluisjeswand",
+        "zh-CN": "银行保险箱墙",
+        "zh-TW": "銀行保險箱牆",
+        "jp": "かしきんこのかべ",
+        "ko": "금고 벽"
+      }
     }
   },
   "category": "Wallpaper"

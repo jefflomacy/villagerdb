@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "de": "Kiwitop",
+        "en-GB": "Kiwi Tank",
+        "en-US": "Kiwi Tank",
+        "es": "Top kiwi",
+        "fr": "Débardeur kiwi",
+        "it": "Canotta kiwi",
+        "ja": "キウイのふくN"
+      }
     }
   }
 }

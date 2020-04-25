@@ -13,6 +13,19 @@
       },
       "variations": {
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Fish Pochette",
+        "en-GB": "Fish Pochette",
+        "de": "Fischlein-Pochette",
+        "es": "Bolsito pez",
+        "fr": "Pochette poisson",
+        "it": "Pochette pesce",
+        "nl": "Vissentasje",
+        "zh-CN": "鱼形斜挎包",
+        "zh-TW": "魚兒斜背包",
+        "jp": "おさかなポシェット",
+        "ko": "물고기 미니백"
       }
     }
   },

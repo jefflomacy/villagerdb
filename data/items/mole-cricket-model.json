@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1500
+      },
+      "name": {
+        "en-US": "Mole Cricket Model",
+        "en-GB": "Mole Cricket Model",
+        "de": "Maulwurfsgrillenmodell",
+        "es": "Figura de grillo cebollero",
+        "fr": "Modèle de taupe-grillon",
+        "it": "Replica di grillotalpa",
+        "nl": "Modelveenmol",
+        "zh-CN": "蝼蛄模型",
+        "zh-TW": "螻蛄模型",
+        "jp": "オケラのもけい",
+        "ko": "땅강아지 모형"
       }
     }
   },

@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1000
+      },
+      "name": {
+        "en-US": "Gold Roses",
+        "en-GB": "Gold Roses",
+        "de": "Goldrose",
+        "es": "Rosa dorada",
+        "fr": "Rose dorée",
+        "it": "Rosa d'oro",
+        "nl": "Gouden roos",
+        "zh-CN": "金色玫瑰",
+        "zh-TW": "金色玫瑰",
+        "jp": "きんのバラ",
+        "ko": "금장미"
       }
     }
   },

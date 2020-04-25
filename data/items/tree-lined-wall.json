@@ -23,7 +23,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Tree-Lined Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -35,7 +38,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Tree-Lined Wall",
+        "en-GB": "Tree-Lined Wall",
+        "de": "Baumtapete",
+        "es": "Pared árboles",
+        "fr": "Mur rangée d'arbres",
+        "it": "Muro con alberi",
+        "nl": "Bomenwand",
+        "zh-CN": "行道树墙",
+        "zh-TW": "行道樹牆",
+        "jp": "がいろじゅのかべ",
+        "ko": "가로수 벽"
+      }
     }
   }
 }

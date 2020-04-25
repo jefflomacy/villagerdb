@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pink-Camellia Nursery",
+        "en-GB": "Pink-Camellia Nursery",
+        "de": "Pink-Kamelienspross",
+        "es": "Camelia rosa retoño",
+        "fr": "Serre de camélias roses",
+        "it": "Piantina di camelia rosa",
+        "nl": "Kleine jonge roze camelia",
+        "zh-CN": "粉红山茶花幼苗",
+        "zh-TW": "粉紅山茶花幼苗",
+        "jp": "ピンクのツバキのようぼく",
+        "ko": "핑크색 동백 유목"
+      }
     }
   },
   "category": "Bushes"

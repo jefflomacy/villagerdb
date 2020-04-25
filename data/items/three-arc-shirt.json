@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Three Arc Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -33,7 +36,10 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Three Arc Shirt"
+      }
     }
   }
 }

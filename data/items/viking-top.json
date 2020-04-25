@@ -17,6 +17,19 @@
         "brown": "Brown",
         "gray": "Gray",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Viking Top",
+        "en-GB": "Viking Top",
+        "de": "Wikingergewand",
+        "es": "Cota de escamas vikinga",
+        "fr": "Armure viking",
+        "it": "Maglione vichingo",
+        "nl": "Vikingtrui",
+        "zh-CN": "维京人服",
+        "zh-TW": "維京人衣服",
+        "jp": "バイキングのふく",
+        "ko": "바이킹 옷"
       }
     }
   },

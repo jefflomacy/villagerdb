@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 340
         }
-      ]
+      ],
+      "name": {
+        "de": "Spielshirt",
+        "en-GB": "Checkerboard Tee",
+        "en-US": "Checkerboard Tee",
+        "es": "Camiseta rojinegra",
+        "fr": "T-shirt rouge & noir",
+        "it": "Maglietta a scacchi",
+        "ja": "ギャンブラーなふく"
+      }
     },
     "ac": {
       "orderable": true,
@@ -39,7 +48,10 @@
           "currency": "bells",
           "value": 340
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Checkerboard Tee"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -55,7 +67,10 @@
           "currency": "bells",
           "value": 340
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Checkerboard Tee"
+      }
     }
   }
 }

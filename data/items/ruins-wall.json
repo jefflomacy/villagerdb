@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Ruins Wall",
+        "en-GB": "Ruins Wall",
+        "de": "Ruinenwand",
+        "es": "Pared ruinas misteriosas",
+        "fr": "Mur de ruine",
+        "it": "Muro rovine",
+        "nl": "Mysterieuze ruïnewand",
+        "zh-CN": "遗迹墙",
+        "zh-TW": "遺跡牆",
+        "jp": "いせきのかべ",
+        "ko": "유적 벽"
+      }
     }
   },
   "category": "Wallpaper"

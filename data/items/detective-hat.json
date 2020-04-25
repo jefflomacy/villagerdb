@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Detektivhut",
+        "en-GB": "Detective Hat",
+        "en-US": "Detective Hat",
+        "es": "Gorra de detective",
+        "fr": "Casquette détective",
+        "it": "Cappello detective",
+        "ja": "めいたんていのぼうし"
+      }
     },
     "nh": {
       "orderable": true,
@@ -39,6 +48,19 @@
         "brown": "Brown",
         "gray": "Gray",
         "beige": "Beige"
+      },
+      "name": {
+        "en-US": "Detective Hat",
+        "en-GB": "Detective Hat",
+        "de": "Detektivhut",
+        "es": "Gorra de detective",
+        "fr": "Casquette de détective",
+        "it": "Cappello da detective",
+        "nl": "Detectivepet",
+        "zh-CN": "名侦探帽",
+        "zh-TW": "名偵探帽",
+        "jp": "めいたんていのぼうし",
+        "ko": "명탐정 모자"
       }
     }
   }

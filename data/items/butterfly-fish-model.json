@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3000
+      },
+      "name": {
+        "en-US": "Butterfly Fish Model",
+        "en-GB": "Butterfly Fish Model",
+        "de": "Falterfischmodell",
+        "es": "Figura de pez mariposa",
+        "fr": "Modèle de poisson-papillon",
+        "it": "Replica di pesce farfalla",
+        "nl": "Modelkoraalvlinder",
+        "zh-CN": "耳带蝴蝶鱼模型",
+        "zh-TW": "耳帶蝴蝶魚模型",
+        "jp": "チョウチョウウオのもけい",
+        "ko": "나비고기 모형"
       }
     }
   },

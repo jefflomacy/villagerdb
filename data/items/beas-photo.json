@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "贝果的照片",
+        "de": "Foto's von Bea",
+        "en-GB": "Bea's Photo",
+        "es": "Foto de Bea",
+        "fr": "Photo de Béa",
+        "it": "Foto di Cucciola",
+        "jp": "ベーグルのしゃしん",
+        "ko": "베이글의 사진",
+        "nl": "Foto van Bea",
+        "zh-TW": "貝果的照片",
+        "en-US": "Bea's Photo"
       }
     }
   },

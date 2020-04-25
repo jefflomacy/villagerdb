@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 200
         }
-      ]
+      ],
+      "name": {
+        "de": "Holzkiste",
+        "en-GB": "Wooden Box",
+        "en-US": "Wooden Box",
+        "es": "Cajón de madera",
+        "fr": "Boîte en bois",
+        "it": "Cassa di legno",
+        "ja": "きばこ"
+      }
     }
   }
 }

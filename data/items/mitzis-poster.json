@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "圆圆的海报",
+        "de": "Poster's von Miezi",
+        "en-GB": "Mitzi's Poster",
+        "es": "Póster de Misi",
+        "fr": "Poster de Mistigri",
+        "it": "Poster di Zampetta",
+        "jp": "マールのポスター",
+        "ko": "마르의 포스터",
+        "nl": "Poster van Mitzi",
+        "zh-TW": "圓圓的海報",
+        "en-US": "Mitzi's Poster"
+      }
     }
   },
   "category": "Photos"

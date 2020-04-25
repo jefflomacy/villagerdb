@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Wassermann-Krug",
+        "en-GB": "Aquarius Urn",
+        "en-US": "Aquarius Urn",
+        "es": "Vasija Acuario",
+        "fr": "Vase Verseau",
+        "it": "Urna Acquario",
+        "ja": "アクエリアスのみずがめ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -34,6 +43,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 22125
+      },
+      "name": {
+        "en-US": "Aquarius Urn",
+        "en-GB": "Aquarius Urn",
+        "de": "Wassermann-Krug",
+        "es": "Vasija Acuario",
+        "fr": "Vase Verseau",
+        "it": "Urna Acquario",
+        "nl": "Waterman-Kruik",
+        "zh-CN": "水瓶座水瓶",
+        "zh-TW": "水瓶座水瓶",
+        "jp": "アクエリアスのみずがめ",
+        "ko": "물병자리 항아리"
       }
     }
   }

@@ -23,6 +23,19 @@
         "walnut": "Walnut",
         "old": "Old",
         "oak": "Oak"
+      },
+      "name": {
+        "en-US": "Ironwood Cart",
+        "en-GB": "Ironwood Cart",
+        "de": "Eisen-Holz-Rollwagen",
+        "es": "Carrito universidad",
+        "fr": "Desserte en bois de fer",
+        "it": "Carrello di legno ferro",
+        "nl": "Ijzeren-Houten roltafel",
+        "zh-CN": "铸铁木收纳推车",
+        "zh-TW": "鑄鐵木收納推車",
+        "jp": "アイアンウッドワゴン",
+        "ko": "아이언우드 왜건"
       }
     }
   },

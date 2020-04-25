@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 560
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue-Hydrangea Bush",
+        "en-GB": "Blue-Hydrangea Bush",
+        "de": "Seehortensie",
+        "es": "Hortensia azul adulta",
+        "fr": "Buisson d'hortensia bleu",
+        "it": "Ortensia blu adulta",
+        "nl": "Blauwe hortensia",
+        "zh-CN": "蓝色绣球花树",
+        "zh-TW": "藍色繡球花樹",
+        "jp": "あおいアジサイのき",
+        "ko": "파란 수국나무"
+      }
     }
   },
   "category": "Bushes"

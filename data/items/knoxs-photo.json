@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "金阁的照片",
+        "de": "Foto's von Tschiwi",
+        "en-GB": "Knox's Photo",
+        "es": "Foto de Tono",
+        "fr": "Photo de Wolfram",
+        "it": "Foto di Kalin",
+        "jp": "キンカクのしゃしん",
+        "ko": "금끼오의 사진",
+        "nl": "Foto van Knox",
+        "zh-TW": "金閣的照片",
+        "en-US": "Knox's Photo"
       }
     }
   },

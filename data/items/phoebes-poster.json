@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "火鸟的海报",
+        "de": "Poster's von Philippa",
+        "en-GB": "Phoebe's Poster",
+        "es": "Póster de Avelina",
+        "fr": "Poster de Faustine",
+        "it": "Poster di Fenicia",
+        "jp": "ヒノコのポスター",
+        "ko": "휘니의 포스터",
+        "nl": "Poster van Phoebe",
+        "zh-TW": "火鳥的海報",
+        "en-US": "Phoebe's Poster"
+      }
     }
   },
   "category": "Photos"

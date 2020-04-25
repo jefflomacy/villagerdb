@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 620
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Brown Shanty Wall",
+        "en-GB": "Brown Shanty Wall",
+        "de": "Braun-Wellblechwand",
+        "es": "Pared reciclaje marrón",
+        "fr": "Mur baraquement brun",
+        "it": "Muro lamiera marrone",
+        "nl": "Bruine golfplaatwand",
+        "zh-CN": "褐色铁皮墙",
+        "zh-TW": "褐色鐵皮牆",
+        "jp": "ちゃいろのトタンかべ",
+        "ko": "브라운 강판 벽"
+      }
     }
   },
   "category": "Wallpaper"

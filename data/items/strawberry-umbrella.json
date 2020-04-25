@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1550
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Strawberry Umbrella",
+        "en-GB": "Strawberry Umbrella",
+        "de": "Erdbeerschirm",
+        "es": "Paraguas fresa",
+        "fr": "Parapluie fraise",
+        "it": "Ombrello fragola",
+        "nl": "Aardbeiparaplu",
+        "zh-CN": "草莓雨伞",
+        "zh-TW": "草莓雨傘",
+        "jp": "いちごのかさ",
+        "ko": "딸기 우산"
+      }
     }
   },
   "category": "Umbrellas"

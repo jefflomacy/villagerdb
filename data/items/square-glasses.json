@@ -22,6 +22,19 @@
         "black": "Black",
         "gray": "Gray",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Square Glasses",
+        "en-GB": "Square Glasses",
+        "de": "Rechteckbrille",
+        "es": "Gafa rectangular",
+        "fr": "Monture rectangulaire",
+        "it": "Montatura squadrata",
+        "nl": "Rechthoekige bril",
+        "zh-CN": "方框眼镜",
+        "zh-TW": "方框眼鏡",
+        "jp": "スクエアめがね",
+        "ko": "사각 안경"
       }
     }
   },

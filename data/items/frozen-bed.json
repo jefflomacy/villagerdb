@@ -42,6 +42,19 @@
         "ice-purple-white": "Ice purple / White",
         "ice-purple-gray": "Ice purple / Gray",
         "ice-purple-dark-brown": "Ice purple / Dark brown"
+      },
+      "name": {
+        "en-US": "Frozen Bed",
+        "en-GB": "Frozen Bed",
+        "de": "Eisbett",
+        "es": "Cama iceberg",
+        "fr": "Lit arctique",
+        "it": "Letto iceberg",
+        "nl": "Ijsbed",
+        "zh-CN": "冰块床铺",
+        "zh-TW": "冰床鋪",
+        "jp": "こおりのベッド",
+        "ko": "얼음 침대"
       }
     }
   },

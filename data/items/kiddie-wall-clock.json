@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Kinderwanduhr",
+        "en-GB": "Kiddie Wall Clock",
+        "en-US": "Kiddie Wall Clock",
+        "es": "Reloj de pared puzle",
+        "fr": "Horloge mur enfant",
+        "it": "Orologio muro bimbi",
+        "ja": "カラフルなかべかけどけい"
+      }
     }
   }
 }

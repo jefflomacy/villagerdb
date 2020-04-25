@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "name": {
+        "de": "Pink-Spitzentop",
+        "en-GB": "Pink Tank",
+        "en-US": "Pink Tank",
+        "es": "Top rosa",
+        "fr": "Débardeur rose",
+        "it": "Canotta fiocco rosa",
+        "ja": "ピンクのキャミソール"
+      }
     }
   }
 }

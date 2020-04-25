@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Luftbefeuchter",
+        "en-GB": "Humidifier",
+        "en-US": "Humidifier",
+        "es": "Humidificador",
+        "fr": "Humidificateur",
+        "it": "Umidificatore",
+        "ja": "かしつき"
+      }
     },
     "nh": {
       "orderable": true,
@@ -47,6 +56,19 @@
         "green": "Green",
         "blue": "Blue",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Humidifier",
+        "en-GB": "Humidifier",
+        "de": "Luftbefeuchter",
+        "es": "Humidificador",
+        "fr": "Humidificateur",
+        "it": "Umidificatore",
+        "nl": "Verstuiver",
+        "zh-CN": "加湿器",
+        "zh-TW": "加濕器",
+        "jp": "かしつき",
+        "ko": "가습기"
       }
     }
   }

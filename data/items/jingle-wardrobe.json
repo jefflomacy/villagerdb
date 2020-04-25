@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 4896
         }
-      ]
+      ],
+      "name": {
+        "de": "Festtagsschrank",
+        "en-GB": "Jingle Wardrobe",
+        "en-US": "Jingle Wardrobe",
+        "es": "Armario festivo",
+        "fr": "Armoire festive",
+        "it": "Armadio Jingle",
+        "ja": "クリスマスクロゼット"
+      }
     }
   }
 }

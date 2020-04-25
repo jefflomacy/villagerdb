@@ -14,6 +14,19 @@
       "recipe": {
         "clump-of-weeds": 15,
         "softwood": 9
+      },
+      "name": {
+        "en-US": "Woodland Wall",
+        "en-GB": "Woodland Wall",
+        "de": "Urwaldtapete",
+        "es": "Pared selva",
+        "fr": "Mur sylvestre",
+        "it": "Muro foresta",
+        "nl": "Oerwoudwand",
+        "zh-CN": "树海墙",
+        "zh-TW": "樹海牆",
+        "jp": "じゅかいなかべ",
+        "ko": "울창한 숲 벽"
       }
     }
   },

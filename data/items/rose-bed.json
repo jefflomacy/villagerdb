@@ -17,6 +17,19 @@
         "red": "Red",
         "purple": "Purple",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Rose Bed",
+        "en-GB": "Rose Bed",
+        "de": "Rosenbett",
+        "es": "Cama rosa",
+        "fr": "Lit rose",
+        "it": "Letto a rosa",
+        "nl": "Rozenbed",
+        "zh-CN": "玫瑰床铺",
+        "zh-TW": "玫瑰床鋪",
+        "jp": "バラのベッド",
+        "ko": "장미 침대"
       }
     }
   },

@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2000
+      },
+      "name": {
+        "en-US": "Acanthostega",
+        "en-GB": "Acanthostega",
+        "de": "Acanthostega",
+        "es": "Acantostega",
+        "fr": "Acanthostéga",
+        "it": "Acantostega",
+        "nl": "Acanthostega",
+        "zh-CN": "棘螈",
+        "zh-TW": "棘螈",
+        "jp": "アカントステガ",
+        "ko": "아칸토스테가"
       }
     }
   },

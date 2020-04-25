@@ -18,6 +18,19 @@
         "pink": "Pink",
         "yellow": "Yellow",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Bunny Nose",
+        "en-GB": "Bunny Nose",
+        "de": "Hasenschnauze",
+        "es": "Hocico de conejito",
+        "fr": "Museau de lapin",
+        "it": "Naso da coniglio",
+        "nl": "Konijnensnuit",
+        "zh-CN": "兔鼻子道具",
+        "zh-TW": "兔鼻子道具",
+        "jp": "ウサギのつけばな",
+        "ko": "토끼 코"
       }
     }
   },

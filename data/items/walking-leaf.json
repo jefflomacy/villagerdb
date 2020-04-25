@@ -11,7 +11,10 @@
       },
       "sources": [
         "On trees."
-      ]
+      ],
+      "name": {
+        "en-US": "Walking Leaf"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 600
+      },
+      "name": {
+        "en-US": "Walking Leaf",
+        "en-GB": "Walking Leaf",
+        "de": "Blattschrecke",
+        "es": "Insecto hoja",
+        "fr": "Phyllie",
+        "it": "Insetto foglia",
+        "nl": "Wandelend blad",
+        "zh-CN": "叶竹节虫",
+        "zh-TW": "葉竹節蟲",
+        "jp": "コノハムシ",
+        "ko": "잎사귀벌레"
       }
     }
   }

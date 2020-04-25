@@ -14,6 +14,19 @@
       },
       "variations": {
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Apple Dress",
+        "en-GB": "Apple Dress",
+        "de": "Apfelkleid",
+        "es": "Vestido manzana",
+        "fr": "Robe pomme",
+        "it": "Vestito mela",
+        "nl": "Appeljurk",
+        "zh-CN": "苹果服",
+        "zh-TW": "蘋果服",
+        "jp": "リンゴのふく",
+        "ko": "사과 옷"
       }
     }
   },

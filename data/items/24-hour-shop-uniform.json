@@ -23,7 +23,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Supermarktkittel",
+        "en-GB": "24-Hour-Shop Uniform",
+        "en-US": "24-Hour-Shop Uniform",
+        "es": "Uniforme tienda",
+        "fr": "T-shirt épicerie",
+        "it": "Maglietta bottega",
+        "ja": "セブンイレブンのせいふく"
+      }
     }
   }
 }

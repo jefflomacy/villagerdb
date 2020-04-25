@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Hundehütte",
+        "en-GB": "Doghouse",
+        "en-US": "Doghouse",
+        "es": "Caseta de perro",
+        "fr": "Niche",
+        "it": "Cuccia",
+        "ja": "いぬごや"
+      }
     },
     "nh": {
       "orderable": false,
@@ -36,6 +45,19 @@
         "blue": "Blue",
         "red": "Red",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Doghouse",
+        "en-GB": "Doghouse",
+        "de": "Hundehütte",
+        "es": "Caseta de perro",
+        "fr": "Niche",
+        "it": "Cuccia",
+        "nl": "Hondenhok",
+        "zh-CN": "狗屋",
+        "zh-TW": "狗屋",
+        "jp": "いぬごや",
+        "ko": "개집"
       }
     }
   }

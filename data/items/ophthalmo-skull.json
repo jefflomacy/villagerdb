@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2500
+      },
+      "name": {
+        "en-US": "Ophthalmo Skull",
+        "en-GB": "Ophthalmo Skull",
+        "de": "Ophthalmosaurus-Schädel",
+        "es": "Cráneo oftalmosaurio",
+        "fr": "Crâne d'ophtalmosaure",
+        "it": "Cranio oftalmosauro",
+        "nl": "Ophthalmosauruskop",
+        "zh-CN": "大眼鱼龙的头",
+        "zh-TW": "大眼魚龍的頭",
+        "jp": "オフタルモサウルスのあたま",
+        "ko": "오프탈모사우루스의 머리"
       }
     }
   },

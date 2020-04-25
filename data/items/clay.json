@@ -11,6 +11,20 @@
       "sellPrice": {
         "currency": "bells",
         "value": 100
+      },
+      "name": {
+        "en-US": "Clay",
+        "en-GB": "Clay",
+        "de": "Dietmar",
+        "es": "Boliche",
+        "fr": "Guido",
+        "it": "Carmelo",
+        "nl": "Clay",
+        "zh-CN": "子墨",
+        "zh-TW": "子墨",
+        "jp": "どぐろう",
+        "ko": "햄둥",
+        "ru": "Клэ"
       }
     }
   }

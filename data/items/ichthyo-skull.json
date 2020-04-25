@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Ichthyo-Schädel",
+        "en-GB": "Ichthyo Skull",
+        "en-US": "Ichthyo Skull",
+        "es": "Cráneo ictiosaurio",
+        "fr": "Crâne d'ichtyosaure",
+        "it": "Teschio ittiosauro",
+        "ja": "イクチオサウルスのあたま"
+      }
     }
   }
 }

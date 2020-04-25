@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 30880
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Starry-Sands Flooring",
+        "en-GB": "Starry-Sands Flooring",
+        "de": "Glitzersandboden",
+        "es": "Suelo playa de arena",
+        "fr": "Sol plage étoilée",
+        "it": "Pavimento sabbia deserto",
+        "nl": "Glitterzandvloer",
+        "zh-CN": "星星沙滩地板",
+        "zh-TW": "星星沙灘地板",
+        "jp": "ほしのすなはまのゆか",
+        "ko": "별빛 모래사장 바닥"
+      }
     }
   },
   "category": "Flooring"

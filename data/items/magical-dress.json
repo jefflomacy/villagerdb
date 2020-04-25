@@ -22,6 +22,19 @@
         "purple": "Purple",
         "black": "Black",
         "light-blue": "Light blue"
+      },
+      "name": {
+        "en-US": "Magical Dress",
+        "en-GB": "Magical Dress",
+        "de": "Zauberkleid",
+        "es": "Vestido mágico",
+        "fr": "Robe magique",
+        "it": "Vestito magia",
+        "nl": "Magische jurk",
+        "zh-CN": "魔法洋装",
+        "zh-TW": "魔法洋裝",
+        "jp": "マジカルなドレス",
+        "ko": "매지컬 드레스"
       }
     }
   },

@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2000
+      },
+      "name": {
+        "en-US": "Anomalocaris",
+        "en-GB": "Anomalocaris",
+        "de": "Anomalocaris",
+        "es": "Anomalocaris",
+        "fr": "Anomalocaris",
+        "it": "Anomalocaride",
+        "nl": "Anomalocaris",
+        "zh-CN": "奇虾",
+        "zh-TW": "奇蝦",
+        "jp": "アノマロカリス",
+        "ko": "아노말로카리스"
       }
     }
   },

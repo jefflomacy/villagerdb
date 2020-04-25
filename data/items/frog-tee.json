@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 340
         }
-      ]
+      ],
+      "name": {
+        "de": "Quak-Shirt",
+        "en-GB": "Frog Tee",
+        "en-US": "Frog Tee",
+        "es": "Camiseta ranita",
+        "fr": "T-shirt rainette",
+        "it": "Maglietta rana",
+        "ja": "かえるのふく"
+      }
     },
     "nh": {
       "orderable": true,
@@ -36,6 +45,19 @@
       ],
       "variations": {
         "beige": "Beige"
+      },
+      "name": {
+        "en-US": "Frog Tee",
+        "en-GB": "Frog Tee",
+        "de": "Quak-Shirt",
+        "es": "Camiseta ranita",
+        "fr": "T-Shirt rainette",
+        "it": "Maglietta rana",
+        "nl": "Kikker-T-Shirt",
+        "zh-CN": "青蛙T恤",
+        "zh-TW": "青蛙T恤",
+        "jp": "かえるのＴシャツ",
+        "ko": "개구리 그림 티셔츠"
       }
     }
   }

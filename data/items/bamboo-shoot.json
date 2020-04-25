@@ -11,12 +11,28 @@
       },
       "sources": [
         "T&T Emporium"
-      ]
+      ],
+      "name": {
+        "en-US": "Bamboo Shoot"
+      }
     },
     "nh": {
       "sellPrice": {
         "currency": "bells",
         "value": 250
+      },
+      "name": {
+        "en-US": "Bamboo Shoot",
+        "en-GB": "Bamboo Shoot",
+        "de": "Bambussprosse",
+        "es": "Brote de bambú",
+        "fr": "Pousse de bambou",
+        "it": "Germoglio di bambù",
+        "nl": "Bamboescheut",
+        "zh-CN": "竹笋",
+        "zh-TW": "竹筍",
+        "jp": "たけのこ",
+        "ko": "죽순"
       }
     }
   }

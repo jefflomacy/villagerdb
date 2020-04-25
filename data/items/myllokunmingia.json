@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1500
+      },
+      "name": {
+        "en-US": "Myllokunmingia",
+        "en-GB": "Myllokunmingia",
+        "de": "Myllokunmingia",
+        "es": "Myllokunmingia",
+        "fr": "Myllokunmingia",
+        "it": "Myllokunmingia",
+        "nl": "Myllokunmingia",
+        "zh-CN": "丰娇昆明鱼",
+        "zh-TW": "豐嬌昆明魚",
+        "jp": "ミロクンミンギア",
+        "ko": "밀로쿤밍기아"
       }
     }
   },

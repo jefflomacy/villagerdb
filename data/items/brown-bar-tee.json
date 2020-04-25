@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 5000
         }
-      ]
+      ],
+      "name": {
+        "de": "Lieblingsshirt",
+        "en-GB": "Brown-Bar Tee",
+        "en-US": "Brown-Bar Tee",
+        "es": "Camiseta chocolate",
+        "fr": "T-shirt rayures brun",
+        "it": "Maglietta barre ocra",
+        "ja": "ヒルのふく"
+      }
     }
   }
 }

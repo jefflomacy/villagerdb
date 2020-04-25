@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2020
         }
-      ]
+      ],
+      "name": {
+        "de": "Streifenwaschbecken",
+        "en-GB": "Stripe Bathroom Sink",
+        "en-US": "Stripe Bathroom Sink",
+        "es": "Lavabo rayas",
+        "fr": "Lavabo rayures",
+        "it": "Lavabo strisce",
+        "ja": "ストライプなせんめんだい"
+      }
     }
   }
 }

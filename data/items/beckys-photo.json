@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "咏旋的照片",
+        "de": "Foto's von Inga",
+        "en-GB": "Becky's Photo",
+        "es": "Foto de Ramina",
+        "fr": "Photo de Sonya",
+        "it": "Foto di Annetta",
+        "jp": "アリアのしゃしん",
+        "ko": "아리아의 사진",
+        "nl": "Foto van Becky",
+        "zh-TW": "詠旋的照片",
+        "en-US": "Becky's Photo"
       }
     }
   },

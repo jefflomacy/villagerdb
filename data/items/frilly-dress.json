@@ -18,6 +18,19 @@
         "brown": "Brown",
         "green": "Green",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Frilly Dress",
+        "en-GB": "Frilly Dress",
+        "de": "Volantkleid",
+        "es": "Vestido floral con rebeca",
+        "fr": "Robe volantée",
+        "it": "Vestito vezzoso",
+        "nl": "Ruchesjurk",
+        "zh-CN": "飘逸连身裙",
+        "zh-TW": "蓬蓬蛋糕連身裙",
+        "jp": "フリフリワンピース",
+        "ko": "프릴 원피스"
       }
     }
   },

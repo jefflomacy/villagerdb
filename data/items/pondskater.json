@@ -11,7 +11,10 @@
       },
       "sources": [
         "On the surface of lakes and ponds."
-      ]
+      ],
+      "name": {
+        "en-US": "Pondskater"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 130
+      },
+      "name": {
+        "en-US": "Pondskater",
+        "en-GB": "Pondskater",
+        "de": "Wasserläufer",
+        "es": "Zapatero",
+        "fr": "Patineur",
+        "it": "Gerride",
+        "nl": "Schaatsenrijder",
+        "zh-CN": "水黾",
+        "zh-TW": "水黽",
+        "jp": "アメンボ",
+        "ko": "소금쟁이"
       }
     }
   }

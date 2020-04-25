@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "宋信子的海报",
+        "de": "Poster's von Pelly",
+        "en-GB": "Pelly's Poster",
+        "es": "Póster de Sol",
+        "fr": "Poster d'opélie",
+        "it": "Poster di Pelly",
+        "jp": "ぺりこのポスター",
+        "ko": "펠리의 포스터",
+        "nl": "Poster van Pelly",
+        "zh-TW": "宋信子的海報",
+        "en-US": "Pelly's Poster"
+      }
     }
   },
   "category": "Photos"

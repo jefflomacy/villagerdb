@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2800
         }
-      ]
+      ],
+      "name": {
+        "de": "Läufer",
+        "en-GB": "Bishop",
+        "en-US": "Bishop",
+        "es": "Alfil",
+        "fr": "Fou",
+        "it": "Alfiere",
+        "ja": "ビショップのこま"
+      }
     }
   }
 }

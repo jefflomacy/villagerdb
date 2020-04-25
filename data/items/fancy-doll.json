@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "name": {
+        "de": "Barockpuppe",
+        "en-GB": "Fancy Doll",
+        "en-US": "Fancy Doll",
+        "es": "Muñeca de princesa",
+        "fr": "Poupée de princesse",
+        "it": "Bambola principessa",
+        "ja": "フランスにんぎょう"
+      }
     }
   }
 }

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "小铀的照片",
+        "de": "Foto's von Birgit",
+        "en-GB": "Cleo's Photo",
+        "es": "Foto de Clotilde",
+        "fr": "Photo de Cléa",
+        "it": "Foto di Susanna",
+        "jp": "アイソトープのしゃしん",
+        "ko": "아이소토프의 사진",
+        "nl": "Foto van Cleo",
+        "zh-TW": "小鈾的照片",
+        "en-US": "Cleo's Photo"
       }
     }
   },

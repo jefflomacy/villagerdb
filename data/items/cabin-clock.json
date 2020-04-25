@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "de": "Blockhausuhr",
+        "en-GB": "Cabin Clock",
+        "en-US": "Cabin Clock",
+        "es": "Reloj cabaña",
+        "fr": "Horloge chalet",
+        "it": "Orologio rustico",
+        "ja": "ログはとどけい"
+      }
     }
   }
 }

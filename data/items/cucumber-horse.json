@@ -15,7 +15,16 @@
       },
       "sources": [
         "Obon (Isabelle -- JP only)"
-      ]
+      ],
+      "name": {
+        "de": "Gurkenpferd",
+        "en-GB": "Cucumber Horse",
+        "en-US": "Cucumber Horse",
+        "es": "Caballo de pepino",
+        "fr": "Cheval concombre",
+        "it": "Cetriolo dell'Obon",
+        "ja": "きゅうりのうま"
+      }
     }
   }
 }

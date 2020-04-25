@@ -24,19 +24,34 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "de": "Melonentop",
+        "en-GB": "Watermelon Shirt",
+        "en-US": "Watermelon Shirt",
+        "es": "Top sandía",
+        "fr": "Débardeur pastèque",
+        "it": "Maglia anguria",
+        "ja": "すいかのふくN"
+      }
     },
     "ac": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ]
+      ],
+      "name": {
+        "en-US": "Watermelon Shirt"
+      }
     },
     "afe+": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ]
+      ],
+      "name": {
+        "en-US": "Watermelon Shirt"
+      }
     }
   }
 }

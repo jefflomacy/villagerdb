@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 1280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Groovy Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -32,7 +35,20 @@
           "currency": "bells",
           "value": 1280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Groovy Wall",
+        "en-GB": "Groovy Wall",
+        "de": "Irrsinnstapete",
+        "es": "Pared comedor",
+        "fr": "Mur groovy",
+        "it": "Muro alla moda",
+        "nl": "Groovy wand",
+        "zh-CN": "迷幻壁纸",
+        "zh-TW": "迷幻壁紙",
+        "jp": "サイケなかべがみ",
+        "ko": "사이키델릭 벽지"
+      }
     }
   }
 }

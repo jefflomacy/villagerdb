@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 36000
+      },
+      "name": {
+        "en-US": "Grand Giraffe Stag Model",
+        "en-GB": "Grand Giraffe Stag Model",
+        "de": "Mega-Giraffenhk.-Modell",
+        "es": "Estatua esc. ciervo jirafa",
+        "fr": "Modèle du Roi Lucane",
+        "it": "Replica XL coleottero giraffa",
+        "nl": "Modelgirafhertkever XL",
+        "zh-CN": "巨大锹形虫模型",
+        "zh-TW": "巨大鍬形蟲模型",
+        "jp": "おおいなるクワガタのもけい",
+        "ko": "위대한 사슴벌레 모형"
       }
     }
   },

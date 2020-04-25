@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Bildnische",
+        "en-GB": "Tokonoma",
+        "en-US": "Tokonoma",
+        "es": "Papiro nipón",
+        "fr": "Alcôve",
+        "it": "Tokonoma",
+        "ja": "とこのま"
+      }
     }
   }
 }

@@ -22,6 +22,19 @@
         "turquoise": "Turquoise",
         "red": "Red",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Football Pants",
+        "en-GB": "Football Pants",
+        "de": "Footballhose",
+        "es": "Pantalón rugby",
+        "fr": "Pantalon de foot américain",
+        "it": "Paio di pantaloni da football",
+        "nl": "Americanfootballbroekje",
+        "zh-CN": "美式足球裤",
+        "zh-TW": "美式足球褲",
+        "jp": "アメフトズボン",
+        "ko": "미식축구 바지"
       }
     }
   },

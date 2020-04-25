@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 6800
         }
-      ]
+      ],
+      "name": {
+        "de": "Püppchen",
+        "en-GB": "Dolly",
+        "en-US": "Dolly",
+        "es": "Muñeca",
+        "fr": "Poupée",
+        "it": "Bambolina",
+        "ja": "おにんぎょう"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -42,6 +51,19 @@
         "pink": "Pink",
         "purple": "Purple",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Dolly",
+        "en-GB": "Dolly",
+        "de": "Püppchen",
+        "es": "Muñeca",
+        "fr": "Poupée",
+        "it": "Bambolina",
+        "nl": "Pop",
+        "zh-CN": "洋娃娃",
+        "zh-TW": "洋娃娃",
+        "jp": "おにんぎょう",
+        "ko": "인형"
       }
     }
   }

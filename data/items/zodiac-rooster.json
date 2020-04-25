@@ -14,7 +14,16 @@
       },
       "sources": [
         "New Year's (Isabelle)"
-      ]
+      ],
+      "name": {
+        "de": "Hahnenfigur",
+        "en-GB": "Zodiac Rooster",
+        "en-US": "Zodiac Rooster",
+        "es": "Figura de gallo",
+        "fr": "Figurine de coq",
+        "it": "Figurina di gallo",
+        "ja": "えとのおきもの・とり"
+      }
     }
   }
 }

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 2200
         }
-      ]
+      ],
+      "name": {
+        "de": "Bonbonglas",
+        "en-GB": "Candy Jar",
+        "en-US": "Candy Jar",
+        "es": "Bote con chuches",
+        "fr": "Pot à bonbons",
+        "it": "Barattolo caramelle",
+        "ja": "おかしケース"
+      }
     }
   }
 }

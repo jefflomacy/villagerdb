@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Eiscremespender",
+        "en-GB": "Slushie Machine",
+        "en-US": "Slushie Machine",
+        "es": "Máquina granizados",
+        "fr": "Machine à granités",
+        "it": "Macchina per granite",
+        "ja": "フローズンマシーン"
+      }
     }
   }
 }

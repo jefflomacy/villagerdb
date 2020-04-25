@@ -23,6 +23,19 @@
         "yellow": "Yellow",
         "green": "Green",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Lifeguard Chair",
+        "en-GB": "Lifeguard Chair",
+        "de": "Bademeisterstuhl",
+        "es": "Silla de socorrista",
+        "fr": "Siège de maître-nageur",
+        "it": "Sedia da bagnino",
+        "nl": "Strandwachtstoel",
+        "zh-CN": "沙滩瞭望台",
+        "zh-TW": "沙灘瞭望台",
+        "jp": "ビーチのかんしだい",
+        "ko": "안전 감시대"
       }
     }
   },

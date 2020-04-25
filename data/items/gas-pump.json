@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1280
         }
-      ]
+      ],
+      "name": {
+        "de": "Zapfsäule",
+        "en-GB": "Gas Pump",
+        "en-US": "Gas Pump",
+        "es": "Surtidor",
+        "fr": "Pompe à essence",
+        "it": "Pompa benzina",
+        "ja": "きゅうゆき"
+      }
     }
   }
 }

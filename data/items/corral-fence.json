@@ -11,6 +11,19 @@
       },
       "recipe": {
         "wood": 6
+      },
+      "name": {
+        "en-US": "Corral Fence",
+        "en-GB": "Corral Fence",
+        "de": "Weidezaun",
+        "es": "Valla de corral",
+        "fr": "Clôture de ferme",
+        "it": "Staccionata ranch",
+        "nl": "Boerderijhek",
+        "zh-CN": "横条木板栅栏",
+        "zh-TW": "橫條木板柵欄",
+        "jp": "よこいたのさく",
+        "ko": "가로 널빤지 울타리"
       }
     }
   },

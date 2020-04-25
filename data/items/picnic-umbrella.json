@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Picnic Umbrella"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -29,7 +32,20 @@
           "currency": "bells",
           "value": 770
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Picnic Umbrella",
+        "en-GB": "Picnic Umbrella",
+        "de": "Picknickschirm",
+        "es": "Paraguas pícnic",
+        "fr": "Parapluie vichy cassis",
+        "it": "Ombrello picnic",
+        "nl": "Paarsgeruite paraplu",
+        "zh-CN": "莓果嘉顿格纹雨伞",
+        "zh-TW": "莓果嘉頓格紋雨傘",
+        "jp": "ベリーギンガムのかさ",
+        "ko": "베리 깅엄 우산"
+      }
     }
   }
 }

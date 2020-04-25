@@ -20,6 +20,19 @@
         "colorful-cake": "Colorful cake",
         "clay-dinosaur": "Clay dinosaur",
         "clay-cake": "Clay cake"
+      },
+      "name": {
+        "en-US": "Modeling Clay",
+        "en-GB": "Modeling Clay",
+        "de": "Spielknete-Set",
+        "es": "Arcilla para modelar",
+        "fr": "Kit de pâte à modeler",
+        "it": "Creta da modellare",
+        "nl": "Stuk boetseerklei",
+        "zh-CN": "黏土玩具",
+        "zh-TW": "黏土玩具",
+        "jp": "ねんどのおもちゃ",
+        "ko": "점토 장난감"
       }
     }
   },

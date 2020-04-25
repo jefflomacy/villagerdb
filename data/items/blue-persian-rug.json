@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Persian Rug",
+        "en-GB": "Blue Persian Rug",
+        "de": "Blau-Klassikteppich",
+        "es": "Alfombra clásica azul",
+        "fr": "Tapis persan bleu",
+        "it": "Tappeto antico blu",
+        "nl": "Blauwe Perzische tapijt",
+        "zh-CN": "蓝色波斯地毯",
+        "zh-TW": "藍色波斯地毯",
+        "jp": "あおいペルシャじゅうたん",
+        "ko": "파란 페르시아 융단"
+      }
     }
   },
   "category": "Flooring"

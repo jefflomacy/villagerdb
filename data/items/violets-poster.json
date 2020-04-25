@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "吴紫眉的海报",
+        "de": "Poster's von Konga",
+        "en-GB": "Violet's Poster",
+        "es": "Póster de Magenta",
+        "fr": "Poster de Gaëlle",
+        "it": "Poster di Konga",
+        "jp": "ウズメのポスター",
+        "ko": "줌마의 포스터",
+        "nl": "Poster van Violet",
+        "zh-TW": "吳紫眉的海報",
+        "en-US": "Violet's Poster"
+      }
     }
   },
   "category": "Photos"

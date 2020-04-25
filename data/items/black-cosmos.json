@@ -11,7 +11,10 @@
       },
       "sources": [
         "Hybrid - From two Orange Cosmos (rare)."
-      ]
+      ],
+      "name": {
+        "en-US": "Black Cosmos"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 240
+      },
+      "name": {
+        "en-US": "Black Cosmos",
+        "en-GB": "Black Cosmos",
+        "de": "Schwarzcosmeen",
+        "es": "Cosmos negros",
+        "fr": "Cosmos noirs",
+        "it": "Cosmee nere",
+        "nl": "Zwarte cosmea's",
+        "zh-CN": "黑色波斯菊",
+        "zh-TW": "黑色波斯菊",
+        "jp": "くろいコスモス",
+        "ko": "검정 코스모스"
       }
     }
   }

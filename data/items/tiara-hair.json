@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 7200
         }
-      ]
+      ],
+      "name": {
+        "de": "Diadem",
+        "en-GB": "Tiara Hair",
+        "en-US": "Tiara Hair",
+        "es": "Diadema princesa",
+        "fr": "Diadème",
+        "it": "Diadema",
+        "ja": "おひめさま"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -41,6 +50,19 @@
         "silver": "Silver",
         "gold": "Gold",
         "rose-gold": "Rose gold"
+      },
+      "name": {
+        "en-US": "Tiara Hair",
+        "en-GB": "Tiara Hair",
+        "de": "Diadem-Perücke",
+        "es": "Diadema de princesa",
+        "fr": "Diadème",
+        "it": "Diadema",
+        "nl": "Tiarapruik",
+        "zh-CN": "公主假发",
+        "zh-TW": "公主假髮",
+        "jp": "おひめさま",
+        "ko": "공주님 머리"
       }
     }
   }

@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "de": "Gewürzständer",
+        "en-GB": "Revolving Spice Rack",
+        "en-US": "Revolving Spice Rack",
+        "es": "Especiero giratorio",
+        "fr": "Tourniquet à épices",
+        "it": "Portaspezie rotante",
+        "ja": "ちょうみりょういれ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -35,6 +44,19 @@
         "brown": "Brown",
         "orange": "Orange",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Revolving Spice Rack",
+        "en-GB": "Revolving Spice Rack",
+        "de": "Gewürzständer",
+        "es": "Especiero giratorio",
+        "fr": "Tourniquet à épices",
+        "it": "Portaspezie rotante",
+        "nl": "Kruidenrek",
+        "zh-CN": "调味罐圆盘",
+        "zh-TW": "調味罐圓盤",
+        "jp": "ちょうみりょういれ",
+        "ko": "조미료 바구니"
       }
     }
   }

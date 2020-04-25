@@ -25,7 +25,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Goldrüstungsschuh",
+        "en-GB": "Gold-Armor Shoes",
+        "en-US": "Gold-Armor Shoes",
+        "es": "Escarpe de oro",
+        "fr": "Paire de solerets or",
+        "it": "P. scarpe armat. oro",
+        "ja": "きんのかっちゅうぐつ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -40,6 +49,19 @@
       ],
       "variations": {
         "gold": "Gold"
+      },
+      "name": {
+        "en-US": "Gold-Armor Shoes",
+        "en-GB": "Gold-Armor Shoes",
+        "de": "Paars Goldrüstungsschuhe",
+        "es": "Escarpe de oro",
+        "fr": "Paire de solerets or",
+        "it": "Paio scarpe armatura dorata",
+        "nl": "Gouden ridderlaarzen",
+        "zh-CN": "金甲靴",
+        "zh-TW": "金甲鞋",
+        "jp": "ゴールデンアーマーシューズ",
+        "ko": "골든 아머 슈즈"
       }
     }
   }

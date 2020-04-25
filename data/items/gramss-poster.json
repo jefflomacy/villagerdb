@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿玉婆婆的海报",
+        "de": "Poster's von Bonnie",
+        "en-GB": "Grams's Poster",
+        "es": "Póster de Rosauria",
+        "fr": "Poster de Mamiral",
+        "it": "Poster di Remigia",
+        "jp": "ゲコのポスター",
+        "ko": "귀녀의 포스터",
+        "nl": "Poster van Grams",
+        "zh-TW": "阿玉婆婆的海報",
+        "en-US": "Grams's Poster"
+      }
     }
   },
   "category": "Photos"

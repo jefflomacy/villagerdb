@@ -21,6 +21,19 @@
         "blue": "Blue",
         "green": "Green",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Throwback Mitt Chair",
+        "en-GB": "Throwback Mitt Chair",
+        "de": "Nostalgie-Handschuhsitz",
+        "es": "Sillón béisbol fantasía",
+        "fr": "Fauteuil base-ball nostalgie",
+        "it": "Poltrona baseball fantasia",
+        "nl": "Speelgoedstoel",
+        "zh-CN": "TOY椅",
+        "zh-TW": "TOY椅",
+        "jp": "TOYなチェア",
+        "ko": "TOY 체어"
       }
     }
   },

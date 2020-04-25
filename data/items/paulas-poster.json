@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "瑞秋的海报",
+        "de": "Poster's von Paula",
+        "en-GB": "Paula's Poster",
+        "es": "Póster de Lizi",
+        "fr": "Poster de Wendy",
+        "it": "Poster di Bruna",
+        "jp": "レイチェルのポスター",
+        "ko": "레이첼의 포스터",
+        "nl": "Poster van Paula",
+        "zh-TW": "瑞秋的海報",
+        "en-US": "Paula's Poster"
+      }
     }
   },
   "category": "Photos"

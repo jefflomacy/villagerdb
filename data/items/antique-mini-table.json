@@ -21,6 +21,19 @@
         "brown": "Brown",
         "natural": "Natural",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Antique Mini Table",
+        "en-GB": "Antique Mini Table",
+        "de": "Antiktischchen",
+        "es": "Mesa auxiliar antigua",
+        "fr": "Guéridon ancien",
+        "it": "Vecchio tavolino",
+        "nl": "Antieke tafeltje",
+        "zh-CN": "古董小桌",
+        "zh-TW": "古董小桌",
+        "jp": "アンティークなミニテーブル",
+        "ko": "앤티크 미니 테이블"
       }
     }
   },

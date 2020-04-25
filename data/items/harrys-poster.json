@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "欧世豪的海报",
+        "de": "Poster's von Jürgen",
+        "en-GB": "Harry's Poster",
+        "es": "Póster de Harpo",
+        "fr": "Poster de Bob",
+        "it": "Poster di Ercolino",
+        "jp": "オリバーのポスター",
+        "ko": "올리버의 포스터",
+        "nl": "Poster van Harry",
+        "zh-TW": "歐世豪的海報",
+        "en-US": "Harry's Poster"
+      }
     }
   },
   "category": "Photos"

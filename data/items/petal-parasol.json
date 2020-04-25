@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Petal Parasol"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,7 +36,20 @@
           "currency": "bells",
           "value": 1590
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Petal Parasol",
+        "en-GB": "Petal Parasol",
+        "de": "Margeritenschirm",
+        "es": "Parasol margarita",
+        "fr": "Ombrelle marguerite",
+        "it": "Parasole petalo",
+        "nl": "Margrietparasol",
+        "zh-CN": "小雏菊雨伞",
+        "zh-TW": "小雛菊雨傘",
+        "jp": "マーガレットのかさ",
+        "ko": "국화꽃 우산"
+      }
     }
   }
 }

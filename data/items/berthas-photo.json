@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "豆沙的照片",
+        "de": "Foto's von Berta",
+        "en-GB": "Bertha's Photo",
+        "es": "Foto de Berta",
+        "fr": "Photo de Bertha",
+        "it": "Foto di Umberta",
+        "jp": "あんこのしゃしん",
+        "ko": "베티의 사진",
+        "nl": "Foto van Bertha",
+        "zh-TW": "豆沙的照片",
+        "en-US": "Bertha's Photo"
       }
     }
   },

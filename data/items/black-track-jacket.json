@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Aufwärmjacke",
+        "en-GB": "Black Track Jacket",
+        "en-US": "Black Track Jacket",
+        "es": "Sudadera sport negra",
+        "fr": "Veste survêt grise",
+        "it": "Maglia tuta nera",
+        "ja": "スポーツジャージ"
+      }
     }
   }
 }

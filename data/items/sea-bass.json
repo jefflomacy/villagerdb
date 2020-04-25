@@ -11,7 +11,10 @@
       },
       "sources": [
         "In the sea."
-      ]
+      ],
+      "name": {
+        "en-US": "Sea Bass"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 400
+      },
+      "name": {
+        "en-US": "Sea Bass",
+        "en-GB": "Sea Bass",
+        "de": "Seebarsch",
+        "es": "Lubina",
+        "fr": "Bar commun",
+        "it": "Spigola",
+        "nl": "Zeebaars",
+        "zh-CN": "鲈鱼",
+        "zh-TW": "鱸魚",
+        "jp": "スズキ",
+        "ko": "농어"
       }
     }
   }

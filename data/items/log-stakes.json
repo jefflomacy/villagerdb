@@ -17,6 +17,19 @@
         "orange-wood": "Orange wood",
         "white-wood": "White wood",
         "white-birch": "White birch"
+      },
+      "name": {
+        "en-US": "Log Stakes",
+        "en-GB": "Log Stakes",
+        "de": "Baumstammpfahl-Set",
+        "es": "Lote de estacas",
+        "fr": "Lot de piquets tronc",
+        "it": "Set di paletti tronco",
+        "nl": "Boomstampalenset",
+        "zh-CN": "圆木桩",
+        "zh-TW": "圓木樁",
+        "jp": "まるたのくい",
+        "ko": "통나무 말뚝"
       }
     }
   },

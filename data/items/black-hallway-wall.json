@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Black Hallway Wall",
+        "en-GB": "Black Hallway Wall",
+        "de": "Schwarz-Dielentapete",
+        "es": "Pared pasillo negra",
+        "fr": "Mur hall noir",
+        "it": "Muro albergo nero",
+        "nl": "Zwarte halwand",
+        "zh-CN": "黑色大厅墙",
+        "zh-TW": "黑色大廳牆",
+        "jp": "くろいホールのかべ",
+        "ko": "검정 홀 벽"
+      }
     }
   },
   "category": "Wallpaper"

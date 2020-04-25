@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Dojo Wall",
+        "en-GB": "Dojo Wall",
+        "de": "Dojo-Wand",
+        "es": "Pared gimnasio",
+        "fr": "Mur de dojo",
+        "it": "Muro dojo",
+        "nl": "Dojowand",
+        "zh-CN": "练功房墙",
+        "zh-TW": "練功房牆",
+        "jp": "けいこべやのかべ",
+        "ko": "씨름판 벽"
+      }
     }
   },
   "category": "Wallpaper"

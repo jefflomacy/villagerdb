@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "竹轮的海报",
+        "de": "Poster's von Staksi",
+        "en-GB": "Wade's Poster",
+        "es": "Póster de Petín",
+        "fr": "Poster de Miglou",
+        "it": "Poster di Plinio",
+        "jp": "カマボコのポスター",
+        "ko": "호떡의 포스터",
+        "nl": "Poster van Wade",
+        "zh-TW": "竹輪的海報",
+        "en-US": "Wade's Poster"
+      }
     }
   },
   "category": "Photos"

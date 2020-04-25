@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "企鹅达的照片",
+        "de": "Foto's von Roland",
+        "en-GB": "Roald's Photo",
+        "es": "Foto de Bobi",
+        "fr": "Photo de Reynald",
+        "it": "Foto di Angelino",
+        "jp": "ペンタのしゃしん",
+        "ko": "펭수의 사진",
+        "nl": "Foto van Roald",
+        "zh-TW": "企鵝達的照片",
+        "en-US": "Roald's Photo"
       }
     }
   },

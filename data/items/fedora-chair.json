@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "de": "Filzhut-Stuhl",
+        "en-GB": "Fedora Chair",
+        "en-US": "Fedora Chair",
+        "es": "Taburete sombrero",
+        "fr": "Chaise borsalino",
+        "it": "Sedia fedora",
+        "ja": "なかおれぼうのイス"
+      }
     }
   }
 }

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Misty-Garden Wall",
+        "en-GB": "Misty-Garden Wall",
+        "de": "Nieselregen-Tapete",
+        "es": "Pared bosque lluvioso",
+        "fr": "Mur de pluie douce",
+        "it": "Muro bosco piovoso",
+        "nl": "Regenachtige wand",
+        "zh-CN": "毛毛细雨墙",
+        "zh-TW": "毛毛細雨牆",
+        "jp": "こさめのふるかべ",
+        "ko": "가랑비가 내리는 벽"
+      }
     }
   },
   "category": "Wallpaper"

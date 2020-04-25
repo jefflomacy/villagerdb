@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Busted Umbrella"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -32,7 +35,20 @@
           "currency": "bells",
           "value": 1570
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Busted Umbrella",
+        "en-GB": "Busted Umbrella",
+        "de": "Antikschirm",
+        "es": "Paraguas roto",
+        "fr": "Parapluie cassé",
+        "it": "Ombrello rotto",
+        "nl": "Kapotte paraplu",
+        "zh-CN": "坏掉的雨伞",
+        "zh-TW": "壞掉的雨傘",
+        "jp": "こわれたかさ",
+        "ko": "부러진 우산"
+      }
     }
   }
 }

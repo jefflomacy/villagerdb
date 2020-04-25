@@ -28,7 +28,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Notebook",
+        "en-GB": "Laptop",
+        "en-US": "Laptop",
+        "es": "Ordenador portátil",
+        "fr": "Ordinateur portable",
+        "it": "Laptop",
+        "ja": "ノートパソコン"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -84,6 +93,19 @@
         "gold-web-browsing": "Gold / Web browsing",
         "gold-online-shopping": "Gold / Online shopping",
         "gold-chat-tool": "Gold / Chat tool"
+      },
+      "name": {
+        "en-US": "Laptop",
+        "en-GB": "Laptop",
+        "de": "Notebook",
+        "es": "Ordenador portátil",
+        "fr": "Ordinateur portable",
+        "it": "Laptop",
+        "nl": "Laptop",
+        "zh-CN": "笔记本电脑",
+        "zh-TW": "筆記型電腦",
+        "jp": "ノートパソコン",
+        "ko": "노트북"
       }
     }
   }

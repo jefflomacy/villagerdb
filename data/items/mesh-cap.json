@@ -25,6 +25,19 @@
         "orange": "Orange",
         "yellow": "Yellow",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Mesh Cap",
+        "en-GB": "Mesh Cap",
+        "de": "Truckerkappe",
+        "es": "Gorra con malla",
+        "fr": "Casquette voilage filet",
+        "it": "Berretto con visiera",
+        "nl": "Truckerspet",
+        "zh-CN": "网帽",
+        "zh-TW": "網帽",
+        "jp": "メッシュキャップ",
+        "ko": "망사 모자"
       }
     }
   },

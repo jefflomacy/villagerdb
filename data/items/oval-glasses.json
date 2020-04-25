@@ -25,6 +25,19 @@
         "magenta": "Magenta",
         "mustard": "Mustard",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Oval Glasses",
+        "en-GB": "Oval Glasses",
+        "de": "Eiformbrille",
+        "es": "Gafa ovalada",
+        "fr": "Monture polymère ovale",
+        "it": "Montatura tondeggiante",
+        "nl": "Ovale bril",
+        "zh-CN": "椭圆形眼镜",
+        "zh-TW": "橢圓形眼鏡",
+        "jp": "オーバルめがね",
+        "ko": "타원 안경"
       }
     }
   },

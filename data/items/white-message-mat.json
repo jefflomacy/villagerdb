@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White Message Mat",
+        "en-GB": "White Message Mat",
+        "de": "Weiß-Textmatte",
+        "es": "Alfombra bocadillo blanca",
+        "fr": "Paillasson à message blanc",
+        "it": "Tappetino benvenuto bianco",
+        "nl": "Witte boodschapmat",
+        "zh-CN": "白色信息地垫",
+        "zh-TW": "白色訊息地墊",
+        "jp": "しろいメッセージマット",
+        "ko": "하얀 메시지 매트"
+      }
     }
   },
   "category": "Flooring"

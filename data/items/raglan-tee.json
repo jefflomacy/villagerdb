@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Raglan-Shirt",
+        "en-GB": "Raglan Tee",
+        "en-US": "Raglan Tee",
+        "es": "Camiseta azulada",
+        "fr": "T-shirt coupe raglan",
+        "it": "Maglietta raglan",
+        "ja": "あおのラグランシャツ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -43,6 +52,15 @@
         "blue": "Blue",
         "black": "Black",
         "white": "White"
+      },
+      "name": {
+        "de": "Raglan-Shirt",
+        "en-GB": "Raglan Tee",
+        "en-US": "Raglan Tee",
+        "es": "Camiseta azulada",
+        "fr": "T-shirt coupe raglan",
+        "it": "Maglietta raglan",
+        "ja": "あおのラグランシャツ"
       }
     }
   }

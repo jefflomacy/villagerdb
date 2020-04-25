@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "杰克的照片",
+        "de": "Foto's von Gunnar",
+        "en-GB": "Raymond's Photo",
+        "es": "Foto de Narciso",
+        "fr": "Photo de Raymond",
+        "it": "Foto di Raimondo",
+        "jp": "ジャックのしゃしん",
+        "ko": "잭슨의 사진",
+        "nl": "Foto van Raymond",
+        "zh-TW": "傑克的照片",
+        "en-US": "Raymond's Photo"
       }
     }
   },

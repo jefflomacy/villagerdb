@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 240
         }
-      ]
+      ],
+      "name": {
+        "de": "Handtuch",
+        "en-GB": "Terry-Cloth Do-Rag",
+        "en-US": "Terry-Cloth Do-Rag",
+        "es": "Pañuelo felpa",
+        "fr": "Bandana blanc",
+        "it": "Cappello asciugamano",
+        "ja": "タオル"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -40,6 +49,19 @@
         "brown": "Brown",
         "yellow": "Yellow",
         "berry-red": "Berry red"
+      },
+      "name": {
+        "en-US": "Terry-Cloth Do-Rag",
+        "en-GB": "Terry-Cloth Do-Rag",
+        "de": "Handtuch",
+        "es": "Pañuelo felpa",
+        "fr": "Bandana simple",
+        "it": "Cappello di spugna",
+        "nl": "Badstoffen durag",
+        "zh-CN": "毛巾帽",
+        "zh-TW": "毛巾帽",
+        "jp": "タオル",
+        "ko": "수건"
       }
     }
   }

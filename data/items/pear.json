@@ -11,7 +11,10 @@
       },
       "sources": [
         "Pear tree"
-      ]
+      ],
+      "name": {
+        "en-US": "Pear"
+      }
     },
     "nh": {
       "orderable": false,
@@ -28,7 +31,20 @@
           "currency": "bells",
           "value": 400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pear",
+        "en-GB": "Pear",
+        "de": "Birne",
+        "es": "Pera",
+        "fr": "Poire",
+        "it": "Pera",
+        "nl": "Peer",
+        "zh-CN": "梨子",
+        "zh-TW": "梨子",
+        "jp": "ナシ",
+        "ko": "배"
+      }
     }
   }
 }

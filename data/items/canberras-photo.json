@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "简培菈的照片",
+        "de": "Foto's von Caroline",
+        "en-GB": "Canberra's Photo",
+        "es": "Foto de Canberra",
+        "fr": "Photo de Kolala",
+        "it": "Foto di Canberra",
+        "jp": "キャンベラのしゃしん",
+        "ko": "캔버라의 사진",
+        "nl": "Foto van Canberra",
+        "zh-TW": "簡培菈的照片",
+        "en-US": "Canberra's Photo"
       }
     }
   },

@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Kitchen Mat",
+        "en-GB": "Yellow Kitchen Mat",
+        "de": "Gelb-Küchenmatte",
+        "es": "Alfombra cocina amarilla",
+        "fr": "Tapis de cuisine jaune",
+        "it": "Tappetino cucina giallo",
+        "nl": "Gele keukenmat",
+        "zh-CN": "黄色厨房地垫",
+        "zh-TW": "黃色廚房地墊",
+        "jp": "きいろいキッチンマット",
+        "ko": "노란 키친 매트"
+      }
     }
   },
   "category": "Flooring"

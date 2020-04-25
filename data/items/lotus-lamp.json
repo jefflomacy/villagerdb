@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Lotuslampe",
+        "en-GB": "Lotus Lamp",
+        "en-US": "Lotus Lamp",
+        "es": "Lámpara nenúfar",
+        "fr": "Lampe nénuphar",
+        "it": "Lampada fior di loto",
+        "ja": "ロータスランプ"
+      }
     }
   }
 }

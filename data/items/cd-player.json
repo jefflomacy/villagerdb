@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "CD-Player",
+        "en-GB": "CD Player",
+        "en-US": "CD Player",
+        "es": "Lector de CD",
+        "fr": "Lecteur CD",
+        "it": "Lettore CD",
+        "ja": "CDラジカセ"
+      }
     }
   }
 }

@@ -28,7 +28,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Birkenfeige",
+        "en-GB": "Weeping Fig",
+        "en-US": "Weeping Fig",
+        "es": "Ficus benjamina",
+        "fr": "Figuier pleureur",
+        "it": "Fico piangente",
+        "ja": "ベンジャミン"
+      }
     }
   }
 }

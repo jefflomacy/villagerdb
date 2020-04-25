@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1760
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Green Blossoming Wall",
+        "en-GB": "Green Blossoming Wall",
+        "de": "Grün-Blümchentapete",
+        "es": "Pared floreada verde",
+        "fr": "Mur floraison vert",
+        "it": "Muro fiorato verde",
+        "nl": "Groene boeketlambrisering",
+        "zh-CN": "绿色花草图案墙",
+        "zh-TW": "綠色花草圖案牆",
+        "jp": "みどりのくさばなもようのかべ",
+        "ko": "초록 풀꽃 벽"
+      }
     }
   },
   "category": "Wallpaper"

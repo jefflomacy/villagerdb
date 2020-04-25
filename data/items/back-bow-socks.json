@@ -20,6 +20,19 @@
         "white": "White",
         "blue": "Blue",
         "peacock-blue": "Peacock blue"
+      },
+      "name": {
+        "en-US": "Back-Bow Socks",
+        "en-GB": "Back-Bow Socks",
+        "de": "Paars Schleifchensocken",
+        "es": "Calcetín lazo trasero",
+        "fr": "P. de chaussettes à nœud",
+        "it": "Paio di calzini con fiocco",
+        "nl": "Sokken met een strikje",
+        "zh-CN": "蝴蝶结袜子",
+        "zh-TW": "蝴蝶結襪子",
+        "jp": "リボンソックス",
+        "ko": "리본 양말"
       }
     }
   },

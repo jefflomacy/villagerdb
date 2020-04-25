@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Palace Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -32,7 +35,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Palace Wall",
+        "en-GB": "Palace Wall",
+        "de": "Palasttapete",
+        "es": "Pared palacete",
+        "fr": "Mur palais",
+        "it": "Muro colonne",
+        "nl": "Paleiswand",
+        "zh-CN": "宫殿墙",
+        "zh-TW": "宮殿牆",
+        "jp": "きゅうでんのかべ",
+        "ko": "궁전 벽"
+      }
     }
   }
 }

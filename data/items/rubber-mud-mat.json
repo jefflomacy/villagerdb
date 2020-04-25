@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Rubber Mud Mat",
+        "en-GB": "Rubber Mud Mat",
+        "de": "Gummi-Schmutzmatte",
+        "es": "Felpudo de caucho",
+        "fr": "Paillasson en caoutchouc",
+        "it": "Tappetino melma di gomma",
+        "nl": "Rubberen moddermat",
+        "zh-CN": "橡胶除泥地垫",
+        "zh-TW": "塑膠刮泥墊",
+        "jp": "ゴムのどろふきマット",
+        "ko": "고무 신발 닦이 매트"
+      }
     }
   },
   "category": "Flooring"

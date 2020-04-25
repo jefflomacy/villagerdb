@@ -19,6 +19,19 @@
         "wood-egg": 2,
         "sky-egg": 2,
         "water-egg": 2
+      },
+      "name": {
+        "en-US": "Bunny Day Arch",
+        "en-GB": "Bunny Day Arch",
+        "de": "Häschentag-Tor",
+        "es": "Arco Caza del Huevo",
+        "fr": "Arche fête des œufs",
+        "it": "Arco caccia all'uovo",
+        "nl": "Eierboog",
+        "zh-CN": "复活节拱门",
+        "zh-TW": "復活節拱門",
+        "jp": "イースターなアーチ",
+        "ko": "이스터 아치"
       }
     }
   },

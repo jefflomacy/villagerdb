@@ -18,6 +18,19 @@
         "red": "Red",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Birdbath",
+        "en-GB": "Birdbath",
+        "de": "Vogeltränke",
+        "es": "Bañadero para pájaros",
+        "fr": "Bassin à oiseaux",
+        "it": "Vaschetta per uccelli",
+        "nl": "Vogelbad",
+        "zh-CN": "小鸟水盆",
+        "zh-TW": "小鳥水盆",
+        "jp": "バードバス",
+        "ko": "수반"
       }
     },
     "nl": {
@@ -35,7 +48,16 @@
           "currency": "bells",
           "value": 1452
         }
-      ]
+      ],
+      "name": {
+        "de": "Vogeltränke",
+        "en-GB": "Birdbath",
+        "en-US": "Birdbath",
+        "es": "Bañadero pájaros",
+        "fr": "Bassin à oiseaux",
+        "it": "Piscina uccelli",
+        "ja": "バードバス"
+      }
     }
   }
 }

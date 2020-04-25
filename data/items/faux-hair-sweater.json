@@ -17,6 +17,19 @@
       "variations": {
         "red": "Red",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Faux-Hair Sweater",
+        "en-GB": "Faux-Hair Sweater",
+        "de": "Kunstmohair-Pullover",
+        "es": "Jersey de punto a franjas",
+        "fr": "Pull en laine synthétique",
+        "it": "Maglione in finto mohair",
+        "nl": "Imitatiemohairtrui",
+        "zh-CN": "马海毛针织衫",
+        "zh-TW": "仿馬海毛針織衫",
+        "jp": "モヘアふうニット",
+        "ko": "모헤어풍 니트"
       }
     }
   },

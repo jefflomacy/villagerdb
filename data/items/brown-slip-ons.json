@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Hauspantoffel",
+        "en-GB": "Brown Slip-Ons",
+        "en-US": "Brown Slip-Ons",
+        "es": "Pantufla marrón",
+        "fr": "P. pantoufles brunes",
+        "it": "P. pantofole marroni",
+        "ja": "ちゃいろいスニーカー"
+      }
     }
   }
 }

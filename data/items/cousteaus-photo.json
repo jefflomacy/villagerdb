@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "春卷的照片",
+        "de": "Foto's von Jacques",
+        "en-GB": "Cousteau's Photo",
+        "es": "Foto de Cousteau",
+        "fr": "Photo de Figaro",
+        "it": "Foto di Jacques",
+        "jp": "ハルマキのしゃしん",
+        "ko": "왕서방의 사진",
+        "nl": "Foto van Cousteau",
+        "zh-TW": "春卷的照片",
+        "en-US": "Cousteau's Photo"
       }
     }
   },

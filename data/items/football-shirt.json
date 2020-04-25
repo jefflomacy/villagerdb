@@ -22,6 +22,19 @@
         "turquoise": "Turquoise",
         "red": "Red",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Football Shirt",
+        "en-GB": "Football Shirt",
+        "de": "Footballshirt",
+        "es": "Camiseta fútbol americano",
+        "fr": "Maillot de foot américain",
+        "it": "Maglietta da football",
+        "nl": "Americanfootballshirt",
+        "zh-CN": "美式足球衬衫",
+        "zh-TW": "美式足球襯衫",
+        "jp": "アメフトシャツ",
+        "ko": "미식축구 셔츠"
       }
     }
   },

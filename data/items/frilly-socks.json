@@ -20,6 +20,19 @@
         "green": "Green",
         "purple": "Purple",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Frilly Socks",
+        "en-GB": "Frilly Socks",
+        "de": "Paars Rüschensöckchen",
+        "es": "Calcetín con volantes",
+        "fr": "Paire socquettes à dentelle",
+        "it": "Paio di calzini vezzosi",
+        "nl": "Sokken met ruches",
+        "zh-CN": "蕾丝花边袜",
+        "zh-TW": "蕾絲花邊襪",
+        "jp": "フリルソックス",
+        "ko": "프릴 양말"
       }
     }
   },

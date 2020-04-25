@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "嘉治的照片",
+        "de": "Foto's von Ronny",
+        "en-GB": "Ricky's Photo",
+        "es": "Foto de Altramuz",
+        "fr": "Photo de Rocky",
+        "it": "Foto di Sberlo",
+        "jp": "カジロウのしゃしん",
+        "ko": "갈가리의 사진",
+        "nl": "Foto van Ricky",
+        "zh-TW": "嘉治的照片",
+        "en-US": "Ricky's Photo"
       }
     }
   },

@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 560
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Orange-Tea-Olive Bush",
+        "en-GB": "Orange-Tea-Olive Bush",
+        "de": "Honig-Duftblütenbusch",
+        "es": "Olivo oloroso naranja adulto",
+        "fr": "Buiss. d'osmanthus orange",
+        "it": "Osmanto arancio adulto",
+        "nl": "Oranje schijnhulst",
+        "zh-CN": "橙色桂花树",
+        "zh-TW": "橘色桂花樹",
+        "jp": "オレンジキンモクセイのき",
+        "ko": "오렌지색 금목서나무"
+      }
     }
   },
   "category": "Bushes"

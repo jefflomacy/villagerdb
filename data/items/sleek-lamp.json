@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 1680
         }
-      ]
+      ],
+      "name": {
+        "de": "Designerlampe",
+        "en-GB": "Sleek Lamp",
+        "en-US": "Sleek Lamp",
+        "es": "Lámpara tubos",
+        "fr": "Lampe design",
+        "it": "Lampada design",
+        "ja": "パイプなランプ"
+      }
     }
   }
 }

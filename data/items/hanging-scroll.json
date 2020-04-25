@@ -42,6 +42,19 @@
         "purple-fish": "Purple / Fish",
         "purple-bird": "Purple / Bird",
         "purple-flower": "Purple / Flower"
+      },
+      "name": {
+        "en-US": "Hanging Scroll",
+        "en-GB": "Hanging Scroll",
+        "de": "Rollbild",
+        "es": "Pergamino para colgar",
+        "fr": "Rouleau suspendu",
+        "it": "Arazzo appeso",
+        "nl": "Wandrol",
+        "zh-CN": "挂轴",
+        "zh-TW": "掛軸",
+        "jp": "かけじく",
+        "ko": "족자"
       }
     }
   },

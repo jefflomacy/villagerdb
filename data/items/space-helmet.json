@@ -25,7 +25,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Astronautenhelm",
+        "en-GB": "Space Helmet",
+        "en-US": "Space Helmet",
+        "es": "Casco espacial",
+        "fr": "Casque spatial",
+        "it": "Casco spaziale",
+        "ja": "アストロヘルメット"
+      }
     },
     "nh": {
       "orderable": true,
@@ -44,6 +53,19 @@
       ],
       "variations": {
         "white": "White"
+      },
+      "name": {
+        "en-US": "Space Helmet",
+        "en-GB": "Space Helmet",
+        "de": "Astronautenhelm",
+        "es": "Casco espacial",
+        "fr": "Casque spatial",
+        "it": "Casco spaziale",
+        "nl": "Ruimtehelm",
+        "zh-CN": "宇航员头盔",
+        "zh-TW": "太空人安全帽",
+        "jp": "アストロヘルメット",
+        "ko": "아스트로 헬멧"
       }
     }
   }

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Jägermütze",
+        "en-GB": "Hunter's Cap",
+        "en-US": "Hunter's Cap",
+        "es": "Gorra cazador",
+        "fr": "Casquette de chasse",
+        "it": "Berretto cacciatore",
+        "ja": "ハンターのぼうし"
+      }
     }
   }
 }

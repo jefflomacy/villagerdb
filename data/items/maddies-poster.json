@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "麻蓉的海报",
+        "de": "Poster's von Agnes",
+        "en-GB": "Maddie's Poster",
+        "es": "Póster de Martina",
+        "fr": "Poster d'olympe",
+        "it": "Poster di Cristina",
+        "jp": "マロンのポスター",
+        "ko": "마롱의 포스터",
+        "nl": "Poster van Maddie",
+        "zh-TW": "麻蓉的海報",
+        "en-US": "Maddie's Poster"
+      }
     }
   },
   "category": "Photos"

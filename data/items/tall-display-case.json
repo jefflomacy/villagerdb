@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2500
         }
-      ]
+      ],
+      "name": {
+        "de": "Wandvitrine",
+        "en-GB": "Tall Display Case",
+        "en-US": "Tall Display Case",
+        "es": "Expositor de pared",
+        "fr": "Vitrine murale",
+        "it": "Espositore grande",
+        "ja": "たてながてんじケース"
+      }
     }
   }
 }

@@ -28,7 +28,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Glückskatze",
+        "en-GB": "Lucky Cat",
+        "en-US": "Lucky Cat",
+        "es": "Gato suerte",
+        "fr": "Chat fétiche",
+        "it": "Gatto fortuna",
+        "ja": "まねきねこ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -45,6 +54,19 @@
       "variations": {
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Lucky Cat",
+        "en-GB": "Lucky Cat",
+        "de": "Glückskatze",
+        "es": "Gato de la suerte",
+        "fr": "Chat fétiche",
+        "it": "Gatto della fortuna",
+        "nl": "Gelukskat",
+        "zh-CN": "招财猫",
+        "zh-TW": "招財貓",
+        "jp": "まねきねこ",
+        "ko": "복고양이"
       }
     }
   }

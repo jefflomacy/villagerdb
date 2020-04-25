@@ -18,6 +18,19 @@
         "dark-brown": "Dark brown",
         "pastel": "Pastel",
         "avocado": "Avocado"
+      },
+      "name": {
+        "en-US": "Wooden Toolbox",
+        "en-GB": "Wooden Toolbox",
+        "de": "Holz-Werkzeugkasten",
+        "es": "Caja herramientas madera",
+        "fr": "Caisse à outils en bois",
+        "it": "Portautensili di legno",
+        "nl": "Houten gereedschapskist",
+        "zh-CN": "木制工具箱",
+        "zh-TW": "木製工具箱",
+        "jp": "もくせいのこうぐばこ",
+        "ko": "목제 공구 상자"
       }
     }
   },

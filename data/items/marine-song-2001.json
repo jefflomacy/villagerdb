@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Marine Song 2001"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,7 +36,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Marine Song 2001",
+        "en-GB": "Marine Song 2001",
+        "de": "Seefahrerlied 2001",
+        "es": "Tota 2001",
+        "fr": "Chant marin",
+        "it": "Canzone marina",
+        "nl": "Zeelied",
+        "zh-CN": "船歌2001",
+        "zh-TW": "船歌2001",
+        "jp": "ふなうた2001",
+        "ko": "뱃노래2001",
+        "ru": "Песня о море 2001"
+      }
     }
   }
 }

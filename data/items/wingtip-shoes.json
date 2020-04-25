@@ -26,6 +26,19 @@
         "gray": "Gray",
         "berry-red": "Berry red",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Wingtip Shoes",
+        "en-GB": "Wingtip Shoes",
+        "de": "Paars Derbyschuhe",
+        "es": "Zapato de claqué",
+        "fr": "Paire de brogues",
+        "it": "Paio scarpe coda di rondine",
+        "nl": "Wingtip-Schoenen",
+        "zh-CN": "翼纹绅士鞋",
+        "zh-TW": "翼紋紳士鞋",
+        "jp": "ウイングチップのシューズ",
+        "ko": "윙팁 슈즈"
       }
     }
   },

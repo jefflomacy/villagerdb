@@ -17,6 +17,19 @@
         "yellow": "Yellow",
         "light-blue": "Light blue",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Elephant Watering Can",
+        "en-GB": "Elephant Watering Can",
+        "de": "Elefantenkanne",
+        "es": "Regadera elefante",
+        "fr": "Arrosoir éléphant",
+        "it": "Annaffiatoio elefante",
+        "nl": "Olifantengieter",
+        "zh-CN": "大象浇花壶",
+        "zh-TW": "大象澆花壺",
+        "jp": "ゾウさんジョウロ",
+        "ko": "코끼리 물뿌리개"
       }
     }
   },

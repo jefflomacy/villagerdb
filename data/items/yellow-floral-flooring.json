@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1520
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Floral Flooring",
+        "en-GB": "Yellow Floral Flooring",
+        "de": "Gelb-Blütenmusterboden",
+        "es": "Suelo floral amarillo",
+        "fr": "Sol floral strié jaune",
+        "it": "Pavimento floreale giallo",
+        "nl": "Gele bloemetjesvloer",
+        "zh-CN": "黄色花朵地板",
+        "zh-TW": "黃色花朵地板",
+        "jp": "きいろいフラワーフローリング",
+        "ko": "노란 꽃무늬 마룻바닥"
+      }
     }
   },
   "category": "Flooring"

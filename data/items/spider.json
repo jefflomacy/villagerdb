@@ -11,7 +11,10 @@
       },
       "sources": [
         "On trees."
-      ]
+      ],
+      "name": {
+        "en-US": "Spider"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 600
+      },
+      "name": {
+        "en-US": "Spider",
+        "en-GB": "Spider",
+        "de": "Spinne",
+        "es": "Araña",
+        "fr": "Araignée",
+        "it": "Ragno",
+        "nl": "Spin",
+        "zh-CN": "蜘蛛",
+        "zh-TW": "蜘蛛",
+        "jp": "クモ",
+        "ko": "거미"
       }
     }
   }

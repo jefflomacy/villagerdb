@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Paper Parasol"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -32,7 +35,20 @@
           "currency": "bells",
           "value": 870
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Paper Parasol",
+        "en-GB": "Paper Parasol",
+        "de": "Papierschirmchen",
+        "es": "Sombrilla de papel",
+        "fr": "Ombrelle papier",
+        "it": "Parasole cinese",
+        "nl": "Papieren parasol",
+        "zh-CN": "油纸伞",
+        "zh-TW": "油紙傘",
+        "jp": "ばんがさ",
+        "ko": "대나무 우산"
+      }
     }
   }
 }

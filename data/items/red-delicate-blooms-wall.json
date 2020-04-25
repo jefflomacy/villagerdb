@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1900
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Delicate-Blooms Wall",
+        "en-GB": "Red Delicate-Blooms Wall",
+        "de": "Rot-Floraltapete",
+        "es": "Pared flor delicada roja",
+        "fr": "Mur à fleurs délicates rouge",
+        "it": "Muro a fiori delicati rosso",
+        "nl": "Rode rozenlambrisering",
+        "zh-CN": "红色碎花壁纸",
+        "zh-TW": "紅色碎花壁紙",
+        "jp": "あかいこばながらのかべがみ",
+        "ko": "빨간 잔꽃무늬 벽지"
+      }
     }
   },
   "category": "Wallpaper"

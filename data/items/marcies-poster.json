@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "玛莉亚的海报",
+        "de": "Poster's von Marlies",
+        "en-GB": "Marcie's Poster",
+        "es": "Póster de Brisa",
+        "fr": "Poster de Selma",
+        "it": "Poster di Adelaide",
+        "jp": "マリアのポスター",
+        "ko": "마리아의 포스터",
+        "nl": "Poster van Marcie",
+        "zh-TW": "瑪莉亞的海報",
+        "en-US": "Marcie's Poster"
+      }
     }
   },
   "category": "Photos"

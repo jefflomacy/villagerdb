@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 80
+      },
+      "name": {
+        "en-US": "Pink Mums",
+        "en-GB": "Pink Mums",
+        "de": "Rosachrysanthemen",
+        "es": "Crisantemos rosas",
+        "fr": "Chrysanthèmes roses",
+        "it": "Crisantemi rosa",
+        "nl": "Roze chrysanten",
+        "zh-CN": "粉红菊花",
+        "zh-TW": "粉紅菊花",
+        "jp": "ピンクのキク",
+        "ko": "핑크색 국화"
       }
     }
   },

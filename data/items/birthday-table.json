@@ -14,7 +14,16 @@
       },
       "sources": [
         "Birthday (friendship level at maximum with the 3 neighbors)"
-      ]
+      ],
+      "name": {
+        "de": "Geburtstagstisch",
+        "en-GB": "Birthday Table",
+        "en-US": "Birthday Table",
+        "es": "Mesa de cumpleaños",
+        "fr": "Table d'anniv",
+        "it": "Tavolo compleanno",
+        "ja": "バースデーテーブル"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -34,6 +43,19 @@
         "green": "Green",
         "orange": "Orange",
         "gorgeous": "Gorgeous"
+      },
+      "name": {
+        "en-US": "Birthday Table",
+        "en-GB": "Birthday Table",
+        "de": "Geburtstagstisch",
+        "es": "Mesa de cumpleaños",
+        "fr": "Table d'anniversaire",
+        "it": "Tavolo di compleanno",
+        "nl": "Verjaardagstafel",
+        "zh-CN": "生日桌",
+        "zh-TW": "生日桌",
+        "jp": "バースデーテーブル",
+        "ko": "생일 테이블"
       }
     }
   }

@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 340
         }
-      ]
+      ],
+      "name": {
+        "de": "Pilzshirt",
+        "en-GB": "Toad Tee",
+        "en-US": "Toad Tee",
+        "es": "Camiseta champiñón",
+        "fr": "T-shirt Toad",
+        "it": "Maglietta rossa pois",
+        "ja": "きのこもようのふく"
+      }
     }
   }
 }

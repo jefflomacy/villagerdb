@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 5600
         }
-      ]
+      ],
+      "name": {
+        "de": "Fernsehkamera",
+        "en-GB": "TV Camera",
+        "en-US": "TV Camera",
+        "es": "Cámara de televisión",
+        "fr": "Caméra de télévision",
+        "it": "Telecamera da studio",
+        "ja": "テレビカメラ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -37,6 +46,19 @@
       "variations": {
         "black": "Black",
         "white": "White"
+      },
+      "name": {
+        "en-US": "TV Camera",
+        "en-GB": "TV Camera",
+        "de": "Fernsehkamera",
+        "es": "Cámara de televisión",
+        "fr": "Caméra de télévision",
+        "it": "Telecamera da TV",
+        "nl": "Tv-Camera",
+        "zh-CN": "摄影棚录影机",
+        "zh-TW": "攝影棚錄影機",
+        "jp": "テレビカメラ",
+        "ko": "TV 카메라"
       }
     }
   }

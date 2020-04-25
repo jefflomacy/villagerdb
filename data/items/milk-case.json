@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Milchtruhe",
+        "en-GB": "Milk Case",
+        "en-US": "Milk Case",
+        "es": "Nevera terma",
+        "fr": "Présentoir à lait",
+        "it": "Frigo bevande",
+        "ja": "ぎゅうにゅうケース"
+      }
     }
   }
 }

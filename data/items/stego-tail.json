@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Stegosaurus-Schwanz",
+        "en-GB": "Stego Tail",
+        "en-US": "Stego Tail",
+        "es": "Cola estegosaurio",
+        "fr": "Queue de stégosaure",
+        "it": "Coda stegosauro",
+        "ja": "ステゴサウルスのしっぽ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4000
+      },
+      "name": {
+        "en-US": "Stego Tail",
+        "en-GB": "Stego Tail",
+        "de": "Stegosaurus-Schwanz",
+        "es": "Cola estegosaurio",
+        "fr": "Queue de stégosaure",
+        "it": "Coda stegosauro",
+        "nl": "Stegosaurusstaart",
+        "zh-CN": "剑龙的尾巴",
+        "zh-TW": "劍龍的尾巴",
+        "jp": "ステゴサウルスのしっぽ",
+        "ko": "스테고사우루스의 꼬리"
       }
     }
   }

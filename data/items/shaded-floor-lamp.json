@@ -23,6 +23,19 @@
         "pink": "Pink",
         "purple": "Purple",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Shaded Floor Lamp",
+        "en-GB": "Shaded Floor Lamp",
+        "de": "Schirm-Stehlampe",
+        "es": "Lámpara de pie con pantalla",
+        "fr": "Lampe abat-jour",
+        "it": "Lampada da terra",
+        "nl": "Staande schemerlamp",
+        "zh-CN": "有罩落地灯",
+        "zh-TW": "有罩落地燈",
+        "jp": "マウントシェードのフロアランプ",
+        "ko": "심플 플로어 스탠드"
       }
     }
   },

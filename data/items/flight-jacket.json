@@ -17,6 +17,19 @@
         "brown": "Brown",
         "black": "Black",
         "avocado": "Avocado"
+      },
+      "name": {
+        "en-US": "Flight Jacket",
+        "en-GB": "Flight Jacket",
+        "de": "Fliegerjacke",
+        "es": "Chaqueta de aviación",
+        "fr": "Veste d'aviation",
+        "it": "Giacca da aviatore",
+        "nl": "Pilotenjack",
+        "zh-CN": "飞行外套",
+        "zh-TW": "飛行外套",
+        "jp": "フライトジャケット",
+        "ko": "항공 점퍼"
       }
     }
   },

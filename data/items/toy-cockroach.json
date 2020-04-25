@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Toy Cockroach",
+        "en-GB": "Toy Cockroach",
+        "de": "Spielzeugkakerlake",
+        "es": "Cucaracha de pega",
+        "fr": "Cafard en plastique",
+        "it": "Scarafaggio finto",
+        "nl": "Fopkakkerlak",
+        "zh-CN": "玩具蟑螂",
+        "zh-TW": "玩具蟑螂",
+        "jp": "おもちゃのゴキブリ",
+        "ko": "장난감 바퀴벌레"
+      }
     }
   },
   "category": "Furniture"

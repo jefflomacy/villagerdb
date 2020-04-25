@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "雪莉的海报",
+        "de": "Poster's von Uta",
+        "en-GB": "Shari's Poster",
+        "es": "Póster de Montse",
+        "fr": "Poster de Luna",
+        "it": "Poster di Ninì",
+        "jp": "シェリーのポスター",
+        "ko": "젤리의 포스터",
+        "nl": "Poster van Shari",
+        "zh-TW": "雪莉的海報",
+        "en-US": "Shari's Poster"
+      }
     }
   },
   "category": "Photos"

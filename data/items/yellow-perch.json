@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Perch"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 300
+      },
+      "name": {
+        "en-US": "Yellow Perch",
+        "en-GB": "Yellow Perch",
+        "de": "Flussbarsch",
+        "es": "Perca amarilla",
+        "fr": "Perche jaune",
+        "it": "Perca dorata",
+        "nl": "Jackbaars",
+        "zh-CN": "黄鲈鱼",
+        "zh-TW": "黃鱸魚",
+        "jp": "イエローパーチ",
+        "ko": "옐로우퍼치"
       }
     }
   }

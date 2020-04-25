@@ -21,6 +21,19 @@
         "blue": "Blue",
         "white": "White",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Nurse's Jacket",
+        "en-GB": "Nurse's Jacket",
+        "de": "Klinikkittel",
+        "es": "Chaqueta auxiliar de clínica",
+        "fr": "Blouse d'infirmier",
+        "it": "Blusa da infermiere",
+        "nl": "Verplegersjas",
+        "zh-CN": "护士外套",
+        "zh-TW": "護士外套",
+        "jp": "かんごしのジャケット",
+        "ko": "간호사 재킷"
       }
     }
   },

@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 8000
+      },
+      "name": {
+        "en-US": "Cyclommatus Stag",
+        "en-GB": "Cyclommatus Stag",
+        "de": "Cyclommatus",
+        "es": "Esc. ciervo cyclommatus",
+        "fr": "Lucane cyclommatus",
+        "it": "Coleottero cyclommatus",
+        "nl": "Vliegend hert",
+        "zh-CN": "细身赤锹形虫",
+        "zh-TW": "細身赤鍬形蟲",
+        "jp": "ホソアカクワガタ",
+        "ko": "엘라푸스가위사슴벌레"
       }
     }
   },

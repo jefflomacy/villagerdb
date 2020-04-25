@@ -11,7 +11,10 @@
       },
       "sources": [
         "In the sea."
-      ]
+      ],
+      "name": {
+        "en-US": "Puffer Fish"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 250
+      },
+      "name": {
+        "en-US": "Puffer Fish",
+        "en-GB": "Puffer Fish",
+        "de": "Igelfisch",
+        "es": "Pez erizo",
+        "fr": "Poisson-Porc-Épic",
+        "it": "Pesce istrice",
+        "nl": "Egelvis",
+        "zh-CN": "刺豚",
+        "zh-TW": "刺河豚",
+        "jp": "ハリセンボン",
+        "ko": "가시복"
       }
     }
   }

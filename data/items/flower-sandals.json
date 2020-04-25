@@ -21,6 +21,19 @@
         "blue": "Blue",
         "black": "Black",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Flower Sandals",
+        "en-GB": "Flower Sandals",
+        "de": "Paars Blümchensandalen",
+        "es": "Sandalia con flor",
+        "fr": "Paire de sandales fleuries",
+        "it": "Paio di sandali floreali",
+        "nl": "Sandalen met bloemen",
+        "zh-CN": "花朵凉鞋",
+        "zh-TW": "花朵拖鞋",
+        "jp": "フラワーなサンダル",
+        "ko": "플라워 샌들"
       }
     }
   },

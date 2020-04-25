@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3600
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Throwback Dino Screen",
+        "en-GB": "Throwback Dino Screen",
+        "de": "Nostalgie-Dinowandschirm",
+        "es": "Mampara dino fantasía",
+        "fr": "Paravent nostalgie",
+        "it": "Paravento sauro fantasia",
+        "nl": "Speelgoedscheidingswand",
+        "zh-CN": "TOY屏风",
+        "zh-TW": "TOY屏風",
+        "jp": "TOYなスクリーン",
+        "ko": "TOY 파티션"
+      }
     }
   },
   "category": "Furniture"

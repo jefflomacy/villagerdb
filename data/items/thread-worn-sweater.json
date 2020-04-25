@@ -19,6 +19,19 @@
         "black": "Black",
         "beige": "Beige",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Thread-Worn Sweater",
+        "en-GB": "Thread-Worn Sweater",
+        "de": "Löcherpulli",
+        "es": "Jersey deshilachado",
+        "fr": "Pull usé à la corde",
+        "it": "Maglione rovinato",
+        "nl": "Versleten trui",
+        "zh-CN": "破洞针织衫",
+        "zh-TW": "破洞針織衫",
+        "jp": "ダメージニット",
+        "ko": "찢어진 니트"
       }
     }
   },

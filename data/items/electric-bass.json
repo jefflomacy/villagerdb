@@ -14,7 +14,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Electric Bass"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -36,6 +39,19 @@
         "ash-green": "Ash green",
         "shocking-pink": "Shocking pink",
         "space-silver": "Space silver"
+      },
+      "name": {
+        "en-US": "Electric Bass",
+        "en-GB": "Electric Bass",
+        "de": "E-Bass",
+        "es": "Bajo eléctrico",
+        "fr": "Basse électrique",
+        "it": "Basso elettrico",
+        "nl": "Elektrische basgitaar",
+        "zh-CN": "电贝司",
+        "zh-TW": "電貝斯",
+        "jp": "エレキベース",
+        "ko": "일렉트릭 베이스 기타"
       }
     }
   }

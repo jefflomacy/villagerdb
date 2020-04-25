@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Archelon-Torso",
+        "en-GB": "Archelon Torso",
+        "en-US": "Archelon Torso",
+        "es": "Cuerpo archelon",
+        "fr": "Corps d'archelon",
+        "it": "Torso archelone",
+        "ja": "アーケロンのからだ"
+      }
     }
   }
 }

@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 2252
         }
-      ]
+      ],
+      "name": {
+        "de": "Stufenschrank",
+        "en-GB": "Stair Dresser",
+        "en-US": "Stair Dresser",
+        "es": "Cómoda escalera",
+        "fr": "Commode escalier",
+        "it": "Mobile scala",
+        "ja": "かいだんだんす"
+      }
     }
   }
 }

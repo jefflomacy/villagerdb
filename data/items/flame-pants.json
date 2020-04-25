@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Flammenhose",
+        "en-GB": "Flame Pants",
+        "en-US": "Flame Pants",
+        "es": "Pantalón fuego",
+        "fr": "Pantalon flamme",
+        "it": "Pantalone fiamma",
+        "ja": "ファイアーなズボン"
+      }
     }
   }
 }

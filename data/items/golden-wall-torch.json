@@ -15,7 +15,16 @@
       },
       "sources": [
         "Re-Tail (refurbish)"
-      ]
+      ],
+      "name": {
+        "de": "Goldfackel",
+        "en-GB": "Golden Wall Torch",
+        "en-US": "Golden Wall Torch",
+        "es": "Antorcha dorada",
+        "fr": "Flambeau mur d'or",
+        "it": "Torcia a muro d'oro",
+        "ja": "おうごんのトーチ"
+      }
     }
   }
 }

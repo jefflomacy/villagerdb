@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1620
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Chic Umbrella",
+        "en-GB": "Red Chic Umbrella",
+        "de": "Rot-Klassikschirm",
+        "es": "Parasol gótico rojo",
+        "fr": "Ombrelle chic rouge",
+        "it": "Ombrello rosso chic",
+        "nl": "Rode chique paraplu",
+        "zh-CN": "红色典雅雨伞",
+        "zh-TW": "紅色典雅雨傘",
+        "jp": "あかいシックなかさ",
+        "ko": "빨간 시크 우산"
+      }
     }
   },
   "category": "Umbrellas"

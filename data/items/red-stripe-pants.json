@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Rotringelhose",
+        "en-GB": "Red-Stripe Pants",
+        "en-US": "Red-Stripe Pants",
+        "es": "Pantalón rayas rojo",
+        "fr": "Pantalon rayé rouge",
+        "it": "Pantal. rosa e beige",
+        "ja": "あかいボーダーパンツ"
+      }
     }
   }
 }

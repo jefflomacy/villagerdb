@@ -17,6 +17,19 @@
         "white": "White",
         "orange": "Orange",
         "navy-blue": "Navy blue"
+      },
+      "name": {
+        "en-US": "Sunflower Dress",
+        "en-GB": "Sunflower Dress",
+        "de": "Sonnenblumenkleid",
+        "es": "Vestido girasoles",
+        "fr": "Robe tournesols",
+        "it": "Vestito con girasoli",
+        "nl": "Zonnebloemenjurk",
+        "zh-CN": "向日葵连身裙",
+        "zh-TW": "向日葵連身裙",
+        "jp": "ひまわりのワンピース",
+        "ko": "해바라기 원피스"
       }
     }
   },

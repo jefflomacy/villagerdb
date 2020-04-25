@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "de": "Patchwork-Tisch",
+        "en-GB": "Patchwork Table",
+        "en-US": "Patchwork Table",
+        "es": "Mesa de retales",
+        "fr": "Table patchwork",
+        "it": "Tavolo patchwork",
+        "ja": "パッチワークなテーブル"
+      }
     }
   }
 }

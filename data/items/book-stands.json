@@ -15,7 +15,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Book Stands"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,6 +36,19 @@
         "brown": "Brown",
         "black": "Black",
         "pastel": "Pastel"
+      },
+      "name": {
+        "en-US": "Book Stands",
+        "en-GB": "Book Stands",
+        "de": "Buchstütze",
+        "es": "Sujetalibros",
+        "fr": "Serre-Livres",
+        "it": "Coppia di fermalibri",
+        "nl": "Boekensteunen",
+        "zh-CN": "书挡",
+        "zh-TW": "書擋",
+        "jp": "ブックスタンド",
+        "ko": "북엔드"
       }
     }
   }

@@ -15,7 +15,16 @@
       },
       "sources": [
         "GracieGrace (during sales)"
-      ]
+      ],
+      "name": {
+        "de": "Kartenraumteiler",
+        "en-GB": "Card Screen",
+        "en-US": "Card Screen",
+        "es": "Biombo naipes",
+        "fr": "Paravent cartes",
+        "it": "Separé carte",
+        "ja": "トランプスクリーン"
+      }
     }
   }
 }

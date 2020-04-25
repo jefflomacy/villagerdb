@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 352
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mom's Lively Kitchen Mat",
+        "en-GB": "Mom's Lively Kitchen Mat",
+        "de": "Lebhaft-Matte von Mama",
+        "es": "Alfombra de mamá amarilla",
+        "fr": "T. cuisine de maman jaune",
+        "it": "Tappeto vivace di mamma",
+        "nl": "Mama's vrolijke keukenmat",
+        "zh-CN": "活力妈妈的厨房地垫",
+        "zh-TW": "活潑媽媽廚房地墊",
+        "jp": "げんきなははのキッチンマット",
+        "ko": "발랄한 엄마의 키친 매트"
+      }
     }
   },
   "category": "Flooring"

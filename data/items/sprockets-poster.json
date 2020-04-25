@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "鹤兹的海报",
+        "de": "Poster's von Lutz",
+        "en-GB": "Sprocket's Poster",
+        "es": "Póster de Ráfaga",
+        "fr": "Poster de Laflèche",
+        "it": "Poster di Frankie",
+        "jp": "ヘルツのポスター",
+        "ko": "헤르츠의 포스터",
+        "nl": "Poster van Sprocket",
+        "zh-TW": "鶴茲的海報",
+        "en-US": "Sprocket's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -7,13 +7,19 @@
       "orderable": false,
       "sources": [
         "Tom Nook"
-      ]
+      ],
+      "name": {
+        "en-US": "Work Uniform"
+      }
     },
     "afe+": {
       "orderable": false,
       "sources": [
         "Tom Nook"
-      ]
+      ],
+      "name": {
+        "en-US": "Work Uniform"
+      }
     }
   }
 }

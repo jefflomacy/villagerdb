@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿二的海报",
+        "de": "Poster's von Karin",
+        "en-GB": "Agent S's Poster",
+        "es": "Póster de Fardilia",
+        "fr": "Poster de Ninjette",
+        "it": "Poster di Agente S",
+        "jp": "２ごうのポスター",
+        "ko": "2호의 포스터",
+        "nl": "Poster van Agent S",
+        "zh-TW": "阿二的海報",
+        "en-US": "Agent S's Poster"
+      }
     }
   },
   "category": "Photos"

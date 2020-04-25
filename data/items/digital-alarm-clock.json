@@ -26,6 +26,19 @@
         "pink": "Pink",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Digital Alarm Clock",
+        "en-GB": "Digital Alarm Clock",
+        "de": "Digitalwecker",
+        "es": "Despertador digital",
+        "fr": "Réveille-Matin électrique",
+        "it": "Sveglia digitale",
+        "nl": "Digitale wekker",
+        "zh-CN": "电子闹钟",
+        "zh-TW": "電子鬧鐘",
+        "jp": "デジタルアラームどけい",
+        "ko": "디지털 알람 시계"
       }
     }
   },

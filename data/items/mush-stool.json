@@ -16,7 +16,16 @@
       },
       "sources": [
         "Pick mushrooms during November"
-      ]
+      ],
+      "name": {
+        "de": "Pilzhocker",
+        "en-GB": "Mush Stool",
+        "en-US": "Mush Stool",
+        "es": "Taburete hongo",
+        "fr": "Siège champi",
+        "it": "Sgabello fungo",
+        "ja": "さるのこしかけ"
+      }
     }
   }
 }

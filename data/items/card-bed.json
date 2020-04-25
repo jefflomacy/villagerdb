@@ -15,7 +15,16 @@
       },
       "sources": [
         "GracieGrace (during sales)"
-      ]
+      ],
+      "name": {
+        "de": "Kartenbett",
+        "en-GB": "Card Bed",
+        "en-US": "Card Bed",
+        "es": "Cama naipes",
+        "fr": "Lit cartes",
+        "it": "Letto carte",
+        "ja": "トランプベッド"
+      }
     }
   }
 }

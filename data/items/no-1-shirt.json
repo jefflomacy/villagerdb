@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 252
         }
-      ]
+      ],
+      "name": {
+        "de": "Nr.-1-Pulli",
+        "en-GB": "No. 1 Shirt",
+        "en-US": "No. 1 Shirt",
+        "es": "Jersey n.º 1",
+        "fr": "Pull 1",
+        "it": "Maglia nº 1",
+        "ja": "No.1のふく"
+      }
     },
     "ac": {
       "orderable": true,
@@ -36,7 +45,10 @@
           "currency": "bells",
           "value": 250
         }
-      ]
+      ],
+      "name": {
+        "en-US": "No. 1 Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -52,7 +64,10 @@
           "currency": "bells",
           "value": 250
         }
-      ]
+      ],
+      "name": {
+        "en-US": "No. 1 Shirt"
+      }
     },
     "nh": {
       "orderable": true,
@@ -71,6 +86,19 @@
       ],
       "variations": {
         "red": "Red"
+      },
+      "name": {
+        "en-US": "No. 1 Shirt",
+        "en-GB": "No. 1 Shirt",
+        "de": "Nr.-1-Shirt",
+        "es": "Camiseta n.º 1",
+        "fr": "T-Shirt 1",
+        "it": "Maglia nº 1",
+        "nl": "Nummer 1-T-shirt",
+        "zh-CN": "1号服",
+        "zh-TW": "No.1衣服",
+        "jp": "No.1のふく",
+        "ko": "No.1 옷"
       }
     }
   }

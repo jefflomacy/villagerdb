@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1520
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Floral Flooring",
+        "en-GB": "Blue Floral Flooring",
+        "de": "Blau-Blütenmusterboden",
+        "es": "Suelo floral azul",
+        "fr": "Sol floral strié bleu",
+        "it": "Pavimento floreale blu",
+        "nl": "Blauwe bloemetjesvloer",
+        "zh-CN": "蓝色花朵地板",
+        "zh-TW": "藍色花朵地板",
+        "jp": "あおいフラワーフローリング",
+        "ko": "파란 꽃무늬 마룻바닥"
+      }
     }
   },
   "category": "Flooring"

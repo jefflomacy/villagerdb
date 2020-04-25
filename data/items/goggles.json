@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Goggles"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -40,6 +43,19 @@
         "green": "Green",
         "purple": "Purple",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Goggles",
+        "en-GB": "Goggles",
+        "de": "Schwimmbrille",
+        "es": "Gafa para piscina",
+        "fr": "Monture piscine",
+        "it": "Paio di occhialini da nuoto",
+        "nl": "Zwembril",
+        "zh-CN": "泳镜",
+        "zh-TW": "泳鏡",
+        "jp": "すいえいゴーグル",
+        "ko": "물안경"
       }
     }
   }

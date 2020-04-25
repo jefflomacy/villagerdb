@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 340
         }
-      ]
+      ],
+      "name": {
+        "de": "3er-Shirt",
+        "en-GB": "Three-Ball Tee",
+        "en-US": "Three-Ball Tee",
+        "es": "Camiseta bola 3",
+        "fr": "T-shirt nº 3",
+        "it": "Maglietta palla 3",
+        "ja": "3ばんだまのふく"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -35,6 +44,19 @@
       ],
       "variations": {
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Three-Ball Tee",
+        "en-GB": "Three-Ball Tee",
+        "de": "3Er-Shirt",
+        "es": "Camiseta bola 3",
+        "fr": "T-Shirt nº 3",
+        "it": "Maglietta palla 3",
+        "nl": "3-Bal-T-Shirt",
+        "zh-CN": "3号球上衣",
+        "zh-TW": "3號球衣服",
+        "jp": "３ばんだまのふく",
+        "ko": "3번공 옷"
       }
     }
   }

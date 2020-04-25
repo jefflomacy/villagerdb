@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "吸管的海报",
+        "de": "Poster's von Knuth",
+        "en-GB": "Huck's Poster",
+        "es": "Póster de Ricardo",
+        "fr": "Poster de Bajoue",
+        "it": "Poster di Berto",
+        "jp": "ストローのポスター",
+        "ko": "스트로의 포스터",
+        "nl": "Poster van Huck",
+        "zh-TW": "吸管的海報",
+        "en-US": "Huck's Poster"
+      }
     }
   },
   "category": "Photos"

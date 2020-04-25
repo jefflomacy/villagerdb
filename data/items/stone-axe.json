@@ -12,6 +12,19 @@
       "recipe": {
         "flimsy-axe": 1,
         "wood": 3
+      },
+      "name": {
+        "en-US": "Stone Axe",
+        "en-GB": "Stone Axe",
+        "de": "Steinaxt",
+        "es": "Hacha de piedra",
+        "fr": "Hache de pierre",
+        "it": "Ascia di pietra",
+        "nl": "Stenen bijl",
+        "zh-CN": "石斧头",
+        "zh-TW": "石斧頭",
+        "jp": "いしのオノ",
+        "ko": "돌도끼"
       }
     }
   },

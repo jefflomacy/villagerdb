@@ -15,7 +15,16 @@
       },
       "sources": [
         "Re-Tail (refurbish)"
-      ]
+      ],
+      "name": {
+        "de": "Goldstuhl",
+        "en-GB": "Golden Chair",
+        "en-US": "Golden Chair",
+        "es": "Silla dorada",
+        "fr": "Chaise d'or",
+        "it": "Sedia d'oro",
+        "ja": "おうごんのイス"
+      }
     }
   }
 }

@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 30000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Starry-Sky Wall",
+        "en-GB": "Starry-Sky Wall",
+        "de": "Sternenhimmeltapete",
+        "es": "Horizonte lunar",
+        "fr": "Mur ciel étoilé",
+        "it": "Muro cielo stellato",
+        "nl": "Heelalwand",
+        "zh-CN": "星空墙",
+        "zh-TW": "星空牆",
+        "jp": "ほしぞらのかべ",
+        "ko": "별이 빛나는 벽"
+      }
     }
   },
   "category": "Wallpaper"

@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 3840
         }
-      ]
+      ],
+      "name": {
+        "de": "Streckmaschine",
+        "en-GB": "Complex Machine",
+        "en-US": "Complex Machine",
+        "es": "Psicogenerador",
+        "fr": "Machine complexe",
+        "it": "Macchina complessa",
+        "ja": "ややこしそうなキカイ"
+      }
     }
   }
 }

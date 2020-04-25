@@ -18,6 +18,19 @@
         "pink": "Pink",
         "green": "Green",
         "beige": "Beige"
+      },
+      "name": {
+        "en-US": "Lace Skirt",
+        "en-GB": "Lace Skirt",
+        "de": "Spitzenrock",
+        "es": "Falda encaje",
+        "fr": "Jupe en dentelle",
+        "it": "Gonna merlettata",
+        "nl": "Kanten rokje",
+        "zh-CN": "蕾丝短裙",
+        "zh-TW": "蕾絲裙",
+        "jp": "レーススカート",
+        "ko": "레이스 치마"
       }
     }
   },

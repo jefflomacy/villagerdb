@@ -18,6 +18,19 @@
         "white-red": "White & red",
         "blue": "Blue",
         "white-blue": "White & blue"
+      },
+      "name": {
+        "en-US": "Sports Cap",
+        "en-GB": "Sports Cap",
+        "de": "Sportkappe",
+        "es": "Gorra deportiva",
+        "fr": "Casquette de sport",
+        "it": "Cappellino sportivo",
+        "nl": "Sportieve pet",
+        "zh-CN": "运动帽",
+        "zh-TW": "運動帽",
+        "jp": "うんどうぼう",
+        "ko": "운동 모자"
       }
     }
   },

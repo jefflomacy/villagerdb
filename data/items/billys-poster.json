@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "亚星的海报",
+        "de": "Poster's von Hennes",
+        "en-GB": "Billy's Poster",
+        "es": "Póster de Brito",
+        "fr": "Poster de Seguin",
+        "it": "Poster di Billy",
+        "jp": "アーシンドのポスター",
+        "ko": "힘드러의 포스터",
+        "nl": "Poster van Billy",
+        "zh-TW": "亞星的海報",
+        "en-US": "Billy's Poster"
+      }
     }
   },
   "category": "Photos"

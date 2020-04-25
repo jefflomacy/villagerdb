@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Orient-Tischchen",
+        "en-GB": "Exotic End Table",
+        "en-US": "Exotic End Table",
+        "es": "Mesita exótica",
+        "fr": "Mini-table teck",
+        "it": "Tavolino esotico",
+        "ja": "アジアなミニテーブル"
+      }
     }
   }
 }

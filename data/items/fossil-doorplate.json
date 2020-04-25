@@ -16,6 +16,19 @@
       "variations": {
         "gray": "Gray",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Fossil Doorplate",
+        "en-GB": "Fossil Doorplate",
+        "de": "Fossilientürschild",
+        "es": "Placa fósil",
+        "fr": "Plaque fossile",
+        "it": "Targa da porta fossile",
+        "nl": "Fossieldeurplaatje",
+        "zh-CN": "化石门牌",
+        "zh-TW": "化石門牌",
+        "jp": "かせきのドアプレート",
+        "ko": "화석 문패"
       }
     }
   },

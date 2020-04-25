@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "施傅的照片",
+        "de": "Foto's von Sascha",
+        "en-GB": "Chief's Photo",
+        "es": "Foto de Zoilo",
+        "fr": "Photo de Chef",
+        "it": "Foto di Artiglio",
+        "jp": "チーフのしゃしん",
+        "ko": "대장의 사진",
+        "nl": "Foto van Chief",
+        "zh-TW": "施傅的照片",
+        "en-US": "Chief's Photo"
       }
     }
   },

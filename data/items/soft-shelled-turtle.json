@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Soft-Shelled Turtle"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3750
+      },
+      "name": {
+        "en-US": "Soft-Shelled Turtle",
+        "en-GB": "Soft-Shelled Turtle",
+        "de": "Weichschildkröte",
+        "es": "Tortuga caparazón blando",
+        "fr": "Tortue trionyx",
+        "it": "Apalone ferox",
+        "nl": "Weekschildpad",
+        "zh-CN": "鳖",
+        "zh-TW": "鱉",
+        "jp": "スッポン",
+        "ko": "자라"
       }
     }
   }

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "比利的照片",
+        "de": "Foto's von Gregor",
+        "en-GB": "Gruff's Photo",
+        "es": "Foto de Sátiro",
+        "fr": "Photo de Grognon",
+        "it": "Foto di Capriolé",
+        "jp": "ビリーのしゃしん",
+        "ko": "빌리의 사진",
+        "nl": "Foto van Gruff",
+        "zh-TW": "比利的照片",
+        "en-US": "Gruff's Photo"
       }
     }
   },

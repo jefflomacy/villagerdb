@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Orient-Kommode",
+        "en-GB": "Exotic Bureau",
+        "en-US": "Exotic Bureau",
+        "es": "Cómoda exótica",
+        "fr": "Commode teck",
+        "it": "Comò esotico",
+        "ja": "アジアなタンス"
+      }
     }
   }
 }

@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Piranha"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2500
+      },
+      "name": {
+        "en-US": "Piranha",
+        "en-GB": "Piranha",
+        "de": "Piranha",
+        "es": "Piraña",
+        "fr": "Piranha",
+        "it": "Pesce piranha",
+        "nl": "Piranha",
+        "zh-CN": "食人鱼",
+        "zh-TW": "食人魚",
+        "jp": "ピラニア",
+        "ko": "피라니아"
       }
     }
   }

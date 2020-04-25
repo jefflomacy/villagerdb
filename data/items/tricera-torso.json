@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Triceratops-Torso",
+        "en-GB": "Tricera Torso",
+        "en-US": "Tricera Torso",
+        "es": "Cuerpo triceratops",
+        "fr": "Corps de tricératops",
+        "it": "Torso triceratopo",
+        "ja": "トリケラトプスのからだ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5000
+      },
+      "name": {
+        "en-US": "Tricera Torso",
+        "en-GB": "Tricera Torso",
+        "de": "Triceratops-Torso",
+        "es": "Cuerpo triceratops",
+        "fr": "Corps de tricératops",
+        "it": "Torso triceratopo",
+        "nl": "Triceratopsromp",
+        "zh-CN": "三角龙的身体",
+        "zh-TW": "三角龍的身體",
+        "jp": "トリケラトプスのからだ",
+        "ko": "트리케라톱스의 몸통"
       }
     }
   }

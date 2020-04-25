@@ -22,6 +22,19 @@
         "pink": "Pink",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Giant Ribbon",
+        "en-GB": "Giant Ribbon",
+        "de": "Riesenschleifchen",
+        "es": "Maxilazo",
+        "fr": "Ruban géant",
+        "it": "Fiocco gigante",
+        "nl": "Grote strik",
+        "zh-CN": "大蝴蝶结",
+        "zh-TW": "大蝴蝶結",
+        "jp": "おおきなリボン",
+        "ko": "커다란 리본"
       }
     }
   },

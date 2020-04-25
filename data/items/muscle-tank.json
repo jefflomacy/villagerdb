@@ -22,6 +22,19 @@
         "red": "Red",
         "green": "Green",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Muscle Tank",
+        "en-GB": "Muscle Tank",
+        "de": "Muskelshirt",
+        "es": "Top pesas",
+        "fr": "Marcel de muscu",
+        "it": "Canotta da palestra",
+        "nl": "Sportieve tanktop",
+        "zh-CN": "运动坦克背心",
+        "zh-TW": "健身坦克背心",
+        "jp": "マッスルタンクトップ",
+        "ko": "머슬 탱크톱"
       }
     }
   },

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "美佳的海报",
+        "de": "Poster's von Minka",
+        "en-GB": "Felicity's Poster",
+        "es": "Póster de Micha",
+        "fr": "Poster de Maud",
+        "it": "Poster di Milly",
+        "jp": "みかっちのポスター",
+        "ko": "예링의 포스터",
+        "nl": "Poster van Felicity",
+        "zh-TW": "美佳的海報",
+        "en-US": "Felicity's Poster"
+      }
     }
   },
   "category": "Photos"

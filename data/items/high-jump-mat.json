@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 2980
         }
-      ]
+      ],
+      "name": {
+        "de": "Turnmatte",
+        "en-GB": "High-Jump Mat",
+        "en-US": "High-Jump Mat",
+        "es": "Colchoneta salto",
+        "fr": "Matelas sport",
+        "it": "Mater. salto in alto",
+        "ja": "たかとびのマット"
+      }
     }
   }
 }

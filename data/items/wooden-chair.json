@@ -21,6 +21,19 @@
         "green": "Green",
         "blue": "Blue",
         "pink-wood": "Pink wood"
+      },
+      "name": {
+        "en-US": "Wooden Chair",
+        "en-GB": "Wooden Chair",
+        "de": "Holzstuhl",
+        "es": "Silla de madera",
+        "fr": "Chaise en bois",
+        "it": "Sedia di legno",
+        "nl": "Houten stoel",
+        "zh-CN": "木制椅",
+        "zh-TW": "木製椅",
+        "jp": "もくせいチェア",
+        "ko": "목제 체어"
       }
     }
   },

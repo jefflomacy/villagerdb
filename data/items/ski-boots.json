@@ -20,6 +20,19 @@
         "lime": "Lime",
         "light-blue": "Light blue",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Ski Boots",
+        "en-GB": "Ski Boots",
+        "de": "Paars Skistiefel",
+        "es": "Bota de esquí",
+        "fr": "Paire de bottes de ski",
+        "it": "Paio di scarponi da sci",
+        "nl": "Skilaarzen",
+        "zh-CN": "滑雪靴",
+        "zh-TW": "滑雪靴",
+        "jp": "スキーブーツ",
+        "ko": "스키 부츠"
       }
     }
   },

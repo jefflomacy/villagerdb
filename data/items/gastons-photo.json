@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "猛兔的照片",
+        "de": "Foto's von Gaston",
+        "en-GB": "Gaston's Photo",
+        "es": "Foto de Gastón",
+        "fr": "Photo de Gaston",
+        "it": "Foto di Gaston",
+        "jp": "モサキチのしゃしん",
+        "ko": "대길의 사진",
+        "nl": "Foto van Gaston",
+        "zh-TW": "猛兔的照片",
+        "en-US": "Gaston's Photo"
       }
     }
   },

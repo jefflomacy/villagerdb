@@ -11,7 +11,10 @@
       },
       "sources": [
         "Beach"
-      ]
+      ],
+      "name": {
+        "en-US": "Sand Dollar"
+      }
     },
     "nh": {
       "orderable": false,
@@ -21,6 +24,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 120
+      },
+      "name": {
+        "en-US": "Sand Dollar",
+        "en-GB": "Sand Dollar",
+        "de": "Sanddollar",
+        "es": "Dólar de arena",
+        "fr": "Clypéastre",
+        "it": "Dollaro sabbioso",
+        "nl": "Zanddollar",
+        "zh-CN": "沙钱",
+        "zh-TW": "沙錢",
+        "jp": "サンドダラー",
+        "ko": "연잎성게"
       }
     }
   }

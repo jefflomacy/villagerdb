@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Spinosaurus-Schädel",
+        "en-GB": "Spino Skull",
+        "en-US": "Spino Skull",
+        "es": "Cráneo espinosaurio",
+        "fr": "Crâne de spinosaurus",
+        "it": "Teschio spinosauro",
+        "ja": "スピノサウルスのあたま"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4000
+      },
+      "name": {
+        "en-US": "Spino Skull",
+        "en-GB": "Spino Skull",
+        "de": "Spinosaurus-Schädel",
+        "es": "Cráneo espinosaurio",
+        "fr": "Crâne de spinosaure",
+        "it": "Cranio spinosauro",
+        "nl": "Spinosauruskop",
+        "zh-CN": "棘龙的头",
+        "zh-TW": "棘龍的頭",
+        "jp": "スピノサウルスのあたま",
+        "ko": "스피노사우루스의 머리"
       }
     }
   }

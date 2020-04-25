@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 3336
         }
-      ]
+      ],
+      "name": {
+        "de": "Herbstkommode",
+        "en-GB": "Harvest Dresser",
+        "en-US": "Harvest Dresser",
+        "es": "Cómoda pavo",
+        "fr": "Commode dindon",
+        "it": "Comodino autunno",
+        "ja": "ハーベストチェスト"
+      }
     }
   }
 }

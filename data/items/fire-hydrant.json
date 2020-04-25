@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 960
         }
-      ]
+      ],
+      "name": {
+        "de": "Hydrant",
+        "en-GB": "Fire Hydrant",
+        "en-US": "Fire Hydrant",
+        "es": "Boca de incendio",
+        "fr": "Borne d'incendie",
+        "it": "Idrante",
+        "ja": "しょうかせん"
+      }
     }
   }
 }

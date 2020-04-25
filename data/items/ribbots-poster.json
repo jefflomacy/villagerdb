@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "锵锵的海报",
+        "de": "Poster's von Robbi",
+        "en-GB": "Ribbot's Poster",
+        "es": "Póster de Ranobot",
+        "fr": "Poster de Crabot",
+        "it": "Poster di Ranabot",
+        "jp": "ガチャのポスター",
+        "ko": "철컥의 포스터",
+        "nl": "Poster van Ribbot",
+        "zh-TW": "鏘鏘的海報",
+        "en-US": "Ribbot's Poster"
+      }
     }
   },
   "category": "Photos"

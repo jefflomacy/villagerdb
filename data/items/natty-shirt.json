@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Mohair-Pulli",
+        "en-GB": "Natty Shirt",
+        "en-US": "Natty Shirt",
+        "es": "Jersey paseo rosa",
+        "fr": "Pull filet",
+        "it": "Maglia di classe",
+        "ja": "ピンクツイードのふくL"
+      }
     },
     "ac": {
       "orderable": true,
@@ -39,7 +48,10 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Natty Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -55,7 +67,10 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Natty Shirt"
+      }
     }
   }
 }

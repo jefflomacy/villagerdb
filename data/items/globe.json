@@ -15,7 +15,16 @@
       },
       "sources": [
         "Katie"
-      ]
+      ],
+      "name": {
+        "de": "Globus",
+        "en-GB": "Globe",
+        "en-US": "Globe",
+        "es": "Globo terráqueo",
+        "fr": "Globe terrestre",
+        "it": "Mappamondo",
+        "ja": "ちきゅうぎ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -37,6 +46,19 @@
         "standard": "Standard",
         "sepia": "Sepia",
         "cool": "Cool"
+      },
+      "name": {
+        "en-US": "Globe",
+        "en-GB": "Globe",
+        "de": "Globus",
+        "es": "Globo terráqueo",
+        "fr": "Globe terrestre",
+        "it": "Mappamondo",
+        "nl": "Globe",
+        "zh-CN": "地球仪",
+        "zh-TW": "地球儀",
+        "jp": "ちきゅうぎ",
+        "ko": "지구의"
       }
     }
   }

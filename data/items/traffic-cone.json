@@ -18,7 +18,16 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "de": "Verkehrshütchen",
+        "en-GB": "Traffic Cone",
+        "en-US": "Traffic Cone",
+        "es": "Cono de tráfico",
+        "fr": "Cône bicolore",
+        "it": "Cono da traffico",
+        "ja": "おもりつきパイロン"
+      }
     }
   }
 }

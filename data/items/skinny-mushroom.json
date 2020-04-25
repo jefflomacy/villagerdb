@@ -12,12 +12,28 @@
       "sources": [
         "Near trees (only in November)",
         "near tree stumps."
-      ]
+      ],
+      "name": {
+        "en-US": "Skinny Mushroom"
+      }
     },
     "nh": {
       "sellPrice": {
         "currency": "bells",
         "value": 300
+      },
+      "name": {
+        "en-US": "Skinny Mushroom",
+        "en-GB": "Skinny Mushroom",
+        "de": "Dürrpilz",
+        "es": "Champiñón fino",
+        "fr": "Champignon maigre",
+        "it": "Fungo fino",
+        "nl": "Dunne paddenstoel",
+        "zh-CN": "瘦小蘑菇",
+        "zh-TW": "瘦小蘑菇",
+        "jp": "ほそいキノコ",
+        "ko": "가는 버섯"
       }
     }
   }

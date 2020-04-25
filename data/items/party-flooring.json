@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1480
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Party Flooring",
+        "en-GB": "Party Flooring",
+        "de": "Partyboden",
+        "es": "Suelo fiestero",
+        "fr": "Sol fête",
+        "it": "Pavimento festa",
+        "nl": "Feestvloer",
+        "zh-CN": "派对地板",
+        "zh-TW": "派對地板",
+        "jp": "パーティーのゆか",
+        "ko": "파티 바닥"
+      }
     }
   },
   "category": "Flooring"

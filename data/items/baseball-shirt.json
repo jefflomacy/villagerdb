@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Baseballtrikot",
+        "en-GB": "Baseball Shirt",
+        "en-US": "Baseball Shirt",
+        "es": "Jersey béisbol",
+        "fr": "Pull baseball",
+        "it": "Maglia baseball",
+        "ja": "やきゅうのふく"
+      }
     },
     "nh": {
       "orderable": true,
@@ -41,6 +50,19 @@
         "black": "Black",
         "white": "White",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Baseball Shirt",
+        "en-GB": "Baseball Shirt",
+        "de": "Baseballshirt",
+        "es": "Camiseta de béisbol",
+        "fr": "Maillot de base-ball",
+        "it": "Camicia da baseball",
+        "nl": "Honkbalshirt",
+        "zh-CN": "棒球衬衫",
+        "zh-TW": "棒球襯衫",
+        "jp": "ベースボールシャツ",
+        "ko": "야구 셔츠"
       }
     }
   }

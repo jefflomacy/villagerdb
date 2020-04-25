@@ -18,7 +18,16 @@
           "currency": "bells",
           "value": 2200
         }
-      ]
+      ],
+      "name": {
+        "de": "Geige",
+        "en-GB": "Violin",
+        "en-US": "Violin",
+        "es": "Viola",
+        "fr": "Violon",
+        "it": "Violino",
+        "ja": "ビオラ"
+      }
     }
   }
 }

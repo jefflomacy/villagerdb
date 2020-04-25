@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Cute-Paint Flooring",
+        "en-GB": "Cute-Paint Flooring",
+        "de": "Niedlich-Farbholzboden",
+        "es": "Parqué pintado adorable",
+        "fr": "Parquet peint tons chauds",
+        "it": "Pavimento grazioso dipinto",
+        "nl": "Warmkleurig geverfde vloer",
+        "zh-CN": "可爱喷涂地板",
+        "zh-TW": "可愛油漆地板",
+        "jp": "キュートなペイントフローリング",
+        "ko": "큐트 페인트 마룻바닥"
+      }
     }
   },
   "category": "Flooring"

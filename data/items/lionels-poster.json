@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "赖恩睿的海报",
+        "de": "Poster's von Lorenz",
+        "en-GB": "Lionel's Poster",
+        "es": "Póster de Lionel",
+        "fr": "Poster de Léopold",
+        "it": "Poster di Leonida",
+        "jp": "ライオネルのポスター",
+        "ko": "라이오넬의 포스터",
+        "nl": "Poster van Lionel",
+        "zh-TW": "賴恩睿的海報",
+        "en-US": "Lionel's Poster"
+      }
     }
   },
   "category": "Photos"

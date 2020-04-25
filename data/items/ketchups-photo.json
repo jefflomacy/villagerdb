@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "番茄酱的照片",
+        "de": "Foto's von Pullunda",
+        "en-GB": "Ketchup's Photo",
+        "es": "Foto de Kétchup",
+        "fr": "Photo de Ketchup",
+        "it": "Foto di Ketchup",
+        "jp": "ケチャップのしゃしん",
+        "ko": "케첩의 사진",
+        "nl": "Foto van Ketchup",
+        "zh-TW": "番茄醬的照片",
+        "en-US": "Ketchup's Photo"
       }
     }
   },

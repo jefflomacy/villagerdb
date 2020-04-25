@@ -25,7 +25,16 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "de": "Blauheldenpulli",
+        "en-GB": "Blue-Zap Suit",
+        "en-US": "Blue-Zap Suit",
+        "es": "Superjersey azul",
+        "fr": "Pull de héros bleu",
+        "it": "Maglia eroe blu",
+        "ja": "ヒーロースーツB"
+      }
     }
   }
 }

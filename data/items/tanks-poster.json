@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿足的海报",
+        "de": "Poster's von Frank",
+        "en-GB": "Tank's Poster",
+        "es": "Póster de Aníbal",
+        "fr": "Poster de Ben",
+        "it": "Poster di Rinaldo",
+        "jp": "くるぶしのポスター",
+        "ko": "탱크의 포스터",
+        "nl": "Poster van Tank",
+        "zh-TW": "阿足的海報",
+        "en-US": "Tank's Poster"
+      }
     }
   },
   "category": "Photos"

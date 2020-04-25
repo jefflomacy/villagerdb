@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Café K.K."
+      }
     },
     "nh": {
       "orderable": true,
@@ -35,7 +38,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Café K.K.",
+        "en-GB": "Café K.K.",
+        "de": "K.K. Kaffeeblues",
+        "es": "Tota-Café",
+        "fr": "Kéké café",
+        "it": "K.K. Bar",
+        "nl": "Café K.K.",
+        "zh-CN": "K.K.巴黎",
+        "zh-TW": "K.K.巴黎",
+        "jp": "けけパリ",
+        "ko": "K.K.파리",
+        "ru": "Кафе К. К."
+      }
     }
   }
 }

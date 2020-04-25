@@ -16,7 +16,16 @@
       },
       "sources": [
         "Pick mushrooms during November"
-      ]
+      ],
+      "name": {
+        "de": "Pilzfernseher",
+        "en-GB": "Mush TV",
+        "en-US": "Mush TV",
+        "es": "Tele hongo",
+        "fr": "Télé champi",
+        "it": "TV fungo",
+        "ja": "きのこテレビ"
+      }
     }
   }
 }

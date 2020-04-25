@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Orange Molded-Panel Wall",
+        "en-GB": "Orange Molded-Panel Wall",
+        "de": "Orange-Wandvertäfelung",
+        "es": "Pared con molduras naranja",
+        "fr": "Mur à moulures orange",
+        "it": "Muro modanature arancione",
+        "nl": "Oranje lambrisering",
+        "zh-CN": "橘色线板墙",
+        "zh-TW": "橘色線板牆",
+        "jp": "オレンジのパネルモールドかべ",
+        "ko": "오렌지 패널 몰드 벽"
+      }
     }
   },
   "category": "Wallpaper"

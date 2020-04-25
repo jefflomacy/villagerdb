@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1750
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Argyle Tile Flooring",
+        "en-GB": "Argyle Tile Flooring",
+        "de": "Rautenfliesenboden",
+        "es": "Losa mosaico rombos",
+        "fr": "Sol carreaux et lattes",
+        "it": "Pavimento piastrelle rombi",
+        "nl": "Geruite tegelvloer",
+        "zh-CN": "菱格纹砖地板",
+        "zh-TW": "菱格紋磚地板",
+        "jp": "アーガイルなタイルのゆか",
+        "ko": "아가일 타일 바닥"
+      }
     }
   },
   "category": "Flooring"

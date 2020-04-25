@@ -21,6 +21,19 @@
         "stainless-steel": "Stainless steel",
         "wooden": "Wooden",
         "pop": "Pop"
+      },
+      "name": {
+        "en-US": "Magnetic Knife Rack",
+        "en-GB": "Magnetic Knife Rack",
+        "de": "Magnet-Messerhalter",
+        "es": "Cuchillero magnético",
+        "fr": "Range-Couteaux aimanté",
+        "it": "Portacoltelli magnetico",
+        "nl": "Magnetische messenstrip",
+        "zh-CN": "磁铁刀架",
+        "zh-TW": "磁鐵刀架",
+        "jp": "マグネットナイフラック",
+        "ko": "자석 칼 걸이"
       }
     }
   },

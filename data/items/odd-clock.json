@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Fernost-Uhr",
+        "en-GB": "Odd Clock",
+        "en-US": "Odd Clock",
+        "es": "Reloj extraño",
+        "fr": "Horloge bizarre",
+        "it": "Sveglia strana",
+        "ja": "だいみょうどけい"
+      }
     }
   }
 }

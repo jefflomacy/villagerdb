@@ -16,6 +16,19 @@
       "variations": {
         "pink": "Pink",
         "beige": "Beige"
+      },
+      "name": {
+        "en-US": "Fleece Pj's",
+        "en-GB": "Fleece Pj's",
+        "de": "Fleece-Pyjama",
+        "es": "Pijama de lana",
+        "fr": "Pyjama en pilou",
+        "it": "Pigiama di pile",
+        "nl": "Fleecepyjama",
+        "zh-CN": "刷毛睡衣",
+        "zh-TW": "刷毛睡衣",
+        "jp": "フリースパジャマ",
+        "ko": "복슬복슬 파자마"
       }
     }
   },

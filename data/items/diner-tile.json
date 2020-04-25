@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 1300
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Diner Tile"
+      }
     }
   }
 }

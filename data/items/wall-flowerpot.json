@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "de": "Wandgesteck",
+        "en-GB": "Wall Flowerpot",
+        "en-US": "Wall Flowerpot",
+        "es": "Maceta pared",
+        "fr": "Pot de fleurs mural",
+        "it": "Cestino fiori a muro",
+        "ja": "かべかけフラワー"
+      }
     }
   }
 }

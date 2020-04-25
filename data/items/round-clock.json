@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 960
         }
-      ]
+      ],
+      "name": {
+        "de": "Runduhr",
+        "en-GB": "Round Clock",
+        "en-US": "Round Clock",
+        "es": "Reloj redondo",
+        "fr": "Horloge ronde",
+        "it": "Orologio rotondo",
+        "ja": "まるいとけい"
+      }
     }
   }
 }

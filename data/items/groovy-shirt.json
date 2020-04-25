@@ -7,13 +7,19 @@
       "orderable": false,
       "sources": [
         "Gracie"
-      ]
+      ],
+      "name": {
+        "en-US": "Groovy Shirt"
+      }
     },
     "afe+": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ]
+      ],
+      "name": {
+        "en-US": "Groovy Shirt"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -30,6 +36,19 @@
         "orange": "Orange",
         "green": "Green",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Groovy Shirt",
+        "en-GB": "Groovy Shirt",
+        "de": "Hippie-Hemd",
+        "es": "Camisa psicodelia",
+        "fr": "Chemise groovy",
+        "it": "Maglia hippy",
+        "nl": "Groovy overhemd",
+        "zh-CN": "迷幻T恤",
+        "zh-TW": "迷幻T恤",
+        "jp": "サイケデリックシャツ",
+        "ko": "사이키델릭 셔츠"
       }
     }
   }

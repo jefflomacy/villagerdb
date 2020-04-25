@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 7500
+      },
+      "name": {
+        "en-US": "Betta Model",
+        "en-GB": "Betta Model",
+        "de": "Kampffischmodell",
+        "es": "Figura de betta",
+        "fr": "Modèle de combattant",
+        "it": "Replica di betta",
+        "nl": "Model-Siamese-Kempvis",
+        "zh-CN": "斗鱼模型",
+        "zh-TW": "鬥魚模型",
+        "jp": "ベタのもけい",
+        "ko": "베타 모형"
       }
     }
   },

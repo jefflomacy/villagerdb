@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 45000
+      },
+      "name": {
+        "en-US": "Great White Shark Model",
+        "en-GB": "Great White Shark Model",
+        "de": "Haimodell",
+        "es": "Figura de tiburón",
+        "fr": "Modèle grand requin blanc",
+        "it": "Replica di squalo bianco",
+        "nl": "Model-Witte-Haai",
+        "zh-CN": "鲨鱼模型",
+        "zh-TW": "鯊魚模型",
+        "jp": "サメのもけい",
+        "ko": "상어 모형"
       }
     }
   },

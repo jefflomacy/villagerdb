@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1680
         }
-      ]
+      ],
+      "name": {
+        "de": "Stadiometer",
+        "en-GB": "Stadiometer",
+        "en-US": "Stadiometer",
+        "es": "Estadiómetro",
+        "fr": "Toise",
+        "it": "Misuratore altezza",
+        "ja": "しんちょうけい"
+      }
     },
     "nh": {
       "orderable": true,
@@ -39,6 +48,19 @@
         "gray": "Gray",
         "blue": "Blue",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Stadiometer",
+        "en-GB": "Stadiometer",
+        "de": "Stadiometer",
+        "es": "Estadiómetro",
+        "fr": "Toise",
+        "it": "Misuratore di altezza",
+        "nl": "Meter",
+        "zh-CN": "身高尺",
+        "zh-TW": "身高尺",
+        "jp": "しんちょうけい",
+        "ko": "신장 측정기"
       }
     }
   }

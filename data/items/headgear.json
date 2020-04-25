@@ -17,6 +17,19 @@
         "red": "Red",
         "blue": "Blue",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Headgear",
+        "en-GB": "Headgear",
+        "de": "Boxerhelm",
+        "es": "Protector de cabeza",
+        "fr": "Casque de boxe",
+        "it": "Casco",
+        "nl": "Hoofdbeschermer",
+        "zh-CN": "拳击头套",
+        "zh-TW": "拳擊頭套",
+        "jp": "ヘッドギア",
+        "ko": "헤드기어"
       }
     }
   },

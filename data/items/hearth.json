@@ -28,7 +28,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Kochfeuer",
+        "en-GB": "Hearth",
+        "en-US": "Hearth",
+        "es": "Hogar",
+        "fr": "âtre",
+        "it": "Focolare",
+        "ja": "いろり"
+      }
     },
     "nh": {
       "orderable": false,
@@ -42,6 +51,19 @@
         "iron-nugget": 5,
         "clay": 4,
         "hardwood": 5
+      },
+      "name": {
+        "en-US": "Hearth",
+        "en-GB": "Hearth",
+        "de": "Kochfeuer",
+        "es": "Hogar",
+        "fr": "Âtre",
+        "it": "Focolare",
+        "nl": "Kookplaats",
+        "zh-CN": "地炉",
+        "zh-TW": "地爐",
+        "jp": "いろり",
+        "ko": "노"
       }
     }
   }

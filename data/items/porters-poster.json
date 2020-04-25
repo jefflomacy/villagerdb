@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "车长叔叔的海报",
+        "de": "Poster's von Flip",
+        "en-GB": "Porter's Poster",
+        "es": "Póster de Estasio",
+        "fr": "Poster de Lazare",
+        "it": "Poster di Ciufciuf",
+        "jp": "えきいんさんのポスター",
+        "ko": "역무원의 포스터",
+        "nl": "Poster van Porter",
+        "zh-TW": "車長叔叔的海報",
+        "en-US": "Porter's Poster"
+      }
     }
   },
   "category": "Photos"

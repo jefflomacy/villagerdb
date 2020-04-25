@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "de": "Toilettenhäuschen",
+        "en-GB": "Portable Toilet",
+        "en-US": "Portable Toilet",
+        "es": "Retrete portátil",
+        "fr": "Cabine de WC mobile",
+        "it": "Bagno chimico",
+        "ja": "かせつトイレ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -40,6 +49,19 @@
         "blue": "Blue",
         "yellow-green": "Yellow-green",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Portable Toilet",
+        "en-GB": "Portable Toilet",
+        "de": "Toilettenhäuschen",
+        "es": "Retrete portátil",
+        "fr": "Cabine de WC mobile",
+        "it": "Bagno chimico",
+        "nl": "Mobiele toiletcabine",
+        "zh-CN": "流动厕所",
+        "zh-TW": "流動廁所",
+        "jp": "かせつトイレ",
+        "ko": "이동식 화장실"
       }
     }
   }

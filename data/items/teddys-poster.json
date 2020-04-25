@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "太平的海报",
+        "de": "Poster's von Torsten",
+        "en-GB": "Teddy's Poster",
+        "es": "Póster de Teddy",
+        "fr": "Poster de Teddy",
+        "it": "Poster di Teddy",
+        "jp": "たいへいたのポスター",
+        "ko": "병태의 포스터",
+        "nl": "Poster van Teddy",
+        "zh-TW": "太平的海報",
+        "en-US": "Teddy's Poster"
+      }
     }
   },
   "category": "Photos"

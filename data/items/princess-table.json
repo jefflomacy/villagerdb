@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 240000
         }
-      ]
+      ],
+      "name": {
+        "de": "Prachttisch",
+        "en-GB": "Princess Table",
+        "en-US": "Princess Table",
+        "es": "Mesa princesa",
+        "fr": "Table princesse",
+        "it": "Tavolo contessa",
+        "ja": "プリンセステーブル"
+      }
     }
   }
 }

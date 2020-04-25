@@ -11,7 +11,10 @@
       },
       "sources": [
         "Around flowers."
-      ]
+      ],
+      "name": {
+        "en-US": "Agrias Butterfly"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3000
+      },
+      "name": {
+        "en-US": "Agrias Butterfly",
+        "en-GB": "Agrias Butterfly",
+        "de": "Agrias-Falter",
+        "es": "Mariposa narciso",
+        "fr": "Agrias",
+        "it": "Farfalla agrias",
+        "nl": "Agriasvlinder",
+        "zh-CN": "彩袄蛱蝶",
+        "zh-TW": "彩襖蛺蝶",
+        "jp": "ミイロタテハ",
+        "ko": "아그리아스나비"
       }
     }
   }

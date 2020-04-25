@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "毕安卡的海报",
+        "de": "Poster's von Lupa",
+        "en-GB": "Whitney's Poster",
+        "es": "Póster de Lupe",
+        "fr": "Poster de Blanche",
+        "it": "Poster di Bianca",
+        "jp": "ビアンカのポスター",
+        "ko": "비앙카의 포스터",
+        "nl": "Poster van Whitney",
+        "zh-TW": "畢安卡的海報",
+        "en-US": "Whitney's Poster"
+      }
     }
   },
   "category": "Photos"

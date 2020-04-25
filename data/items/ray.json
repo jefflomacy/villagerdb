@@ -11,7 +11,10 @@
       },
       "sources": [
         "In the sea."
-      ]
+      ],
+      "name": {
+        "en-US": "Ray"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3000
+      },
+      "name": {
+        "en-US": "Ray",
+        "en-GB": "Ray",
+        "de": "Rochen",
+        "es": "Raya",
+        "fr": "Raie",
+        "it": "Razza",
+        "nl": "Rog",
+        "zh-CN": "鳐鱼",
+        "zh-TW": "魟魚",
+        "jp": "エイ",
+        "ko": "가오리"
       }
     }
   }

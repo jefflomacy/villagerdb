@@ -22,6 +22,19 @@
         "yellow": "Yellow",
         "orange": "Orange",
         "lime": "Lime"
+      },
+      "name": {
+        "en-US": "Down Pants",
+        "en-GB": "Down Pants",
+        "de": "Thermohose",
+        "es": "Pantalón acolchado",
+        "fr": "Pantalon doudoune",
+        "it": "Pantalone imbottito",
+        "nl": "Gewatteerde broek",
+        "zh-CN": "羽绒裤",
+        "zh-TW": "羽絨褲",
+        "jp": "ダウンパンツ",
+        "ko": "패딩 바지"
       }
     }
   },

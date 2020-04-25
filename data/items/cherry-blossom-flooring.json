@@ -12,6 +12,19 @@
       "recipe": {
         "cherry-blossom-petal": 10,
         "clump-of-weeds": 20
+      },
+      "name": {
+        "en-US": "Cherry-Blossom Flooring",
+        "en-GB": "Cherry-Blossom Flooring",
+        "de": "Kirschblütenboden",
+        "es": "Suelo cerezos en flor",
+        "fr": "Sol fleurs de cerisier",
+        "it": "Moquette fiori di ciliegio",
+        "nl": "Kersenbloesemvloer",
+        "zh-CN": "樱花地毯",
+        "zh-TW": "櫻花地毯",
+        "jp": "さくらのじゅうたん",
+        "ko": "벚꽃 카펫 바닥"
       }
     }
   },

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "安地斯的海报",
+        "de": "Poster's von Adelheid",
+        "en-GB": "Amelia's Poster",
+        "es": "Póster de Amelia",
+        "fr": "Poster d'aurélie",
+        "it": "Poster di Amelia",
+        "jp": "アンデスのポスター",
+        "ko": "안데스의 포스터",
+        "nl": "Poster van Amelia",
+        "zh-TW": "安地斯的海報",
+        "en-US": "Amelia's Poster"
+      }
     }
   },
   "category": "Photos"

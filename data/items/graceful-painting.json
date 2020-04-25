@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3920
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Graceful Painting"
+      }
     },
     "nh": {
       "orderable": false,
@@ -41,6 +44,19 @@
       "variations": {
         "real": "Real",
         "fake": "Fake"
+      },
+      "name": {
+        "en-US": "Graceful Painting",
+        "en-GB": "Graceful Painting",
+        "de": "Anmutsgemälde",
+        "es": "Retrato oriental",
+        "fr": "Toile gracieuse",
+        "it": "Quadro armonioso",
+        "nl": "Sierlijke schilderij",
+        "zh-CN": "端庄的名画",
+        "zh-TW": "端莊的名畫",
+        "jp": "しなやかなめいが",
+        "ko": "절제된 명화"
       }
     }
   }

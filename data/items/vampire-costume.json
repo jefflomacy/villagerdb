@@ -20,6 +20,19 @@
       "variations": {
         "black": "Black",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Vampire Costume",
+        "en-GB": "Vampire Costume",
+        "de": "Vampirkostüm",
+        "es": "Chaqué de vampiro",
+        "fr": "Costume de vampire",
+        "it": "Costume da vampiro",
+        "nl": "Vampierjacquet",
+        "zh-CN": "吸血鬼服",
+        "zh-TW": "吸血鬼服",
+        "jp": "ヴァンパイアのふく",
+        "ko": "뱀파이어 옷"
       }
     }
   },

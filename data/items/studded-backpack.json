@@ -20,6 +20,19 @@
       "variations": {
         "black": "Black",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Studded Backpack",
+        "en-GB": "Studded Backpack",
+        "de": "Nietenrucksack",
+        "es": "Mochila con tachuelas",
+        "fr": "Sac à dos clouté",
+        "it": "Zaino borchiato",
+        "nl": "Rugzak met studs",
+        "zh-CN": "铆钉双肩包",
+        "zh-TW": "鉚釘後背包",
+        "jp": "スタッズリュック",
+        "ko": "스터드 배낭"
       }
     }
   },

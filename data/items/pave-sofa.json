@@ -21,7 +21,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Karnevalssofa",
+        "en-GB": "Pavé Sofa",
+        "en-US": "Pavé Sofa",
+        "es": "Sofá Conga",
+        "fr": "Canapé carnaval",
+        "it": "Sofà Pavão",
+        "ja": "カーニバルソファ"
+      }
     }
   }
 }

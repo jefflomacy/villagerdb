@@ -11,6 +11,19 @@
       },
       "recipe": {
         "clay": 5
+      },
+      "name": {
+        "zh-CN": "陶笛",
+        "de": "Okarina",
+        "en-GB": "Ocarina",
+        "es": "Ocarina",
+        "fr": "Ocarina",
+        "it": "Ocarina",
+        "jp": "オカリナ",
+        "ko": "오카리나",
+        "nl": "Ocarina",
+        "zh-TW": "陶笛",
+        "en-US": "Ocarina"
       }
     }
   },

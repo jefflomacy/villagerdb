@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "罗塔的海报",
+        "de": "Poster's von Lotta",
+        "en-GB": "Pippy's Poster",
+        "es": "Póster de Méloni",
+        "fr": "Poster de Nadia",
+        "it": "Poster di Pippi",
+        "jp": "ロッタのポスター",
+        "ko": "로타의 포스터",
+        "nl": "Poster van Pippy",
+        "zh-TW": "羅塔的海報",
+        "en-US": "Pippy's Poster"
+      }
     }
   },
   "category": "Photos"

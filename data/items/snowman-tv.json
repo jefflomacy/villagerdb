@@ -15,7 +15,16 @@
       },
       "sources": [
         "Snowboy"
-      ]
+      ],
+      "name": {
+        "de": "Schneemannfernseher",
+        "en-GB": "Snowman TV",
+        "en-US": "Snowman TV",
+        "es": "Tele nieve",
+        "fr": "Télé Yétiti",
+        "it": "TV neve",
+        "ja": "ゆきだるまテレビ"
+      }
     }
   }
 }

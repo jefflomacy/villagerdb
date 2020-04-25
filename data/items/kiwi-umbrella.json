@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1550
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Kiwi Umbrella",
+        "en-GB": "Kiwi Umbrella",
+        "de": "Kiwischirm",
+        "es": "Paraguas kiwi",
+        "fr": "Parapluie kiwi",
+        "it": "Ombrello kiwi",
+        "nl": "Kiwiparaplu",
+        "zh-CN": "奇异果雨伞",
+        "zh-TW": "奇異果雨傘",
+        "jp": "キウイのかさ",
+        "ko": "키위 우산"
+      }
     }
   },
   "category": "Umbrellas"

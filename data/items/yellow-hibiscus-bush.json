@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 560
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow-Hibiscus Bush",
+        "en-GB": "Yellow-Hibiscus Bush",
+        "de": "Sommerhibiskus",
+        "es": "Hibisco amarillo adulto",
+        "fr": "Buisson d'hibiscus jaune",
+        "it": "Ibisco giallo adulto",
+        "nl": "Gele hibiscus",
+        "zh-CN": "黄色扶桑花树",
+        "zh-TW": "黃色扶桑花樹",
+        "jp": "きいろいハイビスカスのき",
+        "ko": "노란 히비스커스나무"
+      }
     }
   },
   "category": "Bushes"

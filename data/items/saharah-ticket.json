@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 100
+      },
+      "name": {
+        "zh-CN": "骆岚兑换券",
+        "de": "Aziza-Coupon's",
+        "en-GB": "Saharah Ticket",
+        "es": "Cupón de Alcatifa",
+        "fr": "Ticket Sarah",
+        "it": "Coupon di Sahara",
+        "jp": "ローランのひきかえけん",
+        "ko": "사하라 교환권",
+        "nl": "Saharah-Kaartje",
+        "zh-TW": "駱嵐兌換券",
+        "en-US": "Saharah Ticket"
       }
     }
   },

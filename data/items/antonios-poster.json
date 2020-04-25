@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿诚的海报",
+        "de": "Poster's von Siggi",
+        "en-GB": "Antonio's Poster",
+        "es": "Póster de Antonio",
+        "fr": "Poster d'antonio",
+        "it": "Poster di Antonio",
+        "jp": "マコトのポスター",
+        "ko": "퍼머거의 포스터",
+        "nl": "Poster van Antonio",
+        "zh-TW": "阿誠的海報",
+        "en-US": "Antonio's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "de": "Fußballstutzen",
+        "en-GB": "Soccer Socks",
+        "en-US": "Soccer Socks",
+        "es": "Media fútbol",
+        "fr": "Paire chausset. foot",
+        "it": "P. calzini da calcio",
+        "ja": "サッカーソックス"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -41,6 +50,19 @@
         "black": "Black",
         "orange": "Orange",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Soccer Socks",
+        "en-GB": "Soccer Socks",
+        "de": "Paars Fußballstutzen",
+        "es": "Media fútbol",
+        "fr": "Paire chaussettes de foot",
+        "it": "Paio di calzettoni da calcio",
+        "nl": "Voetbalsokken",
+        "zh-CN": "足球袜",
+        "zh-TW": "足球襪",
+        "jp": "サッカーソックス",
+        "ko": "축구 양말"
       }
     }
   }

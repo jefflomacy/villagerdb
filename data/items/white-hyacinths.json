@@ -17,7 +17,20 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White Hyacinths",
+        "en-GB": "White Hyacinths",
+        "de": "Weißhyazinthe",
+        "es": "Jacinto blanco",
+        "fr": "Jacinthe blanche",
+        "it": "Giacinto bianco",
+        "nl": "Witte hyacint",
+        "zh-CN": "白色风信子",
+        "zh-TW": "白色風信子",
+        "jp": "しろいヒヤシンス",
+        "ko": "하얀 히아신스"
+      }
     }
   },
   "category": "Flowers"

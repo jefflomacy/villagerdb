@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Eiscremetruhe",
+        "en-GB": "Ice-Cream Case",
+        "en-US": "Ice-Cream Case",
+        "es": "Heladera terma",
+        "fr": "Congélo glaces",
+        "it": "Banco frigo",
+        "ja": "アイスケース"
+      }
     }
   }
 }

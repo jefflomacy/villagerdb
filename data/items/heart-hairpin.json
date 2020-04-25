@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 240
         }
-      ]
+      ],
+      "name": {
+        "de": "Herzhaarnadel",
+        "en-GB": "Heart Hairpin",
+        "en-US": "Heart Hairpin",
+        "es": "Clip corazón",
+        "fr": "épingle c\\u0153ur",
+        "it": "Molletta cuore",
+        "ja": "ハートのかみかざり"
+      }
     },
     "nh": {
       "orderable": true,
@@ -43,6 +52,19 @@
         "green": "Green",
         "blue": "Blue",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Heart Hairpin",
+        "en-GB": "Heart Hairpin",
+        "de": "Herzhaarnadel",
+        "es": "Clip corazón",
+        "fr": "Épingle cœur",
+        "it": "Molletta cuore",
+        "nl": "Hartenhaarspeld",
+        "zh-CN": "爱心发夹",
+        "zh-TW": "愛心髮飾",
+        "jp": "ハートのかみかざり",
+        "ko": "하트 머리핀"
       }
     }
   }

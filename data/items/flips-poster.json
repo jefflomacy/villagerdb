@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "天佑的海报",
+        "de": "Poster's von Pippo",
+        "en-GB": "Flip's Poster",
+        "es": "Póster de Monet",
+        "fr": "Poster de Rudy",
+        "it": "Poster di Benny",
+        "jp": "さすけのポスター",
+        "ko": "원승의 포스터",
+        "nl": "Poster van Flip",
+        "zh-TW": "天佑的海報",
+        "en-US": "Flip's Poster"
+      }
     }
   },
   "category": "Photos"

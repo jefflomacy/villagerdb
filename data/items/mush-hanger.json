@@ -16,7 +16,16 @@
       },
       "sources": [
         "Pick mushrooms during November"
-      ]
+      ],
+      "name": {
+        "de": "Pilzgarderobe",
+        "en-GB": "Mush Hanger",
+        "en-US": "Mush Hanger",
+        "es": "Perchero hongo",
+        "fr": "Portemanteau champi",
+        "it": "Attaccapanni fungo",
+        "ja": "きのこのハンガー"
+      }
     }
   }
 }

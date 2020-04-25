@@ -11,7 +11,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Farnfossil",
+        "en-GB": "Fern Fossil",
+        "en-US": "Fern Fossil",
+        "es": "Helecho",
+        "fr": "Fossile de fougère",
+        "it": "Fossile di felce",
+        "ja": "シダのかせき"
+      }
     }
   }
 }

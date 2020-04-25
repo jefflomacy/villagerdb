@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Ballonpulli",
+        "en-GB": "Dark Polka Shirt",
+        "en-US": "Dark Polka Shirt",
+        "es": "Jersey topos noche",
+        "fr": "Pull noir à pois",
+        "it": "Maglia scura pois",
+        "ja": "くろマーブルなふくL"
+      }
     },
     "ac": {
       "orderable": true,
@@ -36,7 +45,10 @@
           "currency": "bells",
           "value": 350
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Dark Polka Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -52,7 +64,10 @@
           "currency": "bells",
           "value": 350
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Dark Polka Shirt"
+      }
     }
   }
 }

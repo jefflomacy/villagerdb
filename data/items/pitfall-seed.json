@@ -12,7 +12,10 @@
       "sources": [
         "Dig spot",
         "Police Station (lost and found)"
-      ]
+      ],
+      "name": {
+        "en-US": "Pitfall Seed"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +27,19 @@
       "recipe": {
         "clump-of-weeds": 4,
         "tree-branch": 6
+      },
+      "name": {
+        "zh-CN": "陷阱种子",
+        "de": "Falle",
+        "en-GB": "Pitfall Seed",
+        "es": "Trampa",
+        "fr": "Piège",
+        "it": "Trappola",
+        "jp": "おとしあなのタネ",
+        "ko": "함정 씨앗",
+        "nl": "Valkuilzaadje",
+        "zh-TW": "陷阱種子",
+        "en-US": "Pitfall Seed"
       }
     }
   }

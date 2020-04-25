@@ -14,7 +14,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Jail Bars"
+      }
     },
     "nh": {
       "orderable": false,
@@ -30,6 +33,19 @@
         "silver": "Silver",
         "black": "Black",
         "rusted-iron": "Rusted iron"
+      },
+      "name": {
+        "en-US": "Jail Bars",
+        "en-GB": "Jail Bars",
+        "de": "Gefängnisgitter",
+        "es": "Reja de prisión",
+        "fr": "Grille de prison",
+        "it": "Finestra con sbarre",
+        "nl": "Tralies",
+        "zh-CN": "牢笼",
+        "zh-TW": "牢籠",
+        "jp": "おり",
+        "ko": "감옥 문"
       }
     }
   }

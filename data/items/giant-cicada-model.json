@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1500
+      },
+      "name": {
+        "en-US": "Giant Cicada Model",
+        "en-GB": "Giant Cicada Model",
+        "de": "Riesenzikadenmodell",
+        "es": "Figura de cigarra gigante",
+        "fr": "Modèle de cigale géante",
+        "it": "Replica di cicala gigante",
+        "nl": "Modelreuzencicade",
+        "zh-CN": "熊蝉模型",
+        "zh-TW": "熊蟬模型",
+        "jp": "クマゼミのもけい",
+        "ko": "곰매미 모형"
       }
     }
   },

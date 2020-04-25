@@ -20,6 +20,19 @@
         "orange": "Orange",
         "blue": "Blue",
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Traveler's Backpack",
+        "en-GB": "Traveler's Backpack",
+        "de": "Wanderrucksack",
+        "es": "Mochila de trotamundos",
+        "fr": "Sac à dos de randonnée",
+        "it": "Zaino da viaggio",
+        "nl": "Reisrugzak",
+        "zh-CN": "旅人双肩包",
+        "zh-TW": "旅人後背包",
+        "jp": "たびびとのリュック",
+        "ko": "여행자의 배낭"
       }
     }
   },

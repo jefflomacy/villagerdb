@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 980
         }
-      ]
+      ],
+      "name": {
+        "de": "Küchenregal",
+        "en-GB": "Pot Rack",
+        "en-US": "Pot Rack",
+        "es": "Portacacerolas",
+        "fr": "Porte-casseroles",
+        "it": "Mensola da cucina",
+        "ja": "キッチンつるし"
+      }
     },
     "nh": {
       "orderable": true,
@@ -36,6 +45,19 @@
         "wooden": "Wooden",
         "stainless-steel": "Stainless steel",
         "pop": "Pop"
+      },
+      "name": {
+        "en-US": "Pot Rack",
+        "en-GB": "Pot Rack",
+        "de": "Küchenregal",
+        "es": "Portacacerolas",
+        "fr": "Porte-Casseroles",
+        "it": "Mensola da cucina",
+        "nl": "Keukenrek",
+        "zh-CN": "厨房挂钩",
+        "zh-TW": "廚房掛勾",
+        "jp": "キッチンつるし",
+        "ko": "주방 도구 걸이"
       }
     }
   }

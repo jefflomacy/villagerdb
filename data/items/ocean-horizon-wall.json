@@ -8,7 +8,10 @@
       "set": "Welcome amiibo Update",
       "sources": [
         "Unlock intermediate levels in Desert Island Escape"
-      ]
+      ],
+      "name": {
+        "en-US": "Ocean-Horizon Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -20,7 +23,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Ocean-Horizon Wall",
+        "en-GB": "Ocean-Horizon Wall",
+        "de": "Ozeantapete",
+        "es": "Pared horizonte",
+        "fr": "Mur horizon marin",
+        "it": "Muro veduta marina",
+        "nl": "Zeegezichtwand",
+        "zh-CN": "水平线墙",
+        "zh-TW": "水平線牆",
+        "jp": "すいへいせんのかべ",
+        "ko": "수평선 벽"
+      }
     }
   }
 }

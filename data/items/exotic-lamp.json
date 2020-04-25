@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Orient-Lampe",
+        "en-GB": "Exotic Lamp",
+        "en-US": "Exotic Lamp",
+        "es": "Lámpara exótica",
+        "fr": "Lampe teck",
+        "it": "Lampada esotica",
+        "ja": "アジアなランプ"
+      }
     }
   }
 }

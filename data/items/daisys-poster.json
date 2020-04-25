@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "香草的海报",
+        "de": "Poster's von Doris",
+        "en-GB": "Daisy's Poster",
+        "es": "Póster de Luisa",
+        "fr": "Poster de Naomie",
+        "it": "Poster di Fiorella",
+        "jp": "バニラのポスター",
+        "ko": "바닐라의 포스터",
+        "nl": "Poster van Daisy",
+        "zh-TW": "香草的海報",
+        "en-US": "Daisy's Poster"
+      }
     }
   },
   "category": "Photos"

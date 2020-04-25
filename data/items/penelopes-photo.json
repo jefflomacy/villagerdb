@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "小啾的照片",
+        "de": "Foto's von Penelope",
+        "en-GB": "Penelope's Photo",
+        "es": "Foto de Adela",
+        "fr": "Photo de Missy",
+        "it": "Foto di Penelope",
+        "jp": "チューこのしゃしん",
+        "ko": "찍순이의 사진",
+        "nl": "Foto van Penelope",
+        "zh-TW": "小啾的照片",
+        "en-US": "Penelope's Photo"
       }
     }
   },

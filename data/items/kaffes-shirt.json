@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 460
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Kaffe's Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -33,7 +36,10 @@
           "currency": "bells",
           "value": 460
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Kaffe's Shirt"
+      }
     }
   }
 }

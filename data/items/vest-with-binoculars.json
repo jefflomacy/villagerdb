@@ -19,6 +19,19 @@
       ],
       "variations": {
         "beige": "Beige"
+      },
+      "name": {
+        "en-US": "Vest With Binoculars",
+        "en-GB": "Vest With Binoculars",
+        "de": "Weste mit Fernglas",
+        "es": "Chaleco con prismáticos",
+        "fr": "Chemise avec jumelles",
+        "it": "Gilet con binocolo",
+        "nl": "Koekeloeroverhemd",
+        "zh-CN": "连望远镜背心",
+        "zh-TW": "背心連望遠鏡",
+        "jp": "そうがんきょうつきベスト",
+        "ko": "쌍안경과 조끼"
       }
     }
   },

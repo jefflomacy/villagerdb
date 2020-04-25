@@ -19,6 +19,19 @@
         "green": "Green",
         "purple": "Purple",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Diner Neon Sign",
+        "en-GB": "Diner Neon Sign",
+        "de": "Diner-Neonschild",
+        "es": "Cartel de neón café años 50",
+        "fr": "Enseigne années 50",
+        "it": "Insegna bar anni '50",
+        "nl": "Jaren 50-neonbord",
+        "zh-CN": "餐馆霓虹灯招牌",
+        "zh-TW": "餐館霓虹燈招牌",
+        "jp": "ダイナーなネオンかんばん",
+        "ko": "다이너 네온 간판"
       }
     }
   },

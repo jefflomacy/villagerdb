@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "老狮的照片",
+        "de": "Foto's von Leandro",
+        "en-GB": "Leopold's Photo",
+        "es": "Foto de Leopoldo",
+        "fr": "Photo de Leandro",
+        "it": "Foto di Leandro",
+        "jp": "ティーチャーのしゃしん",
+        "ko": "티처의 사진",
+        "nl": "Foto van Leopold",
+        "zh-TW": "老獅的照片",
+        "en-US": "Leopold's Photo"
       }
     }
   },

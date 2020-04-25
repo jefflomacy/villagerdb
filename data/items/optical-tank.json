@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "de": "Optik-Top",
+        "en-GB": "Optical Tank",
+        "en-US": "Optical Tank",
+        "es": "Top óptico",
+        "fr": "Débardeur optique",
+        "it": "Canotta optical",
+        "ja": "オプティカルなふくN"
+      }
     }
   }
 }

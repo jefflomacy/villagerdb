@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 650
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Logo Umbrella",
+        "en-GB": "Logo Umbrella",
+        "de": "Logoschirm",
+        "es": "Paraguas logotipo",
+        "fr": "Parapluie à logo",
+        "it": "Ombrello con logo",
+        "nl": "Logoparaplu",
+        "zh-CN": "Logo雨伞",
+        "zh-TW": "Logo雨傘",
+        "jp": "ロゴいりのかさ",
+        "ko": "로고 우산"
+      }
     }
   },
   "category": "Umbrellas"

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 18000
+      },
+      "name": {
+        "en-US": "Rainbow Stag Model",
+        "en-GB": "Rainbow Stag Model",
+        "de": "Pracht-Hirschkäfermodell",
+        "es": "Figura esc. ciervo arcoíris",
+        "fr": "Modèle de lucane copris",
+        "it": "Replica di col. arcobaleno",
+        "nl": "Modelregenbooghertkever",
+        "zh-CN": "彩虹锹形虫模型",
+        "zh-TW": "彩虹鍬形蟲模型",
+        "jp": "ニジイロクワガタのもけい",
+        "ko": "뮤엘러리사슴벌레 모형"
       }
     }
   },

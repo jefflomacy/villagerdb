@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White Simple Small Mat",
+        "en-GB": "White Simple Small Mat",
+        "de": "Weiß-Standardmatte S",
+        "es": "Alfombra sencilla blanca P",
+        "fr": "Tapis simple ivoire S",
+        "it": "Tappetino bianco S",
+        "nl": "Simpele kleine witte mat",
+        "zh-CN": "白色简约地垫S",
+        "zh-TW": "小型白色簡約地墊",
+        "jp": "しろいシンプルマット・S",
+        "ko": "하얀 심플 매트 S"
+      }
     }
   },
   "category": "Flooring"

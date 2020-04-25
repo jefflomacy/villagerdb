@@ -17,6 +17,19 @@
         "light-wood": "Light wood",
         "natural-wood": "Natural wood",
         "dark-wood": "Dark wood"
+      },
+      "name": {
+        "en-US": "Cypress Bathtub",
+        "en-GB": "Cypress Bathtub",
+        "de": "Zypressenbad",
+        "es": "Bañera de ciprés",
+        "fr": "Baignoire en cyprès",
+        "it": "Vasca da bagno in cipresso",
+        "nl": "Cipreshouten badkuip",
+        "zh-CN": "桧木泡澡桶",
+        "zh-TW": "檜木泡澡桶",
+        "jp": "ひのきぶろ",
+        "ko": "노송나무 욕조"
       }
     }
   },

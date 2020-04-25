@@ -10,6 +10,19 @@
       },
       "recipe": {
         "blue-roses": 10
+      },
+      "name": {
+        "en-US": "Blue Rose Wreath",
+        "en-GB": "Blue Rose Wreath",
+        "de": "Blaurosentürkranz",
+        "es": "Corona rosa azul",
+        "fr": "Couronne roses bleues",
+        "it": "Ghirlanda rose blu",
+        "nl": "Blauwe-Rozenkrans",
+        "zh-CN": "蓝色玫瑰花环",
+        "zh-TW": "藍色玫瑰花圈",
+        "jp": "あおいバラのリース",
+        "ko": "파란 장미 리스"
       }
     }
   },

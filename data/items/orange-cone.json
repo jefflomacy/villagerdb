@@ -18,7 +18,16 @@
           "currency": "bells",
           "value": 600
         }
-      ]
+      ],
+      "name": {
+        "de": "Absperrhütchen",
+        "en-GB": "Orange Cone",
+        "en-US": "Orange Cone",
+        "es": "Cono naranja",
+        "fr": "Cône orange",
+        "it": "Cono arancione",
+        "ja": "パイロン"
+      }
     }
   }
 }

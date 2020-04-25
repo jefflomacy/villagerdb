@@ -18,7 +18,20 @@
           "currency": "bells",
           "value": 35960
         }
-      ]
+      ],
+      "name": {
+        "en-US": "ACNH Nintendo Switch",
+        "en-GB": "ACNH Nintendo Switch",
+        "de": "Nintendo Switch (ACNH)",
+        "es": "Nintendo Switch ACNH",
+        "fr": "Nintendo Switch ACNH",
+        "it": "Nintendo Switch ACNH",
+        "nl": "Nintendo Switch van ACNH",
+        "zh-CN": "动物森友会Nintendo Switch",
+        "zh-TW": "動物森友會Nintendo Switch",
+        "jp": "どうぶつのもりのSwitch",
+        "ko": "동물의 숲 Switch"
+      }
     }
   },
   "category": "Furniture"

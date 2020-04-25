@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "莫儿的照片",
+        "de": "Foto's von Konny",
+        "en-GB": "Alice's Photo",
+        "es": "Foto de Zelanda",
+        "fr": "Photo d'alice",
+        "it": "Foto di Alice",
+        "jp": "メルボルンのしゃしん",
+        "ko": "멜버른의 사진",
+        "nl": "Foto van Alice",
+        "zh-TW": "莫兒的照片",
+        "en-US": "Alice's Photo"
       }
     }
   },

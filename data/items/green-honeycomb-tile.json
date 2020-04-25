@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Green Honeycomb Tile",
+        "en-GB": "Green Honeycomb Tile",
+        "de": "Grün-Wabenfliesenboden",
+        "es": "Suelo panal verde",
+        "fr": "Sol alvéolé vert",
+        "it": "Pavimento esagoni verde",
+        "nl": "Groene bijenraattegelvloer",
+        "zh-CN": "绿色六角砖地板",
+        "zh-TW": "綠色六角磚地板",
+        "jp": "グリーンハニカムタイルのゆか",
+        "ko": "초록 육각 타일 바닥"
+      }
     }
   },
   "category": "Flooring"

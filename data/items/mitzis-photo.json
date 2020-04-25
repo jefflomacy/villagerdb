@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "圆圆的照片",
+        "de": "Foto's von Miezi",
+        "en-GB": "Mitzi's Photo",
+        "es": "Foto de Misi",
+        "fr": "Photo de Mistigri",
+        "it": "Foto di Zampetta",
+        "jp": "マールのしゃしん",
+        "ko": "마르의 사진",
+        "nl": "Foto van Mitzi",
+        "zh-TW": "圓圓的照片",
+        "en-US": "Mitzi's Photo"
       }
     }
   },

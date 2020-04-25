@@ -11,7 +11,10 @@
       },
       "sources": [
         "On the beach."
-      ]
+      ],
+      "name": {
+        "en-US": "Wharf Roach"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 200
+      },
+      "name": {
+        "en-US": "Wharf Roach",
+        "en-GB": "Wharf Roach",
+        "de": "Ligia exotica",
+        "es": "Cochinilla de arena",
+        "fr": "Ligie",
+        "it": "Ligia exotica",
+        "nl": "Strandpissebed",
+        "zh-CN": "海蟑螂",
+        "zh-TW": "海蟑螂",
+        "jp": "フナムシ",
+        "ko": "갯강구"
       }
     }
   }

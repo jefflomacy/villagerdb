@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "音音的照片",
+        "de": "Foto's von Fatima",
+        "en-GB": "Fauna's Photo",
+        "es": "Foto de Fauna",
+        "fr": "Photo de Bibi",
+        "it": "Foto di Cervina",
+        "jp": "ドレミのしゃしん",
+        "ko": "솔미의 사진",
+        "nl": "Foto van Fauna",
+        "zh-TW": "音音的照片",
+        "en-US": "Fauna's Photo"
       }
     }
   },

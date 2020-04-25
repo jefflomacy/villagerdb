@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "小影的照片",
+        "de": "Foto's von Klara",
+        "en-GB": "Blaire's Photo",
+        "es": "Foto de Azabache",
+        "fr": "Photo de Cachou",
+        "it": "Foto di Ghianda",
+        "jp": "シルエットのしゃしん",
+        "ko": "실루엣의 사진",
+        "nl": "Foto van Blaire",
+        "zh-TW": "小影的照片",
+        "en-US": "Blaire's Photo"
       }
     }
   },

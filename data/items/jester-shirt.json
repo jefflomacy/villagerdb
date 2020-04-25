@@ -32,7 +32,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Narrenpulli",
+        "en-GB": "Jester Shirt",
+        "en-US": "Jester Shirt",
+        "es": "Jersey de bufón",
+        "fr": "Pull bouffon",
+        "it": "Maglia giullare",
+        "ja": "ピエロのふく"
+      }
     },
     "ac": {
       "orderable": true,
@@ -48,7 +57,10 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Jester Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -64,7 +76,10 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Jester Shirt"
+      }
     }
   }
 }

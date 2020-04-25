@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red-Design Kitchen Mat",
+        "en-GB": "Red-Design Kitchen Mat",
+        "de": "Rotmuster-Matte",
+        "es": "Alfombra étnica roja",
+        "fr": "Tapis cuisine à motifs rouge",
+        "it": "Tappeto cucina design rosso",
+        "nl": "Rode designkeukenmat",
+        "zh-CN": "红色图案厨房地垫",
+        "zh-TW": "紅色圖案廚房地墊",
+        "jp": "あかいパターンキッチンマット",
+        "ko": "빨간 패턴 키친 매트"
+      }
     }
   },
   "category": "Flooring"

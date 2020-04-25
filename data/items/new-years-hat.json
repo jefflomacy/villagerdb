@@ -22,6 +22,19 @@
         "purple": "Purple",
         "pink": "Pink",
         "light-blue": "Light blue"
+      },
+      "name": {
+        "en-US": "New Year's Hat",
+        "en-GB": "New Year's Hat",
+        "de": "Neujahrshut",
+        "es": "Gorro de Año Nuevo",
+        "fr": "Chapeau de nouvel an",
+        "it": "Cappello di Capodanno",
+        "nl": "Nieuwjaarshoedje",
+        "zh-CN": "新年帽",
+        "zh-TW": "新年帽",
+        "jp": "ニューイヤーハット",
+        "ko": "새해 모자"
       }
     }
   },

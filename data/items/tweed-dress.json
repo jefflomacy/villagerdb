@@ -17,6 +17,19 @@
         "yellow": "Yellow",
         "pink": "Pink",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Tweed Dress",
+        "en-GB": "Tweed Dress",
+        "de": "Tweedkleid",
+        "es": "Vestido de tweed",
+        "fr": "Robe en tweed",
+        "it": "Vestito di tweed",
+        "nl": "Tweedjurk",
+        "zh-CN": "粗花呢连身裙",
+        "zh-TW": "斜紋軟呢連身裙",
+        "jp": "ツイードワンピース",
+        "ko": "트위드 원피스"
       }
     }
   },

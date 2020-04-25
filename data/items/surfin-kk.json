@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Surfin' K.K."
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,7 +36,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Surfin' K.K.",
+        "en-GB": "Surfin' K.K.",
+        "de": "Surfin' K.K.",
+        "es": "Tota-Surf",
+        "fr": "Kéké à la plage",
+        "it": "K.K. Surf",
+        "nl": "K.K.-Surf",
+        "zh-CN": "电吉他乐曲",
+        "zh-TW": "電吉他樂曲",
+        "jp": "エレキそんぐ",
+        "ko": "일렉트릭 뮤직",
+        "ru": "Серф К. К."
+      }
     }
   }
 }

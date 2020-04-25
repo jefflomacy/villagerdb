@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "豆沙的海报",
+        "de": "Poster's von Berta",
+        "en-GB": "Bertha's Poster",
+        "es": "Póster de Berta",
+        "fr": "Poster de Bertha",
+        "it": "Poster di Umberta",
+        "jp": "あんこのポスター",
+        "ko": "베티의 포스터",
+        "nl": "Poster van Bertha",
+        "zh-TW": "豆沙的海報",
+        "en-US": "Bertha's Poster"
+      }
     }
   },
   "category": "Photos"

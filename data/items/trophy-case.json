@@ -15,6 +15,19 @@
         "hardwood": 24,
         "gold-nugget": 3,
         "iron-nugget": 6
+      },
+      "name": {
+        "en-US": "Trophy Case",
+        "en-GB": "Trophy Case",
+        "de": "Pokalvitrine",
+        "es": "Vitrina de trofeos",
+        "fr": "Présentoir à trophée",
+        "it": "Vetrina per trofei",
+        "nl": "Prijzenkast",
+        "zh-CN": "奖杯柜",
+        "zh-TW": "獎盃櫃",
+        "jp": "トロフィーケース",
+        "ko": "트로피 케이스"
       }
     }
   },

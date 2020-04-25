@@ -17,6 +17,19 @@
         "natural": "Natural",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Fancy Violin",
+        "en-GB": "Fancy Violin",
+        "de": "Edelgeige",
+        "es": "Violín",
+        "fr": "Violon haut de gamme",
+        "it": "Violino di lusso",
+        "nl": "Viool",
+        "zh-CN": "小提琴",
+        "zh-TW": "小提琴",
+        "jp": "ヴァイオリン",
+        "ko": "바이올린"
       }
     }
   },

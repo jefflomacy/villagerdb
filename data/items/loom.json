@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Webstuhl",
+        "en-GB": "Loom",
+        "en-US": "Loom",
+        "es": "Telar",
+        "fr": "Métier à tisser",
+        "it": "Telaio",
+        "ja": "はたおりき"
+      }
     },
     "nh": {
       "orderable": true,
@@ -44,6 +53,19 @@
         "goldfish": "Goldfish",
         "camellia": "Camellia",
         "chain-print": "Chain print"
+      },
+      "name": {
+        "en-US": "Loom",
+        "en-GB": "Loom",
+        "de": "Webstuhl",
+        "es": "Telar",
+        "fr": "Métier à tisser",
+        "it": "Telaio",
+        "nl": "Weefgetouw",
+        "zh-CN": "织布机",
+        "zh-TW": "織布機",
+        "jp": "はたおりき",
+        "ko": "베틀"
       }
     }
   }

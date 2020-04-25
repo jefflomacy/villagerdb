@@ -18,6 +18,19 @@
         "green": "Green",
         "light-blue": "Light blue",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Travel Pouch",
+        "en-GB": "Travel Pouch",
+        "de": "Reisetäschchen",
+        "es": "Bolsito de viaje",
+        "fr": "Sacoche de voyage",
+        "it": "Borsa da viaggio",
+        "nl": "Reistasje",
+        "zh-CN": "旅行包",
+        "zh-TW": "旅行收納袋",
+        "jp": "トラベルポーチ",
+        "ko": "여행 파우치"
       }
     }
   },

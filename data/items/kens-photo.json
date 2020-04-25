@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "乌骨鸡的照片",
+        "de": "Foto's von Hannes",
+        "en-GB": "Ken's Photo",
+        "es": "Foto de Pichón",
+        "fr": "Photo de Ken",
+        "it": "Foto di Aligalli",
+        "jp": "クロベエのしゃしん",
+        "ko": "오골의 사진",
+        "nl": "Foto van Ken",
+        "zh-TW": "烏骨雞的照片",
+        "en-US": "Ken's Photo"
       }
     }
   },

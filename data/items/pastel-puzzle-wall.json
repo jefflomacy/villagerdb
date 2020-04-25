@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1540
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pastel Puzzle Wall",
+        "en-GB": "Pastel Puzzle Wall",
+        "de": "Pastell-Puzzletapete",
+        "es": "Pared rompecabezas pastel",
+        "fr": "Mur puzzle pastel",
+        "it": "Muro puzzle pastello",
+        "nl": "Pastelkleurige puzzelwand",
+        "zh-CN": "粉嫩拼图壁纸",
+        "zh-TW": "粉嫩巧拼壁紙",
+        "jp": "パステルパズルかべがみ",
+        "ko": "파스텔 퍼즐 벽지"
+      }
     }
   },
   "category": "Wallpaper"

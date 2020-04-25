@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "戴维的海报",
+        "de": "Poster's von Herbert",
+        "en-GB": "Hippeux's Poster",
+        "es": "Póster de Hipóleo",
+        "fr": "Poster de Paulito",
+        "it": "Poster di Poppy",
+        "jp": "ディビッドのポスター",
+        "ko": "데이빗의 포스터",
+        "nl": "Poster van Hippeux",
+        "zh-TW": "戴維的海報",
+        "en-US": "Hippeux's Poster"
+      }
     }
   },
   "category": "Photos"

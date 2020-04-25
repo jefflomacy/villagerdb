@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Purple Persian Rug",
+        "en-GB": "Purple Persian Rug",
+        "de": "Lila-Klassikteppich",
+        "es": "Alfombra clásica morada",
+        "fr": "Tapis persan mauve",
+        "it": "Tappeto antico viola",
+        "nl": "Paarse Perzische tapijt",
+        "zh-CN": "紫色波斯地毯",
+        "zh-TW": "紫色波斯地毯",
+        "jp": "むらさきのペルシャじゅうたん",
+        "ko": "보라 페르시아 융단"
+      }
     }
   },
   "category": "Flooring"

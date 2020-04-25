@@ -25,7 +25,16 @@
           "currency": "bells",
           "value": 600
         }
-      ]
+      ],
+      "name": {
+        "de": "Narrenschuh",
+        "en-GB": "Jester's Shoes",
+        "en-US": "Jester's Shoes",
+        "es": "Zapato de bufón",
+        "fr": "P. bottes bouffon",
+        "it": "P. scarpe giullare",
+        "ja": "ピエロのくつ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -43,6 +52,19 @@
         "black": "Black",
         "red": "Red",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Jester's Shoes",
+        "en-GB": "Jester's Shoes",
+        "de": "Paars Narrenschuhe",
+        "es": "Zapato de bufón",
+        "fr": "Paire de bottes bouffon",
+        "it": "Paio di scarpe da giullare",
+        "nl": "Narrenschoenen",
+        "zh-CN": "小丑鞋",
+        "zh-TW": "小丑鞋",
+        "jp": "ピエロのくつ",
+        "ko": "피에로 신발"
       }
     }
   }

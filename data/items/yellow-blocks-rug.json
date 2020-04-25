@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Blocks Rug",
+        "en-GB": "Yellow Blocks Rug",
+        "de": "Gelb-Viereckmatte",
+        "es": "Alfombra pixelada amarilla",
+        "fr": "Tapis à carreaux jaune",
+        "it": "Tappeto a blocchi gialli",
+        "nl": "Geleblokkentapijt",
+        "zh-CN": "黄色方块地毯",
+        "zh-TW": "黃色磚塊地毯",
+        "jp": "きいろブロックのラグ",
+        "ko": "노란 블록 러그"
+      }
     }
   },
   "category": "Flooring"

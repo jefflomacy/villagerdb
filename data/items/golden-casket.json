@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 320000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Golden Casket",
+        "en-GB": "Golden Casket",
+        "de": "Goldsarkophag",
+        "es": "Sarcófago de oro",
+        "fr": "Sarcophage en or",
+        "it": "Sarcofago dorato",
+        "nl": "Gouden sarcofaag",
+        "zh-CN": "黄金棺材",
+        "zh-TW": "黃金棺材",
+        "jp": "おうごんのひつぎ",
+        "ko": "황금 관"
+      }
     }
   },
   "category": "Furniture"

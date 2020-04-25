@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "百合的照片",
+        "de": "Foto's von Sabine",
+        "en-GB": "Skye's Photo",
+        "es": "Foto de Alderia",
+        "fr": "Photo de Marilou",
+        "it": "Foto di Lupilla",
+        "jp": "リリィのしゃしん",
+        "ko": "릴리의 사진",
+        "nl": "Foto van Skye",
+        "zh-TW": "百合的照片",
+        "en-US": "Skye's Photo"
       }
     }
   },

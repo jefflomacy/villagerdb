@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Dirge"
+      }
     },
     "nh": {
       "orderable": true,
@@ -37,7 +40,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Dirge",
+        "en-GB": "K.K. Dirge",
+        "de": "K.K. Trauerlied",
+        "es": "Tota-Réquiem",
+        "fr": "Requiem de Kéké",
+        "it": "K.K. Canto",
+        "nl": "K.K. in het donker",
+        "zh-CN": "惊悚歌",
+        "zh-TW": "驚悚歌",
+        "jp": "こわいうた",
+        "ko": "무서운 노래",
+        "ru": "Реквием К. К."
+      }
     }
   }
 }

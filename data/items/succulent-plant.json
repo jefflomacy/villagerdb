@@ -26,7 +26,10 @@
           "currency": "meow",
           "value": 5
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Succulent Plant"
+      }
     },
     "nh": {
       "orderable": false,
@@ -38,6 +41,19 @@
       "recipe": {
         "clump-of-weeds": 10,
         "empty-can": 1
+      },
+      "name": {
+        "en-US": "Succulent Plant",
+        "en-GB": "Succulent Plant",
+        "de": "Sukkulente",
+        "es": "Aloe pequeño",
+        "fr": "Pot de succulentes",
+        "it": "Pianta grassa",
+        "nl": "Vetplant",
+        "zh-CN": "多肉植物",
+        "zh-TW": "多肉植物",
+        "jp": "たにくしょくぶつ",
+        "ko": "다육 식물"
       }
     }
   }

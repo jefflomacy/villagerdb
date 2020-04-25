@@ -19,6 +19,19 @@
       ],
       "variations": {
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Pig Nose",
+        "en-GB": "Pig Nose",
+        "de": "Schweinsnase",
+        "es": "Hocico de cerdo",
+        "fr": "Groin de cochon",
+        "it": "Naso da maialino",
+        "nl": "Varkenssnuit",
+        "zh-CN": "猪鼻子道具",
+        "zh-TW": "豬鼻子道具",
+        "jp": "ブタのつけばな",
+        "ko": "돼지 코"
       }
     }
   },

@@ -21,6 +21,19 @@
         "blue": "Blue",
         "purple": "Purple",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Camo Tee",
+        "en-GB": "Camo Tee",
+        "de": "Tarnshirt",
+        "es": "Camiseta camuflaje",
+        "fr": "T-Shirt camouflage",
+        "it": "Maglietta mimetica",
+        "nl": "Camouflage-T-Shirt",
+        "zh-CN": "迷彩上衣",
+        "zh-TW": "迷彩衣服",
+        "jp": "めいさいなふく",
+        "ko": "밀리터리 상의"
       }
     }
   },

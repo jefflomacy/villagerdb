@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 2780
         }
-      ]
+      ],
+      "name": {
+        "de": "Raumfähre",
+        "en-GB": "Space Shuttle",
+        "en-US": "Space Shuttle",
+        "es": "Transbordador",
+        "fr": "Navette spatiale",
+        "it": "Shuttle",
+        "ja": "スペースシャトル"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -34,7 +43,20 @@
           "currency": "bells",
           "value": 40000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Space Shuttle",
+        "en-GB": "Space Shuttle",
+        "de": "Raumfähre",
+        "es": "Transbordador",
+        "fr": "Navette spatiale",
+        "it": "Shuttle",
+        "nl": "Ruimteshuttle",
+        "zh-CN": "太空梭",
+        "zh-TW": "太空梭",
+        "jp": "スペースシャトル",
+        "ko": "우주왕복선"
+      }
     }
   }
 }

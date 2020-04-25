@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "de": "Bandana",
+        "en-GB": "Do-Rag",
+        "en-US": "Do-Rag",
+        "es": "Pañuelo anudado",
+        "fr": "Bandana triangle",
+        "it": "Bandana triangoli",
+        "ja": "さんかくきん"
+      }
     },
     "nh": {
       "orderable": true,
@@ -43,6 +52,19 @@
         "purple": "Purple",
         "green": "Green",
         "beige": "Beige"
+      },
+      "name": {
+        "en-US": "Do-Rag",
+        "en-GB": "Do-Rag",
+        "de": "Bandana",
+        "es": "Pañuelo anudado",
+        "fr": "Bandana triangle",
+        "it": "Bandana a quadri",
+        "nl": "Japanse hoofddoek",
+        "zh-CN": "三角巾",
+        "zh-TW": "三角巾",
+        "jp": "さんかくきん",
+        "ko": "삼각 두건"
       }
     }
   }

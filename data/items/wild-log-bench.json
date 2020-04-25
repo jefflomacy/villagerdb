@@ -21,6 +21,19 @@
         "orange-wood": "Orange wood",
         "white-wood": "White wood",
         "white-birch": "White birch"
+      },
+      "name": {
+        "en-US": "Wild Log Bench",
+        "en-GB": "Wild Log Bench",
+        "de": "Rohholzbank",
+        "es": "Tronco para sentarse",
+        "fr": "Banc bûche",
+        "it": "Tronco ruvido da seduta",
+        "nl": "Boomstambankje",
+        "zh-CN": "野外圆木长凳",
+        "zh-TW": "野外圓木長椅",
+        "jp": "ワイルドなまるたのベンチ",
+        "ko": "와일드 통나무 벤치"
       }
     }
   },

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "尤嘉莉的照片",
+        "de": "Foto's von Ute",
+        "en-GB": "Yuka's Photo",
+        "es": "Foto de Yuka",
+        "fr": "Photo de Calypso",
+        "it": "Foto di Yuka",
+        "jp": "ユーカリのしゃしん",
+        "ko": "유카리의 사진",
+        "nl": "Foto van Yuka",
+        "zh-TW": "尤嘉莉的照片",
+        "en-US": "Yuka's Photo"
       }
     }
   },

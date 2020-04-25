@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 700
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Lace-Up Dress"
+      }
     }
   }
 }

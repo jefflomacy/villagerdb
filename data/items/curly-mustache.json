@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Curly Mustache"
+      }
     },
     "nh": {
       "orderable": true,
@@ -39,6 +42,19 @@
       ],
       "variations": {
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Curly Mustache",
+        "en-GB": "Curly Mustache",
+        "de": "Schnauzbarts",
+        "es": "Bigote de artista",
+        "fr": "Moustache élégante",
+        "it": "Baffo arricciato",
+        "nl": "Krulsnor",
+        "zh-CN": "翘胡子",
+        "zh-TW": "翹鬍子",
+        "jp": "まきヒゲ",
+        "ko": "꼬부랑 수염"
       }
     }
   }

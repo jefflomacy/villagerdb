@@ -17,6 +17,19 @@
         "yellow": "Yellow",
         "pink": "Pink",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Square Backpack",
+        "en-GB": "Square Backpack",
+        "de": "Kastenrucksack",
+        "es": "Mochila rectangular",
+        "fr": "Sac à dos cube",
+        "it": "Zaino squadrato",
+        "nl": "Vierkante rugzak",
+        "zh-CN": "方形双肩包",
+        "zh-TW": "四角型後背包",
+        "jp": "しかくいリュック",
+        "ko": "사각 배낭"
       }
     }
   },

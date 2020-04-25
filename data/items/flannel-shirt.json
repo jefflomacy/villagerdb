@@ -23,6 +23,19 @@
         "blue": "Blue",
         "beige": "Beige",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Flannel Shirt",
+        "en-GB": "Flannel Shirt",
+        "de": "Flanellhemd",
+        "es": "Camisa de franela",
+        "fr": "Chemise en flanelle",
+        "it": "Camicia di flanella",
+        "nl": "Houthakkershemd",
+        "zh-CN": "法兰绒衬衫",
+        "zh-TW": "法蘭絨襯衫",
+        "jp": "ネルシャツ",
+        "ko": "플란넬 셔츠"
       }
     }
   },

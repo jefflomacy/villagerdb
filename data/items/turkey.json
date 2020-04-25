@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "de": "Truthahn",
+        "en-GB": "Turkey",
+        "en-US": "Turkey",
+        "es": "Pavo",
+        "fr": "Dinde",
+        "it": "Tacchino",
+        "ja": "ターキー"
+      }
     }
   }
 }

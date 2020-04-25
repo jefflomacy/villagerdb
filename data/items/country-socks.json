@@ -18,6 +18,19 @@
         "green-ribbons": "Green ribbons",
         "blue-ribbons": "Blue ribbons",
         "black-ribbons": "Black ribbons"
+      },
+      "name": {
+        "en-US": "Country Socks",
+        "en-GB": "Country Socks",
+        "de": "Paars Country-Socken",
+        "es": "Calcetín para kilt",
+        "fr": "Paire de chaussettes de kilt",
+        "it": "Paio di calzini country",
+        "nl": "Kiltsokken",
+        "zh-CN": "英国传统服装袜子",
+        "zh-TW": "英國傳統服裝襪子",
+        "jp": "カントリーソックス",
+        "ko": "컨트리 양말"
       }
     }
   },

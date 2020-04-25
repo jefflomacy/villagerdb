@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Kilim-Style Carpet",
+        "en-GB": "Yellow Kilim-Style Carpet",
+        "de": "Gelb-Kelimteppich",
+        "es": "Alfombra kilim ocre",
+        "fr": "Tapis kilim jaune",
+        "it": "Tappeto kilim giallo",
+        "nl": "Gele kelimtapijt",
+        "zh-CN": "黄色基里姆地毯",
+        "zh-TW": "黃色基里姆地毯",
+        "jp": "きいろいキリムのカーペット",
+        "ko": "노란 킬림 카펫"
+      }
     }
   },
   "category": "Flooring"

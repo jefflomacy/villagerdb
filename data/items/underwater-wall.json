@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Underwater Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -29,7 +32,20 @@
           "currency": "bells",
           "value": 34400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Underwater Wall",
+        "en-GB": "Underwater Wall",
+        "de": "Meerestapete",
+        "es": "Pared fondo marino",
+        "fr": "Mur fonds marins",
+        "it": "Muro sottomarino",
+        "nl": "Onderwaterwand",
+        "zh-CN": "水中壁纸",
+        "zh-TW": "水中壁紙",
+        "jp": "すいちゅうのかべがみ",
+        "ko": "바닷속 벽"
+      }
     }
   }
 }

@@ -22,6 +22,19 @@
         "aqua": "Aqua",
         "yellow": "Yellow",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Simple Visiting Kimono",
+        "en-GB": "Simple Visiting Kimono",
+        "de": "Besuchskimono",
+        "es": "Kimono de visita sencillo",
+        "fr": "Kimono de visite",
+        "it": "Kimono semplice",
+        "nl": "Eenvoudige visitekimono",
+        "zh-CN": "素色访问和服",
+        "zh-TW": "素色社交和服",
+        "jp": "むじのほうもんぎ",
+        "ko": "나들이 기모노"
       }
     }
   },

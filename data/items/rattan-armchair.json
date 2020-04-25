@@ -25,6 +25,19 @@
         "white": "White",
         "gray": "Gray",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Rattan Armchair",
+        "en-GB": "Rattan Armchair",
+        "de": "Flechtsessel",
+        "es": "Sillón de ratán",
+        "fr": "Fauteuil jonc",
+        "it": "Poltrona di rattan",
+        "nl": "Rotan leunstoel",
+        "zh-CN": "藤编沙发",
+        "zh-TW": "藤編沙發",
+        "jp": "ラタンのソファ",
+        "ko": "라탄 소파"
       }
     }
   },

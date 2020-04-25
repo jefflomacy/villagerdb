@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 1360
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Cheese Wall"
+      }
     }
   }
 }

@@ -17,7 +17,20 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Pansies",
+        "en-GB": "Yellow Pansies",
+        "de": "Hornveilchen",
+        "es": "Viola amarilla",
+        "fr": "Pensée jaune",
+        "it": "Viola gialla",
+        "nl": "",
+        "zh-CN": "黄色三色堇",
+        "zh-TW": "黃色三色堇",
+        "jp": "きいろいパンジー",
+        "ko": "노란 팬지"
+      }
     }
   },
   "category": "Flowers"

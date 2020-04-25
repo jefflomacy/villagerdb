@@ -17,6 +17,19 @@
       "recipe": {
         "star-fragment": 5,
         "large-star-fragment": 1
+      },
+      "name": {
+        "en-US": "Sci-Fi Flooring",
+        "en-GB": "Sci-Fi Flooring",
+        "de": "Raumschiffboden",
+        "es": "Suelo nave espacial",
+        "fr": "Sol science-fiction",
+        "it": "Pavimento astronave",
+        "nl": "Sciencefictionvloer",
+        "zh-CN": "太空船地板",
+        "zh-TW": "太空船地板",
+        "jp": "うちゅうせんのゆか",
+        "ko": "우주선 바닥"
       }
     }
   },

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "狸克的海报",
+        "de": "Poster's von Tom Nook",
+        "en-GB": "Tom Nook's Poster",
+        "es": "Póster de Tom Nook",
+        "fr": "Poster de Tom Nook",
+        "it": "Poster di Tom Nook",
+        "jp": "たぬきちのポスター",
+        "ko": "너굴의 포스터",
+        "nl": "Poster van Tom Nook",
+        "zh-TW": "狸克的海報",
+        "en-US": "Tom Nook's Poster"
+      }
     }
   },
   "category": "Photos"

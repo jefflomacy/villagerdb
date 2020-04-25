@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "青呱的照片",
+        "de": "Foto's von Prinz",
+        "en-GB": "Prince's Photo",
+        "es": "Foto de Felipe",
+        "fr": "Photo de Prince",
+        "it": "Foto di Principe",
+        "jp": "カールのしゃしん",
+        "ko": "카일의 사진",
+        "nl": "Foto van Prince",
+        "zh-TW": "青呱的照片",
+        "en-US": "Prince's Photo"
       }
     }
   },

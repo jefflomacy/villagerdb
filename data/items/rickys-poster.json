@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "嘉治的海报",
+        "de": "Poster's von Ronny",
+        "en-GB": "Ricky's Poster",
+        "es": "Póster de Altramuz",
+        "fr": "Poster de Rocky",
+        "it": "Poster di Sberlo",
+        "jp": "カジロウのポスター",
+        "ko": "갈가리의 포스터",
+        "nl": "Poster van Ricky",
+        "zh-TW": "嘉治的海報",
+        "en-US": "Ricky's Poster"
+      }
     }
   },
   "category": "Photos"

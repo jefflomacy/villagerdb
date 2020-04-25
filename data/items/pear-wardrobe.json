@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "name": {
+        "de": "Birnenschrank",
+        "en-GB": "Pear Wardrobe",
+        "en-US": "Pear Wardrobe",
+        "es": "Armario pera",
+        "fr": "Armoire poire",
+        "it": "Armadio pera",
+        "ja": "ヨウナシのクロゼット"
+      }
     },
     "nh": {
       "orderable": false,
@@ -37,6 +46,19 @@
       "variations": {
         "la-france": "La France",
         "le-lectier": "Le Lectier"
+      },
+      "name": {
+        "en-US": "Pear Wardrobe",
+        "en-GB": "Pear Wardrobe",
+        "de": "Birnenschrank",
+        "es": "Armario pera",
+        "fr": "Armoire poire",
+        "it": "Armadio pera",
+        "nl": "Perenkast",
+        "zh-CN": "梨子衣柜",
+        "zh-TW": "梨子衣櫃",
+        "jp": "ナシのクロゼット",
+        "ko": "배 옷장"
       }
     }
   }

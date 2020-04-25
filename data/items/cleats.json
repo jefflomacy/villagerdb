@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 720
         }
-      ]
+      ],
+      "name": {
+        "de": "Fußballschuh",
+        "en-GB": "Cleats",
+        "en-US": "Cleats",
+        "es": "Zapatilla de tacos",
+        "fr": "P. souliers crampons",
+        "it": "P. scarpe da calcio",
+        "ja": "スパイクシューズ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -42,6 +51,19 @@
         "orange": "Orange",
         "green": "Green",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Cleats",
+        "en-GB": "Cleats",
+        "de": "Paars Fußballschuhe",
+        "es": "Zapatilla de tacos",
+        "fr": "Paire de souliers crampons",
+        "it": "Paio di scarpini da calcio",
+        "nl": "Voetbalschoenen",
+        "zh-CN": "钉鞋",
+        "zh-TW": "釘鞋",
+        "jp": "スパイク",
+        "ko": "스파이크 슈즈"
       }
     }
   }

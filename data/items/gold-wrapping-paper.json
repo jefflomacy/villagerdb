@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 40
+      },
+      "name": {
+        "zh-CN": "金色包装纸",
+        "de": "Gold-Geschenkpapier's",
+        "en-GB": "Gold Wrapping Paper",
+        "es": "Papel de regalo dorado",
+        "fr": "Papiers cadeau dorés",
+        "it": "Carta da regalo dorata",
+        "jp": "きんいろのラッピングペーパー",
+        "ko": "금색 포장지",
+        "nl": "Gouden cadeaupapier",
+        "zh-TW": "金色包裝紙",
+        "en-US": "Gold Wrapping Paper"
       }
     }
   },

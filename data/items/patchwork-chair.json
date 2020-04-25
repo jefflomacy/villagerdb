@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Patchwork-Sessel",
+        "en-GB": "Patchwork Chair",
+        "en-US": "Patchwork Chair",
+        "es": "Sillón de retales",
+        "fr": "Fauteuil patchwork",
+        "it": "Poltrona patchwork",
+        "ja": "パッチワークなソファ"
+      }
     }
   }
 }

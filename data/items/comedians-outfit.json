@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Comedian's Outfit"
+      }
     },
     "nh": {
       "orderable": true,
@@ -40,6 +43,19 @@
         "purple": "Purple",
         "aquamarine": "Aquamarine",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Comedian's Outfit",
+        "en-GB": "Comedian's Outfit",
+        "de": "Komikerjacke",
+        "es": "Chaqueta de humorista",
+        "fr": "Tenue de comique",
+        "it": "Giacca da umorista",
+        "nl": "Komiekenjasje",
+        "zh-CN": "喜剧演员服",
+        "zh-TW": "諧星衣服",
+        "jp": "コメディアンなふく",
+        "ko": "코미디언 옷"
       }
     }
   }

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "余子酱的照片",
+        "de": "Foto's von Kiki",
+        "en-GB": "Kiki's Photo",
+        "es": "Foto de Ágata",
+        "fr": "Photo de Kiki",
+        "it": "Foto di Kiki",
+        "jp": "キャビアのしゃしん",
+        "ko": "캐비어의 사진",
+        "nl": "Foto van Kiki",
+        "zh-TW": "余子醬的照片",
+        "en-US": "Kiki's Photo"
       }
     }
   },

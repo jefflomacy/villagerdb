@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Zahlenkugel-Maschine",
+        "en-GB": "Bingo Wheel",
+        "en-US": "Bingo Wheel",
+        "es": "Bombo de bingo",
+        "fr": "Sphère pour tirage",
+        "it": "Urna per estrazioni",
+        "ja": "ビンゴマシン"
+      }
     },
     "nh": {
       "orderable": true,
@@ -33,7 +42,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Bingo Wheel",
+        "en-GB": "Bingo Wheel",
+        "de": "Zahlenkugel-Maschine",
+        "es": "Bombo de bingo",
+        "fr": "Sphère pour tirage",
+        "it": "Urna per estrazioni",
+        "nl": "Bingomolen",
+        "zh-CN": "摇奖机",
+        "zh-TW": "搖獎機",
+        "jp": "ビンゴマシン",
+        "ko": "빙고 머신"
+      }
     }
   }
 }

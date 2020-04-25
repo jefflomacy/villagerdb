@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Arktik-Shirt",
+        "en-GB": "Arctic-Camo Tee",
+        "en-US": "Arctic-Camo Tee",
+        "es": "Camiseta polar",
+        "fr": "T-shirt motif glace",
+        "it": "Maglietta mimet. blu",
+        "ja": "かんれいめいさいふく"
+      }
     }
   }
 }

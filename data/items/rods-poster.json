@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿将的海报",
+        "de": "Poster's von Manni",
+        "en-GB": "Rod's Poster",
+        "es": "Póster de Rodi",
+        "fr": "Poster de Marcel",
+        "it": "Poster di Riccardo",
+        "jp": "ジャンのポスター",
+        "ko": "쟝의 포스터",
+        "nl": "Poster van Rod",
+        "zh-TW": "阿將的海報",
+        "en-US": "Rod's Poster"
+      }
     }
   },
   "category": "Photos"

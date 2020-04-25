@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Circuit-Board Flooring",
+        "en-GB": "Circuit-Board Flooring",
+        "de": "Leiterplattenboden",
+        "es": "Suelo circuito integrado",
+        "fr": "Sol circuit imprimé",
+        "it": "Pav. circuito stampato",
+        "nl": "Printplaatvloer",
+        "zh-CN": "主机板地板",
+        "zh-TW": "主機板地板",
+        "jp": "きばんのゆか",
+        "ko": "전자 회로 바닥"
+      }
     }
   },
   "category": "Flooring"

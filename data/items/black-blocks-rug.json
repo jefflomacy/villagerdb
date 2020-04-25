@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Black Blocks Rug",
+        "en-GB": "Black Blocks Rug",
+        "de": "Schwarz-Viereckmatte",
+        "es": "Alfombra pixelada negra",
+        "fr": "Tapis à carreaux noir",
+        "it": "Tappeto a blocchi neri",
+        "nl": "Zwarteblokkentapijt",
+        "zh-CN": "单色方块地毯",
+        "zh-TW": "灰階配色磚塊地毯",
+        "jp": "モノクロブロックのラグ",
+        "ko": "흑백 블록 러그"
+      }
     }
   },
   "category": "Flooring"

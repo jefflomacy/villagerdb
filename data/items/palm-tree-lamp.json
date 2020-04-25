@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Palmenlampe",
+        "en-GB": "Palm-Tree Lamp",
+        "en-US": "Palm-Tree Lamp",
+        "es": "Lámpara palmera",
+        "fr": "Lampe palmier",
+        "it": "Lampada palma",
+        "ja": "パームツリーランプ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -46,6 +55,19 @@
         "tropical": "Tropical",
         "cute": "Cute",
         "cool": "Cool"
+      },
+      "name": {
+        "en-US": "Palm-Tree Lamp",
+        "en-GB": "Palm-Tree Lamp",
+        "de": "Palmenlampe",
+        "es": "Lámpara palmera",
+        "fr": "Lampe palmier",
+        "it": "Lampada palma",
+        "nl": "Palmboomlamp",
+        "zh-CN": "棕榈树灯",
+        "zh-TW": "棕櫚樹燈",
+        "jp": "パームツリーランプ",
+        "ko": "야자수 램프"
       }
     }
   }

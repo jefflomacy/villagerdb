@@ -16,7 +16,16 @@
       },
       "sources": [
         "Re-Tail (flea market) or Police Station (lost and found)"
-      ]
+      ],
+      "name": {
+        "de": "Schlamperkommode",
+        "en-GB": "Sloppy Dresser",
+        "en-US": "Sloppy Dresser",
+        "es": "Cómoda desorden",
+        "fr": "Commode négligée",
+        "it": "Comò trasandato",
+        "ja": "だらしないタンス"
+      }
     }
   }
 }

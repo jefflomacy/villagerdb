@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "戈伍纪的海报",
+        "de": "Poster's von Kabuki",
+        "en-GB": "Kabuki's Poster",
+        "es": "Póster de Kabuki",
+        "fr": "Poster de Kabuki",
+        "it": "Poster di Kabuki",
+        "jp": "かぶきちのポスター",
+        "ko": "가북희의 포스터",
+        "nl": "Poster van Kabuki",
+        "zh-TW": "戈伍紀的海報",
+        "en-US": "Kabuki's Poster"
+      }
     }
   },
   "category": "Photos"

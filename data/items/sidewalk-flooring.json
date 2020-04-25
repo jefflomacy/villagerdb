@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sidewalk Flooring",
+        "en-GB": "Sidewalk Flooring",
+        "de": "Bürgersteigboden",
+        "es": "Suelo acera",
+        "fr": "Sol rue piétonne",
+        "it": "Pavimento marciapiede",
+        "nl": "Trottoirvloer",
+        "zh-CN": "人行道地板",
+        "zh-TW": "人行道地板",
+        "jp": "ほどうのゆか",
+        "ko": "보도블록 바닥"
+      }
     }
   },
   "category": "Flooring"

@@ -18,6 +18,19 @@
         "blue": "Blue",
         "green": "Green",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Old Commoner's Kimono",
+        "en-GB": "Old Commoner's Kimono",
+        "de": "Schlichtkimono",
+        "es": "Kimono sencillo antiguo",
+        "fr": "Kimono ordinaire ancien",
+        "it": "Kimono umile",
+        "nl": "Ouderwetse gewone kimono",
+        "zh-CN": "邻家女孩和服",
+        "zh-TW": "鄰家女孩和服",
+        "jp": "まちむすめのきもの",
+        "ko": "체크무늬 기모노"
       }
     }
   },

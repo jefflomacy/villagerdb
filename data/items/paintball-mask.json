@@ -18,6 +18,19 @@
         "white": "White",
         "olive": "Olive",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Paintball Mask",
+        "en-GB": "Paintball Mask",
+        "de": "Paintball-Maske",
+        "es": "Casco de paintball",
+        "fr": "Masque de paintball",
+        "it": "Maschera da paintball",
+        "nl": "Paintballmasker",
+        "zh-CN": "漆弹面罩",
+        "zh-TW": "漆彈面罩",
+        "jp": "ペイントボールマスク",
+        "ko": "페인트 볼 마스크"
       }
     }
   },

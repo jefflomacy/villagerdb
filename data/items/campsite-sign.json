@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 2500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Campsite Sign",
+        "en-GB": "Campsite Sign",
+        "de": "Campingplatz-Schild",
+        "es": "Cartel parcela de acampada",
+        "fr": "Panneau du camping",
+        "it": "Cartello area per campeggio",
+        "nl": "Kampeerplekbord",
+        "zh-CN": "露营地招牌",
+        "zh-TW": "露營地招牌",
+        "jp": "キャンプじょうのかんばん",
+        "ko": "캠핑장 간판"
+      }
     }
   },
   "category": "Furniture"

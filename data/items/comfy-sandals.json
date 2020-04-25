@@ -23,6 +23,19 @@
         "orange": "Orange",
         "yellow": "Yellow",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Comfy Sandals",
+        "en-GB": "Comfy Sandals",
+        "de": "Paars Pantoletten",
+        "es": "Sandalia holgada",
+        "fr": "Paire sandales confortables",
+        "it": "Paio di sandali comodi",
+        "nl": "Comfortabele sandalen",
+        "zh-CN": "双带凉鞋",
+        "zh-TW": "雙帶拖鞋",
+        "jp": "コンフォートサンダル",
+        "ko": "컴포트 샌들"
       }
     }
   },

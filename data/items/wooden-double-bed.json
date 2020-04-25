@@ -45,6 +45,19 @@
         "pink-wood-pink": "Pink wood / Pink",
         "pink-wood-blue": "Pink wood / Blue",
         "pink-wood-green": "Pink wood / Green"
+      },
+      "name": {
+        "en-US": "Wooden Double Bed",
+        "en-GB": "Wooden Double Bed",
+        "de": "Holzdoppelbett",
+        "es": "Cama doble de madera",
+        "fr": "Lit double en bois",
+        "it": "Letto matrimoniale di legno",
+        "nl": "Houten tweepersoonsbed",
+        "zh-CN": "木制双人床",
+        "zh-TW": "木製雙人床",
+        "jp": "もくせいダブルベッド",
+        "ko": "목제 더블 침대"
       }
     }
   },

@@ -20,6 +20,19 @@
         "blue": "Blue",
         "light-blue": "Light blue",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Ski Pants",
+        "en-GB": "Ski Pants",
+        "de": "Skihose",
+        "es": "Pantalón de esquí",
+        "fr": "Pantalon de ski",
+        "it": "Pantalone da sci",
+        "nl": "Skibroek",
+        "zh-CN": "滑雪裤",
+        "zh-TW": "滑雪褲",
+        "jp": "スキーウェアのズボン",
+        "ko": "스키복 바지"
       }
     }
   },

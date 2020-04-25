@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 750
+      },
+      "name": {
+        "en-US": "Snail Model",
+        "en-GB": "Snail Model",
+        "de": "Schneckenmodell",
+        "es": "Figura de caracol",
+        "fr": "Modèle d'escargot",
+        "it": "Replica di chiocciola",
+        "nl": "Modelslak",
+        "zh-CN": "蜗牛模型",
+        "zh-TW": "蝸牛模型",
+        "jp": "カタツムリのもけい",
+        "ko": "달팽이 모형"
       }
     }
   },

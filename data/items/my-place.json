@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "My Place"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,7 +36,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "My Place",
+        "en-GB": "My Place",
+        "de": "Mein Zuhause",
+        "es": "Mi hogar",
+        "fr": "Chez moi",
+        "it": "Casa mia",
+        "nl": "Mijn thuis",
+        "zh-CN": "我的归所",
+        "zh-TW": "我的歸所",
+        "jp": "ぼくのばしょ",
+        "ko": "내가 있는 곳",
+        "ru": "Мой дом"
+      }
     }
   }
 }

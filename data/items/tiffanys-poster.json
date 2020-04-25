@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "大姐头的海报",
+        "de": "Poster's von Michelle",
+        "en-GB": "Tiffany's Poster",
+        "es": "Póster de Tiffany",
+        "fr": "Poster de Tiphaine",
+        "it": "Poster di Stefania",
+        "jp": "バズレーのポスター",
+        "ko": "바슬레의 포스터",
+        "nl": "Poster van Tiffany",
+        "zh-TW": "大姐頭的海報",
+        "en-US": "Tiffany's Poster"
+      }
     }
   },
   "category": "Photos"

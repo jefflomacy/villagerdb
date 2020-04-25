@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "叽叽的照片",
+        "de": "Foto's von Twiggy",
+        "en-GB": "Twiggy's Photo",
+        "es": "Foto de Tití",
+        "fr": "Photo de Titi",
+        "it": "Foto di Titti",
+        "jp": "ピーチクのしゃしん",
+        "ko": "핀틱의 사진",
+        "nl": "Foto van Twiggy",
+        "zh-TW": "嘰嘰的照片",
+        "en-US": "Twiggy's Photo"
       }
     }
   },

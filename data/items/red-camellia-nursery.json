@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red-Camellia Nursery",
+        "en-GB": "Red-Camellia Nursery",
+        "de": "Rot-Kamelienspross",
+        "es": "Camelia roja retoño",
+        "fr": "Serre de camélias rouges",
+        "it": "Piantina di camelia rossa",
+        "nl": "Kleine jonge rode camelia",
+        "zh-CN": "红色山茶花幼苗",
+        "zh-TW": "紅色山茶花幼苗",
+        "jp": "あかいツバキのようぼく",
+        "ko": "빨간 동백 유목"
+      }
     }
   },
   "category": "Bushes"

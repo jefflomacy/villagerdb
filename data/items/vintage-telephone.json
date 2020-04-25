@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Retro-Telefon",
+        "en-GB": "Vintage Telephone",
+        "en-US": "Vintage Telephone",
+        "es": "Teléfono antiguo",
+        "fr": "Téléphone d'époque",
+        "it": "Telefono antico",
+        "ja": "レトロなでんわ"
+      }
     }
   }
 }

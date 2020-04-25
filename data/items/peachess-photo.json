@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "小薰的照片",
+        "de": "Foto's von Claire",
+        "en-GB": "Peaches's Photo",
+        "es": "Foto de Perla",
+        "fr": "Photo de Prune",
+        "it": "Foto di Ronzina",
+        "jp": "ドサコのしゃしん",
+        "ko": "말자의 사진",
+        "nl": "Foto van Peaches",
+        "zh-TW": "小薰的照片",
+        "en-US": "Peaches's Photo"
       }
     }
   },

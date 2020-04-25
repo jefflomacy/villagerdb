@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 900
+      },
+      "name": {
+        "en-US": "Common Bluebottle Model",
+        "en-GB": "Common Bluebottle Model",
+        "de": "Kolibrifaltermodell",
+        "es": "Figura marip. triángulo azul",
+        "fr": "Modèle graphium sarpedon",
+        "it": "Replica graphium sarpedon",
+        "nl": "Model-Blauwe-Driehoek",
+        "zh-CN": "青带凤蝶模型",
+        "zh-TW": "青帶鳳蝶模型",
+        "jp": "アオスジアゲハのもけい",
+        "ko": "청띠제비나비 모형"
       }
     }
   },

@@ -21,6 +21,19 @@
         "blue": "Blue",
         "magenta": "Magenta",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Corte Skirt",
+        "en-GB": "Corte Skirt",
+        "de": "Corte-Rock",
+        "es": "Falda étnica",
+        "fr": "Jupe maya",
+        "it": "Gonna etnica",
+        "nl": "Maya-Rok",
+        "zh-CN": "危地马拉传统裙子",
+        "zh-TW": "瓜地馬拉傳統裙子",
+        "jp": "コルテ",
+        "ko": "코르테 스커트"
       }
     }
   },

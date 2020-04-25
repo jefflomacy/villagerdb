@@ -17,7 +17,20 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Mums",
+        "en-GB": "Red Mums",
+        "de": "Rotchrysantheme",
+        "es": "Crisantemo rojo",
+        "fr": "Chrysanthème rouge",
+        "it": "Crisantemo rosso",
+        "nl": "Rode chrysant",
+        "zh-CN": "红色菊花",
+        "zh-TW": "紅色菊花",
+        "jp": "あかいキク",
+        "ko": "빨간 국화"
+      }
     }
   },
   "category": "Flowers"

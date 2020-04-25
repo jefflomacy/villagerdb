@@ -9,6 +9,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "李彻的照片",
+        "de": "Foto's von Ansgar",
+        "en-GB": "Admiral's Photo",
+        "es": "Foto de Avutardo",
+        "fr": "Photo de Maréchal",
+        "it": "Foto di Adolfo",
+        "jp": "イッテツのしゃしん",
+        "ko": "일섭의 사진",
+        "nl": "Foto van Admiral",
+        "zh-TW": "李徹的照片",
+        "en-US": "Admiral's Photo"
       }
     }
   },

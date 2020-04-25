@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "笛笛的照片",
+        "de": "Foto's von Tommi",
+        "en-GB": "Clyde's Photo",
+        "es": "Foto de Moe",
+        "fr": "Photo de Dorian",
+        "it": "Foto di Lallo",
+        "jp": "デースケのしゃしん",
+        "ko": "마철이의 사진",
+        "nl": "Foto van Clyde",
+        "zh-TW": "笛笛的照片",
+        "en-US": "Clyde's Photo"
       }
     }
   },

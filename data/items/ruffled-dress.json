@@ -17,6 +17,19 @@
         "purple": "Purple",
         "black": "Black",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Ruffled Dress",
+        "en-GB": "Ruffled Dress",
+        "de": "Korsettkleid",
+        "es": "Vestido con corsé",
+        "fr": "Robe à corset",
+        "it": "Vestito pieghettato",
+        "nl": "Victoriaanse jurk",
+        "zh-CN": "束腰洋装",
+        "zh-TW": "馬甲洋裝",
+        "jp": "コルセットドレス",
+        "ko": "코르셋 드레스"
       }
     }
   },

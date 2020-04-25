@@ -25,6 +25,19 @@
         "yellow": "Yellow",
         "pink": "Pink",
         "zebra": "Zebra"
+      },
+      "name": {
+        "en-US": "Springy Ride-On",
+        "en-GB": "Springy Ride-On",
+        "de": "Federwippe",
+        "es": "Balancín de muelle",
+        "fr": "Animal sur ressort",
+        "it": "Cavallo a molla",
+        "nl": "Veertoestel",
+        "zh-CN": "弹簧游乐器材",
+        "zh-TW": "彈簧遊樂器材",
+        "jp": "スプリングゆうぐ",
+        "ko": "스프링 놀이 기구"
       }
     }
   },

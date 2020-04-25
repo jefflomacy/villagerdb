@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Pike"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1800
+      },
+      "name": {
+        "en-US": "Pike",
+        "en-GB": "Pike",
+        "de": "Hecht",
+        "es": "Lucio",
+        "fr": "Brochet",
+        "it": "Luccio nordico",
+        "nl": "Snoek",
+        "zh-CN": "白斑狗鱼",
+        "zh-TW": "白斑狗魚",
+        "jp": "パイク",
+        "ko": "강꼬치고기"
       }
     }
   }

@@ -7,13 +7,19 @@
       "orderable": false,
       "sources": [
         "Gracie"
-      ]
+      ],
+      "name": {
+        "en-US": "Coral Shirt"
+      }
     },
     "afe+": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ]
+      ],
+      "name": {
+        "en-US": "Coral Shirt"
+      }
     }
   }
 }

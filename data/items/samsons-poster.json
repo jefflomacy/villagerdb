@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "和平的海报",
+        "de": "Poster's von Samson",
+        "en-GB": "Samson's Poster",
+        "es": "Póster de Sansón",
+        "fr": "Poster de Samson",
+        "it": "Poster di Sansone",
+        "jp": "ピースのポスター",
+        "ko": "피스의 포스터",
+        "nl": "Poster van Samson",
+        "zh-TW": "和平的海報",
+        "en-US": "Samson's Poster"
+      }
     }
   },
   "category": "Photos"

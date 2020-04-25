@@ -11,7 +11,10 @@
       },
       "sources": [
         "On neighbors walking outside."
-      ]
+      ],
+      "name": {
+        "en-US": "Flea"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 70
+      },
+      "name": {
+        "en-US": "Flea",
+        "en-GB": "Flea",
+        "de": "Floh",
+        "es": "Pulga",
+        "fr": "Puce",
+        "it": "Pulce",
+        "nl": "Vlo",
+        "zh-CN": "跳蚤",
+        "zh-TW": "跳蚤",
+        "jp": "ノミ",
+        "ko": "벼룩"
       }
     }
   }

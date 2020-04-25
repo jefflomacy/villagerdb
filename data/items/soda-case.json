@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Getränkekühlschrank",
+        "en-GB": "Soda Case",
+        "en-US": "Soda Case",
+        "es": "Frigo para refrescos",
+        "fr": "Vitrine à sodas",
+        "it": "Frigo per snack",
+        "ja": "ジュースケース"
+      }
     }
   }
 }

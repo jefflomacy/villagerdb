@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "绵绵的照片",
+        "de": "Foto's von Dolly",
+        "en-GB": "Vesta's Photo",
+        "es": "Foto de Vesta",
+        "fr": "Photo d'hélaine",
+        "it": "Foto di Lanella",
+        "jp": "メリヤスのしゃしん",
+        "ko": "메리어스의 사진",
+        "nl": "Foto van Vesta",
+        "zh-TW": "綿綿的照片",
+        "en-US": "Vesta's Photo"
       }
     }
   },

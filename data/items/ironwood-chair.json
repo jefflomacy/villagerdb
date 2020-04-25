@@ -19,6 +19,19 @@
         "walnut": "Walnut",
         "old": "Old",
         "oak": "Oak"
+      },
+      "name": {
+        "en-US": "Ironwood Chair",
+        "en-GB": "Ironwood Chair",
+        "de": "Eisen-Holz-Stuhl",
+        "es": "Taburete universidad",
+        "fr": "Tabouret en bois de fer",
+        "it": "Sgabello di legno ferro",
+        "nl": "Ijzeren-Houten kruk",
+        "zh-CN": "铸铁木凳",
+        "zh-TW": "鑄鐵木椅",
+        "jp": "アイアンウッドチェア",
+        "ko": "아이언우드 체어"
       }
     }
   },

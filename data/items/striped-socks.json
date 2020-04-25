@@ -23,6 +23,19 @@
         "red": "Red",
         "purple": "Purple",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Striped Socks",
+        "en-GB": "Striped Socks",
+        "de": "Paars Ringelsocken",
+        "es": "Calcetín a rayas",
+        "fr": "Paire de chaussettes rayées",
+        "it": "Paio di calzini a strisce",
+        "nl": "Gestreepte sokken",
+        "zh-CN": "粗横纹袜",
+        "zh-TW": "粗橫紋襪",
+        "jp": "ボーダーソックス",
+        "ko": "가로 줄무늬 양말"
       }
     }
   },

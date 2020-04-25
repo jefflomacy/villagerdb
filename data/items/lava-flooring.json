@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Lava Flooring",
+        "en-GB": "Lava Flooring",
+        "de": "Vulkanboden",
+        "es": "Suelo volcánico",
+        "fr": "Sol lave",
+        "it": "Pavimento lava",
+        "nl": "Lavavloer",
+        "zh-CN": "熔岩地板",
+        "zh-TW": "熔岩地板",
+        "jp": "ようがんのゆか",
+        "ko": "용암 바닥"
+      }
     }
   },
   "category": "Flooring"

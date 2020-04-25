@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "佩希的照片",
+        "de": "Foto's von Mathilda",
+        "en-GB": "Pango's Photo",
+        "es": "Foto de Aspidora",
+        "fr": "Photo de Mathilda",
+        "it": "Foto di Carlotta",
+        "jp": "パトラのしゃしん",
+        "ko": "패트라의 사진",
+        "nl": "Foto van Pango",
+        "zh-TW": "佩希的照片",
+        "en-US": "Pango's Photo"
       }
     }
   },

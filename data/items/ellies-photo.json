@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "泡芙的照片",
+        "de": "Foto's von Elfi",
+        "en-GB": "Ellie's Photo",
+        "es": "Foto de Eli",
+        "fr": "Photo d'ella",
+        "it": "Foto di Elly",
+        "jp": "エクレアのしゃしん",
+        "ko": "에끌레르의 사진",
+        "nl": "Foto van Ellie",
+        "zh-TW": "泡芙的照片",
+        "en-US": "Ellie's Photo"
       }
     }
   },

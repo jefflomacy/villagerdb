@@ -25,7 +25,16 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "de": "Ritterhelm",
+        "en-GB": "Knight's Helmet",
+        "en-US": "Knight's Helmet",
+        "es": "Yelmo",
+        "fr": "Casque de chevalier",
+        "it": "Elmo medievale",
+        "ja": "てっかめん"
+      }
     },
     "nh": {
       "customizable": false,
@@ -44,6 +53,19 @@
       },
       "variations": {
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Knight's Helmet",
+        "en-GB": "Knight's Helmet",
+        "de": "Ritterhelm",
+        "es": "Yelmo",
+        "fr": "Casque de chevalier",
+        "it": "Elmo medievale",
+        "nl": "Ridderhelm",
+        "zh-CN": "铁甲头盔",
+        "zh-TW": "鐵甲面罩",
+        "jp": "アイアンアーマーヘルメット",
+        "ko": "아이언 아머 헬멧"
       }
     }
   }

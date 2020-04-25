@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 40
+      },
+      "name": {
+        "zh-CN": "黄绿色包装纸",
+        "de": "Gelbgrün-Geschenkpapier's",
+        "en-GB": "Chartreuse Wrapping Paper",
+        "es": "Papel de regalo lima",
+        "fr": "Papiers cadeau jaune-vert",
+        "it": "Carta da regalo gialloverde",
+        "jp": "きみどりのラッピングペーパー",
+        "ko": "연두색 포장지",
+        "nl": "Groengele cadeaupapier",
+        "zh-TW": "黃綠色包裝紙",
+        "en-US": "Chartreuse Wrapping Paper"
       }
     }
   },

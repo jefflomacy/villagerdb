@@ -19,6 +19,19 @@
       ],
       "variations": {
         "beige": "Beige"
+      },
+      "name": {
+        "en-US": "Hi Tee",
+        "en-GB": "Hi Tee",
+        "de": "Hi-Shirt",
+        "es": "Camiseta «hi»",
+        "fr": "T-Shirt hi",
+        "it": "Maglietta hi",
+        "nl": "Hai-T-Shirt",
+        "zh-CN": "嗨T恤",
+        "zh-TW": "嗨T恤",
+        "jp": "ハイＴシャツ",
+        "ko": "하이 티셔츠"
       }
     }
   },

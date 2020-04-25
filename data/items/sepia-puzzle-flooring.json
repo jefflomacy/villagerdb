@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1450
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sepia Puzzle Flooring",
+        "en-GB": "Sepia Puzzle Flooring",
+        "de": "Sepia-Puzzleboden",
+        "es": "Suelo rompecabezas sepia",
+        "fr": "Sol puzzle rétro",
+        "it": "Pavimento puzzle seppia",
+        "nl": "Sepia puzzelvloer",
+        "zh-CN": "棕黑色巧拼地板",
+        "zh-TW": "深褐色巧拼地板",
+        "jp": "セピアパズルのゆか",
+        "ko": "세피아 퍼즐 바닥"
+      }
     }
   },
   "category": "Flooring"

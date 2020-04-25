@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "章丸丸的海报",
+        "de": "Poster's von Ottokar",
+        "en-GB": "Zucker's Poster",
+        "es": "Póster de Paulino",
+        "fr": "Poster de Marvin",
+        "it": "Poster di Poldo",
+        "jp": "タコヤのポスター",
+        "ko": "탁호의 포스터",
+        "nl": "Poster van Zucker",
+        "zh-TW": "章丸丸的海報",
+        "en-US": "Zucker's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -17,6 +17,19 @@
         "pink": "Pink",
         "yellow": "Yellow",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Outdoorsy Shovel",
+        "en-GB": "Outdoorsy Shovel",
+        "de": "Profi-Schaufel",
+        "es": "Pala de acampada",
+        "fr": "Pelle de rando",
+        "it": "Pala da campeggio",
+        "nl": "Kampeerschep",
+        "zh-CN": "户外铲子",
+        "zh-TW": "戶外鏟子",
+        "jp": "アウトドアなスコップ",
+        "ko": "아웃도어 삽"
       }
     }
   },

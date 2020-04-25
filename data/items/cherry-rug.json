@@ -11,6 +11,19 @@
       },
       "recipe": {
         "cherry": 6
+      },
+      "name": {
+        "en-US": "Cherry Rug",
+        "en-GB": "Cherry Rug",
+        "de": "Kirsch-Teppich",
+        "es": "Alfombra cerezas",
+        "fr": "Tapis cerises",
+        "it": "Tappeto ciliegia",
+        "nl": "Kersentapijt",
+        "zh-CN": "樱桃地毯",
+        "zh-TW": "櫻桃地毯",
+        "jp": "さくらんぼのラグ",
+        "ko": "체리 러그"
       }
     }
   },

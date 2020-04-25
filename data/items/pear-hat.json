@@ -14,6 +14,19 @@
       },
       "variations": {
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Pear Hat",
+        "en-GB": "Pear Hat",
+        "de": "Birnenhut",
+        "es": "Gorro pera",
+        "fr": "Chapeau poire",
+        "it": "Berretto pera",
+        "nl": "Perenmuts",
+        "zh-CN": "梨子帽子",
+        "zh-TW": "梨子帽子",
+        "jp": "ナシのぼうし",
+        "ko": "배 모자"
       }
     }
   },

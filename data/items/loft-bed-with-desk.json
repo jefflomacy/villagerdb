@@ -79,6 +79,19 @@
         "pink-pink": "Pink / Pink",
         "pink-green-stripes": "Pink / Green stripes",
         "pink-red-stripes": "Pink / Red stripes"
+      },
+      "name": {
+        "en-US": "Loft Bed With Desk",
+        "en-GB": "Loft Bed With Desk",
+        "de": "Bettpult",
+        "es": "Escritorio con litera",
+        "fr": "Lit mezzanine avec bureau",
+        "it": "Letto rialzato con scrivania",
+        "nl": "Hoogslaper met bureau",
+        "zh-CN": "书桌床组",
+        "zh-TW": "書桌床組",
+        "jp": "ベッドデスク",
+        "ko": "벙커 침대"
       }
     }
   },

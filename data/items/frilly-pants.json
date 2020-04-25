@@ -23,6 +23,19 @@
         "pink": "Pink",
         "blue": "Blue",
         "orange": "Orange"
+      },
+      "name": {
+        "en-US": "Frilly Pants",
+        "en-GB": "Frilly Pants",
+        "de": "Volanthose",
+        "es": "Pantalón con volantes",
+        "fr": "Pantalon à volant",
+        "it": "Pantalone vezzoso",
+        "nl": "Ruchesbroek",
+        "zh-CN": "荷叶边裤子",
+        "zh-TW": "荷葉邊褲子",
+        "jp": "フリルつきパンツ",
+        "ko": "프릴 바지"
       }
     }
   },

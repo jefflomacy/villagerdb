@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 780
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Cute Yellow-Tile Flooring",
+        "en-GB": "Cute Yellow-Tile Flooring",
+        "de": "Gelb-Hübschfliesenboden",
+        "es": "Losa cuqui amarilla",
+        "fr": "Sol sobre jaune",
+        "it": "Pavimento grazioso giallo",
+        "nl": "Sierlijke gele tegelvloer",
+        "zh-CN": "黄色可爱地板",
+        "zh-TW": "黃色可愛磁磚地板",
+        "jp": "きいろいキュートなフロアタイル",
+        "ko": "노란 큐트 타일 바닥"
+      }
     }
   },
   "category": "Flooring"

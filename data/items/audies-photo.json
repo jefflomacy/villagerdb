@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "莫妮卡的照片",
+        "de": "Foto's von Katharina",
+        "en-GB": "Audie's Photo",
+        "es": "Foto de Mónica",
+        "fr": "Photo de Monica",
+        "it": "Foto di Lupilia",
+        "jp": "モニカのしゃしん",
+        "ko": "모니카의 사진",
+        "nl": "Foto van Audie",
+        "zh-TW": "莫妮卡的照片",
+        "en-US": "Audie's Photo"
       }
     }
   },

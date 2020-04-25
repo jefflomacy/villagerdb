@@ -28,7 +28,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Ivy Wall"
+      }
     },
     "nh": {
       "orderable": false,
@@ -44,7 +47,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Ivy Wall",
+        "en-GB": "Ivy Wall",
+        "de": "Efeumauer",
+        "es": "Pared hiedra",
+        "fr": "Mur de lierre",
+        "it": "Muro edera",
+        "nl": "Klimopwand",
+        "zh-CN": "常春藤墙",
+        "zh-TW": "常春藤牆",
+        "jp": "つたのかべ",
+        "ko": "덩굴 벽"
+      }
     }
   }
 }

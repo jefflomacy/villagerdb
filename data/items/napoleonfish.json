@@ -11,7 +11,10 @@
       },
       "sources": [
         "In the sea."
-      ]
+      ],
+      "name": {
+        "en-US": "Napoleonfish"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10000
+      },
+      "name": {
+        "en-US": "Napoleonfish",
+        "en-GB": "Napoleonfish",
+        "de": "Napoleonfisch",
+        "es": "Pez napoleón",
+        "fr": "Napoléon",
+        "it": "Pesce napoleone",
+        "nl": "Napoleonvis",
+        "zh-CN": "苏眉鱼",
+        "zh-TW": "蘇眉魚",
+        "jp": "ナポレオンフィッシュ",
+        "ko": "나폴레옹피시"
       }
     }
   }

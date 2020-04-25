@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "name": {
+        "de": "Steinbock-Skulptur",
+        "en-GB": "Capricorn Ornament",
+        "en-US": "Capricorn Ornament",
+        "es": "Estatua Capricornio",
+        "fr": "Statue Capricorne",
+        "it": "Statua Capricorno",
+        "ja": "カプリコーンのおきもの"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -29,7 +38,20 @@
           "currency": "bells",
           "value": 90600
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Capricorn Ornament",
+        "en-GB": "Capricorn Ornament",
+        "de": "Steinbock-Skulptur",
+        "es": "Estatua Capricornio",
+        "fr": "Statue Capricorne",
+        "it": "Statua Capricorno",
+        "nl": "Steenbok-Beeld",
+        "zh-CN": "摩羯座摆饰",
+        "zh-TW": "摩羯座擺飾",
+        "jp": "カプリコーンのおきもの",
+        "ko": "염소자리 모형"
+      }
     }
   }
 }

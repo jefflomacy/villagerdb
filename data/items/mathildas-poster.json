@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "亚莎的海报",
+        "de": "Poster's von Marga",
+        "en-GB": "Mathilda's Poster",
+        "es": "Póster de Pugilda",
+        "fr": "Poster de Mathilde",
+        "it": "Poster di Matilda",
+        "jp": "アザラクのポスター",
+        "ko": "안젤라의 포스터",
+        "nl": "Poster van Mathilda",
+        "zh-TW": "亞莎的海報",
+        "en-US": "Mathilda's Poster"
+      }
     }
   },
   "category": "Photos"

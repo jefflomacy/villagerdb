@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1320
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Purple Camo Flooring",
+        "en-GB": "Purple Camo Flooring",
+        "de": "Lila-Tarnboden",
+        "es": "Suelo camuflaje lila",
+        "fr": "Sol camouflage violet",
+        "it": "Pavimento mimetico viola",
+        "nl": "Paarse camouflagevloer",
+        "zh-CN": "紫色迷彩地板",
+        "zh-TW": "紫色迷彩地板",
+        "jp": "パープルめいさいのゆか",
+        "ko": "퍼플 밀리터리 바닥"
+      }
     }
   },
   "category": "Flooring"

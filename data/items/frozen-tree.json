@@ -21,6 +21,19 @@
         "ice-orange": "Ice orange",
         "ice-green": "Ice green",
         "ice-purple": "Ice purple"
+      },
+      "name": {
+        "en-US": "Frozen Tree",
+        "en-GB": "Frozen Tree",
+        "de": "Eisbaum",
+        "es": "Árbol iceberg",
+        "fr": "Arbre arctique",
+        "it": "Albero iceberg",
+        "nl": "Ijsboom",
+        "zh-CN": "冰块树木",
+        "zh-TW": "冰樹木",
+        "jp": "こおりのツリー",
+        "ko": "얼음 트리"
       }
     }
   },

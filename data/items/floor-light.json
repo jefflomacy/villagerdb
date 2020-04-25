@@ -15,7 +15,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Floor Light"
+      }
     },
     "nh": {
       "orderable": true,
@@ -41,6 +44,19 @@
         "blue": "Blue",
         "light-blue": "Light blue",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Floor Light",
+        "en-GB": "Floor Light",
+        "de": "Fußboden-Spot",
+        "es": "Punto de luz de suelo",
+        "fr": "Spot de sol",
+        "it": "Faretto da pavimento",
+        "nl": "Grondspotje",
+        "zh-CN": "地灯",
+        "zh-TW": "地燈",
+        "jp": "グランドライト",
+        "ko": "바닥 조명"
       }
     }
   }

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Konfettipulli",
+        "en-GB": "Lite Polka Shirt",
+        "en-US": "Lite Polka Shirt",
+        "es": "Jersey topos día",
+        "fr": "Pull blanc à pois",
+        "it": "Maglia tenue pois",
+        "ja": "しろマーブルなふくL"
+      }
     },
     "ac": {
       "orderable": true,
@@ -36,7 +45,10 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Lite Polka Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -52,7 +64,10 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Lite Polka Shirt"
+      }
     }
   }
 }

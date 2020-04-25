@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1180
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Black Perforated-Board Wall",
+        "en-GB": "Black Perforated-Board Wall",
+        "de": "Schwarz-Lochplattenwand",
+        "es": "Pared insonorizada negra",
+        "fr": "Mur panneau perforé noir",
+        "it": "Muro cartone forato nero",
+        "nl": "Zwarte gaatjeswand",
+        "zh-CN": "黑色洞洞板墙",
+        "zh-TW": "黑色洞洞板牆",
+        "jp": "くろいパンチングボードのかべ",
+        "ko": "검정 펀칭 보드 벽"
+      }
     }
   },
   "category": "Wallpaper"

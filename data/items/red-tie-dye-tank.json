@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "de": "Naturtop",
+        "en-GB": "Red Tie-Dye Tank",
+        "en-US": "Red Tie-Dye Tank",
+        "es": "Top hippy rojo",
+        "fr": "Débard. batik rouge",
+        "it": "Canotta fucsia",
+        "ja": "いちごソーダなふくN"
+      }
     }
   }
 }

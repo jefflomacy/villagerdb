@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Kuchenvitrine",
+        "en-GB": "Dessert Case",
+        "en-US": "Dessert Case",
+        "es": "Vitrina de postres",
+        "fr": "Vitrine à desserts",
+        "it": "Vetrina dolci",
+        "ja": "ケーキケース"
+      }
     }
   }
 }

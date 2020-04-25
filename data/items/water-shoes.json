@@ -26,6 +26,19 @@
         "yellow": "Yellow",
         "red": "Red",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Water Shoes",
+        "en-GB": "Water Shoes",
+        "de": "Paars Wassersportschuhe",
+        "es": "Zapato acuático",
+        "fr": "Paire de chaussures plage",
+        "it": "Paio di scarpe da scoglio",
+        "nl": "Waterschoenen",
+        "zh-CN": "水上运动鞋",
+        "zh-TW": "水上運動鞋",
+        "jp": "マリンシューズ",
+        "ko": "아쿠아 슈즈"
       }
     }
   },

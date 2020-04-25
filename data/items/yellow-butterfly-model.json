@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 480
+      },
+      "name": {
+        "en-US": "Yellow Butterfly Model",
+        "en-GB": "Yellow Butterfly Model",
+        "de": "Zitronenfaltermodell",
+        "es": "Figura de mariposa colias",
+        "fr": "Modèle de citrin",
+        "it": "Replica di farfalla gialla",
+        "nl": "Modelcitroenvlinder",
+        "zh-CN": "斑缘点粉蝶模型",
+        "zh-TW": "斑緣點粉蝶模型",
+        "jp": "モンキチョウのもけい",
+        "ko": "노랑나비 모형"
       }
     }
   },

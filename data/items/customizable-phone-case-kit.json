@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 36000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "手机壳改造工具组",
+        "de": "Nookphone-Gestaltungskit's",
+        "en-GB": "Customizable Phone Case Kit",
+        "es": "Funda móvil personalizable",
+        "fr": "Kit coque personnalisable",
+        "it": "Kit personaliz. Nook Phone",
+        "jp": "スマホケースリメイクキット",
+        "ko": "스마트폰 케이스 리폼 키트",
+        "nl": "Nookphone-Hoesje",
+        "zh-TW": "手機殼改造工具組",
+        "en-US": "Customizable Phone Case Kit"
+      }
     }
   },
   "category": "Usables"

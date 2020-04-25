@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "狐利的海报",
+        "de": "Poster's von Reiner",
+        "en-GB": "Redd's Poster",
+        "es": "Póster de Ladino",
+        "fr": "Poster de Rounard",
+        "it": "Poster di Volpolo",
+        "jp": "つねきちのポスター",
+        "ko": "여욱의 포스터",
+        "nl": "Poster van Redd",
+        "zh-TW": "狐利的海報",
+        "en-US": "Redd's Poster"
+      }
     }
   },
   "category": "Photos"

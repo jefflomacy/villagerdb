@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 880
         }
-      ]
+      ],
+      "name": {
+        "de": "Wildwest-Zaun",
+        "en-GB": "Western Fence",
+        "en-US": "Western Fence",
+        "es": "Valla",
+        "fr": "Barrière western",
+        "it": "Steccato west",
+        "ja": "うまつなぎぼう"
+      }
     }
   }
 }

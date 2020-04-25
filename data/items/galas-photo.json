@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "小芽的照片",
+        "de": "Foto's von Oinka",
+        "en-GB": "Gala's Photo",
+        "es": "Foto de Marita",
+        "fr": "Photo de Camille",
+        "it": "Foto di Lisetta",
+        "jp": "ためこのしゃしん",
+        "ko": "꽃지의 사진",
+        "nl": "Foto van Gala",
+        "zh-TW": "小芽的照片",
+        "en-US": "Gala's Photo"
       }
     }
   },

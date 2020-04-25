@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2120
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Arabesque Flooring",
+        "en-GB": "Arabesque Flooring",
+        "de": "Arabeskenboden",
+        "es": "Suelo arabesco",
+        "fr": "Sol arabesques",
+        "it": "Pavimento arabescato",
+        "nl": "Arabeske vloer",
+        "zh-CN": "阿拉伯式地板",
+        "zh-TW": "阿拉伯式地板",
+        "jp": "アラベスクなゆか",
+        "ko": "아라베스크 바닥"
+      }
     }
   },
   "category": "Flooring"

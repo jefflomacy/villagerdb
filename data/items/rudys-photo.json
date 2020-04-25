@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "茶茶的照片",
+        "de": "Foto's von Heinz",
+        "en-GB": "Rudy's Photo",
+        "es": "Foto de Rufino",
+        "fr": "Photo de Rougepif",
+        "it": "Foto di Gomitolo",
+        "jp": "チャスのしゃしん",
+        "ko": "찰스의 사진",
+        "nl": "Foto van Rudy",
+        "zh-TW": "茶茶的照片",
+        "en-US": "Rudy's Photo"
       }
     }
   },

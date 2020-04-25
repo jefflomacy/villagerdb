@@ -18,7 +18,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Kongatrommel",
+        "en-GB": "Conga Drum",
+        "en-US": "Conga Drum",
+        "es": "Tambor conga",
+        "fr": "Conga",
+        "it": "Conga",
+        "ja": "コンガ"
+      }
     }
   }
 }

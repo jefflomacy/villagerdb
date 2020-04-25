@@ -20,6 +20,19 @@
         "yellow": "Yellow",
         "red": "Red",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Cute DIY Table",
+        "en-GB": "Cute DIY Table",
+        "de": "Bonbon-Werkbank",
+        "es": "Banco de bricolaje cuqui",
+        "fr": "Table de bricolage mimi",
+        "it": "Banco da lavoro grazioso",
+        "nl": "Schattige werkbank",
+        "zh-CN": "可爱DIY桌",
+        "zh-TW": "可愛DIY桌",
+        "jp": "キュートなDIYテーブル",
+        "ko": "큐트 DIY 테이블"
       }
     }
   },

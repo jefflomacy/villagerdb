@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 3600
         }
-      ]
+      ],
+      "name": {
+        "de": "Fetzenjeanshose",
+        "en-GB": "Worn-Out Jeans",
+        "en-US": "Worn-Out Jeans",
+        "es": "Pantalón agujereado",
+        "fr": "Pantalon jean usé",
+        "it": "Paio jeans strappati",
+        "ja": "あなあきデニム"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -38,6 +47,19 @@
         "blue": "Blue",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Worn-Out Jeans",
+        "en-GB": "Worn-Out Jeans",
+        "de": "Fetzenjeanshose",
+        "es": "Pantalón agujereado",
+        "fr": "Pantalon jean usé",
+        "it": "Paio di jeans strappati",
+        "nl": "Versleten jeans",
+        "zh-CN": "破洞牛仔裤",
+        "zh-TW": "破洞牛仔褲",
+        "jp": "あなあきデニム",
+        "ko": "찢어진 데님 바지"
       }
     }
   }

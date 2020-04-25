@@ -24,6 +24,19 @@
         "blue": "Blue",
         "berry-red": "Berry red",
         "navy-blue": "Navy blue"
+      },
+      "name": {
+        "en-US": "Athletic Jacket",
+        "en-GB": "Athletic Jacket",
+        "de": "Sportjacke",
+        "es": "Sudadera sport",
+        "fr": "Veste survêt",
+        "it": "Maglia da jogging",
+        "nl": "Atletiekjasje",
+        "zh-CN": "运动服",
+        "zh-TW": "運動服",
+        "jp": "ジャージ",
+        "ko": "트레이닝복"
       }
     }
   },

@@ -15,7 +15,16 @@
       },
       "sources": [
         "Fortune cookie #22"
-      ]
+      ],
+      "name": {
+        "de": "Koopa-Panzer",
+        "en-GB": "Green Shell",
+        "en-US": "Green Shell",
+        "es": "Caparazón verde",
+        "fr": "Carapace verte",
+        "it": "Guscio verde",
+        "ja": "ミドリこうら"
+      }
     }
   }
 }

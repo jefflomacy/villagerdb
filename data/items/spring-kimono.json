@@ -24,7 +24,10 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Spring Kimono"
+      }
     }
   }
 }

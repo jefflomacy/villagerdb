@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 330
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sherbet Gingham"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -33,7 +36,10 @@
           "currency": "bells",
           "value": 330
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sherbet Gingham"
+      }
     }
   }
 }

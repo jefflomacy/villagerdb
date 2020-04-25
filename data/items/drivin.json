@@ -12,7 +12,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Drivin'",
+        "en-GB": "Drivin'",
+        "de": "Am Steuer",
+        "es": "Al volante",
+        "fr": "Sur la route",
+        "it": "Gita al volante",
+        "nl": "Achter het stuur",
+        "zh-CN": "兜风",
+        "zh-TW": "兜風",
+        "jp": "ドライブ",
+        "ko": "드라이브",
+        "ru": "За рулем"
+      }
     }
   },
   "category": "Music"

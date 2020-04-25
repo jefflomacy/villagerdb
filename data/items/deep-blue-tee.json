@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "de": "Tiefseeshirt",
+        "en-GB": "Deep-Blue Tee",
+        "en-US": "Deep-Blue Tee",
+        "es": "Camiseta mar",
+        "fr": "T-shirt abysse",
+        "it": "Maglietta azzurra",
+        "ja": "グランブルーなふく"
+      }
     },
     "ac": {
       "orderable": true,
@@ -36,7 +45,10 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Deep-Blue Tee"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -52,7 +64,10 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Deep-Blue Tee"
+      }
     }
   }
 }

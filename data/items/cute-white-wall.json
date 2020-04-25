@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1880
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Cute White Wall",
+        "en-GB": "Cute White Wall",
+        "de": "Weiß-Niedlichwand",
+        "es": "Pared cuqui blanca",
+        "fr": "Mur sobre cœurs blanc",
+        "it": "Muro grazioso bianco",
+        "nl": "Schattige witte wand",
+        "zh-CN": "白色可爱墙",
+        "zh-TW": "白色可愛牆",
+        "jp": "しろいキュートなかべ",
+        "ko": "화이트 큐트 벽"
+      }
     }
   },
   "category": "Wallpaper"

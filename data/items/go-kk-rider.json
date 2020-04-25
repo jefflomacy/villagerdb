@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Go K.K. Rider"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Go K.K. Rider",
+        "en-GB": "Go K.K. Rider",
+        "de": "Go K.K. Rider!",
+        "es": "Llanero Tota",
+        "fr": "Kéké route 66",
+        "it": "K.K. Cross",
+        "nl": "Super-K.K.",
+        "zh-CN": "冲吧！K.K.摩托车手",
+        "zh-TW": "衝吧！K.K.摩托車手",
+        "jp": "ゆけ!けけライダー",
+        "ko": "가자! K.K.라이더",
+        "ru": "Доброго пути, К. К.!"
+      }
     }
   }
 }

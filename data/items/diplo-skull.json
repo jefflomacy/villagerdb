@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Seismosaurus-Schädel",
+        "en-GB": "Diplo Skull",
+        "en-US": "Diplo Skull",
+        "es": "Cráneo diplodocus",
+        "fr": "Crâne de séismo",
+        "it": "Teschio seismosauro",
+        "ja": "セイスモサウルスのあたま"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5000
+      },
+      "name": {
+        "en-US": "Diplo Skull",
+        "en-GB": "Diplo Skull",
+        "de": "Diplodocus-Schädel",
+        "es": "Cráneo diplodocus",
+        "fr": "Crâne de diplodocus",
+        "it": "Cranio diplodoco",
+        "nl": "Diplodocuskop",
+        "zh-CN": "梁龙的头",
+        "zh-TW": "梁龍的頭",
+        "jp": "ディプロドクスのあたま",
+        "ko": "디플로도쿠스의 머리"
       }
     }
   }

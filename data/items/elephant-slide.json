@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Elefantenrutsche",
+        "en-GB": "Elephant Slide",
+        "en-US": "Elephant Slide",
+        "es": "Tobogán elefante",
+        "fr": "éléphoboggan",
+        "it": "Proboscivolo",
+        "ja": "ゾウのすべりだい"
+      }
     },
     "nh": {
       "orderable": true,
@@ -47,6 +56,19 @@
         "white": "White",
         "gray": "Gray",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Elephant Slide",
+        "en-GB": "Elephant Slide",
+        "de": "Elefantenrutsche",
+        "es": "Tobogán elefante",
+        "fr": "Éléphoboggan",
+        "it": "Proboscivolo",
+        "nl": "Olifantglijbaan",
+        "zh-CN": "大象溜滑梯",
+        "zh-TW": "大象溜滑梯",
+        "jp": "ゾウのすべりだい",
+        "ko": "코끼리 미끄럼틀"
       }
     }
   }

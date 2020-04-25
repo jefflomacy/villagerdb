@@ -22,6 +22,19 @@
         "pink": "Pink",
         "blue": "Blue",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Cotton-Candy Stall",
+        "en-GB": "Cotton-Candy Stall",
+        "de": "Zuckerwattestand",
+        "es": "Puesto algodón de azúcar",
+        "fr": "Stand de barbe à papa",
+        "it": "Carretto zucchero filato",
+        "nl": "Suikerspinkraampje",
+        "zh-CN": "棉花糖小吃摊",
+        "zh-TW": "棉花糖小吃攤",
+        "jp": "わたあめのやたい",
+        "ko": "솜사탕 노점"
       }
     }
   },

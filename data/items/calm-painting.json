@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 3920
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Calm Painting"
+      }
     },
     "nh": {
       "orderable": false,
@@ -36,7 +39,20 @@
           "currency": "bells",
           "value": 4980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Calm Painting",
+        "en-GB": "Calm Painting",
+        "de": "Ruhegemälde",
+        "es": "Paisaje francés",
+        "fr": "Toile apaisante",
+        "it": "Quadro riposante",
+        "nl": "Vredige schilderij",
+        "zh-CN": "和煦的名画",
+        "zh-TW": "和煦的名畫",
+        "jp": "おだやかなめいが",
+        "ko": "평온한 명화"
+      }
     }
   }
 }

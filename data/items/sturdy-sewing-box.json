@@ -21,6 +21,19 @@
         "white": "White",
         "navy-blue": "Navy blue",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Sturdy Sewing Box",
+        "en-GB": "Sturdy Sewing Box",
+        "de": "Nähkästchen",
+        "es": "Costurero añejo",
+        "fr": "Boîte à couture",
+        "it": "Scatola da cucito",
+        "nl": "Naaikist",
+        "zh-CN": "针线工具箱",
+        "zh-TW": "針線工具箱",
+        "jp": "さいほうばこ",
+        "ko": "수예 상자"
       }
     }
   },

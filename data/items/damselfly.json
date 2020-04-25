@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 500
+      },
+      "name": {
+        "en-US": "Damselfly",
+        "en-GB": "Damselfly",
+        "de": "Wasserjungfer",
+        "es": "Libélula damisela",
+        "fr": "Demoiselle",
+        "it": "Zigottero",
+        "nl": "Juffer",
+        "zh-CN": "豆娘",
+        "zh-TW": "豆娘",
+        "jp": "イトトンボ",
+        "ko": "실잠자리"
       }
     }
   },

@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 1920
         }
-      ]
+      ],
+      "name": {
+        "de": "Papa-Panda",
+        "en-GB": "Papa Panda",
+        "en-US": "Papa Panda",
+        "es": "Papá panda",
+        "fr": "Papa panda",
+        "it": "Papà panda",
+        "ja": "パンダのタアタア"
+      }
     },
     "nh": {
       "orderable": true,
@@ -39,7 +48,20 @@
           "currency": "bells",
           "value": 8500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Papa Panda",
+        "en-GB": "Papa Panda",
+        "de": "Papa-Panda",
+        "es": "Papá panda",
+        "fr": "Papa panda",
+        "it": "Papà panda",
+        "nl": "Papa-Panda",
+        "zh-CN": "熊猫大大",
+        "zh-TW": "熊貓大大",
+        "jp": "パンダのタアタア",
+        "ko": "큰 판다"
+      }
     }
   }
 }

@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2500
         }
-      ]
+      ],
+      "name": {
+        "de": "Posterrahmen",
+        "en-GB": "Poster Stand",
+        "en-US": "Poster Stand",
+        "es": "Cartel con póster",
+        "fr": "Porte-affiche",
+        "it": "Espositore locandine",
+        "ja": "ポスターたて"
+      }
     }
   }
 }

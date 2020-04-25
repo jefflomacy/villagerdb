@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 6400
         }
-      ]
+      ],
+      "name": {
+        "de": "Kuhshirt",
+        "en-GB": "Cow Tee",
+        "en-US": "Cow Tee",
+        "es": "Camiseta vaca",
+        "fr": "T-shirt vache",
+        "it": "Maglietta mucca",
+        "ja": "ホルスタインなふく"
+      }
     }
   }
 }

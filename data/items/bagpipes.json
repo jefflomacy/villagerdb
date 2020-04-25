@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Dudelsack",
+        "en-GB": "Bagpipes",
+        "en-US": "Bagpipes",
+        "es": "Gaita",
+        "fr": "Cornemuse",
+        "it": "Cornamusa",
+        "ja": "バグパイプ"
+      }
     }
   }
 }

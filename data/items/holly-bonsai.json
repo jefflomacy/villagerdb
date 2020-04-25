@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Palmen-Bonsai",
+        "en-GB": "Holly Bonsai",
+        "en-US": "Holly Bonsai",
+        "es": "Acebo bonsái",
+        "fr": "Bonsaï houx",
+        "it": "Bonsai agrifoglio",
+        "ja": "ウメモドキのぼんさい"
+      }
     }
   }
 }

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Fluffy Rug",
+        "en-GB": "Fluffy Rug",
+        "de": "Plüschteppich",
+        "es": "Alfombra nube",
+        "fr": "Tapis nimbus",
+        "it": "Tappeto morbido",
+        "nl": "Donzige tapijt",
+        "zh-CN": "软软地毯",
+        "zh-TW": "雲朵地毯",
+        "jp": "もくもくのラグ",
+        "ko": "몽실몽실 러그"
+      }
     }
   },
   "category": "Flooring"

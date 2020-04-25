@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "法蓝琪的照片",
+        "de": "Foto's von Manu",
+        "en-GB": "Francine's Photo",
+        "es": "Foto de Natacha",
+        "fr": "Photo de Nadine",
+        "it": "Foto di Franca",
+        "jp": "フランソワのしゃしん",
+        "ko": "프랑소와의 사진",
+        "nl": "Foto van Francine",
+        "zh-TW": "法藍琪的照片",
+        "en-US": "Francine's Photo"
       }
     }
   },

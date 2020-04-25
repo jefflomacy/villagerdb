@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 340
         }
-      ]
+      ],
+      "name": {
+        "de": "4er-Shirt",
+        "en-GB": "Four-Ball Tee",
+        "en-US": "Four-Ball Tee",
+        "es": "Camiseta bola 4",
+        "fr": "T-shirt nº 4",
+        "it": "Maglietta palla 4",
+        "ja": "4ばんだまのふく"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -35,6 +44,19 @@
       ],
       "variations": {
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Four-Ball Tee",
+        "en-GB": "Four-Ball Tee",
+        "de": "4Er-Shirt",
+        "es": "Camiseta bola 4",
+        "fr": "T-Shirt nº 4",
+        "it": "Maglietta palla 4",
+        "nl": "4-Bal-T-Shirt",
+        "zh-CN": "4号球上衣",
+        "zh-TW": "4號球衣服",
+        "jp": "４ばんだまのふく",
+        "ko": "4번공 옷"
       }
     }
   }

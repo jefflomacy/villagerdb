@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 5200
         }
-      ]
+      ],
+      "name": {
+        "de": "Manneken Pis",
+        "en-GB": "Manneken Pis",
+        "en-US": "Manneken Pis",
+        "es": "Manneken Pis",
+        "fr": "Manneken Pis",
+        "it": "Manneken Pis",
+        "ja": "しょうべんこぞう"
+      }
     }
   }
 }

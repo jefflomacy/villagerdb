@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 680
         }
-      ]
+      ],
+      "name": {
+        "de": "Fechtmaske",
+        "en-GB": "Fencing Mask",
+        "en-US": "Fencing Mask",
+        "es": "Casco de esgrima",
+        "fr": "Masque d'escrime",
+        "it": "Maschera da scherma",
+        "ja": "フェンシングマスク"
+      }
     }
   }
 }

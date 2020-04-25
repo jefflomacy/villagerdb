@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "梦梦的照片",
+        "de": "Foto's von Regina",
+        "en-GB": "Rhonda's Photo",
+        "es": "Foto de Ronda",
+        "fr": "Photo de Renée",
+        "it": "Foto di Roby",
+        "jp": "ユメコのしゃしん",
+        "ko": "론다의 사진",
+        "nl": "Foto van Rhonda",
+        "zh-TW": "夢夢的照片",
+        "en-US": "Rhonda's Photo"
       }
     }
   },

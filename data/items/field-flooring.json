@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Field Flooring",
+        "en-GB": "Field Flooring",
+        "de": "Feld",
+        "es": "Suelo huerto",
+        "fr": "Sol champ",
+        "it": "Pavimento orto",
+        "nl": "Veld",
+        "zh-CN": "旱田地板",
+        "zh-TW": "旱田地板",
+        "jp": "はたけのゆか",
+        "ko": "들판 바닥"
+      }
     }
   },
   "category": "Flooring"

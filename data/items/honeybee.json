@@ -11,7 +11,10 @@
       },
       "sources": [
         "Around flowers."
-      ]
+      ],
+      "name": {
+        "en-US": "Honeybee"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 200
+      },
+      "name": {
+        "en-US": "Honeybee",
+        "en-GB": "Honeybee",
+        "de": "Honigbiene",
+        "es": "Abeja melífera",
+        "fr": "Abeille naine",
+        "it": "Ape operaia",
+        "nl": "Honingbij",
+        "zh-CN": "蜜蜂",
+        "zh-TW": "蜜蜂",
+        "jp": "ミツバチ",
+        "ko": "꿀벌"
       }
     }
   }

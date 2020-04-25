@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "de": "\\u201E3\\u201C-Lampe",
+        "en-GB": "Three Lamp",
+        "en-US": "Three Lamp",
+        "es": "Lámpara tres",
+        "fr": "Lampe 3",
+        "it": "Lampada a 3",
+        "ja": "3のランプ"
+      }
     }
   }
 }

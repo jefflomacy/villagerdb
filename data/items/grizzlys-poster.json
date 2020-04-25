@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "穆穆的海报",
+        "de": "Poster's von Gerald",
+        "en-GB": "Grizzly's Poster",
+        "es": "Póster de Gruñón",
+        "fr": "Poster de Grizzly",
+        "it": "Poster di Grizzly",
+        "jp": "ムーのポスター",
+        "ko": "무뚝의 포스터",
+        "nl": "Poster van Grizzly",
+        "zh-TW": "穆穆的海報",
+        "en-US": "Grizzly's Poster"
+      }
     }
   },
   "category": "Photos"

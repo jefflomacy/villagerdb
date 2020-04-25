@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "蒂芬妮的海报",
+        "de": "Poster's von Lora",
+        "en-GB": "Celia's Poster",
+        "es": "Póster de Jazmín",
+        "fr": "Poster de Garance",
+        "it": "Poster di Celia",
+        "jp": "ティファニーのポスター",
+        "ko": "티파니의 포스터",
+        "nl": "Poster van Celia",
+        "zh-TW": "蒂芬妮的海報",
+        "en-US": "Celia's Poster"
+      }
     }
   },
   "category": "Photos"

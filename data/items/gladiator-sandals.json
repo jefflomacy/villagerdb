@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Gladiator-Sandale",
+        "en-GB": "Gladiator Sandals",
+        "en-US": "Gladiator Sandals",
+        "es": "Sandalia gladiador",
+        "fr": "Paire de spartiates",
+        "it": "P. sandali gladiat.",
+        "ja": "グラディエーターサンダル"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -40,6 +49,19 @@
         "brown": "Brown",
         "black": "Black",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Gladiator Sandals",
+        "en-GB": "Gladiator Sandals",
+        "de": "Paars Gladiator-Sandalen",
+        "es": "Sandalia gladiador",
+        "fr": "Paire de spartiates",
+        "it": "Paio di sandali gladiatore",
+        "nl": "Gladiatorensandalen",
+        "zh-CN": "罗马凉鞋",
+        "zh-TW": "羅馬涼鞋",
+        "jp": "グラディエーターサンダル",
+        "ko": "글레디에이터 샌들"
       }
     }
   }

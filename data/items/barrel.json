@@ -15,7 +15,16 @@
       },
       "sources": [
         "Pascal"
-      ]
+      ],
+      "name": {
+        "de": "Fass",
+        "en-GB": "Barrel",
+        "en-US": "Barrel",
+        "es": "Tonel",
+        "fr": "Tonneau",
+        "it": "Barile",
+        "ja": "たる"
+      }
     },
     "nh": {
       "orderable": false,
@@ -27,6 +36,19 @@
       "recipe": {
         "wood": 5,
         "iron-nugget": 2
+      },
+      "name": {
+        "en-US": "Barrel",
+        "en-GB": "Barrel",
+        "de": "Fass",
+        "es": "Tonel",
+        "fr": "Tonneau",
+        "it": "Barile",
+        "nl": "Vat",
+        "zh-CN": "木桶",
+        "zh-TW": "木桶",
+        "jp": "たる",
+        "ko": "나무통"
       }
     }
   }

@@ -11,6 +11,19 @@
       },
       "recipe": {
         "young-spring-bamboo": 6
+      },
+      "name": {
+        "en-US": "Steamer-Basket Set",
+        "en-GB": "Steamer-Basket Set",
+        "de": "Dampfgarer",
+        "es": "Set de vaporeras apilables",
+        "fr": "Set de paniers vapeur",
+        "it": "Set per cottura a vapore",
+        "nl": "Stoommand",
+        "zh-CN": "蒸笼",
+        "zh-TW": "蒸籠",
+        "jp": "せいろ",
+        "ko": "나무 찜통"
       }
     }
   },

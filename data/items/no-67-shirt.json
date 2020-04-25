@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 252
         }
-      ]
+      ],
+      "name": {
+        "de": "Nr.-67-Pulli",
+        "en-GB": "No. 67 Shirt",
+        "en-US": "No. 67 Shirt",
+        "es": "Jersey n.º 67",
+        "fr": "Pull 67",
+        "it": "Maglia nº 67",
+        "ja": "No.67のふく"
+      }
     },
     "ac": {
       "orderable": true,
@@ -36,7 +45,10 @@
           "currency": "bells",
           "value": 250
         }
-      ]
+      ],
+      "name": {
+        "en-US": "No. 67 Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -52,7 +64,10 @@
           "currency": "bells",
           "value": 250
         }
-      ]
+      ],
+      "name": {
+        "en-US": "No. 67 Shirt"
+      }
     }
   }
 }

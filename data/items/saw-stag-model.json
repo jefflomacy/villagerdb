@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 6000
+      },
+      "name": {
+        "en-US": "Saw Stag Model",
+        "en-GB": "Saw Stag Model",
+        "de": "Sägez.-Hirschkäfermodell",
+        "es": "Figura esc. ciervo sierra",
+        "fr": "Modèle de lucane inclinatus",
+        "it": "Replica di coleottero cervo",
+        "nl": "Modelzaaghertkever",
+        "zh-CN": "锯锹形虫模型",
+        "zh-TW": "鋸鍬形蟲模型",
+        "jp": "ノコギリクワガタのもけい",
+        "ko": "톱사슴벌레 모형"
       }
     }
   },

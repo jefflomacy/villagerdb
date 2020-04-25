@@ -11,7 +11,16 @@
       },
       "sources": [
         "Snowtyke"
-      ]
+      ],
+      "name": {
+        "de": "Schlitten",
+        "en-GB": "Sleigh",
+        "en-US": "Sleigh",
+        "es": "Trineo",
+        "fr": "Luge",
+        "it": "Slitta",
+        "ja": "そり"
+      }
     },
     "nh": {
       "orderable": false,
@@ -28,6 +37,19 @@
         "dark-brown": "Dark brown",
         "red": "Red",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Sleigh",
+        "en-GB": "Sleigh",
+        "de": "Schlitten",
+        "es": "Trineo",
+        "fr": "Luge",
+        "it": "Slitta",
+        "nl": "Slee",
+        "zh-CN": "雪橇",
+        "zh-TW": "雪橇",
+        "jp": "そり",
+        "ko": "썰매"
       }
     }
   }

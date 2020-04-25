@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Kücheninsel",
+        "en-GB": "Kitchen Island",
+        "en-US": "Kitchen Island",
+        "es": "Isla de cocina",
+        "fr": "îlot de cuisine",
+        "it": "Isola da cucina",
+        "ja": "アイランドキッチン"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -45,6 +54,19 @@
         "dark-brown": "Dark brown",
         "black": "Black",
         "silver": "Silver"
+      },
+      "name": {
+        "en-US": "Kitchen Island",
+        "en-GB": "Kitchen Island",
+        "de": "Kücheninsel",
+        "es": "Isla de cocina",
+        "fr": "Îlot de cuisine",
+        "it": "Isola da cucina",
+        "nl": "Keukeneiland",
+        "zh-CN": "岛式厨房",
+        "zh-TW": "島式廚房",
+        "jp": "アイランドキッチン",
+        "ko": "아일랜드 키친"
       }
     }
   }

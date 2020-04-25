@@ -14,7 +14,16 @@
       },
       "sources": [
         "Birthday (friendship level is good with the 3 neighbors)"
-      ]
+      ],
+      "name": {
+        "de": "Geburtstagstorte",
+        "en-GB": "Birthday Cake",
+        "en-US": "Birthday Cake",
+        "es": "Tarta de cumpleaños",
+        "fr": "Gâteau d'anniv",
+        "it": "Torta di compleanno",
+        "ja": "バースデーケーキ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -35,6 +44,19 @@
         "whipped-cream-topping": "Whipped-cream topping",
         "chocolate-buttercream": "Chocolate buttercream",
         "strawberry-buttercream": "Strawberry buttercream"
+      },
+      "name": {
+        "en-US": "Birthday Cake",
+        "en-GB": "Birthday Cake",
+        "de": "Geburtstagstorte",
+        "es": "Tarta de cumpleaños",
+        "fr": "Gâteau d'anniversaire",
+        "it": "Torta di compleanno",
+        "nl": "Verjaardagstaart",
+        "zh-CN": "生日蛋糕",
+        "zh-TW": "生日蛋糕",
+        "jp": "バースデーケーキ",
+        "ko": "생일 케이크"
       }
     }
   }

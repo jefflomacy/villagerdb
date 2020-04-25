@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 19200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Purple Hyacinth Wreath",
+        "en-GB": "Purple Hyacinth Wreath",
+        "de": "Purpurhyazinthentürkranz",
+        "es": "Corona jacinto violeta",
+        "fr": "Couronne jacinthes mauves",
+        "it": "Ghirlanda giacinti viola",
+        "nl": "Paarse-Hyacintenkrans",
+        "zh-CN": "紫色风信子花环",
+        "zh-TW": "紫色風信子花圈",
+        "jp": "むらさきのヒヤシンスのリース",
+        "ko": "보라색 히아신스 리스"
+      }
     }
   },
   "category": "Furniture"

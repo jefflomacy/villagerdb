@@ -18,6 +18,19 @@
         "brown": "Brown",
         "natural": "Natural",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Antique Console Table",
+        "en-GB": "Antique Console Table",
+        "de": "Antikschreibtisch",
+        "es": "Consola antigua",
+        "fr": "Console ancienne",
+        "it": "Vecchia consolle",
+        "nl": "Antieke wandtafel",
+        "zh-CN": "古董玄关桌",
+        "zh-TW": "古董玄關桌",
+        "jp": "アンティークなコンソール",
+        "ko": "앤티크 콘솔 테이블"
       }
     }
   },

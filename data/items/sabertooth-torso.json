@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Säbelzahn-Torso",
+        "en-GB": "Sabertooth Torso",
+        "en-US": "Sabertooth Torso",
+        "es": "Cuerpo tigre",
+        "fr": "Torse de smilodon",
+        "it": "Torso smilodonte",
+        "ja": "サーベルタイガーのからだ"
+      }
     }
   }
 }

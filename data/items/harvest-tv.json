@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 3336
         }
-      ]
+      ],
+      "name": {
+        "de": "Herbstfernseher",
+        "en-GB": "Harvest TV",
+        "en-US": "Harvest TV",
+        "es": "Tele pavo",
+        "fr": "Télé dindon",
+        "it": "TV autunno",
+        "ja": "ハーベストテレビ"
+      }
     }
   }
 }

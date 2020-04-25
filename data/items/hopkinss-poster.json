@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "风杰的海报",
+        "de": "Poster's von Poldi",
+        "en-GB": "Hopkins's Poster",
+        "es": "Póster de Saltiago",
+        "fr": "Poster de Grignote",
+        "it": "Poster di Azeglio",
+        "jp": "プースケのポスター",
+        "ko": "홉킨스의 포스터",
+        "nl": "Poster van Hopkins",
+        "zh-TW": "風杰的海報",
+        "en-US": "Hopkins's Poster"
+      }
     }
   },
   "category": "Photos"

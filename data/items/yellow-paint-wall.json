@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow-Paint Wall",
+        "en-GB": "Yellow-Paint Wall",
+        "de": "Gelbwand",
+        "es": "Pared pintada amarilla",
+        "fr": "Mur peint jaune",
+        "it": "Muro dipinto giallo",
+        "nl": "Gele wand",
+        "zh-CN": "黄色油漆墙",
+        "zh-TW": "黃色油漆牆",
+        "jp": "きいろいペイントウォール",
+        "ko": "노란 페인트 벽"
+      }
     }
   },
   "category": "Wallpaper"

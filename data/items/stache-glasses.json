@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 240
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Stache & Glasses"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -36,6 +39,9 @@
       "variations": {
         "black": "Black",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Stache & Glasses"
       }
     }
   }

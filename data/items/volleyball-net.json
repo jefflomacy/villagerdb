@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Volleyballnetz",
+        "en-GB": "Volleyball Net",
+        "en-US": "Volleyball Net",
+        "es": "Red de voleibol",
+        "fr": "Filet de volleyball",
+        "it": "Rete da pallavolo",
+        "ja": "バレーのネット"
+      }
     }
   }
 }

@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Zylinder",
+        "en-GB": "Top Hat",
+        "en-US": "Top Hat",
+        "es": "Sombrero de copa",
+        "fr": "Haut-de-forme",
+        "it": "Cilindro",
+        "ja": "シルクハット"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -44,6 +53,19 @@
         "purple": "Purple",
         "red": "Red",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Top Hat",
+        "en-GB": "Top Hat",
+        "de": "Zylinder",
+        "es": "Sombrero de copa",
+        "fr": "Haut-De-Forme",
+        "it": "Cilindro",
+        "nl": "Hoge hoed",
+        "zh-CN": "丝质礼帽",
+        "zh-TW": "絲質禮帽",
+        "jp": "シルクハット",
+        "ko": "실크해트"
       }
     }
   }

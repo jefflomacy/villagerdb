@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "和平的照片",
+        "de": "Foto's von Samson",
+        "en-GB": "Samson's Photo",
+        "es": "Foto de Sansón",
+        "fr": "Photo de Samson",
+        "it": "Foto di Sansone",
+        "jp": "ピースのしゃしん",
+        "ko": "피스의 사진",
+        "nl": "Foto van Samson",
+        "zh-TW": "和平的照片",
+        "en-US": "Samson's Photo"
       }
     }
   },

@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pondering"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pondering",
+        "en-GB": "Pondering",
+        "de": "Nachdenklich",
+        "es": "Sopesando",
+        "fr": "Réfléchir",
+        "it": "Pensando",
+        "nl": "De denker",
+        "zh-CN": "思考中",
+        "zh-TW": "思考中",
+        "jp": "かんがえちゅう",
+        "ko": "생각 중",
+        "ru": "Размышления"
+      }
     }
   }
 }

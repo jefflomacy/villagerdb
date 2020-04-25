@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1360
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Random-Square-Tile Flooring",
+        "en-GB": "Random-Square-Tile Flooring",
+        "de": "Rechteckfliesenboden",
+        "es": "Losa irregular",
+        "fr": "Sol carreaux isatis",
+        "it": "Pavimento piastrelle casuali",
+        "nl": "Wirwartegelvloer",
+        "zh-CN": "不规则方形砖地板",
+        "zh-TW": "不規則方形磚地板",
+        "jp": "ランダムスクエアタイルのゆか",
+        "ko": "랜덤 사각 타일 바닥"
+      }
     }
   },
   "category": "Flooring"

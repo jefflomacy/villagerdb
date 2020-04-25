@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "de": "Orient-Pulli",
+        "en-GB": "Genie Shirt",
+        "en-US": "Genie Shirt",
+        "es": "Jersey persa",
+        "fr": "Pull persan",
+        "it": "Maglia persiana",
+        "ja": "ペルシャのチョッキ"
+      }
     }
   }
 }

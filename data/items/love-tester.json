@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 500
         }
-      ]
+      ],
+      "name": {
+        "de": "Love Tester",
+        "en-GB": "Love Tester",
+        "en-US": "Love Tester",
+        "es": "Love Tester",
+        "fr": "Love Tester",
+        "it": "Love Tester",
+        "ja": "ラブテスター"
+      }
     }
   }
 }

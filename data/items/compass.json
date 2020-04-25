@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1280
         }
-      ]
+      ],
+      "name": {
+        "de": "Kompass",
+        "en-GB": "Compass",
+        "en-US": "Compass",
+        "es": "Brújula",
+        "fr": "Boussole",
+        "it": "Bussola",
+        "ja": "ほういじしゃく"
+      }
     }
   }
 }

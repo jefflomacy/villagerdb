@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2700
+      },
+      "name": {
+        "en-US": "Sweetfish Model",
+        "en-GB": "Sweetfish Model",
+        "de": "Ayumodell",
+        "es": "Figura de ayu",
+        "fr": "Modèle d'ayu",
+        "it": "Replica di ayu",
+        "nl": "Model-Ayu",
+        "zh-CN": "香鱼模型",
+        "zh-TW": "香魚模型",
+        "jp": "アユのもけい",
+        "ko": "은어 모형"
       }
     }
   },

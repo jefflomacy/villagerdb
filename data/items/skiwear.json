@@ -20,6 +20,19 @@
         "green": "Green",
         "red": "Red",
         "ruby-red": "Ruby red"
+      },
+      "name": {
+        "en-US": "Skiwear",
+        "en-GB": "Skiwear",
+        "de": "Skijacke",
+        "es": "Chaqueta de esquí",
+        "fr": "Veste de ski",
+        "it": "Giacca da sci",
+        "nl": "Ski-Jack",
+        "zh-CN": "滑雪外套",
+        "zh-TW": "滑雪外套",
+        "jp": "スキーウェア",
+        "ko": "스키웨어"
       }
     }
   },

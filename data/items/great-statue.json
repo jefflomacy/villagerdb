@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3920
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Great Statue"
+      }
     },
     "nh": {
       "orderable": false,
@@ -37,7 +40,20 @@
           "currency": "bells",
           "value": 4980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Great Statue",
+        "en-GB": "Great Statue",
+        "de": "Würdestatue",
+        "es": "Estatua triunfante",
+        "fr": "Statue imposante",
+        "it": "Statua trionfante",
+        "nl": "Majestueuze standbeeld",
+        "zh-CN": "伟大的雕塑",
+        "zh-TW": "偉大的雕塑",
+        "jp": "いだいなちょうこく",
+        "ko": "위대한 조각"
+      }
     }
   }
 }

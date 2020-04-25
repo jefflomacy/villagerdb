@@ -21,6 +21,19 @@
         "light-blue": "Light blue",
         "beige": "Beige",
         "navy-blue": "Navy blue"
+      },
+      "name": {
+        "en-US": "Worker's Jacket",
+        "en-GB": "Worker's Jacket",
+        "de": "Arbeitsjacke",
+        "es": "Chaqueta de trabajo",
+        "fr": "Veste d'usine",
+        "it": "Giacca da operaio",
+        "nl": "Arbeidersjasje",
+        "zh-CN": "工作服",
+        "zh-TW": "工作服",
+        "jp": "さぎょうふく",
+        "ko": "작업복"
       }
     }
   },

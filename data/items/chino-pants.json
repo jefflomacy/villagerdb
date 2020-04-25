@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Khaki-Hose",
+        "en-GB": "Chino Pants",
+        "en-US": "Chino Pants",
+        "es": "Pantalón chino",
+        "fr": "Pantalon en toile",
+        "it": "Pantalone beige",
+        "ja": "チノパン"
+      }
     },
     "nh": {
       "orderable": true,
@@ -46,6 +55,19 @@
         "red": "Red",
         "blue": "Blue",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Chino Pants",
+        "en-GB": "Chino Pants",
+        "de": "Chino",
+        "es": "Pantalón chino",
+        "fr": "Pantalon en toile",
+        "it": "Pantalone beige",
+        "nl": "Chino",
+        "zh-CN": "卡其裤",
+        "zh-TW": "卡其褲",
+        "jp": "チノパン",
+        "ko": "치노 팬츠"
       }
     }
   }

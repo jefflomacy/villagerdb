@@ -28,7 +28,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Stone Wall"
+      }
     },
     "nh": {
       "customizable": false,
@@ -44,6 +47,19 @@
       ],
       "recipe": {
         "stone": 10
+      },
+      "name": {
+        "en-US": "Stone Wall",
+        "en-GB": "Stone Wall",
+        "de": "Steinwand",
+        "es": "Pared piedra",
+        "fr": "Mur de pierre",
+        "it": "Muro pietra",
+        "nl": "Stenen wand",
+        "zh-CN": "石板墙",
+        "zh-TW": "石板牆",
+        "jp": "いしのかべ",
+        "ko": "돌담 벽"
       }
     }
   }

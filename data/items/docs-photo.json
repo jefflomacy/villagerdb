@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿飞的照片",
+        "de": "Foto's von Gustl",
+        "en-GB": "Doc's Photo",
+        "es": "Foto de Crispín",
+        "fr": "Photo de Doc",
+        "it": "Foto di Doc",
+        "jp": "トビオのしゃしん",
+        "ko": "토니의 사진",
+        "nl": "Foto van Doc",
+        "zh-TW": "阿飛的照片",
+        "en-US": "Doc's Photo"
       }
     }
   },

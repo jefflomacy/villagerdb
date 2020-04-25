@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Vinyl Sheet",
+        "en-GB": "Blue Vinyl Sheet",
+        "de": "Blau-Vinyltuch",
+        "es": "Alfombra de vinilo azul",
+        "fr": "Tapis vinyle bleu",
+        "it": "Tappeto vinile blu",
+        "nl": "Blauwe vinylmat",
+        "zh-CN": "蓝色塑胶垫",
+        "zh-TW": "藍色塑膠墊",
+        "jp": "あおいビニールシート",
+        "ko": "파란 비닐 시트"
+      }
     }
   },
   "category": "Flooring"

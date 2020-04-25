@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 600
         }
-      ]
+      ],
+      "name": {
+        "de": "Marinerock",
+        "en-GB": "Sailor Skirt",
+        "en-US": "Sailor Skirt",
+        "es": "Falda marinera",
+        "fr": "Jupe matelot",
+        "it": "Gonna marinara",
+        "ja": "セーラーふくのスカート"
+      }
     },
     "nh": {
       "orderable": true,
@@ -46,6 +55,19 @@
         "purple": "Purple",
         "red": "Red",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Sailor Skirt",
+        "en-GB": "Sailor Skirt",
+        "de": "Marinerock",
+        "es": "Falda marinera",
+        "fr": "Jupe matelot",
+        "it": "Gonna marinara",
+        "nl": "Matrozenrokje",
+        "zh-CN": "水手服裙",
+        "zh-TW": "水手服裙",
+        "jp": "セーラーふくのスカート",
+        "ko": "세일러복 치마"
       }
     }
   }

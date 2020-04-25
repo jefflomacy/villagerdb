@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "贝拉的海报",
+        "de": "Poster's von Susi",
+        "en-GB": "Bella's Poster",
+        "es": "Póster de Prity",
+        "fr": "Poster de Belle",
+        "it": "Poster di Bella",
+        "jp": "イザベラのポスター",
+        "ko": "이자벨의 포스터",
+        "nl": "Poster van Bella",
+        "zh-TW": "貝拉的海報",
+        "en-US": "Bella's Poster"
+      }
     }
   },
   "category": "Photos"

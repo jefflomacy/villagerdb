@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Holly Nursery",
+        "en-GB": "Holly Nursery",
+        "de": "Stechpalmenspross",
+        "es": "Acebo retoño",
+        "fr": "Serre de houx",
+        "it": "Piantina di agrifoglio",
+        "nl": "Kleine jonge hulst",
+        "zh-CN": "柊树幼苗",
+        "zh-TW": "柊樹幼苗",
+        "jp": "ヒイラギのようぼく",
+        "ko": "호랑가시나무 유목"
+      }
     }
   },
   "category": "Bushes"

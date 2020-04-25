@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 1032
         }
-      ]
+      ],
+      "name": {
+        "de": "Skelettkapuze",
+        "en-GB": "Skeleton Hood",
+        "en-US": "Skeleton Hood",
+        "es": "Capucha calavera",
+        "fr": "Masque de squelette",
+        "it": "Copricapo scheletro",
+        "ja": "ガイコツのかぶりもの"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -38,6 +47,19 @@
       ],
       "variations": {
         "white": "White"
+      },
+      "name": {
+        "en-US": "Skeleton Hood",
+        "en-GB": "Skeleton Hood",
+        "de": "Skelettkapuze",
+        "es": "Capucha calavera",
+        "fr": "Masque de squelette",
+        "it": "Copricapo scheletro",
+        "nl": "Schedelmuts",
+        "zh-CN": "骸骨头套",
+        "zh-TW": "骸骨頭套",
+        "jp": "ガイコツのかぶりもの",
+        "ko": "해골 모자"
       }
     }
   }

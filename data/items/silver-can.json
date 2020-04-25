@@ -11,7 +11,10 @@
       },
       "sources": [
         "Gardening Store (buy 50 or more bags of flower seeds)"
-      ]
+      ],
+      "name": {
+        "en-US": "Silver Can"
+      }
     }
   }
 }

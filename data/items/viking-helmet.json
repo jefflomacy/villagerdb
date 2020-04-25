@@ -26,7 +26,16 @@
           "currency": "bells",
           "value": 540
         }
-      ]
+      ],
+      "name": {
+        "de": "Wikingerhelm",
+        "en-GB": "Viking Helmet",
+        "en-US": "Viking Helmet",
+        "es": "Casco vikingo",
+        "fr": "Casque viking",
+        "it": "Elmo vichingo",
+        "ja": "バイキングのかぶと"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -43,6 +52,19 @@
         "gray": "Gray",
         "brown": "Brown",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Viking Helmet",
+        "en-GB": "Viking Helmet",
+        "de": "Wikingerhelm",
+        "es": "Casco vikingo",
+        "fr": "Casque viking",
+        "it": "Elmo vichingo",
+        "nl": "Vikinghelm",
+        "zh-CN": "维京人头盔",
+        "zh-TW": "維京人頭盔",
+        "jp": "バイキングのかぶと",
+        "ko": "바이킹 투구"
       }
     }
   }

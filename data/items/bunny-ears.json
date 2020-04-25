@@ -22,6 +22,19 @@
         "pink": "Pink",
         "red": "Red",
         "light-blue": "Light blue"
+      },
+      "name": {
+        "en-US": "Bunny Ears",
+        "en-GB": "Bunny Ears",
+        "de": "Hasenohren-Haarreif",
+        "es": "Diadema orejitas de conejo",
+        "fr": "Serre-Tête oreilles de lapin",
+        "it": "Cerchietto da coniglio",
+        "nl": "Konijnenoren",
+        "zh-CN": "兔子耳朵",
+        "zh-TW": "兔子耳朵",
+        "jp": "バニーのみみ",
+        "ko": "토끼 귀"
       }
     }
   },

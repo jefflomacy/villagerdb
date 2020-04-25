@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "小八的照片",
+        "de": "Foto's von Wastl",
+        "en-GB": "Benjamin's Photo",
+        "es": "Foto de Bernardo",
+        "fr": "Photo de Bernardo",
+        "it": "Foto di Bernardo",
+        "jp": "ハチのしゃしん",
+        "ko": "땡칠이의 사진",
+        "nl": "Foto van Benjamin",
+        "zh-TW": "小八的照片",
+        "en-US": "Benjamin's Photo"
       }
     }
   },

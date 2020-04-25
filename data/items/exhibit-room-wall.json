@@ -11,7 +11,10 @@
       },
       "sources": [
         "Museum Shop"
-      ]
+      ],
+      "name": {
+        "en-US": "Exhibit-Room Wall"
+      }
     }
   }
 }

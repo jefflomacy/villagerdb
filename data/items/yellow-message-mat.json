@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Message Mat",
+        "en-GB": "Yellow Message Mat",
+        "de": "Gelb-Textmatte",
+        "es": "Alfombra bocadillo amarilla",
+        "fr": "Paillasson à message jaune",
+        "it": "Tappetino benvenuto giallo",
+        "nl": "Gele boodschapmat",
+        "zh-CN": "黄色信息地垫",
+        "zh-TW": "黃色訊息地墊",
+        "jp": "きいろいメッセージマット",
+        "ko": "노란 메시지 매트"
+      }
     }
   },
   "category": "Flooring"

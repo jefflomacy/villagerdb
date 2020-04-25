@@ -13,7 +13,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Simple Medium Purple Mat",
+        "en-GB": "Simple Medium Purple Mat",
+        "de": "Lila-Standardmatte M",
+        "es": "Alfombra sencilla lila M",
+        "fr": "Tapis simple mauve M",
+        "it": "Tappetino viola M",
+        "nl": "Simpele paarse mat",
+        "zh-CN": "紫色简约地垫M",
+        "zh-TW": "中型紫色簡約地墊",
+        "jp": "むらさきのシンプルマット・M",
+        "ko": "보라 심플 매트 M"
+      }
     }
   },
   "category": "Flooring"

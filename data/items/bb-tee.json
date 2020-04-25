@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 352
         }
-      ]
+      ],
+      "name": {
+        "de": "BB-Shirt",
+        "en-GB": "BB Tee",
+        "en-US": "BB Tee",
+        "es": "Camiseta BB",
+        "fr": "T-shirt BB",
+        "it": "Maglietta BB",
+        "ja": "BBのふく"
+      }
     }
   }
 }

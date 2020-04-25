@@ -17,7 +17,16 @@
         "5",
         "000",
         "000 Bells in savings account"
-      ]
+      ],
+      "name": {
+        "de": "Alukoffer",
+        "en-GB": "Aluminum Briefcase",
+        "en-US": "Aluminum Briefcase",
+        "es": "Maletín de aluminio",
+        "fr": "Mallette aluminium",
+        "it": "Valigetta di metallo",
+        "ja": "ジュラルミンケース"
+      }
     },
     "nh": {
       "orderable": true,
@@ -34,6 +43,19 @@
       "variations": {
         "stacks-of-cash": "Stacks of cash",
         "gold-bars": "Gold bars"
+      },
+      "name": {
+        "en-US": "Aluminum Briefcase",
+        "en-GB": "Aluminum Briefcase",
+        "de": "Alukoffer",
+        "es": "Maletín de aluminio",
+        "fr": "Valise en aluminium",
+        "it": "Valigetta di metallo",
+        "nl": "Aluminium koffer",
+        "zh-CN": "铝合金箱",
+        "zh-TW": "鋁合金箱",
+        "jp": "ジュラルミンケース",
+        "ko": "듀랄루민 케이스"
       }
     }
   }

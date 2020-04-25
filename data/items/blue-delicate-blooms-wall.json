@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1900
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Delicate-Blooms Wall",
+        "en-GB": "Blue Delicate-Blooms Wall",
+        "de": "Blau-Floraltapete",
+        "es": "Pared flor delicada azul",
+        "fr": "Mur à fleurs délicates bleu",
+        "it": "Muro a fiori delicati blu",
+        "nl": "Blauwe rozenlambrisering",
+        "zh-CN": "蓝色碎花壁纸",
+        "zh-TW": "藍色碎花壁紙",
+        "jp": "あおいこばながらのかべがみ",
+        "ko": "파란 잔꽃무늬 벽지"
+      }
     }
   },
   "category": "Wallpaper"

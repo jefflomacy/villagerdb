@@ -21,6 +21,19 @@
         "brown": "Brown",
         "gray": "Gray",
         "beige": "Beige"
+      },
+      "name": {
+        "en-US": "Detective's Coat",
+        "en-GB": "Detective's Coat",
+        "de": "Detektivmantel",
+        "es": "Traje de detective",
+        "fr": "Tenue de détective",
+        "it": "Giacca da detective",
+        "nl": "Detectivejas",
+        "zh-CN": "侦探服",
+        "zh-TW": "名偵探衣服",
+        "jp": "めいたんていのふく",
+        "ko": "명탐정 옷"
       }
     }
   },

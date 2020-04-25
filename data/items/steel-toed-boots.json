@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 620
         }
-      ]
+      ],
+      "name": {
+        "de": "Stahlkappenschuh",
+        "en-GB": "Steel-Toed Boots",
+        "en-US": "Steel-Toed Boots",
+        "es": "Bota con protección",
+        "fr": "P. bottes à coque",
+        "it": "P. scarpe da lavoro",
+        "ja": "エンジニアブーツ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -44,6 +53,19 @@
         "black": "Black",
         "red": "Red",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Steel-Toed Boots",
+        "en-GB": "Steel-Toed Boots",
+        "de": "Paars Stahlkappenschuhe",
+        "es": "Bota con protección",
+        "fr": "Paire de bottes à coque",
+        "it": "Paio di stivali con rinforzo",
+        "nl": "Laarzen met stalen neus",
+        "zh-CN": "工程师靴",
+        "zh-TW": "工程師靴",
+        "jp": "エンジニアブーツ",
+        "ko": "엔지니어 부츠"
       }
     }
   }

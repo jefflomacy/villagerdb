@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 7200
+      },
+      "name": {
+        "en-US": "Orchid Mantis Model",
+        "en-GB": "Orchid Mantis Model",
+        "de": "Orchideenmantismodell",
+        "es": "Figura de mantis orquídea",
+        "fr": "Modèle de mante orchidée",
+        "it": "Replica di mantide orchidea",
+        "nl": "Model-Orch.-Bidsprinkhaan",
+        "zh-CN": "兰花螳螂模型",
+        "zh-TW": "蘭花螳螂模型",
+        "jp": "ハナカマキリのもけい",
+        "ko": "연꽃사마귀 모형"
       }
     }
   },

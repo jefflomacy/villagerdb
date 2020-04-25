@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "de": "Kassettenrekorder",
+        "en-GB": "Cassette Player",
+        "en-US": "Cassette Player",
+        "es": "Radiocasete doble",
+        "fr": "Lecteur de cassettes",
+        "it": "Mangianastri",
+        "ja": "ダブルラジカセ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -43,6 +52,19 @@
         "silver": "Silver",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Cassette Player",
+        "en-GB": "Cassette Player",
+        "de": "Kassettenrekorder",
+        "es": "Radiocasete doble",
+        "fr": "Lecteur de cassettes",
+        "it": "Mangianastri",
+        "nl": "Cassetterecorder",
+        "zh-CN": "双磁带录音机",
+        "zh-TW": "雙卡帶收音機",
+        "jp": "ダブルラジカセ",
+        "ko": "더블 데크"
       }
     }
   }

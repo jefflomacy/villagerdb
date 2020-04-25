@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1800
+      },
+      "name": {
+        "en-US": "Walking Leaf Model",
+        "en-GB": "Walking Leaf Model",
+        "de": "Blattschreckenmodell",
+        "es": "Figura de insecto hoja",
+        "fr": "Modèle de phyllie",
+        "it": "Replica di insetto foglia",
+        "nl": "Model-Wandelend-Blad",
+        "zh-CN": "叶竹节虫模型",
+        "zh-TW": "葉竹節蟲模型",
+        "jp": "コノハムシのもけい",
+        "ko": "잎사귀벌레 모형"
       }
     }
   },

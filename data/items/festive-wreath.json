@@ -14,7 +14,16 @@
       },
       "sources": [
         "Jingle (Toy Day)"
-      ]
+      ],
+      "name": {
+        "de": "Festtagskranz",
+        "en-GB": "Festive Wreath",
+        "en-US": "Festive Wreath",
+        "es": "Corona festiva",
+        "fr": "Couronne de sapin",
+        "it": "Ghirlanda festiva",
+        "ja": "クリスマスリース"
+      }
     }
   }
 }

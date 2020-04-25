@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Rose Rug",
+        "en-GB": "Red Rose Rug",
+        "de": "Rot-Rosenteppich",
+        "es": "Alfombra rosa roja",
+        "fr": "Tapis rose rouge",
+        "it": "Tappeto rosa rossa",
+        "nl": "Roderoostapijt",
+        "zh-CN": "红色玫瑰地毯",
+        "zh-TW": "紅色玫瑰地毯",
+        "jp": "レッドローズのラグ",
+        "ko": "레드 로즈 러그"
+      }
     }
   },
   "category": "Flooring"

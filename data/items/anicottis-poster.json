@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "罗萱儿的海报",
+        "de": "Poster's von Eva",
+        "en-GB": "Anicotti's Poster",
+        "es": "Póster de Clorinda",
+        "fr": "Poster d'annie",
+        "it": "Poster di Squitta",
+        "jp": "ラザニアのポスター",
+        "ko": "라자냐의 포스터",
+        "nl": "Poster van Anicotti",
+        "zh-TW": "羅萱兒的海報",
+        "en-US": "Anicotti's Poster"
+      }
     }
   },
   "category": "Photos"

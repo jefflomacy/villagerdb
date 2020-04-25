@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "巧蔻的照片",
+        "de": "Foto's von Hilda",
+        "en-GB": "Carmen's Photo",
+        "es": "Foto de Linda",
+        "fr": "Photo de Zoé",
+        "it": "Foto di Conny",
+        "jp": "チョコのしゃしん",
+        "ko": "초코의 사진",
+        "nl": "Foto van Carmen",
+        "zh-TW": "巧蔻的照片",
+        "en-US": "Carmen's Photo"
       }
     }
   },

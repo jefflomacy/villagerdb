@@ -12,7 +12,16 @@
       },
       "sources": [
         "Pavé (Festivale)"
-      ]
+      ],
+      "name": {
+        "de": "Karnevalsspiegel",
+        "en-GB": "Pavé Bureau",
+        "en-US": "Pavé Bureau",
+        "es": "Tocador Conga",
+        "fr": "Coiffeuse carnaval",
+        "it": "Toletta Pavão",
+        "ja": "カーニバルドレッサー"
+      }
     }
   }
 }

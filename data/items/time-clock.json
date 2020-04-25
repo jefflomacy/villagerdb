@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Stechuhr",
+        "en-GB": "Time Clock",
+        "en-US": "Time Clock",
+        "es": "Reloj de fichar",
+        "fr": "Pointeuse",
+        "it": "Timbra cartellini",
+        "ja": "タイムレコーダー"
+      }
     }
   }
 }

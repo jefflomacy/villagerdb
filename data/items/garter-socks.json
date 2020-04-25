@@ -18,6 +18,19 @@
         "white": "White",
         "purple": "Purple",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Garter Socks",
+        "en-GB": "Garter Socks",
+        "de": "Paars Strumpfbandstrümpfe",
+        "es": "Calcetín con liguero",
+        "fr": "Paire de fixe-chaussettes",
+        "it": "Paio calzini con giarrettiera",
+        "nl": "Sokken met ophouders",
+        "zh-CN": "吊带袜",
+        "zh-TW": "吊帶襪",
+        "jp": "ガーターつきストッキング",
+        "ko": "가터 스타킹"
       }
     }
   },

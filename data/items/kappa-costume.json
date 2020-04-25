@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 20
         }
-      ]
+      ],
+      "name": {
+        "de": "Käpten-Pulli",
+        "en-GB": "Kappa Costume",
+        "en-US": "Kappa Costume",
+        "es": "Jersey kappa",
+        "fr": "Haut kappa",
+        "it": "Maglia tartaruga",
+        "ja": "カッパスーツ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -37,6 +46,19 @@
       "variations": {
         "green": "Green",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Kappa Costume",
+        "en-GB": "Kappa Costume",
+        "de": "Käpten-Kostüm",
+        "es": "Disfraz de kappa",
+        "fr": "Costume de kappa",
+        "it": "Costume da tartaruga",
+        "nl": "Kappa-Pak",
+        "zh-CN": "河童装",
+        "zh-TW": "河童裝",
+        "jp": "カッパスーツ",
+        "ko": "거북이 의상"
       }
     }
   }

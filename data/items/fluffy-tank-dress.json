@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Fluffy Tank Dress"
+      }
     }
   }
 }

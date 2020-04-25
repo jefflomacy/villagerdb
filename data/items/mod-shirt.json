@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "name": {
+        "de": "Buntpunkt-Jacke",
+        "en-GB": "Mod Shirt",
+        "en-US": "Mod Shirt",
+        "es": "Chaqueta cuadritos",
+        "fr": "Veste bigarrée",
+        "it": "Giacca quadri bianca",
+        "ja": "だんしアイドルなふく"
+      }
     }
   }
 }

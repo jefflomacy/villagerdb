@@ -11,7 +11,16 @@
       },
       "sources": [
         "Brewster (work at The Roost)"
-      ]
+      ],
+      "name": {
+        "de": "Kaffeetasse",
+        "en-GB": "Coffee Cup",
+        "en-US": "Coffee Cup",
+        "es": "Taza de café",
+        "fr": "Tasse de café",
+        "it": "Tazza di caffè",
+        "ja": "コーヒーカップ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -32,6 +41,19 @@
         "rose": "Rose",
         "royal": "Royal",
         "elegant": "Elegant"
+      },
+      "name": {
+        "en-US": "Coffee Cup",
+        "en-GB": "Coffee Cup",
+        "de": "Kaffeetasse",
+        "es": "Taza de café",
+        "fr": "Tasse de café",
+        "it": "Tazza di caffè",
+        "nl": "Kopje koffie",
+        "zh-CN": "咖啡杯",
+        "zh-TW": "咖啡杯",
+        "jp": "コーヒーカップ",
+        "ko": "커피 잔"
       }
     }
   }

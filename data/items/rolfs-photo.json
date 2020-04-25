@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "朱穆朗的照片",
+        "de": "Foto's von Boris",
+        "en-GB": "Rolf's Photo",
+        "es": "Foto de Albino",
+        "fr": "Photo de Ralf",
+        "it": "Foto di Rolf",
+        "jp": "チョモランのしゃしん",
+        "ko": "호랭이의 사진",
+        "nl": "Foto van Rolf",
+        "zh-TW": "朱穆朗的照片",
+        "en-US": "Rolf's Photo"
       }
     }
   },

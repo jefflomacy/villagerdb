@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Football",
+        "en-GB": "Football",
+        "de": "Football",
+        "es": "Balón de fútbol americano",
+        "fr": "Ballon de foot américain",
+        "it": "Palla da football",
+        "nl": "Americanfootball-Bal",
+        "zh-CN": "美式足球",
+        "zh-TW": "美式足球",
+        "jp": "アメフトボール",
+        "ko": "럭비공"
+      }
     }
   },
   "category": "Furniture"

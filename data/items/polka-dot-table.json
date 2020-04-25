@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Pünktchentisch",
+        "en-GB": "Polka-Dot Table",
+        "en-US": "Polka-Dot Table",
+        "es": "Mesa topos",
+        "fr": "Table à pois rouge",
+        "it": "Tavolo pois",
+        "ja": "みずたまなテーブル"
+      }
     }
   }
 }

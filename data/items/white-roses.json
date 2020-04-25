@@ -17,7 +17,20 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White Roses",
+        "en-GB": "White Roses",
+        "de": "Unschuldsrosen",
+        "es": "Rosas blancas",
+        "fr": "Roses blanches",
+        "it": "Rose bianche",
+        "nl": "Witte rozen",
+        "zh-CN": "白色玫瑰",
+        "zh-TW": "白色玫瑰",
+        "jp": "しろいバラ",
+        "ko": "하얀 장미"
+      }
     }
   },
   "category": "Flowers"

@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1450
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mosaic-Tile Wall",
+        "en-GB": "Mosaic-Tile Wall",
+        "de": "Mosaikfliesenwand",
+        "es": "Pared mosaico tradicional",
+        "fr": "Mur carrelage mosaïque",
+        "it": "Muro mosaico artistico",
+        "nl": "Mozaïekwand",
+        "zh-CN": "马赛克砖墙",
+        "zh-TW": "馬賽克磚牆",
+        "jp": "アートモザイクタイルのかべ",
+        "ko": "아트 모자이크 타일 벽"
+      }
     }
   },
   "category": "Wallpaper"

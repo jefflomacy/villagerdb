@@ -18,7 +18,16 @@
           "currency": "bells",
           "value": 1700
         }
-      ]
+      ],
+      "name": {
+        "de": "Country-Gitarre",
+        "en-GB": "Country Guitar",
+        "en-US": "Country Guitar",
+        "es": "Guitarra country",
+        "fr": "Guitare country",
+        "it": "Chitarra country",
+        "ja": "アコギターAS2"
+      }
     }
   }
 }

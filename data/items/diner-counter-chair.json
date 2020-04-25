@@ -22,6 +22,19 @@
         "pink": "Pink",
         "cream": "Cream",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Diner Counter Chair",
+        "en-GB": "Diner Counter Chair",
+        "de": "Diner-Barhocker",
+        "es": "Taburete café años 50",
+        "fr": "Tabouret années 50",
+        "it": "Sgabello bar anni '50",
+        "nl": "Jaren 50-barkruk",
+        "zh-CN": "餐馆吧台椅",
+        "zh-TW": "餐館吧台椅",
+        "jp": "ダイナーなカウンターチェア",
+        "ko": "다이너 카운터 체어"
       }
     }
   },

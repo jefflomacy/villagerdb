@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Metal"
+      }
     },
     "nh": {
       "orderable": true,
@@ -35,7 +38,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Metal",
+        "en-GB": "K.K. Metal",
+        "de": "K.K. Metal",
+        "es": "Tota-Metal",
+        "fr": "Kéké metal",
+        "it": "K.K. Metal",
+        "nl": "K.K.-Metal",
+        "zh-CN": "K.K.金属摇滚",
+        "zh-TW": "K.K.金屬搖滾",
+        "jp": "けけメタル",
+        "ko": "K.K.메탈",
+        "ru": "Металл К. К."
+      }
     }
   }
 }

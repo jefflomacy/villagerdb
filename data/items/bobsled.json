@@ -11,7 +11,16 @@
       },
       "sources": [
         "Snowman"
-      ]
+      ],
+      "name": {
+        "de": "Bob",
+        "en-GB": "Bobsled",
+        "en-US": "Bobsled",
+        "es": "Trineo de carreras",
+        "fr": "Bobsleigh",
+        "it": "Bob",
+        "ja": "ボブスレー"
+      }
     }
   }
 }

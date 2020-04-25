@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 375
+      },
+      "name": {
+        "zh-CN": "铁矿石",
+        "de": "Eisenerz",
+        "en-GB": "Iron Nugget",
+        "es": "Pepita de hierro",
+        "fr": "Pépite de fer",
+        "it": "Minerale di ferro",
+        "jp": "てっこうせき",
+        "ko": "철광석",
+        "nl": "Ijzerklompje",
+        "zh-TW": "鐵礦石",
+        "en-US": "Iron Nugget"
       }
     }
   }

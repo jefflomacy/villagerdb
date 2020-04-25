@@ -21,6 +21,19 @@
         "green": "Green",
         "blue": "Blue",
         "pink-wood": "Pink wood"
+      },
+      "name": {
+        "en-US": "Wooden End Table",
+        "en-GB": "Wooden End Table",
+        "de": "Holznachttisch",
+        "es": "Mesita auxiliar de madera",
+        "fr": "Table de chevet en bois",
+        "it": "Comodino di legno",
+        "nl": "Houten nachtkastje",
+        "zh-CN": "木制边桌",
+        "zh-TW": "木製邊桌",
+        "jp": "もくせいサイドテーブル",
+        "ko": "목제 사이드 테이블"
       }
     }
   },

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "墨墨的照片",
+        "de": "Foto's von Zenobi",
+        "en-GB": "Nan's Photo",
+        "es": "Foto de Pécora",
+        "fr": "Photo de Nana",
+        "it": "Foto di Nan",
+        "jp": "スミのしゃしん",
+        "ko": "순이의 사진",
+        "nl": "Foto van Nan",
+        "zh-TW": "墨墨的照片",
+        "en-US": "Nan's Photo"
       }
     }
   },

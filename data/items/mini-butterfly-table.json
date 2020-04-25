@@ -15,7 +15,16 @@
       },
       "sources": [
         "Bug Off"
-      ]
+      ],
+      "name": {
+        "de": "Schmetterlingstisch",
+        "en-GB": "Mini Butterfly Table",
+        "en-US": "Mini Butterfly Table",
+        "es": "Mesa mariposa",
+        "fr": "Table papillon",
+        "it": "Tavolino farfalla",
+        "ja": "バタフライなテーブル"
+      }
     }
   }
 }

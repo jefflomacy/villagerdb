@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 6000
+      },
+      "name": {
+        "en-US": "Brachio Skull",
+        "en-GB": "Brachio Skull",
+        "de": "Brachiosaurus-Schädel",
+        "es": "Cráneo braquiosaurio",
+        "fr": "Crâne de brachiosaure",
+        "it": "Cranio brachiosauro",
+        "nl": "Brachiosauruskop",
+        "zh-CN": "腕龙的头",
+        "zh-TW": "腕龍的頭",
+        "jp": "ブラキオサウルスのあたま",
+        "ko": "브라키오사우루스의 머리"
       }
     }
   },

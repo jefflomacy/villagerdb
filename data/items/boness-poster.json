@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿富的海报",
+        "de": "Poster's von Strolch",
+        "en-GB": "Bones's Poster",
+        "es": "Póster de Cándido",
+        "fr": "Poster de Nonos",
+        "it": "Poster di Tobia",
+        "jp": "トミのポスター",
+        "ko": "토미의 포스터",
+        "nl": "Poster van Bones",
+        "zh-TW": "阿富的海報",
+        "en-US": "Bones's Poster"
+      }
     }
   },
   "category": "Photos"

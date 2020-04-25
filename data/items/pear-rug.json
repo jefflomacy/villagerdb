@@ -11,6 +11,19 @@
       },
       "recipe": {
         "pear": 6
+      },
+      "name": {
+        "en-US": "Pear Rug",
+        "en-GB": "Pear Rug",
+        "de": "Birnen-Teppich",
+        "es": "Alfombra pera",
+        "fr": "Tapis poire",
+        "it": "Tappeto pera",
+        "nl": "Peertapijt",
+        "zh-CN": "梨子地毯",
+        "zh-TW": "梨子地毯",
+        "jp": "ナシのラグ",
+        "ko": "배 러그"
       }
     }
   },

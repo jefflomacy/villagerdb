@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Guppy"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1300
+      },
+      "name": {
+        "en-US": "Guppy",
+        "en-GB": "Guppy",
+        "de": "Guppy",
+        "es": "Gupi",
+        "fr": "Guppy",
+        "it": "Guppy",
+        "nl": "Guppy",
+        "zh-CN": "孔雀鱼",
+        "zh-TW": "孔雀魚",
+        "jp": "グッピー",
+        "ko": "구피"
       }
     }
   }

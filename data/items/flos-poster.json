@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "蕾拉的海报",
+        "de": "Poster's von Susanne",
+        "en-GB": "Flo's Poster",
+        "es": "Póster de Nieves",
+        "fr": "Poster de Nora",
+        "it": "Poster di Nives",
+        "jp": "レイラのポスター",
+        "ko": "레이라의 포스터",
+        "nl": "Poster van Flo",
+        "zh-TW": "蕾拉的海報",
+        "en-US": "Flo's Poster"
+      }
     }
   },
   "category": "Photos"

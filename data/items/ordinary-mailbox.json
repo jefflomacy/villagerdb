@@ -2,7 +2,21 @@
   "id": "ordinary-mailbox",
   "name": "Ordinary Mailbox",
   "games": {
-    "nh": {}
+    "nh": {
+      "name": {
+        "zh-CN": "X)普通信箱",
+        "de": "Standard-Briefkasten's",
+        "en-GB": "Ordinary Mailbox",
+        "es": "Buzón clásico",
+        "fr": "Boîte aux lettres ordinaire",
+        "it": "Cassetta posta normale",
+        "jp": "ふつうのポスト",
+        "ko": "일반 우편함",
+        "nl": "Ronde brievenbus",
+        "zh-TW": "普通郵筒",
+        "en-US": "Ordinary Mailbox"
+      }
+    }
   },
   "category": "Furniture"
 }

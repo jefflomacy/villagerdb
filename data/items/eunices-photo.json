@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "毛海儿的照片",
+        "de": "Foto's von Edith",
+        "en-GB": "Eunice's Photo",
+        "es": "Foto de Lanolina",
+        "fr": "Photo de Bérénice",
+        "it": "Foto di Tenerina",
+        "jp": "モヘアのしゃしん",
+        "ko": "곱슬이의 사진",
+        "nl": "Foto van Eunice",
+        "zh-TW": "毛海兒的照片",
+        "en-US": "Eunice's Photo"
       }
     }
   },

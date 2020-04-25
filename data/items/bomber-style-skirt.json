@@ -18,6 +18,19 @@
         "black": "Black",
         "blue": "Blue",
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Bomber-Style Skirt",
+        "en-GB": "Bomber-Style Skirt",
+        "de": "Uniformrock",
+        "es": "Falda militar",
+        "fr": "Jupe aviateur",
+        "it": "Gonna bomber",
+        "nl": "Uniformrok",
+        "zh-CN": "MA-1防风裙",
+        "zh-TW": "MA-1防風裙",
+        "jp": "ＭＡ‐１スカート",
+        "ko": "MA-1 스커트"
       }
     }
   },

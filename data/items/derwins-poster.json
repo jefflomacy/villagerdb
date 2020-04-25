@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿坊的海报",
+        "de": "Poster's von Erwin",
+        "en-GB": "Derwin's Poster",
+        "es": "Póster de Torcuato",
+        "fr": "Poster de Prof",
+        "it": "Poster di Mike",
+        "jp": "ボンのポスター",
+        "ko": "봉의 포스터",
+        "nl": "Poster van Derwin",
+        "zh-TW": "阿坊的海報",
+        "en-US": "Derwin's Poster"
+      }
     }
   },
   "category": "Photos"

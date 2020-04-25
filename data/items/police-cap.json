@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Polizeimütze",
+        "en-GB": "Police Cap",
+        "en-US": "Police Cap",
+        "es": "Gorra de policía",
+        "fr": "Casquette de police",
+        "it": "Cappello poliziotto",
+        "ja": "けいかんのぼうし"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -36,6 +45,19 @@
       ],
       "variations": {
         "navy-blue": "Navy blue"
+      },
+      "name": {
+        "en-US": "Police Cap",
+        "en-GB": "Police Cap",
+        "de": "Polizeimütze",
+        "es": "Gorra de policía",
+        "fr": "Casquette de police",
+        "it": "Cappello da poliziotto",
+        "nl": "Politiepet",
+        "zh-CN": "警官帽",
+        "zh-TW": "警官帽",
+        "jp": "けいかんのぼうし",
+        "ko": "경찰모"
       }
     }
   }

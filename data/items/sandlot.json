@@ -11,7 +11,10 @@
       },
       "sources": [
         "Saharah"
-      ]
+      ],
+      "name": {
+        "en-US": "Sandlot"
+      }
     },
     "nh": {
       "orderable": false,
@@ -27,7 +30,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sandlot",
+        "en-GB": "Sandlot",
+        "de": "Sandplatz",
+        "es": "Suelo cancha",
+        "fr": "Sol sable",
+        "it": "Pavimento sabbia",
+        "nl": "Zandvloer",
+        "zh-CN": "空地地板",
+        "zh-TW": "空地地板",
+        "jp": "あきちのゆか",
+        "ko": "공터 바닥"
+      }
     }
   }
 }

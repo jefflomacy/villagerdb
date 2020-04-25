@@ -28,7 +28,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Rose Wall"
+      }
     },
     "nh": {
       "orderable": true,
@@ -44,7 +47,20 @@
           "currency": "bells",
           "value": 1720
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Rose Wall",
+        "en-GB": "Rose Wall",
+        "de": "Rosentapete",
+        "es": "Pared rosas",
+        "fr": "Mur de roses",
+        "it": "Muro con rose",
+        "nl": "Rozenwand",
+        "zh-CN": "玫瑰壁纸",
+        "zh-TW": "玫瑰壁紙",
+        "jp": "バラのかべがみ",
+        "ko": "장미 벽지"
+      }
     }
   }
 }

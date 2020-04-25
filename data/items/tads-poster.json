@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿田的海报",
+        "de": "Poster's von Paul",
+        "en-GB": "Tad's Poster",
+        "es": "Póster de Saltonio",
+        "fr": "Poster de Rénato",
+        "it": "Poster di Achille",
+        "jp": "タンボのポスター",
+        "ko": "텀보의 포스터",
+        "nl": "Poster van Tad",
+        "zh-TW": "阿田的海報",
+        "en-US": "Tad's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "毡毡的照片",
+        "de": "Foto's von Stella",
+        "en-GB": "Stella's Photo",
+        "es": "Foto de Merina",
+        "fr": "Photo de Bigoudi",
+        "it": "Foto di Merina",
+        "jp": "アクリルのしゃしん",
+        "ko": "아크릴의 사진",
+        "nl": "Foto van Stella",
+        "zh-TW": "氈氈的照片",
+        "en-US": "Stella's Photo"
       }
     }
   },

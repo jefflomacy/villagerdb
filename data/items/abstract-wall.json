@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1560
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Abstract Wall",
+        "en-GB": "Abstract Wall",
+        "de": "Abstrakttapete",
+        "es": "Pared abstracta",
+        "fr": "Mur art abstrait",
+        "it": "Muro astratto",
+        "nl": "Abstracte wand",
+        "zh-CN": "抽象艺术墙",
+        "zh-TW": "抽象藝術牆",
+        "jp": "アブストラクトなかべ",
+        "ko": "추상적인 벽지"
+      }
     }
   },
   "category": "Wallpaper"

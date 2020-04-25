@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1040
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White-Brick Flooring",
+        "en-GB": "White-Brick Flooring",
+        "de": "Weißziegelboden",
+        "es": "Suelo ladrillo blanco",
+        "fr": "Sol briques blanches",
+        "it": "Pavimento mattoni bianchi",
+        "nl": "Witte bakstenen vloer",
+        "zh-CN": "白色砖块地板",
+        "zh-TW": "白色磚塊地板",
+        "jp": "しろレンガのゆか",
+        "ko": "하얀 벽돌 바닥"
+      }
     }
   },
   "category": "Flooring"

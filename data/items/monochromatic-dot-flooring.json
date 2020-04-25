@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Monochromatic Dot Flooring",
+        "en-GB": "Monochromatic Dot Flooring",
+        "de": "Grau-Punktboden",
+        "es": "Suelo topos monocromo",
+        "fr": "Moquette à pois simple",
+        "it": "Pavimento a pois semplice",
+        "nl": "Grijze stippelvloer",
+        "zh-CN": "单色配色点点地毯",
+        "zh-TW": "灰階配色點點地毯",
+        "jp": "モノクロドットカーペット",
+        "ko": "흑백 도트 카펫 바닥"
+      }
     }
   },
   "category": "Flooring"

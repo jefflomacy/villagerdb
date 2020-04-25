@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "妈咪的海报",
+        "de": "Poster's von Carola",
+        "en-GB": "Carrie's Poster",
+        "es": "Póster de Lola",
+        "fr": "Poster de Kanga",
+        "it": "Poster di Taschina",
+        "jp": "マミィのポスター",
+        "ko": "마미의 포스터",
+        "nl": "Poster van Carrie",
+        "zh-TW": "媽咪的海報",
+        "en-US": "Carrie's Poster"
+      }
     }
   },
   "category": "Photos"

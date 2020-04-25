@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Aloha-Shirt",
+        "en-GB": "Blue Aloha Tee",
+        "en-US": "Blue Aloha Tee",
+        "es": "Camiseta aloha azul",
+        "fr": "Chemise Hawaï bleue",
+        "it": "Camicia aloha blu",
+        "ja": "あおのアロハ"
+      }
     }
   }
 }

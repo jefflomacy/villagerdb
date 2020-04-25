@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "小岚的照片",
+        "de": "Foto's von Senta",
+        "en-GB": "Sandy's Photo",
+        "es": "Foto de Priscila",
+        "fr": "Photo d'ottie",
+        "it": "Foto di Alessia",
+        "jp": "ランのしゃしん",
+        "ko": "샌디의 사진",
+        "nl": "Foto van Sandy",
+        "zh-TW": "小嵐的照片",
+        "en-US": "Sandy's Photo"
       }
     }
   },

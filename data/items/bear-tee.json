@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 392
         }
-      ]
+      ],
+      "name": {
+        "de": "Teddy-Shirt",
+        "en-GB": "Bear Tee",
+        "en-US": "Bear Tee",
+        "es": "Camiseta osito",
+        "fr": "T-shirt ours",
+        "it": "Maglietta orsetto",
+        "ja": "クマのふく"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -35,6 +44,19 @@
       ],
       "variations": {
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Bear Tee",
+        "en-GB": "Bear Tee",
+        "de": "Teddy-Shirt",
+        "es": "Camiseta osito",
+        "fr": "T-Shirt ours",
+        "it": "Maglietta orsetto",
+        "nl": "Beren-T-Shirt",
+        "zh-CN": "熊熊T恤",
+        "zh-TW": "熊熊T恤",
+        "jp": "くまのＴシャツ",
+        "ko": "곰 그림 티셔츠"
       }
     }
   }

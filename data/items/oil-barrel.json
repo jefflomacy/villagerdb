@@ -25,7 +25,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Ölfass",
+        "en-GB": "Oil Barrel",
+        "en-US": "Oil Barrel",
+        "es": "Barril de petróleo",
+        "fr": "Baril d'huile",
+        "it": "Fusto di petrolio",
+        "ja": "ドラムかん"
+      }
     },
     "nh": {
       "orderable": true,
@@ -51,6 +60,19 @@
         "red": "Red",
         "green": "Green",
         "damaged": "Damaged"
+      },
+      "name": {
+        "en-US": "Oil Barrel",
+        "en-GB": "Oil Barrel",
+        "de": "Ölfass",
+        "es": "Barril de petróleo",
+        "fr": "Baril de pétrole",
+        "it": "Fusto di petrolio",
+        "nl": "Olievat",
+        "zh-CN": "汽油桶",
+        "zh-TW": "汽油桶",
+        "jp": "ドラムかん",
+        "ko": "드럼통"
       }
     }
   }

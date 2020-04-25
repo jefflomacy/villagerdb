@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 372
         }
-      ]
+      ],
+      "name": {
+        "de": "80er-Pulli",
+        "en-GB": "Blue Diamond Shirt",
+        "en-US": "Blue Diamond Shirt",
+        "es": "Jersey de noche",
+        "fr": "Pull jacquard",
+        "it": "Maglia nera rombi",
+        "ja": "ブルータイルなふくL"
+      }
     }
   }
 }

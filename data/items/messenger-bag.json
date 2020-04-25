@@ -17,6 +17,19 @@
         "green": "Green",
         "orange": "Orange",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Messenger Bag",
+        "en-GB": "Messenger Bag",
+        "de": "Kuriertasche",
+        "es": "Bolso de mensajero",
+        "fr": "Besace",
+        "it": "Borsa da postino",
+        "nl": "Koerierstas",
+        "zh-CN": "邮差包",
+        "zh-TW": "郵差包",
+        "jp": "メッセンジャーバッグ",
+        "ko": "메신저백"
       }
     }
   },

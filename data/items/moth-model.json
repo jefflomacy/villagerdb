@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 390
+      },
+      "name": {
+        "en-US": "Moth Model",
+        "en-GB": "Moth Model",
+        "de": "Mottenmodell",
+        "es": "Figura de polilla",
+        "fr": "Modèle de papillon de nuit",
+        "it": "Replica di falena",
+        "nl": "Modelmot",
+        "zh-CN": "飞蛾模型",
+        "zh-TW": "飛蛾模型",
+        "jp": "ガのもけい",
+        "ko": "나방 모형"
       }
     }
   },

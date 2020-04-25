@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "闪电的海报",
+        "de": "Poster's von Rudolf",
+        "en-GB": "Static's Poster",
+        "es": "Póster de Protón",
+        "fr": "Poster d'électro",
+        "it": "Poster di Protone",
+        "jp": "スパークのポスター",
+        "ko": "스파크의 포스터",
+        "nl": "Poster van Static",
+        "zh-TW": "閃電的海報",
+        "en-US": "Static's Poster"
+      }
     }
   },
   "category": "Photos"

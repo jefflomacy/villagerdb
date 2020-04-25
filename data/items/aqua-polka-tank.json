@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "de": "Tüpfeltop",
+        "en-GB": "Aqua Polka Tank",
+        "en-US": "Aqua Polka Tank",
+        "es": "Top aqua",
+        "fr": "Débardeur pois cyan",
+        "it": "Canotta blu a pois",
+        "ja": "あおみずたまのふくN"
+      }
     }
   }
 }

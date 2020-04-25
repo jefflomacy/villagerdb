@@ -18,6 +18,19 @@
         "pink": "Pink",
         "green": "Green",
         "beige": "Beige"
+      },
+      "name": {
+        "en-US": "Fancy Party Dress",
+        "en-GB": "Fancy Party Dress",
+        "de": "Abendkleid",
+        "es": "Vestido de fiesta",
+        "fr": "Robe de soirée",
+        "it": "Vestito da cocktail",
+        "nl": "Chique feestjurk",
+        "zh-CN": "派对连身裙",
+        "zh-TW": "派對連身裙",
+        "jp": "パーティーワンピ",
+        "ko": "파티 원피스"
       }
     }
   },

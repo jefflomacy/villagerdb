@@ -15,7 +15,16 @@
       },
       "sources": [
         "Snowmam"
-      ]
+      ],
+      "name": {
+        "de": "Eisstuhl",
+        "en-GB": "Ice Chair",
+        "en-US": "Ice Chair",
+        "es": "Silla hielo",
+        "fr": "Chaise glace",
+        "it": "Sedia ghiaccio",
+        "ja": "アイスなチェア"
+      }
     }
   }
 }

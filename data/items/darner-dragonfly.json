@@ -11,7 +11,10 @@
       },
       "sources": [
         "Anywhere other than above salt water (the sea)."
-      ]
+      ],
+      "name": {
+        "en-US": "Darner Dragonfly"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 230
+      },
+      "name": {
+        "en-US": "Darner Dragonfly",
+        "en-GB": "Darner Dragonfly",
+        "de": "Königslibelle",
+        "es": "Libélula caballito del diablo",
+        "fr": "Anax napolitain",
+        "it": "Libellula depressa",
+        "nl": "Zuidelijke keizerlibel",
+        "zh-CN": "绿胸晏蜓",
+        "zh-TW": "綠胸晏蜓",
+        "jp": "ギンヤンマ",
+        "ko": "왕잠자리"
       }
     }
   }

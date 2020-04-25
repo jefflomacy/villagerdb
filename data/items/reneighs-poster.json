@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "雷哈娜的海报",
+        "de": "Poster's von Andrea",
+        "en-GB": "Reneigh's Poster",
+        "es": "Póster de Reneigh",
+        "fr": "Poster de Jennifer",
+        "it": "Poster di Requina",
+        "jp": "リアーナのポスター",
+        "ko": "리아나의 포스터",
+        "nl": "Poster van Reneigh",
+        "zh-TW": "雷哈娜的海報",
+        "en-US": "Reneigh's Poster"
+      }
     }
   },
   "category": "Photos"

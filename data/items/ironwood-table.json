@@ -19,6 +19,19 @@
         "walnut": "Walnut",
         "old": "Old",
         "oak": "Oak"
+      },
+      "name": {
+        "en-US": "Ironwood Table",
+        "en-GB": "Ironwood Table",
+        "de": "Eisen-Holz-Tisch",
+        "es": "Mesa universidad",
+        "fr": "Table en bois de fer",
+        "it": "Tavolo di legno ferro",
+        "nl": "Ijzeren-Houten tafel",
+        "zh-CN": "铸铁木桌",
+        "zh-TW": "鑄鐵木桌",
+        "jp": "アイアンウッドテーブル",
+        "ko": "아이언우드 테이블"
       }
     }
   },

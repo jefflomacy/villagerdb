@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 6000
         }
-      ]
+      ],
+      "name": {
+        "de": "Yachtjackett",
+        "en-GB": "White Tuxedo Jacket",
+        "en-US": "White Tuxedo Jacket",
+        "es": "Esmoquin blanco",
+        "fr": "Veston blanc",
+        "it": "Giacca bianca",
+        "ja": "しろいタキシード"
+      }
     }
   }
 }

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 7600
         }
-      ]
+      ],
+      "name": {
+        "de": "Moai-Statue",
+        "en-GB": "Moai Statue",
+        "en-US": "Moai Statue",
+        "es": "Moái",
+        "fr": "Statue Moai",
+        "it": "Statua Moai",
+        "ja": "モアイ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -33,7 +42,20 @@
           "currency": "bells",
           "value": 7600
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Moai Statue",
+        "en-GB": "Moai Statue",
+        "de": "Moai-Statue",
+        "es": "Moái",
+        "fr": "Statue Moai",
+        "it": "Statua Moai",
+        "nl": "Moai-Beeld",
+        "zh-CN": "摩艾石像",
+        "zh-TW": "摩艾石像",
+        "jp": "モアイ",
+        "ko": "모아이"
+      }
     }
   }
 }

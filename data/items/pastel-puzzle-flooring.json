@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1450
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pastel Puzzle Flooring",
+        "en-GB": "Pastel Puzzle Flooring",
+        "de": "Pastell-Puzzleboden",
+        "es": "Suelo rompecabezas pastel",
+        "fr": "Sol puzzle pastel",
+        "it": "Pavimento puzzle pastello",
+        "nl": "Pastelkleurige puzzelvloer",
+        "zh-CN": "粉嫩巧拼地板",
+        "zh-TW": "粉嫩巧拼地板",
+        "jp": "パステルパズルのゆか",
+        "ko": "파스텔 퍼즐 바닥"
+      }
     }
   },
   "category": "Flooring"

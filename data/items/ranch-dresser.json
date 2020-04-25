@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2720
         }
-      ]
+      ],
+      "name": {
+        "de": "Western-Kommode",
+        "en-GB": "Ranch Dresser",
+        "en-US": "Ranch Dresser",
+        "es": "Cómoda rústica",
+        "fr": "Commode ranch",
+        "it": "Comò country",
+        "ja": "カントリーなタンス"
+      }
     }
   }
 }

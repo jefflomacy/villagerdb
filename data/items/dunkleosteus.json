@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3500
+      },
+      "name": {
+        "en-US": "Dunkleosteus",
+        "en-GB": "Dunkleosteus",
+        "de": "Dunkleosteus",
+        "es": "Dunkleosteo",
+        "fr": "Dunkléostéus",
+        "it": "Dunkleosteus",
+        "nl": "Dunkleosteus",
+        "zh-CN": "邓氏鱼",
+        "zh-TW": "鄧氏魚",
+        "jp": "ダンクルオステウス",
+        "ko": "둔클레오스테우스"
       }
     }
   },

@@ -23,6 +23,19 @@
         "blue": "Blue",
         "black": "Black",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Denim Painter's Pants",
+        "en-GB": "Denim Painter's Pants",
+        "de": "Maler-Jeanshose",
+        "es": "Vaquero de trabajo",
+        "fr": "Jean de travail",
+        "it": "Paio di jeans da lavoro",
+        "nl": "Omgeslagen jeans",
+        "zh-CN": "牛仔工作裤",
+        "zh-TW": "牛仔油漆工褲",
+        "jp": "デニムのペインターパンツ",
+        "ko": "데님 페인터 팬츠"
       }
     }
   },

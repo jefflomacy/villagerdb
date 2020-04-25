@@ -7,7 +7,20 @@
       "sources": [
         "Recycling Bin",
         "Letting communicator parts rust"
-      ]
+      ],
+      "name": {
+        "zh-CN": "生锈零件",
+        "de": "Rost-Bauteil's",
+        "en-GB": "Rusted Part",
+        "es": "Pieza oxidada",
+        "fr": "Circuit rouillé",
+        "it": "Componente arrugginito",
+        "jp": "さびたパーツ",
+        "ko": "녹슨 부품",
+        "nl": "Roestig'e onderdeel",
+        "zh-TW": "生鏽零件",
+        "en-US": "Rusted Part"
+      }
     }
   },
   "category": "Usables"

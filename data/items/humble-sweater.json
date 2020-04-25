@@ -19,6 +19,19 @@
         "brown": "Brown",
         "green": "Green",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Humble Sweater",
+        "en-GB": "Humble Sweater",
+        "de": "Strickweste",
+        "es": "Rebeca modesta",
+        "fr": "Gilet sobre",
+        "it": "Felpa modesta",
+        "nl": "Sobere trui",
+        "zh-CN": "朴素针织衫",
+        "zh-TW": "樸素針織衫",
+        "jp": "つつましいニット",
+        "ko": "수수한 니트"
       }
     }
   },

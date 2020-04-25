@@ -23,7 +23,10 @@
           "currency": "bells",
           "value": 680
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Riding Dress"
+      }
     }
   }
 }

@@ -24,7 +24,10 @@
           "currency": "bells",
           "value": 7200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Witch's Robe"
+      }
     }
   }
 }

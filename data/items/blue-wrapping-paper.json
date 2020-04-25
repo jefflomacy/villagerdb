@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 40
+      },
+      "name": {
+        "zh-CN": "蓝色包装纸",
+        "de": "Blau-Geschenkpapier's",
+        "en-GB": "Blue Wrapping Paper",
+        "es": "Papel de regalo azul",
+        "fr": "Papier cadeau bleu",
+        "it": "Carta da regalo blu",
+        "jp": "あおいラッピングペーパー",
+        "ko": "파란색 포장지",
+        "nl": "Blauwe cadeaupapier",
+        "zh-TW": "藍色包裝紙",
+        "en-US": "Blue Wrapping Paper"
       }
     }
   },

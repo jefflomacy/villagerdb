@@ -7,7 +7,10 @@
       "orderable": false,
       "sources": [
         "Undelivered lost item"
-      ]
+      ],
+      "name": {
+        "en-US": "Book"
+      }
     },
     "nh": {
       "orderable": true,
@@ -29,6 +32,19 @@
         "japanese-literature": "Japanese literature",
         "encyclopedia": "Encyclopedia",
         "textbook": "Textbook"
+      },
+      "name": {
+        "en-US": "Book",
+        "en-GB": "Book",
+        "de": "Buch",
+        "es": "Libro",
+        "fr": "Livre",
+        "it": "Libro",
+        "nl": "Boek",
+        "zh-CN": "书",
+        "zh-TW": "書",
+        "jp": "ほん",
+        "ko": "책"
       }
     }
   }

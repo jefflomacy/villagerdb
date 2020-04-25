@@ -20,6 +20,19 @@
         "red": "Red",
         "blue": "Blue",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Wall-Mounted Tool Board",
+        "en-GB": "Wall-Mounted Tool Board",
+        "de": "Werkzeugbrett",
+        "es": "Panel de herramientas",
+        "fr": "Panneau mural porte-outils",
+        "it": "Pannello degli attrezzi",
+        "nl": "Gereedschapswand",
+        "zh-CN": "壁挂式工具挂钩",
+        "zh-TW": "壁掛式工具掛勾",
+        "jp": "かべかけツールハンガー",
+        "ko": "공구 걸이 판"
       }
     }
   },

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "罗奇的照片",
+        "de": "Foto's von Sunny",
+        "en-GB": "Eugene's Photo",
+        "es": "Foto de Eucalín",
+        "fr": "Photo de Jamy",
+        "it": "Foto di Corrado",
+        "jp": "ロッキーのしゃしん",
+        "ko": "코알의 사진",
+        "nl": "Foto van Eugene",
+        "zh-TW": "羅奇的照片",
+        "en-US": "Eugene's Photo"
       }
     }
   },

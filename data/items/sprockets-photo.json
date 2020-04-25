@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "鹤兹的照片",
+        "de": "Foto's von Lutz",
+        "en-GB": "Sprocket's Photo",
+        "es": "Foto de Ráfaga",
+        "fr": "Photo de Laflèche",
+        "it": "Foto di Frankie",
+        "jp": "ヘルツのしゃしん",
+        "ko": "헤르츠의 사진",
+        "nl": "Foto van Sprocket",
+        "zh-TW": "鶴茲的照片",
+        "en-US": "Sprocket's Photo"
       }
     }
   },

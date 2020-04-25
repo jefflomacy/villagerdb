@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "壮壮的海报",
+        "de": "Poster's von Ludwig",
+        "en-GB": "Louie's Poster",
+        "es": "Póster de Lou",
+        "fr": "Poster de Louis",
+        "it": "Poster di Lou",
+        "jp": "マッスルのポスター",
+        "ko": "머슬의 포스터",
+        "nl": "Poster van Louie",
+        "zh-TW": "壯壯的海報",
+        "en-US": "Louie's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "赵奇的海报",
+        "de": "Poster's von Pierre",
+        "en-GB": "Jacques's Poster",
+        "es": "Póster de Gorrelmo",
+        "fr": "Poster de Jacky",
+        "it": "Poster di Zampiero",
+        "jp": "ジョッキーのポスター",
+        "ko": "쪼끼의 포스터",
+        "nl": "Poster van Jacques",
+        "zh-TW": "趙奇的海報",
+        "en-US": "Jacques's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -19,6 +19,19 @@
         "wisteria": "Wisteria",
         "balls": "Balls",
         "hawk": "Hawk"
+      },
+      "name": {
+        "en-US": "Elaborate Kimono Stand",
+        "en-GB": "Elaborate Kimono Stand",
+        "de": "Prunk-Kimonostand",
+        "es": "Expositor de kimonos lujoso",
+        "fr": "Porte-Kimono élaboré",
+        "it": "Portakimono elaborato",
+        "nl": "Luxe kimonorek",
+        "zh-CN": "豪华和服架",
+        "zh-TW": "豪華和服架",
+        "jp": "ごうかなきものスタンド",
+        "ko": "호화로운 기모노 걸이"
       }
     }
   },

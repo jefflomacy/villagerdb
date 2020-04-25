@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Retro-Kühlschrank",
+        "en-GB": "Retro Fridge",
+        "en-US": "Retro Fridge",
+        "es": "Nevera retro",
+        "fr": "Réfrigérateur vert",
+        "it": "Frigo rétro",
+        "ja": "レトロなれいぞうこ"
+      }
     }
   }
 }

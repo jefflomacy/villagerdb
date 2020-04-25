@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "de": "Herzchenbett",
+        "en-GB": "Lovely Bed",
+        "en-US": "Lovely Bed",
+        "es": "Cama corazón",
+        "fr": "Lit c\\u0153ur",
+        "it": "Letto cuori",
+        "ja": "ラブリーベッド"
+      }
     }
   }
 }

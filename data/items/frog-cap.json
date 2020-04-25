@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Froschmütze",
+        "en-GB": "Frog Cap",
+        "en-US": "Frog Cap",
+        "es": "Gorro de rana",
+        "fr": "Cagoule grenouille",
+        "it": "Cappello rana",
+        "ja": "カエルのかぶりもの"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -39,6 +48,19 @@
         "blue": "Blue",
         "red": "Red",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Frog Cap",
+        "en-GB": "Frog Cap",
+        "de": "Froschmütze",
+        "es": "Gorro de rana",
+        "fr": "Cagoule grenouille",
+        "it": "Cappello da rana",
+        "nl": "Kikkermuts",
+        "zh-CN": "青蛙头套",
+        "zh-TW": "青蛙頭套",
+        "jp": "カエルのかぶりもの",
+        "ko": "개구리 모자"
       }
     }
   }

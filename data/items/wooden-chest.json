@@ -21,6 +21,19 @@
         "green": "Green",
         "blue": "Blue",
         "pink-wood": "Pink wood"
+      },
+      "name": {
+        "en-US": "Wooden Chest",
+        "en-GB": "Wooden Chest",
+        "de": "Holzkommode",
+        "es": "Cómoda de madera",
+        "fr": "Commode en bois",
+        "it": "Comò di legno",
+        "nl": "Houten ladekast",
+        "zh-CN": "木制矮柜",
+        "zh-TW": "木製矮櫃",
+        "jp": "もくせいチェスト",
+        "ko": "목제 수납장"
       }
     }
   },

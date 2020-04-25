@@ -19,6 +19,19 @@
         "colorful": "Colorful",
         "pastel": "Pastel",
         "vivid": "Vivid"
+      },
+      "name": {
+        "en-US": "Wooden-Block Bookshelf",
+        "en-GB": "Wooden-Block Bookshelf",
+        "de": "Bauklotzbücherregal",
+        "es": "Estantería construcciones",
+        "fr": "Bibliothèque blocs de bois",
+        "it": "Libreria blocchi di legno",
+        "nl": "Houtblokboekenkast",
+        "zh-CN": "积木书柜",
+        "zh-TW": "積木書櫃",
+        "jp": "つみきブックシェルフ",
+        "ko": "나무블록 북 쉘프"
       }
     }
   },

@@ -25,7 +25,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Narrenkappe",
+        "en-GB": "Jester's Cap",
+        "en-US": "Jester's Cap",
+        "es": "Gorro de bufón",
+        "fr": "Chapeau de bouffon",
+        "it": "Cappello giullare",
+        "ja": "ピエロのぼうし"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -43,6 +52,19 @@
         "black-white": "Black & white",
         "red-blue": "Red & blue",
         "green-red": "Green & red"
+      },
+      "name": {
+        "en-US": "Jester's Cap",
+        "en-GB": "Jester's Cap",
+        "de": "Narrenkappe",
+        "es": "Gorro de bufón",
+        "fr": "Chapeau de bouffon",
+        "it": "Cappello da giullare",
+        "nl": "Narrenmuts",
+        "zh-CN": "小丑帽子",
+        "zh-TW": "小丑帽子",
+        "jp": "ピエロのぼうし",
+        "ko": "피에로 모자"
       }
     }
   }

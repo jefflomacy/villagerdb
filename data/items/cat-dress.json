@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 720
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Cat Dress"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -38,6 +41,19 @@
         "navy-blue": "Navy blue",
         "brown": "Brown",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Cat Dress",
+        "en-GB": "Cat Dress",
+        "de": "Katzenkleid",
+        "es": "Vestido gato",
+        "fr": "Robe chat",
+        "it": "Vestito gatto",
+        "nl": "Kattenjurk",
+        "zh-CN": "猫咪服",
+        "zh-TW": "貓咪服",
+        "jp": "ネコなふく",
+        "ko": "고양이 의상"
       }
     }
   }

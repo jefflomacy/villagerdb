@@ -18,6 +18,19 @@
         "white": "White",
         "purple": "Purple",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Dance Warm-Up Pants",
+        "en-GB": "Dance Warm-Up Pants",
+        "de": "Tänzerhose",
+        "es": "Pantalón compañía de baile",
+        "fr": "Pantalon équipe de danse",
+        "it": "Pantalone della tuta danza",
+        "nl": "Streetdance-Broek",
+        "zh-CN": "舞蹈运动裤",
+        "zh-TW": "舞蹈運動褲",
+        "jp": "ダンスジャージズボン",
+        "ko": "댄스 트레이닝복 바지"
       }
     }
   },

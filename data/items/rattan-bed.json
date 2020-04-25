@@ -21,6 +21,19 @@
         "white": "White",
         "gray": "Gray",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Rattan Bed",
+        "en-GB": "Rattan Bed",
+        "de": "Flechtbett",
+        "es": "Cama de ratán",
+        "fr": "Lit jonc",
+        "it": "Letto di rattan",
+        "nl": "Rotan bed",
+        "zh-CN": "藤编床铺",
+        "zh-TW": "藤編床鋪",
+        "jp": "ラタンのベッド",
+        "ko": "라탄 침대"
       }
     }
   },

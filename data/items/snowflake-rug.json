@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Snowflake Rug",
+        "en-GB": "Snowflake Rug",
+        "de": "Schneeflocken-Teppich",
+        "es": "Alfombra copo de nieve",
+        "fr": "Tapis flocon",
+        "it": "Tappeto fiocco di neve",
+        "nl": "Sneeuwvloktapijt",
+        "zh-CN": "雪花地毯",
+        "zh-TW": "雪花地毯",
+        "jp": "スノーフレークなラグ",
+        "ko": "눈꽃 러그"
+      }
     }
   },
   "category": "Flooring"

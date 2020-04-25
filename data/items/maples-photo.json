@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "小枫的照片",
+        "de": "Foto's von Mona",
+        "en-GB": "Maple's Photo",
+        "es": "Foto de Dulce",
+        "fr": "Photo de Léa",
+        "it": "Foto di Dulcinea",
+        "jp": "メープルのしゃしん",
+        "ko": "메이첼의 사진",
+        "nl": "Foto van Maple",
+        "zh-TW": "小楓的照片",
+        "en-US": "Maple's Photo"
       }
     }
   },

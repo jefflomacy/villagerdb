@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Normalbett",
+        "en-GB": "Common Bed",
+        "en-US": "Common Bed",
+        "es": "Cama básica",
+        "fr": "Lit ordinaire",
+        "it": "Letto comune",
+        "ja": "よくあるベッド"
+      }
     }
   }
 }

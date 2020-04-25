@@ -22,6 +22,19 @@
         "purple": "Purple",
         "pink": "Pink",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Veil",
+        "en-GB": "Veil",
+        "de": "1001-Nacht-Schleier",
+        "es": "Velo princesa desierto",
+        "fr": "Voile princesse du désert",
+        "it": "Velo da mille e una notte",
+        "nl": "Woestijnprinsessensluier",
+        "zh-CN": "面纱",
+        "zh-TW": "面紗",
+        "jp": "ベール",
+        "ko": "베일"
       }
     }
   },

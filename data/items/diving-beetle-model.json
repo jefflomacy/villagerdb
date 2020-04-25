@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2400
+      },
+      "name": {
+        "en-US": "Diving Beetle Model",
+        "en-GB": "Diving Beetle Model",
+        "de": "Schwimmkäfermodell",
+        "es": "Figura escarabajo nadador",
+        "fr": "Modèle de dytique",
+        "it": "Replica di ditisco",
+        "nl": "Modelwaterroofkever",
+        "zh-CN": "龙虱模型",
+        "zh-TW": "龍蝨模型",
+        "jp": "ゲンゴロウのもけい",
+        "ko": "물방개 모형"
       }
     }
   },

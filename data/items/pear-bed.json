@@ -16,6 +16,19 @@
       "variations": {
         "la-france": "La France",
         "le-lectier": "Le Lectier"
+      },
+      "name": {
+        "en-US": "Pear Bed",
+        "en-GB": "Pear Bed",
+        "de": "Birnenbett",
+        "es": "Cama pera",
+        "fr": "Lit poire",
+        "it": "Letto pera",
+        "nl": "Perenbed",
+        "zh-CN": "梨子床铺",
+        "zh-TW": "梨子床鋪",
+        "jp": "ナシのベッド",
+        "ko": "배 침대"
       }
     }
   },

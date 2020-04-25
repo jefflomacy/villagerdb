@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "de": "Aurora-Top",
+        "en-GB": "Dawn Tank",
+        "en-US": "Dawn Tank",
+        "es": "Top amanecer",
+        "fr": "Débardeur aurore",
+        "it": "Canotta aurora",
+        "ja": "しののめなふくN"
+      }
     }
   }
 }

@@ -18,6 +18,19 @@
         "red": "Red",
         "blue": "Blue",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Punching Bag",
+        "en-GB": "Punching Bag",
+        "de": "Sandsack",
+        "es": "Saco de boxeo",
+        "fr": "Sac de frappe",
+        "it": "Sacco da boxe",
+        "nl": "Bokszak",
+        "zh-CN": "沙包",
+        "zh-TW": "沙包",
+        "jp": "サンドバッグ",
+        "ko": "샌드백"
       }
     }
   },

@@ -25,7 +25,10 @@
           "currency": "meow",
           "value": 5
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Wooden Bucket"
+      }
     },
     "nh": {
       "orderable": false,
@@ -37,6 +40,19 @@
       "recipe": {
         "wood": 3,
         "iron-nugget": 1
+      },
+      "name": {
+        "en-US": "Wooden Bucket",
+        "en-GB": "Wooden Bucket",
+        "de": "Holzeimer",
+        "es": "Cubo de madera",
+        "fr": "Seau en bois",
+        "it": "Secchio di legno",
+        "nl": "Houten emmer",
+        "zh-CN": "木制水桶",
+        "zh-TW": "木製水桶",
+        "jp": "もくせいのバケツ",
+        "ko": "나무 양동이"
       }
     }
   }

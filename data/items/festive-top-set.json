@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Festive Top Set",
+        "en-GB": "Festive Top Set",
+        "de": "Dreidelspiel",
+        "es": "Juego de peonzas festivo",
+        "fr": "Jeu de toupies de fête",
+        "it": "Set di trottole festive",
+        "nl": "Feesttollenset",
+        "zh-CN": "节日陀螺",
+        "zh-TW": "節日陀螺",
+        "jp": "おまつりのコマ",
+        "ko": "축제 팽이"
+      }
     }
   },
   "category": "Furniture"

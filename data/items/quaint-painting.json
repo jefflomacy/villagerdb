@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 3920
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Quaint Painting"
+      }
     },
     "nh": {
       "orderable": false,
@@ -40,6 +43,19 @@
       "variations": {
         "real": "Real",
         "fake": "Fake"
+      },
+      "name": {
+        "en-US": "Quaint Painting",
+        "en-GB": "Quaint Painting",
+        "de": "Altertumsgemälde",
+        "es": "Retrato holandés",
+        "fr": "Toile charmante",
+        "it": "Quadro buffo",
+        "nl": "Traditionele schilderij",
+        "zh-CN": "平静的名画",
+        "zh-TW": "平靜的名畫",
+        "jp": "おちついためいが",
+        "ko": "침착한 명화"
       }
     }
   }

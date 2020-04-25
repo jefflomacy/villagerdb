@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Edelmann-Hut",
+        "en-GB": "Cavalier Hat",
+        "en-US": "Cavalier Hat",
+        "es": "Sombrero mosquetero",
+        "fr": "Chapeau d'équitation",
+        "it": "Capp. moschettiere",
+        "ja": "じゅうきしのぼうし"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -41,6 +50,19 @@
         "blue": "Blue",
         "red": "Red",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Cavalier Hat",
+        "en-GB": "Cavalier Hat",
+        "de": "Edelmann-Hut",
+        "es": "Sombrero mosquetero",
+        "fr": "Chapeau de mousquetaire",
+        "it": "Cappello da moschettiere",
+        "nl": "Musketiershoed",
+        "zh-CN": "骑士帽",
+        "zh-TW": "騎士帽",
+        "jp": "じゅうきしのぼうし",
+        "ko": "기사 모자"
       }
     }
   }

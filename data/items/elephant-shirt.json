@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Elefantenpulli",
+        "en-GB": "Elephant Shirt",
+        "en-US": "Elephant Shirt",
+        "es": "Jersey elefantito",
+        "fr": "Pull éléphant",
+        "it": "Maglia elefante",
+        "ja": "ゾウのふくL"
+      }
     }
   }
 }

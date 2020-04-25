@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Modelleisenbahn",
+        "en-GB": "Train Set",
+        "en-US": "Train Set",
+        "es": "Tren eléctrico",
+        "fr": "Train miniature",
+        "it": "Pista trenino",
+        "ja": "てつどうもけい"
+      }
     },
     "nh": {
       "orderable": true,
@@ -40,6 +49,19 @@
         "summer": "Summer",
         "fall": "Fall",
         "winter": "Winter"
+      },
+      "name": {
+        "en-US": "Train Set",
+        "en-GB": "Train Set",
+        "de": "Modelleisenbahn",
+        "es": "Tren eléctrico",
+        "fr": "Train miniature",
+        "it": "Pista trenino",
+        "nl": "Treinset",
+        "zh-CN": "铁道模型",
+        "zh-TW": "鐵道模型",
+        "jp": "てつどうもけい",
+        "ko": "철도 모형"
       }
     }
   }

@@ -11,7 +11,10 @@
       },
       "sources": [
         "Hidden under rocks (smack with a shovel)."
-      ]
+      ],
+      "name": {
+        "en-US": "Pill Bug"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 250
+      },
+      "name": {
+        "en-US": "Pill Bug",
+        "en-GB": "Pill Bug",
+        "de": "Kugelassel",
+        "es": "Cochinilla",
+        "fr": "Cloporte",
+        "it": "Porcellino di terra",
+        "nl": "Rolpissebed",
+        "zh-CN": "鼠妇",
+        "zh-TW": "鼠婦",
+        "jp": "ダンゴムシ",
+        "ko": "공벌레"
       }
     }
   }

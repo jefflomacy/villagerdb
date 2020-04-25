@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Mambo"
+      }
     },
     "nh": {
       "orderable": true,
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Mambo",
+        "en-GB": "K.K. Mambo",
+        "de": "K.K. Mambo",
+        "es": "Tota-Mambo",
+        "fr": "Mambo de Kéké",
+        "it": "K.K. Mambo",
+        "nl": "K.K.-Mambo",
+        "zh-CN": "K.K.曼波",
+        "zh-TW": "K.K.曼波",
+        "jp": "けけマンボ",
+        "ko": "K.K.맘보",
+        "ru": "Мамбо К. К."
+      }
     }
   }
 }

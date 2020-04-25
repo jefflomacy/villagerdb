@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "de": "Radlerjacke",
+        "en-GB": "Cycling Shirt",
+        "en-US": "Cycling Shirt",
+        "es": "Jersey ciclista",
+        "fr": "Pull cycliste",
+        "it": "Maglia ciclista",
+        "ja": "サイクルジャージ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -44,6 +53,19 @@
         "red-orange": "Red & orange",
         "lime-light-blue": "Lime & light blue",
         "purple-pink": "Purple & pink"
+      },
+      "name": {
+        "en-US": "Cycling Shirt",
+        "en-GB": "Cycling Shirt",
+        "de": "Radlerjacke",
+        "es": "Maillot de ciclista",
+        "fr": "Pull cycliste",
+        "it": "Maglia da ciclista",
+        "nl": "Wielrennersshirt",
+        "zh-CN": "单车运动服",
+        "zh-TW": "單車運動服",
+        "jp": "サイクルジャージ",
+        "ko": "자전거 경주복"
       }
     }
   }

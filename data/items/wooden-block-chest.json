@@ -19,6 +19,19 @@
         "colorful": "Colorful",
         "pastel": "Pastel",
         "vivid": "Vivid"
+      },
+      "name": {
+        "en-US": "Wooden-Block Chest",
+        "en-GB": "Wooden-Block Chest",
+        "de": "Bauklotzregal",
+        "es": "Cómoda construcciones",
+        "fr": "Commode blocs de bois",
+        "it": "Comò blocchi di legno",
+        "nl": "Houtblokladekast",
+        "zh-CN": "积木矮柜",
+        "zh-TW": "積木矮櫃",
+        "jp": "つみきチェスト",
+        "ko": "나무블록 수납장"
       }
     }
   },

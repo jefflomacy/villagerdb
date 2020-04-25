@@ -16,7 +16,20 @@
           "currency": "miles",
           "value": 400
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "Nook Inc.团扇",
+        "de": "Nook-Inc.-Uchiwa-Fächer's",
+        "en-GB": "Nook Inc. Uchiwa Fan",
+        "es": "Paipay de Nook Inc.",
+        "fr": "Éventail uchiwa Nook Inc.",
+        "it": "Ventaglio uchiwa Nook Inc.",
+        "jp": "たぬきかいはつうちわ",
+        "ko": "Nook Inc. 둥글부채",
+        "nl": "Nook Inc.-uchiwa-waaier",
+        "zh-TW": "Nook Inc.扇子",
+        "en-US": "Nook Inc. Uchiwa Fan"
+      }
     }
   },
   "category": "Tools"

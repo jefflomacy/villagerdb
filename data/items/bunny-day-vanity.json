@@ -14,6 +14,19 @@
       },
       "recipe": {
         "leaf-egg": 4
+      },
+      "name": {
+        "en-US": "Bunny Day Vanity",
+        "en-GB": "Bunny Day Vanity",
+        "de": "Häschentag-Frisiertisch",
+        "es": "Tocador Caza del Huevo",
+        "fr": "Coiffeuse fête des œufs",
+        "it": "Toletta caccia all'uovo",
+        "nl": "Eiermake-Uptafel",
+        "zh-CN": "复活节梳妆台",
+        "zh-TW": "復活節梳妝台",
+        "jp": "イースターなドレッサー",
+        "ko": "이스터 화장대"
       }
     }
   },

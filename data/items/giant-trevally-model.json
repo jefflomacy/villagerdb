@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 13500
+      },
+      "name": {
+        "en-US": "Giant Trevally Model",
+        "en-GB": "Giant Trevally Model",
+        "de": "Stachelmakrelenmodell",
+        "es": "Figura de jurel gigante",
+        "fr": "Modèle de carangue",
+        "it": "Replica di carango gigante",
+        "nl": "Modelreuzenhorsmakreel",
+        "zh-CN": "白面弄鱼模型",
+        "zh-TW": "浪人鰺模型",
+        "jp": "ロウニンアジのもけい",
+        "ko": "무명갈전갱이 모형"
       }
     }
   },

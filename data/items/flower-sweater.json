@@ -18,6 +18,19 @@
         "green": "Green",
         "white": "White",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Flower Sweater",
+        "en-GB": "Flower Sweater",
+        "de": "Blumenpulli",
+        "es": "Jersey florecitas",
+        "fr": "Pull fleuri",
+        "it": "Maglione fiorito",
+        "nl": "Bloementrui",
+        "zh-CN": "花朵针织衫",
+        "zh-TW": "花紋針織衫",
+        "jp": "はながらのニット",
+        "ko": "꽃무늬 니트"
       }
     }
   },

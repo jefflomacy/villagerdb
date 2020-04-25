@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "咪露的海报",
+        "de": "Poster's von Katja",
+        "en-GB": "Katie's Poster",
+        "es": "Póster de Cati",
+        "fr": "Poster de Cathie",
+        "it": "Poster di Micetta",
+        "jp": "まいこちゃんのポスター",
+        "ko": "미야의 포스터",
+        "nl": "Poster van Katie",
+        "zh-TW": "咪露的海報",
+        "en-US": "Katie's Poster"
+      }
     }
   },
   "category": "Photos"

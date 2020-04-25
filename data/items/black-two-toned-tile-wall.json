@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1850
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Black Two-Toned Tile Wall",
+        "en-GB": "Black Two-Toned Tile Wall",
+        "de": "Schwarz-Weiß-Fliesenwand",
+        "es": "Pared damero negro",
+        "fr": "Mur carrelé bicolore noir",
+        "it": "Muro piastrelle bianconero",
+        "nl": "Zwarte tegelpatroonwand",
+        "zh-CN": "单色配色撞色砖墙",
+        "zh-TW": "灰階配色撞色磚牆",
+        "jp": "モノクロツートンタイルのかべ",
+        "ko": "흑백 투톤 타일 벽"
+      }
     }
   },
   "category": "Wallpaper"

@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sushi Chef's Outfit"
+      }
     },
     "nh": {
       "orderable": true,
@@ -34,6 +37,19 @@
       "variations": {
         "white": "White",
         "dark-blue": "Dark blue"
+      },
+      "name": {
+        "en-US": "Sushi Chef's Outfit",
+        "en-GB": "Sushi Chef's Outfit",
+        "de": "Sushikochjacke",
+        "es": "Chaqueta de chef de sushi",
+        "fr": "Tenue de chef sushi",
+        "it": "Giacca da chef di sushi",
+        "nl": "Sushikoksbuis",
+        "zh-CN": "日本料理厨师服",
+        "zh-TW": "日本料理廚師衣服",
+        "jp": "いたまえのふく",
+        "ko": "일식 주방장 옷"
       }
     }
   }

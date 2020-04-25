@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 600
         }
-      ]
+      ],
+      "name": {
+        "de": "Klappstuhl",
+        "en-GB": "Folding Chair",
+        "en-US": "Folding Chair",
+        "es": "Silla tijera",
+        "fr": "Chaise pliante",
+        "it": "Sedia pieghevole",
+        "ja": "パイプイス"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -37,6 +46,19 @@
         "brown": "Brown",
         "black": "Black",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Folding Chair",
+        "en-GB": "Folding Chair",
+        "de": "Klappstuhl",
+        "es": "Silla de tijera",
+        "fr": "Chaise pliante",
+        "it": "Sedia pieghevole",
+        "nl": "Klapstoel",
+        "zh-CN": "折叠椅",
+        "zh-TW": "摺疊椅",
+        "jp": "パイプイス",
+        "ko": "강당 의자"
       }
     }
   }

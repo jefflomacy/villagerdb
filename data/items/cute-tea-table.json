@@ -20,6 +20,19 @@
         "yellow": "Yellow",
         "red": "Red",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Cute Tea Table",
+        "en-GB": "Cute Tea Table",
+        "de": "Bonbon-Tisch",
+        "es": "Mesita cuqui",
+        "fr": "Table ronde mimi",
+        "it": "Tavolo da tè grazioso",
+        "nl": "Schattige theetafel",
+        "zh-CN": "可爱茶桌",
+        "zh-TW": "可愛茶桌",
+        "jp": "キュートなティーテーブル",
+        "ko": "큐트 티 테이블"
       }
     }
   },

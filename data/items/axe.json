@@ -11,7 +11,10 @@
       },
       "sources": [
         "Gardening Store"
-      ]
+      ],
+      "name": {
+        "en-US": "Axe"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +27,19 @@
         "flimsy-axe": 1,
         "wood": 3,
         "iron-nugget": 1
+      },
+      "name": {
+        "en-US": "Axe",
+        "en-GB": "Axe",
+        "de": "Axt",
+        "es": "Hacha",
+        "fr": "Hache",
+        "it": "Ascia",
+        "nl": "Bijl",
+        "zh-CN": "斧头",
+        "zh-TW": "斧頭",
+        "jp": "オノ",
+        "ko": "도끼"
       }
     }
   }

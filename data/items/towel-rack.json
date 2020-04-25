@@ -21,7 +21,10 @@
           "currency": "meow",
           "value": 5
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Towel Rack"
+      }
     }
   }
 }

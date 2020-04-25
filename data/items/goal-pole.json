@@ -15,7 +15,16 @@
       },
       "sources": [
         "Fortune cookie #19"
-      ]
+      ],
+      "name": {
+        "de": "Zielpfahl",
+        "en-GB": "Goal Pole",
+        "en-US": "Goal Pole",
+        "es": "Banderín",
+        "fr": "Drapeau Mario",
+        "it": "Asta della bandiera",
+        "ja": "ゴールポール"
+      }
     }
   }
 }

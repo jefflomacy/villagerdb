@@ -23,7 +23,10 @@
           "currency": "bells",
           "value": 6400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Cool Dress"
+      }
     }
   }
 }

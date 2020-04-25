@@ -28,7 +28,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Blockhaustischchen",
+        "en-GB": "Cabin Low Table",
+        "en-US": "Cabin Low Table",
+        "es": "Mesita cabaña",
+        "fr": "Table basse chalet",
+        "it": "Tavolino rustico",
+        "ja": "ログソファテーブル"
+      }
     }
   }
 }

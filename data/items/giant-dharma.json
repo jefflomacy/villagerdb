@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Riesen-Daruma",
+        "en-GB": "Giant Dharma",
+        "en-US": "Giant Dharma",
+        "es": "Daruma gigante",
+        "fr": "Matriochka XL",
+        "it": "Dharma gigante",
+        "ja": "ひっしょうダルマ"
+      }
     }
   }
 }

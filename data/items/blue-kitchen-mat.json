@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Kitchen Mat",
+        "en-GB": "Blue Kitchen Mat",
+        "de": "Blau-Küchenmatte",
+        "es": "Alfombra cocina azul",
+        "fr": "Tapis de cuisine bleu",
+        "it": "Tappetino cucina blu",
+        "nl": "Blauwe keukenmat",
+        "zh-CN": "蓝色厨房地垫",
+        "zh-TW": "藍色廚房地墊",
+        "jp": "あおいキッチンマット",
+        "ko": "파란 키친 매트"
+      }
     }
   },
   "category": "Flooring"

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "de": "Reggae-Top",
+        "en-GB": "Reggae Tank",
+        "en-US": "Reggae Tank",
+        "es": "Top reggae",
+        "fr": "Débardeur reggae",
+        "it": "Canotta reggae",
+        "ja": "レゲエなふくN"
+      }
     }
   }
 }

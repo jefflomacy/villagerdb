@@ -17,6 +17,19 @@
         "black": "Black",
         "pink": "Pink",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Pedal Board",
+        "en-GB": "Pedal Board",
+        "de": "Effekt-Board",
+        "es": "Pedalera de guitarra",
+        "fr": "Pedalboard",
+        "it": "Pedana con pedali",
+        "nl": "Effectpedalen",
+        "zh-CN": "效果器组合",
+        "zh-TW": "效果器組合",
+        "jp": "エフェクターセット",
+        "ko": "이펙터 세트"
       }
     }
   },

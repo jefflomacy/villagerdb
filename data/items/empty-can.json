@@ -11,7 +11,10 @@
       },
       "sources": [
         "Freshwater or sea (small shadow)"
-      ]
+      ],
+      "name": {
+        "en-US": "Empty Can"
+      }
     },
     "nh": {
       "orderable": false,
@@ -21,6 +24,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "空罐",
+        "de": "Dose",
+        "en-GB": "Empty Can",
+        "es": "Chatarra",
+        "fr": "Boîte vide",
+        "it": "Lattina vuota",
+        "jp": "あきカン",
+        "ko": "빈 통조림 캔",
+        "nl": "Lege blikje",
+        "zh-TW": "空罐",
+        "en-US": "Empty Can"
       }
     }
   }

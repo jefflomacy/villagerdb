@@ -11,7 +11,10 @@
       },
       "sources": [
         "Near tree stumps (rare)"
-      ]
+      ],
+      "name": {
+        "en-US": "Famous Mushroom"
+      }
     }
   }
 }

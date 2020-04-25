@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "开关叔叔的海报",
+        "de": "Poster's von Don",
+        "en-GB": "Don's Poster",
+        "es": "Póster de Forma T.",
+        "fr": "Poster de Don",
+        "it": "Poster di Don",
+        "jp": "ラケットさんのポスター",
+        "ko": "오루묵씨의 포스터",
+        "nl": "Poster van Don",
+        "zh-TW": "開關叔叔的海報",
+        "en-US": "Don's Poster"
+      }
     }
   },
   "category": "Photos"

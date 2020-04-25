@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4500
+      },
+      "name": {
+        "en-US": "Nibble Fish Model",
+        "en-GB": "Nibble Fish Model",
+        "de": "Saugbarbenmodell",
+        "es": "Figura de pez doctor",
+        "fr": "Modèle de poisson docteur",
+        "it": "Replica di garra rufa",
+        "nl": "Modelknabbelvisje",
+        "zh-CN": "温泉医生鱼模型",
+        "zh-TW": "溫泉醫生魚模型",
+        "jp": "ドクターフィッシュのもけい",
+        "ko": "닥터피시 모형"
       }
     }
   },

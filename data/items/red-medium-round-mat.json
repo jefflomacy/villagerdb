@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Medium Round Mat",
+        "en-GB": "Red Medium Round Mat",
+        "de": "Rot-Rundmatte M",
+        "es": "Alfombra redonda roja M",
+        "fr": "Tapis rond rouge M",
+        "it": "Tappetino tondo rosso M",
+        "nl": "Rode ronde mat",
+        "zh-CN": "红色圆形地垫M",
+        "zh-TW": "中型紅色圓地墊",
+        "jp": "あかいラウンドマット・M",
+        "ko": "빨간 라운드 매트 M"
+      }
     }
   },
   "category": "Flooring"

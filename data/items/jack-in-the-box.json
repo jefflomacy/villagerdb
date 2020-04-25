@@ -23,7 +23,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Schachtelkobold",
+        "en-GB": "Jack-In-The-Box",
+        "en-US": "Jack-In-The-Box",
+        "es": "Caja sorpresa",
+        "fr": "Boîte à malice",
+        "it": "Zucca a molla",
+        "ja": "ビックリばこ"
+      }
     }
   }
 }

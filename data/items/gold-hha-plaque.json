@@ -12,12 +12,34 @@
       "sources": [
         "HHA (70",
         "000 points)"
-      ]
+      ],
+      "name": {
+        "de": "AdsH-Goldabzeichen",
+        "en-GB": "Gold HHA Plaque",
+        "en-US": "Gold HHA Plaque",
+        "es": "Placa AAD de oro",
+        "fr": "Plaque AJD or",
+        "it": "Targa ABC d'oro",
+        "ja": "アカデミーのきんのたて"
+      }
     },
     "nh": {
       "sellPrice": {
         "currency": "bells",
         "value": 450
+      },
+      "name": {
+        "en-US": "Gold HHA Plaque",
+        "en-GB": "Gold HHA Plaque",
+        "de": "Adsh-Goldabzeichen",
+        "es": "Placa AAD de oro",
+        "fr": "Plaque AJD or",
+        "it": "Targa ABC d'oro",
+        "nl": "Gouden AWW-plaket",
+        "zh-CN": "快乐家协会金奖座",
+        "zh-TW": "快樂家協會金獎座",
+        "jp": "アカデミーのきんのたて",
+        "ko": "아카데미 금 상패"
       }
     }
   }

@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 2200
         }
-      ]
+      ],
+      "name": {
+        "de": "Punktetafel",
+        "en-GB": "Scoreboard",
+        "en-US": "Scoreboard",
+        "es": "Marcador",
+        "fr": "Compte-points",
+        "it": "Segnapunti",
+        "ja": "とくてんボード"
+      }
     }
   }
 }

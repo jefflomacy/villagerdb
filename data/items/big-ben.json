@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Big Ben",
+        "en-GB": "Big Ben",
+        "en-US": "Big Ben",
+        "es": "Big Ben",
+        "fr": "Maquette de Big Ben",
+        "it": "Big Ben",
+        "ja": "ビッグベン"
+      }
     }
   }
 }

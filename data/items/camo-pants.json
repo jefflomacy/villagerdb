@@ -21,6 +21,19 @@
         "gray": "Gray",
         "purple": "Purple",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Camo Pants",
+        "en-GB": "Camo Pants",
+        "de": "Tarnhose",
+        "es": "Pantalón camuflaje",
+        "fr": "Pantalon camouflage",
+        "it": "Pantalone mimetico",
+        "nl": "Camouflagebroek",
+        "zh-CN": "迷彩裤",
+        "zh-TW": "迷彩褲",
+        "jp": "めいさいパンツ",
+        "ko": "밀리터리 바지"
       }
     }
   },

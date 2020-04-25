@@ -17,6 +17,19 @@
         "black": "Black",
         "gold": "Gold",
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Terrarium",
+        "en-GB": "Terrarium",
+        "de": "Terrarium",
+        "es": "Terrario botánico",
+        "fr": "Terrarium",
+        "it": "Terrario",
+        "nl": "Terrarium",
+        "zh-CN": "玻璃盆栽",
+        "zh-TW": "玻璃盆栽",
+        "jp": "テラリウム",
+        "ko": "테라리움"
       }
     }
   },

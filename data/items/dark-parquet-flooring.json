@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1560
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Dark Parquet Flooring",
+        "en-GB": "Dark Parquet Flooring",
+        "de": "Dunkel-Rautenparkett",
+        "es": "Parqué rombos oscuro",
+        "fr": "Sol parquet foncé",
+        "it": "Parquet scuro",
+        "nl": "Donker",
+        "zh-CN": "深色拼花地板",
+        "zh-TW": "深色拼花地板",
+        "jp": "ダークなパーケットフローリング",
+        "ko": "어두운 쪽모이 바닥"
+      }
     }
   },
   "category": "Flooring"

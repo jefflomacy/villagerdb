@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Bernsteinrock",
+        "en-GB": "Red Plaid Skirt",
+        "en-US": "Red Plaid Skirt",
+        "es": "Falda cuadros rojiza",
+        "fr": "Jupe losanges orange",
+        "it": "Gonna settembrina",
+        "ja": "あかいチェックスカート"
+      }
     }
   }
 }

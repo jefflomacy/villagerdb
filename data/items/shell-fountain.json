@@ -20,6 +20,19 @@
         "yellow": "Yellow",
         "purple": "Purple",
         "pearl": "Pearl"
+      },
+      "name": {
+        "en-US": "Shell Fountain",
+        "en-GB": "Shell Fountain",
+        "de": "Muschel-Springbrunnen",
+        "es": "Fuente conchas marinas",
+        "fr": "Fontaine coquillages",
+        "it": "Fontana conchiglia",
+        "nl": "Schelpenfontein",
+        "zh-CN": "贝壳喷泉",
+        "zh-TW": "貝殼噴泉",
+        "jp": "かいがらのふんすい",
+        "ko": "조개 분수"
       }
     }
   },

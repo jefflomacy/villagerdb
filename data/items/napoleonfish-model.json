@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 30000
+      },
+      "name": {
+        "en-US": "Napoleonfish Model",
+        "en-GB": "Napoleonfish Model",
+        "de": "Napolenfischmodell",
+        "es": "Figura de pez napoleón",
+        "fr": "Modèle de napoléon",
+        "it": "Replica di pesce napoleone",
+        "nl": "Modelnapoleonvis",
+        "zh-CN": "苏眉鱼模型",
+        "zh-TW": "蘇眉魚模型",
+        "jp": "ナポレオンフィッシュのもけい",
+        "ko": "나폴레옹피시 모형"
       }
     }
   },

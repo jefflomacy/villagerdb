@@ -11,7 +11,10 @@
       },
       "sources": [
         "In grassy patches."
-      ]
+      ],
+      "name": {
+        "en-US": "Grasshopper"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 160
+      },
+      "name": {
+        "en-US": "Grasshopper",
+        "en-GB": "Grasshopper",
+        "de": "Grashüpfer",
+        "es": "Saltamontes",
+        "fr": "Sauterelle",
+        "it": "Cavalletta",
+        "nl": "Sprinkhaan",
+        "zh-CN": "蚱蜢",
+        "zh-TW": "蚱蜢",
+        "jp": "キリギリス",
+        "ko": "여치"
       }
     }
   }

@@ -25,6 +25,19 @@
         "marine-blue": "Marine blue",
         "yellow": "Yellow",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "DIY Workbench",
+        "en-GB": "DIY Workbench",
+        "de": "Werkbank",
+        "es": "Banco de bricolaje",
+        "fr": "Établi",
+        "it": "Banco da lavoro",
+        "nl": "Werkbank",
+        "zh-CN": "DIY作业台",
+        "zh-TW": "ＤＩＹ作業台",
+        "jp": "DIYさぎょうだい",
+        "ko": "DIY 작업대"
       }
     }
   },

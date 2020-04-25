@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 500
         }
-      ]
+      ],
+      "name": {
+        "de": "Ultra Hand",
+        "en-GB": "Ultra Hand",
+        "en-US": "Ultra Hand",
+        "es": "Ultra Hand",
+        "fr": "Ultra Hand",
+        "it": "Ultra Hand",
+        "ja": "ウルトラハンド"
+      }
     }
   }
 }

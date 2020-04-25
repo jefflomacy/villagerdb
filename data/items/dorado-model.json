@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 45000
+      },
+      "name": {
+        "en-US": "Dorado Model",
+        "en-GB": "Dorado Model",
+        "de": "Lachssalmlermodell",
+        "es": "Figura de dorado",
+        "fr": "Modèle de dorado",
+        "it": "Replica di dorado",
+        "nl": "Modeldorado",
+        "zh-CN": "黄金河虎模型",
+        "zh-TW": "黃金河虎模型",
+        "jp": "ドラドのもけい",
+        "ko": "황금연어 모형"
       }
     }
   },

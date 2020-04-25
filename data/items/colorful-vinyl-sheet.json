@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Colorful Vinyl Sheet",
+        "en-GB": "Colorful Vinyl Sheet",
+        "de": "Bunt-Vinyltuch",
+        "es": "Alfombra de vinilo colorida",
+        "fr": "Tapis vinyle coloré",
+        "it": "Tappeto vinile colorato",
+        "nl": "Kleurrijke vinylmat",
+        "zh-CN": "彩色塑胶垫",
+        "zh-TW": "彩色塑膠墊",
+        "jp": "カラフルなビニールシート",
+        "ko": "컬러풀 비닐 시트"
+      }
     }
   },
   "category": "Flooring"

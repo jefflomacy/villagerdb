@@ -8,7 +8,20 @@
           "currency": "bells",
           "value": 128000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue-Plank Ramp",
+        "en-GB": "Blue-Plank Ramp",
+        "de": "Blau-Bretterrampe",
+        "es": "Rampa de tablas azules",
+        "fr": "Pente planches bleues",
+        "it": "Rampa di assi blu",
+        "nl": "Blauwe houten helling",
+        "zh-CN": "蓝色木板斜坡",
+        "zh-TW": "藍色木板斜坡",
+        "jp": "あおいいたのスロープ",
+        "ko": "파란 널빤지 슬로프"
+      }
     }
   },
   "category": "Furniture"

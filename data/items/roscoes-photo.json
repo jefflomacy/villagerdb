@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "黑马的照片",
+        "de": "Foto's von Jolly",
+        "en-GB": "Roscoe's Photo",
+        "es": "Foto de Jereza",
+        "fr": "Photo de Rosco",
+        "it": "Foto di Roscoe",
+        "jp": "シュバルツのしゃしん",
+        "ko": "슈베르트의 사진",
+        "nl": "Foto van Roscoe",
+        "zh-TW": "黑馬的照片",
+        "en-US": "Roscoe's Photo"
       }
     }
   },

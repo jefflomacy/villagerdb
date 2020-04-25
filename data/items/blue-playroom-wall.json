@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2540
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Playroom Wall",
+        "en-GB": "Blue Playroom Wall",
+        "de": "Blau-Spieltapete",
+        "es": "Pared barquito azul",
+        "fr": "Mur salle de jeu bleu",
+        "it": "Muro stanza giochi azzurro",
+        "nl": "Blauwe kinderkamerwand",
+        "zh-CN": "蓝色儿童房壁纸",
+        "zh-TW": "藍色兒童房壁紙",
+        "jp": "あおいキッズルームのかべがみ",
+        "ko": "파란 놀이방 벽지"
+      }
     }
   },
   "category": "Wallpaper"

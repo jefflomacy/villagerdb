@@ -16,6 +16,19 @@
         "green-bamboo": "Green bamboo",
         "dried-bamboo": "Dried bamboo",
         "smoke-cured-bamboo": "Smoke-cured bamboo"
+      },
+      "name": {
+        "en-US": "Bamboo Stopblock",
+        "en-GB": "Bamboo Stopblock",
+        "de": "Bambus-Absperrung",
+        "es": "Barrera de bambú",
+        "fr": "Heurtoir en bambou",
+        "it": "Barriera di bambù",
+        "nl": "Bamboebarrière",
+        "zh-CN": "竹制挡车墩",
+        "zh-TW": "竹製擋車墩",
+        "jp": "たけのくるまどめ",
+        "ko": "대나무 주차 멈춤 턱"
       }
     }
   },

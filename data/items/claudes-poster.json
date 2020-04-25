@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿醋的海报",
+        "de": "Poster's von Claude",
+        "en-GB": "Claude's Poster",
+        "es": "Póster de Pablo",
+        "fr": "Poster de Claude",
+        "it": "Poster di Claude",
+        "jp": "ビネガーのポスター",
+        "ko": "비니거의 포스터",
+        "nl": "Poster van Claude",
+        "zh-TW": "阿醋的海報",
+        "en-US": "Claude's Poster"
+      }
     }
   },
   "category": "Photos"

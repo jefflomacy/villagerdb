@@ -21,6 +21,19 @@
       ],
       "recipe": {
         "tree-branch": 5
+      },
+      "name": {
+        "en-US": "Flimsy Fishing Rod",
+        "en-GB": "Flimsy Fishing Rod",
+        "de": "Wackelangel",
+        "es": "Caña endeble",
+        "fr": "Canne à pêche rudimentaire",
+        "it": "Canna da pesca fragile",
+        "nl": "Breekbare hengel",
+        "zh-CN": "简陋钓竿",
+        "zh-TW": "簡陋釣竿",
+        "jp": "ショボいつりざお",
+        "ko": "엉성한 낚싯대"
       }
     }
   }

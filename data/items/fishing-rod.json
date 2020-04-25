@@ -11,7 +11,10 @@
       },
       "sources": [
         "Nookling stores"
-      ]
+      ],
+      "name": {
+        "en-US": "Fishing Rod"
+      }
     },
     "nh": {
       "orderable": false,
@@ -33,6 +36,19 @@
         "pink": "Pink",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Fishing Rod",
+        "en-GB": "Fishing Rod",
+        "de": "Angel",
+        "es": "Caña",
+        "fr": "Canne à pêche",
+        "it": "Canna da pesca",
+        "nl": "Hengel",
+        "zh-CN": "钓竿",
+        "zh-TW": "釣竿",
+        "jp": "つりざお",
+        "ko": "낚싯대"
       }
     }
   }

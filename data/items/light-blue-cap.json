@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Haikappe",
+        "en-GB": "Light-Blue Cap",
+        "en-US": "Light-Blue Cap",
+        "es": "Gorra celeste",
+        "fr": "Casquette bleu clair",
+        "it": "Cappello celeste",
+        "ja": "みずいろのキャップ"
+      }
     }
   }
 }

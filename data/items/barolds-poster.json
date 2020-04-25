@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿西的海报",
+        "de": "Poster's von Hubert",
+        "en-GB": "Barold's Poster",
+        "es": "Póster de Plácido",
+        "fr": "Poster de Manu",
+        "it": "Poster di Placido",
+        "jp": "ニッシーのポスター",
+        "ko": "곰시의 포스터",
+        "nl": "Poster van Barold",
+        "zh-TW": "阿西的海報",
+        "en-US": "Barold's Poster"
+      }
     }
   },
   "category": "Photos"

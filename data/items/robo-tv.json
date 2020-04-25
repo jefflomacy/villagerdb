@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 2360
         }
-      ]
+      ],
+      "name": {
+        "de": "Robo-Fernseher",
+        "en-GB": "Robo-Tv",
+        "en-US": "Robo-Tv",
+        "es": "Robotele",
+        "fr": "Télé robot",
+        "it": "Robo-TV",
+        "ja": "ロボテレビ"
+      }
     }
   }
 }

@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Simple Medium Avocado Mat",
+        "en-GB": "Simple Medium Avocado Mat",
+        "de": "Khaki-Standardmatte M",
+        "es": "Alfombra sencilla oliva M",
+        "fr": "Tapis simple vert kaki M",
+        "it": "Tappetino verde olivastro M",
+        "nl": "Simpele kakimat",
+        "zh-CN": "卡其色简约地垫M",
+        "zh-TW": "中型卡其色簡約地墊",
+        "jp": "カーキのシンプルマット・M",
+        "ko": "카키 심플 매트 M"
+      }
     }
   },
   "category": "Flooring"

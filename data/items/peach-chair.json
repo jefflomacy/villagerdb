@@ -16,6 +16,19 @@
       "variations": {
         "white-peach": "White peach",
         "yellow-peach": "Yellow peach"
+      },
+      "name": {
+        "en-US": "Peach Chair",
+        "en-GB": "Peach Chair",
+        "de": "Pfirsichstuhl",
+        "es": "Sillón melocotón",
+        "fr": "Fauteuil pêche",
+        "it": "Sedia pesca",
+        "nl": "Perzikstoel",
+        "zh-CN": "桃子椅",
+        "zh-TW": "桃子椅",
+        "jp": "モモのチェア",
+        "ko": "복숭아 체어"
       }
     }
   },

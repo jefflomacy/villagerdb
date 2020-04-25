@@ -25,6 +25,19 @@
         "pink": "Pink",
         "gray": "Gray",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Moccasins",
+        "en-GB": "Moccasins",
+        "de": "Paars Mokassins",
+        "es": "Mocasín tradicional",
+        "fr": "Paire de mocassins",
+        "it": "Paio di mocassini classici",
+        "nl": "Mocassins met strik",
+        "zh-CN": "莫卡辛鞋",
+        "zh-TW": "莫卡辛鞋",
+        "jp": "モカシン",
+        "ko": "모카신"
       }
     }
   },

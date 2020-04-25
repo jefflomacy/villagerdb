@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 1580
         }
-      ]
+      ],
+      "name": {
+        "de": "Designeruhr",
+        "en-GB": "Sleek Clock",
+        "en-US": "Sleek Clock",
+        "es": "Reloj tubos",
+        "fr": "Horloge design",
+        "it": "Orologio design",
+        "ja": "パイプなとけい"
+      }
     }
   }
 }

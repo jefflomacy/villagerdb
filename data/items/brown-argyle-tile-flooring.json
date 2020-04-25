@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1440
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Brown Argyle-Tile Flooring",
+        "en-GB": "Brown Argyle-Tile Flooring",
+        "de": "Braun-Rautenfliesenboden",
+        "es": "Suelo rombos pardo",
+        "fr": "Carrelage diagonal brun",
+        "it": "Pavimento rombi marrone",
+        "nl": "Bruine geruite tegelvloer",
+        "zh-CN": "棕色菱格纹砖地板",
+        "zh-TW": "棕色菱格紋磚地板",
+        "jp": "ブラウンのアーガイルタイルゆか",
+        "ko": "브라운 아가일 타일 바닥"
+      }
     }
   },
   "category": "Flooring"

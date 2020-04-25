@@ -17,7 +17,20 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Roses",
+        "en-GB": "Yellow Roses",
+        "de": "Bernsteinrosen",
+        "es": "Rosas amarillas",
+        "fr": "Roses jaunes",
+        "it": "Rose gialle",
+        "nl": "Gele rozen",
+        "zh-CN": "黄色玫瑰",
+        "zh-TW": "黃色玫瑰",
+        "jp": "きいろいバラ",
+        "ko": "노란 장미"
+      }
     }
   },
   "category": "Flowers"

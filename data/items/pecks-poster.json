@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "文雄的海报",
+        "de": "Poster's von Picko",
+        "en-GB": "Peck's Poster",
+        "es": "Póster de Picuet",
+        "fr": "Poster de Pec",
+        "it": "Poster di Gheppio",
+        "jp": "ふみたろうのポスター",
+        "ko": "문대의 포스터",
+        "nl": "Poster van Peck",
+        "zh-TW": "文雄的海報",
+        "en-US": "Peck's Poster"
+      }
     }
   },
   "category": "Photos"

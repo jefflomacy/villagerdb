@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿聘的海报",
+        "de": "Poster's von Mausbert",
+        "en-GB": "Moose's Poster",
+        "es": "Póster de Sato",
+        "fr": "Poster de Joachim",
+        "it": "Poster di Aldo",
+        "jp": "ピンのポスター",
+        "ko": "핑의 포스터",
+        "nl": "Poster van Moose",
+        "zh-TW": "阿聘的海報",
+        "en-US": "Moose's Poster"
+      }
     }
   },
   "category": "Photos"

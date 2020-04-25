@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Smaragdmütze",
+        "en-GB": "Green Knit Hat",
+        "en-US": "Green Knit Hat",
+        "es": "Gorro verde",
+        "fr": "Bonnet vert",
+        "it": "Berretto verde",
+        "ja": "みどりのニットぼう"
+      }
     }
   }
 }

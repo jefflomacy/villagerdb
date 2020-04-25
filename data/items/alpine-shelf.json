@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2100
         }
-      ]
+      ],
+      "name": {
+        "de": "Nordregal",
+        "en-GB": "Alpine Shelf",
+        "en-US": "Alpine Shelf",
+        "es": "Aparador nórdico",
+        "fr": "étagère nordique",
+        "it": "Credenza nordica",
+        "ja": "スカンジナビアなたな"
+      }
     }
   }
 }

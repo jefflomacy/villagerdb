@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "闪电的照片",
+        "de": "Foto's von Rudolf",
+        "en-GB": "Static's Photo",
+        "es": "Foto de Protón",
+        "fr": "Photo d'électro",
+        "it": "Foto di Protone",
+        "jp": "スパークのしゃしん",
+        "ko": "스파크의 사진",
+        "nl": "Foto van Static",
+        "zh-TW": "閃電的照片",
+        "en-US": "Static's Photo"
       }
     }
   },

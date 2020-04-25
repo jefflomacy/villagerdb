@@ -15,6 +15,19 @@
       ],
       "variations": {
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Danger Tank",
+        "en-GB": "Danger Tank",
+        "de": "Linientop",
+        "es": "Top peligro",
+        "fr": "Débardeur danger",
+        "it": "Canotta ape",
+        "nl": "Gevarentanktop",
+        "zh-CN": "警示坦克背心",
+        "zh-TW": "警示坦克背心",
+        "jp": "デンジャラスなタンクトップ",
+        "ko": "위험한 탱크톱"
       }
     }
   },

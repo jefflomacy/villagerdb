@@ -15,7 +15,16 @@
       },
       "sources": [
         "Snowboy"
-      ]
+      ],
+      "name": {
+        "de": "Schneemanntisch",
+        "en-GB": "Snowman Table",
+        "en-US": "Snowman Table",
+        "es": "Mesa nieve",
+        "fr": "Table Yétiti",
+        "it": "Tavolo neve",
+        "ja": "ゆきだるまテーブル"
+      }
     }
   }
 }

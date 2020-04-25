@@ -22,6 +22,19 @@
         "shop": "Shop",
         "tailors": "Tailors",
         "museum": "Museum"
+      },
+      "name": {
+        "en-US": "Angled Signpost",
+        "en-GB": "Angled Signpost",
+        "de": "Diagonal-Wegweiser",
+        "es": "Poste indicador oblicuo",
+        "fr": "Panneau direction diagonal",
+        "it": "Segnale direzionale obliquo",
+        "nl": "Wegwijsbord",
+        "zh-CN": "倾斜路标",
+        "zh-TW": "傾斜路標",
+        "jp": "ナナメのみちしるべ",
+        "ko": "기울어진 이정표"
       }
     }
   },

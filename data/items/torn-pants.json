@@ -17,6 +17,19 @@
         "brown": "Brown",
         "black": "Black",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Torn Pants",
+        "en-GB": "Torn Pants",
+        "de": "Lumpenhose",
+        "es": "Pantalón desgarrado",
+        "fr": "Pantalon déchiré",
+        "it": "Pantalone strappato",
+        "nl": "Kapotte broek",
+        "zh-CN": "破旧裤子",
+        "zh-TW": "破爛褲子",
+        "jp": "やぶれたズボン",
+        "ko": "뜯어진 바지"
       }
     }
   },

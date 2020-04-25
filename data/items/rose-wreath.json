@@ -13,6 +13,19 @@
         "red-roses": 3,
         "white-roses": 3,
         "yellow-roses": 3
+      },
+      "name": {
+        "en-US": "Rose Wreath",
+        "en-GB": "Rose Wreath",
+        "de": "Rosentürkranz",
+        "es": "Corona rosa",
+        "fr": "Couronne roses",
+        "it": "Ghirlanda rose",
+        "nl": "Rozenkrans",
+        "zh-CN": "玫瑰花环",
+        "zh-TW": "玫瑰花圈",
+        "jp": "バラのリース",
+        "ko": "장미 리스"
       }
     }
   },

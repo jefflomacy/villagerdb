@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "远仁的海报",
+        "de": "Poster's von Simon",
+        "en-GB": "Simon's Poster",
+        "es": "Póster de Simón",
+        "fr": "Poster de Simon",
+        "it": "Poster di Simon",
+        "jp": "エテキチのポスター",
+        "ko": "시몬의 포스터",
+        "nl": "Poster van Simon",
+        "zh-TW": "遠仁的海報",
+        "en-US": "Simon's Poster"
+      }
     }
   },
   "category": "Photos"

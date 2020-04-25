@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "珮琳的海报",
+        "de": "Poster's von Rosi",
+        "en-GB": "Cookie's Poster",
+        "es": "Póster de Purita",
+        "fr": "Poster de Cookie",
+        "it": "Poster di Briciola",
+        "jp": "ペリーヌのポスター",
+        "ko": "베리의 포스터",
+        "nl": "Poster van Cookie",
+        "zh-TW": "珮琳的海報",
+        "en-US": "Cookie's Poster"
+      }
     }
   },
   "category": "Photos"

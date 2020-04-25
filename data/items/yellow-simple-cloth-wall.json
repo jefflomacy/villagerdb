@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 750
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Simple-Cloth Wall",
+        "en-GB": "Yellow Simple-Cloth Wall",
+        "de": "Gelb-Textiltapete",
+        "es": "Pared lisa amarilla",
+        "fr": "Mur textile jaune",
+        "it": "Muro liscio giallo",
+        "nl": "Gele gladde wand",
+        "zh-CN": "米色简约布面墙",
+        "zh-TW": "米色簡約布面牆",
+        "jp": "ベージュのシンプルクロス",
+        "ko": "베이지 심플 벽지"
+      }
     }
   },
   "category": "Wallpaper"

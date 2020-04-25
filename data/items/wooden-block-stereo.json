@@ -20,6 +20,19 @@
         "colorful": "Colorful",
         "pastel": "Pastel",
         "vivid": "Vivid"
+      },
+      "name": {
+        "en-US": "Wooden-Block Stereo",
+        "en-GB": "Wooden-Block Stereo",
+        "de": "Bauklotzanlage",
+        "es": "Cadena construcciones",
+        "fr": "Hi-Fi blocs de bois",
+        "it": "Stereo blocchi di legno",
+        "nl": "Houtblokstereo",
+        "zh-CN": "积木音响",
+        "zh-TW": "積木音響",
+        "jp": "つみきコンポ",
+        "ko": "나무블록 오디오"
       }
     }
   },

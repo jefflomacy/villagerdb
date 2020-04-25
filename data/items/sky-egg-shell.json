@@ -14,6 +14,19 @@
       },
       "variations": {
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Sky-Egg Shell",
+        "en-GB": "Sky-Egg Shell",
+        "de": "Luft-Eierschale",
+        "es": "Cáscara de huevo celeste",
+        "fr": "Coquille d'œuf aérien",
+        "it": "Guscio d'uovo celeste",
+        "nl": "Luchteierschaal",
+        "zh-CN": "飞天蛋壳",
+        "zh-TW": "飛天蛋殼",
+        "jp": "そらとぶたまごのから",
+        "ko": "하늘을 나는 달걀 껍질"
       }
     }
   },

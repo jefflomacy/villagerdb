@@ -17,6 +17,19 @@
         "blue": "Blue",
         "red": "Red",
         "silver": "Silver"
+      },
+      "name": {
+        "en-US": "Hard-Shell Backpack",
+        "en-GB": "Hard-Shell Backpack",
+        "de": "Hartschalenrucksack",
+        "es": "Mochila rígida",
+        "fr": "Sac à dos rigide",
+        "it": "Zaino a guscio",
+        "nl": "Harde rugzak",
+        "zh-CN": "硬壳双肩包",
+        "zh-TW": "硬殼後背包",
+        "jp": "ハードシェルリュック",
+        "ko": "하드 케이스 배낭"
       }
     }
   },

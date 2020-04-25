@@ -18,6 +18,19 @@
         "goldfish": "Goldfish",
         "camellia": "Camellia",
         "chain-print": "Chain print"
+      },
+      "name": {
+        "en-US": "Kimono Stand",
+        "en-GB": "Kimono Stand",
+        "de": "Kimonoständer",
+        "es": "Expositor de kimonos",
+        "fr": "Porte-Kimono",
+        "it": "Portakimono",
+        "nl": "Kimonorek",
+        "zh-CN": "和服架",
+        "zh-TW": "和服架",
+        "jp": "きものスタンド",
+        "ko": "기모노 걸이"
       }
     }
   },

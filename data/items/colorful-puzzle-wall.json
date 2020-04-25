@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1540
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Colorful Puzzle Wall",
+        "en-GB": "Colorful Puzzle Wall",
+        "de": "Bunt-Puzzletapete",
+        "es": "Pared rompecabezas alegre",
+        "fr": "Mur puzzle multicolore",
+        "it": "Muro puzzle variopinto",
+        "nl": "Kleurrijke puzzelwand",
+        "zh-CN": "彩色拼图壁纸",
+        "zh-TW": "彩色巧拼壁紙",
+        "jp": "カラフルパズルかべがみ",
+        "ko": "컬러풀 퍼즐 벽지"
+      }
     }
   },
   "category": "Wallpaper"

@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3920
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Robust Statue"
+      }
     },
     "nh": {
       "orderable": false,
@@ -41,6 +44,19 @@
       "variations": {
         "real": "Real",
         "fake": "Fake"
+      },
+      "name": {
+        "en-US": "Robust Statue",
+        "en-GB": "Robust Statue",
+        "de": "Athletenstatue",
+        "es": "Estatua atlética",
+        "fr": "Statue athlétique",
+        "it": "Statua atletica",
+        "nl": "Atletische standbeeld",
+        "zh-CN": "强壮的雕塑",
+        "zh-TW": "強壯的雕塑",
+        "jp": "たくましいちょうこく",
+        "ko": "듬직한 조각"
       }
     }
   }

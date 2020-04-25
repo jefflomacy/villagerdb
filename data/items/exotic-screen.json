@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2252
         }
-      ]
+      ],
+      "name": {
+        "de": "Orient-Paravent",
+        "en-GB": "Exotic Screen",
+        "en-US": "Exotic Screen",
+        "es": "Biombo exótico",
+        "fr": "Paravent teck",
+        "it": "Separé esotico",
+        "ja": "アジアなスクリーン"
+      }
     }
   }
 }

@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pink Diner Wall",
+        "en-GB": "Pink Diner Wall",
+        "de": "Rosa-Dinerwand",
+        "es": "Pared café años 50 rosa",
+        "fr": "Mur années 50 pêche",
+        "it": "Muro bar anni '50 rosa",
+        "nl": "Roze restaurantwand",
+        "zh-CN": "桃红色餐馆墙",
+        "zh-TW": "桃紅色餐館牆",
+        "jp": "ももいろダイナーのかべ",
+        "ko": "분홍 다이너 벽"
+      }
     }
   },
   "category": "Wallpaper"

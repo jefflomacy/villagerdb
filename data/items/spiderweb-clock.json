@@ -16,7 +16,16 @@
       },
       "sources": [
         "Bug Off"
-      ]
+      ],
+      "name": {
+        "de": "Spinnennetz-Uhr",
+        "en-GB": "Spiderweb Clock",
+        "en-US": "Spiderweb Clock",
+        "es": "Reloj telaraña",
+        "fr": "Horloge arachno",
+        "it": "Orologio ragnatela",
+        "ja": "クモのすどけい"
+      }
     }
   }
 }

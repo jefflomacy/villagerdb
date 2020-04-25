@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "雪莉的照片",
+        "de": "Foto's von Uta",
+        "en-GB": "Shari's Photo",
+        "es": "Foto de Montse",
+        "fr": "Photo de Luna",
+        "it": "Foto di Ninì",
+        "jp": "シェリーのしゃしん",
+        "ko": "젤리의 사진",
+        "nl": "Foto van Shari",
+        "zh-TW": "雪莉的照片",
+        "en-US": "Shari's Photo"
       }
     }
   },

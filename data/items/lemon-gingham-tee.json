@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 340
         }
-      ]
+      ],
+      "name": {
+        "de": "Gelb-Karo-Shirt",
+        "en-GB": "Lemon Gingham Tee",
+        "en-US": "Lemon Gingham Tee",
+        "es": "Camiseta vichy oro",
+        "fr": "T-shirt vichy jaune",
+        "it": "Maglietta limone",
+        "ja": "レモンギンガムのふく"
+      }
     }
   }
 }

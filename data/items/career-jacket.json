@@ -26,6 +26,19 @@
         "green": "Green",
         "blue": "Blue",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Career Jacket",
+        "en-GB": "Career Jacket",
+        "de": "Business-Blazer",
+        "es": "Americana de oficina",
+        "fr": "Veste professionnelle",
+        "it": "Giacca da ufficio",
+        "nl": "Zakelijke jasje",
+        "zh-CN": "职业西装外套",
+        "zh-TW": "西裝外套",
+        "jp": "キャリアなジャケット",
+        "ko": "정장 재킷"
       }
     }
   },

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 200
+      },
+      "name": {
+        "zh-CN": "松果",
+        "de": "Zapfen's",
+        "en-GB": "Pine Cone",
+        "es": "Piña",
+        "fr": "Pomme de pin",
+        "it": "Pigna",
+        "jp": "まつぼっくり",
+        "ko": "솔방울",
+        "nl": "Dennenappel",
+        "zh-TW": "松果",
+        "en-US": "Pine Cone"
       }
     }
   },

@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1780
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Flower-Print Wall",
+        "en-GB": "Yellow Flower-Print Wall",
+        "de": "Gelb-Blumentapete",
+        "es": "Pared floral amarilla",
+        "fr": "Mur à fleurs jaune",
+        "it": "Muro stampa floreale giallo",
+        "nl": "Gele bloemenwand",
+        "zh-CN": "黄色花纹壁纸",
+        "zh-TW": "黃色花紋壁紙",
+        "jp": "きいろいはながらかべがみ",
+        "ko": "노란 꽃무늬 벽지"
+      }
     }
   },
   "category": "Wallpaper"

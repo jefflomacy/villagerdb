@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Spülbecken",
+        "en-GB": "Sink",
+        "en-US": "Sink",
+        "es": "Fregadero",
+        "fr": "évier",
+        "it": "Lavandino",
+        "ja": "ながしだい"
+      }
     }
   }
 }

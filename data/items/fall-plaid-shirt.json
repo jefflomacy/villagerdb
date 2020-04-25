@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Herbstpulli",
+        "en-GB": "Fall Plaid Shirt",
+        "en-US": "Fall Plaid Shirt",
+        "es": "Jersey tartán lila",
+        "fr": "Pull automne",
+        "it": "Maglia autunnale",
+        "ja": "あきのタータンのふくL"
+      }
     },
     "ac": {
       "orderable": true,
@@ -36,7 +45,10 @@
           "currency": "bells",
           "value": 370
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Fall Plaid Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -52,7 +64,10 @@
           "currency": "bells",
           "value": 370
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Fall Plaid Shirt"
+      }
     }
   }
 }

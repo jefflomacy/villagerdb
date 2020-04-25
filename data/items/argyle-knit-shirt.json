@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 460
         }
-      ]
+      ],
+      "name": {
+        "de": "Argyle-Pulli",
+        "en-GB": "Argyle Knit Shirt",
+        "en-US": "Argyle Knit Shirt",
+        "es": "Jersey pijo",
+        "fr": "Pull écossais vert",
+        "it": "Maglione a rombi",
+        "ja": "トラッドなニット"
+      }
     }
   }
 }

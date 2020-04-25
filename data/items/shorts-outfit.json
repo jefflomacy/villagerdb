@@ -19,6 +19,19 @@
         "blue": "Blue",
         "pink": "Pink",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Shorts Outfit",
+        "en-GB": "Shorts Outfit",
+        "de": "Jumpsuit",
+        "es": "Vestido pantalón corto",
+        "fr": "Combishort",
+        "it": "Completo con pantaloncini",
+        "nl": "Korte broek met hemdje",
+        "zh-CN": "短款连身裤",
+        "zh-TW": "連身短褲",
+        "jp": "ショートコンビネゾン",
+        "ko": "반바지 점프 수트"
       }
     }
   },

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "喳喳的海报",
+        "de": "Poster's von Jule",
+        "en-GB": "Robin's Poster",
+        "es": "Póster de Aria",
+        "fr": "Poster de Robie",
+        "it": "Poster di Rossana",
+        "jp": "パーチクのポスター",
+        "ko": "파틱의 포스터",
+        "nl": "Poster van Robin",
+        "zh-TW": "喳喳的海報",
+        "en-US": "Robin's Poster"
+      }
     }
   },
   "category": "Photos"

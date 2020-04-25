@@ -25,7 +25,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Kanaldeckel",
+        "en-GB": "Manhole Cover",
+        "en-US": "Manhole Cover",
+        "es": "Tapa cloaca",
+        "fr": "Plaque d'égout",
+        "it": "Tombino",
+        "ja": "マンホール"
+      }
     },
     "nh": {
       "orderable": false,
@@ -43,6 +52,19 @@
         "mountain": "Mountain",
         "boat": "Boat",
         "castle": "Castle"
+      },
+      "name": {
+        "en-US": "Manhole Cover",
+        "en-GB": "Manhole Cover",
+        "de": "Kanaldeckel",
+        "es": "Tapa de cloaca",
+        "fr": "Plaque d'égout",
+        "it": "Tombino",
+        "nl": "Putdeksel",
+        "zh-CN": "人孔盖",
+        "zh-TW": "人孔蓋",
+        "jp": "マンホール",
+        "ko": "맨홀"
       }
     }
   }

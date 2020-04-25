@@ -13,7 +13,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White Wooden-Deck Rug",
+        "en-GB": "White Wooden-Deck Rug",
+        "de": "Weiß-Rustikalteppich",
+        "es": "Alfombra tablas blanca",
+        "fr": "Tapis parquet blanc",
+        "it": "Tappeto legno bianco",
+        "nl": "Witte houten dek",
+        "zh-CN": "白色仿木板地毯",
+        "zh-TW": "白色木甲板地毯",
+        "jp": "しろいウッドデッキのラグ",
+        "ko": "하얀 우드 덱 러그"
+      }
     }
   },
   "category": "Flooring"

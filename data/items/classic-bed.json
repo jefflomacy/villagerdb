@@ -25,7 +25,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Klassikbett",
+        "en-GB": "Classic Bed",
+        "en-US": "Classic Bed",
+        "es": "Cama clásica",
+        "fr": "Lit rustique",
+        "it": "Letto antico",
+        "ja": "シックなベッド"
+      }
     }
   }
 }

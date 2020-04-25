@@ -23,6 +23,19 @@
         "green-plaid": "Green plaid",
         "beige": "Beige",
         "colorful": "Colorful"
+      },
+      "name": {
+        "en-US": "Wheelchair",
+        "en-GB": "Wheelchair",
+        "de": "Rollstuhl",
+        "es": "Silla de ruedas",
+        "fr": "Fauteuil roulant",
+        "it": "Sedia a rotelle",
+        "nl": "Rolstoel",
+        "zh-CN": "轮椅",
+        "zh-TW": "輪椅",
+        "jp": "くるまイス",
+        "ko": "휠체어"
       }
     }
   },

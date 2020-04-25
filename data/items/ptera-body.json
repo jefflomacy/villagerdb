@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4000
+      },
+      "name": {
+        "en-US": "Ptera Body",
+        "en-GB": "Ptera Body",
+        "de": "Pteranodon-Torso",
+        "es": "Cuerpo pteranodonte",
+        "fr": "Corps de ptéranodon",
+        "it": "Torso pteranodonte",
+        "nl": "Pteranodonkop",
+        "zh-CN": "无齿翼龙的头",
+        "zh-TW": "無齒翼龍的頭",
+        "jp": "プテラノドンのあたま",
+        "ko": "프테라노돈의 머리"
       }
     }
   },

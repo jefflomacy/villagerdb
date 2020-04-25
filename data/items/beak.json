@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Beak"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -35,6 +38,19 @@
       ],
       "variations": {
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Beak",
+        "en-GB": "Beak",
+        "de": "Schnabels",
+        "es": "Pico",
+        "fr": "Bec",
+        "it": "Becco",
+        "nl": "Snavel",
+        "zh-CN": "鸭嘴道具",
+        "zh-TW": "鴨嘴道具",
+        "jp": "くちばし",
+        "ko": "부리"
       }
     }
   }

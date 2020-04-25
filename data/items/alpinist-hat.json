@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Gebirgshut",
+        "en-GB": "Alpinist Hat",
+        "en-US": "Alpinist Hat",
+        "es": "Sombrero tirolés",
+        "fr": "Chapeau tyrolien",
+        "it": "Cappello tirolese",
+        "ja": "チロリアンハット"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -38,6 +47,19 @@
         "green": "Green",
         "blue": "Blue",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Alpinist Hat",
+        "en-GB": "Alpinist Hat",
+        "de": "Gebirgshut",
+        "es": "Sombrero tirolés",
+        "fr": "Chapeau tyrolien",
+        "it": "Cappello tirolese",
+        "nl": "Tirolerhoed",
+        "zh-CN": "提洛尔帽子",
+        "zh-TW": "提洛爾帽子",
+        "jp": "チロリアンハット",
+        "ko": "알프스풍 모자"
       }
     }
   }

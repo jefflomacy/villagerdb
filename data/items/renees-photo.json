@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "柴姐的照片",
+        "de": "Foto's von Ilona",
+        "en-GB": "Renée's Photo",
+        "es": "Foto de Rina",
+        "fr": "Photo de Rina",
+        "it": "Foto di Renata",
+        "jp": "おさいのしゃしん",
+        "ko": "뿔님이의 사진",
+        "nl": "Foto van Renée",
+        "zh-TW": "柴姐的照片",
+        "en-US": "Renée's Photo"
       }
     }
   },

@@ -21,6 +21,19 @@
         "cool": "Cool",
         "wild": "Wild",
         "fairy-tale": "Fairy tale"
+      },
+      "name": {
+        "en-US": "Tiny Library",
+        "en-GB": "Tiny Library",
+        "de": "Mini-Bibliothek",
+        "es": "Punto intercambio de libros",
+        "fr": "Librairie de poche",
+        "it": "Mini libreria",
+        "nl": "Boekenruilkast",
+        "zh-CN": "微型图书馆",
+        "zh-TW": "微型圖書館",
+        "jp": "マイクロライブラリー",
+        "ko": "작은 무인 도서관"
       }
     }
   }

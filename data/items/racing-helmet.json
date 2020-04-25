@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Rennfahrerhelm",
+        "en-GB": "Racing Helmet",
+        "en-US": "Racing Helmet",
+        "es": "Casco de carreras",
+        "fr": "Casque de course",
+        "it": "Casco da pilota",
+        "ja": "フルフェイスメット"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -43,6 +52,19 @@
         "green": "Green",
         "purple": "Purple",
         "light-blue": "Light blue"
+      },
+      "name": {
+        "en-US": "Racing Helmet",
+        "en-GB": "Racing Helmet",
+        "de": "Rennfahrerhelm",
+        "es": "Casco de carreras",
+        "fr": "Casque de course",
+        "it": "Casco da pilota",
+        "nl": "Coureurshelm",
+        "zh-CN": "全罩式头盔",
+        "zh-TW": "全罩式安全帽",
+        "jp": "フルフェイスメット",
+        "ko": "풀페이스 헬멧"
       }
     }
   }

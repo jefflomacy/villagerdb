@@ -16,6 +16,19 @@
       "variations": {
         "black": "Black",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Botanical Shorts",
+        "en-GB": "Botanical Shorts",
+        "de": "Botanik-Shorts",
+        "es": "Bermuda jardín botánico",
+        "fr": "Short botanique",
+        "it": "Pantaloncino botanico",
+        "nl": "Tropische short",
+        "zh-CN": "植物图案短裤",
+        "zh-TW": "植物圖案短褲",
+        "jp": "ボタニカルハーフパンツ",
+        "ko": "보타니컬 반바지"
       }
     }
   },

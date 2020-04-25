@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "威亚的海报",
+        "de": "Poster's von Rudi",
+        "en-GB": "Buck's Poster",
+        "es": "Póster de Trotón",
+        "fr": "Poster de Daniel",
+        "it": "Poster di Trottolo",
+        "jp": "ヴァヤシコフのポスター",
+        "ko": "바야시코프의 포스터",
+        "nl": "Poster van Buck",
+        "zh-TW": "威亞的海報",
+        "en-US": "Buck's Poster"
+      }
     }
   },
   "category": "Photos"

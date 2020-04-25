@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 2800
         }
-      ]
+      ],
+      "name": {
+        "de": "Waschmaschine",
+        "en-GB": "Washing Machine",
+        "en-US": "Washing Machine",
+        "es": "Lavadora moderna",
+        "fr": "Machine à laver",
+        "it": "Lavatrice",
+        "ja": "ななめドラムせんたくき"
+      }
     }
   }
 }

@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Buntholzstuhl",
+        "en-GB": "Modern Wood Chair",
+        "en-US": "Modern Wood Chair",
+        "es": "Silla listones",
+        "fr": "Chaise bois moderne",
+        "it": "Sedia legno",
+        "ja": "ミックスウッドのチェア"
+      }
     }
   }
 }

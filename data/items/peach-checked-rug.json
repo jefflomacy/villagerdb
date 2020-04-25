@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Peach Checked Rug",
+        "en-GB": "Peach Checked Rug",
+        "de": "Rosa-Karoteppich",
+        "es": "Alfombra tartán rosa",
+        "fr": "Tapis tartan rose",
+        "it": "Tappeto di tartan pesca",
+        "nl": "Roze geruite quilttapijt",
+        "zh-CN": "桃红色格纹布地毯",
+        "zh-TW": "桃紅色格紋拼布地毯",
+        "jp": "ももいろチェックキルトのラグ",
+        "ko": "분홍 체크 퀼트 러그"
+      }
     }
   },
   "category": "Flooring"

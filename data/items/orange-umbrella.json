@@ -16,6 +16,19 @@
       ],
       "recipe": {
         "orange": 7
+      },
+      "name": {
+        "en-US": "Orange Umbrella",
+        "en-GB": "Orange Umbrella",
+        "de": "Orangenschirm",
+        "es": "Paraguas naranja",
+        "fr": "Parapluie orange",
+        "it": "Ombrello arancia",
+        "nl": "Sinaasappelparaplu",
+        "zh-CN": "橘子雨伞",
+        "zh-TW": "橘子雨傘",
+        "jp": "オレンジのかさ",
+        "ko": "오렌지 우산"
       }
     }
   },

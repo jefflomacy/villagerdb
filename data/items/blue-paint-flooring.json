@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1040
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue-Paint Flooring",
+        "en-GB": "Blue-Paint Flooring",
+        "de": "Blauboden",
+        "es": "Suelo madera azul",
+        "fr": "Sol bois peint bleu",
+        "it": "Pavimento dipinto blu",
+        "nl": "Blauwe vloer",
+        "zh-CN": "蓝色喷涂地板",
+        "zh-TW": "藍色油漆地板",
+        "jp": "あおいペイントフローリング",
+        "ko": "파란 페인트 마룻바닥"
+      }
     }
   },
   "category": "Flooring"

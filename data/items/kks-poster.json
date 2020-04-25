@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "K.K.的海报",
+        "de": "Poster's von K.K.",
+        "en-GB": "K.K.'s Poster",
+        "es": "Póster de Totakeke",
+        "fr": "Poster de Kéké",
+        "it": "Poster di K.K.",
+        "jp": "とたけけのポスター",
+        "ko": "K.K.의 포스터",
+        "nl": "Poster van K.K.",
+        "zh-TW": "K.K.的海報",
+        "en-US": "K.K.'s Poster"
+      }
     }
   },
   "category": "Photos"

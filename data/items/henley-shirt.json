@@ -16,6 +16,19 @@
         "mustard": "Mustard",
         "light-blue": "Light blue",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Henley Shirt",
+        "en-GB": "Henley Shirt",
+        "de": "Henley-Shirt",
+        "es": "Camiseta cuello henley",
+        "fr": "Chemise henley",
+        "it": "Maglia con bottoni",
+        "nl": "Henley-Shirt",
+        "zh-CN": "亨利领T恤",
+        "zh-TW": "亨利領T恤",
+        "jp": "ヘンリーネックＴシャツ",
+        "ko": "헨리넥 티셔츠"
       }
     }
   },

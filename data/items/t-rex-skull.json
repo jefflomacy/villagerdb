@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "T-Rex-Schädel",
+        "en-GB": "T. Rex Skull",
+        "en-US": "T. Rex Skull",
+        "es": "Cráneo tiranosaurio",
+        "fr": "Crâne de T. rex",
+        "it": "Teschio tirannosauro",
+        "ja": "Tレックスのあたま"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 6000
+      },
+      "name": {
+        "en-US": "T. Rex Skull",
+        "en-GB": "T. Rex Skull",
+        "de": "T-Rex-Schädel",
+        "es": "Cráneo tiranosaurio",
+        "fr": "Crâne de tyrannosaure",
+        "it": "Cranio tirannosauro",
+        "nl": "Tyrannosauruskop",
+        "zh-CN": "暴龙的头",
+        "zh-TW": "暴龍的頭",
+        "jp": "Tレックスのあたま",
+        "ko": "티렉스의 머리"
       }
     }
   }

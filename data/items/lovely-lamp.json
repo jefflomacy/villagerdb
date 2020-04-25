@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Herzchenlampe",
+        "en-GB": "Lovely Lamp",
+        "en-US": "Lovely Lamp",
+        "es": "Lámpara corazón",
+        "fr": "Lampe c\\u0153ur",
+        "it": "Lampada cuori",
+        "ja": "ラブリースタンド"
+      }
     }
   }
 }

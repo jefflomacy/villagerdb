@@ -23,6 +23,19 @@
         "pink": "Pink",
         "blue": "Blue",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Skirt With Suspenders",
+        "en-GB": "Skirt With Suspenders",
+        "de": "Hosenträgerrock",
+        "es": "Falda con tirantes",
+        "fr": "Jupe à bretelles",
+        "it": "Gonna con bretelline",
+        "nl": "Rokje met bretels",
+        "zh-CN": "交叉背带裙",
+        "zh-TW": "吊帶裙",
+        "jp": "つりスカート",
+        "ko": "멜빵치마"
       }
     }
   },

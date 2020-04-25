@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 780
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Wooden-Knot Flooring",
+        "en-GB": "Wooden-Knot Flooring",
+        "de": "Zirbenboden",
+        "es": "Entarimado madera nudosa",
+        "fr": "Sol nœuds de bois",
+        "it": "Pavimento legno nodoso",
+        "nl": "Houtenknoestvloer",
+        "zh-CN": "木节地板",
+        "zh-TW": "木節地板",
+        "jp": "ふしありフローリング",
+        "ko": "옹이 무늬 마룻바닥"
+      }
     }
   },
   "category": "Flooring"

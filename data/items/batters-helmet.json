@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 600
         }
-      ]
+      ],
+      "name": {
+        "de": "Baseballhelm",
+        "en-GB": "Batter's Helmet",
+        "en-US": "Batter's Helmet",
+        "es": "Casco de bateador",
+        "fr": "Casque de batteur",
+        "it": "Elmetto da battitore",
+        "ja": "やきゅうのヘルメット"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -39,6 +48,19 @@
         "green": "Green",
         "orange": "Orange",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Batter's Helmet",
+        "en-GB": "Batter's Helmet",
+        "de": "Baseballhelm",
+        "es": "Casco de bateador",
+        "fr": "Casque de batteur",
+        "it": "Elmetto da battitore",
+        "nl": "Slagmanshelm",
+        "zh-CN": "棒球头盔",
+        "zh-TW": "棒球安全帽",
+        "jp": "やきゅうのヘルメット",
+        "ko": "야구 헬멧"
       }
     }
   }

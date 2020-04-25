@@ -22,7 +22,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Bankautomat",
+        "en-GB": "Bellpoint",
+        "en-US": "ABD",
+        "es": "Bayero",
+        "fr": "DAC",
+        "it": "Stellomat",
+        "ja": "ATM"
+      }
     }
   }
 }

@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Ichthyo-Torso",
+        "en-GB": "Ichthyo Torso",
+        "en-US": "Ichthyo Torso",
+        "es": "Cuerpo ictiosaurio",
+        "fr": "Corps d'ichtyosaure",
+        "it": "Torso ittiosauro",
+        "ja": "イクチオサウルスのからだ"
+      }
     }
   }
 }

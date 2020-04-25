@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Billardtisch",
+        "en-GB": "Billiard Table",
+        "en-US": "Billiard Table",
+        "es": "Mesa de billar",
+        "fr": "Billard",
+        "it": "Tavolo da biliardo",
+        "ja": "ビリヤードのだい"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -37,6 +46,19 @@
         "green": "Green",
         "red": "Red",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Billiard Table",
+        "en-GB": "Billiard Table",
+        "de": "Billardtisch",
+        "es": "Mesa de billar",
+        "fr": "Billard",
+        "it": "Tavolo da biliardo",
+        "nl": "Biljarttafel",
+        "zh-CN": "撞球桌",
+        "zh-TW": "撞球桌",
+        "jp": "ビリヤードのだい",
+        "ko": "당구대"
       }
     }
   }

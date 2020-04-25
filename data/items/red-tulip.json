@@ -6,7 +6,10 @@
     "nh": {
       "sources": [
         "Pick from flower which regrows (speculated)"
-      ]
+      ],
+      "name": {
+        "en-US": "Red Tulip"
+      }
     },
     "nl": {
       "orderable": true,
@@ -22,7 +25,10 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Tulip"
+      }
     }
   }
 }

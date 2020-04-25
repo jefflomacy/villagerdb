@@ -20,6 +20,19 @@
         "blue": "Blue",
         "white": "White",
         "fuchsia": "Fuchsia"
+      },
+      "name": {
+        "en-US": "Flashy Kimono",
+        "en-GB": "Flashy Kimono",
+        "de": "Prunkkimono",
+        "es": "Kimono vistoso",
+        "fr": "Kimono somptueux",
+        "it": "Kimono appariscente",
+        "nl": "Opvallende kimono",
+        "zh-CN": "华丽和服",
+        "zh-TW": "華麗和服",
+        "jp": "ゴージャスなきもの",
+        "ko": "투톤 꽃무늬 기모노"
       }
     }
   },

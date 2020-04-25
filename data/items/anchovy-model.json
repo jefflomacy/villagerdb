@@ -7,6 +7,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 600
+      },
+      "name": {
+        "en-US": "Anchovy Model",
+        "en-GB": "Anchovy Model",
+        "de": "Sardellenmodell",
+        "es": "Figura de boquerón",
+        "fr": "Modèle d'anchois",
+        "it": "Replica di acciuga",
+        "nl": "Modelansjovis",
+        "zh-CN": "凤尾鱼模型",
+        "zh-TW": "鳳尾魚模型",
+        "jp": "アンチョビのもけい",
+        "ko": "멸치 모형"
       }
     }
   },

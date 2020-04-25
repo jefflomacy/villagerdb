@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 900
+      },
+      "name": {
+        "en-US": "Centipede Model",
+        "en-GB": "Centipede Model",
+        "de": "Hundertfüßermodell",
+        "es": "Figura de ciempiés",
+        "fr": "Modèle de mille-pattes",
+        "it": "Replica di centopiedi",
+        "nl": "Modelduizendpoot",
+        "zh-CN": "蜈蚣模型",
+        "zh-TW": "蜈蚣模型",
+        "jp": "ムカデのもけい",
+        "ko": "지네 모형"
       }
     }
   },

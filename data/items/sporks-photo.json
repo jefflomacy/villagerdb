@@ -6,6 +6,9 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "en-US": "Spork's Photo"
       }
     }
   },

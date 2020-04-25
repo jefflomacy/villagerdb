@@ -7,6 +7,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1500
+      },
+      "name": {
+        "en-US": "Bug Wand",
+        "en-GB": "Bug Wand",
+        "de": "Insektenstab",
+        "es": "Varita bicho",
+        "fr": "Baguette insecte",
+        "it": "Bacchetta insetto",
+        "nl": "Insectenstaf",
+        "zh-CN": "虫子棒",
+        "zh-TW": "蟲子棒",
+        "jp": "ムシのステッキ",
+        "ko": "곤충 지팡이"
       }
     }
   },

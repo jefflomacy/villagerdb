@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 200
+      },
+      "name": {
+        "zh-CN": "春笋",
+        "de": "Frühlingsbambus",
+        "en-GB": "Young Spring Bamboo",
+        "es": "Tallo de bambú primaveral",
+        "fr": "Jeune bambou printemps",
+        "it": "Bambù giovane primavera",
+        "jp": "はるのわかたけ",
+        "ko": "봄의 대나무",
+        "nl": "Jonge lentebamboe",
+        "zh-TW": "春筍",
+        "en-US": "Young Spring Bamboo"
       }
     }
   },

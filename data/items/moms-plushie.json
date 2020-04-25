@@ -20,6 +20,19 @@
         "pippa": "Pippa",
         "gertie": "Gertie",
         "roary": "Roary"
+      },
+      "name": {
+        "en-US": "Mom's Plushie",
+        "en-GB": "Mom's Plushie",
+        "de": "Kuscheltier von Mama",
+        "es": "Peluche de mamá",
+        "fr": "Peluche de maman",
+        "it": "Pupazzo di mamma",
+        "nl": "Mama's knuffel",
+        "zh-CN": "妈妈玩偶",
+        "zh-TW": "媽媽玩偶",
+        "jp": "ははのぬいぐるみ",
+        "ko": "엄마의 솜인형"
       }
     }
   },

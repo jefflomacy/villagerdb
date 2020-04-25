@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Carpet",
+        "en-GB": "Red Carpet",
+        "de": "Rot-Teppich",
+        "es": "Alfombra roja",
+        "fr": "Tapis rouge",
+        "it": "Tappeto rosso",
+        "nl": "Rode tapijt",
+        "zh-CN": "红色地毯",
+        "zh-TW": "紅地毯",
+        "jp": "レッドカーペット",
+        "ko": "레드 카펫"
+      }
     }
   },
   "category": "Flooring"

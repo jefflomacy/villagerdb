@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 600
         }
-      ]
+      ],
+      "name": {
+        "de": "Kabuki-Hut",
+        "en-GB": "Stagehand Hat",
+        "en-US": "Stagehand Hat",
+        "es": "Gorro negro con velo",
+        "fr": "Chapeau machiniste",
+        "it": "Cappuccio garza nera",
+        "ja": "くろこ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -38,6 +47,19 @@
       ],
       "variations": {
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Stagehand Hat",
+        "en-GB": "Stagehand Hat",
+        "de": "Kabuki-Hut",
+        "es": "Velo de tramoyista",
+        "fr": "Chapeau machiniste",
+        "it": "Cappuccio in garza nera",
+        "nl": "Kuroko-Muts",
+        "zh-CN": "黑子头巾",
+        "zh-TW": "黑子頭巾",
+        "jp": "くろこ",
+        "ko": "검은 복면"
       }
     }
   }

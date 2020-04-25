@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Botanical Rug",
+        "en-GB": "Botanical Rug",
+        "de": "Botanikteppich",
+        "es": "Alfombra botánica",
+        "fr": "Tapis botanique",
+        "it": "Tappeto botanico",
+        "nl": "Botanische tapijt",
+        "zh-CN": "植物图案地毯",
+        "zh-TW": "植物圖案地毯",
+        "jp": "ボタニカルなラグ",
+        "ko": "보태니컬 러그"
+      }
     }
   },
   "category": "Flooring"

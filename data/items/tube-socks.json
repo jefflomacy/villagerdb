@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "de": "Sportsocke",
+        "en-GB": "Tube Socks",
+        "en-US": "Tube Socks",
+        "es": "Calcetín cómodo",
+        "fr": "Paire chauss. sport",
+        "it": "P. calzini di spugna",
+        "ja": "ラインソックス"
+      }
     },
     "nh": {
       "orderable": true,
@@ -46,6 +55,19 @@
         "berry-red": "Berry red",
         "dark-green": "Dark green",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Tube Socks",
+        "en-GB": "Tube Socks",
+        "de": "Paars Sportsocken",
+        "es": "Calcetín cómodo",
+        "fr": "Paire de chaussettes sport",
+        "it": "Paio di calzini con righe",
+        "nl": "Sportsokken",
+        "zh-CN": "条纹袜",
+        "zh-TW": "條紋襪",
+        "jp": "ラインソックス",
+        "ko": "라인 양말"
       }
     }
   }

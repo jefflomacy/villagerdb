@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1300
         }
-      ]
+      ],
+      "name": {
+        "de": "Pothos",
+        "en-GB": "Pothos",
+        "en-US": "Pothos",
+        "es": "Poto",
+        "fr": "Pothos",
+        "it": "Pothos",
+        "ja": "ポトス"
+      }
     }
   }
 }

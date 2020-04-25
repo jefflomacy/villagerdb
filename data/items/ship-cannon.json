@@ -15,7 +15,16 @@
       },
       "sources": [
         "Pascal"
-      ]
+      ],
+      "name": {
+        "de": "Schiffskanone",
+        "en-GB": "Ship Cannon",
+        "en-US": "Ship Cannon",
+        "es": "Cañón",
+        "fr": "Canon",
+        "it": "Cannone navale",
+        "ja": "たいほう"
+      }
     }
   }
 }

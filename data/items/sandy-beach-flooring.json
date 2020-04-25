@@ -21,6 +21,19 @@
         "coral": 1,
         "giant-clam": 1,
         "cowrie": 1
+      },
+      "name": {
+        "en-US": "Sandy-Beach Flooring",
+        "en-GB": "Sandy-Beach Flooring",
+        "de": "Sandboden",
+        "es": "Suelo playa tropical",
+        "fr": "Sol plage de sable",
+        "it": "Pavimento spiaggia",
+        "nl": "Zandstrandvloer",
+        "zh-CN": "沙滩地板",
+        "zh-TW": "沙灘地板",
+        "jp": "すなはまのゆか",
+        "ko": "모래사장 바닥"
       }
     }
   },

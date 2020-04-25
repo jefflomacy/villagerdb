@@ -11,7 +11,10 @@
       },
       "sources": [
         "Snowman"
-      ]
+      ],
+      "name": {
+        "en-US": "Ski-Slope Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -23,7 +26,20 @@
           "currency": "bells",
           "value": 12800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Ski-Slope Wall",
+        "en-GB": "Ski-Slope Wall",
+        "de": "Skipistentapete",
+        "es": "Pared esquí",
+        "fr": "Mur piste de ski",
+        "it": "Muro pista da sci",
+        "nl": "Skihellingwand",
+        "zh-CN": "滑雪场壁纸",
+        "zh-TW": "滑雪場壁紙",
+        "jp": "ゲレンデなかべがみ",
+        "ko": "스키장 벽"
+      }
     }
   }
 }

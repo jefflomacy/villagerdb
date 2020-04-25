@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "name": {
+        "de": "Plattenspieler",
+        "en-GB": "Record Player",
+        "en-US": "Record Player",
+        "es": "Tocadiscos LP",
+        "fr": "Platine",
+        "it": "Giradischi anni '70",
+        "ja": "LPプレーヤー"
+      }
     }
   }
 }

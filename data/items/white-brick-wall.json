@@ -21,7 +21,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White Brick Wall"
+      }
     },
     "nh": {
       "orderable": true,
@@ -37,7 +40,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White-Brick Wall",
+        "en-GB": "White-Brick Wall",
+        "de": "Weißziegeltapete",
+        "es": "Pared ladrillo blanco",
+        "fr": "Mur briques blanches",
+        "it": "Muro mattoni bianchi",
+        "nl": "Witte bakstenen wand",
+        "zh-CN": "白色砖块墙",
+        "zh-TW": "白色磚塊牆",
+        "jp": "しろレンガのかべ",
+        "ko": "하얀 벽돌 벽"
+      }
     }
   }
 }

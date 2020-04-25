@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5000
+      },
+      "name": {
+        "en-US": "Right Quetzal Wing",
+        "en-GB": "Right Quetzal Wing",
+        "de": "Quetzalcoatlus-Flügel",
+        "es": "Ala derecha quetzalcoatlus",
+        "fr": "Aile droite de quetzal",
+        "it": "Ala destra quetzalcoatlus",
+        "nl": "Quetzalcoatlusvleugel (r)",
+        "zh-CN": "风神翼龙的右翼",
+        "zh-TW": "風神翼龍的右翼",
+        "jp": "ケツァルコアトルスのうよく",
+        "ko": "케찰코아틀루스의 오른날개"
       }
     }
   },

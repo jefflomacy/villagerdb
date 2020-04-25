@@ -17,6 +17,19 @@
         "red": "Red",
         "orange": "Orange",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Rumba Dress",
+        "en-GB": "Rumba Dress",
+        "de": "Rumbakleid",
+        "es": "Vestido de rumba",
+        "fr": "Robe de rumba",
+        "it": "Vestito da rumba",
+        "nl": "Rumbajurk",
+        "zh-CN": "伦巴舞裙",
+        "zh-TW": "倫巴洋裝",
+        "jp": "ルンバなドレス",
+        "ko": "룸바 드레스"
       }
     }
   },

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 392
         }
-      ]
+      ],
+      "name": {
+        "de": "Polarpulli",
+        "en-GB": "Earthy Knit Shirt",
+        "en-US": "Earthy Knit Shirt",
+        "es": "Jersey tierra",
+        "fr": "Pull ocre",
+        "it": "Maglione campagnolo",
+        "ja": "つちいろのニット"
+      }
     }
   }
 }

@@ -18,6 +18,19 @@
         "white": "White",
         "black": "Black",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Embroidered Shoes",
+        "en-GB": "Embroidered Shoes",
+        "de": "Paars Stickschuhe",
+        "es": "Manoletina con bordado",
+        "fr": "P. de chaussures brodées",
+        "it": "Paio di scarpe ricamate",
+        "nl": "Geborduurde schoenen",
+        "zh-CN": "刺绣鞋",
+        "zh-TW": "刺繡鞋",
+        "jp": "ししゅうのくつ",
+        "ko": "자수 구두"
       }
     }
   },

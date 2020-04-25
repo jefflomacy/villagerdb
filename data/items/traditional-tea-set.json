@@ -22,6 +22,19 @@
         "plain": "Plain",
         "goldfish": "Goldfish",
         "floral": "Floral"
+      },
+      "name": {
+        "en-US": "Traditional Tea Set",
+        "en-GB": "Traditional Tea Set",
+        "de": "Gong-Fu-Teeservice",
+        "es": "Juego de té tradicional",
+        "fr": "Service à thé traditionnel",
+        "it": "Servizio da tè classico",
+        "nl": "Traditionele theeservies",
+        "zh-CN": "中式茶具组合",
+        "zh-TW": "中式茶具組合",
+        "jp": "チャイニーズティーセット",
+        "ko": "전통 티 세트"
       }
     }
   },

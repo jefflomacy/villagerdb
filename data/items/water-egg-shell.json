@@ -14,6 +14,19 @@
       },
       "variations": {
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Water-Egg Shell",
+        "en-GB": "Water-Egg Shell",
+        "de": "Wasser-Eierschale",
+        "es": "Cáscara de huevo acuático",
+        "fr": "Coquille d'œuf aquatique",
+        "it": "Guscio d'uovo acquatico",
+        "nl": "Watereierschaal",
+        "zh-CN": "鱼儿蛋壳",
+        "zh-TW": "魚兒蛋殼",
+        "jp": "サカナのたまごのから",
+        "ko": "물고기 달걀 껍질"
       }
     }
   },

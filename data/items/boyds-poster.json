@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "空空的海报",
+        "de": "Poster's von Boyd",
+        "en-GB": "Boyd's Poster",
+        "es": "Póster de Bunga",
+        "fr": "Poster de Primo",
+        "it": "Poster di Brando",
+        "jp": "ボイドのポスター",
+        "ko": "보이드의 포스터",
+        "nl": "Poster van Boyd",
+        "zh-TW": "空空的海報",
+        "en-US": "Boyd's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4500
+      },
+      "name": {
+        "en-US": "Diplo Pelvis",
+        "en-GB": "Diplo Pelvis",
+        "de": "Diplodocus-Becken",
+        "es": "Pelvis diplodocus",
+        "fr": "Bassin de diplodocus",
+        "it": "Bacino diplodoco",
+        "nl": "Diplodocusbekken",
+        "zh-CN": "梁龙的腰部",
+        "zh-TW": "梁龍的腰部",
+        "jp": "ディプロドクスのこし",
+        "ko": "디플로도쿠스의 허리"
       }
     }
   },

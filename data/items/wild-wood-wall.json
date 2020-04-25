@@ -10,6 +10,19 @@
       },
       "recipe": {
         "wood": 15
+      },
+      "name": {
+        "en-US": "Wild-Wood Wall",
+        "en-GB": "Wild-Wood Wall",
+        "de": "Wildholzwand",
+        "es": "Panelado madera de deriva",
+        "fr": "Mur bois sauvage",
+        "it": "Muro legno selvatico",
+        "nl": "Wrakhoutmuur",
+        "zh-CN": "原木墙",
+        "zh-TW": "原木牆",
+        "jp": "ワイルドウッドのかべ",
+        "ko": "거친 나무 벽"
       }
     }
   },

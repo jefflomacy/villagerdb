@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "name": {
+        "de": "Mörser",
+        "en-GB": "Mochi Pestle",
+        "en-US": "Mochi Pestle",
+        "es": "Mortero para mochi",
+        "fr": "Pilon à riz",
+        "it": "Mortaio da mochi",
+        "ja": "もちつきセット"
+      }
     }
   }
 }

@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Koi"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4000
+      },
+      "name": {
+        "en-US": "Koi",
+        "en-GB": "Koi",
+        "de": "Koi-Karpfen",
+        "es": "Koi",
+        "fr": "Carpe koï",
+        "it": "Koi",
+        "nl": "Koikarper",
+        "zh-CN": "锦鲤",
+        "zh-TW": "錦鯉",
+        "jp": "ニシキゴイ",
+        "ko": "비단잉어"
       }
     }
   }

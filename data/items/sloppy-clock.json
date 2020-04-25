@@ -16,7 +16,16 @@
       },
       "sources": [
         "Re-Tail (flea market) or Police Station (lost and found)"
-      ]
+      ],
+      "name": {
+        "de": "Schlamperuhr",
+        "en-GB": "Sloppy Clock",
+        "en-US": "Sloppy Clock",
+        "es": "Reloj desorden",
+        "fr": "Horloge négligée",
+        "it": "Orologio trasandato",
+        "ja": "だらしないとけい"
+      }
     }
   }
 }

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "小铀的海报",
+        "de": "Poster's von Birgit",
+        "en-GB": "Cleo's Poster",
+        "es": "Póster de Clotilde",
+        "fr": "Poster de Cléa",
+        "it": "Poster di Susanna",
+        "jp": "アイソトープのポスター",
+        "ko": "아이소토프의 포스터",
+        "nl": "Poster van Cleo",
+        "zh-TW": "小鈾的海報",
+        "en-US": "Cleo's Poster"
+      }
     }
   },
   "category": "Photos"

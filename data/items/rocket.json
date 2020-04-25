@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Rakete",
+        "en-GB": "Rocket",
+        "en-US": "Rocket",
+        "es": "Cohete espacial",
+        "fr": "Fusée",
+        "it": "Missile",
+        "ja": "ロケット"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -34,7 +43,20 @@
           "currency": "bells",
           "value": 80000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Rocket",
+        "en-GB": "Rocket",
+        "de": "Rakete",
+        "es": "Cohete espacial",
+        "fr": "Fusée",
+        "it": "Missile",
+        "nl": "Raket",
+        "zh-CN": "火箭",
+        "zh-TW": "火箭",
+        "jp": "ロケット",
+        "ko": "로켓"
+      }
     }
   }
 }

@@ -24,7 +24,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Meadow Vista"
+      }
     },
     "nh": {
       "orderable": false,
@@ -40,7 +43,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Meadow Vista",
+        "en-GB": "Meadow Vista",
+        "de": "Alpentapete",
+        "es": "Pared prado",
+        "fr": "Mur vue prairie",
+        "it": "Muro vista alpina",
+        "nl": "Bergenwand",
+        "zh-CN": "高原墙",
+        "zh-TW": "高原牆",
+        "jp": "こうげんなかべ",
+        "ko": "초원 벽"
+      }
     }
   }
 }

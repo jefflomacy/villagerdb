@@ -12,7 +12,10 @@
       },
       "sources": [
         "Saharah"
-      ]
+      ],
+      "name": {
+        "en-US": "Western Vista"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -24,7 +27,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Western Vista",
+        "en-GB": "Western Vista",
+        "de": "Wüstentapete",
+        "es": "Pared Oeste",
+        "fr": "Mur vue Far West",
+        "it": "Muro west",
+        "nl": "Westernwand",
+        "zh-CN": "旷野墙",
+        "zh-TW": "曠野牆",
+        "jp": "こうやのかべ",
+        "ko": "황야 벽"
+      }
     }
   }
 }

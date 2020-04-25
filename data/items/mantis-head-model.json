@@ -14,7 +14,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mantis-Head Model",
+        "en-GB": "Mantis-Head Model",
+        "de": "Gottesanbeterin-Trophäe",
+        "es": "Cabeza de mantis",
+        "fr": "Tête de mante religieuse",
+        "it": "Trofeo di testa di mantide",
+        "nl": "Wandmodelbidsprinkhaan",
+        "zh-CN": "螳螂头部",
+        "zh-TW": "螳螂頭部",
+        "jp": "カマキリヘッド",
+        "ko": "사마귀 머리 벽장식"
+      }
     }
   },
   "category": "Furniture"

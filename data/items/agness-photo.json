@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "古乃欣的照片",
+        "de": "Foto's von Nora",
+        "en-GB": "Agnes's Photo",
+        "es": "Foto de Negrea",
+        "fr": "Photo de Pansy",
+        "it": "Foto di Maia",
+        "jp": "アグネスのしゃしん",
+        "ko": "아그네스의 사진",
+        "nl": "Foto van Agnes",
+        "zh-TW": "古乃欣的照片",
+        "en-US": "Agnes's Photo"
       }
     }
   },

@@ -19,6 +19,19 @@
         "green": "Green",
         "yellow": "Yellow",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Short-Sleeve Dress Shirt",
+        "en-GB": "Short-Sleeve Dress Shirt",
+        "de": "Kurzarmhemd",
+        "es": "Camisa de manga corta",
+        "fr": "Chemisette habillée",
+        "it": "Camicia a maniche corte",
+        "nl": "Kortemouwenoverhemd",
+        "zh-CN": "短袖衬衫",
+        "zh-TW": "短袖襯衫",
+        "jp": "はんそでワイシャツ",
+        "ko": "반팔 와이셔츠"
       }
     }
   },

@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2620
         }
-      ]
+      ],
+      "name": {
+        "de": "Schachsofa",
+        "en-GB": "Modern Sofa",
+        "en-US": "Modern Sofa",
+        "es": "Sofá moderno",
+        "fr": "Canapé moderne",
+        "it": "Sofà moderno",
+        "ja": "ツートンソファL"
+      }
     }
   }
 }

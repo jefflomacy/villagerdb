@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "宝拉的照片",
+        "de": "Foto's von Judith",
+        "en-GB": "Gwen's Photo",
+        "es": "Foto de Fabiola",
+        "fr": "Photo de Gwen",
+        "it": "Foto di Gelinda",
+        "jp": "ポーラのしゃしん",
+        "ko": "폴라의 사진",
+        "nl": "Foto van Gwen",
+        "zh-TW": "寶拉的照片",
+        "en-US": "Gwen's Photo"
       }
     }
   },

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "沽玉的海报",
+        "de": "Poster's von Lore",
+        "en-GB": "Leilani's Poster",
+        "es": "Póster de Marimar",
+        "fr": "Poster de Liliane",
+        "it": "Poster di Ramona",
+        "jp": "クーコのポスター",
+        "ko": "갑순의 포스터",
+        "nl": "Poster van Leilani",
+        "zh-TW": "沽玉的海報",
+        "en-US": "Leilani's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2500
+      },
+      "name": {
+        "en-US": "Wasp",
+        "en-GB": "Wasp",
+        "de": "Wespe",
+        "es": "Avispa",
+        "fr": "Guêpe",
+        "it": "Vespa",
+        "nl": "Wesp",
+        "zh-CN": "黄蜂",
+        "zh-TW": "黃蜂",
+        "jp": "ハチ",
+        "ko": "벌"
       }
     }
   },

@@ -26,7 +26,10 @@
           "currency": "meow",
           "value": 5
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Toolbox"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -46,6 +49,19 @@
         "orange": "Orange",
         "turquoise": "Turquoise",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Toolbox",
+        "en-GB": "Toolbox",
+        "de": "Werkzeugkasten",
+        "es": "Caja de herramientas",
+        "fr": "Caisse à outils",
+        "it": "Cassetta degli attrezzi",
+        "nl": "Gereedschapskist",
+        "zh-CN": "工具箱",
+        "zh-TW": "工具箱",
+        "jp": "こうぐばこ",
+        "ko": "공구 상자"
       }
     }
   }

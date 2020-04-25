@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 1892
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Kitchen Tile"
+      }
     }
   }
 }

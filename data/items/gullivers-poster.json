@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "吕游的海报",
+        "de": "Poster's von Gulliver",
+        "en-GB": "Gulliver's Poster",
+        "es": "Póster de Gulliver",
+        "fr": "Poster de Gulliver",
+        "it": "Poster di Gulliver",
+        "jp": "ジョニーのポスター",
+        "ko": "죠니의 포스터",
+        "nl": "Poster van Gulliver",
+        "zh-TW": "呂遊的海報",
+        "en-US": "Gulliver's Poster"
+      }
     }
   },
   "category": "Photos"

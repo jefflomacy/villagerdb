@@ -19,6 +19,19 @@
         "vanilla-flavored": "Vanilla flavored",
         "cocoa-flavored": "Cocoa flavored",
         "strawberry-flavored": "Strawberry flavored"
+      },
+      "name": {
+        "en-US": "Protein Shaker Bottle",
+        "en-GB": "Protein Shaker Bottle",
+        "de": "Proteinshake-Set",
+        "es": "Batido de proteínas",
+        "fr": "Milk-Shake protéiné",
+        "it": "Set per frullati proteici",
+        "nl": "Eiwitshakerset",
+        "zh-CN": "乳清蛋白摇摇杯",
+        "zh-TW": "乳清蛋白搖搖杯",
+        "jp": "プロテインシェイカー",
+        "ko": "단백질 보충제"
       }
     }
   },

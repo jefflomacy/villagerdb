@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 960
         }
-      ]
+      ],
+      "name": {
+        "de": "Mama-Panda",
+        "en-GB": "Mama Panda",
+        "en-US": "Mama Panda",
+        "es": "Mamá panda",
+        "fr": "Maman panda",
+        "it": "Mamma panda",
+        "ja": "パンダのチュンチュン"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -35,7 +44,20 @@
           "currency": "bells",
           "value": 3500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mama Panda",
+        "en-GB": "Mama Panda",
+        "de": "Mama-Panda",
+        "es": "Mamá panda",
+        "fr": "Maman panda",
+        "it": "Mamma panda",
+        "nl": "Mama-Panda",
+        "zh-CN": "熊猫中中",
+        "zh-TW": "熊貓中中",
+        "jp": "パンダのチュンチュン",
+        "ko": "중간 판다"
+      }
     }
   }
 }

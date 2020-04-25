@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Lila-Kobold-Mütze",
+        "en-GB": "Purple-Imp Hood",
+        "en-US": "Purple-Imp Hood",
+        "es": "Gorro diablo morado",
+        "fr": "Capuche de diablotin",
+        "it": "Copric. corna viola",
+        "ja": "デビルなかぶりもの"
+      }
     }
   }
 }

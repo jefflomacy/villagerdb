@@ -26,6 +26,19 @@
         "yellow": "Yellow",
         "red": "Red",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Three-Quarter Sweatpants",
+        "en-GB": "Three-Quarter Sweatpants",
+        "de": "7/8-Sofahose",
+        "es": "Pirata gimnasio",
+        "fr": "Pantacourt de jogging",
+        "it": "Pinocchietto sportivo",
+        "nl": "Driekwartjoggingbroek",
+        "zh-CN": "健身棉质裤",
+        "zh-TW": "運動棉褲",
+        "jp": "フィットネススウェットパンツ",
+        "ko": "피트니스 스웨트 팬츠"
       }
     }
   },

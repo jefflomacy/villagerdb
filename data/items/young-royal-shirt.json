@@ -19,6 +19,19 @@
         "pink": "Pink",
         "blue": "Blue",
         "cream": "Cream"
+      },
+      "name": {
+        "en-US": "Young-Royal Shirt",
+        "en-GB": "Young-Royal Shirt",
+        "de": "Prinzenhemd",
+        "es": "Camisa de aristócrata",
+        "fr": "Chemise princière",
+        "it": "Camicia principesca",
+        "nl": "Koninklijke overhemd",
+        "zh-CN": "王子衬衫",
+        "zh-TW": "王子襯衫",
+        "jp": "おうじさまシャツ",
+        "ko": "왕자님 셔츠"
       }
     }
   },

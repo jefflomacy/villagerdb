@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Racetrack Flooring",
+        "en-GB": "Racetrack Flooring",
+        "de": "Rennbahnboden",
+        "es": "Suelo pista de atletismo",
+        "fr": "Sol piste d'athlétisme",
+        "it": "Pavimento pista d'atletica",
+        "nl": "Atletiekbaan",
+        "zh-CN": "赛车赛道地板",
+        "zh-TW": "賽車賽道地板",
+        "jp": "レーストラックのゆか",
+        "ko": "경주 트랙 바닥"
+      }
     }
   },
   "category": "Flooring"

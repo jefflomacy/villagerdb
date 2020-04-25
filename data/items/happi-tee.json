@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Fernost-Jacke",
+        "en-GB": "Happi Tee",
+        "en-US": "Happi Tee",
+        "es": "Camiseta festival",
+        "fr": "T-shirt happi",
+        "it": "Maglietta da festa",
+        "ja": "はっぴ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -42,6 +51,19 @@
         "black": "Black",
         "green": "Green",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Happi Tee",
+        "en-GB": "Happi Tee",
+        "de": "Happi-Jacke",
+        "es": "Chaqueta festival",
+        "fr": "Happi",
+        "it": "Maglietta da festa",
+        "nl": "Happi-Jasje",
+        "zh-CN": "祭典和服",
+        "zh-TW": "祭典和服",
+        "jp": "はっぴ",
+        "ko": "일본풍 축제 가운"
       }
     }
   }

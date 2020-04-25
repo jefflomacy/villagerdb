@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1760
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Blossoming Wall",
+        "en-GB": "Blue Blossoming Wall",
+        "de": "Blau-Blümchentapete",
+        "es": "Pared floreada azul",
+        "fr": "Mur floraison bleu",
+        "it": "Muro fiorato celeste",
+        "nl": "Blauwe boeketlambrisering",
+        "zh-CN": "蓝色花草图案墙",
+        "zh-TW": "藍色花草圖案牆",
+        "jp": "あおいくさばなもようのかべ",
+        "ko": "파란 풀꽃 벽"
+      }
     }
   },
   "category": "Wallpaper"

@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 85600
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mush Wall",
+        "en-GB": "Mush Wall",
+        "de": "Waldpilztapete",
+        "es": "Pared hongo",
+        "fr": "Mur champi",
+        "it": "Muro funghetti",
+        "nl": "Paddenstoelenwand",
+        "zh-CN": "蘑菇壁纸",
+        "zh-TW": "蘑菇壁紙",
+        "jp": "キノコのかべがみ",
+        "ko": "버섯 벽지"
+      }
     }
   },
   "category": "Wallpaper"

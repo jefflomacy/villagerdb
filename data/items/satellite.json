@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 2600
         }
-      ]
+      ],
+      "name": {
+        "de": "Raumsonde",
+        "en-GB": "Satellite",
+        "en-US": "Satellite",
+        "es": "Satélite",
+        "fr": "Satellite",
+        "it": "Satellite",
+        "ja": "じんこうえいせい"
+      }
     },
     "nh": {
       "orderable": false,
@@ -34,6 +43,19 @@
       "recipe": {
         "star-fragment": 10,
         "iron-nugget": 15
+      },
+      "name": {
+        "en-US": "Satellite",
+        "en-GB": "Satellite",
+        "de": "Raumsonde",
+        "es": "Satélite",
+        "fr": "Satellite",
+        "it": "Satellite",
+        "nl": "Satelliet",
+        "zh-CN": "人工卫星",
+        "zh-TW": "人工衛星",
+        "jp": "じんこうえいせい",
+        "ko": "인공위성"
       }
     }
   }

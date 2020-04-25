@@ -22,6 +22,19 @@
         "purple": "Purple",
         "pink": "Pink",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Argyle Sweater",
+        "en-GB": "Argyle Sweater",
+        "de": "Argyle-Pulli",
+        "es": "Suéter pijo",
+        "fr": "Chandail écossais",
+        "it": "Maglioncino a rombi",
+        "nl": "Argyle-Trui",
+        "zh-CN": "菱格纹毛衣",
+        "zh-TW": "菱格紋毛衣",
+        "jp": "アーガイルのセーター",
+        "ko": "아가일 스웨터"
       }
     }
   },

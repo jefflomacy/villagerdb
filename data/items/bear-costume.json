@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "de": "Bärenpulli",
+        "en-GB": "Bear Costume",
+        "en-US": "Bear Costume",
+        "es": "Jersey oso",
+        "fr": "Haut ours",
+        "it": "Maglia orso",
+        "ja": "クマなふく"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -39,6 +48,19 @@
         "black": "Black",
         "pink": "Pink",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Bear Costume",
+        "en-GB": "Bear Costume",
+        "de": "Bären-Outfit",
+        "es": "Disfraz de oso",
+        "fr": "Costume d'ours",
+        "it": "Costume da orso",
+        "nl": "Berenpak",
+        "zh-CN": "熊熊装",
+        "zh-TW": "熊熊裝",
+        "jp": "クマなふく",
+        "ko": "곰 의상"
       }
     }
   }

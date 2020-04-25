@@ -20,7 +20,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Gemüsekorb",
+        "en-GB": "Veggie Basket",
+        "en-US": "Veggie Basket",
+        "es": "Cesta verduras",
+        "fr": "Panier de légumes",
+        "it": "Cesto di verdure",
+        "ja": "やさいのバスケット"
+      }
     }
   }
 }

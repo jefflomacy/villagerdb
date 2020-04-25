@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 12000
+      },
+      "name": {
+        "en-US": "Grand Q. A. Birdwing Model",
+        "en-GB": "Grand Q. A. Birdwing Model",
+        "de": "Mega-Vogelfaltermodell",
+        "es": "Estatua marip. alas pájaro",
+        "fr": "Modèle du Roi Papillon",
+        "it": "Replica XL farfalla regina A.",
+        "nl": "Model-A.-Vogelvlinder XL",
+        "zh-CN": "巨大蝴蝶模型",
+        "zh-TW": "巨大蝴蝶模型",
+        "jp": "おおいなるチョウのもけい",
+        "ko": "위대한 나비 모형"
       }
     }
   },

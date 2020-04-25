@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 4000
         }
-      ]
+      ],
+      "name": {
+        "de": "Kürbiskopf",
+        "en-GB": "Pumpkin Head",
+        "en-US": "Pumpkin Head",
+        "es": "Calabaza",
+        "fr": "Citrouille",
+        "it": "Testa di zucca",
+        "ja": "かぼちゃのかぶりもの"
+      }
     }
   }
 }

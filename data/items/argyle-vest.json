@@ -24,6 +24,19 @@
         "red": "Red",
         "gray": "Gray",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Argyle Vest",
+        "en-GB": "Argyle Vest",
+        "de": "Argyle-Pullunder",
+        "es": "Chaleco pijo",
+        "fr": "Gilet écossais",
+        "it": "Gilet a rombi",
+        "nl": "Argyle-Spencer",
+        "zh-CN": "菱格纹背心",
+        "zh-TW": "菱格紋背心",
+        "jp": "アーガイルベスト",
+        "ko": "아가일 베스트"
       }
     }
   },

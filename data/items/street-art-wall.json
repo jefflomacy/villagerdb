@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Street-Art Wall",
+        "en-GB": "Street-Art Wall",
+        "de": "Graffitiwand",
+        "es": "Pared arte urbano",
+        "fr": "Mur street art",
+        "it": "Muro arte urbana",
+        "nl": "Graffitiwand",
+        "zh-CN": "街头艺术墙",
+        "zh-TW": "街頭藝術牆",
+        "jp": "ストリートアートのかべ",
+        "ko": "그래피티 벽"
+      }
     }
   },
   "category": "Wallpaper"

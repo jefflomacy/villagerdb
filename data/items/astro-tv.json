@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "de": "Astrofernseher",
+        "en-GB": "Astro TV",
+        "en-US": "Astro TV",
+        "es": "Tele futurista",
+        "fr": "Télé astro",
+        "it": "TV futuro",
+        "ja": "きんみらいなテレビ"
+      }
     }
   }
 }

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿诚的照片",
+        "de": "Foto's von Siggi",
+        "en-GB": "Antonio's Photo",
+        "es": "Foto de Antonio",
+        "fr": "Photo d'antonio",
+        "it": "Foto di Antonio",
+        "jp": "マコトのしゃしん",
+        "ko": "퍼머거의 사진",
+        "nl": "Foto van Antonio",
+        "zh-TW": "阿誠的照片",
+        "en-US": "Antonio's Photo"
       }
     }
   },

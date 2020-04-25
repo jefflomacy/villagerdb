@@ -7,6 +7,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1580
+      },
+      "name": {
+        "en-US": "Windflower Wand",
+        "en-GB": "Windflower Wand",
+        "de": "Anemonenstab",
+        "es": "Varita anémona",
+        "fr": "Baguette anémone",
+        "it": "Bacchetta anemone",
+        "nl": "Anemonenstaf",
+        "zh-CN": "银莲花棒",
+        "zh-TW": "銀蓮花棒",
+        "jp": "アネモネのステッキ",
+        "ko": "아네모네 지팡이"
       }
     }
   },

@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 900
         }
-      ]
+      ],
+      "name": {
+        "de": "Wrestlingmaske",
+        "en-GB": "Wrestling Mask",
+        "en-US": "Wrestling Mask",
+        "es": "Máscara de luchador",
+        "fr": "Masque de catch",
+        "it": "Maschera wrestling",
+        "ja": "プロレスのマスク"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -41,6 +50,19 @@
         "pink": "Pink",
         "black": "Black",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Wrestling Mask",
+        "en-GB": "Wrestling Mask",
+        "de": "Wrestlingmaske",
+        "es": "Máscara de lucha libre",
+        "fr": "Masque de catch",
+        "it": "Maschera da wrestling",
+        "nl": "Worstelaarsmasker",
+        "zh-CN": "职业摔角面具",
+        "zh-TW": "職業摔角面具",
+        "jp": "プロレスのマスク",
+        "ko": "프로 레슬링 마스크"
       }
     }
   }

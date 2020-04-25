@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "曹珂的照片",
+        "de": "Foto's von Christin",
+        "en-GB": "Bubbles's Photo",
+        "es": "Foto de Hipólita",
+        "fr": "Photo d'hippy",
+        "it": "Foto di Ippolita",
+        "jp": "チャコのしゃしん",
+        "ko": "차코의 사진",
+        "nl": "Foto van Bubbles",
+        "zh-TW": "曹珂的照片",
+        "en-US": "Bubbles's Photo"
       }
     }
   },

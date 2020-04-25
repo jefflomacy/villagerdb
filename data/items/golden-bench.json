@@ -15,7 +15,16 @@
       },
       "sources": [
         "Re-Tail (refurbish)"
-      ]
+      ],
+      "name": {
+        "de": "Goldbank",
+        "en-GB": "Golden Bench",
+        "en-US": "Golden Bench",
+        "es": "Banco dorado",
+        "fr": "Banc d'or",
+        "it": "Panca d'oro",
+        "ja": "おうごんのながイス"
+      }
     }
   }
 }

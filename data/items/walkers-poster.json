@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿笨的海报",
+        "de": "Poster's von Fido",
+        "en-GB": "Walker's Poster",
+        "es": "Póster de Miki",
+        "fr": "Poster de George",
+        "it": "Poster di Walter",
+        "jp": "ベンのポスター",
+        "ko": "벤의 포스터",
+        "nl": "Poster van Walker",
+        "zh-TW": "阿笨的海報",
+        "en-US": "Walker's Poster"
+      }
     }
   },
   "category": "Photos"

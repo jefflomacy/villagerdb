@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "摔角鸦的照片",
+        "de": "Foto's von Lukas",
+        "en-GB": "Lucha's Photo",
+        "es": "Foto de Plumerio",
+        "fr": "Photo de Condor",
+        "it": "Foto di Loreto",
+        "jp": "マスカラスのしゃしん",
+        "ko": "마스카라스의 사진",
+        "nl": "Foto van Lucha",
+        "zh-TW": "摔角鴉的照片",
+        "en-US": "Lucha's Photo"
       }
     }
   },

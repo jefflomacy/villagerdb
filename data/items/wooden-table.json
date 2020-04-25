@@ -57,6 +57,19 @@
         "pink-wood-pink": "Pink wood / Pink",
         "pink-wood-blue": "Pink wood / Blue",
         "pink-wood-green": "Pink wood / Green"
+      },
+      "name": {
+        "en-US": "Wooden Table",
+        "en-GB": "Wooden Table",
+        "de": "Holztisch",
+        "es": "Mesa de madera",
+        "fr": "Table en bois",
+        "it": "Tavolo di legno",
+        "nl": "Houten tafel",
+        "zh-CN": "木制桌",
+        "zh-TW": "木製桌",
+        "jp": "もくせいテーブル",
+        "ko": "목제 테이블"
       }
     }
   },

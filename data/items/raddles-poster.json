@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "嘉俊的海报",
+        "de": "Poster's von Sani",
+        "en-GB": "Raddle's Poster",
+        "es": "Póster de Radiolo",
+        "fr": "Poster de Fabien",
+        "it": "Poster di Massimo",
+        "jp": "カックンのポスター",
+        "ko": "개군의 포스터",
+        "nl": "Poster van Raddle",
+        "zh-TW": "嘉俊的海報",
+        "en-US": "Raddle's Poster"
+      }
     }
   },
   "category": "Photos"

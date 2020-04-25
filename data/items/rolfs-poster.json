@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "朱穆朗的海报",
+        "de": "Poster's von Boris",
+        "en-GB": "Rolf's Poster",
+        "es": "Póster de Albino",
+        "fr": "Poster de Ralf",
+        "it": "Poster di Rolf",
+        "jp": "チョモランのポスター",
+        "ko": "호랭이의 포스터",
+        "nl": "Poster van Rolf",
+        "zh-TW": "朱穆朗的海報",
+        "en-US": "Rolf's Poster"
+      }
     }
   },
   "category": "Photos"

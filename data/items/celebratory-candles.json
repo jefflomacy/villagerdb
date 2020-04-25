@@ -19,6 +19,19 @@
         "black": "Black",
         "blue": "Blue",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Celebratory Candles",
+        "en-GB": "Celebratory Candles",
+        "de": "Festmahldeko",
+        "es": "Candelabro celebración",
+        "fr": "Chandelier décoratif",
+        "it": "Candelabro celebrativo",
+        "nl": "Zevenkaarsenhouder",
+        "zh-CN": "宴会蜡烛",
+        "zh-TW": "宴會蠟燭",
+        "jp": "うたげのキャンドル",
+        "ko": "연회장 양초"
       }
     }
   },

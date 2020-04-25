@@ -18,7 +18,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Imperial K.K."
+      }
     },
     "nh": {
       "sellPrice": {
@@ -30,7 +33,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Imperial K.K.",
+        "en-GB": "Imperial K.K.",
+        "de": "Super-K.K.",
+        "es": "Tota-Imperio",
+        "fr": "Kéké l'empereur",
+        "it": "K.K. Imperiale",
+        "nl": "K.K. de wijze meester",
+        "zh-CN": "K.K.中华",
+        "zh-TW": "K.K.中華",
+        "jp": "けけチャイナ",
+        "ko": "K.K.차이나",
+        "ru": "Величие К. К."
+      }
     }
   }
 }

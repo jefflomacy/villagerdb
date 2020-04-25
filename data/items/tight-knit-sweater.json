@@ -21,6 +21,19 @@
         "black": "Black",
         "beige": "Beige",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Tight-Knit Sweater",
+        "en-GB": "Tight-Knit Sweater",
+        "de": "Feinstrickpullover",
+        "es": "Jersey ceñido de punto",
+        "fr": "Pull en maille fine",
+        "it": "Maglione attillato",
+        "nl": "Fijnmazig gebreide trui",
+        "zh-CN": "紧身针织衫",
+        "zh-TW": "緊身針織衫",
+        "jp": "スリムニット",
+        "ko": "슬림 니트"
       }
     }
   },

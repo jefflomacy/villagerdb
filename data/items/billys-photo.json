@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "亚星的照片",
+        "de": "Foto's von Hennes",
+        "en-GB": "Billy's Photo",
+        "es": "Foto de Brito",
+        "fr": "Photo de Seguin",
+        "it": "Foto di Billy",
+        "jp": "アーシンドのしゃしん",
+        "ko": "힘드러의 사진",
+        "nl": "Foto van Billy",
+        "zh-TW": "亞星的照片",
+        "en-US": "Billy's Photo"
       }
     }
   },

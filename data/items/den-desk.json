@@ -23,6 +23,19 @@
         "red-wood": "Red wood",
         "natural-wood": "Natural wood",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Den Desk",
+        "en-GB": "Den Desk",
+        "de": "Studierzimmertisch",
+        "es": "Escritorio de notario",
+        "fr": "Bureau ministre",
+        "it": "Scrivania da presidente",
+        "nl": "Notarisbureau",
+        "zh-CN": "书房桌子",
+        "zh-TW": "書房桌子",
+        "jp": "しょさいのつくえ",
+        "ko": "서재 책상"
       }
     }
   },

@@ -7,6 +7,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3750
+      },
+      "name": {
+        "en-US": "Iron Wand",
+        "en-GB": "Iron Wand",
+        "de": "Eisenstab",
+        "es": "Varita de hierro",
+        "fr": "Baguette en fer",
+        "it": "Bacchetta d'acciaio",
+        "nl": "Ijzeren staf",
+        "zh-CN": "铁棒",
+        "zh-TW": "鐵棒",
+        "jp": "てつのステッキ",
+        "ko": "철 지팡이"
       }
     }
   },

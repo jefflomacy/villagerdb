@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 4400
         }
-      ]
+      ],
+      "name": {
+        "de": "Stammesmaske",
+        "en-GB": "Tribal Mask",
+        "en-US": "Tribal Mask",
+        "es": "Máscara tribal",
+        "fr": "Masque tribal",
+        "it": "Maschera tribale",
+        "ja": "まじないのかめん"
+      }
     }
   }
 }

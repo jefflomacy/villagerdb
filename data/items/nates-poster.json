@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "巴克思的海报",
+        "de": "Poster's von Nathan",
+        "en-GB": "Nate's Poster",
+        "es": "Póster de Nachete",
+        "fr": "Poster de Nathan",
+        "it": "Poster di Gianni",
+        "jp": "バッカスのポスター",
+        "ko": "박하스의 포스터",
+        "nl": "Poster van Nate",
+        "zh-TW": "巴克思的海報",
+        "en-US": "Nate's Poster"
+      }
     }
   },
   "category": "Photos"

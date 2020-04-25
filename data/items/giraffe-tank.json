@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 5800
         }
-      ]
+      ],
+      "name": {
+        "de": "Giraffentop",
+        "en-GB": "Giraffe Tank",
+        "en-US": "Giraffe Tank",
+        "es": "Top jirafa",
+        "fr": "Débardeur girafe",
+        "it": "Canotta giraffa",
+        "ja": "キリンのふくN"
+      }
     }
   }
 }

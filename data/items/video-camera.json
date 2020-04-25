@@ -14,7 +14,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Video Camera"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -31,6 +34,19 @@
         "black": "Black",
         "silver": "Silver",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Video Camera",
+        "en-GB": "Video Camera",
+        "de": "Videokamera",
+        "es": "Cámara de vídeo",
+        "fr": "Caméscope",
+        "it": "Videocamera",
+        "nl": "Videocamera",
+        "zh-CN": "摄影机",
+        "zh-TW": "攝影機",
+        "jp": "ビデオカメラ",
+        "ko": "비디오카메라"
       }
     }
   }

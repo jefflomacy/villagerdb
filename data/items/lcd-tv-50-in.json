@@ -20,6 +20,19 @@
         "silver": "Silver",
         "red": "Red",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "LCD TV (50 In.)",
+        "en-GB": "LCD TV (50 In.)",
+        "de": "50-Zoll-Lcd-Fernseher",
+        "es": "Tele LCD de 50\"",
+        "fr": "Télé LED (50\")",
+        "it": "TV a LED (50 pollici)",
+        "nl": "Lcd-Tv (50 inch)",
+        "zh-CN": "50寸液晶电视",
+        "zh-TW": "液晶電視 50吋",
+        "jp": "えきしょうテレビ 50インチ",
+        "ko": "50인치 탁상용 TV"
       }
     }
   },

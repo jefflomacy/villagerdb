@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Cosmos"
+      }
     },
     "nh": {
       "orderable": false,
@@ -34,7 +37,20 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Cosmos",
+        "en-GB": "Yellow Cosmos",
+        "de": "Gelbcosmea",
+        "es": "Cosmos amarillo",
+        "fr": "Cosmos jaune",
+        "it": "Cosmea gialla",
+        "nl": "Gele cosmea",
+        "zh-CN": "黄色波斯菊",
+        "zh-TW": "黃色波斯菊",
+        "jp": "きいろいコスモス",
+        "ko": "노란 코스모스"
+      }
     }
   }
 }

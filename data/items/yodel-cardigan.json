@@ -20,6 +20,19 @@
         "mint": "Mint",
         "red": "Red",
         "navy-blue": "Navy blue"
+      },
+      "name": {
+        "en-US": "Yodel Cardigan",
+        "en-GB": "Yodel Cardigan",
+        "de": "Jodeljacke",
+        "es": "Cárdigan nórdico",
+        "fr": "Gilet nordique",
+        "it": "Cardigan yodel",
+        "nl": "Scandinavische vest",
+        "zh-CN": "北欧风针织罩衫",
+        "zh-TW": "北歐風針織罩衫",
+        "jp": "ノルディックなカーディガン",
+        "ko": "노르딕풍 가디건"
       }
     }
   },

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "思颖的照片",
+        "de": "Foto's von Silke",
+        "en-GB": "Sydney's Photo",
+        "es": "Foto de Sidney",
+        "fr": "Photo de Koaline",
+        "it": "Foto di Sidney",
+        "jp": "シドニーのしゃしん",
+        "ko": "시드니의 사진",
+        "nl": "Foto van Sydney",
+        "zh-TW": "思穎的照片",
+        "en-US": "Sydney's Photo"
       }
     }
   },

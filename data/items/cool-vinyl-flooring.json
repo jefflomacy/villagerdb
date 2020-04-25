@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1150
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Cool Vinyl Flooring",
+        "en-GB": "Cool Vinyl Flooring",
+        "de": "Cool-Imbissboden",
+        "es": "Losa comedor azul",
+        "fr": "Sol dalles PVC cool",
+        "it": "Pavimento vinile spavaldo",
+        "nl": "Blauwe vinylvloer",
+        "zh-CN": "酷感塑胶砖地板",
+        "zh-TW": "酷感塑膠磚地板",
+        "jp": "クールなピータイル",
+        "ko": "쿨 데코타일 바닥"
+      }
     }
   },
   "category": "Flooring"

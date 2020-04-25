@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "博士的照片",
+        "de": "Foto's von Rolo",
+        "en-GB": "Cobb's Photo",
+        "es": "Foto de Franfuá",
+        "fr": "Photo de Porken",
+        "it": "Foto di Wurst",
+        "jp": "ハカセのしゃしん",
+        "ko": "박사의 사진",
+        "nl": "Foto van Cobb",
+        "zh-TW": "博士的照片",
+        "en-US": "Cobb's Photo"
       }
     }
   },

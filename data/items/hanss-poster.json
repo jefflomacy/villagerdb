@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "史奈鲁的海报",
+        "de": "Poster's von Hans",
+        "en-GB": "Hans's Poster",
+        "es": "Póster de Hans",
+        "fr": "Poster de Loran",
+        "it": "Poster di Grigilio",
+        "jp": "スナイルのポスター",
+        "ko": "스나일의 포스터",
+        "nl": "Poster van Hans",
+        "zh-TW": "史奈魯的海報",
+        "en-US": "Hans's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "de": "Steinzeittop",
+        "en-GB": "Caveman Tank",
+        "en-US": "Caveman Tank",
+        "es": "Top cavernícola",
+        "fr": "Débardeur caverne",
+        "it": "Canotta sapiens",
+        "ja": "げんしじんなふく"
+      }
     },
     "nh": {
       "orderable": true,
@@ -41,6 +50,19 @@
         "orange": "Orange",
         "yellow": "Yellow",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Caveman Tank",
+        "en-GB": "Caveman Tank",
+        "de": "Steinzeit-Kluft",
+        "es": "Top cavernícola",
+        "fr": "Tunique caverne",
+        "it": "Canotta sapiens",
+        "nl": "Primitieve jurk",
+        "zh-CN": "原始人装",
+        "zh-TW": "原始人服",
+        "jp": "げんしじんなふく",
+        "ko": "원시인 옷"
       }
     }
   }

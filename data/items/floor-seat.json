@@ -20,7 +20,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Floor Seat"
+      }
     },
     "nh": {
       "customizable": true,
@@ -51,6 +54,19 @@
         "black-mustard-yellow": "Black / Mustard yellow",
         "black-peach": "Black / Peach",
         "black-deep-blue": "Black / Deep blue"
+      },
+      "name": {
+        "en-US": "Floor Seat",
+        "en-GB": "Floor Seat",
+        "de": "Bodensitz",
+        "es": "Silla sin patas",
+        "fr": "Chaise au sol",
+        "it": "Sedia giapponese",
+        "nl": "Vloerstoel",
+        "zh-CN": "和室椅",
+        "zh-TW": "和室椅",
+        "jp": "ざいす",
+        "ko": "좌식 의자"
       }
     }
   }

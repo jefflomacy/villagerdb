@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "电源叔叔的海报",
+        "de": "Poster's von Resetti",
+        "en-GB": "Resetti's Poster",
+        "es": "Póster de Rese.T.",
+        "fr": "Poster de Resetti",
+        "it": "Poster di Resetti",
+        "jp": "リセットさんのポスター",
+        "ko": "도루묵씨의 포스터",
+        "nl": "Poster van Resetti",
+        "zh-TW": "電源叔叔的海報",
+        "en-US": "Resetti's Poster"
+      }
     }
   },
   "category": "Photos"

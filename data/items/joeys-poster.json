@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "李察的海报",
+        "de": "Poster's von Kalle",
+        "en-GB": "Joey's Poster",
+        "es": "Póster de Pascual",
+        "fr": "Poster de Joseph",
+        "it": "Poster di Pino",
+        "jp": "リチャードのポスター",
+        "ko": "리처드의 포스터",
+        "nl": "Poster van Joey",
+        "zh-TW": "李察的海報",
+        "en-US": "Joey's Poster"
+      }
     }
   },
   "category": "Photos"

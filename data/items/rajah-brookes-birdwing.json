@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2500
+      },
+      "name": {
+        "en-US": "Rajah Brooke's Birdwing",
+        "en-GB": "Rajah Brooke's Birdwing",
+        "de": "Troides brookiana",
+        "es": "Mariposa alas de Brooke",
+        "fr": "Troides brookiana",
+        "it": "Farfalla Raja Brooke",
+        "nl": "Rajah Brooke-vlinder",
+        "zh-CN": "红颈凤蝶",
+        "zh-TW": "紅頸鳳蝶",
+        "jp": "アカエリトリバネアゲハ",
+        "ko": "붉은목도리비단나비"
       }
     }
   },

@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "de": "Weihnachtsmannhut",
+        "en-GB": "Santa Hat",
+        "en-US": "Santa Hat",
+        "es": "Gorro festivo",
+        "fr": "Bonnet de père Noël",
+        "it": "Capp. Babbo Natale",
+        "ja": "サンタのぼうし"
+      }
     }
   }
 }

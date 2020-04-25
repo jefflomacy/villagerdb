@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2500
         }
-      ]
+      ],
+      "name": {
+        "de": "LED-Tafel",
+        "en-GB": "Small LED Display",
+        "en-US": "Small LED Display",
+        "es": "Panel LED pequeño",
+        "fr": "Mini-affichage LED",
+        "it": "Schermo LED piccolo",
+        "ja": "でんこうけいじばん"
+      }
     }
   }
 }

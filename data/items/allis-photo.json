@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "鳄罗思的照片",
+        "de": "Foto's von Ali",
+        "en-GB": "Alli's Photo",
+        "es": "Foto de Codrila",
+        "fr": "Photo d'allie",
+        "it": "Foto di Alli",
+        "jp": "クロコのしゃしん",
+        "ko": "크로크의 사진",
+        "nl": "Foto van Alli",
+        "zh-TW": "鱷羅思的照片",
+        "en-US": "Alli's Photo"
       }
     }
   },

@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Polizeishirt",
+        "en-GB": "Security Tee",
+        "en-US": "Security Tee",
+        "es": "Uniforme de policía",
+        "fr": "T-shirt sécurité",
+        "it": "Camicia polizia",
+        "ja": "けいかんのふく"
+      }
     }
   }
 }

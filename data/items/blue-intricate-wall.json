@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1570
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Intricate Wall",
+        "en-GB": "Blue Intricate Wall",
+        "de": "Blau-Filigrantapete",
+        "es": "Pared boceto floral azul",
+        "fr": "Mur entrelacs floraux bleu",
+        "it": "Muro filigrana blu",
+        "nl": "Blauwe filigraanwand",
+        "zh-CN": "蓝色布墙",
+        "zh-TW": "藍色布牆",
+        "jp": "あおいテキスタイルのかべ",
+        "ko": "파란 텍스타일 벽"
+      }
     }
   },
   "category": "Wallpaper"

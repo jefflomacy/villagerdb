@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Nibble Fish"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1500
+      },
+      "name": {
+        "en-US": "Nibble Fish",
+        "en-GB": "Nibble Fish",
+        "de": "Saugbarbe",
+        "es": "Pez doctor",
+        "fr": "Poisson docteur",
+        "it": "Garra rufa",
+        "nl": "Knabbelvisje",
+        "zh-CN": "温泉医生鱼",
+        "zh-TW": "溫泉醫生魚",
+        "jp": "ドクターフィッシュ",
+        "ko": "닥터피시"
       }
     }
   }

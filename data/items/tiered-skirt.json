@@ -19,6 +19,19 @@
         "avocado": "Avocado",
         "yellow": "Yellow",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Tiered Skirt",
+        "en-GB": "Tiered Skirt",
+        "de": "Stufenrock",
+        "es": "Falda escalonada",
+        "fr": "Jupe bohème",
+        "it": "Gonna a strati",
+        "nl": "Gelaagde rok",
+        "zh-CN": "三节裙",
+        "zh-TW": "蛋糕裙",
+        "jp": "ティアードスカート",
+        "ko": "티어드 스커트"
       }
     }
   },

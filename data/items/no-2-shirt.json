@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 252
         }
-      ]
+      ],
+      "name": {
+        "de": "Nr.-2-Pulli",
+        "en-GB": "No. 2 Shirt",
+        "en-US": "No. 2 Shirt",
+        "es": "Jersey n.º 2",
+        "fr": "Pull 2",
+        "it": "Maglia nº 2",
+        "ja": "No.2のふく"
+      }
     },
     "ac": {
       "orderable": true,
@@ -36,7 +45,10 @@
           "currency": "bells",
           "value": 250
         }
-      ]
+      ],
+      "name": {
+        "en-US": "No. 2 Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -52,7 +64,10 @@
           "currency": "bells",
           "value": 250
         }
-      ]
+      ],
+      "name": {
+        "en-US": "No. 2 Shirt"
+      }
     },
     "nh": {
       "orderable": true,
@@ -71,6 +86,19 @@
       ],
       "variations": {
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "No. 2 Shirt",
+        "en-GB": "No. 2 Shirt",
+        "de": "Nr.-2-Shirt",
+        "es": "Camiseta n.º 2",
+        "fr": "T-Shirt 2",
+        "it": "Maglia nº 2",
+        "nl": "Nummer 2-T-shirt",
+        "zh-CN": "2号服",
+        "zh-TW": "2號衣服",
+        "jp": "No.2のふく",
+        "ko": "No.2 옷"
       }
     }
   }

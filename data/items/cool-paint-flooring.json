@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Cool-Paint Flooring",
+        "en-GB": "Cool-Paint Flooring",
+        "de": "Cool-Farbholzboden",
+        "es": "Parqué pintado refinado",
+        "fr": "Parquet peint tons froids",
+        "it": "Pavimento spavaldo dipinto",
+        "nl": "Koelkleurig geverfde vloer",
+        "zh-CN": "清新喷涂地板",
+        "zh-TW": "酷感油漆地板",
+        "jp": "クールなペイントフローリング",
+        "ko": "쿨 페인트 마룻바닥"
+      }
     }
   },
   "category": "Flooring"

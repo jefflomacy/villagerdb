@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "子墨的照片",
+        "de": "Foto's von Dietmar",
+        "en-GB": "Clay's Photo",
+        "es": "Foto de Boliche",
+        "fr": "Photo de Guido",
+        "it": "Foto di Carmelo",
+        "jp": "どぐろうのしゃしん",
+        "ko": "햄둥의 사진",
+        "nl": "Foto van Clay",
+        "zh-TW": "子墨的照片",
+        "en-US": "Clay's Photo"
       }
     }
   },

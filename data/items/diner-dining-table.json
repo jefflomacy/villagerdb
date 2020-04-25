@@ -22,6 +22,19 @@
         "pink": "Pink",
         "cream": "Cream",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Diner Dining Table",
+        "en-GB": "Diner Dining Table",
+        "de": "Diner-Esstisch",
+        "es": "Mesa café años 50",
+        "fr": "Table années 50",
+        "it": "Tavolo bar anni '50",
+        "nl": "Jaren 50-eettafel",
+        "zh-CN": "餐馆餐桌",
+        "zh-TW": "餐館餐桌",
+        "jp": "ダイナーなダイニングテーブル",
+        "ko": "다이너 다이닝 테이블"
       }
     }
   },

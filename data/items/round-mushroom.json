@@ -11,12 +11,28 @@
       },
       "sources": [
         "Near trees (only in November)"
-      ]
+      ],
+      "name": {
+        "en-US": "Round Mushroom"
+      }
     },
     "nh": {
       "sellPrice": {
         "currency": "bells",
         "value": 200
+      },
+      "name": {
+        "en-US": "Round Mushroom",
+        "en-GB": "Round Mushroom",
+        "de": "Rundpilz",
+        "es": "Champiñón redondo",
+        "fr": "Champignon rond",
+        "it": "Fungo tondo",
+        "nl": "Ronde paddenstoel",
+        "zh-CN": "圆形蘑菇",
+        "zh-TW": "圓形蘑菇",
+        "jp": "まるいキノコ",
+        "ko": "둥근 버섯"
       }
     }
   }

@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 80000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Crewed Spaceship",
+        "en-GB": "Crewed Spaceship",
+        "de": "Rakete mit Besatzung",
+        "es": "Módulo espacial tripulado",
+        "fr": "Astronef avec équipage",
+        "it": "Astronave con equipaggio",
+        "nl": "Bemande ruimteraket",
+        "zh-CN": "载人太空船",
+        "zh-TW": "載人太空船",
+        "jp": "ゆうじんうちゅうせん",
+        "ko": "유인 우주선"
+      }
     }
   },
   "category": "Furniture"

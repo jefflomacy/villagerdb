@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 3600
         }
-      ]
+      ],
+      "name": {
+        "de": "Elektromaschine",
+        "en-GB": "Amazing Machine",
+        "en-US": "Amazing Machine",
+        "es": "Psicomáquina",
+        "fr": "Machine extra",
+        "it": "Macchina strana",
+        "ja": "すごそうなキカイ"
+      }
     }
   }
 }

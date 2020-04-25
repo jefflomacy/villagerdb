@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "嘉弼的照片",
+        "de": "Foto's von Vladimir",
+        "en-GB": "Vladimir's Photo",
+        "es": "Foto de Vladimir",
+        "fr": "Photo de Vladimir",
+        "it": "Foto di Vladimir",
+        "jp": "ガビのしゃしん",
+        "ko": "곰비의 사진",
+        "nl": "Foto van Vladimir",
+        "zh-TW": "嘉弼的照片",
+        "en-US": "Vladimir's Photo"
       }
     }
   },

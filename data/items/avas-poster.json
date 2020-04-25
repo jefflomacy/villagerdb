@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "陶米咕的海报",
+        "de": "Poster's von Gisela",
+        "en-GB": "Ava's Poster",
+        "es": "Póster de Ava",
+        "fr": "Poster d'eva",
+        "it": "Poster di Ava",
+        "jp": "ドミグラのポスター",
+        "ko": "에바의 포스터",
+        "nl": "Poster van Ava",
+        "zh-TW": "陶米咕的海報",
+        "en-US": "Ava's Poster"
+      }
     }
   },
   "category": "Photos"

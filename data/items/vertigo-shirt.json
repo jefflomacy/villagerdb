@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "3D-Pulli",
+        "en-GB": "Vertigo Shirt",
+        "en-US": "Vertigo Shirt",
+        "es": "Jersey vértigo",
+        "fr": "Pull vertige",
+        "it": "Maglia vertigine",
+        "ja": "やがらのふくL"
+      }
     },
     "ac": {
       "orderable": true,
@@ -39,7 +48,10 @@
           "currency": "bells",
           "value": 370
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Vertigo Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -55,7 +67,10 @@
           "currency": "bells",
           "value": 370
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Vertigo Shirt"
+      }
     }
   }
 }

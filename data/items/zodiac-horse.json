@@ -14,7 +14,16 @@
       },
       "sources": [
         "New Year's (Isabelle)"
-      ]
+      ],
+      "name": {
+        "de": "Pferdefigur",
+        "en-GB": "Zodiac Horse",
+        "en-US": "Zodiac Horse",
+        "es": "Figura de caballo",
+        "fr": "Figurine de cheval",
+        "it": "Figurina di cavallo",
+        "ja": "えとのおきもの・うま"
+      }
     }
   }
 }

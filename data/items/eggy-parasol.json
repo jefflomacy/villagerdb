@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Eggy Parasol"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -32,7 +35,20 @@
           "currency": "bells",
           "value": 750
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Eggy Parasol",
+        "en-GB": "Eggy Parasol",
+        "de": "Eigelbschirm",
+        "es": "Parasol sol",
+        "fr": "Parapluie à pois jaune",
+        "it": "Parasole bolle giallo",
+        "nl": "Gele parasol met stippen",
+        "zh-CN": "黄色点点雨伞",
+        "zh-TW": "黃色圓點雨傘",
+        "jp": "きいろみずたまのかさ",
+        "ko": "노란 물방울 우산"
+      }
     }
   }
 }

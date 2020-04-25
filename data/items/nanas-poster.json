@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "七七的海报",
+        "de": "Poster's von Dorothea",
+        "en-GB": "Nana's Poster",
+        "es": "Póster de Nana",
+        "fr": "Poster de Mireille",
+        "it": "Poster di Nanà",
+        "jp": "チッチのポスター",
+        "ko": "키키의 포스터",
+        "nl": "Poster van Nana",
+        "zh-TW": "七七的海報",
+        "en-US": "Nana's Poster"
+      }
     }
   },
   "category": "Photos"

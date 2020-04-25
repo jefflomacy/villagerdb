@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 3920
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Flowery Painting"
+      }
     },
     "nh": {
       "orderable": false,
@@ -36,7 +39,20 @@
           "currency": "bells",
           "value": 4980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Flowery Painting",
+        "en-GB": "Flowery Painting",
+        "de": "Blumengemälde",
+        "es": "Cuadro flores",
+        "fr": "Toile florale",
+        "it": "Quadro fiorito",
+        "nl": "Zonnige schilderij",
+        "zh-CN": "珍贵的名画",
+        "zh-TW": "珍貴的名畫",
+        "jp": "たぐいまれなるめいが",
+        "ko": "진귀한 명화"
+      }
     }
   }
 }

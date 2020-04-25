@@ -22,6 +22,19 @@
         "purple": "Purple",
         "blue": "Blue",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Studio Wall Spotlight",
+        "en-GB": "Studio Wall Spotlight",
+        "de": "Wandscheinwerfer",
+        "es": "Foco profesional para colgar",
+        "fr": "Spot mural",
+        "it": "Faretto da muro",
+        "nl": "Plafondspotlight",
+        "zh-CN": "壁挂式聚光灯",
+        "zh-TW": "壁掛式聚光燈",
+        "jp": "かべかけスポットライト",
+        "ko": "벽걸이 스포트라이트"
       }
     }
   },

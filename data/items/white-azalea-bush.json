@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 560
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White-Azalea Bush",
+        "en-GB": "White-Azalea Bush",
+        "de": "Gartenazalee",
+        "es": "Azalea blanca adulta",
+        "fr": "Buisson d'azalée blanche",
+        "it": "Azalea bianca adulta",
+        "nl": "Witte azalea",
+        "zh-CN": "白色杜鹃花树",
+        "zh-TW": "白色杜鵑花樹",
+        "jp": "しろいツツジのき",
+        "ko": "하얀 진달래나무"
+      }
     }
   },
   "category": "Bushes"

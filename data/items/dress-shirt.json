@@ -19,6 +19,19 @@
         "mint": "Mint",
         "pink": "Pink",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Dress Shirt",
+        "en-GB": "Dress Shirt",
+        "de": "Anzughemd",
+        "es": "Camisa de vestir",
+        "fr": "Chemise habillée",
+        "it": "Camicia classica",
+        "nl": "Nette overhemd",
+        "zh-CN": "衬衫",
+        "zh-TW": "襯衫",
+        "jp": "ワイシャツ",
+        "ko": "와이셔츠"
       }
     }
   },

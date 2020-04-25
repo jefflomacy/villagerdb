@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 68000
         }
-      ]
+      ],
+      "name": {
+        "de": "Prachtlampe",
+        "en-GB": "Princess Lamp",
+        "en-US": "Princess Lamp",
+        "es": "Lámpara princesa",
+        "fr": "Lampe princesse",
+        "it": "Lampada contessa",
+        "ja": "プリンセスランプ"
+      }
     }
   }
 }

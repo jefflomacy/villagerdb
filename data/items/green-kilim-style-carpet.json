@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Green Kilim-Style Carpet",
+        "en-GB": "Green Kilim-Style Carpet",
+        "de": "Grün-Kelimteppich",
+        "es": "Alfombra kilim verde",
+        "fr": "Tapis kilim vert",
+        "it": "Tappeto kilim verde",
+        "nl": "Groene kelimtapijt",
+        "zh-CN": "绿色基里姆地毯",
+        "zh-TW": "綠色基里姆地毯",
+        "jp": "みどりのキリムのカーペット",
+        "ko": "초록 킬림 카펫"
+      }
     }
   },
   "category": "Flooring"

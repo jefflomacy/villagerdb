@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "小岚的海报",
+        "de": "Poster's von Senta",
+        "en-GB": "Sandy's Poster",
+        "es": "Póster de Priscila",
+        "fr": "Poster d'ottie",
+        "it": "Poster di Alessia",
+        "jp": "ランのポスター",
+        "ko": "샌디의 포스터",
+        "nl": "Poster van Sandy",
+        "zh-TW": "小嵐的海報",
+        "en-US": "Sandy's Poster"
+      }
     }
   },
   "category": "Photos"

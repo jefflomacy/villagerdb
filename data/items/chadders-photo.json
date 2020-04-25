@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "起司的照片",
+        "de": "Foto's von Charlie",
+        "en-GB": "Chadder's Photo",
+        "es": "Foto de Roque",
+        "fr": "Photo de Mozzar",
+        "it": "Foto di Gruviero",
+        "jp": "チーズのしゃしん",
+        "ko": "치즈의 사진",
+        "nl": "Foto van Chadder",
+        "zh-TW": "起司的照片",
+        "en-US": "Chadder's Photo"
       }
     }
   },

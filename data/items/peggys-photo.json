@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "千惠的照片",
+        "de": "Foto's von Quiekie",
+        "en-GB": "Peggy's Photo",
+        "es": "Foto de Peggy",
+        "fr": "Photo de Rose",
+        "it": "Foto di Sally",
+        "jp": "ちえりのしゃしん",
+        "ko": "체리의 사진",
+        "nl": "Foto van Peggy",
+        "zh-TW": "千惠的照片",
+        "en-US": "Peggy's Photo"
       }
     }
   },

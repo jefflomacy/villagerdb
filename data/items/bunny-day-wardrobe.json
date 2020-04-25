@@ -14,6 +14,19 @@
       },
       "recipe": {
         "stone-egg": 4
+      },
+      "name": {
+        "en-US": "Bunny Day Wardrobe",
+        "en-GB": "Bunny Day Wardrobe",
+        "de": "Häschentag-Schrank",
+        "es": "Armario Caza del Huevo",
+        "fr": "Penderie fête des œufs",
+        "it": "Armadio caccia all'uovo",
+        "nl": "Eierkledingkast",
+        "zh-CN": "复活节衣柜",
+        "zh-TW": "復活節衣櫃",
+        "jp": "イースターなクロゼット",
+        "ko": "이스터 옷장"
       }
     }
   },

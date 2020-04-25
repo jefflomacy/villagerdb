@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 340
         }
-      ]
+      ],
+      "name": {
+        "de": "Linienshirt",
+        "en-GB": "Danger Tee",
+        "en-US": "Danger Tee",
+        "es": "Camiseta peligro",
+        "fr": "T-shirt danger",
+        "it": "Maglietta ape",
+        "ja": "デンジャラスなふく"
+      }
     }
   }
 }

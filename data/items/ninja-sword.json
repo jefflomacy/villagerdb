@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 9600
         }
-      ]
+      ],
+      "name": {
+        "de": "Ninjaschwert",
+        "en-GB": "Ninja Sword",
+        "en-US": "Ninja Sword",
+        "es": "Espada ninja",
+        "fr": "épée de ninja",
+        "it": "Spada ninja",
+        "ja": "にんじゃとう"
+      }
     }
   }
 }

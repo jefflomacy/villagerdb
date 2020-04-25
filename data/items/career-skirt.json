@@ -22,6 +22,19 @@
         "green": "Green",
         "blue": "Blue",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Career Skirt",
+        "en-GB": "Career Skirt",
+        "de": "Business-Rock",
+        "es": "Falda de oficina",
+        "fr": "Jupe crayon",
+        "it": "Gonna da ufficio",
+        "nl": "Zakelijke rok",
+        "zh-CN": "西装短裙",
+        "zh-TW": "西裝裙",
+        "jp": "キャリアなスカート",
+        "ko": "정장 치마"
       }
     }
   },

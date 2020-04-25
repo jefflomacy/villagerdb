@@ -17,6 +17,19 @@
         "pink": "Pink",
         "yellow": "Yellow",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Outdoorsy Watering Can",
+        "en-GB": "Outdoorsy Watering Can",
+        "de": "Profi-Kanne",
+        "es": "Regadera de acampada",
+        "fr": "Arrosoir de rando",
+        "it": "Annaffiatoio da campeggio",
+        "nl": "Kampeergieter",
+        "zh-CN": "户外浇花壶",
+        "zh-TW": "戶外澆花壺",
+        "jp": "アウトドアなジョウロ",
+        "ko": "아웃도어 물뿌리개"
       }
     }
   },

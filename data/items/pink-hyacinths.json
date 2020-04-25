@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 80
+      },
+      "name": {
+        "en-US": "Pink Hyacinths",
+        "en-GB": "Pink Hyacinths",
+        "de": "Rosahyazinthen",
+        "es": "Jacintos rosas",
+        "fr": "Jacinthes roses",
+        "it": "Giacinti rosa",
+        "nl": "Roze hyacinten",
+        "zh-CN": "粉红风信子",
+        "zh-TW": "粉紅風信子",
+        "jp": "ピンクのヒヤシンス",
+        "ko": "핑크색 히아신스"
       }
     }
   },

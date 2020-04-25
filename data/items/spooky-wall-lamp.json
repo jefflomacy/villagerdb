@@ -25,7 +25,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Kürbiswandlampe",
+        "en-GB": "Spooky Wall Lamp",
+        "en-US": "Spooky Wall Lamp",
+        "es": "Lámp. pared calabaza",
+        "fr": "Lampe mur Halloween",
+        "it": "Lampada muro brividi",
+        "ja": "ハロウィンかべかけランプ"
+      }
     }
   }
 }

@@ -18,7 +18,16 @@
           "currency": "bells",
           "value": 1180
         }
-      ]
+      ],
+      "name": {
+        "de": "Gartenstuhl",
+        "en-GB": "Lawn Chair",
+        "en-US": "Lawn Chair",
+        "es": "Silla jardín",
+        "fr": "Chaise de jardin",
+        "it": "Sedia giardino",
+        "ja": "ビニールチェア"
+      }
     },
     "nh": {
       "orderable": true,
@@ -39,6 +48,19 @@
         "yellow": "Yellow",
         "green": "Green",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Lawn Chair",
+        "en-GB": "Lawn Chair",
+        "de": "Gartenstuhl",
+        "es": "Silla de jardín",
+        "fr": "Chaise de plage",
+        "it": "Sedia da giardino",
+        "nl": "Tuinstoel",
+        "zh-CN": "休闲塑胶绑带椅",
+        "zh-TW": "休閒塑膠椅",
+        "jp": "ビニールチェア",
+        "ko": "비닐 체어"
       }
     }
   }

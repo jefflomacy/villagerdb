@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "肥肝的照片",
+        "de": "Foto's von Gustav",
+        "en-GB": "Drake's Photo",
+        "es": "Foto de Draco",
+        "fr": "Photo de Colvert",
+        "it": "Foto di Drago",
+        "jp": "フォアグラのしゃしん",
+        "ko": "푸아그라의 사진",
+        "nl": "Foto van Drake",
+        "zh-TW": "肥肝的照片",
+        "en-US": "Drake's Photo"
       }
     }
   },

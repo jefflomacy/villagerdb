@@ -25,6 +25,19 @@
         "pink": "Pink",
         "cream": "Cream",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Diner Chair",
+        "en-GB": "Diner Chair",
+        "de": "Diner-Stuhl",
+        "es": "Silla café años 50",
+        "fr": "Chaise années 50",
+        "it": "Sedia bar anni '50",
+        "nl": "Jaren 50-stoel",
+        "zh-CN": "餐馆椅子",
+        "zh-TW": "餐館椅子",
+        "jp": "ダイナーなイス",
+        "ko": "다이너 의자"
       }
     }
   },

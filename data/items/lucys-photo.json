@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "露西的照片",
+        "de": "Foto's von Larissa",
+        "en-GB": "Lucy's Photo",
+        "es": "Foto de Aurelia",
+        "fr": "Photo de Lucie",
+        "it": "Foto di Lucy",
+        "jp": "ルーシーのしゃしん",
+        "ko": "루시의 사진",
+        "nl": "Foto van Lucy",
+        "zh-TW": "露西的照片",
+        "en-US": "Lucy's Photo"
       }
     }
   },

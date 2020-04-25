@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "de": "Papayashirt",
+        "en-GB": "Melon Tee",
+        "en-US": "Melon Tee",
+        "es": "Camiseta melón",
+        "fr": "T-shirt melon",
+        "it": "Maglietta melone",
+        "ja": "メロンのふく"
+      }
     }
   }
 }

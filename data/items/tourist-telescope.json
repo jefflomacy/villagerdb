@@ -23,6 +23,19 @@
         "white": "White",
         "gray": "Gray",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Tourist Telescope",
+        "en-GB": "Tourist Telescope",
+        "de": "Aussichtsfernrohr",
+        "es": "Binocular de mirador",
+        "fr": "Télescope panoramique",
+        "it": "Telescopio per turisti",
+        "nl": "Verrekijker",
+        "zh-CN": "观光望远镜",
+        "zh-TW": "觀光望遠鏡",
+        "jp": "かんこうぼうえんきょう",
+        "ko": "관광 망원경"
       }
     }
   },

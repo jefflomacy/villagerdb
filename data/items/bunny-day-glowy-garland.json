@@ -19,6 +19,19 @@
         "wood-egg": 1,
         "sky-egg": 1,
         "water-egg": 1
+      },
+      "name": {
+        "en-US": "Bunny Day Glowy Garland",
+        "en-GB": "Bunny Day Glowy Garland",
+        "de": "Häschentag-Girlande",
+        "es": "Guirnalda luz Caza Huevo",
+        "fr": "Guirlande fête des œufs",
+        "it": "Festone caccia all'uovo",
+        "nl": "Eierlichtjesslinger",
+        "zh-CN": "复活节灯串",
+        "zh-TW": "復活節燈串",
+        "jp": "イースターなライトガーランド",
+        "ko": "이스터 라이트 가랜드"
       }
     }
   },

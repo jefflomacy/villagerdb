@@ -12,6 +12,19 @@
       "recipe": {
         "young-spring-bamboo": 1,
         "clump-of-weeds": 10
+      },
+      "name": {
+        "en-US": "Green-Leaf Pile",
+        "en-GB": "Green-Leaf Pile",
+        "de": "Laubhaufen",
+        "es": "Pila de hojas verdes",
+        "fr": "Tas de feuilles vertes",
+        "it": "Mucchio di foglie verdi",
+        "nl": "Hoop groene bladeren",
+        "zh-CN": "绿色落叶",
+        "zh-TW": "綠色落葉",
+        "jp": "みどりのおちば",
+        "ko": "초록 낙엽"
       }
     }
   },

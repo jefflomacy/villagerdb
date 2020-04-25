@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Formal Paper"
+      }
     },
     "nh": {
       "orderable": true,
@@ -35,6 +38,19 @@
         "brown": "Brown",
         "light-brown": "Light brown",
         "dark-brown": "Dark brown"
+      },
+      "name": {
+        "en-US": "Formal Paper",
+        "en-GB": "Formal Paper",
+        "de": "Zertifikat",
+        "es": "Certificado",
+        "fr": "Certificat encadré",
+        "it": "Attestato formale",
+        "nl": "Certificaat",
+        "zh-CN": "奖状",
+        "zh-TW": "獎狀",
+        "jp": "ひょうしょうじょう",
+        "ko": "표창장"
       }
     }
   }

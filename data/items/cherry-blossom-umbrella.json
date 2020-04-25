@@ -11,6 +11,19 @@
       },
       "recipe": {
         "cherry-blossom-petal": 7
+      },
+      "name": {
+        "en-US": "Cherry-Blossom Umbrella",
+        "en-GB": "Cherry-Blossom Umbrella",
+        "de": "Kirschblütenschirm",
+        "es": "Paraguas flor de cerezo",
+        "fr": "Parapluie fleur de cerisier",
+        "it": "Ombrello fiore di ciliegio",
+        "nl": "Kersenbloesemparaplu",
+        "zh-CN": "樱花雨伞",
+        "zh-TW": "櫻花雨傘",
+        "jp": "さくらのかさ",
+        "ko": "벚꽃 우산"
       }
     }
   },

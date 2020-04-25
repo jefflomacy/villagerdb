@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "汤姆的照片",
+        "de": "Foto's von Eckart",
+        "en-GB": "Lopez's Photo",
+        "es": "Foto de Agreste",
+        "fr": "Photo de Jon",
+        "it": "Foto di Lopez",
+        "jp": "トムソンのしゃしん",
+        "ko": "톰슨의 사진",
+        "nl": "Foto van Lopez",
+        "zh-TW": "湯姆的照片",
+        "en-US": "Lopez's Photo"
       }
     }
   },

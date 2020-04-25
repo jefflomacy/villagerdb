@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 3600
         }
-      ]
+      ],
+      "name": {
+        "de": "Tigerhose",
+        "en-GB": "Tiger Pants",
+        "en-US": "Tiger Pants",
+        "es": "Pantalón tigre",
+        "fr": "Pantalon tigre",
+        "it": "Pantalone tigre",
+        "ja": "とらじまのズボン"
+      }
     }
   }
 }

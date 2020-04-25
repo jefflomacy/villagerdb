@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "花寿司的照片",
+        "de": "Foto's von Pingi",
+        "en-GB": "Iggly's Photo",
+        "es": "Foto de Bobo",
+        "fr": "Photo d'urbain",
+        "it": "Foto di Piccio",
+        "jp": "のりまきのしゃしん",
+        "ko": "김말이의 사진",
+        "nl": "Foto van Iggly",
+        "zh-TW": "花壽司的照片",
+        "en-US": "Iggly's Photo"
       }
     }
   },

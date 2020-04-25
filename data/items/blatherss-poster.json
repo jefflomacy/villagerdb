@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "傅达的海报",
+        "de": "Poster's von Eugen",
+        "en-GB": "Blathers's Poster",
+        "es": "Póster de Sócrates",
+        "fr": "Poster de Thibou",
+        "it": "Poster di Blatero",
+        "jp": "フータのポスター",
+        "ko": "부엉의 포스터",
+        "nl": "Poster van Blathers",
+        "zh-TW": "傅達的海報",
+        "en-US": "Blathers's Poster"
+      }
     }
   },
   "category": "Photos"

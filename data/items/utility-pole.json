@@ -21,6 +21,19 @@
       "variations": {
         "no-ads": "No ads",
         "with-ads": "With ads"
+      },
+      "name": {
+        "en-US": "Utility Pole",
+        "en-GB": "Utility Pole",
+        "de": "Leitungsmast",
+        "es": "Poste eléctrico",
+        "fr": "Poteau électrique",
+        "it": "Palo della corrente",
+        "nl": "Bovenleidingsmast",
+        "zh-CN": "电线杆",
+        "zh-TW": "電線桿",
+        "jp": "でんちゅう",
+        "ko": "전신주"
       }
     }
   },

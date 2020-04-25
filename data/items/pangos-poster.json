@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "佩希的海报",
+        "de": "Poster's von Mathilda",
+        "en-GB": "Pango's Poster",
+        "es": "Póster de Aspidora",
+        "fr": "Poster de Mathilda",
+        "it": "Poster di Carlotta",
+        "jp": "パトラのポスター",
+        "ko": "패트라의 포스터",
+        "nl": "Poster van Pango",
+        "zh-TW": "佩希的海報",
+        "en-US": "Pango's Poster"
+      }
     }
   },
   "category": "Photos"

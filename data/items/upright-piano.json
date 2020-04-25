@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "de": "Klavier",
+        "en-GB": "Upright Piano",
+        "en-US": "Upright Piano",
+        "es": "Piano de pared",
+        "fr": "Piano droit",
+        "it": "Piano verticale",
+        "ja": "アップライトピアノ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -35,6 +44,19 @@
         "white": "White",
         "walnut": "Walnut",
         "maple": "Maple"
+      },
+      "name": {
+        "en-US": "Upright Piano",
+        "en-GB": "Upright Piano",
+        "de": "Klavier",
+        "es": "Piano de pared",
+        "fr": "Piano droit",
+        "it": "Piano verticale",
+        "nl": "Piano",
+        "zh-CN": "直立式钢琴",
+        "zh-TW": "直立式鋼琴",
+        "jp": "アップライトピアノ",
+        "ko": "업라이트 피아노"
       }
     }
   }

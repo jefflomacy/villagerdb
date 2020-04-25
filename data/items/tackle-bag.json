@@ -13,6 +13,19 @@
       },
       "variations": {
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Tackle Bag",
+        "en-GB": "Tackle Bag",
+        "de": "Anglertasche",
+        "es": "Bolsa de pesca",
+        "fr": "Sac de pêche",
+        "it": "Borsa da pesca",
+        "nl": "Vistas",
+        "zh-CN": "钓鱼包",
+        "zh-TW": "釣魚包",
+        "jp": "フィッシングバッグ",
+        "ko": "낚시 가방"
       }
     }
   },

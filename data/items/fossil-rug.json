@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Fossil Rug",
+        "en-GB": "Fossil Rug",
+        "de": "Fossilienteppich",
+        "es": "Alfombra fósil",
+        "fr": "Tapis fossile",
+        "it": "Tappeto fossile",
+        "nl": "Fossieltapijt",
+        "zh-CN": "化石地毯",
+        "zh-TW": "化石地毯",
+        "jp": "かせきのラグ",
+        "ko": "화석 러그"
+      }
     }
   },
   "category": "Flooring"

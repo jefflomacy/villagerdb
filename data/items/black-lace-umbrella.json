@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 750
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Black Lace Umbrella",
+        "en-GB": "Black Lace Umbrella",
+        "de": "Spitzenschirm",
+        "es": "Paraguas de encaje",
+        "fr": "Ombrelle dentelle noire",
+        "it": "Ombrello ricami nero",
+        "nl": "Zwarte kanten paraplu",
+        "zh-CN": "黑色蕾丝雨伞",
+        "zh-TW": "黑色蕾絲雨傘",
+        "jp": "くろいレースのかさ",
+        "ko": "검정 레이스 우산"
+      }
     }
   },
   "category": "Umbrellas"

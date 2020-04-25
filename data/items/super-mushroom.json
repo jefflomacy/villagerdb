@@ -15,7 +15,16 @@
       },
       "sources": [
         "Fortune cookie #21"
-      ]
+      ],
+      "name": {
+        "de": "Superpilz",
+        "en-GB": "Super Mushroom",
+        "en-US": "Super Mushroom",
+        "es": "Superchampiñón",
+        "fr": "Super champignon",
+        "it": "Super fungo",
+        "ja": "スーパーキノコ"
+      }
     }
   }
 }

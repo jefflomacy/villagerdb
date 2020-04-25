@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "de": "Sorbet-Shirt",
+        "en-GB": "Fresh Tee",
+        "en-US": "Fresh Tee",
+        "es": "Camiseta brisa",
+        "fr": "T-shirt nouveau",
+        "it": "Maglietta fresca",
+        "ja": "さわやかなふく"
+      }
     }
   }
 }

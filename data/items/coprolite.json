@@ -11,7 +11,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Koprolith",
+        "en-GB": "Coprolite",
+        "en-US": "Coprolite",
+        "es": "Coprolito",
+        "fr": "Crotte de dinosaure",
+        "it": "Coprolito",
+        "ja": "ウンコのかせき"
+      }
     },
     "nh": {
       "orderable": false,
@@ -21,6 +30,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1100
+      },
+      "name": {
+        "en-US": "Coprolite",
+        "en-GB": "Coprolite",
+        "de": "Koprolith",
+        "es": "Coprolito",
+        "fr": "Coprolithe",
+        "it": "Coprolito",
+        "nl": "Coproliet",
+        "zh-CN": "粪化石",
+        "zh-TW": "糞化石",
+        "jp": "ウンコのかせき",
+        "ko": "대변 화석"
       }
     }
   }

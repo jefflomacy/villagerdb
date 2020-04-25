@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 2180
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Plaza Tile"
+      }
     }
   }
 }

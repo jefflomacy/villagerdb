@@ -15,6 +15,19 @@
       ],
       "variations": {
         "white": "White"
+      },
+      "name": {
+        "en-US": "OK Motors Jacket",
+        "en-GB": "OK Motors Jacket",
+        "de": "Ok-Motors-Shirt",
+        "es": "Camisa de OK Motors",
+        "fr": "Uniforme OK Motors",
+        "it": "Giacchetta OK Motors",
+        "nl": "OK Motors-overhemd",
+        "zh-CN": "OK车业夹克",
+        "zh-TW": "OK車業外套",
+        "jp": "OKモータースジャケット",
+        "ko": "OK 모터즈 재킷"
       }
     }
   },

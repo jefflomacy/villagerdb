@@ -16,6 +16,19 @@
       "variations": {
         "black": "Black",
         "orange": "Orange"
+      },
+      "name": {
+        "en-US": "Safety Vest",
+        "en-GB": "Safety Vest",
+        "de": "Sicherheitsweste",
+        "es": "Chaleco de seguridad",
+        "fr": "Gilet de sécurité",
+        "it": "Giubba catarifrangente",
+        "nl": "Veiligheidshesje",
+        "zh-CN": "交通疏导员服",
+        "zh-TW": "交通警察服",
+        "jp": "こうつうゆうどうのふく",
+        "ko": "신호수 조끼"
       }
     }
   },

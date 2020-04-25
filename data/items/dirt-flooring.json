@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Dirt Flooring",
+        "en-GB": "Dirt Flooring",
+        "de": "Matschboden",
+        "es": "Suelo choza tierra",
+        "fr": "Sol terre",
+        "it": "Pavimento terroso",
+        "nl": "Aarde",
+        "zh-CN": "土壤地板",
+        "zh-TW": "土壤地板",
+        "jp": "つちのゆか",
+        "ko": "흙 바닥"
+      }
     }
   },
   "category": "Flooring"

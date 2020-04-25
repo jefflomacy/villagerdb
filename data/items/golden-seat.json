@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 200000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Golden Seat",
+        "en-GB": "Golden Seat",
+        "de": "Goldsitz",
+        "es": "Banco dorado",
+        "fr": "Banquette d'or",
+        "it": "Panchina dorata",
+        "nl": "Gouden zetel",
+        "zh-CN": "黄金长椅",
+        "zh-TW": "黃金長椅",
+        "jp": "おうごんのベンチ",
+        "ko": "황금 벤치"
+      }
     }
   },
   "category": "Furniture"

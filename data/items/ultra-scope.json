@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 500
         }
-      ]
+      ],
+      "name": {
+        "de": "Ultra Scope",
+        "en-GB": "Ultra Scope",
+        "en-US": "Ultra Scope",
+        "es": "Ultra Scope",
+        "fr": "Ultra Scope",
+        "it": "Ultra Scope",
+        "ja": "ウルトラコープ"
+      }
     }
   }
 }

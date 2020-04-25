@@ -20,6 +20,19 @@
         "colorful": "Colorful",
         "marine": "Marine",
         "old": "Old"
+      },
+      "name": {
+        "en-US": "Destinations Signpost",
+        "en-GB": "Destinations Signpost",
+        "de": "Weltwegweiser",
+        "es": "Poste cruce de caminos",
+        "fr": "Poteau indicateur",
+        "it": "Palo segnaletico",
+        "nl": "Wereldwegwijzer",
+        "zh-CN": "世界的路标",
+        "zh-TW": "世界的路標",
+        "jp": "せかいのみちしるべ",
+        "ko": "섬 이정표"
       }
     }
   },

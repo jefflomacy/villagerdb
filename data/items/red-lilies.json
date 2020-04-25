@@ -17,7 +17,20 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Lilies",
+        "en-GB": "Red Lilies",
+        "de": "Rotlilien",
+        "es": "Lirios rojos",
+        "fr": "Lys rouges",
+        "it": "Gigli rossi",
+        "nl": "Rode lelies",
+        "zh-CN": "红色百合",
+        "zh-TW": "紅色百合",
+        "jp": "あかいユリ",
+        "ko": "빨간 백합"
+      }
     }
   },
   "category": "Flowers"

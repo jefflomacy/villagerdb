@@ -18,6 +18,19 @@
         "yellow": "Yellow",
         "blue": "Blue",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Running Tights",
+        "en-GB": "Running Tights",
+        "de": "Läuferleggings",
+        "es": "Malla para correr",
+        "fr": "Collant de course à pied",
+        "it": "Paio di calze da corsa",
+        "nl": "Hardlooplegging",
+        "zh-CN": "跑步紧身裤",
+        "zh-TW": "跑步緊身褲",
+        "jp": "ランニングタイツ",
+        "ko": "러닝 타이츠"
       }
     }
   },

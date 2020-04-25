@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1360
         }
-      ]
+      ],
+      "name": {
+        "de": "Hocker",
+        "en-GB": "Stool",
+        "en-US": "Stool",
+        "es": "Taburete",
+        "fr": "Tabouret",
+        "it": "Sgabello",
+        "ja": "まるイス"
+      }
     }
   }
 }

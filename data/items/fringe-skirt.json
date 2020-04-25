@@ -21,6 +21,19 @@
         "yellow": "Yellow",
         "green": "Green",
         "berry-red": "Berry red"
+      },
+      "name": {
+        "en-US": "Fringe Skirt",
+        "en-GB": "Fringe Skirt",
+        "de": "Fransenrock",
+        "es": "Falda corta con flecos",
+        "fr": "Jupe à franges",
+        "it": "Gonna con frange",
+        "nl": "Rokje met franje",
+        "zh-CN": "流苏短裙",
+        "zh-TW": "流蘇裙",
+        "jp": "フリンジスカート",
+        "ko": "프린지 스커트"
       }
     }
   },

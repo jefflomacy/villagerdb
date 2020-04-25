@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "胜利的海报",
+        "de": "Poster's von Oink",
+        "en-GB": "Curly's Poster",
+        "es": "Póster de Rufueto",
+        "fr": "Poster de Tirbou",
+        "it": "Poster di Ricciolo",
+        "jp": "ハムカツのポスター",
+        "ko": "햄까스의 포스터",
+        "nl": "Poster van Curly",
+        "zh-TW": "勝利的海報",
+        "en-US": "Curly's Poster"
+      }
     }
   },
   "category": "Photos"

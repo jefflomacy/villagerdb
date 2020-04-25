@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿足的照片",
+        "de": "Foto's von Frank",
+        "en-GB": "Tank's Photo",
+        "es": "Foto de Aníbal",
+        "fr": "Photo de Ben",
+        "it": "Foto di Rinaldo",
+        "jp": "くるぶしのしゃしん",
+        "ko": "탱크의 사진",
+        "nl": "Foto van Tank",
+        "zh-TW": "阿足的照片",
+        "en-US": "Tank's Photo"
       }
     }
   },

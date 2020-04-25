@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Wavy Rug",
+        "en-GB": "Blue Wavy Rug",
+        "de": "Blau-Wellenteppich",
+        "es": "Alfombra ondas azul",
+        "fr": "Tapis vagues bleu",
+        "it": "Tappeto blu a onde",
+        "nl": "Blauwe golventapijt",
+        "zh-CN": "蓝色波浪地毯",
+        "zh-TW": "藍色波浪地毯",
+        "jp": "あおいウェーブのラグ",
+        "ko": "파란 웨이브 러그"
+      }
     }
   },
   "category": "Flooring"

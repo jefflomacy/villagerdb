@@ -15,6 +15,19 @@
       ],
       "variations": {
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Hawk Jacket",
+        "en-GB": "Hawk Jacket",
+        "de": "Falkenjacke",
+        "es": "Cazadora halcón",
+        "fr": "Veste faucon",
+        "it": "Giacca falco",
+        "nl": "Havikjasje",
+        "zh-CN": "鹰纹飞行外套",
+        "zh-TW": "鷹紋飛行外套",
+        "jp": "タカのスカジャン",
+        "ko": "매 점퍼"
       }
     }
   },

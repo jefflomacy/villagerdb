@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 400
         }
-      ]
+      ],
+      "name": {
+        "de": "Nachtshirt",
+        "en-GB": "Big-Star Tee",
+        "en-US": "Big-Star Tee",
+        "es": "Camiseta estrellón",
+        "fr": "T-shirt étoile",
+        "it": "Maglietta stellona",
+        "ja": "いちばんぼしのふく"
+      }
     },
     "nh": {
       "orderable": true,
@@ -39,6 +48,19 @@
       ],
       "variations": {
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Big-Star Tee",
+        "en-GB": "Big-Star Tee",
+        "de": "Nachtshirt",
+        "es": "Camiseta estrellón",
+        "fr": "T-Shirt étoile",
+        "it": "Maglietta stellona",
+        "nl": "Stershirt",
+        "zh-CN": "最闪耀星星上衣",
+        "zh-TW": "最閃耀星星衣服",
+        "jp": "いちばんぼしのふく",
+        "ko": "큰별 옷"
       }
     }
   }

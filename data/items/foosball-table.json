@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Kickertisch",
+        "en-GB": "Foosball Table",
+        "en-US": "Foosball Table",
+        "es": "Futbolín",
+        "fr": "Baby-foot",
+        "it": "Biliardino",
+        "ja": "テーブルサッカー"
+      }
     },
     "nh": {
       "orderable": true,
@@ -38,6 +47,19 @@
         "brown": "Brown",
         "dark-brown": "Dark brown",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Foosball Table",
+        "en-GB": "Foosball Table",
+        "de": "Kickertisch",
+        "es": "Futbolín",
+        "fr": "Baby-Foot",
+        "it": "Biliardino",
+        "nl": "Tafelvoetbalspel",
+        "zh-CN": "桌型足球台",
+        "zh-TW": "桌型足球台",
+        "jp": "テーブルサッカー",
+        "ko": "테이블 축구"
       }
     }
   }

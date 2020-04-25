@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 600
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Thank-You Dad Mug",
+        "en-GB": "Thank-You Dad Mug",
+        "de": "Vatertag-Tasse",
+        "es": "Taza gracias papá",
+        "fr": "Tasse Merci Papa",
+        "it": "Tazza grazie papà",
+        "nl": "Vaderdagmok",
+        "zh-CN": "父亲节感谢马克杯",
+        "zh-TW": "世界父親節感恩馬克杯",
+        "jp": "ちちのひサンキューマグカップ",
+        "ko": "아버지날 감사 머그컵"
+      }
     }
   },
   "category": "Furniture"

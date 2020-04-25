@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "贾萝琳的海报",
+        "de": "Poster's von Ricarda",
+        "en-GB": "Caroline's Poster",
+        "es": "Póster de Mariló",
+        "fr": "Poster d'isabelle",
+        "it": "Poster di Carolina",
+        "jp": "キャロラインのポスター",
+        "ko": "캐롤라인의 포스터",
+        "nl": "Poster van Caroline",
+        "zh-TW": "賈蘿琳的海報",
+        "en-US": "Caroline's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 4124
         }
-      ]
+      ],
+      "name": {
+        "de": "Kürbisschrank",
+        "en-GB": "Spooky Wardrobe",
+        "en-US": "Spooky Wardrobe",
+        "es": "Armario calabaza",
+        "fr": "Bahut Halloween",
+        "it": "Armadio brividi",
+        "ja": "ハロウィンクロゼット"
+      }
     }
   }
 }

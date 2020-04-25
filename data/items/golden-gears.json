@@ -17,6 +17,19 @@
       "recipe": {
         "gold-nugget": 1,
         "iron-nugget": 3
+      },
+      "name": {
+        "en-US": "Golden Gears",
+        "en-GB": "Golden Gears",
+        "de": "Gold-Getriebe",
+        "es": "Engranaje de oro",
+        "fr": "Engrenage en or",
+        "it": "Ingranaggio dorato",
+        "nl": "Gouden tandwielen",
+        "zh-CN": "黄金齿轮",
+        "zh-TW": "黃金齒輪",
+        "jp": "おうごんのはぐるま",
+        "ko": "황금 톱니바퀴"
       }
     }
   },

@@ -13,6 +13,19 @@
         "stone": 6,
         "iron-nugget": 3,
         "wood": 3
+      },
+      "name": {
+        "en-US": "Sauna Heater",
+        "en-GB": "Sauna Heater",
+        "de": "Saunaofen",
+        "es": "Estufa de sauna",
+        "fr": "Poêle de sauna",
+        "it": "Stufa da sauna",
+        "nl": "Saunaoven",
+        "zh-CN": "三温暖电暖炉",
+        "zh-TW": "三溫暖電暖爐",
+        "jp": "サウナストーブ",
+        "ko": "사우나 히터"
       }
     }
   },

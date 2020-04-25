@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 560
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow-Tea-Olive Bush",
+        "en-GB": "Yellow-Tea-Olive Bush",
+        "de": "Gelb-Duftblütenbusch",
+        "es": "Olivo olor. amarillo adulto",
+        "fr": "Buisson d'osmanthus jaune",
+        "it": "Osmanto giallo adulto",
+        "nl": "Gele schijnhulst",
+        "zh-CN": "黄色桂花树",
+        "zh-TW": "黃色桂花樹",
+        "jp": "きいろいキンモクセイのき",
+        "ko": "노란 금목서나무"
+      }
     }
   },
   "category": "Bushes"

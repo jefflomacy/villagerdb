@@ -20,6 +20,19 @@
         "pink": "Pink",
         "green": "Green",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Air Circulator",
+        "en-GB": "Air Circulator",
+        "de": "Luftzirkulator",
+        "es": "Termoventilador",
+        "fr": "Circulateur d'air",
+        "it": "Circolatore d'aria",
+        "nl": "Vloerventilator",
+        "zh-CN": "空气循环扇",
+        "zh-TW": "空氣循環扇",
+        "jp": "サーキュレーター",
+        "ko": "서큘레이터"
       }
     }
   },

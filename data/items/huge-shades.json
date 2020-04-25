@@ -23,7 +23,10 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Huge Shades"
+      }
     }
   }
 }

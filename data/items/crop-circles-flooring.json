@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Crop-Circles Flooring",
+        "en-GB": "Crop-Circles Flooring",
+        "de": "Kornkreisboden",
+        "es": "Suelo círculos en el maíz",
+        "fr": "Sol cercle de culture",
+        "it": "Pavimento cerchi nel grano",
+        "nl": "Graancirkelvloer",
+        "zh-CN": "麦田圈地板",
+        "zh-TW": "麥田圈地板",
+        "jp": "ミステリーサークルなゆか",
+        "ko": "미스터리 서클 바닥"
+      }
     }
   },
   "category": "Flooring"

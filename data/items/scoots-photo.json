@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿守的照片",
+        "de": "Foto's von Helmut",
+        "en-GB": "Scoot's Photo",
+        "es": "Foto de Chema",
+        "fr": "Photo de Scooter",
+        "it": "Foto di Guizzo",
+        "jp": "マモルのしゃしん",
+        "ko": "지키미의 사진",
+        "nl": "Foto van Scoot",
+        "zh-TW": "阿守的照片",
+        "en-US": "Scoot's Photo"
       }
     }
   },

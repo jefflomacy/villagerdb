@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Pilzpulli",
+        "en-GB": "Toad Shirt",
+        "en-US": "Toad Shirt",
+        "es": "Jersey champiñón",
+        "fr": "Pull Toad",
+        "it": "Maglia rossa a pois",
+        "ja": "きのこもようのふくL"
+      }
     },
     "ac": {
       "orderable": true,
@@ -40,7 +49,10 @@
           "currency": "bells",
           "value": 340
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Toad Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -56,7 +68,10 @@
           "currency": "bells",
           "value": 340
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Toad Shirt"
+      }
     }
   }
 }

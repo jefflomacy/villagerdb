@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 40
+      },
+      "name": {
+        "zh-CN": "粉红色包装纸",
+        "de": "Pink-Geschenkpapier's",
+        "en-GB": "Pink Wrapping Paper",
+        "es": "Papel de regalo rosa",
+        "fr": "Papiers cadeau roses",
+        "it": "Carta da regalo rosa",
+        "jp": "ピンクのラッピングペーパー",
+        "ko": "핑크색 포장지",
+        "nl": "Roze cadeaupapier",
+        "zh-TW": "粉紅色包裝紙",
+        "en-US": "Pink Wrapping Paper"
       }
     }
   },

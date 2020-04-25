@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Neapolitan"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Neapolitan",
+        "en-GB": "Neapolitan",
+        "de": "Neapolitaner",
+        "es": "Napolitana",
+        "fr": "Napolitaine",
+        "it": "Napoletana",
+        "nl": "Napolitain",
+        "zh-CN": "意大利面",
+        "zh-TW": "義大利麵",
+        "jp": "ナポリタン",
+        "ko": "토마토 스파게티",
+        "ru": "Неаполитанское"
+      }
     }
   }
 }

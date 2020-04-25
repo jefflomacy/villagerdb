@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2100
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Desert-Tile Flooring",
+        "en-GB": "Blue Desert-Tile Flooring",
+        "de": "Blau-Wüstenfliesenboden",
+        "es": "Losa desierto azul",
+        "fr": "Sol treillis marocain bleu",
+        "it": "Pavimento motivo arabo blu",
+        "nl": "Blauwe oosterse tegelvloer",
+        "zh-CN": "蓝色摩洛哥砖地板",
+        "zh-TW": "藍色摩洛哥磚地板",
+        "jp": "ブルーのモロッカンタイルゆか",
+        "ko": "블루 모로칸 타일 바닥"
+      }
     }
   },
   "category": "Flooring"

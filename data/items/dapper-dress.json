@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Dapper Dress"
+      }
     }
   }
 }

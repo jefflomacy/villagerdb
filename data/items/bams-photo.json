@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "小健的照片",
+        "de": "Foto's von Benjamin",
+        "en-GB": "Bam's Photo",
+        "es": "Foto de Cornelio",
+        "fr": "Photo de Nacer",
+        "it": "Foto di Cornelio",
+        "jp": "タケルのしゃしん",
+        "ko": "록키의 사진",
+        "nl": "Foto van Bam",
+        "zh-TW": "小健的照片",
+        "en-US": "Bam's Photo"
       }
     }
   },

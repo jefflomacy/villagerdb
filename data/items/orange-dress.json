@@ -19,6 +19,19 @@
       },
       "variations": {
         "orange": "Orange"
+      },
+      "name": {
+        "en-US": "Orange Dress",
+        "en-GB": "Orange Dress",
+        "de": "Orangenkleid",
+        "es": "Vestido naranja",
+        "fr": "Robe orange",
+        "it": "Vestito arancia",
+        "nl": "Sinaasappeljurk",
+        "zh-CN": "橘子服",
+        "zh-TW": "夏蜜柑服",
+        "jp": "オレンジのふく",
+        "ko": "오렌지 옷"
       }
     }
   },

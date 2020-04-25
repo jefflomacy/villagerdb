@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Comrade K.K."
+      }
     },
     "nh": {
       "orderable": true,
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Comrade K.K.",
+        "en-GB": "Comrade K.K.",
+        "de": "K.K. Freundelied",
+        "es": "Tota-Camarada",
+        "fr": "Tovaritch Kéké",
+        "it": "K.K. Compagno",
+        "nl": "Kameraad K.K.",
+        "zh-CN": "昭和K.K.歌谣",
+        "zh-TW": "昭和K.K.歌謠",
+        "jp": "しょうわけけかよう",
+        "ko": "추억의 K.K.가요",
+        "ru": "Товарищ К. К."
+      }
     }
   }
 }

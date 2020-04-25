@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Purple Shaggy Rug",
+        "en-GB": "Purple Shaggy Rug",
+        "de": "Lila-Zottelteppich",
+        "es": "Alfombra pelusilla morada",
+        "fr": "Tapis à poil long violet",
+        "it": "Tappeto peloso viola",
+        "nl": "Paarse harige tapijt",
+        "zh-CN": "紫色长绒地毯",
+        "zh-TW": "紫色長毛地毯",
+        "jp": "むらさきのシャギーなラグ",
+        "ko": "보라 복슬복슬 러그"
+      }
     }
   },
   "category": "Flooring"

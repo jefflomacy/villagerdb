@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 1980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Lovely Carpet"
+      }
     }
   }
 }

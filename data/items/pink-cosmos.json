@@ -11,7 +11,10 @@
       },
       "sources": [
         "Hybrid - From Red and White Cosmos."
-      ]
+      ],
+      "name": {
+        "en-US": "Pink Cosmos"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 80
+      },
+      "name": {
+        "en-US": "Pink Cosmos",
+        "en-GB": "Pink Cosmos",
+        "de": "Pinkcosmea",
+        "es": "Cosmos rosa",
+        "fr": "Cosmos rose",
+        "it": "Cosmea rosa",
+        "nl": "Roze cosmea",
+        "zh-CN": "粉红波斯菊",
+        "zh-TW": "粉紅波斯菊",
+        "jp": "ピンクのコスモス",
+        "ko": "핑크색 코스모스"
       }
     }
   }

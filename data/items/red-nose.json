@@ -23,7 +23,10 @@
           "currency": "bells",
           "value": 80
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Nose"
+      }
     }
   }
 }

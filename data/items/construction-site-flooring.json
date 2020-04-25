@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Construction-Site Flooring",
+        "en-GB": "Construction-Site Flooring",
+        "de": "Baustellenboden",
+        "es": "Suelo obras",
+        "fr": "Sol chantier",
+        "it": "Pavimento cantiere",
+        "nl": "Bouwplaatsvloer",
+        "zh-CN": "施工现场地板",
+        "zh-TW": "施工現場地板",
+        "jp": "こうじげんばのゆか",
+        "ko": "공사 현장 바닥"
+      }
     }
   },
   "category": "Flooring"

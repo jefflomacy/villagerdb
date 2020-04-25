@@ -19,6 +19,19 @@
         "strange-mushroom": "Strange mushroom",
         "red-mushroom": "Red mushroom",
         "yellow-mushroom": "Yellow mushroom"
+      },
+      "name": {
+        "en-US": "Mush Log",
+        "en-GB": "Mush Log",
+        "de": "Pilzbaumstumpf",
+        "es": "Tronco hongo",
+        "fr": "Rondin champi",
+        "it": "Ciocco fungo",
+        "nl": "Paddenstoelboomstam",
+        "zh-CN": "蘑菇树干",
+        "zh-TW": "蘑菇樹幹",
+        "jp": "キノコのげんぼく",
+        "ko": "버섯 원목"
       }
     }
   },

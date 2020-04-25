@@ -14,7 +14,16 @@
       },
       "sources": [
         "Countdown (Isabelle -- KOR only)"
-      ]
+      ],
+      "name": {
+        "de": "Bronzeglocke",
+        "en-GB": "Bell Knickknack",
+        "en-US": "Bell Knickknack",
+        "es": "Campana de metal",
+        "fr": "Cloche en bronze",
+        "it": "Campana di metallo",
+        "ja": "かねのおきもの"
+      }
     }
   }
 }

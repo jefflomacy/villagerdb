@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Blauweiß-Pulli",
+        "en-GB": "Blue-Check Shirt",
+        "en-US": "Blue-Check Shirt",
+        "es": "Jersey trapo azul",
+        "fr": "Pull carrés bleu",
+        "it": "Maglia quadri blu",
+        "ja": "あおチェックのふくL"
+      }
     },
     "ac": {
       "orderable": true,
@@ -36,7 +45,10 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue-Check Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -52,7 +64,10 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue-Check Shirt"
+      }
     }
   }
 }

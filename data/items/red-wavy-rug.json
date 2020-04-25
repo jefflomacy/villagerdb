@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Wavy Rug",
+        "en-GB": "Red Wavy Rug",
+        "de": "Rot-Wellenteppich",
+        "es": "Alfombra ondas roja",
+        "fr": "Tapis vagues rouge",
+        "it": "Tappeto rosso a onde",
+        "nl": "Rode golventapijt",
+        "zh-CN": "红色波浪地毯",
+        "zh-TW": "紅色波浪地毯",
+        "jp": "あかいウェーブのラグ",
+        "ko": "빨간 웨이브 러그"
+      }
     }
   },
   "category": "Flooring"

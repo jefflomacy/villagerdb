@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1150
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Purple Camo Wall",
+        "en-GB": "Purple Camo Wall",
+        "de": "Lila-Tarntapete",
+        "es": "Pared camuflaje lila",
+        "fr": "Mur camouflage violet",
+        "it": "Muro mimetico viola",
+        "nl": "Paarse camouflagewand",
+        "zh-CN": "紫色迷彩壁纸",
+        "zh-TW": "紫色迷彩壁紙",
+        "jp": "パープルめいさいのかべがみ",
+        "ko": "퍼플 밀리터리 벽지"
+      }
     }
   },
   "category": "Wallpaper"

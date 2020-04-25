@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "皇狮的照片",
+        "de": "Foto's von Leonardo",
+        "en-GB": "Elvis's Photo",
+        "es": "Foto de Elvis",
+        "fr": "Photo d'elvis",
+        "it": "Foto di Elvis",
+        "jp": "キングのしゃしん",
+        "ko": "킹의 사진",
+        "nl": "Foto van Elvis",
+        "zh-TW": "皇獅的照片",
+        "en-US": "Elvis's Photo"
       }
     }
   },

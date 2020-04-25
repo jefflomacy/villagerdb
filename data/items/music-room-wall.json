@@ -21,7 +21,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Music-Room Wall"
+      }
     }
   }
 }

@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Leaf Umbrella"
+      }
     },
     "nh": {
       "orderable": false,
@@ -31,6 +34,19 @@
       },
       "recipe": {
         "clump-of-weeds": 15
+      },
+      "name": {
+        "en-US": "Leaf Umbrella",
+        "en-GB": "Leaf Umbrella",
+        "de": "Blättchenschirm",
+        "es": "Parasol hoja",
+        "fr": "Feuillapluie",
+        "it": "Ombrello foglia",
+        "nl": "Bladparaplu",
+        "zh-CN": "叶子雨伞",
+        "zh-TW": "葉子雨傘",
+        "jp": "はっぱのかさ",
+        "ko": "연꽃잎 우산"
       }
     }
   }

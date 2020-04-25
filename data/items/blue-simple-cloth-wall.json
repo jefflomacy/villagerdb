@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 750
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Simple-Cloth Wall",
+        "en-GB": "Blue Simple-Cloth Wall",
+        "de": "Blau-Textiltapete",
+        "es": "Pared lisa celeste",
+        "fr": "Mur textile bleu ciel",
+        "it": "Muro liscio blu cielo",
+        "nl": "Blauwe gladde wand",
+        "zh-CN": "蓝色简约布面墙",
+        "zh-TW": "藍色簡約布面牆",
+        "jp": "あおいシンプルクロス",
+        "ko": "파란 심플 벽지"
+      }
     }
   },
   "category": "Wallpaper"

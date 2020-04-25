@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "de": "Kimbap-Teller",
+        "en-GB": "Kimbap Plate",
+        "en-US": "Kimbap Plate",
+        "es": "Kimbap coreano",
+        "fr": "Plat de gimbap",
+        "it": "Kimbap coreano",
+        "ja": "キムパブ"
+      }
     }
   }
 }

@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1520
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Gray-Striped Wall",
+        "en-GB": "Gray-Striped Wall",
+        "de": "Grau-Streifenmustertapete",
+        "es": "Pared banda gris",
+        "fr": "Mur rayures gris",
+        "it": "Muro a strisce grigie",
+        "nl": "Grijze gestreepte wand",
+        "zh-CN": "单色配色条纹壁纸",
+        "zh-TW": "灰階配色條紋壁紙",
+        "jp": "モノクロストライプのかべがみ",
+        "ko": "흑백 줄무늬 벽지"
+      }
     }
   },
   "category": "Wallpaper"

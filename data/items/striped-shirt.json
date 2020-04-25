@@ -24,6 +24,19 @@
         "yellow": "Yellow",
         "purple": "Purple",
         "navy-blue": "Navy blue"
+      },
+      "name": {
+        "en-US": "Striped Shirt",
+        "en-GB": "Striped Shirt",
+        "de": "Ringelpulli",
+        "es": "Jersey rayas",
+        "fr": "Pull léger rayé",
+        "it": "Maglia a righe",
+        "nl": "Gestreepte shirt",
+        "zh-CN": "粗横纹T恤",
+        "zh-TW": "粗橫紋T恤",
+        "jp": "ボーダーＴシャツ",
+        "ko": "줄무늬 티셔츠"
       }
     }
   },

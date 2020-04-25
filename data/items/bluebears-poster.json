@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "娃娃的海报",
+        "de": "Poster's von Birte",
+        "en-GB": "Bluebear's Poster",
+        "es": "Póster de Celeste",
+        "fr": "Poster de Myrtille",
+        "it": "Poster di Azzurra",
+        "jp": "グルミンのポスター",
+        "ko": "글루민의 포스터",
+        "nl": "Poster van Bluebear",
+        "zh-TW": "娃娃的海報",
+        "en-US": "Bluebear's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -11,7 +11,10 @@
       },
       "sources": [
         "Freshwater or sea (medium shadow)"
-      ]
+      ],
+      "name": {
+        "en-US": "Boot"
+      }
     },
     "nh": {
       "orderable": false,
@@ -21,6 +24,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "长靴",
+        "de": "Stiefel's",
+        "en-GB": "Boot",
+        "es": "Bota",
+        "fr": "Godasse",
+        "it": "Scarpone",
+        "jp": "ながぐつ",
+        "ko": "장화",
+        "nl": "Laars",
+        "zh-TW": "長靴",
+        "en-US": "Boot"
       }
     }
   }

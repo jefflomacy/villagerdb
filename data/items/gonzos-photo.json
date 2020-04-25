@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "钢锁的照片",
+        "de": "Foto's von Heribert",
+        "en-GB": "Gonzo's Photo",
+        "es": "Foto de Bronco",
+        "fr": "Photo de Gonzo",
+        "it": "Foto di Gonzo",
+        "jp": "ゴンゾーのしゃしん",
+        "ko": "근성의 사진",
+        "nl": "Foto van Gonzo",
+        "zh-TW": "鋼鎖的照片",
+        "en-US": "Gonzo's Photo"
       }
     }
   },

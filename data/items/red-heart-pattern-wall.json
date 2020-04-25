@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Heart-Pattern Wall",
+        "en-GB": "Red Heart-Pattern Wall",
+        "de": "Herz-Auf-Rot-Tapete",
+        "es": "Pared amor roja",
+        "fr": "Mur motif cœurs rouge",
+        "it": "Muro con cuori rosso",
+        "nl": "Rode hartjeswand",
+        "zh-CN": "红色爱心壁纸",
+        "zh-TW": "紅色愛心壁紙",
+        "jp": "レッドハートのかべがみ",
+        "ko": "레드 하트 벽지"
+      }
     }
   },
   "category": "Wallpaper"

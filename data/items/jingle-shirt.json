@@ -7,13 +7,19 @@
       "orderable": false,
       "sources": [
         "Jingle"
-      ]
+      ],
+      "name": {
+        "en-US": "Jingle Shirt"
+      }
     },
     "afe+": {
       "orderable": false,
       "sources": [
         "Jingle"
-      ]
+      ],
+      "name": {
+        "en-US": "Jingle Shirt"
+      }
     }
   }
 }

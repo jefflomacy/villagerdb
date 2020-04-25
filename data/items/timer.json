@@ -11,13 +11,29 @@
       },
       "sources": [
         "Super T&T"
-      ]
+      ],
+      "name": {
+        "en-US": "Timer"
+      }
     },
     "nh": {
       "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 210
+      },
+      "name": {
+        "en-US": "Timer",
+        "en-GB": "Timer",
+        "de": "Stoppuhr",
+        "es": "Cronómetro",
+        "fr": "Chrono",
+        "it": "Cronometro",
+        "nl": "Stopwatch",
+        "zh-CN": "计时器",
+        "zh-TW": "計時器",
+        "jp": "タイマー",
+        "ko": "타이머"
       }
     }
   }

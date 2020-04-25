@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "桑托斯的海报",
+        "de": "Poster's von Nico",
+        "en-GB": "O'hare's Poster",
+        "es": "Póster de Ernesto",
+        "fr": "Poster de Civet",
+        "it": "Poster di Fritz",
+        "jp": "サントスのポスター",
+        "ko": "산토스의 포스터",
+        "nl": "Poster van O'hare",
+        "zh-TW": "桑托斯的海報",
+        "en-US": "O'hare's Poster"
+      }
     }
   },
   "category": "Photos"

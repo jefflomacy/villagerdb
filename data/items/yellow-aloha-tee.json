@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 15
         }
-      ]
+      ],
+      "name": {
+        "de": "Romantik-Shirt",
+        "en-GB": "Yellow Aloha Tee",
+        "en-US": "Yellow Aloha Tee",
+        "es": "Camiseta manzanilla",
+        "fr": "T-shirt fleurs",
+        "it": "Maglia fiori gialli",
+        "ja": "はながらのアロハ"
+      }
     }
   }
 }

@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1280
         }
-      ]
+      ],
+      "name": {
+        "de": "Lehrerpult",
+        "en-GB": "Podium",
+        "en-US": "Podium",
+        "es": "Escritorio profe",
+        "fr": "Bureau de professeur",
+        "it": "Cattedra",
+        "ja": "きょうたく"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,7 +42,20 @@
           "currency": "bells",
           "value": 3400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Podium",
+        "en-GB": "Podium",
+        "de": "Lehrerpult",
+        "es": "Escritorio de profe",
+        "fr": "Bureau de professeur",
+        "it": "Cattedra antica",
+        "nl": "Directeursbureau",
+        "zh-CN": "演讲台",
+        "zh-TW": "演講台",
+        "jp": "こうえんだい",
+        "ko": "교단"
+      }
     }
   }
 }

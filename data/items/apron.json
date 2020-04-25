@@ -26,6 +26,19 @@
         "purple": "Purple",
         "gray": "Gray",
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Apron",
+        "en-GB": "Apron",
+        "de": "Kittelschürze",
+        "es": "Delantal",
+        "fr": "Tablier",
+        "it": "Grembiule",
+        "nl": "Schort",
+        "zh-CN": "围裙",
+        "zh-TW": "圍裙",
+        "jp": "エプロン",
+        "ko": "앞치마"
       }
     }
   },

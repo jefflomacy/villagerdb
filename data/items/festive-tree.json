@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1300
         }
-      ]
+      ],
+      "name": {
+        "de": "Tannenbäumchen",
+        "en-GB": "Festive Tree",
+        "en-US": "Festive Tree",
+        "es": "Arbolito festivo",
+        "fr": "Sapin",
+        "it": "Alberello festivo",
+        "ja": "かわいいクリスマスツリー"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -41,6 +50,19 @@
         "pink": "Pink",
         "gold": "Gold",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Festive Tree",
+        "en-GB": "Festive Tree",
+        "de": "Tannenbäumchen",
+        "es": "Arbolito festivo",
+        "fr": "Sapin décoré",
+        "it": "Alberello festivo",
+        "nl": "Feestboom",
+        "zh-CN": "可爱圣诞树",
+        "zh-TW": "可愛聖誕樹",
+        "jp": "かわいいクリスマスツリー",
+        "ko": "귀여운 크리스마스트리"
       }
     }
   }

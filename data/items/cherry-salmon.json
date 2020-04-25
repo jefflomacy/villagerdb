@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Cherry Salmon"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1000
+      },
+      "name": {
+        "en-US": "Cherry Salmon",
+        "en-GB": "Cherry Salmon",
+        "de": "Masulachs",
+        "es": "Salmón japonés",
+        "fr": "Saumon masou",
+        "it": "Salmone giapponese",
+        "nl": "Japanse zalm",
+        "zh-CN": "樱花钩吻鲑",
+        "zh-TW": "櫻花鉤吻鮭",
+        "jp": "ヤマメ",
+        "ko": "산천어"
       }
     }
   }

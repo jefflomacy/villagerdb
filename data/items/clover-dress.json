@@ -16,6 +16,19 @@
       "variations": {
         "green": "Green",
         "dark-green": "Dark green"
+      },
+      "name": {
+        "en-US": "Clover Dress",
+        "en-GB": "Clover Dress",
+        "de": "Kleeblattkleid",
+        "es": "Vestido tréboles",
+        "fr": "Robe trèfles",
+        "it": "Vestito con quadrifogli",
+        "nl": "Klavertjesjurk",
+        "zh-CN": "幸运草连身裙",
+        "zh-TW": "幸運草連身裙",
+        "jp": "クローバーなワンピース",
+        "ko": "클로버 원피스"
       }
     }
   },

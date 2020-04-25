@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Schülermütze",
+        "en-GB": "Student Cap",
+        "en-US": "Student Cap",
+        "es": "Gorra escolar",
+        "fr": "Chapeau d'élève",
+        "it": "Cappello da studente",
+        "ja": "がくせいぼう"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -41,6 +50,19 @@
         "purple": "Purple",
         "gray": "Gray",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Student Cap",
+        "en-GB": "Student Cap",
+        "de": "Schülermütze",
+        "es": "Gorra escolar",
+        "fr": "Chapeau d'élève",
+        "it": "Cappello da studente",
+        "nl": "Postbodepet",
+        "zh-CN": "学生帽",
+        "zh-TW": "學生帽",
+        "jp": "がくせいぼう",
+        "ko": "학생모"
       }
     }
   }

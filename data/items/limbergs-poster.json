@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "韭菜的海报",
+        "de": "Poster's von Rafael",
+        "en-GB": "Limberg's Poster",
+        "es": "Póster de Camember",
+        "fr": "Poster de Gruyère",
+        "it": "Poster di Rosico",
+        "jp": "らっきょのポスター",
+        "ko": "단무지의 포스터",
+        "nl": "Poster van Limberg",
+        "zh-TW": "韭菜的海報",
+        "en-US": "Limberg's Poster"
+      }
     }
   },
   "category": "Photos"

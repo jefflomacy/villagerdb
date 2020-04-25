@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Camping-Kochkessel",
+        "en-GB": "Campfire Cookware",
+        "en-US": "Campfire Cookware",
+        "es": "Cazuela hoguera",
+        "fr": "Casserole de camping",
+        "it": "Falò da campeggio",
+        "ja": "はんごう"
+      }
     },
     "nh": {
       "orderable": true,
@@ -40,7 +49,20 @@
           "currency": "bells",
           "value": 900
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Campfire Cookware",
+        "en-GB": "Campfire Cookware",
+        "de": "Camping-Kochkessel",
+        "es": "Cazuela sobre hoguera",
+        "fr": "Casserole de camping",
+        "it": "Falò da campeggio",
+        "nl": "Kampvuurketel",
+        "zh-CN": "野营饭盒",
+        "zh-TW": "野營飯盒",
+        "jp": "はんごう",
+        "ko": "반합"
+      }
     }
   }
 }

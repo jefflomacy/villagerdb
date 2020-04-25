@@ -26,6 +26,19 @@
         "purple": "Purple",
         "blue": "Blue",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Studio Spotlight",
+        "en-GB": "Studio Spotlight",
+        "de": "Standscheinwerfer",
+        "es": "Foco profesional de pie",
+        "fr": "Spot sur pied",
+        "it": "Faretto su treppiede",
+        "nl": "Studiospotlight",
+        "zh-CN": "聚光灯",
+        "zh-TW": "聚光燈",
+        "jp": "スポットライト",
+        "ko": "스포트라이트"
       }
     }
   },

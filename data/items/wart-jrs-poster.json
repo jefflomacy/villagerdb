@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "山姆的海报",
+        "de": "Poster's von Warzi",
+        "en-GB": "Wart Jr.'s Poster",
+        "es": "Póster de Saponcio",
+        "fr": "Poster de Crakos",
+        "it": "Poster di Porro",
+        "jp": "サムのポスター",
+        "ko": "샘의 포스터",
+        "nl": "Poster van Wart Jr.",
+        "zh-TW": "山姆的海報",
+        "en-US": "Wart Jr.'s Poster"
+      }
     }
   },
   "category": "Photos"

@@ -18,6 +18,19 @@
         "blue": "Blue",
         "white": "White",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Mage's Booties",
+        "en-GB": "Mage's Booties",
+        "de": "Paars Spitz-Stiefelchen",
+        "es": "Botín de hechicería",
+        "fr": "Paire de bottines pointues",
+        "it": "Paio di stivaletti appuntiti",
+        "nl": "Heksenlaarsjes",
+        "zh-CN": "尖头靴",
+        "zh-TW": "尖頭靴",
+        "jp": "とんがりブーツ",
+        "ko": "마술사 부츠"
       }
     }
   },

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿坊的照片",
+        "de": "Foto's von Erwin",
+        "en-GB": "Derwin's Photo",
+        "es": "Foto de Torcuato",
+        "fr": "Photo de Prof",
+        "it": "Foto di Mike",
+        "jp": "ボンのしゃしん",
+        "ko": "봉의 사진",
+        "nl": "Foto van Derwin",
+        "zh-TW": "阿坊的照片",
+        "en-US": "Derwin's Photo"
       }
     }
   },

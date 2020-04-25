@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Condor"
+      }
     },
     "nh": {
       "orderable": true,
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Condor",
+        "en-GB": "K.K. Condor",
+        "de": "K.K. Kondor",
+        "es": "Tota-Andina",
+        "fr": "El Condor Kéké",
+        "it": "K.K. Condor",
+        "nl": "K.K. bij de condors",
+        "zh-CN": "秘鲁之歌",
+        "zh-TW": "秘魯之歌",
+        "jp": "ペルーのうた",
+        "ko": "페루의 노래",
+        "ru": "Кондор К. К."
+      }
     }
   }
 }

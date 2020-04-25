@@ -11,7 +11,16 @@
       },
       "sources": [
         "Snowman"
-      ]
+      ],
+      "name": {
+        "de": "Slalomtor",
+        "en-GB": "Slalom Gate",
+        "en-US": "Slalom Gate",
+        "es": "Banderín de eslalon",
+        "fr": "Obstacle de slalom",
+        "it": "Porta per slalom",
+        "ja": "きもん"
+      }
     }
   }
 }

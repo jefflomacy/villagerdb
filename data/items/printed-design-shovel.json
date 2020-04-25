@@ -17,6 +17,19 @@
         "blue": "Blue",
         "purple": "Purple",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Printed-Design Shovel",
+        "en-GB": "Printed-Design Shovel",
+        "de": "Designerschaufel",
+        "es": "Pala con estampado",
+        "fr": "Pelle design",
+        "it": "Pala con motivo stampato",
+        "nl": "Schep met patroon",
+        "zh-CN": "花纹铲子",
+        "zh-TW": "花紋鏟子",
+        "jp": "がらものスコップ",
+        "ko": "꽃무늬 삽"
       }
     }
   },

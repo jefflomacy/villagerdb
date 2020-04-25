@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1280
         }
-      ]
+      ],
+      "name": {
+        "de": "Notenständer",
+        "en-GB": "Music Stand",
+        "en-US": "Music Stand",
+        "es": "Atril partitura",
+        "fr": "Pupitre à partition",
+        "it": "Leggìo per spartiti",
+        "ja": "ふめんだい"
+      }
     },
     "nh": {
       "orderable": false,
@@ -34,6 +43,19 @@
         "natural": "Natural",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Music Stand",
+        "en-GB": "Music Stand",
+        "de": "Notenständer",
+        "es": "Atril para partituras",
+        "fr": "Pupitre à partition",
+        "it": "Leggìo per spartiti",
+        "nl": "Lessenaar",
+        "zh-CN": "乐谱架",
+        "zh-TW": "樂譜架",
+        "jp": "ふめんだい",
+        "ko": "보면대"
       }
     }
   }

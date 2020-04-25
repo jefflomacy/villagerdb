@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 4200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "South Pole",
+        "en-GB": "South Pole",
+        "de": "Südpol-Markierung",
+        "es": "Marcador del Polo Sur",
+        "fr": "Marqueur du pôle Sud",
+        "it": "Segnale Polo Sud",
+        "nl": "Zuidpool",
+        "zh-CN": "南极点",
+        "zh-TW": "南極點",
+        "jp": "なんきょくてん",
+        "ko": "남극점"
+      }
     }
   },
   "category": "Furniture"

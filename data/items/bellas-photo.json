@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "贝拉的照片",
+        "de": "Foto's von Susi",
+        "en-GB": "Bella's Photo",
+        "es": "Foto de Prity",
+        "fr": "Photo de Belle",
+        "it": "Foto di Bella",
+        "jp": "イザベラのしゃしん",
+        "ko": "이자벨의 사진",
+        "nl": "Foto van Bella",
+        "zh-TW": "貝拉的照片",
+        "en-US": "Bella's Photo"
       }
     }
   },

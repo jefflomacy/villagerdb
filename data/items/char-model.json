@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 11400
+      },
+      "name": {
+        "en-US": "Char Model",
+        "en-GB": "Char Model",
+        "de": "Saiblingsmodell",
+        "es": "Figura de trucha",
+        "fr": "Modèle d'omble",
+        "it": "Replica di salmerino alpino",
+        "nl": "Modelbronforel",
+        "zh-CN": "花羔红点鲑模型",
+        "zh-TW": "花羔紅點鮭模型",
+        "jp": "オオイワナのもけい",
+        "ko": "열목어 모형"
       }
     }
   },

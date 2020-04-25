@@ -19,6 +19,19 @@
         "blue-stripes": "Blue stripes",
         "red-plaid": "Red plaid",
         "green-plaid": "Green plaid"
+      },
+      "name": {
+        "en-US": "Clothesline",
+        "en-GB": "Clothesline",
+        "de": "Simpel-Wäscheleine",
+        "es": "Tendedero añejo",
+        "fr": "Corde à linge",
+        "it": "Stendipanni",
+        "nl": "Ouderwetse waslijn",
+        "zh-CN": "晒衣绳",
+        "zh-TW": "曬衣繩",
+        "jp": "ものほしロープ",
+        "ko": "빨랫줄"
       }
     }
   }

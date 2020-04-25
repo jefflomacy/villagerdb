@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2020
         }
-      ]
+      ],
+      "name": {
+        "de": "Streifenlampe",
+        "en-GB": "Stripe Lamp",
+        "en-US": "Stripe Lamp",
+        "es": "Lámpara rayas",
+        "fr": "Lampe rayures",
+        "it": "Lampada strisce",
+        "ja": "ストライプなランプ"
+      }
     }
   }
 }

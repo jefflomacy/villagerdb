@@ -16,6 +16,19 @@
       "variations": {
         "black": "Black",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Iron Wall Lamp",
+        "en-GB": "Iron Wall Lamp",
+        "de": "Eisenwandlampe",
+        "es": "Aplique de hierro",
+        "fr": "Lampe murale en fer",
+        "it": "Lampada a muro di ferro",
+        "nl": "Ijzeren wandlamp",
+        "zh-CN": "铸铁壁灯",
+        "zh-TW": "鑄鐵壁燈",
+        "jp": "アイアンウォールランプ",
+        "ko": "아이언 벽걸이 램프"
       }
     }
   },

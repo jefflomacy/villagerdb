@@ -8,7 +8,10 @@
       "sources": [
         "Bunny Day (fishing",
         "small shadow)"
-      ]
+      ],
+      "name": {
+        "en-US": "Water Egg"
+      }
     },
     "nh": {
       "orderable": false,
@@ -18,6 +21,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 200
+      },
+      "name": {
+        "zh-CN": "鱼儿蛋",
+        "de": "Wasser-Glücksei's",
+        "en-GB": "Water Egg",
+        "es": "Huevo acuático",
+        "fr": "Œuf aquatique",
+        "it": "Uovo acquatico",
+        "jp": "サカナのたまご",
+        "ko": "물고기 달걀",
+        "nl": "Waterei",
+        "zh-TW": "魚兒蛋",
+        "en-US": "Water Egg"
       }
     }
   }

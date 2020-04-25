@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Alpinist Dress"
+      }
     },
     "nh": {
       "orderable": true,
@@ -42,6 +45,19 @@
         "green": "Green",
         "blue": "Blue",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Alpinist Dress",
+        "en-GB": "Alpinist Dress",
+        "de": "Alpenkleid",
+        "es": "Vestido tirolés",
+        "fr": "Robe tyrolienne",
+        "it": "Vestito tirolese",
+        "nl": "Tirolerjurk",
+        "zh-CN": "提洛尔洋装",
+        "zh-TW": "提洛爾洋裝",
+        "jp": "チロリアンなドレス",
+        "ko": "알프스풍 원피스"
       }
     }
   }

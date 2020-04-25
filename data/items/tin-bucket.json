@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Tin Bucket",
+        "en-GB": "Tin Bucket",
+        "de": "Blecheimer",
+        "es": "Cubo de hojalata",
+        "fr": "Seau en métal",
+        "it": "Secchio di latta",
+        "nl": "Zinken emmer",
+        "zh-CN": "白铁水桶",
+        "zh-TW": "白鐵水桶",
+        "jp": "ブリキのバケツ",
+        "ko": "양철 양동이"
+      }
     }
   },
   "category": "Furniture"

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Aprikosenshirt",
+        "en-GB": "Yellow-Bar Tee",
+        "en-US": "Yellow-Bar Tee",
+        "es": "Camiseta toldo ocre",
+        "fr": "T-shirt raies orange",
+        "it": "Magliet. bande gial.",
+        "ja": "きいろボーダーのふく"
+      }
     }
   }
 }

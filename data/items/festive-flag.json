@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 680
         }
-      ]
+      ],
+      "name": {
+        "de": "Festfahne",
+        "en-GB": "Festive Flag",
+        "en-US": "Festive Flag",
+        "es": "Bandera festiva",
+        "fr": "Fanion de fête",
+        "it": "Bandiera festiva",
+        "ja": "おまつりのはた"
+      }
     }
   }
 }

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 12000
+      },
+      "name": {
+        "en-US": "Ocean Sunfish Model",
+        "en-GB": "Ocean Sunfish Model",
+        "de": "Mondfischmodell",
+        "es": "Figura de pez luna",
+        "fr": "Modèle de lune de mer",
+        "it": "Replica di pesce luna",
+        "nl": "Modelklompvis",
+        "zh-CN": "翻车鱼模型",
+        "zh-TW": "翻車魚模型",
+        "jp": "マンボウのもけい",
+        "ko": "개복치 모형"
       }
     }
   },

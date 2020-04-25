@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Spinosaurus-Schwanz",
+        "en-GB": "Spino Tail",
+        "en-US": "Spino Tail",
+        "es": "Cola espinosaurio",
+        "fr": "Queue de spinosaurus",
+        "it": "Coda spinosauro",
+        "ja": "スピノサウルスのしっぽ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2500
+      },
+      "name": {
+        "en-US": "Spino Tail",
+        "en-GB": "Spino Tail",
+        "de": "Spinosaurus-Schwanz",
+        "es": "Cola espinosaurio",
+        "fr": "Queue de spinosaure",
+        "it": "Coda spinosauro",
+        "nl": "Spinosaurusstaart",
+        "zh-CN": "棘龙的尾巴",
+        "zh-TW": "棘龍的尾巴",
+        "jp": "スピノサウルスのしっぽ",
+        "ko": "스피노사우루스의 꼬리"
       }
     }
   }

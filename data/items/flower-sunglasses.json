@@ -23,6 +23,19 @@
         "blue": "Blue",
         "purple": "Purple",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Flower Sunglasses",
+        "en-GB": "Flower Sunglasses",
+        "de": "Blumensonnenbrille",
+        "es": "Gafa de sol floral",
+        "fr": "Monture solaire fleurs",
+        "it": "Montatura a fiori",
+        "nl": "Bloemenzonnebril",
+        "zh-CN": "花朵墨镜",
+        "zh-TW": "花朵太陽眼鏡",
+        "jp": "フラワーサングラス",
+        "ko": "플라워 선글라스"
       }
     }
   },

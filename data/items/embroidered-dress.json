@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Embroidered Dress"
+      }
     }
   }
 }

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "凯恩的照片",
+        "de": "Foto's von Ingo",
+        "en-GB": "Phil's Photo",
+        "es": "Foto de Amalio",
+        "fr": "Photo de Phil",
+        "it": "Foto di Enzo",
+        "jp": "ケインのしゃしん",
+        "ko": "케인의 사진",
+        "nl": "Foto van Phil",
+        "zh-TW": "凱恩的照片",
+        "en-US": "Phil's Photo"
       }
     }
   },

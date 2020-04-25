@@ -14,12 +14,28 @@
           "currency": "bells",
           "value": 300
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Party Popper"
+      }
     },
     "nh": {
       "sellPrice": {
         "currency": "bells",
         "value": 25
+      },
+      "name": {
+        "zh-CN": "拉炮",
+        "de": "Partyknaller's",
+        "en-GB": "Party Popper",
+        "es": "Cañón de confeti",
+        "fr": "Pétard",
+        "it": "Sparacoriandoli",
+        "jp": "クラッカー",
+        "ko": "파티용 폭죽",
+        "nl": "Confettiknaller",
+        "zh-TW": "拉炮",
+        "en-US": "Party Popper"
       }
     }
   }

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mush Rug",
+        "en-GB": "Mush Rug",
+        "de": "Pilzteppich",
+        "es": "Alfombra setas",
+        "fr": "Tapis champignons",
+        "it": "Tappeto funghi",
+        "nl": "Paddenstoelentapijt",
+        "zh-CN": "蘑菇地毯",
+        "zh-TW": "蘑菇地毯",
+        "jp": "キノコのラグ",
+        "ko": "버섯 러그"
+      }
     }
   },
   "category": "Flooring"

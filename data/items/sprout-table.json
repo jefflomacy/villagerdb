@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Keimlingtisch",
+        "en-GB": "Sprout Table",
+        "en-US": "Sprout Table",
+        "es": "Mesa brote",
+        "fr": "Table germe",
+        "it": "Tavolino germoglio",
+        "ja": "ふたばテーブル"
+      }
     }
   }
 }

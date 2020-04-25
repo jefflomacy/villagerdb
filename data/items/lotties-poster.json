@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "巧美的海报",
+        "de": "Poster's von Karlotta",
+        "en-GB": "Lottie's Poster",
+        "es": "Póster de Nuria",
+        "fr": "Poster de Lou",
+        "it": "Poster di Casimira",
+        "jp": "タクミのポスター",
+        "ko": "솜이의 포스터",
+        "nl": "Poster van Lottie",
+        "zh-TW": "巧美的海報",
+        "en-US": "Lottie's Poster"
+      }
     }
   },
   "category": "Photos"

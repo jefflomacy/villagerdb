@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4500
+      },
+      "name": {
+        "en-US": "Tiger Beetle Model",
+        "en-GB": "Tiger Beetle Model",
+        "de": "Sandlaufkäfermodell",
+        "es": "Figura de escarabajo tigre",
+        "fr": "Modèle de cicindèle",
+        "it": "Replica di cicindela",
+        "nl": "Modelzandloopkever",
+        "zh-CN": "虎甲虫模型",
+        "zh-TW": "虎甲蟲模型",
+        "jp": "ハンミョウのもけい",
+        "ko": "길앞잡이 모형"
       }
     }
   },

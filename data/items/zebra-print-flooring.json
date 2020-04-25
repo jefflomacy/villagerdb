@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1300
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Zebra-Print Flooring",
+        "en-GB": "Zebra-Print Flooring",
+        "de": "Zebramusterboden",
+        "es": "Suelo cebra",
+        "fr": "Sol zèbre",
+        "it": "Pavimento zebrato",
+        "nl": "Zebravloer",
+        "zh-CN": "斑马纹地板",
+        "zh-TW": "斑馬紋地板",
+        "jp": "ゼブラなゆか",
+        "ko": "얼룩말 무늬 바닥"
+      }
     }
   },
   "category": "Flooring"

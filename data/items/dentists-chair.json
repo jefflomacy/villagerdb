@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "de": "Zahnarztstuhl",
+        "en-GB": "Dentist's Chair",
+        "en-US": "Dentist's Chair",
+        "es": "Silla dentista",
+        "fr": "Fauteuil de dentiste",
+        "it": "Sedia da dentista",
+        "ja": "しかユニット"
+      }
     }
   }
 }

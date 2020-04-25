@@ -11,7 +11,10 @@
       },
       "sources": [
         "Anywhere other than above salt water (the sea)."
-      ]
+      ],
+      "name": {
+        "en-US": "Red Dragonfly"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 180
+      },
+      "name": {
+        "en-US": "Red Dragonfly",
+        "en-GB": "Red Dragonfly",
+        "de": "Feuerlibelle",
+        "es": "Libélula roja",
+        "fr": "Sympetrum",
+        "it": "Libellula rossa",
+        "nl": "Rode libel",
+        "zh-CN": "红蜻蜓",
+        "zh-TW": "紅蜻蜓",
+        "jp": "アキアカネ",
+        "ko": "고추잠자리"
       }
     }
   }

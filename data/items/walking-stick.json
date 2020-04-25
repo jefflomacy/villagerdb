@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 600
+      },
+      "name": {
+        "en-US": "Walking Stick",
+        "en-GB": "Walking Stick",
+        "de": "Stabschrecke",
+        "es": "Insecto palo",
+        "fr": "Phasme",
+        "it": "Insetto stecco",
+        "nl": "Wandelende tak",
+        "zh-CN": "竹节虫",
+        "zh-TW": "竹節蟲",
+        "jp": "ナナフシ",
+        "ko": "긴수염대벌레"
       }
     }
   },

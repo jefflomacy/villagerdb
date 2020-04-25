@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "番茄酱的海报",
+        "de": "Poster's von Pullunda",
+        "en-GB": "Ketchup's Poster",
+        "es": "Póster de Kétchup",
+        "fr": "Poster de Ketchup",
+        "it": "Poster di Ketchup",
+        "jp": "ケチャップのポスター",
+        "ko": "케첩의 포스터",
+        "nl": "Poster van Ketchup",
+        "zh-TW": "番茄醬的海報",
+        "en-US": "Ketchup's Poster"
+      }
     }
   },
   "category": "Photos"

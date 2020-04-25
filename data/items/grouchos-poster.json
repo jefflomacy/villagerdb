@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "爪爪的海报",
+        "de": "Poster's von Ernst",
+        "en-GB": "Groucho's Poster",
+        "es": "Póster de Groucho",
+        "fr": "Poster de Ronchon",
+        "it": "Poster di Groucho",
+        "jp": "クローのポスター",
+        "ko": "거무틱의 포스터",
+        "nl": "Poster van Groucho",
+        "zh-TW": "爪爪的海報",
+        "en-US": "Groucho's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1150
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Orange Camo Wall",
+        "en-GB": "Orange Camo Wall",
+        "de": "Orange-Tarntapete",
+        "es": "Pared camuflaje naranja",
+        "fr": "Mur camouflage rouge",
+        "it": "Muro mimetico arancione",
+        "nl": "Oranje camouflagewand",
+        "zh-CN": "橘色迷彩壁纸",
+        "zh-TW": "橘色迷彩壁紙",
+        "jp": "オレンジめいさいのかべがみ",
+        "ko": "오렌지 밀리터리 벽지"
+      }
     }
   },
   "category": "Wallpaper"

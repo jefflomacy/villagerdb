@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Laufband",
+        "en-GB": "Treadmill",
+        "en-US": "Treadmill",
+        "es": "Cinta de correr",
+        "fr": "Tapis roulant",
+        "it": "Tapis roulant",
+        "ja": "ランニングマシーン"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -38,6 +47,19 @@
         "red": "Red",
         "blue": "Blue",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Treadmill",
+        "en-GB": "Treadmill",
+        "de": "Laufband",
+        "es": "Cinta de correr",
+        "fr": "Tapis roulant",
+        "it": "Tapis roulant",
+        "nl": "Loopband",
+        "zh-CN": "跑步机",
+        "zh-TW": "跑步機",
+        "jp": "ランニングマシン",
+        "ko": "러닝 머신"
       }
     }
   }

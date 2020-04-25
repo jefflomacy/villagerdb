@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 80
+      },
+      "name": {
+        "en-US": "Pink Windflowers",
+        "en-GB": "Pink Windflowers",
+        "de": "Pinkanemonen",
+        "es": "Anémonas rosas",
+        "fr": "Anémones roses",
+        "it": "Anemoni rosa",
+        "nl": "Roze anemonen",
+        "zh-CN": "粉红银莲花",
+        "zh-TW": "粉紅銀蓮花",
+        "jp": "ピンクのアネモネ",
+        "ko": "핑크색 아네모네"
       }
     }
   },

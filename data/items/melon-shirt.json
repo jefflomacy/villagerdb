@@ -24,19 +24,34 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "de": "Papayatop",
+        "en-GB": "Melon Shirt",
+        "en-US": "Melon Shirt",
+        "es": "Top melón",
+        "fr": "Débardeur melon",
+        "it": "Maglia melone",
+        "ja": "メロンのふくN"
+      }
     },
     "ac": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ]
+      ],
+      "name": {
+        "en-US": "Melon Shirt"
+      }
     },
     "afe+": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ]
+      ],
+      "name": {
+        "en-US": "Melon Shirt"
+      }
     }
   }
 }

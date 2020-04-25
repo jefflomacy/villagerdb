@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Tartanshirt",
+        "en-GB": "Gray Tartan Tee",
+        "en-US": "Gray Tartan Tee",
+        "es": "Camiseta tartán gris",
+        "fr": "T-shirt tartan gris",
+        "it": "Magliet. tartan nera",
+        "ja": "グレータータンのふく"
+      }
     }
   }
 }

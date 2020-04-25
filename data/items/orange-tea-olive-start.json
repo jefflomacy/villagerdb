@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Orange-Tea-Olive Start",
+        "en-GB": "Orange-Tea-Olive Start",
+        "de": "Honig-Duftblütensetzling",
+        "es": "Olivo olor. naranja de vivero",
+        "fr": "Pousse d'osmanthus orange",
+        "it": "Germoglio osmanto arancio",
+        "nl": "Oranje-Schijnhulst-Zaailing",
+        "zh-CN": "橙色桂花苗",
+        "zh-TW": "橘色桂花苗",
+        "jp": "オレンジキンモクセイのなえ",
+        "ko": "오렌지색 금목서 묘목"
+      }
     }
   },
   "category": "Bushes"

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Iron Entrance Mat",
+        "en-GB": "Iron Entrance Mat",
+        "de": "Eisengitter-Matte",
+        "es": "Felpudo de hierro",
+        "fr": "Paillasson en fer forgé",
+        "it": "Tappetino ingresso in ferro",
+        "nl": "Ijzeren welkomstmat",
+        "zh-CN": "铸铁玄关地垫",
+        "zh-TW": "鑄鐵玄關地墊",
+        "jp": "アイアンなげんかんマット",
+        "ko": "아이언 현관 매트"
+      }
     }
   },
   "category": "Flooring"

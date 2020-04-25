@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 4896
         }
-      ]
+      ],
+      "name": {
+        "de": "Festtagsfernseher",
+        "en-GB": "Jingle TV",
+        "en-US": "Jingle TV",
+        "es": "Tele festiva",
+        "fr": "Télé festive",
+        "it": "TV Jingle",
+        "ja": "クリスマステレビ"
+      }
     }
   }
 }

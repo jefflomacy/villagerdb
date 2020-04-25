@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 6000
         }
-      ]
+      ],
+      "name": {
+        "de": "EKG-Top",
+        "en-GB": "Pulse Tank",
+        "en-US": "Pulse Tank",
+        "es": "Top pulso",
+        "fr": "Débardeur ECG",
+        "it": "Canotta pulsazioni",
+        "ja": "パルスなふく"
+      }
     }
   }
 }

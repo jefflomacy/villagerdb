@@ -8,7 +8,20 @@
           "currency": "bells",
           "value": 98000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Natural Ramp",
+        "en-GB": "Natural Ramp",
+        "de": "Hangpfad",
+        "es": "Rampa natural",
+        "fr": "Pente naturelle",
+        "it": "Rampa naturale",
+        "nl": "Natuurlijke helling",
+        "zh-CN": "天然斜坡",
+        "zh-TW": "自然風斜坡",
+        "jp": "ナチュラルなスロープ",
+        "ko": "내추럴 슬로프"
+      }
     }
   },
   "category": "Furniture"

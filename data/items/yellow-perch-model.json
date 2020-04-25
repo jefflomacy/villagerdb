@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 900
+      },
+      "name": {
+        "en-US": "Yellow Perch Model",
+        "en-GB": "Yellow Perch Model",
+        "de": "Flussbarschmodell",
+        "es": "Figura de perca amarilla",
+        "fr": "Modèle de perche jaune",
+        "it": "Replica di perca dorata",
+        "nl": "Model-Gele-Baars",
+        "zh-CN": "黄鲈鱼模型",
+        "zh-TW": "黃鱸魚模型",
+        "jp": "イエローパーチのもけい",
+        "ko": "옐로우퍼치 모형"
       }
     }
   },

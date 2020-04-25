@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 180
+      },
+      "name": {
+        "en-US": "Fly Model",
+        "en-GB": "Fly Model",
+        "de": "Fliegenmodell",
+        "es": "Figura de mosca",
+        "fr": "Modèle de mouche",
+        "it": "Replica di mosca",
+        "nl": "Modelvlieg",
+        "zh-CN": "苍蝇模型",
+        "zh-TW": "蒼蠅模型",
+        "jp": "ハエのもけい",
+        "ko": "파리 모형"
       }
     }
   },

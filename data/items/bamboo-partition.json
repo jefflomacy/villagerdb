@@ -17,6 +17,19 @@
         "green-bamboo": "Green bamboo",
         "dried-bamboo": "Dried bamboo",
         "smoke-cured-bamboo": "Smoke-cured bamboo"
+      },
+      "name": {
+        "en-US": "Bamboo Partition",
+        "en-GB": "Bamboo Partition",
+        "de": "Bambus-Wandschirm",
+        "es": "Separador de bambú",
+        "fr": "Paravent en bambou",
+        "it": "Divisorio di bambù",
+        "nl": "Bamboescheidingswand",
+        "zh-CN": "竹屏风",
+        "zh-TW": "竹屏風",
+        "jp": "たけのスクリーン",
+        "ko": "대나무 파티션"
       }
     }
   },

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "宋信美的海报",
+        "de": "Poster's von Peggy",
+        "en-GB": "Phyllis's Poster",
+        "es": "Póster de Estrella",
+        "fr": "Poster d'élisabec",
+        "it": "Poster di Polly",
+        "jp": "ぺりみのポスター",
+        "ko": "펠리미의 포스터",
+        "nl": "Poster van Phyllis",
+        "zh-TW": "宋信美的海報",
+        "en-US": "Phyllis's Poster"
+      }
     }
   },
   "category": "Photos"

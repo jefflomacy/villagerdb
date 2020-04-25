@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 200
+      },
+      "name": {
+        "zh-CN": "橡栗",
+        "de": "Eichel",
+        "en-GB": "Acorn",
+        "es": "Bellota",
+        "fr": "Gland",
+        "it": "Ghianda",
+        "jp": "どんぐり",
+        "ko": "도토리",
+        "nl": "Eikel",
+        "zh-TW": "橡栗",
+        "en-US": "Acorn"
       }
     }
   },

@@ -24,6 +24,19 @@
         "orange": "Orange",
         "colorful": "Colorful",
         "polka-dots": "Polka dots"
+      },
+      "name": {
+        "en-US": "Plastic Pool",
+        "en-GB": "Plastic Pool",
+        "de": "Planschbecken",
+        "es": "Piscina hinchable",
+        "fr": "Piscine de jardin",
+        "it": "Piscina gonfiabile",
+        "nl": "Tuinzwembad",
+        "zh-CN": "充气泳池",
+        "zh-TW": "充氣泳池",
+        "jp": "ビニールプール",
+        "ko": "비닐 풀"
       }
     }
   },

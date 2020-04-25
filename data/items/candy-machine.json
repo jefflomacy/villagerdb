@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Snackautomat",
+        "en-GB": "Candy Machine",
+        "en-US": "Candy Machine",
+        "es": "Máquina dulces",
+        "fr": "Distributeur bonbons",
+        "it": "Distrib. caramelle",
+        "ja": "キャンディマシン"
+      }
     },
     "nh": {
       "orderable": true,
@@ -49,6 +58,19 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Candy Machine",
+        "en-GB": "Candy Machine",
+        "de": "Kaugummiautomat",
+        "es": "Máquina de dulces",
+        "fr": "Distributeur de bonbons",
+        "it": "Distributore di caramelle",
+        "nl": "Kauwgomballenautomaat",
+        "zh-CN": "糖果机",
+        "zh-TW": "糖果機",
+        "jp": "キャンディマシン",
+        "ko": "캔디 머신"
       }
     }
   }

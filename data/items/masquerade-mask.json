@@ -24,7 +24,10 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Masquerade Mask"
+      }
     },
     "nh": {
       "orderable": true,
@@ -48,6 +51,19 @@
         "red": "Red",
         "green": "Green",
         "gold": "Gold"
+      },
+      "name": {
+        "en-US": "Masquerade Mask",
+        "en-GB": "Masquerade Mask",
+        "de": "Ballmaske",
+        "es": "Antifaz de carnaval",
+        "fr": "Loup",
+        "it": "Mascherina fucsia",
+        "nl": "Elegante balmasker",
+        "zh-CN": "威尼斯面具",
+        "zh-TW": "威尼斯面具",
+        "jp": "ベネチアンマスク",
+        "ko": "베네치안 마스크"
       }
     }
   }

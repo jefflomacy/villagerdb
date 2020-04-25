@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Barett",
+        "en-GB": "Beret",
+        "en-US": "Beret",
+        "es": "Boina",
+        "fr": "Béret",
+        "it": "Basco",
+        "ja": "ベレーぼう"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -40,6 +49,19 @@
         "mustard": "Mustard",
         "gray": "Gray",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Beret",
+        "en-GB": "Beret",
+        "de": "Barett",
+        "es": "Boina",
+        "fr": "Béret",
+        "it": "Basco",
+        "nl": "Baret",
+        "zh-CN": "贝雷帽",
+        "zh-TW": "貝雷帽",
+        "jp": "ベレーぼう",
+        "ko": "베레모"
       }
     }
   }

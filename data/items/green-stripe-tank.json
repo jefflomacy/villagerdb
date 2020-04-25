@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Grünstreifentop",
+        "en-GB": "Green-Stripe Tank",
+        "en-US": "Green-Stripe Tank",
+        "es": "Top rayas verdes",
+        "fr": "Débardeur rayé vert",
+        "it": "Canotta righe verdi",
+        "ja": "みどりのタンクトップ"
+      }
     }
   }
 }

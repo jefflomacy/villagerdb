@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 800
+      },
+      "name": {
+        "en-US": "Blue Weevil Beetle",
+        "en-GB": "Blue Weevil Beetle",
+        "de": "Blaurüsselkäfer",
+        "es": "Gorgojo azul",
+        "fr": "Charançon bleu",
+        "it": "Coleottero Schoenherr",
+        "nl": "Blauwe snuitkever",
+        "zh-CN": "宝石象鼻虫",
+        "zh-TW": "寶石象鼻蟲",
+        "jp": "ホウセキゾウムシ",
+        "ko": "유포루스바구미"
       }
     }
   },

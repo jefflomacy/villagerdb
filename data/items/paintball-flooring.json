@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Paintball Flooring",
+        "en-GB": "Paintball Flooring",
+        "de": "Farbklecksboden",
+        "es": "Suelo pintura",
+        "fr": "Sol paintball",
+        "it": "Pavimento atelier",
+        "nl": "Paintballvloer",
+        "zh-CN": "画室地板",
+        "zh-TW": "畫室地板",
+        "jp": "アトリエのゆか",
+        "ko": "아틀리에 바닥"
+      }
     }
   },
   "category": "Flooring"

@@ -16,6 +16,19 @@
       },
       "variations": {
         "colorful": "Colorful"
+      },
+      "name": {
+        "en-US": "Rose Crown",
+        "en-GB": "Rose Crown",
+        "de": "Rosenkrone",
+        "es": "Guirnalda rosa",
+        "fr": "Coiffe roses",
+        "it": "Corona di rose",
+        "nl": "Rozenkroon",
+        "zh-CN": "玫瑰花冠",
+        "zh-TW": "玫瑰花冠",
+        "jp": "バラのかんむり",
+        "ko": "장미 화관"
       }
     }
   },

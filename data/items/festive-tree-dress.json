@@ -24,7 +24,10 @@
           "currency": "bells",
           "value": 8000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Festive-Tree Dress"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -44,6 +47,19 @@
         "pink": "Pink",
         "gold": "Gold",
         "silver": "Silver"
+      },
+      "name": {
+        "en-US": "Festive-Tree Dress",
+        "en-GB": "Festive-Tree Dress",
+        "de": "Baumschmuck-Kleid",
+        "es": "Vestido abeto",
+        "fr": "Robe d'été sapin",
+        "it": "Scamiciato addobbato",
+        "nl": "Feestboomjurk",
+        "zh-CN": "圣诞树连身裙",
+        "zh-TW": "聖誕樹連身裙",
+        "jp": "もみのきワンピース",
+        "ko": "크리스마스트리 원피스"
       }
     }
   }

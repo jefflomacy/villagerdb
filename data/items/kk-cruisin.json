@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Cruisin'"
+      }
     },
     "nh": {
       "orderable": true,
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Cruisin'",
+        "en-GB": "K.K. Cruisin'",
+        "de": "K.K. Cruisin'",
+        "es": "Tota-Gánster",
+        "fr": "Kéké R&B",
+        "it": "K.K. Cool",
+        "nl": "K.K.-Club",
+        "zh-CN": "都市K.K.",
+        "zh-TW": "都市K.K.",
+        "jp": "アーバンけけ",
+        "ko": "팝K.K.",
+        "ru": "Круиз К. К."
+      }
     }
   }
 }

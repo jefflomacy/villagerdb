@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "博士的海报",
+        "de": "Poster's von Rolo",
+        "en-GB": "Cobb's Poster",
+        "es": "Póster de Franfuá",
+        "fr": "Poster de Porken",
+        "it": "Poster di Wurst",
+        "jp": "ハカセのポスター",
+        "ko": "박사의 포스터",
+        "nl": "Poster van Cobb",
+        "zh-TW": "博士的海報",
+        "en-US": "Cobb's Poster"
+      }
     }
   },
   "category": "Photos"

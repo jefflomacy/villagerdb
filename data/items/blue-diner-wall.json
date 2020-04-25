@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Diner Wall",
+        "en-GB": "Blue Diner Wall",
+        "de": "Blau-Dinerwand",
+        "es": "Pared café años 50 azul",
+        "fr": "Mur années 50 bleu",
+        "it": "Muro bar anni '50 azzurro",
+        "nl": "Blauwe restaurantwand",
+        "zh-CN": "蓝色餐馆墙",
+        "zh-TW": "藍色餐館牆",
+        "jp": "あおいダイナーのかべ",
+        "ko": "파란 다이너 벽"
+      }
     }
   },
   "category": "Wallpaper"

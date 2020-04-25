@@ -22,6 +22,19 @@
         "pink": "Pink",
         "cream": "Cream",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Diner Counter Table",
+        "en-GB": "Diner Counter Table",
+        "de": "Diner-Tresen",
+        "es": "Barra café años 50",
+        "fr": "Comptoir années 50",
+        "it": "Bancone bar anni '50",
+        "nl": "Jaren 50-bar",
+        "zh-CN": "餐馆吧台桌",
+        "zh-TW": "餐館吧台桌",
+        "jp": "ダイナーなカウンターテーブル",
+        "ko": "다이너 카운터 테이블"
       }
     }
   },

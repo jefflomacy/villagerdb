@@ -11,7 +11,10 @@
       },
       "sources": [
         "In the sea."
-      ]
+      ],
+      "name": {
+        "en-US": "Ocean Sunfish"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4000
+      },
+      "name": {
+        "en-US": "Ocean Sunfish",
+        "en-GB": "Ocean Sunfish",
+        "de": "Mondfisch",
+        "es": "Pez luna",
+        "fr": "Lune de mer",
+        "it": "Pesce luna",
+        "nl": "Klompvis",
+        "zh-CN": "翻车鱼",
+        "zh-TW": "翻車魚",
+        "jp": "マンボウ",
+        "ko": "개복치"
       }
     }
   }

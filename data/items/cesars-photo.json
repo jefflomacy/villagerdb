@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿朗的照片",
+        "de": "Foto's von Alfredo",
+        "en-GB": "Cesar's Photo",
+        "es": "Foto de César",
+        "fr": "Photo de César",
+        "it": "Foto di Cesare",
+        "jp": "アランのしゃしん",
+        "ko": "앨런의 사진",
+        "nl": "Foto van Cesar",
+        "zh-TW": "阿朗的照片",
+        "en-US": "Cesar's Photo"
       }
     }
   },

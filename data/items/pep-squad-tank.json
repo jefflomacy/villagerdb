@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "de": "Cheerleader-Top",
+        "en-GB": "Pep-Squad Tank",
+        "en-US": "Pep-Squad Tank",
+        "es": "Top animadora",
+        "fr": "Débardeur soda",
+        "it": "Canotta cheerleader",
+        "ja": "チアリーダーなふくN"
+      }
     }
   }
 }

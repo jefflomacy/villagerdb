@@ -14,6 +14,19 @@
       },
       "variations": {
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Basket Pack",
+        "en-GB": "Basket Pack",
+        "de": "Tragekorb",
+        "es": "Mochila cesta",
+        "fr": "Claie à panier",
+        "it": "Cesta",
+        "nl": "Mandrugzak",
+        "zh-CN": "背篓",
+        "zh-TW": "後背架",
+        "jp": "しょいこ",
+        "ko": "바구니 가방"
       }
     }
   },

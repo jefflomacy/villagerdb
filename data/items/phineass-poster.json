@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "博陆恩的海报",
+        "de": "Poster's von Helios",
+        "en-GB": "Phineas's Poster",
+        "es": "Póster de Elio",
+        "fr": "Poster d'hélium",
+        "it": "Poster di Elio",
+        "jp": "パロンチーノのポスター",
+        "ko": "파론티노의 포스터",
+        "nl": "Poster van Phineas",
+        "zh-TW": "博陸恩的海報",
+        "en-US": "Phineas's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "秀益的照片",
+        "de": "Foto's von Max",
+        "en-GB": "Boomer's Photo",
+        "es": "Foto de Serafino",
+        "fr": "Photo d'ethan",
+        "it": "Foto di Icaro",
+        "jp": "ショーイのしゃしん",
+        "ko": "팽기의 사진",
+        "nl": "Foto van Boomer",
+        "zh-TW": "秀益的照片",
+        "en-US": "Boomer's Photo"
       }
     }
   },

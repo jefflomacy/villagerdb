@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "小敏的照片",
+        "de": "Foto's von Marika",
+        "en-GB": "Mint's Photo",
+        "es": "Foto de Menta",
+        "fr": "Photo d'amande",
+        "it": "Foto di Mentulla",
+        "jp": "ミントのしゃしん",
+        "ko": "민트의 사진",
+        "nl": "Foto van Mint",
+        "zh-TW": "小敏的照片",
+        "en-US": "Mint's Photo"
       }
     }
   },

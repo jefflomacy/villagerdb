@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "空空的照片",
+        "de": "Foto's von Boyd",
+        "en-GB": "Boyd's Photo",
+        "es": "Foto de Bunga",
+        "fr": "Photo de Primo",
+        "it": "Foto di Brando",
+        "jp": "ボイドのしゃしん",
+        "ko": "보이드의 사진",
+        "nl": "Foto van Boyd",
+        "zh-TW": "空空的照片",
+        "en-US": "Boyd's Photo"
       }
     }
   },

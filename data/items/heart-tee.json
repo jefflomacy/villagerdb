@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Shirt \\u201EHerz\\u201C",
+        "en-GB": "Heart Tee",
+        "en-US": "Heart Tee",
+        "es": "Camiseta corazón",
+        "fr": "T-shirt c\\u0153ur",
+        "it": "Maglietta di cuori",
+        "ja": "ハートのふく"
+      }
     }
   }
 }

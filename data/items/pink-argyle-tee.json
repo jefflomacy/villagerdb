@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 5800
         }
-      ]
+      ],
+      "name": {
+        "de": "Rosa-Argyle-Shirt",
+        "en-GB": "Pink Argyle Tee",
+        "en-US": "Pink Argyle Tee",
+        "es": "Camiseta pija rosa",
+        "fr": "T-shirt écos. rose",
+        "it": "Maglietta rombi rosa",
+        "ja": "ピンクアーガイルのふく"
+      }
     }
   }
 }

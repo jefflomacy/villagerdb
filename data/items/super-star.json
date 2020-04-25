@@ -15,7 +15,16 @@
       },
       "sources": [
         "Fortune cookie #23"
-      ]
+      ],
+      "name": {
+        "de": "Superstern",
+        "en-GB": "Super Star",
+        "en-US": "Super Star",
+        "es": "Superestrella",
+        "fr": "Super étoile",
+        "it": "Super stella",
+        "ja": "スーパースター"
+      }
     }
   }
 }

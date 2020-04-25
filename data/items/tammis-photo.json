@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "四月的照片",
+        "de": "Foto's von Bonni",
+        "en-GB": "Tammi's Photo",
+        "es": "Foto de Tami",
+        "fr": "Photo de Lili",
+        "it": "Foto di Tammi",
+        "jp": "エイプリルのしゃしん",
+        "ko": "에이프릴의 사진",
+        "nl": "Foto van Tammi",
+        "zh-TW": "四月的照片",
+        "en-US": "Tammi's Photo"
       }
     }
   },

@@ -11,7 +11,10 @@
       },
       "sources": [
         "Peach tree"
-      ]
+      ],
+      "name": {
+        "en-US": "Peach"
+      }
     },
     "nh": {
       "orderable": false,
@@ -28,7 +31,20 @@
           "currency": "bells",
           "value": 400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Peach",
+        "en-GB": "Peach",
+        "de": "Pfirsich",
+        "es": "Melocotón",
+        "fr": "Pêche",
+        "it": "Pesca",
+        "nl": "Perzik",
+        "zh-CN": "桃子",
+        "zh-TW": "桃子",
+        "jp": "モモ",
+        "ko": "복숭아"
+      }
     }
   }
 }

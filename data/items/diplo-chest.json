@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Seismosaurus-Thorax",
+        "en-GB": "Diplo Chest",
+        "en-US": "Diplo Chest",
+        "es": "Tórax diplodocus",
+        "fr": "Torse de séismo",
+        "it": "Torso seismosauro",
+        "ja": "セイスモサウルスのむね"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4000
+      },
+      "name": {
+        "en-US": "Diplo Chest",
+        "en-GB": "Diplo Chest",
+        "de": "Diplodocus-Thorax",
+        "es": "Tórax diplodocus",
+        "fr": "Torse de diplodocus",
+        "it": "Torso diplodoco",
+        "nl": "Diplodocusborstkas",
+        "zh-CN": "梁龙的胸部",
+        "zh-TW": "梁龍的胸部",
+        "jp": "ディプロドクスのむね",
+        "ko": "디플로도쿠스의 가슴"
       }
     }
   }

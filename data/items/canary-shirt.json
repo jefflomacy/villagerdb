@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Schleifentop",
+        "en-GB": "Canary Shirt",
+        "en-US": "Canary Shirt",
+        "es": "Blusa con lacito",
+        "fr": "Pull canari",
+        "it": "Camicia giallo tenue",
+        "ja": "リボンのブラウス"
+      }
     }
   }
 }

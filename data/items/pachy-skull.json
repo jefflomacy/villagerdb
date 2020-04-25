@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Pachysaurus-Schädel",
+        "en-GB": "Pachysaurus Skull",
+        "en-US": "Pachy Skull",
+        "es": "Cráneo paquicefa",
+        "fr": "Crâne de pachycéphal",
+        "it": "Teschio pachicefal.",
+        "ja": "パキケファロのあたま"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4000
+      },
+      "name": {
+        "en-US": "Pachy Skull",
+        "en-GB": "Pachysaurus Skull",
+        "de": "Pachysaurus-Vorderteil",
+        "es": "Cuerpo paquicefalosaurio",
+        "fr": "Crâne de pachycéphal",
+        "it": "Cranio pachicefalosauro",
+        "nl": "Pachycephalosauruskop",
+        "zh-CN": "厚头龙的头",
+        "zh-TW": "厚頭龍的頭",
+        "jp": "パキケファロのあたま",
+        "ko": "파키케팔로사우루스의 머리"
       }
     }
   }

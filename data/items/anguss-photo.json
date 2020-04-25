@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "施万德的照片",
+        "de": "Foto's von Angus",
+        "en-GB": "Angus's Photo",
+        "es": "Foto de Aliste",
+        "fr": "Photo d'angus",
+        "it": "Foto di Angus",
+        "jp": "セルバンテスのしゃしん",
+        "ko": "반데스의 사진",
+        "nl": "Foto van Angus",
+        "zh-TW": "施萬德的照片",
+        "en-US": "Angus's Photo"
       }
     }
   },

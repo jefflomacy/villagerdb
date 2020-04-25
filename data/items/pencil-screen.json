@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 23760
         }
-      ]
+      ],
+      "name": {
+        "de": "Stifte-Raumteiler",
+        "en-GB": "Pencil Screen",
+        "en-US": "Pencil Screen",
+        "es": "Biombo lápices",
+        "fr": "Paravent stylos",
+        "it": "Separé penne",
+        "ja": "ジュニアペンシルついたて"
+      }
     }
   }
 }

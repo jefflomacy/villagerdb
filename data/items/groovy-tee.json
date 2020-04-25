@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 6400
         }
-      ]
+      ],
+      "name": {
+        "de": "Schneckenshirt",
+        "en-GB": "Groovy Tee",
+        "en-US": "Groovy Tee",
+        "es": "Camiseta caracol",
+        "fr": "T-shirt funky",
+        "it": "Maglietta ghirigori",
+        "ja": "サイケデリックなふく"
+      }
     }
   }
 }

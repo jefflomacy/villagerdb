@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1700
         }
-      ]
+      ],
+      "name": {
+        "de": "Harfe",
+        "en-GB": "Harp",
+        "en-US": "Harp",
+        "es": "Arpa",
+        "fr": "Harpe",
+        "it": "Arpa",
+        "ja": "ハープ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -39,6 +48,19 @@
         "dark-brown": "Dark brown",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Harp",
+        "en-GB": "Harp",
+        "de": "Harfe",
+        "es": "Arpa",
+        "fr": "Harpe",
+        "it": "Arpa",
+        "nl": "Harp",
+        "zh-CN": "竖琴",
+        "zh-TW": "豎琴",
+        "jp": "ハープ",
+        "ko": "하프"
       }
     }
   }

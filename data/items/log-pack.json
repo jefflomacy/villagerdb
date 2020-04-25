@@ -15,6 +15,19 @@
       },
       "variations": {
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Log Pack",
+        "en-GB": "Log Pack",
+        "de": "Holzfällerrucksack",
+        "es": "Mochila troncos",
+        "fr": "Claie de portage",
+        "it": "Zaino con telaio",
+        "nl": "Boomstammenrugzak",
+        "zh-CN": "背架",
+        "zh-TW": "背薪架",
+        "jp": "せおいばしご",
+        "ko": "지게"
       }
     }
   },

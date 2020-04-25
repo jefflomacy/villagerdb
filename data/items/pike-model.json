@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5400
+      },
+      "name": {
+        "en-US": "Pike Model",
+        "en-GB": "Pike Model",
+        "de": "Hechtmodell",
+        "es": "Figura de lucio",
+        "fr": "Modèle de brochet",
+        "it": "Replica di luccio nordico",
+        "nl": "Modelsnoek",
+        "zh-CN": "白斑狗鱼模型",
+        "zh-TW": "白斑狗魚模型",
+        "jp": "パイクのもけい",
+        "ko": "강꼬치고기 모형"
       }
     }
   },

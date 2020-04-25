@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "de": "Dschungelhose",
+        "en-GB": "Jungle-Camo Pants",
+        "en-US": "Jungle-Camo Pants",
+        "es": "Pantalón camuflaje",
+        "fr": "Pantalon mot. jungle",
+        "it": "Pantalone mimetico",
+        "ja": "めいさいパンツ"
+      }
     }
   }
 }

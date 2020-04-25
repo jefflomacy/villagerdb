@@ -19,6 +19,19 @@
         "red": "Red",
         "blue": "Blue",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Ancient Sashed Robe",
+        "en-GB": "Ancient Sashed Robe",
+        "de": "Damen-Hanfu",
+        "es": "Vestido gestión imperial",
+        "fr": "Tunique de femme ancienne",
+        "it": "Veste imperiale",
+        "nl": "Oosterse vrouwenoutfit",
+        "zh-CN": "汉服",
+        "zh-TW": "漢服",
+        "jp": "かんぷく",
+        "ko": "한푸"
       }
     }
   },

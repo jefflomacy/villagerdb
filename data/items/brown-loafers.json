@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Wildlederslipper",
+        "en-GB": "Brown Loafers",
+        "en-US": "Brown Loafers",
+        "es": "Mocasín marrón",
+        "fr": "P. mocassins bruns",
+        "it": "P. mocassini marroni",
+        "ja": "ちゃいろのローファー"
+      }
     }
   }
 }

@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1500
+      },
+      "name": {
+        "en-US": "Fish Wand",
+        "en-GB": "Fish Wand",
+        "de": "Fischstab",
+        "es": "Varita pez",
+        "fr": "Baguette poisson",
+        "it": "Bacchetta pesce",
+        "nl": "Vissenstaf",
+        "zh-CN": "鱼儿棒",
+        "zh-TW": "魚兒棒",
+        "jp": "おサカナのステッキ",
+        "ko": "물고기 지팡이"
       }
     }
   },

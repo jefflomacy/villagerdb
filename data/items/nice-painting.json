@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 3920
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Nice Painting"
+      }
     },
     "nh": {
       "orderable": false,
@@ -36,7 +39,20 @@
           "currency": "bells",
           "value": 4980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Nice Painting",
+        "en-GB": "Nice Painting",
+        "de": "Hübschgemälde",
+        "es": "Retrato músico",
+        "fr": "Toile magnifique",
+        "it": "Quadro antico",
+        "nl": "Muzikale schilderij",
+        "zh-CN": "很好的名画",
+        "zh-TW": "很好的名畫",
+        "jp": "いいめいが",
+        "ko": "좋은 명화"
+      }
     }
   }
 }

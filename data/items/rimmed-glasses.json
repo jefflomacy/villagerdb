@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 240
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Rimmed Glasses"
+      }
     },
     "nh": {
       "orderable": true,
@@ -43,6 +46,19 @@
         "gray": "Gray",
         "brown": "Brown",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Rimmed Glasses",
+        "en-GB": "Rimmed Glasses",
+        "de": "Laborbrille",
+        "es": "Gafa redonda",
+        "fr": "Monture intello",
+        "it": "Montatura rotonda",
+        "nl": "Ronde bril",
+        "zh-CN": "圆框眼镜",
+        "zh-TW": "圓框眼鏡",
+        "jp": "まるめがね",
+        "ko": "동글 안경"
       }
     }
   }

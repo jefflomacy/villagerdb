@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Ivory Medium Round Mat",
+        "en-GB": "Ivory Medium Round Mat",
+        "de": "Creme-Rundmatte M",
+        "es": "Alfombra redonda marfil M",
+        "fr": "Tapis rond ivoire M",
+        "it": "Tappetino tondo avorio M",
+        "nl": "Ivoorwitte ronde mat",
+        "zh-CN": "象牙色圆地垫M",
+        "zh-TW": "中型象牙色圓地墊",
+        "jp": "アイボリーのラウンドマット・M",
+        "ko": "아이보리 라운드 매트 M"
+      }
     }
   },
   "category": "Flooring"

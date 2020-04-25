@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 352
         }
-      ]
+      ],
+      "name": {
+        "de": "Wohlfühlshirt",
+        "en-GB": "Dazed Tee",
+        "en-US": "Dazed Tee",
+        "es": "Camiseta rombos",
+        "fr": "T-shirt losange",
+        "it": "Magliet. quadri rosa",
+        "ja": "ゆめいろこうしのふく"
+      }
     }
   }
 }

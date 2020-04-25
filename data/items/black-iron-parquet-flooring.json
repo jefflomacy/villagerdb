@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 2350
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Black Iron-Parquet Flooring",
+        "en-GB": "Black Iron-Parquet Flooring",
+        "de": "Schwarz-Eisenboden",
+        "es": "Parqué filigrana metálica",
+        "fr": "Parquet bois et fer noir",
+        "it": "Parquet in ferro nero",
+        "nl": "Zwart",
+        "zh-CN": "黑色铸铁拼花地板",
+        "zh-TW": "黑色鑄鐵拼花地板",
+        "jp": "くろいアイアンパーケットのゆか",
+        "ko": "검정 패턴 바닥"
+      }
     }
   },
   "category": "Flooring"

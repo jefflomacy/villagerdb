@@ -18,6 +18,19 @@
         "yellow": "Yellow",
         "pink": "Pink",
         "navy-blue": "Navy blue"
+      },
+      "name": {
+        "en-US": "Poncho Coat",
+        "en-GB": "Poncho Coat",
+        "de": "Ponchomantel",
+        "es": "Abrigo pompones",
+        "fr": "Manteau poncho",
+        "it": "Cappotto poncho",
+        "nl": "Ponchojas",
+        "zh-CN": "斗篷大衣",
+        "zh-TW": "斗篷大衣",
+        "jp": "ポンチョコート",
+        "ko": "판초 코트"
       }
     }
   },

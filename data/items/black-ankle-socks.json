@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 120
         }
-      ]
+      ],
+      "name": {
+        "de": "Schwarzsöckchen",
+        "en-GB": "Black Ankle Socks",
+        "en-US": "Black Ankle Socks",
+        "es": "Calcetín tobillero",
+        "fr": "Paire socq. noires",
+        "it": "Paio calzini neri",
+        "ja": "くろのくるぶしソックス"
+      }
     }
   }
 }

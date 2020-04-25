@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "芭芭拉的照片",
+        "de": "Foto's von Pamela",
+        "en-GB": "Pashmina's Photo",
+        "es": "Foto de Carla",
+        "fr": "Photo de Chavrina",
+        "it": "Foto di Pashmina",
+        "jp": "バーバラのしゃしん",
+        "ko": "바바라의 사진",
+        "nl": "Foto van Pashmina",
+        "zh-TW": "芭芭拉的照片",
+        "en-US": "Pashmina's Photo"
       }
     }
   },

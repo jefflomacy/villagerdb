@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Retro-Fernseher",
+        "en-GB": "Retro TV",
+        "en-US": "Retro TV",
+        "es": "Tele retro",
+        "fr": "Télé rétro",
+        "it": "Vecchia TV",
+        "ja": "レトロなテレビ"
+      }
     }
   }
 }

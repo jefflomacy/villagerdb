@@ -18,6 +18,19 @@
         "brown": "Brown",
         "black": "Black",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Chesterfield Coat",
+        "en-GB": "Chesterfield Coat",
+        "de": "Chesterfield",
+        "es": "Abrigo chesterfield",
+        "fr": "Chesterfield",
+        "it": "Chesterfield",
+        "nl": "Chesterfieldjas",
+        "zh-CN": "切斯特大衣",
+        "zh-TW": "切斯特大衣",
+        "jp": "チェスターコート",
+        "ko": "체스터 코트"
       }
     }
   },

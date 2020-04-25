@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1720
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Beaded-Curtain Wall",
+        "en-GB": "Beaded-Curtain Wall",
+        "de": "Perlenvorhangwand",
+        "es": "Pared cortina de cuentas",
+        "fr": "Mur rideau de perles",
+        "it": "Muro tendina di perline",
+        "nl": "Kraaltjesgordijnwand",
+        "zh-CN": "珠帘墙",
+        "zh-TW": "珠簾牆",
+        "jp": "たまのれんのかべ",
+        "ko": "구슬 커튼 벽"
+      }
     }
   },
   "category": "Wallpaper"

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "余子酱的海报",
+        "de": "Poster's von Kiki",
+        "en-GB": "Kiki's Poster",
+        "es": "Póster de Ágata",
+        "fr": "Poster de Kiki",
+        "it": "Poster di Kiki",
+        "jp": "キャビアのポスター",
+        "ko": "캐비어의 포스터",
+        "nl": "Poster van Kiki",
+        "zh-TW": "余子醬的海報",
+        "en-US": "Kiki's Poster"
+      }
     }
   },
   "category": "Photos"

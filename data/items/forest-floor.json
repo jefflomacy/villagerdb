@@ -15,7 +15,10 @@
       },
       "sources": [
         "Pick mushrooms during November"
-      ]
+      ],
+      "name": {
+        "en-US": "Forest Floor"
+      }
     }
   }
 }

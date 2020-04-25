@@ -13,7 +13,20 @@
           "currency": "bells",
           "value": 64000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Arcade Fighting Game",
+        "en-GB": "Arcade Fighting Game",
+        "de": "Arcade-Prügelspiel",
+        "es": "Máquina recreativa lucha",
+        "fr": "Borne d'arcade de combat",
+        "it": "Cabinato con picchiaduro",
+        "nl": "Vechtgame-Arcadekast",
+        "zh-CN": "街机（格斗游戏）",
+        "zh-TW": "街機（格鬥遊戲）",
+        "jp": "アーケードゲーム（FTG）",
+        "ko": "격투 아케이드 게임"
+      }
     }
   },
   "category": "Furniture"

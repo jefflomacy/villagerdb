@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 2350
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pink-Crown Wall",
+        "en-GB": "Pink-Crown Wall",
+        "de": "Rosakronenwand",
+        "es": "Pared realeza rosa",
+        "fr": "Mur motif couronnes rose",
+        "it": "Muro con corone rosa",
+        "nl": "Roze kroontjeswand",
+        "zh-CN": "粉红皇冠壁纸",
+        "zh-TW": "粉紅皇冠壁紙",
+        "jp": "ピンククラウンのかべがみ",
+        "ko": "핑크 왕관 벽지"
+      }
     }
   },
   "category": "Wallpaper"

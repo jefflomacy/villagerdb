@@ -23,7 +23,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Technopop"
+      }
     },
     "nh": {
       "orderable": true,
@@ -36,7 +39,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Technopop",
+        "en-GB": "K.K. Technopop",
+        "de": "K.K. Technopop",
+        "es": "Tota-Tecno",
+        "fr": "Technopop Kéké",
+        "it": "K.K. Techno",
+        "nl": "K.K.-Technopop",
+        "zh-CN": "电音节奏",
+        "zh-TW": "電音節奏",
+        "jp": "テクノビート",
+        "ko": "테크노 비트",
+        "ru": "Техно-Поп К. К."
+      }
     }
   }
 }

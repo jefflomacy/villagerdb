@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "花寿司的海报",
+        "de": "Poster's von Pingi",
+        "en-GB": "Iggly's Poster",
+        "es": "Póster de Bobo",
+        "fr": "Poster d'urbain",
+        "it": "Poster di Piccio",
+        "jp": "のりまきのポスター",
+        "ko": "김말이의 포스터",
+        "nl": "Poster van Iggly",
+        "zh-TW": "花壽司的海報",
+        "en-US": "Iggly's Poster"
+      }
     }
   },
   "category": "Photos"

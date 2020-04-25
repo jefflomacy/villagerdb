@@ -24,6 +24,19 @@
         "light-blue": "Light blue",
         "yellow": "Yellow",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Stand Mixer",
+        "en-GB": "Stand Mixer",
+        "de": "Rührmaschine",
+        "es": "Batidora amasadora",
+        "fr": "Robot de cuisine",
+        "it": "Impastatrice",
+        "nl": "Mixer",
+        "zh-CN": "直立式搅拌机",
+        "zh-TW": "直立式攪拌機",
+        "jp": "スタンドミキサー",
+        "ko": "스탠드 믹서"
       }
     }
   },

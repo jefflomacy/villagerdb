@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "蒂芬妮的照片",
+        "de": "Foto's von Lora",
+        "en-GB": "Celia's Photo",
+        "es": "Foto de Jazmín",
+        "fr": "Photo de Garance",
+        "it": "Foto di Celia",
+        "jp": "ティファニーのしゃしん",
+        "ko": "티파니의 사진",
+        "nl": "Foto van Celia",
+        "zh-TW": "蒂芬妮的照片",
+        "en-US": "Celia's Photo"
       }
     }
   },

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "安索尼的照片",
+        "de": "Foto's von Carsten",
+        "en-GB": "Colton's Photo",
+        "es": "Foto de Furio",
+        "fr": "Photo de Tony",
+        "it": "Foto di Furio",
+        "jp": "アンソニーのしゃしん",
+        "ko": "안소니의 사진",
+        "nl": "Foto van Colton",
+        "zh-TW": "安索尼的照片",
+        "en-US": "Colton's Photo"
       }
     }
   },

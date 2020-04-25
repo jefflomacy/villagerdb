@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "软糖的照片",
+        "de": "Foto's von Trita",
+        "en-GB": "Poppy's Photo",
+        "es": "Foto de Encina",
+        "fr": "Photo d'irène",
+        "it": "Foto di Granella",
+        "jp": "グミのしゃしん",
+        "ko": "다람의 사진",
+        "nl": "Foto van Poppy",
+        "zh-TW": "軟糖的照片",
+        "en-US": "Poppy's Photo"
       }
     }
   },

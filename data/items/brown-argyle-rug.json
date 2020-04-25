@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Brown Argyle Rug",
+        "en-GB": "Brown Argyle Rug",
+        "de": "Braun-Argyle-Teppich",
+        "es": "Alfombra rombos marrón",
+        "fr": "Tapis argyle brun",
+        "it": "Tappeto a rombi marrone",
+        "nl": "Bruine geruite tapijt",
+        "zh-CN": "茶色菱格纹地毯",
+        "zh-TW": "茶色菱格紋地毯",
+        "jp": "ちゃいろいアーガイルのラグ",
+        "ko": "갈색 아가일 러그"
+      }
     }
   },
   "category": "Flooring"

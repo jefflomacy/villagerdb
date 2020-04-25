@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿司的照片",
+        "de": "Foto's von Tippsi",
+        "en-GB": "Timbra's Photo",
+        "es": "Foto de Hebra",
+        "fr": "Photo de Sélène",
+        "it": "Foto di Ambra",
+        "jp": "つかさのしゃしん",
+        "ko": "잔디의 사진",
+        "nl": "Foto van Timbra",
+        "zh-TW": "阿司的照片",
+        "en-US": "Timbra's Photo"
       }
     }
   },

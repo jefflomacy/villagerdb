@@ -19,6 +19,19 @@
         "brown": "Brown",
         "purple": "Purple",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Printed Fleece Sweater",
+        "en-GB": "Printed Fleece Sweater",
+        "de": "Musterfleecepulli",
+        "es": "Jersey de lana estampado",
+        "fr": "Pull en polaire à motifs",
+        "it": "Felpa di pile con stampa",
+        "nl": "Fleecetrui met patroon",
+        "zh-CN": "图纹刷毛上衣",
+        "zh-TW": "圖紋刷毛上衣",
+        "jp": "がらものフリース",
+        "ko": "패턴 플리스"
       }
     }
   },

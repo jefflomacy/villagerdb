@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "圣萝的照片",
+        "de": "Foto's von Emma",
+        "en-GB": "Victoria's Photo",
+        "es": "Foto de Victoria",
+        "fr": "Photo de Victoria",
+        "it": "Foto di Vittoria",
+        "jp": "セントアローのしゃしん",
+        "ko": "센트엘로의 사진",
+        "nl": "Foto van Victoria",
+        "zh-TW": "聖蘿的照片",
+        "en-US": "Victoria's Photo"
       }
     }
   },

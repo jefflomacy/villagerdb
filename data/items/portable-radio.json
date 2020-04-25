@@ -26,6 +26,19 @@
         "light-blue": "Light blue",
         "green": "Green",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Portable Radio",
+        "en-GB": "Portable Radio",
+        "de": "Taschenradio",
+        "es": "Radio portátil",
+        "fr": "Radio portable",
+        "it": "Radio portatile",
+        "nl": "Draagbare radio",
+        "zh-CN": "携带型收音机",
+        "zh-TW": "攜帶型收音機",
+        "jp": "けいたいラジオ",
+        "ko": "휴대용 라디오"
       }
     }
   },

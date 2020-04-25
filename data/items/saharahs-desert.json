@@ -11,7 +11,10 @@
       },
       "sources": [
         "Saharah"
-      ]
+      ],
+      "name": {
+        "en-US": "Saharah's Desert"
+      }
     },
     "nh": {
       "orderable": false,
@@ -27,7 +30,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Saharah's Desert",
+        "en-GB": "Saharah's Desert",
+        "de": "Saharagrund",
+        "es": "Suelo desierto",
+        "fr": "Sol désert",
+        "it": "Deserto Sahara",
+        "nl": "Woestijnvloer",
+        "zh-CN": "沙漠地板",
+        "zh-TW": "沙漠地板",
+        "jp": "さばくなゆか",
+        "ko": "사막 바닥"
+      }
     }
   }
 }

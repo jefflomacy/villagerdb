@@ -19,6 +19,19 @@
         "pink": "Pink",
         "blue": "Blue",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Shower Booth",
+        "en-GB": "Shower Booth",
+        "de": "Duschkabine",
+        "es": "Cabina de hidromasaje",
+        "fr": "Cabine de douche",
+        "it": "Box doccia",
+        "nl": "Vierkante douchecabine",
+        "zh-CN": "淋浴间",
+        "zh-TW": "淋浴間",
+        "jp": "シャワーブース",
+        "ko": "샤워 부스"
       }
     }
   },

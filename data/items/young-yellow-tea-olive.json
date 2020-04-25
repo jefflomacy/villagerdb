@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Young Yellow Tea Olive",
+        "en-GB": "Young Yellow Tea Olive",
+        "de": "Gelb-Duftblütenbüschlein",
+        "es": "Olivo oloroso amarillo joven",
+        "fr": "Jeune osmanthus jaune",
+        "it": "Osmanto giallo giovane",
+        "nl": "Jonge gele schijnhulst",
+        "zh-CN": "黄色桂花小树",
+        "zh-TW": "黃色桂花小樹",
+        "jp": "きいろいキンモクセイのわかぎ",
+        "ko": "어린 노란 금목서나무"
+      }
     }
   },
   "category": "Bushes"

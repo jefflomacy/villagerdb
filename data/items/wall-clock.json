@@ -19,6 +19,19 @@
         "black": "Black",
         "red": "Red",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Wall Clock",
+        "en-GB": "Wall Clock",
+        "de": "Wanduhr",
+        "es": "Reloj de oficina",
+        "fr": "Horloge murale",
+        "it": "Orologio da parete",
+        "nl": "Hangklok",
+        "zh-CN": "壁钟",
+        "zh-TW": "壁鐘",
+        "jp": "ウォールクロック",
+        "ko": "벽시계"
       }
     }
   },

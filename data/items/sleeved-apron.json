@@ -20,6 +20,19 @@
         "orange": "Orange",
         "green": "Green",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Sleeved Apron",
+        "en-GB": "Sleeved Apron",
+        "de": "Schutzstulpenschürze",
+        "es": "Delantal con protectores",
+        "fr": "Tablier avec manches",
+        "it": "Grembiule con maniche",
+        "nl": "Spatmouwenschort",
+        "zh-CN": "连袖套围裙",
+        "zh-TW": "圍裙連袖套",
+        "jp": "うでカバーつきエプロン",
+        "ko": "팔토시와 앞치마"
       }
     }
   },

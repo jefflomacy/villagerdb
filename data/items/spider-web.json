@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 100
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Spider Web",
+        "en-GB": "Spider Web",
+        "de": "Spinnennetz",
+        "es": "Telaraña",
+        "fr": "Toile d'araignée",
+        "it": "Ragnatela",
+        "nl": "Spinnenweb",
+        "zh-CN": "蜘蛛网",
+        "zh-TW": "蜘蛛網",
+        "jp": "クモのす",
+        "ko": "거미줄"
+      }
     }
   },
   "category": "Furniture"

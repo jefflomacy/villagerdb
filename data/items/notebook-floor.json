@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 23760
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Notebook Floor"
+      }
     }
   }
 }

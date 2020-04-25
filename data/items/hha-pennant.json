@@ -12,7 +12,16 @@
       "sources": [
         "HHA (20",
         "000 points)"
-      ]
+      ],
+      "name": {
+        "de": "AdsH-Fähnchen",
+        "en-GB": "HHA Pennant",
+        "en-US": "HHA Pennant",
+        "es": "Banderín AAD",
+        "fr": "Fanion de l'AJD",
+        "it": "Gagliardetto ABC",
+        "ja": "アカデミーのペナント"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +31,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 375
+      },
+      "name": {
+        "en-US": "HHA Pennant",
+        "en-GB": "HHA Pennant",
+        "de": "Adsh-Fähnchen",
+        "es": "Banderín AAD",
+        "fr": "Fanion de l'aJD",
+        "it": "Gagliardetto ABC",
+        "nl": "Aww-Vaantje",
+        "zh-CN": "快乐家协会锦旗",
+        "zh-TW": "快樂家協會錦旗",
+        "jp": "アカデミーのペナント",
+        "ko": "아카데미 페넌트"
       }
     }
   }

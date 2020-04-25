@@ -19,6 +19,19 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Flowery-Dot Tights",
+        "en-GB": "Flowery-Dot Tights",
+        "de": "Blümchenstrumpfhose",
+        "es": "Media florecitas",
+        "fr": "Collant à petites fleurs",
+        "it": "Paio di calze a punti floreali",
+        "nl": "Panty met bloemen",
+        "zh-CN": "花朵点点裤袜",
+        "zh-TW": "花朵點點褲襪",
+        "jp": "フラワードットタイツ",
+        "ko": "플라워 도트 타이츠"
       }
     }
   },

@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Bazaar"
+      }
     },
     "nh": {
       "orderable": true,
@@ -35,7 +38,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Bazaar",
+        "en-GB": "K.K. Bazaar",
+        "de": "K.K. Basar",
+        "es": "Tota-Bazar",
+        "fr": "Kéké bohême",
+        "it": "K.K. Bazar",
+        "nl": "K.K. op de bazaar",
+        "zh-CN": "K.K.吉普赛",
+        "zh-TW": "K.K.吉普賽",
+        "jp": "けけロマ",
+        "ko": "K.K.로마",
+        "ru": "Базар К. К."
+      }
     }
   }
 }

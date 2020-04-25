@@ -12,7 +12,10 @@
       "sources": [
         "Nookling stores",
         "Bug Off"
-      ]
+      ],
+      "name": {
+        "en-US": "Net"
+      }
     },
     "nh": {
       "orderable": false,
@@ -34,6 +37,19 @@
         "pink": "Pink",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Net",
+        "en-GB": "Net",
+        "de": "Kescher",
+        "es": "Red",
+        "fr": "Filet",
+        "it": "Retino",
+        "nl": "Net",
+        "zh-CN": "捕虫网",
+        "zh-TW": "捕蟲網",
+        "jp": "あみ",
+        "ko": "잠자리채"
       }
     }
   }

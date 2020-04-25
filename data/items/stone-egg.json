@@ -7,12 +7,28 @@
       "orderable": false,
       "sources": [
         "Bunny Day (breakable rock)"
-      ]
+      ],
+      "name": {
+        "en-US": "Stone Egg"
+      }
     },
     "nh": {
       "sellPrice": {
         "currency": "bells",
         "value": 200
+      },
+      "name": {
+        "zh-CN": "岩石蛋",
+        "de": "Fels-Glücksei's",
+        "en-GB": "Stone Egg",
+        "es": "Huevo rupestre",
+        "fr": "Œuf minéral",
+        "it": "Uovo roccioso",
+        "jp": "いわのたまご",
+        "ko": "바위 달걀",
+        "nl": "Steenei",
+        "zh-TW": "岩石蛋",
+        "en-US": "Stone Egg"
       }
     }
   }

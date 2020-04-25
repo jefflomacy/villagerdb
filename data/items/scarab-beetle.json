@@ -11,7 +11,10 @@
       },
       "sources": [
         "On trees."
-      ]
+      ],
+      "name": {
+        "en-US": "Scarab Beetle"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10000
+      },
+      "name": {
+        "en-US": "Scarab Beetle",
+        "en-GB": "Scarab Beetle",
+        "de": "Goldskarabäus",
+        "es": "Escarabajo oro",
+        "fr": "Scarabée",
+        "it": "Chrysina resplendens",
+        "nl": "Scarabee",
+        "zh-CN": "宝石金龟",
+        "zh-TW": "寶石金龜",
+        "jp": "プラチナコガネ",
+        "ko": "보석풍뎅이"
       }
     }
   }

@@ -22,6 +22,19 @@
         "yellow": "Yellow",
         "pink": "Pink",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Pocket Tee",
+        "en-GB": "Pocket Tee",
+        "de": "Brusttaschenshirt",
+        "es": "Camiseta con bolsillo",
+        "fr": "T-Shirt à poche",
+        "it": "Maglietta con taschino",
+        "nl": "T-Shirt met borstzak",
+        "zh-CN": "口袋T恤",
+        "zh-TW": "口袋T恤",
+        "jp": "ポケットつきＴシャツ",
+        "ko": "주머니 티셔츠"
       }
     }
   },

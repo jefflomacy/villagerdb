@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "希薇亚的海报",
+        "de": "Poster's von Sylvia",
+        "en-GB": "Sylvia's Poster",
+        "es": "Póster de Cándida",
+        "fr": "Poster de Madsi",
+        "it": "Poster di Silvia",
+        "jp": "シルビアのポスター",
+        "ko": "실비아의 포스터",
+        "nl": "Poster van Sylvia",
+        "zh-TW": "希薇亞的海報",
+        "en-US": "Sylvia's Poster"
+      }
     }
   },
   "category": "Photos"

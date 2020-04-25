@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Pappbaum",
+        "en-GB": "Tree Standee",
+        "en-US": "Tree Standee",
+        "es": "Árbol atrezo",
+        "fr": "Arbre en carton",
+        "it": "Sagoma albero",
+        "ja": "ハリボテのき"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -43,6 +52,19 @@
         "summer": "Summer",
         "fall": "Fall",
         "winter": "Winter"
+      },
+      "name": {
+        "en-US": "Tree Standee",
+        "en-GB": "Tree Standee",
+        "de": "Pappbaum",
+        "es": "Árbol de atrezo",
+        "fr": "Arbre en carton",
+        "it": "Sagoma di albero",
+        "nl": "Decoratieboom",
+        "zh-CN": "假树道具",
+        "zh-TW": "假樹道具",
+        "jp": "ハリボテのき",
+        "ko": "연극용 나무"
       }
     }
   }

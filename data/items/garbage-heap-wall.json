@@ -13,6 +13,19 @@
         "empty-can": 2,
         "boot": 2,
         "old-tire": 2
+      },
+      "name": {
+        "en-US": "Garbage-Heap Wall",
+        "en-GB": "Garbage-Heap Wall",
+        "de": "Müllbergtapete",
+        "es": "Pared vertedero",
+        "fr": "Mur dépotoir",
+        "it": "Muro discarica",
+        "nl": "Stortplaatswand",
+        "zh-CN": "垃圾堆墙",
+        "zh-TW": "垃圾堆牆",
+        "jp": "ゴミのやまなかべ",
+        "ko": "쓰레기 더미 벽"
       }
     }
   },

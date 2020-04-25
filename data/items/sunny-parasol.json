@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sunny Parasol"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,7 +36,20 @@
           "currency": "bells",
           "value": 750
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sunny Parasol",
+        "en-GB": "Sunny Parasol",
+        "de": "Sommerschirm",
+        "es": "Paraguas girasoles",
+        "fr": "Parapluie tournesols",
+        "it": "Parasole gioioso",
+        "nl": "Zonnige parasol",
+        "zh-CN": "向日葵雨伞",
+        "zh-TW": "向日葵雨傘",
+        "jp": "ひまわりのかさ",
+        "ko": "해바라기 우산"
+      }
     }
   }
 }

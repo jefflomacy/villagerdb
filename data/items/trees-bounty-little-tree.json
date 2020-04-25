@@ -16,6 +16,19 @@
       "variations": {
         "brown": "Brown",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Tree's Bounty Little Tree",
+        "en-GB": "Tree's Bounty Little Tree",
+        "de": "Baumfrucht-Bäumchen",
+        "es": "Arbolito frutos del bosque",
+        "fr": "Petit sapin fruits des bois",
+        "it": "Alberello frutti dell'albero",
+        "nl": "Herfstfeestboompje",
+        "zh-CN": "小树果树",
+        "zh-TW": "小樹果樹",
+        "jp": "ちいさなきのみのツリー",
+        "ko": "작은 나무 열매 트리"
       }
     }
   },

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "柠檬娜的海报",
+        "de": "Poster's von Feline",
+        "en-GB": "Lolly's Poster",
+        "es": "Póster de Feli",
+        "fr": "Poster de Linette",
+        "it": "Poster di Maty",
+        "jp": "ラムネのポスター",
+        "ko": "사이다의 포스터",
+        "nl": "Poster van Lolly",
+        "zh-TW": "檸檬娜的海報",
+        "en-US": "Lolly's Poster"
+      }
     }
   },
   "category": "Photos"

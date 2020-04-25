@@ -13,7 +13,10 @@
         "Around blue",
         "purple",
         "and black flowers."
-      ]
+      ],
+      "name": {
+        "en-US": "Peacock Butterfly"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +27,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2500
+      },
+      "name": {
+        "en-US": "Peacock Butterfly",
+        "en-GB": "Peacock Butterfly",
+        "de": "Ritterfalter",
+        "es": "Mariposa bianor",
+        "fr": "Papilio bianor",
+        "it": "Farfalla vanessa io",
+        "nl": "Pauwenpage",
+        "zh-CN": "乌鸦凤蝶",
+        "zh-TW": "烏鴉鳳蝶",
+        "jp": "カラスアゲハ",
+        "ko": "제비나비"
       }
     }
   }

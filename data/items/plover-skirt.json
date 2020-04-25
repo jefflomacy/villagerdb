@@ -17,6 +17,19 @@
         "red": "Red",
         "black": "Black",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Plover Skirt",
+        "en-GB": "Plover Skirt",
+        "de": "Symmetrierock",
+        "es": "Falda pata de gallo",
+        "fr": "Jupe pied-de-coq",
+        "it": "Gonna pied de poule",
+        "nl": "Pied-De-Poule rok",
+        "zh-CN": "千鸟格纹短裙",
+        "zh-TW": "千鳥格紋裙",
+        "jp": "ちどりのスカート",
+        "ko": "하운드투스 치마"
       }
     }
   },

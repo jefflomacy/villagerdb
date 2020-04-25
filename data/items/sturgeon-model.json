@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 30000
+      },
+      "name": {
+        "en-US": "Sturgeon Model",
+        "en-GB": "Sturgeon Model",
+        "de": "Störmodell",
+        "es": "Figura de esturión",
+        "fr": "Modèle d'esturgeon",
+        "it": "Replica di storione",
+        "nl": "Modelsteur",
+        "zh-CN": "鲟鱼模型",
+        "zh-TW": "鱘魚模型",
+        "jp": "チョウザメのもけい",
+        "ko": "철갑상어 모형"
       }
     }
   },

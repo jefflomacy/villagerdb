@@ -17,6 +17,19 @@
         "iron-nugget": 8,
         "wood": 2,
         "campfire": 1
+      },
+      "name": {
+        "en-US": "Kettle Bathtub",
+        "en-GB": "Kettle Bathtub",
+        "de": "Kesselbad",
+        "es": "Bañera caldero",
+        "fr": "Baignoire marmite",
+        "it": "Calderone da bagno",
+        "nl": "Ketelbad",
+        "zh-CN": "五右卫门泡澡桶",
+        "zh-TW": "五右衛門泡澡桶",
+        "jp": "ごえもんぶろ",
+        "ko": "가마솥 욕조"
       }
     }
   },

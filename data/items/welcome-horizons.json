@@ -12,7 +12,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Welcome Horizons",
+        "en-GB": "Welcome Horizons",
+        "de": "Neue Horizonte",
+        "es": "Nuevo horizonte",
+        "fr": "Horizons nouveaux",
+        "it": "Nuovi orizzonti",
+        "nl": "Welkome horizon",
+        "zh-CN": "大家集合吧",
+        "zh-TW": "大家集合吧",
+        "jp": "みんなあつまれ",
+        "ko": "모두 모여봐요",
+        "ru": "Светлые горизонты"
+      }
     }
   },
   "category": "Music"

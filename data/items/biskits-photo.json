@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "罗宾的照片",
+        "de": "Foto's von Keks",
+        "en-GB": "Biskit's Photo",
+        "es": "Foto de Amnesio",
+        "fr": "Photo de Crocket",
+        "it": "Foto di Buffetto",
+        "jp": "ロビンのしゃしん",
+        "ko": "로빈의 사진",
+        "nl": "Foto van Biskit",
+        "zh-TW": "羅賓的照片",
+        "en-US": "Biskit's Photo"
       }
     }
   },

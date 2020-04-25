@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 1330
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Citrus Carpet"
+      }
     }
   }
 }

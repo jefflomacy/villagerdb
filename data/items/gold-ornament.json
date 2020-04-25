@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 50
+      },
+      "name": {
+        "zh-CN": "金色装饰品",
+        "de": "Goldschmuck's",
+        "en-GB": "Gold Ornament",
+        "es": "Adorno dorado",
+        "fr": "Boule dorée",
+        "it": "Decorazione dorata",
+        "jp": "きんのオーナメント",
+        "ko": "금 오너먼트",
+        "nl": "Gouden versiering",
+        "zh-TW": "金色裝飾品",
+        "en-US": "Gold Ornament"
       }
     }
   },

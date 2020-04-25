@@ -18,6 +18,19 @@
         "light-blue": "Light blue",
         "purple": "Purple",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Energetic Sweater",
+        "en-GB": "Energetic Sweater",
+        "de": "Energie-Pulli",
+        "es": "Jersey jovial",
+        "fr": "Pull décontracté",
+        "it": "Felpa vivace",
+        "nl": "Energieke trui",
+        "zh-CN": "活力毛衣",
+        "zh-TW": "活力毛衣",
+        "jp": "すこやかなセーター",
+        "ko": "발랄한 스웨터"
       }
     }
   },

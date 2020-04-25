@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Orient-Hose",
+        "en-GB": "Genie Pants",
+        "en-US": "Genie Pants",
+        "es": "Pantalón persa",
+        "fr": "Pantalon persan",
+        "it": "Pantalone persiano",
+        "ja": "ペルシャなズボン"
+      }
     }
   }
 }

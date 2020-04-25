@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Mikroskop",
+        "en-GB": "Microscope",
+        "en-US": "Microscope",
+        "es": "Microscopio",
+        "fr": "Microscope",
+        "it": "Microscopio",
+        "ja": "けんびきょう"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -37,6 +46,19 @@
         "white": "White",
         "silver": "Silver",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Microscope",
+        "en-GB": "Microscope",
+        "de": "Mikroskop",
+        "es": "Microscopio",
+        "fr": "Microscope",
+        "it": "Microscopio",
+        "nl": "Microscoop",
+        "zh-CN": "显微镜",
+        "zh-TW": "顯微鏡",
+        "jp": "けんびきょう",
+        "ko": "현미경"
       }
     }
   }

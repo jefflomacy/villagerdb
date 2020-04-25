@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 360
+      },
+      "name": {
+        "en-US": "Frog Model",
+        "en-GB": "Frog Model",
+        "de": "Froschmodell",
+        "es": "Figura de rana",
+        "fr": "Modèle de grenouille",
+        "it": "Replica di rana",
+        "nl": "Modelkikker",
+        "zh-CN": "青蛙模型",
+        "zh-TW": "青蛙模型",
+        "jp": "カエルのもけい",
+        "ko": "개구리 모형"
       }
     }
   },

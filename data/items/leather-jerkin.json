@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 390
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Leather Jerkin"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -33,7 +36,10 @@
           "currency": "bells",
           "value": 390
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Leather Jerkin"
+      }
     }
   }
 }

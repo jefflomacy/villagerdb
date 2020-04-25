@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "亚美的海报",
+        "de": "Poster's von Monika",
+        "en-GB": "Molly's Poster",
+        "es": "Póster de Deira",
+        "fr": "Poster de Molly",
+        "it": "Poster di Molly",
+        "jp": "カモミのポスター",
+        "ko": "귀오미의 포스터",
+        "nl": "Poster van Molly",
+        "zh-TW": "亞美的海報",
+        "en-US": "Molly's Poster"
+      }
     }
   },
   "category": "Photos"

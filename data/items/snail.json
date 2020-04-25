@@ -11,7 +11,10 @@
       },
       "sources": [
         "On bushes and shrubs (only on rainy days)."
-      ]
+      ],
+      "name": {
+        "en-US": "Snail"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 250
+      },
+      "name": {
+        "en-US": "Snail",
+        "en-GB": "Snail",
+        "de": "Schnecke",
+        "es": "Caracol",
+        "fr": "Escargot",
+        "it": "Chiocciola",
+        "nl": "Slak",
+        "zh-CN": "蜗牛",
+        "zh-TW": "蝸牛",
+        "jp": "カタツムリ",
+        "ko": "달팽이"
       }
     }
   }

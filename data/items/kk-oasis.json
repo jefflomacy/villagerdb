@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Oasis"
+      }
     },
     "nh": {
       "orderable": true,
@@ -35,7 +38,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Oasis",
+        "en-GB": "K.K. Oasis",
+        "de": "K.K. Maharadscha",
+        "es": "Tota-Marajá",
+        "fr": "Maharadjah Kéké",
+        "it": "K.K. Maragià",
+        "nl": "Maharadja K.K.",
+        "zh-CN": "K.K.印度王公",
+        "zh-TW": "K.K.印度王公",
+        "jp": "けけマハラジャ",
+        "ko": "K.K.마하라자",
+        "ru": "Оазис К. К."
+      }
     }
   }
 }

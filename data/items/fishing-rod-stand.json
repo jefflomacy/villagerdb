@@ -22,6 +22,19 @@
         "natural": "Natural",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Fishing-Rod Stand",
+        "en-GB": "Fishing-Rod Stand",
+        "de": "Angelrutenhalter",
+        "es": "Soporte para cañas",
+        "fr": "Présentoir cannes à pêche",
+        "it": "Rastrelliera da pesca",
+        "nl": "Hengelrek",
+        "zh-CN": "钓竿架",
+        "zh-TW": "釣竿架",
+        "jp": "ロッドスタンド",
+        "ko": "낚싯대 스탠드"
       }
     }
   },

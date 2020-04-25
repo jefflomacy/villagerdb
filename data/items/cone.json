@@ -26,6 +26,19 @@
         "green-stripes": "Green stripes",
         "reflective-stripes": "Reflective stripes",
         "caution-stripes": "Caution stripes"
+      },
+      "name": {
+        "en-US": "Cone",
+        "en-GB": "Cone",
+        "de": "Absperrhütchen",
+        "es": "Cono",
+        "fr": "Cône orange",
+        "it": "Cono",
+        "nl": "Verkeerskegel",
+        "zh-CN": "三角锥",
+        "zh-TW": "三角錐",
+        "jp": "パイロン",
+        "ko": "칼라콘"
       }
     }
   },

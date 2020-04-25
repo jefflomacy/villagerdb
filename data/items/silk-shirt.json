@@ -19,6 +19,19 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Silk Shirt",
+        "en-GB": "Silk Shirt",
+        "de": "Asia-Hemd",
+        "es": "Blusa de seda",
+        "fr": "Veste chinoise",
+        "it": "Giacca di seta",
+        "nl": "Zijden shirt",
+        "zh-CN": "中国风上衣",
+        "zh-TW": "中華風衣服",
+        "jp": "チャイナふく",
+        "ko": "중국풍 옷"
       }
     }
   },

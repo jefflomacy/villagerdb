@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Stringfish"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 15000
+      },
+      "name": {
+        "en-US": "Stringfish",
+        "en-GB": "Stringfish",
+        "de": "Huchen",
+        "es": "Taimén",
+        "fr": "Dai yu",
+        "it": "Taimen",
+        "nl": "Donauzalm",
+        "zh-CN": "远东哲罗鱼",
+        "zh-TW": "遠東哲羅魚",
+        "jp": "イトウ",
+        "ko": "일본연어"
       }
     }
   }

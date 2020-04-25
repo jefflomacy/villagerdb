@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Peach Stripes Rug",
+        "en-GB": "Peach Stripes Rug",
+        "de": "Rosa-Streifenteppich",
+        "es": "Alfombra rayas rosa",
+        "fr": "Tapis à rayures roses",
+        "it": "Tappeto a strisce pesca",
+        "nl": "Roze gestreepte tapijt",
+        "zh-CN": "桃红色粗条纹地毯",
+        "zh-TW": "桃紅色粗橫紋地毯",
+        "jp": "ももいろボーダーのラグ",
+        "ko": "분홍 줄무늬 러그"
+      }
     }
   },
   "category": "Flooring"

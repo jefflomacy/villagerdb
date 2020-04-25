@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 4200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Iguanodon Model"
+      }
     }
   }
 }

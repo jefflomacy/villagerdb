@@ -25,7 +25,16 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "de": "Silberrüstungshose",
+        "en-GB": "Armor Pants",
+        "en-US": "Armor Pants",
+        "es": "Greba",
+        "fr": "Pantalon de plates",
+        "it": "Pantalone armatura",
+        "ja": "てつのすねあて"
+      }
     }
   }
 }

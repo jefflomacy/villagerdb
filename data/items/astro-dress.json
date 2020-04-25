@@ -17,6 +17,19 @@
         "blue": "Blue",
         "green": "Green",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Astro Dress",
+        "en-GB": "Astro Dress",
+        "de": "Astro-Kleid",
+        "es": "Vestido corto futurista",
+        "fr": "Robe astro",
+        "it": "Vestito futuristico",
+        "nl": "Astrojurk",
+        "zh-CN": "未来感连身裙",
+        "zh-TW": "太空連身裙",
+        "jp": "スペースワンピース",
+        "ko": "우주 원피스"
       }
     }
   },

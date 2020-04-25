@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1240
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Brown Botanical-Tile Wall",
+        "en-GB": "Brown Botanical-Tile Wall",
+        "de": "Braun-Relieffliesenwand",
+        "es": "Pared cerámica marrón",
+        "fr": "Mur botanique brun",
+        "it": "Muro bassorilievo marrone",
+        "nl": "Bruine patroontegelwand",
+        "zh-CN": "棕色植物图案砖墙",
+        "zh-TW": "棕色植物圖案磚牆",
+        "jp": "ブラウンボタニカルタイルのかべ",
+        "ko": "브라운 보태니컬 타일 벽"
+      }
     }
   },
   "category": "Wallpaper"

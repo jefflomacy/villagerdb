@@ -15,6 +15,19 @@
       ],
       "variations": {
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Star Head",
+        "en-GB": "Star Head",
+        "de": "Sternenkapuze",
+        "es": "Casco estrella",
+        "fr": "Cagoule étoile",
+        "it": "Cappuccio stella",
+        "nl": "Sterrenkop",
+        "zh-CN": "星星头套",
+        "zh-TW": "星星頭套",
+        "jp": "おほしさまのあたま",
+        "ko": "별님 머리"
       }
     }
   },

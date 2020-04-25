@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Kitsch-Uhr",
+        "en-GB": "Kitschy Clock",
+        "en-US": "Kitschy Clock",
+        "es": "Reloj ornamental",
+        "fr": "Horloge kitsch",
+        "it": "Orologio kitsch",
+        "ja": "アメリカンクロック"
+      }
     }
   }
 }

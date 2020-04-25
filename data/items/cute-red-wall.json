@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1880
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Cute Red Wall",
+        "en-GB": "Cute Red Wall",
+        "de": "Rot-Niedlichwand",
+        "es": "Pared cuqui roja",
+        "fr": "Mur sobre cœurs rouge",
+        "it": "Muro grazioso rosso",
+        "nl": "Schattige rode wand",
+        "zh-CN": "红色可爱墙",
+        "zh-TW": "紅色可愛牆",
+        "jp": "あかいキュートなかべ",
+        "ko": "레드 큐트 벽"
+      }
     }
   },
   "category": "Wallpaper"

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Läuferjacke",
+        "en-GB": "Blue Track Jacket",
+        "en-US": "Blue Track Jacket",
+        "es": "Sudadera sport azul",
+        "fr": "Veste survêt bleue",
+        "it": "Maglia tuta blu",
+        "ja": "あおジャージ"
+      }
     }
   }
 }

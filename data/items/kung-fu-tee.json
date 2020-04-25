@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Kung-Fu-Hemd",
+        "en-GB": "Kung-Fu Tee",
+        "en-US": "Kung-Fu Tee",
+        "es": "Camiseta kung-fu",
+        "fr": "T-shirt kung-fu",
+        "it": "Maglietta kung-fu",
+        "ja": "カンフーなふく"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -42,6 +51,19 @@
         "light-blue": "Light blue",
         "yellow": "Yellow",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Kung-Fu Tee",
+        "en-GB": "Kung-Fu Tee",
+        "de": "Kung-Fu-Hemd",
+        "es": "Camiseta kung-fu",
+        "fr": "Veste kung-fu",
+        "it": "Maglietta da kung fu",
+        "nl": "Kungfushirt",
+        "zh-CN": "功夫衫",
+        "zh-TW": "功夫衣服",
+        "jp": "カンフーなふく",
+        "ko": "쿵푸 옷"
       }
     }
   }

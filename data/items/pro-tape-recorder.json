@@ -21,6 +21,19 @@
         "gray": "Gray",
         "brown": "Brown",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Pro Tape Recorder",
+        "en-GB": "Pro Tape Recorder",
+        "de": "Profi-Tonbandgerät",
+        "es": "Magnetófono profesional",
+        "fr": "Magnétophone à bobines",
+        "it": "Registratore a bobine",
+        "nl": "Bandrecorder",
+        "zh-CN": "盘式录音机",
+        "zh-TW": "盤式錄音機",
+        "jp": "オープンリールデッキ",
+        "ko": "오픈릴 녹음기"
       }
     }
   },

@@ -20,6 +20,19 @@
         "orange": "Orange",
         "purple": "Purple",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Frilly Skirt",
+        "en-GB": "Frilly Skirt",
+        "de": "Volantrock",
+        "es": "Falda corta con volantes",
+        "fr": "Jupe volantée",
+        "it": "Gonna vezzosa",
+        "nl": "Ruchesrokje",
+        "zh-CN": "蛋糕蓬蓬裙",
+        "zh-TW": "蓬蓬裙",
+        "jp": "フリルスカート",
+        "ko": "프릴 스커트"
       }
     }
   },

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Schokopulli",
+        "en-GB": "Tan Dogtooth Shirt",
+        "en-US": "Tan Dogtooth Shirt",
+        "es": "Jersey sabueso",
+        "fr": "Pull pied coq brun",
+        "it": "Maglia zampetta",
+        "ja": "セピアなちどりごうしL"
+      }
     }
   }
 }

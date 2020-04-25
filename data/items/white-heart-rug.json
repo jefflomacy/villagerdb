@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White Heart Rug",
+        "en-GB": "White Heart Rug",
+        "de": "Weiß-Herzteppich",
+        "es": "Alfombra amor blanca",
+        "fr": "Tapis amour blanc",
+        "it": "Tappeto amore bianco",
+        "nl": "Witte hartjestapijt",
+        "zh-CN": "白色爱心地毯",
+        "zh-TW": "白色愛心地毯",
+        "jp": "ホワイトハートのラグ",
+        "ko": "화이트 하트 러그"
+      }
     }
   },
   "category": "Flooring"

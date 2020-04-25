@@ -14,7 +14,16 @@
       },
       "sources": [
         "Brewster (work at The Roost)"
-      ]
+      ],
+      "name": {
+        "de": "Espressokanne",
+        "en-GB": "Espresso Maker",
+        "en-US": "Espresso Maker",
+        "es": "Cafetera moka",
+        "fr": "Machine à café",
+        "it": "Moka",
+        "ja": "エスプレッソマシーン"
+      }
     },
     "nh": {
       "orderable": true,
@@ -39,6 +48,19 @@
         "green": "Green",
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Espresso Maker",
+        "en-GB": "Espresso Maker",
+        "de": "Espressomaschine",
+        "es": "Máquina de café",
+        "fr": "Machine à café",
+        "it": "Macchina del caffè",
+        "nl": "Espressoapparaat",
+        "zh-CN": "意式咖啡机",
+        "zh-TW": "義式咖啡機",
+        "jp": "エスプレッソマシン",
+        "ko": "에스프레소 머신"
       }
     }
   }

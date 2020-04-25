@@ -21,6 +21,19 @@
       },
       "variations": {
         "colorful": "Colorful"
+      },
+      "name": {
+        "en-US": "Lily Crown",
+        "en-GB": "Lily Crown",
+        "de": "Lilienkrone",
+        "es": "Guirnalda lirio",
+        "fr": "Coiffe lys",
+        "it": "Corona di gigli",
+        "nl": "Leliekroon",
+        "zh-CN": "百合花冠",
+        "zh-TW": "百合花冠",
+        "jp": "ユリのかんむり",
+        "ko": "백합 화관"
       }
     }
   },

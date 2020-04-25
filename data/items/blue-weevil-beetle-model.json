@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2400
+      },
+      "name": {
+        "en-US": "Blue Weevil Beetle Model",
+        "en-GB": "Blue Weevil Beetle Model",
+        "de": "Blaurüsselkäfermodell",
+        "es": "Figura de gorgojo azul",
+        "fr": "Modèle de charançon bleu",
+        "it": "Repl. coleottero Schoenherr",
+        "nl": "Model-Blauwe-Snuitkever",
+        "zh-CN": "宝石象鼻虫模型",
+        "zh-TW": "寶石象鼻蟲模型",
+        "jp": "ホウセキゾウムシのもけい",
+        "ko": "유포루스바구미 모형"
       }
     }
   },

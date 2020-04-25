@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "赵奇的照片",
+        "de": "Foto's von Pierre",
+        "en-GB": "Jacques's Photo",
+        "es": "Foto de Gorrelmo",
+        "fr": "Photo de Jacky",
+        "it": "Foto di Zampiero",
+        "jp": "ジョッキーのしゃしん",
+        "ko": "쪼끼의 사진",
+        "nl": "Foto van Jacques",
+        "zh-TW": "趙奇的照片",
+        "en-US": "Jacques's Photo"
       }
     }
   },

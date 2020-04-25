@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "草斑娜的照片",
+        "de": "Foto's von Zara",
+        "en-GB": "Savannah's Photo",
+        "es": "Foto de Sabana",
+        "fr": "Photo de Savana",
+        "it": "Foto di Savannah",
+        "jp": "サバンナのしゃしん",
+        "ko": "사반나의 사진",
+        "nl": "Foto van Savannah",
+        "zh-TW": "草斑娜的照片",
+        "en-US": "Savannah's Photo"
       }
     }
   },

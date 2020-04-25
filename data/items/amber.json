@@ -11,7 +11,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Bernstein",
+        "en-GB": "Amber",
+        "en-US": "Amber",
+        "es": "Ámbar",
+        "fr": "Ambre",
+        "it": "Ambra",
+        "ja": "コハク"
+      }
     },
     "nh": {
       "orderable": false,
@@ -21,6 +30,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1200
+      },
+      "name": {
+        "en-US": "Amber",
+        "en-GB": "Amber",
+        "de": "Bernstein",
+        "es": "Ámbar",
+        "fr": "Ambre",
+        "it": "Ambra",
+        "nl": "Barnsteen",
+        "zh-CN": "琥珀",
+        "zh-TW": "琥珀",
+        "jp": "コハク",
+        "ko": "호박"
       }
     }
   }

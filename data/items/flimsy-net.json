@@ -21,6 +21,19 @@
       ],
       "recipe": {
         "tree-branch": 5
+      },
+      "name": {
+        "en-US": "Flimsy Net",
+        "en-GB": "Flimsy Net",
+        "de": "Wackelkescher",
+        "es": "Red endeble",
+        "fr": "Filet rudimentaire",
+        "it": "Retino fragile",
+        "nl": "Breekbare net",
+        "zh-CN": "简陋捕虫网",
+        "zh-TW": "簡陋捕蟲網",
+        "jp": "ショボいあみ",
+        "ko": "엉성한 잠자리채"
       }
     }
   }

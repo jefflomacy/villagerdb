@@ -22,6 +22,19 @@
         "yellow-red": "Yellow & red",
         "navy-gray": "Navy & gray",
         "light-blue-black": "Light blue & black"
+      },
+      "name": {
+        "en-US": "Thick-Stripes Shirt",
+        "en-GB": "Thick-Stripes Shirt",
+        "de": "Langarm-Polohemd",
+        "es": "Jersey rayas gruesas",
+        "fr": "Polo à larges rayures",
+        "it": "Maglietta a righe spesse",
+        "nl": "Rugbyshirt",
+        "zh-CN": "橄榄球衫",
+        "zh-TW": "橄欖球衫",
+        "jp": "ラガーシャツ",
+        "ko": "럭비 셔츠"
       }
     }
   },

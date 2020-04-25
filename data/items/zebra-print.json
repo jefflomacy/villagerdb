@@ -7,13 +7,19 @@
       "orderable": false,
       "sources": [
         "Gracie"
-      ]
+      ],
+      "name": {
+        "en-US": "Zebra Print"
+      }
     },
     "afe+": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ]
+      ],
+      "name": {
+        "en-US": "Zebra Print"
+      }
     }
   }
 }

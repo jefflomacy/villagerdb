@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "de": "Mohair-Shirt",
+        "en-GB": "Natty Tee",
+        "en-US": "Natty Tee",
+        "es": "Camiseta paseo rosa",
+        "fr": "T-shirt filet",
+        "it": "Maglietta di classe",
+        "ja": "ピンクツイードのふく"
+      }
     }
   }
 }

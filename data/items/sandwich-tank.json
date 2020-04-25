@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 6400
         }
-      ]
+      ],
+      "name": {
+        "de": "Sandwich-Top",
+        "en-GB": "Sandwich Tank",
+        "en-US": "Sandwich Tank",
+        "es": "Top bocata",
+        "fr": "Débardeur sandwich",
+        "it": "Canotta panino",
+        "ja": "ミックスサンドなふく"
+      }
     }
   }
 }

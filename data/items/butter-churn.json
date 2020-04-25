@@ -15,6 +15,19 @@
       "variations": {
         "dark-wood": "Dark wood",
         "natural-wood": "Natural wood"
+      },
+      "name": {
+        "en-US": "Butter Churn",
+        "en-GB": "Butter Churn",
+        "de": "Butterfass",
+        "es": "Mantequera",
+        "fr": "Baratte",
+        "it": "Zangola",
+        "nl": "Karnton",
+        "zh-CN": "奶油搅拌器",
+        "zh-TW": "奶油攪拌器",
+        "jp": "バターかくはんき",
+        "ko": "버터 교반기"
       }
     }
   },

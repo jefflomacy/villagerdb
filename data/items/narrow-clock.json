@@ -18,7 +18,10 @@
           "currency": "bells",
           "value": 23760
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Narrow Clock"
+      }
     }
   }
 }

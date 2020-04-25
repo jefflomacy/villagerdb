@@ -15,7 +15,16 @@
       },
       "sources": [
         "Fortune cookie #18"
-      ]
+      ],
+      "name": {
+        "de": "Münze",
+        "en-GB": "Coin",
+        "en-US": "Coin",
+        "es": "Moneda",
+        "fr": "Pièce",
+        "it": "Moneta",
+        "ja": "コイン"
+      }
     }
   }
 }

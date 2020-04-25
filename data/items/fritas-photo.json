@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "温蒂的照片",
+        "de": "Foto's von Martina",
+        "en-GB": "Frita's Photo",
+        "es": "Foto de Ovinia",
+        "fr": "Photo de Clarabêl",
+        "it": "Foto di Landa",
+        "jp": "ウェンディのしゃしん",
+        "ko": "웬디의 사진",
+        "nl": "Foto van Frita",
+        "zh-TW": "溫蒂的照片",
+        "en-US": "Frita's Photo"
       }
     }
   },

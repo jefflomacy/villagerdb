@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Krebs-Tisch",
+        "en-GB": "Cancer Table",
+        "en-US": "Cancer Table",
+        "es": "Mesa Cáncer",
+        "fr": "Table Cancer",
+        "it": "Tavolo Cancro",
+        "ja": "キャンサーのテーブル"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -36,7 +45,20 @@
           "currency": "bells",
           "value": 87900
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Cancer Table",
+        "en-GB": "Cancer Table",
+        "de": "Krebs-Tisch",
+        "es": "Mesa Cáncer",
+        "fr": "Table Cancer",
+        "it": "Tavolo Cancro",
+        "nl": "Kreeft-Tafel",
+        "zh-CN": "巨蟹座桌子",
+        "zh-TW": "巨蟹座桌子",
+        "jp": "キャンサーのテーブル",
+        "ko": "게자리 테이블"
+      }
     }
   }
 }

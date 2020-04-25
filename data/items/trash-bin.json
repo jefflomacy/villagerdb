@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 400
         }
-      ]
+      ],
+      "name": {
+        "de": "Mülleimer",
+        "en-GB": "Trash Bin",
+        "en-US": "Trash Bin",
+        "es": "Papelera con tapa",
+        "fr": "Boîte à ordures",
+        "it": "Pattumiera",
+        "ja": "ごみばこ"
+      }
     }
   }
 }

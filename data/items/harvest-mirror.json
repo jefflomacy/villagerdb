@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 3336
         }
-      ]
+      ],
+      "name": {
+        "de": "Herbstspiegel",
+        "en-GB": "Harvest Mirror",
+        "en-US": "Harvest Mirror",
+        "es": "Tocador pavo",
+        "fr": "Coiffeuse dindon",
+        "it": "Specchio autunno",
+        "ja": "ハーベストドレッサー"
+      }
     }
   }
 }

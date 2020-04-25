@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿龙的照片",
+        "de": "Foto's von Frederik",
+        "en-GB": "Drago's Photo",
+        "es": "Foto de Dragonio",
+        "fr": "Photo de Drago",
+        "it": "Foto di Dragonio",
+        "jp": "タツオのしゃしん",
+        "ko": "용남이의 사진",
+        "nl": "Foto van Drago",
+        "zh-TW": "阿龍的照片",
+        "en-US": "Drago's Photo"
       }
     }
   },

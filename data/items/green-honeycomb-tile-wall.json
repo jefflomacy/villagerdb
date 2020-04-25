@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1680
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Green Honeycomb-Tile Wall",
+        "en-GB": "Green Honeycomb-Tile Wall",
+        "de": "Grün-Wabenfliesenwand",
+        "es": "Pared panal verde",
+        "fr": "Mur carrelage vert",
+        "it": "Muro esagoni verde",
+        "nl": "Groene bijenraattegelwand",
+        "zh-CN": "绿色六角砖墙",
+        "zh-TW": "綠色六角磚牆",
+        "jp": "みどりのハニカムタイルのかべ",
+        "ko": "초록 육각 타일 벽"
+      }
     }
   },
   "category": "Wallpaper"

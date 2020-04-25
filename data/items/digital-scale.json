@@ -53,6 +53,19 @@
         "brown-polka-dots": "Brown / Polka dots",
         "brown-black-stripes": "Brown / Black stripes",
         "brown-wood": "Brown / Wood"
+      },
+      "name": {
+        "en-US": "Digital Scale",
+        "en-GB": "Digital Scale",
+        "de": "Personenwaage",
+        "es": "Báscula digital",
+        "fr": "Balance électronique",
+        "it": "Bilancia digitale",
+        "nl": "Digitale weegschaal",
+        "zh-CN": "体重计",
+        "zh-TW": "體重計",
+        "jp": "たいじゅうそくていき",
+        "ko": "체중계"
       }
     }
   },

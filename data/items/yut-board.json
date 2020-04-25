@@ -15,7 +15,16 @@
       },
       "sources": [
         "Lunar New Year's Day (Isabelle -- KOR only)"
-      ]
+      ],
+      "name": {
+        "de": "Yut-Spiel",
+        "en-GB": "Yut Board",
+        "en-US": "Yut Board",
+        "es": "Tablero de yut",
+        "fr": "Yut",
+        "it": "Yut",
+        "ja": "ユンノリセット"
+      }
     }
   }
 }

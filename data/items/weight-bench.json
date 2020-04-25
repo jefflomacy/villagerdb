@@ -18,7 +18,16 @@
           "currency": "bells",
           "value": 3592
         }
-      ]
+      ],
+      "name": {
+        "de": "Hantelbank",
+        "en-GB": "Weight Bench",
+        "en-US": "Weight Bench",
+        "es": "Banco de pesas",
+        "fr": "Banc de muscu",
+        "it": "Panca con pesi",
+        "ja": "プレスベンチ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -30,7 +39,20 @@
           "currency": "bells",
           "value": 5400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Weight Bench",
+        "en-GB": "Weight Bench",
+        "de": "Hantelbank",
+        "es": "Banco de pesas",
+        "fr": "Banc de muscu",
+        "it": "Panca con pesi",
+        "nl": "Drukbank",
+        "zh-CN": "举重床",
+        "zh-TW": "舉重椅",
+        "jp": "プレスベンチ",
+        "ko": "벤치프레스"
+      }
     }
   }
 }

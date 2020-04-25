@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 960
         }
-      ]
+      ],
+      "name": {
+        "de": "Soldatenhelm",
+        "en-GB": "Combat Helmet",
+        "en-US": "Combat Helmet",
+        "es": "Casco de soldado",
+        "fr": "Casque lourd",
+        "it": "Elmetto",
+        "ja": "コンバットヘルメット"
+      }
     },
     "nh": {
       "orderable": true,
@@ -41,6 +50,19 @@
       "variations": {
         "avocado": "Avocado",
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Combat Helmet",
+        "en-GB": "Combat Helmet",
+        "de": "Soldatenhelm",
+        "es": "Casco de soldado",
+        "fr": "Casque lourd",
+        "it": "Elmetto",
+        "nl": "Gevechtshelm",
+        "zh-CN": "钢盔",
+        "zh-TW": "鋼盔",
+        "jp": "コンバットヘルメット",
+        "ko": "철모"
       }
     }
   }

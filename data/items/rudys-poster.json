@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "茶茶的海报",
+        "de": "Poster's von Heinz",
+        "en-GB": "Rudy's Poster",
+        "es": "Póster de Rufino",
+        "fr": "Poster de Rougepif",
+        "it": "Poster di Gomitolo",
+        "jp": "チャスのポスター",
+        "ko": "찰스의 포스터",
+        "nl": "Poster van Rudy",
+        "zh-TW": "茶茶的海報",
+        "en-US": "Rudy's Poster"
+      }
     }
   },
   "category": "Photos"

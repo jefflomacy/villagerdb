@@ -22,6 +22,19 @@
         "light-green": "Light green",
         "pink": "Pink",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Ornament Wreath",
+        "en-GB": "Ornament Wreath",
+        "de": "Dekotürkranz",
+        "es": "Corona bolas decorativas",
+        "fr": "Couronne décorative",
+        "it": "Ghirlanda con palline",
+        "nl": "Feestelijke krans",
+        "zh-CN": "装饰花环",
+        "zh-TW": "裝飾花圈",
+        "jp": "オーナメントのリース",
+        "ko": "오너먼트 리스"
       }
     }
   },

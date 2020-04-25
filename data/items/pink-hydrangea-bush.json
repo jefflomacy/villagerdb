@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 560
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pink-Hydrangea Bush",
+        "en-GB": "Pink-Hydrangea Bush",
+        "de": "Abendhortensie",
+        "es": "Hortensia rosa adulta",
+        "fr": "Buisson d'hortensia rose",
+        "it": "Ortensia viola adulta",
+        "nl": "Roze hortensia",
+        "zh-CN": "粉红绣球花树",
+        "zh-TW": "粉紅繡球花樹",
+        "jp": "ピンクのアジサイのき",
+        "ko": "핑크색 수국나무"
+      }
     }
   },
   "category": "Bushes"

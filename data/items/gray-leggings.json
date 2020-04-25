@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 240
         }
-      ]
+      ],
+      "name": {
+        "de": "Baumwollgamasche",
+        "en-GB": "Gray Leggings",
+        "en-US": "Gray Leggings",
+        "es": "Legging gris",
+        "fr": "Legging gris",
+        "it": "Paio leggings grigi",
+        "ja": "グレーのレギンス"
+      }
     }
   }
 }

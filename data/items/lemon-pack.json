@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Lemon Pack"
+      }
     }
   }
 }

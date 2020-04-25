@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "梦美的海报",
+        "de": "Poster's von Serenada",
+        "en-GB": "Luna's Poster",
+        "es": "Póster de Alakama",
+        "fr": "Poster de Serena",
+        "it": "Poster di Sonia",
+        "jp": "ゆめみのポスター",
+        "ko": "몽셰르의 포스터",
+        "nl": "Poster van Luna",
+        "zh-TW": "夢美的海報",
+        "en-US": "Luna's Poster"
+      }
     }
   },
   "category": "Photos"

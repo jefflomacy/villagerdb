@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Tafelhälfte (links)",
+        "en-GB": "Left Platform",
+        "en-US": "Left Platform",
+        "es": "Tarima izquierda",
+        "fr": "Grand tableau gauche",
+        "it": "Lavagna sinistra",
+        "ja": "きょうだんのひだり"
+      }
     }
   }
 }

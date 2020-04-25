@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 500
+      },
+      "name": {
+        "zh-CN": "天蝎座碎片",
+        "de": "Skorpion-Splitter's",
+        "en-GB": "Scorpius Fragment",
+        "es": "Fragmento de Escorpio",
+        "fr": "Fragment de Scorpion",
+        "it": "Frammento di Scorpione",
+        "jp": "さそりざのかけら",
+        "ko": "전갈자리 조각",
+        "nl": "Schorpioenfragment",
+        "zh-TW": "天蠍座碎片",
+        "en-US": "Scorpius Fragment"
       }
     }
   },

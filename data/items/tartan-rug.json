@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 1820
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Tartan Rug"
+      }
     }
   }
 }

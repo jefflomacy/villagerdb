@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "绵绵的海报",
+        "de": "Poster's von Dolly",
+        "en-GB": "Vesta's Poster",
+        "es": "Póster de Vesta",
+        "fr": "Poster d'hélaine",
+        "it": "Poster di Lanella",
+        "jp": "メリヤスのポスター",
+        "ko": "메리어스의 포스터",
+        "nl": "Poster van Vesta",
+        "zh-TW": "綿綿的海報",
+        "en-US": "Vesta's Poster"
+      }
     }
   },
   "category": "Photos"

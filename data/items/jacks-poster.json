@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "南瓜王的海报",
+        "de": "Poster's von Jakob",
+        "en-GB": "Jack's Poster",
+        "es": "Póster de Soponcio",
+        "fr": "Poster de Jacqu'o",
+        "it": "Poster di Fifonio",
+        "jp": "パンプキングのポスター",
+        "ko": "펌킹의 포스터",
+        "nl": "Poster van Jack",
+        "zh-TW": "南瓜王的海報",
+        "en-US": "Jack's Poster"
+      }
     }
   },
   "category": "Photos"

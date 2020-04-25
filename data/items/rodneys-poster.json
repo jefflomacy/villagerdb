@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "米米的海报",
+        "de": "Poster's von Reinhold",
+        "en-GB": "Rodney's Poster",
+        "es": "Póster de Chusquis",
+        "fr": "Poster de Chico",
+        "it": "Poster di Rosikkio",
+        "jp": "ジミーのポスター",
+        "ko": "지미의 포스터",
+        "nl": "Poster van Rodney",
+        "zh-TW": "米米的海報",
+        "en-US": "Rodney's Poster"
+      }
     }
   },
   "category": "Photos"

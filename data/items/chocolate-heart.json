@@ -7,7 +7,10 @@
       "orderable": false,
       "sources": [
         "Valentine's Day (Letter from villager with maximum friendship level)"
-      ]
+      ],
+      "name": {
+        "en-US": "Chocolate Heart"
+      }
     }
   }
 }

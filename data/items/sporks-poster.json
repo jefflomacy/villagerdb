@@ -15,7 +15,10 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Spork's Poster"
+      }
     }
   },
   "category": "Photos"

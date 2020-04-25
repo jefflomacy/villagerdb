@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Schwarzrock",
+        "en-GB": "Black Formal Skirt",
+        "en-US": "Black Formal Skirt",
+        "es": "Falda lino negra",
+        "fr": "Jupe chic noire",
+        "it": "Gonna formale nera",
+        "ja": "くろのスカート"
+      }
     }
   }
 }

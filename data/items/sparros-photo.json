@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "周之翔的照片",
+        "de": "Foto's von Nestor",
+        "en-GB": "Sparro's Photo",
+        "es": "Foto de Jaime",
+        "fr": "Photo de Darius",
+        "it": "Foto di Piumardo",
+        "jp": "ちゅんのすけのしゃしん",
+        "ko": "춘섭의 사진",
+        "nl": "Foto van Sparro",
+        "zh-TW": "周之翔的照片",
+        "en-US": "Sparro's Photo"
       }
     }
   },

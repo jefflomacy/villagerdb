@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 1120
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mod Wall"
+      }
     },
     "nh": {
       "orderable": true,
@@ -36,7 +39,20 @@
           "currency": "bells",
           "value": 1220
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mod Wall",
+        "en-GB": "Mod Wall",
+        "de": "Modetapete",
+        "es": "Pared psicodelia",
+        "fr": "Mur psyché",
+        "it": "Muro optical",
+        "nl": "Psychedelische wand",
+        "zh-CN": "引人入胜墙",
+        "zh-TW": "引人入勝牆",
+        "jp": "キャッチーなかべ",
+        "ko": "장난기 넘치는 벽지"
+      }
     }
   }
 }

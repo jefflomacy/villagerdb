@@ -24,7 +24,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Office Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -36,7 +39,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Office Wall",
+        "en-GB": "Office Wall",
+        "de": "Fenstertapete",
+        "es": "Pared oficina",
+        "fr": "Mur pro",
+        "it": "Muro ufficio",
+        "nl": "Kantoorwand",
+        "zh-CN": "办公室墙",
+        "zh-TW": "辦公室牆",
+        "jp": "オフィスのかべ",
+        "ko": "오피스 벽"
+      }
     }
   }
 }

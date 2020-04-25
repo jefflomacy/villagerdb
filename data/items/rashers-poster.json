@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "古烈的海报",
+        "de": "Poster's von Ede",
+        "en-GB": "Rasher's Poster",
+        "es": "Póster de Curtis",
+        "fr": "Poster de Salami",
+        "it": "Poster di Broncio",
+        "jp": "グレオのポスター",
+        "ko": "글레이의 포스터",
+        "nl": "Poster van Rasher",
+        "zh-TW": "古烈的海報",
+        "en-US": "Rasher's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -12,6 +12,19 @@
       "recipe": {
         "clump-of-weeds": 10,
         "clay": 10
+      },
+      "name": {
+        "en-US": "Jungle Flooring",
+        "en-GB": "Jungle Flooring",
+        "de": "Dschungelboden",
+        "es": "Suelo jungla",
+        "fr": "Sol jungle",
+        "it": "Pavimento giungla",
+        "nl": "Junglevloer",
+        "zh-CN": "丛林地板",
+        "zh-TW": "叢林地板",
+        "jp": "ジャングルのゆか",
+        "ko": "정글 바닥"
       }
     }
   },

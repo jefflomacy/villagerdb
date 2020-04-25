@@ -23,7 +23,10 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Princess Dress"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -45,6 +48,19 @@
         "mint": "Mint",
         "orange": "Orange",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Princess Dress",
+        "en-GB": "Princess Dress",
+        "de": "Prinzessinnenkleid",
+        "es": "Vestido princesa",
+        "fr": "Robe de princesse",
+        "it": "Vestito da principessa",
+        "nl": "Prinsessenjurk",
+        "zh-CN": "公主裙",
+        "zh-TW": "公主服",
+        "jp": "プリンセスなふく",
+        "ko": "공주풍 옷"
       }
     }
   }

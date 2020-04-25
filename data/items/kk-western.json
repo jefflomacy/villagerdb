@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Western"
+      }
     },
     "nh": {
       "orderable": true,
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Western",
+        "en-GB": "K.K. Western",
+        "de": "K.K. Western",
+        "es": "Tota-Oeste",
+        "fr": "Far West Kéké",
+        "it": "K.K. Western",
+        "nl": "K.K.-Western",
+        "zh-CN": "K.K.西部",
+        "zh-TW": "K.K.西部",
+        "jp": "けけウェスタン",
+        "ko": "K.K.웨스턴",
+        "ru": "Вестерн К. К."
+      }
     }
   }
 }

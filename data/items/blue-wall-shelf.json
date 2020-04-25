@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "de": "Azurwandregal",
+        "en-GB": "Blue Wall Shelf",
+        "en-US": "Blue Wall Shelf",
+        "es": "Estante pared azul",
+        "fr": "étagère mur bleue",
+        "it": "Mensola blu",
+        "ja": "あおいウォールシェルフ"
+      }
     }
   }
 }

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 240
         }
-      ]
+      ],
+      "name": {
+        "de": "Jungen-Pyjamahose",
+        "en-GB": "Blue Pj Bottoms",
+        "en-US": "Blue Pj Bottoms",
+        "es": "Pantalón pijama azul",
+        "fr": "Pantalon pyj. bleu",
+        "it": "Pantal. pigiama blu",
+        "ja": "あおパジャマズボン"
+      }
     }
   }
 }

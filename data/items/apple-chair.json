@@ -16,6 +16,19 @@
       "variations": {
         "red-apple": "Red apple",
         "green-apple": "Green apple"
+      },
+      "name": {
+        "en-US": "Apple Chair",
+        "en-GB": "Apple Chair",
+        "de": "Apfelstuhl",
+        "es": "Silla manzana",
+        "fr": "Chaise pomme",
+        "it": "Sedia mela",
+        "nl": "Appelstoel",
+        "zh-CN": "苹果椅",
+        "zh-TW": "蘋果椅",
+        "jp": "リンゴのチェア",
+        "ko": "사과 체어"
       }
     }
   },

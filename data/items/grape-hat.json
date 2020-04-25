@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "de": "Traubenhut",
+        "en-GB": "Grape Hat",
+        "en-US": "Grape Hat",
+        "es": "Gorro uva",
+        "fr": "Chapeau raisin",
+        "it": "Cappello uva",
+        "ja": "ぶどうのぼうし"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -39,6 +48,19 @@
       ],
       "variations": {
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Grape Hat",
+        "en-GB": "Grape Hat",
+        "de": "Traubenhut",
+        "es": "Gorro uva",
+        "fr": "Chapeau raisin",
+        "it": "Cappello uva",
+        "nl": "Druivenmuts",
+        "zh-CN": "葡萄帽子",
+        "zh-TW": "葡萄帽子",
+        "jp": "ぶどうのぼうし",
+        "ko": "포도 모자"
       }
     }
   }

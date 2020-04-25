@@ -15,7 +15,16 @@
       },
       "sources": [
         "Zipper T. Bunny (Bunny Day)"
-      ]
+      ],
+      "name": {
+        "de": "Eierkommode",
+        "en-GB": "Egg Dresser",
+        "en-US": "Egg Dresser",
+        "es": "Cómoda huevo",
+        "fr": "Commode \\u0153uf",
+        "it": "Comò uovo",
+        "ja": "たまごのタンス"
+      }
     }
   }
 }

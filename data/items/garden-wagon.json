@@ -21,6 +21,19 @@
         "dark-brown": "Dark brown",
         "green": "Green",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Garden Wagon",
+        "en-GB": "Garden Wagon",
+        "de": "Blumen-Bollerwagen",
+        "es": "Carro de flores",
+        "fr": "Brouette décorative",
+        "it": "Carretto con fiori",
+        "nl": "Handkar vol bloemen",
+        "zh-CN": "园艺推车",
+        "zh-TW": "園藝推車",
+        "jp": "えんげいワゴン",
+        "ko": "원예 왜건"
       }
     }
   },

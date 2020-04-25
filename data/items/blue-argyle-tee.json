@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "name": {
+        "de": "Blau-Argyle-Shirt",
+        "en-GB": "Blue Argyle Tee",
+        "en-US": "Blue Argyle Tee",
+        "es": "Camiseta pija azul",
+        "fr": "T-shirt écos. bleu",
+        "it": "Maglietta rombi blu",
+        "ja": "あおアーガイルのふく"
+      }
     }
   }
 }

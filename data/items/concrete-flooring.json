@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 820
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Concrete Flooring",
+        "en-GB": "Concrete Flooring",
+        "de": "Zementboden",
+        "es": "Suelo hormigón",
+        "fr": "Sol en béton",
+        "it": "Pavimento grezzo",
+        "nl": "Betonvloer",
+        "zh-CN": "混凝土地板",
+        "zh-TW": "混凝土地板",
+        "jp": "コンクリートのゆか",
+        "ko": "콘크리트 바닥"
+      }
     }
   },
   "category": "Flooring"

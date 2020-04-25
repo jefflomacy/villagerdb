@@ -11,12 +11,28 @@
       },
       "sources": [
         "Near trees (only in November)"
-      ]
+      ],
+      "name": {
+        "en-US": "Flat Mushroom"
+      }
     },
     "nh": {
       "sellPrice": {
         "currency": "bells",
         "value": 200
+      },
+      "name": {
+        "en-US": "Flat Mushroom",
+        "en-GB": "Flat Mushroom",
+        "de": "Flachpilz",
+        "es": "Champiñón plano",
+        "fr": "Champignon plat",
+        "it": "Fungo piatto",
+        "nl": "Platte paddenstoel",
+        "zh-CN": "扁平蘑菇",
+        "zh-TW": "扁平蘑菇",
+        "jp": "ひらたいキノコ",
+        "ko": "넓은 버섯"
       }
     }
   }

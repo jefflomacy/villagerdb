@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "珮琪的照片",
+        "de": "Foto's von Gabi",
+        "en-GB": "Gabi's Photo",
+        "es": "Foto de Piluca",
+        "fr": "Photo de Gaby",
+        "it": "Foto di Gabri",
+        "jp": "ペチカのしゃしん",
+        "ko": "패티카의 사진",
+        "nl": "Foto van Gabi",
+        "zh-TW": "珮琪的照片",
+        "en-US": "Gabi's Photo"
       }
     }
   },

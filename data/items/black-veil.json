@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 4000
         }
-      ]
+      ],
+      "name": {
+        "de": "Schwarzschleier",
+        "en-GB": "Black Veil",
+        "en-US": "Black Veil",
+        "es": "Velo negro",
+        "fr": "Voile noir",
+        "it": "Parrucca con veletta",
+        "ja": "ベールのぼうし"
+      }
     }
   }
 }

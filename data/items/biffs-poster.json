@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "贾宝为的海报",
+        "de": "Poster's von Norbert",
+        "en-GB": "Biff's Poster",
+        "es": "Póster de Pipo",
+        "fr": "Poster de Biff",
+        "it": "Poster di Pippo",
+        "jp": "ガブリエルのポスター",
+        "ko": "가브리엘의 포스터",
+        "nl": "Poster van Biff",
+        "zh-TW": "賈寶為的海報",
+        "en-US": "Biff's Poster"
+      }
     }
   },
   "category": "Photos"

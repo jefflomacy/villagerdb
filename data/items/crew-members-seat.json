@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2800
         }
-      ]
+      ],
+      "name": {
+        "de": "Crewstuhl",
+        "en-GB": "Crew Member's Seat",
+        "en-US": "Crew Member's Seat",
+        "es": "Silla de tripulación",
+        "fr": "Siège équipage",
+        "it": "Poltrona equipaggio",
+        "ja": "クルーのイス"
+      }
     }
   }
 }

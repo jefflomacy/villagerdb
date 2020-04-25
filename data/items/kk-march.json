@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. March"
+      }
     },
     "nh": {
       "orderable": true,
@@ -35,7 +38,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. March",
+        "en-GB": "K.K. March",
+        "de": "K.K. Marsch",
+        "es": "Tota-Marcha",
+        "fr": "Marche de Kéké",
+        "it": "K.K. Marcia",
+        "nl": "K.K.-Mars",
+        "zh-CN": "K.K.进行曲",
+        "zh-TW": "K.K.進行曲",
+        "jp": "けけマーチ",
+        "ko": "K.K.행진곡",
+        "ru": "Марш К. К."
+      }
     }
   }
 }

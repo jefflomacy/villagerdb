@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "de": "Minimallampe",
+        "en-GB": "Minimalist Lamp",
+        "en-US": "Minimalist Lamp",
+        "es": "Lámpara minimalista",
+        "fr": "Lampe minimaliste",
+        "it": "Lampada minimalista",
+        "ja": "シンプルなランプ"
+      }
     }
   }
 }

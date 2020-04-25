@@ -11,6 +11,19 @@
       },
       "recipe": {
         "giant-clam": 3
+      },
+      "name": {
+        "en-US": "Shell Rug",
+        "en-GB": "Shell Rug",
+        "de": "Muschelteppich",
+        "es": "Alfombra concha",
+        "fr": "Tapis coquillage",
+        "it": "Tappeto conchiglia",
+        "nl": "Schelptapijt",
+        "zh-CN": "贝壳地毯",
+        "zh-TW": "貝殼地毯",
+        "jp": "かいがらのラグ",
+        "ko": "조개껍데기 러그"
       }
     }
   },

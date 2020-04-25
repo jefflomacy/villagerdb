@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "de": "Blitz-Shirt",
+        "en-GB": "Lightning Tee",
+        "en-US": "Lightning Tee",
+        "es": "Camiseta rayo",
+        "fr": "T-shirt éclair",
+        "it": "Maglietta lampo",
+        "ja": "カミナリのふく"
+      }
     }
   }
 }

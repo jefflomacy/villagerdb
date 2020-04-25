@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Megacerops-Torso",
+        "en-GB": "Megacero Torso",
+        "en-US": "Megacero Torso",
+        "es": "Cuerpo brontoterio",
+        "fr": "Corps de bronto",
+        "it": "Torso brontoterio",
+        "ja": "ブロントテリウムのからだ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3500
+      },
+      "name": {
+        "en-US": "Megacero Torso",
+        "en-GB": "Megacero Torso",
+        "de": "Megacerops-Torso",
+        "es": "Cuerpo brontoterio",
+        "fr": "Corps de brontothérium",
+        "it": "Torso brontoterio",
+        "nl": "Brontopsromp",
+        "zh-CN": "巨角犀的身体",
+        "zh-TW": "巨角犀的身體",
+        "jp": "メガセロプスのからだ",
+        "ko": "메가케롭스의 몸통"
       }
     }
   }

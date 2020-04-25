@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1700
         }
-      ]
+      ],
+      "name": {
+        "de": "Linkshänderkatze",
+        "en-GB": "Lefty Lucky Cat",
+        "en-US": "Lefty Lucky Cat",
+        "es": "Gato suerte zurdo",
+        "fr": "Chat fétiche gaucher",
+        "it": "Gatto fort. mancino",
+        "ja": "ひだりてまねきねこ"
+      }
     }
   }
 }

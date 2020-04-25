@@ -15,7 +15,16 @@
       },
       "sources": [
         "Zipper T. Bunny (Bunny Day)"
-      ]
+      ],
+      "name": {
+        "de": "Eierbett",
+        "en-GB": "Egg Bed",
+        "en-US": "Egg Bed",
+        "es": "Cama huevo",
+        "fr": "Lit \\u0153uf",
+        "it": "Letto uovo",
+        "ja": "たまごのベッド"
+      }
     }
   }
 }

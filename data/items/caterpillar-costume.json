@@ -17,6 +17,19 @@
         "green": "Green",
         "yellow": "Yellow",
         "rainbow": "Rainbow"
+      },
+      "name": {
+        "en-US": "Caterpillar Costume",
+        "en-GB": "Caterpillar Costume",
+        "de": "Raupen-Outfit",
+        "es": "Disfraz de oruga",
+        "fr": "Costume de chenille",
+        "it": "Costume da bruco",
+        "nl": "Rupsenpak",
+        "zh-CN": "毛虫装",
+        "zh-TW": "綠毛蟲服",
+        "jp": "あおむしのふく",
+        "ko": "애벌레 의상"
       }
     }
   },

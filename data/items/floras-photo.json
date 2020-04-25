@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "胡拉拉的照片",
+        "de": "Foto's von Flora",
+        "en-GB": "Flora's Photo",
+        "es": "Foto de Azucena",
+        "fr": "Photo de Justine",
+        "it": "Foto di Rosalba",
+        "jp": "フララのしゃしん",
+        "ko": "플라라의 사진",
+        "nl": "Foto van Flora",
+        "zh-TW": "胡拉拉的照片",
+        "en-US": "Flora's Photo"
       }
     }
   },

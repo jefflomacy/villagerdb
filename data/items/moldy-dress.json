@@ -23,7 +23,10 @@
           "currency": "bells",
           "value": 400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Moldy Dress"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -38,6 +41,19 @@
       ],
       "variations": {
         "beige": "Beige"
+      },
+      "name": {
+        "en-US": "Moldy Dress",
+        "en-GB": "Moldy Dress",
+        "de": "Schimmelkleid",
+        "es": "Vestido borrones",
+        "fr": "Robe élimée",
+        "it": "Vestito ammuffito",
+        "nl": "Beschimmelde jurk",
+        "zh-CN": "发霉连身裙",
+        "zh-TW": "發霉連身裙",
+        "jp": "かびたワンピース",
+        "ko": "곰팡이 핀 원피스"
       }
     }
   }

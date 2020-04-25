@@ -18,6 +18,19 @@
       },
       "variations": {
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Apple Hat",
+        "en-GB": "Apple Hat",
+        "de": "Apfelhut",
+        "es": "Gorro manzana",
+        "fr": "Chapeau pomme",
+        "it": "Berretto mela",
+        "nl": "Appelmuts",
+        "zh-CN": "苹果帽子",
+        "zh-TW": "蘋果帽子",
+        "jp": "リンゴのぼうし",
+        "ko": "사과 모자"
       }
     }
   },

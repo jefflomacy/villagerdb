@@ -23,6 +23,19 @@
         "white": "White",
         "red": "Red",
         "gold": "Gold"
+      },
+      "name": {
+        "en-US": "Katana",
+        "en-GB": "Katana",
+        "de": "Katana",
+        "es": "Katana",
+        "fr": "Set de katanas",
+        "it": "Katana",
+        "nl": "Katana",
+        "zh-CN": "日本刀",
+        "zh-TW": "日本刀",
+        "jp": "にほんとう",
+        "ko": "일본도"
       }
     }
   },

@@ -16,6 +16,19 @@
       "variations": {
         "black": "Black",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Imp Hood",
+        "en-GB": "Imp Hood",
+        "de": "Kobold-Mütze",
+        "es": "Gorro de diablo",
+        "fr": "Capuche de diablotin",
+        "it": "Copricapo con corna",
+        "nl": "Duveltjesmuts",
+        "zh-CN": "恶魔头套",
+        "zh-TW": "魔鬼頭套",
+        "jp": "デビルなかぶりもの",
+        "ko": "악마 모자"
       }
     }
   },

@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "de": "Mandarinenhut",
+        "en-GB": "Mandarin Hat",
+        "en-US": "Mandarin Hat",
+        "es": "Gorro mandarina",
+        "fr": "Chapeau mandarine",
+        "it": "Cappello mandarino",
+        "ja": "なつみかんのぼうし"
+      }
     }
   }
 }

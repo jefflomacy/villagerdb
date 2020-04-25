@@ -12,7 +12,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Animal City",
+        "en-GB": "Animal City",
+        "de": "Die Stadt der Tiere",
+        "es": "Ciudad animal",
+        "fr": "À nous la belle ville",
+        "it": "La città degli animali",
+        "nl": "Animal City",
+        "zh-CN": "动物城镇",
+        "zh-TW": "動物城鎮",
+        "jp": "どうぶつのまち",
+        "ko": "동물의 마을",
+        "ru": "Город а зверушек"
+      }
     }
   },
   "category": "Music"

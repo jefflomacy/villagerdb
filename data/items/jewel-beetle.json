@@ -11,7 +11,10 @@
       },
       "sources": [
         "On trees."
-      ]
+      ],
+      "name": {
+        "en-US": "Jewel Beetle"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2400
+      },
+      "name": {
+        "en-US": "Jewel Beetle",
+        "en-GB": "Jewel Beetle",
+        "de": "Prachtkäfer",
+        "es": "Escarabajo joya",
+        "fr": "Bupreste",
+        "it": "Stigmodera",
+        "nl": "Prachtkever",
+        "zh-CN": "吉丁虫",
+        "zh-TW": "吉丁蟲",
+        "jp": "タマムシ",
+        "ko": "비단벌레"
       }
     }
   }

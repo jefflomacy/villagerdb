@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Brown Honeycomb Tile",
+        "en-GB": "Brown Honeycomb Tile",
+        "de": "Braun-Wabenfliesenboden",
+        "es": "Suelo panal pardo",
+        "fr": "Sol alvéolé marron",
+        "it": "Pavimento esagoni marrone",
+        "nl": "Bruine bijenraattegelvloer",
+        "zh-CN": "棕色六角砖地板",
+        "zh-TW": "棕色六角磚地板",
+        "jp": "ブラウンハニカムタイルのゆか",
+        "ko": "갈색 육각 타일 바닥"
+      }
     }
   },
   "category": "Flooring"

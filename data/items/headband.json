@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "name": {
+        "de": "Haarturban",
+        "en-GB": "Headband",
+        "en-US": "Headband",
+        "es": "Cinta para el pelo",
+        "fr": "Bandeau de sport",
+        "it": "Fascia",
+        "ja": "ヘアターバン"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -39,6 +48,19 @@
         "blue": "Blue",
         "purple": "Purple",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Headband",
+        "en-GB": "Headband",
+        "de": "Haarband",
+        "es": "Cinta para el pelo",
+        "fr": "Bandeau",
+        "it": "Fascia",
+        "nl": "Haarbandpruik",
+        "zh-CN": "发带",
+        "zh-TW": "髮帶",
+        "jp": "ヘアターバン",
+        "ko": "헤어밴드"
       }
     }
   }

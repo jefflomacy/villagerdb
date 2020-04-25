@@ -18,6 +18,19 @@
         "avocado": "Avocado",
         "white": "White",
         "beige": "Beige"
+      },
+      "name": {
+        "en-US": "Suit With Stand-Up Collar",
+        "en-GB": "Suit With Stand-Up Collar",
+        "de": "Stehkragenanzug",
+        "es": "Traje de cuello mao",
+        "fr": "Costume col mandarin",
+        "it": "Abito con collo alto",
+        "nl": "Pak met opstaande kraag",
+        "zh-CN": "中山装",
+        "zh-TW": "中山裝",
+        "jp": "つめえりスーツ",
+        "ko": "스탠딩 칼라 정장"
       }
     }
   },

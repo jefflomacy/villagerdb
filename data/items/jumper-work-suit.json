@@ -26,6 +26,19 @@
         "pink": "Pink",
         "brown": "Brown",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Jumper Work Suit",
+        "en-GB": "Jumper Work Suit",
+        "de": "Arbeitsuniform",
+        "es": "Mono de trabajo",
+        "fr": "Tenue d'ouvrier",
+        "it": "Tuta da lavoro",
+        "nl": "Overall",
+        "zh-CN": "工作装",
+        "zh-TW": "工作服",
+        "jp": "さぎょうぎ",
+        "ko": "작업복"
       }
     }
   },

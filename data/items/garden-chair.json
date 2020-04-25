@@ -22,7 +22,10 @@
           "currency": "meow",
           "value": 5
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Garden Chair"
+      }
     }
   }
 }

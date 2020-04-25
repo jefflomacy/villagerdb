@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "万泰的照片",
+        "de": "Foto's von Kong",
+        "en-GB": "Boone's Photo",
+        "es": "Foto de Babú",
+        "fr": "Photo de Babouin",
+        "it": "Foto di Babu",
+        "jp": "まんたろうのしゃしん",
+        "ko": "만복이의 사진",
+        "nl": "Foto van Boone",
+        "zh-TW": "萬泰的照片",
+        "en-US": "Boone's Photo"
       }
     }
   },

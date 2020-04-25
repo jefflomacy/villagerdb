@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1290
+      },
+      "name": {
+        "en-US": "Bell Cricket Model",
+        "en-GB": "Bell Cricket Model",
+        "de": "Singgrillenmodell",
+        "es": "Figura de grillo campana",
+        "fr": "Modèle de grillon du Midi",
+        "it": "Replica di suzumushi",
+        "nl": "Modelbelkrekel",
+        "zh-CN": "铃虫模型",
+        "zh-TW": "鈴蟲模型",
+        "jp": "スズムシのもけい",
+        "ko": "방울벌레 모형"
       }
     }
   },

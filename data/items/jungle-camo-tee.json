@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Dschungelshirt",
+        "en-GB": "Jungle-Camo Tee",
+        "en-US": "Jungle-Camo Tee",
+        "es": "Camiseta camuflaje",
+        "fr": "T-shirt motif jungle",
+        "it": "Maglietta mimetica",
+        "ja": "めいさいなふく"
+      }
     }
   }
 }

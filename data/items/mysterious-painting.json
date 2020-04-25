@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 4980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mysterious Painting",
+        "en-GB": "Mysterious Painting",
+        "de": "Rätselgemälde",
+        "es": "Cuadro tenebroso",
+        "fr": "Toile ténébreuse",
+        "it": "Quadro misterioso",
+        "nl": "Mysterieuze schilderij",
+        "zh-CN": "神秘的名画",
+        "zh-TW": "神秘的名畫",
+        "jp": "なぞめいためいが",
+        "ko": "미스터리한 명화"
+      }
     }
   },
   "category": "Art"

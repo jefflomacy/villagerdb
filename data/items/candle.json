@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1280
         }
-      ]
+      ],
+      "name": {
+        "de": "Kerze",
+        "en-GB": "Candle",
+        "en-US": "Candle",
+        "es": "Vela",
+        "fr": "Bougeoir",
+        "it": "Candela",
+        "ja": "ろうそく"
+      }
     },
     "nh": {
       "orderable": true,
@@ -40,6 +49,19 @@
         "copper": "Copper",
         "black": "Black",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Candle",
+        "en-GB": "Candle",
+        "de": "Kerze",
+        "es": "Vela",
+        "fr": "Bougeoir",
+        "it": "Candela",
+        "nl": "Kaars",
+        "zh-CN": "蜡烛",
+        "zh-TW": "蠟燭",
+        "jp": "キャンドル",
+        "ko": "양초"
       }
     }
   }

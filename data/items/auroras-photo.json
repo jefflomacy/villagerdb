@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "欧若拉的照片",
+        "de": "Foto's von Sonja",
+        "en-GB": "Aurora's Photo",
+        "es": "Foto de Aurora",
+        "fr": "Photo d'aurore",
+        "it": "Foto di Aurora",
+        "jp": "オーロラのしゃしん",
+        "ko": "오로라의 사진",
+        "nl": "Foto van Aurora",
+        "zh-TW": "歐若拉的照片",
+        "en-US": "Aurora's Photo"
       }
     }
   },

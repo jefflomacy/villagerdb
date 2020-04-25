@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "丸子的海报",
+        "de": "Poster's von Schoki",
+        "en-GB": "Bettina's Poster",
+        "es": "Póster de Ottina",
+        "fr": "Poster de Sabrina",
+        "it": "Poster di Rattina",
+        "jp": "マルコのポスター",
+        "ko": "마르카의 포스터",
+        "nl": "Poster van Bettina",
+        "zh-TW": "丸子的海報",
+        "en-US": "Bettina's Poster"
+      }
     }
   },
   "category": "Photos"

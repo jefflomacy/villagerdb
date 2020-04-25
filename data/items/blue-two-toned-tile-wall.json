@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1850
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Two-Toned Tile Wall",
+        "en-GB": "Blue Two-Toned Tile Wall",
+        "de": "Blau-Weiß-Fliesenwand",
+        "es": "Pared damero azul",
+        "fr": "Mur carrelé bicolore bleu",
+        "it": "Muro piastrelle biancoblu",
+        "nl": "Blauwe tegelpatroonwand",
+        "zh-CN": "蓝色撞色砖墙",
+        "zh-TW": "藍色撞色磚牆",
+        "jp": "あおいツートンタイルのかべ",
+        "ko": "파란 투톤 타일 벽"
+      }
     }
   },
   "category": "Wallpaper"

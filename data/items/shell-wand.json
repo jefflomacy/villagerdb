@@ -7,6 +7,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5100
+      },
+      "name": {
+        "en-US": "Shell Wand",
+        "en-GB": "Shell Wand",
+        "de": "Muschelstab",
+        "es": "Varita concha marina",
+        "fr": "Baguette coquillage",
+        "it": "Bacchetta conchiglia",
+        "nl": "Schelpenstaf",
+        "zh-CN": "贝壳棒",
+        "zh-TW": "貝殼棒",
+        "jp": "かいがらのステッキ",
+        "ko": "조개껍데기 지팡이"
       }
     }
   },

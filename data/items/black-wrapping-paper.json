@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 40
+      },
+      "name": {
+        "zh-CN": "黑色包装纸",
+        "de": "Schwarz-Geschenkpapier's",
+        "en-GB": "Black Wrapping Paper",
+        "es": "Papel de regalo negro",
+        "fr": "Papiers cadeau noirs",
+        "it": "Carta da regalo nera",
+        "jp": "くろいラッピングペーパー",
+        "ko": "검은색 포장지",
+        "nl": "Zwarte cadeaupapier",
+        "zh-TW": "黑色包裝紙",
+        "en-US": "Black Wrapping Paper"
       }
     }
   },

@@ -19,6 +19,19 @@
         "light-blue": "Light blue",
         "gray": "Gray",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Coatigan",
+        "en-GB": "Coatigan",
+        "de": "Strickmantel",
+        "es": "Cárdigan largo",
+        "fr": "Manteau cardigan",
+        "it": "Giaccone di maglia",
+        "nl": "Vestjas",
+        "zh-CN": "长版针织罩衫",
+        "zh-TW": "長版針織罩衫",
+        "jp": "コーディガン",
+        "ko": "코트 가디건"
       }
     }
   },

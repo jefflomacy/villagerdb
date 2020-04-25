@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Rotschuh",
+        "en-GB": "Red Shoes",
+        "en-US": "Red Shoes",
+        "es": "Zapato rojo",
+        "fr": "Paire babies rouges",
+        "it": "Paio scarpe rosse",
+        "ja": "あかいくつ"
+      }
     }
   }
 }

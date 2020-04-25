@@ -18,7 +18,16 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "de": "Streifenhütchen",
+        "en-GB": "Striped Cone",
+        "en-US": "Striped Cone",
+        "es": "Cono de rayas",
+        "fr": "Cône rayé",
+        "it": "Cono a strisce",
+        "ja": "しましまパイロン"
+      }
     }
   }
 }

@@ -22,6 +22,19 @@
         "aqua": "Aqua",
         "pale-orange": "Pale orange",
         "parrot-green": "Parrot green"
+      },
+      "name": {
+        "en-US": "Fancy Kimono",
+        "en-GB": "Fancy Kimono",
+        "de": "Prachtkimono",
+        "es": "Kimono lujoso",
+        "fr": "Kimono d'apparat",
+        "it": "Kimono alla moda",
+        "nl": "Elegante kimono",
+        "zh-CN": "盛装和服",
+        "zh-TW": "盛裝和服",
+        "jp": "はれぎ",
+        "ko": "화려한 기모노"
       }
     }
   },

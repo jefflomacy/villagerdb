@@ -25,7 +25,10 @@
           "currency": "bells",
           "value": 240
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Eye Patch"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -40,6 +43,19 @@
       ],
       "variations": {
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Eye Patch",
+        "en-GB": "Eye Patch",
+        "de": "Augenklappe",
+        "es": "Parche",
+        "fr": "Cache-Œil",
+        "it": "Benda da pirata",
+        "nl": "Ooglapje",
+        "zh-CN": "单眼眼罩",
+        "zh-TW": "單眼眼罩",
+        "jp": "アイパッチ",
+        "ko": "검정 안대"
       }
     }
   }

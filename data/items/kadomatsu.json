@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2580
         }
-      ]
+      ],
+      "name": {
+        "de": "Kadomatsu",
+        "en-GB": "Kadomatsu",
+        "en-US": "Kadomatsu",
+        "es": "Kadomatsu",
+        "fr": "Kadomatsu",
+        "it": "Kadomatsu",
+        "ja": "かどまつ"
+      }
     }
   }
 }

@@ -17,6 +17,19 @@
         "pink": "Pink",
         "blue": "Blue",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Evening Bag",
+        "en-GB": "Evening Bag",
+        "de": "Abendhandtasche",
+        "es": "Bolso de noche",
+        "fr": "Sac de soirée",
+        "it": "Borsetta da sera",
+        "nl": "Avondtas",
+        "zh-CN": "晚宴包",
+        "zh-TW": "晚宴包",
+        "jp": "パーティーバッグ",
+        "ko": "파티 가방"
       }
     }
   },

@@ -16,6 +16,19 @@
       "variations": {
         "black": "Black",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Iron Wall Rack",
+        "en-GB": "Iron Wall Rack",
+        "de": "Eisenwandregal",
+        "es": "Repisa de hierro",
+        "fr": "Étagère murale en fer",
+        "it": "Mensola di ferro",
+        "nl": "Ijzeren wandrek",
+        "zh-CN": "铸铁壁架",
+        "zh-TW": "鑄鐵壁架",
+        "jp": "アイアンウォールラック",
+        "ko": "아이언 벽걸이 선반"
       }
     }
   },

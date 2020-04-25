@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "倪家莉的海报",
+        "de": "Poster's von Vroni",
+        "en-GB": "Diana's Poster",
+        "es": "Póster de Bambina",
+        "fr": "Poster de Didi",
+        "it": "Poster di Diana",
+        "jp": "ナタリーのポスター",
+        "ko": "나탈리의 포스터",
+        "nl": "Poster van Diana",
+        "zh-TW": "倪家莉的海報",
+        "en-US": "Diana's Poster"
+      }
     }
   },
   "category": "Photos"

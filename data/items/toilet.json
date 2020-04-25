@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Toilette",
+        "en-GB": "Toilet",
+        "en-US": "Toilet",
+        "es": "Inodoro",
+        "fr": "WC",
+        "it": "Water bianco",
+        "ja": "ようしきトイレ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -38,6 +47,19 @@
         "white": "White",
         "natural-wood": "Natural wood",
         "dark-wood": "Dark wood"
+      },
+      "name": {
+        "en-US": "Toilet",
+        "en-GB": "Toilet",
+        "de": "Toilette",
+        "es": "Inodoro",
+        "fr": "WC",
+        "it": "Water",
+        "nl": "Toiletpot",
+        "zh-CN": "马桶",
+        "zh-TW": "馬桶",
+        "jp": "ようしきトイレ",
+        "ko": "양변기"
       }
     }
   }

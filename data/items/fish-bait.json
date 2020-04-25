@@ -11,6 +11,19 @@
       },
       "recipe": {
         "manila-clam": 1
+      },
+      "name": {
+        "zh-CN": "鱼饲料",
+        "de": "Köder",
+        "en-GB": "Fish Bait",
+        "es": "Cebos",
+        "fr": "Appâts",
+        "it": "Esche",
+        "jp": "サカナのまきエサ",
+        "ko": "물고기 떡밥",
+        "nl": "Aas",
+        "zh-TW": "魚飼料",
+        "en-US": "Fish Bait"
       }
     }
   },

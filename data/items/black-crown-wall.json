@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2350
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Black-Crown Wall",
+        "en-GB": "Black-Crown Wall",
+        "de": "Schwarzkronenwand",
+        "es": "Pared realeza negra",
+        "fr": "Mur motif couronnes noir",
+        "it": "Muro con corone nero",
+        "nl": "Zwarte kroontjeswand",
+        "zh-CN": "黑色皇冠壁纸",
+        "zh-TW": "黑色皇冠壁紙",
+        "jp": "ブラッククラウンのかべがみ",
+        "ko": "블랙 왕관 벽지"
+      }
     }
   },
   "category": "Wallpaper"

@@ -21,6 +21,19 @@
         "green": "Green",
         "blue": "Blue",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Glass Holder With Candle",
+        "en-GB": "Glass Holder With Candle",
+        "de": "Glas-Kerzenhalter",
+        "es": "Portavelas de cristal",
+        "fr": "Photophore en verre",
+        "it": "Portacandela di vetro",
+        "nl": "Waxinelichthouder",
+        "zh-CN": "玻璃烛台",
+        "zh-TW": "玻璃燭台",
+        "jp": "ガラスのキャンドルホルダー",
+        "ko": "유리컵 양초"
       }
     }
   },

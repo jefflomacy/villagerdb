@@ -7,6 +7,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 400
+      },
+      "name": {
+        "en-US": "Bronze HHA Trophy",
+        "en-GB": "Bronze HHA Trophy",
+        "de": "Adsh-Bronzepokal",
+        "es": "Trofeo AAD de bronce",
+        "fr": "Trophée AJD bronze",
+        "it": "Trofeo ABC di bronzo",
+        "nl": "Bronzen AWW-trofee",
+        "zh-CN": "铜屋奖杯",
+        "zh-TW": "銅屋獎盃",
+        "jp": "どうのおうちトロフィー",
+        "ko": "집 모양 동 트로피"
       }
     }
   },

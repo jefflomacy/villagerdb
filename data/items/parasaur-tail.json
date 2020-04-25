@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Parasaurus-Schwanz",
+        "en-GB": "Parasaur Tail",
+        "en-US": "Parasaur Tail",
+        "es": "Cola parasaurio",
+        "fr": "Queue de parasauro",
+        "it": "Coda parasauro",
+        "ja": "パラサウロロフスのしっぽ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2500
+      },
+      "name": {
+        "en-US": "Parasaur Tail",
+        "en-GB": "Parasaur Tail",
+        "de": "Parasaurus-Schwanz",
+        "es": "Cola parasaurio",
+        "fr": "Queue de parasaurolophus",
+        "it": "Coda parasauro",
+        "nl": "Parasaurolophusstaart",
+        "zh-CN": "副栉龙的尾巴",
+        "zh-TW": "副櫛龍的尾巴",
+        "jp": "パラサウロロフスのしっぽ",
+        "ko": "파라사우롤로푸스의 꼬리"
       }
     }
   }

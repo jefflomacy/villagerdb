@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "de": "Reiskocher",
+        "en-GB": "Rice Cooker",
+        "en-US": "Rice Cooker",
+        "es": "Hervidor de arroz",
+        "fr": "Cuiseur de riz",
+        "it": "Cuociriso",
+        "ja": "すいはんき"
+      }
     },
     "nh": {
       "orderable": true,
@@ -37,6 +46,19 @@
         "brown": "Brown",
         "berry-red": "Berry red",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Rice Cooker",
+        "en-GB": "Rice Cooker",
+        "de": "Reiskocher",
+        "es": "Hervidor de arroz",
+        "fr": "Cuiseur de riz",
+        "it": "Cuociriso",
+        "nl": "Rijstkoker",
+        "zh-CN": "电饭锅",
+        "zh-TW": "電飯鍋",
+        "jp": "すいはんき",
+        "ko": "전기밥솥"
       }
     }
   }

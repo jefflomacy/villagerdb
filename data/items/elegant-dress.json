@@ -19,6 +19,19 @@
         "green": "Green",
         "berry-red": "Berry red",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Elegant Dress",
+        "en-GB": "Elegant Dress",
+        "de": "Ballkleid",
+        "es": "Vestido de damisela",
+        "fr": "Robe élégante stricte",
+        "it": "Vestito elegante",
+        "nl": "Elegante jurk",
+        "zh-CN": "淑女连身裙",
+        "zh-TW": "淑女連身裙",
+        "jp": "しゅくじょなワンピース",
+        "ko": "우아한 드레스"
       }
     }
   },

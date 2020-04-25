@@ -23,7 +23,10 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Aviator Shades"
+      }
     }
   }
 }

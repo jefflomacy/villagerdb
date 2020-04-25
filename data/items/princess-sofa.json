@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 100000
         }
-      ]
+      ],
+      "name": {
+        "de": "Prachtsofa",
+        "en-GB": "Princess Sofa",
+        "en-US": "Princess Sofa",
+        "es": "Sofá princesa",
+        "fr": "Canapé princesse",
+        "it": "Sofà contessa",
+        "ja": "プリンセスソファ"
+      }
     }
   }
 }

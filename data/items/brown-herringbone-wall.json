@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 7200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Brown Herringbone Wall",
+        "en-GB": "Brown Herringbone Wall",
+        "de": "Hell-Fischgrätwand",
+        "es": "Pared espiga clara",
+        "fr": "Mur à chevrons beige",
+        "it": "Muro spina di pesce beige",
+        "nl": "Lichtbruine visgraatwand",
+        "zh-CN": "茶色人字斜纹墙",
+        "zh-TW": "茶色人字斜紋牆",
+        "jp": "ちゃいろいヘリンボーンのかべ",
+        "ko": "갈색 헤링본 벽"
+      }
     }
   },
   "category": "Wallpaper"

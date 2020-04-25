@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Adventure"
+      }
     },
     "nh": {
       "orderable": true,
@@ -35,7 +38,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Adventure",
+        "en-GB": "K.K. Adventure",
+        "de": "K.K. Filmmusik",
+        "es": "Tota-Banda sonora",
+        "fr": "Kéké star",
+        "it": "K.K. Superstar",
+        "nl": "K.K.-Filmmuziek",
+        "zh-CN": "K.K.好莱坞",
+        "zh-TW": "K.K.好萊塢",
+        "jp": "けけハリウッド",
+        "ko": "K.K.할리우드",
+        "ru": "Приключения К. К."
+      }
     }
   }
 }

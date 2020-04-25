@@ -13,7 +13,20 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Grasshopper-Head Model",
+        "en-GB": "Grasshopper-Head Model",
+        "de": "Heuschrecken-Trophäe",
+        "es": "Cabeza de saltamontes",
+        "fr": "Tête de sauterelle",
+        "it": "Trofeo di testa di cavalletta",
+        "nl": "Wandmodelsprinkhaan",
+        "zh-CN": "蝗虫头部",
+        "zh-TW": "蝗蟲頭部",
+        "jp": "バッタヘッド",
+        "ko": "메뚜기 머리 벽장식"
+      }
     }
   },
   "category": "Furniture"

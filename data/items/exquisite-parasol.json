@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1670
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Exquisite Parasol",
+        "en-GB": "Exquisite Parasol",
+        "de": "Asienschirm",
+        "es": "Sombrilla oriental",
+        "fr": "Ombrelle magnifique",
+        "it": "Parasole dinastia",
+        "nl": "Verfijnde parasol",
+        "zh-CN": "东方风雨伞",
+        "zh-TW": "東方風雨傘",
+        "jp": "オリエンタルなかさ",
+        "ko": "오리엔탈 우산"
+      }
     }
   },
   "category": "Umbrellas"

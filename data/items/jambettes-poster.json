@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "翡翠的海报",
+        "de": "Poster's von Jeanette",
+        "en-GB": "Jambette's Poster",
+        "es": "Póster de Anquita",
+        "fr": "Poster de Gambette",
+        "it": "Poster di Giada",
+        "jp": "エスメラルダのポスター",
+        "ko": "에스메랄다의 포스터",
+        "nl": "Poster van Jambette",
+        "zh-TW": "翡翠的海報",
+        "en-US": "Jambette's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -19,6 +19,19 @@
         "green": "Green",
         "yellow": "Yellow",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Floral Hairpin",
+        "en-GB": "Floral Hairpin",
+        "de": "Blumenhaarspange",
+        "es": "Clip flor",
+        "fr": "Épingle fleurie",
+        "it": "Molletta floreale",
+        "nl": "Bloemenhaarspeld",
+        "zh-CN": "花朵发夹",
+        "zh-TW": "花朵髮夾",
+        "jp": "おはなのヘアピン",
+        "ko": "꽃 머리핀"
       }
     }
   },

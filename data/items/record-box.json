@@ -15,7 +15,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Record Box"
+      }
     },
     "nh": {
       "orderable": true,
@@ -65,6 +68,19 @@
         "pink-logo": "Pink / Logo",
         "pink-sunset": "Pink / Sunset",
         "pink-various": "Pink / Various"
+      },
+      "name": {
+        "en-US": "Record Box",
+        "en-GB": "Record Box",
+        "de": "Schallplattenkiste",
+        "es": "Caja de vinilos",
+        "fr": "Boîte à vinyles",
+        "it": "Scatola con dischi",
+        "nl": "Doos met lp's",
+        "zh-CN": "唱片箱",
+        "zh-TW": "唱片箱",
+        "jp": "レコードボックス",
+        "ko": "레코드 박스"
       }
     }
   }

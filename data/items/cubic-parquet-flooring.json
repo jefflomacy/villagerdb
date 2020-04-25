@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Cubic Parquet Flooring",
+        "en-GB": "Cubic Parquet Flooring",
+        "de": "Tafelparkett",
+        "es": "Parqué cúbico",
+        "fr": "Parquet cubes trompe-l'œil",
+        "it": "Parquet cubi illusori",
+        "nl": "Kubusparket",
+        "zh-CN": "立方嵌木地板",
+        "zh-TW": "立方嵌木地板",
+        "jp": "キュービックなよせぎのゆか",
+        "ko": "정육면체 나무 바닥"
+      }
     }
   },
   "category": "Flooring"

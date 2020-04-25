@@ -15,7 +15,16 @@
       },
       "sources": [
         "Snowtyke"
-      ]
+      ],
+      "name": {
+        "de": "Schneemann-Familie",
+        "en-GB": "Snowman Matryoshka",
+        "en-US": "Snowman Matryoshka",
+        "es": "Matrioska nieve",
+        "fr": "Famille de neige",
+        "it": "Modello pupazzi neve",
+        "ja": "ゆきだるマトリョーシカ"
+      }
     }
   }
 }

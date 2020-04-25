@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 3600
         }
-      ]
+      ],
+      "name": {
+        "de": "Royalwandlampe",
+        "en-GB": "Regal Wall Lamp",
+        "en-US": "Regal Wall Lamp",
+        "es": "Lámpara pared regia",
+        "fr": "Lampe mur royale",
+        "it": "Lampada a muro chic",
+        "ja": "ロイヤルなウォールランプ"
+      }
     }
   }
 }

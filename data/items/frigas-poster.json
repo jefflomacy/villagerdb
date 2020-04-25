@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "谢宾娜的海报",
+        "de": "Poster's von Frieda",
+        "en-GB": "Friga's Poster",
+        "es": "Póster de Frida",
+        "fr": "Poster de Friga",
+        "it": "Poster di Frida",
+        "jp": "サブリナのポスター",
+        "ko": "사브리나의 포스터",
+        "nl": "Poster van Friga",
+        "zh-TW": "謝賓娜的海報",
+        "en-US": "Friga's Poster"
+      }
     }
   },
   "category": "Photos"

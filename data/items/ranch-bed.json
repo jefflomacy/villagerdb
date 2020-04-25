@@ -28,7 +28,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Western-Bett",
+        "en-GB": "Ranch Bed",
+        "en-US": "Ranch Bed",
+        "es": "Cama rústica",
+        "fr": "Lit ranch",
+        "it": "Letto country",
+        "ja": "カントリーなベッド"
+      }
     }
   }
 }

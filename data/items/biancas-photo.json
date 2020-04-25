@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "小雪的照片",
+        "de": "Foto's von Bettina",
+        "en-GB": "Bianca's Photo",
+        "es": "Foto de Bianca",
+        "fr": "Photo de Noémie",
+        "it": "Foto di Grattina",
+        "jp": "コユキのしゃしん",
+        "ko": "백희의 사진",
+        "nl": "Foto van Bianca",
+        "zh-TW": "小雪的照片",
+        "en-US": "Bianca's Photo"
       }
     }
   },

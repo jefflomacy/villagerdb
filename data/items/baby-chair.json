@@ -54,6 +54,19 @@
         "black-butterfly": "Black / Butterfly",
         "black-train": "Black / Train",
         "black-paw-print": "Black / Paw print"
+      },
+      "name": {
+        "en-US": "Baby Chair",
+        "en-GB": "Baby Chair",
+        "de": "Babystuhl",
+        "es": "Sillita infantil",
+        "fr": "Chaise bambin",
+        "it": "Sediolina per bimbi",
+        "nl": "Babystoel",
+        "zh-CN": "儿童椅",
+        "zh-TW": "兒童椅",
+        "jp": "まめイス",
+        "ko": "유아용 의자"
       }
     }
   },

@@ -15,7 +15,16 @@
       },
       "sources": [
         "Fortune cookie #17"
-      ]
+      ],
+      "name": {
+        "de": "Block",
+        "en-GB": "Block",
+        "en-US": "Block",
+        "es": "Bloque",
+        "fr": "Bloc",
+        "it": "Blocco",
+        "ja": "レンガブロック"
+      }
     }
   }
 }

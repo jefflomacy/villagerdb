@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 2380
         }
-      ]
+      ],
+      "name": {
+        "de": "Heizkörper",
+        "en-GB": "Radiator",
+        "en-US": "Radiator",
+        "es": "Radiador",
+        "fr": "Radiateur",
+        "it": "Calorifero",
+        "ja": "オイルヒーター"
+      }
     }
   }
 }

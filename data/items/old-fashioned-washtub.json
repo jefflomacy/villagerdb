@@ -11,6 +11,19 @@
       },
       "recipe": {
         "softwood": 3
+      },
+      "name": {
+        "en-US": "Old-Fashioned Washtub",
+        "en-GB": "Old-Fashioned Washtub",
+        "de": "Waschbottich",
+        "es": "Palangana tradicional",
+        "fr": "Baquet à lessive",
+        "it": "Tinozza da bucato",
+        "nl": "Wastobbe",
+        "zh-CN": "洗衣盆",
+        "zh-TW": "洗衣盆",
+        "jp": "せんたくおけ",
+        "ko": "빨랫대야"
       }
     }
   },

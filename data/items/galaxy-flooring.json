@@ -20,6 +20,19 @@
       "recipe": {
         "star-fragment": 5,
         "large-star-fragment": 1
+      },
+      "name": {
+        "en-US": "Galaxy Flooring",
+        "en-GB": "Galaxy Flooring",
+        "de": "Weltraumboden",
+        "es": "Suelo galaxia",
+        "fr": "Sol galaxie",
+        "it": "Pavimento galassia",
+        "nl": "Melkwegvloer",
+        "zh-CN": "银河系地板",
+        "zh-TW": "銀河系地板",
+        "jp": "ぎんがけいのゆか",
+        "ko": "은하계 바닥"
       }
     }
   },

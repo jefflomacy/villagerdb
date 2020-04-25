@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10000
+      },
+      "name": {
+        "en-US": "Sturgeon",
+        "en-GB": "Sturgeon",
+        "de": "Stör",
+        "es": "Esturión",
+        "fr": "Esturgeon",
+        "it": "Storione",
+        "nl": "Steur",
+        "zh-CN": "鲟鱼",
+        "zh-TW": "鱘魚",
+        "jp": "チョウザメ",
+        "ko": "철갑상어"
       }
     }
   },

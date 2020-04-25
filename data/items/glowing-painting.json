@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 4980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Glowing Painting",
+        "en-GB": "Glowing Painting",
+        "de": "Lichtgemälde",
+        "es": "Cuadro vespertino",
+        "fr": "Toile crépusculaire",
+        "it": "Quadro abbagliante",
+        "nl": "Weemoedige schilderij",
+        "zh-CN": "光线的名画",
+        "zh-TW": "光線的名畫",
+        "jp": "ひかりのめいが",
+        "ko": "빛의 명화"
+      }
     }
   },
   "category": "Art"

@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 3480
         }
-      ]
+      ],
+      "name": {
+        "de": "Astroschrank",
+        "en-GB": "Astro Closet",
+        "en-US": "Astro Closet",
+        "es": "Armario futurista",
+        "fr": "Armoire astro",
+        "it": "Armadio futuro",
+        "ja": "きんみらいなクロゼット"
+      }
     }
   }
 }

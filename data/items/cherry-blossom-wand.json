@@ -12,6 +12,19 @@
       "recipe": {
         "cherry-blossom-petal": 3,
         "star-fragment": 3
+      },
+      "name": {
+        "en-US": "Cherry-Blossom Wand",
+        "en-GB": "Cherry-Blossom Wand",
+        "de": "Kirschblütenstab",
+        "es": "Varita flor de cerezo",
+        "fr": "Baguette fleurs de cerisier",
+        "it": "Bacchetta ciliegio",
+        "nl": "Kersenbloesemstaf",
+        "zh-CN": "樱花棒",
+        "zh-TW": "櫻花棒",
+        "jp": "さくらのステッキ",
+        "ko": "벚꽃 지팡이"
       }
     }
   },

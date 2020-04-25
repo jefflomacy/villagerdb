@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Radlerhose",
+        "en-GB": "Relay Shorts",
+        "en-US": "Relay Shorts",
+        "es": "Bermuda maratón",
+        "fr": "Short marathon",
+        "it": "P. bermuda maratona",
+        "ja": "りくじょうたんパン"
+      }
     }
   }
 }

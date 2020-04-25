@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "美玲的照片",
+        "de": "Foto's von Misuzu",
+        "en-GB": "Judy's Photo",
+        "es": "Foto de Rosezna",
+        "fr": "Photo de Laura",
+        "it": "Foto di Misuzu",
+        "jp": "みすずのしゃしん",
+        "ko": "미애의 사진",
+        "nl": "Foto van Judy",
+        "zh-TW": "美玲的照片",
+        "en-US": "Judy's Photo"
       }
     }
   },

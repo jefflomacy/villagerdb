@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 300
         }
-      ]
+      ],
+      "name": {
+        "de": "Baustellenhelm",
+        "en-GB": "Safety Helmet",
+        "en-US": "Safety Helmet",
+        "es": "Casco de obra",
+        "fr": "Casque de chantier",
+        "it": "Casco da lavoro",
+        "ja": "あんぜんヘルメット"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -40,6 +49,19 @@
         "orange": "Orange",
         "green": "Green",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Safety Helmet",
+        "en-GB": "Safety Helmet",
+        "de": "Baustellenhelm",
+        "es": "Casco de obra",
+        "fr": "Casque de chantier",
+        "it": "Elmetto protettivo",
+        "nl": "Veiligheidshelm",
+        "zh-CN": "安全帽",
+        "zh-TW": "安全帽",
+        "jp": "あんぜんヘルメット",
+        "ko": "안전모"
       }
     }
   }

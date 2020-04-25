@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Mint-Karo-Rock",
+        "en-GB": "Mint Gingham Skirt",
+        "en-US": "Mint Gingham Skirt",
+        "es": "Falda vichy menta",
+        "fr": "Jupe vichy menthe",
+        "it": "Gonna menta",
+        "ja": "ミントギンガムなスカート"
+      }
     }
   }
 }

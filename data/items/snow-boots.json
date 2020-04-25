@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "de": "Schneestiefel",
+        "en-GB": "Snow Boots",
+        "en-US": "Snow Boots",
+        "es": "Bota de nieve",
+        "fr": "Paire d'après-skis",
+        "it": "P. scarponi da neve",
+        "ja": "スノーブーツ"
+      }
     }
   }
 }

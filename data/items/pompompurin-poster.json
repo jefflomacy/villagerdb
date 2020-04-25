@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "布丁狗的海报",
+        "de": "Pompompurin-Poster's",
+        "en-GB": "Pompompurin Poster",
+        "es": "Póster de Pompompurin",
+        "fr": "Poster de Pompompurin",
+        "it": "Poster di Pompompurin",
+        "jp": "ポムポムプリンなポスター",
+        "ko": "폼폼푸린 포스터",
+        "nl": "Poster van Pompompurin",
+        "zh-TW": "布丁狗的海報",
+        "en-US": "Pompompurin Poster"
+      }
     }
   },
   "category": "Photos"

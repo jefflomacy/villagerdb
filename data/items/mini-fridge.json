@@ -22,6 +22,19 @@
         "wood-grain": "Wood grain",
         "black": "Black",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Mini Fridge",
+        "en-GB": "Mini Fridge",
+        "de": "Minikühlschrank",
+        "es": "Mininevera",
+        "fr": "Mini réfrigérateur",
+        "it": "Frigo compatto",
+        "nl": "Minikoelkast",
+        "zh-CN": "迷你冰箱",
+        "zh-TW": "迷你冰箱",
+        "jp": "ミニれいぞうこ",
+        "ko": "미니 냉장고"
       }
     }
   },

@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Bumerang",
+        "en-GB": "Boomerang",
+        "en-US": "Boomerang",
+        "es": "Bumerán",
+        "fr": "Boomerang",
+        "it": "Boomerang",
+        "ja": "ブーメラン"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -36,6 +45,19 @@
         "dark-brown": "Dark brown",
         "red-black": "Red & black",
         "white-blue": "White & blue"
+      },
+      "name": {
+        "en-US": "Boomerang",
+        "en-GB": "Boomerang",
+        "de": "Bumerang",
+        "es": "Bumerán",
+        "fr": "Boomerang",
+        "it": "Boomerang",
+        "nl": "Boemerang",
+        "zh-CN": "飞旋镖",
+        "zh-TW": "迴力鏢",
+        "jp": "ブーメラン",
+        "ko": "부메랑"
       }
     }
   }

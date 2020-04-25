@@ -8,7 +8,20 @@
           "currency": "bells",
           "value": 128000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White-Plank Ramp",
+        "en-GB": "White-Plank Ramp",
+        "de": "Weiß-Bretterrampe",
+        "es": "Rampa de tablas blancas",
+        "fr": "Pente planches blanches",
+        "it": "Rampa di assi bianche",
+        "nl": "Witte houten helling",
+        "zh-CN": "白色木板斜坡",
+        "zh-TW": "白色木板斜坡",
+        "jp": "しろいいたのスロープ",
+        "ko": "하얀 널빤지 슬로프"
+      }
     }
   },
   "category": "Furniture"

@@ -16,19 +16,28 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Patched Shirt"
+      }
     },
     "ac": {
       "orderable": false,
       "sources": [
         "Jack"
-      ]
+      ],
+      "name": {
+        "en-US": "Patched Shirt"
+      }
     },
     "afe+": {
       "orderable": false,
       "sources": [
         "Jack"
-      ]
+      ],
+      "name": {
+        "en-US": "Patched Shirt"
+      }
     }
   }
 }

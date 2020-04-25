@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Wolkenshirt",
+        "en-GB": "Cloudy Tee",
+        "en-US": "Cloudy Tee",
+        "es": "Camiseta nubes",
+        "fr": "T-shirt nuages",
+        "it": "Maglietta nuvolosa",
+        "ja": "そらのふく"
+      }
     }
   }
 }

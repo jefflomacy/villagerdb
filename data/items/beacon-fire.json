@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "de": "Fackelständer",
+        "en-GB": "Beacon Fire",
+        "en-US": "Beacon Fire",
+        "es": "Fogata",
+        "fr": "Brasero",
+        "it": "Fiaccola per esterni",
+        "ja": "かがりび"
+      }
     }
   }
 }

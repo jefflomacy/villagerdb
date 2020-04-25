@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "拉拉米的照片",
+        "de": "Foto's von Hanne",
+        "en-GB": "Sally's Photo",
+        "es": "Foto de Praliné",
+        "fr": "Photo de Damia",
+        "it": "Foto di Rossella",
+        "jp": "ララミーのしゃしん",
+        "ko": "라라미의 사진",
+        "nl": "Foto van Sally",
+        "zh-TW": "拉拉米的照片",
+        "en-US": "Sally's Photo"
       }
     }
   },

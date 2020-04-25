@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "de": "Nordstuhl",
+        "en-GB": "Alpine Chair",
+        "en-US": "Alpine Chair",
+        "es": "Silla nórdica",
+        "fr": "Chaise nordique",
+        "it": "Sedia nordica",
+        "ja": "スカンジナビアなチェア"
+      }
     }
   }
 }

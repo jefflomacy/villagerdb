@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 40
+      },
+      "name": {
+        "zh-CN": "紫色包装纸",
+        "de": "Lila-Geschenkpapier's",
+        "en-GB": "Purple Wrapping Paper",
+        "es": "Papel de regalo violeta",
+        "fr": "Papier cadeau violet",
+        "it": "Carta da regalo viola",
+        "jp": "むらさきのラッピングペーパー",
+        "ko": "보라색 포장지",
+        "nl": "Paarse cadeaupapier",
+        "zh-TW": "紫色包裝紙",
+        "en-US": "Purple Wrapping Paper"
       }
     }
   },

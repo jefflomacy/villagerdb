@@ -22,6 +22,19 @@
         "blue": "Blue",
         "pink": "Pink",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Drinking-Straw Glasses",
+        "en-GB": "Drinking-Straw Glasses",
+        "de": "Strohhalmbrille",
+        "es": "Gafa pajita de refresco",
+        "fr": "Monture paille",
+        "it": "Montatura a cannuccia",
+        "nl": "Rietjesbril",
+        "zh-CN": "吸管眼镜",
+        "zh-TW": "吸管眼鏡",
+        "jp": "ストローメガネ",
+        "ko": "빨대 안경"
       }
     }
   },

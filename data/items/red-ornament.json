@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 50
+      },
+      "name": {
+        "zh-CN": "红色装饰品",
+        "de": "Rotschmuck's",
+        "en-GB": "Red Ornament",
+        "es": "Adorno rojo",
+        "fr": "Boule rouge",
+        "it": "Decorazione rossa",
+        "jp": "あかいオーナメント",
+        "ko": "빨간 오너먼트",
+        "nl": "Rode versiering",
+        "zh-TW": "紅色裝飾品",
+        "en-US": "Red Ornament"
       }
     }
   },

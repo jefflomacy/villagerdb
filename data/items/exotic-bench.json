@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1900
         }
-      ]
+      ],
+      "name": {
+        "de": "Orient-Bank",
+        "en-GB": "Exotic Bench",
+        "en-US": "Exotic Bench",
+        "es": "Banco exótico",
+        "fr": "Banc teck",
+        "it": "Panca esotica",
+        "ja": "アジアなベンチ"
+      }
     }
   }
 }

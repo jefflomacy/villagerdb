@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "布鹿斯的照片",
+        "de": "Foto's von Oswald",
+        "en-GB": "Bruce's Photo",
+        "es": "Foto de Aristo",
+        "fr": "Photo de Boubou",
+        "it": "Foto di Arturo",
+        "jp": "ブルースのしゃしん",
+        "ko": "브루스의 사진",
+        "nl": "Foto van Bruce",
+        "zh-TW": "布鹿斯的照片",
+        "en-US": "Bruce's Photo"
       }
     }
   },

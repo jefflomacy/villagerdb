@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Pappbusch",
+        "en-GB": "Hedge Standee",
+        "en-US": "Hedge Standee",
+        "es": "Seto atrezo",
+        "fr": "Buisson en carton",
+        "it": "Sagoma cespuglio",
+        "ja": "ハリボテのいけがき"
+      }
     },
     "nh": {
       "orderable": false,
@@ -38,6 +47,19 @@
         "hibiscus": "Hibiscus",
         "fall": "Fall",
         "winter": "Winter"
+      },
+      "name": {
+        "en-US": "Hedge Standee",
+        "en-GB": "Hedge Standee",
+        "de": "Pappbusch",
+        "es": "Seto de atrezo",
+        "fr": "Buisson en carton",
+        "it": "Sagoma di cespuglio",
+        "nl": "Decoratieheg",
+        "zh-CN": "树丛道具",
+        "zh-TW": "樹叢道具",
+        "jp": "ハリボテのいけがき",
+        "ko": "연극용 산울타리"
       }
     }
   }

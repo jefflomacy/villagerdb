@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 3336
         }
-      ]
+      ],
+      "name": {
+        "de": "Herbstlampe",
+        "en-GB": "Harvest Lamp",
+        "en-US": "Harvest Lamp",
+        "es": "Lámpara pavo",
+        "fr": "Lampe dindon",
+        "it": "Lampada autunno",
+        "ja": "ハーベストランプ"
+      }
     }
   }
 }

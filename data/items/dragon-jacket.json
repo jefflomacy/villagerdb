@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 5200
         }
-      ]
+      ],
+      "name": {
+        "de": "Drachenjacke",
+        "en-GB": "Dragon Jacket",
+        "en-US": "Dragon Jacket",
+        "es": "Cazadora dragón",
+        "fr": "Veste dragon",
+        "it": "Giacca blu e oro",
+        "ja": "ドラゴンのスカジャン"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -38,6 +47,19 @@
       ],
       "variations": {
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Dragon Jacket",
+        "en-GB": "Dragon Jacket",
+        "de": "Drachenjacke",
+        "es": "Cazadora dragón",
+        "fr": "Veste dragon",
+        "it": "Giacca drago",
+        "nl": "Drakenjasje",
+        "zh-CN": "龙纹飞行外套",
+        "zh-TW": "龍紋飛行外套",
+        "jp": "ドラゴンのスカジャン",
+        "ko": "용 점퍼"
       }
     }
   }

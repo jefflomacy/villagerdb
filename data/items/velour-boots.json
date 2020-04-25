@@ -19,6 +19,19 @@
         "brown": "Brown",
         "blue": "Blue",
         "mustard": "Mustard"
+      },
+      "name": {
+        "en-US": "Velour Boots",
+        "en-GB": "Velour Boots",
+        "de": "Paars Veloursstiefel",
+        "es": "Botín de velur",
+        "fr": "Paire de bottes en velours",
+        "it": "Paio di stivali di velour",
+        "nl": "Fluwelen laarzen",
+        "zh-CN": "天鹅绒靴",
+        "zh-TW": "絨面靴",
+        "jp": "ベロアブーツ",
+        "ko": "벨루어 부츠"
       }
     }
   },

@@ -23,6 +23,19 @@
         "orange": "Orange",
         "blue": "Blue",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Cropped Pants",
+        "en-GB": "Cropped Pants",
+        "de": "7/8-Hose",
+        "es": "Pantalón tres cuartos",
+        "fr": "Pantacourt",
+        "it": "Pantalone al polpaccio",
+        "nl": "Driekwartbroek",
+        "zh-CN": "七分裤",
+        "zh-TW": "七分褲",
+        "jp": "クロップドパンツ",
+        "ko": "크롭 팬츠"
       }
     }
   },

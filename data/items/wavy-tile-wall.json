@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1740
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Wavy-Tile Wall",
+        "en-GB": "Wavy-Tile Wall",
+        "de": "Wellenfliesenwand",
+        "es": "Pared gres ondulada",
+        "fr": "Mur ondulations",
+        "it": "Muro ondulato",
+        "nl": "Golventegelwand",
+        "zh-CN": "波浪砖墙",
+        "zh-TW": "波浪磚牆",
+        "jp": "ウェーブタイルのかべ",
+        "ko": "웨이브 타일 벽"
+      }
     }
   },
   "category": "Wallpaper"

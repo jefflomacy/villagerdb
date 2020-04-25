@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "庞克斯的照片",
+        "de": "Foto's von Sid",
+        "en-GB": "Cyd's Photo",
+        "es": "Foto de Ramón",
+        "fr": "Photo de Punk",
+        "it": "Foto di Sid",
+        "jp": "パンクスのしゃしん",
+        "ko": "펑크스의 사진",
+        "nl": "Foto van Cyd",
+        "zh-TW": "龐克斯的照片",
+        "en-US": "Cyd's Photo"
       }
     }
   },

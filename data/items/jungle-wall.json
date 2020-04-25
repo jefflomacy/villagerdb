@@ -27,7 +27,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Jungle Wall"
+      }
     },
     "nh": {
       "orderable": false,
@@ -40,6 +43,19 @@
         "wood": 3,
         "hardwood": 3,
         "softwood": 3
+      },
+      "name": {
+        "en-US": "Jungle Wall",
+        "en-GB": "Jungle Wall",
+        "de": "Dschungeltapete",
+        "es": "Pared jungla",
+        "fr": "Mur jungle",
+        "it": "Muro giungla",
+        "nl": "Junglewand",
+        "zh-CN": "丛林壁纸",
+        "zh-TW": "叢林壁紙",
+        "jp": "ジャングルのかべがみ",
+        "ko": "정글 벽"
       }
     }
   }

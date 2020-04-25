@@ -14,7 +14,16 @@
       },
       "sources": [
         "Harvest Festival"
-      ]
+      ],
+      "name": {
+        "de": "Fruchtkorb",
+        "en-GB": "Fruit Basket",
+        "en-US": "Fruit Basket",
+        "es": "Cesta de frutas",
+        "fr": "Panier de fruits",
+        "it": "Cestino di frutta",
+        "ja": "フルーツバスケット"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -26,7 +35,20 @@
           "currency": "bells",
           "value": 4000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Fruit Basket",
+        "en-GB": "Fruit Basket",
+        "de": "Fruchtkorb",
+        "es": "Cesta de frutas",
+        "fr": "Panier de fruits",
+        "it": "Cestino di frutta",
+        "nl": "Fruitmand",
+        "zh-CN": "水果篮",
+        "zh-TW": "水果籃",
+        "jp": "フルーツバスケット",
+        "ko": "과일 바구니"
+      }
     }
   }
 }

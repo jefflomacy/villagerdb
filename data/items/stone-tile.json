@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 2752
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Stone Tile"
+      }
     },
     "nh": {
       "orderable": true,
@@ -36,7 +39,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Stone Tile",
+        "en-GB": "Stone Tile",
+        "de": "Steinboden",
+        "es": "Losa piedra",
+        "fr": "Sol pavé",
+        "it": "Pavimento pietra",
+        "nl": "Stenen tegelvloer",
+        "zh-CN": "大理石地板",
+        "zh-TW": "大理石地板",
+        "jp": "だいりせきのゆか",
+        "ko": "대리석 바닥"
+      }
     }
   }
 }

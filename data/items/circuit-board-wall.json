@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Circuit-Board Wall",
+        "en-GB": "Circuit-Board Wall",
+        "de": "Leiterplattentapete",
+        "es": "Pared circuito integrado",
+        "fr": "Mur circuit imprimé",
+        "it": "Muro circuito stampato",
+        "nl": "Printplaatwand",
+        "zh-CN": "主机板墙",
+        "zh-TW": "主機板牆",
+        "jp": "きばんのかべ",
+        "ko": "전자 회로 벽"
+      }
     }
   },
   "category": "Wallpaper"

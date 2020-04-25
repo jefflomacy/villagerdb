@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 1380
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Slate Flooring"
+      }
     },
     "nh": {
       "orderable": true,
@@ -36,7 +39,20 @@
           "currency": "bells",
           "value": 1380
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Slate Flooring",
+        "en-GB": "Slate Flooring",
+        "de": "Schieferboden",
+        "es": "Suelo pizarra",
+        "fr": "Sol ardoises",
+        "it": "Pavimento ardesia",
+        "nl": "Leien vloer",
+        "zh-CN": "不规则石板地",
+        "zh-TW": "不規則石板地",
+        "jp": "ランダムなしきいし",
+        "ko": "마구 붙인 돌바닥"
+      }
     }
   }
 }

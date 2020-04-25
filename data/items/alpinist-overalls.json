@@ -17,6 +17,19 @@
         "green": "Green",
         "blue": "Blue",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Alpinist Overalls",
+        "en-GB": "Alpinist Overalls",
+        "de": "Gebirgs-Outfit",
+        "es": "Peto tirolés",
+        "fr": "Costume tyrolien",
+        "it": "Completo tirolese",
+        "nl": "Tiroler-Outfit",
+        "zh-CN": "提洛尔背带裤装",
+        "zh-TW": "提洛爾吊帶褲",
+        "jp": "チロリアンなオーバーオール",
+        "ko": "알프스풍 점프슈트"
       }
     }
   },

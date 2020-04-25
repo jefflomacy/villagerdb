@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Schultisch",
+        "en-GB": "School Desk",
+        "en-US": "School Desk",
+        "es": "Mesa escolar",
+        "fr": "Pupitre",
+        "it": "Banco",
+        "ja": "がっこうのつくえ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -42,6 +51,19 @@
         "white-red": "White & red",
         "gray-blue": "Gray & blue",
         "beige-green": "Beige & green"
+      },
+      "name": {
+        "en-US": "School Desk",
+        "en-GB": "School Desk",
+        "de": "Schultisch",
+        "es": "Mesa escolar",
+        "fr": "Pupitre",
+        "it": "Banco di scuola",
+        "nl": "Schoolbureau",
+        "zh-CN": "课桌",
+        "zh-TW": "學校桌子",
+        "jp": "がっこうのつくえ",
+        "ko": "학교 책상"
       }
     }
   }

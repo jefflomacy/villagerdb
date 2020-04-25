@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 352
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mom's Cool Kitchen Mat",
+        "en-GB": "Mom's Cool Kitchen Mat",
+        "de": "Cool-Matte von Mama",
+        "es": "Alfombra de mamá azul",
+        "fr": "Tap. cuisine de maman bleu",
+        "it": "Tappeto spavaldo di mamma",
+        "nl": "Mama's coole keukenmat",
+        "zh-CN": "酷感妈妈的厨房地垫",
+        "zh-TW": "酷感媽媽廚房地墊",
+        "jp": "クールなははのキッチンマット",
+        "ko": "쿨한 엄마의 키친 매트"
+      }
     }
   },
   "category": "Flooring"

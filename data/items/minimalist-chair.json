@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "de": "Minimalstuhl",
+        "en-GB": "Minimalist Chair",
+        "en-US": "Minimalist Chair",
+        "es": "Silla minimalista",
+        "fr": "Chaise minimaliste",
+        "it": "Sedia minimalista",
+        "ja": "シンプルなチェア"
+      }
     }
   }
 }

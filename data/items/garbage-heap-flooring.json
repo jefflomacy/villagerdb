@@ -13,6 +13,19 @@
         "empty-can": 2,
         "boot": 2,
         "old-tire": 2
+      },
+      "name": {
+        "en-US": "Garbage-Heap Flooring",
+        "en-GB": "Garbage-Heap Flooring",
+        "de": "Müllbergboden",
+        "es": "Suelo vertedero",
+        "fr": "Sol dépotoir",
+        "it": "Pavimento discarica",
+        "nl": "Stortplaatsvloer",
+        "zh-CN": "房间地板",
+        "zh-TW": "垃圾堆地板",
+        "jp": "おへやのゆか",
+        "ko": "쓰레기장 바닥"
       }
     }
   },

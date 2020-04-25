@@ -24,6 +24,19 @@
         "gray": "Gray",
         "white": "White",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Fedora",
+        "en-GB": "Fedora",
+        "de": "Filzhut",
+        "es": "Fedora",
+        "fr": "Borsalino",
+        "it": "Borsalino",
+        "nl": "Gleufhoed",
+        "zh-CN": "绅士帽",
+        "zh-TW": "紳士帽",
+        "jp": "なかおれハット",
+        "ko": "페도라"
       }
     }
   },

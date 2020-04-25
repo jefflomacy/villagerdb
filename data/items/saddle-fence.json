@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2180
         }
-      ]
+      ],
+      "name": {
+        "de": "Sattelablage",
+        "en-GB": "Saddle Fence",
+        "en-US": "Saddle Fence",
+        "es": "Valla con montura",
+        "fr": "Porte-selle",
+        "it": "Sella su recinto",
+        "ja": "くら"
+      }
     }
   }
 }

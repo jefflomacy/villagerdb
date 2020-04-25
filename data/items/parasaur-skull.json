@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Parasaurus-Schädel",
+        "en-GB": "Parasaur Skull",
+        "en-US": "Parasaur Skull",
+        "es": "Cráneo parasaurio",
+        "fr": "Crâne de parasauro",
+        "it": "Teschio parasauro",
+        "ja": "パラサウロロフスのあたま"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3500
+      },
+      "name": {
+        "en-US": "Parasaur Skull",
+        "en-GB": "Parasaur Skull",
+        "de": "Parasaurus-Schädel",
+        "es": "Cráneo parasaurio",
+        "fr": "Crâne de parasaurolophus",
+        "it": "Cranio parasauro",
+        "nl": "Parasaurolophuskop",
+        "zh-CN": "副栉龙的头",
+        "zh-TW": "副櫛龍的頭",
+        "jp": "パラサウロロフスのあたま",
+        "ko": "파라사우롤로푸스의 머리"
       }
     }
   }

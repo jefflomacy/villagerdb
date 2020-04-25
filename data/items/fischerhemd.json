@@ -15,6 +15,19 @@
       ],
       "variations": {
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Fischerhemd",
+        "en-GB": "Fischerhemd",
+        "de": "Fischerhemd",
+        "es": "Camisa fischerhemd",
+        "fr": "Fischerhemd",
+        "it": "Camicia fischerhemd",
+        "nl": "Visserskiel",
+        "zh-CN": "西欧渔夫衬衫",
+        "zh-TW": "漁夫襯衫",
+        "jp": "フィッシャーヘムト",
+        "ko": "어부 셔츠"
       }
     }
   },

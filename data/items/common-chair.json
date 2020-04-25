@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "de": "Normalstuhl",
+        "en-GB": "Common Chair",
+        "en-US": "Common Chair",
+        "es": "Silla básica",
+        "fr": "Chaise ordinaire",
+        "it": "Sedia comune",
+        "ja": "よくあるチェア"
+      }
     }
   }
 }

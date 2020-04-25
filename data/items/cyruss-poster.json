@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "健兆的海报",
+        "de": "Poster's von Björn",
+        "en-GB": "Cyrus's Poster",
+        "es": "Póster de Al",
+        "fr": "Poster de Serge",
+        "it": "Poster di Merino",
+        "jp": "カイゾーのポスター",
+        "ko": "리포의 포스터",
+        "nl": "Poster van Cyrus",
+        "zh-TW": "健兆的海報",
+        "en-US": "Cyrus's Poster"
+      }
     }
   },
   "category": "Photos"

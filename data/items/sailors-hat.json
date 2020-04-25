@@ -25,7 +25,16 @@
           "currency": "bells",
           "value": 15
         }
-      ]
+      ],
+      "name": {
+        "de": "Matrosenmütze",
+        "en-GB": "Sailor's Hat",
+        "en-US": "Sailor's Hat",
+        "es": "Gorro marinero",
+        "fr": "Bonnet marin",
+        "it": "Cappello marinaio",
+        "ja": "ふなのりのぼうし"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -42,6 +51,19 @@
         "white": "White",
         "navy-blue": "Navy blue",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Sailor's Hat",
+        "en-GB": "Sailor's Hat",
+        "de": "Matrosenmütze",
+        "es": "Gorro marinero",
+        "fr": "Bonnet marin",
+        "it": "Cappello da marinaio",
+        "nl": "Matrozenpet",
+        "zh-CN": "水手帽",
+        "zh-TW": "水手帽",
+        "jp": "ふなのりのぼうし",
+        "ko": "선원 모자"
       }
     }
   }

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "珍珍的海报",
+        "de": "Poster's von Monique",
+        "en-GB": "Monique's Poster",
+        "es": "Póster de Monique",
+        "fr": "Poster de Monique",
+        "it": "Poster di Maylin",
+        "jp": "ジェーンのポスター",
+        "ko": "제인의 포스터",
+        "nl": "Poster van Monique",
+        "zh-TW": "珍珍的海報",
+        "en-US": "Monique's Poster"
+      }
     }
   },
   "category": "Photos"

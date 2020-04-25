@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "剪刀的照片",
+        "de": "Foto's von Nele",
+        "en-GB": "Puddles's Photo",
+        "es": "Foto de Nenúfar",
+        "fr": "Photo de Rénata",
+        "it": "Foto di Grazia",
+        "jp": "チョキのしゃしん",
+        "ko": "가위의 사진",
+        "nl": "Foto van Puddles",
+        "zh-TW": "剪刀的照片",
+        "en-US": "Puddles's Photo"
       }
     }
   },

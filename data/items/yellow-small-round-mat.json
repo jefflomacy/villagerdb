@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Small Round Mat",
+        "en-GB": "Yellow Small Round Mat",
+        "de": "Gelb-Rundmatte S",
+        "es": "Alfombra redonda ocre P",
+        "fr": "Tapis rond jaune S",
+        "it": "Tappetino tondo giallo S",
+        "nl": "Gele kleine ronde mat",
+        "zh-CN": "黄色圆形地垫S",
+        "zh-TW": "小型黃色圓地墊",
+        "jp": "きいろいラウンドマット・S",
+        "ko": "노란 라운드 매트 S"
+      }
     }
   },
   "category": "Flooring"

@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 2200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Rush Tatami Flooring",
+        "en-GB": "Rush Tatami Flooring",
+        "de": "Binsen-Tatamibelag",
+        "es": "Tatami cuadrado beis",
+        "fr": "Sol tatamis paille de riz",
+        "it": "Tatami a quadrati di giunco",
+        "nl": "Bruine tatamivloer",
+        "zh-CN": "灯心草无边榻榻米",
+        "zh-TW": "燈心草無邊榻榻米",
+        "jp": "いぐさのふちなしたたみ",
+        "ko": "바둑판무늬 일본식 바닥"
+      }
     }
   },
   "category": "Flooring"

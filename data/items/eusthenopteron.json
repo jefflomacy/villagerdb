@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2000
+      },
+      "name": {
+        "en-US": "Eusthenopteron",
+        "en-GB": "Eusthenopteron",
+        "de": "Eusthenopteron",
+        "es": "Eustenopteron",
+        "fr": "Eusthénoptéron",
+        "it": "Eustenottero",
+        "nl": "Eusthenopteron",
+        "zh-CN": "新翼鱼",
+        "zh-TW": "新翼魚",
+        "jp": "ユーステノプテロン",
+        "ko": "에우스테놉테론"
       }
     }
   },

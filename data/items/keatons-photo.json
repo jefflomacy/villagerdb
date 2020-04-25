@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "法兰克的照片",
+        "de": "Foto's von Kai",
+        "en-GB": "Keaton's Photo",
+        "es": "Foto de Lucho",
+        "fr": "Photo d'enzo",
+        "it": "Foto di Aquilio",
+        "jp": "フランクのしゃしん",
+        "ko": "프랭크의 사진",
+        "nl": "Foto van Keaton",
+        "zh-TW": "法蘭克的照片",
+        "en-US": "Keaton's Photo"
       }
     }
   },

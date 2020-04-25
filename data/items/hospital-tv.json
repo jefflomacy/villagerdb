@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "de": "Minifernseher",
+        "en-GB": "Hospital TV",
+        "en-US": "Hospital TV",
+        "es": "Tele hospital",
+        "fr": "Mini-télévision",
+        "it": "TV da cucina",
+        "ja": "ていしょくやのテレビ"
+      }
     }
   }
 }

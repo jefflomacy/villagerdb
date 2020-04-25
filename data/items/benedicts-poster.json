@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "沛希的海报",
+        "de": "Poster's von Benedikt",
+        "en-GB": "Benedict's Poster",
+        "es": "Póster de Benito",
+        "fr": "Poster de Dimitri",
+        "it": "Poster di Biagio",
+        "jp": "ぺしみちのポスター",
+        "ko": "페니실린의 포스터",
+        "nl": "Poster van Benedict",
+        "zh-TW": "沛希的海報",
+        "en-US": "Benedict's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2540
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pink Playroom Wall",
+        "en-GB": "Pink Playroom Wall",
+        "de": "Rosa-Spieltapete",
+        "es": "Pared barquito rosa",
+        "fr": "Mur salle de jeu rose",
+        "it": "Muro stanza giochi rosa",
+        "nl": "Roze kinderkamerwand",
+        "zh-CN": "粉红色儿童房壁纸",
+        "zh-TW": "粉紅色兒童房壁紙",
+        "jp": "ピンクのキッズルームのかべがみ",
+        "ko": "핑크 놀이방 벽지"
+      }
     }
   },
   "category": "Wallpaper"

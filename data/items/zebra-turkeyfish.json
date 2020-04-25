@@ -11,7 +11,10 @@
       },
       "sources": [
         "In the sea."
-      ]
+      ],
+      "name": {
+        "en-US": "Zebra Turkeyfish"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 500
+      },
+      "name": {
+        "en-US": "Zebra Turkeyfish",
+        "en-GB": "Zebra Turkeyfish",
+        "de": "Rotfeuerfisch",
+        "es": "Pez león",
+        "fr": "Poisson-Scorpion",
+        "it": "Leone zebrato",
+        "nl": "Koraalduivel",
+        "zh-CN": "狮子鱼",
+        "zh-TW": "獅子魚",
+        "jp": "ミノカサゴ",
+        "ko": "쏨뱅이"
       }
     }
   }

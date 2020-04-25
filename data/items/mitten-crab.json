@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Mitten Crab"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2000
+      },
+      "name": {
+        "en-US": "Mitten Crab",
+        "en-GB": "Mitten Crab",
+        "de": "Wollhandkrabbe",
+        "es": "Cangrejo de Shanghái",
+        "fr": "Crabe chinois",
+        "it": "Granchio guantato",
+        "nl": "Wolhandkrab",
+        "zh-CN": "中华绒螯蟹",
+        "zh-TW": "中華絨螯蟹",
+        "jp": "シャンハイガニ",
+        "ko": "참게"
       }
     }
   }

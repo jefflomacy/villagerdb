@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Freiheitsstatue",
+        "en-GB": "Statue Of Liberty",
+        "en-US": "Statue Of Liberty",
+        "es": "Estatua Libertad",
+        "fr": "Statue de la Liberté",
+        "it": "Statua della Libertà",
+        "ja": "じゆうのめがみ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -29,7 +38,20 @@
           "currency": "bells",
           "value": 9200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Statue Of Liberty",
+        "en-GB": "Statue Of Liberty",
+        "de": "Freiheitsstatue",
+        "es": "Estatua de la Libertad",
+        "fr": "Statue de la Liberté",
+        "it": "Statua della Libertà",
+        "nl": "Vrijheidsbeeld",
+        "zh-CN": "自由女神像",
+        "zh-TW": "自由女神像",
+        "jp": "じゆうのめがみ",
+        "ko": "자유의 여신상"
+      }
     }
   }
 }

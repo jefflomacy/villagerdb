@@ -16,6 +16,19 @@
       "variations": {
         "white": "White",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Judogi",
+        "en-GB": "Judogi",
+        "de": "Judogi",
+        "es": "Uniforme de judo",
+        "fr": "Judogi",
+        "it": "Tenuta da judo",
+        "nl": "Judopak",
+        "zh-CN": "柔道服",
+        "zh-TW": "柔道服",
+        "jp": "じゅうどうぎ",
+        "ko": "유도복"
       }
     }
   },

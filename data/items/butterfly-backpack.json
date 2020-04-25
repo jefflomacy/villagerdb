@@ -15,6 +15,19 @@
       ],
       "variations": {
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Butterfly Backpack",
+        "en-GB": "Butterfly Backpack",
+        "de": "Schmetterlingsrucksack",
+        "es": "Mochila mariposa",
+        "fr": "Sac à dos papillon",
+        "it": "Zaino farfalla",
+        "nl": "Vlinderrugzak",
+        "zh-CN": "蝴蝶双肩包",
+        "zh-TW": "蝴蝶後背包",
+        "jp": "ちょうちょのバッグ",
+        "ko": "나비 가방"
       }
     }
   },

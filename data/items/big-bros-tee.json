@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Mario-Shirt",
+        "en-GB": "Big Bro's Tee",
+        "en-US": "Big Bro's Tee",
+        "es": "Camiseta M",
+        "fr": "T-shirt Mario",
+        "it": "Maglietta fratellone",
+        "ja": "おにいさんのふく"
+      }
     }
   }
 }

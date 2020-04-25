@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "茜蓝的照片",
+        "de": "Foto's von Fritzi",
+        "en-GB": "Broccolo's Photo",
+        "es": "Foto de Brócoli",
+        "fr": "Photo de Steven",
+        "it": "Foto di Franco",
+        "jp": "ブロッコリーのしゃしん",
+        "ko": "브로콜리의 사진",
+        "nl": "Foto van Broccolo",
+        "zh-TW": "茜藍的照片",
+        "en-US": "Broccolo's Photo"
       }
     }
   },

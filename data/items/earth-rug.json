@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Earth Rug",
+        "en-GB": "Earth Rug",
+        "de": "Weltteppich",
+        "es": "Alfombra mundo",
+        "fr": "Tapis Terre",
+        "it": "Tappeto Terra",
+        "nl": "Wereldboltapijt",
+        "zh-CN": "地球地毯",
+        "zh-TW": "地球地毯",
+        "jp": "ちきゅうのラグ",
+        "ko": "지구 러그"
+      }
     }
   },
   "category": "Flooring"

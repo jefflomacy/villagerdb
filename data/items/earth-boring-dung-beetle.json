@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 300
+      },
+      "name": {
+        "en-US": "Earth-Boring Dung Beetle",
+        "en-GB": "Earth-Boring Dung Beetle",
+        "de": "Gold-Mistkäfer",
+        "es": "Escarabajo geotrúpido",
+        "fr": "Geotrupidae",
+        "it": "Geotrupidae",
+        "nl": "Echte mestkever",
+        "zh-CN": "雪隐金龟",
+        "zh-TW": "雪隱金龜",
+        "jp": "オオセンチコガネ",
+        "ko": "보라금풍뎅이"
       }
     }
   },

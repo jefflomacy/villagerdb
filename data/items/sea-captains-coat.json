@@ -26,7 +26,10 @@
           "currency": "bells",
           "value": 720
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sea Captain's Coat"
+      }
     }
   }
 }

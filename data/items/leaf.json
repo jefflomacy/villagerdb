@@ -23,7 +23,10 @@
           "currency": "bells",
           "value": 120
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Leaf"
+      }
     },
     "nh": {
       "orderable": false,
@@ -37,6 +40,19 @@
       },
       "variations": {
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Leaf",
+        "en-GB": "Leaf",
+        "de": "Blattes",
+        "es": "Hoja",
+        "fr": "Feuille",
+        "it": "Foglia",
+        "nl": "Blaadje",
+        "zh-CN": "叶子",
+        "zh-TW": "葉子",
+        "jp": "はっぱ",
+        "ko": "나뭇잎"
       }
     }
   }

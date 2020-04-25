@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 6000
+      },
+      "name": {
+        "en-US": "Mahi-Mahi",
+        "en-GB": "Mahi-Mahi",
+        "de": "Goldmakrele",
+        "es": "Lampuga",
+        "fr": "Coryphène",
+        "it": "Lampuga",
+        "nl": "Goudmakreel",
+        "zh-CN": "鬼头刀",
+        "zh-TW": "鬼頭刀",
+        "jp": "シイラ",
+        "ko": "만새기"
       }
     }
   },

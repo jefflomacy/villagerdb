@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 60
+      },
+      "name": {
+        "zh-CN": "软木材",
+        "de": "Weichholz",
+        "en-GB": "Softwood",
+        "es": "Tabla flexible",
+        "fr": "Bois tendre",
+        "it": "Legno morbido",
+        "jp": "やわらかいもくざい",
+        "ko": "부드러운 목재",
+        "nl": "Zachthout",
+        "zh-TW": "軟木材",
+        "en-US": "Softwood"
       }
     }
   }

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "马星星的照片",
+        "de": "Foto's von Walli",
+        "en-GB": "Winnie's Photo",
+        "es": "Foto de Soonia",
+        "fr": "Photo d'anne",
+        "it": "Foto di Clara",
+        "jp": "マキバスターのしゃしん",
+        "ko": "카로틴의 사진",
+        "nl": "Foto van Winnie",
+        "zh-TW": "馬星星的照片",
+        "en-US": "Winnie's Photo"
       }
     }
   },

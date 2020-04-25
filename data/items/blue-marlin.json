@@ -11,7 +11,10 @@
       },
       "sources": [
         "In the sea."
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Marlin"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10000
+      },
+      "name": {
+        "en-US": "Blue Marlin",
+        "en-GB": "Blue Marlin",
+        "de": "Marlin",
+        "es": "Pez espada",
+        "fr": "Marlin bleu",
+        "it": "Marlin blu",
+        "nl": "Blauwe marlijn",
+        "zh-CN": "旗鱼",
+        "zh-TW": "旗魚",
+        "jp": "カジキ",
+        "ko": "청새치"
       }
     }
   }

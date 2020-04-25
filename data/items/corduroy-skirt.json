@@ -24,6 +24,19 @@
         "green": "Green",
         "light-gray": "Light gray",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Corduroy Skirt",
+        "en-GB": "Corduroy Skirt",
+        "de": "Cordrock",
+        "es": "Falda corta de pana",
+        "fr": "Jupe en velours côtelé",
+        "it": "Gonna di velluto a coste",
+        "nl": "Corduroy rokje",
+        "zh-CN": "灯芯绒短裙",
+        "zh-TW": "燈芯絨裙",
+        "jp": "コーデュロイスカート",
+        "ko": "코듀로이 치마"
       }
     }
   },

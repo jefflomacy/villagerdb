@@ -12,6 +12,19 @@
         "green-bamboo": "Green bamboo",
         "dried-bamboo": "Dried bamboo",
         "smoke-cured-bamboo": "Smoke-cured bamboo"
+      },
+      "name": {
+        "en-US": "Bamboo Speaker",
+        "en-GB": "Bamboo Speaker",
+        "de": "Bambus-Lautsprecher",
+        "es": "Altavoz de bambú",
+        "fr": "Enceinte en bambou",
+        "it": "Altoparlante di bambù",
+        "nl": "Bamboeluidspreker",
+        "zh-CN": "竹制扬声器",
+        "zh-TW": "竹廣播喇叭",
+        "jp": "たけのスピーカー",
+        "ko": "대나무 스피커"
       }
     }
   },

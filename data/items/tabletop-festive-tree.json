@@ -20,6 +20,19 @@
         "pink": "Pink",
         "gold": "Gold",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Tabletop Festive Tree",
+        "en-GB": "Tabletop Festive Tree",
+        "de": "Tischtannenbaum",
+        "es": "Árbol festivo de sobremesa",
+        "fr": "Sapin décoré miniature",
+        "it": "Albero festivo da tavolo",
+        "nl": "Tafelfeestboompje",
+        "zh-CN": "桌上圣诞树",
+        "zh-TW": "桌上聖誕樹",
+        "jp": "テーブルクリスマスツリー",
+        "ko": "탁상 크리스마스트리"
       }
     }
   },

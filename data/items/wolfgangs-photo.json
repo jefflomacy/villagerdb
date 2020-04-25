@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "罗博的照片",
+        "de": "Foto's von Weber",
+        "en-GB": "Wolfgang's Photo",
+        "es": "Foto de Wolfi",
+        "fr": "Photo de Wolfgang",
+        "it": "Foto di Wolfgang",
+        "jp": "ロボのしゃしん",
+        "ko": "로보의 사진",
+        "nl": "Foto van Wolfgang",
+        "zh-TW": "羅博的照片",
+        "en-US": "Wolfgang's Photo"
       }
     }
   },

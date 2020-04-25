@@ -20,6 +20,19 @@
       "variations": {
         "real": "Real",
         "fake": "Fake"
+      },
+      "name": {
+        "en-US": "Academic Painting",
+        "en-GB": "Academic Painting",
+        "de": "Wissenschaftsgemälde",
+        "es": "Cuadro anatómico",
+        "fr": "Toile académique",
+        "it": "Quadro accademico",
+        "nl": "Academische schilderij",
+        "zh-CN": "学术性的名画",
+        "zh-TW": "學術性的名畫",
+        "jp": "アカデミックなめいが",
+        "ko": "아카데믹한 명화"
       }
     }
   },

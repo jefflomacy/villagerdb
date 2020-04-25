@@ -14,7 +14,10 @@
           "currency": "bells",
           "value": 6000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Giant Ant"
+      }
     }
   }
 }

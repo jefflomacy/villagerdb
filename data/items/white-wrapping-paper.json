@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 40
+      },
+      "name": {
+        "zh-CN": "白色包装纸",
+        "de": "Weiß-Geschenkpapier's",
+        "en-GB": "White Wrapping Paper",
+        "es": "Papel de regalo blanco",
+        "fr": "Papiers cadeau blancs",
+        "it": "Carta da regalo bianca",
+        "jp": "しろいラッピングペーパー",
+        "ko": "하얀색 포장지",
+        "nl": "Witte cadeaupapier",
+        "zh-TW": "白色包裝紙",
+        "en-US": "White Wrapping Paper"
       }
     }
   },

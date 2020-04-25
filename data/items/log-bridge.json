@@ -8,7 +8,20 @@
           "currency": "bells",
           "value": 98000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Log Bridge",
+        "en-GB": "Log Bridge",
+        "de": "Baumstammbrücke",
+        "es": "Puente de troncos",
+        "fr": "Pont en rondins",
+        "it": "Ponte di tronchi",
+        "nl": "Boomstammenbrug",
+        "zh-CN": "圆木桥",
+        "zh-TW": "圓木橋",
+        "jp": "まるたのはし",
+        "ko": "통나무 다리"
+      }
     }
   },
   "category": "Furniture"

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "牛奶糖的照片",
+        "de": "Foto's von Bienchen",
+        "en-GB": "Goldie's Photo",
+        "es": "Foto de Tere",
+        "fr": "Photo de Mirza",
+        "it": "Foto di Dora",
+        "jp": "キャラメルのしゃしん",
+        "ko": "카라멜의 사진",
+        "nl": "Foto van Goldie",
+        "zh-TW": "牛奶糖的照片",
+        "en-US": "Goldie's Photo"
       }
     }
   },

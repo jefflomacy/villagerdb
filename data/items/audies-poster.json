@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "莫妮卡的海报",
+        "de": "Poster's von Katharina",
+        "en-GB": "Audie's Poster",
+        "es": "Póster de Audie",
+        "fr": "Poster de Monica",
+        "it": "Poster di Lupilia",
+        "jp": "モニカのポスター",
+        "ko": "모니카의 포스터",
+        "nl": "Poster van Audie",
+        "zh-TW": "莫妮卡的海報",
+        "en-US": "Audie's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "百川的海报",
+        "de": "Poster's von Philip",
+        "en-GB": "Snake's Poster",
+        "es": "Póster de Rayo",
+        "fr": "Poster de Jeannot",
+        "it": "Poster di Razzo",
+        "jp": "モモチのポスター",
+        "ko": "닌토의 포스터",
+        "nl": "Poster van Snake",
+        "zh-TW": "百川的海報",
+        "en-US": "Snake's Poster"
+      }
     }
   },
   "category": "Photos"

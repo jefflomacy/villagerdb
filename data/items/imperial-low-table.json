@@ -18,6 +18,19 @@
         "blue": "Blue",
         "brown": "Brown",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Imperial Low Table",
+        "en-GB": "Imperial Low Table",
+        "de": "Asiensofatisch",
+        "es": "Mesa baja dinastía",
+        "fr": "Table basse impériale",
+        "it": "Tavolinetto dinastia",
+        "nl": "Keizerlijke bijzettafel",
+        "zh-CN": "东方风矮桌",
+        "zh-TW": "東方風矮桌",
+        "jp": "オリエンタルなローテーブル",
+        "ko": "오리엔탈 낮은 테이블"
       }
     }
   },

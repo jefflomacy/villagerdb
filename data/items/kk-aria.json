@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Aria"
+      }
     },
     "nh": {
       "orderable": true,
@@ -37,7 +40,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Aria",
+        "en-GB": "K.K. Aria",
+        "de": "K.K. Arie",
+        "es": "Tota-Aria",
+        "fr": "Aria de Kéké",
+        "it": "K.K. Aria",
+        "nl": "K.K.-Aria",
+        "zh-CN": "K.K.咏叹调",
+        "zh-TW": "K.K.詠嘆調",
+        "jp": "けけマリア",
+        "ko": "K.K.마리아",
+        "ru": "Ария К. К."
+      }
     }
   }
 }

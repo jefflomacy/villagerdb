@@ -22,6 +22,19 @@
         "pink": "Pink",
         "blue": "Blue",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Toy Box",
+        "en-GB": "Toy Box",
+        "de": "Spielzeugkiste",
+        "es": "Cajón de los juguetes",
+        "fr": "Boîte à jouets",
+        "it": "Scatola di giocattoli",
+        "nl": "Doos speelgoed",
+        "zh-CN": "玩具箱",
+        "zh-TW": "玩具箱",
+        "jp": "おもちゃばこ",
+        "ko": "장난감 상자"
       }
     }
   },

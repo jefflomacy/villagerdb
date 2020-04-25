@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Plesiosaurus-Torso",
+        "en-GB": "Plesio Torso",
+        "en-US": "Plesio Torso",
+        "es": "Cuerpo plesiosaurio",
+        "fr": "Corps de plésiosaure",
+        "it": "Torso plesiosauro",
+        "ja": "スズキリュウのからだ"
+      }
     }
   }
 }

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "娣雅的海报",
+        "de": "Poster's von Dina",
+        "en-GB": "Deirdre's Poster",
+        "es": "Póster de Venada",
+        "fr": "Poster de Bichoune",
+        "it": "Poster di Daria",
+        "jp": "ナディアのポスター",
+        "ko": "나디아의 포스터",
+        "nl": "Poster van Deirdre",
+        "zh-TW": "娣雅的海報",
+        "en-US": "Deirdre's Poster"
+      }
     }
   },
   "category": "Photos"

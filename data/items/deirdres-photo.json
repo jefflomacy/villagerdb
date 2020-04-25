@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "娣雅的照片",
+        "de": "Foto's von Dina",
+        "en-GB": "Deirdre's Photo",
+        "es": "Foto de Venada",
+        "fr": "Photo de Bichoune",
+        "it": "Foto di Daria",
+        "jp": "ナディアのしゃしん",
+        "ko": "나디아의 사진",
+        "nl": "Foto van Deirdre",
+        "zh-TW": "娣雅的照片",
+        "en-US": "Deirdre's Photo"
       }
     }
   },

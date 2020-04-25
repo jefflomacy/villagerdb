@@ -11,7 +11,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Trilobit",
+        "en-GB": "Trilobite",
+        "en-US": "Trilobite",
+        "es": "Trilobites",
+        "fr": "Trilobite",
+        "it": "Trilobite",
+        "ja": "さんようちゅう"
+      }
     },
     "nh": {
       "orderable": false,
@@ -21,6 +30,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1300
+      },
+      "name": {
+        "en-US": "Trilobite",
+        "en-GB": "Trilobite",
+        "de": "Trilobit",
+        "es": "Trilobites",
+        "fr": "Trilobite",
+        "it": "Trilobite",
+        "nl": "Trilobiet",
+        "zh-CN": "三叶虫",
+        "zh-TW": "三葉蟲",
+        "jp": "さんようちゅう",
+        "ko": "삼엽충"
       }
     }
   }

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "艾德豪的海报",
+        "de": "Poster's von Bernd",
+        "en-GB": "Kody's Poster",
+        "es": "Póster de Orestes",
+        "fr": "Poster de Bill",
+        "it": "Poster di Salomone",
+        "jp": "アイダホのポスター",
+        "ko": "아이다호의 포스터",
+        "nl": "Poster van Kody",
+        "zh-TW": "艾德豪的海報",
+        "en-US": "Kody's Poster"
+      }
     }
   },
   "category": "Photos"

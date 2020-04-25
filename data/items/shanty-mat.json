@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 720
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Shanty Mat"
+      }
     },
     "nh": {
       "sources": [
@@ -37,7 +40,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Shanty Mat",
+        "en-GB": "Shanty Mat",
+        "de": "Schilfteppich",
+        "es": "Alfombra cañizo",
+        "fr": "Tapis de paille",
+        "it": "Tappeto capanna",
+        "nl": "Rietmat",
+        "zh-CN": "老旧草席",
+        "zh-TW": "舊草蓆",
+        "jp": "ふるいむしろのラグ",
+        "ko": "낡은 멍석 러그"
+      }
     }
   }
 }

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Wandlautsprecher",
+        "en-GB": "School Speaker",
+        "en-US": "School Speaker",
+        "es": "Altavoz colegio",
+        "fr": "Haut-parleur",
+        "it": "Altoparlante",
+        "ja": "がっこうのスピーカー"
+      }
     }
   }
 }

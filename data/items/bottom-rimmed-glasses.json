@@ -21,6 +21,19 @@
         "yellow": "Yellow",
         "pink": "Pink",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Bottom-Rimmed Glasses",
+        "en-GB": "Bottom-Rimmed Glasses",
+        "de": "Halbrandbrille",
+        "es": "Gafa montura inferior",
+        "fr": "Monture demi-lune",
+        "it": "Montatura a mezzaluna",
+        "nl": "Bril zonder bovenrand",
+        "zh-CN": "下半框眼镜",
+        "zh-TW": "下半框眼鏡",
+        "jp": "アンダーリムめがね",
+        "ko": "역반무테 안경"
       }
     }
   },

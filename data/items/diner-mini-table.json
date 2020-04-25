@@ -21,6 +21,19 @@
         "pink": "Pink",
         "cream": "Cream",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Diner Mini Table",
+        "en-GB": "Diner Mini Table",
+        "de": "Diner-Tisch",
+        "es": "Mesita café años 50",
+        "fr": "Guéridon années 50",
+        "it": "Tavolino bar anni '50",
+        "nl": "Jaren 50-tafeltje",
+        "zh-CN": "用餐小桌",
+        "zh-TW": "餐館小桌",
+        "jp": "ダイナーなミニテーブル",
+        "ko": "다이너 미니 테이블"
       }
     }
   },

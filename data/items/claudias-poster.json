@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "马丽莲的海报",
+        "de": "Poster's von Lilly",
+        "en-GB": "Claudia's Poster",
+        "es": "Póster de Lilu",
+        "fr": "Poster de Vanina",
+        "it": "Poster di Lilla",
+        "jp": "マリリンのポスター",
+        "ko": "신디의 포스터",
+        "nl": "Poster van Claudia",
+        "zh-TW": "馬麗蓮的海報",
+        "en-US": "Claudia's Poster"
+      }
     }
   },
   "category": "Photos"

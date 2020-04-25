@@ -16,6 +16,19 @@
       ],
       "recipe": {
         "gold-nugget": 3
+      },
+      "name": {
+        "en-US": "Golden Arowana Model",
+        "en-GB": "Golden Arowana Model",
+        "de": "Gold-Arowana-Modell",
+        "es": "Trofeo arowana de oro",
+        "fr": "Arowana en or",
+        "it": "Replica di arowana in oro",
+        "nl": "Model-Gouden-Arowana",
+        "zh-CN": "金色骨舌鱼",
+        "zh-TW": "金色骨舌魚",
+        "jp": "きんのアロワナ",
+        "ko": "금 아로와나"
       }
     }
   },

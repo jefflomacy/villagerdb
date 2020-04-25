@@ -17,6 +17,19 @@
         "red": "Red",
         "white": "White",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Tulip Surprise Box",
+        "en-GB": "Tulip Surprise Box",
+        "de": "Überraschungstulpe",
+        "es": "Caja sorpresa tulipán",
+        "fr": "Boîte à malice tulipe",
+        "it": "Scatola a sorpresa tulipano",
+        "nl": "Verrassingstulp",
+        "zh-CN": "郁金香惊吓箱",
+        "zh-TW": "鬱金香驚嚇箱",
+        "jp": "チューリップのビックリばこ",
+        "ko": "튤립 깜짝 상자"
       }
     }
   },

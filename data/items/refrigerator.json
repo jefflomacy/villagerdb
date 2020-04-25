@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Kühlschrank",
+        "en-GB": "Refrigerator",
+        "en-US": "Refrigerator",
+        "es": "Frigorífico",
+        "fr": "Réfrigérateur",
+        "it": "Frigorifero",
+        "ja": "れいぞうこ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -79,6 +88,19 @@
         "silver-rock": "Silver / Rock",
         "silver-fruits": "Silver / Fruits",
         "silver-notices": "Silver / Notices"
+      },
+      "name": {
+        "en-US": "Refrigerator",
+        "en-GB": "Refrigerator",
+        "de": "Kühlschrank",
+        "es": "Frigorífico",
+        "fr": "Réfrigérateur",
+        "it": "Frigorifero",
+        "nl": "Koelkast",
+        "zh-CN": "冰箱",
+        "zh-TW": "冰箱",
+        "jp": "れいぞうこ",
+        "ko": "냉장고"
       }
     }
   }

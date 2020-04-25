@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1850
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Two-Toned Tile Wall",
+        "en-GB": "Red Two-Toned Tile Wall",
+        "de": "Rot-Weiß-Fliesenwand",
+        "es": "Pared damero rojo",
+        "fr": "Mur carrelé bicolore rouge",
+        "it": "Muro piastrelle biancorosso",
+        "nl": "Rode tegelpatroonwand",
+        "zh-CN": "红色撞色砖墙",
+        "zh-TW": "紅色撞色磚牆",
+        "jp": "あかいツートンタイルのかべ",
+        "ko": "빨간 투톤 타일 벽"
+      }
     }
   },
   "category": "Wallpaper"

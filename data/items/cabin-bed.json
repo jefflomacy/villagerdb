@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Blockhausbett",
+        "en-GB": "Cabin Bed",
+        "en-US": "Cabin Bed",
+        "es": "Cama cabaña",
+        "fr": "Lit chalet",
+        "it": "Letto rustico",
+        "ja": "ログベッド"
+      }
     }
   }
 }

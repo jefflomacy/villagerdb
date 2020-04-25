@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "布兰妮的照片",
+        "de": "Foto's von Brigitte",
+        "en-GB": "Pancetti's Photo",
+        "es": "Foto de Talía",
+        "fr": "Photo de Lydie",
+        "it": "Foto di Cicciola",
+        "jp": "ブリトニーのしゃしん",
+        "ko": "브리트니의 사진",
+        "nl": "Foto van Pancetti",
+        "zh-TW": "布蘭妮的照片",
+        "en-US": "Pancetti's Photo"
       }
     }
   },

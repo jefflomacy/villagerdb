@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "沛希的照片",
+        "de": "Foto's von Benedikt",
+        "en-GB": "Benedict's Photo",
+        "es": "Foto de Benito",
+        "fr": "Photo de Dimitri",
+        "it": "Foto di Biagio",
+        "jp": "ぺしみちのしゃしん",
+        "ko": "페니실린의 사진",
+        "nl": "Foto van Benedict",
+        "zh-TW": "沛希的照片",
+        "en-US": "Benedict's Photo"
       }
     }
   },

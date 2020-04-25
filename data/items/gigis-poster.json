@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "林妲的海报",
+        "de": "Poster's von Violetta",
+        "en-GB": "Gigi's Poster",
+        "es": "Póster de Cleo",
+        "fr": "Poster de Gloria",
+        "it": "Poster di Raganà",
+        "jp": "リンダのポスター",
+        "ko": "린다의 포스터",
+        "nl": "Poster van Gigi",
+        "zh-TW": "林妲的海報",
+        "en-US": "Gigi's Poster"
+      }
     }
   },
   "category": "Photos"

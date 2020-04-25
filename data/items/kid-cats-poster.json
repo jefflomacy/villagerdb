@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿一的海报",
+        "de": "Poster's von Pit",
+        "en-GB": "Kid Cat's Poster",
+        "es": "Póster de Gatomán",
+        "fr": "Poster de Câlin",
+        "it": "Poster di Zampa",
+        "jp": "１ごうのポスター",
+        "ko": "1호의 포스터",
+        "nl": "Poster van Kid Cat",
+        "zh-TW": "阿一的海報",
+        "en-US": "Kid Cat's Poster"
+      }
     }
   },
   "category": "Photos"

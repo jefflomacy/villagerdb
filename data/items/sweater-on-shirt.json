@@ -19,6 +19,19 @@
         "yellow": "Yellow",
         "green": "Green",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Sweater On Shirt",
+        "en-GB": "Sweater On Shirt",
+        "de": "Umhängepullover",
+        "es": "Camisa con jersey",
+        "fr": "Pull distingué",
+        "it": "Camicia precisina",
+        "nl": "Blouse met omgeslagen trui",
+        "zh-CN": "时髦上装",
+        "zh-TW": "時髦衣服",
+        "jp": "トレンディーなふく",
+        "ko": "트렌디 옷"
       }
     }
   },

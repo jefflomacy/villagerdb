@@ -14,7 +14,16 @@
       },
       "sources": [
         "Fireworks Show (Isabelle)"
-      ]
+      ],
+      "name": {
+        "de": "Leuchtkugelfühler",
+        "en-GB": "Bulb Bopper",
+        "en-US": "Bulb Bopper",
+        "es": "Diadema luciérnagas",
+        "fr": "Serre-tête lumières",
+        "it": "Paio antenne fluo",
+        "ja": "ひかるボールアクセサリー"
+      }
     }
   }
 }

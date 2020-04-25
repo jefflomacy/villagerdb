@@ -17,6 +17,19 @@
         "brown": "Brown",
         "green": "Green",
         "blue-gray": "Blue-gray"
+      },
+      "name": {
+        "en-US": "Frugal Outfit",
+        "en-GB": "Frugal Outfit",
+        "de": "Lumpen-Outfit",
+        "es": "Traje roñoso",
+        "fr": "Tenue rapiécée",
+        "it": "Completo modesto",
+        "nl": "Opgelapte outfit",
+        "zh-CN": "简朴套装",
+        "zh-TW": "簡樸衣服",
+        "jp": "しっそなふく",
+        "ko": "누더기 옷"
       }
     }
   },

@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "name": {
+        "de": "Schaukelwidder",
+        "en-GB": "Aries Rocking Chair",
+        "en-US": "Aries Rocking Chair",
+        "es": "Mecedora Aries",
+        "fr": "Bélier à bascule",
+        "it": "Ariete a dondolo",
+        "ja": "アリエスのもくば"
+      }
     },
     "nh": {
       "orderable": false,
@@ -31,6 +40,19 @@
         "aries-fragment": 2,
         "gold-nugget": 1,
         "stone": 5
+      },
+      "name": {
+        "en-US": "Aries Rocking Chair",
+        "en-GB": "Aries Rocking Chair",
+        "de": "Schaukelwidder",
+        "es": "Mecedora Aries",
+        "fr": "Bélier à bascule",
+        "it": "Ariete a dondolo",
+        "nl": "Hobbel-Ram",
+        "zh-CN": "白羊座木马",
+        "zh-TW": "牡羊座木馬",
+        "jp": "アリエスのもくば",
+        "ko": "양자리 목마"
       }
     }
   }

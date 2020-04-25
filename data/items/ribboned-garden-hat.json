@@ -18,6 +18,19 @@
         "pink": "Pink",
         "black": "Black",
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Ribboned Garden Hat",
+        "en-GB": "Ribboned Garden Hat",
+        "de": "Schleifchen-Strohhut",
+        "es": "Sombrero de paja con lazo",
+        "fr": "Chapeau de jardin à ruban",
+        "it": "Paglietta con nastrino",
+        "nl": "Tuinhoed met strik",
+        "zh-CN": "带蝴蝶结草帽",
+        "zh-TW": "蝴蝶結草帽",
+        "jp": "リボンつきむぎわらぼうし",
+        "ko": "리본 밀짚모자"
       }
     }
   },

@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Simple Medium Red Mat",
+        "en-GB": "Simple Medium Red Mat",
+        "de": "Rot-Standardmatte M",
+        "es": "Alfombra sencilla roja M",
+        "fr": "Tapis simple rouge M",
+        "it": "Tappetino rosso M",
+        "nl": "Simpele rode mat",
+        "zh-CN": "红色简约地垫M",
+        "zh-TW": "中型紅色簡約地墊",
+        "jp": "あかいシンプルマット・M",
+        "ko": "빨간 심플 매트 M"
+      }
     }
   },
   "category": "Flooring"

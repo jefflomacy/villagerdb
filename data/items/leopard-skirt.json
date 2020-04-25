@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Leopardenrock",
+        "en-GB": "Leopard Skirt",
+        "en-US": "Leopard Skirt",
+        "es": "Falda leopardo",
+        "fr": "Jupe léopard",
+        "it": "Gonna leopardo",
+        "ja": "ヒョウがらのスカート"
+      }
     }
   }
 }

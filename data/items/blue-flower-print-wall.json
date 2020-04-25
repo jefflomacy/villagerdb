@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1780
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Flower-Print Wall",
+        "en-GB": "Blue Flower-Print Wall",
+        "de": "Blau-Blumentapete",
+        "es": "Pared floral azul",
+        "fr": "Mur à fleurs bleu",
+        "it": "Muro stampa floreale blu",
+        "nl": "Blauwe bloemenwand",
+        "zh-CN": "蓝色花纹壁纸",
+        "zh-TW": "藍色花紋壁紙",
+        "jp": "ブルーのはながらかべがみ",
+        "ko": "파란 꽃무늬 벽지"
+      }
     }
   },
   "category": "Wallpaper"

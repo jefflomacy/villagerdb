@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "肯肯的照片",
+        "de": "Foto's von Konrad",
+        "en-GB": "Goose's Photo",
+        "es": "Foto de Gus",
+        "fr": "Photo de Pouli",
+        "it": "Foto di Chiricò",
+        "jp": "ケンタのしゃしん",
+        "ko": "건태의 사진",
+        "nl": "Foto van Goose",
+        "zh-TW": "肯肯的照片",
+        "en-US": "Goose's Photo"
       }
     }
   },

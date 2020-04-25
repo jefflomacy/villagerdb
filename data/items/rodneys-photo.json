@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "米米的照片",
+        "de": "Foto's von Reinhold",
+        "en-GB": "Rodney's Photo",
+        "es": "Foto de Chusquis",
+        "fr": "Photo de Chico",
+        "it": "Foto di Rosikkio",
+        "jp": "ジミーのしゃしん",
+        "ko": "지미의 사진",
+        "nl": "Foto van Rodney",
+        "zh-TW": "米米的照片",
+        "en-US": "Rodney's Photo"
       }
     }
   },

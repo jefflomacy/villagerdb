@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 5400
         }
-      ]
+      ],
+      "name": {
+        "de": "Hi-Fi-Anlage",
+        "en-GB": "Hi-Fi Stereo",
+        "en-US": "Hi-Fi Stereo",
+        "es": "Cadena hi-fi",
+        "fr": "Chaîne hi-fi",
+        "it": "Stereo hi-fi",
+        "ja": "こうきゅうコンポ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -32,7 +41,20 @@
           "currency": "bells",
           "value": 82000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Hi-Fi Stereo",
+        "en-GB": "Hi-Fi Stereo",
+        "de": "Hi-Fi-Anlage",
+        "es": "Cadena hi-fi",
+        "fr": "Chaîne hi-fi",
+        "it": "Stereo hi-fi",
+        "nl": "Hifi-Installatie",
+        "zh-CN": "高级音响",
+        "zh-TW": "高級音響",
+        "jp": "こうきゅうコンポ",
+        "ko": "고급 오디오"
+      }
     }
   }
 }

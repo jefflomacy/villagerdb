@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 2600
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Fortune-Cookie Cart",
+        "en-GB": "Fortune-Cookie Cart",
+        "de": "Glückskeks-Wagen",
+        "es": "Puesto de galletas fortuna",
+        "fr": "Chariot gâteau de la chance",
+        "it": "Carretto biscotti fortuna",
+        "nl": "Gelukskoekjesstalletje",
+        "zh-CN": "幸运饼干小货车",
+        "zh-TW": "幸運餅乾推車",
+        "jp": "フォーチュンクッキーワゴン",
+        "ko": "운세 쿠키 왜건"
+      }
     }
   },
   "category": "Furniture"

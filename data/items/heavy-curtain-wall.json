@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Heavy-Curtain Wall",
+        "en-GB": "Heavy-Curtain Wall",
+        "de": "Bühnenvorhangwand",
+        "es": "Pared telón",
+        "fr": "Mur rideau de velours",
+        "it": "Muro sipario",
+        "nl": "Theatergordijn",
+        "zh-CN": "舞台布幕墙",
+        "zh-TW": "舞台布幕牆",
+        "jp": "どんちょうのかべ",
+        "ko": "극장 커튼 벽"
+      }
     }
   },
   "category": "Wallpaper"

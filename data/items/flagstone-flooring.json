@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1700
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Flagstone Flooring",
+        "en-GB": "Flagstone Flooring",
+        "de": "Sandsteinboden",
+        "es": "Empedrado irregular",
+        "fr": "Sol pierre naturelle",
+        "it": "Pavimento lastricato",
+        "nl": "Leistenen vloer",
+        "zh-CN": "石板地板",
+        "zh-TW": "石板地板",
+        "jp": "フラッグストーンなゆか",
+        "ko": "플래그스톤 바닥"
+      }
     }
   },
   "category": "Flooring"

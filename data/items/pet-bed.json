@@ -30,6 +30,19 @@
         "white-polka-dots": "White / Polka dots",
         "white-checkered": "White / Checkered",
         "white-floral": "White / Floral"
+      },
+      "name": {
+        "en-US": "Pet Bed",
+        "en-GB": "Pet Bed",
+        "de": "Katzenkörbchen",
+        "es": "Cama para mascotas",
+        "fr": "Panier pour animal",
+        "it": "Lettino per animali",
+        "nl": "Hondenmand",
+        "zh-CN": "宠物床",
+        "zh-TW": "寵物床",
+        "jp": "ペットのベッド",
+        "ko": "반려동물 침대"
       }
     }
   },

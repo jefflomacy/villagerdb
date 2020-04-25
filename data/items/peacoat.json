@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Dufflecoat",
+        "en-GB": "Peacoat",
+        "en-US": "Peacoat",
+        "es": "Trenca azul",
+        "fr": "Duffel-coat",
+        "it": "Giacca montgomery",
+        "ja": "ダッフルコート"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -38,6 +47,19 @@
         "red": "Red",
         "beige": "Beige",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Peacoat",
+        "en-GB": "Peacoat",
+        "de": "Dufflecoat",
+        "es": "Trenca",
+        "fr": "Duffel-Coat",
+        "it": "Giacca montgomery",
+        "nl": "Wollen jas",
+        "zh-CN": "羊毛混纺牛角扣大衣",
+        "zh-TW": "羊毛混紡牛角釦大衣",
+        "jp": "ダッフルコート",
+        "ko": "더플코트"
       }
     }
   }

@@ -16,6 +16,19 @@
       "variations": {
         "white": "White",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Sweet Dress",
+        "en-GB": "Sweet Dress",
+        "de": "Engelskleid",
+        "es": "Vestido adorable",
+        "fr": "Robe angélique",
+        "it": "Vestito dolce",
+        "nl": "Schattige jurk",
+        "zh-CN": "天使连身裙",
+        "zh-TW": "天使連身裙",
+        "jp": "エンジェルなワンピース",
+        "ko": "천사 원피스"
       }
     }
   },

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "戴维的照片",
+        "de": "Foto's von Herbert",
+        "en-GB": "Hippeux's Photo",
+        "es": "Foto de Hipóleo",
+        "fr": "Photo de Paulito",
+        "it": "Foto di Poppy",
+        "jp": "ディビッドのしゃしん",
+        "ko": "데이빗의 사진",
+        "nl": "Foto van Hippeux",
+        "zh-TW": "戴維的照片",
+        "en-US": "Hippeux's Photo"
       }
     }
   },

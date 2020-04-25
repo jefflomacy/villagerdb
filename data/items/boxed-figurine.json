@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 500
         }
-      ]
+      ],
+      "name": {
+        "de": "Spielzeugfiguren-Set",
+        "en-GB": "Boxed Figurine",
+        "en-US": "Boxed Figurine",
+        "es": "Muñeco de juguete",
+        "fr": "Figurine jouet",
+        "it": "Figura giocattolo",
+        "ja": "はこいりフィギュア"
+      }
     }
   }
 }

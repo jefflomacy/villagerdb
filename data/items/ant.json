@@ -14,7 +14,10 @@
         "candies",
         "lollipops",
         "and rotten fruits are left on the ground."
-      ]
+      ],
+      "name": {
+        "en-US": "Ant"
+      }
     },
     "nh": {
       "orderable": false,
@@ -25,6 +28,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 80
+      },
+      "name": {
+        "en-US": "Ant",
+        "en-GB": "Ant",
+        "de": "Ameise",
+        "es": "Hormiga",
+        "fr": "Fourmi",
+        "it": "Formica",
+        "nl": "Mier",
+        "zh-CN": "蚂蚁",
+        "zh-TW": "螞蟻",
+        "jp": "アリ",
+        "ko": "개미"
       }
     }
   }

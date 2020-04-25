@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "雷哈娜的照片",
+        "de": "Foto's von Andrea",
+        "en-GB": "Reneigh's Photo",
+        "es": "Foto de Corcelia",
+        "fr": "Photo de Jennifer",
+        "it": "Foto di Requina",
+        "jp": "リアーナのしゃしん",
+        "ko": "리아나의 사진",
+        "nl": "Foto van Reneigh",
+        "zh-TW": "雷哈娜的照片",
+        "en-US": "Reneigh's Photo"
       }
     }
   },

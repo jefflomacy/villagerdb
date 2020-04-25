@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Holzfächer",
+        "en-GB": "General's Fan",
+        "en-US": "General's Fan",
+        "es": "Abanico samurái",
+        "fr": "éventail de samouraï",
+        "it": "Ventaglio samurai",
+        "ja": "ぐんばい"
+      }
     }
   }
 }

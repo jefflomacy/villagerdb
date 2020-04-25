@@ -22,6 +22,19 @@
         "white": "White",
         "dark-brown": "Dark brown",
         "colorful": "Colorful"
+      },
+      "name": {
+        "en-US": "Broom And Dustpan",
+        "en-GB": "Broom And Dustpan",
+        "de": "Kehrset",
+        "es": "Set de escoba y recogedor",
+        "fr": "Kit de balayage",
+        "it": "Ramazza con paletta",
+        "nl": "Bezem en stofblik",
+        "zh-CN": "扫把畚箕组",
+        "zh-TW": "掃把畚箕組",
+        "jp": "ほうきとちりとり",
+        "ko": "빗자루와 쓰레받기"
       }
     }
   },

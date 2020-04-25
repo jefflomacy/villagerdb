@@ -16,7 +16,20 @@
           "currency": "miles",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Nook Inc. Rug",
+        "en-GB": "Nook Inc. Rug",
+        "de": "Nook-Inc.-Teppich",
+        "es": "Alfombra de Nook Inc.",
+        "fr": "Tapis Nook Inc.",
+        "it": "Tappeto Nook Inc.",
+        "nl": "Nook Inc.-tapijt",
+        "zh-CN": "Nook Inc.地毯",
+        "zh-TW": "Nook Inc.地毯",
+        "jp": "たぬきかいはつのラグ",
+        "ko": "Nook Inc. 러그"
+      }
     }
   },
   "category": "Flooring"

@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Caféshirt",
+        "en-GB": "Café Tee",
+        "en-US": "Café Tee",
+        "es": "Camiseta carreras",
+        "fr": "T-shirt café",
+        "it": "Maglietta quadretti",
+        "ja": "あかチェッカーのふく"
+      }
     }
   }
 }

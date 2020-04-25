@@ -22,6 +22,19 @@
         "blue": "Blue",
         "green": "Green",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Doublet",
+        "en-GB": "Doublet",
+        "de": "Kiltjackett",
+        "es": "Chaqueta de gala para kilt",
+        "fr": "Veste avec veston",
+        "it": "Giacca da kilt",
+        "nl": "Schotse jasje",
+        "zh-CN": "苏格兰道布莱特外套",
+        "zh-TW": "蘇格蘭道布萊特外套",
+        "jp": "ダブレット",
+        "ko": "더블릿"
       }
     }
   },

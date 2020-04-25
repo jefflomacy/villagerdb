@@ -18,6 +18,19 @@
         "dog": "Dog",
         "bird": "Bird",
         "chocolate": "Chocolate"
+      },
+      "name": {
+        "en-US": "Mom's Homemade Cake",
+        "en-GB": "Mom's Homemade Cake",
+        "de": "Kuchen von Mama",
+        "es": "Tarta casera de mamá",
+        "fr": "Gâteau fait par maman",
+        "it": "Torta casalinga di mamma",
+        "nl": "Mama's zelfgebakken taart",
+        "zh-CN": "妈妈手作蛋糕",
+        "zh-TW": "媽媽手作蛋糕",
+        "jp": "ははのてづくりケーキ",
+        "ko": "엄마의 수제 케이크"
       }
     }
   },

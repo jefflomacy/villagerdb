@@ -11,6 +11,19 @@
       },
       "recipe": {
         "hardwood": 8
+      },
+      "name": {
+        "en-US": "Spiky Fence",
+        "en-GB": "Spiky Fence",
+        "de": "Spitzpfostenzaun",
+        "es": "Valla puntiaguda",
+        "fr": "Clôture épieux",
+        "it": "Recinzione appuntita",
+        "nl": "Puntige hek",
+        "zh-CN": "尖刺栅栏",
+        "zh-TW": "尖刺柵欄",
+        "jp": "トゲトゲのさく",
+        "ko": "뾰족뾰족 울타리"
       }
     }
   },

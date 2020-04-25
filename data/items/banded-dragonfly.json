@@ -11,7 +11,10 @@
       },
       "sources": [
         "Anywhere other than above salt water (the sea)."
-      ]
+      ],
+      "name": {
+        "en-US": "Banded Dragonfly"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4500
+      },
+      "name": {
+        "en-US": "Banded Dragonfly",
+        "en-GB": "Banded Dragonfly",
+        "de": "Quelljungfer",
+        "es": "Libélula tigre",
+        "fr": "Cordulégastre",
+        "it": "Libellula striata",
+        "nl": "Bronlibel",
+        "zh-CN": "无霸勾蜓",
+        "zh-TW": "無霸勾蜓",
+        "jp": "オニヤンマ",
+        "ko": "장수잠자리"
       }
     }
   }

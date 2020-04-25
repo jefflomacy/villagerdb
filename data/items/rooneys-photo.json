@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "麦克的照片",
+        "de": "Foto's von Robert",
+        "en-GB": "Rooney's Photo",
+        "es": "Foto de Cerillo",
+        "fr": "Photo de Mike",
+        "it": "Foto di Balzak",
+        "jp": "マイクのしゃしん",
+        "ko": "마이크의 사진",
+        "nl": "Foto van Rooney",
+        "zh-TW": "麥克的照片",
+        "en-US": "Rooney's Photo"
       }
     }
   },

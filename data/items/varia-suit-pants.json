@@ -19,7 +19,16 @@
       },
       "sources": [
         "Fortune cookie #42"
-      ]
+      ],
+      "name": {
+        "de": "Varia-Hose",
+        "en-GB": "Varia Suit Pants",
+        "en-US": "Varia Suit Pants",
+        "es": "Pantalón climático",
+        "fr": "Pantalon Varia",
+        "it": "Pantalone termotuta",
+        "ja": "バリアスーツ・レッグ"
+      }
     }
   }
 }

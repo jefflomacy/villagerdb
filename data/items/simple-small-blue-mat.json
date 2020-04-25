@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Simple Small Blue Mat",
+        "en-GB": "Simple Small Blue Mat",
+        "de": "Blau-Standardmatte S",
+        "es": "Alfombra sencilla azul P",
+        "fr": "Tapis simple bleu S",
+        "it": "Tappetino blu S",
+        "nl": "Simpele kleine blauwe mat",
+        "zh-CN": "蓝色简约地垫S",
+        "zh-TW": "小型藍色簡約地墊",
+        "jp": "あおいシンプルマット・S",
+        "ko": "파란 심플 매트 S"
+      }
     }
   },
   "category": "Flooring"

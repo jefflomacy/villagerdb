@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "黄金鸡的海报",
+        "de": "Poster's von Waldemar",
+        "en-GB": "Egbert's Poster",
+        "es": "Póster de Norberto",
+        "fr": "Poster d'herbert",
+        "it": "Poster di Chicco",
+        "jp": "しもやけのポスター",
+        "ko": "김희의 포스터",
+        "nl": "Poster van Egbert",
+        "zh-TW": "黃金雞的海報",
+        "en-US": "Egbert's Poster"
+      }
     }
   },
   "category": "Photos"

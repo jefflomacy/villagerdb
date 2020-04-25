@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 2800
         }
-      ]
+      ],
+      "name": {
+        "de": "Effekt-Rack",
+        "en-GB": "Effects Rack",
+        "en-US": "Effects Rack",
+        "es": "Cajón efectos",
+        "fr": "Sono",
+        "it": "Rack effetti",
+        "ja": "エフェクターラック"
+      }
     },
     "nh": {
       "customizable": true,
@@ -83,6 +92,19 @@
         "pink-handwritten-logo": "Pink / Handwritten logo",
         "pink-pop-logo": "Pink / Pop logo",
         "pink-cute-logo": "Pink / Cute logo"
+      },
+      "name": {
+        "en-US": "Effects Rack",
+        "en-GB": "Effects Rack",
+        "de": "Effekt-Rack",
+        "es": "Cajón de efectos",
+        "fr": "Sono",
+        "it": "Unità multieffetto",
+        "nl": "Mixer-Versterker",
+        "zh-CN": "音效机柜",
+        "zh-TW": "音效機櫃",
+        "jp": "エフェクターラック",
+        "ko": "이펙터 장비"
       }
     }
   }

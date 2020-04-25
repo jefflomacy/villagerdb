@@ -20,6 +20,19 @@
       "variations": {
         "monotone": "Monotone",
         "colorful": "Colorful"
+      },
+      "name": {
+        "en-US": "Toilet-Cleaning Set",
+        "en-GB": "Toilet-Cleaning Set",
+        "de": "Toilettenset",
+        "es": "Set para inodoro",
+        "fr": "Kit du petit coin",
+        "it": "Set pulizia bagno",
+        "nl": "Toiletschoonmaakset",
+        "zh-CN": "厕所打扫用具组合",
+        "zh-TW": "廁所打掃用具組合",
+        "jp": "トイレそうじセット",
+        "ko": "화장실 청소 세트"
       }
     }
   },

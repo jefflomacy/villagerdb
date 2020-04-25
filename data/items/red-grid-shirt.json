@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Käfigpulli",
+        "en-GB": "Red-Grid Shirt",
+        "en-US": "Red-Grid Shirt",
+        "es": "Jersey reja roja",
+        "fr": "Pull grille rouge",
+        "it": "Maglia giallorossa",
+        "ja": "あきいろこうしのふくL"
+      }
     },
     "ac": {
       "orderable": true,
@@ -36,7 +45,10 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red-Grid Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -52,7 +64,10 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red-Grid Shirt"
+      }
     }
   }
 }

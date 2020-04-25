@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Traumfänger",
+        "en-GB": "Dream Catcher",
+        "en-US": "Dream Catcher",
+        "es": "Atrapasueños",
+        "fr": "Attrapeur de rêves",
+        "it": "Acchiappasogni",
+        "ja": "ドリームキャッチャー"
+      }
     }
   }
 }

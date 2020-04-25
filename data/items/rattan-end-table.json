@@ -20,6 +20,19 @@
         "white": "White",
         "gray": "Gray",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Rattan End Table",
+        "en-GB": "Rattan End Table",
+        "de": "Flechttischchen",
+        "es": "Mesa de ratán",
+        "fr": "Guéridon jonc",
+        "it": "Tavolino di rattan",
+        "nl": "Rotan bijzettafel",
+        "zh-CN": "藤编边桌",
+        "zh-TW": "藤編邊桌",
+        "jp": "ラタンのサイドテーブル",
+        "ko": "라탄 사이드 테이블"
       }
     }
   },

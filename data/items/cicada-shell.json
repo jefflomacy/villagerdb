@@ -11,7 +11,10 @@
       },
       "sources": [
         "On trees."
-      ]
+      ],
+      "name": {
+        "en-US": "Cicada Shell"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "en-US": "Cicada Shell",
+        "en-GB": "Cicada Shell",
+        "de": "Zikadenlarvenhaut",
+        "es": "Muda de cigarra",
+        "fr": "Mue de cigale",
+        "it": "Esuvia di cicala",
+        "nl": "Cicadehuid",
+        "zh-CN": "蝉蜕",
+        "zh-TW": "蟬蛻",
+        "jp": "セミのぬけがら",
+        "ko": "매미 허물"
       }
     }
   }

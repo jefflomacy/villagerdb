@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 20
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Snorkel Mask"
+      }
     }
   }
 }

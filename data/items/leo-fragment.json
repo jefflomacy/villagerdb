@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 500
+      },
+      "name": {
+        "zh-CN": "狮子座碎片",
+        "de": "Löwe-Splitter's",
+        "en-GB": "Leo Fragment",
+        "es": "Fragmento de Leo",
+        "fr": "Fragment de Lion",
+        "it": "Frammento di Leone",
+        "jp": "ししざのかけら",
+        "ko": "사자자리 조각",
+        "nl": "Leeuwfragment",
+        "zh-TW": "獅子座碎片",
+        "en-US": "Leo Fragment"
       }
     }
   },

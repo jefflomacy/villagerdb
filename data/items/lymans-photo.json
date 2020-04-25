@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "敖志明的照片",
+        "de": "Foto's von Pepe",
+        "en-GB": "Lyman's Photo",
+        "es": "Foto de Chipi",
+        "fr": "Photo de Kalyptus",
+        "it": "Foto di Nicola",
+        "jp": "オズモンドのしゃしん",
+        "ko": "오즈먼드의 사진",
+        "nl": "Foto van Lyman",
+        "zh-TW": "敖志明的照片",
+        "en-US": "Lyman's Photo"
       }
     }
   },

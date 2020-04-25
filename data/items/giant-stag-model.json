@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 30000
+      },
+      "name": {
+        "en-US": "Giant Stag Model",
+        "en-GB": "Giant Stag Model",
+        "de": "Riesen-Hirschkäfermodell",
+        "es": "Figura esc. ciervo gigante",
+        "fr": "Modèle lucane cerf-volant",
+        "it": "Replica coleottero gigante",
+        "nl": "Modelreuzenhertkever",
+        "zh-CN": "大锹形虫模型",
+        "zh-TW": "大鍬形蟲模型",
+        "jp": "オオクワガタのもけい",
+        "ko": "왕사슴벌레 모형"
       }
     }
   },

@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow-Hibiscus Nursery",
+        "en-GB": "Yellow-Hibiscus Nursery",
+        "de": "Sommerhibiskusspross",
+        "es": "Hibisco amarillo retoño",
+        "fr": "Serre d'hibiscus jaunes",
+        "it": "Piantina di ibisco giallo",
+        "nl": "Kleine jonge gele hibiscus",
+        "zh-CN": "黄色扶桑花幼苗",
+        "zh-TW": "黃色扶桑花幼苗",
+        "jp": "きいろいハイビスカスのようぼく",
+        "ko": "노란 히비스커스 유목"
+      }
     }
   },
   "category": "Bushes"

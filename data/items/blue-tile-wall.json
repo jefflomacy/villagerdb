@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Tile Wall",
+        "en-GB": "Blue Tile Wall",
+        "de": "Blaufliesenwand",
+        "es": "Pared alicatada azul marino",
+        "fr": "Mur mosaïque bleu marine",
+        "it": "Muro piastrelle blu",
+        "nl": "Blauwe tegelwand",
+        "zh-CN": "蓝色砖墙",
+        "zh-TW": "藍色磚牆",
+        "jp": "あおいタイルのかべ",
+        "ko": "파란 타일 벽"
+      }
     }
   },
   "category": "Wallpaper"

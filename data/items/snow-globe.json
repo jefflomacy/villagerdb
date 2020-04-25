@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Schneekugel",
+        "en-GB": "Snow Globe",
+        "en-US": "Snow Globe",
+        "es": "Globo de nieve",
+        "fr": "Boule à neige",
+        "it": "Globo di neve",
+        "ja": "スノードーム"
+      }
     },
     "nh": {
       "orderable": true,
@@ -43,7 +52,20 @@
           "currency": "bells",
           "value": 1300
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Snow Globe",
+        "en-GB": "Snow Globe",
+        "de": "Schneekugel",
+        "es": "Globo de nieve",
+        "fr": "Boule à neige",
+        "it": "Globo di neve",
+        "nl": "Sneeuwbol",
+        "zh-CN": "下雪水晶球",
+        "zh-TW": "下雪水晶球",
+        "jp": "スノーグローブ",
+        "ko": "스노글로브"
+      }
     }
   }
 }

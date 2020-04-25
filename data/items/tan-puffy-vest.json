@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Daunenweste",
+        "en-GB": "Tan Puffy Vest",
+        "en-US": "Tan Puffy Vest",
+        "es": "Chaleco amarillo",
+        "fr": "Gilet molletonné",
+        "it": "Piumino smanicato",
+        "ja": "ダウンベスト"
+      }
     }
   }
 }

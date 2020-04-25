@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "爱莉的海报",
+        "de": "Poster's von Rosa",
+        "en-GB": "Gayle's Poster",
+        "es": "Póster de Boni",
+        "fr": "Poster d'odile",
+        "it": "Poster di Codrilla",
+        "jp": "アリゲッティのポスター",
+        "ko": "앨리의 포스터",
+        "nl": "Poster van Gayle",
+        "zh-TW": "愛莉的海報",
+        "en-US": "Gayle's Poster"
+      }
     }
   },
   "category": "Photos"

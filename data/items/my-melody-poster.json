@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "美乐蒂的海报",
+        "de": "My-Melody-Poster's",
+        "en-GB": "My Melody Poster",
+        "es": "Póster de My Melody",
+        "fr": "Poster de My Melody",
+        "it": "Poster di My Melody",
+        "jp": "マイメロディなポスター",
+        "ko": "마이 멜로디 포스터",
+        "nl": "Poster van My Melody",
+        "zh-TW": "美樂蒂的海報",
+        "en-US": "My Melody Poster"
+      }
     }
   },
   "category": "Photos"

@@ -20,6 +20,19 @@
         "silver": "Silver",
         "red": "Red",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Wall-Mounted TV (50 In.)",
+        "en-GB": "Wall-Mounted TV (50 In.)",
+        "de": "50-Zoll-Wandfernseher",
+        "es": "Tele LCD de 50\" para pared",
+        "fr": "Télé murale (50\")",
+        "it": "TV a LED a muro (50 pollici)",
+        "nl": "Wand-Tv (50 inch)",
+        "zh-CN": "50寸壁挂式电视",
+        "zh-TW": "壁掛式電視 50吋",
+        "jp": "かべかけテレビ 50インチ",
+        "ko": "50인치 벽걸이 TV"
       }
     }
   },

@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Rudererpulli",
+        "en-GB": "Gold-Bar Shirt",
+        "en-US": "Gold-Bar Shirt",
+        "es": "Jersey rayas oro",
+        "fr": "Pull rayures jaune",
+        "it": "Maglia barre gialla",
+        "ja": "じみなたてじまのふくL"
+      }
     }
   }
 }

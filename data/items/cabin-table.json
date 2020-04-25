@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2100
         }
-      ]
+      ],
+      "name": {
+        "de": "Blockhaustisch",
+        "en-GB": "Cabin Table",
+        "en-US": "Cabin Table",
+        "es": "Mesa cabaña",
+        "fr": "Table chalet",
+        "it": "Tavolo rustico",
+        "ja": "ログテーブル"
+      }
     }
   }
 }

@@ -18,7 +18,16 @@
           "currency": "bells",
           "value": 1180
         }
-      ]
+      ],
+      "name": {
+        "de": "Matte",
+        "en-GB": "Boxing Mat",
+        "en-US": "Boxing Mat",
+        "es": "Colchoneta boxeo",
+        "fr": "Tapis de boxe",
+        "it": "Tappetino boxe",
+        "ja": "マット"
+      }
     }
   }
 }

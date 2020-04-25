@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Surfbrett",
+        "en-GB": "Surfboard",
+        "en-US": "Surfboard",
+        "es": "Tabla de surf",
+        "fr": "Planche de surf",
+        "it": "Tavola da surf",
+        "ja": "サーフボード"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -44,6 +53,19 @@
         "cool": "Cool",
         "stripes": "Stripes",
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Surfboard",
+        "en-GB": "Surfboard",
+        "de": "Surfbrett",
+        "es": "Tabla de surf",
+        "fr": "Planche de surf",
+        "it": "Tavola da surf",
+        "nl": "Surfplank",
+        "zh-CN": "冲浪板",
+        "zh-TW": "衝浪板",
+        "jp": "サーフボード",
+        "ko": "서핑 보드"
       }
     }
   }

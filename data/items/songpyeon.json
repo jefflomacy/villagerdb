@@ -14,7 +14,16 @@
       },
       "sources": [
         "Tsukimi (Isabelle -- KOR only)"
-      ]
+      ],
+      "name": {
+        "de": "Songpyeon-Teller",
+        "en-GB": "Songpyeon",
+        "en-US": "Songpyeon",
+        "es": "Plato de songpyeon",
+        "fr": "Plat de songpyeons",
+        "it": "Songpyeon",
+        "ja": "ソンピョン"
+      }
     }
   }
 }

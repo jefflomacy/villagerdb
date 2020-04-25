@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 720
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Gumdrop Dress"
+      }
     },
     "nh": {
       "orderable": true,
@@ -40,6 +43,19 @@
       "variations": {
         "pop": "Pop",
         "cool": "Cool"
+      },
+      "name": {
+        "en-US": "Gumdrop Dress",
+        "en-GB": "Gumdrop Dress",
+        "de": "Frühlingskleid",
+        "es": "Vestido esferas",
+        "fr": "Robe bonbons",
+        "it": "Vestito gommoso",
+        "nl": "Lentejurk met stippen",
+        "zh-CN": "春天圆点连身裙",
+        "zh-TW": "春天圓點連身裙",
+        "jp": "はるのみずたまワンピース",
+        "ko": "봄 물방울무늬 원피스"
       }
     }
   }

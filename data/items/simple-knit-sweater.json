@@ -17,6 +17,19 @@
         "white": "White",
         "black": "Black",
         "camel": "Camel"
+      },
+      "name": {
+        "en-US": "Simple Knit Sweater",
+        "en-GB": "Simple Knit Sweater",
+        "de": "Einfarben-Strickpulli",
+        "es": "Jersey de punto sencillo",
+        "fr": "Pull tricoté simple",
+        "it": "Maglione semplice",
+        "nl": "Eenvoudige gebreide trui",
+        "zh-CN": "简约针织衫",
+        "zh-TW": "簡約針織衫",
+        "jp": "シンプルなニット",
+        "ko": "심플한 니트"
       }
     }
   },

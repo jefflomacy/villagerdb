@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 240
+      },
+      "name": {
+        "en-US": "Purple Tulips",
+        "en-GB": "Purple Tulips",
+        "de": "Wildtulpen",
+        "es": "Tulipanes violetas",
+        "fr": "Tulipes mauves",
+        "it": "Tulipani indaco",
+        "nl": "Paarse tulpen",
+        "zh-CN": "紫色郁金香",
+        "zh-TW": "紫色鬱金香",
+        "jp": "むらさきチューリップ",
+        "ko": "보라색 튤립"
       }
     }
   },

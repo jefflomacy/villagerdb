@@ -8,7 +8,10 @@
       "set": "Welcome amiibo Update",
       "sources": [
         "DLC (JP)"
-      ]
+      ],
+      "name": {
+        "en-US": "Sandbox"
+      }
     },
     "nh": {
       "orderable": true,
@@ -24,7 +27,20 @@
           "currency": "miles",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sandbox",
+        "en-GB": "Sandbox",
+        "de": "Sandkasten",
+        "es": "Caja de arena",
+        "fr": "Bac à sable",
+        "it": "Recinto per sabbia",
+        "nl": "Zandbak",
+        "zh-CN": "沙坑",
+        "zh-TW": "沙坑",
+        "jp": "すなば",
+        "ko": "모래사장"
+      }
     }
   }
 }

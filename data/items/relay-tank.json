@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Staffellauf-Top",
+        "en-GB": "Relay Tank",
+        "en-US": "Relay Tank",
+        "es": "Top maratón",
+        "fr": "Débardeur marathon",
+        "it": "Canotta maratona",
+        "ja": "えきでんなふく"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -42,6 +51,19 @@
         "green": "Green",
         "red": "Red",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Relay Tank",
+        "en-GB": "Relay Tank",
+        "de": "Staffellauf-Top",
+        "es": "Top maratón",
+        "fr": "Débardeur marathon",
+        "it": "Canotta da maratona",
+        "nl": "Marathonshirt",
+        "zh-CN": "接力赛服",
+        "zh-TW": "接力賽衣服",
+        "jp": "えきでんなふく",
+        "ko": "마라토너 옷"
       }
     }
   }

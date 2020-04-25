@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2320
         }
-      ]
+      ],
+      "name": {
+        "de": "Schachbett",
+        "en-GB": "Modern Bed",
+        "en-US": "Modern Bed",
+        "es": "Cama moderna",
+        "fr": "Lit moderne",
+        "it": "Letto moderno",
+        "ja": "ツートンベッド"
+      }
     }
   }
 }

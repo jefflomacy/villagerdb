@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿保的照片",
+        "de": "Foto's von Kokong",
+        "en-GB": "Al's Photo",
+        "es": "Foto de Álex",
+        "fr": "Photo de Gustave",
+        "it": "Foto di Gregorio",
+        "jp": "たもつのしゃしん",
+        "ko": "우락의 사진",
+        "nl": "Foto van Al",
+        "zh-TW": "阿保的照片",
+        "en-US": "Al's Photo"
       }
     }
   },

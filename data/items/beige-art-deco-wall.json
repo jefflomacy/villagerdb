@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2780
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Beige Art-Deco Wall",
+        "en-GB": "Beige Art-Deco Wall",
+        "de": "Beige-Art-Déco-Tapete",
+        "es": "Pared art déco beis",
+        "fr": "Mur Art déco beige",
+        "it": "Muro art déco beige",
+        "nl": "Beige art-decowand",
+        "zh-CN": "米色装饰线板墙",
+        "zh-TW": "米色裝飾線板壁紙",
+        "jp": "ベージュのアールデコかべがみ",
+        "ko": "베이지 아르데코풍 벽"
+      }
     }
   },
   "category": "Wallpaper"

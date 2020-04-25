@@ -19,6 +19,19 @@
       "variations": {
         "brown": "Brown",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Gong",
+        "en-GB": "Gong",
+        "de": "Gong",
+        "es": "Gong",
+        "fr": "Gong oriental",
+        "it": "Gong",
+        "nl": "Gong",
+        "zh-CN": "铜锣",
+        "zh-TW": "銅鑼",
+        "jp": "どら",
+        "ko": "징"
       }
     }
   },

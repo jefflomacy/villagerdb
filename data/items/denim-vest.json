@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Jeansweste",
+        "en-GB": "Denim Vest",
+        "en-US": "Denim Vest",
+        "es": "Chaleco vaquero",
+        "fr": "Veston en jean",
+        "it": "Gilet di jeans",
+        "ja": "そでなしGジャン"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -39,6 +48,19 @@
         "navy-blue": "Navy blue",
         "black": "Black",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Denim Vest",
+        "en-GB": "Denim Vest",
+        "de": "Jeansweste",
+        "es": "Chaleco vaquero",
+        "fr": "Veston en jean",
+        "it": "Gilet di jeans",
+        "nl": "",
+        "zh-CN": "牛仔背心",
+        "zh-TW": "牛仔背心",
+        "jp": "そでなしＧジャン",
+        "ko": "민소매 데님 재킷"
       }
     }
   }

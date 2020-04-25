@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2020
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Marine Pop Flooring",
+        "en-GB": "Marine Pop Flooring",
+        "de": "Aquaboden",
+        "es": "Suelo olas marinas",
+        "fr": "Sol marin pop",
+        "it": "Pavimento marino",
+        "nl": "Zwiependezeevloer",
+        "zh-CN": "波浪图案地板",
+        "zh-TW": "波浪圖案地板",
+        "jp": "なみもようのゆか",
+        "ko": "물결무늬 바닥"
+      }
     }
   },
   "category": "Flooring"

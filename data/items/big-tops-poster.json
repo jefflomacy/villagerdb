@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿三的海报",
+        "de": "Poster's von Benni",
+        "en-GB": "Big Top's Poster",
+        "es": "Póster de Déivid",
+        "fr": "Poster de Miles",
+        "it": "Poster di Grande C",
+        "jp": "３ごうのポスター",
+        "ko": "3호의 포스터",
+        "nl": "Poster van Big Top",
+        "zh-TW": "阿三的海報",
+        "en-US": "Big Top's Poster"
+      }
     }
   },
   "category": "Photos"

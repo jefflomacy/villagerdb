@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Baströckchen",
+        "en-GB": "Grass Skirt",
+        "en-US": "Grass Skirt",
+        "es": "Falda de paja",
+        "fr": "Jupe savane",
+        "it": "Gonna fieno",
+        "ja": "こしみの"
+      }
     },
     "nh": {
       "customizable": false,
@@ -43,6 +52,19 @@
       },
       "variations": {
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Grass Skirt",
+        "en-GB": "Grass Skirt",
+        "de": "Baströckchen",
+        "es": "Falda de paja",
+        "fr": "Jupe savane",
+        "it": "Gonna fieno",
+        "nl": "Rieten rokje",
+        "zh-CN": "草裙",
+        "zh-TW": "草裙",
+        "jp": "こしみの",
+        "ko": "도롱이 하의"
       }
     }
   }

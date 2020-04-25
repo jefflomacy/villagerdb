@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "蹦蹦的海报",
+        "de": "Poster's von Ohs",
+        "en-GB": "Zipper's Poster",
+        "es": "Póster de Coti",
+        "fr": "Poster d'albin",
+        "it": "Poster di Ovidio",
+        "jp": "ぴょんたろうのポスター",
+        "ko": "토빗의 포스터",
+        "nl": "Poster van Zipper",
+        "zh-TW": "蹦蹦的海報",
+        "en-US": "Zipper's Poster"
+      }
     }
   },
   "category": "Photos"

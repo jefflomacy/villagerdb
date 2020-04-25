@@ -16,7 +16,16 @@
       },
       "sources": [
         "Jack (Halloween)"
-      ]
+      ],
+      "name": {
+        "de": "Gruselkristall",
+        "en-GB": "Creepy Crystal",
+        "en-US": "Creepy Crystal",
+        "es": "Bola pavorosa",
+        "fr": "Boule lugubre",
+        "it": "Sfera horror",
+        "ja": "ふきつなすいしょう"
+      }
     }
   }
 }

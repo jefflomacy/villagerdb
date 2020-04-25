@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "name": {
+        "de": "Stier-Badewanne",
+        "en-GB": "Taurus Bathtub",
+        "en-US": "Taurus Bathtub",
+        "es": "Bañera Tauro",
+        "fr": "Baignoire Taureau",
+        "it": "Vasca da bagno Toro",
+        "ja": "タウラスのバスタブ"
+      }
     },
     "nh": {
       "customizable": false,
@@ -36,6 +45,19 @@
         "taurus-fragment": 2,
         "gold-nugget": 1,
         "stone": 8
+      },
+      "name": {
+        "en-US": "Taurus Bathtub",
+        "en-GB": "Taurus Bathtub",
+        "de": "Stier-Badewanne",
+        "es": "Bañera Tauro",
+        "fr": "Baignoire Taureau",
+        "it": "Vasca da bagno Toro",
+        "nl": "Stier-Badkuip",
+        "zh-CN": "金牛座浴缸",
+        "zh-TW": "金牛座浴缸",
+        "jp": "タウラスのバスタブ",
+        "ko": "황소자리 욕조"
       }
     }
   }

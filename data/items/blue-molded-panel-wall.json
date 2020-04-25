@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Molded-Panel Wall",
+        "en-GB": "Blue Molded-Panel Wall",
+        "de": "Blau-Wandvertäfelung",
+        "es": "Pared con molduras azul",
+        "fr": "Mur à moulures bleu",
+        "it": "Muro modanature blu",
+        "nl": "Blauwe lambrisering",
+        "zh-CN": "蓝色线板墙",
+        "zh-TW": "藍色線板牆",
+        "jp": "あおいパネルモールドかべ",
+        "ko": "블루 패널 몰드 벽"
+      }
     }
   },
   "category": "Wallpaper"

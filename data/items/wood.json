@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 60
+      },
+      "name": {
+        "zh-CN": "木材",
+        "de": "Holz",
+        "en-GB": "Wood",
+        "es": "Tabla normal",
+        "fr": "Bois",
+        "it": "Legno normale",
+        "jp": "もくざい",
+        "ko": "목재",
+        "nl": "Hout",
+        "zh-TW": "木材",
+        "en-US": "Wood"
       }
     }
   }

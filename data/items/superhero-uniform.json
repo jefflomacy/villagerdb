@@ -22,6 +22,19 @@
         "red": "Red",
         "black": "Black",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Superhero Uniform",
+        "en-GB": "Superhero Uniform",
+        "de": "Superheldenuniform",
+        "es": "Mono de superhéroe",
+        "fr": "Costume de super-héros",
+        "it": "Tuta da supereroe",
+        "nl": "Superheldenpak",
+        "zh-CN": "超级英雄装",
+        "zh-TW": "超級英雄裝",
+        "jp": "スーパーヒーロースーツ",
+        "ko": "슈퍼 히어로 슈트"
       }
     }
   },

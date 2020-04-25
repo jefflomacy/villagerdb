@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 500
+      },
+      "name": {
+        "zh-CN": "双子座碎片",
+        "de": "Zwillinge-Splitter's",
+        "en-GB": "Gemini Fragment",
+        "es": "Fragmento de Géminis",
+        "fr": "Fragment de Gémeaux",
+        "it": "Frammento di Gemelli",
+        "jp": "ふたござのかけら",
+        "ko": "쌍둥이자리 조각",
+        "nl": "Tweelingenfragment",
+        "zh-TW": "雙子座碎片",
+        "en-US": "Gemini Fragment"
       }
     }
   },

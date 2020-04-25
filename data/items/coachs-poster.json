@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "大常的海报",
+        "de": "Poster's von Arnold",
+        "en-GB": "Coach's Poster",
+        "es": "Póster de Cacho",
+        "fr": "Poster d'arnold",
+        "it": "Poster di Ercole",
+        "jp": "テッチャンのポスター",
+        "ko": "철소의 포스터",
+        "nl": "Poster van Coach",
+        "zh-TW": "大常的海報",
+        "en-US": "Coach's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -15,7 +15,10 @@
       },
       "sources": [
         "Snowboy"
-      ]
+      ],
+      "name": {
+        "en-US": "Snowman Wall"
+      }
     }
   }
 }

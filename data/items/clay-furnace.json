@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Kochstelle",
+        "en-GB": "Clay Furnace",
+        "en-US": "Clay Furnace",
+        "es": "Chimenea terracota",
+        "fr": "Four en terre cuite",
+        "it": "Forno di terracotta",
+        "ja": "かまど"
+      }
     },
     "nh": {
       "orderable": true,
@@ -36,7 +45,20 @@
           "currency": "bells",
           "value": 3300
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Clay Furnace",
+        "en-GB": "Clay Furnace",
+        "de": "Kochstelle",
+        "es": "Chimenea de terracota",
+        "fr": "Four en terre cuite",
+        "it": "Forno di terracotta",
+        "nl": "Keramieken oven",
+        "zh-CN": "炉灶厨房",
+        "zh-TW": "爐灶廚房",
+        "jp": "かまどのキッチン",
+        "ko": "아궁이 부엌"
+      }
     }
   }
 }

@@ -28,7 +28,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Wiege",
+        "en-GB": "Cradle",
+        "en-US": "Cradle",
+        "es": "Capazo",
+        "fr": "Berceau",
+        "it": "Culla",
+        "ja": "ゆりかご"
+      }
     }
   }
 }

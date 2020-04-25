@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "de": "Friseurshirt",
+        "en-GB": "Barber Tee",
+        "en-US": "Barber Tee",
+        "es": "Camiseta tricolor",
+        "fr": "T-shirt barbier",
+        "it": "Maglietta dolce",
+        "ja": "バーバーなふく"
+      }
     }
   }
 }

@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1650
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Painted-Wood Wall",
+        "en-GB": "Blue Painted-Wood Wall",
+        "de": "Blauholzwand",
+        "es": "Panelado madera azul",
+        "fr": "Mur en bois peint bleu",
+        "it": "Muro a pannelli blu",
+        "nl": "Blauwe houten wand",
+        "zh-CN": "蓝色油漆木墙",
+        "zh-TW": "藍色油漆木牆",
+        "jp": "あおいペイントウッドのかべ",
+        "ko": "파란 페인트 우드 벽"
+      }
     }
   },
   "category": "Wallpaper"

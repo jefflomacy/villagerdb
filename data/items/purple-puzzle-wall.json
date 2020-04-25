@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1540
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Purple Puzzle Wall",
+        "en-GB": "Purple Puzzle Wall",
+        "de": "Lila-Puzzletapete",
+        "es": "Pared rompecabezas malva",
+        "fr": "Mur puzzle mauve",
+        "it": "Muro puzzle viola",
+        "nl": "Paarse puzzelwand",
+        "zh-CN": "紫色拼图壁纸",
+        "zh-TW": "紫色巧拼壁紙",
+        "jp": "パープルパズルかべがみ",
+        "ko": "퍼플 퍼즐 벽지"
+      }
     }
   },
   "category": "Wallpaper"

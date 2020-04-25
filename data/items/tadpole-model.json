@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 300
+      },
+      "name": {
+        "en-US": "Tadpole Model",
+        "en-GB": "Tadpole Model",
+        "de": "Kaulquappenmodell",
+        "es": "Figura de renacuajo",
+        "fr": "Modèle de têtard",
+        "it": "Replica di girino",
+        "nl": "Modelkikkervisje",
+        "zh-CN": "蝌蚪模型",
+        "zh-TW": "蝌蚪模型",
+        "jp": "オタマジャクシのもけい",
+        "ko": "올챙이 모형"
       }
     }
   },

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "浩克的海报",
+        "de": "Poster's von Arthur",
+        "en-GB": "Frank's Poster",
+        "es": "Póster de Aquilino",
+        "fr": "Poster de Greggae",
+        "it": "Poster di Frank",
+        "jp": "ハルクのポスター",
+        "ko": "헐크의 포스터",
+        "nl": "Poster van Frank",
+        "zh-TW": "浩克的海報",
+        "en-US": "Frank's Poster"
+      }
     }
   },
   "category": "Photos"

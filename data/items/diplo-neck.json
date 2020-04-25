@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Seismosaurus-Hals",
+        "en-GB": "Diplo Neck",
+        "en-US": "Diplo Neck",
+        "es": "Cuello diplodocus",
+        "fr": "Cou de séismo",
+        "it": "Collo seismosauro",
+        "ja": "セイスモサウルスのくび"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4500
+      },
+      "name": {
+        "en-US": "Diplo Neck",
+        "en-GB": "Diplo Neck",
+        "de": "Diplodocus-Hals",
+        "es": "Cuello diplodocus",
+        "fr": "Cou de diplodocus",
+        "it": "Collo diplodoco",
+        "nl": "Diplodocusnek",
+        "zh-CN": "梁龙的脖子",
+        "zh-TW": "梁龍的脖子",
+        "jp": "ディプロドクスのくび",
+        "ko": "디플로도쿠스의 목"
       }
     }
   }

@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Rockin' K.K."
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,7 +36,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Rockin' K.K.",
+        "en-GB": "Rockin' K.K.",
+        "de": "K.K. Rocksong",
+        "es": "Tota-Total",
+        "fr": "Bouge avec Kéké",
+        "it": "K.K. Spericolato",
+        "nl": "K.K.-Rock-'n-Roll",
+        "zh-CN": "K.K.50年代摇滚",
+        "zh-TW": "K.K.50年代搖滾",
+        "jp": "けけのロケンロール",
+        "ko": "K.K.로큰롤",
+        "ru": "К. К. в ударе"
+      }
     }
   }
 }

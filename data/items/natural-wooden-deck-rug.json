@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Natural Wooden-Deck Rug",
+        "en-GB": "Natural Wooden-Deck Rug",
+        "de": "Natur-Rustikalteppich",
+        "es": "Alfombra tablas natural",
+        "fr": "Tapis parquet naturel",
+        "it": "Tappeto legno naturale",
+        "nl": "Naturel houten dek",
+        "zh-CN": "自然色仿木板地毯",
+        "zh-TW": "自然色木甲板地毯",
+        "jp": "ナチュラルなウッドデッキのラグ",
+        "ko": "내추럴 우드 덱 러그"
+      }
     }
   },
   "category": "Flooring"

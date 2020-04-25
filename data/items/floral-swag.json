@@ -23,6 +23,19 @@
         "blue": "Blue",
         "white": "White",
         "colorful": "Colorful"
+      },
+      "name": {
+        "en-US": "Floral Swag",
+        "en-GB": "Floral Swag",
+        "de": "Blumengebinde",
+        "es": "Ramillete colgante",
+        "fr": "Bouquet mural",
+        "it": "Addobbo floreale",
+        "nl": "Hangende bloemstukje",
+        "zh-CN": "倒挂干燥花",
+        "zh-TW": "倒掛乾燥花",
+        "jp": "スワッグ",
+        "ko": "벽걸이 드라이플라워"
       }
     }
   },

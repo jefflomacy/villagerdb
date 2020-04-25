@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Mobile",
+        "en-GB": "Mobile",
+        "en-US": "Mobile",
+        "es": "Móvil para cuna",
+        "fr": "Mobile",
+        "it": "Giostrina",
+        "ja": "モビール"
+      }
     },
     "nh": {
       "orderable": true,
@@ -41,6 +50,19 @@
         "ocean-creatures": "Ocean creatures",
         "space": "Space",
         "gorgeous": "Gorgeous"
+      },
+      "name": {
+        "en-US": "Mobile",
+        "en-GB": "Mobile",
+        "de": "Mobile",
+        "es": "Móvil para cuna",
+        "fr": "Mobile",
+        "it": "Giostrina",
+        "nl": "Mobiel",
+        "zh-CN": "婴儿吊饰",
+        "zh-TW": "平衡吊飾",
+        "jp": "モビール",
+        "ko": "유아용 모빌"
       }
     }
   }

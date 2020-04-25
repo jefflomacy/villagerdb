@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1960
         }
-      ]
+      ],
+      "name": {
+        "de": "Kinderwagen",
+        "en-GB": "Stroller",
+        "en-US": "Stroller",
+        "es": "Cochecito",
+        "fr": "Landau",
+        "it": "Carrozzina",
+        "ja": "うばぐるま"
+      }
     }
   }
 }

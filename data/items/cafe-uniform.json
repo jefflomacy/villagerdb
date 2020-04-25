@@ -17,7 +17,16 @@
       },
       "sources": [
         "Brewster (working at The Roost)"
-      ]
+      ],
+      "name": {
+        "de": "Kellnerweste",
+        "en-GB": "Café Uniform",
+        "en-US": "Café Uniform",
+        "es": "Uniforme de camarero",
+        "fr": "Tenue de barista",
+        "it": "Gilet da barista",
+        "ja": "カフェのせいふく"
+      }
     },
     "nh": {
       "orderable": true,
@@ -36,6 +45,19 @@
         "green": "Green",
         "red": "Red",
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Café Uniform",
+        "en-GB": "Café Uniform",
+        "de": "Kellnerkleidung",
+        "es": "Uniforme de camarero",
+        "fr": "Tenue de barista",
+        "it": "Gilet da barista",
+        "nl": "Kelnersgilet",
+        "zh-CN": "咖啡店制服",
+        "zh-TW": "咖啡店制服",
+        "jp": "カフェのせいふく",
+        "ko": "카페 유니폼"
       }
     }
   }

@@ -22,6 +22,19 @@
         "field-of-flowers": "Field of Flowers",
         "dog": "Dog",
         "blooming": "Blooming"
+      },
+      "name": {
+        "en-US": "Mom's Art",
+        "en-GB": "Mom's Art",
+        "de": "Gemälde von Mama",
+        "es": "Cuadro de mamá",
+        "fr": "Tableau peint par maman",
+        "it": "Quadretto di mamma",
+        "nl": "Mama's kunstwerk",
+        "zh-CN": "妈妈艺术",
+        "zh-TW": "媽媽藝術",
+        "jp": "ははのアート",
+        "ko": "엄마의 아트"
       }
     }
   },

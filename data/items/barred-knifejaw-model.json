@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 15000
+      },
+      "name": {
+        "en-US": "Barred Knifejaw Model",
+        "en-GB": "Barred Knifejaw Model",
+        "de": "Schnabelbarschmodell",
+        "es": "Figura de dorada japonesa",
+        "fr": "Modèle de scarus",
+        "it": "Replica di ishidai",
+        "nl": "Modelkraaibek",
+        "zh-CN": "条石鲷模型",
+        "zh-TW": "條石鯛模型",
+        "jp": "イシダイのもけい",
+        "ko": "돌돔 모형"
       }
     }
   },

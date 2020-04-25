@@ -22,6 +22,19 @@
         "gold": "Gold",
         "pink": "Pink",
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Iron Doorplate",
+        "en-GB": "Iron Doorplate",
+        "de": "Gusseisentürschild",
+        "es": "Placa hierro forjado",
+        "fr": "Plaque en fer forgé",
+        "it": "Targa da porta di ferro",
+        "nl": "Ijzeren deurplaatje",
+        "zh-CN": "铸铁门牌",
+        "zh-TW": "鑄鐵門牌",
+        "jp": "アイアンなドアプレート",
+        "ko": "아이언 문패"
       }
     }
   },

@@ -2,7 +2,21 @@
   "id": "large-mailbox",
   "name": "Large Mailbox",
   "games": {
-    "nh": {}
+    "nh": {
+      "name": {
+        "zh-CN": "大信箱",
+        "de": "Maxi-Briefkasten's",
+        "en-GB": "Large Mailbox",
+        "es": "Buzón para paquetes",
+        "fr": "Grande boîte aux lettres",
+        "it": "Cassetta posta grande",
+        "jp": "おおきなポスト",
+        "ko": "커다란 우편함",
+        "nl": "Grote brievenbus",
+        "zh-TW": "大郵筒",
+        "en-US": "Large Mailbox"
+      }
+    }
   },
   "category": "Furniture"
 }

@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2480
         }
-      ]
+      ],
+      "name": {
+        "de": "Schachschreibtisch",
+        "en-GB": "Modern Desk",
+        "en-US": "Modern Desk",
+        "es": "Escritorio moderno",
+        "fr": "Bureau moderne",
+        "it": "Scrittoio moderno",
+        "ja": "ツートンデスク"
+      }
     }
   }
 }

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Matadorhut",
+        "en-GB": "Iberian Hat",
+        "en-US": "Matador's Hat",
+        "es": "Montera",
+        "fr": "Chapeau ibérique",
+        "it": "Cappello da torero",
+        "ja": "とうぎゅうしのぼうし"
+      }
     }
   }
 }

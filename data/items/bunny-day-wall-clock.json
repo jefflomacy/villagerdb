@@ -14,6 +14,19 @@
       },
       "recipe": {
         "sky-egg": 3
+      },
+      "name": {
+        "en-US": "Bunny Day Wall Clock",
+        "en-GB": "Bunny Day Wall Clock",
+        "de": "Häschentag-Wanduhr",
+        "es": "Reloj pared Caza del Huevo",
+        "fr": "Horloge mur. fête des œufs",
+        "it": "Orologio caccia all'uovo",
+        "nl": "Eierhangklok",
+        "zh-CN": "复活节壁钟",
+        "zh-TW": "復活節壁鐘",
+        "jp": "イースターなウォールクロック",
+        "ko": "이스터 벽시계"
       }
     }
   },

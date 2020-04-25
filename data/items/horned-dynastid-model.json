@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4050
+      },
+      "name": {
+        "en-US": "Horned Dynastid Model",
+        "en-GB": "Horned Dynastid Model",
+        "de": "Nashornkäfermodell",
+        "es": "Figura esc. astado japonés",
+        "fr": "Modèle de scarabée kabuto",
+        "it": "Replica scarab. kabutomushi",
+        "nl": "Modelneushoornkever",
+        "zh-CN": "独角仙模型",
+        "zh-TW": "獨角仙模型",
+        "jp": "カブトムシのもけい",
+        "ko": "장수풍뎅이 모형"
       }
     }
   },

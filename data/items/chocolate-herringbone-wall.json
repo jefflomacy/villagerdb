@@ -16,6 +16,19 @@
       ],
       "recipe": {
         "softwood": 15
+      },
+      "name": {
+        "en-US": "Chocolate Herringbone Wall",
+        "en-GB": "Chocolate Herringbone Wall",
+        "de": "Dunkel-Fischgrätwand",
+        "es": "Pared espiga oscura",
+        "fr": "Mur à chevrons chocolat",
+        "it": "Muro spina di pesce cacao",
+        "nl": "Donkerbruine visgraatwand",
+        "zh-CN": "深棕色人字斜纹墙",
+        "zh-TW": "深棕色人字斜紋牆",
+        "jp": "こげちゃのヘリンボーンのかべ",
+        "ko": "고동색 헤링본 벽"
       }
     }
   },

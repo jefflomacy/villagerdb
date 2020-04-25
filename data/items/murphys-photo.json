@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "宪雄的照片",
+        "de": "Foto's von Michael",
+        "en-GB": "Murphy's Photo",
+        "es": "Foto de Orsón",
+        "fr": "Photo d'eddie",
+        "it": "Foto di Marcello",
+        "jp": "のりおのしゃしん",
+        "ko": "머피의 사진",
+        "nl": "Foto van Murphy",
+        "zh-TW": "憲雄的照片",
+        "en-US": "Murphy's Photo"
       }
     }
   },

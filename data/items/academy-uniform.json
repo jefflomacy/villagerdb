@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 720
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Academy Uniform"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -37,6 +40,19 @@
         "navy-blue": "Navy blue",
         "gray": "Gray",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Academy Uniform",
+        "en-GB": "Academy Uniform",
+        "de": "Sonntagskleid",
+        "es": "Vestido serio",
+        "fr": "Tenue académique",
+        "it": "Vestito da istitutrice",
+        "nl": "Kostschooluniform",
+        "zh-CN": "端庄洋装",
+        "zh-TW": "端莊洋裝",
+        "jp": "よそいきなふく",
+        "ko": "나들이 원피스"
       }
     }
   }

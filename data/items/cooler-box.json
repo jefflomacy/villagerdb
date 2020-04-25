@@ -23,6 +23,19 @@
         "red": "Red",
         "yellow": "Yellow",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Cooler Box",
+        "en-GB": "Cooler Box",
+        "de": "Kühlbox",
+        "es": "Nevera portátil rígida",
+        "fr": "Glacière",
+        "it": "Frigorifero portatile",
+        "nl": "Koelbox",
+        "zh-CN": "保冷箱",
+        "zh-TW": "保冷箱",
+        "jp": "クーラーボックス",
+        "ko": "아이스박스"
       }
     }
   },

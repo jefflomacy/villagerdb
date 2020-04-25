@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 2560
         }
-      ]
+      ],
+      "name": {
+        "de": "Mondfahrzeug",
+        "en-GB": "Lunar Rover",
+        "en-US": "Lunar Rover",
+        "es": "Explorador lunar",
+        "fr": "Véhicule lunaire",
+        "it": "Rover lunare",
+        "ja": "げつめんいどうしゃ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -34,7 +43,20 @@
           "currency": "bells",
           "value": 50320
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Lunar Rover",
+        "en-GB": "Lunar Rover",
+        "de": "Mondfahrzeug",
+        "es": "Explorador lunar",
+        "fr": "Véhicule lunaire",
+        "it": "Rover lunare",
+        "nl": "Maanvoertuig",
+        "zh-CN": "月球车",
+        "zh-TW": "月球車",
+        "jp": "げつめんいどうしゃ",
+        "ko": "월면이동차"
+      }
     }
   }
 }

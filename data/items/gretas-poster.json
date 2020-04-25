@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "如意的海报",
+        "de": "Poster's von Gretel",
+        "en-GB": "Greta's Poster",
+        "es": "Póster de Jimena",
+        "fr": "Poster de Greta",
+        "it": "Poster di Greta",
+        "jp": "ふくこのポスター",
+        "ko": "복자의 포스터",
+        "nl": "Poster van Greta",
+        "zh-TW": "如意的海報",
+        "en-US": "Greta's Poster"
+      }
     }
   },
   "category": "Photos"

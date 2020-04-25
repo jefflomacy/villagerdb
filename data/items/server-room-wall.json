@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Server-Room Wall",
+        "en-GB": "Server-Room Wall",
+        "de": "Serverraumwand",
+        "es": "Pared sala de servidores",
+        "fr": "Mur salle des serveurs",
+        "it": "Muro sala dei server",
+        "nl": "Serverwand",
+        "zh-CN": "机房墙",
+        "zh-TW": "機房牆",
+        "jp": "サーバールームのかべ",
+        "ko": "서버실 벽"
+      }
     }
   },
   "category": "Wallpaper"

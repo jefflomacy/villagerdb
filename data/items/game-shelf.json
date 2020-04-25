@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 980
         }
-      ]
+      ],
+      "name": {
+        "de": "Regal",
+        "en-GB": "Game Shelf",
+        "en-US": "Game Shelf",
+        "es": "Estantería plástico",
+        "fr": "étagère en plastique",
+        "it": "Scaffale in plastica",
+        "ja": "カラーボックス"
+      }
     }
   }
 }

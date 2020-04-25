@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 340
         }
-      ]
+      ],
+      "name": {
+        "de": "9er-Shirt",
+        "en-GB": "Nine-Ball Tee",
+        "en-US": "Nine-Ball Tee",
+        "es": "Camiseta bola 9",
+        "fr": "T-shirt nº 9",
+        "it": "Maglietta palla 9",
+        "ja": "9ばんだまのふく"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -35,6 +44,19 @@
       ],
       "variations": {
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Nine-Ball Tee",
+        "en-GB": "Nine-Ball Tee",
+        "de": "9Er-Shirt",
+        "es": "Camiseta bola 9",
+        "fr": "T-Shirt nº 9",
+        "it": "Maglietta palla 9",
+        "nl": "9-Bal-T-Shirt",
+        "zh-CN": "9号球上衣",
+        "zh-TW": "9號球衣服",
+        "jp": "９ばんだまのふく",
+        "ko": "9번공 옷"
       }
     }
   }

@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 40
         }
-      ]
+      ],
+      "name": {
+        "de": "Nixenregal",
+        "en-GB": "Mermaid Shelf",
+        "en-US": "Mermaid Shelf",
+        "es": "Estantería sirena",
+        "fr": "étagère sirène",
+        "it": "Scaffale sirena",
+        "ja": "マーメイドなシェルフ"
+      }
     }
   }
 }

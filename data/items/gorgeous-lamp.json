@@ -15,7 +15,16 @@
       },
       "sources": [
         "GracieGrace (winter)"
-      ]
+      ],
+      "name": {
+        "de": "Luxuslampe",
+        "en-GB": "Gorgeous Lamp",
+        "en-US": "Gorgeous Lamp",
+        "es": "Lámpara palacio",
+        "fr": "Lampe somptueuse",
+        "it": "Lampada divina",
+        "ja": "ゴージャスランプ"
+      }
     }
   }
 }

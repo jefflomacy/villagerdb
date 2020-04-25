@@ -16,7 +16,20 @@
           "currency": "miles",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Nook Inc. Wall",
+        "en-GB": "Nook Inc. Wall",
+        "de": "Nook-Inc.-Tapete",
+        "es": "Pared de Nook Inc.",
+        "fr": "Mur Nook Inc.",
+        "it": "Muro Nook Inc.",
+        "nl": "Nook Inc.-wand",
+        "zh-CN": "Nook Inc.壁纸",
+        "zh-TW": "Nook Inc.壁紙",
+        "jp": "たぬきかいはつのかべがみ",
+        "ko": "Nook Inc. 벽지"
+      }
     }
   },
   "category": "Wallpaper"

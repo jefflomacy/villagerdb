@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Space K.K."
+      }
     },
     "nh": {
       "sellPrice": {
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Space K.K.",
+        "en-GB": "Space K.K.",
+        "de": "Minimal Music",
+        "es": "Canción minimalista",
+        "fr": "Space Kéké",
+        "it": "K.K. Minimal",
+        "nl": "K.K.-Minimalisme",
+        "zh-CN": "极简音乐",
+        "zh-TW": "極簡音樂",
+        "jp": "ミニマルおんがく",
+        "ko": "미니멀 음악",
+        "ru": "Космос К. К."
+      }
     }
   }
 }

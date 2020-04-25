@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 15000
+      },
+      "name": {
+        "en-US": "Blowfish Model",
+        "en-GB": "Blowfish Model",
+        "de": "Kugelfischmodell",
+        "es": "Figura de pez globo",
+        "fr": "Modèle de poisson-ballon",
+        "it": "Replica di pesce palla",
+        "nl": "Modelkogelvis",
+        "zh-CN": "河豚模型",
+        "zh-TW": "河豚模型",
+        "jp": "フグのもけい",
+        "ko": "복어 모형"
       }
     }
   },

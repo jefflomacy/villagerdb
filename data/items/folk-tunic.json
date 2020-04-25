@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "de": "Folklorekittel",
+        "en-GB": "Folk Tunic",
+        "en-US": "Folk Tunic",
+        "es": "Túnica india",
+        "fr": "Tunique folklorique",
+        "it": "Maglia etnica",
+        "ja": "ネイティブなふく"
+      }
     }
   }
 }

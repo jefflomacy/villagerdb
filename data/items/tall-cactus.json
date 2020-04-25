@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1700
         }
-      ]
+      ],
+      "name": {
+        "de": "Langkaktus",
+        "en-GB": "Tall Cactus",
+        "en-US": "Tall Cactus",
+        "es": "Cactus alto",
+        "fr": "Grand cactus",
+        "it": "Cactus alto",
+        "ja": "たてながサボテン"
+      }
     }
   }
 }

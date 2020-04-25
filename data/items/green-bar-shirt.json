@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Apfelpulli",
+        "en-GB": "Green-Bar Shirt",
+        "en-US": "Green-Bar Shirt",
+        "es": "Jersey toldo verde",
+        "fr": "Pull raies vert",
+        "it": "Maglia bande verdi",
+        "ja": "みどりボーダーのふくL"
+      }
     },
     "ac": {
       "orderable": true,
@@ -36,7 +45,10 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Green-Bar Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -52,7 +64,10 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Green-Bar Shirt"
+      }
     }
   }
 }

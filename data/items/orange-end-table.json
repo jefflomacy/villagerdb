@@ -16,6 +16,19 @@
       "variations": {
         "orange": "Orange",
         "blood-orange": "Blood orange"
+      },
+      "name": {
+        "en-US": "Orange End Table",
+        "en-GB": "Orange End Table",
+        "de": "Orange-Tischchen",
+        "es": "Mesa auxiliar naranja",
+        "fr": "Guéridon orange",
+        "it": "Tavolino arancia",
+        "nl": "Sinaasappeltafeltje",
+        "zh-CN": "橘子边桌",
+        "zh-TW": "橘子邊桌",
+        "jp": "オレンジのサイドテーブル",
+        "ko": "오렌지 사이드 테이블"
       }
     }
   },

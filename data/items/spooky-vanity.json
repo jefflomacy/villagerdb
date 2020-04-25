@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 4124
         }
-      ]
+      ],
+      "name": {
+        "de": "Kürbisspiegel",
+        "en-GB": "Spooky Vanity",
+        "en-US": "Spooky Vanity",
+        "es": "Tocador calabaza",
+        "fr": "Coiffeuse Halloween",
+        "it": "Toletta brividi",
+        "ja": "ハロウィンドレッサー"
+      }
     }
   }
 }

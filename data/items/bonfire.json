@@ -13,6 +13,19 @@
       "recipe": {
         "campfire": 1,
         "wood": 10
+      },
+      "name": {
+        "en-US": "Bonfire",
+        "en-GB": "Bonfire",
+        "de": "Feuerstelle",
+        "es": "Hoguera",
+        "fr": "Feu de joie",
+        "it": "Fuoco di bivacco",
+        "nl": "Vreugdevuur",
+        "zh-CN": "篝火",
+        "zh-TW": "營火",
+        "jp": "キャンプファイア",
+        "ko": "캠프파이어"
       }
     },
     "nl": {
@@ -29,7 +42,16 @@
           "currency": "bells",
           "value": 2240
         }
-      ]
+      ],
+      "name": {
+        "de": "Feuer",
+        "en-GB": "Bonfire",
+        "en-US": "Bonfire",
+        "es": "Hoguera",
+        "fr": "Feu de joie",
+        "it": "Fuoco di bivacco",
+        "ja": "キャンプファイア"
+      }
     }
   }
 }

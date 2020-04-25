@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 7600
         }
-      ]
+      ],
+      "name": {
+        "de": "Meerjungfrau",
+        "en-GB": "Mermaid Statue",
+        "en-US": "Mermaid Statue",
+        "es": "Sirenita",
+        "fr": "Statue de sirène",
+        "it": "Sirenetta",
+        "ja": "にんぎょぞう"
+      }
     }
   }
 }

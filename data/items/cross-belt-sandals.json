@@ -20,6 +20,19 @@
         "brown": "Brown",
         "black": "Black",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Cross-Belt Sandals",
+        "en-GB": "Cross-Belt Sandals",
+        "de": "Paars Kreuzriemensandalen",
+        "es": "Sandalia de banda cruzada",
+        "fr": "P. sandales brides croisées",
+        "it": "Paio di sandali a due fasce",
+        "nl": "Kruislingse sandalen",
+        "zh-CN": "交叉带凉鞋",
+        "zh-TW": "交叉帶涼鞋",
+        "jp": "クロスベルトサンダル",
+        "ko": "크로스 벨트 샌들"
       }
     }
   },

@@ -21,7 +21,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Karnevalskommode",
+        "en-GB": "Pavé Chest",
+        "en-US": "Pavé Chest",
+        "es": "Cómoda Conga",
+        "fr": "Coffre carnaval",
+        "it": "Comò Pavão",
+        "ja": "カーニバルチェスト"
+      }
     }
   }
 }

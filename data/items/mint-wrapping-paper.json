@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 40
+      },
+      "name": {
+        "zh-CN": "薄荷绿包装纸",
+        "de": "Minzgrün-Geschenkpapier's",
+        "en-GB": "Mint Wrapping Paper",
+        "es": "Papel de regalo turquesa",
+        "fr": "Papier cadeau menthe",
+        "it": "Carta da regalo menta",
+        "jp": "ミントのラッピングペーパー",
+        "ko": "민트색 포장지",
+        "nl": "Mintgroene cadeaupapier",
+        "zh-TW": "薄荷綠包裝紙",
+        "en-US": "Mint Wrapping Paper"
       }
     }
   },

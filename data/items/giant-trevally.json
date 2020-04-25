@@ -11,7 +11,10 @@
       },
       "sources": [
         "In the sea."
-      ]
+      ],
+      "name": {
+        "en-US": "Giant Trevally"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4500
+      },
+      "name": {
+        "en-US": "Giant Trevally",
+        "en-GB": "Giant Trevally",
+        "de": "Stachelmakrele",
+        "es": "Jurel gigante",
+        "fr": "Carangue grosse tête",
+        "it": "Carango gigante",
+        "nl": "Reuzenhorsmakreel",
+        "zh-CN": "白面弄鱼",
+        "zh-TW": "浪人鰺",
+        "jp": "ロウニンアジ",
+        "ko": "무명갈전갱이"
       }
     }
   }

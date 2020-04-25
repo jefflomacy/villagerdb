@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "de": "Froschshirt",
+        "en-GB": "Frog Costume",
+        "en-US": "Frog Costume",
+        "es": "Top rana",
+        "fr": "Haut grenouille",
+        "it": "Canotta anfibio",
+        "ja": "カエルなふく"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -39,6 +48,19 @@
         "blue": "Blue",
         "red": "Red",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Frog Costume",
+        "en-GB": "Frog Costume",
+        "de": "Froschkostüm",
+        "es": "Disfraz de rana",
+        "fr": "Costume de grenouille",
+        "it": "Costume da anfibio",
+        "nl": "Kikkerpak",
+        "zh-CN": "青蛙装",
+        "zh-TW": "青蛙裝",
+        "jp": "カエルなふく",
+        "ko": "개구리 의상"
       }
     }
   }

@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Wandering"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,7 +36,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Wandering",
+        "en-GB": "Wandering",
+        "de": "Ich wandere",
+        "es": "Vagabundo",
+        "fr": "Errance",
+        "it": "Il viaggiatore",
+        "nl": "Wandelen",
+        "zh-CN": "流浪",
+        "zh-TW": "流浪",
+        "jp": "ほうろう",
+        "ko": "방랑자",
+        "ru": "Поход"
+      }
     }
   }
 }

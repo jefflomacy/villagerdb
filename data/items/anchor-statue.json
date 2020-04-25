@@ -24,6 +24,19 @@
         "white": "White",
         "blue": "Blue",
         "retro": "Retro"
+      },
+      "name": {
+        "en-US": "Anchor Statue",
+        "en-GB": "Anchor Statue",
+        "de": "Ankerskulptur",
+        "es": "Escultura de ancla",
+        "fr": "Sculpture d'ancre",
+        "it": "Statua di ancora",
+        "nl": "Ankerstandbeeld",
+        "zh-CN": "锚装饰品",
+        "zh-TW": "錨裝飾品",
+        "jp": "いかりのオブジェ",
+        "ko": "닻 장식"
       }
     }
   },

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "茉莉的照片",
+        "de": "Foto's von Eleonore",
+        "en-GB": "Tia's Photo",
+        "es": "Foto de Meralda",
+        "fr": "Photo de Fanny",
+        "it": "Foto di Fanny",
+        "jp": "ティーナのしゃしん",
+        "ko": "티나의 사진",
+        "nl": "Foto van Tia",
+        "zh-TW": "茉莉的照片",
+        "en-US": "Tia's Photo"
       }
     }
   },

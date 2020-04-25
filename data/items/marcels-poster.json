@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "文字烧的海报",
+        "de": "Poster's von Ronaldo",
+        "en-GB": "Marcel's Poster",
+        "es": "Póster de Eto",
+        "fr": "Poster d'ismaël",
+        "it": "Poster di Giosuè",
+        "jp": "もんじゃのポスター",
+        "ko": "에드워드의 포스터",
+        "nl": "Poster van Marcel",
+        "zh-TW": "文字燒的海報",
+        "en-US": "Marcel's Poster"
+      }
     }
   },
   "category": "Photos"

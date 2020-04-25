@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Rowdy-Schuljacke",
+        "en-GB": "After-School Jacket",
+        "en-US": "After-School Jacket",
+        "es": "Chaqueta abierta",
+        "fr": "Veste décontractée",
+        "it": "Giacca aperta",
+        "ja": "ヤンチャながくせいふく"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -41,6 +50,19 @@
         "purple": "Purple",
         "gray": "Gray",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "After-School Jacket",
+        "en-GB": "After-School Jacket",
+        "de": "Rowdy-Schuljacke",
+        "es": "Chaqueta abierta",
+        "fr": "Veste décontractée",
+        "it": "Giacca da scolaro aperta",
+        "nl": "Openhangende schooljas",
+        "zh-CN": "叛逆学生服",
+        "zh-TW": "叛逆學生服",
+        "jp": "ヤンチャながくせいふく",
+        "ko": "불량한 학생복"
       }
     }
   }

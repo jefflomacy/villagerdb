@@ -19,6 +19,19 @@
         "blue": "Blue",
         "red": "Red",
         "watermelon": "Watermelon"
+      },
+      "name": {
+        "en-US": "Beach Ball",
+        "en-GB": "Beach Ball",
+        "de": "Wasserball",
+        "es": "Pelota de playa",
+        "fr": "Ballon de plage",
+        "it": "Palla da spiaggia",
+        "nl": "Strandbal",
+        "zh-CN": "沙滩球",
+        "zh-TW": "沙灘球",
+        "jp": "ビーチボール",
+        "ko": "비치 볼"
       }
     }
   },

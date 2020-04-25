@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "草莓的海报",
+        "de": "Poster's von Maria",
+        "en-GB": "Merengue's Poster",
+        "es": "Póster de Natura",
+        "fr": "Poster de Patty",
+        "it": "Poster di Irina",
+        "jp": "パティのポスター",
+        "ko": "스트로베리의 포스터",
+        "nl": "Poster van Merengue",
+        "zh-TW": "草莓的海報",
+        "en-US": "Merengue's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 6000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Lab-Experiments Set",
+        "en-GB": "Lab-Experiments Set",
+        "de": "Laborset",
+        "es": "Equipo de laboratorio",
+        "fr": "Kit de chimie",
+        "it": "Kit da laboratorio",
+        "nl": "Laboratoriumset",
+        "zh-CN": "实验组合",
+        "zh-TW": "實驗組合",
+        "jp": "じっけんセット",
+        "ko": "실험 세트"
+      }
     }
   },
   "category": "Furniture"

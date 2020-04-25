@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "小偲的海报",
+        "de": "Poster's von Christa",
+        "en-GB": "Blanche's Poster",
+        "es": "Póster de Rocío",
+        "fr": "Poster de Sophie",
+        "it": "Poster di Emilia",
+        "jp": "しのぶのポスター",
+        "ko": "신옥의 포스터",
+        "nl": "Poster van Blanche",
+        "zh-TW": "小偲的海報",
+        "en-US": "Blanche's Poster"
+      }
     }
   },
   "category": "Photos"

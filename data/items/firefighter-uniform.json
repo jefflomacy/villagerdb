@@ -23,6 +23,19 @@
         "brown": "Brown",
         "lime-yellow": "Lime yellow",
         "avocado": "Avocado"
+      },
+      "name": {
+        "en-US": "Firefighter Uniform",
+        "en-GB": "Firefighter Uniform",
+        "de": "Feuerwehruniform",
+        "es": "Uniforme de bombero",
+        "fr": "Uniforme de pompier",
+        "it": "Uniforme da pompiere",
+        "nl": "Brandweeruniform",
+        "zh-CN": "消防服",
+        "zh-TW": "消防隊服",
+        "jp": "しょうぼうしのふく",
+        "ko": "소방관 제복"
       }
     }
   },

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "倪家莉的照片",
+        "de": "Foto's von Vroni",
+        "en-GB": "Diana's Photo",
+        "es": "Foto de Bambina",
+        "fr": "Photo de Didi",
+        "it": "Foto di Diana",
+        "jp": "ナタリーのしゃしん",
+        "ko": "나탈리의 사진",
+        "nl": "Foto van Diana",
+        "zh-TW": "倪家莉的照片",
+        "en-US": "Diana's Photo"
       }
     }
   },

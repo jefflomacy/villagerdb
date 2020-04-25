@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1300
         }
-      ]
+      ],
+      "name": {
+        "de": "Feuerlöscher",
+        "en-GB": "Extinguisher",
+        "en-US": "Extinguisher",
+        "es": "Extintor",
+        "fr": "Extincteur",
+        "it": "Estintore",
+        "ja": "しょうかき"
+      }
     }
   }
 }

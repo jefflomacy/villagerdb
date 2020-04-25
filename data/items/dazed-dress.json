@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 720
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Dazed Dress"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -37,6 +40,19 @@
         "pink": "Pink",
         "blue": "Blue",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Dazed Dress",
+        "en-GB": "Dazed Dress",
+        "de": "Wohlfühlkleid",
+        "es": "Vestido rombos",
+        "fr": "Robe losange",
+        "it": "Vestito a quadri rosa",
+        "nl": "Ruitenjurk",
+        "zh-CN": "梦幻色系格子连身裙",
+        "zh-TW": "夢幻色系格子連身裙",
+        "jp": "ゆめいろこうしワンピース",
+        "ko": "꿈색 체크무늬 원피스"
       }
     }
   }

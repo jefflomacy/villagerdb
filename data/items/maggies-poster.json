@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "玛格的海报",
+        "de": "Poster's von Magda",
+        "en-GB": "Maggie's Poster",
+        "es": "Póster de Margarí",
+        "fr": "Poster de Marjorie",
+        "it": "Poster di Marcella",
+        "jp": "マーガレットのポスター",
+        "ko": "마가렛의 포스터",
+        "nl": "Poster van Maggie",
+        "zh-TW": "瑪格的海報",
+        "en-US": "Maggie's Poster"
+      }
     }
   },
   "category": "Photos"

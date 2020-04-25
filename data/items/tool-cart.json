@@ -15,7 +15,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Tool Cart"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -37,6 +40,19 @@
         "pink": "Pink",
         "black": "Black",
         "silver": "Silver"
+      },
+      "name": {
+        "en-US": "Tool Cart",
+        "en-GB": "Tool Cart",
+        "de": "Werkzeugwagen",
+        "es": "Carro de herramientas",
+        "fr": "Servante d'atelier",
+        "it": "Carrello degli attrezzi",
+        "nl": "Gereedschapswagen",
+        "zh-CN": "工具推车",
+        "zh-TW": "工具推車",
+        "jp": "ツールカート",
+        "ko": "도구 카트"
       }
     }
   }

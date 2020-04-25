@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Lacy Rug",
+        "en-GB": "Lacy Rug",
+        "de": "Spitzenteppich",
+        "es": "Alfombra encaje",
+        "fr": "Tapis dentelle",
+        "it": "Tappeto merlettato",
+        "nl": "Kanten tapijt",
+        "zh-CN": "蕾丝地毯",
+        "zh-TW": "蕾絲地毯",
+        "jp": "レースのラグ",
+        "ko": "레이스 러그"
+      }
     }
   },
   "category": "Flooring"

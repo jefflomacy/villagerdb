@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Regenjacke",
+        "en-GB": "Blue Jacket",
+        "en-US": "Blue Jacket",
+        "es": "Chubasquero azul",
+        "fr": "Veste bleue",
+        "it": "Giacca pioggia blu",
+        "ja": "ネイビーレインウェア"
+      }
     }
   }
 }

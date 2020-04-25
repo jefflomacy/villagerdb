@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "罗博的海报",
+        "de": "Poster's von Weber",
+        "en-GB": "Wolfgang's Poster",
+        "es": "Póster de Wolfi",
+        "fr": "Poster de Wolfgang",
+        "it": "Poster di Wolfgang",
+        "jp": "ロボのポスター",
+        "ko": "로보의 포스터",
+        "nl": "Poster van Wolfgang",
+        "zh-TW": "羅博的海報",
+        "en-US": "Wolfgang's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -18,6 +18,19 @@
         "blue": "Blue",
         "green": "Green",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Power Boots",
+        "en-GB": "Power Boots",
+        "de": "Paars Power-Stiefel",
+        "es": "Bota de energía",
+        "fr": "Paire bottes de puissance",
+        "it": "Paio stivali tuta potenziata",
+        "nl": "Superkrachtlaarzen",
+        "zh-CN": "动力靴",
+        "zh-TW": "動力靴",
+        "jp": "パワードブーツ",
+        "ko": "파워 부츠"
       }
     }
   },

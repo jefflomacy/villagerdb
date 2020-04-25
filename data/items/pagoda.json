@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 5120
         }
-      ]
+      ],
+      "name": {
+        "de": "Pagode",
+        "en-GB": "Pagoda",
+        "en-US": "Pagoda",
+        "es": "Pagoda",
+        "fr": "Pagode",
+        "it": "Pagoda",
+        "ja": "ごじゅうのとう"
+      }
     },
     "nh": {
       "orderable": false,
@@ -41,6 +50,19 @@
         "red": "Red",
         "natural-wood": "Natural wood",
         "dark-wood": "Dark wood"
+      },
+      "name": {
+        "en-US": "Pagoda",
+        "en-GB": "Pagoda",
+        "de": "Pagode",
+        "es": "Pagoda",
+        "fr": "Pagode",
+        "it": "Pagoda",
+        "nl": "Pagode",
+        "zh-CN": "五重塔",
+        "zh-TW": "五重塔",
+        "jp": "ごじゅうのとう",
+        "ko": "5층탑"
       }
     }
   }

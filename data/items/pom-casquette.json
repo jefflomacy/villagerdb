@@ -20,6 +20,19 @@
         "green": "Green",
         "blue": "Blue",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Pom Casquette",
+        "en-GB": "Pom Casquette",
+        "de": "Bommelhut",
+        "es": "Gorra con pompón",
+        "fr": "Casquette à pompon",
+        "it": "Berretto con pon-pon",
+        "nl": "Muts met klep en pompon",
+        "zh-CN": "毛球报童帽",
+        "zh-TW": "毛球報童帽",
+        "jp": "ボンボンつきキャスケット",
+        "ko": "폼폼 카스케트"
       }
     }
   },

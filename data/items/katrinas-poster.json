@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "星薇的海报",
+        "de": "Poster's von Smeralda",
+        "en-GB": "Katrina's Poster",
+        "es": "Póster de Katrina",
+        "fr": "Poster d'astrid",
+        "it": "Poster di Vanda",
+        "jp": "ハッケミィのポスター",
+        "ko": "마추릴라의 포스터",
+        "nl": "Poster van Katrina",
+        "zh-TW": "星薇的海報",
+        "en-US": "Katrina's Poster"
+      }
     }
   },
   "category": "Photos"

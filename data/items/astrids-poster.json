@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "童儿的海报",
+        "de": "Poster's von Astrid",
+        "en-GB": "Astrid's Poster",
+        "es": "Póster de Astrid",
+        "fr": "Poster de Rhona",
+        "it": "Poster di Stella",
+        "jp": "キッズのポスター",
+        "ko": "펑키맘의 포스터",
+        "nl": "Poster van Astrid",
+        "zh-TW": "童兒的海報",
+        "en-US": "Astrid's Poster"
+      }
     }
   },
   "category": "Photos"

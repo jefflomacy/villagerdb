@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "莫敬的照片",
+        "de": "Foto's von Dieter",
+        "en-GB": "Bud's Photo",
+        "es": "Foto de Surfleo",
+        "fr": "Photo de Léonard",
+        "it": "Foto di Leo",
+        "jp": "グラさんのしゃしん",
+        "ko": "선글의 사진",
+        "nl": "Foto van Bud",
+        "zh-TW": "莫敬的照片",
+        "en-US": "Bud's Photo"
       }
     }
   },

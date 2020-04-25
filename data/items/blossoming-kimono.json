@@ -16,6 +16,19 @@
       "variations": {
         "pink": "Pink",
         "green-tea": "Green tea"
+      },
+      "name": {
+        "en-US": "Blossoming Kimono",
+        "en-GB": "Blossoming Kimono",
+        "de": "Blümchenkimono",
+        "es": "Kimono flor de ciruelo",
+        "fr": "Kimono fleurs de prunier",
+        "it": "Kimono floreale",
+        "nl": "Bloesemkimono",
+        "zh-CN": "梅花和服",
+        "zh-TW": "梅花和服",
+        "jp": "ウメがらのきもの",
+        "ko": "매화무늬 기모노"
       }
     }
   },

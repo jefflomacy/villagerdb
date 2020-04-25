@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "亨利的海报",
+        "de": "Poster's von Freddy",
+        "en-GB": "Henry's Poster",
+        "es": "Póster de Saperto",
+        "fr": "Poster d'henri",
+        "it": "Poster di Renato",
+        "jp": "ヘンリーのポスター",
+        "ko": "헨리의 포스터",
+        "nl": "Poster van Henry",
+        "zh-TW": "亨利的海報",
+        "en-US": "Henry's Poster"
+      }
     }
   },
   "category": "Photos"

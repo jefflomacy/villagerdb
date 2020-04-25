@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 1000000
         }
-      ]
+      ],
+      "name": {
+        "de": "Königinnenkrone",
+        "en-GB": "Crown",
+        "en-US": "Crown",
+        "es": "Corona real",
+        "fr": "Couronne",
+        "it": "Corona",
+        "ja": "クイーンのかんむり"
+      }
     },
     "nh": {
       "orderable": true,
@@ -40,6 +49,19 @@
       ],
       "variations": {
         "gold": "Gold"
+      },
+      "name": {
+        "en-US": "Crown",
+        "en-GB": "Crown",
+        "de": "Königinnenkrone",
+        "es": "Corona real",
+        "fr": "Couronne",
+        "it": "Corona",
+        "nl": "Kroon",
+        "zh-CN": "后冠",
+        "zh-TW": "后冠",
+        "jp": "クイーンのかんむり",
+        "ko": "여왕 왕관"
       }
     }
   }

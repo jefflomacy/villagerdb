@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 80
+      },
+      "name": {
+        "en-US": "Orange Hyacinths",
+        "en-GB": "Orange Hyacinths",
+        "de": "Orangehyazinthen",
+        "es": "Jacintos naranjas",
+        "fr": "Jacinthes orange",
+        "it": "Giacinti arancioni",
+        "nl": "Oranje hyacinten",
+        "zh-CN": "橘色风信子",
+        "zh-TW": "橘色風信子",
+        "jp": "オレンジのヒヤシンス",
+        "ko": "오렌지색 히아신스"
       }
     }
   },

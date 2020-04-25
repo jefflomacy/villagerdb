@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "豚皇的海报",
+        "de": "Poster's von Clemens",
+        "en-GB": "Chops's Poster",
+        "es": "Póster de Solomín",
+        "fr": "Poster d'aaron",
+        "it": "Poster di Lino",
+        "jp": "トンファンのポスター",
+        "ko": "돈후앙의 포스터",
+        "nl": "Poster van Chops",
+        "zh-TW": "豚皇的海報",
+        "en-US": "Chops's Poster"
+      }
     }
   },
   "category": "Photos"

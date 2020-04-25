@@ -11,7 +11,10 @@
       },
       "sources": [
         "In the sea."
-      ]
+      ],
+      "name": {
+        "en-US": "Horse Mackerel"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 150
+      },
+      "name": {
+        "en-US": "Horse Mackerel",
+        "en-GB": "Horse Mackerel",
+        "de": "Makrele",
+        "es": "Jurel",
+        "fr": "Chinchard",
+        "it": "Sgombro",
+        "nl": "Horsmakreel",
+        "zh-CN": "竹荚鱼",
+        "zh-TW": "竹筴魚",
+        "jp": "アジ",
+        "ko": "전갱이"
       }
     }
   }

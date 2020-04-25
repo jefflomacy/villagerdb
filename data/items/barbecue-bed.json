@@ -20,7 +20,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Grillfleisch-Bett",
+        "en-GB": "Barbecue Bed",
+        "en-US": "Barbecue Bed",
+        "es": "Cama barbacoa",
+        "fr": "Lit lasagnes",
+        "it": "Letto lasagne",
+        "ja": "ねぎしおぶたカルビベッド"
+      }
     }
   }
 }

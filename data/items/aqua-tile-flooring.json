@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 900
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Aqua Tile Flooring",
+        "en-GB": "Aqua Tile Flooring",
+        "de": "Türkis-Minifliesenboden",
+        "es": "Suelo alicatado cian",
+        "fr": "Sol mosaïque turquoise",
+        "it": "Pavimento mosaico ciano",
+        "nl": "Turkooise mozaïektegelvloer",
+        "zh-CN": "水蓝色马赛克砖地板",
+        "zh-TW": "水藍色馬賽克磚地板",
+        "jp": "みずいろモザイクタイルのゆか",
+        "ko": "하늘색 모자이크 타일 바닥"
+      }
     }
   },
   "category": "Flooring"

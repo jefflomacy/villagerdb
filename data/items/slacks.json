@@ -21,6 +21,19 @@
         "navy-blue": "Navy blue",
         "beige": "Beige",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Slacks",
+        "en-GB": "Slacks",
+        "de": "Stoffhose",
+        "es": "Pantalón de vestir",
+        "fr": "Pantalon de bureau",
+        "it": "Pantalone classico",
+        "nl": "Pantalon",
+        "zh-CN": "西装裤",
+        "zh-TW": "西裝褲",
+        "jp": "スラックス",
+        "ko": "슬랙스"
       }
     }
   },

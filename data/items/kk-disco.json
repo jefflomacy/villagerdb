@@ -23,7 +23,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Disco"
+      }
     },
     "nh": {
       "orderable": true,
@@ -36,7 +39,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Disco",
+        "en-GB": "K.K. Disco",
+        "de": "K.K. Disco",
+        "es": "Tota-Disco",
+        "fr": "Disco Kéké",
+        "it": "K.K. Disco",
+        "nl": "K.K.-Disco",
+        "zh-CN": "K.K.迪斯科",
+        "zh-TW": "K.K.迪斯可",
+        "jp": "けけディスコ",
+        "ko": "K.K.디스코",
+        "ru": "Диско К. К."
+      }
     }
   }
 }

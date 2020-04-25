@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Saddled Bichir"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4000
+      },
+      "name": {
+        "en-US": "Saddled Bichir",
+        "en-GB": "Saddled Bichir",
+        "de": "Flösselhecht",
+        "es": "Bichir ensillado",
+        "fr": "Bichir",
+        "it": "Polipteride",
+        "nl": "Kwastsnoek",
+        "zh-CN": "恩氏多鳍鱼",
+        "zh-TW": "恩氏多鰭魚",
+        "jp": "エンドリケリー",
+        "ko": "엔드리케리"
       }
     }
   }

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Blocks Rug",
+        "en-GB": "Blue Blocks Rug",
+        "de": "Blau-Viereckmatte",
+        "es": "Alfombra pixelada azul",
+        "fr": "Tapis à carreaux bleu",
+        "it": "Tappeto a blocchi blu",
+        "nl": "Blauweblokkentapijt",
+        "zh-CN": "蓝色方块地毯",
+        "zh-TW": "藍色磚塊地毯",
+        "jp": "あおブロックのラグ",
+        "ko": "파란 블록 러그"
+      }
     }
   },
   "category": "Flooring"

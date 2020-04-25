@@ -14,7 +14,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Magma-Cavern Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -26,7 +29,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Magma-Cavern Wall",
+        "en-GB": "Magma-Cavern Wall",
+        "de": "Vulkantapete",
+        "es": "Pared volcánica",
+        "fr": "Mur volcan",
+        "it": "Muro vulcano",
+        "nl": "Vulkanische wand",
+        "zh-CN": "火山洞窟墙",
+        "zh-TW": "火山洞窟牆",
+        "jp": "かざんどうくつのかべ",
+        "ko": "화산 동굴 벽"
+      }
     }
   }
 }

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1050
+      },
+      "name": {
+        "en-US": "Citrus Long-Horned B. Model",
+        "en-GB": "Citrus Long-Horned B. Model",
+        "de": "Fichtenbockmodell",
+        "es": "Figura longicornio asiático",
+        "fr": "Modèle de capricorne",
+        "it": "Replica di tarlo asiatico",
+        "nl": "Model-Aziatische-Boktor",
+        "zh-CN": "星天牛模型",
+        "zh-TW": "星天牛模型",
+        "jp": "ゴマダラカミキリのもけい",
+        "ko": "알락하늘소 모형"
       }
     }
   },

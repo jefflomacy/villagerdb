@@ -27,6 +27,19 @@
         "camouflage": "Camouflage",
         "simple-pattern": "Simple pattern",
         "pop-pattern": "Pop pattern"
+      },
+      "name": {
+        "en-US": "Camping Cot",
+        "en-GB": "Camping Cot",
+        "de": "Feldbett",
+        "es": "Cama de campaña",
+        "fr": "Lit de camping",
+        "it": "Branda da campeggio",
+        "nl": "Veldbed",
+        "zh-CN": "露营床",
+        "zh-TW": "露營床",
+        "jp": "キャンプベッド",
+        "ko": "캠핑용 침대"
       }
     }
   },

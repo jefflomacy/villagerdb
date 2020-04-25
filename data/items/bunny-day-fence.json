@@ -19,6 +19,19 @@
         "wood-egg": 1,
         "sky-egg": 1,
         "water-egg": 1
+      },
+      "name": {
+        "en-US": "Bunny Day Fence",
+        "en-GB": "Bunny Day Fence",
+        "de": "Häschentag-Zaun",
+        "es": "Valla Caza del Huevo",
+        "fr": "Clôture fête des œufs",
+        "it": "Recinzione caccia all'uovo",
+        "nl": "Eierhek",
+        "zh-CN": "复活节栅栏",
+        "zh-TW": "復活節柵欄",
+        "jp": "イースターなさく",
+        "ko": "이스터 울타리"
       }
     }
   },

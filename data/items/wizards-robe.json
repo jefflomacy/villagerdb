@@ -16,6 +16,19 @@
       "variations": {
         "blue": "Blue",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Wizard's Robe",
+        "en-GB": "Wizard's Robe",
+        "de": "Zaubererumhang",
+        "es": "Túnica de mago",
+        "fr": "Tenue de magicien",
+        "it": "Tunica da mago",
+        "nl": "Tovenaarsmantel",
+        "zh-CN": "魔术师长袍",
+        "zh-TW": "魔術師長袍",
+        "jp": "まじゅつしのローブ",
+        "ko": "마법사 로브"
       }
     }
   },

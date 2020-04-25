@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿刻的照片",
+        "de": "Foto's von Jörg",
+        "en-GB": "Jeremiah's Photo",
+        "es": "Foto de Jeremías",
+        "fr": "Photo de Jérémie",
+        "it": "Foto di Geremia",
+        "jp": "クワトロのしゃしん",
+        "ko": "드리미의 사진",
+        "nl": "Foto van Jeremiah",
+        "zh-TW": "阿刻的照片",
+        "en-US": "Jeremiah's Photo"
       }
     }
   },

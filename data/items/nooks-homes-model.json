@@ -12,7 +12,10 @@
       },
       "sources": [
         "Happy Home Designer save data"
-      ]
+      ],
+      "name": {
+        "en-US": "Nook's Homes Model"
+      }
     }
   }
 }

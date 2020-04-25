@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1780
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Green Flower-Print Wall",
+        "en-GB": "Green Flower-Print Wall",
+        "de": "Grün-Blumentapete",
+        "es": "Pared floral verde",
+        "fr": "Mur à fleurs vert",
+        "it": "Muro stampa floreale verde",
+        "nl": "Groene bloemenwand",
+        "zh-CN": "绿色花纹壁纸",
+        "zh-TW": "綠色花紋壁紙",
+        "jp": "グリーンのはながらかべがみ",
+        "ko": "그린 꽃무늬 벽지"
+      }
     }
   },
   "category": "Wallpaper"

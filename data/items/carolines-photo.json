@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "贾萝琳的照片",
+        "de": "Foto's von Ricarda",
+        "en-GB": "Caroline's Photo",
+        "es": "Foto de Mariló",
+        "fr": "Photo d'isabelle",
+        "it": "Foto di Carolina",
+        "jp": "キャロラインのしゃしん",
+        "ko": "캐롤라인의 사진",
+        "nl": "Foto van Caroline",
+        "zh-TW": "賈蘿琳的照片",
+        "en-US": "Caroline's Photo"
       }
     }
   },

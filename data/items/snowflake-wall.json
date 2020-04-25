@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 19200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Snowflake Wall",
+        "en-GB": "Snowflake Wall",
+        "de": "Schneeflockentapete",
+        "es": "Pared nevada",
+        "fr": "Mur flocons",
+        "it": "Muro fiocchi di neve",
+        "nl": "Sneeuwvlokjeswand",
+        "zh-CN": "雪花壁纸",
+        "zh-TW": "雪花壁紙",
+        "jp": "スノーフレークのかべがみ",
+        "ko": "눈꽃 벽지"
+      }
     }
   },
   "category": "Wallpaper"

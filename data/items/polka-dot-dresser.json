@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Pünktchenkommode",
+        "en-GB": "Polka-Dot Dresser",
+        "en-US": "Polka-Dot Dresser",
+        "es": "Cómoda topos",
+        "fr": "Commode à pois rouge",
+        "it": "Toletta pois",
+        "ja": "みずたまなタンス"
+      }
     }
   }
 }

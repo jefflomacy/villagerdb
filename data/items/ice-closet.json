@@ -15,7 +15,16 @@
       },
       "sources": [
         "Snowmam"
-      ]
+      ],
+      "name": {
+        "de": "Eisschränkchen",
+        "en-GB": "Ice Closet",
+        "en-US": "Ice Closet",
+        "es": "Armario hielo",
+        "fr": "Armoire glace",
+        "it": "Armadio ghiaccio",
+        "ja": "アイスなクロゼット"
+      }
     }
   }
 }

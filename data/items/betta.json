@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2500
+      },
+      "name": {
+        "en-US": "Betta",
+        "en-GB": "Betta",
+        "de": "Kampffisch",
+        "es": "Betta",
+        "fr": "Combattant",
+        "it": "Betta",
+        "nl": "Siamese kempvis",
+        "zh-CN": "斗鱼",
+        "zh-TW": "鬥魚",
+        "jp": "ベタ",
+        "ko": "베타"
       }
     }
   },

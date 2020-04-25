@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1760
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pink Blossoming Wall",
+        "en-GB": "Pink Blossoming Wall",
+        "de": "Rosa-Blümchentapete",
+        "es": "Pared floreada rosa",
+        "fr": "Mur floraison rose",
+        "it": "Muro fiorato rosa",
+        "nl": "Roze boeketlambrisering",
+        "zh-CN": "粉红色花草图案墙",
+        "zh-TW": "粉紅色花草圖案牆",
+        "jp": "ピンクのくさばなもようのかべ",
+        "ko": "핑크 풀꽃 벽"
+      }
     }
   },
   "category": "Wallpaper"

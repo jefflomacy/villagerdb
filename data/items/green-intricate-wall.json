@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1570
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Green Intricate Wall",
+        "en-GB": "Green Intricate Wall",
+        "de": "Grün-Filigrantapete",
+        "es": "Pared boceto floral verde",
+        "fr": "Mur entrelacs floraux vert",
+        "it": "Muro filigrana verde",
+        "nl": "Groene filigraanwand",
+        "zh-CN": "绿色布墙",
+        "zh-TW": "綠色布牆",
+        "jp": "みどりのテキスタイルのかべ",
+        "ko": "초록 텍스타일 벽"
+      }
     }
   },
   "category": "Wallpaper"

@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 75
+      },
+      "name": {
+        "zh-CN": "石头",
+        "de": "Stein's",
+        "en-GB": "Stone",
+        "es": "Piedra",
+        "fr": "Pierre",
+        "it": "Pietra",
+        "jp": "いし",
+        "ko": "돌",
+        "nl": "Steen",
+        "zh-TW": "石頭",
+        "en-US": "Stone"
       }
     }
   }

@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Lüftungsventilator",
+        "en-GB": "Ventilation Fan",
+        "en-US": "Ventilation Fan",
+        "es": "Extractor",
+        "fr": "Aérateur",
+        "it": "Ventola",
+        "ja": "かんきせん"
+      }
     },
     "nh": {
       "orderable": true,
@@ -50,6 +59,19 @@
         "blue": "Blue",
         "green": "Green",
         "orange": "Orange"
+      },
+      "name": {
+        "en-US": "Ventilation Fan",
+        "en-GB": "Ventilation Fan",
+        "de": "Lüftungsventilator",
+        "es": "Extractor",
+        "fr": "Aérateur",
+        "it": "Ventola",
+        "nl": "Inbouwventilator",
+        "zh-CN": "换气扇",
+        "zh-TW": "換氣扇",
+        "jp": "かんきせん",
+        "ko": "환풍기"
       }
     }
   }

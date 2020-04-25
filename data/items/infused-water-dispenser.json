@@ -21,6 +21,19 @@
         "orange": 2,
         "peach": 2,
         "coconut": 2
+      },
+      "name": {
+        "en-US": "Infused-Water Dispenser",
+        "en-GB": "Infused-Water Dispenser",
+        "de": "Obst-Wasserspender",
+        "es": "Jarro de agua afrutada",
+        "fr": "Distributeur d'eau fruitée",
+        "it": "Distributore acqua fruttata",
+        "nl": "Watertap met fruit",
+        "zh-CN": "水果桶装饮水机",
+        "zh-TW": "水果桶裝飲水機",
+        "jp": "フルーツウォーターサーバー",
+        "ko": "프루츠 워터 디스펜서"
       }
     }
   },

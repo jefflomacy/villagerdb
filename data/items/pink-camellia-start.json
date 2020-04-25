@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pink-Camellia Start",
+        "en-GB": "Pink-Camellia Start",
+        "de": "Pink-Kameliensetzling",
+        "es": "Camelia rosa de vivero",
+        "fr": "Pousse de camélia rose",
+        "it": "Germoglio di camelia rosa",
+        "nl": "Roze-Camelia-Zaailing",
+        "zh-CN": "粉红山茶花苗",
+        "zh-TW": "粉紅山茶花苗",
+        "jp": "ピンクのツバキのなえ",
+        "ko": "핑크색 동백 묘목"
+      }
     }
   },
   "category": "Bushes"

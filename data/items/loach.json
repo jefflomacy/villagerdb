@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Loach"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 400
+      },
+      "name": {
+        "en-US": "Loach",
+        "en-GB": "Loach",
+        "de": "Bachschmerle",
+        "es": "Locha",
+        "fr": "Loche d'étang",
+        "it": "Cobite",
+        "nl": "Modderkruiper",
+        "zh-CN": "泥鳅",
+        "zh-TW": "泥鰍",
+        "jp": "ドジョウ",
+        "ko": "미꾸라지"
       }
     }
   }

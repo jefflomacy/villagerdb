@@ -25,7 +25,10 @@
           "currency": "meow",
           "value": 5
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Iron Garden Table"
+      }
     },
     "nh": {
       "orderable": false,
@@ -43,6 +46,19 @@
         "brown": "Brown",
         "black": "Black",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Iron Garden Table",
+        "en-GB": "Iron Garden Table",
+        "de": "Romantikgartentisch",
+        "es": "Mesa de forja",
+        "fr": "Table de jardin fer",
+        "it": "Tavolo da giardino di ferro",
+        "nl": "Ijzeren tuintafel",
+        "zh-CN": "花园铸铁桌",
+        "zh-TW": "鑄鐵花園桌",
+        "jp": "アイアンガーデンテーブル",
+        "ko": "아이언 가든 테이블"
       }
     }
   }

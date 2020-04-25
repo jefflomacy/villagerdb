@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 600
         }
-      ]
+      ],
+      "name": {
+        "de": "WM-Hose",
+        "en-GB": "Soccer Shorts",
+        "en-US": "Soccer Shorts",
+        "es": "Pantalón fútbol",
+        "fr": "Short Brésil",
+        "it": "Paio bermuda calcio",
+        "ja": "ラテンユニフォームズボン"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -42,6 +51,19 @@
         "white": "White",
         "orange": "Orange",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Soccer Shorts",
+        "en-GB": "Soccer Shorts",
+        "de": "Fußballhose",
+        "es": "Pantalón corto fútbol",
+        "fr": "Short de foot",
+        "it": "Paio di pantaloni da calcio",
+        "nl": "Voetbalbroekje",
+        "zh-CN": "足球裤",
+        "zh-TW": "足球褲",
+        "jp": "サッカーのズボン",
+        "ko": "축구 바지"
       }
     }
   }

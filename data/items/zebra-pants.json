@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 3600
         }
-      ]
+      ],
+      "name": {
+        "de": "Zebrahose",
+        "en-GB": "Zebra Pants",
+        "en-US": "Zebra Pants",
+        "es": "Pantalón cebra",
+        "fr": "Pantalon zèbre",
+        "it": "Pantalone zebra",
+        "ja": "ゼブラなズボン"
+      }
     }
   }
 }

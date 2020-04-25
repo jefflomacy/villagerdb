@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Lullaby"
+      }
     },
     "nh": {
       "orderable": true,
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Lullaby",
+        "en-GB": "K.K. Lullaby",
+        "de": "K.K. Schlaflied",
+        "es": "Tota-Nana",
+        "fr": "Berceuse de Kéké",
+        "it": "K.K. Ninnananna",
+        "nl": "K.K.-Slaapliedje",
+        "zh-CN": "K.K.摇篮曲",
+        "zh-TW": "K.K.搖籃曲",
+        "jp": "けけララバイ",
+        "ko": "K.K.자장가",
+        "ru": "Колыбельная К. К."
+      }
     }
   }
 }

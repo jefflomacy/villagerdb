@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "男子汗的照片",
+        "de": "Foto's von Stefan",
+        "en-GB": "Stinky's Photo",
+        "es": "Foto de Micifuz",
+        "fr": "Photo de Tupux",
+        "it": "Foto di Puzzolo",
+        "jp": "アセクサのしゃしん",
+        "ko": "땀띠의 사진",
+        "nl": "Foto van Stinky",
+        "zh-TW": "男子汗的照片",
+        "en-US": "Stinky's Photo"
       }
     }
   },

@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1520
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pink-Striped Wall",
+        "en-GB": "Pink-Striped Wall",
+        "de": "Rosa-Streifenmustertapete",
+        "es": "Pared banda rosa",
+        "fr": "Mur rayures rose",
+        "it": "Muro a strisce rosa",
+        "nl": "Roze gestreepte wand",
+        "zh-CN": "粉红条纹壁纸",
+        "zh-TW": "粉紅條紋壁紙",
+        "jp": "ピンクストライプのかべがみ",
+        "ko": "핑크 줄무늬 벽지"
+      }
     }
   },
   "category": "Wallpaper"

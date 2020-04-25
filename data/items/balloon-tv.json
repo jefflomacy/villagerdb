@@ -15,7 +15,16 @@
       },
       "sources": [
         "Gift balloon"
-      ]
+      ],
+      "name": {
+        "de": "Ballonfernseher",
+        "en-GB": "Balloon TV",
+        "en-US": "Balloon TV",
+        "es": "Tele globos",
+        "fr": "Télé ballons",
+        "it": "TV palloncini",
+        "ja": "バルーンテレビ"
+      }
     }
   }
 }

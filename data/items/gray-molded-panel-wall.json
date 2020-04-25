@@ -13,7 +13,20 @@
           "currency": "bells",
           "value": 1980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Gray Molded-Panel Wall",
+        "en-GB": "Gray Molded-Panel Wall",
+        "de": "Grau-Wandvertäfelung",
+        "es": "Pared con molduras gris",
+        "fr": "Mur à moulures gris",
+        "it": "Muro modanature grigio",
+        "nl": "Grijze lambrisering",
+        "zh-CN": "灰色线板墙",
+        "zh-TW": "灰色線板牆",
+        "jp": "グレーのパネルモールドかべ",
+        "ko": "그레이 패널 몰드 벽"
+      }
     }
   },
   "category": "Wallpaper"

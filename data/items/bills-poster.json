@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "皮蛋的海报",
+        "de": "Poster's von Bill",
+        "en-GB": "Bill's Poster",
+        "es": "Póster de Paquito",
+        "fr": "Poster de Choco",
+        "it": "Poster di Gino",
+        "jp": "ピータンのポスター",
+        "ko": "코코아의 포스터",
+        "nl": "Poster van Bill",
+        "zh-TW": "皮蛋的海報",
+        "en-US": "Bill's Poster"
+      }
     }
   },
   "category": "Photos"

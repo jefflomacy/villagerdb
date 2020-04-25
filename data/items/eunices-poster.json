@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "毛海儿的海报",
+        "de": "Poster's von Edith",
+        "en-GB": "Eunice's Poster",
+        "es": "Póster de Lanolina",
+        "fr": "Poster de Bérénice",
+        "it": "Poster di Tenerina",
+        "jp": "モヘアのポスター",
+        "ko": "곱슬이의 포스터",
+        "nl": "Poster van Eunice",
+        "zh-TW": "毛海兒的海報",
+        "en-US": "Eunice's Poster"
+      }
     }
   },
   "category": "Photos"

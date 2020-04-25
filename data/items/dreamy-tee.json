@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 400
         }
-      ]
+      ],
+      "name": {
+        "de": "Frotteeshirt",
+        "en-GB": "Dreamy Tee",
+        "en-US": "Dreamy Tee",
+        "es": "Camiseta ensueño",
+        "fr": "T-shirt de rêve",
+        "it": "Maglietta da sogno",
+        "ja": "ゆめのはながらのシャツ"
+      }
     }
   }
 }

@@ -11,7 +11,10 @@
       },
       "sources": [
         "On trees."
-      ]
+      ],
+      "name": {
+        "en-US": "Giant Stag"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10000
+      },
+      "name": {
+        "en-US": "Giant Stag",
+        "en-GB": "Giant Stag",
+        "de": "Riesen-Hirschkäfer",
+        "es": "Escarabajo ciervo gigante",
+        "fr": "Lucane cerf-volant",
+        "it": "Coleottero gigante",
+        "nl": "Reuzenhertkever",
+        "zh-CN": "大锹形虫",
+        "zh-TW": "大鍬形蟲",
+        "jp": "オオクワガタ",
+        "ko": "왕사슴벌레"
       }
     }
   }

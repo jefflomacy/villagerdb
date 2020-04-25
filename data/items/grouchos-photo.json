@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "爪爪的照片",
+        "de": "Foto's von Ernst",
+        "en-GB": "Groucho's Photo",
+        "es": "Foto de Groucho",
+        "fr": "Photo de Ronchon",
+        "it": "Foto di Groucho",
+        "jp": "クローのしゃしん",
+        "ko": "거무틱의 사진",
+        "nl": "Foto van Groucho",
+        "zh-TW": "爪爪的照片",
+        "en-US": "Groucho's Photo"
       }
     }
   },

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Hasenpulli",
+        "en-GB": "Bunny Shirt",
+        "en-US": "Bunny Shirt",
+        "es": "Jersey conejito",
+        "fr": "Pull lapin",
+        "it": "Maglia coniglio",
+        "ja": "うさぎのふくL"
+      }
     }
   }
 }

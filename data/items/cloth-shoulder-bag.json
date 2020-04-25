@@ -21,6 +21,19 @@
         "blue": "Blue",
         "orange": "Orange",
         "ivory": "Ivory"
+      },
+      "name": {
+        "en-US": "Cloth Shoulder Bag",
+        "en-GB": "Cloth Shoulder Bag",
+        "de": "Leinenumhängetasche",
+        "es": "Bandolera de tela",
+        "fr": "Sac bandoulière en toile",
+        "it": "Borsa di tela a bandoliera",
+        "nl": "Katoenen schoudertas",
+        "zh-CN": "帆布单肩包",
+        "zh-TW": "帆布肩背包",
+        "jp": "はんぷショルダー",
+        "ko": "옥스퍼드 숄더백"
       }
     }
   },

@@ -11,7 +11,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Dino-Fußabdruck",
+        "en-GB": "Dinosaur Track",
+        "en-US": "Dinosaur Track",
+        "es": "Huella de dinosaurio",
+        "fr": "Empreinte de dino",
+        "it": "Orma dinosauro",
+        "ja": "あしあとのかせき"
+      }
     },
     "nh": {
       "orderable": false,
@@ -21,6 +30,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1000
+      },
+      "name": {
+        "en-US": "Dinosaur Track",
+        "en-GB": "Dinosaur Track",
+        "de": "Dino-Fußabdruck",
+        "es": "Huella de dinosaurio",
+        "fr": "Empreinte de dinosaure",
+        "it": "Orma dinosauro",
+        "nl": "Fossiele pootafdruk",
+        "zh-CN": "恐龙脚印化石",
+        "zh-TW": "恐龍腳印化石",
+        "jp": "あしあとのかせき",
+        "ko": "발자국 화석"
       }
     }
   }

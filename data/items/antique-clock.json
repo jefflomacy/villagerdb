@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 2352
         }
-      ]
+      ],
+      "name": {
+        "de": "Antikstanduhr",
+        "en-GB": "Antique Clock",
+        "en-US": "Antique Clock",
+        "es": "Reloj antiguo",
+        "fr": "Horloge ancienne",
+        "it": "Vecchio orologio",
+        "ja": "アンティークなとけい"
+      }
     },
     "nh": {
       "orderable": true,
@@ -38,6 +47,19 @@
         "brown": "Brown",
         "natural": "Natural",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Antique Clock",
+        "en-GB": "Antique Clock",
+        "de": "Antikstanduhr",
+        "es": "Reloj antiguo",
+        "fr": "Horloge ancienne",
+        "it": "Vecchio orologio",
+        "nl": "Antieke klok",
+        "zh-CN": "古董时钟",
+        "zh-TW": "古董時鐘",
+        "jp": "アンティークなとけい",
+        "ko": "앤티크 시계"
       }
     }
   }

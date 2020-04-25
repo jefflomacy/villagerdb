@@ -24,6 +24,19 @@
         "blue": "Blue",
         "berry-red": "Berry red",
         "navy-blue": "Navy blue"
+      },
+      "name": {
+        "en-US": "Athletic Shorts",
+        "en-GB": "Athletic Shorts",
+        "de": "Athletenshorts",
+        "es": "Pantalón corto atletismo",
+        "fr": "Short de sport",
+        "it": "Pantaloncino della tuta",
+        "nl": "Korte sportbroek",
+        "zh-CN": "运动短裤",
+        "zh-TW": "運動短褲",
+        "jp": "ジャージショートパンツ",
+        "ko": "트레이닝복 숏팬츠"
       }
     }
   },

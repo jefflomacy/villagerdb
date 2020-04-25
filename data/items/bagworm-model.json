@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1800
+      },
+      "name": {
+        "en-US": "Bagworm Model",
+        "en-GB": "Bagworm Model",
+        "de": "Sackträgermodell",
+        "es": "Figura de oruga de bolsón",
+        "fr": "Modèle de psyché",
+        "it": "Replica di bruco dal fodero",
+        "nl": "Modelzakjesdrager",
+        "zh-CN": "蓑衣虫模型",
+        "zh-TW": "蓑衣蟲模型",
+        "jp": "ミノムシのもけい",
+        "ko": "도롱이벌레 모형"
       }
     }
   },

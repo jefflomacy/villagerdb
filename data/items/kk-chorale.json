@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Chorale"
+      }
     },
     "nh": {
       "orderable": true,
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Chorale",
+        "en-GB": "K.K. Chorale",
+        "de": "K.K. Choral",
+        "es": "Tota-Góspel",
+        "fr": "Chorale de Kéké",
+        "it": "K.K. Corale",
+        "nl": "K.K.-Koraal",
+        "zh-CN": "K.K.赞美诗歌",
+        "zh-TW": "K.K.讚美詩歌",
+        "jp": "けけさんびか",
+        "ko": "K.K.찬송가",
+        "ru": "Хорал К. К."
+      }
     }
   }
 }

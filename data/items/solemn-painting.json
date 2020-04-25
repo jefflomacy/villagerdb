@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3920
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Solemn Painting"
+      }
     },
     "nh": {
       "orderable": false,
@@ -41,6 +44,19 @@
       "variations": {
         "real": "Real",
         "fake": "Fake"
+      },
+      "name": {
+        "en-US": "Solemn Painting",
+        "en-GB": "Solemn Painting",
+        "de": "Feierlichgemälde",
+        "es": "Cuadro español",
+        "fr": "Toile solennelle",
+        "it": "Quadro solenne",
+        "nl": "Plechtige schilderij",
+        "zh-CN": "肃穆的名画",
+        "zh-TW": "肅穆的名畫",
+        "jp": "おごそかなめいが",
+        "ko": "엄숙한 명화"
       }
     }
   }

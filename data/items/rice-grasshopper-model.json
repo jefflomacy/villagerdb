@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1200
+      },
+      "name": {
+        "en-US": "Rice Grasshopper Model",
+        "en-GB": "Rice Grasshopper Model",
+        "de": "Heuschreckenmodell",
+        "es": "Figura de langosta",
+        "fr": "Modèle de criquet",
+        "it": "Replica di locusta",
+        "nl": "Modelrijstsprinkhaan",
+        "zh-CN": "稻蝗模型",
+        "zh-TW": "稻蝗模型",
+        "jp": "イナゴのもけい",
+        "ko": "메뚜기 모형"
       }
     }
   },

@@ -12,12 +12,34 @@
       "sources": [
         "HHA (100",
         "000 points)"
-      ]
+      ],
+      "name": {
+        "de": "AdsH-Goldpokal",
+        "en-GB": "Gold HHA Trophy",
+        "en-US": "Gold HHA Trophy",
+        "es": "Trofeo AAD de oro",
+        "fr": "Trophée AJD or",
+        "it": "Trofeo ABC d'oro",
+        "ja": "きんのおうちトロフィー"
+      }
     },
     "nh": {
       "sellPrice": {
         "currency": "bells",
         "value": 450
+      },
+      "name": {
+        "en-US": "Gold HHA Trophy",
+        "en-GB": "Gold HHA Trophy",
+        "de": "Adsh-Goldpokal",
+        "es": "Trofeo AAD de oro",
+        "fr": "Trophée AJD or",
+        "it": "Trofeo ABC d'oro",
+        "nl": "Gouden AWW-trofee",
+        "zh-CN": "金屋奖杯",
+        "zh-TW": "金屋獎盃",
+        "jp": "きんのおうちトロフィー",
+        "ko": "집 모양 금 트로피"
       }
     }
   }

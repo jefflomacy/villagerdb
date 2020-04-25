@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "de": "Weißstrumpf",
+        "en-GB": "White Stockings",
+        "en-US": "White Stockings",
+        "es": "Media blanca",
+        "fr": "Paire de bas blancs",
+        "it": "Paio collant bianchi",
+        "ja": "しろいストッキング"
+      }
     }
   }
 }

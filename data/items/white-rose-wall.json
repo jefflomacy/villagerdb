@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1720
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White-Rose Wall",
+        "en-GB": "White-Rose Wall",
+        "de": "Unschuldsrosentapete",
+        "es": "Pared rosas rosada",
+        "fr": "Mur de roses blanches",
+        "it": "Muro con rose bianche",
+        "nl": "Witterozenwand",
+        "zh-CN": "白色玫瑰壁纸",
+        "zh-TW": "白色玫瑰壁紙",
+        "jp": "しろいバラのかべがみ",
+        "ko": "하얀 장미 벽지"
+      }
     }
   },
   "category": "Wallpaper"

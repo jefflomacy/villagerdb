@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Industrial Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,7 +36,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Industrial Wall",
+        "en-GB": "Industrial Wall",
+        "de": "Industriewand",
+        "es": "Pared industrial",
+        "fr": "Mur d'usine",
+        "it": "Muro industriale",
+        "nl": "Fabriekswand",
+        "zh-CN": "工厂墙",
+        "zh-TW": "工廠牆",
+        "jp": "ファクトリーなかべ",
+        "ko": "팩토리 벽"
+      }
     }
   }
 }

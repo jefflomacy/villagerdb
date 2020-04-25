@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1040
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red-Brick Flooring",
+        "en-GB": "Red-Brick Flooring",
+        "de": "Rotziegelboden",
+        "es": "Suelo ladrillo rojo",
+        "fr": "Sol briques rouges",
+        "it": "Pavimento mattoni rossi",
+        "nl": "Rode bakstenen vloer",
+        "zh-CN": "红色砖块地板",
+        "zh-TW": "紅色磚塊地板",
+        "jp": "あかレンガのゆか",
+        "ko": "빨간 벽돌 바닥"
+      }
     }
   },
   "category": "Flooring"

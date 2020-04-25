@@ -18,7 +18,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Faire"
+      }
     },
     "nh": {
       "orderable": true,
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Faire",
+        "en-GB": "K.K. Faire",
+        "de": "K.K. Jahrmarkt",
+        "es": "Tota-Romanza",
+        "fr": "Virelai Kéké",
+        "it": "K.K. Festa",
+        "nl": "K.K.-Boerendans",
+        "zh-CN": "冲绳K.K.",
+        "zh-TW": "沖繩K.K.",
+        "jp": "ハイサイけけ",
+        "ko": "혼저옵서예K.K.",
+        "ru": "Ярмарка К. К."
+      }
     }
   }
 }

@@ -16,6 +16,19 @@
       "variations": {
         "black": "Black",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Patterned Stockings",
+        "en-GB": "Patterned Stockings",
+        "de": "Paars Musterstrümpfe",
+        "es": "Media con estampado",
+        "fr": "Collant à motifs",
+        "it": "Paio di calze decorate",
+        "nl": "Panty met patroon",
+        "zh-CN": "花纹丝袜",
+        "zh-TW": "花紋絲襪",
+        "jp": "デザインストッキング",
+        "ko": "디자인 스타킹"
       }
     }
   },

@@ -14,7 +14,10 @@
       },
       "sources": [
         "Fishing Tourney"
-      ]
+      ],
+      "name": {
+        "en-US": "Marine Pop Wall"
+      }
     },
     "nh": {
       "sources": [
@@ -29,7 +32,20 @@
           "currency": "bells",
           "value": 3220
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Marine Pop Wall",
+        "en-GB": "Marine Pop Wall",
+        "de": "Aquatapete",
+        "es": "Pared peces",
+        "fr": "Mur marin pop",
+        "it": "Muro mare pop",
+        "nl": "Vissenwand",
+        "zh-CN": "鱼儿壁纸",
+        "zh-TW": "魚兒壁紙",
+        "jp": "おサカナのかべがみ",
+        "ko": "물고기 벽지"
+      }
     }
   }
 }

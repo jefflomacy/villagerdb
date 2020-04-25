@@ -19,6 +19,19 @@
         "green": "Green",
         "black": "Black",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Faux-Shearling Coat",
+        "en-GB": "Faux-Shearling Coat",
+        "de": "Kunstfelljacke",
+        "es": "Trenca sherpa",
+        "fr": "Manteau fourré",
+        "it": "Giacca di finto montone",
+        "nl": "Winterjas",
+        "zh-CN": "麂皮大衣",
+        "zh-TW": "麂皮大衣",
+        "jp": "ムートンコート",
+        "ko": "양가죽 코트"
       }
     }
   },

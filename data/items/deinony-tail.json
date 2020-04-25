@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2500
+      },
+      "name": {
+        "en-US": "Deinony Tail",
+        "en-GB": "Deinony Tail",
+        "de": "Deinonychus-Schwanz",
+        "es": "Cola deinonico",
+        "fr": "Queue de déinonychus",
+        "it": "Coda deinonico",
+        "nl": "Deinonychusstaart",
+        "zh-CN": "恐爪龙的尾巴",
+        "zh-TW": "恐爪龍的尾巴",
+        "jp": "ディノニクスのしっぽ",
+        "ko": "데이노니쿠스의 꼬리"
       }
     }
   },

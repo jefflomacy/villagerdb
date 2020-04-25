@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "娜塔丽的照片",
+        "de": "Foto's von Natalja",
+        "en-GB": "Tasha's Photo",
+        "es": "Foto de Tania",
+        "fr": "Photo de Nadeige",
+        "it": "Foto di Teresa",
+        "jp": "ナターシャのしゃしん",
+        "ko": "나타샤의 사진",
+        "nl": "Foto van Tasha",
+        "zh-TW": "娜塔麗的照片",
+        "en-US": "Tasha's Photo"
       }
     }
   },

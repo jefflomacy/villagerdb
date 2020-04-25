@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 980
         }
-      ]
+      ],
+      "name": {
+        "de": "Sonnenblume",
+        "en-GB": "Sunflower",
+        "en-US": "Sunflower",
+        "es": "Jarrón con girasoles",
+        "fr": "Tournesol",
+        "it": "Girasole",
+        "ja": "ひまわり"
+      }
     }
   }
 }

@@ -19,6 +19,19 @@
         "red": "Red",
         "light-blue": "Light blue",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Cat Grass",
+        "en-GB": "Cat Grass",
+        "de": "Katzengras",
+        "es": "Hierba gatera",
+        "fr": "Herbe à chat",
+        "it": "Vaso di erbetta",
+        "nl": "Pot met kattengras",
+        "zh-CN": "猫草",
+        "zh-TW": "貓草",
+        "jp": "ネコぐさ",
+        "ko": "캣그라스"
       }
     }
   },

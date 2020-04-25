@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 260
         }
-      ]
+      ],
+      "name": {
+        "de": "Elefantenshirt",
+        "en-GB": "Elephant Tee",
+        "en-US": "Elephant Tee",
+        "es": "Camiseta elefantito",
+        "fr": "T-shirt éléphant",
+        "it": "Maglietta elefante",
+        "ja": "ゾウのふく"
+      }
     }
   }
 }

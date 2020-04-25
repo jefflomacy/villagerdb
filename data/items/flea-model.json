@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 210
+      },
+      "name": {
+        "en-US": "Flea Model",
+        "en-GB": "Flea Model",
+        "de": "Flohmodell",
+        "es": "Figura de pulga",
+        "fr": "Modèle de puce",
+        "it": "Replica di pulce",
+        "nl": "Modelvlo",
+        "zh-CN": "跳蚤模型",
+        "zh-TW": "跳蚤模型",
+        "jp": "ノミのもけい",
+        "ko": "벼룩 모형"
       }
     }
   },

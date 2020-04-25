@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "儒林的海报",
+        "de": "Poster's von Aki",
+        "en-GB": "Genji's Poster",
+        "es": "Póster de Sumo",
+        "fr": "Poster de Kali",
+        "it": "Poster di Genji",
+        "jp": "ゲンジのポスター",
+        "ko": "토시의 포스터",
+        "nl": "Poster van Genji",
+        "zh-TW": "儒林的海報",
+        "en-US": "Genji's Poster"
+      }
     }
   },
   "category": "Photos"

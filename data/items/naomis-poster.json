@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "玉兰的海报",
+        "de": "Poster's von Jolanda",
+        "en-GB": "Naomi's Poster",
+        "es": "Póster de Regina",
+        "fr": "Poster de Maiko",
+        "it": "Poster di Melina",
+        "jp": "ハナコのポスター",
+        "ko": "화자의 포스터",
+        "nl": "Poster van Naomi",
+        "zh-TW": "玉蘭的海報",
+        "en-US": "Naomi's Poster"
+      }
     }
   },
   "category": "Photos"

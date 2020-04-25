@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "name": {
+        "de": "Energiemaschine",
+        "en-GB": "Unknown Machine",
+        "en-US": "Unknown Machine",
+        "es": "Psicointerruptor",
+        "fr": "Machine inconnue",
+        "it": "Macchina ignota",
+        "ja": "よくわからないキカイ"
+      }
     }
   }
 }

@@ -53,6 +53,19 @@
         "red-orange": "Red / Orange",
         "red-light-wood": "Red / Light wood",
         "red-dark-wood": "Red / Dark wood"
+      },
+      "name": {
+        "en-US": "Outdoor Bench",
+        "en-GB": "Outdoor Bench",
+        "de": "Campingbank",
+        "es": "Banco plegable de pícnic",
+        "fr": "Banquette d'extérieur",
+        "it": "Panca pieghevole da picnic",
+        "nl": "Kampeerbank",
+        "zh-CN": "户外长凳",
+        "zh-TW": "戶外長椅",
+        "jp": "アウトドアベンチ",
+        "ko": "아웃도어 벤치"
       }
     }
   },

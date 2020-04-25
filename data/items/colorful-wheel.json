@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "de": "Zahlenrad",
+        "en-GB": "Colorful Wheel",
+        "en-US": "Colorful Wheel",
+        "es": "Ruleta colorida",
+        "fr": "Roue colorée",
+        "it": "Ruota colorata",
+        "ja": "ルーレット"
+      }
     },
     "nh": {
       "orderable": true,
@@ -41,6 +50,19 @@
         "win-or-lose": "Win or lose",
         "black-red": "Black & red",
         "items": "Items"
+      },
+      "name": {
+        "en-US": "Colorful Wheel",
+        "en-GB": "Colorful Wheel",
+        "de": "Zahlenrad",
+        "es": "Ruleta colorida",
+        "fr": "Roue colorée",
+        "it": "Ruota colorata",
+        "nl": "Kleurenwiel",
+        "zh-CN": "转盘",
+        "zh-TW": "轉盤",
+        "jp": "ルーレット",
+        "ko": "룰렛"
       }
     }
   }

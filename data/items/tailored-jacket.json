@@ -19,6 +19,19 @@
         "navy-blue": "Navy blue",
         "beige": "Beige",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Tailored Jacket",
+        "en-GB": "Tailored Jacket",
+        "de": "Maßjacke",
+        "es": "Chaqueta entallada",
+        "fr": "Veste sur mesure",
+        "it": "Giacca su misura",
+        "nl": "Nette jasje",
+        "zh-CN": "休闲西装外套",
+        "zh-TW": "休閒西裝外套",
+        "jp": "テーラードジャケット",
+        "ko": "테일러드 재킷"
       }
     }
   },

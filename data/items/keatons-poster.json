@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "法兰克的海报",
+        "de": "Poster's von Kai",
+        "en-GB": "Keaton's Poster",
+        "es": "Póster de Lucho",
+        "fr": "Poster d'enzo",
+        "it": "Poster di Aquilio",
+        "jp": "フランクのポスター",
+        "ko": "프랭크의 포스터",
+        "nl": "Poster van Keaton",
+        "zh-TW": "法蘭克的海報",
+        "en-US": "Keaton's Poster"
+      }
     }
   },
   "category": "Photos"

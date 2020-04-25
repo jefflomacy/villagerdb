@@ -18,6 +18,19 @@
         "white": "White",
         "black": "Black",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Double-Door Refrigerator",
+        "en-GB": "Double-Door Refrigerator",
+        "de": "Side-By-Side-Kühlschrank",
+        "es": "Frigorífico de puerta doble",
+        "fr": "Réfrigérateur américain",
+        "it": "Frigorifero a doppia anta",
+        "nl": "Amerikaanse koelkast",
+        "zh-CN": "对开冰箱",
+        "zh-TW": "對開冰箱",
+        "jp": "フレンチドアれいぞうこ",
+        "ko": "양문형 냉장고"
       }
     }
   },

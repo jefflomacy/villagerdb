@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 3800
         }
-      ]
+      ],
+      "name": {
+        "de": "Planwagen",
+        "en-GB": "Covered Wagon",
+        "en-US": "Covered Wagon",
+        "es": "Carreta",
+        "fr": "Chariot bâché",
+        "it": "Carro carovana",
+        "ja": "ほろばしゃ"
+      }
     }
   }
 }

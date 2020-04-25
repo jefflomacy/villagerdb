@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Steep Hill"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,7 +36,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Steep Hill",
+        "en-GB": "Steep Hill",
+        "de": "Bergsteigung",
+        "es": "Colina arriba",
+        "fr": "La pente",
+        "it": "Irto colle",
+        "nl": "Heuvelopwaarts",
+        "zh-CN": "二段斜坡",
+        "zh-TW": "二段斜坡",
+        "jp": "にだんざか",
+        "ko": "오르막길",
+        "ru": "Крутой холм"
+      }
     }
   }
 }

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "海苔裴的海报",
+        "de": "Poster's von Erika",
+        "en-GB": "Pompom's Poster",
+        "es": "Póster de Flopi",
+        "fr": "Poster de Pompon",
+        "it": "Poster di Erica",
+        "jp": "のりっぺのポスター",
+        "ko": "주디의 포스터",
+        "nl": "Poster van Pompom",
+        "zh-TW": "海苔裴的海報",
+        "en-US": "Pompom's Poster"
+      }
     }
   },
   "category": "Photos"

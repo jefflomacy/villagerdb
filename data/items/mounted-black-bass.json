@@ -13,7 +13,20 @@
           "currency": "bells",
           "value": 1300
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mounted Black Bass",
+        "en-GB": "Mounted Black Bass",
+        "de": "Barsch-Wandschmuck",
+        "es": "Figura expuesta perca",
+        "fr": "Bar mural",
+        "it": "Boccalone da parete",
+        "nl": "Wandmodelforelbaars",
+        "zh-CN": "壁挂式黑鲈鱼",
+        "zh-TW": "壁掛式黑鱸魚",
+        "jp": "かべかけブラックバス",
+        "ko": "큰입배스 벽장식"
+      }
     }
   },
   "category": "Furniture"

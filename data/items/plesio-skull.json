@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Plesiosaurus-Schädel",
+        "en-GB": "Plesio Skull",
+        "en-US": "Plesio Skull",
+        "es": "Cráneo plesiosaurio",
+        "fr": "Crâne de plésiosaure",
+        "it": "Teschio plesiosauro",
+        "ja": "スズキリュウのあたま"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4000
+      },
+      "name": {
+        "en-US": "Plesio Skull",
+        "en-GB": "Plesio Skull",
+        "de": "Plesiosaurus-Schädel",
+        "es": "Cráneo plesiosaurio",
+        "fr": "Crâne de plésiosaure",
+        "it": "Cranio plesiosauro",
+        "nl": "Plesiosauruskop",
+        "zh-CN": "双叶铃木龙的头",
+        "zh-TW": "雙葉鈴木龍的頭",
+        "jp": "フタバサウルスのあたま",
+        "ko": "후타바사우루스의 머리"
       }
     }
   }

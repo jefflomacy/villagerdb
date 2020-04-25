@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 352
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Ghost Umbrella"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -32,7 +35,20 @@
           "currency": "bells",
           "value": 1670
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Ghost Umbrella",
+        "en-GB": "Ghost Umbrella",
+        "de": "Geisterschirm",
+        "es": "Paraguas amuleto",
+        "fr": "Parapluie bonze",
+        "it": "Ombrello fantasma",
+        "nl": "Spookparaplu",
+        "zh-CN": "晴天娃娃雨伞",
+        "zh-TW": "晴天娃娃雨傘",
+        "jp": "てるてるぼうずのかさ",
+        "ko": "해나와라 우산"
+      }
     }
   }
 }

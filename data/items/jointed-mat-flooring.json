@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1050
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Jointed-Mat Flooring",
+        "en-GB": "Jointed-Mat Flooring",
+        "de": "Puzzlemattenboden",
+        "es": "Suelo esterilla combinada",
+        "fr": "Sol dalles imbriquées",
+        "it": "Pavimento a tappetini uniti",
+        "nl": "Gecombineerde matten",
+        "zh-CN": "拼接地垫地板",
+        "zh-TW": "巧拼地墊地板",
+        "jp": "ジョイントマットのゆか",
+        "ko": "체크 매트 바닥"
+      }
     }
   },
   "category": "Flooring"

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "熊战士的海报",
+        "de": "Poster's von Grischa",
+        "en-GB": "Klaus's Poster",
+        "es": "Póster de Gruñerto",
+        "fr": "Poster de Klaus",
+        "it": "Poster di Maciste",
+        "jp": "クマロスのポスター",
+        "ko": "곰도로스의 포스터",
+        "nl": "Poster van Klaus",
+        "zh-TW": "熊戰士的海報",
+        "en-US": "Klaus's Poster"
+      }
     }
   },
   "category": "Photos"

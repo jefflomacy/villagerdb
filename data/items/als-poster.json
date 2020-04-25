@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿保的海报",
+        "de": "Poster's von Kokong",
+        "en-GB": "Al's Poster",
+        "es": "Póster de Álex",
+        "fr": "Poster de Gustave",
+        "it": "Poster di Gregorio",
+        "jp": "たもつのポスター",
+        "ko": "우락의 포스터",
+        "nl": "Poster van Al",
+        "zh-TW": "阿保的海報",
+        "en-US": "Al's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿蹲的照片",
+        "de": "Foto's von Atze",
+        "en-GB": "Spike's Photo",
+        "es": "Foto de Cornio",
+        "fr": "Photo de Rhino",
+        "it": "Foto di Bruto",
+        "jp": "スクワットのしゃしん",
+        "ko": "스쿼트의 사진",
+        "nl": "Foto van Spike",
+        "zh-TW": "阿蹲的照片",
+        "en-US": "Spike's Photo"
       }
     }
   },

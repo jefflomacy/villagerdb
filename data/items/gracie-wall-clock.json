@@ -16,7 +16,16 @@
       "sources": [
         "GracieGrace (summer",
         "wall)"
-      ]
+      ],
+      "name": {
+        "de": "Graziawanduhr",
+        "en-GB": "Gracie Wall Clock",
+        "en-US": "Gracie Wall Clock",
+        "es": "Reloj pared Graciela",
+        "fr": "Horloge mur Carla",
+        "it": "Orologio muro Griffa",
+        "ja": "グレースウォールクロック"
+      }
     }
   }
 }

@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Graduation Gown"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -39,6 +42,19 @@
         "green": "Green",
         "blue": "Blue",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Graduation Gown",
+        "en-GB": "Graduation Gown",
+        "de": "Uni-Robe",
+        "es": "Túnica graduación",
+        "fr": "Tenue remise de diplôme",
+        "it": "Toga da laurea",
+        "nl": "Afstudeertoga",
+        "zh-CN": "学士服",
+        "zh-TW": "學士服",
+        "jp": "がくしのふく",
+        "ko": "학사 가운"
       }
     }
   }

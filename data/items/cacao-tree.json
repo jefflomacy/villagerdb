@@ -23,7 +23,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Kakaobaum",
+        "en-GB": "Cacao Tree",
+        "en-US": "Cacao Tree",
+        "es": "Planta de cacao",
+        "fr": "Cacaoyer",
+        "it": "Pianta di cacao",
+        "ja": "カカオ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -36,7 +45,20 @@
           "currency": "bells",
           "value": 2300
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Cacao Tree",
+        "en-GB": "Cacao Tree",
+        "de": "Kakaobaum",
+        "es": "Planta de cacao",
+        "fr": "Cacaoyer",
+        "it": "Pianta di cacao",
+        "nl": "Cacaoboom",
+        "zh-CN": "可可树",
+        "zh-TW": "可可樹",
+        "jp": "カカオ",
+        "ko": "카카오"
+      }
     }
   }
 }

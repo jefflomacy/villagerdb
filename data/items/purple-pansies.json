@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 240
+      },
+      "name": {
+        "en-US": "Purple Pansies",
+        "en-GB": "Purple Pansies",
+        "de": "Hainveilchen",
+        "es": "Violas violetas",
+        "fr": "Pensées mauves",
+        "it": "Viole indaco",
+        "nl": "Paarse viooltjes",
+        "zh-CN": "紫色三色堇",
+        "zh-TW": "紫色三色堇",
+        "jp": "むらさきのパンジー",
+        "ko": "보라색 팬지"
       }
     }
   },

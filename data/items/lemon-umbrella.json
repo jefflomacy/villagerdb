@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Lemon Umbrella"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -29,7 +32,20 @@
           "currency": "bells",
           "value": 770
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Lemon Umbrella",
+        "en-GB": "Lemon Umbrella",
+        "de": "Zitrusschirm",
+        "es": "Paraguas limón",
+        "fr": "Parapluie vichy citron",
+        "it": "Ombrello limone",
+        "nl": "Geelgeruite paraplu",
+        "zh-CN": "柠檬嘉顿格纹雨伞",
+        "zh-TW": "檸檬嘉頓格紋雨傘",
+        "jp": "レモンギンガムのかさ",
+        "ko": "레몬 깅엄 우산"
+      }
     }
   }
 }

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "法蓝琪的海报",
+        "de": "Poster's von Manu",
+        "en-GB": "Francine's Poster",
+        "es": "Póster de Natacha",
+        "fr": "Poster de Nadine",
+        "it": "Poster di Franca",
+        "jp": "フランソワのポスター",
+        "ko": "프랑소와의 포스터",
+        "nl": "Poster van Francine",
+        "zh-TW": "法藍琪的海報",
+        "en-US": "Francine's Poster"
+      }
     }
   },
   "category": "Photos"

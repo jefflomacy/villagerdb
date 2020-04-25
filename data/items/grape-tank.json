@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "de": "Traubentop",
+        "en-GB": "Grape Tank",
+        "en-US": "Grape Tank",
+        "es": "Top uvas",
+        "fr": "Débardeur raisin",
+        "it": "Canotta uva",
+        "ja": "ぶどうのふくN"
+      }
     }
   }
 }

@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 900
         }
-      ]
+      ],
+      "name": {
+        "de": "Rot-Wrestlingschuh",
+        "en-GB": "Red Wrestling Shoes",
+        "en-US": "Red Wrestling Shoes",
+        "es": "Bota lucha roja",
+        "fr": "Paire bottes catch R",
+        "it": "P. scarpe wrestling",
+        "ja": "あかいリングシューズ"
+      }
     }
   }
 }

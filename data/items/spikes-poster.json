@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿蹲的海报",
+        "de": "Poster's von Atze",
+        "en-GB": "Spike's Poster",
+        "es": "Póster de Cornio",
+        "fr": "Poster de Rhino",
+        "it": "Poster di Bruto",
+        "jp": "スクワットのポスター",
+        "ko": "스쿼트의 포스터",
+        "nl": "Poster van Spike",
+        "zh-TW": "阿蹲的海報",
+        "en-US": "Spike's Poster"
+      }
     }
   },
   "category": "Photos"

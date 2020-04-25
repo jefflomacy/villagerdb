@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 340
         }
-      ]
+      ],
+      "name": {
+        "de": "5er-Shirt",
+        "en-GB": "Five-Ball Tee",
+        "en-US": "Five-Ball Tee",
+        "es": "Camiseta bola 5",
+        "fr": "T-shirt nº 5",
+        "it": "Maglietta palla 5",
+        "ja": "5ばんだまのふく"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -35,6 +44,19 @@
       ],
       "variations": {
         "orange": "Orange"
+      },
+      "name": {
+        "en-US": "Five-Ball Tee",
+        "en-GB": "Five-Ball Tee",
+        "de": "5Er-Shirt",
+        "es": "Camiseta bola 5",
+        "fr": "T-Shirt nº 5",
+        "it": "Maglietta palla 5",
+        "nl": "5-Bal-T-Shirt",
+        "zh-CN": "5号球上衣",
+        "zh-TW": "5號球衣服",
+        "jp": "５ばんだまのふく",
+        "ko": "5번공 옷"
       }
     }
   }

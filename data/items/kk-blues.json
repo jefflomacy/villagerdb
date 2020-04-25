@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Blues"
+      }
     },
     "nh": {
       "orderable": true,
@@ -35,7 +38,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Blues",
+        "en-GB": "K.K. Blues",
+        "de": "K.K. Blues",
+        "es": "Tota-Blues",
+        "fr": "Kéké blues",
+        "it": "K.K. Blues",
+        "nl": "K.K.-Blues",
+        "zh-CN": "K.K.蓝调",
+        "zh-TW": "K.K.藍調",
+        "jp": "けけブルース",
+        "ko": "K.K.블루스",
+        "ru": "Блюз К. К."
+      }
     }
   }
 }

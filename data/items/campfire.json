@@ -12,6 +12,19 @@
       },
       "recipe": {
         "tree-branch": 3
+      },
+      "name": {
+        "en-US": "Campfire",
+        "en-GB": "Campfire",
+        "de": "Lagerfeuer",
+        "es": "Fuego de campamento",
+        "fr": "Feu de camp",
+        "it": "Fuoco da campo",
+        "nl": "Kampvuur",
+        "zh-CN": "炊火",
+        "zh-TW": "炊火",
+        "jp": "たきび",
+        "ko": "모닥불"
       }
     },
     "nl": {
@@ -28,7 +41,16 @@
           "currency": "bells",
           "value": 1360
         }
-      ]
+      ],
+      "name": {
+        "de": "Lagerfeuer",
+        "en-GB": "Campfire",
+        "en-US": "Campfire",
+        "es": "Fuego campamento",
+        "fr": "Feu de camp",
+        "it": "Fuoco da campo",
+        "ja": "たきび"
+      }
     }
   }
 }

@@ -23,19 +23,34 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Kreuzpulli",
+        "en-GB": "Crossing Shirt",
+        "en-US": "Crossing Shirt",
+        "es": "Jersey cruce",
+        "fr": "Pull croisé",
+        "it": "Maglia croce",
+        "ja": "シンメトリーなふく"
+      }
     },
     "ac": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ]
+      ],
+      "name": {
+        "en-US": "Crossing Shirt"
+      }
     },
     "afe+": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ]
+      ],
+      "name": {
+        "en-US": "Crossing Shirt"
+      }
     }
   }
 }

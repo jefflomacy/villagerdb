@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿排的海报",
+        "de": "Poster's von Patricia",
+        "en-GB": "Patty's Poster",
+        "es": "Póster de Vacarena",
+        "fr": "Poster de Margaux",
+        "it": "Poster di Patty",
+        "jp": "カルピのポスター",
+        "ko": "밀크의 포스터",
+        "nl": "Poster van Patty",
+        "zh-TW": "阿排的海報",
+        "en-US": "Patty's Poster"
+      }
     }
   },
   "category": "Photos"

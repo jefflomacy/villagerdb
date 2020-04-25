@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Shogi-Brett",
+        "en-GB": "Shogi Board",
+        "en-US": "Shogi Board",
+        "es": "Tablero de shogi",
+        "fr": "Plateau de shogi",
+        "it": "Tavola da shogi",
+        "ja": "しょうぎばん"
+      }
     }
   }
 }

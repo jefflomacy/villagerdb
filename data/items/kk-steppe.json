@@ -18,7 +18,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Steppe"
+      }
     },
     "nh": {
       "orderable": true,
@@ -31,7 +34,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Steppe",
+        "en-GB": "K.K. Steppe",
+        "de": "K.K. Steppensong",
+        "es": "Tota-Estepa",
+        "fr": "Kéké balalaïka",
+        "it": "K.K. Steppa",
+        "nl": "K.K. op de steppe",
+        "zh-CN": "哥萨克乐曲",
+        "zh-TW": "哥薩克樂曲",
+        "jp": "コサックそんぐ",
+        "ko": "까자크의 노래",
+        "ru": "Степь К. К."
+      }
     }
   }
 }

@@ -8,7 +8,20 @@
           "currency": "bells",
           "value": 168000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Stone Bridge",
+        "en-GB": "Stone Bridge",
+        "de": "Steinbrücke",
+        "es": "Puente de piedra",
+        "fr": "Pont de pierre",
+        "it": "Ponte di pietra",
+        "nl": "Stenen brug",
+        "zh-CN": "石桥",
+        "zh-TW": "石橋",
+        "jp": "いしのはし",
+        "ko": "돌 다리"
+      }
     }
   },
   "category": "Furniture"

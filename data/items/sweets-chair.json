@@ -15,7 +15,16 @@
       },
       "sources": [
         "GracieGrace (fall)"
-      ]
+      ],
+      "name": {
+        "de": "Süßstuhl",
+        "en-GB": "Sweets Chair",
+        "en-US": "Sweets Chair",
+        "es": "Silla chuches",
+        "fr": "Chaise bonbons",
+        "it": "Sedia dolci",
+        "ja": "おかしのイス"
+      }
     }
   }
 }

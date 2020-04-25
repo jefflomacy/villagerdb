@@ -16,6 +16,19 @@
       "variations": {
         "light-blue": "Light blue",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Shirt With Camera",
+        "en-GB": "Shirt With Camera",
+        "de": "Hemds mit Kamera",
+        "es": "Camisa con cámara",
+        "fr": "Chemise appareil photo",
+        "it": "Camicia con fotocamera",
+        "nl": "Overhemd met fototoestel",
+        "zh-CN": "连照相机衬衫",
+        "zh-TW": "襯衫連照相機",
+        "jp": "カメラつきワイシャツ",
+        "ko": "카메라와 와이셔츠"
       }
     }
   },

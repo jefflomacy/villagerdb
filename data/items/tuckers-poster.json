@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿原的海报",
+        "de": "Poster's von Thorsten",
+        "en-GB": "Tucker's Poster",
+        "es": "Póster de Pirolo",
+        "fr": "Poster de Barry",
+        "it": "Poster di Sventolo",
+        "jp": "はじめのポスター",
+        "ko": "맘모의 포스터",
+        "nl": "Poster van Tucker",
+        "zh-TW": "阿原的海報",
+        "en-US": "Tucker's Poster"
+      }
     }
   },
   "category": "Photos"

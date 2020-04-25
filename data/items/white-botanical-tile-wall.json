@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1240
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White Botanical-Tile Wall",
+        "en-GB": "White Botanical-Tile Wall",
+        "de": "Weiß-Relieffliesenwand",
+        "es": "Pared cerámica blanca",
+        "fr": "Mur botanique blanc",
+        "it": "Muro bassorilievo bianco",
+        "nl": "Witte patroontegelwand",
+        "zh-CN": "白色植物图案砖墙",
+        "zh-TW": "白色植物圖案磚牆",
+        "jp": "しろいボタニカルタイルのかべ",
+        "ko": "화이트 보태니컬 타일 벽"
+      }
     }
   },
   "category": "Wallpaper"

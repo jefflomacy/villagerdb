@@ -11,7 +11,10 @@
       },
       "sources": [
         "On trees."
-      ]
+      ],
+      "name": {
+        "en-US": "Rainbow Stag"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 6000
+      },
+      "name": {
+        "en-US": "Rainbow Stag",
+        "en-GB": "Rainbow Stag",
+        "de": "Pracht-Hirschkäfer",
+        "es": "Escarabajo ciervo arcoíris",
+        "fr": "Lucane copris irisé",
+        "it": "Coleottero arcobaleno",
+        "nl": "Regenbooghertkever",
+        "zh-CN": "彩虹锹形虫",
+        "zh-TW": "彩虹鍬形蟲",
+        "jp": "ニジイロクワガタ",
+        "ko": "뮤엘러리사슴벌레"
       }
     }
   }

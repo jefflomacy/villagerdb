@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Rokoko-Schrank",
+        "en-GB": "Rococo Wardrobe",
+        "en-US": "Rococo Wardrobe",
+        "es": "Armario rococó",
+        "fr": "Penderie rococo",
+        "it": "Armadio rococò",
+        "ja": "ロココなクロゼット"
+      }
     }
   }
 }

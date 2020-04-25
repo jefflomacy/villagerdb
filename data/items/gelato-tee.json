@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 332
         }
-      ]
+      ],
+      "name": {
+        "de": "3-Farben-Shirt",
+        "en-GB": "Gelato Tee",
+        "en-US": "Gelato Tee",
+        "es": "Camiseta góndola",
+        "fr": "T-shirt Rome",
+        "it": "Maglietta tricolore",
+        "ja": "いちごボーダーなふく"
+      }
     }
   }
 }

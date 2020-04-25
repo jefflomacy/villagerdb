@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "de": "Eiscreme-Top",
+        "en-GB": "Big-Dot Tank",
+        "en-US": "Big-Dot Tank",
+        "es": "Top miel",
+        "fr": "Débard. pois orange",
+        "it": "Canotta gialla pois",
+        "ja": "きいろみずたまのふくN"
+      }
     }
   }
 }

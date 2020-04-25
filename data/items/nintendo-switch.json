@@ -17,7 +17,20 @@
           "currency": "bells",
           "value": 29980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Nintendo Switch",
+        "en-GB": "Nintendo Switch",
+        "de": "Nintendo Switch",
+        "es": "Nintendo Switch",
+        "fr": "Nintendo Switch",
+        "it": "Nintendo Switch",
+        "nl": "Nintendo Switch",
+        "zh-CN": "Nintendo Switch",
+        "zh-TW": "Nintendo Switch",
+        "jp": "Nintendo Switch",
+        "ko": "Nintendo Switch"
+      }
     }
   },
   "category": "Furniture"

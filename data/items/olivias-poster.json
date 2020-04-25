@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "奥莉的海报",
+        "de": "Poster's von Bianca",
+        "en-GB": "Olivia's Poster",
+        "es": "Póster de Olivia",
+        "fr": "Poster d'olivia",
+        "it": "Poster di Micina",
+        "jp": "オリビアのポスター",
+        "ko": "올리비아의 포스터",
+        "nl": "Poster van Olivia",
+        "zh-TW": "奧莉的海報",
+        "en-US": "Olivia's Poster"
+      }
     }
   },
   "category": "Photos"

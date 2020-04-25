@@ -23,7 +23,10 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Polka-Dot Dress"
+      }
     }
   }
 }

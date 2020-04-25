@@ -15,6 +15,19 @@
       ],
       "variations": {
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Barrette",
+        "en-GB": "Barrette",
+        "de": "Haarspange",
+        "es": "Pasador",
+        "fr": "Barrette",
+        "it": "Barretta per capelli",
+        "nl": "Haarspeldje",
+        "zh-CN": "发夹",
+        "zh-TW": "髮夾",
+        "jp": "バレッタ",
+        "ko": "바레트"
       }
     }
   },

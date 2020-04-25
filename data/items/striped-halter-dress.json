@@ -18,6 +18,19 @@
         "green": "Green",
         "orange": "Orange",
         "light-blue": "Light blue"
+      },
+      "name": {
+        "en-US": "Striped Halter Dress",
+        "en-GB": "Striped Halter Dress",
+        "de": "Streifenträgerkleid",
+        "es": "Vestido a rayas sin mangas",
+        "fr": "Robe rayée sans manches",
+        "it": "Vestito a righe smanicato",
+        "nl": "Mouwloze gestreepte jurk",
+        "zh-CN": "绕颈连身裙",
+        "zh-TW": "繞頸連身裙",
+        "jp": "ホルターネックのワンピース",
+        "ko": "홀터넥 원피스"
       }
     }
   },

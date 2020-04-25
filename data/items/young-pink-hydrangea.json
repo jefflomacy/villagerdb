@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Young Pink Hydrangea",
+        "en-GB": "Young Pink Hydrangea",
+        "de": "Abendhortensienbüschlein",
+        "es": "Hortensia rosa joven",
+        "fr": "Jeune hortensia rose",
+        "it": "Ortensia viola giovane",
+        "nl": "Jonge roze hortensia",
+        "zh-CN": "粉红绣球花小树",
+        "zh-TW": "粉紅繡球花小樹",
+        "jp": "ピンクのアジサイのわかぎ",
+        "ko": "어린 핑크색 수국나무"
+      }
     }
   },
   "category": "Bushes"

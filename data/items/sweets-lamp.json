@@ -16,7 +16,16 @@
       "sources": [
         "GracieGrace (fall",
         "wall)"
-      ]
+      ],
+      "name": {
+        "de": "Süßlampe",
+        "en-GB": "Sweets Lamp",
+        "en-US": "Sweets Lamp",
+        "es": "Lámpara chuches",
+        "fr": "Lampe bonbons",
+        "it": "Lampada dolci",
+        "ja": "おかしのランプ"
+      }
     }
   }
 }

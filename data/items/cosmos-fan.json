@@ -15,7 +15,16 @@
       },
       "sources": [
         "Leif (Weeding Day -- The Town Cleanup Prize)"
-      ]
+      ],
+      "name": {
+        "de": "Kamillenventilator",
+        "en-GB": "Cosmos Fan",
+        "en-US": "Cosmos Fan",
+        "es": "Ventilador cosmos",
+        "fr": "Ventilateur cosmos",
+        "it": "Ventilatore cosmea",
+        "ja": "コスモスのせんぷうき"
+      }
     }
   }
 }

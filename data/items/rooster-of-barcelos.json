@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Barcelos-Hahn",
+        "en-GB": "Rooster Of Barcelos",
+        "en-US": "Rooster Of Barcelos",
+        "es": "Gallo de Barcelos",
+        "fr": "Coq de Barcelos",
+        "it": "Gallo di Barcelos",
+        "ja": "バルセロスのおんどり"
+      }
     }
   }
 }

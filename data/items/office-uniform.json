@@ -17,6 +17,19 @@
         "blue": "Blue",
         "pink": "Pink",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Office Uniform",
+        "en-GB": "Office Uniform",
+        "de": "Büro-Outfit",
+        "es": "Uniforme de oficinista",
+        "fr": "Uniforme administratif",
+        "it": "Uniforme seriosa",
+        "nl": "Kantooruniform",
+        "zh-CN": "职业装",
+        "zh-TW": "公司制服",
+        "jp": "オフィスなふく",
+        "ko": "회사원 옷"
       }
     }
   },

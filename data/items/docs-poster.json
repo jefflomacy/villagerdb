@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿飞的海报",
+        "de": "Poster's von Gustl",
+        "en-GB": "Doc's Poster",
+        "es": "Póster de Crispín",
+        "fr": "Poster de Doc",
+        "it": "Poster di Doc",
+        "jp": "トビオのポスター",
+        "ko": "토니의 포스터",
+        "nl": "Poster van Doc",
+        "zh-TW": "阿飛的海報",
+        "en-US": "Doc's Poster"
+      }
     }
   },
   "category": "Photos"

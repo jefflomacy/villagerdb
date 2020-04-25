@@ -23,6 +23,19 @@
         "yellow": "Yellow",
         "green": "Green",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Bubblegum",
+        "en-GB": "Bubblegum",
+        "de": "Kaugummiblase",
+        "es": "Pompa de chicle",
+        "fr": "Bulle de chewing-gum",
+        "it": "Gomma con palloncino",
+        "nl": "Kauwgombel",
+        "zh-CN": "泡泡口香糖",
+        "zh-TW": "泡泡口香糖",
+        "jp": "ふうせんガム",
+        "ko": "풍선껌"
       }
     }
   },

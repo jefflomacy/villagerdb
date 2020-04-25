@@ -18,6 +18,19 @@
         "green": "Green",
         "blue": "Blue",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Checkered Chesterfield Coat",
+        "en-GB": "Checkered Chesterfield Coat",
+        "de": "Karo-Chesterfield",
+        "es": "Abrigo chesterfield cuadros",
+        "fr": "Chesterfield écossais",
+        "it": "Chesterfield a scacchi",
+        "nl": "Geruite chesterfieldjas",
+        "zh-CN": "格纹切斯特大衣",
+        "zh-TW": "格紋切斯特大衣",
+        "jp": "チェックのチェスターコート",
+        "ko": "체크무늬 체스터 코트"
       }
     }
   },

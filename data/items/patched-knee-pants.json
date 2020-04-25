@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 3600
         }
-      ]
+      ],
+      "name": {
+        "de": "Spielplatzhose",
+        "en-GB": "Patched-Knee Pants",
+        "en-US": "Patched-Knee Pants",
+        "es": "Pantalón rodilleras",
+        "fr": "Pantalon renforcé",
+        "it": "Pantal. toppe rosse",
+        "ja": "ひざあてズボン"
+      }
     },
     "nh": {
       "orderable": true,
@@ -39,6 +48,19 @@
         "purple": "Purple",
         "green": "Green",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Patched-Knee Pants",
+        "en-GB": "Patched-Knee Pants",
+        "de": "Spielplatzhose",
+        "es": "Pantalón con rodilleras",
+        "fr": "Pantalon renforcé",
+        "it": "Pantaloncino con toppe",
+        "nl": "Kniestukkenbroek",
+        "zh-CN": "膝盖补丁裤",
+        "zh-TW": "膝蓋補丁褲",
+        "jp": "ひざあてズボン",
+        "ko": "덧댄 바지"
       }
     }
   }

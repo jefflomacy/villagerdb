@@ -25,7 +25,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Korbtisch",
+        "en-GB": "Cabana Table",
+        "en-US": "Cabana Table",
+        "es": "Mesa mimbre",
+        "fr": "Table rotin",
+        "it": "Tavolo vimini",
+        "ja": "リゾートなテーブル"
+      }
     }
   }
 }

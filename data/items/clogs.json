@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Holzschuh",
+        "en-GB": "Clogs",
+        "en-US": "Clogs",
+        "es": "Zueco de madera",
+        "fr": "Paire de sabots",
+        "it": "Paio zoccoli",
+        "ja": "サボ"
+      }
     }
   }
 }

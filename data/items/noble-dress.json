@@ -22,6 +22,19 @@
         "purple": "Purple",
         "yellow": "Yellow",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Noble Dress",
+        "en-GB": "Noble Dress",
+        "de": "Adelskleid",
+        "es": "Vestido nobiliario",
+        "fr": "Robe d'apparat",
+        "it": "Vestito nobile",
+        "nl": "Aristocratenjurk",
+        "zh-CN": "贵族洋装",
+        "zh-TW": "貴族洋裝",
+        "jp": "きぞくのドレス",
+        "ko": "귀족 드레스"
       }
     }
   },

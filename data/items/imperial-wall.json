@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 2660
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Imperial Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,7 +36,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Imperial Wall",
+        "en-GB": "Imperial Wall",
+        "de": "Samuraitapete",
+        "es": "Pared imperial",
+        "fr": "Mur shogun",
+        "it": "Muro imperiale",
+        "nl": "Keizerlijke wand",
+        "zh-CN": "宫墙",
+        "zh-TW": "宮牆",
+        "jp": "おうちょうのかべ",
+        "ko": "왕조 벽"
+      }
     }
   }
 }

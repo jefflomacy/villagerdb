@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "de": "Schulstuhl",
+        "en-GB": "School Chair",
+        "en-US": "School Chair",
+        "es": "Silla escolar",
+        "fr": "Chaise d'écolier",
+        "it": "Sedia scuola",
+        "ja": "がっこうのイス"
+      }
     },
     "nh": {
       "orderable": true,
@@ -45,6 +54,19 @@
         "white-red": "White & red",
         "gray-blue": "Gray & blue",
         "beige-green": "Beige & green"
+      },
+      "name": {
+        "en-US": "School Chair",
+        "en-GB": "School Chair",
+        "de": "Schulstuhl",
+        "es": "Silla escolar",
+        "fr": "Chaise d'écolier",
+        "it": "Sedia da scuola",
+        "nl": "Schoolstoel",
+        "zh-CN": "课椅",
+        "zh-TW": "學校椅子",
+        "jp": "がっこうのイス",
+        "ko": "학교 의자"
       }
     }
   }

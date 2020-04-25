@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2500
+      },
+      "name": {
+        "zh-CN": "大雪花",
+        "de": "Riesenschneeflocke",
+        "en-GB": "Large Snowflake",
+        "es": "Copo de nieve XL",
+        "fr": "Grand flocon de neige",
+        "it": "Fiocco di neve grande",
+        "jp": "ゆきのだいけっしょう",
+        "ko": "커다란 눈의 결정",
+        "nl": "Grote sneeuwvlok",
+        "zh-TW": "大雪花",
+        "en-US": "Large Snowflake"
       }
     }
   },

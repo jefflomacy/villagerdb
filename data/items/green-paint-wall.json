@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Green-Paint Wall",
+        "en-GB": "Green-Paint Wall",
+        "de": "Grünwand",
+        "es": "Pared pintada verde",
+        "fr": "Mur peint vert",
+        "it": "Muro dipinto verde",
+        "nl": "Groene wand",
+        "zh-CN": "绿色油漆墙",
+        "zh-TW": "綠色油漆牆",
+        "jp": "みどりのペイントウォール",
+        "ko": "초록 페인트 벽"
+      }
     }
   },
   "category": "Wallpaper"

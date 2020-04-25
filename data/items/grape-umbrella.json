@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1550
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Grape Umbrella",
+        "en-GB": "Grape Umbrella",
+        "de": "Traubenschirm",
+        "es": "Paraguas uvas",
+        "fr": "Parapluie raisin",
+        "it": "Ombrello uva",
+        "nl": "Druivenparaplu",
+        "zh-CN": "葡萄雨伞",
+        "zh-TW": "葡萄雨傘",
+        "jp": "ぶどうのかさ",
+        "ko": "포도 우산"
+      }
     }
   },
   "category": "Umbrellas"

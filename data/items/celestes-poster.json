@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "傅珂的海报",
+        "de": "Poster's von Eufemia",
+        "en-GB": "Celeste's Poster",
+        "es": "Póster de Estela",
+        "fr": "Poster de Céleste",
+        "it": "Poster di Celeste",
+        "jp": "フーコのポスター",
+        "ko": "부옥의 포스터",
+        "nl": "Poster van Celeste",
+        "zh-TW": "傅珂的海報",
+        "en-US": "Celeste's Poster"
+      }
     }
   },
   "category": "Photos"

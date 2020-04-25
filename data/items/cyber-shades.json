@@ -24,7 +24,10 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Cyber Shades"
+      }
     },
     "nh": {
       "orderable": true,
@@ -45,6 +48,19 @@
         "purple": "Purple",
         "green": "Green",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Cyber Shades",
+        "en-GB": "Cyber Shades",
+        "de": "Cyberbrille",
+        "es": "Cibergafa",
+        "fr": "Monture futuriste",
+        "it": "Visore da ciberspazio",
+        "nl": "Cyberzonnebril",
+        "zh-CN": "太空墨镜",
+        "zh-TW": "太空墨鏡",
+        "jp": "サイバーサングラス",
+        "ko": "사이버 선글라스"
       }
     }
   }

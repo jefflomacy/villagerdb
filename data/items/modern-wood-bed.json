@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1680
         }
-      ]
+      ],
+      "name": {
+        "de": "Buntholzbett",
+        "en-GB": "Modern Wood Bed",
+        "en-US": "Modern Wood Bed",
+        "es": "Cama listones",
+        "fr": "Lit bois moderne",
+        "it": "Letto legno",
+        "ja": "ミックスウッドのベッド"
+      }
     }
   }
 }

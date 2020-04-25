@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1900
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Green Delicate-Blooms Wall",
+        "en-GB": "Green Delicate-Blooms Wall",
+        "de": "Grün-Floraltapete",
+        "es": "Pared flor delicada verde",
+        "fr": "Mur à fleurs délicates vert",
+        "it": "Muro a fiori delicati verde",
+        "nl": "Groene rozenlambrisering",
+        "zh-CN": "绿色碎花壁纸",
+        "zh-TW": "綠色碎花壁紙",
+        "jp": "グリーンのこばながらのかべがみ",
+        "ko": "그린 잔꽃무늬 벽지"
+      }
     }
   },
   "category": "Wallpaper"

@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Étude"
+      }
     },
     "nh": {
       "orderable": true,
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Étude",
+        "en-GB": "K.K. Étude",
+        "de": "K.K. Etüde",
+        "es": "Tota-Solo",
+        "fr": "Étude de Kéké",
+        "it": "K.K. Studio",
+        "nl": "K.K.-Etude",
+        "zh-CN": "K.K.练习曲",
+        "zh-TW": "K.K.練習曲",
+        "jp": "けけのエチュード",
+        "ko": "K.K.에튀드",
+        "ru": "Этюд К. К."
+      }
     }
   }
 }

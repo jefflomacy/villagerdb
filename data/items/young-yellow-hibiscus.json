@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Young Yellow Hibiscus",
+        "en-GB": "Young Yellow Hibiscus",
+        "de": "Sommerhibiskusbüschlein",
+        "es": "Hibisco amarillo joven",
+        "fr": "Jeune hibiscus jaune",
+        "it": "Ibisco giallo giovane",
+        "nl": "Jonge gele hibiscus",
+        "zh-CN": "黄色扶桑花小树",
+        "zh-TW": "黃色扶桑花小樹",
+        "jp": "きいろいハイビスカスのわかぎ",
+        "ko": "어린 노란 히비스커스나무"
+      }
     }
   },
   "category": "Bushes"

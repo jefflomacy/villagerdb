@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 392
         }
-      ]
+      ],
+      "name": {
+        "de": "Funkelshirt",
+        "en-GB": "Nebula Tee",
+        "en-US": "Nebula Tee",
+        "es": "Camiseta nebulosa",
+        "fr": "T-shirt galaxie",
+        "it": "Maglietta nebulosa",
+        "ja": "ネビュラなふく"
+      }
     }
   }
 }

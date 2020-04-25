@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Old Brick Wall"
+      }
     }
   }
 }

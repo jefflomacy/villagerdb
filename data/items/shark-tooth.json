@@ -11,7 +11,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Haizahn",
+        "en-GB": "Shark Tooth",
+        "en-US": "Shark Tooth",
+        "es": "Diente de tiburón",
+        "fr": "Dent de requin",
+        "it": "Dente di squalo",
+        "ja": "サメのはのかせき"
+      }
     }
   }
 }

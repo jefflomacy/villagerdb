@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "华尔滋的照片",
+        "de": "Foto's von Babsi",
+        "en-GB": "Baabara's Photo",
+        "es": "Foto de Beelén",
+        "fr": "Photo de Bêêtty",
+        "it": "Foto di Bea",
+        "jp": "トロワのしゃしん",
+        "ko": "트로와의 사진",
+        "nl": "Foto van Baabara",
+        "zh-TW": "華爾滋的照片",
+        "en-US": "Baabara's Photo"
       }
     }
   },

@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Chefschreibtisch",
+        "en-GB": "Editor's Desk",
+        "en-US": "Editor's Desk",
+        "es": "Mesa despacho",
+        "fr": "Bureau de rédacteur",
+        "it": "Scrivania direttore",
+        "ja": "しゃちょうのつくえ"
+      }
     }
   }
 }

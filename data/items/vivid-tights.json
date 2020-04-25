@@ -22,6 +22,19 @@
         "yellow": "Yellow",
         "green": "Green",
         "orange": "Orange"
+      },
+      "name": {
+        "en-US": "Vivid Tights",
+        "en-GB": "Vivid Tights",
+        "de": "Einfarb-Strumpfhose",
+        "es": "Media de color vívido",
+        "fr": "Collant vif",
+        "it": "Paio di calze briose",
+        "nl": "Felgekleurde panty",
+        "zh-CN": "鲜艳裤袜",
+        "zh-TW": "鮮豔褲襪",
+        "jp": "ビビッドなタイツ",
+        "ko": "비비드 타이츠"
       }
     }
   },

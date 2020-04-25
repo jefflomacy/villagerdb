@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "小睫的照片",
+        "de": "Foto's von Dörte",
+        "en-GB": "Diva's Photo",
+        "es": "Foto de Morania",
+        "fr": "Photo de Violette",
+        "it": "Foto di Viola",
+        "jp": "アイーダのしゃしん",
+        "ko": "아이다의 사진",
+        "nl": "Foto van Diva",
+        "zh-TW": "小睫的照片",
+        "en-US": "Diva's Photo"
       }
     }
   },

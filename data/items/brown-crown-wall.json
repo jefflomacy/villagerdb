@@ -13,7 +13,20 @@
           "currency": "bells",
           "value": 2350
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Brown-Crown Wall",
+        "en-GB": "Brown-Crown Wall",
+        "de": "Braunkronenwand",
+        "es": "Pared realeza marrón",
+        "fr": "Mur motif couronnes brun",
+        "it": "Muro con corone marrone",
+        "nl": "Bruine kroontjeswand",
+        "zh-CN": "棕色皇冠壁纸",
+        "zh-TW": "棕色皇冠壁紙",
+        "jp": "ブラウンクラウンのかべがみ",
+        "ko": "브라운 왕관 벽지"
+      }
     }
   },
   "category": "Wallpaper"

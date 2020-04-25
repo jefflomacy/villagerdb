@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 240
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Funny Glasses"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -37,6 +40,19 @@
         "brown": "Brown",
         "pink": "Pink",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Funny Glasses",
+        "en-GB": "Funny Glasses",
+        "de": "Scherzbrille",
+        "es": "Gafa graciosa",
+        "fr": "Monture farceuse",
+        "it": "Montatura simpatica",
+        "nl": "Fopbril",
+        "zh-CN": "搞笑眼镜",
+        "zh-TW": "搞笑眼鏡",
+        "jp": "をかしなめがね",
+        "ko": "코믹한 안경"
       }
     }
   }

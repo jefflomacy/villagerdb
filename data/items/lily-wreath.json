@@ -13,6 +13,19 @@
         "white-lilies": 3,
         "red-lilies": 3,
         "yellow-lilies": 3
+      },
+      "name": {
+        "en-US": "Lily Wreath",
+        "en-GB": "Lily Wreath",
+        "de": "Lilientürkranz",
+        "es": "Corona lirio",
+        "fr": "Couronne lys",
+        "it": "Ghirlanda gigli",
+        "nl": "Leliekrans",
+        "zh-CN": "百合花环",
+        "zh-TW": "百合花圈",
+        "jp": "ユリのリース",
+        "ko": "백합 리스"
       }
     }
   },

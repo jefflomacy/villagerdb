@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "小薰的海报",
+        "de": "Poster's von Claire",
+        "en-GB": "Peaches's Poster",
+        "es": "Póster de Perla",
+        "fr": "Poster de Prune",
+        "it": "Poster di Ronzina",
+        "jp": "ドサコのポスター",
+        "ko": "말자의 포스터",
+        "nl": "Poster van Peaches",
+        "zh-TW": "小薰的海報",
+        "en-US": "Peaches's Poster"
+      }
     }
   },
   "category": "Photos"

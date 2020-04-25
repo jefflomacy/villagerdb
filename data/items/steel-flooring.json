@@ -29,7 +29,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Steel Flooring"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -44,6 +47,19 @@
       ],
       "recipe": {
         "iron-nugget": 7
+      },
+      "name": {
+        "en-US": "Steel Flooring",
+        "en-GB": "Steel Flooring",
+        "de": "Eisenbelag",
+        "es": "Suelo acero",
+        "fr": "Sol en acier",
+        "it": "Pavimento acciaio",
+        "nl": "Stalen vloer",
+        "zh-CN": "铁板地板",
+        "zh-TW": "鐵板地板",
+        "jp": "てっぱんのゆか",
+        "ko": "철판 바닥"
       }
     }
   }

@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "de": "Papierlaterne",
+        "en-GB": "Paper Lantern",
+        "en-US": "Paper Lantern",
+        "es": "Farolillo",
+        "fr": "Lampion",
+        "it": "Lanterna carta",
+        "ja": "あんどん"
+      }
     },
     "nh": {
       "orderable": true,
@@ -53,6 +62,19 @@
         "orange-wood-summer": "Orange wood / Summer",
         "orange-wood-fall": "Orange wood / Fall",
         "orange-wood-winter": "Orange wood / Winter"
+      },
+      "name": {
+        "en-US": "Paper Lantern",
+        "en-GB": "Paper Lantern",
+        "de": "Papierlaterne",
+        "es": "Farolillo",
+        "fr": "Lampion",
+        "it": "Lanterna di carta",
+        "nl": "Papieren lantaarn",
+        "zh-CN": "方形纸罩座灯",
+        "zh-TW": "方形紙罩座燈",
+        "jp": "あんどん",
+        "ko": "사방등"
       }
     }
   }

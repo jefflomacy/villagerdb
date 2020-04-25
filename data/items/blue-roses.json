@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1000
+      },
+      "name": {
+        "en-US": "Blue Roses",
+        "en-GB": "Blue Roses",
+        "de": "Blaurosen",
+        "es": "Rosas azules",
+        "fr": "Roses bleues",
+        "it": "Rose blu",
+        "nl": "Blauwe rozen",
+        "zh-CN": "蓝色玫瑰",
+        "zh-TW": "藍色玫瑰",
+        "jp": "あおいバラ",
+        "ko": "파란 장미"
       }
     }
   },

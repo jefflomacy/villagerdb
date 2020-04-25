@@ -17,6 +17,19 @@
         "blue": "Blue",
         "red": "Red",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "V-Neck Sweater",
+        "en-GB": "V-Neck Sweater",
+        "de": "V-Ausschnitt-Pulli",
+        "es": "Jersey cuello pico",
+        "fr": "Pull à col en v",
+        "it": "Maglia con scollo a V",
+        "nl": "V-Halstrui",
+        "zh-CN": "V领毛衣",
+        "zh-TW": "V領毛衣",
+        "jp": "Ｖネックセーター",
+        "ko": "브이넥 스웨터"
       }
     }
   },

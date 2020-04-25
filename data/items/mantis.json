@@ -11,7 +11,10 @@
       },
       "sources": [
         "On flowers."
-      ]
+      ],
+      "name": {
+        "en-US": "Mantis"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 430
+      },
+      "name": {
+        "en-US": "Mantis",
+        "en-GB": "Mantis",
+        "de": "Gottesanbeterin",
+        "es": "Mantis religiosa",
+        "fr": "Mante religieuse",
+        "it": "Mantide",
+        "nl": "Bidsprinkhaan",
+        "zh-CN": "螳螂",
+        "zh-TW": "螳螂",
+        "jp": "カマキリ",
+        "ko": "사마귀"
       }
     }
   }

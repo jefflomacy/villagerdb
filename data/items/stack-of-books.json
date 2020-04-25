@@ -21,7 +21,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Stack Of Books"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -42,6 +45,19 @@
         "comics": "Comics",
         "reference": "Reference",
         "old": "Old"
+      },
+      "name": {
+        "en-US": "Stack Of Books",
+        "en-GB": "Stack Of Books",
+        "de": "Bücherstapel",
+        "es": "Pila de libros",
+        "fr": "Pile de livres",
+        "it": "Pila di libri",
+        "nl": "Stapel boeken",
+        "zh-CN": "书堆",
+        "zh-TW": "書堆",
+        "jp": "つまれたほん",
+        "ko": "쌓인 책"
       }
     }
   }

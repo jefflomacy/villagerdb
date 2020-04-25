@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Blütenlampe",
+        "en-GB": "Blossom Lantern",
+        "en-US": "Blossom Lantern",
+        "es": "Lámpara bonbori",
+        "fr": "Lampe fleurie",
+        "it": "Lanterna floreale",
+        "ja": "ぼんぼり"
+      }
     }
   }
 }

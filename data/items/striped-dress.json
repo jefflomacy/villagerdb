@@ -23,6 +23,19 @@
         "gray": "Gray",
         "green": "Green",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Striped Dress",
+        "en-GB": "Striped Dress",
+        "de": "Ringelkleid",
+        "es": "Vestido a rayas",
+        "fr": "Robe striée",
+        "it": "Vestito a righe",
+        "nl": "Gestreepte jurk",
+        "zh-CN": "粗横纹连身裙",
+        "zh-TW": "粗橫紋連身裙",
+        "jp": "ボーダーワンピース",
+        "ko": "줄무늬 원피스"
       }
     }
   },

@@ -7,6 +7,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 240
+      },
+      "name": {
+        "en-US": "Ant Model",
+        "en-GB": "Ant Model",
+        "de": "Ameisenmodell",
+        "es": "Figura de hormiga",
+        "fr": "Modèle de fourmi",
+        "it": "Replica di formica",
+        "nl": "Modelmier",
+        "zh-CN": "蚂蚁模型",
+        "zh-TW": "螞蟻模型",
+        "jp": "アリのもけい",
+        "ko": "개미 모형"
       }
     }
   },

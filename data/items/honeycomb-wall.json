@@ -11,6 +11,19 @@
       },
       "recipe": {
         "wasp-nest": 6
+      },
+      "name": {
+        "en-US": "Honeycomb Wall",
+        "en-GB": "Honeycomb Wall",
+        "de": "Bienenwabenwand",
+        "es": "Pared melosa",
+        "fr": "Mur rayons de miel",
+        "it": "Muro alveare",
+        "nl": "Honingraatwand",
+        "zh-CN": "蜂巢墙",
+        "zh-TW": "蜂巢牆",
+        "jp": "ビーハイブなかべ",
+        "ko": "벌집 벽"
       }
     }
   },

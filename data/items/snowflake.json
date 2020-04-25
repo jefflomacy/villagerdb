@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 200
+      },
+      "name": {
+        "zh-CN": "雪花",
+        "de": "Schneeflocke",
+        "en-GB": "Snowflake",
+        "es": "Copo de nieve",
+        "fr": "Flocon de neige",
+        "it": "Fiocco di neve",
+        "jp": "ゆきのけっしょう",
+        "ko": "눈의 결정",
+        "nl": "Sneeuwvlok",
+        "zh-TW": "雪花",
+        "en-US": "Snowflake"
       }
     }
   },

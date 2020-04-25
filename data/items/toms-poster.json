@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿邦的海报",
+        "de": "Poster's von Timo",
+        "en-GB": "Tom's Poster",
+        "es": "Póster de Zapirón",
+        "fr": "Poster de Tom",
+        "it": "Poster di Isidoro",
+        "jp": "バンタムのポスター",
+        "ko": "밴덤의 포스터",
+        "nl": "Poster van Tom",
+        "zh-TW": "阿邦的海報",
+        "en-US": "Tom's Poster"
+      }
     }
   },
   "category": "Photos"

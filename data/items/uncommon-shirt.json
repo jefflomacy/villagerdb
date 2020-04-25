@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Ethnopulli",
+        "en-GB": "Uncommon Shirt",
+        "en-US": "Uncommon Shirt",
+        "es": "Jersey original",
+        "fr": "Pull original",
+        "it": "Maglione insolito",
+        "ja": "いかめしいニット"
+      }
     },
     "ac": {
       "orderable": true,
@@ -36,7 +45,10 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Uncommon Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -52,7 +64,10 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Uncommon Shirt"
+      }
     }
   }
 }

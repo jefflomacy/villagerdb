@@ -18,7 +18,10 @@
           "currency": "meow",
           "value": 5
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Decoy Duck"
+      }
     },
     "nh": {
       "customizable": true,
@@ -43,6 +46,19 @@
         "common-pochard": "Common pochard",
         "steamer-duck": "Steamer duck",
         "duck": "Duck"
+      },
+      "name": {
+        "en-US": "Decoy Duck",
+        "en-GB": "Decoy Duck",
+        "de": "Deko-Ente",
+        "es": "Señuelo para patos",
+        "fr": "Faux canard",
+        "it": "Papero di plastica",
+        "nl": "Lokeend",
+        "zh-CN": "木雕鸭",
+        "zh-TW": "木雕鴨",
+        "jp": "デコイ",
+        "ko": "유인용 오리"
       }
     }
   }

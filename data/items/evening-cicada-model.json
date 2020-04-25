@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1650
+      },
+      "name": {
+        "en-US": "Evening Cicada Model",
+        "en-GB": "Evening Cicada Model",
+        "de": "Abendzikadenmodell",
+        "es": "Figura de cigarrilla",
+        "fr": "Modèle de cigale higurashi",
+        "it": "Replica di cicala notturna",
+        "nl": "Modelavondcicade",
+        "zh-CN": "暮蝉模型",
+        "zh-TW": "暮蟬模型",
+        "jp": "ヒグラシのもけい",
+        "ko": "쓰르라미 모형"
       }
     }
   },

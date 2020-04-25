@@ -23,6 +23,19 @@
         "orange": "Orange",
         "red": "Red",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Heart Doorplate",
+        "en-GB": "Heart Doorplate",
+        "de": "Herztürschild",
+        "es": "Placa corazón",
+        "fr": "Plaque cœur",
+        "it": "Targa da porta cuore",
+        "nl": "Hartendeurplaatje",
+        "zh-CN": "爱心门牌",
+        "zh-TW": "愛心門牌",
+        "jp": "ハートなドアプレート",
+        "ko": "하트 문패"
       }
     }
   },

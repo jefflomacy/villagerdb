@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 16000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Iceberg Wall",
+        "en-GB": "Iceberg Wall",
+        "de": "Eisbergtapete",
+        "es": "Pared glaciar",
+        "fr": "Mur banquise",
+        "it": "Muro artico",
+        "nl": "Ijsbergwand",
+        "zh-CN": "冰山墙",
+        "zh-TW": "冰山牆",
+        "jp": "ひょうざんのかべ",
+        "ko": "빙산 벽"
+      }
     }
   },
   "category": "Wallpaper"

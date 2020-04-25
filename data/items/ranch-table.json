@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1700
         }
-      ]
+      ],
+      "name": {
+        "de": "Western-Tisch",
+        "en-GB": "Ranch Table",
+        "en-US": "Ranch Table",
+        "es": "Mesa rústica",
+        "fr": "Table ranch",
+        "it": "Tavolo country",
+        "ja": "カントリーなテーブル"
+      }
     }
   }
 }

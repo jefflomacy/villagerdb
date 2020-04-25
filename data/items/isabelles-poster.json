@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "西施惠的海报",
+        "de": "Poster's von Melinda",
+        "en-GB": "Isabelle's Poster",
+        "es": "Póster de Canela",
+        "fr": "Poster de Marie",
+        "it": "Poster di Fuffi",
+        "jp": "しずえのポスター",
+        "ko": "여울의 포스터",
+        "nl": "Poster van Isabelle",
+        "zh-TW": "西施惠的海報",
+        "en-US": "Isabelle's Poster"
+      }
     }
   },
   "category": "Photos"

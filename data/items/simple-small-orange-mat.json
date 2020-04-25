@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Simple Small Orange Mat",
+        "en-GB": "Simple Small Orange Mat",
+        "de": "Orange-Standardmatte S",
+        "es": "Alfombra sencilla naranja P",
+        "fr": "Tapis simple orange S",
+        "it": "Tappetino arancione S",
+        "nl": "Simpele kleine oranje mat",
+        "zh-CN": "橘色简约地垫S",
+        "zh-TW": "小型橘色簡約地墊",
+        "jp": "オレンジのシンプルマット・S",
+        "ko": "오렌지 심플 매트 S"
+      }
     }
   },
   "category": "Flooring"

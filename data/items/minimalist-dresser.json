@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2500
         }
-      ]
+      ],
+      "name": {
+        "de": "Minimalkommode",
+        "en-GB": "Minimalist Dresser",
+        "en-US": "Minimalist Dresser",
+        "es": "Cómoda minimalista",
+        "fr": "Commode minimaliste",
+        "it": "Comò minimalista",
+        "ja": "シンプルなタンス"
+      }
     }
   }
 }

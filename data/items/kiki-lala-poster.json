@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "双星仙子的海报",
+        "de": "Kiki-&-Lala-Poster's",
+        "en-GB": "Kiki & Lala Poster",
+        "es": "Póster de Kiki & Lala",
+        "fr": "Poster de Kiki & Lala",
+        "it": "Poster di Kiki and Lala",
+        "jp": "キキ&ララなポスター",
+        "ko": "리틀 트윈 스타 포스터",
+        "nl": "Poster van Kiki & Lala",
+        "zh-TW": "雙星仙子的海報",
+        "en-US": "Kiki & Lala Poster"
+      }
     }
   },
   "category": "Photos"

@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 700
+      },
+      "name": {
+        "en-US": "Conch",
+        "en-GB": "Conch",
+        "de": "Tritonshorn",
+        "es": "Neptunea",
+        "fr": "Conque",
+        "it": "Strombo",
+        "nl": "Gewone tritonshoren",
+        "zh-CN": "海螺壳",
+        "zh-TW": "海螺殼",
+        "jp": "ホラガイ",
+        "ko": "소라고둥"
       }
     }
   },

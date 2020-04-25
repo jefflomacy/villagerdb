@@ -21,6 +21,19 @@
         "silver": "Silver",
         "black": "Black",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Stovetop Espresso Maker",
+        "en-GB": "Stovetop Espresso Maker",
+        "de": "Espressokanne",
+        "es": "Cafetera moka",
+        "fr": "Cafetière italienne",
+        "it": "Moka",
+        "nl": "Espressokan",
+        "zh-CN": "浓缩咖啡机",
+        "zh-TW": "濃縮咖啡機",
+        "jp": "エスプレッソメーカー",
+        "ko": "에스프레소 메이커"
       }
     }
   },

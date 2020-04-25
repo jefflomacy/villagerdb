@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "软糖的海报",
+        "de": "Poster's von Trita",
+        "en-GB": "Poppy's Poster",
+        "es": "Póster de Encina",
+        "fr": "Poster d'irène",
+        "it": "Poster di Granella",
+        "jp": "グミのポスター",
+        "ko": "다람의 포스터",
+        "nl": "Poster van Poppy",
+        "zh-TW": "軟糖的海報",
+        "en-US": "Poppy's Poster"
+      }
     }
   },
   "category": "Photos"

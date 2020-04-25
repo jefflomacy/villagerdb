@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 500
+      },
+      "name": {
+        "zh-CN": "白羊座碎片",
+        "de": "Widder-Splitter's",
+        "en-GB": "Aries Fragment",
+        "es": "Fragmento de Aries",
+        "fr": "Fragment de Bélier",
+        "it": "Frammento di Ariete",
+        "jp": "おひつじざのかけら",
+        "ko": "양자리 조각",
+        "nl": "Ramfragment",
+        "zh-TW": "牡羊座碎片",
+        "en-US": "Aries Fragment"
       }
     }
   },

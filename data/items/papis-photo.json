@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "小冈的照片",
+        "de": "Foto's von Friedel",
+        "en-GB": "Papi's Photo",
+        "es": "Foto de Bayo",
+        "fr": "Photo de Bourrico",
+        "it": "Foto di Pierino",
+        "jp": "オカッピのしゃしん",
+        "ko": "마사마의 사진",
+        "nl": "Foto van Papi",
+        "zh-TW": "小岡的照片",
+        "en-US": "Papi's Photo"
       }
     }
   },

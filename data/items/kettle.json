@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Wasserkessel",
+        "en-GB": "Kettle",
+        "en-US": "Kettle",
+        "es": "Tetera",
+        "fr": "Bouilloire",
+        "it": "Bollitore",
+        "ja": "やかん"
+      }
     },
     "nh": {
       "orderable": true,
@@ -40,7 +49,20 @@
           "currency": "bells",
           "value": 710
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Kettle",
+        "en-GB": "Kettle",
+        "de": "Wasserkessel",
+        "es": "Tetera",
+        "fr": "Bouilloire",
+        "it": "Bollitore",
+        "nl": "Ronde waterketel",
+        "zh-CN": "烧水壶",
+        "zh-TW": "燒水壺",
+        "jp": "やかん",
+        "ko": "주전자"
+      }
     }
   }
 }

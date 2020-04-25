@@ -19,6 +19,19 @@
         "colorful": "Colorful",
         "pastel": "Pastel",
         "vivid": "Vivid"
+      },
+      "name": {
+        "en-US": "Wooden-Block Table",
+        "en-GB": "Wooden-Block Table",
+        "de": "Bauklotztisch",
+        "es": "Mesa construcciones",
+        "fr": "Table blocs de bois",
+        "it": "Tavolo blocchi di legno",
+        "nl": "Houtbloktafel",
+        "zh-CN": "积木桌",
+        "zh-TW": "積木桌",
+        "jp": "つみきテーブル",
+        "ko": "나무블록 테이블"
       }
     }
   },

@@ -17,6 +17,19 @@
         "dark-brown": "Dark brown",
         "brown": "Brown",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Wooden-Plank Sign",
+        "en-GB": "Wooden-Plank Sign",
+        "de": "Holzbrettschild",
+        "es": "Rótulo en bajorrelieve",
+        "fr": "Écriteau en bois brut",
+        "it": "Insegna di legno grezzo",
+        "nl": "Bord met tekst",
+        "zh-CN": "木匾额",
+        "zh-TW": "木匾額",
+        "jp": "いちまいいたのかんばん",
+        "ko": "원목 간판"
       }
     }
   },

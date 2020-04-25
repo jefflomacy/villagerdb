@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1000
+      },
+      "name": {
+        "en-US": "Man-Faced Stink Bug",
+        "en-GB": "Man-Faced Stink Bug",
+        "de": "Gesichtswanze",
+        "es": "Chinche con rostro humano",
+        "fr": "Catacanthus",
+        "it": "Catacanthus",
+        "nl": "Gezichtschildwants",
+        "zh-CN": "人面椿象",
+        "zh-TW": "人面椿象",
+        "jp": "ジンメンカメムシ",
+        "ko": "인면노린재"
       }
     }
   },

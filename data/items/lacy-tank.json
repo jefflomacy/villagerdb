@@ -19,6 +19,19 @@
         "yellow": "Yellow",
         "green": "Green",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Lacy Tank",
+        "en-GB": "Lacy Tank",
+        "de": "Spitzentop",
+        "es": "Top encaje",
+        "fr": "Débardeur en mousseline",
+        "it": "Canotta merlettata",
+        "nl": "Kanten hemdje",
+        "zh-CN": "蕾丝细肩带背心",
+        "zh-TW": "蕾絲細肩帶背心",
+        "jp": "レースのキャミソール",
+        "ko": "레이스 캐미솔"
       }
     }
   },

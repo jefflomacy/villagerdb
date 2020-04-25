@@ -22,6 +22,19 @@
         "red": "Red",
         "gray": "Gray",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Spider Doorplate",
+        "en-GB": "Spider Doorplate",
+        "de": "Spinnentürschild",
+        "es": "Placa telaraña",
+        "fr": "Plaque toile d'araignée",
+        "it": "Targa da porta ragnatela",
+        "nl": "Spinnendeurplaatje",
+        "zh-CN": "蜘蛛门牌",
+        "zh-TW": "蜘蛛門牌",
+        "jp": "スパイダーなドアプレート",
+        "ko": "거미 문패"
       }
     }
   },

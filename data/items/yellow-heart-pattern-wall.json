@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Heart-Pattern Wall",
+        "en-GB": "Yellow Heart-Pattern Wall",
+        "de": "Herz-Auf-Gelb-Tapete",
+        "es": "Pared amor amarilla",
+        "fr": "Mur motif cœurs jaune",
+        "it": "Muro con cuori giallo",
+        "nl": "Gele hartjeswand",
+        "zh-CN": "黄色爱心壁纸",
+        "zh-TW": "黃色愛心壁紙",
+        "jp": "イエローハートのかべがみ",
+        "ko": "옐로 하트 벽지"
+      }
     }
   },
   "category": "Wallpaper"

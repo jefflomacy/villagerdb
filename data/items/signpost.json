@@ -27,6 +27,19 @@
         "shop": "Shop",
         "tailors": "Tailors",
         "museum": "Museum"
+      },
+      "name": {
+        "en-US": "Signpost",
+        "en-GB": "Signpost",
+        "de": "Wegweiser",
+        "es": "Poste indicador",
+        "fr": "Panneau de direction",
+        "it": "Segnale direzionale",
+        "nl": "Wegwijzer",
+        "zh-CN": "路标",
+        "zh-TW": "路標",
+        "jp": "みちしるべ",
+        "ko": "이정표"
       }
     }
   }

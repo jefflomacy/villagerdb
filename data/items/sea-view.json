@@ -22,7 +22,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sea View"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -34,7 +37,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sea View",
+        "en-GB": "Sea View",
+        "de": "Seeblicktapete",
+        "es": "Vista marina",
+        "fr": "Mur front de mer",
+        "it": "Muro vista mare",
+        "nl": "Scheepsdekwand",
+        "zh-CN": "汪洋大海墙",
+        "zh-TW": "汪洋大海牆",
+        "jp": "おおうなばらのかべ",
+        "ko": "바다 벽"
+      }
     }
   }
 }

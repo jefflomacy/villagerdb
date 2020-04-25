@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "恋恋的照片",
+        "de": "Foto's von Mandy",
+        "en-GB": "Tutu's Photo",
+        "es": "Foto de Tutú",
+        "fr": "Photo de Tutu",
+        "it": "Foto di Lola",
+        "jp": "れんにゅうのしゃしん",
+        "ko": "연유의 사진",
+        "nl": "Foto van Tutu",
+        "zh-TW": "戀戀的照片",
+        "en-US": "Tutu's Photo"
       }
     }
   },

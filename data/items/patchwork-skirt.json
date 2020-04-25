@@ -18,6 +18,19 @@
         "red": "Red",
         "yellow": "Yellow",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Patchwork Skirt",
+        "en-GB": "Patchwork Skirt",
+        "de": "Patchwork-Rock",
+        "es": "Falda recortes",
+        "fr": "Jupe patchwork",
+        "it": "Gonna patchwork",
+        "nl": "Patchworkrok",
+        "zh-CN": "拼布裙",
+        "zh-TW": "拼布裙",
+        "jp": "パッチワークスカート",
+        "ko": "패치워크 스커트"
       }
     }
   },

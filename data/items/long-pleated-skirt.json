@@ -20,6 +20,19 @@
         "yellow": "Yellow",
         "cyan": "Cyan",
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Long Pleated Skirt",
+        "en-GB": "Long Pleated Skirt",
+        "de": "Faltenrock",
+        "es": "Falda plisada larga",
+        "fr": "Jupe longue plissée",
+        "it": "Gonna lunga plissettata",
+        "nl": "Lange plooirok",
+        "zh-CN": "长百褶裙",
+        "zh-TW": "百褶長裙",
+        "jp": "ロングプリーツスカート",
+        "ko": "롱 플리츠 스커트"
       }
     }
   },

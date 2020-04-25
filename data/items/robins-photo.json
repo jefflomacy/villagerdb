@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "喳喳的照片",
+        "de": "Foto's von Jule",
+        "en-GB": "Robin's Photo",
+        "es": "Foto de Aria",
+        "fr": "Photo de Robie",
+        "it": "Foto di Rossana",
+        "jp": "パーチクのしゃしん",
+        "ko": "파틱의 사진",
+        "nl": "Foto van Robin",
+        "zh-TW": "喳喳的照片",
+        "en-US": "Robin's Photo"
       }
     }
   },

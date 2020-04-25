@@ -25,7 +25,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Umleitungsschild",
+        "en-GB": "Detour Arrow",
+        "en-US": "Detour Arrow",
+        "es": "Flecha desvío",
+        "fr": "Flèche détour",
+        "it": "Freccia deviazione",
+        "ja": "やじるしボード"
+      }
     }
   }
 }

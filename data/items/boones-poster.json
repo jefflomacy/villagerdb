@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "万泰的海报",
+        "de": "Poster's von Kong",
+        "en-GB": "Boone's Poster",
+        "es": "Póster de Babú",
+        "fr": "Poster de Babouin",
+        "it": "Poster di Babu",
+        "jp": "まんたろうのポスター",
+        "ko": "만복이의 포스터",
+        "nl": "Poster van Boone",
+        "zh-TW": "萬泰的海報",
+        "en-US": "Boone's Poster"
+      }
     }
   },
   "category": "Photos"

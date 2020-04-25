@@ -11,7 +11,10 @@
       },
       "sources": [
         "In the sea."
-      ]
+      ],
+      "name": {
+        "en-US": "Surgeonfish"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1000
+      },
+      "name": {
+        "en-US": "Surgeonfish",
+        "en-GB": "Surgeonfish",
+        "de": "Paletten-Doktorfisch",
+        "es": "Pez cirujano",
+        "fr": "Poisson chirurgien",
+        "it": "Pesce chirurgo",
+        "nl": "Doktersvis",
+        "zh-CN": "拟刺尾鲷",
+        "zh-TW": "擬刺尾鯛",
+        "jp": "ナンヨウハギ",
+        "ko": "블루탱"
       }
     }
   }

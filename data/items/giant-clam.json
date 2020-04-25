@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 900
+      },
+      "name": {
+        "en-US": "Giant Clam",
+        "en-GB": "Giant Clam",
+        "de": "Riesenmuschel",
+        "es": "Almeja gigante",
+        "fr": "Bénitier géant",
+        "it": "Vongola gigante",
+        "nl": "Doopvontschelp",
+        "zh-CN": "扇贝壳",
+        "zh-TW": "扇貝殼",
+        "jp": "シャコガイ",
+        "ko": "거거"
       }
     }
   },

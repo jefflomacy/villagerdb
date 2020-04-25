@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Aqua Tile Wall",
+        "en-GB": "Aqua Tile Wall",
+        "de": "Türkisfliesenwand",
+        "es": "Pared alicatada cian",
+        "fr": "Mur mosaïque turquoise",
+        "it": "Muro piastrelle turchesi",
+        "nl": "Turkooise tegelwand",
+        "zh-CN": "水蓝色砖墙",
+        "zh-TW": "水藍色磚牆",
+        "jp": "みずいろタイルのかべ",
+        "ko": "하늘색 타일 벽"
+      }
     }
   },
   "category": "Wallpaper"

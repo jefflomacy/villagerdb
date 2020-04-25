@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "朱古莉的海报",
+        "de": "Poster's von Karen",
+        "en-GB": "Kitty's Poster",
+        "es": "Póster de Kasandra",
+        "fr": "Poster de Kitty",
+        "it": "Poster di Ester",
+        "jp": "ショコラのポスター",
+        "ko": "쇼콜라의 포스터",
+        "nl": "Poster van Kitty",
+        "zh-TW": "朱古莉的海報",
+        "en-US": "Kitty's Poster"
+      }
     }
   },
   "category": "Photos"

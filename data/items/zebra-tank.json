@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 5800
         }
-      ]
+      ],
+      "name": {
+        "de": "Zebratop",
+        "en-GB": "Zebra Tank",
+        "en-US": "Zebra Tank",
+        "es": "Top cebra",
+        "fr": "Débardeur zèbre",
+        "it": "Canotta zebra",
+        "ja": "ゼブラなふくN"
+      }
     }
   }
 }

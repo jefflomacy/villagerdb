@@ -11,12 +11,28 @@
       },
       "sources": [
         "Near trees (only in November)"
-      ]
+      ],
+      "name": {
+        "en-US": "Elegant Mushroom"
+      }
     },
     "nh": {
       "sellPrice": {
         "currency": "bells",
         "value": 10000
+      },
+      "name": {
+        "en-US": "Elegant Mushroom",
+        "en-GB": "Elegant Mushroom",
+        "de": "Elegantpilz",
+        "es": "Champiñón elegante",
+        "fr": "Champignon élégant",
+        "it": "Fungo elegante",
+        "nl": "Elegante paddenstoel",
+        "zh-CN": "出色蘑菇",
+        "zh-TW": "出色蘑菇",
+        "jp": "りっぱなキノコ",
+        "ko": "멋진 버섯"
       }
     }
   }

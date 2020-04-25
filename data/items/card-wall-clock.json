@@ -15,7 +15,16 @@
       },
       "sources": [
         "GracieGrace (during sales)"
-      ]
+      ],
+      "name": {
+        "de": "Kartenwanduhr",
+        "en-GB": "Card Wall Clock",
+        "en-US": "Card Wall Clock",
+        "es": "Reloj pared naipes",
+        "fr": "Horloge cartes",
+        "it": "Orologio carte",
+        "ja": "トランプウォールクロック"
+      }
     }
   }
 }

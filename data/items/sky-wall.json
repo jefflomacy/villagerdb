@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sky Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -29,7 +32,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sky Wall",
+        "en-GB": "Sky Wall",
+        "de": "Himmelstapete",
+        "es": "Pared cielo",
+        "fr": "Mur ciel",
+        "it": "Muro cielo",
+        "nl": "Blauwehemelwand",
+        "zh-CN": "云上风景墙",
+        "zh-TW": "雲上風景牆",
+        "jp": "くものうえのかべ",
+        "ko": "구름 위 벽"
+      }
     }
   }
 }

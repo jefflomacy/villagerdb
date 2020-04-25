@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阳明的海报",
+        "de": "Poster's von Theo",
+        "en-GB": "Cyrano's Poster",
+        "es": "Póster de Cirano",
+        "fr": "Poster de Cyrano",
+        "it": "Poster di Cirano",
+        "jp": "さくらじまのポスター",
+        "ko": "사지마의 포스터",
+        "nl": "Poster van Cyrano",
+        "zh-TW": "陽明的海報",
+        "en-US": "Cyrano's Poster"
+      }
     }
   },
   "category": "Photos"

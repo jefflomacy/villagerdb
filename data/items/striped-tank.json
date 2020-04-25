@@ -23,6 +23,19 @@
         "gray": "Gray",
         "black": "Black",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Striped Tank",
+        "en-GB": "Striped Tank",
+        "de": "Ringeltop",
+        "es": "Top rayas",
+        "fr": "Débardeur rayé",
+        "it": "Canotta a righe",
+        "nl": "Gestreepte tanktop",
+        "zh-CN": "粗横纹坦克背心",
+        "zh-TW": "粗橫紋坦克背心",
+        "jp": "ボーダーのタンクトップ",
+        "ko": "줄무늬 탱크톱"
       }
     }
   },

@@ -19,6 +19,19 @@
       ],
       "variations": {
         "gray": "Gray"
+      },
+      "name": {
+        "en-US": "Hello Tee",
+        "en-GB": "Hello Tee",
+        "de": "Hello-Shirt",
+        "es": "Camiseta «hello»",
+        "fr": "T-Shirt hello",
+        "it": "Maglietta hello",
+        "nl": "Hello-T-Shirt",
+        "zh-CN": "哈罗T恤",
+        "zh-TW": "Hello T恤",
+        "jp": "ハローＴシャツ",
+        "ko": "헬로 티셔츠"
       }
     }
   },

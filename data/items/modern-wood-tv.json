@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Buntholzfernseher",
+        "en-GB": "Modern Wood TV",
+        "en-US": "Modern Wood TV",
+        "es": "Tele listones",
+        "fr": "Télé bois moderne",
+        "it": "TV legno",
+        "ja": "ミックスウッドのテレビ"
+      }
     }
   }
 }

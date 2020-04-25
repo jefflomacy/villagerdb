@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 680
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yodel Dress"
+      }
     }
   }
 }

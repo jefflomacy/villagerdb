@@ -15,7 +15,16 @@
       },
       "sources": [
         "Fortune cookie #20"
-      ]
+      ],
+      "name": {
+        "de": "Feuerblume",
+        "en-GB": "Fire Flower",
+        "en-US": "Fire Flower",
+        "es": "Flor de fuego",
+        "fr": "Fleur de feu",
+        "it": "Fiore di fuoco",
+        "ja": "ファイアフラワー"
+      }
     }
   }
 }

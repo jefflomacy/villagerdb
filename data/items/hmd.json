@@ -24,7 +24,10 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Hmd"
+      }
     },
     "nh": {
       "sources": [
@@ -42,6 +45,19 @@
       ],
       "variations": {
         "white": "White"
+      },
+      "name": {
+        "en-US": "HMD",
+        "en-GB": "HMD",
+        "de": "Cyberhelmes",
+        "es": "Visor 3D",
+        "fr": "Visiocasque",
+        "it": "Visore",
+        "nl": "Vr-Bril",
+        "zh-CN": "虚拟实境头戴式显示器",
+        "zh-TW": "虛擬實境頭戴式顯示器",
+        "jp": "HMD",
+        "ko": "HMD"
       }
     }
   }

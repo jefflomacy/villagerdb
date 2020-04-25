@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 1472
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Exquisite Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -33,7 +36,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Exquisite Wall",
+        "en-GB": "Exquisite Wall",
+        "de": "Feudaltapete",
+        "es": "Pared exquisita",
+        "fr": "Mur magnifique",
+        "it": "Muro raffinato",
+        "nl": "Verfijnde wand",
+        "zh-CN": "中华风墙",
+        "zh-TW": "中華風牆",
+        "jp": "チャイナなかべ",
+        "ko": "차이나풍 벽"
+      }
     }
   }
 }

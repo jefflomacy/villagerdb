@@ -11,7 +11,10 @@
       },
       "sources": [
         "Gardening Store (with T.I.Y.)"
-      ]
+      ],
+      "name": {
+        "en-US": "Blue-Hydrangea Start"
+      }
     },
     "nh": {
       "orderable": false,
@@ -27,7 +30,20 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue-Hydrangea Start",
+        "en-GB": "Blue-Hydrangea Start",
+        "de": "Seehortensiensetzling",
+        "es": "Hortensia azul de vivero",
+        "fr": "Pousse d'hortensia bleu",
+        "it": "Germoglio di ortensia blu",
+        "nl": "Blauwe-Hortensia-Zaailing",
+        "zh-CN": "蓝色绣球花苗",
+        "zh-TW": "藍色繡球花苗",
+        "jp": "あおいアジサイのなえ",
+        "ko": "파란 수국 묘목"
+      }
     }
   }
 }

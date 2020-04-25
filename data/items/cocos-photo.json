@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "仰韶的照片",
+        "de": "Foto's von Koko",
+        "en-GB": "Coco's Photo",
+        "es": "Foto de Cocoloca",
+        "fr": "Photo de Coco",
+        "it": "Foto di Coco",
+        "jp": "やよいのしゃしん",
+        "ko": "이요의 사진",
+        "nl": "Foto van Coco",
+        "zh-TW": "仰韶的照片",
+        "en-US": "Coco's Photo"
       }
     }
   },

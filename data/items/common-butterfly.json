@@ -11,7 +11,10 @@
       },
       "sources": [
         "Around flowers."
-      ]
+      ],
+      "name": {
+        "en-US": "Common Butterfly"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 160
+      },
+      "name": {
+        "en-US": "Common Butterfly",
+        "en-GB": "Common Butterfly",
+        "de": "Kohlweißling",
+        "es": "Mariposa común",
+        "fr": "Piéride de la rave",
+        "it": "Farfalla comune",
+        "nl": "Koolwitje",
+        "zh-CN": "白粉蝶",
+        "zh-TW": "白粉蝶",
+        "jp": "モンシロチョウ",
+        "ko": "배추흰나비"
       }
     }
   }

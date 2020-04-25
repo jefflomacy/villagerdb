@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Mario-Mütze",
+        "en-GB": "Big Bro's Hat",
+        "en-US": "Big Bro's Hat",
+        "es": "Gorra de Mario",
+        "fr": "Casquette Mario",
+        "it": "Cappello fratellone",
+        "ja": "おにいさんのぼうし"
+      }
     }
   }
 }

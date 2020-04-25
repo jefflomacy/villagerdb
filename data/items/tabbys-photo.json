@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "小虎的照片",
+        "de": "Foto's von Zita",
+        "en-GB": "Tabby's Photo",
+        "es": "Foto de Liana",
+        "fr": "Photo de Tigri",
+        "it": "Foto di Lisca",
+        "jp": "トラこのしゃしん",
+        "ko": "호냥이의 사진",
+        "nl": "Foto van Tabby",
+        "zh-TW": "小虎的照片",
+        "en-US": "Tabby's Photo"
       }
     }
   },

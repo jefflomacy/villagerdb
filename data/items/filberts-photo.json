@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "瑞奇的照片",
+        "de": "Foto's von Felix",
+        "en-GB": "Filbert's Photo",
+        "es": "Foto de Filberto",
+        "fr": "Photo de Filibert",
+        "it": "Foto di Scriccio",
+        "jp": "リッキーのしゃしん",
+        "ko": "리키의 사진",
+        "nl": "Foto van Filbert",
+        "zh-TW": "瑞奇的照片",
+        "en-US": "Filbert's Photo"
       }
     }
   },

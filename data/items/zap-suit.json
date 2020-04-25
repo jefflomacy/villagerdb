@@ -26,6 +26,19 @@
         "black": "Black",
         "silver": "Silver",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Zap Suit",
+        "en-GB": "Zap Suit",
+        "de": "Superheldenkostüm",
+        "es": "Supertraje",
+        "fr": "Costume de héros",
+        "it": "Costume da eroe",
+        "nl": "Superpak",
+        "zh-CN": "英雄装",
+        "zh-TW": "英雄裝",
+        "jp": "ヒーロースーツ",
+        "ko": "히어로 슈트"
       }
     }
   },

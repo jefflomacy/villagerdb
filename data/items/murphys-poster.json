@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "宪雄的海报",
+        "de": "Poster's von Michael",
+        "en-GB": "Murphy's Poster",
+        "es": "Póster de Orsón",
+        "fr": "Poster d'eddie",
+        "it": "Poster di Marcello",
+        "jp": "のりおのポスター",
+        "ko": "머피의 포스터",
+        "nl": "Poster van Murphy",
+        "zh-TW": "憲雄的海報",
+        "en-US": "Murphy's Poster"
+      }
     }
   },
   "category": "Photos"

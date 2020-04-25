@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Vinyl Sheet",
+        "en-GB": "Yellow Vinyl Sheet",
+        "de": "Gelb-Vinyltuch",
+        "es": "Alfombra de vinilo amarilla",
+        "fr": "Tapis vinyle jaune",
+        "it": "Tappeto vinile giallo",
+        "nl": "Gele vinylmat",
+        "zh-CN": "黄色塑胶垫",
+        "zh-TW": "黃色塑膠墊",
+        "jp": "きいろいビニールシート",
+        "ko": "노란 비닐 시트"
+      }
     }
   },
   "category": "Flooring"

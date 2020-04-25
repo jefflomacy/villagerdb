@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 292
         }
-      ]
+      ],
+      "name": {
+        "de": "Sonnenshirt",
+        "en-GB": "Sunset Tee",
+        "en-US": "Sunset Tee",
+        "es": "Camiseta atardecer",
+        "fr": "T-shirt couchant",
+        "it": "Maglietta tramonto",
+        "ja": "サンセットなふく"
+      }
     }
   }
 }

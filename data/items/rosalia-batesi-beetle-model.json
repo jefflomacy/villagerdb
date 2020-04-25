@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 9000
+      },
+      "name": {
+        "en-US": "Rosalia Batesi Beetle Model",
+        "en-GB": "Rosalia Batesi Beetle Model",
+        "de": "Alpenbockmodell",
+        "es": "Figura de esc. rosalia batesi",
+        "fr": "Modèle de rosalia batesi",
+        "it": "Replica coleot. rosalia batesi",
+        "nl": "Modelalpenboktor",
+        "zh-CN": "琉璃星天牛模型",
+        "zh-TW": "琉璃星天牛模型",
+        "jp": "ルリボシカミキリのもけい",
+        "ko": "루리하늘소 모형"
       }
     }
   },

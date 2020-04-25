@@ -15,6 +15,19 @@
       ],
       "variations": {
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Tool Bag",
+        "en-GB": "Tool Bag",
+        "de": "Werkzeugtasche",
+        "es": "Bolsa de herramientas",
+        "fr": "Sac à outils",
+        "it": "Borsa degli strumenti",
+        "nl": "Gereedschapstas",
+        "zh-CN": "工具包",
+        "zh-TW": "工具包",
+        "jp": "ツールバッグ",
+        "ko": "공구 가방"
       }
     }
   },

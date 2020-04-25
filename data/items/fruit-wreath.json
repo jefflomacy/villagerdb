@@ -15,6 +15,19 @@
         "cherry": 3,
         "orange": 3,
         "peach": 1
+      },
+      "name": {
+        "en-US": "Fruit Wreath",
+        "en-GB": "Fruit Wreath",
+        "de": "Früchtetürkranz",
+        "es": "Corona frutal",
+        "fr": "Couronne fruits",
+        "it": "Ghirlanda frutta",
+        "nl": "Fruitkrans",
+        "zh-CN": "水果花环",
+        "zh-TW": "水果花圈",
+        "jp": "フルーツのリース",
+        "ko": "과일 리스"
       }
     }
   },

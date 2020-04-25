@@ -22,6 +22,19 @@
         "white": "White",
         "green": "Green",
         "orange": "Orange"
+      },
+      "name": {
+        "en-US": "Layered Shirt",
+        "en-GB": "Layered Shirt",
+        "de": "Lagenshirt",
+        "es": "Camiseta superpuesta",
+        "fr": "T-Shirt dédoublé",
+        "it": "Maglia a strati",
+        "nl": "Laagjesshirt",
+        "zh-CN": "两件式T恤",
+        "zh-TW": "兩件式T恤",
+        "jp": "かさねぎＴシャツ",
+        "ko": "레이어드 티셔츠"
       }
     }
   },

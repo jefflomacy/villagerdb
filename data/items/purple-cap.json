@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Lilakappe",
+        "en-GB": "Purple Cap",
+        "en-US": "Purple Cap",
+        "es": "Gorra morada",
+        "fr": "Casquette mauve",
+        "it": "Cappello viola",
+        "ja": "むらさきのキャップ"
+      }
     }
   }
 }

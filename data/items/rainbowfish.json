@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 800
+      },
+      "name": {
+        "en-US": "Rainbowfish",
+        "en-GB": "Rainbowfish",
+        "de": "Regenbogenfisch",
+        "es": "Pez arcoíris",
+        "fr": "Poisson arc-en-ciel",
+        "it": "Pesce arcobaleno",
+        "nl": "Regenboogvis",
+        "zh-CN": "彩虹鱼",
+        "zh-TW": "彩虹魚",
+        "jp": "レインボーフィッシュ",
+        "ko": "레인보우피시"
       }
     }
   },

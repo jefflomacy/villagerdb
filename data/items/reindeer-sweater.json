@@ -17,6 +17,19 @@
         "green": "Green",
         "brown": "Brown",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Reindeer Sweater",
+        "en-GB": "Reindeer Sweater",
+        "de": "Rentierpulli",
+        "es": "Cárdigan renos",
+        "fr": "Pull tricoté rennes",
+        "it": "Maglione con renne",
+        "nl": "Rendiertrui",
+        "zh-CN": "驯鹿毛衣",
+        "zh-TW": "馴鹿毛衣",
+        "jp": "トナカイセーター",
+        "ko": "루돌프 스웨터"
       }
     }
   },

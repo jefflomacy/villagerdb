@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Mumienhose",
+        "en-GB": "Mummy Pants",
+        "en-US": "Mummy Pants",
+        "es": "Pantalón de momia",
+        "fr": "Pantalon momie",
+        "it": "Pantalone mummia",
+        "ja": "ほうたいパンツ"
+      }
     }
   }
 }

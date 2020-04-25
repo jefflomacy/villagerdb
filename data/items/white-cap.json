@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "N-Kappe",
+        "en-GB": "White Cap",
+        "en-US": "White Cap",
+        "es": "Gorra N",
+        "fr": "Casquette blanche",
+        "it": "Cappello bianco",
+        "ja": "しろいキャップ"
+      }
     }
   }
 }

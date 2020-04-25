@@ -22,6 +22,19 @@
         "yellow": "Yellow",
         "orange": "Orange",
         "lime": "Lime"
+      },
+      "name": {
+        "en-US": "Down Jacket",
+        "en-GB": "Down Jacket",
+        "de": "Thermojacke",
+        "es": "Chaqueta acolchada",
+        "fr": "Doudoune",
+        "it": "Piumino",
+        "nl": "Gewatteerde jas",
+        "zh-CN": "羽绒外套",
+        "zh-TW": "羽絨外套",
+        "jp": "ダウンジャケット",
+        "ko": "다운재킷"
       }
     }
   },

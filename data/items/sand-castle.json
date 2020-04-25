@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Sandburg",
+        "en-GB": "Sand Castle",
+        "en-US": "Sand Castle",
+        "es": "Castillo de arena",
+        "fr": "Château de sable",
+        "it": "Castello di sabbia",
+        "ja": "すなのしろ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -44,6 +53,19 @@
       "variations": {
         "natural-sand": "Natural sand",
         "white-sand": "White sand"
+      },
+      "name": {
+        "en-US": "Sand Castle",
+        "en-GB": "Sand Castle",
+        "de": "Sandburg",
+        "es": "Castillo de arena",
+        "fr": "Château de sable",
+        "it": "Castello di sabbia",
+        "nl": "Zandkasteel",
+        "zh-CN": "沙堆城堡",
+        "zh-TW": "沙堆城堡",
+        "jp": "すなのしろ",
+        "ko": "모래성"
       }
     }
   }

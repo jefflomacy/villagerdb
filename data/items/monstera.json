@@ -21,6 +21,19 @@
         "yellow": "Yellow",
         "blue": "Blue",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Monstera",
+        "en-GB": "Monstera",
+        "de": "Fensterblattpflanze",
+        "es": "Monstera",
+        "fr": "Monstera",
+        "it": "Monstera",
+        "nl": "Gatenplant",
+        "zh-CN": "龟背芋",
+        "zh-TW": "龜背芋",
+        "jp": "モンステラ",
+        "ko": "몬스테라"
       }
     }
   },

@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 120000
         }
-      ]
+      ],
+      "name": {
+        "de": "Prachtstuhl",
+        "en-GB": "Princess Chair",
+        "en-US": "Princess Chair",
+        "es": "Silla princesa",
+        "fr": "Chaise princesse",
+        "it": "Sedia contessa",
+        "ja": "プリンセスチェア"
+      }
     }
   }
 }

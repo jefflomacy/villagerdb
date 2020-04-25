@@ -12,7 +12,10 @@
       },
       "sources": [
         "Saharah"
-      ]
+      ],
+      "name": {
+        "en-US": "Boxing-Ring Mat"
+      }
     },
     "nh": {
       "orderable": false,
@@ -28,7 +31,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Boxing-Ring Mat",
+        "en-GB": "Boxing-Ring Mat",
+        "de": "Boxringboden",
+        "es": "Moqueta boxeo",
+        "fr": "Sol arène de catch",
+        "it": "Moquette ring",
+        "nl": "Boksringmat",
+        "zh-CN": "职业摔角地板",
+        "zh-TW": "職業摔角地板",
+        "jp": "プロレスのゆか",
+        "ko": "레슬링 경기장 바닥"
+      }
     }
   }
 }

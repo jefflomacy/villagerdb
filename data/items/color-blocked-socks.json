@@ -22,6 +22,19 @@
         "white": "White",
         "lime": "Lime",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Color-Blocked Socks",
+        "en-GB": "Color-Blocked Socks",
+        "de": "Paars Bunt-Socken",
+        "es": "Calcetín composición color",
+        "fr": "Paire chaussettes carreaux",
+        "it": "Paio di calzini variopinti",
+        "nl": "Sokken met kleurvlakken",
+        "zh-CN": "多色格子袜",
+        "zh-TW": "多色格子襪",
+        "jp": "マルチブロックソックス",
+        "ko": "컬러 블록 양말"
       }
     }
   },

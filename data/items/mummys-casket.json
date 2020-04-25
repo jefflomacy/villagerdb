@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 4400
         }
-      ]
+      ],
+      "name": {
+        "de": "Sarkophag",
+        "en-GB": "Mummy's Casket",
+        "en-US": "Mummy's Casket",
+        "es": "Sarcófago momia",
+        "fr": "Sarcophage",
+        "it": "Sarcofago",
+        "ja": "ミイラのひつぎ"
+      }
     }
   }
 }

@@ -12,7 +12,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Farewell",
+        "en-GB": "Farewell",
+        "de": "Abschied",
+        "es": "Despedida",
+        "fr": "Adieux",
+        "it": "Arrivederci",
+        "nl": "Vaarwel",
+        "zh-CN": "再会",
+        "zh-TW": "再會",
+        "jp": "さよなら",
+        "ko": "작별",
+        "ru": "Прощани"
+      }
     }
   },
   "category": "Music"

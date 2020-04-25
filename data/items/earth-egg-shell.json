@@ -14,6 +14,19 @@
       },
       "variations": {
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Earth-Egg Shell",
+        "en-GB": "Earth-Egg Shell",
+        "de": "Erd-Eierschale",
+        "es": "Cáscara de huevo terrestre",
+        "fr": "Coquille d'œuf terrestre",
+        "it": "Guscio d'uovo terrestre",
+        "nl": "Aarde-Eierschaal",
+        "zh-CN": "地面蛋壳",
+        "zh-TW": "地面蛋殼",
+        "jp": "じめんのたまごのから",
+        "ko": "땅 달걀 껍질"
       }
     }
   },

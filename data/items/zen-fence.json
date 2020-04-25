@@ -13,6 +13,19 @@
         "iron-nugget": 3,
         "clay": 3,
         "stone": 3
+      },
+      "name": {
+        "en-US": "Zen Fence",
+        "en-GB": "Zen Fence",
+        "de": "Japanmauer",
+        "es": "Cerca oriental",
+        "fr": "Muret zen",
+        "it": "Muretto giapponese",
+        "nl": "Zenmuurtje",
+        "zh-CN": "和风栅栏",
+        "zh-TW": "和風柵欄",
+        "jp": "わふうのさく",
+        "ko": "동양풍 울타리"
       }
     }
   },

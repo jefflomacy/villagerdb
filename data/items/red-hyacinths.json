@@ -17,7 +17,20 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Hyacinths",
+        "en-GB": "Red Hyacinths",
+        "de": "Rothyazinthe",
+        "es": "Jacinto rojo",
+        "fr": "Jacinthe rouge",
+        "it": "Giacinto rosso",
+        "nl": "Rode hyacint",
+        "zh-CN": "红色风信子",
+        "zh-TW": "紅色風信子",
+        "jp": "あかいヒヤシンス",
+        "ko": "빨간 히아신스"
+      }
     }
   },
   "category": "Flowers"

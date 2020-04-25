@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Herzchentisch",
+        "en-GB": "Lovely End Table",
+        "en-US": "Lovely End Table",
+        "es": "Mesita corazón",
+        "fr": "Guéridon c\\u0153ur",
+        "it": "Tavolino cuori",
+        "ja": "ラブリーテーブル"
+      }
     }
   }
 }

@@ -24,6 +24,19 @@
         "gray": "Gray",
         "beige": "Beige",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Everyday Socks",
+        "en-GB": "Everyday Socks",
+        "de": "Paars Alltagssocken",
+        "es": "Calcetín de diario",
+        "fr": "P. chaussettes ordinaires",
+        "it": "Paio di calzini ordinari",
+        "nl": "Alledaagse sokken",
+        "zh-CN": "通勤袜子",
+        "zh-TW": "通勤襪子",
+        "jp": "デイリーソックス",
+        "ko": "데일리 양말"
       }
     }
   },

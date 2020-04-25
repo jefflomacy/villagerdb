@@ -22,6 +22,19 @@
         "brown": "Brown",
         "natural": "Natural",
         "white": "White"
+      },
+      "name": {
+        "en-US": "System Kitchen",
+        "en-GB": "System Kitchen",
+        "de": "Kochnische",
+        "es": "Cocina modular",
+        "fr": "Kitchenette fonctionnelle",
+        "it": "Cucina modulare",
+        "nl": "Inbouwkeuken",
+        "zh-CN": "橱柜式厨房",
+        "zh-TW": "櫥櫃式廚房",
+        "jp": "システムキッチン",
+        "ko": "시스템 키친"
       }
     }
   },

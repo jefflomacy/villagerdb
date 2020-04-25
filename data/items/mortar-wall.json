@@ -14,7 +14,10 @@
       },
       "sources": [
         "Saharah"
-      ]
+      ],
+      "name": {
+        "en-US": "Mortar Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -26,7 +29,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mortar Wall",
+        "en-GB": "Mortar Wall",
+        "de": "Steinfundamentwand",
+        "es": "Muro piedra",
+        "fr": "Mur mortier",
+        "it": "Muro malta",
+        "nl": "Gepleisterde stenen wand",
+        "zh-CN": "灰泥矮墙",
+        "zh-TW": "灰泥矮牆",
+        "jp": "しっくいのへい",
+        "ko": "기와 돌담 벽"
+      }
     }
   }
 }

@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Girlie-Schuh",
+        "en-GB": "Pink Slip-Ons",
+        "en-US": "Pink Slip-Ons",
+        "es": "Pantufla rosa",
+        "fr": "P. pantoufles roses",
+        "it": "Paio scarpe rosa",
+        "ja": "ピンクのスニーカー"
+      }
     }
   }
 }

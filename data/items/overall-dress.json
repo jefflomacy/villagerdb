@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 580
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Overall Dress"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -39,6 +42,19 @@
         "beige": "Beige",
         "red": "Red",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Overall Dress",
+        "en-GB": "Overall Dress",
+        "de": "Jeanskleid",
+        "es": "Vestido de campo",
+        "fr": "Robe salopette",
+        "it": "Vestito salopette",
+        "nl": "Spijkerjurk",
+        "zh-CN": "背带裙",
+        "zh-TW": "背心裙",
+        "jp": "ジャンパースカート",
+        "ko": "점퍼스커트"
       }
     }
   }

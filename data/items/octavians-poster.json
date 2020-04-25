@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "张瑜的海报",
+        "de": "Poster's von Ottfried",
+        "en-GB": "Octavian's Poster",
+        "es": "Póster de Octavio",
+        "fr": "Poster d'octave",
+        "it": "Poster di Ottavio",
+        "jp": "おくたろうのポスター",
+        "ko": "문복의 포스터",
+        "nl": "Poster van Octavian",
+        "zh-TW": "張瑜的海報",
+        "en-US": "Octavian's Poster"
+      }
     }
   },
   "category": "Photos"

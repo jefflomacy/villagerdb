@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1620
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Black Chic Umbrella",
+        "en-GB": "Black Chic Umbrella",
+        "de": "Schwarz-Klassikschirm",
+        "es": "Parasol gótico negro",
+        "fr": "Ombrelle chic noire",
+        "it": "Ombrello nero chic",
+        "nl": "Zwarte chique paraplu",
+        "zh-CN": "黑色典雅雨伞",
+        "zh-TW": "黑色典雅雨傘",
+        "jp": "くろいシックなかさ",
+        "ko": "검정 시크 우산"
+      }
     }
   },
   "category": "Umbrellas"

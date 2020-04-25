@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Überwachungskamera",
+        "en-GB": "Surveillance Camera",
+        "en-US": "Surveillance Camera",
+        "es": "Cámara de vigilancia",
+        "fr": "Caméra surveillance",
+        "it": "Telecamera sicurezza",
+        "ja": "かんしカメラ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -34,7 +43,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Surveillance Camera",
+        "en-GB": "Surveillance Camera",
+        "de": "Überwachungskamera",
+        "es": "Cámara de vigilancia",
+        "fr": "Caméra surveillance",
+        "it": "Telecamera di sicurezza",
+        "nl": "Bewakingscamera",
+        "zh-CN": "监控摄像机",
+        "zh-TW": "監控攝影機",
+        "jp": "かんしカメラ",
+        "ko": "감시 카메라"
+      }
     }
   }
 }

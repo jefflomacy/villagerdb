@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 2480
         }
-      ]
+      ],
+      "name": {
+        "de": "Videospieltisch",
+        "en-GB": "Tabletop Game",
+        "en-US": "Tabletop Game",
+        "es": "Juego espacial",
+        "fr": "Table de jeux",
+        "it": "Gioco spaziale",
+        "ja": "テーブルきょうたい"
+      }
     }
   }
 }

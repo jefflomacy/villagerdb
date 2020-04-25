@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1700
         }
-      ]
+      ],
+      "name": {
+        "de": "Blockhausstuhl",
+        "en-GB": "Cabin Chair",
+        "en-US": "Cabin Chair",
+        "es": "Silla cabaña",
+        "fr": "Chaise chalet",
+        "it": "Sedia rustica",
+        "ja": "ログチェア"
+      }
     }
   }
 }

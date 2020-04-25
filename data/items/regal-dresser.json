@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 3520
         }
-      ]
+      ],
+      "name": {
+        "de": "Royalkommode",
+        "en-GB": "Regal Dresser",
+        "en-US": "Regal Dresser",
+        "es": "Cómoda regia",
+        "fr": "Commode royale",
+        "it": "Comò chic",
+        "ja": "ロイヤルなタンス"
+      }
     }
   }
 }

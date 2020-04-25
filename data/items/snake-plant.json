@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Bogenhanf",
+        "en-GB": "Snake Plant",
+        "en-US": "Snake Plant",
+        "es": "Sanseviera",
+        "fr": "Sansevieria",
+        "it": "Pianta serpente",
+        "ja": "サンセベリア"
+      }
     }
   }
 }

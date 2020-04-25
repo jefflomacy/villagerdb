@@ -14,7 +14,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Board Game"
+      }
     },
     "nh": {
       "orderable": true,
@@ -33,6 +36,19 @@
         "simple-path-game": "Simple path game",
         "territory-game": "Territory game",
         "kids-game": "Kids' game"
+      },
+      "name": {
+        "en-US": "Board Game",
+        "en-GB": "Board Game",
+        "de": "Brettspiel",
+        "es": "Juego de tablero",
+        "fr": "Jeu de plateau",
+        "it": "Gioco in scatola",
+        "nl": "Bordspel",
+        "zh-CN": "桌游",
+        "zh-TW": "桌遊",
+        "jp": "ボードゲーム",
+        "ko": "보드게임"
       }
     }
   }

@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1570
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Intricate Wall",
+        "en-GB": "Red Intricate Wall",
+        "de": "Rot-Filigrantapete",
+        "es": "Pared boceto floral roja",
+        "fr": "Mur entrelacs floraux rouge",
+        "it": "Muro filigrana rosso",
+        "nl": "Rode filigraanwand",
+        "zh-CN": "红色布墙",
+        "zh-TW": "紅色布牆",
+        "jp": "あかいテキスタイルのかべ",
+        "ko": "빨간 텍스타일 벽"
+      }
     }
   },
   "category": "Wallpaper"

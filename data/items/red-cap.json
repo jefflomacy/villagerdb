@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Tankstellenkappe",
+        "en-GB": "Red Cap",
+        "en-US": "Red Cap",
+        "es": "Gorra roja",
+        "fr": "Casquette rouge",
+        "it": "Cappello rosso",
+        "ja": "あかいキャップ"
+      }
     }
   }
 }

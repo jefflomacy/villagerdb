@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Pale Chub"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 200
+      },
+      "name": {
+        "en-US": "Pale Chub",
+        "en-GB": "Pale Chub",
+        "de": "Döbel",
+        "es": "Cacho",
+        "fr": "Chevaine",
+        "it": "Zacco",
+        "nl": "Japanse drakenvis",
+        "zh-CN": "溪哥",
+        "zh-TW": "溪哥",
+        "jp": "オイカワ",
+        "ko": "피라미"
       }
     }
   }

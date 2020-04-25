@@ -11,7 +11,10 @@
       },
       "sources": [
         "On trees."
-      ]
+      ],
+      "name": {
+        "en-US": "Robust Cicada"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 300
+      },
+      "name": {
+        "en-US": "Robust Cicada",
+        "en-GB": "Robust Cicada",
+        "de": "Hyalessa-Zikade",
+        "es": "Cigarra oriental",
+        "fr": "Cigale hyalessa",
+        "it": "Cicala robusta",
+        "nl": "Minmin-Cicade",
+        "zh-CN": "斑透翅蝉",
+        "zh-TW": "斑透翅蟬",
+        "jp": "ミンミンゼミ",
+        "ko": "참매미"
       }
     }
   }

@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 7360
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Traditional Balancing Toy",
+        "en-GB": "Traditional Balancing Toy",
+        "de": "Fingerschaukel",
+        "es": "Muñeco equilibrista",
+        "fr": "Jeu d'équilibre traditionnel",
+        "it": "Gioco d'equilibrio",
+        "nl": "Traditione&#Xe;2&#X16;&#X18;&#X4;El&#X4;El&#X4;El&#X4;Le balansfiguurtje",
+        "zh-CN": "平衡玩具",
+        "zh-TW": "平衡玩具",
+        "jp": "やじろべえ",
+        "ko": "균형 잡기 장난감"
+      }
     }
   },
   "category": "Furniture"

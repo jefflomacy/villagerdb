@@ -19,6 +19,19 @@
       ],
       "variations": {
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Nook Inc. Knapsack",
+        "en-GB": "Nook Inc. Knapsack",
+        "de": "Nook-Inc.-Beutel",
+        "es": "Mochila saco de Nook Inc.",
+        "fr": "Sac à dos Nook Inc.",
+        "it": "Sacca Nook Inc.",
+        "nl": "Nook Inc.-rugzak",
+        "zh-CN": "Nook Inc.束口双肩包",
+        "zh-TW": "Nook Inc.束口後背包",
+        "jp": "たぬきかいはつナップサック",
+        "ko": "Nook Inc. 주머니 가방"
       }
     }
   },

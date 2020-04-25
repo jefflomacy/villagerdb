@@ -15,7 +15,16 @@
       },
       "sources": [
         "GracieGrace (summer)"
-      ]
+      ],
+      "name": {
+        "de": "Grazialampe",
+        "en-GB": "Gracie Lamp",
+        "en-US": "Gracie Lamp",
+        "es": "Lámpara Graciela",
+        "fr": "Lampe Carla",
+        "it": "Lampada Griffa",
+        "ja": "グレースランプ"
+      }
     }
   }
 }

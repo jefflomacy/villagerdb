@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3000
+      },
+      "name": {
+        "en-US": "Deinony Torso",
+        "en-GB": "Deinony Torso",
+        "de": "Deinonychus-Torso",
+        "es": "Cuerpo deinonico",
+        "fr": "Torse de déinonychus",
+        "it": "Torso deinonico",
+        "nl": "Deinonychuskop",
+        "zh-CN": "恐爪龙的头",
+        "zh-TW": "恐爪龍的頭",
+        "jp": "ディノニクスのあたま",
+        "ko": "데이노니쿠스의 머리"
       }
     }
   },

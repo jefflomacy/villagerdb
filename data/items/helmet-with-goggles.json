@@ -22,6 +22,19 @@
         "light-blue": "Light blue",
         "black": "Black",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Helmet With Goggles",
+        "en-GB": "Helmet With Goggles",
+        "de": "Skibrillenhelm",
+        "es": "Casco motocicleta clásico",
+        "fr": "Casque avec lunettes",
+        "it": "Casco con occhiali",
+        "nl": "Helm met beschermbril",
+        "zh-CN": "带护目镜头盔",
+        "zh-TW": "護目鏡安全帽",
+        "jp": "ゴーグルつきヘルメット",
+        "ko": "고글 헬멧"
       }
     }
   },

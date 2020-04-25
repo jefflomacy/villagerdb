@@ -15,7 +15,10 @@
       },
       "sources": [
         "Saharah"
-      ]
+      ],
+      "name": {
+        "en-US": "Sci-Fi Wall"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -27,7 +30,20 @@
           "currency": "bells",
           "value": 30000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sci-Fi Wall",
+        "en-GB": "Sci-Fi Wall",
+        "de": "Raumschifftapete",
+        "es": "Pared nave espacial",
+        "fr": "Mur science-fiction",
+        "it": "Muro astronave",
+        "nl": "Sciencefictionwand",
+        "zh-CN": "太空船墙",
+        "zh-TW": "太空船牆",
+        "jp": "うちゅうせんのかべ",
+        "ko": "우주선 벽"
+      }
     }
   }
 }

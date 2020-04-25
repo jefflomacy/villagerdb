@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "玉兰的照片",
+        "de": "Foto's von Jolanda",
+        "en-GB": "Naomi's Photo",
+        "es": "Foto de Regina",
+        "fr": "Photo de Maiko",
+        "it": "Foto di Melina",
+        "jp": "ハナコのしゃしん",
+        "ko": "화자의 사진",
+        "nl": "Foto van Naomi",
+        "zh-TW": "玉蘭的照片",
+        "en-US": "Naomi's Photo"
       }
     }
   },

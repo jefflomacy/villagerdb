@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "黄金鸡的照片",
+        "de": "Foto's von Waldemar",
+        "en-GB": "Egbert's Photo",
+        "es": "Foto de Norberto",
+        "fr": "Photo d'herbert",
+        "it": "Foto di Chicco",
+        "jp": "しもやけのしゃしん",
+        "ko": "김희의 사진",
+        "nl": "Foto van Egbert",
+        "zh-TW": "黃金雞的照片",
+        "en-US": "Egbert's Photo"
       }
     }
   },

@@ -18,6 +18,19 @@
         "blue": "Blue",
         "green": "Green",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Power Helmet",
+        "en-GB": "Power Helmet",
+        "de": "Power-Helm",
+        "es": "Casco de energía",
+        "fr": "Casque de puissance",
+        "it": "Casco da tuta potenziata",
+        "nl": "Superkrachthelm",
+        "zh-CN": "动力头盔",
+        "zh-TW": "動力頭盔",
+        "jp": "パワードメット",
+        "ko": "파워 헬멧"
       }
     }
   },

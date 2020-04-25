@@ -14,6 +14,19 @@
       },
       "recipe": {
         "wood-egg": 4
+      },
+      "name": {
+        "en-US": "Bunny Day Lamp",
+        "en-GB": "Bunny Day Lamp",
+        "de": "Häschentag-Lampe",
+        "es": "Lámpara Caza del Huevo",
+        "fr": "Lampe fête des œufs",
+        "it": "Lampada caccia all'uovo",
+        "nl": "Eierlamp",
+        "zh-CN": "复活节灯",
+        "zh-TW": "復活節燈",
+        "jp": "イースターなランプ",
+        "ko": "이스터 램프"
       }
     }
   },

@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "de": "Minimaltisch",
+        "en-GB": "Minimalist Table",
+        "en-US": "Minimalist Table",
+        "es": "Mesa minimalista",
+        "fr": "Table minimaliste",
+        "it": "Tavolo minimalista",
+        "ja": "シンプルなテーブル"
+      }
     }
   }
 }

@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Bluegill"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 180
+      },
+      "name": {
+        "en-US": "Bluegill",
+        "en-GB": "Bluegill",
+        "de": "Sonnenbarsch",
+        "es": "Pez sol",
+        "fr": "Crapet",
+        "it": "Pesce persico",
+        "nl": "Zonnebaars",
+        "zh-CN": "蓝腮太阳鱼",
+        "zh-TW": "藍鰓太陽魚",
+        "jp": "ブルーギル",
+        "ko": "블루길"
       }
     }
   }

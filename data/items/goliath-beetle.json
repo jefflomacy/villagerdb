@@ -11,7 +11,10 @@
       },
       "sources": [
         "On palm trees."
-      ]
+      ],
+      "name": {
+        "en-US": "Goliath Beetle"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 8000
+      },
+      "name": {
+        "en-US": "Goliath Beetle",
+        "en-GB": "Goliath Beetle",
+        "de": "Goliathkäfer",
+        "es": "Goliat",
+        "fr": "Scarabée Goliath",
+        "it": "Scarabeo Golia",
+        "nl": "Goliathkever",
+        "zh-CN": "歌利亚大角花金龟",
+        "zh-TW": "哥利亞大角花金龜",
+        "jp": "ゴライアスオオツノハナムグリ",
+        "ko": "골리앗왕꽃무지"
       }
     }
   }

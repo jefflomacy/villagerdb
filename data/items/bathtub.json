@@ -28,7 +28,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Badebecken",
+        "en-GB": "Bathtub",
+        "en-US": "Bathtub",
+        "es": "Bañera terma",
+        "fr": "Baignoire",
+        "it": "Vasca",
+        "ja": "ゆぶね"
+      }
     }
   }
 }

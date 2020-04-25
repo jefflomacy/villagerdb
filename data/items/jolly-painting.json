@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 3920
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Jolly Painting"
+      }
     },
     "nh": {
       "orderable": false,
@@ -36,7 +39,20 @@
           "currency": "bells",
           "value": 4980
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Jolly Painting",
+        "en-GB": "Jolly Painting",
+        "de": "Gemüsegemälde",
+        "es": "Cuadro orgánico",
+        "fr": "Toile potagère",
+        "it": "Quadro organico",
+        "nl": "Fleurige schilderij",
+        "zh-CN": "有趣的名画",
+        "zh-TW": "有趣的名畫",
+        "jp": "おもしろいめいが",
+        "ko": "재미있는 명화"
+      }
     }
   }
 }

@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 580
         }
-      ]
+      ],
+      "name": {
+        "de": "Rasenshirt",
+        "en-GB": "Grass Tee",
+        "en-US": "Grass Tee",
+        "es": "Camiseta hierba",
+        "fr": "T-shirt herbe",
+        "it": "Maglietta erbosa",
+        "ja": "くさのふく"
+      }
     }
   }
 }

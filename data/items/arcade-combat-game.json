@@ -13,7 +13,20 @@
           "currency": "bells",
           "value": 64000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Arcade Combat Game",
+        "en-GB": "Arcade Combat Game",
+        "de": "Arcade-Ballerspiel",
+        "es": "Máquina recreativa naves",
+        "fr": "Borne d'arcade de tir",
+        "it": "Cabinato con sparatutto",
+        "nl": "Schietgame-Arcadekast",
+        "zh-CN": "街机（射击游戏）",
+        "zh-TW": "街機（射擊遊戲）",
+        "jp": "アーケードゲーム（STG）",
+        "ko": "슈팅 아케이드 게임"
+      }
     }
   },
   "category": "Furniture"

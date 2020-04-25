@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Basketballhose",
+        "en-GB": "Basketball Shorts",
+        "en-US": "Basketball Shorts",
+        "es": "Bermuda básquet",
+        "fr": "Short basketball",
+        "it": "Paio bermuda basket",
+        "ja": "バスケパンツ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -46,6 +55,19 @@
         "yellow": "Yellow",
         "light-blue": "Light blue",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Basketball Shorts",
+        "en-GB": "Basketball Shorts",
+        "de": "Basketball-Shorts",
+        "es": "Bermuda básquet",
+        "fr": "Short de basketball",
+        "it": "Pantaloncino da basket",
+        "nl": "Basketbalshort",
+        "zh-CN": "篮球裤",
+        "zh-TW": "籃球褲",
+        "jp": "バスケットパンツ",
+        "ko": "농구복 하의"
       }
     }
   }

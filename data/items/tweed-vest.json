@@ -17,6 +17,19 @@
         "green": "Green",
         "red": "Red",
         "navy-blue": "Navy blue"
+      },
+      "name": {
+        "en-US": "Tweed Vest",
+        "en-GB": "Tweed Vest",
+        "de": "Tweedweste",
+        "es": "Chaleco de tweed",
+        "fr": "Veston en tweed",
+        "it": "Gilet di tweed",
+        "nl": "Tweedgilet",
+        "zh-CN": "粗花呢背心",
+        "zh-TW": "斜紋軟呢背心",
+        "jp": "ツイードベスト",
+        "ko": "트위드 조끼"
       }
     }
   },

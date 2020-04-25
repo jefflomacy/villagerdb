@@ -20,6 +20,19 @@
       "variations": {
         "real": "Real",
         "fake": "Fake"
+      },
+      "name": {
+        "en-US": "Wild Painting Left Half",
+        "en-GB": "Wild Painting Left Half",
+        "de": "Ungestümgemälde (links)",
+        "es": "Cuadro naturaleza (izda.)",
+        "fr": "Partie g. de toile sauvage",
+        "it": "Quadro intenso (metà sx)",
+        "nl": "Onstuimige schilderij (l)",
+        "zh-CN": "粗野的名画左半边",
+        "zh-TW": "粗野的名畫左半邊",
+        "jp": "あらぶるめいがのひだり",
+        "ko": "혼란스러운 명화의 왼쪽"
       }
     }
   },

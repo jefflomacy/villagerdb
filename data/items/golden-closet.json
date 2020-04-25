@@ -15,7 +15,16 @@
       },
       "sources": [
         "Re-Tail (refurbish)"
-      ]
+      ],
+      "name": {
+        "de": "Goldschrank",
+        "en-GB": "Golden Closet",
+        "en-US": "Golden Closet",
+        "es": "Armario dorado",
+        "fr": "Armoire d'or",
+        "it": "Armadio d'oro",
+        "ja": "おうごんのクロゼット"
+      }
     }
   }
 }

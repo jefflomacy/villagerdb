@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "de": "Folklorepulli",
+        "en-GB": "Folk Shirt",
+        "en-US": "Folk Shirt",
+        "es": "Jersey folk",
+        "fr": "Pull folklorique",
+        "it": "Maglione folk",
+        "ja": "ネイティブニット"
+      }
     },
     "ac": {
       "orderable": true,
@@ -36,7 +45,10 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Folk Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -52,7 +64,10 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Folk Shirt"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -69,6 +84,19 @@
         "red": "Red",
         "brown": "Brown",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Folk Shirt",
+        "en-GB": "Folk Shirt",
+        "de": "Folklorepulli",
+        "es": "Jersey folk",
+        "fr": "Pull folklorique",
+        "it": "Maglione folk",
+        "nl": "Folkloristische trui",
+        "zh-CN": "民族风针织衫",
+        "zh-TW": "民族風針織衫",
+        "jp": "ネイティブニット",
+        "ko": "네이티브 니트"
       }
     }
   }

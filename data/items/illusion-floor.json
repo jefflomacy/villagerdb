@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Illusion Floor"
+      }
     }
   }
 }

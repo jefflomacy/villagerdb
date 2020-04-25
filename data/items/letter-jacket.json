@@ -18,6 +18,19 @@
         "red": "Red",
         "green": "Green",
         "beige": "Beige"
+      },
+      "name": {
+        "en-US": "Letter Jacket",
+        "en-GB": "Letter Jacket",
+        "de": "Collegejacke",
+        "es": "Cazadora",
+        "fr": "Veste collège",
+        "it": "Giacca college",
+        "nl": "Sportjack",
+        "zh-CN": "棒球外套",
+        "zh-TW": "棒球外套",
+        "jp": "スタジャン",
+        "ko": "점퍼"
       }
     }
   },

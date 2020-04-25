@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿得的海报",
+        "de": "Poster's von Kornelia",
+        "en-GB": "Melba's Poster",
+        "es": "Póster de Melba",
+        "fr": "Poster de Melba",
+        "it": "Poster di Melba",
+        "jp": "アデレードのポスター",
+        "ko": "아델레이드의 포스터",
+        "nl": "Poster van Melba",
+        "zh-TW": "阿得的海報",
+        "en-US": "Melba's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -20,6 +20,19 @@
       "variations": {
         "pink": "Pink",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Nail-Art Set",
+        "en-GB": "Nail-Art Set",
+        "de": "Nageldeko-Set",
+        "es": "Kit de manicura artística",
+        "fr": "Set de nail art",
+        "it": "Set per manicure",
+        "nl": "Nagellakset",
+        "zh-CN": "美甲组合",
+        "zh-TW": "美甲組合",
+        "jp": "ネイルアートセット",
+        "ko": "네일아트 세트"
       }
     }
   },

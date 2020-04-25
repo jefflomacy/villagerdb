@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Kreissäge",
+        "en-GB": "Straw Boater",
+        "en-US": "Straw Boater",
+        "es": "Canotier",
+        "fr": "Canotier",
+        "it": "Paglietta",
+        "ja": "カンカンぼう"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -45,6 +54,19 @@
         "monotone": "Monotone",
         "light-blue": "Light blue",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Straw Boater",
+        "en-GB": "Straw Boater",
+        "de": "Kreissäge",
+        "es": "Canotier",
+        "fr": "Canotier",
+        "it": "Paglietta",
+        "nl": "Gondeliershoed",
+        "zh-CN": "平顶草帽",
+        "zh-TW": "平頂草帽",
+        "jp": "カンカンぼう",
+        "ko": "캉캉 모자"
       }
     }
   }

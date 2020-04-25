@@ -7,6 +7,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1580
+      },
+      "name": {
+        "en-US": "Rose Wand",
+        "en-GB": "Rose Wand",
+        "de": "Rosenstab",
+        "es": "Varita rosa",
+        "fr": "Baguette rose",
+        "it": "Bacchetta rosa",
+        "nl": "Rozenstaf",
+        "zh-CN": "玫瑰棒",
+        "zh-TW": "玫瑰棒",
+        "jp": "バラのステッキ",
+        "ko": "장미 지팡이"
       }
     }
   },

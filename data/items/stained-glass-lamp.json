@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Buntglaslampe",
+        "en-GB": "Stained-Glass Lamp",
+        "en-US": "Stained-Glass Lamp",
+        "es": "Lámpara art nouveau",
+        "fr": "Lampe vitrail",
+        "it": "Lampada art nouveau",
+        "ja": "ステンドグラスランプ"
+      }
     }
   }
 }

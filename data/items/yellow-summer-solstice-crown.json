@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 1560
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Summer-Solstice Crown"
+      }
     }
   },
   "category": "Hats"

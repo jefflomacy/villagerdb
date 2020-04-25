@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "马丽莲的照片",
+        "de": "Foto's von Lilly",
+        "en-GB": "Claudia's Photo",
+        "es": "Foto de Lilu",
+        "fr": "Photo de Vanina",
+        "it": "Foto di Lilla",
+        "jp": "マリリンのしゃしん",
+        "ko": "신디의 사진",
+        "nl": "Foto van Claudia",
+        "zh-TW": "馬麗蓮的照片",
+        "en-US": "Claudia's Photo"
       }
     }
   },

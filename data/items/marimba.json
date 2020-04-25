@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 4300
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Marimba",
+        "en-GB": "Marimba",
+        "de": "Marimba",
+        "es": "Marimba",
+        "fr": "Marimba",
+        "it": "Marimba",
+        "nl": "Marimba",
+        "zh-CN": "马林巴木琴",
+        "zh-TW": "馬林巴木琴",
+        "jp": "マリンバ",
+        "ko": "마림바"
+      }
     }
   },
   "category": "Furniture"

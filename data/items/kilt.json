@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 600
         }
-      ]
+      ],
+      "name": {
+        "de": "Kilt",
+        "en-GB": "Kilt",
+        "en-US": "Kilt",
+        "es": "Kilt",
+        "fr": "Kilt",
+        "it": "Kilt",
+        "ja": "キルト"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -38,6 +47,19 @@
         "black": "Black",
         "navy-blue": "Navy blue",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Kilt",
+        "en-GB": "Kilt",
+        "de": "Kilt",
+        "es": "Kilt",
+        "fr": "Kilt",
+        "it": "Kilt",
+        "nl": "Kilt",
+        "zh-CN": "苏格兰裙",
+        "zh-TW": "蘇格蘭裙",
+        "jp": "キルト",
+        "ko": "킬트"
       }
     }
   }

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Ventilator",
+        "en-GB": "Fan",
+        "en-US": "Fan",
+        "es": "Ventilador",
+        "fr": "Ventilateur",
+        "it": "Ventilatore",
+        "ja": "せんぷうき"
+      }
     },
     "nh": {
       "orderable": true,
@@ -39,6 +48,19 @@
         "black": "Black",
         "light-blue": "Light blue",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Fan",
+        "en-GB": "Fan",
+        "de": "Ventilator",
+        "es": "Ventilador",
+        "fr": "Ventilateur",
+        "it": "Ventilatore",
+        "nl": "Ventilator",
+        "zh-CN": "风扇",
+        "zh-TW": "風扇",
+        "jp": "せんぷうき",
+        "ko": "선풍기"
       }
     }
   }

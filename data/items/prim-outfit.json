@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 620
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Prim Outfit"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -37,6 +40,19 @@
         "blue": "Blue",
         "gray": "Gray",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Prim Outfit",
+        "en-GB": "Prim Outfit",
+        "de": "Adrett-Kleid",
+        "es": "Vestido recatado",
+        "fr": "Ensemble soigné",
+        "it": "Completo sobrio",
+        "nl": "Keurige outfit",
+        "zh-CN": "气质套装",
+        "zh-TW": "氣質套裝",
+        "jp": "せいそなアンサンブル",
+        "ko": "청순한 원피스"
       }
     }
   }

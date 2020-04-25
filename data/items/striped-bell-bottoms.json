@@ -18,6 +18,19 @@
         "red": "Red",
         "green": "Green",
         "orange": "Orange"
+      },
+      "name": {
+        "en-US": "Striped Bell-Bottoms",
+        "en-GB": "Striped Bell-Bottoms",
+        "de": "Streifen-Glockenhose",
+        "es": "Pantalón acampanado rayas",
+        "fr": "Pattes d'eph à rayures",
+        "it": "Pantalone a zampa a righe",
+        "nl": "Gestreepte bellbottom",
+        "zh-CN": "混色条纹阔腿裤",
+        "zh-TW": "混色條紋寬褲",
+        "jp": "マルチストライプワイドパンツ",
+        "ko": "스트라이프 와이드 팬츠"
       }
     }
   },

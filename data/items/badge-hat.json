@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Klecksmütze",
+        "en-GB": "Badge Hat",
+        "en-US": "Badge Hat",
+        "es": "Gorro con chapas",
+        "fr": "Chapeau badge",
+        "it": "Berretto bianco",
+        "ja": "カンバッジのニットぼう"
+      }
     }
   }
 }

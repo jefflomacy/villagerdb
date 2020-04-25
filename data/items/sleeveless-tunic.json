@@ -20,6 +20,19 @@
         "pink": "Pink",
         "white": "White",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Sleeveless Tunic",
+        "en-GB": "Sleeveless Tunic",
+        "de": "Einfarbentunika",
+        "es": "Túnica sin mangas",
+        "fr": "Tunique sans manches",
+        "it": "Tunica senza maniche",
+        "nl": "Mouwloze tuniek",
+        "zh-CN": "长版衬衫",
+        "zh-TW": "長版襯衫",
+        "jp": "チュニックシャツ",
+        "ko": "튜닉 셔츠"
       }
     }
   },

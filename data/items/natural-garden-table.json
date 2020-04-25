@@ -17,6 +17,19 @@
         "natural": "Natural",
         "oak": "Oak",
         "shabby": "Shabby"
+      },
+      "name": {
+        "en-US": "Natural Garden Table",
+        "en-GB": "Natural Garden Table",
+        "de": "Funktional-Gartentisch",
+        "es": "Mesa de madera natural",
+        "fr": "Table de jardin naturelle",
+        "it": "Tavolo naturale da giardino",
+        "nl": "Natuurlijke tuintafel",
+        "zh-CN": "自然风花园桌",
+        "zh-TW": "自然風花園桌",
+        "jp": "ナチュラルなガーデンテーブル",
+        "ko": "내추럴 가든 테이블"
       }
     }
   },

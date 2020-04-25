@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 420
         }
-      ]
+      ],
+      "name": {
+        "de": "Ninjapulli",
+        "en-GB": "Ninja Shirt",
+        "en-US": "Ninja Shirt",
+        "es": "Jersey de ninja",
+        "fr": "Pull ninja",
+        "it": "Maglia ninja",
+        "ja": "しのびのふく"
+      }
     }
   }
 }

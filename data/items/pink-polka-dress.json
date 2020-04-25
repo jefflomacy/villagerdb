@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 620
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pink Polka Dress"
+      }
     }
   }
 }

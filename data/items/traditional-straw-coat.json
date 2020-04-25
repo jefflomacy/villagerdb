@@ -14,6 +14,19 @@
       },
       "variations": {
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Traditional Straw Coat",
+        "en-GB": "Traditional Straw Coat",
+        "de": "Strohmantel",
+        "es": "Abrigo de paja",
+        "fr": "Manteau en paille",
+        "it": "Giacca di paglia tradizionale",
+        "nl": "Traditionele strojas",
+        "zh-CN": "蓑衣",
+        "zh-TW": "蓑衣",
+        "jp": "みの",
+        "ko": "도롱이"
       }
     }
   },

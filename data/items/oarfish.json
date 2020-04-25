@@ -11,7 +11,10 @@
       },
       "sources": [
         "In the sea."
-      ]
+      ],
+      "name": {
+        "en-US": "Oarfish"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 9000
+      },
+      "name": {
+        "en-US": "Oarfish",
+        "en-GB": "Oarfish",
+        "de": "Riemenfisch",
+        "es": "Pez remo",
+        "fr": "Poisson-Ruban",
+        "it": "Pesce remo",
+        "nl": "Riemvis",
+        "zh-CN": "皇带鱼",
+        "zh-TW": "皇帶魚",
+        "jp": "リュウグウノツカイ",
+        "ko": "산갈치"
       }
     }
   }

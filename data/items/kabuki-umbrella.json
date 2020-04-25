@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1670
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Kabuki Umbrella",
+        "en-GB": "Kabuki Umbrella",
+        "de": "Kabuki-Schirm",
+        "es": "Sombrilla kabuki",
+        "fr": "Ombrelle kabuki",
+        "it": "Ombrello kabuki",
+        "nl": "Kabukiparasol",
+        "zh-CN": "歌舞伎雨伞",
+        "zh-TW": "歌舞伎雨傘",
+        "jp": "かぶきなかさ",
+        "ko": "가부키 우산"
+      }
     }
   },
   "category": "Umbrellas"

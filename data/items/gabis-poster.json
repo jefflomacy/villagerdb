@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "珮琪的海报",
+        "de": "Poster's von Gabi",
+        "en-GB": "Gabi's Poster",
+        "es": "Póster de Piluca",
+        "fr": "Poster de Gaby",
+        "it": "Poster di Gabri",
+        "jp": "ペチカのポスター",
+        "ko": "패티카의 포스터",
+        "nl": "Poster van Gabi",
+        "zh-TW": "珮琪的海報",
+        "en-US": "Gabi's Poster"
+      }
     }
   },
   "category": "Photos"

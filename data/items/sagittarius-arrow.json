@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "name": {
+        "de": "Schütze-Bogen",
+        "en-GB": "Sagittarius Arrow",
+        "en-US": "Sagittarius Arrow",
+        "es": "Arco Sagitario",
+        "fr": "Arc Sagittaire",
+        "it": "Arco Sagittario",
+        "ja": "サジタリアスのや"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -32,7 +41,20 @@
           "currency": "bells",
           "value": 87000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sagittarius Arrow",
+        "en-GB": "Sagittarius Arrow",
+        "de": "Schütze-Bogen",
+        "es": "Arco Sagitario",
+        "fr": "Arc Sagittaire",
+        "it": "Arco Sagittario",
+        "nl": "Boogschutter-Pijl",
+        "zh-CN": "射手座箭矢",
+        "zh-TW": "射手座箭矢",
+        "jp": "サジタリアスのや",
+        "ko": "사수자리 활"
+      }
     }
   }
 }

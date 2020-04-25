@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Wasserspiel",
+        "en-GB": "Deer Scare",
+        "en-US": "Deer Scare",
+        "es": "Fuente de bambú",
+        "fr": "Jeu d'eau",
+        "it": "Fontana bambù",
+        "ja": "ししおどし"
+      }
     },
     "nh": {
       "orderable": false,
@@ -40,6 +49,19 @@
         "green-bamboo": "Green bamboo",
         "dried-bamboo": "Dried bamboo",
         "smoke-cured-bamboo": "Smoke-cured bamboo"
+      },
+      "name": {
+        "en-US": "Deer Scare",
+        "en-GB": "Deer Scare",
+        "de": "Wasserspiel",
+        "es": "Fuente de bambú",
+        "fr": "Jeu d'eau",
+        "it": "Fontana di bambù",
+        "nl": "Waterspeelgoed",
+        "zh-CN": "竹流水造景",
+        "zh-TW": "竹流水造景",
+        "jp": "ししおどし",
+        "ko": "대나무 분수"
       }
     }
   }

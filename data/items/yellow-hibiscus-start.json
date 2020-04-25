@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow-Hibiscus Start",
+        "en-GB": "Yellow-Hibiscus Start",
+        "de": "Sommerhibiskussetzling",
+        "es": "Hibisco amarillo de vivero",
+        "fr": "Pousse d'hibiscus jaune",
+        "it": "Germoglio di ibisco giallo",
+        "nl": "Gele-Hibiscus-Zaailing",
+        "zh-CN": "黄色扶桑花苗",
+        "zh-TW": "黃色扶桑花苗",
+        "jp": "きいろいハイビスカスのなえ",
+        "ko": "노란 히비스커스 묘목"
+      }
     }
   },
   "category": "Bushes"

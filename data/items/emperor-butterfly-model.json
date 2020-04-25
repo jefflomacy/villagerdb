@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 12000
+      },
+      "name": {
+        "en-US": "Emperor Butterfly Model",
+        "en-GB": "Emperor Butterfly Model",
+        "de": "Himmelsfaltermodell",
+        "es": "Figura de mariposa celeste",
+        "fr": "Modèle de morpho bleu",
+        "it": "Replica di farfalla morfo blu",
+        "nl": "Model-Blauwe-Morpho",
+        "zh-CN": "大蓝闪蝶模型",
+        "zh-TW": "大藍閃蝶模型",
+        "jp": "モルフォチョウのもけい",
+        "ko": "몰포나비 모형"
       }
     }
   },

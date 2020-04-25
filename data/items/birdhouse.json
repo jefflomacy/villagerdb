@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1620
         }
-      ]
+      ],
+      "name": {
+        "de": "Vogelhaus",
+        "en-GB": "Birdhouse",
+        "en-US": "Birdhouse",
+        "es": "Casita pájaros",
+        "fr": "Abri à oiseaux",
+        "it": "Casetta uccelli",
+        "ja": "すばこ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -41,6 +50,19 @@
         "red-white": "Red & white",
         "blue": "Blue",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Birdhouse",
+        "en-GB": "Birdhouse",
+        "de": "Vogelhaus",
+        "es": "Casita para pájaros",
+        "fr": "Abri à oiseau",
+        "it": "Casetta per uccelli",
+        "nl": "Vogelhuis",
+        "zh-CN": "鸟巢屋",
+        "zh-TW": "鳥巢屋",
+        "jp": "すばこ",
+        "ko": "새집"
       }
     }
   }

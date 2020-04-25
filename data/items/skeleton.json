@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 3360
         }
-      ]
+      ],
+      "name": {
+        "de": "Skelett",
+        "en-GB": "Skeleton",
+        "en-US": "Skeleton",
+        "es": "Modelo esqueleto",
+        "fr": "Squelette",
+        "it": "Scheletro",
+        "ja": "こっかくひょうほん"
+      }
     },
     "nh": {
       "orderable": true,
@@ -38,7 +47,20 @@
           "currency": "bells",
           "value": 3900
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Skeleton",
+        "en-GB": "Skeleton",
+        "de": "Skelett",
+        "es": "Modelo de esqueleto",
+        "fr": "Squelette",
+        "it": "Scheletro",
+        "nl": "Skelet",
+        "zh-CN": "骨骼标本",
+        "zh-TW": "骨骼標本",
+        "jp": "こっかくひょうほん",
+        "ko": "해골 모형"
+      }
     }
   }
 }

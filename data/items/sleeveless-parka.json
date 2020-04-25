@@ -19,6 +19,19 @@
         "pink": "Pink",
         "purple": "Purple",
         "orange": "Orange"
+      },
+      "name": {
+        "en-US": "Sleeveless Parka",
+        "en-GB": "Sleeveless Parka",
+        "de": "Kapuzenweste",
+        "es": "Sudadera sin mangas",
+        "fr": "Parka sans manches",
+        "it": "Felpa senza maniche",
+        "nl": "Mouwloze jas",
+        "zh-CN": "无袖连帽上衣",
+        "zh-TW": "無袖連帽上衣",
+        "jp": "ノースリーブパーカー",
+        "ko": "민소매 파카"
       }
     }
   },

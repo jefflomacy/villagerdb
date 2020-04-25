@@ -25,6 +25,19 @@
         "purple": "Purple",
         "green": "Green",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Rocket Lamp",
+        "en-GB": "Rocket Lamp",
+        "de": "Lavalampe",
+        "es": "Lámpara de lava",
+        "fr": "Lampe à lave",
+        "it": "Lampada lava",
+        "nl": "Lavalamp",
+        "zh-CN": "熔岩灯",
+        "zh-TW": "熔岩燈",
+        "jp": "スライムランプ",
+        "ko": "슬라임 램프"
       }
     }
   },

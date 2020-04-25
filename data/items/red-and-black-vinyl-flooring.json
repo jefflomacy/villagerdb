@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1150
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red-And-Black Vinyl Flooring",
+        "en-GB": "Red-And-Black Vinyl Flooring",
+        "de": "Rot-Schwarz-Imbissboden",
+        "es": "Losa comedor roja y negra",
+        "fr": "Sol dalles PVC rouge/noir",
+        "it": "Pavimento vinile rossonero",
+        "nl": "Zwart-Rode vinylvloer",
+        "zh-CN": "红黑色塑胶砖地板",
+        "zh-TW": "紅黑色塑膠磚地板",
+        "jp": "あかくろピータイル",
+        "ko": "적흑 데코타일 바닥"
+      }
     }
   },
   "category": "Flooring"

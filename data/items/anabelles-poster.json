@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "有美的海报",
+        "de": "Poster's von Annabell",
+        "en-GB": "Anabelle's Poster",
+        "es": "Póster de Anabel",
+        "fr": "Poster d'anabelle",
+        "it": "Poster di Annalisa",
+        "jp": "あるみのポスター",
+        "ko": "아롱이의 포스터",
+        "nl": "Poster van Anabelle",
+        "zh-TW": "有美的海報",
+        "en-US": "Anabelle's Poster"
+      }
     }
   },
   "category": "Photos"

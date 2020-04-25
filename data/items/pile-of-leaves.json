@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Laubhaufen",
+        "en-GB": "Pile Of Leaves",
+        "en-US": "Pile Of Leaves",
+        "es": "Montón de hojas",
+        "fr": "Tas de feuilles",
+        "it": "Mucchio foglie",
+        "ja": "おちば"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -39,7 +48,20 @@
           "currency": "bells",
           "value": 5200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pile Of Leaves",
+        "en-GB": "Pile Of Leaves",
+        "de": "Laubhaufen",
+        "es": "Montón de hojas",
+        "fr": "Tas de feuilles",
+        "it": "Mucchio di foglie",
+        "nl": "Berg bladeren",
+        "zh-CN": "落叶",
+        "zh-TW": "落葉",
+        "jp": "おちば",
+        "ko": "낙엽"
+      }
     }
   }
 }

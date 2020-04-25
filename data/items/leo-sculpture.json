@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "name": {
+        "de": "Löwe-Wandschmuck",
+        "en-GB": "Leo Sculpture",
+        "en-US": "Leo Sculpture",
+        "es": "Escultura Leo",
+        "fr": "Sculpture Lion",
+        "it": "Scultura Leone",
+        "ja": "レオのちょうこく"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -32,7 +41,20 @@
           "currency": "bells",
           "value": 87900
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Leo Sculpture",
+        "en-GB": "Leo Sculpture",
+        "de": "Löwe-Wandschmuck",
+        "es": "Escultura Leo",
+        "fr": "Sculpture Lion",
+        "it": "Scultura Leone",
+        "nl": "Leeuw-Beeld",
+        "zh-CN": "狮子座雕塑",
+        "zh-TW": "獅子座雕塑",
+        "jp": "レオのちょうこく",
+        "ko": "사자자리 벽걸이 장식"
+      }
     }
   }
 }

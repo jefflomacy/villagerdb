@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1780
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pink Flower-Print Wall",
+        "en-GB": "Pink Flower-Print Wall",
+        "de": "Pink-Blumentapete",
+        "es": "Pared floral salmón",
+        "fr": "Mur à fleurs rose",
+        "it": "Muro stampa floreale rosa",
+        "nl": "Roze bloemenwand",
+        "zh-CN": "粉红色花纹壁纸",
+        "zh-TW": "粉紅色花紋壁紙",
+        "jp": "ピンクのはながらのかべがみ",
+        "ko": "핑크 꽃무늬 벽지"
+      }
     }
   },
   "category": "Wallpaper"

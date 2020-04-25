@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1100
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Dotted Wall",
+        "en-GB": "Red Dotted Wall",
+        "de": "Rot-Pünktchentapete",
+        "es": "Pared topos roja",
+        "fr": "Mur à pois rouge",
+        "it": "Muro a pois rosso",
+        "nl": "Rode stippenwand",
+        "zh-CN": "红色点点壁纸",
+        "zh-TW": "紅色圓點壁紙",
+        "jp": "レッドドットのかべがみ",
+        "ko": "레드 도트 벽지"
+      }
     }
   },
   "category": "Wallpaper"

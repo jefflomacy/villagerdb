@@ -17,7 +17,20 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White Mums",
+        "en-GB": "White Mums",
+        "de": "Weißchrysantheme",
+        "es": "Crisantemo blanco",
+        "fr": "Chrysanthème blanc",
+        "it": "Crisantemo bianco",
+        "nl": "Witte chrysant",
+        "zh-CN": "白色菊花",
+        "zh-TW": "白色菊花",
+        "jp": "しろいキク",
+        "ko": "하얀 국화"
+      }
     }
   },
   "category": "Flowers"

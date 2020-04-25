@@ -24,7 +24,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Etagenbett",
+        "en-GB": "Bunk Bed",
+        "en-US": "Bunk Bed",
+        "es": "Litera",
+        "fr": "Lit superposé",
+        "it": "Letto a castello",
+        "ja": "にだんベッド"
+      }
     },
     "nh": {
       "orderable": true,
@@ -77,6 +86,19 @@
         "pink-checkered": "Pink / Checkered",
         "pink-space": "Pink / Space",
         "pink-colorful-lines": "Pink / Colorful lines"
+      },
+      "name": {
+        "en-US": "Bunk Bed",
+        "en-GB": "Bunk Bed",
+        "de": "Etagenbett",
+        "es": "Litera",
+        "fr": "Lit superposé",
+        "it": "Letto a castello",
+        "nl": "Stapelbed",
+        "zh-CN": "上下铺",
+        "zh-TW": "上下鋪",
+        "jp": "にだんベッド",
+        "ko": "2층 침대"
       }
     }
   }

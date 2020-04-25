@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "然然的海报",
+        "de": "Poster's von Gerd",
+        "en-GB": "Leif's Poster",
+        "es": "Póster de Gandulio",
+        "fr": "Poster de Racine",
+        "it": "Poster di Florindo",
+        "jp": "レイジのポスター",
+        "ko": "늘봉의 포스터",
+        "nl": "Poster van Leif",
+        "zh-TW": "然然的海報",
+        "en-US": "Leif's Poster"
+      }
     }
   },
   "category": "Photos"

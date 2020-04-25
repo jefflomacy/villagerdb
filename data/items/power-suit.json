@@ -18,6 +18,19 @@
         "blue": "Blue",
         "green": "Green",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Power Suit",
+        "en-GB": "Power Suit",
+        "de": "Power-Anzug",
+        "es": "Traje de energía",
+        "fr": "Armure de puissance",
+        "it": "Tuta potenziata",
+        "nl": "Superkrachtpak",
+        "zh-CN": "动力装",
+        "zh-TW": "動力裝",
+        "jp": "パワードスーツ",
+        "ko": "파워 슈트"
       }
     }
   },

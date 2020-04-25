@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Pünktchenbett",
+        "en-GB": "Polka-Dot Bed",
+        "en-US": "Polka-Dot Bed",
+        "es": "Cama topos",
+        "fr": "Lit à pois rouge",
+        "it": "Letto pois",
+        "ja": "みずたまなベッド"
+      }
     }
   }
 }

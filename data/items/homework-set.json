@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Hausaufgaben-Set",
+        "en-GB": "Homework Set",
+        "en-US": "Homework Set",
+        "es": "Lote libros colegio",
+        "fr": "Lot livres scolaires",
+        "it": "Set per i compiti",
+        "ja": "おべんきょうセット"
+      }
     },
     "nh": {
       "orderable": true,
@@ -40,7 +49,20 @@
           "currency": "bells",
           "value": 330
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Homework Set",
+        "en-GB": "Homework Set",
+        "de": "Hausaufgaben-Set",
+        "es": "Lote libros de colegio",
+        "fr": "Lot livres scolaires",
+        "it": "Set per i compiti",
+        "nl": "Studiemateriaal",
+        "zh-CN": "作业文具组合",
+        "zh-TW": "作業文具組合",
+        "jp": "おべんきょうセット",
+        "ko": "공부 세트"
+      }
     }
   }
 }

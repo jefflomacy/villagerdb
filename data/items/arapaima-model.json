@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 30000
+      },
+      "name": {
+        "en-US": "Arapaima Model",
+        "en-GB": "Arapaima Model",
+        "de": "Arapaimamodell",
+        "es": "Figura de pirarucú",
+        "fr": "Modèle d'arapaïma",
+        "it": "Replica di pirarucù",
+        "nl": "Modelarapaima",
+        "zh-CN": "巨骨舌鱼模型",
+        "zh-TW": "巨骨舌魚模型",
+        "jp": "ピラルクのもけい",
+        "ko": "피라루쿠 모형"
       }
     }
   },

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "熊大叔的照片",
+        "de": "Foto's von Berthold",
+        "en-GB": "Beardo's Photo",
+        "es": "Foto de Bernabé",
+        "fr": "Photo d'eustache",
+        "it": "Foto di Barnaba",
+        "jp": "ベアードのしゃしん",
+        "ko": "베어드의 사진",
+        "nl": "Foto van Beardo",
+        "zh-TW": "熊大叔的照片",
+        "en-US": "Beardo's Photo"
       }
     }
   },

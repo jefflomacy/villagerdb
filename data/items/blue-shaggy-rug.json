@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Shaggy Rug",
+        "en-GB": "Blue Shaggy Rug",
+        "de": "Blau-Zottelteppich",
+        "es": "Alfombra pelusilla azul",
+        "fr": "Tapis à poil long bleu",
+        "it": "Tappeto peloso blu",
+        "nl": "Blauwe harige tapijt",
+        "zh-CN": "蓝色长绒地毯",
+        "zh-TW": "藍色長毛地毯",
+        "jp": "あおいシャギーなラグ",
+        "ko": "파란 복슬복슬 러그"
+      }
     }
   },
   "category": "Flooring"

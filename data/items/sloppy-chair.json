@@ -16,7 +16,16 @@
       },
       "sources": [
         "Re-Tail (flea market) or Police Station (lost and found)"
-      ]
+      ],
+      "name": {
+        "de": "Schlamperstuhl",
+        "en-GB": "Sloppy Chair",
+        "en-US": "Sloppy Chair",
+        "es": "Silla desorden",
+        "fr": "Chaise négligée",
+        "it": "Sedia trasandata",
+        "ja": "だらしないイス"
+      }
     }
   }
 }

@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "name": {
+        "de": "Glockenhut",
+        "en-GB": "Cloche Hat",
+        "en-US": "Cloche Hat",
+        "es": "Sombrero cloché",
+        "fr": "Chapeau cloche",
+        "it": "Cappello cloche",
+        "ja": "クロッシュ"
+      }
     }
   }
 }

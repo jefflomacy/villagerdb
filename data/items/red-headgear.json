@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "de": "Rotboxerhelm",
+        "en-GB": "Red Headgear",
+        "en-US": "Red Headgear",
+        "es": "Protector rojo",
+        "fr": "Casque de boxe rouge",
+        "it": "Casco da boxe rosso",
+        "ja": "あかいヘッドギア"
+      }
     }
   }
 }

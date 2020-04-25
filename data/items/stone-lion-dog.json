@@ -16,6 +16,19 @@
         "natural": "Natural",
         "white": "White",
         "mossy": "Mossy"
+      },
+      "name": {
+        "en-US": "Stone Lion-Dog",
+        "en-GB": "Stone Lion-Dog",
+        "de": "Steinlöwe",
+        "es": "Estatua de león guardián",
+        "fr": "Statue de lion gardien",
+        "it": "Leone da guardia di pietra",
+        "nl": "Stenen leeuw",
+        "zh-CN": "石狮子",
+        "zh-TW": "石獅子",
+        "jp": "せきしし",
+        "ko": "돌로 만든 사자상"
       }
     }
   },

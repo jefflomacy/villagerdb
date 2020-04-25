@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 25
         }
-      ]
+      ],
+      "name": {
+        "de": "Deko-Rettungsring",
+        "en-GB": "Life Preserver",
+        "en-US": "Life Preserver",
+        "es": "Flotador salvavidas",
+        "fr": "Bouée",
+        "it": "Salvagente a strisce",
+        "ja": "かべかけのうきわ"
+      }
     }
   }
 }

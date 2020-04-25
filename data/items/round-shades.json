@@ -22,6 +22,19 @@
         "red": "Red",
         "white": "White",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Round Shades",
+        "en-GB": "Round Shades",
+        "de": "Rundsonnenbrille",
+        "es": "Gafa de sol redonda",
+        "fr": "Monture solaire ronde",
+        "it": "Montatura con lenti scure",
+        "nl": "Ronde zonnebril",
+        "zh-CN": "波士顿框眼镜",
+        "zh-TW": "波士頓框眼鏡",
+        "jp": "ボストンめがね",
+        "ko": "둥근 선글라스"
       }
     }
   },

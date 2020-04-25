@@ -17,7 +17,20 @@
           "currency": "bells",
           "value": 160
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Roses",
+        "en-GB": "Red Roses",
+        "de": "Liebesrosen",
+        "es": "Rosas rojas",
+        "fr": "Roses rouges",
+        "it": "Rose rosse",
+        "nl": "Rode rozen",
+        "zh-CN": "红色玫瑰",
+        "zh-TW": "紅色玫瑰",
+        "jp": "あかいバラ",
+        "ko": "빨간 장미"
+      }
     }
   },
   "category": "Flowers"

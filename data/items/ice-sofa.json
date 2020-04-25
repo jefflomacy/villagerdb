@@ -15,7 +15,16 @@
       },
       "sources": [
         "Snowmam"
-      ]
+      ],
+      "name": {
+        "de": "Eissofa",
+        "en-GB": "Ice Sofa",
+        "en-US": "Ice Sofa",
+        "es": "Sofá hielo",
+        "fr": "Canapé glace",
+        "it": "Sofà ghiaccio",
+        "ja": "アイスなソファ"
+      }
     }
   }
 }

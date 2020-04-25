@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Giant Snakehead"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5500
+      },
+      "name": {
+        "en-US": "Giant Snakehead",
+        "en-GB": "Giant Snakehead",
+        "de": "Schlangenkopf",
+        "es": "Pez cabeza de serpiente",
+        "fr": "Tête-De-Serpent",
+        "it": "Pesce serpente",
+        "nl": "Rode slangenkopvis",
+        "zh-CN": "黑鱼",
+        "zh-TW": "鱧魚",
+        "jp": "ライギョ",
+        "ko": "가물치"
       }
     }
   }

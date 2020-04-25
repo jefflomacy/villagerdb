@@ -25,7 +25,16 @@
           "currency": "bells",
           "value": 300
         }
-      ]
+      ],
+      "name": {
+        "de": "Arztkittel",
+        "en-GB": "Doctor's Coat",
+        "en-US": "Doctor's Coat",
+        "es": "Bata de doctor",
+        "fr": "Blouse de docteur",
+        "it": "Giacca medico",
+        "ja": "はくい"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -41,6 +50,19 @@
       "variations": {
         "red-necktie": "Red necktie",
         "black-necktie": "Black necktie"
+      },
+      "name": {
+        "en-US": "Doctor's Coat",
+        "en-GB": "Doctor's Coat",
+        "de": "Arztkittel",
+        "es": "Bata médica",
+        "fr": "Blouse de docteur",
+        "it": "Camice da medico",
+        "nl": "Doktersjas",
+        "zh-CN": "医生袍",
+        "zh-TW": "醫生袍",
+        "jp": "はくい",
+        "ko": "백의"
       }
     }
   }

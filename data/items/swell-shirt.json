@@ -23,19 +23,34 @@
           "currency": "bells",
           "value": 400
         }
-      ]
+      ],
+      "name": {
+        "de": "70er-Pulli",
+        "en-GB": "Swell Shirt",
+        "en-US": "Swell Shirt",
+        "es": "Jersey de tarde",
+        "fr": "Pull chouette",
+        "it": "Maglia arlecchino",
+        "ja": "ブラウンタイルなふくL"
+      }
     },
     "ac": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ]
+      ],
+      "name": {
+        "en-US": "Swell Shirt"
+      }
     },
     "afe+": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ]
+      ],
+      "name": {
+        "en-US": "Swell Shirt"
+      }
     }
   }
 }

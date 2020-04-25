@@ -18,6 +18,19 @@
         "pink": "Pink",
         "blue": "Blue",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Climbing Wall",
+        "en-GB": "Climbing Wall",
+        "de": "Kletterwand",
+        "es": "Pared de escalada",
+        "fr": "Mur d'escalade",
+        "it": "Parete da arrampicata",
+        "nl": "Klimmuur",
+        "zh-CN": "攀岩墙",
+        "zh-TW": "攀岩牆",
+        "jp": "クライミングウォール",
+        "ko": "클라이밍 월"
       }
     }
   },

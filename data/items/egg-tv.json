@@ -15,7 +15,16 @@
       },
       "sources": [
         "Zipper T. Bunny (Bunny Day)"
-      ]
+      ],
+      "name": {
+        "de": "Eierfernseher",
+        "en-GB": "Egg TV",
+        "en-US": "Egg TV",
+        "es": "Tele huevo",
+        "fr": "Télé \\u0153uf",
+        "it": "TV uovo",
+        "ja": "たまごのかべかけテレビ"
+      }
     }
   }
 }

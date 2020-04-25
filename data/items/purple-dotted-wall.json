@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1100
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Purple Dotted Wall",
+        "en-GB": "Purple Dotted Wall",
+        "de": "Lila-Pünktchentapete",
+        "es": "Pared topos violeta",
+        "fr": "Mur à pois mauve",
+        "it": "Muro a pois rosa",
+        "nl": "Paarse stippenwand",
+        "zh-CN": "紫色点点壁纸",
+        "zh-TW": "紫色圓點壁紙",
+        "jp": "パープルドットのかべがみ",
+        "ko": "퍼플 도트 벽지"
+      }
     }
   },
   "category": "Wallpaper"

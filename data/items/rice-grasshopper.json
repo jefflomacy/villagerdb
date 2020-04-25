@@ -11,7 +11,10 @@
       },
       "sources": [
         "In grassy patches."
-      ]
+      ],
+      "name": {
+        "en-US": "Rice Grasshopper"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 400
+      },
+      "name": {
+        "en-US": "Rice Grasshopper",
+        "en-GB": "Rice Grasshopper",
+        "de": "Heuschrecke",
+        "es": "Langosta",
+        "fr": "Criquet",
+        "it": "Locusta",
+        "nl": "Rijstsprinkhaan",
+        "zh-CN": "稻蝗",
+        "zh-TW": "稻蝗",
+        "jp": "イナゴ",
+        "ko": "메뚜기"
       }
     }
   }

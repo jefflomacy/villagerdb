@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 1800
         }
-      ]
+      ],
+      "name": {
+        "de": "Robo-Lampe",
+        "en-GB": "Robo-Lamp",
+        "en-US": "Robo-Lamp",
+        "es": "Robolámpara",
+        "fr": "Lampe robot",
+        "it": "Robo-lampada",
+        "ja": "ロボランプ"
+      }
     }
   }
 }

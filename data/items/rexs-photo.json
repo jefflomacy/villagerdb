@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "晴天的照片",
+        "de": "Foto's von Rex",
+        "en-GB": "Rex's Photo",
+        "es": "Foto de Leoncio",
+        "fr": "Photo de Léo",
+        "it": "Foto di Rex",
+        "jp": "サンデーのしゃしん",
+        "ko": "렉스의 사진",
+        "nl": "Foto van Rex",
+        "zh-TW": "晴天的照片",
+        "en-US": "Rex's Photo"
       }
     }
   },

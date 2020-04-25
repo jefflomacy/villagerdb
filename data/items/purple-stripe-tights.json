@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 200
         }
-      ]
+      ],
+      "name": {
+        "de": "Ringelstrumpfhose",
+        "en-GB": "Purple-Stripe Tights",
+        "en-US": "Purple-Stripe Tights",
+        "es": "Media rayas lilas",
+        "fr": "Collant rayé",
+        "it": "Paio calze strisce",
+        "ja": "ボーダータイツ"
+      }
     }
   }
 }

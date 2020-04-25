@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Black-Design Kitchen Mat",
+        "en-GB": "Black-Design Kitchen Mat",
+        "de": "Schwarzmuster-Matte",
+        "es": "Alfombra étnica negra",
+        "fr": "Tapis cuisine à motifs noir",
+        "it": "Tappeto cucina design nero",
+        "nl": "Zwarte designkeukenmat",
+        "zh-CN": "黑色图案厨房地垫",
+        "zh-TW": "黑色圖案廚房地墊",
+        "jp": "くろいパターンキッチンマット",
+        "ko": "검정 패턴 키친 매트"
+      }
     }
   },
   "category": "Flooring"

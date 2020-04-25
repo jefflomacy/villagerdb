@@ -24,7 +24,10 @@
           "currency": "bells",
           "value": 240
         }
-      ]
+      ],
+      "name": {
+        "en-US": "3D Glasses"
+      }
     },
     "nh": {
       "orderable": true,
@@ -41,6 +44,19 @@
       "variations": {
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "3D Glasses",
+        "en-GB": "3D Glasses",
+        "de": "3D-Brille",
+        "es": "Gafa 3D",
+        "fr": "Monture 3D",
+        "it": "Paio di occhiali 3D",
+        "nl": "3D-Bril",
+        "zh-CN": "3D眼镜",
+        "zh-TW": "3D眼鏡",
+        "jp": "3Dめがね",
+        "ko": "3D안경"
       }
     }
   }

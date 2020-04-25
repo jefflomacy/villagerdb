@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "雪花的海报",
+        "de": "Poster's von Wolli",
+        "en-GB": "Wendy's Poster",
+        "es": "Póster de Franela",
+        "fr": "Poster de Karen",
+        "it": "Poster di Agnola",
+        "jp": "みぞれのポスター",
+        "ko": "눈송이의 포스터",
+        "nl": "Poster van Wendy",
+        "zh-TW": "雪花的海報",
+        "en-US": "Wendy's Poster"
+      }
     }
   },
   "category": "Photos"

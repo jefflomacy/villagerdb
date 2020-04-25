@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "古烈的照片",
+        "de": "Foto's von Ede",
+        "en-GB": "Rasher's Photo",
+        "es": "Foto de Curtis",
+        "fr": "Photo de Salami",
+        "it": "Foto di Broncio",
+        "jp": "グレオのしゃしん",
+        "ko": "글레이의 사진",
+        "nl": "Foto van Rasher",
+        "zh-TW": "古烈的照片",
+        "en-US": "Rasher's Photo"
       }
     }
   },

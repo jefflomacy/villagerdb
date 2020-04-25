@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Pachysaurus-Schwanz",
+        "en-GB": "Pachysaurus Tail",
+        "en-US": "Pachy Tail",
+        "es": "Cola paquicefa",
+        "fr": "Queue de pachycéphal",
+        "it": "Coda pachicefalos.",
+        "ja": "パキケファロのしっぽ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3500
+      },
+      "name": {
+        "en-US": "Pachy Tail",
+        "en-GB": "Pachysaurus Tail",
+        "de": "Pachysaurus-Hinterteil",
+        "es": "Cola paquicefalosaurio",
+        "fr": "Queue de pachycéphal",
+        "it": "Coda pachicefalosauro",
+        "nl": "Pachycephalosaurusstaart",
+        "zh-CN": "厚头龙的身体",
+        "zh-TW": "厚頭龍的身體",
+        "jp": "パキケファロのからだ",
+        "ko": "파키케팔로사우루스의 몸통"
       }
     }
   }

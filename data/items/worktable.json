@@ -28,7 +28,10 @@
           "currency": "meow",
           "value": 5
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Worktable"
+      }
     }
   }
 }

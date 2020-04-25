@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sporty Shades"
+      }
     },
     "nh": {
       "orderable": true,
@@ -43,6 +46,19 @@
         "pink": "Pink",
         "lime": "Lime",
         "light-blue": "Light blue"
+      },
+      "name": {
+        "en-US": "Sporty Shades",
+        "en-GB": "Sporty Shades",
+        "de": "Sportbrille",
+        "es": "Gafa de sol esquí",
+        "fr": "Monture sport",
+        "it": "Montatura sportiva",
+        "nl": "Sportieve zonnebril",
+        "zh-CN": "运动墨镜",
+        "zh-TW": "運動墨鏡",
+        "jp": "スポーツサングラス",
+        "ko": "스포츠 선글라스"
       }
     }
   }

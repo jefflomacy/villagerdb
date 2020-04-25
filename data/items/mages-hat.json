@@ -18,6 +18,19 @@
         "blue": "Blue",
         "white": "White",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Mage's Hat",
+        "en-GB": "Mage's Hat",
+        "de": "Hexenhut",
+        "es": "Sombrero de hechicería",
+        "fr": "Chapeau de sorcellerie",
+        "it": "Cappello da strega",
+        "nl": "Heksenhoed",
+        "zh-CN": "魔女帽",
+        "zh-TW": "魔女帽",
+        "jp": "まじょのぼうし",
+        "ko": "마술사 모자"
       }
     }
   },

@@ -19,6 +19,19 @@
         "green": "Green",
         "red": "Red",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Prince's Tunic",
+        "en-GB": "Prince's Tunic",
+        "de": "Prinzen-Tunika",
+        "es": "Capa de príncipe",
+        "fr": "Tunique de prince charmant",
+        "it": "Tunica da principe",
+        "nl": "Koninklijke tuniek",
+        "zh-CN": "王子服",
+        "zh-TW": "王子服",
+        "jp": "プリンスなふく",
+        "ko": "프린스 옷"
       }
     }
   },

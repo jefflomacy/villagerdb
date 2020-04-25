@@ -28,7 +28,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Western-Teetisch",
+        "en-GB": "Ranch Tea Table",
+        "en-US": "Ranch Tea Table",
+        "es": "Mesita rústica",
+        "fr": "Table basse ranch",
+        "it": "Tavolino country",
+        "ja": "カントリーなつくえ"
+      }
     }
   }
 }

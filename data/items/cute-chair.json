@@ -19,6 +19,19 @@
         "yellow": "Yellow",
         "red": "Red",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Cute Chair",
+        "en-GB": "Cute Chair",
+        "de": "Bonbon-Stuhl",
+        "es": "Silla cuqui",
+        "fr": "Chaise mimi",
+        "it": "Sedia graziosa",
+        "nl": "Schattige stoel",
+        "zh-CN": "可爱椅",
+        "zh-TW": "可愛椅",
+        "jp": "キュートなチェア",
+        "ko": "큐트 체어"
       }
     }
   },

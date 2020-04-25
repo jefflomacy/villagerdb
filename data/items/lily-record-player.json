@@ -15,7 +15,16 @@
       },
       "sources": [
         "Leif (Weeding Day -- The Town Cleanup Prize)"
-      ]
+      ],
+      "name": {
+        "de": "Liliengrammofon",
+        "en-GB": "Lily Record Player",
+        "en-US": "Lily Record Player",
+        "es": "Gramófono lirio",
+        "fr": "Phonographe lys",
+        "it": "Giradischi giglio",
+        "ja": "ユリのレコードプレーヤー"
+      }
     },
     "nh": {
       "customizable": true,
@@ -38,6 +47,19 @@
         "white": "White",
         "pink": "Pink",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Lily Record Player",
+        "en-GB": "Lily Record Player",
+        "de": "Liliengrammofon",
+        "es": "Gramófono lirio",
+        "fr": "Tourne-Disque lys",
+        "it": "Giradischi giglio",
+        "nl": "Lelieplatenspeler",
+        "zh-CN": "百合唱片播放器",
+        "zh-TW": "百合唱片播放器",
+        "jp": "ユリのレコードプレーヤー",
+        "ko": "백합 레코드플레이어"
       }
     }
   }

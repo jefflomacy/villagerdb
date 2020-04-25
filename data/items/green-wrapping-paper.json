@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 40
+      },
+      "name": {
+        "zh-CN": "绿色包装纸",
+        "de": "Grün-Geschenkpapier's",
+        "en-GB": "Green Wrapping Paper",
+        "es": "Papel de regalo verde",
+        "fr": "Papiers cadeau verts",
+        "it": "Carta da regalo verde",
+        "jp": "みどりのラッピングペーパー",
+        "ko": "초록색 포장지",
+        "nl": "Groene cadeaupapier",
+        "zh-TW": "綠色包裝紙",
+        "en-US": "Green Wrapping Paper"
       }
     }
   },

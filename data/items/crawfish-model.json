@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 600
+      },
+      "name": {
+        "en-US": "Crawfish Model",
+        "en-GB": "Crawfish Model",
+        "de": "Flusskrebsmodell",
+        "es": "Figura de cangrejo de río",
+        "fr": "Modèle d'écrevisse",
+        "it": "Replica di gambero",
+        "nl": "Model-Rode-Rivierkreeft",
+        "zh-CN": "淡水龙虾模型",
+        "zh-TW": "淡水龍蝦模型",
+        "jp": "ザリガニのもけい",
+        "ko": "가재 모형"
       }
     }
   },

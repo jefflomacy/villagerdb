@@ -22,6 +22,19 @@
         "orange": "Orange",
         "red": "Red",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Denim Overalls",
+        "en-GB": "Denim Overalls",
+        "de": "Jeanslatzhose",
+        "es": "Peto tejano",
+        "fr": "Salopette en jean",
+        "it": "Salopette di jeans",
+        "nl": "Denim tuinbroek met hemd",
+        "zh-CN": "牛仔背带裤装",
+        "zh-TW": "牛仔吊帶褲",
+        "jp": "デニムのサロペット",
+        "ko": "데님 멜빵 의상"
       }
     }
   },

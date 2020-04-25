@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1680
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White Honeycomb-Tile Wall",
+        "en-GB": "White Honeycomb-Tile Wall",
+        "de": "Weiß-Wabenfliesenwand",
+        "es": "Pared panal blanca",
+        "fr": "Mur carrelage blanc",
+        "it": "Muro esagoni bianco",
+        "nl": "Witte bijenraattegelwand",
+        "zh-CN": "白色六角砖墙",
+        "zh-TW": "白色六角磚牆",
+        "jp": "しろいハニカムタイルのかべ",
+        "ko": "하얀 육각 타일 벽"
+      }
     }
   },
   "category": "Wallpaper"

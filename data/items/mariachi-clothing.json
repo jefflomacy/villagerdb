@@ -20,6 +20,19 @@
         "red": "Red",
         "blue": "Blue",
         "orange": "Orange"
+      },
+      "name": {
+        "en-US": "Mariachi Clothing",
+        "en-GB": "Mariachi Clothing",
+        "de": "Mariachi-Outfit",
+        "es": "Traje de mariachi",
+        "fr": "Tenue de mariachi",
+        "it": "Completo da mariachi",
+        "nl": "Mariachipak",
+        "zh-CN": "墨西哥街头乐队装",
+        "zh-TW": "墨西哥街頭樂隊服裝",
+        "jp": "マリアッチのいしょう",
+        "ko": "악단 의상"
       }
     }
   },

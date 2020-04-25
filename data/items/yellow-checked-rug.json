@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Checked Rug",
+        "en-GB": "Yellow Checked Rug",
+        "de": "Gelb-Karoteppich",
+        "es": "Alfombra tartán amarilla",
+        "fr": "Tapis tartan jaune",
+        "it": "Tappeto di tartan giallo",
+        "nl": "Gele geruite quilttapijt",
+        "zh-CN": "黄色格纹布地毯",
+        "zh-TW": "黃色格紋拼布地毯",
+        "jp": "きいろいチェックキルトのラグ",
+        "ko": "노란 체크 퀼트 러그"
+      }
     }
   },
   "category": "Flooring"

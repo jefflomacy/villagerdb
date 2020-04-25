@@ -7,6 +7,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 375
+      },
+      "name": {
+        "zh-CN": "铃鼓",
+        "de": "Tamburin's",
+        "en-GB": "Tambourine",
+        "es": "Pandereta",
+        "fr": "Tambourin",
+        "it": "Tamburello",
+        "jp": "タンバリン",
+        "ko": "탬버린",
+        "nl": "Tamboerijn",
+        "zh-TW": "鈴鼓",
+        "en-US": "Tambourine"
       }
     }
   },

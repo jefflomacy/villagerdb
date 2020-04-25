@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "朱古莉的照片",
+        "de": "Foto's von Karen",
+        "en-GB": "Kitty's Photo",
+        "es": "Foto de Kasandra",
+        "fr": "Photo de Kitty",
+        "it": "Foto di Ester",
+        "jp": "ショコラのしゃしん",
+        "ko": "쇼콜라의 사진",
+        "nl": "Foto van Kitty",
+        "zh-TW": "朱古莉的照片",
+        "en-US": "Kitty's Photo"
       }
     }
   },

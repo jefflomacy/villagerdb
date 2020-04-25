@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "贾洛斯的海报",
+        "de": "Poster's von Locke",
+        "en-GB": "Curlos's Poster",
+        "es": "Póster de Carnerio",
+        "fr": "Poster de Tonton",
+        "it": "Poster di Boccolo",
+        "jp": "カルロスのポスター",
+        "ko": "카를로스의 포스터",
+        "nl": "Poster van Curlos",
+        "zh-TW": "賈洛斯的海報",
+        "en-US": "Curlos's Poster"
+      }
     }
   },
   "category": "Photos"

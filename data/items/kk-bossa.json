@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Bossa"
+      }
     },
     "nh": {
       "orderable": true,
@@ -35,7 +38,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Bossa",
+        "en-GB": "K.K. Bossa",
+        "de": "K.K. Bossa",
+        "es": "Tota-Bossa nova",
+        "fr": "Bossa de Kéké",
+        "it": "K.K. Bossa",
+        "nl": "K.K.-Bossanova",
+        "zh-CN": "K.K.巴萨诺瓦",
+        "zh-TW": "K.K.巴薩諾瓦",
+        "jp": "けけボッサ",
+        "ko": "K.K.보사노바",
+        "ru": "Босанова К. К."
+      }
     }
   }
 }

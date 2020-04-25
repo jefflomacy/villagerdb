@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿甘的海报",
+        "de": "Poster's von Karl",
+        "en-GB": "Cole's Poster",
+        "es": "Póster de Nicolás",
+        "fr": "Poster d'épicure",
+        "it": "Poster di Lello",
+        "jp": "アマミンのポスター",
+        "ko": "아마민의 포스터",
+        "nl": "Poster van Cole",
+        "zh-TW": "阿甘的海報",
+        "en-US": "Cole's Poster"
+      }
     }
   },
   "category": "Photos"

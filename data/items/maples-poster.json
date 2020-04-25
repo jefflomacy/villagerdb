@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "小枫的海报",
+        "de": "Poster's von Mona",
+        "en-GB": "Maple's Poster",
+        "es": "Póster de Dulce",
+        "fr": "Poster de Léa",
+        "it": "Poster di Dulcinea",
+        "jp": "メープルのポスター",
+        "ko": "메이첼의 포스터",
+        "nl": "Poster van Maple",
+        "zh-TW": "小楓的海報",
+        "en-US": "Maple's Poster"
+      }
     }
   },
   "category": "Photos"

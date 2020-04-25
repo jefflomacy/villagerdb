@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 2500
         }
-      ]
+      ],
+      "name": {
+        "de": "Ming-Vase",
+        "en-GB": "Blue Vase",
+        "en-US": "Blue Vase",
+        "es": "Jarrón azul",
+        "fr": "Vase bleu",
+        "it": "Vaso blu",
+        "ja": "せいじのつぼ"
+      }
     }
   }
 }

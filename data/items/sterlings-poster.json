@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "银阁的海报",
+        "de": "Poster's von Horst",
+        "en-GB": "Sterling's Poster",
+        "es": "Póster de Arni",
+        "fr": "Poster de Manfred",
+        "it": "Poster di Beccodì",
+        "jp": "ギンカクのポスター",
+        "ko": "은수리의 포스터",
+        "nl": "Poster van Sterling",
+        "zh-TW": "銀閣的海報",
+        "en-US": "Sterling's Poster"
+      }
     }
   },
   "category": "Photos"

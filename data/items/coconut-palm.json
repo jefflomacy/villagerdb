@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Kokosnusspalme",
+        "en-GB": "Coconut Palm",
+        "en-US": "Coconut Palm",
+        "es": "Cocotero",
+        "fr": "Cocotier",
+        "it": "Palma da cocco",
+        "ja": "ココヤシ"
+      }
     }
   }
 }

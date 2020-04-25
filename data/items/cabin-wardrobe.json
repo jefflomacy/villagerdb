@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2480
         }
-      ]
+      ],
+      "name": {
+        "de": "Blockhausschrank",
+        "en-GB": "Cabin Wardrobe",
+        "en-US": "Cabin Wardrobe",
+        "es": "Armario cabaña",
+        "fr": "Armoire chalet",
+        "it": "Armadio rustico",
+        "ja": "ログクロゼット"
+      }
     }
   }
 }

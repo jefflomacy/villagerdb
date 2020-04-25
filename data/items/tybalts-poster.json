@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "谷丰的海报",
+        "de": "Poster's von Arne",
+        "en-GB": "Tybalt's Poster",
+        "es": "Póster de Teobaldo",
+        "fr": "Poster de Jeff",
+        "it": "Poster di Ubaldo",
+        "jp": "ハリマオのポスター",
+        "ko": "티볼트의 포스터",
+        "nl": "Poster van Tybalt",
+        "zh-TW": "谷豐的海報",
+        "en-US": "Tybalt's Poster"
+      }
     }
   },
   "category": "Photos"

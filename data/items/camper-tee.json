@@ -15,6 +15,19 @@
       ],
       "variations": {
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Camper Tee",
+        "en-GB": "Camper Tee",
+        "de": "Camper-Shirt",
+        "es": "Camiseta de campista",
+        "fr": "T-Shirt camping-car",
+        "it": "Maglietta da camperista",
+        "nl": "Kampeer-T-Shirt",
+        "zh-CN": "露营车T恤",
+        "zh-TW": "露營者T恤",
+        "jp": "キャンパーのTシャツ",
+        "ko": "캠퍼 티셔츠"
       }
     }
   },

@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "de": "Sphinx",
+        "en-GB": "Sphinx",
+        "en-US": "Sphinx",
+        "es": "Esfinge",
+        "fr": "Sphinx",
+        "it": "Sfinge",
+        "ja": "スフィンクス"
+      }
     },
     "nh": {
       "orderable": false,
@@ -37,7 +46,20 @@
           "currency": "bells",
           "value": 8400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Sphinx",
+        "en-GB": "Sphinx",
+        "de": "Sphinx",
+        "es": "Esfinge",
+        "fr": "Sphinx",
+        "it": "Sfinge",
+        "nl": "Sfinx",
+        "zh-CN": "狮身人面像",
+        "zh-TW": "人面獅身像",
+        "jp": "スフィンクス",
+        "ko": "스핑크스"
+      }
     }
   }
 }

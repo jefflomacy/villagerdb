@@ -25,7 +25,16 @@
           "currency": "bells",
           "value": 1320
         }
-      ]
+      ],
+      "name": {
+        "de": "Kaiserhut",
+        "en-GB": "Emperor's Cap",
+        "en-US": "Emperor's Cap",
+        "es": "Gorro de emperador",
+        "fr": "Chapeau impérial",
+        "it": "Cappello imperatore",
+        "ja": "おだいりさま"
+      }
     }
   }
 }

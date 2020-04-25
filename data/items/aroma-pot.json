@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Duftlampe",
+        "en-GB": "Aroma Pot",
+        "en-US": "Aroma Pot",
+        "es": "Quemador de esencias",
+        "fr": "Brûle-parfum",
+        "it": "Brucia essenze",
+        "ja": "アロマポット"
+      }
     },
     "nh": {
       "orderable": false,
@@ -39,6 +48,19 @@
         "pink": "Pink",
         "cream": "Cream",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Aroma Pot",
+        "en-GB": "Aroma Pot",
+        "de": "Duftlampe",
+        "es": "Quemador de esencias",
+        "fr": "Brûle-Parfum",
+        "it": "Brucia essenze",
+        "nl": "Geurpot",
+        "zh-CN": "熏香台",
+        "zh-TW": "薰香台",
+        "jp": "アロマポット",
+        "ko": "아로마 포트"
       }
     }
   }

@@ -23,7 +23,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Bubblegum K.K."
+      }
     },
     "nh": {
       "orderable": true,
@@ -36,7 +39,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Bubblegum K.K.",
+        "en-GB": "Bubblegum K.K.",
+        "de": "K.K. Pop",
+        "es": "Tota-Pop",
+        "fr": "Bubblegum Kéké",
+        "it": "K.K. Bolle rosa",
+        "nl": "K.K.-Bubblegum",
+        "zh-CN": "K.K.偶像",
+        "zh-TW": "K.K.偶像",
+        "jp": "けけアイドル",
+        "ko": "K.K.아이돌",
+        "ru": "Бабблгам-Поп К. К."
+      }
     }
   }
 }

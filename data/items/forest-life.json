@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Forest Life"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -34,7 +37,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Forest Life",
+        "en-GB": "Forest Life",
+        "de": "Waldlichtung",
+        "es": "Forestal y tal",
+        "fr": "Vie de forêt",
+        "it": "Vita selvaggia",
+        "nl": "In het bos",
+        "zh-CN": "森林生活",
+        "zh-TW": "森林生活",
+        "jp": "もりのせいかつ",
+        "ko": "숲 속 생활",
+        "ru": "Лесная жизнь"
+      }
     }
   }
 }

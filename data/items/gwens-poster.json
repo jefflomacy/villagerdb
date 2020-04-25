@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "宝拉的海报",
+        "de": "Poster's von Judith",
+        "en-GB": "Gwen's Poster",
+        "es": "Póster de Fabiola",
+        "fr": "Poster de Gwen",
+        "it": "Poster di Gelinda",
+        "jp": "ポーラのポスター",
+        "ko": "폴라의 포스터",
+        "nl": "Poster van Gwen",
+        "zh-TW": "寶拉的海報",
+        "en-US": "Gwen's Poster"
+      }
     }
   },
   "category": "Photos"

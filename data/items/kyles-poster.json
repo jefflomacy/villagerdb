@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "李可的海报",
+        "de": "Poster's von Wolfgang",
+        "en-GB": "Kyle's Poster",
+        "es": "Póster de Ataúlfo",
+        "fr": "Poster de Gary",
+        "it": "Poster di Ululo",
+        "jp": "リカルドのポスター",
+        "ko": "리카르도의 포스터",
+        "nl": "Poster van Kyle",
+        "zh-TW": "李可的海報",
+        "en-US": "Kyle's Poster"
+      }
     }
   },
   "category": "Photos"

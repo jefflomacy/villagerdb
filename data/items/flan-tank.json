@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 5200
         }
-      ]
+      ],
+      "name": {
+        "de": "Puddingtop",
+        "en-GB": "Flan Tank",
+        "en-US": "Flan Tank",
+        "es": "Top flan",
+        "fr": "Débardeur flan",
+        "it": "Canotta budino",
+        "ja": "プリンなふく"
+      }
     }
   }
 }

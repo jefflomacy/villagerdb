@@ -13,7 +13,10 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Yellow Glow Wand"
+      }
     }
   }
 }

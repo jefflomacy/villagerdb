@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 1680
         }
-      ]
+      ],
+      "name": {
+        "de": "Designeranlage",
+        "en-GB": "Sleek Stereo",
+        "en-US": "Sleek Stereo",
+        "es": "Cadena tubos",
+        "fr": "Hi-fi design",
+        "it": "Stereo design",
+        "ja": "パイプなコンポ"
+      }
     }
   }
 }

@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 280
         }
-      ]
+      ],
+      "name": {
+        "de": "Kunstseidenshirt",
+        "en-GB": "Silk Bloom Tee",
+        "en-US": "Silk Bloom Tee",
+        "es": "Camiseta lilas",
+        "fr": "T-shirt en soie",
+        "it": "Maglietta tenue",
+        "ja": "はながらのゆうぜんシャツ"
+      }
     }
   }
 }

@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 360
         }
-      ]
+      ],
+      "name": {
+        "de": "Pastellshirt",
+        "en-GB": "Pastel-Stripe Tee",
+        "en-US": "Pastel-Stripe Tee",
+        "es": "Camiseta heladería",
+        "fr": "T-shirt berlingot",
+        "it": "Maglietta pastello",
+        "ja": "アメリカンなふく"
+      }
     }
   }
 }

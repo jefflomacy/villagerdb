@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "肯肯的海报",
+        "de": "Poster's von Konrad",
+        "en-GB": "Goose's Poster",
+        "es": "Póster de Gus",
+        "fr": "Poster de Pouli",
+        "it": "Poster di Chiricò",
+        "jp": "ケンタのポスター",
+        "ko": "건태의 포스터",
+        "nl": "Poster van Goose",
+        "zh-TW": "肯肯的海報",
+        "en-US": "Goose's Poster"
+      }
     }
   },
   "category": "Photos"

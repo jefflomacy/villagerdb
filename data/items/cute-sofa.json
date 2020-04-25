@@ -19,6 +19,19 @@
         "yellow": "Yellow",
         "red": "Red",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Cute Sofa",
+        "en-GB": "Cute Sofa",
+        "de": "Bonbon-Sofa",
+        "es": "Sofá cuqui",
+        "fr": "Canapé mimi",
+        "it": "Sofà grazioso",
+        "nl": "Schattige bank",
+        "zh-CN": "可爱沙发",
+        "zh-TW": "可愛沙發",
+        "jp": "キュートなソファ",
+        "ko": "큐트 소파"
       }
     }
   },

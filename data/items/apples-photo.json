@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "苹果的照片",
+        "de": "Foto's von Jessi",
+        "en-GB": "Apple's Photo",
+        "es": "Foto de Rosi",
+        "fr": "Photo d'esther",
+        "it": "Foto di Cicci",
+        "jp": "アップルのしゃしん",
+        "ko": "애플의 사진",
+        "nl": "Foto van Apple",
+        "zh-TW": "蘋果的照片",
+        "en-US": "Apple's Photo"
       }
     }
   },

@@ -30,6 +30,19 @@
         "dark-brown-blue": "Dark brown / Blue",
         "dark-brown-red": "Dark brown / Red",
         "dark-brown-yellow": "Dark brown / Yellow"
+      },
+      "name": {
+        "en-US": "Poolside Bed",
+        "en-GB": "Poolside Bed",
+        "de": "Sonnenliege",
+        "es": "Tumbona de piscina",
+        "fr": "Transat de piscine",
+        "it": "Lettino da piscina",
+        "nl": "Zwembadbed",
+        "zh-CN": "泳池躺椅",
+        "zh-TW": "泳池躺椅",
+        "jp": "プールサイドベッド",
+        "ko": "수영장 침대"
       }
     }
   },

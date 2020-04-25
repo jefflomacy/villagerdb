@@ -10,6 +10,19 @@
       },
       "recipe": {
         "apple": 6
+      },
+      "name": {
+        "en-US": "Apple Rug",
+        "en-GB": "Apple Rug",
+        "de": "Apfel-Teppich",
+        "es": "Alfombra manzana",
+        "fr": "Tapis pomme",
+        "it": "Tappeto mela",
+        "nl": "Appeltapijt",
+        "zh-CN": "苹果地毯",
+        "zh-TW": "蘋果地毯",
+        "jp": "リンゴのラグ",
+        "ko": "사과 러그"
       }
     }
   },

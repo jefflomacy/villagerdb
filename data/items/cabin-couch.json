@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2480
         }
-      ]
+      ],
+      "name": {
+        "de": "Blockhaussofa",
+        "en-GB": "Cabin Couch",
+        "en-US": "Cabin Couch",
+        "es": "Sofá cabaña",
+        "fr": "Canapé chalet",
+        "it": "Sofà rustico",
+        "ja": "ログソファL"
+      }
     }
   }
 }

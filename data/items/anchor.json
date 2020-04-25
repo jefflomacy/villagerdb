@@ -15,7 +15,16 @@
       },
       "sources": [
         "Pascal"
-      ]
+      ],
+      "name": {
+        "de": "Anker",
+        "en-GB": "Anchor",
+        "en-US": "Anchor",
+        "es": "Ancla",
+        "fr": "Ancre",
+        "it": "Ancora",
+        "ja": "いかり"
+      }
     }
   }
 }

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Simple Small Red Mat",
+        "en-GB": "Simple Small Red Mat",
+        "de": "Rot-Standardmatte S",
+        "es": "Alfombra sencilla roja P",
+        "fr": "Tapis simple rouge S",
+        "it": "Tappetino rosso S",
+        "nl": "Simpele kleine rode mat",
+        "zh-CN": "红色简约地垫S",
+        "zh-TW": "小型紅色簡約地墊",
+        "jp": "あかいシンプルマット・S",
+        "ko": "빨간 심플 매트 S"
+      }
     }
   },
   "category": "Flooring"

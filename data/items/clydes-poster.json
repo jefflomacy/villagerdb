@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "笛笛的海报",
+        "de": "Poster's von Tommi",
+        "en-GB": "Clyde's Poster",
+        "es": "Póster de Moe",
+        "fr": "Poster de Dorian",
+        "it": "Poster di Lallo",
+        "jp": "デースケのポスター",
+        "ko": "마철이의 포스터",
+        "nl": "Poster van Clyde",
+        "zh-TW": "笛笛的海報",
+        "en-US": "Clyde's Poster"
+      }
     }
   },
   "category": "Photos"

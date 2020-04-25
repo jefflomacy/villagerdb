@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pyramid Tile",
+        "en-GB": "Pyramid Tile",
+        "de": "Pyramidenboden",
+        "es": "Losa pirámide",
+        "fr": "Sol pyramide",
+        "it": "Pavimento piramide",
+        "nl": "Piramidevloer",
+        "zh-CN": "金字塔地板",
+        "zh-TW": "金字塔地板",
+        "jp": "ピラミッドのゆか",
+        "ko": "피라미드 바닥"
+      }
     }
   },
   "category": "Flooring"

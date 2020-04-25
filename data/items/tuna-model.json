@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 21000
+      },
+      "name": {
+        "en-US": "Tuna Model",
+        "en-GB": "Tuna Model",
+        "de": "Thunfischmodell",
+        "es": "Figura de atún",
+        "fr": "Modèle de thon",
+        "it": "Replica di tonno",
+        "nl": "Modeltonijn",
+        "zh-CN": "鲔鱼模型",
+        "zh-TW": "鮪魚模型",
+        "jp": "マグロのもけい",
+        "ko": "다랑어 모형"
       }
     }
   },

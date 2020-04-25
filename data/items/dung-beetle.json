@@ -11,7 +11,10 @@
       },
       "sources": [
         "Next to snowballs."
-      ]
+      ],
+      "name": {
+        "en-US": "Dung Beetle"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3000
+      },
+      "name": {
+        "en-US": "Dung Beetle",
+        "en-GB": "Dung Beetle",
+        "de": "Mistkäfer",
+        "es": "Escarabajo pelotero",
+        "fr": "Bousier",
+        "it": "Scarabeo stercorario",
+        "nl": "Mestkever",
+        "zh-CN": "蜣螂",
+        "zh-TW": "糞金龜",
+        "jp": "フンコロガシ",
+        "ko": "쇠똥구리"
       }
     }
   }

@@ -26,7 +26,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Concrete Wall"
+      }
     },
     "nh": {
       "orderable": true,
@@ -42,7 +45,20 @@
           "currency": "bells",
           "value": 940
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Concrete Wall",
+        "en-GB": "Concrete Wall",
+        "de": "Betonwand",
+        "es": "Pared cemento",
+        "fr": "Mur en béton",
+        "it": "Muro cemento",
+        "nl": "Betonwand",
+        "zh-CN": "混凝土墙",
+        "zh-TW": "混凝土牆",
+        "jp": "コンクリートのかべ",
+        "ko": "콘크리트 벽"
+      }
     }
   }
 }

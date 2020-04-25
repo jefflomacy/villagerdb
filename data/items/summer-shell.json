@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 600
+      },
+      "name": {
+        "en-US": "Summer Shell",
+        "en-GB": "Summer Shell",
+        "de": "Sommermuschel",
+        "es": "Caracola estival",
+        "fr": "Coquillage estival",
+        "it": "Conchiglia estiva",
+        "nl": "Zomerschelp",
+        "zh-CN": "夏天贝壳",
+        "zh-TW": "夏天貝殼",
+        "jp": "なつのかいがら",
+        "ko": "여름 조개껍데기"
       }
     }
   },

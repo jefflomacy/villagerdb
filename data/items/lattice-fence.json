@@ -11,6 +11,19 @@
       },
       "recipe": {
         "softwood": 8
+      },
+      "name": {
+        "en-US": "Lattice Fence",
+        "en-GB": "Lattice Fence",
+        "de": "Gitterzaun",
+        "es": "Valla celosía",
+        "fr": "Clôture en treillis standard",
+        "it": "Recinzione graticcio",
+        "nl": "Rasterhek",
+        "zh-CN": "交叉格栅",
+        "zh-TW": "交叉格柵",
+        "jp": "ラティス",
+        "ko": "격자 울타리"
       }
     }
   },

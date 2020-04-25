@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 80
+      },
+      "name": {
+        "en-US": "Pink Lilies",
+        "en-GB": "Pink Lilies",
+        "de": "Türkenbundlilie",
+        "es": "Lirio rosa",
+        "fr": "Lys rose",
+        "it": "Giglio rosa",
+        "nl": "Roze lelie",
+        "zh-CN": "粉红百合",
+        "zh-TW": "粉紅百合",
+        "jp": "ピンクのユリ",
+        "ko": "핑크색 백합"
       }
     }
   },

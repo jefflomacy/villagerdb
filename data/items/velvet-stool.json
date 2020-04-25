@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Velvet Stool",
+        "en-GB": "Velvet Stool",
+        "de": "Klavierhocker",
+        "es": "Taburete de terciopelo",
+        "fr": "Tabouret en velours",
+        "it": "Sgabello di velluto",
+        "nl": "Fluwelen kruk",
+        "zh-CN": "钢琴圆凳",
+        "zh-TW": "鋼琴圓椅",
+        "jp": "ピアノのまるいす",
+        "ko": "피아노 둥근 의자"
+      }
     }
   },
   "category": "Furniture"

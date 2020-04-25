@@ -15,6 +15,19 @@
       ],
       "variations": {
         "white": "White"
+      },
+      "name": {
+        "en-US": "Eggshell",
+        "en-GB": "Eggshell",
+        "de": "Eischalen-Hut",
+        "es": "Cáscara de huevo",
+        "fr": "Coquille d'œuf",
+        "it": "Guscio d'uovo",
+        "nl": "Eierschaal",
+        "zh-CN": "蛋壳",
+        "zh-TW": "蛋殼",
+        "jp": "たまごのから",
+        "ko": "달걀 껍질"
       }
     }
   },

@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2350
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White Iron-Parquet Flooring",
+        "en-GB": "White Iron-Parquet Flooring",
+        "de": "Weiß-Eisenboden",
+        "es": "Parqué filigrana blanca",
+        "fr": "Parquet bois et fer blanc",
+        "it": "Parquet in ferro bianco",
+        "nl": "Wit",
+        "zh-CN": "白色铸铁拼花地板",
+        "zh-TW": "白色鑄鐵拼花地板",
+        "jp": "しろいアイアンパーケットのゆか",
+        "ko": "하얀 패턴 바닥"
+      }
     }
   },
   "category": "Flooring"

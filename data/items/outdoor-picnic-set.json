@@ -11,6 +11,19 @@
       },
       "recipe": {
         "cherry-blossom-petal": 10
+      },
+      "name": {
+        "en-US": "Outdoor Picnic Set",
+        "en-GB": "Outdoor Picnic Set",
+        "de": "Picknick-Set",
+        "es": "Set de pícnic",
+        "fr": "Set de pique-nique",
+        "it": "Set da picnic ciliegio",
+        "nl": "Picknickset",
+        "zh-CN": "赏花组合",
+        "zh-TW": "賞花組合",
+        "jp": "おはなみセット",
+        "ko": "피크닉 세트"
       }
     }
   },

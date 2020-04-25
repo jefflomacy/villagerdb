@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 1200
         }
-      ]
+      ],
+      "name": {
+        "de": "Pappgras",
+        "en-GB": "Grass Standee",
+        "en-US": "Grass Standee",
+        "es": "Hierba atrezo",
+        "fr": "Herbe en carton",
+        "it": "Sagoma erba",
+        "ja": "ハリボテのくさ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -35,6 +44,19 @@
         "summer": "Summer",
         "fall": "Fall",
         "winter": "Winter"
+      },
+      "name": {
+        "en-US": "Grass Standee",
+        "en-GB": "Grass Standee",
+        "de": "Pappgras",
+        "es": "Hierba de atrezo",
+        "fr": "Herbe en carton",
+        "it": "Sagoma di erba",
+        "nl": "Decoratiegras",
+        "zh-CN": "草丛道具",
+        "zh-TW": "草叢道具",
+        "jp": "ハリボテのくさ",
+        "ko": "연극용 잔디"
       }
     }
   }

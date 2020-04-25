@@ -14,7 +14,10 @@
           "currency": "bells",
           "value": 800
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Good-Luck Roll"
+      }
     }
   }
 }

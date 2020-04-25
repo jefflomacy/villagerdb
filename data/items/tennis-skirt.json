@@ -18,6 +18,19 @@
         "navy-blue": "Navy blue",
         "light-blue": "Light blue",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Tennis Skirt",
+        "en-GB": "Tennis Skirt",
+        "de": "Tennisrock",
+        "es": "Falda tenis",
+        "fr": "Jupe de tennis",
+        "it": "Gonnellino da tennis",
+        "nl": "Tennisrokje",
+        "zh-CN": "网球裙",
+        "zh-TW": "網球裙",
+        "jp": "テニススカート",
+        "ko": "테니스 스커트"
       }
     }
   },

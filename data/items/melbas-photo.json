@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "阿得的照片",
+        "de": "Foto's von Kornelia",
+        "en-GB": "Melba's Photo",
+        "es": "Foto de Melba",
+        "fr": "Photo de Melba",
+        "it": "Foto di Melba",
+        "jp": "アデレードのしゃしん",
+        "ko": "아델레이드의 사진",
+        "nl": "Foto van Melba",
+        "zh-TW": "阿得的照片",
+        "en-US": "Melba's Photo"
       }
     }
   },

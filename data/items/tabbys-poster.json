@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "小虎的海报",
+        "de": "Poster's von Zita",
+        "en-GB": "Tabby's Poster",
+        "es": "Póster de Liana",
+        "fr": "Poster de Tigri",
+        "it": "Poster di Lisca",
+        "jp": "トラこのポスター",
+        "ko": "호냥이의 포스터",
+        "nl": "Poster van Tabby",
+        "zh-TW": "小虎的海報",
+        "en-US": "Tabby's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -18,6 +18,19 @@
         "green": "Green",
         "blue": "Blue",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Earbuds Combo",
+        "en-GB": "Earbuds Combo",
+        "de": "Pulli",
+        "es": "Jersey con auriculares",
+        "fr": "Pull avec écouteurs",
+        "it": "Maglione con auricolari",
+        "nl": "Oortelefoonshirt",
+        "zh-CN": "连耳机上衣",
+        "zh-TW": "耳機穿搭",
+        "jp": "イヤフォンコーデ",
+        "ko": "이어폰과 티셔츠"
       }
     }
   },

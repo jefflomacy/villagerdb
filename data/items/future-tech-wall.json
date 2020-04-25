@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Future-Tech Wall",
+        "en-GB": "Future-Tech Wall",
+        "de": "Zukunftstechniktapete",
+        "es": "Pared red neuronal",
+        "fr": "Mur hypertechnologique",
+        "it": "Muro iper tecnologico",
+        "nl": "Futuristische wand",
+        "zh-CN": "超科技墙",
+        "zh-TW": "超科技牆",
+        "jp": "オーバーテクノロジーなかべ",
+        "ko": "오버 테크놀로지 벽"
+      }
     }
   },
   "category": "Wallpaper"

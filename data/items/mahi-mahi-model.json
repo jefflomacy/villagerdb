@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 45000
+      },
+      "name": {
+        "en-US": "Mahi-Mahi Model",
+        "en-GB": "Mahi-Mahi Model",
+        "de": "Goldmakrelenmodell",
+        "es": "Figura de lampuga",
+        "fr": "Modèle de coryphène",
+        "it": "Replica di lampuga",
+        "nl": "Modelgoudmakreel",
+        "zh-CN": "鬼头刀模型",
+        "zh-TW": "鬼頭刀模型",
+        "jp": "シイラのもけい",
+        "ko": "만새기 모형"
       }
     }
   },

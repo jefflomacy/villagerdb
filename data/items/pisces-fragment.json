@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 500
+      },
+      "name": {
+        "zh-CN": "双鱼座碎片",
+        "de": "Fische-Splitter's",
+        "en-GB": "Pisces Fragment",
+        "es": "Fragmento de Piscis",
+        "fr": "Fragment de Poissons",
+        "it": "Frammento di Pesci",
+        "jp": "うおざのかけら",
+        "ko": "물고기자리 조각",
+        "nl": "Vissenfragment",
+        "zh-TW": "雙魚座碎片",
+        "en-US": "Pisces Fragment"
       }
     }
   },

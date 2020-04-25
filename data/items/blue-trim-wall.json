@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 1420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue-Trim Wall"
+      }
     }
   }
 }

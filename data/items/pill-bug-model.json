@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 750
+      },
+      "name": {
+        "en-US": "Pill Bug Model",
+        "en-GB": "Pill Bug Model",
+        "de": "Kugelasselmodell",
+        "es": "Figura de cochinilla",
+        "fr": "Modèle de cloporte",
+        "it": "Replica di porcellino di terra",
+        "nl": "Modelpissebed",
+        "zh-CN": "鼠妇模型",
+        "zh-TW": "鼠婦模型",
+        "jp": "ダンゴムシのもけい",
+        "ko": "공벌레 모형"
       }
     }
   },

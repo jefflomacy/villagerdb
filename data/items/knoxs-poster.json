@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "金阁的海报",
+        "de": "Poster's von Tschiwi",
+        "en-GB": "Knox's Poster",
+        "es": "Póster de Tono",
+        "fr": "Poster de Wolfram",
+        "it": "Poster di Kalin",
+        "jp": "キンカクのポスター",
+        "ko": "금끼오의 포스터",
+        "nl": "Poster van Knox",
+        "zh-TW": "金閣的海報",
+        "en-US": "Knox's Poster"
+      }
     }
   },
   "category": "Photos"

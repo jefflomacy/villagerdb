@@ -16,7 +16,16 @@
       },
       "sources": [
         "Pick mushrooms during November"
-      ]
+      ],
+      "name": {
+        "de": "Pilzkommode",
+        "en-GB": "Mush Dresser",
+        "en-US": "Mush Dresser",
+        "es": "Cómoda hongo",
+        "fr": "Commode champi",
+        "it": "Comò fungo",
+        "ja": "きのこのタンス"
+      }
     }
   }
 }

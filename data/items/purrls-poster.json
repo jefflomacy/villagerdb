@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "小玉的海报",
+        "de": "Poster's von Franka",
+        "en-GB": "Purrl's Poster",
+        "es": "Póster de Wanda",
+        "fr": "Poster de Perle",
+        "it": "Poster di Felidia",
+        "jp": "たまのポスター",
+        "ko": "타마의 포스터",
+        "nl": "Poster van Purrl",
+        "zh-TW": "小玉的海報",
+        "en-US": "Purrl's Poster"
+      }
     }
   },
   "category": "Photos"

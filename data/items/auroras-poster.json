@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "欧若拉的海报",
+        "de": "Poster's von Sonja",
+        "en-GB": "Aurora's Poster",
+        "es": "Póster de Aurora",
+        "fr": "Poster d'aurore",
+        "it": "Poster di Aurora",
+        "jp": "オーロラのポスター",
+        "ko": "오로라의 포스터",
+        "nl": "Poster van Aurora",
+        "zh-TW": "歐若拉的海報",
+        "en-US": "Aurora's Poster"
+      }
     }
   },
   "category": "Photos"

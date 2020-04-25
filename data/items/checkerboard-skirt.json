@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Spielrock",
+        "en-GB": "Checkerboard Skirt",
+        "en-US": "Checkerboard Skirt",
+        "es": "Falda rojinegra",
+        "fr": "Jupe rouge & noire",
+        "it": "Gonna a scacchi",
+        "ja": "ギャンブラーなスカート"
+      }
     }
   }
 }

@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 520
         }
-      ]
+      ],
+      "name": {
+        "de": "Holzpantoffel",
+        "en-GB": "Wooden Clogs",
+        "en-US": "Wooden Clogs",
+        "es": "Zueco florido",
+        "fr": "Paire sabots décorés",
+        "it": "P. zoccoli di legno",
+        "ja": "きぐつ"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -42,6 +51,19 @@
         "red": "Red",
         "green": "Green",
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Wooden Clogs",
+        "en-GB": "Wooden Clogs",
+        "de": "Paars Holzpantoffeln",
+        "es": "Zueco florido",
+        "fr": "Paire de sabots décorés",
+        "it": "Paio di zoccoli di legno",
+        "nl": "Klompen",
+        "zh-CN": "木鞋",
+        "zh-TW": "木鞋",
+        "jp": "きぐつ",
+        "ko": "네덜란드 나막신"
       }
     }
   }

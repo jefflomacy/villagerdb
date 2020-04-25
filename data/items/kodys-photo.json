@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "艾德豪的照片",
+        "de": "Foto's von Bernd",
+        "en-GB": "Kody's Photo",
+        "es": "Foto de Orestes",
+        "fr": "Photo de Bill",
+        "it": "Foto di Salomone",
+        "jp": "アイダホのしゃしん",
+        "ko": "아이다호의 사진",
+        "nl": "Foto van Kody",
+        "zh-TW": "艾德豪的照片",
+        "en-US": "Kody's Photo"
       }
     }
   },

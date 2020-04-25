@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "阿钦的海报",
+        "de": "Poster's von Bertram",
+        "en-GB": "Pudge's Poster",
+        "es": "Póster de Bollito",
+        "fr": "Poster de Gradub",
+        "it": "Poster di Tombolo",
+        "jp": "きんぞうのポスター",
+        "ko": "우띠의 포스터",
+        "nl": "Poster van Pudge",
+        "zh-TW": "阿欽的海報",
+        "en-US": "Pudge's Poster"
+      }
     }
   },
   "category": "Photos"

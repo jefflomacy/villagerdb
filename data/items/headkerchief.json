@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Wanderkopftuch",
+        "en-GB": "Headkerchief",
+        "en-US": "Headkerchief",
+        "es": "Pañuelo nudo nariz",
+        "fr": "Foulard vert",
+        "it": "Fazzoletto giapp.",
+        "ja": "ほっかむり"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -35,6 +44,19 @@
       ],
       "variations": {
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Headkerchief",
+        "en-GB": "Headkerchief",
+        "de": "Wanderkopftuch",
+        "es": "Pañuelo anudado en la nariz",
+        "fr": "Foulard vert",
+        "it": "Fazzoletto giapponese",
+        "nl": "Hoofddoek",
+        "zh-CN": "小偷头巾",
+        "zh-TW": "小偷頭巾",
+        "jp": "ほっかむり",
+        "ko": "뒤집어쓴 보자기"
       }
     }
   }

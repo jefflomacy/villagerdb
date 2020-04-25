@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 372
         }
-      ]
+      ],
+      "name": {
+        "de": "Pepita-Shirt",
+        "en-GB": "Dogtooth Tee",
+        "en-US": "Dogtooth Tee",
+        "es": "Camiseta pata gallo",
+        "fr": "T-shirt pied de coq",
+        "it": "Maglietta pied de p.",
+        "ja": "ちどりごうしのふく"
+      }
     }
   }
 }

@@ -22,6 +22,19 @@
         "beige": "Beige",
         "brown": "Brown",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Top Coat",
+        "en-GB": "Top Coat",
+        "de": "Übergangsmantel",
+        "es": "Abrigo ligero",
+        "fr": "Surveste",
+        "it": "Cappotto classico",
+        "nl": "Overjas",
+        "zh-CN": "立式折领大衣",
+        "zh-TW": "立領大衣",
+        "jp": "ステンカラーコート",
+        "ko": "스텐 칼라 코트"
       }
     }
   },

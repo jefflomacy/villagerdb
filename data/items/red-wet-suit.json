@@ -13,7 +13,10 @@
           "currency": "bells",
           "value": 40
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red Wet Suit"
+      }
     }
   }
 }

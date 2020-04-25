@@ -22,7 +22,16 @@
           "currency": "bells",
           "value": 3100
         }
-      ]
+      ],
+      "name": {
+        "de": "Royalsofa",
+        "en-GB": "Regal Sofa",
+        "en-US": "Regal Sofa",
+        "es": "Sofá regio",
+        "fr": "Canapé royal",
+        "it": "Sofà chic",
+        "ja": "ロイヤルなソファ"
+      }
     }
   }
 }

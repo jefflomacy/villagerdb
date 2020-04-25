@@ -24,7 +24,10 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Steampunk Glasses"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -40,6 +43,19 @@
       "variations": {
         "green": "Green",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Steampunk Glasses",
+        "en-GB": "Steampunk Glasses",
+        "de": "Steampunkbrille",
+        "es": "Gafa steampunk",
+        "fr": "Monture steampunk",
+        "it": "Montatura steampunk",
+        "nl": "Steampunkbril",
+        "zh-CN": "蒸汽庞克护目镜",
+        "zh-TW": "蒸汽龐克護目鏡",
+        "jp": "スチームパンクなゴーグル",
+        "ko": "스팀펑크 안경"
       }
     }
   }

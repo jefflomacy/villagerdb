@@ -24,7 +24,16 @@
           "currency": "bells",
           "value": 640
         }
-      ]
+      ],
+      "name": {
+        "de": "Kiwihut",
+        "en-GB": "Kiwi Hat",
+        "en-US": "Kiwi Hat",
+        "es": "Gorro kiwi",
+        "fr": "Chapeau kiwi",
+        "it": "Cappello kiwi",
+        "ja": "キウイのぼうし"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -39,6 +48,19 @@
       ],
       "variations": {
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Kiwi Hat",
+        "en-GB": "Kiwi Hat",
+        "de": "Kiwihut",
+        "es": "Gorro kiwi",
+        "fr": "Chapeau kiwi",
+        "it": "Cappello kiwi",
+        "nl": "Kiwimuts",
+        "zh-CN": "奇异果帽子",
+        "zh-TW": "奇異果帽子",
+        "jp": "キウイのぼうし",
+        "ko": "키위 모자"
       }
     }
   }

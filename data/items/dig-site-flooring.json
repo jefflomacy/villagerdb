@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Dig-Site Flooring",
+        "en-GB": "Dig-Site Flooring",
+        "de": "Fossilienboden",
+        "es": "Suelo yacimiento",
+        "fr": "Sol fossiles",
+        "it": "Pavimento archeologico",
+        "nl": "Opgravingsvloer",
+        "zh-CN": "地底地板",
+        "zh-TW": "地底地板",
+        "jp": "ちていのゆか",
+        "ko": "땅속 바닥"
+      }
     }
   },
   "category": "Flooring"

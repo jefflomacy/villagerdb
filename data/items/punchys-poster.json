@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "尔光的海报",
+        "de": "Poster's von Julian",
+        "en-GB": "Punchy's Poster",
+        "es": "Póster de Félix",
+        "fr": "Poster de Cédric",
+        "it": "Poster di Felix",
+        "jp": "ビンタのポスター",
+        "ko": "빙티의 포스터",
+        "nl": "Poster van Punchy",
+        "zh-TW": "爾光的海報",
+        "en-US": "Punchy's Poster"
+      }
     }
   },
   "category": "Photos"

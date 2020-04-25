@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "White-Chocolate Wall",
+        "en-GB": "White-Chocolate Wall",
+        "de": "Weißschokoladenwand",
+        "es": "Pared chocolate blanco",
+        "fr": "Mur chocolat blanc",
+        "it": "Muro cioccolato bianco",
+        "nl": "Wittechocoladewand",
+        "zh-CN": "白巧克力墙",
+        "zh-TW": "白巧克力牆",
+        "jp": "ホワイトチョコなかべ",
+        "ko": "화이트 초콜릿 벽"
+      }
     }
   },
   "category": "Wallpaper"

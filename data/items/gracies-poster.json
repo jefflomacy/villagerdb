@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "葛瑞斯的海报",
+        "de": "Poster's von Grazia",
+        "en-GB": "Gracie's Poster",
+        "es": "Póster de Graciela",
+        "fr": "Poster de Carla",
+        "it": "Poster di Griffa",
+        "jp": "グレースのポスター",
+        "ko": "그레이스의 포스터",
+        "nl": "Poster van Gracie",
+        "zh-TW": "葛瑞斯的海報",
+        "en-US": "Gracie's Poster"
+      }
     }
   },
   "category": "Photos"

@@ -46,6 +46,19 @@
         "black-green-design": "Black / Green design",
         "black-orange-design": "Black / Orange design",
         "black-navy-design": "Black / Navy design"
+      },
+      "name": {
+        "en-US": "Floor Lamp",
+        "en-GB": "Floor Lamp",
+        "de": "Stehlampe",
+        "es": "Lámpara de pie",
+        "fr": "Lampe à pied",
+        "it": "Lampada a stelo",
+        "nl": "Staande lamp",
+        "zh-CN": "落地灯",
+        "zh-TW": "落地燈",
+        "jp": "フロアランプ",
+        "ko": "플로어 스탠드"
       }
     }
   },

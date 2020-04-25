@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Chefsessel",
+        "en-GB": "Editor's Chair",
+        "en-US": "Editor's Chair",
+        "es": "Silla despacho",
+        "fr": "Chaise de rédacteur",
+        "it": "Sedia del direttore",
+        "ja": "しゃちょうのイス"
+      }
     }
   }
 }

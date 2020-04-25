@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1100
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Pastel Dotted Wall",
+        "en-GB": "Pastel Dotted Wall",
+        "de": "Pastell-Pünktchentapete",
+        "es": "Pared topos pastel",
+        "fr": "Mur à pois pastel",
+        "it": "Muro a pois pastello",
+        "nl": "Pastelkleurige stippenwand",
+        "zh-CN": "粉嫩点点壁纸",
+        "zh-TW": "粉嫩圓點壁紙",
+        "jp": "パステルドットのかべがみ",
+        "ko": "파스텔 도트 벽지"
+      }
     }
   },
   "category": "Wallpaper"

@@ -10,6 +10,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5500
+      },
+      "name": {
+        "en-US": "Brachio Tail",
+        "en-GB": "Brachio Tail",
+        "de": "Brachiosaurus-Schwanz",
+        "es": "Cola braquiosaurio",
+        "fr": "Queue de brachiosaure",
+        "it": "Coda brachiosauro",
+        "nl": "Brachiosaurusstaart",
+        "zh-CN": "腕龙的尾巴",
+        "zh-TW": "腕龍的尾巴",
+        "jp": "ブラキオサウルスのしっぽ",
+        "ko": "브라키오사우루스의 꼬리"
       }
     }
   },

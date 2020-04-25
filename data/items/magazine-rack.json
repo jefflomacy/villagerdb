@@ -75,6 +75,19 @@
         "red-comics": "Red / Comics",
         "red-kids": "Red / Kids",
         "red-weekly-news": "Red / Weekly news"
+      },
+      "name": {
+        "en-US": "Magazine Rack",
+        "en-GB": "Magazine Rack",
+        "de": "Zeitschriftenablage",
+        "es": "Revistero",
+        "fr": "Porte-Revues pliable",
+        "it": "Portariviste",
+        "nl": "Tijdschriftenrekje",
+        "zh-CN": "杂志架",
+        "zh-TW": "雜誌架",
+        "jp": "マガジンラック",
+        "ko": "잡지 꽂이"
       }
     }
   },

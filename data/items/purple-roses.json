@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 240
+      },
+      "name": {
+        "en-US": "Purple Roses",
+        "en-GB": "Purple Roses",
+        "de": "Lilarosen",
+        "es": "Rosas malvas",
+        "fr": "Roses mauves",
+        "it": "Rose indaco",
+        "nl": "Paarse rozen",
+        "zh-CN": "紫色玫瑰",
+        "zh-TW": "紫色玫瑰",
+        "jp": "むらさきのバラ",
+        "ko": "보라색 장미"
       }
     }
   },

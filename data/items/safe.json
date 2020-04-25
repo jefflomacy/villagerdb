@@ -25,7 +25,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Safe",
+        "en-GB": "Safe",
+        "en-US": "Safe",
+        "es": "Caja fuerte",
+        "fr": "Coffre-fort",
+        "it": "Cassaforte",
+        "ja": "きんこ"
+      }
     },
     "nh": {
       "orderable": true,
@@ -47,6 +56,19 @@
         "white": "White",
         "black": "Black",
         "gold": "Gold"
+      },
+      "name": {
+        "en-US": "Safe",
+        "en-GB": "Safe",
+        "de": "Safe",
+        "es": "Caja fuerte",
+        "fr": "Coffre-Fort",
+        "it": "Cassaforte",
+        "nl": "Kluis",
+        "zh-CN": "保险箱",
+        "zh-TW": "保險箱",
+        "jp": "きんこ",
+        "ko": "금고"
       }
     }
   }

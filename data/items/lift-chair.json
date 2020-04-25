@@ -11,7 +11,16 @@
       },
       "sources": [
         "Snowman"
-      ]
+      ],
+      "name": {
+        "de": "Skilift",
+        "en-GB": "Lift Chair",
+        "en-US": "Lift Chair",
+        "es": "Telesilla",
+        "fr": "Télésiège",
+        "it": "Sciovia",
+        "ja": "ゲレンデのリフト"
+      }
     }
   }
 }

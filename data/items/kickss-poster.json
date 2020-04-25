@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "薛革的海报",
+        "de": "Poster's von Schubert",
+        "en-GB": "Kicks's Poster",
+        "es": "Póster de Betunio",
+        "fr": "Poster de Blaise",
+        "it": "Poster di Sciuscià",
+        "jp": "シャンクのポスター",
+        "ko": "패트릭의 포스터",
+        "nl": "Poster van Kicks",
+        "zh-TW": "薛革的海報",
+        "en-US": "Kicks's Poster"
+      }
     }
   },
   "category": "Photos"

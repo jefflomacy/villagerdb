@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 40
+      },
+      "name": {
+        "zh-CN": "红色包装纸",
+        "de": "Rot-Geschenkpapier's",
+        "en-GB": "Red Wrapping Paper",
+        "es": "Papel de regalo rojo",
+        "fr": "Papier cadeau rouge",
+        "it": "Carta da regalo rossa",
+        "jp": "あかいラッピングペーパー",
+        "ko": "빨간색 포장지",
+        "nl": "Rode cadeaupapier",
+        "zh-TW": "紅色包裝紙",
+        "en-US": "Red Wrapping Paper"
       }
     }
   },

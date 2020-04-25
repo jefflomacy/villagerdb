@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 2420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Rosewood Flooring",
+        "en-GB": "Rosewood Flooring",
+        "de": "Rosenholzboden",
+        "es": "Entarimado palisandro gris",
+        "fr": "Sol palissandre",
+        "it": "Pavimento di palissandro",
+        "nl": "Rozenhouten parket",
+        "zh-CN": "玫瑰木地板",
+        "zh-TW": "玫瑰木地板",
+        "jp": "ローズウッドのゆか",
+        "ko": "로즈우드 바닥"
+      }
     }
   },
   "category": "Flooring"

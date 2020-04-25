@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 3680
         }
-      ]
+      ],
+      "name": {
+        "de": "Fassade",
+        "en-GB": "Storefront",
+        "en-US": "Storefront",
+        "es": "Leñera",
+        "fr": "Devanture",
+        "it": "Tettoia west",
+        "ja": "せいぶのまちなみ"
+      }
     }
   }
 }

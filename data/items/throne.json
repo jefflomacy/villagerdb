@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 800000
         }
-      ]
+      ],
+      "name": {
+        "de": "Thron",
+        "en-GB": "Throne",
+        "en-US": "Throne",
+        "es": "Trono",
+        "fr": "Trône",
+        "it": "Trono",
+        "ja": "ぎょくざ"
+      }
     }
   }
 }

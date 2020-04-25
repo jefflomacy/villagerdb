@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 1900
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Standing Toilet",
+        "en-GB": "Standing Toilet",
+        "de": "Pissoir",
+        "es": "Urinario de pared",
+        "fr": "Vespasienne",
+        "it": "Orinatoio",
+        "nl": "Urinoir",
+        "zh-CN": "小便斗",
+        "zh-TW": "小便斗",
+        "jp": "しょうべんき",
+        "ko": "소변기"
+      }
     }
   },
   "category": "Furniture"

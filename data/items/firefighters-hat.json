@@ -19,6 +19,19 @@
         "brown": "Brown",
         "lime-yellow": "Lime yellow",
         "avocado": "Avocado"
+      },
+      "name": {
+        "en-US": "Firefighter's Hat",
+        "en-GB": "Firefighter's Hat",
+        "de": "Feuerwehrhut",
+        "es": "Casco de bombero",
+        "fr": "Casque de pompier",
+        "it": "Elmo da pompiere",
+        "nl": "Brandweerhelm",
+        "zh-CN": "消防员头盔",
+        "zh-TW": "消防員帽子",
+        "jp": "しょうぼうしのぼうし",
+        "ko": "소방관 모자"
       }
     }
   },

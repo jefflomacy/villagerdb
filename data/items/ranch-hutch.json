@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2560
         }
-      ]
+      ],
+      "name": {
+        "de": "Western-Anrichte",
+        "en-GB": "Ranch Hutch",
+        "en-US": "Ranch Hutch",
+        "es": "Aparador rústico",
+        "fr": "Buffet ranch",
+        "it": "Credenza country",
+        "ja": "カントリーなたな"
+      }
     }
   }
 }

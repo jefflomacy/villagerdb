@@ -16,6 +16,19 @@
       "variations": {
         "blue": "Blue",
         "light-blue": "Light blue"
+      },
+      "name": {
+        "en-US": "Hickory-Stripe Pants",
+        "en-GB": "Hickory-Stripe Pants",
+        "de": "Hickory-Streifen-Hose",
+        "es": "Pantalón raya fina",
+        "fr": "Pantalon de travail",
+        "it": "Pantalone a righine",
+        "nl": "Gestreepte jeans",
+        "zh-CN": "条纹工作裤",
+        "zh-TW": "條紋油漆工褲",
+        "jp": "ヒッコリーのペインターパンツ",
+        "ko": "히코리 페인터 팬츠"
       }
     }
   },

@@ -16,6 +16,19 @@
       "variations": {
         "dark-wood": "Dark wood",
         "light-wood": "Light wood"
+      },
+      "name": {
+        "en-US": "Blossom-Viewing Lantern",
+        "en-GB": "Blossom-Viewing Lantern",
+        "de": "Kirschblütenlaterne",
+        "es": "Farol flor de cerezo",
+        "fr": "Lanterne de floraison",
+        "it": "Lanterna fiori di ciliegio",
+        "nl": "Kersenbloesemlantaarn",
+        "zh-CN": "赏花提灯",
+        "zh-TW": "賞花提燈",
+        "jp": "おはなみのちょうちん",
+        "ko": "벚꽃 초롱"
       }
     }
   },

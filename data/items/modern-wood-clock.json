@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1400
         }
-      ]
+      ],
+      "name": {
+        "de": "Buntholzuhr",
+        "en-GB": "Modern Wood Clock",
+        "en-US": "Modern Wood Clock",
+        "es": "Reloj listones",
+        "fr": "Horloge bois moderne",
+        "it": "Orologio legno",
+        "ja": "ミックスウッドのとけい"
+      }
     }
   }
 }

@@ -21,7 +21,10 @@
           "currency": "bells",
           "value": 720
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Milkmaid Dress"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -38,6 +41,19 @@
         "red": "Red",
         "green": "Green",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Milkmaid Dress",
+        "en-GB": "Milkmaid Dress",
+        "de": "Trachtenkleid",
+        "es": "Vestido holandés",
+        "fr": "Robe hollandaise",
+        "it": "Vestito olandese",
+        "nl": "Melkmeisjesjurk",
+        "zh-CN": "荷兰洋装",
+        "zh-TW": "荷蘭洋裝",
+        "jp": "オランダなドレス",
+        "ko": "네덜란드풍 드레스"
       }
     }
   }

@@ -25,7 +25,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Kampfrichtertisch",
+        "en-GB": "Ringside Table",
+        "en-US": "Ringside Table",
+        "es": "Mesa jueces",
+        "fr": "Table d'arbitrage",
+        "it": "Tavolo boxe",
+        "ja": "じっきょうテーブル"
+      }
     }
   }
 }

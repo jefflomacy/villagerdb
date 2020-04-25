@@ -21,6 +21,19 @@
         "red": "Red",
         "blue": "Blue",
         "yellow": "Yellow"
+      },
+      "name": {
+        "en-US": "Dish-Drying Rack",
+        "en-GB": "Dish-Drying Rack",
+        "de": "Abtropfgestell",
+        "es": "Escurreplatos",
+        "fr": "Égouttoir à vaisselle",
+        "it": "Scolapiatti",
+        "nl": "Afdruiprek",
+        "zh-CN": "沥水碗架",
+        "zh-TW": "瀝水碗架",
+        "jp": "みずきりラック",
+        "ko": "식기 건조대"
       }
     }
   },

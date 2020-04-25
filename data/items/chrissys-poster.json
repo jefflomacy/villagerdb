@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "克莉琪的海报",
+        "de": "Poster's von Anne",
+        "en-GB": "Chrissy's Poster",
+        "es": "Póster de Lali",
+        "fr": "Poster de Kristine",
+        "it": "Poster di Natascha",
+        "jp": "クリスチーヌのポスター",
+        "ko": "크리스틴의 포스터",
+        "nl": "Poster van Chrissy",
+        "zh-TW": "克莉琪的海報",
+        "en-US": "Chrissy's Poster"
+      }
     }
   },
   "category": "Photos"

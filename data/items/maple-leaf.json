@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 200
+      },
+      "name": {
+        "zh-CN": "红叶",
+        "de": "Herbstblatt's",
+        "en-GB": "Maple Leaf",
+        "es": "Hoja de arce",
+        "fr": "Feuille d'érable",
+        "it": "Foglia d'acero",
+        "jp": "もみじのはっぱ",
+        "ko": "단풍잎",
+        "nl": "Esdoornblad",
+        "zh-TW": "楓葉",
+        "en-US": "Maple Leaf"
       }
     }
   },

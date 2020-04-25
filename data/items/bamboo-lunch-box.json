@@ -16,6 +16,19 @@
         "green-bamboo": "Green bamboo",
         "dried-bamboo": "Dried bamboo",
         "smoke-cured-bamboo": "Smoke-cured bamboo"
+      },
+      "name": {
+        "en-US": "Bamboo Lunch Box",
+        "en-GB": "Bamboo Lunch Box",
+        "de": "Bambus-Bento",
+        "es": "Cesta de pícnic de bambú",
+        "fr": "Panier-Repas en bambou",
+        "it": "Portapranzo di bambù",
+        "nl": "Bamboelunchset",
+        "zh-CN": "竹制便当盒",
+        "zh-TW": "竹製便當盒",
+        "jp": "たけのべんとうばこ",
+        "ko": "대나무 도시락"
       }
     }
   },

@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Love Song"
+      }
     },
     "nh": {
       "orderable": true,
@@ -35,7 +38,21 @@
           "currency": "bells",
           "value": 3200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "K.K. Love Song",
+        "en-GB": "K.K. Love Song",
+        "de": "K.K. Liebeslied",
+        "es": "Tota-Amor",
+        "fr": "Romance Kéké",
+        "it": "K.K. Amore",
+        "nl": "K.K.-Liefdeslied",
+        "zh-CN": "K.K.情歌",
+        "zh-TW": "K.K.情歌",
+        "jp": "けけラヴソング",
+        "ko": "K.K.러브송",
+        "ru": "Романс К. К."
+      }
     }
   }
 }

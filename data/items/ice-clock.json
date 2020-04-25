@@ -15,7 +15,16 @@
       },
       "sources": [
         "Snowmam"
-      ]
+      ],
+      "name": {
+        "de": "Eisuhr",
+        "en-GB": "Ice Clock",
+        "en-US": "Ice Clock",
+        "es": "Reloj hielo",
+        "fr": "Horloge glace",
+        "it": "Orologio ghiaccio",
+        "ja": "アイスなとけい"
+      }
     }
   }
 }

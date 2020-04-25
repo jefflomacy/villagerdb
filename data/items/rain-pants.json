@@ -22,6 +22,19 @@
         "red": "Red",
         "beige": "Beige",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Rain Pants",
+        "en-GB": "Rain Pants",
+        "de": "Regenhose",
+        "es": "Pantalón impermeable",
+        "fr": "Pantalon imperméable",
+        "it": "Pantalone impermeabile",
+        "nl": "Regenbroek",
+        "zh-CN": "防雨裤",
+        "zh-TW": "防雨褲",
+        "jp": "レインパンツ",
+        "ko": "레인 팬츠"
       }
     }
   },

@@ -21,6 +21,19 @@
         "white": "White",
         "blue": "Blue",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Paw-Print Doorplate",
+        "en-GB": "Paw-Print Doorplate",
+        "de": "Pfotenabdrucktürschild",
+        "es": "Placa huella animal",
+        "fr": "Plaque patte de chien",
+        "it": "Targa da porta zampina",
+        "nl": "Pootafdrukdeurplaatje",
+        "zh-CN": "肉球门牌",
+        "zh-TW": "肉球門牌",
+        "jp": "にくきゅうのドアプレート",
+        "ko": "발바닥 문패"
       }
     }
   },

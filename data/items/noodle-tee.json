@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 380
         }
-      ]
+      ],
+      "name": {
+        "de": "Nudelshirt",
+        "en-GB": "Noodle Tee",
+        "en-US": "Noodle Tee",
+        "es": "Camiseta oriental",
+        "fr": "T-shirt oriental",
+        "it": "Maglietta giapponese",
+        "ja": "ラーメンなふく"
+      }
     }
   }
 }

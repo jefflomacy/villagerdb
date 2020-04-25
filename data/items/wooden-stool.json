@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "de": "Holzschemel",
+        "en-GB": "Wooden Stool",
+        "en-US": "Wooden Stool",
+        "es": "Taburete de madera",
+        "fr": "Tabouret en bois",
+        "it": "Sgabello di legno",
+        "ja": "もくせいスツール"
+      }
     },
     "nh": {
       "customizable": true,
@@ -78,6 +87,19 @@
         "pink-wood-pink": "Pink wood / Pink",
         "pink-wood-blue": "Pink wood / Blue",
         "pink-wood-green": "Pink wood / Green"
+      },
+      "name": {
+        "en-US": "Wooden Stool",
+        "en-GB": "Wooden Stool",
+        "de": "Holzschemel",
+        "es": "Taburete de madera",
+        "fr": "Tabouret en bois",
+        "it": "Sgabello di legno",
+        "nl": "Houten kruk",
+        "zh-CN": "木制凳子",
+        "zh-TW": "木製凳子",
+        "jp": "もくせいスツール",
+        "ko": "목제 스툴"
       }
     }
   }

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3000
+      },
+      "name": {
+        "en-US": "Hermit Crab Model",
+        "en-GB": "Hermit Crab Model",
+        "de": "Einsiedlerkrebsmodell",
+        "es": "Figura de cangrejo ermitaño",
+        "fr": "Modèle de bernard-l'ermite",
+        "it": "Replica di granchio paguro",
+        "nl": "Modelheremietkreeft",
+        "zh-CN": "寄居蟹模型",
+        "zh-TW": "寄居蟹模型",
+        "jp": "ヤドカリのもけい",
+        "ko": "소라게 모형"
       }
     }
   },

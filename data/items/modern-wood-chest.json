@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1480
         }
-      ]
+      ],
+      "name": {
+        "de": "Buntholzkommode",
+        "en-GB": "Modern Wood Chest",
+        "en-US": "Modern Wood Chest",
+        "es": "Cómoda listones",
+        "fr": "Commo. bois moderne",
+        "it": "Comò legno",
+        "ja": "ミックスウッドのタンス"
+      }
     }
   }
 }

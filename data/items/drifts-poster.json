@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "毒仔的海报",
+        "de": "Poster's von Caspar",
+        "en-GB": "Drift's Poster",
+        "es": "Póster de Surfín",
+        "fr": "Poster de Gordon",
+        "it": "Poster di Prospero",
+        "jp": "ドクのポスター",
+        "ko": "덕의 포스터",
+        "nl": "Poster van Drift",
+        "zh-TW": "毒仔的海報",
+        "en-US": "Drift's Poster"
+      }
     }
   },
   "category": "Photos"

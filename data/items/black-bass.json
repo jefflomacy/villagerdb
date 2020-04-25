@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Black Bass"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 400
+      },
+      "name": {
+        "en-US": "Black Bass",
+        "en-GB": "Black Bass",
+        "de": "Barsch",
+        "es": "Perca",
+        "fr": "Bar",
+        "it": "Boccalone",
+        "nl": "Forelbaars",
+        "zh-CN": "黑鲈鱼",
+        "zh-TW": "黑鱸魚",
+        "jp": "ブラックバス",
+        "ko": "큰입배스"
       }
     }
   }

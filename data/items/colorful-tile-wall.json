@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 1420
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Colorful-Tile Wall",
+        "en-GB": "Colorful-Tile Wall",
+        "de": "Buntfliesenwand",
+        "es": "Pared alicatada multicolor",
+        "fr": "Mur mosaïque multicolore",
+        "it": "Muro piastrelle colorate",
+        "nl": "Kleurrijke tegelwand",
+        "zh-CN": "彩色砖墙",
+        "zh-TW": "彩色磚牆",
+        "jp": "カラフルタイルのかべ",
+        "ko": "컬러풀 타일 벽"
+      }
     }
   },
   "category": "Wallpaper"

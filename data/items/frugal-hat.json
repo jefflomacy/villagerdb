@@ -17,6 +17,19 @@
         "brown": "Brown",
         "green": "Green",
         "blue-gray": "Blue-gray"
+      },
+      "name": {
+        "en-US": "Frugal Hat",
+        "en-GB": "Frugal Hat",
+        "de": "Lumpenhut",
+        "es": "Sombrero roñoso",
+        "fr": "Chapeau rapiécé",
+        "it": "Cappello modesto",
+        "nl": "Opgelapte hoed",
+        "zh-CN": "简朴帽子",
+        "zh-TW": "簡樸帽子",
+        "jp": "しっそなぼうし",
+        "ko": "누더기 모자"
       }
     }
   },

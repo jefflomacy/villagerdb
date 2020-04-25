@@ -21,6 +21,19 @@
         "pink": "Pink",
         "white": "White",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Faux-Fur Hat",
+        "en-GB": "Faux-Fur Hat",
+        "de": "Kunstfellhut",
+        "es": "Gorro de pelo sintético",
+        "fr": "Bonnet en fausse fourrure",
+        "it": "Cappello di ecopelliccia",
+        "nl": "Muts van imitatiebont",
+        "zh-CN": "仿毛皮帽",
+        "zh-TW": "仿毛皮帽",
+        "jp": "フェイクファーハット",
+        "ko": "인조털 모자"
       }
     }
   },

@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "然姐的照片",
+        "de": "Foto's von Tatjana",
+        "en-GB": "Tammy's Photo",
+        "es": "Foto de Aída",
+        "fr": "Photo de Vanessa",
+        "it": "Foto di Tamara",
+        "jp": "アネッサのしゃしん",
+        "ko": "아네사의 사진",
+        "nl": "Foto van Tammy",
+        "zh-TW": "然姐的照片",
+        "en-US": "Tammy's Photo"
       }
     }
   },

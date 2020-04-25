@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 480
         }
-      ]
+      ],
+      "name": {
+        "de": "Großmutterperücke",
+        "en-GB": "Matronly Bun",
+        "en-US": "Matronly Bun",
+        "es": "Peluca señora mayor",
+        "fr": "Perruque de matrone",
+        "it": "Parrucca da matrona",
+        "ja": "たまねぎヘアー"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -35,6 +44,19 @@
       ],
       "variations": {
         "hair-color": "Hair Color"
+      },
+      "name": {
+        "en-US": "Matronly Bun",
+        "en-GB": "Matronly Bun",
+        "de": "Großmutterperücke",
+        "es": "Peluca señora mayor",
+        "fr": "Perruque de matrone",
+        "it": "Parrucca da matrona",
+        "nl": "Omaknotpruik",
+        "zh-CN": "丸子头",
+        "zh-TW": "洋蔥頭",
+        "jp": "たまねぎヘアー",
+        "ko": "양파 머리"
       }
     }
   }

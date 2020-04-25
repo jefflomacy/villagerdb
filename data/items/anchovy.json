@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 200
+      },
+      "name": {
+        "en-US": "Anchovy",
+        "en-GB": "Anchovy",
+        "de": "Sardelle",
+        "es": "Boquerón",
+        "fr": "Anchois",
+        "it": "Acciuga",
+        "nl": "Ansjovis",
+        "zh-CN": "凤尾鱼",
+        "zh-TW": "鳳尾魚",
+        "jp": "アンチョビ",
+        "ko": "멸치"
       }
     }
   },

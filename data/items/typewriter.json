@@ -17,7 +17,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Schreibmaschine",
+        "en-GB": "Typewriter",
+        "en-US": "Typewriter",
+        "es": "Máquina de escribir",
+        "fr": "Machine à écrire",
+        "it": "Macchina da scrivere",
+        "ja": "タイプライター"
+      }
     },
     "nh": {
       "orderable": true,
@@ -41,6 +50,19 @@
         "green": "Green",
         "gold": "Gold",
         "silver": "Silver"
+      },
+      "name": {
+        "en-US": "Typewriter",
+        "en-GB": "Typewriter",
+        "de": "Schreibmaschine",
+        "es": "Máquina de escribir",
+        "fr": "Machine à écrire",
+        "it": "Macchina da scrivere",
+        "nl": "Typemachine",
+        "zh-CN": "打字机",
+        "zh-TW": "打字機",
+        "jp": "タイプライター",
+        "ko": "타자기"
       }
     }
   }

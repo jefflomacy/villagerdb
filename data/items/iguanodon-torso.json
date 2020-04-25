@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Iguanodon-Torso",
+        "en-GB": "Iguanodon Torso",
+        "en-US": "Iguanodon Torso",
+        "es": "Cuerpo iguanodonte",
+        "fr": "Torse d'iguanodon",
+        "it": "Torso iguanodonte",
+        "ja": "イグアノドンのからだ"
+      }
     },
     "nh": {
       "orderable": false,
@@ -24,6 +33,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3500
+      },
+      "name": {
+        "en-US": "Iguanodon Torso",
+        "en-GB": "Iguanodon Torso",
+        "de": "Iguanodon-Torso",
+        "es": "Cuerpo iguanodonte",
+        "fr": "Torse d'iguanodon",
+        "it": "Torso iguanodonte",
+        "nl": "Iguanodonromp",
+        "zh-CN": "禽龙的身体",
+        "zh-TW": "禽龍的身體",
+        "jp": "イグアノドンのからだ",
+        "ko": "이구아노돈의 몸통"
       }
     }
   }

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "保罗的海报",
+        "de": "Poster's von Paolo",
+        "en-GB": "Paolo's Poster",
+        "es": "Póster de Paolo",
+        "fr": "Poster de Paolo",
+        "it": "Poster di Paolino",
+        "jp": "パオロのポスター",
+        "ko": "파올로의 포스터",
+        "nl": "Poster van Paolo",
+        "zh-TW": "保羅的海報",
+        "en-US": "Paolo's Poster"
+      }
     }
   },
   "category": "Photos"

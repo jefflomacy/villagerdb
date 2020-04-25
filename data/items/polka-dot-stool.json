@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2400
         }
-      ]
+      ],
+      "name": {
+        "de": "Pünktchenhocker",
+        "en-GB": "Polka-Dot Stool",
+        "en-US": "Polka-Dot Stool",
+        "es": "Taburete topos",
+        "fr": "Tabouret pois rouge",
+        "it": "Sgabello pois",
+        "ja": "みずたまなまるイス"
+      }
     }
   }
 }

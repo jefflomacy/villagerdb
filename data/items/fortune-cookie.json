@@ -13,7 +13,10 @@
           "currency": "bells",
           "value": 2
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Fortune Cookie"
+      }
     }
   }
 }

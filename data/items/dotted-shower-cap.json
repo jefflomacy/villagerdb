@@ -17,6 +17,19 @@
       "variations": {
         "pink": "Pink",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Dotted Shower Cap",
+        "en-GB": "Dotted Shower Cap",
+        "de": "Pünktchenduschhaube",
+        "es": "Gorro de ducha a lunares",
+        "fr": "Bonnet de douche à pois",
+        "it": "Cuffia da doccia a pois",
+        "nl": "Douchemuts met stippen",
+        "zh-CN": "圆点浴帽",
+        "zh-TW": "圓點浴帽",
+        "jp": "みずたまシャワーキャップ",
+        "ko": "물방울 샤워캡"
       }
     }
   },

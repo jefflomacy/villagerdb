@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "悄俊的照片",
+        "de": "Foto's von Ricky",
+        "en-GB": "Rizzo's Photo",
+        "es": "Foto de Ratolón",
+        "fr": "Photo de Sourizzi",
+        "it": "Foto di Rizzo",
+        "jp": "ちょろきちのしゃしん",
+        "ko": "조르쥐의 사진",
+        "nl": "Foto van Rizzo",
+        "zh-TW": "悄俊的照片",
+        "en-US": "Rizzo's Photo"
       }
     }
   },

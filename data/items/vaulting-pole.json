@@ -12,6 +12,19 @@
       },
       "recipe": {
         "softwood": 5
+      },
+      "name": {
+        "en-US": "Vaulting Pole",
+        "en-GB": "Vaulting Pole",
+        "de": "Sprungstab",
+        "es": "Pértiga",
+        "fr": "Perche",
+        "it": "Asta da salto",
+        "nl": "Polsstok",
+        "zh-CN": "撑杆跳竿子",
+        "zh-TW": "撐竿跳竿子",
+        "jp": "たかとびぼう",
+        "ko": "높이뛰기 장대"
       }
     }
   }

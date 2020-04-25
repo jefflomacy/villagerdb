@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Brown Wooden-Deck Rug",
+        "en-GB": "Brown Wooden-Deck Rug",
+        "de": "Braun-Rustikalteppich",
+        "es": "Alfombra tablas marrón",
+        "fr": "Tapis parquet marron",
+        "it": "Tappeto legno marrone",
+        "nl": "Bruine vlondertapijt",
+        "zh-CN": "茶色仿木板地毯",
+        "zh-TW": "茶色木甲板地毯",
+        "jp": "ちゃいろいウッドデッキのラグ",
+        "ko": "갈색 우드 덱 러그"
+      }
     }
   },
   "category": "Flooring"

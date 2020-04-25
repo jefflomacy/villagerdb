@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "de": "Schädelshirt",
+        "en-GB": "Skull Tee",
+        "en-US": "Skull Tee",
+        "es": "Camiseta pirata",
+        "fr": "T-shirt crâne",
+        "it": "Maglietta teschio",
+        "ja": "ドクロのふく"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -40,6 +49,19 @@
         "black": "Black",
         "beige": "Beige",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Skull Tee",
+        "en-GB": "Skull Tee",
+        "de": "Schädelshirt",
+        "es": "Camiseta calavera",
+        "fr": "T-Shirt crâne",
+        "it": "Maglietta teschio",
+        "nl": "Schedel-T-Shirt",
+        "zh-CN": "骷髅T恤",
+        "zh-TW": "骷髏T恤",
+        "jp": "ドクロＴシャツ",
+        "ko": "해골 티셔츠"
       }
     }
   }

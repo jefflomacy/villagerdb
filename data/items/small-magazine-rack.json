@@ -27,7 +27,16 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "de": "Zeitschriftenablage",
+        "en-GB": "Small Magazine Rack",
+        "en-US": "Small Magazine Rack",
+        "es": "Revistero pequeño",
+        "fr": "Porte-revues",
+        "it": "Portariviste piccolo",
+        "ja": "マガジンラックS"
+      }
     }
   }
 }

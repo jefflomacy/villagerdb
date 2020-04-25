@@ -11,6 +11,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1000
+      },
+      "name": {
+        "en-US": "Paper Kite Butterfly",
+        "en-GB": "Paper Kite Butterfly",
+        "de": "Weiße",
+        "es": "Mariposa cometa de papel",
+        "fr": "Grand planeur",
+        "it": "Farfalla carta di riso",
+        "nl": "Papiervlinder",
+        "zh-CN": "大白斑蝶",
+        "zh-TW": "大白斑蝶",
+        "jp": "オオゴマダラ",
+        "ko": "왕얼룩나비"
       }
     }
   },

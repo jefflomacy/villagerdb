@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Toad Parasol"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -32,7 +35,20 @@
           "currency": "bells",
           "value": 750
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Toad Parasol",
+        "en-GB": "Toad Parasol",
+        "de": "Punkteschirm",
+        "es": "Parasol de lunares",
+        "fr": "Parapluie à pois rouge",
+        "it": "Parasole rosso",
+        "nl": "Rode parasol met stippen",
+        "zh-CN": "红色点点雨伞",
+        "zh-TW": "紅色圓點雨傘",
+        "jp": "あかいみずたまのかさ",
+        "ko": "빨간 물방울 우산"
+      }
     }
   }
 }

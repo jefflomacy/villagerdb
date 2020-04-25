@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Train-Station Flooring",
+        "en-GB": "Train-Station Flooring",
+        "de": "Bahnsteigboden",
+        "es": "Suelo vías ferroviarias",
+        "fr": "Sol quai de gare",
+        "it": "Pavimento banchina treno",
+        "nl": "Spoorwegvloer",
+        "zh-CN": "车站月台地板",
+        "zh-TW": "車站月台地板",
+        "jp": "えきのホームなゆか",
+        "ko": "승강장 바닥"
+      }
     }
   },
   "category": "Flooring"

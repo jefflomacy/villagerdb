@@ -19,6 +19,19 @@
         "yellow": "Yellow",
         "green": "Green",
         "pink": "Pink"
+      },
+      "name": {
+        "en-US": "Kettlebell",
+        "en-GB": "Kettlebell",
+        "de": "Kugelhantel",
+        "es": "Pesa rusa",
+        "fr": "Kettlebell",
+        "it": "Kettlebell",
+        "nl": "Kettlebell",
+        "zh-CN": "壶铃",
+        "zh-TW": "壺鈴",
+        "jp": "ケトルベル",
+        "ko": "케틀벨"
       }
     }
   },

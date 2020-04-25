@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 1380
         }
-      ]
+      ],
+      "name": {
+        "de": "Spielwagen",
+        "en-GB": "Clackercart",
+        "en-US": "Clackercart",
+        "es": "Carrito carraca",
+        "fr": "Chariot",
+        "it": "Macchinina",
+        "ja": "ておしぐるま"
+      }
     },
     "nh": {
       "customizable": true,
@@ -46,6 +55,19 @@
         "cool": "Cool",
         "pastel": "Pastel",
         "cute": "Cute"
+      },
+      "name": {
+        "en-US": "Clackercart",
+        "en-GB": "Clackercart",
+        "de": "Spielwagen",
+        "es": "Carrito carraca",
+        "fr": "Chariot de marche",
+        "it": "Macchinina primi passi",
+        "nl": "Loopwagen",
+        "zh-CN": "学步推车",
+        "zh-TW": "學步推車",
+        "jp": "ておしぐるま",
+        "ko": "장난감차"
       }
     }
   }

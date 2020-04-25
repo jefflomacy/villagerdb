@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 560
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Red-Camellia Bush",
+        "en-GB": "Red-Camellia Bush",
+        "de": "Rot-Kamelie",
+        "es": "Camelia roja adulta",
+        "fr": "Buisson de camélia rouge",
+        "it": "Camelia rossa adulta",
+        "nl": "Rode camelia",
+        "zh-CN": "红色山茶花树",
+        "zh-TW": "紅色山茶花樹",
+        "jp": "あかいツバキのき",
+        "ko": "빨간 동백나무"
+      }
     }
   },
   "category": "Bushes"

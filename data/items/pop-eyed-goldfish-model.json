@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3900
+      },
+      "name": {
+        "en-US": "Pop-Eyed Goldfish Model",
+        "en-GB": "Pop-Eyed Goldfish Model",
+        "de": "Teleskopaugenmodell",
+        "es": "Figura de pez telescopio",
+        "fr": "Modèle de cyprin doré",
+        "it": "Replica di pesce telescopio",
+        "nl": "Modeltelescoopooggoudvis",
+        "zh-CN": "龙睛金鱼模型",
+        "zh-TW": "龍睛金魚模型",
+        "jp": "デメキンのもけい",
+        "ko": "툭눈금붕어 모형"
       }
     }
   },

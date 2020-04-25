@@ -14,7 +14,16 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ]
+      ],
+      "name": {
+        "de": "Apatosaurus-Torso",
+        "en-GB": "Apato Torso",
+        "en-US": "Apato Torso",
+        "es": "Cuerpo apatosaurio",
+        "fr": "Corps d'apatosaure",
+        "it": "Torso brontosauro",
+        "ja": "アパトサウルスのからだ"
+      }
     }
   }
 }

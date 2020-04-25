@@ -18,7 +18,16 @@
           "currency": "bells",
           "value": 1600
         }
-      ]
+      ],
+      "name": {
+        "de": "Klassiktisch",
+        "en-GB": "Classic Table",
+        "en-US": "Classic Table",
+        "es": "Mesita clásica",
+        "fr": "Table rustique",
+        "it": "Tavolo antico",
+        "ja": "シックなテーブル"
+      }
     }
   }
 }

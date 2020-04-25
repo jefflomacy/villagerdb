@@ -21,6 +21,19 @@
         "canned-fish": "Canned fish",
         "canned-pasta-sauce": "Canned pasta sauce",
         "canned-pet-food": "Canned pet food"
+      },
+      "name": {
+        "en-US": "Recycled-Can Thumb Piano",
+        "en-GB": "Recycled-Can Thumb Piano",
+        "de": "Dosen-Kalimba",
+        "es": "Kalimba casero",
+        "fr": "Marimbula en métal recyclé",
+        "it": "Kalimba di latta",
+        "nl": "Blikduimpiano",
+        "zh-CN": "空罐卡林巴琴",
+        "zh-TW": "空罐卡林巴琴",
+        "jp": "あきかんカリンバ",
+        "ko": "깡통 칼림바"
       }
     }
   },

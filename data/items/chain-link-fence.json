@@ -21,7 +21,10 @@
           "currency": "meow",
           "value": 3
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Chain-Link Fence"
+      }
     },
     "nh": {
       "orderable": false,
@@ -37,7 +40,20 @@
           "currency": "bells",
           "value": 3000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Chain-Link Fence",
+        "en-GB": "Chain-Link Fence",
+        "de": "Sandplatzmauer",
+        "es": "Cancha urbana",
+        "fr": "Mur grillagé",
+        "it": "Muro con recinto",
+        "nl": "Gaashekwerk",
+        "zh-CN": "空地围栏墙",
+        "zh-TW": "空地圍欄牆",
+        "jp": "あきちのかべ",
+        "ko": "공터 벽"
+      }
     }
   }
 }

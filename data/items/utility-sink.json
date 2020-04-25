@@ -16,7 +16,20 @@
           "currency": "bells",
           "value": 3500
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Utility Sink",
+        "en-GB": "Utility Sink",
+        "de": "Spüle",
+        "es": "Pila de servicio",
+        "fr": "Évier utilitaire",
+        "it": "Lavabo industriale",
+        "nl": "Metalen wasbak",
+        "zh-CN": "清洗用水槽",
+        "zh-TW": "清洗用水槽",
+        "jp": "スロップシンク",
+        "ko": "청소용 개수대"
+      }
     }
   },
   "category": "Furniture"

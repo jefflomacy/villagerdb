@@ -18,6 +18,19 @@
         "red": "Red",
         "brown": "Brown",
         "blue": "Blue"
+      },
+      "name": {
+        "en-US": "Guayabera Shirt",
+        "en-GB": "Guayabera Shirt",
+        "de": "Guayabera-Hemd",
+        "es": "Guayabera",
+        "fr": "Chemise guayabera",
+        "it": "Camicia guayabera",
+        "nl": "Guayabera-Shirt",
+        "zh-CN": "古巴衬衫",
+        "zh-TW": "古巴襯衫",
+        "jp": "キューバシャツ",
+        "ko": "쿠바 셔츠"
       }
     }
   },

@@ -11,7 +11,10 @@
       },
       "sources": [
         "In rivers."
-      ]
+      ],
+      "name": {
+        "en-US": "Catfish"
+      }
     },
     "nh": {
       "orderable": false,
@@ -22,6 +25,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 800
+      },
+      "name": {
+        "en-US": "Catfish",
+        "en-GB": "Catfish",
+        "de": "Katzenwels",
+        "es": "Siluro",
+        "fr": "Silure",
+        "it": "Pesce gatto",
+        "nl": "Meerval",
+        "zh-CN": "鲶鱼",
+        "zh-TW": "鯰魚",
+        "jp": "ナマズ",
+        "ko": "메기"
       }
     }
   }

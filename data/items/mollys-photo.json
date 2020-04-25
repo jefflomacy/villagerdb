@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "亚美的照片",
+        "de": "Foto's von Monika",
+        "en-GB": "Molly's Photo",
+        "es": "Foto de Deira",
+        "fr": "Photo de Molly",
+        "it": "Foto di Molly",
+        "jp": "カモミのしゃしん",
+        "ko": "귀오미의 사진",
+        "nl": "Foto van Molly",
+        "zh-TW": "亞美的照片",
+        "en-US": "Molly's Photo"
       }
     }
   },

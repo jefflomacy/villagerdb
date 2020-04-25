@@ -21,6 +21,19 @@
         "dark-red": "Dark red",
         "ruby-red": "Ruby red",
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Satin Pants",
+        "en-GB": "Satin Pants",
+        "de": "Satinhose",
+        "es": "Pantalón de satén",
+        "fr": "Pantalon en satin",
+        "it": "Pantalone satinato",
+        "nl": "Satijnen broek",
+        "zh-CN": "缎面裤子",
+        "zh-TW": "緞面褲子",
+        "jp": "サテンのパンツ",
+        "ko": "새틴 바지"
       }
     }
   },

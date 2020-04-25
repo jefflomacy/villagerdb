@@ -20,6 +20,19 @@
       "variations": {
         "real": "Real",
         "fake": "Fake"
+      },
+      "name": {
+        "en-US": "Warrior Statue",
+        "en-GB": "Warrior Statue",
+        "de": "Kriegerstatue",
+        "es": "Estatua guerrera",
+        "fr": "Statue guerrière",
+        "it": "Statua guerriera",
+        "nl": "Krijgszuchtige standbeeld",
+        "zh-CN": "武士的雕刻",
+        "zh-TW": "武士的雕刻",
+        "jp": "もののふのちょうこく",
+        "ko": "무사의 조각"
       }
     }
   },

@@ -23,6 +23,19 @@
         "green": "Green",
         "light-green": "Light green",
         "camel": "Camel"
+      },
+      "name": {
+        "en-US": "Piano Bench",
+        "en-GB": "Piano Bench",
+        "de": "Klavierbank",
+        "es": "Banco de piano",
+        "fr": "Banquette de piano",
+        "it": "Panca da pianoforte",
+        "nl": "Pianokruk",
+        "zh-CN": "钢琴琴凳",
+        "zh-TW": "鋼琴椅子",
+        "jp": "ピアノのイス",
+        "ko": "피아노 의자"
       }
     }
   },

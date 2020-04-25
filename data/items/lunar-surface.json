@@ -15,7 +15,10 @@
       },
       "sources": [
         "Saharah"
-      ]
+      ],
+      "name": {
+        "en-US": "Lunar Surface"
+      }
     },
     "nh": {
       "orderable": false,
@@ -26,6 +29,19 @@
       "recipe": {
         "star-fragment": 5,
         "large-star-fragment": 1
+      },
+      "name": {
+        "en-US": "Lunar Surface",
+        "en-GB": "Lunar Surface",
+        "de": "Mondlandschaft",
+        "es": "Superficie lunar",
+        "fr": "Sol lunaire",
+        "it": "Suolo lunare",
+        "nl": "Maanlandschap",
+        "zh-CN": "月球表面地板",
+        "zh-TW": "月球表面地板",
+        "jp": "げつめんのゆか",
+        "ko": "달표면 바닥"
       }
     }
   }

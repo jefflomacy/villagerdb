@@ -7,6 +7,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1580
+      },
+      "name": {
+        "en-US": "Pansy Wand",
+        "en-GB": "Pansy Wand",
+        "de": "Veilchenstab",
+        "es": "Varita viola",
+        "fr": "Baguette pensée",
+        "it": "Bacchetta viola",
+        "nl": "Viooltjesstaf",
+        "zh-CN": "三色堇棒",
+        "zh-TW": "三色堇棒",
+        "jp": "パンジーのステッキ",
+        "ko": "팬지 지팡이"
       }
     }
   },

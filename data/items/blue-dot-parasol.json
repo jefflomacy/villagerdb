@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Dot Parasol"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -32,7 +35,20 @@
           "currency": "bells",
           "value": 750
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Blue Dot Parasol",
+        "en-GB": "Blue Dot Parasol",
+        "de": "Wolkenschirm",
+        "es": "Parasol mar",
+        "fr": "Parapluie à pois bleu",
+        "it": "Parasole bolle blu",
+        "nl": "Blauwe parasol met stippen",
+        "zh-CN": "蓝色点点雨伞",
+        "zh-TW": "藍色圓點雨傘",
+        "jp": "あおいみずたまのかさ",
+        "ko": "파란 물방울 우산"
+      }
     }
   }
 }

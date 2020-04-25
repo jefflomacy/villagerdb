@@ -17,6 +17,19 @@
         "blue": "Blue",
         "green": "Green",
         "red": "Red"
+      },
+      "name": {
+        "en-US": "Cold-Country Bunad",
+        "en-GB": "Cold-Country Bunad",
+        "de": "Bunad",
+        "es": "Traje de país nórdico",
+        "fr": "Tenue scandinave",
+        "it": "Completo da paese nordico",
+        "nl": "Bunad",
+        "zh-CN": "雪国套装",
+        "zh-TW": "雪國服",
+        "jp": "さむいくにのふく",
+        "ko": "추운 나라 옷"
       }
     }
   },

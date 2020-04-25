@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2160
         }
-      ]
+      ],
+      "name": {
+        "de": "Azurkommode",
+        "en-GB": "Blue Bureau",
+        "en-US": "Blue Bureau",
+        "es": "Cómoda azul",
+        "fr": "Commode bleue",
+        "it": "Comò blu",
+        "ja": "あおいタンス"
+      }
     }
   }
 }

@@ -23,7 +23,16 @@
           "currency": "bells",
           "value": 260
         }
-      ]
+      ],
+      "name": {
+        "de": "Tannenshirt",
+        "en-GB": "Leaf Tee",
+        "en-US": "Leaf Tee",
+        "es": "Camiseta de picos",
+        "fr": "T-shirt feuille",
+        "it": "Maglietta foglia",
+        "ja": "はっぱのふく"
+      }
     }
   }
 }

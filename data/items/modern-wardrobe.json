@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2560
         }
-      ]
+      ],
+      "name": {
+        "de": "Schachschrank",
+        "en-GB": "Modern Wardrobe",
+        "en-US": "Modern Wardrobe",
+        "es": "Armario moderno",
+        "fr": "Armoire moderne",
+        "it": "Armadio moderno",
+        "ja": "ツートンクロゼット"
+      }
     }
   }
 }

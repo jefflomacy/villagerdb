@@ -21,7 +21,16 @@
           "currency": "bells",
           "value": 2200
         }
-      ]
+      ],
+      "name": {
+        "de": "Wasserspender",
+        "en-GB": "Water Cooler",
+        "en-US": "Water Cooler",
+        "es": "Surtidor de agua",
+        "fr": "Fontaine à eau",
+        "it": "Distributore d'acqua",
+        "ja": "ウォーターサーバー"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -37,6 +46,19 @@
       "variations": {
         "white": "White",
         "black": "Black"
+      },
+      "name": {
+        "en-US": "Water Cooler",
+        "en-GB": "Water Cooler",
+        "de": "Wasserspender",
+        "es": "Surtidor de agua",
+        "fr": "Fontaine à eau",
+        "it": "Distributore d'acqua",
+        "nl": "Waterkoeler",
+        "zh-CN": "桶装饮水机",
+        "zh-TW": "桶裝飲水機",
+        "jp": "ウォーターサーバー",
+        "ko": "정수기"
       }
     }
   }

@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "皮耶罗的海报",
+        "de": "Poster's von Pietro",
+        "en-GB": "Pietro's Poster",
+        "es": "Póster de Kikolor",
+        "fr": "Poster de Pietro",
+        "it": "Poster di Giulivo",
+        "jp": "ジュペッティのポスター",
+        "ko": "피엘의 포스터",
+        "nl": "Poster van Pietro",
+        "zh-TW": "皮耶羅的海報",
+        "en-US": "Pietro's Poster"
+      }
     }
   },
   "category": "Photos"

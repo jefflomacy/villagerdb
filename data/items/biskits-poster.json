@@ -15,7 +15,20 @@
           "currency": "bells",
           "value": 1000
         }
-      ]
+      ],
+      "name": {
+        "zh-CN": "罗宾的海报",
+        "de": "Poster's von Keks",
+        "en-GB": "Biskit's Poster",
+        "es": "Póster de Amnesio",
+        "fr": "Poster de Crocket",
+        "it": "Poster di Buffetto",
+        "jp": "ロビンのポスター",
+        "ko": "로빈의 포스터",
+        "nl": "Poster van Biskit",
+        "zh-TW": "羅賓的海報",
+        "en-US": "Biskit's Poster"
+      }
     }
   },
   "category": "Photos"

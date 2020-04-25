@@ -12,7 +12,20 @@
           "currency": "bells",
           "value": 2000
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Brown Hallway Wall",
+        "en-GB": "Brown Hallway Wall",
+        "de": "Hellbraun-Dielentapete",
+        "es": "Pared pasillo marrón",
+        "fr": "Mur hall brun",
+        "it": "Muro albergo marrone",
+        "nl": "Lichtbruine halwand",
+        "zh-CN": "茶色大厅墙",
+        "zh-TW": "茶色大廳牆",
+        "jp": "ちゃいろいホールのかべ",
+        "ko": "갈색 홀 벽"
+      }
     }
   },
   "category": "Wallpaper"

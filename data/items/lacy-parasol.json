@@ -20,7 +20,10 @@
           "currency": "bells",
           "value": 320
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Lacy Parasol"
+      }
     },
     "nh": {
       "sellPrice": {
@@ -32,7 +35,20 @@
           "currency": "bells",
           "value": 1550
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Lacy Parasol",
+        "en-GB": "Lacy Parasol",
+        "de": "Damenschirmchen",
+        "es": "Parasol encaje",
+        "fr": "Ombrelle en dentelle",
+        "it": "Parasole ricami",
+        "nl": "Kanten parasol",
+        "zh-CN": "蕾丝雨伞",
+        "zh-TW": "蕾絲雨傘",
+        "jp": "レースのかさ",
+        "ko": "레이스 우산"
+      }
     }
   }
 }

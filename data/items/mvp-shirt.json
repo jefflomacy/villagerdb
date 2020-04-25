@@ -20,7 +20,16 @@
           "currency": "bells",
           "value": 372
         }
-      ]
+      ],
+      "name": {
+        "de": "MVP-Pulli",
+        "en-GB": "MVP Shirt",
+        "en-US": "MVP Shirt",
+        "es": "Jersey MVP",
+        "fr": "Pull MVP",
+        "it": "Maglia MVP",
+        "ja": "MVPロングTシャツ"
+      }
     },
     "ac": {
       "orderable": true,
@@ -36,7 +45,10 @@
           "currency": "bells",
           "value": 370
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mvp Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -52,7 +64,10 @@
           "currency": "bells",
           "value": 370
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Mvp Shirt"
+      }
     }
   }
 }

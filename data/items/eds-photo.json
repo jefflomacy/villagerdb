@@ -6,6 +6,19 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10
+      },
+      "name": {
+        "zh-CN": "马誉的照片",
+        "de": "Foto's von Hermann",
+        "en-GB": "Ed's Photo",
+        "es": "Foto de Crinaldo",
+        "fr": "Photo d'édouard",
+        "it": "Foto di Codino",
+        "jp": "キザノホマレのしゃしん",
+        "ko": "꺼벙의 사진",
+        "nl": "Foto van Ed",
+        "zh-TW": "馬譽的照片",
+        "en-US": "Ed's Photo"
       }
     }
   },

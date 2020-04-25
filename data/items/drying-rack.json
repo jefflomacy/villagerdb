@@ -22,6 +22,19 @@
         "ivory": "Ivory",
         "black": "Black",
         "white": "White"
+      },
+      "name": {
+        "en-US": "Drying Rack",
+        "en-GB": "Drying Rack",
+        "de": "Wäscheständer",
+        "es": "Tendedero plegable",
+        "fr": "Étendoir à linge",
+        "it": "Stendino",
+        "nl": "Wasrek",
+        "zh-CN": "晒衣架",
+        "zh-TW": "曬衣架",
+        "jp": "ものほしスタンド",
+        "ko": "빨래 건조대"
       }
     }
   },

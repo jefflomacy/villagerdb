@@ -17,7 +17,10 @@
           "currency": "bells",
           "value": 400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Flowery Shirt"
+      }
     },
     "afe+": {
       "orderable": true,
@@ -33,7 +36,10 @@
           "currency": "bells",
           "value": 400
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Flowery Shirt"
+      }
     }
   }
 }

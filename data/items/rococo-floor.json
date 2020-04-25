@@ -22,7 +22,10 @@
           "currency": "bells",
           "value": 2200
         }
-      ]
+      ],
+      "name": {
+        "en-US": "Rococo Floor"
+      }
     }
   }
 }

@@ -18,6 +18,19 @@
         "yellow": "Yellow",
         "orange": "Orange",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "DAL Model Plane",
+        "en-GB": "DAL Model Plane",
+        "de": "Dal-Flugzeugmodell",
+        "es": "Figura de hidroavión de DAL",
+        "fr": "Maquette d'avion DAL",
+        "it": "Modellino di aereo DAL",
+        "nl": "Dal-Modelvliegtuig",
+        "zh-CN": "DAL飞机模型",
+        "zh-TW": "DAL飛機模型",
+        "jp": "ＤＡＬのひこうきもけい",
+        "ko": "DAL 비행기 모형"
       }
     }
   },

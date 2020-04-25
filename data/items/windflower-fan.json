@@ -17,6 +17,19 @@
         "red": "Red",
         "pink": "Pink",
         "purple": "Purple"
+      },
+      "name": {
+        "en-US": "Windflower Fan",
+        "en-GB": "Windflower Fan",
+        "de": "Anemonenventilator",
+        "es": "Ventilador anémona",
+        "fr": "Ventilateur anémone",
+        "it": "Ventilatore anemone",
+        "nl": "Anemoonventilator",
+        "zh-CN": "银莲花风扇",
+        "zh-TW": "銀蓮花風扇",
+        "jp": "アネモネのせんぷうき",
+        "ko": "아네모네 선풍기"
       }
     }
   },

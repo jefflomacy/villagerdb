@@ -17,6 +17,19 @@
         "red": "Red",
         "black": "Black",
         "green": "Green"
+      },
+      "name": {
+        "en-US": "Plover Cardigan",
+        "en-GB": "Plover Cardigan",
+        "de": "Pepita-Jacke",
+        "es": "Cárdigan pata de gallo",
+        "fr": "Gilet pied-de-coq",
+        "it": "Cardigan pied de poule",
+        "nl": "Pied-De-Poulevest",
+        "zh-CN": "千鸟格纹针织罩衫",
+        "zh-TW": "千鳥格紋針織罩衫",
+        "jp": "ちどりのカーディガン",
+        "ko": "하운드투스 가디건"
       }
     }
   },

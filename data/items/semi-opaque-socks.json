@@ -22,6 +22,19 @@
         "camel": "Camel",
         "avocado": "Avocado",
         "brown": "Brown"
+      },
+      "name": {
+        "en-US": "Semi-Opaque Socks",
+        "en-GB": "Semi-Opaque Socks",
+        "de": "Paars Transparenz-Socken",
+        "es": "Calcetín semiopaco",
+        "fr": "P. chauss. semi-opaques",
+        "it": "Paio di calzini semiopachi",
+        "nl": "Semi-Doorzichtige sokken",
+        "zh-CN": "同色系袜子",
+        "zh-TW": "同色系襪子",
+        "jp": "ニュアンスソックス",
+        "ko": "반투명 양말"
       }
     }
   },

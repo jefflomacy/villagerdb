@@ -1,8 +1,6 @@
 {
   "id": "tiger-shirt",
-  "name": {
-    "en-US": "Tiger Shirt"
-  },
+  "name": "Tiger Shirt",
   "category": "Tops",
   "games": {
     "ac": {

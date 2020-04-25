@@ -1,14 +1,6 @@
 {
   "id": "kiwi-hat",
-  "name": {
-    "de": "Kiwihut",
-    "en-GB": "Kiwi Hat",
-    "en-US": "Kiwi Hat",
-    "es": "Gorro kiwi",
-    "fr": "Chapeau kiwi",
-    "it": "Cappello kiwi",
-    "ja": "キウイのぼうし"
-  },
+  "name": "Kiwi Hat",
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "diving-beetle-model",
-  "name": {
-    "en-US": "Diving Beetle Model"
-  },
+  "name": "Diving Beetle Model",
   "games": {
     "nh": {
       "sellPrice": {

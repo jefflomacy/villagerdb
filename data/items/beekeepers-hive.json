@@ -1,8 +1,6 @@
 {
   "id": "beekeepers-hive",
-  "name": {
-    "en-US": "Beekeeper's Hive"
-  },
+  "name": "Beekeeper's Hive",
   "games": {
     "nh": {
       "orderable": false,

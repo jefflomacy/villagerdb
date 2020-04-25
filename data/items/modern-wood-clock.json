@@ -1,14 +1,6 @@
 {
   "id": "modern-wood-clock",
-  "name": {
-    "de": "Buntholzuhr",
-    "en-GB": "Modern Wood Clock",
-    "en-US": "Modern Wood Clock",
-    "es": "Reloj listones",
-    "fr": "Horloge bois moderne",
-    "it": "Orologio legno",
-    "ja": "ミックスウッドのとけい"
-  },
+  "name": "Modern Wood Clock",
   "category": "Furniture",
   "games": {
     "nl": {

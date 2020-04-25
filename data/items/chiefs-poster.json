@@ -1,8 +1,6 @@
 {
   "id": "chiefs-poster",
-  "name": {
-    "en-US": "Chief's Poster"
-  },
+  "name": "Chief's Poster",
   "games": {
     "nh": {
       "sources": [

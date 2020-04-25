@@ -1,14 +1,6 @@
 {
   "id": "snowmobile",
-  "name": {
-    "de": "Schneemobil",
-    "en-GB": "Snowmobile",
-    "en-US": "Snowmobile",
-    "es": "Moto de nieve",
-    "fr": "Scooter des neiges",
-    "it": "Motoslitta",
-    "ja": "スノーモービル"
-  },
+  "name": "Snowmobile",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "utility-pole",
-  "name": {
-    "en-US": "Utility Pole"
-  },
+  "name": "Utility Pole",
   "games": {
     "nh": {
       "orderable": true,

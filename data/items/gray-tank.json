@@ -1,14 +1,6 @@
 {
   "id": "gray-tank",
-  "name": {
-    "de": "Logo-Top",
-    "en-GB": "Gray Tank",
-    "en-US": "Gray Tank",
-    "es": "Top gris",
-    "fr": "Débardeur gris",
-    "it": "Canotta palma",
-    "ja": "グレータンクトップ"
-  },
+  "name": "Gray Tank",
   "category": "Tops",
   "games": {
     "nl": {

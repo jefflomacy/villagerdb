@@ -1,14 +1,6 @@
 {
   "id": "painters-shirt",
-  "name": {
-    "de": "Malerpulli",
-    "en-GB": "Painter's Shirt",
-    "en-US": "Painter's Shirt",
-    "es": "Jersey morado",
-    "fr": "Pull peintre",
-    "it": "Maglia da pittore",
-    "ja": "しぼりぞめなふくL"
-  },
+  "name": "Painter's Shirt",
   "category": "Tops",
   "games": {
     "nl": {

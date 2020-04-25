@@ -1,8 +1,6 @@
 {
   "id": "white-botanical-tile-wall",
-  "name": {
-    "en-US": "White Botanical-tile Wall"
-  },
+  "name": "White Botanical-tile Wall",
   "games": {
     "nh": {
       "orderable": true,

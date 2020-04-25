@@ -1,8 +1,6 @@
 {
   "id": "tight-knit-sweater",
-  "name": {
-    "en-US": "Tight-knit Sweater"
-  },
+  "name": "Tight-knit Sweater",
   "games": {
     "nh": {
       "orderable": true,

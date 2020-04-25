@@ -1,14 +1,6 @@
 {
   "id": "hi-fi-stereo",
-  "name": {
-    "de": "Hi-Fi-Anlage",
-    "en-GB": "Hi-Fi Stereo",
-    "en-US": "Hi-Fi Stereo",
-    "es": "Cadena hi-fi",
-    "fr": "Chaîne hi-fi",
-    "it": "Stereo hi-fi",
-    "ja": "こうきゅうコンポ"
-  },
+  "name": "Hi-fi Stereo",
   "category": "Furniture",
   "games": {
     "nl": {

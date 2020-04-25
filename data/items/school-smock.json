@@ -1,8 +1,6 @@
 {
   "id": "school-smock",
-  "name": {
-    "en-US": "School Smock"
-  },
+  "name": "School Smock",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "sand-castle",
-  "name": {
-    "de": "Sandburg",
-    "en-GB": "Sand Castle",
-    "en-US": "Sand Castle",
-    "es": "Castillo de arena",
-    "fr": "Château de sable",
-    "it": "Castello di sabbia",
-    "ja": "すなのしろ"
-  },
+  "name": "Sand Castle",
   "category": "Furniture",
   "games": {
     "nl": {

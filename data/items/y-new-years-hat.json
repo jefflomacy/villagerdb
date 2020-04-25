@@ -1,14 +1,6 @@
 {
   "id": "y-new-years-hat",
-  "name": {
-    "de": "Neujahrshut (gelb)",
-    "en-GB": "Y. New Year's Hat",
-    "en-US": "Y. New Year's Hat",
-    "es": "Gorro Año Nuevo ocre",
-    "fr": "Chapeau nouvel an J",
-    "it": "Capp. Capod. giallo",
-    "ja": "ニューイヤーハットきいろ"
-  },
+  "name": "Y. New Year's Hat",
   "category": "Hats",
   "games": {
     "nl": {

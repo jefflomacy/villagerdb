@@ -1,8 +1,6 @@
 {
   "id": "round-tinted-shades",
-  "name": {
-    "en-US": "Round Tinted Shades"
-  },
+  "name": "Round Tinted Shades",
   "games": {
     "nh": {
       "orderable": true,

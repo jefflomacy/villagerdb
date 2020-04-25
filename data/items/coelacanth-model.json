@@ -1,8 +1,6 @@
 {
   "id": "coelacanth-model",
-  "name": {
-    "en-US": "Coelacanth Model"
-  },
+  "name": "Coelacanth Model",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "ebony-piano",
-  "name": {
-    "de": "Konzertflügel",
-    "en-GB": "Ebony Piano",
-    "en-US": "Ebony Piano",
-    "es": "Piano de cola",
-    "fr": "Piano à queue",
-    "it": "Pianoforte a coda",
-    "ja": "グランドピアノ"
-  },
+  "name": "Ebony Piano",
   "category": "Furniture",
   "games": {
     "nl": {

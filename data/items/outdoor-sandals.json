@@ -1,8 +1,6 @@
 {
   "id": "outdoor-sandals",
-  "name": {
-    "en-US": "Outdoor Sandals"
-  },
+  "name": "Outdoor Sandals",
   "games": {
     "nh": {
       "sellPrice": {

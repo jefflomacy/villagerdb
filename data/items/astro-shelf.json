@@ -1,14 +1,6 @@
 {
   "id": "astro-shelf",
-  "name": {
-    "de": "Astroregal",
-    "en-GB": "Astro Shelf",
-    "en-US": "Astro Shelf",
-    "es": "Estantería futurista",
-    "fr": "étagère astro",
-    "it": "Scaffale futuro",
-    "ja": "きんみらいなシェルフ"
-  },
+  "name": "Astro Shelf",
   "category": "Furniture",
   "games": {
     "nl": {

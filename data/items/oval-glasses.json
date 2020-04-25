@@ -1,8 +1,6 @@
 {
   "id": "oval-glasses",
-  "name": {
-    "en-US": "Oval Glasses"
-  },
+  "name": "Oval Glasses",
   "games": {
     "nh": {
       "orderable": true,

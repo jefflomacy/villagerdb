@@ -1,14 +1,6 @@
 {
   "id": "flat-screen-tv",
-  "name": {
-    "de": "Flachbildfernseher",
-    "en-GB": "Flat-Screen TV",
-    "en-US": "Flat-Screen TV",
-    "es": "Tele plana",
-    "fr": "Télé à écran plat",
-    "it": "TV a schermo piatto",
-    "ja": "うすがたテレビ"
-  },
+  "name": "Flat-screen Tv",
   "category": "Furniture",
   "games": {
     "nl": {

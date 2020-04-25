@@ -1,14 +1,6 @@
 {
   "id": "ice-closet",
-  "name": {
-    "de": "Eisschränkchen",
-    "en-GB": "Ice Closet",
-    "en-US": "Ice Closet",
-    "es": "Armario hielo",
-    "fr": "Armoire glace",
-    "it": "Armadio ghiaccio",
-    "ja": "アイスなクロゼット"
-  },
+  "name": "Ice Closet",
   "category": "Furniture",
   "games": {
     "nl": {

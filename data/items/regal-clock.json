@@ -1,14 +1,6 @@
 {
   "id": "regal-clock",
-  "name": {
-    "de": "Royalstanduhr",
-    "en-GB": "Regal Clock",
-    "en-US": "Regal Clock",
-    "es": "Reloj regio",
-    "fr": "Horloge royale",
-    "it": "Orologio chic",
-    "ja": "ロイヤルなとけい"
-  },
+  "name": "Regal Clock",
   "category": "Furniture",
   "games": {
     "nl": {

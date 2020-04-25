@@ -1,8 +1,6 @@
 {
   "id": "drying-rack",
-  "name": {
-    "en-US": "Drying Rack"
-  },
+  "name": "Drying Rack",
   "games": {
     "nh": {
       "orderable": true,

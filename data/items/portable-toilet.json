@@ -1,14 +1,6 @@
 {
   "id": "portable-toilet",
-  "name": {
-    "de": "Toilettenhäuschen",
-    "en-GB": "Portable Toilet",
-    "en-US": "Portable Toilet",
-    "es": "Retrete portátil",
-    "fr": "Cabine de WC mobile",
-    "it": "Bagno chimico",
-    "ja": "かせつトイレ"
-  },
+  "name": "Portable Toilet",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "campsite-sign",
-  "name": {
-    "en-US": "Campsite Sign"
-  },
+  "name": "Campsite Sign",
   "games": {
     "nh": {
       "sellPrice": {

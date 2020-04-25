@@ -1,14 +1,6 @@
 {
   "id": "black-letter-jacket",
-  "name": {
-    "de": "Collegejacke \\u201EB\\u201C",
-    "en-GB": "Black Letter Jacket",
-    "en-US": "Black Letter Jacket",
-    "es": "Cazadora negra",
-    "fr": "Veste collège grise",
-    "it": "Giacca college nera",
-    "ja": "くろいスタジャン"
-  },
+  "name": "Black Letter Jacket",
   "category": "Tops",
   "games": {
     "nl": {

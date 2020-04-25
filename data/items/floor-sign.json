@@ -1,8 +1,6 @@
 {
   "id": "floor-sign",
-  "name": {
-    "en-US": "Floor Sign"
-  },
+  "name": "Floor Sign",
   "games": {
     "nh": {
       "orderable": true,

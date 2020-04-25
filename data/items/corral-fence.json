@@ -1,8 +1,6 @@
 {
   "id": "corral-fence",
-  "name": {
-    "en-US": "Corral Fence"
-  },
+  "name": "Corral Fence",
   "games": {
     "nh": {
       "orderable": false,

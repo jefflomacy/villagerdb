@@ -1,8 +1,6 @@
 {
   "id": "shop-coffee-machine",
-  "name": {
-    "en-US": "Shop Coffee Machine"
-  },
+  "name": "Shop Coffee Machine",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "caveman-shorts",
-  "name": {
-    "de": "Steinzeithose",
-    "en-GB": "Caveman Shorts",
-    "en-US": "Caveman Shorts",
-    "es": "Bermuda cavernícola",
-    "fr": "Short caverne",
-    "it": "Paio bermuda sapiens",
-    "ja": "げんしじんなズボン"
-  },
+  "name": "Caveman Shorts",
   "category": "Bottoms",
   "games": {
     "nl": {

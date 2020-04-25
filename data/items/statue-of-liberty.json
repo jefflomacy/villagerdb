@@ -1,14 +1,6 @@
 {
   "id": "statue-of-liberty",
-  "name": {
-    "de": "Freiheitsstatue",
-    "en-GB": "Statue Of Liberty",
-    "en-US": "Statue Of Liberty",
-    "es": "Estatua Libertad",
-    "fr": "Statue de la Liberté",
-    "it": "Statua della Libertà",
-    "ja": "じゆうのめがみ"
-  },
+  "name": "Statue Of Liberty",
   "category": "Furniture",
   "games": {
     "nl": {

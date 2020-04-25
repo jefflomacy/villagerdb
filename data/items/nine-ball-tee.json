@@ -1,14 +1,6 @@
 {
   "id": "nine-ball-tee",
-  "name": {
-    "de": "9er-Shirt",
-    "en-GB": "Nine-Ball Tee",
-    "en-US": "Nine-Ball Tee",
-    "es": "Camiseta bola 9",
-    "fr": "T-shirt nº 9",
-    "it": "Maglietta palla 9",
-    "ja": "9ばんだまのふく"
-  },
+  "name": "Nine-ball Tee",
   "category": "Tops",
   "games": {
     "nl": {

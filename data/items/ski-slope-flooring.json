@@ -1,8 +1,6 @@
 {
   "id": "ski-slope-flooring",
-  "name": {
-    "en-US": "Ski-slope Flooring"
-  },
+  "name": "Ski-slope Flooring",
   "games": {
     "nh": {
       "sellPrice": {

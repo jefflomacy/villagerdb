@@ -1,8 +1,6 @@
 {
   "id": "baggy-shirt",
-  "name": {
-    "en-US": "Baggy Shirt"
-  },
+  "name": "Baggy Shirt",
   "games": {
     "nh": {
       "orderable": false,

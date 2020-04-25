@@ -1,8 +1,6 @@
 {
   "id": "statics-poster",
-  "name": {
-    "en-US": "Static's Poster"
-  },
+  "name": "Static's Poster",
   "games": {
     "nh": {
       "sources": [

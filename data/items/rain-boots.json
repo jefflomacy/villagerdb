@@ -1,8 +1,6 @@
 {
   "id": "rain-boots",
-  "name": {
-    "en-US": "Rain Boots"
-  },
+  "name": "Rain Boots",
   "games": {
     "nh": {
       "orderable": true,

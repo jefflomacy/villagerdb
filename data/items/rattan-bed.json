@@ -1,8 +1,6 @@
 {
   "id": "rattan-bed",
-  "name": {
-    "en-US": "Rattan Bed"
-  },
+  "name": "Rattan Bed",
   "games": {
     "nh": {
       "orderable": true,

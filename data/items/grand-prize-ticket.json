@@ -1,8 +1,6 @@
 {
   "id": "grand-prize-ticket",
-  "name": {
-    "en-US": "Grand-prize Ticket"
-  },
+  "name": "Grand-prize Ticket",
   "category": "Usables",
   "games": {
     "nl": {

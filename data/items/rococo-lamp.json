@@ -1,14 +1,6 @@
 {
   "id": "rococo-lamp",
-  "name": {
-    "de": "Rokoko-Lampe",
-    "en-GB": "Rococo Lamp",
-    "en-US": "Rococo Lamp",
-    "es": "Lámpara rococó",
-    "fr": "Lampe rococo",
-    "it": "Lampada rococò",
-    "ja": "ロココなランプ"
-  },
+  "name": "Rococo Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

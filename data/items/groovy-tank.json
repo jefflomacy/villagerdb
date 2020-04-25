@@ -1,14 +1,6 @@
 {
   "id": "groovy-tank",
-  "name": {
-    "de": "Schneckentop",
-    "en-GB": "Groovy Tank",
-    "en-US": "Groovy Tank",
-    "es": "Top caracol",
-    "fr": "Débardeur funky",
-    "it": "Canotta ghirigori",
-    "ja": "サイケデリックなふくN"
-  },
+  "name": "Groovy Tank",
   "category": "Tops",
   "games": {
     "nl": {

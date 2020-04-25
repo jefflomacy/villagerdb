@@ -1,8 +1,6 @@
 {
   "id": "wooden-plank-sign",
-  "name": {
-    "en-US": "Wooden-plank Sign"
-  },
+  "name": "Wooden-plank Sign",
   "games": {
     "nh": {
       "orderable": false,

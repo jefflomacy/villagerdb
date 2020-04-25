@@ -1,14 +1,6 @@
 {
   "id": "melon-hat",
-  "name": {
-    "de": "Papayahut",
-    "en-GB": "Melon Hat",
-    "en-US": "Melon Hat",
-    "es": "Gorro melón",
-    "fr": "Chapeau melon",
-    "it": "Cappello melone",
-    "ja": "メロンのぼうし"
-  },
+  "name": "Melon Hat",
   "category": "Hats",
   "games": {
     "nl": {

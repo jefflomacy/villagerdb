@@ -1,8 +1,6 @@
 {
   "id": "ranchu-goldfish",
-  "name": {
-    "en-US": "Ranchu Goldfish"
-  },
+  "name": "Ranchu Goldfish",
   "games": {
     "nh": {
       "orderable": false,

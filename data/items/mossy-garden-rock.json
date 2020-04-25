@@ -1,8 +1,6 @@
 {
   "id": "mossy-garden-rock",
-  "name": {
-    "en-US": "Mossy Garden Rock"
-  },
+  "name": "Mossy Garden Rock",
   "games": {
     "nh": {
       "orderable": false,

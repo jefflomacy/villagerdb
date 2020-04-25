@@ -1,8 +1,6 @@
 {
   "id": "steamer-basket-set",
-  "name": {
-    "en-US": "Steamer-basket Set"
-  },
+  "name": "Steamer-basket Set",
   "games": {
     "nh": {
       "orderable": false,

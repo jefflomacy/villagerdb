@@ -1,14 +1,6 @@
 {
   "id": "laptop",
-  "name": {
-    "de": "Notebook",
-    "en-GB": "Laptop",
-    "en-US": "Laptop",
-    "es": "Ordenador portátil",
-    "fr": "Ordinateur portable",
-    "it": "Laptop",
-    "ja": "ノートパソコン"
-  },
+  "name": "Laptop",
   "category": "Furniture",
   "games": {
     "nl": {

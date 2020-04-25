@@ -1,14 +1,6 @@
 {
   "id": "checkered-tee",
-  "name": {
-    "de": "Schachshirt",
-    "en-GB": "Checkered Tee",
-    "en-US": "Checkered Tee",
-    "es": "Camiseta ajedrez",
-    "fr": "T-shirt damier",
-    "it": "Maglietta start",
-    "ja": "チェッカーのふく"
-  },
+  "name": "Checkered Tee",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "hello-kitty-table",
-  "name": {
-    "en-US": "Hello Kitty Table"
-  },
+  "name": "Hello Kitty Table",
   "category": "Furniture",
   "games": {
     "nl": {

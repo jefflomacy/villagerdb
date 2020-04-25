@@ -1,14 +1,6 @@
 {
   "id": "sombrero",
-  "name": {
-    "de": "Sombrero",
-    "en-GB": "Sombrero",
-    "en-US": "Sombrero",
-    "es": "Sombrero cuate",
-    "fr": "Sombrero",
-    "it": "Sombrero",
-    "ja": "ソンブレロ"
-  },
+  "name": "Sombrero",
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "cavalier-shirt",
-  "name": {
-    "de": "Edelmann-Hemd",
-    "en-GB": "Cavalier Shirt",
-    "en-US": "Cavalier Shirt",
-    "es": "Jersey mosquetero",
-    "fr": "Pull équitation",
-    "it": "Giubba moschettiere",
-    "ja": "じゅうきしのふく"
-  },
+  "name": "Cavalier Shirt",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "pilots-cap",
-  "name": {
-    "de": "Pilotenkappe",
-    "en-GB": "Pilot's Cap",
-    "en-US": "Pilot's Cap",
-    "es": "Gorra de aviador",
-    "fr": "Casque de pilote",
-    "it": "Casco d'aviatore",
-    "ja": "ひこうぼう"
-  },
+  "name": "Pilot's Cap",
   "category": "Hats",
   "games": {
     "nl": {

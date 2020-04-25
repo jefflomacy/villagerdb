@@ -1,14 +1,6 @@
 {
   "id": "tuxedo",
-  "name": {
-    "de": "Smokingjackett",
-    "en-GB": "Tuxedo",
-    "en-US": "Tuxedo",
-    "es": "Esmoquin",
-    "fr": "Smoking",
-    "it": "Giacca smoking",
-    "ja": "タキシード"
-  },
+  "name": "Tuxedo",
   "category": "Tops",
   "games": {
     "nl": {

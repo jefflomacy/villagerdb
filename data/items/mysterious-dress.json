@@ -1,8 +1,6 @@
 {
   "id": "mysterious-dress",
-  "name": {
-    "en-US": "Mysterious Dress"
-  },
+  "name": "Mysterious Dress",
   "games": {
     "nh": {
       "sellPrice": {

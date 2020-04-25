@@ -1,8 +1,6 @@
 {
   "id": "double-door-refrigerator",
-  "name": {
-    "en-US": "Double-door Refrigerator"
-  },
+  "name": "Double-door Refrigerator",
   "games": {
     "nh": {
       "sellPrice": {

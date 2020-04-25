@@ -1,8 +1,6 @@
 {
   "id": "holey-socks",
-  "name": {
-    "en-US": "Holey Socks"
-  },
+  "name": "Holey Socks",
   "games": {
     "nh": {
       "sellPrice": {

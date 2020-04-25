@@ -1,8 +1,6 @@
 {
   "id": "painters-coverall",
-  "name": {
-    "en-US": "Painter's Coverall"
-  },
+  "name": "Painter's Coverall",
   "games": {
     "nh": {
       "orderable": true,

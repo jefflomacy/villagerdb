@@ -1,14 +1,6 @@
 {
   "id": "robo-closet",
-  "name": {
-    "de": "Robo-Schrank",
-    "en-GB": "Robo-Closet",
-    "en-US": "Robo-Closet",
-    "es": "Roboarmario",
-    "fr": "Armoire robot",
-    "it": "Robo-armadio",
-    "ja": "ロボクロゼット"
-  },
+  "name": "Robo-closet",
   "category": "Furniture",
   "games": {
     "nl": {

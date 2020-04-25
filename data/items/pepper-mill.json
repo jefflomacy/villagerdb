@@ -1,14 +1,6 @@
 {
   "id": "pepper-mill",
-  "name": {
-    "de": "Pfeffermühle",
-    "en-GB": "Pepper Mill",
-    "en-US": "Pepper Mill",
-    "es": "Molinillo pimienta",
-    "fr": "Moulin à poivre",
-    "it": "Macinapepe",
-    "ja": "ペッパーミル"
-  },
+  "name": "Pepper Mill",
   "category": "Furniture",
   "games": {
     "nl": {

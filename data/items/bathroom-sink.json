@@ -1,14 +1,6 @@
 {
   "id": "bathroom-sink",
-  "name": {
-    "de": "Waschbecken",
-    "en-GB": "Bathroom Sink",
-    "en-US": "Bathroom Sink",
-    "es": "Lavabo",
-    "fr": "Meuble lavabo",
-    "it": "Lavandino da bagno",
-    "ja": "せんめんだい"
-  },
+  "name": "Bathroom Sink",
   "category": "Furniture",
   "games": {
     "nl": {

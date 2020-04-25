@@ -1,14 +1,6 @@
 {
   "id": "dandy-hat",
-  "name": {
-    "de": "Dandymütze",
-    "en-GB": "Dandy Hat",
-    "en-US": "Dandy Hat",
-    "es": "Gorra bicolor",
-    "fr": "Casquette de dandy",
-    "it": "Basco colorato",
-    "ja": "キャスケット"
-  },
+  "name": "Dandy Hat",
   "category": "Hats",
   "games": {
     "nl": {

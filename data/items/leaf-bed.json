@@ -1,14 +1,6 @@
 {
   "id": "leaf-bed",
-  "name": {
-    "de": "Blattbett",
-    "en-GB": "Leaf Bed",
-    "en-US": "Leaf Bed",
-    "es": "Cama hoja",
-    "fr": "Lit feuille",
-    "it": "Letto foglia",
-    "ja": "はっぱベッド"
-  },
+  "name": "Leaf Bed",
   "category": "Furniture",
   "games": {
     "nl": {

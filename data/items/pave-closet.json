@@ -1,14 +1,6 @@
 {
   "id": "pave-closet",
-  "name": {
-    "de": "Karnevalsschrank",
-    "en-GB": "Pavé Closet",
-    "en-US": "Pavé Closet",
-    "es": "Armario Conga",
-    "fr": "Buffet carnaval",
-    "it": "Armadio Pavão",
-    "ja": "カーニバルクロゼット"
-  },
+  "name": "Pavé Closet",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "gingham-picnic-shirt",
-  "name": {
-    "en-US": "Gingham Picnic Shirt"
-  },
+  "name": "Gingham Picnic Shirt",
   "games": {
     "nh": {
       "orderable": true,

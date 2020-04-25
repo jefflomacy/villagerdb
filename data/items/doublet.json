@@ -1,8 +1,6 @@
 {
   "id": "doublet",
-  "name": {
-    "en-US": "Doublet"
-  },
+  "name": "Doublet",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,8 +1,6 @@
 {
   "id": "blue-wavy-rug",
-  "name": {
-    "en-US": "Blue Wavy Rug"
-  },
+  "name": "Blue Wavy Rug",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,8 +1,6 @@
 {
   "id": "leifs-poster",
-  "name": {
-    "en-US": "Leif's Poster"
-  },
+  "name": "Leif's Poster",
   "games": {
     "nh": {
       "sources": [

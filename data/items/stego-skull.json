@@ -1,14 +1,6 @@
 {
   "id": "stego-skull",
-  "name": {
-    "de": "Stegosaurus-Schädel",
-    "en-GB": "Stego Skull",
-    "en-US": "Stego Skull",
-    "es": "Cráneo estegosaurio",
-    "fr": "Crâne de stégosaure",
-    "it": "Teschio stegosauro",
-    "ja": "ステゴサウルスのあたま"
-  },
+  "name": "Stego Skull",
   "category": "Fossils",
   "games": {
     "nl": {

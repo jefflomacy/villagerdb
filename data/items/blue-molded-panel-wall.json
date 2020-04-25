@@ -1,8 +1,6 @@
 {
   "id": "blue-molded-panel-wall",
-  "name": {
-    "en-US": "Blue Molded-panel Wall"
-  },
+  "name": "Blue Molded-panel Wall",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,14 +1,6 @@
 {
   "id": "checkerboard-skirt",
-  "name": {
-    "de": "Spielrock",
-    "en-GB": "Checkerboard Skirt",
-    "en-US": "Checkerboard Skirt",
-    "es": "Falda rojinegra",
-    "fr": "Jupe rouge & noire",
-    "it": "Gonna a scacchi",
-    "ja": "ギャンブラーなスカート"
-  },
+  "name": "Checkerboard Skirt",
   "category": "Bottoms",
   "games": {
     "nl": {

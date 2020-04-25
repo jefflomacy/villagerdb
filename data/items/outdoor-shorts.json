@@ -1,8 +1,6 @@
 {
   "id": "outdoor-shorts",
-  "name": {
-    "en-US": "Outdoor Shorts"
-  },
+  "name": "Outdoor Shorts",
   "games": {
     "nh": {
       "orderable": true,

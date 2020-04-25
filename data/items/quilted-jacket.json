@@ -1,8 +1,6 @@
 {
   "id": "quilted-jacket",
-  "name": {
-    "en-US": "Quilted Jacket"
-  },
+  "name": "Quilted Jacket",
   "games": {
     "nh": {
       "sellPrice": {

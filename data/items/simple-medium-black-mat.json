@@ -1,8 +1,6 @@
 {
   "id": "simple-medium-black-mat",
-  "name": {
-    "en-US": "Simple Medium Black Mat"
-  },
+  "name": "Simple Medium Black Mat",
   "games": {
     "nh": {
       "sellPrice": {

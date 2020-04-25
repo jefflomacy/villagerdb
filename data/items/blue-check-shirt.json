@@ -1,14 +1,6 @@
 {
   "id": "blue-check-shirt",
-  "name": {
-    "de": "Blauweiß-Pulli",
-    "en-GB": "Blue-Check Shirt",
-    "en-US": "Blue-Check Shirt",
-    "es": "Jersey trapo azul",
-    "fr": "Pull carrés bleu",
-    "it": "Maglia quadri blu",
-    "ja": "あおチェックのふくL"
-  },
+  "name": "Blue-check Shirt",
   "category": "Tops",
   "games": {
     "nl": {

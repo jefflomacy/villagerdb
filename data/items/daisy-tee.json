@@ -1,14 +1,6 @@
 {
   "id": "daisy-tee",
-  "name": {
-    "de": "Blümchenshirt",
-    "en-GB": "Daisy Tee",
-    "en-US": "Daisy Tee",
-    "es": "Camiseta margarita",
-    "fr": "T-shirt marguerite",
-    "it": "Maglietta margherita",
-    "ja": "フラワーなふく"
-  },
+  "name": "Daisy Tee",
   "category": "Tops",
   "games": {
     "nl": {

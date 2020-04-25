@@ -1,8 +1,6 @@
 {
   "id": "highway-flooring",
-  "name": {
-    "en-US": "Highway Flooring"
-  },
+  "name": "Highway Flooring",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,8 +1,6 @@
 {
   "id": "dal-sunglasses",
-  "name": {
-    "en-US": "Dal Sunglasses"
-  },
+  "name": "Dal Sunglasses",
   "games": {
     "nh": {
       "orderable": false,

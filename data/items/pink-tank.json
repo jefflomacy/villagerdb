@@ -1,14 +1,6 @@
 {
   "id": "pink-tank",
-  "name": {
-    "de": "Pink-Spitzentop",
-    "en-GB": "Pink Tank",
-    "en-US": "Pink Tank",
-    "es": "Top rosa",
-    "fr": "Débardeur rose",
-    "it": "Canotta fiocco rosa",
-    "ja": "ピンクのキャミソール"
-  },
+  "name": "Pink Tank",
   "category": "Tops",
   "games": {
     "nl": {

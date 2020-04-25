@@ -1,8 +1,6 @@
 {
   "id": "sandy-beach-flooring",
-  "name": {
-    "en-US": "Sandy-beach Flooring"
-  },
+  "name": "Sandy-beach Flooring",
   "games": {
     "nh": {
       "customizable": false,

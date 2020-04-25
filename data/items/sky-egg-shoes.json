@@ -1,8 +1,6 @@
 {
   "id": "sky-egg-shoes",
-  "name": {
-    "en-US": "Sky-egg Shoes"
-  },
+  "name": "Sky-egg Shoes",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "gaucho-pants",
-  "name": {
-    "en-US": "Gaucho Pants"
-  },
+  "name": "Gaucho Pants",
   "games": {
     "nh": {
       "sellPrice": {

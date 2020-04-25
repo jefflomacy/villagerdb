@@ -1,8 +1,6 @@
 {
   "id": "wood-egg-outfit",
-  "name": {
-    "en-US": "Wood-egg Outfit"
-  },
+  "name": "Wood-egg Outfit",
   "games": {
     "nh": {
       "orderable": false,

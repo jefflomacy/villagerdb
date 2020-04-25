@@ -1,8 +1,6 @@
 {
   "id": "wall-mounted-phone",
-  "name": {
-    "en-US": "Wall-mounted Phone"
-  },
+  "name": "Wall-mounted Phone",
   "games": {
     "nh": {
       "sellPrice": {

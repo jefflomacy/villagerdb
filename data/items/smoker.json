@@ -1,14 +1,6 @@
 {
   "id": "smoker",
-  "name": {
-    "de": "Räucherofen",
-    "en-GB": "Smoker",
-    "en-US": "Smoker",
-    "es": "Horno para ahumados",
-    "fr": "Fumoir",
-    "it": "Affumicatore",
-    "ja": "くんせいマシーン"
-  },
+  "name": "Smoker",
   "category": "Furniture",
   "games": {
     "nl": {

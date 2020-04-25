@@ -1,8 +1,6 @@
 {
   "id": "workers-jacket",
-  "name": {
-    "en-US": "Worker's Jacket"
-  },
+  "name": "Worker's Jacket",
   "games": {
     "nh": {
       "orderable": true,

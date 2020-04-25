@@ -1,8 +1,6 @@
 {
   "id": "pyramid-tile",
-  "name": {
-    "en-US": "Pyramid Tile"
-  },
+  "name": "Pyramid Tile",
   "games": {
     "nh": {
       "orderable": false,

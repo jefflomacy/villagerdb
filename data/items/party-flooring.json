@@ -1,8 +1,6 @@
 {
   "id": "party-flooring",
-  "name": {
-    "en-US": "Party Flooring"
-  },
+  "name": "Party Flooring",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,8 +1,6 @@
 {
   "id": "pot",
-  "name": {
-    "en-US": "Pot"
-  },
+  "name": "Pot",
   "games": {
     "nh": {
       "orderable": false,

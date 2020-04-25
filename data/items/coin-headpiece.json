@@ -1,14 +1,6 @@
 {
   "id": "coin-headpiece",
-  "name": {
-    "de": "Münzen-Stirnband",
-    "en-GB": "Coin Headpiece",
-    "en-US": "Coin Headpiece",
-    "es": "Gorra de monedas",
-    "fr": "Parure de sultane",
-    "it": "Copricapo con monete",
-    "ja": "コインヘッドピース"
-  },
+  "name": "Coin Headpiece",
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "cosmos-crown",
-  "name": {
-    "en-US": "Cosmos Crown"
-  },
+  "name": "Cosmos Crown",
   "games": {
     "nh": {
       "orderable": false,

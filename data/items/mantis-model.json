@@ -1,8 +1,6 @@
 {
   "id": "mantis-model",
-  "name": {
-    "en-US": "Mantis Model"
-  },
+  "name": "Mantis Model",
   "games": {
     "nh": {
       "sellPrice": {

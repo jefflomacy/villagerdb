@@ -1,14 +1,6 @@
 {
   "id": "speed-bag",
-  "name": {
-    "de": "Maisbirne",
-    "en-GB": "Speed Bag",
-    "en-US": "Speed Bag",
-    "es": "Balón pera",
-    "fr": "Ballon vitesse",
-    "it": "Punching ball",
-    "ja": "スピードバッグ"
-  },
+  "name": "Speed Bag",
   "category": "Furniture",
   "games": {
     "nl": {

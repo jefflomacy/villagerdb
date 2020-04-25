@@ -1,14 +1,6 @@
 {
   "id": "orange-cone",
-  "name": {
-    "de": "Absperrhütchen",
-    "en-GB": "Orange Cone",
-    "en-US": "Orange Cone",
-    "es": "Cono naranja",
-    "fr": "Cône orange",
-    "it": "Cono arancione",
-    "ja": "パイロン"
-  },
+  "name": "Orange Cone",
   "category": "Furniture",
   "games": {
     "nl": {

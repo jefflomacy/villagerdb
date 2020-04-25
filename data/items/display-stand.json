@@ -1,14 +1,6 @@
 {
   "id": "display-stand",
-  "name": {
-    "de": "Ausstellungssockel",
-    "en-GB": "Display Stand",
-    "en-US": "Display Stand",
-    "es": "Podio de exposición",
-    "fr": "Socle",
-    "it": "Espositore piccolo",
-    "ja": "てんじだい"
-  },
+  "name": "Display Stand",
   "category": "Furniture",
   "games": {
     "nl": {

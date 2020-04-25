@@ -1,14 +1,6 @@
 {
   "id": "lovely-end-table",
-  "name": {
-    "de": "Herzchentisch",
-    "en-GB": "Lovely End Table",
-    "en-US": "Lovely End Table",
-    "es": "Mesita corazón",
-    "fr": "Guéridon c\\u0153ur",
-    "it": "Tavolino cuori",
-    "ja": "ラブリーテーブル"
-  },
+  "name": "Lovely End Table",
   "category": "Furniture",
   "games": {
     "nl": {

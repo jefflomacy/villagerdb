@@ -1,14 +1,6 @@
 {
   "id": "azalea-bonsai",
-  "name": {
-    "de": "Azaleen-Bonsai",
-    "en-GB": "Azalea Bonsai",
-    "en-US": "Azalea Bonsai",
-    "es": "Azalea bonsái",
-    "fr": "Bonsaï azalée",
-    "it": "Bonsai azalea",
-    "ja": "サツキのぼんさい"
-  },
+  "name": "Azalea Bonsai",
   "category": "Furniture",
   "games": {
     "nl": {

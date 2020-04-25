@@ -1,14 +1,6 @@
 {
   "id": "spooky-chair",
-  "name": {
-    "de": "Kürbisstuhl",
-    "en-GB": "Spooky Chair",
-    "en-US": "Spooky Chair",
-    "es": "Silla calabaza",
-    "fr": "Chaise Halloween",
-    "it": "Sedia brividi",
-    "ja": "ハロウィンチェア"
-  },
+  "name": "Spooky Chair",
   "category": "Furniture",
   "games": {
     "nl": {

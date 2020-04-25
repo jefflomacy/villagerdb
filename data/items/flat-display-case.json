@@ -1,14 +1,6 @@
 {
   "id": "flat-display-case",
-  "name": {
-    "de": "Tischvitrine",
-    "en-GB": "Flat Display Case",
-    "en-US": "Flat Display Case",
-    "es": "Expositor horizontal",
-    "fr": "Vitrine horizontale",
-    "it": "Espositore orizz.",
-    "ja": "ひらたいてんじケース"
-  },
+  "name": "Flat Display Case",
   "category": "Furniture",
   "games": {
     "nl": {

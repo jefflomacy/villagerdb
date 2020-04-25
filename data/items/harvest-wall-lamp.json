@@ -1,14 +1,6 @@
 {
   "id": "harvest-wall-lamp",
-  "name": {
-    "de": "Herbstwandlampe",
-    "en-GB": "Harvest Wall Lamp",
-    "en-US": "Harvest Wall Lamp",
-    "es": "Lámpara pared pavo",
-    "fr": "Lampe mur dindon",
-    "it": "Lamp. muro autunno",
-    "ja": "ハーベストかべかけランプ"
-  },
+  "name": "Harvest Wall Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

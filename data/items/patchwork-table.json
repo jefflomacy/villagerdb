@@ -1,14 +1,6 @@
 {
   "id": "patchwork-table",
-  "name": {
-    "de": "Patchwork-Tisch",
-    "en-GB": "Patchwork Table",
-    "en-US": "Patchwork Table",
-    "es": "Mesa de retales",
-    "fr": "Table patchwork",
-    "it": "Tavolo patchwork",
-    "ja": "パッチワークなテーブル"
-  },
+  "name": "Patchwork Table",
   "category": "Furniture",
   "games": {
     "nl": {

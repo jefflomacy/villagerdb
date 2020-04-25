@@ -1,8 +1,6 @@
 {
   "id": "boones-poster",
-  "name": {
-    "en-US": "Boone's Poster"
-  },
+  "name": "Boone's Poster",
   "games": {
     "nh": {
       "sources": [

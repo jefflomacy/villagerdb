@@ -1,8 +1,6 @@
 {
   "id": "modern-tearoom-wall",
-  "name": {
-    "en-US": "Modern Tearoom Wall"
-  },
+  "name": "Modern Tearoom Wall",
   "games": {
     "nh": {
       "orderable": true,

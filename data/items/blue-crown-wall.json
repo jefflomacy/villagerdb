@@ -1,8 +1,6 @@
 {
   "id": "blue-crown-wall",
-  "name": {
-    "en-US": "Blue-crown Wall"
-  },
+  "name": "Blue-crown Wall",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "aurora-screen",
-  "name": {
-    "de": "Nordlicht-Raumteiler",
-    "en-GB": "Aurora Screen",
-    "en-US": "Aurora Screen",
-    "es": "Biombo aurora",
-    "fr": "Paravent aurore",
-    "it": "Separé aurora",
-    "ja": "オーロラスクリーン"
-  },
+  "name": "Aurora Screen",
   "category": "Furniture",
   "games": {
     "nl": {

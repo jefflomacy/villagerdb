@@ -1,8 +1,6 @@
 {
   "id": "marine-pop-flooring",
-  "name": {
-    "en-US": "Marine Pop Flooring"
-  },
+  "name": "Marine Pop Flooring",
   "games": {
     "nh": {
       "orderable": true,

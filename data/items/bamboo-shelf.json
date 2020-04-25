@@ -1,8 +1,6 @@
 {
   "id": "bamboo-shelf",
-  "name": {
-    "en-US": "Bamboo Shelf"
-  },
+  "name": "Bamboo Shelf",
   "games": {
     "nh": {
       "orderable": false,

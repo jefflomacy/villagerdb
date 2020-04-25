@@ -1,8 +1,6 @@
 {
   "id": "simple-knee-high-socks",
-  "name": {
-    "en-US": "Simple Knee-high Socks"
-  },
+  "name": "Simple Knee-high Socks",
   "games": {
     "nh": {
       "sellPrice": {

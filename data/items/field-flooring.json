@@ -1,8 +1,6 @@
 {
   "id": "field-flooring",
-  "name": {
-    "en-US": "Field Flooring"
-  },
+  "name": "Field Flooring",
   "games": {
     "nh": {
       "sellPrice": {

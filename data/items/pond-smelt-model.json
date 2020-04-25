@@ -1,8 +1,6 @@
 {
   "id": "pond-smelt-model",
-  "name": {
-    "en-US": "Pond Smelt Model"
-  },
+  "name": "Pond Smelt Model",
   "games": {
     "nh": {
       "orderable": false,

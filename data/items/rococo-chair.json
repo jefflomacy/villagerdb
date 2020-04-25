@@ -1,14 +1,6 @@
 {
   "id": "rococo-chair",
-  "name": {
-    "de": "Rokoko-Sessel",
-    "en-GB": "Rococo Chair",
-    "en-US": "Rococo Chair",
-    "es": "Butaca rococó",
-    "fr": "Fauteuil rococo",
-    "it": "Sedia rococò",
-    "ja": "ロココなチェア"
-  },
+  "name": "Rococo Chair",
   "category": "Furniture",
   "games": {
     "nl": {

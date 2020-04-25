@@ -1,14 +1,6 @@
 {
   "id": "mini-circuit",
-  "name": {
-    "de": "Autorennbahn",
-    "en-GB": "Mini Circuit",
-    "en-US": "Mini Circuit",
-    "es": "Circuito miniatura",
-    "fr": "Circuit miniature",
-    "it": "Pista giocattolo",
-    "ja": "ミニサーキット"
-  },
+  "name": "Mini Circuit",
   "category": "Furniture",
   "games": {
     "nl": {

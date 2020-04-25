@@ -1,14 +1,6 @@
 {
   "id": "kiddie-dresser",
-  "name": {
-    "de": "Kinderkommode",
-    "en-GB": "Kiddie Dresser",
-    "en-US": "Kiddie Dresser",
-    "es": "Cómoda puzle",
-    "fr": "Commode enfant",
-    "it": "Comodino bimbi",
-    "ja": "カラフルなタンス"
-  },
+  "name": "Kiddie Dresser",
   "category": "Furniture",
   "games": {
     "nl": {

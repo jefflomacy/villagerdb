@@ -1,8 +1,6 @@
 {
   "id": "wooden-full-length-mirror",
-  "name": {
-    "en-US": "Wooden Full-length Mirror"
-  },
+  "name": "Wooden Full-length Mirror",
   "games": {
     "nh": {
       "orderable": false,

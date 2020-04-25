@@ -1,8 +1,6 @@
 {
   "id": "ophthalmo-torso",
-  "name": {
-    "en-US": "Ophthalmo Torso"
-  },
+  "name": "Ophthalmo Torso",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "golden-dishes",
-  "name": {
-    "en-US": "Golden Dishes"
-  },
+  "name": "Golden Dishes",
   "games": {
     "nh": {
       "customizable": false,

@@ -1,14 +1,6 @@
 {
   "id": "card-bed",
-  "name": {
-    "de": "Kartenbett",
-    "en-GB": "Card Bed",
-    "en-US": "Card Bed",
-    "es": "Cama naipes",
-    "fr": "Lit cartes",
-    "it": "Letto carte",
-    "ja": "トランプベッド"
-  },
+  "name": "Card Bed",
   "category": "Furniture",
   "games": {
     "nl": {

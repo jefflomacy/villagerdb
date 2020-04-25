@@ -1,14 +1,6 @@
 {
   "id": "card-table",
-  "name": {
-    "de": "Kartentisch",
-    "en-GB": "Card Table",
-    "en-US": "Card Table",
-    "es": "Mesa naipes",
-    "fr": "Table cartes",
-    "it": "Tavolo carte",
-    "ja": "トランプテーブル"
-  },
+  "name": "Card Table",
   "category": "Furniture",
   "games": {
     "nl": {

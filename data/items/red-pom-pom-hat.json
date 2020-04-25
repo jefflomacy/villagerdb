@@ -1,14 +1,6 @@
 {
   "id": "red-pom-pom-hat",
-  "name": {
-    "de": "Puschelmütze",
-    "en-GB": "Red Pom-Pom Hat",
-    "en-US": "Red Pom-Pom Hat",
-    "es": "Gorro pompón",
-    "fr": "Pompon rouge",
-    "it": "Berretto rosso",
-    "ja": "あかボンボンニットぼう"
-  },
+  "name": "Red Pom-pom Hat",
   "category": "Hats",
   "games": {
     "nl": {

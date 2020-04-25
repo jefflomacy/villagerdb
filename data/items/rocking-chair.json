@@ -1,14 +1,6 @@
 {
   "id": "rocking-chair",
-  "name": {
-    "de": "Schaukelstuhl",
-    "en-GB": "Rocking Chair",
-    "en-US": "Rocking Chair",
-    "es": "Mecedora",
-    "fr": "Rocking-chair",
-    "it": "Sedia a dondolo",
-    "ja": "ロッキングチェア"
-  },
+  "name": "Rocking Chair",
   "category": "Furniture",
   "games": {
     "nl": {

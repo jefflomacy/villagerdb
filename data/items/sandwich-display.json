@@ -1,14 +1,6 @@
 {
   "id": "sandwich-display",
-  "name": {
-    "de": "Kühlregal",
-    "en-GB": "Sandwich Display",
-    "en-US": "Sandwich Display",
-    "es": "Estantería bocatas",
-    "fr": "Rayon sandwichs",
-    "it": "Distributore panini",
-    "ja": "おにぎりとべんとうのたな"
-  },
+  "name": "Sandwich Display",
   "category": "Furniture",
   "games": {
     "nl": {

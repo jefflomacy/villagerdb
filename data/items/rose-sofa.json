@@ -1,14 +1,6 @@
 {
   "id": "rose-sofa",
-  "name": {
-    "de": "Rosensessel",
-    "en-GB": "Rose Sofa",
-    "en-US": "Rose Sofa",
-    "es": "Butaca rosa",
-    "fr": "Canapé rose",
-    "it": "Poltrona rosa",
-    "ja": "バラのソファ"
-  },
+  "name": "Rose Sofa",
   "category": "Furniture",
   "games": {
     "nl": {

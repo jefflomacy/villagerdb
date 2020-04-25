@@ -1,8 +1,6 @@
 {
   "id": "sturdy-sewing-box",
-  "name": {
-    "en-US": "Sturdy Sewing Box"
-  },
+  "name": "Sturdy Sewing Box",
   "games": {
     "nh": {
       "orderable": true,

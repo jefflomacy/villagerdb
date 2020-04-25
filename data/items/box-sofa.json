@@ -1,14 +1,6 @@
 {
   "id": "box-sofa",
-  "name": {
-    "de": "Sofa-Element",
-    "en-GB": "Box Sofa",
-    "en-US": "Box Sofa",
-    "es": "Módulo sofá largo",
-    "fr": "Module de canapé",
-    "it": "Sofà elemento lungo",
-    "ja": "ボックスソファ"
-  },
+  "name": "Box Sofa",
   "category": "Furniture",
   "games": {
     "nl": {

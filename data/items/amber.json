@@ -1,14 +1,6 @@
 {
   "id": "amber",
-  "name": {
-    "de": "Bernstein",
-    "en-GB": "Amber",
-    "en-US": "Amber",
-    "es": "Ámbar",
-    "fr": "Ambre",
-    "it": "Ambra",
-    "ja": "コハク"
-  },
+  "name": "Amber",
   "category": "Fossils",
   "games": {
     "nl": {

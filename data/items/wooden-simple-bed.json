@@ -1,8 +1,6 @@
 {
   "id": "wooden-simple-bed",
-  "name": {
-    "en-US": "Wooden Simple Bed"
-  },
+  "name": "Wooden Simple Bed",
   "games": {
     "nh": {
       "orderable": false,

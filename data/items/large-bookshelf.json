@@ -1,14 +1,6 @@
 {
   "id": "large-bookshelf",
-  "name": {
-    "de": "Doppel-Bücherregal",
-    "en-GB": "Large Bookshelf",
-    "en-US": "Large Bookshelf",
-    "es": "Librería grande",
-    "fr": "Bibliothèque massive",
-    "it": "Libreria grande",
-    "ja": "りょうめんのほんだな"
-  },
+  "name": "Large Bookshelf",
   "category": "Furniture",
   "games": {
     "nl": {

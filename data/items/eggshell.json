@@ -1,8 +1,6 @@
 {
   "id": "eggshell",
-  "name": {
-    "en-US": "Eggshell"
-  },
+  "name": "Eggshell",
   "games": {
     "nh": {
       "sellPrice": {

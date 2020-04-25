@@ -1,14 +1,6 @@
 {
   "id": "spino-tail",
-  "name": {
-    "de": "Spinosaurus-Schwanz",
-    "en-GB": "Spino Tail",
-    "en-US": "Spino Tail",
-    "es": "Cola espinosaurio",
-    "fr": "Queue de spinosaurus",
-    "it": "Coda spinosauro",
-    "ja": "スピノサウルスのしっぽ"
-  },
+  "name": "Spino Tail",
   "category": "Fossils",
   "games": {
     "nl": {

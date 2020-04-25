@@ -1,8 +1,6 @@
 {
   "id": "luckys-poster",
-  "name": {
-    "en-US": "Lucky's Poster"
-  },
+  "name": "Lucky's Poster",
   "games": {
     "nh": {
       "sources": [

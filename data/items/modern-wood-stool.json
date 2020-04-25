@@ -1,14 +1,6 @@
 {
   "id": "modern-wood-stool",
-  "name": {
-    "de": "Buntholzhocker",
-    "en-GB": "Modern Wood Stool",
-    "en-US": "Modern Wood Stool",
-    "es": "Taburete listones",
-    "fr": "Siège bois moderne",
-    "it": "Sgabello legno",
-    "ja": "ミックスウッドのスツール"
-  },
+  "name": "Modern Wood Stool",
   "category": "Furniture",
   "games": {
     "nl": {

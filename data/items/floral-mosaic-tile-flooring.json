@@ -1,8 +1,6 @@
 {
   "id": "floral-mosaic-tile-flooring",
-  "name": {
-    "en-US": "Floral Mosaic-tile Flooring"
-  },
+  "name": "Floral Mosaic-tile Flooring",
   "games": {
     "nh": {
       "orderable": true,

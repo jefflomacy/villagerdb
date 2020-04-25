@@ -1,8 +1,6 @@
 {
   "id": "underwater-flooring",
-  "name": {
-    "en-US": "Underwater Flooring"
-  },
+  "name": "Underwater Flooring",
   "games": {
     "nh": {
       "sellPrice": {

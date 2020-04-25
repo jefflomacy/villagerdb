@@ -1,14 +1,6 @@
 {
   "id": "desk-light",
-  "name": {
-    "de": "Arbeitslampe",
-    "en-GB": "Desk Light",
-    "en-US": "Desk Light",
-    "es": "Lámpara despacho",
-    "fr": "Lampe de bureau",
-    "it": "Lampada da tavolo",
-    "ja": "スタンドけいこうとう"
-  },
+  "name": "Desk Light",
   "category": "Furniture",
   "games": {
     "nl": {

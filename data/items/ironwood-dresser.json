@@ -1,8 +1,6 @@
 {
   "id": "ironwood-dresser",
-  "name": {
-    "en-US": "Ironwood Dresser"
-  },
+  "name": "Ironwood Dresser",
   "games": {
     "nh": {
       "orderable": false,

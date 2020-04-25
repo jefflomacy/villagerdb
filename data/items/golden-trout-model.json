@@ -1,8 +1,6 @@
 {
   "id": "golden-trout-model",
-  "name": {
-    "en-US": "Golden Trout Model"
-  },
+  "name": "Golden Trout Model",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,8 +1,6 @@
 {
   "id": "beige-art-deco-wall",
-  "name": {
-    "en-US": "Beige Art-deco Wall"
-  },
+  "name": "Beige Art-deco Wall",
   "games": {
     "nh": {
       "orderable": true,

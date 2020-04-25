@@ -1,8 +1,6 @@
 {
   "id": "nook-inc-blouson",
-  "name": {
-    "en-US": "Nook Inc. Blouson"
-  },
+  "name": "Nook Inc. Blouson",
   "games": {
     "nh": {
       "orderable": true,

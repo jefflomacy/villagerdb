@@ -1,14 +1,6 @@
 {
   "id": "manhole-cover",
-  "name": {
-    "de": "Kanaldeckel",
-    "en-GB": "Manhole Cover",
-    "en-US": "Manhole Cover",
-    "es": "Tapa cloaca",
-    "fr": "Plaque d'égout",
-    "it": "Tombino",
-    "ja": "マンホール"
-  },
+  "name": "Manhole Cover",
   "category": "Furniture",
   "games": {
     "nl": {

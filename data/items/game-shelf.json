@@ -1,14 +1,6 @@
 {
   "id": "game-shelf",
-  "name": {
-    "de": "Regal",
-    "en-GB": "Game Shelf",
-    "en-US": "Game Shelf",
-    "es": "Estantería plástico",
-    "fr": "étagère en plastique",
-    "it": "Scaffale in plastica",
-    "ja": "カラーボックス"
-  },
+  "name": "Game Shelf",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "chocolate-herringbone-wall",
-  "name": {
-    "en-US": "Chocolate Herringbone Wall"
-  },
+  "name": "Chocolate Herringbone Wall",
   "games": {
     "nh": {
       "customizable": false,

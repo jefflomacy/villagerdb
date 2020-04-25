@@ -1,14 +1,6 @@
 {
   "id": "beige-tights",
-  "name": {
-    "de": "Braunstrumpfhose",
-    "en-GB": "Beige Tights",
-    "en-US": "Beige Tights",
-    "es": "Media rayas marrón",
-    "fr": "Collant brun",
-    "it": "Paio calze ocra",
-    "ja": "ベージュのタイツ"
-  },
+  "name": "Beige Tights",
   "category": "Socks",
   "games": {
     "nl": {

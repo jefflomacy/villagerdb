@@ -1,8 +1,6 @@
 {
   "id": "miras-poster",
-  "name": {
-    "en-US": "Mira's Poster"
-  },
+  "name": "Mira's Poster",
   "games": {
     "nh": {
       "sources": [

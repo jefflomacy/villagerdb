@@ -1,14 +1,6 @@
 {
   "id": "gelato-shirt",
-  "name": {
-    "de": "3-Farben-Pulli",
-    "en-GB": "Gelato Shirt",
-    "en-US": "Gelato Shirt",
-    "es": "Jersey góndola",
-    "fr": "Pull Rome",
-    "it": "Maglia tricolore",
-    "ja": "いちごボーダーなふくL"
-  },
+  "name": "Gelato Shirt",
   "category": "Tops",
   "games": {
     "nl": {

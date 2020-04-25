@@ -1,14 +1,6 @@
 {
   "id": "mandarin-hat",
-  "name": {
-    "de": "Mandarinenhut",
-    "en-GB": "Mandarin Hat",
-    "en-US": "Mandarin Hat",
-    "es": "Gorro mandarina",
-    "fr": "Chapeau mandarine",
-    "it": "Cappello mandarino",
-    "ja": "なつみかんのぼうし"
-  },
+  "name": "Mandarin Hat",
   "category": "Hats",
   "games": {
     "nl": {

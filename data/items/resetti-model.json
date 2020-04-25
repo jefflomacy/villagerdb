@@ -1,14 +1,6 @@
 {
   "id": "resetti-model",
-  "name": {
-    "de": "Resetti-Figur",
-    "en-GB": "Resetti Model",
-    "en-US": "Resetti Model",
-    "es": "Mini Rese T. Ado",
-    "fr": "Mini Resetti",
-    "it": "Modellino di Resetti",
-    "ja": "リセットさんのもけい"
-  },
+  "name": "Resetti Model",
   "category": "Furniture",
   "games": {
     "nl": {

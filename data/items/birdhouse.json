@@ -1,14 +1,6 @@
 {
   "id": "birdhouse",
-  "name": {
-    "de": "Vogelhaus",
-    "en-GB": "Birdhouse",
-    "en-US": "Birdhouse",
-    "es": "Casita pájaros",
-    "fr": "Abri à oiseaux",
-    "it": "Casetta uccelli",
-    "ja": "すばこ"
-  },
+  "name": "Birdhouse",
   "category": "Furniture",
   "games": {
     "nl": {

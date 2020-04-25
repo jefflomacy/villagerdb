@@ -1,8 +1,6 @@
 {
   "id": "imperial-dining-table",
-  "name": {
-    "en-US": "Imperial Dining Table"
-  },
+  "name": "Imperial Dining Table",
   "games": {
     "nh": {
       "sellPrice": {

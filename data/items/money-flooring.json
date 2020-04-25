@@ -1,8 +1,6 @@
 {
   "id": "money-flooring",
-  "name": {
-    "en-US": "Money Flooring"
-  },
+  "name": "Money Flooring",
   "games": {
     "nh": {
       "customizable": false,

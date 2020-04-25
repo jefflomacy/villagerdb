@@ -1,14 +1,6 @@
 {
   "id": "go-board",
-  "name": {
-    "de": "Go-Brett",
-    "en-GB": "Go Board",
-    "en-US": "Go Board",
-    "es": "Tablero de go",
-    "fr": "Table de go",
-    "it": "Tavola da go",
-    "ja": "ごばん"
-  },
+  "name": "Go Board",
   "category": "Furniture",
   "games": {
     "nl": {

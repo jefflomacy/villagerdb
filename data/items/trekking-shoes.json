@@ -1,8 +1,6 @@
 {
   "id": "trekking-shoes",
-  "name": {
-    "en-US": "Trekking Shoes"
-  },
+  "name": "Trekking Shoes",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "vibraphone",
-  "name": {
-    "de": "Vibrafon",
-    "en-GB": "Vibraphone",
-    "en-US": "Vibraphone",
-    "es": "Vibráfono",
-    "fr": "Vibraphone",
-    "it": "Vibrafono",
-    "ja": "ヴィブラフォン"
-  },
+  "name": "Vibraphone",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "napoleonfish-model",
-  "name": {
-    "en-US": "Napoleonfish Model"
-  },
+  "name": "Napoleonfish Model",
   "games": {
     "nh": {
       "sellPrice": {

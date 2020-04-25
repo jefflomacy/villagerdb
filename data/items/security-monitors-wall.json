@@ -1,8 +1,6 @@
 {
   "id": "security-monitors-wall",
-  "name": {
-    "en-US": "Security-monitors Wall"
-  },
+  "name": "Security-monitors Wall",
   "games": {
     "nh": {
       "sellPrice": {

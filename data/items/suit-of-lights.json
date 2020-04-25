@@ -1,8 +1,6 @@
 {
   "id": "suit-of-lights",
-  "name": {
-    "en-US": "Suit Of Lights"
-  },
+  "name": "Suit Of Lights",
   "games": {
     "nh": {
       "orderable": true,

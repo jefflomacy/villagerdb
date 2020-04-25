@@ -1,14 +1,6 @@
 {
   "id": "cream-and-sugar",
-  "name": {
-    "de": "Milch- und Zuckerset",
-    "en-GB": "Cream And Sugar",
-    "en-US": "Cream And Sugar",
-    "es": "Bandeja leche/azúcar",
-    "fr": "Pot de lait et sucre",
-    "it": "Latte con zucchero",
-    "ja": "シュガー&ミルク"
-  },
+  "name": "Cream And Sugar",
   "category": "Furniture",
   "games": {
     "nl": {

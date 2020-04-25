@@ -1,14 +1,6 @@
 {
   "id": "harvest-clock",
-  "name": {
-    "de": "Herbstuhr",
-    "en-GB": "Harvest Clock",
-    "en-US": "Harvest Clock",
-    "es": "Reloj pavo",
-    "fr": "Horloge dindon",
-    "it": "Orologio autunno",
-    "ja": "ハーベストクロック"
-  },
+  "name": "Harvest Clock",
   "category": "Furniture",
   "games": {
     "nl": {

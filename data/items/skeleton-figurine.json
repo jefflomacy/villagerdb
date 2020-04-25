@@ -1,14 +1,6 @@
 {
   "id": "skeleton-figurine",
-  "name": {
-    "de": "Knochenfigur",
-    "en-GB": "Skeleton Figurine",
-    "en-US": "Skeleton Figurine",
-    "es": "Muñeco esqueleto",
-    "fr": "Statuette squelette",
-    "it": "Statuina scheletro",
-    "ja": "ガイコツのおきもの"
-  },
+  "name": "Skeleton Figurine",
   "category": "Furniture",
   "games": {
     "nl": {

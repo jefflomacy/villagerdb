@@ -1,14 +1,6 @@
 {
   "id": "dragon-leggings",
-  "name": {
-    "de": "Drachenhose",
-    "en-GB": "Dragon Leggings",
-    "en-US": "Dragon Leggings",
-    "es": "Pantalón dragón",
-    "fr": "Pantalon dragon",
-    "it": "Pantalone drago",
-    "ja": "ドラゴンレギンス"
-  },
+  "name": "Dragon Leggings",
   "category": "Bottoms",
   "games": {
     "nl": {

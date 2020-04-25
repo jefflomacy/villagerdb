@@ -1,14 +1,6 @@
 {
   "id": "card-shelf",
-  "name": {
-    "de": "Kartenregal",
-    "en-GB": "Card Shelf",
-    "en-US": "Card Shelf",
-    "es": "Estantería naipes",
-    "fr": "étagère cartes",
-    "it": "Scaffale carte",
-    "ja": "トランプシェルフ"
-  },
+  "name": "Card Shelf",
   "category": "Furniture",
   "games": {
     "nl": {

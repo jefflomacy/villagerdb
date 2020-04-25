@@ -1,8 +1,6 @@
 {
   "id": "three-quarter-sweatpants",
-  "name": {
-    "en-US": "Three-quarter Sweatpants"
-  },
+  "name": "Three-quarter Sweatpants",
   "games": {
     "nh": {
       "orderable": true,

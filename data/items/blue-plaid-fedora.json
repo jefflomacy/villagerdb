@@ -1,14 +1,6 @@
 {
   "id": "blue-plaid-fedora",
-  "name": {
-    "de": "Karo-Filzhut",
-    "en-GB": "Blue Plaid Fedora",
-    "en-US": "Blue Plaid Fedora",
-    "es": "Sombrero cuadros",
-    "fr": "Borsalino plaid bleu",
-    "it": "Cappello plaid blu",
-    "ja": "なかおれハット"
-  },
+  "name": "Blue Plaid Fedora",
   "category": "Hats",
   "games": {
     "nl": {

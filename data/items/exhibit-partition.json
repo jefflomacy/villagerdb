@@ -1,14 +1,6 @@
 {
   "id": "exhibit-partition",
-  "name": {
-    "de": "Ausstellungswand",
-    "en-GB": "Exhibit Partition",
-    "en-US": "Exhibit Partition",
-    "es": "Panel de exposición",
-    "fr": "Panneau d'exposition",
-    "it": "Pannello espositivo",
-    "ja": "てんじパーテーション"
-  },
+  "name": "Exhibit Partition",
   "category": "Furniture",
   "games": {
     "nl": {

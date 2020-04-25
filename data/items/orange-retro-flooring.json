@@ -1,8 +1,6 @@
 {
   "id": "orange-retro-flooring",
-  "name": {
-    "en-US": "Orange Retro Flooring"
-  },
+  "name": "Orange Retro Flooring",
   "games": {
     "nh": {
       "orderable": true,

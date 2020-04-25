@@ -1,14 +1,6 @@
 {
   "id": "balloon-vanity",
-  "name": {
-    "de": "Ballonspiegel",
-    "en-GB": "Balloon Vanity",
-    "en-US": "Balloon Vanity",
-    "es": "Tocador globos",
-    "fr": "Coiffeuse ballons",
-    "it": "Toletta palloncini",
-    "ja": "バルーンドレッサー"
-  },
+  "name": "Balloon Vanity",
   "category": "Furniture",
   "games": {
     "nl": {

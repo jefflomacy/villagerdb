@@ -1,8 +1,6 @@
 {
   "id": "starry-tank",
-  "name": {
-    "en-US": "Starry Tank"
-  },
+  "name": "Starry Tank",
   "games": {
     "nh": {
       "sellPrice": {

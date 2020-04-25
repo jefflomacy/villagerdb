@@ -1,14 +1,6 @@
 {
   "id": "minimalist-clock",
-  "name": {
-    "de": "Minimaluhr",
-    "en-GB": "Minimalist Clock",
-    "en-US": "Minimalist Clock",
-    "es": "Reloj minimalista",
-    "fr": "Horloge minimaliste",
-    "it": "Orologio minimalista",
-    "ja": "シンプルなとけい"
-  },
+  "name": "Minimalist Clock",
   "category": "Furniture",
   "games": {
     "nl": {

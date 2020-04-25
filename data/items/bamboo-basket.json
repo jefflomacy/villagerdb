@@ -1,8 +1,6 @@
 {
   "id": "bamboo-basket",
-  "name": {
-    "en-US": "Bamboo Basket"
-  },
+  "name": "Bamboo Basket",
   "games": {
     "nh": {
       "orderable": false,

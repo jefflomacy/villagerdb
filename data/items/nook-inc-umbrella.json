@@ -1,8 +1,6 @@
 {
   "id": "nook-inc-umbrella",
-  "name": {
-    "en-US": "Nook Inc. Umbrella"
-  },
+  "name": "Nook Inc. Umbrella",
   "games": {
     "nh": {
       "orderable": true,

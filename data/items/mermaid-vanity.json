@@ -1,14 +1,6 @@
 {
   "id": "mermaid-vanity",
-  "name": {
-    "de": "Nixenspiegel",
-    "en-GB": "Mermaid Vanity",
-    "en-US": "Mermaid Vanity",
-    "es": "Tocador sirena",
-    "fr": "Coiffeuse sirène",
-    "it": "Toletta sirena",
-    "ja": "マーメイドなドレッサー"
-  },
+  "name": "Mermaid Vanity",
   "category": "Furniture",
   "games": {
     "nl": {

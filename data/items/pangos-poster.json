@@ -1,8 +1,6 @@
 {
   "id": "pangos-poster",
-  "name": {
-    "en-US": "Pango's Poster"
-  },
+  "name": "Pango's Poster",
   "games": {
     "nh": {
       "sources": [

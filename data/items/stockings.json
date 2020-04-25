@@ -1,8 +1,6 @@
 {
   "id": "stockings",
-  "name": {
-    "en-US": "Stockings"
-  },
+  "name": "Stockings",
   "games": {
     "nh": {
       "orderable": true,

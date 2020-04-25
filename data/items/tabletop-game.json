@@ -1,14 +1,6 @@
 {
   "id": "tabletop-game",
-  "name": {
-    "de": "Videospieltisch",
-    "en-GB": "Tabletop Game",
-    "en-US": "Tabletop Game",
-    "es": "Juego espacial",
-    "fr": "Table de jeux",
-    "it": "Gioco spaziale",
-    "ja": "テーブルきょうたい"
-  },
+  "name": "Tabletop Game",
   "category": "Furniture",
   "games": {
     "nl": {

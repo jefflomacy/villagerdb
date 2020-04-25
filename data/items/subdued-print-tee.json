@@ -1,14 +1,6 @@
 {
   "id": "subdued-print-tee",
-  "name": {
-    "de": "Leinenshirt",
-    "en-GB": "Subdued-Print Tee",
-    "en-US": "Subdued-Print Tee",
-    "es": "Camiseta naranja",
-    "fr": "T-shirt atténué",
-    "it": "Maglietta marrone",
-    "ja": "たんぼぎ"
-  },
+  "name": "Subdued-print Tee",
   "category": "Tops",
   "games": {
     "nl": {

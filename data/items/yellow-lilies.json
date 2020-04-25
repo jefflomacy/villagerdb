@@ -1,8 +1,6 @@
 {
   "id": "yellow-lilies",
-  "name": {
-    "en-US": "Yellow Lilies"
-  },
+  "name": "Yellow Lilies",
   "games": {
     "nh": {
       "orderable": false,

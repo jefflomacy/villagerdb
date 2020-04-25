@@ -1,8 +1,6 @@
 {
   "id": "purple-camo-wall",
-  "name": {
-    "en-US": "Purple Camo Wall"
-  },
+  "name": "Purple Camo Wall",
   "games": {
     "nh": {
       "sellPrice": {

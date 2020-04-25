@@ -1,14 +1,6 @@
 {
   "id": "aquarius-urn",
-  "name": {
-    "de": "Wassermann-Krug",
-    "en-GB": "Aquarius Urn",
-    "en-US": "Aquarius Urn",
-    "es": "Vasija Acuario",
-    "fr": "Vase Verseau",
-    "it": "Urna Acquario",
-    "ja": "アクエリアスのみずがめ"
-  },
+  "name": "Aquarius Urn",
   "category": "Furniture",
   "games": {
     "nl": {

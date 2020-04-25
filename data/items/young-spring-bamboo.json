@@ -1,8 +1,6 @@
 {
   "id": "young-spring-bamboo",
-  "name": {
-    "en-US": "Young Spring Bamboo"
-  },
+  "name": "Young Spring Bamboo",
   "games": {
     "nh": {
       "orderable": false,

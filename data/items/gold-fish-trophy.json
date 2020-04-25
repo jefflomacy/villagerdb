@@ -1,14 +1,6 @@
 {
   "id": "gold-fish-trophy",
-  "name": {
-    "de": "Gold-Angelpokal",
-    "en-GB": "Gold Fish Trophy",
-    "en-US": "Gold Fish Trophy",
-    "es": "Pez de oro",
-    "fr": "Trophée de pêche or",
-    "it": "Trofeo pesca oro",
-    "ja": "きんのサカナトロフィー"
-  },
+  "name": "Gold Fish Trophy",
   "category": "Furniture",
   "games": {
     "nl": {

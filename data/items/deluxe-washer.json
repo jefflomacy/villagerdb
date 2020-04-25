@@ -1,14 +1,6 @@
 {
   "id": "deluxe-washer",
-  "name": {
-    "de": "Profi-Waschmaschine",
-    "en-GB": "Deluxe Washer",
-    "en-US": "Deluxe Washer",
-    "es": "Lavadora",
-    "fr": "Lave-linge luxe",
-    "it": "Lavatrice deluxe",
-    "ja": "ドラムしきせんたくき"
-  },
+  "name": "Deluxe Washer",
   "category": "Furniture",
   "games": {
     "nl": {

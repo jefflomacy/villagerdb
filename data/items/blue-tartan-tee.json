@@ -1,14 +1,6 @@
 {
   "id": "blue-tartan-tee",
-  "name": {
-    "de": "Sittichshirt",
-    "en-GB": "Blue Tartan Tee",
-    "en-US": "Blue Tartan Tee",
-    "es": "Camiseta tartán día",
-    "fr": "T-shirt tartan bleu",
-    "it": "Maglietta tartan blu",
-    "ja": "シアンタータンのふく"
-  },
+  "name": "Blue Tartan Tee",
   "category": "Tops",
   "games": {
     "nl": {

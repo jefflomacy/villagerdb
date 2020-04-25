@@ -1,14 +1,6 @@
 {
   "id": "blue-nightcap",
-  "name": {
-    "de": "Jungen-Nachtmütze",
-    "en-GB": "Blue Nightcap",
-    "en-US": "Blue Nightcap",
-    "es": "Gorro de dormir azul",
-    "fr": "Bonnet de nuit bleu",
-    "it": "Berretto notte blu",
-    "ja": "あおいナイトキャップ"
-  },
+  "name": "Blue Nightcap",
   "category": "Hats",
   "games": {
     "nl": {

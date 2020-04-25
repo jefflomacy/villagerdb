@@ -1,14 +1,6 @@
 {
   "id": "milk-can",
-  "name": {
-    "de": "Milchkanne",
-    "en-GB": "Milk Can",
-    "en-US": "Milk Can",
-    "es": "Cántaro de leche",
-    "fr": "Pot à lait",
-    "it": "Tanica per latte",
-    "ja": "ミルクかん"
-  },
+  "name": "Milk Can",
   "category": "Furniture",
   "games": {
     "nl": {

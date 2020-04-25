@@ -1,8 +1,6 @@
 {
   "id": "rattan-flooring",
-  "name": {
-    "en-US": "Rattan Flooring"
-  },
+  "name": "Rattan Flooring",
   "games": {
     "nh": {
       "orderable": true,

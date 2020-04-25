@@ -1,14 +1,6 @@
 {
   "id": "festivale-pants",
-  "name": {
-    "de": "Karnevalshose",
-    "en-GB": "Festivale Pants",
-    "en-US": "Festivale Pants",
-    "es": "Pantalón de carnaval",
-    "fr": "Pantalon carnaval",
-    "it": "Pantalone samba",
-    "ja": "サンバなパンツ"
-  },
+  "name": "Festivale Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

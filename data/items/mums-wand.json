@@ -1,8 +1,6 @@
 {
   "id": "mums-wand",
-  "name": {
-    "en-US": "Mums Wand"
-  },
+  "name": "Mums Wand",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "fish-drying-rack",
-  "name": {
-    "en-US": "Fish-drying Rack"
-  },
+  "name": "Fish-drying Rack",
   "games": {
     "nh": {
       "sources": [

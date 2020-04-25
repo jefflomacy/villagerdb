@@ -1,14 +1,6 @@
 {
   "id": "toad-tee",
-  "name": {
-    "de": "Pilzshirt",
-    "en-GB": "Toad Tee",
-    "en-US": "Toad Tee",
-    "es": "Camiseta champiñón",
-    "fr": "T-shirt Toad",
-    "it": "Maglietta rossa pois",
-    "ja": "きのこもようのふく"
-  },
+  "name": "Toad Tee",
   "category": "Tops",
   "games": {
     "nl": {

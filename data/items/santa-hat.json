@@ -1,14 +1,6 @@
 {
   "id": "santa-hat",
-  "name": {
-    "de": "Weihnachtsmannhut",
-    "en-GB": "Santa Hat",
-    "en-US": "Santa Hat",
-    "es": "Gorro festivo",
-    "fr": "Bonnet de père Noël",
-    "it": "Capp. Babbo Natale",
-    "ja": "サンタのぼうし"
-  },
+  "name": "Santa Hat",
   "category": "Hats",
   "games": {
     "nl": {

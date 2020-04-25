@@ -1,14 +1,6 @@
 {
   "id": "green-bar-shirt",
-  "name": {
-    "de": "Apfelpulli",
-    "en-GB": "Green-Bar Shirt",
-    "en-US": "Green-Bar Shirt",
-    "es": "Jersey toldo verde",
-    "fr": "Pull raies vert",
-    "it": "Maglia bande verdi",
-    "ja": "みどりボーダーのふくL"
-  },
+  "name": "Green-bar Shirt",
   "category": "Tops",
   "games": {
     "nl": {

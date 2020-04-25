@@ -1,14 +1,6 @@
 {
   "id": "tricera-torso",
-  "name": {
-    "de": "Triceratops-Torso",
-    "en-GB": "Tricera Torso",
-    "en-US": "Tricera Torso",
-    "es": "Cuerpo triceratops",
-    "fr": "Corps de tricératops",
-    "it": "Torso triceratopo",
-    "ja": "トリケラトプスのからだ"
-  },
+  "name": "Tricera Torso",
   "category": "Fossils",
   "games": {
     "nl": {

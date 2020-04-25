@@ -1,8 +1,6 @@
 {
   "id": "snowflake-wall",
-  "name": {
-    "en-US": "Snowflake Wall"
-  },
+  "name": "Snowflake Wall",
   "games": {
     "nh": {
       "sellPrice": {

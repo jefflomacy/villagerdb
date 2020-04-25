@@ -1,14 +1,6 @@
 {
   "id": "balloon-sofa",
-  "name": {
-    "de": "Ballonsofa",
-    "en-GB": "Balloon Sofa",
-    "en-US": "Balloon Sofa",
-    "es": "Sofá globos",
-    "fr": "Canapé ballons",
-    "it": "Sofà palloncini",
-    "ja": "バルーンソファ"
-  },
+  "name": "Balloon Sofa",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "silver-fish-trophy",
-  "name": {
-    "de": "Silber-Angelpokal",
-    "en-GB": "Silver Fish Trophy",
-    "en-US": "Silver Fish Trophy",
-    "es": "Pez de plata",
-    "fr": "Trophée pêche argent",
-    "it": "Trofeo pesca argento",
-    "ja": "ぎんのサカナトロフィー"
-  },
+  "name": "Silver Fish Trophy",
   "category": "Furniture",
   "games": {
     "nl": {

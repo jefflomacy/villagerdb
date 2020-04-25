@@ -1,14 +1,6 @@
 {
   "id": "yellow-pikmin",
-  "name": {
-    "de": "Blüten-Pikmin",
-    "en-GB": "Yellow Pikmin",
-    "en-US": "Yellow Pikmin",
-    "es": "Pikmin flor",
-    "fr": "Pikmin fleuri",
-    "it": "Berr. Pikmin giallo",
-    "ja": "きピクミン"
-  },
+  "name": "Yellow Pikmin",
   "category": "Hats",
   "games": {
     "nl": {

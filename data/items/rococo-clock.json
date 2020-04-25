@@ -1,14 +1,6 @@
 {
   "id": "rococo-clock",
-  "name": {
-    "de": "Rokoko-Uhr",
-    "en-GB": "Rococo Clock",
-    "en-US": "Rococo Clock",
-    "es": "Reloj rococó",
-    "fr": "Horloge rococo",
-    "it": "Orologio rococò",
-    "ja": "ロココなとけい"
-  },
+  "name": "Rococo Clock",
   "category": "Furniture",
   "games": {
     "nl": {

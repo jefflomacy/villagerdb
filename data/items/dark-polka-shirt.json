@@ -1,14 +1,6 @@
 {
   "id": "dark-polka-shirt",
-  "name": {
-    "de": "Ballonpulli",
-    "en-GB": "Dark Polka Shirt",
-    "en-US": "Dark Polka Shirt",
-    "es": "Jersey topos noche",
-    "fr": "Pull noir à pois",
-    "it": "Maglia scura pois",
-    "ja": "くろマーブルなふくL"
-  },
+  "name": "Dark Polka Shirt",
   "category": "Tops",
   "games": {
     "nl": {

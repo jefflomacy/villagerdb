@@ -1,8 +1,6 @@
 {
   "id": "elegant-dress",
-  "name": {
-    "en-US": "Elegant Dress"
-  },
+  "name": "Elegant Dress",
   "games": {
     "nh": {
       "sellPrice": {

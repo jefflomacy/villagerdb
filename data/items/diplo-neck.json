@@ -1,14 +1,6 @@
 {
   "id": "diplo-neck",
-  "name": {
-    "de": "Seismosaurus-Hals",
-    "en-GB": "Diplo Neck",
-    "en-US": "Diplo Neck",
-    "es": "Cuello diplodocus",
-    "fr": "Cou de séismo",
-    "it": "Collo seismosauro",
-    "ja": "セイスモサウルスのくび"
-  },
+  "name": "Diplo Neck",
   "category": "Fossils",
   "games": {
     "nl": {

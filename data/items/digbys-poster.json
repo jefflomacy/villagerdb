@@ -1,8 +1,6 @@
 {
   "id": "digbys-poster",
-  "name": {
-    "en-US": "Digby's Poster"
-  },
+  "name": "Digby's Poster",
   "games": {
     "nh": {
       "sources": [

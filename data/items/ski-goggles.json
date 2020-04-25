@@ -1,8 +1,6 @@
 {
   "id": "ski-goggles",
-  "name": {
-    "en-US": "Ski Goggles"
-  },
+  "name": "Ski Goggles",
   "games": {
     "nh": {
       "sellPrice": {

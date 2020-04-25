@@ -1,8 +1,6 @@
 {
   "id": "mesh-cap",
-  "name": {
-    "en-US": "Mesh Cap"
-  },
+  "name": "Mesh Cap",
   "games": {
     "nh": {
       "orderable": true,

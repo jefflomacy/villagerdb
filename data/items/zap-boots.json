@@ -1,14 +1,6 @@
 {
   "id": "zap-boots",
-  "name": {
-    "de": "Superheldenstiefel",
-    "en-GB": "Zap Boots",
-    "en-US": "Zap Boots",
-    "es": "Superbota",
-    "fr": "P. bottes de héros",
-    "it": "Paio stivali eroe",
-    "ja": "ヒーローブーツ"
-  },
+  "name": "Zap Boots",
   "category": "Shoes",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "biwa-lute",
-  "name": {
-    "de": "Laute",
-    "en-GB": "Biwa Lute",
-    "en-US": "Biwa Lute",
-    "es": "Laúd",
-    "fr": "Luth biwa",
-    "it": "Liuto",
-    "ja": "びわ"
-  },
+  "name": "Biwa Lute",
   "category": "Furniture",
   "games": {
     "nl": {

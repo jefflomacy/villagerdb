@@ -1,8 +1,6 @@
 {
   "id": "iron-doorplate",
-  "name": {
-    "en-US": "Iron Doorplate"
-  },
+  "name": "Iron Doorplate",
   "games": {
     "nh": {
       "sellPrice": {

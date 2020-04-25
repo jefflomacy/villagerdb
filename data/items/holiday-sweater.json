@@ -1,8 +1,6 @@
 {
   "id": "holiday-sweater",
-  "name": {
-    "en-US": "Holiday Sweater"
-  },
+  "name": "Holiday Sweater",
   "games": {
     "nh": {
       "sellPrice": {

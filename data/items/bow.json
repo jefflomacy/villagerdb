@@ -1,14 +1,6 @@
 {
   "id": "bow",
-  "name": {
-    "de": "Bogen",
-    "en-GB": "Bow",
-    "en-US": "Bow",
-    "es": "Arco",
-    "fr": "Arc",
-    "it": "Arco",
-    "ja": "ゆみ"
-  },
+  "name": "Bow",
   "category": "Furniture",
   "games": {
     "nl": {

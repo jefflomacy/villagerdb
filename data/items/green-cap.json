@@ -1,14 +1,6 @@
 {
   "id": "green-cap",
-  "name": {
-    "de": "Smaragdkappe",
-    "en-GB": "Green Cap",
-    "en-US": "Green Cap",
-    "es": "Gorra verde",
-    "fr": "Casquette verte",
-    "it": "Cappello verde",
-    "ja": "みどりのキャップ"
-  },
+  "name": "Green Cap",
   "category": "Hats",
   "games": {
     "nl": {

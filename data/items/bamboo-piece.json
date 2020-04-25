@@ -1,8 +1,6 @@
 {
   "id": "bamboo-piece",
-  "name": {
-    "en-US": "Bamboo Piece"
-  },
+  "name": "Bamboo Piece",
   "games": {
     "nh": {
       "orderable": false,

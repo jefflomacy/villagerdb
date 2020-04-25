@@ -1,8 +1,6 @@
 {
   "id": "pastel-dotted-wall",
-  "name": {
-    "en-US": "Pastel Dotted Wall"
-  },
+  "name": "Pastel Dotted Wall",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,14 +1,6 @@
 {
   "id": "blue-bookcase",
-  "name": {
-    "de": "Azurregal",
-    "en-GB": "Blue Bookcase",
-    "en-US": "Blue Bookcase",
-    "es": "Librería azul",
-    "fr": "étagère bleue",
-    "it": "Libreria blu",
-    "ja": "あおいほんだな"
-  },
+  "name": "Blue Bookcase",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "shower-cap",
-  "name": {
-    "de": "Duschhaube",
-    "en-GB": "Shower Cap",
-    "en-US": "Shower Cap",
-    "es": "Gorro de ducha",
-    "fr": "Bonnet de bain",
-    "it": "Cuffia da doccia",
-    "ja": "シャワーキャップ"
-  },
+  "name": "Shower Cap",
   "category": "Hats",
   "games": {
     "nl": {

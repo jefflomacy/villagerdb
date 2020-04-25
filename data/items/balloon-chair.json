@@ -1,14 +1,6 @@
 {
   "id": "balloon-chair",
-  "name": {
-    "de": "Ballonstuhl",
-    "en-GB": "Balloon Chair",
-    "en-US": "Balloon Chair",
-    "es": "Silla globos",
-    "fr": "Chaise ballons",
-    "it": "Sedia palloncini",
-    "ja": "バルーンチェア"
-  },
+  "name": "Balloon Chair",
   "category": "Furniture",
   "games": {
     "nl": {

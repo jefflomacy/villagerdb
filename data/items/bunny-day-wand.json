@@ -1,8 +1,6 @@
 {
   "id": "bunny-day-wand",
-  "name": {
-    "en-US": "Bunny Day Wand"
-  },
+  "name": "Bunny Day Wand",
   "games": {
     "nh": {
       "orderable": false,

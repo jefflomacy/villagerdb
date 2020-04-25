@@ -1,14 +1,6 @@
 {
   "id": "mountain-bike",
-  "name": {
-    "de": "Mountainbike",
-    "en-GB": "Mountain Bike",
-    "en-US": "Mountain Bike",
-    "es": "Bici de montaña",
-    "fr": "VTT",
-    "it": "Mountain bike",
-    "ja": "マウンテンバイク"
-  },
+  "name": "Mountain Bike",
   "category": "Furniture",
   "games": {
     "nl": {

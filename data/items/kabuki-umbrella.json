@@ -1,8 +1,6 @@
 {
   "id": "kabuki-umbrella",
-  "name": {
-    "en-US": "Kabuki Umbrella"
-  },
+  "name": "Kabuki Umbrella",
   "games": {
     "nh": {
       "sellPrice": {

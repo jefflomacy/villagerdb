@@ -1,8 +1,6 @@
 {
   "id": "customization-kit",
-  "name": {
-    "en-US": "Customization Kit"
-  },
+  "name": "Customization Kit",
   "games": {
     "nh": {
       "sellPrice": {

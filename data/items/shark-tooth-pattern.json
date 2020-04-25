@@ -1,8 +1,6 @@
 {
   "id": "shark-tooth-pattern",
-  "name": {
-    "en-US": "Shark-tooth Pattern"
-  },
+  "name": "Shark-tooth Pattern",
   "games": {
     "nh": {
       "orderable": false,

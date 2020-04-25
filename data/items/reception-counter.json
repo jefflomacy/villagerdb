@@ -1,8 +1,6 @@
 {
   "id": "reception-counter",
-  "name": {
-    "en-US": "Reception Counter"
-  },
+  "name": "Reception Counter",
   "category": "Furniture",
   "games": {
     "nl": {

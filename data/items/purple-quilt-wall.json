@@ -1,8 +1,6 @@
 {
   "id": "purple-quilt-wall",
-  "name": {
-    "en-US": "Purple Quilt Wall"
-  },
+  "name": "Purple Quilt Wall",
   "games": {
     "nh": {
       "sellPrice": {

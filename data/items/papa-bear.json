@@ -1,14 +1,6 @@
 {
   "id": "papa-bear",
-  "name": {
-    "de": "Papa-Bär",
-    "en-GB": "Papa Bear",
-    "en-US": "Papa Bear",
-    "es": "Papá oso",
-    "fr": "Papa ours",
-    "it": "Papà orso",
-    "ja": "くまのダイちゃん"
-  },
+  "name": "Papa Bear",
   "category": "Furniture",
   "games": {
     "nl": {

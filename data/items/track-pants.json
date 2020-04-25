@@ -1,8 +1,6 @@
 {
   "id": "track-pants",
-  "name": {
-    "en-US": "Track Pants"
-  },
+  "name": "Track Pants",
   "games": {
     "nh": {
       "sellPrice": {

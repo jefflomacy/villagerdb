@@ -1,14 +1,6 @@
 {
   "id": "after-school-jacket",
-  "name": {
-    "de": "Rowdy-Schuljacke",
-    "en-GB": "After-School Jacket",
-    "en-US": "After-School Jacket",
-    "es": "Chaqueta abierta",
-    "fr": "Veste décontractée",
-    "it": "Giacca aperta",
-    "ja": "ヤンチャながくせいふく"
-  },
+  "name": "After-school Jacket",
   "category": "Tops",
   "games": {
     "nl": {

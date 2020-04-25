@@ -1,14 +1,6 @@
 {
   "id": "virgo-harp",
-  "name": {
-    "de": "Jungfrau-Harfe",
-    "en-GB": "Virgo Harp",
-    "en-US": "Virgo Harp",
-    "es": "Arpa Virgo",
-    "fr": "Harpe Vierge",
-    "it": "Arpa Vergine",
-    "ja": "ヴァルゴのハープ"
-  },
+  "name": "Virgo Harp",
   "category": "Furniture",
   "games": {
     "nl": {

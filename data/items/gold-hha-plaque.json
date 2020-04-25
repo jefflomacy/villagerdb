@@ -1,14 +1,6 @@
 {
   "id": "gold-hha-plaque",
-  "name": {
-    "de": "AdsH-Goldabzeichen",
-    "en-GB": "Gold HHA Plaque",
-    "en-US": "Gold HHA Plaque",
-    "es": "Placa AAD de oro",
-    "fr": "Plaque AJD or",
-    "it": "Targa ABC d'oro",
-    "ja": "アカデミーのきんのたて"
-  },
+  "name": "Gold Hha Plaque",
   "category": "Furniture",
   "games": {
     "nl": {

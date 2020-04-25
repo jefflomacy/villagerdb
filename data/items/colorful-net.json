@@ -1,8 +1,6 @@
 {
   "id": "colorful-net",
-  "name": {
-    "en-US": "Colorful Net"
-  },
+  "name": "Colorful Net",
   "games": {
     "nh": {
       "orderable": false,

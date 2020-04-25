@@ -1,14 +1,6 @@
 {
   "id": "bandana",
-  "name": {
-    "de": "Kopftuchs",
-    "en-GB": "Bandana",
-    "en-US": "Bandana",
-    "es": "Bandana",
-    "fr": "Bandana",
-    "it": "Bandana",
-    "ja": "バンダナ"
-  },
+  "name": "Bandana",
   "category": "Hats",
   "games": {
     "nl": {

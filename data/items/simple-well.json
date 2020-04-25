@@ -1,8 +1,6 @@
 {
   "id": "simple-well",
-  "name": {
-    "en-US": "Simple Well"
-  },
+  "name": "Simple Well",
   "games": {
     "nh": {
       "orderable": false,

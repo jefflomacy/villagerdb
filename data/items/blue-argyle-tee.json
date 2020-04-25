@@ -1,14 +1,6 @@
 {
   "id": "blue-argyle-tee",
-  "name": {
-    "de": "Blau-Argyle-Shirt",
-    "en-GB": "Blue Argyle Tee",
-    "en-US": "Blue Argyle Tee",
-    "es": "Camiseta pija azul",
-    "fr": "T-shirt écos. bleu",
-    "it": "Maglietta rombi blu",
-    "ja": "あおアーガイルのふく"
-  },
+  "name": "Blue Argyle Tee",
   "category": "Tops",
   "games": {
     "nl": {

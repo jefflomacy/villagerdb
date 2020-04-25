@@ -1,8 +1,6 @@
 {
   "id": "outdoorsy-shovel",
-  "name": {
-    "en-US": "Outdoorsy Shovel"
-  },
+  "name": "Outdoorsy Shovel",
   "games": {
     "nh": {
       "orderable": false,

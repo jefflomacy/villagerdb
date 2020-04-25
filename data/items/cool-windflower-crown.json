@@ -1,8 +1,6 @@
 {
   "id": "cool-windflower-crown",
-  "name": {
-    "en-US": "Cool Windflower Crown"
-  },
+  "name": "Cool Windflower Crown",
   "games": {
     "nh": {
       "orderable": false,

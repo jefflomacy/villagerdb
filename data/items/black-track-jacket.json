@@ -1,14 +1,6 @@
 {
   "id": "black-track-jacket",
-  "name": {
-    "de": "Aufwärmjacke",
-    "en-GB": "Black Track Jacket",
-    "en-US": "Black Track Jacket",
-    "es": "Sudadera sport negra",
-    "fr": "Veste survêt grise",
-    "it": "Maglia tuta nera",
-    "ja": "スポーツジャージ"
-  },
+  "name": "Black Track Jacket",
   "category": "Tops",
   "games": {
     "nl": {

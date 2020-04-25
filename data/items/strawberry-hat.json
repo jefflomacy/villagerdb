@@ -1,14 +1,6 @@
 {
   "id": "strawberry-hat",
-  "name": {
-    "de": "Erdbeerhut",
-    "en-GB": "Strawberry Hat",
-    "en-US": "Strawberry Hat",
-    "es": "Gorro fresa",
-    "fr": "Chapeau fraise",
-    "it": "Cappello fragola",
-    "ja": "いちごのぼうし"
-  },
+  "name": "Strawberry Hat",
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "blue-diner-wall",
-  "name": {
-    "en-US": "Blue Diner Wall"
-  },
+  "name": "Blue Diner Wall",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,8 +1,6 @@
 {
   "id": "eusthenopteron",
-  "name": {
-    "en-US": "Eusthenopteron"
-  },
+  "name": "Eusthenopteron",
   "games": {
     "nh": {
       "orderable": false,

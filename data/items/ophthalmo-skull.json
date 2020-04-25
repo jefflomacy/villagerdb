@@ -1,8 +1,6 @@
 {
   "id": "ophthalmo-skull",
-  "name": {
-    "en-US": "Ophthalmo Skull"
-  },
+  "name": "Ophthalmo Skull",
   "games": {
     "nh": {
       "orderable": false,

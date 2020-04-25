@@ -1,8 +1,6 @@
 {
   "id": "left-quetzal-wing",
-  "name": {
-    "en-US": "Left Quetzal Wing"
-  },
+  "name": "Left Quetzal Wing",
   "games": {
     "nh": {
       "orderable": false,

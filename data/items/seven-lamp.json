@@ -1,14 +1,6 @@
 {
   "id": "seven-lamp",
-  "name": {
-    "de": "\\u201E7\\u201C-Lampe",
-    "en-GB": "Seven Lamp",
-    "en-US": "Seven Lamp",
-    "es": "Lámpara siete",
-    "fr": "Lampe 7",
-    "it": "Lampada a 7",
-    "ja": "7のランプ"
-  },
+  "name": "Seven Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

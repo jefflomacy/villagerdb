@@ -1,8 +1,6 @@
 {
   "id": "amazing-painting",
-  "name": {
-    "en-US": "Amazing Painting"
-  },
+  "name": "Amazing Painting",
   "category": "Art",
   "games": {
     "nl": {

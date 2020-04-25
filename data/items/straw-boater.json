@@ -1,14 +1,6 @@
 {
   "id": "straw-boater",
-  "name": {
-    "de": "Kreissäge",
-    "en-GB": "Straw Boater",
-    "en-US": "Straw Boater",
-    "es": "Canotier",
-    "fr": "Canotier",
-    "it": "Paglietta",
-    "ja": "カンカンぼう"
-  },
+  "name": "Straw Boater",
   "category": "Hats",
   "games": {
     "nl": {

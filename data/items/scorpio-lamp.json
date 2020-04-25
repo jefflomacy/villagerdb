@@ -1,14 +1,6 @@
 {
   "id": "scorpio-lamp",
-  "name": {
-    "de": "Skorpion-Lampe",
-    "en-GB": "Scorpio Lamp",
-    "en-US": "Scorpio Lamp",
-    "es": "Lámpara Escorpio",
-    "fr": "Lampe Scorpion",
-    "it": "Lampada Scorpione",
-    "ja": "スコーピオのランプ"
-  },
+  "name": "Scorpio Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

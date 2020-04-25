@@ -1,14 +1,6 @@
 {
   "id": "siphon",
-  "name": {
-    "de": "Siphon",
-    "en-GB": "Siphon",
-    "en-US": "Siphon",
-    "es": "Sifón",
-    "fr": "Percolateur",
-    "it": "Sifone",
-    "ja": "サイフォン"
-  },
+  "name": "Siphon",
   "category": "Furniture",
   "games": {
     "nl": {

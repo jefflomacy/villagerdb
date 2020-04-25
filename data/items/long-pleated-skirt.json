@@ -1,8 +1,6 @@
 {
   "id": "long-pleated-skirt",
-  "name": {
-    "en-US": "Long Pleated Skirt"
-  },
+  "name": "Long Pleated Skirt",
   "games": {
     "nh": {
       "orderable": true,

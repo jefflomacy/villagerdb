@@ -1,14 +1,6 @@
 {
   "id": "gorgeous-sofa",
-  "name": {
-    "de": "Luxussofa",
-    "en-GB": "Gorgeous Sofa",
-    "en-US": "Gorgeous Sofa",
-    "es": "Sofá palacio",
-    "fr": "Canapé somptueux",
-    "it": "Sofà divino",
-    "ja": "ゴージャスラブソファ"
-  },
+  "name": "Gorgeous Sofa",
   "category": "Furniture",
   "games": {
     "nl": {

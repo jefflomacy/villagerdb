@@ -1,8 +1,6 @@
 {
   "id": "wrestling-singlet",
-  "name": {
-    "en-US": "Wrestling Singlet"
-  },
+  "name": "Wrestling Singlet",
   "games": {
     "nh": {
       "sellPrice": {

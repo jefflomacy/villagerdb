@@ -1,8 +1,6 @@
 {
   "id": "scorpius-fragment",
-  "name": {
-    "en-US": "Scorpius Fragment"
-  },
+  "name": "Scorpius Fragment",
   "games": {
     "nh": {
       "sellPrice": {

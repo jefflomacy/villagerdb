@@ -1,8 +1,6 @@
 {
   "id": "bunny-day-lamp",
-  "name": {
-    "en-US": "Bunny Day Lamp"
-  },
+  "name": "Bunny Day Lamp",
   "games": {
     "nh": {
       "orderable": false,

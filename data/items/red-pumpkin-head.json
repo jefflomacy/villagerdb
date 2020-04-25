@@ -1,14 +1,6 @@
 {
   "id": "red-pumpkin-head",
-  "name": {
-    "de": "Kürbiskopf (rot)",
-    "en-GB": "Red-Pumpkin Head",
-    "en-US": "Red-Pumpkin Head",
-    "es": "Calabaza roja",
-    "fr": "Citrouille rouge",
-    "it": "Testa zucca rossa",
-    "ja": "レッドかぼちゃマスク"
-  },
+  "name": "Red-pumpkin Head",
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "wind-turbine",
-  "name": {
-    "en-US": "Wind Turbine"
-  },
+  "name": "Wind Turbine",
   "games": {
     "nh": {
       "orderable": true,

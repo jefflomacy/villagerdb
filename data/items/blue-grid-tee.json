@@ -1,14 +1,6 @@
 {
   "id": "blue-grid-tee",
-  "name": {
-    "de": "Gittershirt",
-    "en-GB": "Blue-Grid Tee",
-    "en-US": "Blue-Grid Tee",
-    "es": "Camiseta reja azul",
-    "fr": "T-shirt grille bleu",
-    "it": "Maglietta biancoblu",
-    "ja": "みずいろこうしのふく"
-  },
+  "name": "Blue-grid Tee",
   "category": "Tops",
   "games": {
     "nl": {

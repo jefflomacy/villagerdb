@@ -1,14 +1,6 @@
 {
   "id": "elephant-tee",
-  "name": {
-    "de": "Elefantenshirt",
-    "en-GB": "Elephant Tee",
-    "en-US": "Elephant Tee",
-    "es": "Camiseta elefantito",
-    "fr": "T-shirt éléphant",
-    "it": "Maglietta elefante",
-    "ja": "ゾウのふく"
-  },
+  "name": "Elephant Tee",
   "category": "Tops",
   "games": {
     "nl": {

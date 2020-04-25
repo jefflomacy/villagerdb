@@ -1,14 +1,6 @@
 {
   "id": "deep-blue-tank",
-  "name": {
-    "de": "Tiefseetop",
-    "en-GB": "Deep-Blue Tank",
-    "en-US": "Deep-Blue Tank",
-    "es": "Top mar",
-    "fr": "Débardeur abysse",
-    "it": "Canotta azzurra",
-    "ja": "グランブルーなふくN"
-  },
+  "name": "Deep-blue Tank",
   "category": "Tops",
   "games": {
     "nl": {

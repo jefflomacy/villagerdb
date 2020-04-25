@@ -1,8 +1,6 @@
 {
   "id": "brine-shrimp-aquarium",
-  "name": {
-    "en-US": "Brine-shrimp Aquarium"
-  },
+  "name": "Brine-shrimp Aquarium",
   "games": {
     "nh": {
       "sellPrice": {

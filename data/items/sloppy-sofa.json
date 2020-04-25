@@ -1,14 +1,6 @@
 {
   "id": "sloppy-sofa",
-  "name": {
-    "de": "Schlampersofa",
-    "en-GB": "Sloppy Sofa",
-    "en-US": "Sloppy Sofa",
-    "es": "Sofá desorden",
-    "fr": "Canapé négligé",
-    "it": "Sofà trasandato",
-    "ja": "だらしないソファ"
-  },
+  "name": "Sloppy Sofa",
   "category": "Furniture",
   "games": {
     "nl": {

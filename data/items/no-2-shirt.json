@@ -1,14 +1,6 @@
 {
   "id": "no-2-shirt",
-  "name": {
-    "de": "Nr.-2-Pulli",
-    "en-GB": "No. 2 Shirt",
-    "en-US": "No. 2 Shirt",
-    "es": "Jersey n.º 2",
-    "fr": "Pull 2",
-    "it": "Maglia nº 2",
-    "ja": "No.2のふく"
-  },
+  "name": "No. 2 Shirt",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "small-cardboard-boxes",
-  "name": {
-    "en-US": "Small Cardboard Boxes"
-  },
+  "name": "Small Cardboard Boxes",
   "games": {
     "nh": {
       "orderable": false,

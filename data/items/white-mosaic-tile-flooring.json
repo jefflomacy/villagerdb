@@ -1,8 +1,6 @@
 {
   "id": "white-mosaic-tile-flooring",
-  "name": {
-    "en-US": "White Mosaic-tile Flooring"
-  },
+  "name": "White Mosaic-tile Flooring",
   "games": {
     "nh": {
       "orderable": true,

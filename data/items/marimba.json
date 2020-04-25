@@ -1,8 +1,6 @@
 {
   "id": "marimba",
-  "name": {
-    "en-US": "Marimba"
-  },
+  "name": "Marimba",
   "games": {
     "nh": {
       "orderable": true,

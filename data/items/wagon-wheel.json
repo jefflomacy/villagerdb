@@ -1,14 +1,6 @@
 {
   "id": "wagon-wheel",
-  "name": {
-    "de": "Wagenrad",
-    "en-GB": "Wagon Wheel",
-    "en-US": "Wagon Wheel",
-    "es": "Rueda carreta",
-    "fr": "Roue de chariot",
-    "it": "Ruota carro",
-    "ja": "ばしゃのしゃりん"
-  },
+  "name": "Wagon Wheel",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "scale-armor-suit",
-  "name": {
-    "de": "Schuppenpanzerhemd",
-    "en-GB": "Scale-Armor Suit",
-    "en-US": "Scale-Armor Suit",
-    "es": "Cota de malla",
-    "fr": "Cuirasse d'écailles",
-    "it": "Cotta di maglia",
-    "ja": "うろこよろい"
-  },
+  "name": "Scale-armor Suit",
   "category": "Tops",
   "games": {
     "nl": {

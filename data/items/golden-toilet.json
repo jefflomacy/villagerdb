@@ -1,8 +1,6 @@
 {
   "id": "golden-toilet",
-  "name": {
-    "en-US": "Golden Toilet"
-  },
+  "name": "Golden Toilet",
   "games": {
     "nh": {
       "customizable": false,

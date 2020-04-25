@@ -1,8 +1,6 @@
 {
   "id": "pink-striped-wall",
-  "name": {
-    "en-US": "Pink-striped Wall"
-  },
+  "name": "Pink-striped Wall",
   "games": {
     "nh": {
       "orderable": true,

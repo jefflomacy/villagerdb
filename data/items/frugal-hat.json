@@ -1,8 +1,6 @@
 {
   "id": "frugal-hat",
-  "name": {
-    "en-US": "Frugal Hat"
-  },
+  "name": "Frugal Hat",
   "games": {
     "nh": {
       "sellPrice": {

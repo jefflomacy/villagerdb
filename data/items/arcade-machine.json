@@ -1,14 +1,6 @@
 {
   "id": "arcade-machine",
-  "name": {
-    "de": "Arcade-Spiel",
-    "en-GB": "Arcade Machine",
-    "en-US": "Arcade Machine",
-    "es": "Máquina recreativa",
-    "fr": "Borne d'arcade",
-    "it": "Videogioco",
-    "ja": "アップライトゲームき"
-  },
+  "name": "Arcade Machine",
   "category": "Furniture",
   "games": {
     "nl": {

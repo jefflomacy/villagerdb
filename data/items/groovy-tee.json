@@ -1,14 +1,6 @@
 {
   "id": "groovy-tee",
-  "name": {
-    "de": "Schneckenshirt",
-    "en-GB": "Groovy Tee",
-    "en-US": "Groovy Tee",
-    "es": "Camiseta caracol",
-    "fr": "T-shirt funky",
-    "it": "Maglietta ghirigori",
-    "ja": "サイケデリックなふく"
-  },
+  "name": "Groovy Tee",
   "category": "Tops",
   "games": {
     "nl": {

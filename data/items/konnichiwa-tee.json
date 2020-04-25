@@ -1,8 +1,6 @@
 {
   "id": "konnichiwa-tee",
-  "name": {
-    "en-US": "Konnichiwa Tee"
-  },
+  "name": "Konnichiwa Tee",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,14 +1,6 @@
 {
   "id": "cabin-table",
-  "name": {
-    "de": "Blockhaustisch",
-    "en-GB": "Cabin Table",
-    "en-US": "Cabin Table",
-    "es": "Mesa cabaña",
-    "fr": "Table chalet",
-    "it": "Tavolo rustico",
-    "ja": "ログテーブル"
-  },
+  "name": "Cabin Table",
   "category": "Furniture",
   "games": {
     "nl": {

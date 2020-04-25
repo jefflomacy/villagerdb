@@ -1,14 +1,6 @@
 {
   "id": "ribboned-straw-hat",
-  "name": {
-    "de": "Schleifchen-Strohhut",
-    "en-GB": "Ribboned Straw Hat",
-    "en-US": "Ribboned Straw Hat",
-    "es": "Sombrero con lazo",
-    "fr": "Chapeau paille ruban",
-    "it": "Capp. paglia nastro",
-    "ja": "ちいさめなぼうし"
-  },
+  "name": "Ribboned Straw Hat",
   "category": "Hats",
   "games": {
     "nl": {

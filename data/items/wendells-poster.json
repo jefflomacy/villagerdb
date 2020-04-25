@@ -1,8 +1,6 @@
 {
   "id": "wendells-poster",
-  "name": {
-    "en-US": "Wendell's Poster"
-  },
+  "name": "Wendell's Poster",
   "games": {
     "nh": {
       "sources": [

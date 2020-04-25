@@ -1,8 +1,6 @@
 {
   "id": "rose-wand",
-  "name": {
-    "en-US": "Rose Wand"
-  },
+  "name": "Rose Wand",
   "games": {
     "nh": {
       "orderable": false,

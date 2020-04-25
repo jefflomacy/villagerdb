@@ -1,14 +1,6 @@
 {
   "id": "top-hat",
-  "name": {
-    "de": "Zylinder",
-    "en-GB": "Top Hat",
-    "en-US": "Top Hat",
-    "es": "Sombrero de copa",
-    "fr": "Haut-de-forme",
-    "it": "Cilindro",
-    "ja": "シルクハット"
-  },
+  "name": "Top Hat",
   "category": "Hats",
   "games": {
     "nl": {

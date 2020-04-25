@@ -1,8 +1,6 @@
 {
   "id": "recycled-boots",
-  "name": {
-    "en-US": "Recycled Boots"
-  },
+  "name": "Recycled Boots",
   "games": {
     "nh": {
       "orderable": false,

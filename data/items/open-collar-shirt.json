@@ -1,8 +1,6 @@
 {
   "id": "open-collar-shirt",
-  "name": {
-    "en-US": "Open-collar Shirt"
-  },
+  "name": "Open-collar Shirt",
   "games": {
     "nh": {
       "orderable": true,

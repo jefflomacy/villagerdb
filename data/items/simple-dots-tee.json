@@ -1,8 +1,6 @@
 {
   "id": "simple-dots-tee",
-  "name": {
-    "en-US": "Simple-dots Tee"
-  },
+  "name": "Simple-dots Tee",
   "games": {
     "nh": {
       "orderable": true,

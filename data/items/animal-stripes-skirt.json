@@ -1,8 +1,6 @@
 {
   "id": "animal-stripes-skirt",
-  "name": {
-    "en-US": "Animal-stripes Skirt"
-  },
+  "name": "Animal-stripes Skirt",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,8 +1,6 @@
 {
   "id": "white-roses",
-  "name": {
-    "en-US": "White Roses"
-  },
+  "name": "White Roses",
   "games": {
     "nh": {
       "orderable": false,

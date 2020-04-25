@@ -1,14 +1,6 @@
 {
   "id": "iguanodon-tail",
-  "name": {
-    "de": "Iguanodon-Schwanz",
-    "en-GB": "Iguanodon Tail",
-    "en-US": "Iguanodon Tail",
-    "es": "Cola iguanodonte",
-    "fr": "Queue d'iguanodon",
-    "it": "Coda iguanodonte",
-    "ja": "イグアノドンのしっぽ"
-  },
+  "name": "Iguanodon Tail",
   "category": "Fossils",
   "games": {
     "nl": {

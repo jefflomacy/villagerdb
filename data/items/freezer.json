@@ -1,14 +1,6 @@
 {
   "id": "freezer",
-  "name": {
-    "de": "Kühltruhe",
-    "en-GB": "Freezer",
-    "en-US": "Freezer",
-    "es": "Arcón congelador",
-    "fr": "Congélateur",
-    "it": "Congelatore",
-    "ja": "れいとうこ"
-  },
+  "name": "Freezer",
   "category": "Furniture",
   "games": {
     "nl": {

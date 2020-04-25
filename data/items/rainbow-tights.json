@@ -1,14 +1,6 @@
 {
   "id": "rainbow-tights",
-  "name": {
-    "de": "Vielfarbstrumpfhose",
-    "en-GB": "Rainbow Tights",
-    "en-US": "Rainbow Tights",
-    "es": "Media arcoíris",
-    "fr": "Collant irisé",
-    "it": "P. calze arcobaleno",
-    "ja": "レインボータイツ"
-  },
+  "name": "Rainbow Tights",
   "category": "Socks",
   "games": {
     "nl": {

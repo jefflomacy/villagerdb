@@ -1,14 +1,6 @@
 {
   "id": "gray-stripe-pants",
-  "name": {
-    "de": "Grauringelhose",
-    "en-GB": "Gray-Stripe Pants",
-    "en-US": "Gray-Stripe Pants",
-    "es": "Pantalón rayas gris",
-    "fr": "Pantalon rayé gris",
-    "it": "Pantalone comodo",
-    "ja": "グレーのボーダーパンツ"
-  },
+  "name": "Gray-stripe Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

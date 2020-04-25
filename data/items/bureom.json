@@ -1,14 +1,6 @@
 {
   "id": "bureom",
-  "name": {
-    "de": "Nuss-Schälchen",
-    "en-GB": "Bureom",
-    "en-US": "Bureom",
-    "es": "Bureom",
-    "fr": "Bureom",
-    "it": "Bureom",
-    "ja": "ブロム"
-  },
+  "name": "Bureom",
   "category": "Furniture",
   "games": {
     "nl": {

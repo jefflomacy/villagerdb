@@ -1,14 +1,6 @@
 {
   "id": "fishing-vest",
-  "name": {
-    "de": "Angelweste",
-    "en-GB": "Fishing Vest",
-    "en-US": "Fishing Vest",
-    "es": "Camiseta de pesca",
-    "fr": "Veste de pêcheur",
-    "it": "Giubbotto da pesca",
-    "ja": "つりジャケット"
-  },
+  "name": "Fishing Vest",
   "category": "Tops",
   "games": {
     "nl": {

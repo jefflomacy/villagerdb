@@ -1,8 +1,6 @@
 {
   "id": "essay-set",
-  "name": {
-    "en-US": "Essay Set"
-  },
+  "name": "Essay Set",
   "games": {
     "nh": {
       "sellPrice": {

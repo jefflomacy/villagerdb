@@ -1,8 +1,6 @@
 {
   "id": "red-two-toned-tile-wall",
-  "name": {
-    "en-US": "Red Two-toned Tile Wall"
-  },
+  "name": "Red Two-toned Tile Wall",
   "games": {
     "nh": {
       "sellPrice": {

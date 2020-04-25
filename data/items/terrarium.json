@@ -1,8 +1,6 @@
 {
   "id": "terrarium",
-  "name": {
-    "en-US": "Terrarium"
-  },
+  "name": "Terrarium",
   "games": {
     "nh": {
       "orderable": false,

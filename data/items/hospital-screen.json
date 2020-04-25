@@ -1,14 +1,6 @@
 {
   "id": "hospital-screen",
-  "name": {
-    "de": "Patientenvorhang",
-    "en-GB": "Hospital Screen",
-    "en-US": "Hospital Screen",
-    "es": "Biombo hospital",
-    "fr": "Panneau d'hôpital",
-    "it": "Paravento",
-    "ja": "びょういんのついたて"
-  },
+  "name": "Hospital Screen",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "boxing-mat",
-  "name": {
-    "de": "Matte",
-    "en-GB": "Boxing Mat",
-    "en-US": "Boxing Mat",
-    "es": "Colchoneta boxeo",
-    "fr": "Tapis de boxe",
-    "it": "Tappetino boxe",
-    "ja": "マット"
-  },
+  "name": "Boxing Mat",
   "category": "Furniture",
   "games": {
     "nl": {

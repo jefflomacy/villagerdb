@@ -1,8 +1,6 @@
 {
   "id": "broom-and-dustpan",
-  "name": {
-    "en-US": "Broom And Dustpan"
-  },
+  "name": "Broom And Dustpan",
   "games": {
     "nh": {
       "orderable": true,

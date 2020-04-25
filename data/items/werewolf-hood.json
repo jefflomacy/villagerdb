@@ -1,14 +1,6 @@
 {
   "id": "werewolf-hood",
-  "name": {
-    "de": "Werwolfmütze",
-    "en-GB": "Werewolf Hood",
-    "en-US": "Werewolf Hood",
-    "es": "Capucha hombre lobo",
-    "fr": "Masque de loup-garou",
-    "it": "Copricapo licantropo",
-    "ja": "オオカミおとこのマスク"
-  },
+  "name": "Werewolf Hood",
   "category": "Hats",
   "games": {
     "nl": {

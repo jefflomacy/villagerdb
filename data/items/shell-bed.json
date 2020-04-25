@@ -1,8 +1,6 @@
 {
   "id": "shell-bed",
-  "name": {
-    "en-US": "Shell Bed"
-  },
+  "name": "Shell Bed",
   "games": {
     "nh": {
       "orderable": false,

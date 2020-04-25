@@ -1,8 +1,6 @@
 {
   "id": "tortimers-poster",
-  "name": {
-    "en-US": "Tortimer's Poster"
-  },
+  "name": "Tortimer's Poster",
   "games": {
     "nh": {
       "sources": [

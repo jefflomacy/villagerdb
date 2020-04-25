@@ -1,14 +1,6 @@
 {
   "id": "peachy-tank",
-  "name": {
-    "de": "Pfirsichtop",
-    "en-GB": "Peachy Tank",
-    "en-US": "Peachy Tank",
-    "es": "Top melocotón",
-    "fr": "Débardeur pêche",
-    "it": "Canotta pesca",
-    "ja": "ピーチなふくN"
-  },
+  "name": "Peachy Tank",
   "category": "Tops",
   "games": {
     "nl": {

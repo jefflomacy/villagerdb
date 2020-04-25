@@ -1,8 +1,6 @@
 {
   "id": "cyclommatus-stag-model",
-  "name": {
-    "en-US": "Cyclommatus Stag Model"
-  },
+  "name": "Cyclommatus Stag Model",
   "games": {
     "nh": {
       "sellPrice": {

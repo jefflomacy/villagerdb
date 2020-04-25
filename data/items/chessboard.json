@@ -1,8 +1,6 @@
 {
   "id": "chessboard",
-  "name": {
-    "en-US": "Chessboard"
-  },
+  "name": "Chessboard",
   "games": {
     "nh": {
       "sellPrice": {

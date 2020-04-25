@@ -1,14 +1,6 @@
 {
   "id": "simple-armchair",
-  "name": {
-    "de": "Ledersessel",
-    "en-GB": "Simple Armchair",
-    "en-US": "Simple Armchair",
-    "es": "Butaca normal",
-    "fr": "Fauteuil standard",
-    "it": "Poltrona standard",
-    "ja": "ふつうのソファ"
-  },
+  "name": "Simple Armchair",
   "category": "Furniture",
   "games": {
     "nl": {

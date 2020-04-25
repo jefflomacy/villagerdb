@@ -1,8 +1,6 @@
 {
   "id": "cherry-blossom-flooring",
-  "name": {
-    "en-US": "Cherry-blossom Flooring"
-  },
+  "name": "Cherry-blossom Flooring",
   "games": {
     "nh": {
       "orderable": false,

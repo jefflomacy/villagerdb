@@ -1,8 +1,6 @@
 {
   "id": "gold-ornament",
-  "name": {
-    "en-US": "Gold Ornament"
-  },
+  "name": "Gold Ornament",
   "games": {
     "nh": {
       "sellPrice": {

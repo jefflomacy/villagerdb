@@ -1,14 +1,6 @@
 {
   "id": "dracaena",
-  "name": {
-    "de": "Drachenbaum",
-    "en-GB": "Dracaena",
-    "en-US": "Dracaena",
-    "es": "Tronco de Brasil",
-    "fr": "Dragonnier",
-    "it": "Dracena",
-    "ja": "こうふくのき"
-  },
+  "name": "Dracaena",
   "category": "Furniture",
   "games": {
     "nl": {

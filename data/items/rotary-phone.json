@@ -1,8 +1,6 @@
 {
   "id": "rotary-phone",
-  "name": {
-    "en-US": "Rotary Phone"
-  },
+  "name": "Rotary Phone",
   "games": {
     "nh": {
       "sellPrice": {

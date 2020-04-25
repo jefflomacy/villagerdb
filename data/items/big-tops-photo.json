@@ -1,8 +1,6 @@
 {
   "id": "big-tops-photo",
-  "name": {
-    "en-US": "Big Top's Photo"
-  },
+  "name": "Big Top's Photo",
   "games": {
     "nh": {
       "sellPrice": {

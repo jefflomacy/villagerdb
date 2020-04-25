@@ -1,8 +1,6 @@
 {
   "id": "glengarry",
-  "name": {
-    "en-US": "Glengarry"
-  },
+  "name": "Glengarry",
   "games": {
     "nh": {
       "sellPrice": {

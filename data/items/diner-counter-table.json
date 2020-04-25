@@ -1,8 +1,6 @@
 {
   "id": "diner-counter-table",
-  "name": {
-    "en-US": "Diner Counter Table"
-  },
+  "name": "Diner Counter Table",
   "games": {
     "nh": {
       "orderable": true,

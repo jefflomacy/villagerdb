@@ -1,8 +1,6 @@
 {
   "id": "stellas-poster",
-  "name": {
-    "en-US": "Stella's Poster"
-  },
+  "name": "Stella's Poster",
   "games": {
     "nh": {
       "sources": [

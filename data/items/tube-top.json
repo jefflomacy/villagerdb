@@ -1,8 +1,6 @@
 {
   "id": "tube-top",
-  "name": {
-    "en-US": "Tube Top"
-  },
+  "name": "Tube Top",
   "games": {
     "nh": {
       "sellPrice": {

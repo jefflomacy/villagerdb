@@ -1,8 +1,6 @@
 {
   "id": "baseball-uniform",
-  "name": {
-    "en-US": "Baseball Uniform"
-  },
+  "name": "Baseball Uniform",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "corseted-shirt",
-  "name": {
-    "de": "Korsettbluse",
-    "en-GB": "Corseted Shirt",
-    "en-US": "Corseted Shirt",
-    "es": "Jersey gótico",
-    "fr": "Pull corset",
-    "it": "Maglia gotica",
-    "ja": "ゴシックなふく"
-  },
+  "name": "Corseted Shirt",
   "category": "Tops",
   "games": {
     "nl": {

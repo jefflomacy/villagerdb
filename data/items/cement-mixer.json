@@ -1,14 +1,6 @@
 {
   "id": "cement-mixer",
-  "name": {
-    "de": "Zementmischer",
-    "en-GB": "Cement Mixer",
-    "en-US": "Cement Mixer",
-    "es": "Hormigonera",
-    "fr": "Bétonneuse",
-    "it": "Betoniera",
-    "ja": "セメントミキサー"
-  },
+  "name": "Cement Mixer",
   "category": "Furniture",
   "games": {
     "nl": {

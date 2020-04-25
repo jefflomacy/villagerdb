@@ -1,14 +1,6 @@
 {
   "id": "snow-bunny",
-  "name": {
-    "de": "Schneehäschen",
-    "en-GB": "Snow Bunny",
-    "en-US": "Snow Bunny",
-    "es": "Conejo de nieve",
-    "fr": "Lapin en neige",
-    "it": "Coniglio di neve",
-    "ja": "ゆきうさぎ"
-  },
+  "name": "Snow Bunny",
   "category": "Furniture",
   "games": {
     "nl": {

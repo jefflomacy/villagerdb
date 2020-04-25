@@ -1,14 +1,6 @@
 {
   "id": "stripe-bathroom-sink",
-  "name": {
-    "de": "Streifenwaschbecken",
-    "en-GB": "Stripe Bathroom Sink",
-    "en-US": "Stripe Bathroom Sink",
-    "es": "Lavabo rayas",
-    "fr": "Lavabo rayures",
-    "it": "Lavabo strisce",
-    "ja": "ストライプなせんめんだい"
-  },
+  "name": "Stripe Bathroom Sink",
   "category": "Furniture",
   "games": {
     "nl": {

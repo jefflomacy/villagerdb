@@ -1,8 +1,6 @@
 {
   "id": "tackle-bag",
-  "name": {
-    "en-US": "Tackle Bag"
-  },
+  "name": "Tackle Bag",
   "games": {
     "nh": {
       "orderable": false,

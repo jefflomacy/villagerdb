@@ -1,8 +1,6 @@
 {
   "id": "pop-up-toaster",
-  "name": {
-    "en-US": "Pop-up Toaster"
-  },
+  "name": "Pop-up Toaster",
   "games": {
     "nh": {
       "orderable": true,

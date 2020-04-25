@@ -1,14 +1,6 @@
 {
   "id": "bulb-bopper",
-  "name": {
-    "de": "Leuchtkugelfühler",
-    "en-GB": "Bulb Bopper",
-    "en-US": "Bulb Bopper",
-    "es": "Diadema luciérnagas",
-    "fr": "Serre-tête lumières",
-    "it": "Paio antenne fluo",
-    "ja": "ひかるボールアクセサリー"
-  },
+  "name": "Bulb Bopper",
   "category": "Hats",
   "games": {
     "nl": {

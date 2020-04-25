@@ -1,8 +1,6 @@
 {
   "id": "peach-umbrella",
-  "name": {
-    "en-US": "Peach Umbrella"
-  },
+  "name": "Peach Umbrella",
   "games": {
     "nh": {
       "orderable": false,

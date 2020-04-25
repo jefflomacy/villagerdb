@@ -1,8 +1,6 @@
 {
   "id": "wooden-waste-bin",
-  "name": {
-    "en-US": "Wooden Waste Bin"
-  },
+  "name": "Wooden Waste Bin",
   "games": {
     "nh": {
       "customizable": true,

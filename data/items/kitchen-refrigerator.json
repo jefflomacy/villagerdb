@@ -1,8 +1,6 @@
 {
   "id": "kitchen-refrigerator",
-  "name": {
-    "en-US": "Kitchen Refrigerator"
-  },
+  "name": "Kitchen Refrigerator",
   "category": "Furniture",
   "games": {
     "nl": {

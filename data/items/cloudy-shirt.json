@@ -1,8 +1,6 @@
 {
   "id": "cloudy-shirt",
-  "name": {
-    "en-US": "Cloudy Shirt"
-  },
+  "name": "Cloudy Shirt",
   "category": "Tops",
   "games": {
     "ac": {

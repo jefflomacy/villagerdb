@@ -1,14 +1,6 @@
 {
   "id": "modern-wood-closet",
-  "name": {
-    "de": "Buntholzschrank",
-    "en-GB": "Modern Wood Closet",
-    "en-US": "Modern Wood Closet",
-    "es": "Armario listones",
-    "fr": "Armoire bois moderne",
-    "it": "Armadio legno",
-    "ja": "ミックスウッドクロゼット"
-  },
+  "name": "Modern Wood Closet",
   "category": "Furniture",
   "games": {
     "nl": {

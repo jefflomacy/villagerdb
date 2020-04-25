@@ -1,14 +1,6 @@
 {
   "id": "lacy-white-tank",
-  "name": {
-    "de": "Blau-Spitzentop",
-    "en-GB": "Lacy White Tank",
-    "en-US": "Lacy White Tank",
-    "es": "Top encaje",
-    "fr": "Débardeur dentelle",
-    "it": "Canotta merlettata",
-    "ja": "しろいキャミソール"
-  },
+  "name": "Lacy White Tank",
   "category": "Tops",
   "games": {
     "nl": {

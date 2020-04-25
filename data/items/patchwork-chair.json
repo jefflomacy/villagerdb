@@ -1,14 +1,6 @@
 {
   "id": "patchwork-chair",
-  "name": {
-    "de": "Patchwork-Sessel",
-    "en-GB": "Patchwork Chair",
-    "en-US": "Patchwork Chair",
-    "es": "Sillón de retales",
-    "fr": "Fauteuil patchwork",
-    "it": "Poltrona patchwork",
-    "ja": "パッチワークなソファ"
-  },
+  "name": "Patchwork Chair",
   "category": "Furniture",
   "games": {
     "nl": {

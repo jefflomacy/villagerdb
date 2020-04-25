@@ -1,14 +1,6 @@
 {
   "id": "peacoat",
-  "name": {
-    "de": "Dufflecoat",
-    "en-GB": "Peacoat",
-    "en-US": "Peacoat",
-    "es": "Trenca azul",
-    "fr": "Duffel-coat",
-    "it": "Giacca montgomery",
-    "ja": "ダッフルコート"
-  },
+  "name": "Peacoat",
   "category": "Tops",
   "games": {
     "nl": {

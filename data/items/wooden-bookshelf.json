@@ -1,8 +1,6 @@
 {
   "id": "wooden-bookshelf",
-  "name": {
-    "en-US": "Wooden Bookshelf"
-  },
+  "name": "Wooden Bookshelf",
   "games": {
     "nh": {
       "sellPrice": {

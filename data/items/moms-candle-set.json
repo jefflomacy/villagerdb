@@ -1,8 +1,6 @@
 {
   "id": "moms-candle-set",
-  "name": {
-    "en-US": "Mom's Candle Set"
-  },
+  "name": "Mom's Candle Set",
   "games": {
     "nh": {
       "orderable": false,

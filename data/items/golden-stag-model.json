@@ -1,8 +1,6 @@
 {
   "id": "golden-stag-model",
-  "name": {
-    "en-US": "Golden Stag Model"
-  },
+  "name": "Golden Stag Model",
   "games": {
     "nh": {
       "sellPrice": {

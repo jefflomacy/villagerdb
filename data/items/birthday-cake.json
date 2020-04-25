@@ -1,14 +1,6 @@
 {
   "id": "birthday-cake",
-  "name": {
-    "de": "Geburtstagstorte",
-    "en-GB": "Birthday Cake",
-    "en-US": "Birthday Cake",
-    "es": "Tarta de cumpleaños",
-    "fr": "Gâteau d'anniv",
-    "it": "Torta di compleanno",
-    "ja": "バースデーケーキ"
-  },
+  "name": "Birthday Cake",
   "category": "Furniture",
   "games": {
     "nl": {

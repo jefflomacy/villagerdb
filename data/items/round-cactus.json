@@ -1,14 +1,6 @@
 {
   "id": "round-cactus",
-  "name": {
-    "de": "Kugelkaktus",
-    "en-GB": "Round Cactus",
-    "en-US": "Round Cactus",
-    "es": "Cactus redondo",
-    "fr": "Cactus boule",
-    "it": "Cactus palla",
-    "ja": "まるサボテン"
-  },
+  "name": "Round Cactus",
   "category": "Furniture",
   "games": {
     "nl": {

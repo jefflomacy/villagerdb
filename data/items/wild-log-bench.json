@@ -1,8 +1,6 @@
 {
   "id": "wild-log-bench",
-  "name": {
-    "en-US": "Wild Log Bench"
-  },
+  "name": "Wild Log Bench",
   "games": {
     "nh": {
       "sellPrice": {

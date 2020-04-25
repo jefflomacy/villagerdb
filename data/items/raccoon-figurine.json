@@ -1,14 +1,6 @@
 {
   "id": "raccoon-figurine",
-  "name": {
-    "de": "Waschbärenfigur",
-    "en-GB": "Raccoon Figurine",
-    "en-US": "Raccoon Figurine",
-    "es": "Figura mapache",
-    "fr": "Raton laveur",
-    "it": "Bambola procione",
-    "ja": "たぬきのおきもの"
-  },
+  "name": "Raccoon Figurine",
   "category": "Furniture",
   "games": {
     "nl": {

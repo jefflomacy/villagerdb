@@ -1,8 +1,6 @@
 {
   "id": "circuit-board-wall",
-  "name": {
-    "en-US": "Circuit-board Wall"
-  },
+  "name": "Circuit-board Wall",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "cd-shelf",
-  "name": {
-    "de": "CD-Schrank",
-    "en-GB": "CD Shelf",
-    "en-US": "CD Shelf",
-    "es": "Estantería para CD",
-    "fr": "étagère à CD",
-    "it": "Mobile porta CD",
-    "ja": "CDラック"
-  },
+  "name": "Cd Shelf",
   "category": "Furniture",
   "games": {
     "nl": {

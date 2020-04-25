@@ -1,14 +1,6 @@
 {
   "id": "festive-flag",
-  "name": {
-    "de": "Festfahne",
-    "en-GB": "Festive Flag",
-    "en-US": "Festive Flag",
-    "es": "Bandera festiva",
-    "fr": "Fanion de fête",
-    "it": "Bandiera festiva",
-    "ja": "おまつりのはた"
-  },
+  "name": "Festive Flag",
   "category": "Furniture",
   "games": {
     "nl": {

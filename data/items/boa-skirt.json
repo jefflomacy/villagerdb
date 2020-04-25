@@ -1,8 +1,6 @@
 {
   "id": "boa-skirt",
-  "name": {
-    "en-US": "Boa Skirt"
-  },
+  "name": "Boa Skirt",
   "games": {
     "nh": {
       "orderable": true,

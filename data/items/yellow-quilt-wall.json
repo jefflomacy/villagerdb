@@ -1,8 +1,6 @@
 {
   "id": "yellow-quilt-wall",
-  "name": {
-    "en-US": "Yellow Quilt Wall"
-  },
+  "name": "Yellow Quilt Wall",
   "games": {
     "nh": {
       "orderable": true,

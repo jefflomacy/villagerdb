@@ -1,8 +1,6 @@
 {
   "id": "rattan-waste-bin",
-  "name": {
-    "en-US": "Rattan Waste Bin"
-  },
+  "name": "Rattan Waste Bin",
   "games": {
     "nh": {
       "orderable": true,

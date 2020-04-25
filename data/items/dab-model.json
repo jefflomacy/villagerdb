@@ -1,8 +1,6 @@
 {
   "id": "dab-model",
-  "name": {
-    "en-US": "Dab Model"
-  },
+  "name": "Dab Model",
   "games": {
     "nh": {
       "sellPrice": {

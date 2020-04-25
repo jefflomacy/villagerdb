@@ -1,8 +1,6 @@
 {
   "id": "toy-box",
-  "name": {
-    "en-US": "Toy Box"
-  },
+  "name": "Toy Box",
   "games": {
     "nh": {
       "orderable": true,

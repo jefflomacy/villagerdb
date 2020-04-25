@@ -1,14 +1,6 @@
 {
   "id": "polka-dot-low-table",
-  "name": {
-    "de": "Pünktchensofatisch",
-    "en-GB": "Polka-Dot Low Table",
-    "en-US": "Polka-Dot Low Table",
-    "es": "Mesita topos",
-    "fr": "Table b. pois rouge",
-    "it": "Tavolino pois",
-    "ja": "みずたまなローテーブル"
-  },
+  "name": "Polka-dot Low Table",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "cool-hyacinth-crown",
-  "name": {
-    "en-US": "Cool Hyacinth Crown"
-  },
+  "name": "Cool Hyacinth Crown",
   "games": {
     "nh": {
       "orderable": false,

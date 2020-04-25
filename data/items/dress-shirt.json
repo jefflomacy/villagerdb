@@ -1,8 +1,6 @@
 {
   "id": "dress-shirt",
-  "name": {
-    "en-US": "Dress Shirt"
-  },
+  "name": "Dress Shirt",
   "games": {
     "nh": {
       "sellPrice": {

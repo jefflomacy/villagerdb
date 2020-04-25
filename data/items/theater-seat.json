@@ -1,8 +1,6 @@
 {
   "id": "theater-seat",
-  "name": {
-    "en-US": "Theater Seat"
-  },
+  "name": "Theater Seat",
   "category": "Furniture",
   "games": {
     "nl": {

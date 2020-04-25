@@ -1,14 +1,6 @@
 {
   "id": "tricera-skull",
-  "name": {
-    "de": "Triceratops-Schädel",
-    "en-GB": "Tricera Skull",
-    "en-US": "Tricera Skull",
-    "es": "Cráneo triceratops",
-    "fr": "Crâne de tricératops",
-    "it": "Teschio triceratopo",
-    "ja": "トリケラトプスのあたま"
-  },
+  "name": "Tricera Skull",
   "category": "Fossils",
   "games": {
     "nl": {

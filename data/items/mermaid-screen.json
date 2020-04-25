@@ -1,14 +1,6 @@
 {
   "id": "mermaid-screen",
-  "name": {
-    "de": "Nixenraumtrenner",
-    "en-GB": "Mermaid Screen",
-    "en-US": "Mermaid Screen",
-    "es": "Biombo sirena",
-    "fr": "Paravent sirène",
-    "it": "Separé sirena",
-    "ja": "マーメイドなスクリーン"
-  },
+  "name": "Mermaid Screen",
   "category": "Furniture",
   "games": {
     "nl": {

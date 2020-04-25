@@ -1,14 +1,6 @@
 {
   "id": "black-tights",
-  "name": {
-    "de": "Schwarzstrumpfhose",
-    "en-GB": "Black Tights",
-    "en-US": "Black Tights",
-    "es": "Media rayas negra",
-    "fr": "Collant noir",
-    "it": "Paio calze nere",
-    "ja": "くろいタイツ"
-  },
+  "name": "Black Tights",
   "category": "Socks",
   "games": {
     "nl": {

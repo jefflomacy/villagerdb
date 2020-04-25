@@ -1,14 +1,6 @@
 {
   "id": "steel-toed-boots",
-  "name": {
-    "de": "Stahlkappenschuh",
-    "en-GB": "Steel-Toed Boots",
-    "en-US": "Steel-Toed Boots",
-    "es": "Bota con protección",
-    "fr": "P. bottes à coque",
-    "it": "P. scarpe da lavoro",
-    "ja": "エンジニアブーツ"
-  },
+  "name": "Steel-toed Boots",
   "category": "Shoes",
   "games": {
     "nl": {

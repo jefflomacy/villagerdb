@@ -1,8 +1,6 @@
 {
   "id": "sample-case",
-  "name": {
-    "en-US": "Sample Case"
-  },
+  "name": "Sample Case",
   "category": "Furniture",
   "games": {
     "nl": {

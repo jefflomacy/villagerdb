@@ -1,14 +1,6 @@
 {
   "id": "tingle-hood",
-  "name": {
-    "de": "Tingle-Mütze",
-    "en-GB": "Tingle Hood",
-    "en-US": "Tingle Hood",
-    "es": "Capucha de Tingle",
-    "fr": "Capuche Tingle",
-    "it": "Berretto da Tingle",
-    "ja": "チンクル"
-  },
+  "name": "Tingle Hood",
   "category": "Hats",
   "games": {
     "nl": {

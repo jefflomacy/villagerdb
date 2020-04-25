@@ -1,14 +1,6 @@
 {
   "id": "spooky-wall-lamp",
-  "name": {
-    "de": "Kürbiswandlampe",
-    "en-GB": "Spooky Wall Lamp",
-    "en-US": "Spooky Wall Lamp",
-    "es": "Lámp. pared calabaza",
-    "fr": "Lampe mur Halloween",
-    "it": "Lampada muro brividi",
-    "ja": "ハロウィンかべかけランプ"
-  },
+  "name": "Spooky Wall Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

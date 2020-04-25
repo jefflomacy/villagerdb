@@ -1,14 +1,6 @@
 {
   "id": "vintage-camera",
-  "name": {
-    "de": "Retro-Kamera",
-    "en-GB": "Vintage Camera",
-    "en-US": "Vintage Camera",
-    "es": "Cámara de época",
-    "fr": "Caméra d'époque",
-    "it": "Fotocamera antica",
-    "ja": "レトロなカメラ"
-  },
+  "name": "Vintage Camera",
   "category": "Furniture",
   "games": {
     "nl": {

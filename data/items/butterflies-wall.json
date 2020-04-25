@@ -1,8 +1,6 @@
 {
   "id": "butterflies-wall",
-  "name": {
-    "en-US": "Butterflies Wall"
-  },
+  "name": "Butterflies Wall",
   "games": {
     "nh": {
       "sellPrice": {

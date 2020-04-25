@@ -1,8 +1,6 @@
 {
   "id": "food-mess",
-  "name": {
-    "en-US": "Food Mess"
-  },
+  "name": "Food Mess",
   "games": {
     "nh": {
       "orderable": true,

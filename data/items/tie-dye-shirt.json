@@ -1,8 +1,6 @@
 {
   "id": "tie-dye-shirt",
-  "name": {
-    "en-US": "Tie-dye Shirt"
-  },
+  "name": "Tie-dye Shirt",
   "games": {
     "nh": {
       "sellPrice": {

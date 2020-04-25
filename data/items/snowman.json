@@ -1,14 +1,6 @@
 {
   "id": "snowman",
-  "name": {
-    "de": "Schneemann",
-    "en-GB": "Snowman",
-    "en-US": "Snowman",
-    "es": "Muñeco de nieve",
-    "fr": "Yétiti",
-    "it": "Pupazzo di neve",
-    "ja": "ゆきだるま"
-  },
+  "name": "Snowman",
   "category": "Furniture",
   "games": {
     "nl": {

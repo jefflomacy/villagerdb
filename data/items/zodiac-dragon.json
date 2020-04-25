@@ -1,14 +1,6 @@
 {
   "id": "zodiac-dragon",
-  "name": {
-    "de": "Drachenfigur",
-    "en-GB": "Zodiac Dragon",
-    "en-US": "Zodiac Dragon",
-    "es": "Figura de dragón",
-    "fr": "Figurine de dragon",
-    "it": "Figurina di drago",
-    "ja": "えとのおきもの・たつ"
-  },
+  "name": "Zodiac Dragon",
   "category": "Furniture",
   "games": {
     "nl": {

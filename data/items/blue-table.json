@@ -1,14 +1,6 @@
 {
   "id": "blue-table",
-  "name": {
-    "de": "Azurtisch",
-    "en-GB": "Blue Table",
-    "en-US": "Blue Table",
-    "es": "Mesa azul",
-    "fr": "Table bleue",
-    "it": "Tavolo blu",
-    "ja": "あおいテーブル"
-  },
+  "name": "Blue Table",
   "category": "Furniture",
   "games": {
     "nl": {

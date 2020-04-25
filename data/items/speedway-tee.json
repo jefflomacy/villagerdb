@@ -1,14 +1,6 @@
 {
   "id": "speedway-tee",
-  "name": {
-    "de": "Rennbahnshirt",
-    "en-GB": "Speedway Tee",
-    "en-US": "Speedway Tee",
-    "es": "Camiseta piscina",
-    "fr": "T-shirt basque",
-    "it": "Maglietta a righine",
-    "ja": "シンプルラインなふく"
-  },
+  "name": "Speedway Tee",
   "category": "Tops",
   "games": {
     "nl": {

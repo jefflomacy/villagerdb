@@ -1,8 +1,6 @@
 {
   "id": "wooden-table",
-  "name": {
-    "en-US": "Wooden Table"
-  },
+  "name": "Wooden Table",
   "games": {
     "nh": {
       "sellPrice": {

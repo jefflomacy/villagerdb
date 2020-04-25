@@ -1,14 +1,6 @@
 {
   "id": "football-fish-lamp",
-  "name": {
-    "de": "Leuchtfischlampe",
-    "en-GB": "Football-Fish Lamp",
-    "en-US": "Football-Fish Lamp",
-    "es": "Lámpara pez balón",
-    "fr": "Lampe pois. lanterne",
-    "it": "Lamp. pesce abissale",
-    "ja": "ちょうちんアンコウランプ"
-  },
+  "name": "Football-fish Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "mary-janes",
-  "name": {
-    "de": "Riemchenschuh",
-    "en-GB": "School Shoes",
-    "en-US": "Mary Janes",
-    "es": "Mercedita negra",
-    "fr": "Paire babies noires",
-    "it": "P. scarpe cinturino",
-    "ja": "ベルトつきシューズ"
-  },
+  "name": "Mary Janes",
   "category": "Shoes",
   "games": {
     "nl": {

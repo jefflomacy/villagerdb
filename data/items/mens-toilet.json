@@ -1,14 +1,6 @@
 {
   "id": "mens-toilet",
-  "name": {
-    "de": "Pissoir",
-    "en-GB": "Men's Toilet",
-    "en-US": "Men's Toilet",
-    "es": "Urinario",
-    "fr": "Vespasienne",
-    "it": "Orinatoio",
-    "ja": "だんしようトイレ"
-  },
+  "name": "Men's Toilet",
   "category": "Furniture",
   "games": {
     "nl": {

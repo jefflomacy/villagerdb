@@ -1,14 +1,6 @@
 {
   "id": "detective-hat",
-  "name": {
-    "de": "Detektivhut",
-    "en-GB": "Detective Hat",
-    "en-US": "Detective Hat",
-    "es": "Gorra de detective",
-    "fr": "Casquette détective",
-    "it": "Cappello detective",
-    "ja": "めいたんていのぼうし"
-  },
+  "name": "Detective Hat",
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "sweets-table",
-  "name": {
-    "de": "Süßtisch",
-    "en-GB": "Sweets Table",
-    "en-US": "Sweets Table",
-    "es": "Mesa chuches",
-    "fr": "Table bonbons",
-    "it": "Tavolo dolci",
-    "ja": "おかしのテーブル"
-  },
+  "name": "Sweets Table",
   "category": "Furniture",
   "games": {
     "nl": {

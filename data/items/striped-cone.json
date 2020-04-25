@@ -1,14 +1,6 @@
 {
   "id": "striped-cone",
-  "name": {
-    "de": "Streifenhütchen",
-    "en-GB": "Striped Cone",
-    "en-US": "Striped Cone",
-    "es": "Cono de rayas",
-    "fr": "Cône rayé",
-    "it": "Cono a strisce",
-    "ja": "しましまパイロン"
-  },
+  "name": "Striped Cone",
   "category": "Furniture",
   "games": {
     "nl": {

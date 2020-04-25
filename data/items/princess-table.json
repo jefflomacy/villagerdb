@@ -1,14 +1,6 @@
 {
   "id": "princess-table",
-  "name": {
-    "de": "Prachttisch",
-    "en-GB": "Princess Table",
-    "en-US": "Princess Table",
-    "es": "Mesa princesa",
-    "fr": "Table princesse",
-    "it": "Tavolo contessa",
-    "ja": "プリンセステーブル"
-  },
+  "name": "Princess Table",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "gladiator-sandals",
-  "name": {
-    "de": "Gladiator-Sandale",
-    "en-GB": "Gladiator Sandals",
-    "en-US": "Gladiator Sandals",
-    "es": "Sandalia gladiador",
-    "fr": "Paire de spartiates",
-    "it": "P. sandali gladiat.",
-    "ja": "グラディエーターサンダル"
-  },
+  "name": "Gladiator Sandals",
   "category": "Shoes",
   "games": {
     "nl": {

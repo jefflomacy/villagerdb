@@ -1,8 +1,6 @@
 {
   "id": "abalone",
-  "name": {
-    "en-US": "Abalone"
-  },
+  "name": "Abalone",
   "category": "Fish",
   "games": {
     "nl": {

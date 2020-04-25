@@ -1,8 +1,6 @@
 {
   "id": "denim-pants",
-  "name": {
-    "en-US": "Denim Pants"
-  },
+  "name": "Denim Pants",
   "games": {
     "nh": {
       "orderable": true,

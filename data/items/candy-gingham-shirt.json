@@ -1,14 +1,6 @@
 {
   "id": "candy-gingham-shirt",
-  "name": {
-    "de": "Picknickpulli",
-    "en-GB": "Candy Gingham Shirt",
-    "en-US": "Candy Gingham Shirt",
-    "es": "Jersey vichy rosa",
-    "fr": "Pull vichy rose",
-    "it": "Maglia lampone",
-    "ja": "いちごギンガムのふくL"
-  },
+  "name": "Candy Gingham Shirt",
   "category": "Tops",
   "games": {
     "nl": {

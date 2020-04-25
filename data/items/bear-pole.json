@@ -1,14 +1,6 @@
 {
   "id": "bear-pole",
-  "name": {
-    "de": "Bären-Totempfahl",
-    "en-GB": "Bear Pole",
-    "en-US": "Bear Pole",
-    "es": "Tótem oso",
-    "fr": "Totem ours",
-    "it": "Totem orso",
-    "ja": "トーテムポール・アラ"
-  },
+  "name": "Bear Pole",
   "category": "Furniture",
   "games": {
     "nl": {

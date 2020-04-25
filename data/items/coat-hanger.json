@@ -1,14 +1,6 @@
 {
   "id": "coat-hanger",
-  "name": {
-    "de": "Garderobenständer",
-    "en-GB": "Coat Hanger",
-    "en-US": "Coat Hanger",
-    "es": "Perchero",
-    "fr": "Portemanteau",
-    "it": "Attaccapanni",
-    "ja": "コートハンガー"
-  },
+  "name": "Coat Hanger",
   "category": "Furniture",
   "games": {
     "nl": {

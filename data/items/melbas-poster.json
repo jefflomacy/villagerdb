@@ -1,8 +1,6 @@
 {
   "id": "melbas-poster",
-  "name": {
-    "en-US": "Melba's Poster"
-  },
+  "name": "Melba's Poster",
   "games": {
     "nh": {
       "sources": [

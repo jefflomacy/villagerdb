@@ -1,14 +1,6 @@
 {
   "id": "fireplace",
-  "name": {
-    "de": "Kamin",
-    "en-GB": "Fireplace",
-    "en-US": "Fireplace",
-    "es": "Chimenea",
-    "fr": "Cheminée",
-    "it": "Caminetto",
-    "ja": "だんろ"
-  },
+  "name": "Fireplace",
   "category": "Furniture",
   "games": {
     "nl": {

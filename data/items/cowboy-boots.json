@@ -1,14 +1,6 @@
 {
   "id": "cowboy-boots",
-  "name": {
-    "de": "Cowboystiefel",
-    "en-GB": "Cowboy Boots",
-    "en-US": "Cowboy Boots",
-    "es": "Bota del Oeste",
-    "fr": "P. bottes cowboy",
-    "it": "Paio stivali west",
-    "ja": "ウェスタンブーツ"
-  },
+  "name": "Cowboy Boots",
   "category": "Shoes",
   "games": {
     "nl": {

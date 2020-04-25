@@ -1,14 +1,6 @@
 {
   "id": "rubber-tree",
-  "name": {
-    "de": "Gummibaum",
-    "en-GB": "Rubber Tree",
-    "en-US": "Rubber Tree",
-    "es": "Ficus",
-    "fr": "Caoutchouc",
-    "it": "Albero gomma",
-    "ja": "ゴムのき"
-  },
+  "name": "Rubber Tree",
   "category": "Furniture",
   "games": {
     "nl": {

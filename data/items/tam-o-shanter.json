@@ -1,14 +1,6 @@
 {
   "id": "tam-o-shanter",
-  "name": {
-    "de": "Schottenmütze",
-    "en-GB": "Tam-O'-Shanter",
-    "en-US": "Tam-O'-Shanter",
-    "es": "Boina escocesa",
-    "fr": "Béret écossais",
-    "it": "Cappello scozzese",
-    "ja": "スコットランドぼうし"
-  },
+  "name": "Tam-o'-shanter",
   "category": "Hats",
   "games": {
     "nl": {

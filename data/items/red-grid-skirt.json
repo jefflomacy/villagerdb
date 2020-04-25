@@ -1,14 +1,6 @@
 {
   "id": "red-grid-skirt",
-  "name": {
-    "de": "Käfigrock",
-    "en-GB": "Red-Grid Skirt",
-    "en-US": "Red-Grid Skirt",
-    "es": "Falda reja roja",
-    "fr": "Jupe grille rouge",
-    "it": "Gonna giallorossa",
-    "ja": "あきいろこうしのスカート"
-  },
+  "name": "Red-grid Skirt",
   "category": "Bottoms",
   "games": {
     "nl": {

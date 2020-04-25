@@ -1,14 +1,6 @@
 {
   "id": "tricera-tail",
-  "name": {
-    "de": "Triceratops-Schwanz",
-    "en-GB": "Tricera Tail",
-    "en-US": "Tricera Tail",
-    "es": "Cola triceratops",
-    "fr": "Queue de tricératops",
-    "it": "Coda triceratopo",
-    "ja": "トリケラトプスのしっぽ"
-  },
+  "name": "Tricera Tail",
   "category": "Fossils",
   "games": {
     "nl": {

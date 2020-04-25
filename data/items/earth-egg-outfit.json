@@ -1,8 +1,6 @@
 {
   "id": "earth-egg-outfit",
-  "name": {
-    "en-US": "Earth-egg Outfit"
-  },
+  "name": "Earth-egg Outfit",
   "games": {
     "nh": {
       "orderable": false,

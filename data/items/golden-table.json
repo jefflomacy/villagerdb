@@ -1,14 +1,6 @@
 {
   "id": "golden-table",
-  "name": {
-    "de": "Goldtisch",
-    "en-GB": "Golden Table",
-    "en-US": "Golden Table",
-    "es": "Mesa dorada",
-    "fr": "Table d'or",
-    "it": "Tavolo d'oro",
-    "ja": "おうごんのテーブル"
-  },
+  "name": "Golden Table",
   "category": "Furniture",
   "games": {
     "nl": {

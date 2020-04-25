@@ -1,14 +1,6 @@
 {
   "id": "polka-dot-stool",
-  "name": {
-    "de": "Pünktchenhocker",
-    "en-GB": "Polka-Dot Stool",
-    "en-US": "Polka-Dot Stool",
-    "es": "Taburete topos",
-    "fr": "Tabouret pois rouge",
-    "it": "Sgabello pois",
-    "ja": "みずたまなまるイス"
-  },
+  "name": "Polka-dot Stool",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "santa-coat",
-  "name": {
-    "de": "Weihnachtsmannjacke",
-    "en-GB": "Santa Coat",
-    "en-US": "Santa Coat",
-    "es": "Jersey festivo",
-    "fr": "Manteau de père Noël",
-    "it": "Maglia Babbo Natale",
-    "ja": "サンタのジャケット"
-  },
+  "name": "Santa Coat",
   "category": "Tops",
   "games": {
     "nl": {

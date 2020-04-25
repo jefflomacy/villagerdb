@@ -1,8 +1,6 @@
 {
   "id": "sports-cap",
-  "name": {
-    "en-US": "Sports Cap"
-  },
+  "name": "Sports Cap",
   "games": {
     "nh": {
       "sellPrice": {

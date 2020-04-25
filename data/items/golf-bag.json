@@ -1,14 +1,6 @@
 {
   "id": "golf-bag",
-  "name": {
-    "de": "Profi-Golfbag",
-    "en-GB": "Golf Bag",
-    "en-US": "Golf Bag",
-    "es": "Bolsa golf",
-    "fr": "Sac de golf",
-    "it": "Sacca golf",
-    "ja": "ゴルフバッグ"
-  },
+  "name": "Golf Bag",
   "category": "Furniture",
   "games": {
     "nl": {

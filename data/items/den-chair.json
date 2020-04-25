@@ -1,8 +1,6 @@
 {
   "id": "den-chair",
-  "name": {
-    "en-US": "Den Chair"
-  },
+  "name": "Den Chair",
   "games": {
     "nh": {
       "sellPrice": {

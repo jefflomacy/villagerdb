@@ -1,14 +1,6 @@
 {
   "id": "fi-mask",
-  "name": {
-    "de": "Phai-Maske",
-    "en-GB": "Fi Mask",
-    "en-US": "Fi Mask",
-    "es": "Máscara de Fay",
-    "fr": "Masque de Fay",
-    "it": "Maschera da Faih",
-    "ja": "ファイ"
-  },
+  "name": "Fi Mask",
   "category": "Hats",
   "games": {
     "nl": {

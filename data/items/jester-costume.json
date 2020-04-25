@@ -1,8 +1,6 @@
 {
   "id": "jester-costume",
-  "name": {
-    "en-US": "Jester Costume"
-  },
+  "name": "Jester Costume",
   "games": {
     "nh": {
       "sellPrice": {

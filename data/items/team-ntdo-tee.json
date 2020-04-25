@@ -1,14 +1,6 @@
 {
   "id": "team-ntdo-tee",
-  "name": {
-    "de": "Rotsaumshirt",
-    "en-GB": "Team NTDO Tee",
-    "en-US": "Team NTDO Tee",
-    "es": "Camiseta NTDO",
-    "fr": "T-shirt équipe NTDO",
-    "it": "Maglietta grigia",
-    "ja": "はしがあかいふく"
-  },
+  "name": "Team Ntdo Tee",
   "category": "Tops",
   "games": {
     "nl": {

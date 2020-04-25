@@ -1,14 +1,6 @@
 {
   "id": "mini-lamp",
-  "name": {
-    "de": "Minilampe",
-    "en-GB": "Mini Lamp",
-    "en-US": "Mini Lamp",
-    "es": "Minilámpara",
-    "fr": "Petite lampe",
-    "it": "Minilampada",
-    "ja": "でんきスタンド"
-  },
+  "name": "Mini Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

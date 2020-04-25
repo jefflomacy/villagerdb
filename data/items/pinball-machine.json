@@ -1,14 +1,6 @@
 {
   "id": "pinball-machine",
-  "name": {
-    "de": "Flipper",
-    "en-GB": "Pinball Machine",
-    "en-US": "Pinball Machine",
-    "es": "Máquina pinball",
-    "fr": "Flipper",
-    "it": "Flipper",
-    "ja": "ピンボールだい"
-  },
+  "name": "Pinball Machine",
   "category": "Furniture",
   "games": {
     "nl": {

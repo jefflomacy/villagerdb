@@ -1,8 +1,6 @@
 {
   "id": "cute-sneakers",
-  "name": {
-    "en-US": "Cute Sneakers"
-  },
+  "name": "Cute Sneakers",
   "games": {
     "nh": {
       "orderable": true,

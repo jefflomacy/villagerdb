@@ -1,8 +1,6 @@
 {
   "id": "blue-camo-wall",
-  "name": {
-    "en-US": "Blue Camo Wall"
-  },
+  "name": "Blue Camo Wall",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "relay-tank",
-  "name": {
-    "de": "Staffellauf-Top",
-    "en-GB": "Relay Tank",
-    "en-US": "Relay Tank",
-    "es": "Top maratón",
-    "fr": "Débardeur marathon",
-    "it": "Canotta maratona",
-    "ja": "えきでんなふく"
-  },
+  "name": "Relay Tank",
   "category": "Tops",
   "games": {
     "nl": {

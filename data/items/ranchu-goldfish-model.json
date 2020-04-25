@@ -1,8 +1,6 @@
 {
   "id": "ranchu-goldfish-model",
-  "name": {
-    "en-US": "Ranchu Goldfish Model"
-  },
+  "name": "Ranchu Goldfish Model",
   "games": {
     "nh": {
       "sellPrice": {

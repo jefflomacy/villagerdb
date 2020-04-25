@@ -1,8 +1,6 @@
 {
   "id": "double-sofa",
-  "name": {
-    "en-US": "Double Sofa"
-  },
+  "name": "Double Sofa",
   "games": {
     "nh": {
       "orderable": true,

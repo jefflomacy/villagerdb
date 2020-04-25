@@ -1,14 +1,6 @@
 {
   "id": "fedora-chair",
-  "name": {
-    "de": "Filzhut-Stuhl",
-    "en-GB": "Fedora Chair",
-    "en-US": "Fedora Chair",
-    "es": "Taburete sombrero",
-    "fr": "Chaise borsalino",
-    "it": "Sedia fedora",
-    "ja": "なかおれぼうのイス"
-  },
+  "name": "Fedora Chair",
   "category": "Furniture",
   "games": {
     "nl": {

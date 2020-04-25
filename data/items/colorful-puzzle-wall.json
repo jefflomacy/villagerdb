@@ -1,8 +1,6 @@
 {
   "id": "colorful-puzzle-wall",
-  "name": {
-    "en-US": "Colorful Puzzle Wall"
-  },
+  "name": "Colorful Puzzle Wall",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "squid-chair",
-  "name": {
-    "de": "Tintenfischstuhl",
-    "en-GB": "Squid Chair",
-    "en-US": "Squid Chair",
-    "es": "Silla calamar",
-    "fr": "Chaise calmar",
-    "it": "Sedia calamaro",
-    "ja": "イカすチェア"
-  },
+  "name": "Squid Chair",
   "category": "Furniture",
   "games": {
     "nl": {

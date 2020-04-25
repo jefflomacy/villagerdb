@@ -1,8 +1,6 @@
 {
   "id": "bunny-day-vanity",
-  "name": {
-    "en-US": "Bunny Day Vanity"
-  },
+  "name": "Bunny Day Vanity",
   "games": {
     "nh": {
       "orderable": false,

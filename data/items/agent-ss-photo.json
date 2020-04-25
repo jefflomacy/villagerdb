@@ -1,8 +1,6 @@
 {
   "id": "agent-ss-photo",
-  "name": {
-    "en-US": "Agent S's Photo"
-  },
+  "name": "Agent S's Photo",
   "games": {
     "nh": {
       "sellPrice": {

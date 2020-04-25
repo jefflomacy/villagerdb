@@ -1,8 +1,6 @@
 {
   "id": "round-space-heater",
-  "name": {
-    "en-US": "Round Space Heater"
-  },
+  "name": "Round Space Heater",
   "games": {
     "nh": {
       "sellPrice": {

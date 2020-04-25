@@ -1,8 +1,6 @@
 {
   "id": "hamlets-poster",
-  "name": {
-    "en-US": "Hamlet's Poster"
-  },
+  "name": "Hamlet's Poster",
   "games": {
     "nh": {
       "sources": [

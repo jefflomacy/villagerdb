@@ -1,8 +1,6 @@
 {
   "id": "opals-poster",
-  "name": {
-    "en-US": "Opal's Poster"
-  },
+  "name": "Opal's Poster",
   "games": {
     "nh": {
       "sources": [

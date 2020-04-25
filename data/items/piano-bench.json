@@ -1,8 +1,6 @@
 {
   "id": "piano-bench",
-  "name": {
-    "en-US": "Piano Bench"
-  },
+  "name": "Piano Bench",
   "games": {
     "nh": {
       "orderable": true,

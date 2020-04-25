@@ -1,8 +1,6 @@
 {
   "id": "sheep-costume",
-  "name": {
-    "en-US": "Sheep Costume"
-  },
+  "name": "Sheep Costume",
   "games": {
     "nh": {
       "sellPrice": {

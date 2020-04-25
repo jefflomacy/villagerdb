@@ -1,14 +1,6 @@
 {
   "id": "hanten-shirt",
-  "name": {
-    "de": "Lockerweste",
-    "en-GB": "Hanten Shirt",
-    "en-US": "Hanten Shirt",
-    "es": "Bata de invierno",
-    "fr": "Pull hanten",
-    "it": "Giacca da casa",
-    "ja": "そでなしはんてん"
-  },
+  "name": "Hanten Shirt",
   "category": "Tops",
   "games": {
     "nl": {

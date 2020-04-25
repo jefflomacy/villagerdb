@@ -1,8 +1,6 @@
 {
   "id": "crucian-carp-model",
-  "name": {
-    "en-US": "Crucian Carp Model"
-  },
+  "name": "Crucian Carp Model",
   "games": {
     "nh": {
       "sellPrice": {

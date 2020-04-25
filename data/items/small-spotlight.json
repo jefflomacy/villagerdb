@@ -1,14 +1,6 @@
 {
   "id": "small-spotlight",
-  "name": {
-    "de": "Scheinwerfer",
-    "en-GB": "Small Spotlight",
-    "en-US": "Small Spotlight",
-    "es": "Foco pequeño",
-    "fr": "Projecteur",
-    "it": "Riflettore piccolo",
-    "ja": "スポットライトS"
-  },
+  "name": "Small Spotlight",
   "category": "Furniture",
   "games": {
     "nl": {

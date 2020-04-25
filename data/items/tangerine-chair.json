@@ -1,14 +1,6 @@
 {
   "id": "tangerine-chair",
-  "name": {
-    "de": "Orangenstuhl",
-    "en-GB": "Tangerine Chair",
-    "en-US": "Tangerine Chair",
-    "es": "Silla mandarina",
-    "fr": "Chaise mandarine",
-    "it": "Sedia mandarino",
-    "ja": "シトラスなイス"
-  },
+  "name": "Tangerine Chair",
   "category": "Furniture",
   "games": {
     "nl": {

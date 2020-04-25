@@ -1,14 +1,6 @@
 {
   "id": "ninja-sandals",
-  "name": {
-    "de": "Ninjasandale",
-    "en-GB": "Ninja Sandals",
-    "en-US": "Ninja Sandals",
-    "es": "Sandalia ninja",
-    "fr": "Paire de tongs ninja",
-    "it": "Paio sandali ninja",
-    "ja": "せった"
-  },
+  "name": "Ninja Sandals",
   "category": "Shoes",
   "games": {
     "nl": {

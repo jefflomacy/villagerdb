@@ -1,8 +1,6 @@
 {
   "id": "bunny-ears",
-  "name": {
-    "en-US": "Bunny Ears"
-  },
+  "name": "Bunny Ears",
   "games": {
     "nh": {
       "orderable": true,

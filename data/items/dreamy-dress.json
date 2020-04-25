@@ -1,8 +1,6 @@
 {
   "id": "dreamy-dress",
-  "name": {
-    "en-US": "Dreamy Dress"
-  },
+  "name": "Dreamy Dress",
   "games": {
     "nh": {
       "orderable": true,

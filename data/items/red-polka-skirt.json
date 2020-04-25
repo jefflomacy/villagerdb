@@ -1,14 +1,6 @@
 {
   "id": "red-polka-skirt",
-  "name": {
-    "de": "Fliegenpilzrock",
-    "en-GB": "Red Polka Skirt",
-    "en-US": "Red Polka Skirt",
-    "es": "Falda topos roja",
-    "fr": "Jupe à pois rouge",
-    "it": "Gonna rossa puntini",
-    "ja": "あかいドットスカート"
-  },
+  "name": "Red Polka Skirt",
   "category": "Bottoms",
   "games": {
     "nl": {

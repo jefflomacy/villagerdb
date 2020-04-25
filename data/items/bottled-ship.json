@@ -1,14 +1,6 @@
 {
   "id": "bottled-ship",
-  "name": {
-    "de": "Flaschenschiff",
-    "en-GB": "Bottled Ship",
-    "en-US": "Bottled Ship",
-    "es": "Barco en botella",
-    "fr": "Bateau bouteille",
-    "it": "Modellino nave",
-    "ja": "ボトルシップ"
-  },
+  "name": "Bottled Ship",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "rococo-sofa",
-  "name": {
-    "de": "Rokoko-Sofa",
-    "en-GB": "Rococo Sofa",
-    "en-US": "Rococo Sofa",
-    "es": "Sofá rococó",
-    "fr": "Canapé rococo",
-    "it": "Sofà rococò",
-    "ja": "ロココなソファ"
-  },
+  "name": "Rococo Sofa",
   "category": "Furniture",
   "games": {
     "nl": {

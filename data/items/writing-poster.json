@@ -1,8 +1,6 @@
 {
   "id": "writing-poster",
-  "name": {
-    "en-US": "Writing Poster"
-  },
+  "name": "Writing Poster",
   "games": {
     "nh": {
       "orderable": true,

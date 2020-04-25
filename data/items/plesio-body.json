@@ -1,8 +1,6 @@
 {
   "id": "plesio-body",
-  "name": {
-    "en-US": "Plesio Body"
-  },
+  "name": "Plesio Body",
   "games": {
     "nh": {
       "orderable": false,

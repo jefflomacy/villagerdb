@@ -1,14 +1,6 @@
 {
   "id": "monkey-shirt",
-  "name": {
-    "de": "Baumpulli",
-    "en-GB": "Monkey Shirt",
-    "en-US": "Monkey Shirt",
-    "es": "Jersey monos",
-    "fr": "Pull singe",
-    "it": "Maglione con scimmie",
-    "ja": "さるがらのニット"
-  },
+  "name": "Monkey Shirt",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "comfy-sandals",
-  "name": {
-    "en-US": "Comfy Sandals"
-  },
+  "name": "Comfy Sandals",
   "games": {
     "nh": {
       "orderable": true,

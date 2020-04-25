@@ -1,14 +1,6 @@
 {
   "id": "cabin-couch",
-  "name": {
-    "de": "Blockhaussofa",
-    "en-GB": "Cabin Couch",
-    "en-US": "Cabin Couch",
-    "es": "Sofá cabaña",
-    "fr": "Canapé chalet",
-    "it": "Sofà rustico",
-    "ja": "ログソファL"
-  },
+  "name": "Cabin Couch",
   "category": "Furniture",
   "games": {
     "nl": {

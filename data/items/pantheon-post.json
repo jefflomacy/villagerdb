@@ -1,14 +1,6 @@
 {
   "id": "pantheon-post",
-  "name": {
-    "de": "Ruhmessäule",
-    "en-GB": "Pantheon Post",
-    "en-US": "Pantheon Post",
-    "es": "Columna dórica",
-    "fr": "Colonne Panthéon",
-    "it": "Colonna dorica",
-    "ja": "パルテノンのはしら"
-  },
+  "name": "Pantheon Post",
   "category": "Furniture",
   "games": {
     "nl": {

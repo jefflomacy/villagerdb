@@ -1,14 +1,6 @@
 {
   "id": "funky-dot-tank",
-  "name": {
-    "de": "Funky-Top",
-    "en-GB": "Funky-Dot Tank",
-    "en-US": "Funky-Dot Tank",
-    "es": "Top topos lila",
-    "fr": "Débardeur points",
-    "it": "Canotta pois lilla",
-    "ja": "パープルドットのふくN"
-  },
+  "name": "Funky-dot Tank",
   "category": "Tops",
   "games": {
     "nl": {

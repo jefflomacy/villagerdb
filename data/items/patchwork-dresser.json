@@ -1,14 +1,6 @@
 {
   "id": "patchwork-dresser",
-  "name": {
-    "de": "Patchwork-Kommode",
-    "en-GB": "Patchwork Dresser",
-    "en-US": "Patchwork Dresser",
-    "es": "Cómoda de retales",
-    "fr": "Commode patchwork",
-    "it": "Comò patchwork",
-    "ja": "パッチワークなタンス"
-  },
+  "name": "Patchwork Dresser",
   "category": "Furniture",
   "games": {
     "nl": {

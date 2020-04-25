@@ -1,8 +1,6 @@
 {
   "id": "bagworm-model",
-  "name": {
-    "en-US": "Bagworm Model"
-  },
+  "name": "Bagworm Model",
   "games": {
     "nh": {
       "sellPrice": {

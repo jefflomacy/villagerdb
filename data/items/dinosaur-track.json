@@ -1,14 +1,6 @@
 {
   "id": "dinosaur-track",
-  "name": {
-    "de": "Dino-Fußabdruck",
-    "en-GB": "Dinosaur Track",
-    "en-US": "Dinosaur Track",
-    "es": "Huella de dinosaurio",
-    "fr": "Empreinte de dino",
-    "it": "Orma dinosauro",
-    "ja": "あしあとのかせき"
-  },
+  "name": "Dinosaur Track",
   "category": "Fossils",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "leaf-egg",
-  "name": {
-    "en-US": "Leaf Egg"
-  },
+  "name": "Leaf Egg",
   "games": {
     "nh": {
       "orderable": false,

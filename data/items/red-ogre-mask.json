@@ -1,14 +1,6 @@
 {
   "id": "red-ogre-mask",
-  "name": {
-    "de": "Ogermaske (rot)",
-    "en-GB": "Red Ogre Mask",
-    "en-US": "Red Ogre Mask",
-    "es": "Careta ogro rojo",
-    "fr": "Masque d'ogre rouge",
-    "it": "Masch. Setsub. rossa",
-    "ja": "あかオニのおめん"
-  },
+  "name": "Red Ogre Mask",
   "category": "Hats",
   "games": {
     "nl": {

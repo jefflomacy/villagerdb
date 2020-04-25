@@ -1,8 +1,6 @@
 {
   "id": "dark-chocolates-flooring",
-  "name": {
-    "en-US": "Dark-chocolates Flooring"
-  },
+  "name": "Dark-chocolates Flooring",
   "games": {
     "nh": {
       "orderable": false,

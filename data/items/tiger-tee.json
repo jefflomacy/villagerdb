@@ -1,14 +1,6 @@
 {
   "id": "tiger-tee",
-  "name": {
-    "de": "Tigershirt",
-    "en-GB": "Tiger Tee",
-    "en-US": "Tiger Tee",
-    "es": "Camiseta tigre",
-    "fr": "T-shirt tigre",
-    "it": "Maglietta tigre",
-    "ja": "とらじまのふく"
-  },
+  "name": "Tiger Tee",
   "category": "Tops",
   "games": {
     "nl": {

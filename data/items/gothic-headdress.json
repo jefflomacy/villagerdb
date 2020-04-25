@@ -1,8 +1,6 @@
 {
   "id": "gothic-headdress",
-  "name": {
-    "en-US": "Gothic Headdress"
-  },
+  "name": "Gothic Headdress",
   "games": {
     "nh": {
       "orderable": true,

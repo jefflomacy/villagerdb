@@ -1,14 +1,6 @@
 {
   "id": "helm",
-  "name": {
-    "de": "Steuerrad",
-    "en-GB": "Helm",
-    "en-US": "Helm",
-    "es": "Timón",
-    "fr": "Barre à roue",
-    "it": "Timone",
-    "ja": "かじ"
-  },
+  "name": "Helm",
   "category": "Furniture",
   "games": {
     "nl": {

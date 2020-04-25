@@ -1,14 +1,6 @@
 {
   "id": "basketball-shoes",
-  "name": {
-    "de": "Basketballschuh",
-    "en-GB": "Basketball Shoes",
-    "en-US": "Basketball Shoes",
-    "es": "Zapatilla básquet",
-    "fr": "Paire de baskets",
-    "it": "Paio scarpe basket",
-    "ja": "バスケットシューズ"
-  },
+  "name": "Basketball Shoes",
   "category": "Shoes",
   "games": {
     "nl": {

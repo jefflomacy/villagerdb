@@ -1,14 +1,6 @@
 {
   "id": "golden-man",
-  "name": {
-    "de": "Goldmann",
-    "en-GB": "Golden Man",
-    "en-US": "Golden Man",
-    "es": "Figura hombre dorada",
-    "fr": "Totem homme d'or",
-    "it": "Statua di uomo d'oro",
-    "ja": "おうごんのせんしぞう"
-  },
+  "name": "Golden Man",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "whale-shark-model",
-  "name": {
-    "en-US": "Whale Shark Model"
-  },
+  "name": "Whale Shark Model",
   "games": {
     "nh": {
       "sellPrice": {

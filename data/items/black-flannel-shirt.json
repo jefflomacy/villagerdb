@@ -1,14 +1,6 @@
 {
   "id": "black-flannel-shirt",
-  "name": {
-    "de": "Flanellhemd",
-    "en-GB": "Black Flannel Shirt",
-    "en-US": "Black Flannel Shirt",
-    "es": "Camisa franela negra",
-    "fr": "Pull flanelle gris",
-    "it": "Camicia grunge grig.",
-    "ja": "くろいネルシャツ"
-  },
+  "name": "Black Flannel Shirt",
   "category": "Tops",
   "games": {
     "nl": {

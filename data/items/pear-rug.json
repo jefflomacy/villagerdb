@@ -1,8 +1,6 @@
 {
   "id": "pear-rug",
-  "name": {
-    "en-US": "Pear Rug"
-  },
+  "name": "Pear Rug",
   "games": {
     "nh": {
       "orderable": false,

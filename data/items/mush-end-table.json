@@ -1,14 +1,6 @@
 {
   "id": "mush-end-table",
-  "name": {
-    "de": "Pilztischchen",
-    "en-GB": "Mush End Table",
-    "en-US": "Mush End Table",
-    "es": "Mesita hongo",
-    "fr": "Table basse champi",
-    "it": "Tavolino fungo",
-    "ja": "きのこサイドテーブル"
-  },
+  "name": "Mush End Table",
   "category": "Furniture",
   "games": {
     "nl": {

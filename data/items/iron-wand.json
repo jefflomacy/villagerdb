@@ -1,8 +1,6 @@
 {
   "id": "iron-wand",
-  "name": {
-    "en-US": "Iron Wand"
-  },
+  "name": "Iron Wand",
   "games": {
     "nh": {
       "orderable": false,

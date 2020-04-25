@@ -1,14 +1,6 @@
 {
   "id": "hot-dog-hat",
-  "name": {
-    "de": "Hotdog-Hut",
-    "en-GB": "Hot-Dog Hat",
-    "en-US": "Hot-Dog Hat",
-    "es": "Gorro salchicha",
-    "fr": "Chapeau hot-dog",
-    "it": "Cappello hot dog",
-    "ja": "ホットドッグのぼうし"
-  },
+  "name": "Hot-dog Hat",
   "category": "Hats",
   "games": {
     "nl": {

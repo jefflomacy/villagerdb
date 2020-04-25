@@ -1,14 +1,6 @@
 {
   "id": "beret",
-  "name": {
-    "de": "Barett",
-    "en-GB": "Beret",
-    "en-US": "Beret",
-    "es": "Boina",
-    "fr": "Béret",
-    "it": "Basco",
-    "ja": "ベレーぼう"
-  },
+  "name": "Beret",
   "category": "Hats",
   "games": {
     "nl": {

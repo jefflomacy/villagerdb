@@ -1,8 +1,6 @@
 {
   "id": "table-setting",
-  "name": {
-    "en-US": "Table Setting"
-  },
+  "name": "Table Setting",
   "games": {
     "nh": {
       "orderable": true,

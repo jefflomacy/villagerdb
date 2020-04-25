@@ -1,8 +1,6 @@
 {
   "id": "damselfly",
-  "name": {
-    "en-US": "Damselfly"
-  },
+  "name": "Damselfly",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "pool",
-  "name": {
-    "en-US": "Pool"
-  },
+  "name": "Pool",
   "games": {
     "nh": {
       "orderable": true,

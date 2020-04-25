@@ -1,8 +1,6 @@
 {
   "id": "blue-paint-flooring",
-  "name": {
-    "en-US": "Blue-paint Flooring"
-  },
+  "name": "Blue-paint Flooring",
   "games": {
     "nh": {
       "orderable": true,

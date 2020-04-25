@@ -1,14 +1,6 @@
 {
   "id": "robo-dresser",
-  "name": {
-    "de": "Robo-Kommode",
-    "en-GB": "Robo-Dresser",
-    "en-US": "Robo-Dresser",
-    "es": "Robocómoda",
-    "fr": "Commode robot",
-    "it": "Robo-comò",
-    "ja": "ロボタンス"
-  },
+  "name": "Robo-dresser",
   "category": "Furniture",
   "games": {
     "nl": {

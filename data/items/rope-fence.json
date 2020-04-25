@@ -1,8 +1,6 @@
 {
   "id": "rope-fence",
-  "name": {
-    "en-US": "Rope Fence"
-  },
+  "name": "Rope Fence",
   "games": {
     "nh": {
       "orderable": false,

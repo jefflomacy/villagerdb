@@ -1,14 +1,6 @@
 {
   "id": "reversi-piece",
-  "name": {
-    "de": "Spielstein",
-    "en-GB": "Board Game Piece",
-    "en-US": "Reversi Piece",
-    "es": "Pieza de reversi",
-    "fr": "Pièce de reversi",
-    "it": "Pedina gioco tavolo",
-    "ja": "リバーシ"
-  },
+  "name": "Reversi Piece",
   "category": "Furniture",
   "games": {
     "nl": {

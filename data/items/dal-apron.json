@@ -1,8 +1,6 @@
 {
   "id": "dal-apron",
-  "name": {
-    "en-US": "Dal Apron"
-  },
+  "name": "Dal Apron",
   "games": {
     "nh": {
       "sellPrice": {

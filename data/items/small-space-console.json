@@ -1,14 +1,6 @@
 {
   "id": "small-space-console",
-  "name": {
-    "de": "Steuerkonsole",
-    "en-GB": "Small Space Console",
-    "en-US": "Small Space Console",
-    "es": "Minicuadro mandos",
-    "fr": "Mini-ordinateur bord",
-    "it": "Quadro comandi mini",
-    "ja": "ちいさいけいき"
-  },
+  "name": "Small Space Console",
   "category": "Furniture",
   "games": {
     "nl": {

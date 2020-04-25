@@ -1,14 +1,6 @@
 {
   "id": "pilots-hat",
-  "name": {
-    "de": "Pilotenmütze",
-    "en-GB": "Pilot's Hat",
-    "en-US": "Pilot's Hat",
-    "es": "Gorra de piloto",
-    "fr": "Chapeau de capitaine",
-    "it": "Cappello da pilota",
-    "ja": "きちょうのぼうし"
-  },
+  "name": "Pilot's Hat",
   "category": "Hats",
   "games": {
     "nl": {

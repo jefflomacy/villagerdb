@@ -1,14 +1,6 @@
 {
   "id": "space-shuttle",
-  "name": {
-    "de": "Raumfähre",
-    "en-GB": "Space Shuttle",
-    "en-US": "Space Shuttle",
-    "es": "Transbordador",
-    "fr": "Navette spatiale",
-    "it": "Shuttle",
-    "ja": "スペースシャトル"
-  },
+  "name": "Space Shuttle",
   "category": "Furniture",
   "games": {
     "nl": {

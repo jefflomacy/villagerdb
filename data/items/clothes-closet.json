@@ -1,14 +1,6 @@
 {
   "id": "clothes-closet",
-  "name": {
-    "de": "Kleiderschrank",
-    "en-GB": "Clothes Closet",
-    "en-US": "Clothes Closet",
-    "es": "Armario de tela",
-    "fr": "Penderie en tissu",
-    "it": "Appendiabiti",
-    "ja": "ファッションケース"
-  },
+  "name": "Clothes Closet",
   "category": "Furniture",
   "games": {
     "nl": {

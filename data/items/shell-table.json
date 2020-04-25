@@ -1,8 +1,6 @@
 {
   "id": "shell-table",
-  "name": {
-    "en-US": "Shell Table"
-  },
+  "name": "Shell Table",
   "games": {
     "nh": {
       "orderable": false,

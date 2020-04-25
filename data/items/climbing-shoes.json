@@ -1,14 +1,6 @@
 {
   "id": "climbing-shoes",
-  "name": {
-    "de": "Kletterschuh",
-    "en-GB": "Climbing Shoes",
-    "en-US": "Climbing Shoes",
-    "es": "Zapatilla pies gato",
-    "fr": "P. souliers escalade",
-    "it": "P. scarpe scalata",
-    "ja": "スポーツシューズ"
-  },
+  "name": "Climbing Shoes",
   "category": "Shoes",
   "games": {
     "nl": {

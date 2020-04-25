@@ -1,8 +1,6 @@
 {
   "id": "elaborate-kimono-stand",
-  "name": {
-    "en-US": "Elaborate Kimono Stand"
-  },
+  "name": "Elaborate Kimono Stand",
   "games": {
     "nh": {
       "sellPrice": {

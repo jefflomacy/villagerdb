@@ -1,8 +1,6 @@
 {
   "id": "yodel-shirt",
-  "name": {
-    "en-US": "Yodel Shirt"
-  },
+  "name": "Yodel Shirt",
   "category": "Tops",
   "games": {
     "ac": {

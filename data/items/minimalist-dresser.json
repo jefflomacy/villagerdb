@@ -1,14 +1,6 @@
 {
   "id": "minimalist-dresser",
-  "name": {
-    "de": "Minimalkommode",
-    "en-GB": "Minimalist Dresser",
-    "en-US": "Minimalist Dresser",
-    "es": "Cómoda minimalista",
-    "fr": "Commode minimaliste",
-    "it": "Comò minimalista",
-    "ja": "シンプルなタンス"
-  },
+  "name": "Minimalist Dresser",
   "category": "Furniture",
   "games": {
     "nl": {

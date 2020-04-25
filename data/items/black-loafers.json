@@ -1,14 +1,6 @@
 {
   "id": "black-loafers",
-  "name": {
-    "de": "Lederslipper",
-    "en-GB": "Black Loafers",
-    "en-US": "Black Loafers",
-    "es": "Mocasín negro",
-    "fr": "P. mocassins noirs",
-    "it": "Paio mocassini neri",
-    "ja": "くろいローファー"
-  },
+  "name": "Black Loafers",
   "category": "Shoes",
   "games": {
     "nl": {

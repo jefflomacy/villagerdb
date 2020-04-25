@@ -1,8 +1,6 @@
 {
   "id": "tarantula-model",
-  "name": {
-    "en-US": "Tarantula Model"
-  },
+  "name": "Tarantula Model",
   "games": {
     "nh": {
       "sellPrice": {

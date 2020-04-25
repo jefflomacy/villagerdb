@@ -1,8 +1,6 @@
 {
   "id": "embroidered-tank",
-  "name": {
-    "en-US": "Embroidered Tank"
-  },
+  "name": "Embroidered Tank",
   "games": {
     "nh": {
       "sellPrice": {

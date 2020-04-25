@@ -1,8 +1,6 @@
 {
   "id": "tadpole-model",
-  "name": {
-    "en-US": "Tadpole Model"
-  },
+  "name": "Tadpole Model",
   "games": {
     "nh": {
       "sellPrice": {

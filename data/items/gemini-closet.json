@@ -1,14 +1,6 @@
 {
   "id": "gemini-closet",
-  "name": {
-    "de": "Zwillinge-Schrank",
-    "en-GB": "Gemini Closet",
-    "en-US": "Gemini Closet",
-    "es": "Armario Géminis",
-    "fr": "Armoire Gémeaux",
-    "it": "Armadio Gemelli",
-    "ja": "ジェミニのクロゼット"
-  },
+  "name": "Gemini Closet",
   "category": "Furniture",
   "games": {
     "nl": {

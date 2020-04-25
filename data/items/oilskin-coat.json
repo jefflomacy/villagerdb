@@ -1,8 +1,6 @@
 {
   "id": "oilskin-coat",
-  "name": {
-    "en-US": "Oilskin Coat"
-  },
+  "name": "Oilskin Coat",
   "games": {
     "nh": {
       "sellPrice": {

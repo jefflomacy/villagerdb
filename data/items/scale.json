@@ -1,14 +1,6 @@
 {
   "id": "scale",
-  "name": {
-    "de": "Waage",
-    "en-GB": "Scale",
-    "en-US": "Scale",
-    "es": "Báscula",
-    "fr": "Balance",
-    "it": "Bilancia",
-    "ja": "たいじゅうけい"
-  },
+  "name": "Scale",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "egg-message-bottle",
-  "name": {
-    "en-US": "Egg Message Bottle"
-  },
+  "name": "Egg Message Bottle",
   "games": {
     "nh": {
       "sellPrice": {

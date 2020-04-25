@@ -1,8 +1,6 @@
 {
   "id": "star-pochette",
-  "name": {
-    "en-US": "Star Pochette"
-  },
+  "name": "Star Pochette",
   "games": {
     "nh": {
       "orderable": false,

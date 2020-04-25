@@ -1,8 +1,6 @@
 {
   "id": "wooden-toolbox",
-  "name": {
-    "en-US": "Wooden Toolbox"
-  },
+  "name": "Wooden Toolbox",
   "games": {
     "nh": {
       "orderable": false,

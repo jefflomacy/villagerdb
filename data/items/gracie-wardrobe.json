@@ -1,14 +1,6 @@
 {
   "id": "gracie-wardrobe",
-  "name": {
-    "de": "Graziaschrank",
-    "en-GB": "Gracie Wardrobe",
-    "en-US": "Gracie Wardrobe",
-    "es": "Armario Graciela",
-    "fr": "Armoire Carla",
-    "it": "Armadio Griffa",
-    "ja": "グレースクロゼット"
-  },
+  "name": "Gracie Wardrobe",
   "category": "Furniture",
   "games": {
     "nl": {

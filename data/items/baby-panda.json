@@ -1,14 +1,6 @@
 {
   "id": "baby-panda",
-  "name": {
-    "de": "Baby-Panda",
-    "en-GB": "Baby Panda",
-    "en-US": "Baby Panda",
-    "es": "Osito panda",
-    "fr": "Bébé panda",
-    "it": "Baby panda",
-    "ja": "パンダのシャオシャオ"
-  },
+  "name": "Baby Panda",
   "category": "Furniture",
   "games": {
     "nl": {

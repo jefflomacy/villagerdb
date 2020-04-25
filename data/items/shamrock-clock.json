@@ -1,14 +1,6 @@
 {
   "id": "shamrock-clock",
-  "name": {
-    "de": "Kleeblattuhr",
-    "en-GB": "Shamrock Clock",
-    "en-US": "Shamrock Clock",
-    "es": "Reloj trébol",
-    "fr": "Horloge trèfle",
-    "it": "Orologio trifoglio",
-    "ja": "シャムロックロック"
-  },
+  "name": "Shamrock Clock",
   "category": "Furniture",
   "games": {
     "nl": {

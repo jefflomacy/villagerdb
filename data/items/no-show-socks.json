@@ -1,8 +1,6 @@
 {
   "id": "no-show-socks",
-  "name": {
-    "en-US": "No-show Socks"
-  },
+  "name": "No-show Socks",
   "games": {
     "nh": {
       "orderable": true,

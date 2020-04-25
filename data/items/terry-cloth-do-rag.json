@@ -1,14 +1,6 @@
 {
   "id": "terry-cloth-do-rag",
-  "name": {
-    "de": "Handtuch",
-    "en-GB": "Terry-Cloth Do-Rag",
-    "en-US": "Terry-Cloth Do-Rag",
-    "es": "Pañuelo felpa",
-    "fr": "Bandana blanc",
-    "it": "Cappello asciugamano",
-    "ja": "タオル"
-  },
+  "name": "Terry-cloth Do-rag",
   "category": "Hats",
   "games": {
     "nl": {

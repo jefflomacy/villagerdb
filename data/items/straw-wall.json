@@ -1,8 +1,6 @@
 {
   "id": "straw-wall",
-  "name": {
-    "en-US": "Straw Wall"
-  },
+  "name": "Straw Wall",
   "games": {
     "nh": {
       "sellPrice": {

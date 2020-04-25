@@ -1,8 +1,6 @@
 {
   "id": "monstera",
-  "name": {
-    "en-US": "Monstera"
-  },
+  "name": "Monstera",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,14 +1,6 @@
 {
   "id": "museum-model",
-  "name": {
-    "de": "Museumsmodell",
-    "en-GB": "Museum Model",
-    "en-US": "Museum Model",
-    "es": "Maqueta de museo",
-    "fr": "Maquette de musée",
-    "it": "Modellino museo",
-    "ja": "はくぶつかんのもけい"
-  },
+  "name": "Museum Model",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "simple-small-black-mat",
-  "name": {
-    "en-US": "Simple Small Black Mat"
-  },
+  "name": "Simple Small Black Mat",
   "games": {
     "nh": {
       "orderable": true,

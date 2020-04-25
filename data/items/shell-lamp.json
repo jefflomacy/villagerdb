@@ -1,8 +1,6 @@
 {
   "id": "shell-lamp",
-  "name": {
-    "en-US": "Shell Lamp"
-  },
+  "name": "Shell Lamp",
   "games": {
     "nh": {
       "orderable": false,

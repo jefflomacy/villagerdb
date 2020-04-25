@@ -1,14 +1,6 @@
 {
   "id": "ionian-post",
-  "name": {
-    "de": "Ioniersäule",
-    "en-GB": "Ionian Post",
-    "en-US": "Ionian Post",
-    "es": "Columna jónica",
-    "fr": "Colonne Ionie",
-    "it": "Colonna ionica",
-    "ja": "イオニアのはしら"
-  },
+  "name": "Ionian Post",
   "category": "Furniture",
   "games": {
     "nl": {

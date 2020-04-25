@@ -1,8 +1,6 @@
 {
   "id": "antique-mini-table",
-  "name": {
-    "en-US": "Antique Mini Table"
-  },
+  "name": "Antique Mini Table",
   "games": {
     "nh": {
       "orderable": true,

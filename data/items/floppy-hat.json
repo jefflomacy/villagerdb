@@ -1,14 +1,6 @@
 {
   "id": "floppy-hat",
-  "name": {
-    "de": "Schlapphut",
-    "en-GB": "Floppy Hat",
-    "en-US": "Floppy Hat",
-    "es": "Pamela negra",
-    "fr": "Capeline",
-    "it": "Cappello da attrice",
-    "ja": "じょゆうなぼうし"
-  },
+  "name": "Floppy Hat",
   "category": "Hats",
   "games": {
     "nl": {

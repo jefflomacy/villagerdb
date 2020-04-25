@@ -1,14 +1,6 @@
 {
   "id": "mermaid-bed",
-  "name": {
-    "de": "Nixenbett",
-    "en-GB": "Mermaid Bed",
-    "en-US": "Mermaid Bed",
-    "es": "Cama sirena",
-    "fr": "Lit sirène",
-    "it": "Letto sirena",
-    "ja": "マーメイドなベッド"
-  },
+  "name": "Mermaid Bed",
   "category": "Furniture",
   "games": {
     "nl": {

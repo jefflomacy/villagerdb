@@ -1,8 +1,6 @@
 {
   "id": "saharah-ticket",
-  "name": {
-    "en-US": "Saharah Ticket"
-  },
+  "name": "Saharah Ticket",
   "games": {
     "nh": {
       "sellPrice": {

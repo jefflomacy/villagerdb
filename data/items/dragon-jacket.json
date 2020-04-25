@@ -1,14 +1,6 @@
 {
   "id": "dragon-jacket",
-  "name": {
-    "de": "Drachenjacke",
-    "en-GB": "Dragon Jacket",
-    "en-US": "Dragon Jacket",
-    "es": "Cazadora dragón",
-    "fr": "Veste dragon",
-    "it": "Giacca blu e oro",
-    "ja": "ドラゴンのスカジャン"
-  },
+  "name": "Dragon Jacket",
   "category": "Tops",
   "games": {
     "nl": {

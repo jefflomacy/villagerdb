@@ -1,14 +1,6 @@
 {
   "id": "astro-bed",
-  "name": {
-    "de": "Astrobett",
-    "en-GB": "Astro Bed",
-    "en-US": "Astro Bed",
-    "es": "Cama futurista",
-    "fr": "Lit astro",
-    "it": "Letto futuro",
-    "ja": "きんみらいなベッド"
-  },
+  "name": "Astro Bed",
   "category": "Furniture",
   "games": {
     "nl": {

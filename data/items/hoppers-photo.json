@@ -1,8 +1,6 @@
 {
   "id": "hoppers-photo",
-  "name": {
-    "en-US": "Hopper's Photo"
-  },
+  "name": "Hopper's Photo",
   "games": {
     "nh": {
       "sellPrice": {

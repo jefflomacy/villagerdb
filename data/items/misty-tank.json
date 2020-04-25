@@ -1,14 +1,6 @@
 {
   "id": "misty-tank",
-  "name": {
-    "de": "Nebeltop",
-    "en-GB": "Misty Tank",
-    "en-US": "Misty Tank",
-    "es": "Top bruma",
-    "fr": "Débardeur brume",
-    "it": "Canotta nebbia",
-    "ja": "かすみのふくN"
-  },
+  "name": "Misty Tank",
   "category": "Tops",
   "games": {
     "nl": {

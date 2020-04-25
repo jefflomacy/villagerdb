@@ -1,14 +1,6 @@
 {
   "id": "space-helmet",
-  "name": {
-    "de": "Astronautenhelm",
-    "en-GB": "Space Helmet",
-    "en-US": "Space Helmet",
-    "es": "Casco espacial",
-    "fr": "Casque spatial",
-    "it": "Casco spaziale",
-    "ja": "アストロヘルメット"
-  },
+  "name": "Space Helmet",
   "category": "Hats",
   "games": {
     "nl": {

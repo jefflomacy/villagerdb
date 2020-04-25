@@ -1,14 +1,6 @@
 {
   "id": "festive-candle",
-  "name": {
-    "de": "Kerzenleuchter",
-    "en-GB": "Festive Candle",
-    "en-US": "Festive Candle",
-    "es": "Candelabro festivo",
-    "fr": "Chandelier de fête",
-    "it": "Candela festiva",
-    "ja": "おまつりのろうそく"
-  },
+  "name": "Festive Candle",
   "category": "Furniture",
   "games": {
     "nl": {

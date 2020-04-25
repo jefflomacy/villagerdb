@@ -1,8 +1,6 @@
 {
   "id": "knit-pants",
-  "name": {
-    "en-US": "Knit Pants"
-  },
+  "name": "Knit Pants",
   "games": {
     "nh": {
       "sellPrice": {

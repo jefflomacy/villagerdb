@@ -1,8 +1,6 @@
 {
   "id": "sports-tank",
-  "name": {
-    "en-US": "Sports Tank"
-  },
+  "name": "Sports Tank",
   "games": {
     "nh": {
       "sellPrice": {

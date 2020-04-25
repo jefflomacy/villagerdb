@@ -1,8 +1,6 @@
 {
   "id": "fish-bait",
-  "name": {
-    "en-US": "Fish Bait"
-  },
+  "name": "Fish Bait",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,14 +1,6 @@
 {
   "id": "flight-crew-shirt",
-  "name": {
-    "de": "Stewardessjacke",
-    "en-GB": "Flight-Crew Shirt",
-    "en-US": "Flight-Crew Shirt",
-    "es": "Uniforme de azafata",
-    "fr": "Pull hôtesse",
-    "it": "Giacca hostess",
-    "ja": "アテンダントのふく"
-  },
+  "name": "Flight-crew Shirt",
   "category": "Tops",
   "games": {
     "nl": {

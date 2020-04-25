@@ -1,14 +1,6 @@
 {
   "id": "geisha-wig",
-  "name": {
-    "de": "Geishaperücke",
-    "en-GB": "Geisha Wig",
-    "en-US": "Geisha Wig",
-    "es": "Peluca de geisha",
-    "fr": "Coiffe de geisha",
-    "it": "Parrucca da geisha",
-    "ja": "ゲイシャさん"
-  },
+  "name": "Geisha Wig",
   "category": "Hats",
   "games": {
     "nl": {

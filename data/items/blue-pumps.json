@@ -1,14 +1,6 @@
 {
   "id": "blue-pumps",
-  "name": {
-    "de": "Azur-Damenschuh",
-    "en-GB": "Blue Pumps",
-    "en-US": "Blue Pumps",
-    "es": "Manoletina azul",
-    "fr": "P. ballerines bleues",
-    "it": "Paio ballerine blu",
-    "ja": "あおいパンプス"
-  },
+  "name": "Blue Pumps",
   "category": "Shoes",
   "games": {
     "nl": {

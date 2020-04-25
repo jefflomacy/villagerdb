@@ -1,14 +1,6 @@
 {
   "id": "pot-rack",
-  "name": {
-    "de": "Küchenregal",
-    "en-GB": "Pot Rack",
-    "en-US": "Pot Rack",
-    "es": "Portacacerolas",
-    "fr": "Porte-casseroles",
-    "it": "Mensola da cucina",
-    "ja": "キッチンつるし"
-  },
+  "name": "Pot Rack",
   "category": "Furniture",
   "games": {
     "nl": {

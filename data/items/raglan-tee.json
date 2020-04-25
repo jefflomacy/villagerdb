@@ -1,14 +1,6 @@
 {
   "id": "raglan-tee",
-  "name": {
-    "de": "Raglan-Shirt",
-    "en-GB": "Raglan Tee",
-    "en-US": "Raglan Tee",
-    "es": "Camiseta azulada",
-    "fr": "T-shirt coupe raglan",
-    "it": "Maglietta raglan",
-    "ja": "あおのラグランシャツ"
-  },
+  "name": "Raglan Tee",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "kimono-stand",
-  "name": {
-    "en-US": "Kimono Stand"
-  },
+  "name": "Kimono Stand",
   "games": {
     "nh": {
       "sellPrice": {

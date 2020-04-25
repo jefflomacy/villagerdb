@@ -1,8 +1,6 @@
 {
   "id": "wooden-knot-wall",
-  "name": {
-    "en-US": "Wooden-knot Wall"
-  },
+  "name": "Wooden-knot Wall",
   "games": {
     "nh": {
       "orderable": false,

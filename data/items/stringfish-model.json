@@ -1,8 +1,6 @@
 {
   "id": "stringfish-model",
-  "name": {
-    "en-US": "Stringfish Model"
-  },
+  "name": "Stringfish Model",
   "games": {
     "nh": {
       "sellPrice": {

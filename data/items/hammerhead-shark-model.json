@@ -1,8 +1,6 @@
 {
   "id": "hammerhead-shark-model",
-  "name": {
-    "en-US": "Hammerhead Shark Model"
-  },
+  "name": "Hammerhead Shark Model",
   "games": {
     "nh": {
       "sellPrice": {

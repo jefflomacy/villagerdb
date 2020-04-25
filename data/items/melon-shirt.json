@@ -1,14 +1,6 @@
 {
   "id": "melon-shirt",
-  "name": {
-    "de": "Papayatop",
-    "en-GB": "Melon Shirt",
-    "en-US": "Melon Shirt",
-    "es": "Top melón",
-    "fr": "Débardeur melon",
-    "it": "Maglia melone",
-    "ja": "メロンのふくN"
-  },
+  "name": "Melon Shirt",
   "category": "Tops",
   "games": {
     "nl": {

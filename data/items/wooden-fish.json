@@ -1,8 +1,6 @@
 {
   "id": "wooden-fish",
-  "name": {
-    "en-US": "Wooden Fish"
-  },
+  "name": "Wooden Fish",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,14 +1,6 @@
 {
   "id": "modern-cabinet",
-  "name": {
-    "de": "Schachschränkchen",
-    "en-GB": "Modern Cabinet",
-    "en-US": "Modern Cabinet",
-    "es": "Vitrina moderna",
-    "fr": "Vitrine moderne",
-    "it": "Vetrina moderna",
-    "ja": "ツートンボード"
-  },
+  "name": "Modern Cabinet",
   "category": "Furniture",
   "games": {
     "nl": {

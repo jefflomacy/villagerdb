@@ -1,14 +1,6 @@
 {
   "id": "space-pants",
-  "name": {
-    "de": "Astronautenhose",
-    "en-GB": "Space Pants",
-    "en-US": "Space Pants",
-    "es": "Pantalón espacial",
-    "fr": "Pantalon spatial",
-    "it": "Pantalone spaziale",
-    "ja": "うちゅうふくのズボン"
-  },
+  "name": "Space Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

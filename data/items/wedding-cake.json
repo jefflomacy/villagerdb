@@ -1,14 +1,6 @@
 {
   "id": "wedding-cake",
-  "name": {
-    "de": "Hochzeitstorte",
-    "en-GB": "Wedding Cake",
-    "en-US": "Wedding Cake",
-    "es": "Tarta nupcial",
-    "fr": "Gâteau de mariage",
-    "it": "Torta nuziale",
-    "ja": "ウェディングケーキ"
-  },
+  "name": "Wedding Cake",
   "category": "Furniture",
   "games": {
     "nl": {

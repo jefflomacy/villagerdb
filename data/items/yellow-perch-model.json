@@ -1,8 +1,6 @@
 {
   "id": "yellow-perch-model",
-  "name": {
-    "en-US": "Yellow Perch Model"
-  },
+  "name": "Yellow Perch Model",
   "games": {
     "nh": {
       "sellPrice": {

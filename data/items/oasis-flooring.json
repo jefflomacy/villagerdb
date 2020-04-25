@@ -1,8 +1,6 @@
 {
   "id": "oasis-flooring",
-  "name": {
-    "en-US": "Oasis Flooring"
-  },
+  "name": "Oasis Flooring",
   "games": {
     "nh": {
       "sellPrice": {

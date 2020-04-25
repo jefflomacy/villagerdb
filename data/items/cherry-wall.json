@@ -1,8 +1,6 @@
 {
   "id": "cherry-wall",
-  "name": {
-    "en-US": "Cherry Wall"
-  },
+  "name": "Cherry Wall",
   "games": {
     "nh": {
       "sellPrice": {

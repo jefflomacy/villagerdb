@@ -1,8 +1,6 @@
 {
   "id": "brake-tapper",
-  "name": {
-    "en-US": "Brake Tapper"
-  },
+  "name": "Brake Tapper",
   "games": {
     "nh": {
       "sellPrice": {

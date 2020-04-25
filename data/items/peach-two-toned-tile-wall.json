@@ -1,8 +1,6 @@
 {
   "id": "peach-two-toned-tile-wall",
-  "name": {
-    "en-US": "Peach Two-toned Tile Wall"
-  },
+  "name": "Peach Two-toned Tile Wall",
   "games": {
     "nh": {
       "orderable": true,

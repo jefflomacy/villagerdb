@@ -1,8 +1,6 @@
 {
   "id": "business-shoes",
-  "name": {
-    "en-US": "Business Shoes"
-  },
+  "name": "Business Shoes",
   "games": {
     "nh": {
       "sellPrice": {

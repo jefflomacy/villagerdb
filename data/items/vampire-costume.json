@@ -1,8 +1,6 @@
 {
   "id": "vampire-costume",
-  "name": {
-    "en-US": "Vampire Costume"
-  },
+  "name": "Vampire Costume",
   "games": {
     "nh": {
       "orderable": true,

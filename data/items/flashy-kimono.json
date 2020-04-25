@@ -1,8 +1,6 @@
 {
   "id": "flashy-kimono",
-  "name": {
-    "en-US": "Flashy Kimono"
-  },
+  "name": "Flashy Kimono",
   "games": {
     "nh": {
       "sellPrice": {

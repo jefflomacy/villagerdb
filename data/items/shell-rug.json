@@ -1,8 +1,6 @@
 {
   "id": "shell-rug",
-  "name": {
-    "en-US": "Shell Rug"
-  },
+  "name": "Shell Rug",
   "games": {
     "nh": {
       "orderable": false,

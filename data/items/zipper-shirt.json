@@ -1,14 +1,6 @@
 {
   "id": "zipper-shirt",
-  "name": {
-    "de": "Zipp-Jacke",
-    "en-GB": "Zipper Shirt",
-    "en-US": "Zipper Shirt",
-    "es": "Jersey cremallera",
-    "fr": "Pull zip",
-    "it": "Maglia cerniera",
-    "ja": "ジッパーのふく"
-  },
+  "name": "Zipper Shirt",
   "category": "Tops",
   "games": {
     "nl": {

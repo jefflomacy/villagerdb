@@ -1,8 +1,6 @@
 {
   "id": "laboratory-wall",
-  "name": {
-    "en-US": "Laboratory Wall"
-  },
+  "name": "Laboratory Wall",
   "games": {
     "nh": {
       "sellPrice": {

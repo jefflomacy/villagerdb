@@ -1,8 +1,6 @@
 {
   "id": "surgeonfish-model",
-  "name": {
-    "en-US": "Surgeonfish Model"
-  },
+  "name": "Surgeonfish Model",
   "games": {
     "nh": {
       "sellPrice": {

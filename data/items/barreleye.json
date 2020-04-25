@@ -1,8 +1,6 @@
 {
   "id": "barreleye",
-  "name": {
-    "en-US": "Barreleye"
-  },
+  "name": "Barreleye",
   "games": {
     "nh": {
       "orderable": false,

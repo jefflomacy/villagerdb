@@ -1,14 +1,6 @@
 {
   "id": "cat-tower",
-  "name": {
-    "de": "Kratzbaum",
-    "en-GB": "Cat Tower",
-    "en-US": "Cat Tower",
-    "es": "Torre para gatos",
-    "fr": "Arbre à chat",
-    "it": "Torre per gatti",
-    "ja": "キャットタワー"
-  },
+  "name": "Cat Tower",
   "category": "Furniture",
   "games": {
     "nl": {

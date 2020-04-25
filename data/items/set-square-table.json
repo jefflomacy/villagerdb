@@ -1,14 +1,6 @@
 {
   "id": "set-square-table",
-  "name": {
-    "de": "Zeichendreieck-Tisch",
-    "en-GB": "Set Square Table",
-    "en-US": "Set Square Table",
-    "es": "Mesa cuadrada",
-    "fr": "Table équerre",
-    "it": "Tavolo squadre",
-    "ja": "さんかくじょうぎテーブル"
-  },
+  "name": "Set Square Table",
   "category": "Furniture",
   "games": {
     "nl": {

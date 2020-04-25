@@ -1,14 +1,6 @@
 {
   "id": "barrel",
-  "name": {
-    "de": "Fass",
-    "en-GB": "Barrel",
-    "en-US": "Barrel",
-    "es": "Tonel",
-    "fr": "Tonneau",
-    "it": "Barile",
-    "ja": "たる"
-  },
+  "name": "Barrel",
   "category": "Furniture",
   "games": {
     "nl": {

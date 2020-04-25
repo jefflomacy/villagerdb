@@ -1,14 +1,6 @@
 {
   "id": "gorgeous-chest",
-  "name": {
-    "de": "Luxuskommode",
-    "en-GB": "Gorgeous Chest",
-    "en-US": "Gorgeous Chest",
-    "es": "Cómoda palacio",
-    "fr": "Commode somptueuse",
-    "it": "Comò divino",
-    "ja": "ゴージャスチェスト"
-  },
+  "name": "Gorgeous Chest",
   "category": "Furniture",
   "games": {
     "nl": {

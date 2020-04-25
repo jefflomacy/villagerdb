@@ -1,8 +1,6 @@
 {
   "id": "utility-sink",
-  "name": {
-    "en-US": "Utility Sink"
-  },
+  "name": "Utility Sink",
   "games": {
     "nh": {
       "orderable": true,

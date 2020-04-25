@@ -1,8 +1,6 @@
 {
   "id": "rattan-stool",
-  "name": {
-    "en-US": "Rattan Stool"
-  },
+  "name": "Rattan Stool",
   "games": {
     "nh": {
       "orderable": true,

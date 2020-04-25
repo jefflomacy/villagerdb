@@ -1,8 +1,6 @@
 {
   "id": "gray-argyle-tile-flooring",
-  "name": {
-    "en-US": "Gray Argyle-tile Flooring"
-  },
+  "name": "Gray Argyle-tile Flooring",
   "games": {
     "nh": {
       "orderable": true,

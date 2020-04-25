@@ -1,8 +1,6 @@
 {
   "id": "diner-neon-clock",
-  "name": {
-    "en-US": "Diner Neon Clock"
-  },
+  "name": "Diner Neon Clock",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,14 +1,6 @@
 {
   "id": "hha-tee",
-  "name": {
-    "de": "AdsH-Shirt",
-    "en-GB": "HHA Tee",
-    "en-US": "HHA Tee",
-    "es": "Camiseta AAD",
-    "fr": "T-shirt AJD",
-    "it": "Maglietta ABC",
-    "ja": "ハッピーホームTシャツ"
-  },
+  "name": "Hha Tee",
   "category": "Tops",
   "games": {
     "nl": {

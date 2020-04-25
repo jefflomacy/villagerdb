@@ -1,8 +1,6 @@
 {
   "id": "green-grass-skirt",
-  "name": {
-    "en-US": "Green Grass Skirt"
-  },
+  "name": "Green Grass Skirt",
   "games": {
     "nh": {
       "orderable": false,

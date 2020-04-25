@@ -1,14 +1,6 @@
 {
   "id": "24-hour-shop-model",
-  "name": {
-    "de": "Supermarktmodell",
-    "en-GB": "24-Hour-Shop Model",
-    "en-US": "24-Hour-Shop Model",
-    "es": "Maqueta súper",
-    "fr": "Maquette d'épicerie",
-    "it": "Modello supermarket",
-    "ja": "セブンイレブンのもけい"
-  },
+  "name": "24-hour-shop Model",
   "category": "Furniture",
   "games": {
     "nl": {

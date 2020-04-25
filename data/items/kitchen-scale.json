@@ -1,14 +1,6 @@
 {
   "id": "kitchen-scale",
-  "name": {
-    "de": "Küchenwaage",
-    "en-GB": "Kitchen Scale",
-    "en-US": "Kitchen Scale",
-    "es": "Báscula de cocina",
-    "fr": "Balance de cuisine",
-    "it": "Bilancia da cucina",
-    "ja": "はかり"
-  },
+  "name": "Kitchen Scale",
   "category": "Furniture",
   "games": {
     "nl": {

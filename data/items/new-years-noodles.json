@@ -1,14 +1,6 @@
 {
   "id": "new-years-noodles",
-  "name": {
-    "de": "Neujahrsgericht",
-    "en-GB": "New Year's Noodles",
-    "en-US": "New Year's Noodles",
-    "es": "Sopa de Año Nuevo",
-    "fr": "Soupe du nouvel an",
-    "it": "Zuppa di Capodanno",
-    "ja": "としこしそば"
-  },
+  "name": "New Year's Noodles",
   "category": "Furniture",
   "games": {
     "nl": {

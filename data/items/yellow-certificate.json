@@ -1,14 +1,6 @@
 {
   "id": "yellow-certificate",
-  "name": {
-    "de": "Fernost-Urkunde",
-    "en-GB": "Yellow Certificate",
-    "en-US": "Yellow Certificate",
-    "es": "Certificado amarillo",
-    "fr": "Diplôme jaune",
-    "it": "Attestato corso judo",
-    "ja": "タテがきのしょうじょう"
-  },
+  "name": "Yellow Certificate",
   "category": "Furniture",
   "games": {
     "nl": {

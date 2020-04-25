@@ -1,14 +1,6 @@
 {
   "id": "egg-dresser",
-  "name": {
-    "de": "Eierkommode",
-    "en-GB": "Egg Dresser",
-    "en-US": "Egg Dresser",
-    "es": "Cómoda huevo",
-    "fr": "Commode \\u0153uf",
-    "it": "Comò uovo",
-    "ja": "たまごのタンス"
-  },
+  "name": "Egg Dresser",
   "category": "Furniture",
   "games": {
     "nl": {

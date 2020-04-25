@@ -1,14 +1,6 @@
 {
   "id": "large-magazine-rack",
-  "name": {
-    "de": "Zeitschriftenregal",
-    "en-GB": "Large Magazine Rack",
-    "en-US": "Large Magazine Rack",
-    "es": "Revistero grande",
-    "fr": "Porte-revues XXL",
-    "it": "Portariviste grande",
-    "ja": "マガジンラックL"
-  },
+  "name": "Large Magazine Rack",
   "category": "Furniture",
   "games": {
     "nl": {

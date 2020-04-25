@@ -1,14 +1,6 @@
 {
   "id": "green-wardrobe",
-  "name": {
-    "de": "Smaragdschrank",
-    "en-GB": "Green Wardrobe",
-    "en-US": "Green Wardrobe",
-    "es": "Armario verde",
-    "fr": "Armoire verte",
-    "it": "Armadio verde",
-    "ja": "みどりのクロゼット"
-  },
+  "name": "Green Wardrobe",
   "category": "Furniture",
   "games": {
     "nl": {

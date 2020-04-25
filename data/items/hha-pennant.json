@@ -1,14 +1,6 @@
 {
   "id": "hha-pennant",
-  "name": {
-    "de": "AdsH-Fähnchen",
-    "en-GB": "HHA Pennant",
-    "en-US": "HHA Pennant",
-    "es": "Banderín AAD",
-    "fr": "Fanion de l'AJD",
-    "it": "Gagliardetto ABC",
-    "ja": "アカデミーのペナント"
-  },
+  "name": "Hha Pennant",
   "category": "Furniture",
   "games": {
     "nl": {

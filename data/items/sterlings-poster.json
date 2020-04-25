@@ -1,8 +1,6 @@
 {
   "id": "sterlings-poster",
-  "name": {
-    "en-US": "Sterling's Poster"
-  },
+  "name": "Sterling's Poster",
   "games": {
     "nh": {
       "sources": [

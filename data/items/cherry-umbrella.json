@@ -1,8 +1,6 @@
 {
   "id": "cherry-umbrella",
-  "name": {
-    "en-US": "Cherry Umbrella"
-  },
+  "name": "Cherry Umbrella",
   "games": {
     "nh": {
       "customizable": false,

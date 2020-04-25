@@ -1,14 +1,6 @@
 {
   "id": "shark-tooth",
-  "name": {
-    "de": "Haizahn",
-    "en-GB": "Shark Tooth",
-    "en-US": "Shark Tooth",
-    "es": "Diente de tiburón",
-    "fr": "Dent de requin",
-    "it": "Dente di squalo",
-    "ja": "サメのはのかせき"
-  },
+  "name": "Shark Tooth",
   "category": "Fossils",
   "games": {
     "nl": {

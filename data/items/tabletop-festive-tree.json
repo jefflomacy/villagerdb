@@ -1,8 +1,6 @@
 {
   "id": "tabletop-festive-tree",
-  "name": {
-    "en-US": "Tabletop Festive Tree"
-  },
+  "name": "Tabletop Festive Tree",
   "games": {
     "nh": {
       "sellPrice": {

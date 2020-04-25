@@ -1,8 +1,6 @@
 {
   "id": "pink-tulips",
-  "name": {
-    "en-US": "Pink Tulips"
-  },
+  "name": "Pink Tulips",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,14 +1,6 @@
 {
   "id": "yellow-tartan-shirt",
-  "name": {
-    "de": "Kanarienpulli",
-    "en-GB": "Yellow Tartan Shirt",
-    "en-US": "Yellow Tartan Shirt",
-    "es": "Jersey tartán oro",
-    "fr": "Pull tartan jaune",
-    "it": "Maglia tartan oro",
-    "ja": "きいろタータンのふくL"
-  },
+  "name": "Yellow Tartan Shirt",
   "category": "Tops",
   "games": {
     "nl": {

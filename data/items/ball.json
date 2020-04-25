@@ -1,8 +1,6 @@
 {
   "id": "ball",
-  "name": {
-    "en-US": "Ball"
-  },
+  "name": "Ball",
   "category": "Furniture",
   "games": {
     "nl": {

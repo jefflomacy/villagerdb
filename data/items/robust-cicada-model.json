@@ -1,8 +1,6 @@
 {
   "id": "robust-cicada-model",
-  "name": {
-    "en-US": "Robust Cicada Model"
-  },
+  "name": "Robust Cicada Model",
   "games": {
     "nh": {
       "sellPrice": {

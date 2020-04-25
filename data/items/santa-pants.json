@@ -1,14 +1,6 @@
 {
   "id": "santa-pants",
-  "name": {
-    "de": "Weihnachtsmannhose",
-    "en-GB": "Santa Pants",
-    "en-US": "Santa Pants",
-    "es": "Pantalón festivo",
-    "fr": "Pantalon père Noël",
-    "it": "Pantal. Babbo Natale",
-    "ja": "サンタのズボン"
-  },
+  "name": "Santa Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "linen-dress",
-  "name": {
-    "en-US": "Linen Dress"
-  },
+  "name": "Linen Dress",
   "games": {
     "nh": {
       "orderable": true,

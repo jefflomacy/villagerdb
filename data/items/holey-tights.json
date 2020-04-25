@@ -1,8 +1,6 @@
 {
   "id": "holey-tights",
-  "name": {
-    "en-US": "Holey Tights"
-  },
+  "name": "Holey Tights",
   "games": {
     "nh": {
       "orderable": true,

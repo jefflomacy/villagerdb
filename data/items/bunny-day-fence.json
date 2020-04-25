@@ -1,8 +1,6 @@
 {
   "id": "bunny-day-fence",
-  "name": {
-    "en-US": "Bunny Day Fence"
-  },
+  "name": "Bunny Day Fence",
   "games": {
     "nh": {
       "orderable": false,

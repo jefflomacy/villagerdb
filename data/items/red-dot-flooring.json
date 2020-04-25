@@ -1,8 +1,6 @@
 {
   "id": "red-dot-flooring",
-  "name": {
-    "en-US": "Red Dot Flooring"
-  },
+  "name": "Red Dot Flooring",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "egg-toy-set",
-  "name": {
-    "de": "Eierspielzeug",
-    "en-GB": "Egg Toy Set",
-    "en-US": "Egg Toy Set",
-    "es": "Escultura huevo",
-    "fr": "Jouet \\u0153uf",
-    "it": "Matriosca uovo",
-    "ja": "たまごマトリョーシカ"
-  },
+  "name": "Egg Toy Set",
   "category": "Furniture",
   "games": {
     "nl": {

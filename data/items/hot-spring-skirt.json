@@ -1,14 +1,6 @@
 {
   "id": "hot-spring-skirt",
-  "name": {
-    "de": "Seidenrock",
-    "en-GB": "Hot Spring Skirt",
-    "en-US": "Hot Spring Skirt",
-    "es": "Falda rocío",
-    "fr": "Jupe iris mauve",
-    "it": "Gonna rosa vivo",
-    "ja": "ピンクチャイナスカート"
-  },
+  "name": "Hot Spring Skirt",
   "category": "Bottoms",
   "games": {
     "nl": {

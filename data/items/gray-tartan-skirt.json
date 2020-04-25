@@ -1,14 +1,6 @@
 {
   "id": "gray-tartan-skirt",
-  "name": {
-    "de": "Tartanrock",
-    "en-GB": "Gray Tartan Skirt",
-    "en-US": "Gray Tartan Skirt",
-    "es": "Falda tartán gris",
-    "fr": "Jupe tartan grise",
-    "it": "Gonna tartan nera",
-    "ja": "グレータータンのスカート"
-  },
+  "name": "Gray Tartan Skirt",
   "category": "Bottoms",
   "games": {
     "nl": {

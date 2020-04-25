@@ -1,8 +1,6 @@
 {
   "id": "bunny-day-bed",
-  "name": {
-    "en-US": "Bunny Day Bed"
-  },
+  "name": "Bunny Day Bed",
   "games": {
     "nh": {
       "orderable": false,

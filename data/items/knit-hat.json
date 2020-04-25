@@ -1,8 +1,6 @@
 {
   "id": "knit-hat",
-  "name": {
-    "en-US": "Knit Hat"
-  },
+  "name": "Knit Hat",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,14 +1,6 @@
 {
   "id": "sweater-vest",
-  "name": {
-    "de": "Pullunder mit Hemd",
-    "en-GB": "Sweater-Vest",
-    "en-US": "Sweater-Vest",
-    "es": "Chaleco con camisa",
-    "fr": "Gilet de laine",
-    "it": "Gilet di lana",
-    "ja": "チョッキつきワイシャツ"
-  },
+  "name": "Sweater-vest",
   "category": "Tops",
   "games": {
     "nl": {

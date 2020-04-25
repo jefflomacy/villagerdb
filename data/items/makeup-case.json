@@ -1,14 +1,6 @@
 {
   "id": "makeup-case",
-  "name": {
-    "de": "Schminkbox",
-    "en-GB": "Makeup Case",
-    "en-US": "Makeup Case",
-    "es": "Caja maquillaje",
-    "fr": "Coffret à maquillage",
-    "it": "Beauty case",
-    "ja": "メイクボックス"
-  },
+  "name": "Makeup Case",
   "category": "Furniture",
   "games": {
     "nl": {

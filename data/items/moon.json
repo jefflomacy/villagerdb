@@ -1,14 +1,6 @@
 {
   "id": "moon",
-  "name": {
-    "de": "Mond",
-    "en-GB": "Moon",
-    "en-US": "Moon",
-    "es": "Luna",
-    "fr": "Lune",
-    "it": "Luna",
-    "ja": "つき"
-  },
+  "name": "Moon",
   "category": "Furniture",
   "games": {
     "nl": {

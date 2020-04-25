@@ -1,14 +1,6 @@
 {
   "id": "princess-curio",
-  "name": {
-    "de": "Prachtvitrine",
-    "en-GB": "Princess Curio",
-    "en-US": "Princess Curio",
-    "es": "Vitrina princesa",
-    "fr": "Vitrine princesse",
-    "it": "Vetrina contessa",
-    "ja": "プリンセスキュリオ"
-  },
+  "name": "Princess Curio",
   "category": "Furniture",
   "games": {
     "nl": {

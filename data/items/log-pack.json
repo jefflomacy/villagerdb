@@ -1,8 +1,6 @@
 {
   "id": "log-pack",
-  "name": {
-    "en-US": "Log Pack"
-  },
+  "name": "Log Pack",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "star-costume",
-  "name": {
-    "en-US": "Star Costume"
-  },
+  "name": "Star Costume",
   "games": {
     "nh": {
       "sellPrice": {

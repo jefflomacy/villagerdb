@@ -1,8 +1,6 @@
 {
   "id": "stone-axe",
-  "name": {
-    "en-US": "Stone Axe"
-  },
+  "name": "Stone Axe",
   "games": {
     "nh": {
       "orderable": false,

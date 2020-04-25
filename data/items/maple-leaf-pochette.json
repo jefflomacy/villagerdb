@@ -1,8 +1,6 @@
 {
   "id": "maple-leaf-pochette",
-  "name": {
-    "en-US": "Maple-leaf Pochette"
-  },
+  "name": "Maple-leaf Pochette",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,14 +1,6 @@
 {
   "id": "box-of-tissues",
-  "name": {
-    "de": "Taschentuch",
-    "en-GB": "Box Of Tissues",
-    "en-US": "Box Of Tissues",
-    "es": "Caja de pañuelos",
-    "fr": "Mouchoir",
-    "it": "Scatola fazzolettini",
-    "ja": "ティッシュペーパー"
-  },
+  "name": "Box Of Tissues",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "sleek-table",
-  "name": {
-    "de": "Designertisch",
-    "en-GB": "Sleek Table",
-    "en-US": "Sleek Table",
-    "es": "Mesa baja tubos",
-    "fr": "Table design",
-    "it": "Tavolo design",
-    "ja": "パイプなローテーブル"
-  },
+  "name": "Sleek Table",
   "category": "Furniture",
   "games": {
     "nl": {

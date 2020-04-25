@@ -1,14 +1,6 @@
 {
   "id": "pumpkin-head",
-  "name": {
-    "de": "Kürbiskopf",
-    "en-GB": "Pumpkin Head",
-    "en-US": "Pumpkin Head",
-    "es": "Calabaza",
-    "fr": "Citrouille",
-    "it": "Testa di zucca",
-    "ja": "かぼちゃのかぶりもの"
-  },
+  "name": "Pumpkin Head",
   "category": "Hats",
   "games": {
     "nl": {

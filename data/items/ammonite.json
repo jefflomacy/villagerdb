@@ -1,14 +1,6 @@
 {
   "id": "ammonite",
-  "name": {
-    "de": "Ammonit",
-    "en-GB": "Ammonite",
-    "en-US": "Ammonite",
-    "es": "Amonites",
-    "fr": "Ammonite",
-    "it": "Ammonite",
-    "ja": "アンモナイト"
-  },
+  "name": "Ammonite",
   "category": "Fossils",
   "games": {
     "nl": {

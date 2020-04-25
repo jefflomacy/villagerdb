@@ -1,8 +1,6 @@
 {
   "id": "queen-alexandras-birdwing",
-  "name": {
-    "en-US": "Queen Alexandra's Birdwing"
-  },
+  "name": "Queen Alexandra's Birdwing",
   "games": {
     "nh": {
       "orderable": false,

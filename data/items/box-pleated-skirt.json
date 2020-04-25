@@ -1,8 +1,6 @@
 {
   "id": "box-pleated-skirt",
-  "name": {
-    "en-US": "Box-pleated Skirt"
-  },
+  "name": "Box-pleated Skirt",
   "games": {
     "nh": {
       "orderable": true,

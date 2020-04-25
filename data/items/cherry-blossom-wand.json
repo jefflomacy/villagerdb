@@ -1,8 +1,6 @@
 {
   "id": "cherry-blossom-wand",
-  "name": {
-    "en-US": "Cherry-blossom Wand"
-  },
+  "name": "Cherry-blossom Wand",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "wand",
-  "name": {
-    "en-US": "Wand"
-  },
+  "name": "Wand",
   "games": {
     "nh": {
       "orderable": false,

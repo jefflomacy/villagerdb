@@ -1,8 +1,6 @@
 {
   "id": "kung-fu-shoes",
-  "name": {
-    "en-US": "Kung-fu Shoes"
-  },
+  "name": "Kung-fu Shoes",
   "games": {
     "nh": {
       "sellPrice": {

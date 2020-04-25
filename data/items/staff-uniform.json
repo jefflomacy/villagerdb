@@ -1,8 +1,6 @@
 {
   "id": "staff-uniform",
-  "name": {
-    "en-US": "Staff Uniform"
-  },
+  "name": "Staff Uniform",
   "games": {
     "nh": {
       "sellPrice": {

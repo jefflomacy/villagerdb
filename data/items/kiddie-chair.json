@@ -1,14 +1,6 @@
 {
   "id": "kiddie-chair",
-  "name": {
-    "de": "Kinderstuhl",
-    "en-GB": "Kiddie Chair",
-    "en-US": "Kiddie Chair",
-    "es": "Silla puzle",
-    "fr": "Chaise enfant",
-    "it": "Sedia bimbi",
-    "ja": "カラフルなイス"
-  },
+  "name": "Kiddie Chair",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "snowboard",
-  "name": {
-    "de": "Snowboard",
-    "en-GB": "Snowboard",
-    "en-US": "Snowboard",
-    "es": "Tabla de snowboard",
-    "fr": "Snowboard",
-    "it": "Snowboard",
-    "ja": "スノーボード"
-  },
+  "name": "Snowboard",
   "category": "Furniture",
   "games": {
     "nl": {

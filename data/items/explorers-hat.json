@@ -1,14 +1,6 @@
 {
   "id": "explorers-hat",
-  "name": {
-    "de": "Safarihut",
-    "en-GB": "Explorer's Hat",
-    "en-US": "Explorer's Hat",
-    "es": "Sombrero explorador",
-    "fr": "Chapeau aventure",
-    "it": "Cappello esploratore",
-    "ja": "たんけんぼう"
-  },
+  "name": "Explorer's Hat",
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "jomon-pottery",
-  "name": {
-    "de": "Jomon-Töpferei",
-    "en-GB": "Jomon Pottery",
-    "en-US": "Jomon Pottery",
-    "es": "Jarrón Jomon",
-    "fr": "Poterie jomon",
-    "it": "Vaso Jomon",
-    "ja": "じょうもんしきどき"
-  },
+  "name": "Jomon Pottery",
   "category": "Furniture",
   "games": {
     "nl": {

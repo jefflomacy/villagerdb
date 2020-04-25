@@ -1,14 +1,6 @@
 {
   "id": "beatnik-shirt",
-  "name": {
-    "de": "Beatnik-Pulli",
-    "en-GB": "Beatnik Shirt",
-    "en-US": "Beatnik Shirt",
-    "es": "Jersey beatnik",
-    "fr": "Pull beatnik",
-    "it": "Maglia hipster",
-    "ja": "くろあかラガーシャツL"
-  },
+  "name": "Beatnik Shirt",
   "category": "Tops",
   "games": {
     "nl": {

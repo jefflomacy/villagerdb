@@ -1,8 +1,6 @@
 {
   "id": "cutting-board",
-  "name": {
-    "en-US": "Cutting Board"
-  },
+  "name": "Cutting Board",
   "games": {
     "nh": {
       "sellPrice": {

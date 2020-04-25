@@ -1,8 +1,6 @@
 {
   "id": "ice-flooring",
-  "name": {
-    "en-US": "Ice Flooring"
-  },
+  "name": "Ice Flooring",
   "games": {
     "nh": {
       "sellPrice": {

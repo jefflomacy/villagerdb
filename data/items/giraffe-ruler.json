@@ -1,14 +1,6 @@
 {
   "id": "giraffe-ruler",
-  "name": {
-    "de": "Giraffenmesslatte",
-    "en-GB": "Giraffe Ruler",
-    "en-US": "Giraffe Ruler",
-    "es": "Metro jirafa",
-    "fr": "Règle girafe",
-    "it": "Righello a giraffa",
-    "ja": "キリンしんちょうけい"
-  },
+  "name": "Giraffe Ruler",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "blue-boxing-shorts",
-  "name": {
-    "de": "Blauboxerhose",
-    "en-GB": "Blue Boxing Shorts",
-    "en-US": "Blue Boxing Shorts",
-    "es": "Bermuda azul",
-    "fr": "Short de boxe bleu",
-    "it": "P. berm. boxe blu",
-    "ja": "あおいボクサーパンツ"
-  },
+  "name": "Blue Boxing Shorts",
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "office-uniform",
-  "name": {
-    "en-US": "Office Uniform"
-  },
+  "name": "Office Uniform",
   "games": {
     "nh": {
       "sellPrice": {

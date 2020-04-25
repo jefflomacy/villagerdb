@@ -1,14 +1,6 @@
 {
   "id": "egg-bed",
-  "name": {
-    "de": "Eierbett",
-    "en-GB": "Egg Bed",
-    "en-US": "Egg Bed",
-    "es": "Cama huevo",
-    "fr": "Lit \\u0153uf",
-    "it": "Letto uovo",
-    "ja": "たまごのベッド"
-  },
+  "name": "Egg Bed",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "fancy-mum-wreath",
-  "name": {
-    "en-US": "Fancy Mum Wreath"
-  },
+  "name": "Fancy Mum Wreath",
   "games": {
     "nh": {
       "customizable": false,

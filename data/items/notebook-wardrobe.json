@@ -1,14 +1,6 @@
 {
   "id": "notebook-wardrobe",
-  "name": {
-    "de": "Notizbuchschrank",
-    "en-GB": "Notebook Wardrobe",
-    "en-US": "Notebook Wardrobe",
-    "es": "Armario agenda",
-    "fr": "Armoire agenda",
-    "it": "Armadio quadernino",
-    "ja": "Campusクロゼット"
-  },
+  "name": "Notebook Wardrobe",
   "category": "Furniture",
   "games": {
     "nl": {

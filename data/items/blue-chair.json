@@ -1,14 +1,6 @@
 {
   "id": "blue-chair",
-  "name": {
-    "de": "Azurstuhl",
-    "en-GB": "Blue Chair",
-    "en-US": "Blue Chair",
-    "es": "Silla azul",
-    "fr": "Chaise bleue",
-    "it": "Sedia blu",
-    "ja": "あおいイス"
-  },
+  "name": "Blue Chair",
   "category": "Furniture",
   "games": {
     "nl": {

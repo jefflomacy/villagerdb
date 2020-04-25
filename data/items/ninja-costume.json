@@ -1,8 +1,6 @@
 {
   "id": "ninja-costume",
-  "name": {
-    "en-US": "Ninja Costume"
-  },
+  "name": "Ninja Costume",
   "games": {
     "nh": {
       "sellPrice": {

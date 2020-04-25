@@ -1,14 +1,6 @@
 {
   "id": "tropical-tank",
-  "name": {
-    "de": "Tropik-Top",
-    "en-GB": "Tropical Tank",
-    "en-US": "Tropical Tank",
-    "es": "Top tropical",
-    "fr": "Débardeur tropique",
-    "it": "Canotta tropicale",
-    "ja": "ポリネシアンなふくN"
-  },
+  "name": "Tropical Tank",
   "category": "Tops",
   "games": {
     "nl": {

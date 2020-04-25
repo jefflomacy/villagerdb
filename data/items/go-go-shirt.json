@@ -1,14 +1,6 @@
 {
   "id": "go-go-shirt",
-  "name": {
-    "de": "Disco-Pulli",
-    "en-GB": "Go-Go Shirt",
-    "en-US": "Go-Go Shirt",
-    "es": "Jersey lalalá",
-    "fr": "Pull go-go",
-    "it": "Maglia a rettangoli",
-    "ja": "レクタングルなふく"
-  },
+  "name": "Go-go Shirt",
   "category": "Tops",
   "games": {
     "nl": {

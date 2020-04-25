@@ -1,8 +1,6 @@
 {
   "id": "red-snapper-model",
-  "name": {
-    "en-US": "Red Snapper Model"
-  },
+  "name": "Red Snapper Model",
   "games": {
     "nh": {
       "sellPrice": {

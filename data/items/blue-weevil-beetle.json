@@ -1,8 +1,6 @@
 {
   "id": "blue-weevil-beetle",
-  "name": {
-    "en-US": "Blue Weevil Beetle"
-  },
+  "name": "Blue Weevil Beetle",
   "games": {
     "nh": {
       "orderable": false,

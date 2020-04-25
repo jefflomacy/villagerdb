@@ -1,14 +1,6 @@
 {
   "id": "green-bench",
-  "name": {
-    "de": "Smaragdbank",
-    "en-GB": "Green Bench",
-    "en-US": "Green Bench",
-    "es": "Banco verde",
-    "fr": "Banc vert",
-    "it": "Panca verde",
-    "ja": "みどりのながイス"
-  },
+  "name": "Green Bench",
   "category": "Furniture",
   "games": {
     "nl": {

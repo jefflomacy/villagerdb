@@ -1,14 +1,6 @@
 {
   "id": "megacero-tail",
-  "name": {
-    "de": "Megacerops-Schwanz",
-    "en-GB": "Megacero Tail",
-    "en-US": "Megacero Tail",
-    "es": "Cola brontoterio",
-    "fr": "Queue de bronto",
-    "it": "Coda brontoterio",
-    "ja": "ブロントテリウムのしっぽ"
-  },
+  "name": "Megacero Tail",
   "category": "Fossils",
   "games": {
     "nl": {

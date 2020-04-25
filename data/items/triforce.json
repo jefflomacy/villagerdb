@@ -1,14 +1,6 @@
 {
   "id": "triforce",
-  "name": {
-    "de": "Triforce",
-    "en-GB": "Triforce",
-    "en-US": "Triforce",
-    "es": "Trifuerza",
-    "fr": "Triforce",
-    "it": "Triforza",
-    "ja": "トライフォース"
-  },
+  "name": "Triforce",
   "category": "Furniture",
   "games": {
     "nl": {

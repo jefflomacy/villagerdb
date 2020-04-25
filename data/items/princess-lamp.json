@@ -1,14 +1,6 @@
 {
   "id": "princess-lamp",
-  "name": {
-    "de": "Prachtlampe",
-    "en-GB": "Princess Lamp",
-    "en-US": "Princess Lamp",
-    "es": "Lámpara princesa",
-    "fr": "Lampe princesse",
-    "it": "Lampada contessa",
-    "ja": "プリンセスランプ"
-  },
+  "name": "Princess Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

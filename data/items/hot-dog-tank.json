@@ -1,14 +1,6 @@
 {
   "id": "hot-dog-tank",
-  "name": {
-    "de": "Hotdog-Top",
-    "en-GB": "Hot-Dog Tank",
-    "en-US": "Hot-Dog Tank",
-    "es": "Top salchicha",
-    "fr": "Débardeur hot-dog",
-    "it": "Canotta hot dog",
-    "ja": "ホットドッグなふく"
-  },
+  "name": "Hot-dog Tank",
   "category": "Tops",
   "games": {
     "nl": {

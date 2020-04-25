@@ -1,14 +1,6 @@
 {
   "id": "gracie-desk",
-  "name": {
-    "de": "Graziaschreibtisch",
-    "en-GB": "Gracie Desk",
-    "en-US": "Gracie Desk",
-    "es": "Escritorio Graciela",
-    "fr": "Bureau Carla",
-    "it": "Scrivania Griffa",
-    "ja": "グレースデスク"
-  },
+  "name": "Gracie Desk",
   "category": "Furniture",
   "games": {
     "nl": {

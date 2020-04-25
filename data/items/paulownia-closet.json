@@ -1,14 +1,6 @@
 {
   "id": "paulownia-closet",
-  "name": {
-    "de": "Asternschrank",
-    "en-GB": "Paulownia Closet",
-    "en-US": "Paulownia Closet",
-    "es": "Armario magnolio",
-    "fr": "Buffet paulownia",
-    "it": "Comò paulonia",
-    "ja": "きりだんす"
-  },
+  "name": "Paulownia Closet",
   "category": "Furniture",
   "games": {
     "nl": {

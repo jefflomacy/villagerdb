@@ -1,14 +1,6 @@
 {
   "id": "armor-shoes",
-  "name": {
-    "de": "Silberrüstungsschuh",
-    "en-GB": "Armor Shoes",
-    "en-US": "Armor Shoes",
-    "es": "Escarpe",
-    "fr": "Paire de solerets",
-    "it": "Paio scarpe armatura",
-    "ja": "てつのかっちゅうぐつ"
-  },
+  "name": "Armor Shoes",
   "category": "Shoes",
   "games": {
     "nl": {

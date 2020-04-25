@@ -1,14 +1,6 @@
 {
   "id": "big-star-tee",
-  "name": {
-    "de": "Nachtshirt",
-    "en-GB": "Big-Star Tee",
-    "en-US": "Big-Star Tee",
-    "es": "Camiseta estrellón",
-    "fr": "T-shirt étoile",
-    "it": "Maglietta stellona",
-    "ja": "いちばんぼしのふく"
-  },
+  "name": "Big-star Tee",
   "category": "Tops",
   "games": {
     "nl": {

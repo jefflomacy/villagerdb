@@ -1,8 +1,6 @@
 {
   "id": "antique-console-table",
-  "name": {
-    "en-US": "Antique Console Table"
-  },
+  "name": "Antique Console Table",
   "games": {
     "nh": {
       "orderable": true,

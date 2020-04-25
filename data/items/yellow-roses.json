@@ -1,8 +1,6 @@
 {
   "id": "yellow-roses",
-  "name": {
-    "en-US": "Yellow Roses"
-  },
+  "name": "Yellow Roses",
   "games": {
     "nh": {
       "orderable": false,

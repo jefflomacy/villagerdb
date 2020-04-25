@@ -1,14 +1,6 @@
 {
   "id": "lovely-kitchen",
-  "name": {
-    "de": "Herzchenküche",
-    "en-GB": "Lovely Kitchen",
-    "en-US": "Lovely Kitchen",
-    "es": "Cocina corazón",
-    "fr": "Cuisine c\\u0153ur",
-    "it": "Fornello cuori",
-    "ja": "ラブリーキッチン"
-  },
+  "name": "Lovely Kitchen",
   "category": "Furniture",
   "games": {
     "nl": {

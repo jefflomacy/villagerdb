@@ -1,14 +1,6 @@
 {
   "id": "raptor-skull",
-  "name": {
-    "de": "Velociraptor-Schädel",
-    "en-GB": "Raptor Skull",
-    "en-US": "Raptor Skull",
-    "es": "Cráneo velocirraptor",
-    "fr": "Crâne de raptor",
-    "it": "Teschio velociraptor",
-    "ja": "ラプターのあたま"
-  },
+  "name": "Raptor Skull",
   "category": "Fossils",
   "games": {
     "nl": {

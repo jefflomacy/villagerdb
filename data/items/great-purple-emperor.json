@@ -1,8 +1,6 @@
 {
   "id": "great-purple-emperor",
-  "name": {
-    "en-US": "Great Purple Emperor"
-  },
+  "name": "Great Purple Emperor",
   "games": {
     "nh": {
       "orderable": false,

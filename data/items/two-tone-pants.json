@@ -1,14 +1,6 @@
 {
   "id": "two-tone-pants",
-  "name": {
-    "de": "Zweifarbhose",
-    "en-GB": "Two-Tone Pants",
-    "en-US": "Two-Tone Pants",
-    "es": "Pantalón bicolor",
-    "fr": "Pantalon bicolore",
-    "it": "Pantalone bicolore",
-    "ja": "ツートンなズボン"
-  },
+  "name": "Two-tone Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

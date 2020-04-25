@@ -1,8 +1,6 @@
 {
   "id": "camo-wall",
-  "name": {
-    "en-US": "Camo Wall"
-  },
+  "name": "Camo Wall",
   "games": {
     "nh": {
       "sellPrice": {

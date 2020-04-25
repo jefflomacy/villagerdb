@@ -1,14 +1,6 @@
 {
   "id": "moldy-shirt",
-  "name": {
-    "de": "Schimmelpulli",
-    "en-GB": "Moldy Shirt",
-    "en-US": "Moldy Shirt",
-    "es": "Jersey borrones",
-    "fr": "Pull élimé",
-    "it": "Maglia ammuffita",
-    "ja": "カビたふくL"
-  },
+  "name": "Moldy Shirt",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "kiddie-bureau",
-  "name": {
-    "de": "Kindergarderobe",
-    "en-GB": "Kiddie Bureau",
-    "en-US": "Kiddie Bureau",
-    "es": "Armario puzle",
-    "fr": "Armoire enfant",
-    "it": "Comò bimbi",
-    "ja": "カラフルなビューロ"
-  },
+  "name": "Kiddie Bureau",
   "category": "Furniture",
   "games": {
     "nl": {

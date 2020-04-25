@@ -1,14 +1,6 @@
 {
   "id": "danger-tee",
-  "name": {
-    "de": "Linienshirt",
-    "en-GB": "Danger Tee",
-    "en-US": "Danger Tee",
-    "es": "Camiseta peligro",
-    "fr": "T-shirt danger",
-    "it": "Maglietta ape",
-    "ja": "デンジャラスなふく"
-  },
+  "name": "Danger Tee",
   "category": "Tops",
   "games": {
     "nl": {

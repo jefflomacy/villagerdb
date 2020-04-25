@@ -1,14 +1,6 @@
 {
   "id": "princess-clock",
-  "name": {
-    "de": "Prachtuhr",
-    "en-GB": "Princess Clock",
-    "en-US": "Princess Clock",
-    "es": "Reloj princesa",
-    "fr": "Horloge princesse",
-    "it": "Orologio contessa",
-    "ja": "プリンセスクロック"
-  },
+  "name": "Princess Clock",
   "category": "Furniture",
   "games": {
     "nl": {

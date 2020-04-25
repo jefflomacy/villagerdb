@@ -1,14 +1,6 @@
 {
   "id": "elder-mask",
-  "name": {
-    "de": "Greisenmaske",
-    "en-GB": "Elder Mask",
-    "en-US": "Elder Mask",
-    "es": "Máscara de sabio",
-    "fr": "Masque de sage",
-    "it": "Maschera muro uomo",
-    "ja": "おきなののうめん"
-  },
+  "name": "Elder Mask",
   "category": "Hats",
   "games": {
     "nl": {

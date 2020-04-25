@@ -1,8 +1,6 @@
 {
   "id": "bamboo-wall-decoration",
-  "name": {
-    "en-US": "Bamboo Wall Decoration"
-  },
+  "name": "Bamboo Wall Decoration",
   "games": {
     "nh": {
       "orderable": false,

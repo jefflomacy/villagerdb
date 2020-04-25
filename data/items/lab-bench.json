@@ -1,14 +1,6 @@
 {
   "id": "lab-bench",
-  "name": {
-    "de": "Laborliege",
-    "en-GB": "Lab Bench",
-    "en-US": "Lab Bench",
-    "es": "Psicobanco",
-    "fr": "Lit labo",
-    "it": "Panca laboratorio",
-    "ja": "じっけんだい"
-  },
+  "name": "Lab Bench",
   "category": "Furniture",
   "games": {
     "nl": {

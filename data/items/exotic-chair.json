@@ -1,14 +1,6 @@
 {
   "id": "exotic-chair",
-  "name": {
-    "de": "Orient-Stuhl",
-    "en-GB": "Exotic Chair",
-    "en-US": "Exotic Chair",
-    "es": "Silla exótica",
-    "fr": "Chaise teck",
-    "it": "Sedia esotica",
-    "ja": "アジアなイス"
-  },
+  "name": "Exotic Chair",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "tiki-shirt",
-  "name": {
-    "en-US": "Tiki shirt"
-  },
+  "name": "Tiki shirt",
   "category": "Tops",
   "games": {
     "ac": {

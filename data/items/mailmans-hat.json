@@ -1,14 +1,6 @@
 {
   "id": "mailmans-hat",
-  "name": {
-    "de": "Briefträgermütze",
-    "en-GB": "Mailman's Hat",
-    "en-US": "Mailman's Hat",
-    "es": "Gorra cartero",
-    "fr": "Chapeau de facteur",
-    "it": "Cappello da postino",
-    "ja": "はいたついんのぼうし"
-  },
+  "name": "Mailman's Hat",
   "category": "Hats",
   "games": {
     "nl": {

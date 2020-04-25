@@ -1,14 +1,6 @@
 {
   "id": "heros-pants",
-  "name": {
-    "de": "Heldenhose",
-    "en-GB": "Hero's Pants",
-    "en-US": "Hero's Pants",
-    "es": "Pantalón del héroe",
-    "fr": "Pantalon héroïque",
-    "it": "Pantalone Link",
-    "ja": "ゆうしゃのズボン"
-  },
+  "name": "Hero's Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

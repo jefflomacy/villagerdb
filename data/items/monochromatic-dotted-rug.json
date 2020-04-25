@@ -1,8 +1,6 @@
 {
   "id": "monochromatic-dotted-rug",
-  "name": {
-    "en-US": "Monochromatic Dotted Rug"
-  },
+  "name": "Monochromatic Dotted Rug",
   "games": {
     "nh": {
       "orderable": true,

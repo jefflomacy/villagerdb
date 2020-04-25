@@ -1,8 +1,6 @@
 {
   "id": "peach-rug",
-  "name": {
-    "en-US": "Peach Rug"
-  },
+  "name": "Peach Rug",
   "games": {
     "nh": {
       "orderable": false,

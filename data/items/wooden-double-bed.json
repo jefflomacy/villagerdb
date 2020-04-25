@@ -1,8 +1,6 @@
 {
   "id": "wooden-double-bed",
-  "name": {
-    "en-US": "Wooden Double Bed"
-  },
+  "name": "Wooden Double Bed",
   "games": {
     "nh": {
       "orderable": false,

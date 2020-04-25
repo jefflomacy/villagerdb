@@ -1,8 +1,6 @@
 {
   "id": "steampunk-costume",
-  "name": {
-    "en-US": "Steampunk Costume"
-  },
+  "name": "Steampunk Costume",
   "games": {
     "nh": {
       "sellPrice": {

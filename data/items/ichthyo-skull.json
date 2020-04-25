@@ -1,14 +1,6 @@
 {
   "id": "ichthyo-skull",
-  "name": {
-    "de": "Ichthyo-Schädel",
-    "en-GB": "Ichthyo Skull",
-    "en-US": "Ichthyo Skull",
-    "es": "Cráneo ictiosaurio",
-    "fr": "Crâne d'ichtyosaure",
-    "it": "Teschio ittiosauro",
-    "ja": "イクチオサウルスのあたま"
-  },
+  "name": "Ichthyo Skull",
   "category": "Fossils",
   "games": {
     "nl": {

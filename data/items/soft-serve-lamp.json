@@ -1,14 +1,6 @@
 {
   "id": "soft-serve-lamp",
-  "name": {
-    "de": "Softeis-Lampe",
-    "en-GB": "Soft-Serve Lamp",
-    "en-US": "Soft-Serve Lamp",
-    "es": "Lámpara cono helado",
-    "fr": "Lampe cornet glace",
-    "it": "Lampada cono gelato",
-    "ja": "ソフトクリームランプ"
-  },
+  "name": "Soft-serve Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

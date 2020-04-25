@@ -1,8 +1,6 @@
 {
   "id": "blue-blossoming-wall",
-  "name": {
-    "en-US": "Blue Blossoming Wall"
-  },
+  "name": "Blue Blossoming Wall",
   "games": {
     "nh": {
       "sellPrice": {

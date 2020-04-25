@@ -1,14 +1,6 @@
 {
   "id": "ballet-slippers",
-  "name": {
-    "de": "Ballettschuh",
-    "en-GB": "Ballet Slippers",
-    "en-US": "Ballet Slippers",
-    "es": "Zapatilla de ballet",
-    "fr": "P. chaussons danse",
-    "it": "P. scarpe da punta",
-    "ja": "バレエシューズ"
-  },
+  "name": "Ballet Slippers",
   "category": "Shoes",
   "games": {
     "nl": {

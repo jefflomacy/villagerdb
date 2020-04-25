@@ -1,14 +1,6 @@
 {
   "id": "diving-mask",
-  "name": {
-    "de": "Taucherhelm",
-    "en-GB": "Diving Mask",
-    "en-US": "Diving Mask",
-    "es": "Casco de buzo",
-    "fr": "Casque de scaphandre",
-    "it": "Casco palombaro",
-    "ja": "せんすいヘルメット"
-  },
+  "name": "Diving Mask",
   "category": "Hats",
   "games": {
     "nl": {

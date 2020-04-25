@@ -1,8 +1,6 @@
 {
   "id": "orange-rug",
-  "name": {
-    "en-US": "Orange Rug"
-  },
+  "name": "Orange Rug",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,14 +1,6 @@
 {
   "id": "snowman-vanity",
-  "name": {
-    "de": "Schneemannspiegel",
-    "en-GB": "Snowman Vanity",
-    "en-US": "Snowman Vanity",
-    "es": "Tocador nieve",
-    "fr": "Coiffeuse Yétiti",
-    "it": "Toletta neve",
-    "ja": "ゆきだるまドレッサー"
-  },
+  "name": "Snowman Vanity",
   "category": "Furniture",
   "games": {
     "nl": {

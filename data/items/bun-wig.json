@@ -1,14 +1,6 @@
 {
   "id": "bun-wig",
-  "name": {
-    "de": "Dutt",
-    "en-GB": "Bun Wig",
-    "en-US": "Bun Wig",
-    "es": "Moño",
-    "fr": "Perruque beignet",
-    "it": "Parrucca chignon",
-    "ja": "おだんごあたま"
-  },
+  "name": "Bun Wig",
   "category": "Hats",
   "games": {
     "nl": {

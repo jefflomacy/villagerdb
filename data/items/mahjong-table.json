@@ -1,14 +1,6 @@
 {
   "id": "mahjong-table",
-  "name": {
-    "de": "Mah-Jongg-Tisch",
-    "en-GB": "Mahjong Table",
-    "en-US": "Mahjong Table",
-    "es": "Mesa de mahjong",
-    "fr": "Table de mah-jong",
-    "it": "Tavolo mahjong",
-    "ja": "マージャンテーブル"
-  },
+  "name": "Mahjong Table",
   "category": "Furniture",
   "games": {
     "nl": {

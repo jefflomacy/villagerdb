@@ -1,14 +1,6 @@
 {
   "id": "gold-armor-shoes",
-  "name": {
-    "de": "Goldrüstungsschuh",
-    "en-GB": "Gold-Armor Shoes",
-    "en-US": "Gold-Armor Shoes",
-    "es": "Escarpe de oro",
-    "fr": "Paire de solerets or",
-    "it": "P. scarpe armat. oro",
-    "ja": "きんのかっちゅうぐつ"
-  },
+  "name": "Gold-armor Shoes",
   "category": "Shoes",
   "games": {
     "nl": {

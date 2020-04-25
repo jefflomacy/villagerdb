@@ -1,14 +1,6 @@
 {
   "id": "crane-game",
-  "name": {
-    "de": "Kranspiel",
-    "en-GB": "Crane Game",
-    "en-US": "Crane Game",
-    "es": "Máquina gancho",
-    "fr": "Attrape-peluche",
-    "it": "Gru acchiappa premi",
-    "ja": "クレーンゲーム"
-  },
+  "name": "Crane Game",
   "category": "Furniture",
   "games": {
     "nl": {

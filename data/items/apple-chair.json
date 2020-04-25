@@ -1,8 +1,6 @@
 {
   "id": "apple-chair",
-  "name": {
-    "en-US": "Apple Chair"
-  },
+  "name": "Apple Chair",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "bamboo-drum",
-  "name": {
-    "en-US": "Bamboo Drum"
-  },
+  "name": "Bamboo Drum",
   "games": {
     "nh": {
       "orderable": false,

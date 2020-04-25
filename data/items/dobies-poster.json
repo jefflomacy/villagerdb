@@ -1,8 +1,6 @@
 {
   "id": "dobies-poster",
-  "name": {
-    "en-US": "Dobie's Poster"
-  },
+  "name": "Dobie's Poster",
   "games": {
     "nh": {
       "sources": [

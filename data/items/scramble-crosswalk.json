@@ -1,8 +1,6 @@
 {
   "id": "scramble-crosswalk",
-  "name": {
-    "en-US": "Scramble Crosswalk"
-  },
+  "name": "Scramble Crosswalk",
   "games": {
     "nh": {
       "orderable": false,

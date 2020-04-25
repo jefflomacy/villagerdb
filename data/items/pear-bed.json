@@ -1,8 +1,6 @@
 {
   "id": "pear-bed",
-  "name": {
-    "en-US": "Pear Bed"
-  },
+  "name": "Pear Bed",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "dark-bamboo-rug",
-  "name": {
-    "en-US": "Dark Bamboo Rug"
-  },
+  "name": "Dark Bamboo Rug",
   "games": {
     "nh": {
       "orderable": false,

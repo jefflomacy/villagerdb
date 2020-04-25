@@ -1,14 +1,6 @@
 {
   "id": "hologram-machine",
-  "name": {
-    "de": "Holoprojektor",
-    "en-GB": "Hologram Machine",
-    "en-US": "Hologram Machine",
-    "es": "Proyector hologramas",
-    "fr": "Créateur hologrammes",
-    "it": "Proiettore ologrammi",
-    "ja": "つうしんそうち"
-  },
+  "name": "Hologram Machine",
   "category": "Furniture",
   "games": {
     "nl": {

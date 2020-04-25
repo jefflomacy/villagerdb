@@ -1,8 +1,6 @@
 {
   "id": "outdoor-table",
-  "name": {
-    "en-US": "Outdoor Table"
-  },
+  "name": "Outdoor Table",
   "games": {
     "nh": {
       "orderable": true,

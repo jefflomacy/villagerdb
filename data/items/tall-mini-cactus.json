@@ -1,14 +1,6 @@
 {
   "id": "tall-mini-cactus",
-  "name": {
-    "de": "Mini-Langkaktus",
-    "en-GB": "Tall Mini Cactus",
-    "en-US": "Tall Mini Cactus",
-    "es": "Minicactus largo",
-    "fr": "Mini-cactus haut",
-    "it": "Mini cactus lungo",
-    "ja": "ミニたてながサボテン"
-  },
+  "name": "Tall Mini Cactus",
   "category": "Furniture",
   "games": {
     "nl": {

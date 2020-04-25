@@ -1,14 +1,6 @@
 {
   "id": "grass-skirt",
-  "name": {
-    "de": "Baströckchen",
-    "en-GB": "Grass Skirt",
-    "en-US": "Grass Skirt",
-    "es": "Falda de paja",
-    "fr": "Jupe savane",
-    "it": "Gonna fieno",
-    "ja": "こしみの"
-  },
+  "name": "Grass Skirt",
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "noble-pants",
-  "name": {
-    "en-US": "Noble Pants"
-  },
+  "name": "Noble Pants",
   "games": {
     "nh": {
       "sellPrice": {

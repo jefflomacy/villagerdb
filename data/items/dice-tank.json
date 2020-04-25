@@ -1,14 +1,6 @@
 {
   "id": "dice-tank",
-  "name": {
-    "de": "Würfeltop",
-    "en-GB": "Dice Tank",
-    "en-US": "Dice Tank",
-    "es": "Top dados",
-    "fr": "Débardeur dés",
-    "it": "Maglietta dadi",
-    "ja": "サイコロのふく"
-  },
+  "name": "Dice Tank",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "super-star",
-  "name": {
-    "de": "Superstern",
-    "en-GB": "Super Star",
-    "en-US": "Super Star",
-    "es": "Superestrella",
-    "fr": "Super étoile",
-    "it": "Super stella",
-    "ja": "スーパースター"
-  },
+  "name": "Super Star",
   "category": "Furniture",
   "games": {
     "nl": {

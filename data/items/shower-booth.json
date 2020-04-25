@@ -1,8 +1,6 @@
 {
   "id": "shower-booth",
-  "name": {
-    "en-US": "Shower Booth"
-  },
+  "name": "Shower Booth",
   "games": {
     "nh": {
       "orderable": true,

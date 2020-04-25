@@ -1,8 +1,6 @@
 {
   "id": "imperial-low-table",
-  "name": {
-    "en-US": "Imperial Low Table"
-  },
+  "name": "Imperial Low Table",
   "games": {
     "nh": {
       "sellPrice": {

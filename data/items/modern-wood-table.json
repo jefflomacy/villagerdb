@@ -1,14 +1,6 @@
 {
   "id": "modern-wood-table",
-  "name": {
-    "de": "Buntholztisch",
-    "en-GB": "Modern Wood Table",
-    "en-US": "Modern Wood Table",
-    "es": "Mesa listones",
-    "fr": "Table bois moderne",
-    "it": "Tavolo legno",
-    "ja": "ミックスウッドのテーブル"
-  },
+  "name": "Modern Wood Table",
   "category": "Furniture",
   "games": {
     "nl": {

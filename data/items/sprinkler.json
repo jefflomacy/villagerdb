@@ -1,14 +1,6 @@
 {
   "id": "sprinkler",
-  "name": {
-    "de": "Rasensprenger",
-    "en-GB": "Sprinkler",
-    "en-US": "Sprinkler",
-    "es": "Aspersor",
-    "fr": "Arroseur",
-    "it": "Irroratore",
-    "ja": "スプリンクラー"
-  },
+  "name": "Sprinkler",
   "category": "Furniture",
   "games": {
     "nl": {

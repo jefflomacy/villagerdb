@@ -1,8 +1,6 @@
 {
   "id": "tennis-skirt",
-  "name": {
-    "en-US": "Tennis Skirt"
-  },
+  "name": "Tennis Skirt",
   "games": {
     "nh": {
       "sellPrice": {

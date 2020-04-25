@@ -1,14 +1,6 @@
 {
   "id": "sleek-bed",
-  "name": {
-    "de": "Designerbett",
-    "en-GB": "Sleek Bed",
-    "en-US": "Sleek Bed",
-    "es": "Cama tubos",
-    "fr": "Lit design",
-    "it": "Letto design",
-    "ja": "パイプなベッド"
-  },
+  "name": "Sleek Bed",
   "category": "Furniture",
   "games": {
     "nl": {

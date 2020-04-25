@@ -1,8 +1,6 @@
 {
   "id": "aqua-tile-wall",
-  "name": {
-    "en-US": "Aqua Tile Wall"
-  },
+  "name": "Aqua Tile Wall",
   "games": {
     "nh": {
       "sellPrice": {

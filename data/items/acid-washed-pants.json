@@ -1,14 +1,6 @@
 {
   "id": "acid-washed-pants",
-  "name": {
-    "de": "Bleichjeanshose",
-    "en-GB": "Acid-Washed Pants",
-    "en-US": "Acid-Washed Pants",
-    "es": "Pantalón desteñido",
-    "fr": "Pantalon délavé",
-    "it": "Paio jeans chiari",
-    "ja": "ケミカルデニム"
-  },
+  "name": "Acid-washed Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

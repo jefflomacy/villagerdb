@@ -1,14 +1,6 @@
 {
   "id": "rococo-dresser",
-  "name": {
-    "de": "Rokoko-Kommode",
-    "en-GB": "Rococo Dresser",
-    "en-US": "Rococo Dresser",
-    "es": "Cómoda rococó",
-    "fr": "Commode rococo",
-    "it": "Comò rococò",
-    "ja": "ロココなチェスト"
-  },
+  "name": "Rococo Dresser",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "iron-garden-bench",
-  "name": {
-    "en-US": "Iron Garden Bench"
-  },
+  "name": "Iron Garden Bench",
   "games": {
     "nh": {
       "orderable": false,

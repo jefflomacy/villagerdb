@@ -1,8 +1,6 @@
 {
   "id": "wasp-nest",
-  "name": {
-    "en-US": "Wasp Nest"
-  },
+  "name": "Wasp Nest",
   "games": {
     "nh": {
       "orderable": false,

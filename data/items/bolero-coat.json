@@ -1,8 +1,6 @@
 {
   "id": "bolero-coat",
-  "name": {
-    "en-US": "Bolero Coat"
-  },
+  "name": "Bolero Coat",
   "games": {
     "nh": {
       "sellPrice": {

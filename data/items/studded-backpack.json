@@ -1,8 +1,6 @@
 {
   "id": "studded-backpack",
-  "name": {
-    "en-US": "Studded Backpack"
-  },
+  "name": "Studded Backpack",
   "games": {
     "nh": {
       "orderable": true,

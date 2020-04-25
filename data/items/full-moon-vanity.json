@@ -1,14 +1,6 @@
 {
   "id": "full-moon-vanity",
-  "name": {
-    "de": "Vollmondspiegel",
-    "en-GB": "Full-Moon Vanity",
-    "en-US": "Full-Moon Vanity",
-    "es": "Tocador luna llena",
-    "fr": "Coiffeuse lune",
-    "it": "Toletta luna piena",
-    "ja": "まんげつドレッサー"
-  },
+  "name": "Full-moon Vanity",
   "category": "Furniture",
   "games": {
     "nl": {

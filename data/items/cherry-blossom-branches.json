@@ -1,8 +1,6 @@
 {
   "id": "cherry-blossom-branches",
-  "name": {
-    "en-US": "Cherry-blossom Branches"
-  },
+  "name": "Cherry-blossom Branches",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,14 +1,6 @@
 {
   "id": "yellow-rain-boots",
-  "name": {
-    "de": "Gummistiefel",
-    "en-GB": "Yellow Rain Boots",
-    "en-US": "Yellow Rain Boots",
-    "es": "Katiuska amarilla",
-    "fr": "P. bottes pluie J",
-    "it": "Paio stivali gialli",
-    "ja": "きいろいレインブーツ"
-  },
+  "name": "Yellow Rain Boots",
   "category": "Shoes",
   "games": {
     "nl": {

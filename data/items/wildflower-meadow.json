@@ -1,8 +1,6 @@
 {
   "id": "wildflower-meadow",
-  "name": {
-    "en-US": "Wildflower Meadow"
-  },
+  "name": "Wildflower Meadow",
   "games": {
     "nh": {
       "sellPrice": {

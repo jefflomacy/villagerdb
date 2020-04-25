@@ -1,8 +1,6 @@
 {
   "id": "browline-glasses",
-  "name": {
-    "en-US": "Browline Glasses"
-  },
+  "name": "Browline Glasses",
   "games": {
     "nh": {
       "orderable": true,

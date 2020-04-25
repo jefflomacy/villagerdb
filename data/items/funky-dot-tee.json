@@ -1,14 +1,6 @@
 {
   "id": "funky-dot-tee",
-  "name": {
-    "de": "Funky-Shirt",
-    "en-GB": "Funky-Dot Tee",
-    "en-US": "Funky-Dot Tee",
-    "es": "Camiseta topos lila",
-    "fr": "T-shirt points",
-    "it": "Maglietta pois lilla",
-    "ja": "パープルドットのふく"
-  },
+  "name": "Funky-dot Tee",
   "category": "Tops",
   "games": {
     "nl": {

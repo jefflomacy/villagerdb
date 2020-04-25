@@ -1,14 +1,6 @@
 {
   "id": "bb-tee",
-  "name": {
-    "de": "BB-Shirt",
-    "en-GB": "BB Tee",
-    "en-US": "BB Tee",
-    "es": "Camiseta BB",
-    "fr": "T-shirt BB",
-    "it": "Maglietta BB",
-    "ja": "BBのふく"
-  },
+  "name": "Bb Tee",
   "category": "Tops",
   "games": {
     "nl": {

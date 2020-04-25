@@ -1,8 +1,6 @@
 {
   "id": "simple-parka",
-  "name": {
-    "en-US": "Simple Parka"
-  },
+  "name": "Simple Parka",
   "games": {
     "nh": {
       "orderable": true,

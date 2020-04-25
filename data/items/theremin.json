@@ -1,14 +1,6 @@
 {
   "id": "theremin",
-  "name": {
-    "de": "Theremin",
-    "en-GB": "Theremin",
-    "en-US": "Theremin",
-    "es": "Teremín",
-    "fr": "Thérémine",
-    "it": "Theremin",
-    "ja": "テルミン"
-  },
+  "name": "Theremin",
   "category": "Furniture",
   "games": {
     "nl": {

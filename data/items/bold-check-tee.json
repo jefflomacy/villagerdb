@@ -1,14 +1,6 @@
 {
   "id": "bold-check-tee",
-  "name": {
-    "de": "Quadratshirt",
-    "en-GB": "Bold-Check Tee",
-    "en-US": "Bold-Check Tee",
-    "es": "Camiseta torneo",
-    "fr": "T-shirt pavé",
-    "it": "Maglietta quadroni",
-    "ja": "めだつチェッカーのふく"
-  },
+  "name": "Bold-check Tee",
   "category": "Tops",
   "games": {
     "nl": {

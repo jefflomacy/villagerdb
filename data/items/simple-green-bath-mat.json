@@ -1,8 +1,6 @@
 {
   "id": "simple-green-bath-mat",
-  "name": {
-    "en-US": "Simple Green Bath Mat"
-  },
+  "name": "Simple Green Bath Mat",
   "games": {
     "nh": {
       "sellPrice": {

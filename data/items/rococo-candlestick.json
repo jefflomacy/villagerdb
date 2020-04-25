@@ -1,14 +1,6 @@
 {
   "id": "rococo-candlestick",
-  "name": {
-    "de": "Rokoko-Kerzenhalter",
-    "en-GB": "Rococo Candlestick",
-    "en-US": "Rococo Candlestick",
-    "es": "Candelero rococó",
-    "fr": "Chandelier rococo",
-    "it": "Candeliere rococò",
-    "ja": "ロココなしょくだい"
-  },
+  "name": "Rococo Candlestick",
   "category": "Furniture",
   "games": {
     "nl": {

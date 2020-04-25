@@ -1,8 +1,6 @@
 {
   "id": "golden-gears",
-  "name": {
-    "en-US": "Golden Gears"
-  },
+  "name": "Golden Gears",
   "games": {
     "nh": {
       "customizable": false,

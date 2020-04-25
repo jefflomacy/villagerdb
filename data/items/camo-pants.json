@@ -1,8 +1,6 @@
 {
   "id": "camo-pants",
-  "name": {
-    "en-US": "Camo Pants"
-  },
+  "name": "Camo Pants",
   "games": {
     "nh": {
       "sellPrice": {

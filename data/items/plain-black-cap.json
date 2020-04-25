@@ -1,14 +1,6 @@
 {
   "id": "plain-black-cap",
-  "name": {
-    "de": "Schirmmütze",
-    "en-GB": "Plain Black Cap",
-    "en-US": "Plain Black Cap",
-    "es": "Gorra negra sencilla",
-    "fr": "Casquette militaire",
-    "it": "Cappello da lavoro",
-    "ja": "ワークキャップ"
-  },
+  "name": "Plain Black Cap",
   "category": "Hats",
   "games": {
     "nl": {

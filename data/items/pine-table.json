@@ -1,14 +1,6 @@
 {
   "id": "pine-table",
-  "name": {
-    "de": "Kieferntisch",
-    "en-GB": "Pine Table",
-    "en-US": "Pine Table",
-    "es": "Mesa pino",
-    "fr": "Table en pin",
-    "it": "Tavolo pino",
-    "ja": "パインざいのテーブル"
-  },
+  "name": "Pine Table",
   "category": "Furniture",
   "games": {
     "nl": {

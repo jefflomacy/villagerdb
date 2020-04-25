@@ -1,14 +1,6 @@
 {
   "id": "phonograph",
-  "name": {
-    "de": "Grammofon",
-    "en-GB": "Phonograph",
-    "en-US": "Phonograph",
-    "es": "Fonógrafo",
-    "fr": "Phonographe",
-    "it": "Fonografo",
-    "ja": "ちくおんき"
-  },
+  "name": "Phonograph",
   "category": "Furniture",
   "games": {
     "nl": {

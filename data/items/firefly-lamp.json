@@ -1,14 +1,6 @@
 {
   "id": "firefly-lamp",
-  "name": {
-    "de": "Leuchtkäferlampe",
-    "en-GB": "Firefly Lamp",
-    "en-US": "Firefly Lamp",
-    "es": "Lámpara luciérnaga",
-    "fr": "Lampe luciole",
-    "it": "Lampada lucciola",
-    "ja": "ホタルランプ"
-  },
+  "name": "Firefly Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

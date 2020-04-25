@@ -1,14 +1,6 @@
 {
   "id": "regal-vanity",
-  "name": {
-    "de": "Royalspiegel",
-    "en-GB": "Regal Vanity",
-    "en-US": "Regal Vanity",
-    "es": "Tocador regio",
-    "fr": "Coiffeuse royale",
-    "it": "Toletta chic",
-    "ja": "ロイヤルなドレッサー"
-  },
+  "name": "Regal Vanity",
   "category": "Furniture",
   "games": {
     "nl": {

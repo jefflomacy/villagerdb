@@ -1,8 +1,6 @@
 {
   "id": "horse-mackerel-model",
-  "name": {
-    "en-US": "Horse Mackerel Model"
-  },
+  "name": "Horse Mackerel Model",
   "games": {
     "nh": {
       "sellPrice": {

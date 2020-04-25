@@ -1,8 +1,6 @@
 {
   "id": "stone-tile-floor",
-  "name": {
-    "en-US": "Stone-tile Floor"
-  },
+  "name": "Stone-tile Floor",
   "category": "Flooring",
   "games": {
     "nl": {

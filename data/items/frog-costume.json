@@ -1,14 +1,6 @@
 {
   "id": "frog-costume",
-  "name": {
-    "de": "Froschshirt",
-    "en-GB": "Frog Costume",
-    "en-US": "Frog Costume",
-    "es": "Top rana",
-    "fr": "Haut grenouille",
-    "it": "Canotta anfibio",
-    "ja": "カエルなふく"
-  },
+  "name": "Frog Costume",
   "category": "Dresses",
   "games": {
     "nl": {

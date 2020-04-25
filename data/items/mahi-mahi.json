@@ -1,8 +1,6 @@
 {
   "id": "mahi-mahi",
-  "name": {
-    "en-US": "Mahi-mahi"
-  },
+  "name": "Mahi-mahi",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,14 +1,6 @@
 {
   "id": "genie-shirt",
-  "name": {
-    "de": "Orient-Pulli",
-    "en-GB": "Genie Shirt",
-    "en-US": "Genie Shirt",
-    "es": "Jersey persa",
-    "fr": "Pull persan",
-    "it": "Maglia persiana",
-    "ja": "ペルシャのチョッキ"
-  },
+  "name": "Genie Shirt",
   "category": "Tops",
   "games": {
     "nl": {

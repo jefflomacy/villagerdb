@@ -1,8 +1,6 @@
 {
   "id": "tissue-box",
-  "name": {
-    "en-US": "Tissue Box"
-  },
+  "name": "Tissue Box",
   "games": {
     "nh": {
       "orderable": true,

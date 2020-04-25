@@ -1,14 +1,6 @@
 {
   "id": "dimetrodon-skull",
-  "name": {
-    "de": "Dimetrodon-Schädel",
-    "en-GB": "Dimetrodon Skull",
-    "en-US": "Dimetrodon Skull",
-    "es": "Cráneo dimetrodonte",
-    "fr": "Crâne de dimétrodon",
-    "it": "Teschio dimetrodonte",
-    "ja": "ディメトロドンのあたま"
-  },
+  "name": "Dimetrodon Skull",
   "category": "Fossils",
   "games": {
     "nl": {

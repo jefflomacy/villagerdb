@@ -1,14 +1,6 @@
 {
   "id": "creepy-skeleton",
-  "name": {
-    "de": "Gruselskelett",
-    "en-GB": "Creepy Skeleton",
-    "en-US": "Creepy Skeleton",
-    "es": "Difunto pavoroso",
-    "fr": "Squelette lugubre",
-    "it": "Scheletro horror",
-    "ja": "がいこつ"
-  },
+  "name": "Creepy Skeleton",
   "category": "Furniture",
   "games": {
     "nl": {

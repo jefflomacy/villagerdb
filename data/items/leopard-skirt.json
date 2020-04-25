@@ -1,14 +1,6 @@
 {
   "id": "leopard-skirt",
-  "name": {
-    "de": "Leopardenrock",
-    "en-GB": "Leopard Skirt",
-    "en-US": "Leopard Skirt",
-    "es": "Falda leopardo",
-    "fr": "Jupe léopard",
-    "it": "Gonna leopardo",
-    "ja": "ヒョウがらのスカート"
-  },
+  "name": "Leopard Skirt",
   "category": "Bottoms",
   "games": {
     "nl": {

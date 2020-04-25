@@ -1,14 +1,6 @@
 {
   "id": "copy-machine",
-  "name": {
-    "de": "Kopierer",
-    "en-GB": "Copy Machine",
-    "en-US": "Copy Machine",
-    "es": "Fotocopiadora",
-    "fr": "Photocopieuse",
-    "it": "Fotocopiatrice",
-    "ja": "コピーき"
-  },
+  "name": "Copy Machine",
   "category": "Furniture",
   "games": {
     "nl": {

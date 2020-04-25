@@ -1,14 +1,6 @@
 {
   "id": "juicy-apple-tv",
-  "name": {
-    "de": "Apfelfernseher",
-    "en-GB": "Juicy-Apple TV",
-    "en-US": "Juicy-Apple TV",
-    "es": "Tele manzana",
-    "fr": "Télé pomme",
-    "it": "TV mela",
-    "ja": "リンゴのテレビ"
-  },
+  "name": "Juicy-apple Tv",
   "category": "Furniture",
   "games": {
     "nl": {

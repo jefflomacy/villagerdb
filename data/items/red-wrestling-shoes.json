@@ -1,14 +1,6 @@
 {
   "id": "red-wrestling-shoes",
-  "name": {
-    "de": "Rot-Wrestlingschuh",
-    "en-GB": "Red Wrestling Shoes",
-    "en-US": "Red Wrestling Shoes",
-    "es": "Bota lucha roja",
-    "fr": "Paire bottes catch R",
-    "it": "P. scarpe wrestling",
-    "ja": "あかいリングシューズ"
-  },
+  "name": "Red Wrestling Shoes",
   "category": "Shoes",
   "games": {
     "nl": {

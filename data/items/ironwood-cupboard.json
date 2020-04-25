@@ -1,8 +1,6 @@
 {
   "id": "ironwood-cupboard",
-  "name": {
-    "en-US": "Ironwood Cupboard"
-  },
+  "name": "Ironwood Cupboard",
   "games": {
     "nh": {
       "orderable": false,

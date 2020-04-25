@@ -1,8 +1,6 @@
 {
   "id": "rabbit-tee",
-  "name": {
-    "en-US": "Rabbit Tee"
-  },
+  "name": "Rabbit Tee",
   "games": {
     "nh": {
       "orderable": true,

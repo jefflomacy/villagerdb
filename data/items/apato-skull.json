@@ -1,14 +1,6 @@
 {
   "id": "apato-skull",
-  "name": {
-    "de": "Apatosaurus-Schädel",
-    "en-GB": "Apato Skull",
-    "en-US": "Apato Skull",
-    "es": "Cráneo apatosaurio",
-    "fr": "Crâne d'apatosaure",
-    "it": "Teschio brontosauro",
-    "ja": "アパトサウルスのあたま"
-  },
+  "name": "Apato Skull",
   "category": "Fossils",
   "games": {
     "nl": {

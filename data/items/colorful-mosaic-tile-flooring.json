@@ -1,8 +1,6 @@
 {
   "id": "colorful-mosaic-tile-flooring",
-  "name": {
-    "en-US": "Colorful Mosaic-tile Flooring"
-  },
+  "name": "Colorful Mosaic-tile Flooring",
   "games": {
     "nh": {
       "orderable": true,

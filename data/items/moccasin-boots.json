@@ -1,8 +1,6 @@
 {
   "id": "moccasin-boots",
-  "name": {
-    "en-US": "Moccasin Boots"
-  },
+  "name": "Moccasin Boots",
   "games": {
     "nh": {
       "sellPrice": {

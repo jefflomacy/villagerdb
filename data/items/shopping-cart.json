@@ -1,14 +1,6 @@
 {
   "id": "shopping-cart",
-  "name": {
-    "de": "Einkaufswagen",
-    "en-GB": "Shopping Cart",
-    "en-US": "Shopping Cart",
-    "es": "Carro de la compra",
-    "fr": "Chariot Nook",
-    "it": "Carrello supermarket",
-    "ja": "ショッピングカート"
-  },
+  "name": "Shopping Cart",
   "category": "Furniture",
   "games": {
     "nl": {

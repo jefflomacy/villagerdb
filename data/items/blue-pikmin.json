@@ -1,14 +1,6 @@
 {
   "id": "blue-pikmin",
-  "name": {
-    "de": "Knospen-Pikmin",
-    "en-GB": "Blue Pikmin",
-    "en-US": "Blue Pikmin",
-    "es": "Pikmin brote",
-    "fr": "Pikmin bourgeon",
-    "it": "Berr. Pikmin blu",
-    "ja": "あおピクミン"
-  },
+  "name": "Blue Pikmin",
   "category": "Hats",
   "games": {
     "nl": {

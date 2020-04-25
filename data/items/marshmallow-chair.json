@@ -1,14 +1,6 @@
 {
   "id": "marshmallow-chair",
-  "name": {
-    "de": "Marshmallow-Hocker",
-    "en-GB": "Marshmallow Chair",
-    "en-US": "Marshmallow Chair",
-    "es": "Taburete merengue",
-    "fr": "Pouf guimauve",
-    "it": "Pouf marshmallow",
-    "ja": "マシュマロのイス"
-  },
+  "name": "Marshmallow Chair",
   "category": "Furniture",
   "games": {
     "nl": {

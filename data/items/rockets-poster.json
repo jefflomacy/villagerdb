@@ -1,8 +1,6 @@
 {
   "id": "rockets-poster",
-  "name": {
-    "en-US": "Rocket's Poster"
-  },
+  "name": "Rocket's Poster",
   "games": {
     "nh": {
       "sources": [

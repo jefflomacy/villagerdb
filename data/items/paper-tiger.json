@@ -1,14 +1,6 @@
 {
   "id": "paper-tiger",
-  "name": {
-    "de": "Papiertiger",
-    "en-GB": "Paper Tiger",
-    "en-US": "Paper Tiger",
-    "es": "Tigre de papel",
-    "fr": "Tigre en papier",
-    "it": "Tigre di carta",
-    "ja": "はりこのとら"
-  },
+  "name": "Paper Tiger",
   "category": "Furniture",
   "games": {
     "nl": {

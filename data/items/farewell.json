@@ -1,8 +1,6 @@
 {
   "id": "farewell",
-  "name": {
-    "en-US": "Farewell"
-  },
+  "name": "Farewell",
   "games": {
     "nh": {
       "sellPrice": {

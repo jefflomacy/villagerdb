@@ -1,14 +1,6 @@
 {
   "id": "minimalist-sofa",
-  "name": {
-    "de": "Minimalsofa",
-    "en-GB": "Minimalist Sofa",
-    "en-US": "Minimalist Sofa",
-    "es": "Sofá minimalista",
-    "fr": "Canapé minimaliste",
-    "it": "Sofà minimalista",
-    "ja": "シンプルなソファ"
-  },
+  "name": "Minimalist Sofa",
   "category": "Furniture",
   "games": {
     "nl": {

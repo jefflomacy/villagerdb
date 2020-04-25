@@ -1,8 +1,6 @@
 {
   "id": "sky-egg-outfit",
-  "name": {
-    "en-US": "Sky-egg Outfit"
-  },
+  "name": "Sky-egg Outfit",
   "games": {
     "nh": {
       "orderable": false,

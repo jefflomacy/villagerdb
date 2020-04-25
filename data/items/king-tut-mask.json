@@ -1,14 +1,6 @@
 {
   "id": "king-tut-mask",
-  "name": {
-    "de": "Pharaomaske",
-    "en-GB": "King Tut Mask",
-    "en-US": "King Tut Mask",
-    "es": "Máscara egipcia",
-    "fr": "Masque de pharaon",
-    "it": "Maschera Re Tut",
-    "ja": "ツタンカーメン"
-  },
+  "name": "King Tut Mask",
   "category": "Hats",
   "games": {
     "nl": {

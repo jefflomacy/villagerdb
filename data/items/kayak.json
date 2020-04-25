@@ -1,14 +1,6 @@
 {
   "id": "kayak",
-  "name": {
-    "de": "Kajak",
-    "en-GB": "Kayak",
-    "en-US": "Kayak",
-    "es": "Kayak",
-    "fr": "Kayak",
-    "it": "Kayak",
-    "ja": "カヤック"
-  },
+  "name": "Kayak",
   "category": "Furniture",
   "games": {
     "nl": {

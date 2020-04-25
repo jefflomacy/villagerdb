@@ -1,8 +1,6 @@
 {
   "id": "plasma-ball",
-  "name": {
-    "en-US": "Plasma Ball"
-  },
+  "name": "Plasma Ball",
   "games": {
     "nh": {
       "orderable": true,

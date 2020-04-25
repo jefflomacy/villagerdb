@@ -1,14 +1,6 @@
 {
   "id": "traffic-cone",
-  "name": {
-    "de": "Verkehrshütchen",
-    "en-GB": "Traffic Cone",
-    "en-US": "Traffic Cone",
-    "es": "Cono de tráfico",
-    "fr": "Cône bicolore",
-    "it": "Cono da traffico",
-    "ja": "おもりつきパイロン"
-  },
+  "name": "Traffic Cone",
   "category": "Furniture",
   "games": {
     "nl": {

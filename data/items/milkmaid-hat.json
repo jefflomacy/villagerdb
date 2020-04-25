@@ -1,14 +1,6 @@
 {
   "id": "milkmaid-hat",
-  "name": {
-    "de": "Trachtenhaube",
-    "en-GB": "Milkmaid Hat",
-    "en-US": "Milkmaid Hat",
-    "es": "Tocado holandés",
-    "fr": "Chapeau hollandais",
-    "it": "Cuffia olandese",
-    "ja": "オランダのぼうし"
-  },
+  "name": "Milkmaid Hat",
   "category": "Hats",
   "games": {
     "nl": {

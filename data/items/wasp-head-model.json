@@ -1,8 +1,6 @@
 {
   "id": "wasp-head-model",
-  "name": {
-    "en-US": "Wasp-head Model"
-  },
+  "name": "Wasp-head Model",
   "games": {
     "nh": {
       "sellPrice": {

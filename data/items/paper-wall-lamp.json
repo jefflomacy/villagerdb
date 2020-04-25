@@ -1,14 +1,6 @@
 {
   "id": "paper-wall-lamp",
-  "name": {
-    "de": "Papier-Wandlaterne",
-    "en-GB": "Paper Wall Lamp",
-    "en-US": "Paper Wall Lamp",
-    "es": "Lámpara pared papel",
-    "fr": "Lampe mur papier",
-    "it": "Lanterna muro carta",
-    "ja": "かべかけのあんどん"
-  },
+  "name": "Paper Wall Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

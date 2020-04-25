@@ -1,14 +1,6 @@
 {
   "id": "garden-gnome",
-  "name": {
-    "de": "Gartenzwerg",
-    "en-GB": "Garden Gnome",
-    "en-US": "Garden Gnome",
-    "es": "Gnomo jardín",
-    "fr": "Nain de jardin",
-    "it": "Gnomo giardino",
-    "ja": "ノームのおきもの"
-  },
+  "name": "Garden Gnome",
   "category": "Furniture",
   "games": {
     "nl": {

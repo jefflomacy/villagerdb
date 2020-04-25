@@ -1,8 +1,6 @@
 {
   "id": "gray-striped-wall",
-  "name": {
-    "en-US": "Gray-striped Wall"
-  },
+  "name": "Gray-striped Wall",
   "games": {
     "nh": {
       "orderable": true,

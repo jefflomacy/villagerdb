@@ -1,8 +1,6 @@
 {
   "id": "taurus-fragment",
-  "name": {
-    "en-US": "Taurus Fragment"
-  },
+  "name": "Taurus Fragment",
   "games": {
     "nh": {
       "sellPrice": {

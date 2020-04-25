@@ -1,14 +1,6 @@
 {
   "id": "robo-stereo",
-  "name": {
-    "de": "Robo-Anlage",
-    "en-GB": "Robo-Stereo",
-    "en-US": "Robo-Stereo",
-    "es": "Robocadena",
-    "fr": "Chaîne robot",
-    "it": "Robo-stereo",
-    "ja": "ロボコンポ"
-  },
+  "name": "Robo-stereo",
   "category": "Furniture",
   "games": {
     "nl": {

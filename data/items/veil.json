@@ -1,8 +1,6 @@
 {
   "id": "veil",
-  "name": {
-    "en-US": "Veil"
-  },
+  "name": "Veil",
   "games": {
     "nh": {
       "orderable": false,

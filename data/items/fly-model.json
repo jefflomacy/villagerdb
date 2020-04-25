@@ -1,8 +1,6 @@
 {
   "id": "fly-model",
-  "name": {
-    "en-US": "Fly Model"
-  },
+  "name": "Fly Model",
   "games": {
     "nh": {
       "sellPrice": {

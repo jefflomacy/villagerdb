@@ -1,14 +1,6 @@
 {
   "id": "mummy-mask",
-  "name": {
-    "de": "Mumienmaske",
-    "en-GB": "Mummy Mask",
-    "en-US": "Mummy Mask",
-    "es": "Careta de momia",
-    "fr": "Masque de momie",
-    "it": "Maschera mummia",
-    "ja": "ミイラのかぶりもの"
-  },
+  "name": "Mummy Mask",
   "category": "Hats",
   "games": {
     "nl": {

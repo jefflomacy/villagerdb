@@ -1,14 +1,6 @@
 {
   "id": "dessert-case",
-  "name": {
-    "de": "Kuchenvitrine",
-    "en-GB": "Dessert Case",
-    "en-US": "Dessert Case",
-    "es": "Vitrina de postres",
-    "fr": "Vitrine à desserts",
-    "it": "Vetrina dolci",
-    "ja": "ケーキケース"
-  },
+  "name": "Dessert Case",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "windflower-crown",
-  "name": {
-    "en-US": "Windflower Crown"
-  },
+  "name": "Windflower Crown",
   "games": {
     "nh": {
       "customizable": false,

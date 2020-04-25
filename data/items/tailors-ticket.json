@@ -1,8 +1,6 @@
 {
   "id": "tailors-ticket",
-  "name": {
-    "en-US": "Tailors Ticket"
-  },
+  "name": "Tailors Ticket",
   "games": {
     "nh": {
       "sellPrice": {

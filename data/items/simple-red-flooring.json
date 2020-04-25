@@ -1,8 +1,6 @@
 {
   "id": "simple-red-flooring",
-  "name": {
-    "en-US": "Simple Red Flooring"
-  },
+  "name": "Simple Red Flooring",
   "games": {
     "nh": {
       "orderable": true,

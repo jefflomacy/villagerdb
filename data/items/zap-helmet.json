@@ -1,8 +1,6 @@
 {
   "id": "zap-helmet",
-  "name": {
-    "en-US": "Zap Helmet"
-  },
+  "name": "Zap Helmet",
   "games": {
     "nh": {
       "sellPrice": {

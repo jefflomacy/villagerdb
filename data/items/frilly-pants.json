@@ -1,8 +1,6 @@
 {
   "id": "frilly-pants",
-  "name": {
-    "en-US": "Frilly Pants"
-  },
+  "name": "Frilly Pants",
   "games": {
     "nh": {
       "orderable": true,

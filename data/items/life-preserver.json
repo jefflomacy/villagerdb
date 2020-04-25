@@ -1,14 +1,6 @@
 {
   "id": "life-preserver",
-  "name": {
-    "de": "Deko-Rettungsring",
-    "en-GB": "Life Preserver",
-    "en-US": "Life Preserver",
-    "es": "Flotador salvavidas",
-    "fr": "Bouée",
-    "it": "Salvagente a strisce",
-    "ja": "かべかけのうきわ"
-  },
+  "name": "Life Preserver",
   "category": "Furniture",
   "games": {
     "nl": {

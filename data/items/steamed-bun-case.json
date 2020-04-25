@@ -1,14 +1,6 @@
 {
   "id": "steamed-bun-case",
-  "name": {
-    "de": "Snackvitrine",
-    "en-GB": "Steamed-Bun Case",
-    "en-US": "Steamed-Bun Case",
-    "es": "Vitrina comida",
-    "fr": "Vitrine vapeur",
-    "it": "Scaldavivande vapore",
-    "ja": "ちゅうかまんのケース"
-  },
+  "name": "Steamed-bun Case",
   "category": "Furniture",
   "games": {
     "nl": {

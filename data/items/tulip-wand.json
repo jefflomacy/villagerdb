@@ -1,8 +1,6 @@
 {
   "id": "tulip-wand",
-  "name": {
-    "en-US": "Tulip Wand"
-  },
+  "name": "Tulip Wand",
   "games": {
     "nh": {
       "orderable": false,

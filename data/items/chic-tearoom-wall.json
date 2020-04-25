@@ -1,8 +1,6 @@
 {
   "id": "chic-tearoom-wall",
-  "name": {
-    "en-US": "Chic Tearoom Wall"
-  },
+  "name": "Chic Tearoom Wall",
   "games": {
     "nh": {
       "sellPrice": {

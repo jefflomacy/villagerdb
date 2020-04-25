@@ -1,8 +1,6 @@
 {
   "id": "zebra-turkeyfish-model",
-  "name": {
-    "en-US": "Zebra Turkeyfish Model"
-  },
+  "name": "Zebra Turkeyfish Model",
   "games": {
     "nh": {
       "sellPrice": {

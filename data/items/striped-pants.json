@@ -1,8 +1,6 @@
 {
   "id": "striped-pants",
-  "name": {
-    "en-US": "Striped Pants"
-  },
+  "name": "Striped Pants",
   "games": {
     "nh": {
       "sellPrice": {

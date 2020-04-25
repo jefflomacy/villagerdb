@@ -1,14 +1,6 @@
 {
   "id": "yellow-sneakers",
-  "name": {
-    "de": "Gelbturnschuh",
-    "en-GB": "Yellow Sneakers",
-    "en-US": "Yellow Sneakers",
-    "es": "Zapatilla amarilla",
-    "fr": "Paire tennis jaunes",
-    "it": "Paio scarpe gialle",
-    "ja": "きいろいヒモつきシューズ"
-  },
+  "name": "Yellow Sneakers",
   "category": "Shoes",
   "games": {
     "nl": {

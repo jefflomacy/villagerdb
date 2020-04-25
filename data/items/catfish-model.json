@@ -1,8 +1,6 @@
 {
   "id": "catfish-model",
-  "name": {
-    "en-US": "Catfish Model"
-  },
+  "name": "Catfish Model",
   "games": {
     "nh": {
       "sellPrice": {

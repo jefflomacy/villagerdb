@@ -1,8 +1,6 @@
 {
   "id": "frozen-counter",
-  "name": {
-    "en-US": "Frozen Counter"
-  },
+  "name": "Frozen Counter",
   "games": {
     "nh": {
       "sellPrice": {

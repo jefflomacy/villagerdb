@@ -1,14 +1,6 @@
 {
   "id": "western-pants",
-  "name": {
-    "de": "Western-Hose",
-    "en-GB": "Western Pants",
-    "en-US": "Western Pants",
-    "es": "Pantalón de vaquero",
-    "fr": "Pantalon western",
-    "it": "Pantalone cowboy",
-    "ja": "カウボーイパンツ"
-  },
+  "name": "Western Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

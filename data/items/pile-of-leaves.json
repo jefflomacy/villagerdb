@@ -1,14 +1,6 @@
 {
   "id": "pile-of-leaves",
-  "name": {
-    "de": "Laubhaufen",
-    "en-GB": "Pile Of Leaves",
-    "en-US": "Pile Of Leaves",
-    "es": "Montón de hojas",
-    "fr": "Tas de feuilles",
-    "it": "Mucchio foglie",
-    "ja": "おちば"
-  },
+  "name": "Pile Of Leaves",
   "category": "Furniture",
   "games": {
     "nl": {

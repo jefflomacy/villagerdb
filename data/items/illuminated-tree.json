@@ -1,8 +1,6 @@
 {
   "id": "illuminated-tree",
-  "name": {
-    "en-US": "Illuminated Tree"
-  },
+  "name": "Illuminated Tree",
   "games": {
     "nh": {
       "sellPrice": {

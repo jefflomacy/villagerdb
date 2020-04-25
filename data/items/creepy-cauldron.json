@@ -1,14 +1,6 @@
 {
   "id": "creepy-cauldron",
-  "name": {
-    "de": "Gruselkessel",
-    "en-GB": "Creepy Cauldron",
-    "en-US": "Creepy Cauldron",
-    "es": "Caldero pavoroso",
-    "fr": "Chaudron lugubre",
-    "it": "Calderone horror",
-    "ja": "まじょのくすり"
-  },
+  "name": "Creepy Cauldron",
   "category": "Furniture",
   "games": {
     "nl": {

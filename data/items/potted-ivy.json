@@ -1,14 +1,6 @@
 {
   "id": "potted-ivy",
-  "name": {
-    "de": "Efeu-Topfpflanze",
-    "en-GB": "Potted Ivy",
-    "en-US": "Potted Ivy",
-    "es": "Maceta hiedra",
-    "fr": "Lierre en pot",
-    "it": "Pianta edera in vaso",
-    "ja": "かべかけのはっぱ"
-  },
+  "name": "Potted Ivy",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "meme-shirt",
-  "name": {
-    "en-US": "Meme Shirt"
-  },
+  "name": "Meme Shirt",
   "games": {
     "nh": {
       "sellPrice": {

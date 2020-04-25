@@ -1,14 +1,6 @@
 {
   "id": "pine-chair",
-  "name": {
-    "de": "Kiefernstuhl",
-    "en-GB": "Pine Chair",
-    "en-US": "Pine Chair",
-    "es": "Silla pino",
-    "fr": "Chaise en pin",
-    "it": "Sedia pino",
-    "ja": "パインざいのイス"
-  },
+  "name": "Pine Chair",
   "category": "Furniture",
   "games": {
     "nl": {

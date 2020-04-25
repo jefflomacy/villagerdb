@@ -1,8 +1,6 @@
 {
   "id": "punk-pants",
-  "name": {
-    "en-US": "Punk Pants"
-  },
+  "name": "Punk Pants",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "kiddie-tee",
-  "name": {
-    "de": "Kindershirt",
-    "en-GB": "Kiddie Tee",
-    "en-US": "Kiddie Tee",
-    "es": "Camiseta bloques",
-    "fr": "T-shirt enfant",
-    "it": "Maglietta bimbi",
-    "ja": "ブロックのふく"
-  },
+  "name": "Kiddie Tee",
   "category": "Tops",
   "games": {
     "nl": {

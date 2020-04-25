@@ -1,14 +1,6 @@
 {
   "id": "manneken-pis",
-  "name": {
-    "de": "Manneken Pis",
-    "en-GB": "Manneken Pis",
-    "en-US": "Manneken Pis",
-    "es": "Manneken Pis",
-    "fr": "Manneken Pis",
-    "it": "Manneken Pis",
-    "ja": "しょうべんこぞう"
-  },
+  "name": "Manneken Pis",
   "category": "Furniture",
   "games": {
     "nl": {

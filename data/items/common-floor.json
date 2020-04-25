@@ -1,8 +1,6 @@
 {
   "id": "common-floor",
-  "name": {
-    "en-US": "Common Floor"
-  },
+  "name": "Common Floor",
   "category": "Flooring",
   "games": {
     "nl": {

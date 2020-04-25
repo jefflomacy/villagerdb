@@ -1,14 +1,6 @@
 {
   "id": "egg-basket",
-  "name": {
-    "de": "Eierkörbchen",
-    "en-GB": "Egg Basket",
-    "en-US": "Egg Basket",
-    "es": "Cesta de huevos",
-    "fr": "Panier d'\\u0153ufs",
-    "it": "Cesto di uova",
-    "ja": "イースターのバスケット"
-  },
+  "name": "Egg Basket",
   "category": "Furniture",
   "games": {
     "nl": {

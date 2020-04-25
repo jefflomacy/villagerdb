@@ -1,14 +1,6 @@
 {
   "id": "mush-closet",
-  "name": {
-    "de": "Pilzschrank",
-    "en-GB": "Mush Closet",
-    "en-US": "Mush Closet",
-    "es": "Armario hongo",
-    "fr": "Buffet champi",
-    "it": "Armadio fungo",
-    "ja": "きのこクロゼット"
-  },
+  "name": "Mush Closet",
   "category": "Furniture",
   "games": {
     "nl": {

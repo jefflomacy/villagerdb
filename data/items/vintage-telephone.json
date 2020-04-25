@@ -1,14 +1,6 @@
 {
   "id": "vintage-telephone",
-  "name": {
-    "de": "Retro-Telefon",
-    "en-GB": "Vintage Telephone",
-    "en-US": "Vintage Telephone",
-    "es": "Teléfono antiguo",
-    "fr": "Téléphone d'époque",
-    "it": "Telefono antico",
-    "ja": "レトロなでんわ"
-  },
+  "name": "Vintage Telephone",
   "category": "Furniture",
   "games": {
     "nl": {

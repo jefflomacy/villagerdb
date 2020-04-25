@@ -1,14 +1,6 @@
 {
   "id": "neutral-corner",
-  "name": {
-    "de": "Ecke (neutral)",
-    "en-GB": "Neutral Corner",
-    "en-US": "Neutral Corner",
-    "es": "Esquina neutral",
-    "fr": "Coin neutre",
-    "it": "Angolo neutrale",
-    "ja": "ニュートラルコーナー"
-  },
+  "name": "Neutral Corner",
   "category": "Furniture",
   "games": {
     "nl": {

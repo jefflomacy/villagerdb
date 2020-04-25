@@ -1,8 +1,6 @@
 {
   "id": "spiky-fence",
-  "name": {
-    "en-US": "Spiky Fence"
-  },
+  "name": "Spiky Fence",
   "games": {
     "nh": {
       "orderable": false,

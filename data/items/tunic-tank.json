@@ -1,8 +1,6 @@
 {
   "id": "tunic-tank",
-  "name": {
-    "en-US": "Tunic Tank"
-  },
+  "name": "Tunic Tank",
   "games": {
     "nh": {
       "sellPrice": {

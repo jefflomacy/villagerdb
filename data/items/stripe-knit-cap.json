@@ -1,14 +1,6 @@
 {
   "id": "stripe-knit-cap",
-  "name": {
-    "de": "Streifenpudelmütze",
-    "en-GB": "Stripe Knit Cap",
-    "en-US": "Stripe Knit Cap",
-    "es": "Gorro lana rayas",
-    "fr": "Bonnet péruvien",
-    "it": "Berretto nero",
-    "ja": "ボーダーニットぼう"
-  },
+  "name": "Stripe Knit Cap",
   "category": "Hats",
   "games": {
     "nl": {

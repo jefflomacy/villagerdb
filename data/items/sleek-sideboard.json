@@ -1,14 +1,6 @@
 {
   "id": "sleek-sideboard",
-  "name": {
-    "de": "Designerregal",
-    "en-GB": "Sleek Sideboard",
-    "en-US": "Sleek Sideboard",
-    "es": "Aparador tubos",
-    "fr": "Buffet design",
-    "it": "Credenza design",
-    "ja": "パイプなボード"
-  },
+  "name": "Sleek Sideboard",
   "category": "Furniture",
   "games": {
     "nl": {

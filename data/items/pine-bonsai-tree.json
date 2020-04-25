@@ -1,8 +1,6 @@
 {
   "id": "pine-bonsai-tree",
-  "name": {
-    "en-US": "Pine Bonsai Tree"
-  },
+  "name": "Pine Bonsai Tree",
   "games": {
     "nh": {
       "customizable": false,

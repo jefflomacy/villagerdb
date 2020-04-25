@@ -1,14 +1,6 @@
 {
   "id": "simple-kettle",
-  "name": {
-    "de": "Teekessel",
-    "en-GB": "Simple Kettle",
-    "en-US": "Simple Kettle",
-    "es": "Tetera normal",
-    "fr": "Bouilloire standard",
-    "it": "Bollitore standard",
-    "ja": "ケトル"
-  },
+  "name": "Simple Kettle",
   "category": "Furniture",
   "games": {
     "nl": {

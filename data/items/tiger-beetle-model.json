@@ -1,8 +1,6 @@
 {
   "id": "tiger-beetle-model",
-  "name": {
-    "en-US": "Tiger Beetle Model"
-  },
+  "name": "Tiger Beetle Model",
   "games": {
     "nh": {
       "sellPrice": {

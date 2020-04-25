@@ -1,14 +1,6 @@
 {
   "id": "red-warm-up-pants",
-  "name": {
-    "de": "Trainingshose",
-    "en-GB": "Red Warm-Up Pants",
-    "en-US": "Red Warm-Up Pants",
-    "es": "Pantalón sport rojo",
-    "fr": "Pantal. survêt rouge",
-    "it": "Pantalone tuta rossa",
-    "ja": "あかジャージズボン"
-  },
+  "name": "Red Warm-up Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "sweets-lamp",
-  "name": {
-    "de": "Süßlampe",
-    "en-GB": "Sweets Lamp",
-    "en-US": "Sweets Lamp",
-    "es": "Lámpara chuches",
-    "fr": "Lampe bonbons",
-    "it": "Lampada dolci",
-    "ja": "おかしのランプ"
-  },
+  "name": "Sweets Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

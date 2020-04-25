@@ -1,8 +1,6 @@
 {
   "id": "strawberry-chocolate-wall",
-  "name": {
-    "en-US": "Strawberry-chocolate Wall"
-  },
+  "name": "Strawberry-chocolate Wall",
   "games": {
     "nh": {
       "orderable": false,

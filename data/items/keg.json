@@ -1,14 +1,6 @@
 {
   "id": "keg",
-  "name": {
-    "de": "Fässchen",
-    "en-GB": "Keg",
-    "en-US": "Keg",
-    "es": "Barrilete",
-    "fr": "Tonnelet",
-    "it": "Barilotto",
-    "ja": "よこむきのたる"
-  },
+  "name": "Keg",
   "category": "Furniture",
   "games": {
     "nl": {

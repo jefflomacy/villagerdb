@@ -1,8 +1,6 @@
 {
   "id": "top-coat",
-  "name": {
-    "en-US": "Top Coat"
-  },
+  "name": "Top Coat",
   "games": {
     "nh": {
       "orderable": true,

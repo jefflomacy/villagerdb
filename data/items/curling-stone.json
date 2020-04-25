@@ -1,14 +1,6 @@
 {
   "id": "curling-stone",
-  "name": {
-    "de": "Curling-Stein",
-    "en-GB": "Curling Stone",
-    "en-US": "Curling Stone",
-    "es": "Piedra de curling",
-    "fr": "Pierre de curling",
-    "it": "Stone per curling",
-    "ja": "カーリングストーン"
-  },
+  "name": "Curling Stone",
   "category": "Furniture",
   "games": {
     "nl": {

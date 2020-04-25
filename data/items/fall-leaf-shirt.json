@@ -1,14 +1,6 @@
 {
   "id": "fall-leaf-shirt",
-  "name": {
-    "de": "Blätterpulli",
-    "en-GB": "Fall Leaf Shirt",
-    "en-US": "Fall Leaf Shirt",
-    "es": "Jersey otoño",
-    "fr": "Pull automnal",
-    "it": "Maglia autunno",
-    "ja": "あきいろはっぱなふくL"
-  },
+  "name": "Fall Leaf Shirt",
   "category": "Tops",
   "games": {
     "nl": {

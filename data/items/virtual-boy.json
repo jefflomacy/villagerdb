@@ -1,14 +1,6 @@
 {
   "id": "virtual-boy",
-  "name": {
-    "de": "Virtual Boy",
-    "en-GB": "Virtual Boy",
-    "en-US": "Virtual Boy",
-    "es": "Virtual Boy",
-    "fr": "Virtual Boy",
-    "it": "Virtual Boy",
-    "ja": "バーチャルボーイ"
-  },
+  "name": "Virtual Boy",
   "category": "Furniture",
   "games": {
     "nl": {

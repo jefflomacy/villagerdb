@@ -1,8 +1,6 @@
 {
   "id": "spider-doorplate",
-  "name": {
-    "en-US": "Spider Doorplate"
-  },
+  "name": "Spider Doorplate",
   "games": {
     "nh": {
       "sellPrice": {

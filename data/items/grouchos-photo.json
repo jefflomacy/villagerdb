@@ -1,8 +1,6 @@
 {
   "id": "grouchos-photo",
-  "name": {
-    "en-US": "Groucho's Photo"
-  },
+  "name": "Groucho's Photo",
   "games": {
     "nh": {
       "sellPrice": {

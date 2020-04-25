@@ -1,8 +1,6 @@
 {
   "id": "ketchups-poster",
-  "name": {
-    "en-US": "Ketchup's Poster"
-  },
+  "name": "Ketchup's Poster",
   "games": {
     "nh": {
       "sources": [

@@ -1,14 +1,6 @@
 {
   "id": "blue-tartan-shirt",
-  "name": {
-    "de": "Sittichpulli",
-    "en-GB": "Blue Tartan Shirt",
-    "en-US": "Blue Tartan Shirt",
-    "es": "Jersey tartán día",
-    "fr": "Pull tartan bleu",
-    "it": "Maglia tartan blu",
-    "ja": "シアンタータンのふくL"
-  },
+  "name": "Blue Tartan Shirt",
   "category": "Tops",
   "games": {
     "nl": {

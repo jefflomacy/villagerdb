@@ -1,8 +1,6 @@
 {
   "id": "bank-vault-wall",
-  "name": {
-    "en-US": "Bank-vault Wall"
-  },
+  "name": "Bank-vault Wall",
   "games": {
     "nh": {
       "sellPrice": {

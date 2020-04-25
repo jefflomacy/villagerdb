@@ -1,8 +1,6 @@
 {
   "id": "neon-leggings",
-  "name": {
-    "en-US": "Neon Leggings"
-  },
+  "name": "Neon Leggings",
   "games": {
     "nh": {
       "orderable": true,

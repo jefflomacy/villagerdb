@@ -1,8 +1,6 @@
 {
   "id": "light-herringbone-flooring",
-  "name": {
-    "en-US": "Light Herringbone Flooring"
-  },
+  "name": "Light Herringbone Flooring",
   "games": {
     "nh": {
       "orderable": true,

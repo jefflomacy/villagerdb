@@ -1,14 +1,6 @@
 {
   "id": "kappa-costume",
-  "name": {
-    "de": "Käpten-Pulli",
-    "en-GB": "Kappa Costume",
-    "en-US": "Kappa Costume",
-    "es": "Jersey kappa",
-    "fr": "Haut kappa",
-    "it": "Maglia tartaruga",
-    "ja": "カッパスーツ"
-  },
+  "name": "Kappa Costume",
   "category": "Dresses",
   "games": {
     "nl": {

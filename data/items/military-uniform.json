@@ -1,14 +1,6 @@
 {
   "id": "military-uniform",
-  "name": {
-    "de": "Militärjacke",
-    "en-GB": "Military Uniform",
-    "en-US": "Military Uniform",
-    "es": "Chaqueta militar",
-    "fr": "Pull militaire",
-    "it": "Giacca militare",
-    "ja": "へいたいのふく"
-  },
+  "name": "Military Uniform",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "ice-side-table",
-  "name": {
-    "de": "Eistischchen",
-    "en-GB": "Ice Side Table",
-    "en-US": "Ice Side Table",
-    "es": "Mesita hielo",
-    "fr": "Desserte glace",
-    "it": "Tavolino ghiaccio",
-    "ja": "アイスなサイドテーブル"
-  },
+  "name": "Ice Side Table",
   "category": "Furniture",
   "games": {
     "nl": {

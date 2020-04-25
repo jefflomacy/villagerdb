@@ -1,14 +1,6 @@
 {
   "id": "orange-sandals",
-  "name": {
-    "de": "Sommersandale",
-    "en-GB": "Orange Sandals",
-    "en-US": "Orange Sandals",
-    "es": "Sandalia naranja",
-    "fr": "P. sandales orange",
-    "it": "P. sandali arancioni",
-    "ja": "オレンジのサンダル"
-  },
+  "name": "Orange Sandals",
   "category": "Shoes",
   "games": {
     "nl": {

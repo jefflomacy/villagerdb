@@ -1,14 +1,6 @@
 {
   "id": "blue-argyle-shirt",
-  "name": {
-    "de": "Blau-Argyle-Pulli",
-    "en-GB": "Blue Argyle Shirt",
-    "en-US": "Blue Argyle Shirt",
-    "es": "Jersey pijo azul",
-    "fr": "Pull écossais bleu",
-    "it": "Maglia rombi blu",
-    "ja": "あおアーガイルのふくL"
-  },
+  "name": "Blue Argyle Shirt",
   "category": "Tops",
   "games": {
     "nl": {

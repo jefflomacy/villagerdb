@@ -1,14 +1,6 @@
 {
   "id": "arrow-sign",
-  "name": {
-    "de": "Wegweiser",
-    "en-GB": "Arrow Sign",
-    "en-US": "Arrow Sign",
-    "es": "Señal sentido único",
-    "fr": "Panneau fléché",
-    "it": "Segnale direzione",
-    "ja": "じゅんろ"
-  },
+  "name": "Arrow Sign",
   "category": "Furniture",
   "games": {
     "nl": {

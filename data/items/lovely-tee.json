@@ -1,14 +1,6 @@
 {
   "id": "lovely-tee",
-  "name": {
-    "de": "Herzchenshirt",
-    "en-GB": "Lovely Tee",
-    "en-US": "Lovely Tee",
-    "es": "Camiseta corazones",
-    "fr": "T-shirt amour",
-    "it": "Maglietta cuoricini",
-    "ja": "ラブリーなふく"
-  },
+  "name": "Lovely Tee",
   "category": "Tops",
   "games": {
     "nl": {

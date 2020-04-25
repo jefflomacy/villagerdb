@@ -1,14 +1,6 @@
 {
   "id": "dazed-tee",
-  "name": {
-    "de": "Wohlfühlshirt",
-    "en-GB": "Dazed Tee",
-    "en-US": "Dazed Tee",
-    "es": "Camiseta rombos",
-    "fr": "T-shirt losange",
-    "it": "Magliet. quadri rosa",
-    "ja": "ゆめいろこうしのふく"
-  },
+  "name": "Dazed Tee",
   "category": "Tops",
   "games": {
     "nl": {

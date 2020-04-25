@@ -1,14 +1,6 @@
 {
   "id": "beach-chair",
-  "name": {
-    "de": "Sonnenstuhl",
-    "en-GB": "Beach Chair",
-    "en-US": "Beach Chair",
-    "es": "Silla de playa",
-    "fr": "Transat",
-    "it": "Sedia a sdraio",
-    "ja": "ビーチベッド"
-  },
+  "name": "Beach Chair",
   "category": "Furniture",
   "games": {
     "nl": {

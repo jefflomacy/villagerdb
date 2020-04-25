@@ -1,8 +1,6 @@
 {
   "id": "poncho-coat",
-  "name": {
-    "en-US": "Poncho Coat"
-  },
+  "name": "Poncho Coat",
   "games": {
     "nh": {
       "sellPrice": {

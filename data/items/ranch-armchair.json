@@ -1,14 +1,6 @@
 {
   "id": "ranch-armchair",
-  "name": {
-    "de": "Western-Sessel",
-    "en-GB": "Ranch Armchair",
-    "en-US": "Ranch Armchair",
-    "es": "Butaca rústica",
-    "fr": "Fauteuil ranch",
-    "it": "Poltrona country",
-    "ja": "カントリーなソファS"
-  },
+  "name": "Ranch Armchair",
   "category": "Furniture",
   "games": {
     "nl": {

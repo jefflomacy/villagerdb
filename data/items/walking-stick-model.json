@@ -1,8 +1,6 @@
 {
   "id": "walking-stick-model",
-  "name": {
-    "en-US": "Walking Stick Model"
-  },
+  "name": "Walking Stick Model",
   "games": {
     "nh": {
       "sellPrice": {

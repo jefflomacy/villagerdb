@@ -1,14 +1,6 @@
 {
   "id": "wet-road-sign",
-  "name": {
-    "de": "Warnschild",
-    "en-GB": "Wet-Road Sign",
-    "en-US": "Wet-Road Sign",
-    "es": "Señal suelo mojado",
-    "fr": "Pan. chau. glissante",
-    "it": "Segnale pericolo",
-    "ja": "けいこくひょうしき"
-  },
+  "name": "Wet-road Sign",
   "category": "Furniture",
   "games": {
     "nl": {

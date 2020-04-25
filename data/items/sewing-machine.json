@@ -1,14 +1,6 @@
 {
   "id": "sewing-machine",
-  "name": {
-    "de": "Nähmaschine",
-    "en-GB": "Sewing Machine",
-    "en-US": "Sewing Machine",
-    "es": "Máquina de coser",
-    "fr": "Machine à coudre",
-    "it": "Macchina da cucire",
-    "ja": "ミシン"
-  },
+  "name": "Sewing Machine",
   "category": "Furniture",
   "games": {
     "nl": {

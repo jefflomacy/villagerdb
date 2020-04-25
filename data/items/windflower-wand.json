@@ -1,8 +1,6 @@
 {
   "id": "windflower-wand",
-  "name": {
-    "en-US": "Windflower Wand"
-  },
+  "name": "Windflower Wand",
   "games": {
     "nh": {
       "orderable": false,

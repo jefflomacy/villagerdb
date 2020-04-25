@@ -1,14 +1,6 @@
 {
   "id": "astro-chair",
-  "name": {
-    "de": "Astrostuhl",
-    "en-GB": "Astro Chair",
-    "en-US": "Astro Chair",
-    "es": "Silla futurista",
-    "fr": "Fauteuil astro",
-    "it": "Sedia futuro",
-    "ja": "きんみらいなイス"
-  },
+  "name": "Astro Chair",
   "category": "Furniture",
   "games": {
     "nl": {

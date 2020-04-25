@@ -1,14 +1,6 @@
 {
   "id": "silk-hat",
-  "name": {
-    "de": "Seidenmütze",
-    "en-GB": "Silk Hat",
-    "en-US": "Silk Hat",
-    "es": "Gorro de seda",
-    "fr": "Chapeau en soie",
-    "it": "Cappello di seta",
-    "ja": "チャイナハット"
-  },
+  "name": "Silk Hat",
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "peasant-blouse",
-  "name": {
-    "en-US": "Peasant Blouse"
-  },
+  "name": "Peasant Blouse",
   "games": {
     "nh": {
       "orderable": true,

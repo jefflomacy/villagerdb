@@ -1,14 +1,6 @@
 {
   "id": "ninja-shirt",
-  "name": {
-    "de": "Ninjapulli",
-    "en-GB": "Ninja Shirt",
-    "en-US": "Ninja Shirt",
-    "es": "Jersey de ninja",
-    "fr": "Pull ninja",
-    "it": "Maglia ninja",
-    "ja": "しのびのふく"
-  },
+  "name": "Ninja Shirt",
   "category": "Tops",
   "games": {
     "nl": {

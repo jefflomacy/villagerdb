@@ -1,14 +1,6 @@
 {
   "id": "sailboat-model",
-  "name": {
-    "de": "Modellschiff",
-    "en-GB": "Sailboat Model",
-    "en-US": "Sailboat Model",
-    "es": "Minigaleón",
-    "fr": "Maquette de bateau",
-    "it": "Modellino di veliero",
-    "ja": "はんせんもけい"
-  },
+  "name": "Sailboat Model",
   "category": "Furniture",
   "games": {
     "nl": {

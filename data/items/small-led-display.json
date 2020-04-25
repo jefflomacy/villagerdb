@@ -1,14 +1,6 @@
 {
   "id": "small-led-display",
-  "name": {
-    "de": "LED-Tafel",
-    "en-GB": "Small LED Display",
-    "en-US": "Small LED Display",
-    "es": "Panel LED pequeño",
-    "fr": "Mini-affichage LED",
-    "it": "Schermo LED piccolo",
-    "ja": "でんこうけいじばん"
-  },
+  "name": "Small Led Display",
   "category": "Furniture",
   "games": {
     "nl": {

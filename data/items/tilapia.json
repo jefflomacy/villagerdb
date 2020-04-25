@@ -1,8 +1,6 @@
 {
   "id": "tilapia",
-  "name": {
-    "en-US": "Tilapia"
-  },
+  "name": "Tilapia",
   "games": {
     "nh": {
       "orderable": false,

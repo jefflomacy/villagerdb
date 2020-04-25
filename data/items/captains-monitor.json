@@ -1,14 +1,6 @@
 {
   "id": "captains-monitor",
-  "name": {
-    "de": "Pilotenmonitor",
-    "en-GB": "Captain's Monitor",
-    "en-US": "Captain's Monitor",
-    "es": "Monitor del capitán",
-    "fr": "Moniteur capitaine",
-    "it": "Monitor del capitano",
-    "ja": "キャプテンのモニター"
-  },
+  "name": "Captain's Monitor",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "barrette",
-  "name": {
-    "en-US": "Barrette"
-  },
+  "name": "Barrette",
   "games": {
     "nh": {
       "sellPrice": {

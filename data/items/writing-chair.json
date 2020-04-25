@@ -1,14 +1,6 @@
 {
   "id": "writing-chair",
-  "name": {
-    "de": "Sekretärstuhl",
-    "en-GB": "Writing Chair",
-    "en-US": "Writing Chair",
-    "es": "Silla escritorio",
-    "fr": "Siège secrétaire",
-    "it": "Sedia scrittoio",
-    "ja": "べんきょうイス"
-  },
+  "name": "Writing Chair",
   "category": "Furniture",
   "games": {
     "nl": {

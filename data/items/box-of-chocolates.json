@@ -1,14 +1,6 @@
 {
   "id": "box-of-chocolates",
-  "name": {
-    "de": "Schokolade",
-    "en-GB": "Box Of Chocolates",
-    "en-US": "Box Of Chocolates",
-    "es": "Caja de bombones",
-    "fr": "Boîte de chocolats",
-    "it": "Scatola cioccolatini",
-    "ja": "おみやげチョコレート"
-  },
+  "name": "Box Of Chocolates",
   "category": "Furniture",
   "games": {
     "nl": {

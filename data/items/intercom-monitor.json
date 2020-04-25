@@ -1,8 +1,6 @@
 {
   "id": "intercom-monitor",
-  "name": {
-    "en-US": "Intercom Monitor"
-  },
+  "name": "Intercom Monitor",
   "games": {
     "nh": {
       "sellPrice": {

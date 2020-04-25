@@ -1,8 +1,6 @@
 {
   "id": "tropical-rug",
-  "name": {
-    "en-US": "Tropical Rug"
-  },
+  "name": "Tropical Rug",
   "games": {
     "nh": {
       "sellPrice": {

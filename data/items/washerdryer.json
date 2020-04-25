@@ -1,14 +1,6 @@
 {
   "id": "washerdryer",
-  "name": {
-    "de": "Wäschetrockner",
-    "en-GB": "Washer/Dryer",
-    "en-US": "Washer/Dryer",
-    "es": "Lavadora combi",
-    "fr": "Lave/sèche-linge",
-    "it": "Asciugatrice",
-    "ja": "にそうしきせんたくき"
-  },
+  "name": "Washer/dryer",
   "category": "Furniture",
   "games": {
     "nl": {

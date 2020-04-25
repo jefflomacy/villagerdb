@@ -1,8 +1,6 @@
 {
   "id": "headgear",
-  "name": {
-    "en-US": "Headgear"
-  },
+  "name": "Headgear",
   "games": {
     "nh": {
       "sellPrice": {

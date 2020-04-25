@@ -1,14 +1,6 @@
 {
   "id": "blue-pj-bottoms",
-  "name": {
-    "de": "Jungen-Pyjamahose",
-    "en-GB": "Blue Pj Bottoms",
-    "en-US": "Blue Pj Bottoms",
-    "es": "Pantalón pijama azul",
-    "fr": "Pantalon pyj. bleu",
-    "it": "Pantal. pigiama blu",
-    "ja": "あおパジャマズボン"
-  },
+  "name": "Blue Pj Bottoms",
   "category": "Bottoms",
   "games": {
     "nl": {

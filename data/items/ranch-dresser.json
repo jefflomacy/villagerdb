@@ -1,14 +1,6 @@
 {
   "id": "ranch-dresser",
-  "name": {
-    "de": "Western-Kommode",
-    "en-GB": "Ranch Dresser",
-    "en-US": "Ranch Dresser",
-    "es": "Cómoda rústica",
-    "fr": "Commode ranch",
-    "it": "Comò country",
-    "ja": "カントリーなタンス"
-  },
+  "name": "Ranch Dresser",
   "category": "Furniture",
   "games": {
     "nl": {

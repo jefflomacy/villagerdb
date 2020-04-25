@@ -1,8 +1,6 @@
 {
   "id": "opals-photo",
-  "name": {
-    "en-US": "Opal's Photo"
-  },
+  "name": "Opal's Photo",
   "games": {
     "nh": {
       "sellPrice": {

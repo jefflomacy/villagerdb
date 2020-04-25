@@ -1,8 +1,6 @@
 {
   "id": "iron-and-stone-fence",
-  "name": {
-    "en-US": "Iron-and-stone Fence"
-  },
+  "name": "Iron-and-stone Fence",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "saw-shark-model",
-  "name": {
-    "en-US": "Saw Shark Model"
-  },
+  "name": "Saw Shark Model",
   "games": {
     "nh": {
       "sellPrice": {

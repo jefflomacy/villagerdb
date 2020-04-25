@@ -1,14 +1,6 @@
 {
   "id": "mobile",
-  "name": {
-    "de": "Mobile",
-    "en-GB": "Mobile",
-    "en-US": "Mobile",
-    "es": "Móvil para cuna",
-    "fr": "Mobile",
-    "it": "Giostrina",
-    "ja": "モビール"
-  },
+  "name": "Mobile",
   "category": "Furniture",
   "games": {
     "nl": {

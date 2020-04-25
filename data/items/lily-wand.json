@@ -1,8 +1,6 @@
 {
   "id": "lily-wand",
-  "name": {
-    "en-US": "Lily Wand"
-  },
+  "name": "Lily Wand",
   "games": {
     "nh": {
       "orderable": false,

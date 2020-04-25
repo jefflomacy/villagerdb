@@ -1,14 +1,6 @@
 {
   "id": "minimalist-lamp",
-  "name": {
-    "de": "Minimallampe",
-    "en-GB": "Minimalist Lamp",
-    "en-US": "Minimalist Lamp",
-    "es": "Lámpara minimalista",
-    "fr": "Lampe minimaliste",
-    "it": "Lampada minimalista",
-    "ja": "シンプルなランプ"
-  },
+  "name": "Minimalist Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "armor-suit",
-  "name": {
-    "de": "Silberrüstungshemd",
-    "en-GB": "Armor Suit",
-    "en-US": "Armor Suit",
-    "es": "Coraza",
-    "fr": "Cuirasse de plates",
-    "it": "Armatura",
-    "ja": "てつのかっちゅう"
-  },
+  "name": "Armor Suit",
   "category": "Tops",
   "games": {
     "nl": {

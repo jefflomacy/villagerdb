@@ -1,14 +1,6 @@
 {
   "id": "harvest-sofa",
-  "name": {
-    "de": "Herbstsofa",
-    "en-GB": "Harvest Sofa",
-    "en-US": "Harvest Sofa",
-    "es": "Sofá pavo",
-    "fr": "Canapé dindon",
-    "it": "Sofà autunno",
-    "ja": "ハーベストソファ"
-  },
+  "name": "Harvest Sofa",
   "category": "Furniture",
   "games": {
     "nl": {

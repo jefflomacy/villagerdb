@@ -1,8 +1,6 @@
 {
   "id": "ironwood-cart",
-  "name": {
-    "en-US": "Ironwood Cart"
-  },
+  "name": "Ironwood Cart",
   "games": {
     "nh": {
       "sellPrice": {

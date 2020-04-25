@@ -1,14 +1,6 @@
 {
   "id": "yellow-buckled-shoes",
-  "name": {
-    "de": "Gelb-Schnallenschuh",
-    "en-GB": "Yellow Buckled Shoes",
-    "en-US": "Yellow Buckled Shoes",
-    "es": "Mercedita amarilla",
-    "fr": "Paire babies jaunes",
-    "it": "P. scarpe con fibbia",
-    "ja": "きいろいベルトシューズ"
-  },
+  "name": "Yellow Buckled Shoes",
   "category": "Shoes",
   "games": {
     "nl": {

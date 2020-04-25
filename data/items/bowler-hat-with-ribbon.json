@@ -1,8 +1,6 @@
 {
   "id": "bowler-hat-with-ribbon",
-  "name": {
-    "en-US": "Bowler Hat With Ribbon"
-  },
+  "name": "Bowler Hat With Ribbon",
   "games": {
     "nh": {
       "orderable": true,

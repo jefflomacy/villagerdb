@@ -1,8 +1,6 @@
 {
   "id": "vibrant-shorts",
-  "name": {
-    "en-US": "Vibrant Shorts"
-  },
+  "name": "Vibrant Shorts",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,14 +1,6 @@
 {
   "id": "modern-desk",
-  "name": {
-    "de": "Schachschreibtisch",
-    "en-GB": "Modern Desk",
-    "en-US": "Modern Desk",
-    "es": "Escritorio moderno",
-    "fr": "Bureau moderne",
-    "it": "Scrittoio moderno",
-    "ja": "ツートンデスク"
-  },
+  "name": "Modern Desk",
   "category": "Furniture",
   "games": {
     "nl": {

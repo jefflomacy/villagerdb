@@ -1,8 +1,6 @@
 {
   "id": "hi-tee",
-  "name": {
-    "en-US": "Hi Tee"
-  },
+  "name": "Hi Tee",
   "games": {
     "nh": {
       "orderable": true,

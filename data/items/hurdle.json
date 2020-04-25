@@ -1,14 +1,6 @@
 {
   "id": "hurdle",
-  "name": {
-    "de": "Hürde",
-    "en-GB": "Hurdle",
-    "en-US": "Hurdle",
-    "es": "Valla salto",
-    "fr": "Haie",
-    "it": "Ostacolo",
-    "ja": "ハードル"
-  },
+  "name": "Hurdle",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "black-formal-pants",
-  "name": {
-    "de": "Bürohose",
-    "en-GB": "Black Formal Pants",
-    "en-US": "Black Formal Pants",
-    "es": "Pantalón lino negro",
-    "fr": "Pantalon chic noir",
-    "it": "Pantal. formale nero",
-    "ja": "くろいフォーマルパンツ"
-  },
+  "name": "Black Formal Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

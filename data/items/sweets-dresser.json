@@ -1,14 +1,6 @@
 {
   "id": "sweets-dresser",
-  "name": {
-    "de": "Süßkommode",
-    "en-GB": "Sweets Dresser",
-    "en-US": "Sweets Dresser",
-    "es": "Cómoda chuches",
-    "fr": "Commode bonbons",
-    "it": "Comò dolci",
-    "ja": "おかしのタンス"
-  },
+  "name": "Sweets Dresser",
   "category": "Furniture",
   "games": {
     "nl": {

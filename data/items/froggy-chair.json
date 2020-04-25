@@ -1,14 +1,6 @@
 {
   "id": "froggy-chair",
-  "name": {
-    "de": "Froschstuhl",
-    "en-GB": "Froggy Chair",
-    "en-US": "Froggy Chair",
-    "es": "Silla ranita",
-    "fr": "Siège rainette",
-    "it": "Sedia rana",
-    "ja": "カエルのチェア"
-  },
+  "name": "Froggy Chair",
   "category": "Furniture",
   "games": {
     "nl": {

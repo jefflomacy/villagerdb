@@ -1,14 +1,6 @@
 {
   "id": "western-fence",
-  "name": {
-    "de": "Wildwest-Zaun",
-    "en-GB": "Western Fence",
-    "en-US": "Western Fence",
-    "es": "Valla",
-    "fr": "Barrière western",
-    "it": "Steccato west",
-    "ja": "うまつなぎぼう"
-  },
+  "name": "Western Fence",
   "category": "Furniture",
   "games": {
     "nl": {

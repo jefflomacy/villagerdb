@@ -1,14 +1,6 @@
 {
   "id": "blue-tie-dye-tank",
-  "name": {
-    "de": "Meertop",
-    "en-GB": "Blue Tie-Dye Tank",
-    "en-US": "Blue Tie-Dye Tank",
-    "es": "Top hippy azul",
-    "fr": "Débardeur batik bleu",
-    "it": "Canotta celeste",
-    "ja": "ブルーハワイなふくN"
-  },
+  "name": "Blue Tie-dye Tank",
   "category": "Tops",
   "games": {
     "nl": {

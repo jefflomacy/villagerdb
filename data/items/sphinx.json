@@ -1,14 +1,6 @@
 {
   "id": "sphinx",
-  "name": {
-    "de": "Sphinx",
-    "en-GB": "Sphinx",
-    "en-US": "Sphinx",
-    "es": "Esfinge",
-    "fr": "Sphinx",
-    "it": "Sfinge",
-    "ja": "スフィンクス"
-  },
+  "name": "Sphinx",
   "category": "Furniture",
   "games": {
     "nl": {

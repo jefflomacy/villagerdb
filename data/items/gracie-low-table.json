@@ -1,14 +1,6 @@
 {
   "id": "gracie-low-table",
-  "name": {
-    "de": "Graziatisch",
-    "en-GB": "Gracie Low Table",
-    "en-US": "Gracie Low Table",
-    "es": "Mesita Graciela",
-    "fr": "Table basse Carla",
-    "it": "Tavolino Griffa",
-    "ja": "グレースローテーブル"
-  },
+  "name": "Gracie Low Table",
   "category": "Furniture",
   "games": {
     "nl": {

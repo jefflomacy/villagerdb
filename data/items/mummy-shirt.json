@@ -1,14 +1,6 @@
 {
   "id": "mummy-shirt",
-  "name": {
-    "de": "Mumienpulli",
-    "en-GB": "Mummy Shirt",
-    "en-US": "Mummy Shirt",
-    "es": "Jersey de momia",
-    "fr": "Pull momie",
-    "it": "Maglia mummia",
-    "ja": "ほうたいのふく"
-  },
+  "name": "Mummy Shirt",
   "category": "Tops",
   "games": {
     "nl": {

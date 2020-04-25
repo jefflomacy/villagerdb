@@ -1,14 +1,6 @@
 {
   "id": "baseball-shirt",
-  "name": {
-    "de": "Baseballtrikot",
-    "en-GB": "Baseball Shirt",
-    "en-US": "Baseball Shirt",
-    "es": "Jersey béisbol",
-    "fr": "Pull baseball",
-    "it": "Maglia baseball",
-    "ja": "やきゅうのふく"
-  },
+  "name": "Baseball Shirt",
   "category": "Tops",
   "games": {
     "nl": {

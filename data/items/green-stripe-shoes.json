@@ -1,14 +1,6 @@
 {
   "id": "green-stripe-shoes",
-  "name": {
-    "de": "Streifenturnschuh",
-    "en-GB": "Green-Stripe Shoes",
-    "en-US": "Green-Stripe Shoes",
-    "es": "Zapato franjas",
-    "fr": "P. souliers rayés V",
-    "it": "P. scarpe verdi",
-    "ja": "ストライプのスニーカー"
-  },
+  "name": "Green-stripe Shoes",
   "category": "Shoes",
   "games": {
     "nl": {

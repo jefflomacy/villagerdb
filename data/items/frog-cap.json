@@ -1,14 +1,6 @@
 {
   "id": "frog-cap",
-  "name": {
-    "de": "Froschmütze",
-    "en-GB": "Frog Cap",
-    "en-US": "Frog Cap",
-    "es": "Gorro de rana",
-    "fr": "Cagoule grenouille",
-    "it": "Cappello rana",
-    "ja": "カエルのかぶりもの"
-  },
+  "name": "Frog Cap",
   "category": "Hats",
   "games": {
     "nl": {

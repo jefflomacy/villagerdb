@@ -1,14 +1,6 @@
 {
   "id": "classic-wardrobe",
-  "name": {
-    "de": "Klassikschrank",
-    "en-GB": "Classic Wardrobe",
-    "en-US": "Classic Wardrobe",
-    "es": "Armario clásico",
-    "fr": "Armoire rustique",
-    "it": "Armadio antico",
-    "ja": "シックなクロゼット"
-  },
+  "name": "Classic Wardrobe",
   "category": "Furniture",
   "games": {
     "nl": {

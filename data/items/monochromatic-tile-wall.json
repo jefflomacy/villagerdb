@@ -1,8 +1,6 @@
 {
   "id": "monochromatic-tile-wall",
-  "name": {
-    "en-US": "Monochromatic-tile Wall"
-  },
+  "name": "Monochromatic-tile Wall",
   "games": {
     "nh": {
       "sellPrice": {

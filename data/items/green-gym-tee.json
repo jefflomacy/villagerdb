@@ -1,14 +1,6 @@
 {
   "id": "green-gym-tee",
-  "name": {
-    "de": "Sportshirt",
-    "en-GB": "Green Gym Tee",
-    "en-US": "Green Gym Tee",
-    "es": "Camiseta sport verde",
-    "fr": "T-shirt sport vert",
-    "it": "Maglietta tennis",
-    "ja": "みどりのたいそうふく"
-  },
+  "name": "Green Gym Tee",
   "category": "Tops",
   "games": {
     "nl": {

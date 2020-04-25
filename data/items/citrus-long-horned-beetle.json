@@ -1,8 +1,6 @@
 {
   "id": "citrus-long-horned-beetle",
-  "name": {
-    "en-US": "Citrus Long-horned Beetle"
-  },
+  "name": "Citrus Long-horned Beetle",
   "games": {
     "nh": {
       "orderable": false,

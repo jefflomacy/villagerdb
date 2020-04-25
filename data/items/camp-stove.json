@@ -1,14 +1,6 @@
 {
   "id": "camp-stove",
-  "name": {
-    "de": "Campingofen",
-    "en-GB": "Camp Stove",
-    "en-US": "Camp Stove",
-    "es": "Hornillo acampada",
-    "fr": "Réchaud de camping",
-    "it": "Fornello campeggio",
-    "ja": "コッフェル"
-  },
+  "name": "Camp Stove",
   "category": "Furniture",
   "games": {
     "nl": {

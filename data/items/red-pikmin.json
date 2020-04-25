@@ -1,14 +1,6 @@
 {
   "id": "red-pikmin",
-  "name": {
-    "de": "Blatt-Pikmin",
-    "en-GB": "Red Pikmin",
-    "en-US": "Red Pikmin",
-    "es": "Pikmin hoja",
-    "fr": "Pikmin feuille",
-    "it": "Berr. Pikmin rosso",
-    "ja": "あかピクミン"
-  },
+  "name": "Red Pikmin",
   "category": "Hats",
   "games": {
     "nl": {

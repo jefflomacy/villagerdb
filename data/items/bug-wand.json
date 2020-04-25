@@ -1,8 +1,6 @@
 {
   "id": "bug-wand",
-  "name": {
-    "en-US": "Bug Wand"
-  },
+  "name": "Bug Wand",
   "games": {
     "nh": {
       "orderable": false,

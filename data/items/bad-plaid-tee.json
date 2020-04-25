@@ -1,14 +1,6 @@
 {
   "id": "bad-plaid-tee",
-  "name": {
-    "de": "Cool-Shirt",
-    "en-GB": "Bad Plaid Tee",
-    "en-US": "Bad Plaid Tee",
-    "es": "Camiseta cuadrados",
-    "fr": "T-shirt tartan mauve",
-    "it": "Maglietta porpora",
-    "ja": "ふかいタータンのふく"
-  },
+  "name": "Bad Plaid Tee",
   "category": "Tops",
   "games": {
     "nl": {

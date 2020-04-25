@@ -1,14 +1,6 @@
 {
   "id": "blue-plaid-shirt",
-  "name": {
-    "de": "Angora-Pulli",
-    "en-GB": "Blue Plaid Shirt",
-    "en-US": "Blue Plaid Shirt",
-    "es": "Jersey tartán azul",
-    "fr": "Pull nappe bleu",
-    "it": "Maglia inverno",
-    "ja": "ブルーチェックのふくL"
-  },
+  "name": "Blue Plaid Shirt",
   "category": "Tops",
   "games": {
     "nl": {

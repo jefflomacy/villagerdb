@@ -1,14 +1,6 @@
 {
   "id": "blue-falcon",
-  "name": {
-    "de": "Blue Falcon",
-    "en-GB": "Blue Falcon",
-    "en-US": "Blue Falcon",
-    "es": "Blue Falcon",
-    "fr": "Blue Falcon",
-    "it": "Blue Falcon",
-    "ja": "ブルーファルコン"
-  },
+  "name": "Blue Falcon",
   "category": "Furniture",
   "games": {
     "nl": {

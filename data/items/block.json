@@ -1,14 +1,6 @@
 {
   "id": "block",
-  "name": {
-    "de": "Block",
-    "en-GB": "Block",
-    "en-US": "Block",
-    "es": "Bloque",
-    "fr": "Bloc",
-    "it": "Blocco",
-    "ja": "レンガブロック"
-  },
+  "name": "Block",
   "category": "Furniture",
   "games": {
     "nl": {

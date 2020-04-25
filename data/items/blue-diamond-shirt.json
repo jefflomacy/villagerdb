@@ -1,14 +1,6 @@
 {
   "id": "blue-diamond-shirt",
-  "name": {
-    "de": "80er-Pulli",
-    "en-GB": "Blue Diamond Shirt",
-    "en-US": "Blue Diamond Shirt",
-    "es": "Jersey de noche",
-    "fr": "Pull jacquard",
-    "it": "Maglia nera rombi",
-    "ja": "ブルータイルなふくL"
-  },
+  "name": "Blue Diamond Shirt",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "cute-wall-mounted-clock",
-  "name": {
-    "en-US": "Cute Wall-mounted Clock"
-  },
+  "name": "Cute Wall-mounted Clock",
   "games": {
     "nh": {
       "orderable": true,

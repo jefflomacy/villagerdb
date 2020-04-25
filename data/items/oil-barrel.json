@@ -1,14 +1,6 @@
 {
   "id": "oil-barrel",
-  "name": {
-    "de": "Ölfass",
-    "en-GB": "Oil Barrel",
-    "en-US": "Oil Barrel",
-    "es": "Barril de petróleo",
-    "fr": "Baril d'huile",
-    "it": "Fusto di petrolio",
-    "ja": "ドラムかん"
-  },
+  "name": "Oil Barrel",
   "category": "Furniture",
   "games": {
     "nl": {

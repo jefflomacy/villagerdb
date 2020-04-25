@@ -1,14 +1,6 @@
 {
   "id": "wrap-shirt",
-  "name": {
-    "de": "Bänderkittel",
-    "en-GB": "Wrap Shirt",
-    "en-US": "Wrap Shirt",
-    "es": "Jersey bandoleras",
-    "fr": "Pull lancier",
-    "it": "Maglia a fasce",
-    "ja": "クロスたすきなふく"
-  },
+  "name": "Wrap Shirt",
   "category": "Tops",
   "games": {
     "nl": {

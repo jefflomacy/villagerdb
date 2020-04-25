@@ -1,8 +1,6 @@
 {
   "id": "bunny-day-bag",
-  "name": {
-    "en-US": "Bunny Day Bag"
-  },
+  "name": "Bunny Day Bag",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "outdoorsy-watering-can",
-  "name": {
-    "en-US": "Outdoorsy Watering Can"
-  },
+  "name": "Outdoorsy Watering Can",
   "games": {
     "nh": {
       "orderable": false,

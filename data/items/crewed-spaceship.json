@@ -1,8 +1,6 @@
 {
   "id": "crewed-spaceship",
-  "name": {
-    "en-US": "Crewed Spaceship"
-  },
+  "name": "Crewed Spaceship",
   "games": {
     "nh": {
       "sellPrice": {

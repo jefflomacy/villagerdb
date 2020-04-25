@@ -1,14 +1,6 @@
 {
   "id": "retro-fridge",
-  "name": {
-    "de": "Retro-Kühlschrank",
-    "en-GB": "Retro Fridge",
-    "en-US": "Retro Fridge",
-    "es": "Nevera retro",
-    "fr": "Réfrigérateur vert",
-    "it": "Frigo rétro",
-    "ja": "レトロなれいぞうこ"
-  },
+  "name": "Retro Fridge",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "antique-bed",
-  "name": {
-    "en-US": "Antique Bed"
-  },
+  "name": "Antique Bed",
   "games": {
     "nh": {
       "orderable": true,

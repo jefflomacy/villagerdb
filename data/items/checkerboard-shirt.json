@@ -1,14 +1,6 @@
 {
   "id": "checkerboard-shirt",
-  "name": {
-    "de": "Spielpulli",
-    "en-GB": "Checkerboard Shirt",
-    "en-US": "Checkerboard Shirt",
-    "es": "Jersey rojinegro",
-    "fr": "Pull rouge & noir",
-    "it": "Maglia a scacchi",
-    "ja": "ギャンブラーなふくL"
-  },
+  "name": "Checkerboard Shirt",
   "category": "Tops",
   "games": {
     "nl": {

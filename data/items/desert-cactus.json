@@ -1,14 +1,6 @@
 {
   "id": "desert-cactus",
-  "name": {
-    "de": "Wüstenkaktus",
-    "en-GB": "Desert Cactus",
-    "en-US": "Desert Cactus",
-    "es": "Cactus del Oeste",
-    "fr": "Cactus cierge",
-    "it": "Cactus deserto",
-    "ja": "さばくのさぼてん"
-  },
+  "name": "Desert Cactus",
   "category": "Furniture",
   "games": {
     "nl": {

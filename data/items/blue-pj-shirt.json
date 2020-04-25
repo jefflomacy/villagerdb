@@ -1,14 +1,6 @@
 {
   "id": "blue-pj-shirt",
-  "name": {
-    "de": "Jungen-Pyjamajacke",
-    "en-GB": "Blue Pj Shirt",
-    "en-US": "Blue Pj Shirt",
-    "es": "Pijama azul",
-    "fr": "Haut pyjama bleu",
-    "it": "Maglia pigiama blu",
-    "ja": "あおパジャマ"
-  },
+  "name": "Blue Pj Shirt",
   "category": "Tops",
   "games": {
     "nl": {

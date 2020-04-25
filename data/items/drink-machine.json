@@ -1,8 +1,6 @@
 {
   "id": "drink-machine",
-  "name": {
-    "en-US": "Drink Machine"
-  },
+  "name": "Drink Machine",
   "category": "Furniture",
   "games": {
     "nl": {

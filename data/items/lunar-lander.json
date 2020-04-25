@@ -1,14 +1,6 @@
 {
   "id": "lunar-lander",
-  "name": {
-    "de": "Landefähre",
-    "en-GB": "Lunar Lander",
-    "en-US": "Lunar Lander",
-    "es": "Módulo lunar",
-    "fr": "Module lunaire",
-    "it": "Sonda lunare",
-    "ja": "ちゃくりくせん"
-  },
+  "name": "Lunar Lander",
   "category": "Furniture",
   "games": {
     "nl": {

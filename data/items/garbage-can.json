@@ -1,14 +1,6 @@
 {
   "id": "garbage-can",
-  "name": {
-    "de": "Mülltonne",
-    "en-GB": "Garbage Can",
-    "en-US": "Garbage Can",
-    "es": "Cubo de basura",
-    "fr": "Poubelle",
-    "it": "Bidone rifiuti",
-    "ja": "ブリキのペール"
-  },
+  "name": "Garbage Can",
   "category": "Furniture",
   "games": {
     "nl": {

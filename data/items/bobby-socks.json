@@ -1,14 +1,6 @@
 {
   "id": "bobby-socks",
-  "name": {
-    "de": "Bündchensocke",
-    "en-GB": "Bobby Socks",
-    "en-US": "Bobby Socks",
-    "es": "Calcetín sencillo",
-    "fr": "Paire socq. simples",
-    "it": "P. calzini con trina",
-    "ja": "3つおりソックス"
-  },
+  "name": "Bobby Socks",
   "category": "Socks",
   "games": {
     "nl": {

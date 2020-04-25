@@ -1,14 +1,6 @@
 {
   "id": "classic-vanity",
-  "name": {
-    "de": "Klassikfrisiertisch",
-    "en-GB": "Classic Vanity",
-    "en-US": "Classic Vanity",
-    "es": "Tocador clásico",
-    "fr": "Coiffeuse rustique",
-    "it": "Toletta antica",
-    "ja": "シックなタンス"
-  },
+  "name": "Classic Vanity",
   "category": "Furniture",
   "games": {
     "nl": {

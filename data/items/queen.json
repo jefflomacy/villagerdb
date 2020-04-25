@@ -1,14 +1,6 @@
 {
   "id": "queen",
-  "name": {
-    "de": "Dame",
-    "en-GB": "Queen",
-    "en-US": "Queen",
-    "es": "Reina",
-    "fr": "Reine",
-    "it": "Regina",
-    "ja": "クイーンのこま"
-  },
+  "name": "Queen",
   "category": "Furniture",
   "games": {
     "nl": {

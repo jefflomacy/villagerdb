@@ -1,14 +1,6 @@
 {
   "id": "jagged-tank",
-  "name": {
-    "de": "Zackentop",
-    "en-GB": "Jagged Tank",
-    "en-US": "Jagged Tank",
-    "es": "Top picos",
-    "fr": "Débardeur dentelé",
-    "it": "Canotta sfumata",
-    "ja": "シャギーなふくN"
-  },
+  "name": "Jagged Tank",
   "category": "Tops",
   "games": {
     "nl": {

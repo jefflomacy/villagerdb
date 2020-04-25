@@ -1,8 +1,6 @@
 {
   "id": "slip-on-loafers",
-  "name": {
-    "en-US": "Slip-on Loafers"
-  },
+  "name": "Slip-on Loafers",
   "games": {
     "nh": {
       "orderable": true,

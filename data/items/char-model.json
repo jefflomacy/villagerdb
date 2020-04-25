@@ -1,8 +1,6 @@
 {
   "id": "char-model",
-  "name": {
-    "en-US": "Char Model"
-  },
+  "name": "Char Model",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,8 +1,6 @@
 {
   "id": "simple-blue-flooring",
-  "name": {
-    "en-US": "Simple Blue Flooring"
-  },
+  "name": "Simple Blue Flooring",
   "games": {
     "nh": {
       "sellPrice": {

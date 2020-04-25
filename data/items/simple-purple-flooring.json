@@ -1,8 +1,6 @@
 {
   "id": "simple-purple-flooring",
-  "name": {
-    "en-US": "Simple Purple Flooring"
-  },
+  "name": "Simple Purple Flooring",
   "games": {
     "nh": {
       "orderable": true,

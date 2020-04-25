@@ -1,14 +1,6 @@
 {
   "id": "red-tie-dye-tee",
-  "name": {
-    "de": "Naturshirt",
-    "en-GB": "Red Tie-Dye Tee",
-    "en-US": "Red Tie-Dye Tee",
-    "es": "Camiseta hippy roja",
-    "fr": "T-shirt batik rouge",
-    "it": "Maglietta fucsia",
-    "ja": "いちごソーダなふく"
-  },
+  "name": "Red Tie-dye Tee",
   "category": "Tops",
   "games": {
     "nl": {

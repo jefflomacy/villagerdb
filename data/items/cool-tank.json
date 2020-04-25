@@ -1,14 +1,6 @@
 {
   "id": "cool-tank",
-  "name": {
-    "de": "Flammentop",
-    "en-GB": "Cool Tank",
-    "en-US": "Cool Tank",
-    "es": "Top guay",
-    "fr": "Débardeur sympa",
-    "it": "Canot. art nouveau",
-    "ja": "ヌーボーなふく"
-  },
+  "name": "Cool Tank",
   "category": "Tops",
   "games": {
     "nl": {

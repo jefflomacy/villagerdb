@@ -1,14 +1,6 @@
 {
   "id": "cow-tank",
-  "name": {
-    "de": "Kuhtop",
-    "en-GB": "Cow Tank",
-    "en-US": "Cow Tank",
-    "es": "Top vaca",
-    "fr": "Débardeur vache",
-    "it": "Canotta mucca",
-    "ja": "ホルスタインなふくN"
-  },
+  "name": "Cow Tank",
   "category": "Tops",
   "games": {
     "nl": {

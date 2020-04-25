@@ -1,8 +1,6 @@
 {
   "id": "frog-umbrella",
-  "name": {
-    "en-US": "Frog Umbrella"
-  },
+  "name": "Frog Umbrella",
   "games": {
     "nh": {
       "sellPrice": {

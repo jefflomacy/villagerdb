@@ -1,8 +1,6 @@
 {
   "id": "pet-food-bowl",
-  "name": {
-    "en-US": "Pet Food Bowl"
-  },
+  "name": "Pet Food Bowl",
   "games": {
     "nh": {
       "orderable": true,

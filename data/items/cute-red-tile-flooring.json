@@ -1,8 +1,6 @@
 {
   "id": "cute-red-tile-flooring",
-  "name": {
-    "en-US": "Cute Red-tile Flooring"
-  },
+  "name": "Cute Red-tile Flooring",
   "games": {
     "nh": {
       "orderable": true,

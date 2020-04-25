@@ -1,8 +1,6 @@
 {
   "id": "hello-kitty-clock",
-  "name": {
-    "en-US": "Hello Kitty Clock"
-  },
+  "name": "Hello Kitty Clock",
   "category": "Furniture",
   "games": {
     "nl": {

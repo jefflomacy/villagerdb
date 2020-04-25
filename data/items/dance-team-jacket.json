@@ -1,8 +1,6 @@
 {
   "id": "dance-team-jacket",
-  "name": {
-    "en-US": "Dance-team Jacket"
-  },
+  "name": "Dance-team Jacket",
   "games": {
     "nh": {
       "sellPrice": {

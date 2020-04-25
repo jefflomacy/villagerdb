@@ -1,8 +1,6 @@
 {
   "id": "honeycomb-flooring",
-  "name": {
-    "en-US": "Honeycomb Flooring"
-  },
+  "name": "Honeycomb Flooring",
   "games": {
     "nh": {
       "customizable": false,

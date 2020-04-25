@@ -1,8 +1,6 @@
 {
   "id": "ribbots-poster",
-  "name": {
-    "en-US": "Ribbot's Poster"
-  },
+  "name": "Ribbot's Poster",
   "games": {
     "nh": {
       "sources": [

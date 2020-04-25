@@ -1,8 +1,6 @@
 {
   "id": "monochromatic-dotted-wall",
-  "name": {
-    "en-US": "Monochromatic Dotted Wall"
-  },
+  "name": "Monochromatic Dotted Wall",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,8 +1,6 @@
 {
   "id": "cicada-shell-model",
-  "name": {
-    "en-US": "Cicada Shell Model"
-  },
+  "name": "Cicada Shell Model",
   "games": {
     "nh": {
       "sellPrice": {

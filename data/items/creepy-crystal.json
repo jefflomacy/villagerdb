@@ -1,14 +1,6 @@
 {
   "id": "creepy-crystal",
-  "name": {
-    "de": "Gruselkristall",
-    "en-GB": "Creepy Crystal",
-    "en-US": "Creepy Crystal",
-    "es": "Bola pavorosa",
-    "fr": "Boule lugubre",
-    "it": "Sfera horror",
-    "ja": "ふきつなすいしょう"
-  },
+  "name": "Creepy Crystal",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "swell-tee",
-  "name": {
-    "de": "70er-Shirt",
-    "en-GB": "Swell Tee",
-    "en-US": "Swell Tee",
-    "es": "Camiseta de tarde",
-    "fr": "T-shirt chouette",
-    "it": "Maglietta arlecchino",
-    "ja": "ブラウンタイルなふく"
-  },
+  "name": "Swell Tee",
   "category": "Tops",
   "games": {
     "nl": {

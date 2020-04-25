@@ -1,8 +1,6 @@
 {
   "id": "club-shirt",
-  "name": {
-    "en-US": "Club Shirt"
-  },
+  "name": "Club Shirt",
   "category": "Tops",
   "games": {
     "ac": {

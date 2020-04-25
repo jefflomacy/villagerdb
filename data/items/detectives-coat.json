@@ -1,8 +1,6 @@
 {
   "id": "detectives-coat",
-  "name": {
-    "en-US": "Detective's Coat"
-  },
+  "name": "Detective's Coat",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,8 +1,6 @@
 {
   "id": "heart-doorplate",
-  "name": {
-    "en-US": "Heart Doorplate"
-  },
+  "name": "Heart Doorplate",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,14 +1,6 @@
 {
   "id": "gorgeous-bed",
-  "name": {
-    "de": "Luxusbett",
-    "en-GB": "Gorgeous Bed",
-    "en-US": "Gorgeous Bed",
-    "es": "Cama palacio",
-    "fr": "Lit somptueux",
-    "it": "Letto divino",
-    "ja": "ゴージャスベッド"
-  },
+  "name": "Gorgeous Bed",
   "category": "Furniture",
   "games": {
     "nl": {

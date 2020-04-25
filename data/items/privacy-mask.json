@@ -1,8 +1,6 @@
 {
   "id": "privacy-mask",
-  "name": {
-    "en-US": "Privacy Mask"
-  },
+  "name": "Privacy Mask",
   "games": {
     "nh": {
       "orderable": true,

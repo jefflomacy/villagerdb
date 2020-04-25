@@ -1,8 +1,6 @@
 {
   "id": "kitty-litter-box",
-  "name": {
-    "en-US": "Kitty Litter Box"
-  },
+  "name": "Kitty Litter Box",
   "games": {
     "nh": {
       "sellPrice": {

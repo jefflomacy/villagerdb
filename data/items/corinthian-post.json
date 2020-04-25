@@ -1,14 +1,6 @@
 {
   "id": "corinthian-post",
-  "name": {
-    "de": "Korinthersäule",
-    "en-GB": "Corinthian Post",
-    "en-US": "Corinthian Post",
-    "es": "Columna corintia",
-    "fr": "Colonne Corinthe",
-    "it": "Colonna corinzia",
-    "ja": "コリントのはしら"
-  },
+  "name": "Corinthian Post",
   "category": "Furniture",
   "games": {
     "nl": {

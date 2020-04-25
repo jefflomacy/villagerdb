@@ -1,14 +1,6 @@
 {
   "id": "lady-palm",
-  "name": {
-    "de": "Steckenpalme",
-    "en-GB": "Lady Palm",
-    "en-US": "Lady Palm",
-    "es": "Palmera bambú",
-    "fr": "Palmier chanvre",
-    "it": "Palma nana",
-    "ja": "シュロチク"
-  },
+  "name": "Lady Palm",
   "category": "Furniture",
   "games": {
     "nl": {

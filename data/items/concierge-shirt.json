@@ -1,14 +1,6 @@
 {
   "id": "concierge-shirt",
-  "name": {
-    "de": "Portierjacke",
-    "en-GB": "Concierge Shirt",
-    "en-US": "Concierge Shirt",
-    "es": "Chaqueta conserje",
-    "fr": "Pull hôtel",
-    "it": "Giacca portiere",
-    "ja": "ホテルマンなふく"
-  },
+  "name": "Concierge Shirt",
   "category": "Tops",
   "games": {
     "nl": {

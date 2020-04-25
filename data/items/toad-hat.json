@@ -1,14 +1,6 @@
 {
   "id": "toad-hat",
-  "name": {
-    "de": "Toad-Mütze",
-    "en-GB": "Toad Hat",
-    "en-US": "Toad Hat",
-    "es": "Gorro de Toad",
-    "fr": "Chapeau Toad",
-    "it": "Cappello da Toad",
-    "ja": "キノピオのぼうし"
-  },
+  "name": "Toad Hat",
   "category": "Hats",
   "games": {
     "nl": {

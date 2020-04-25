@@ -1,8 +1,6 @@
 {
   "id": "winnies-poster",
-  "name": {
-    "en-US": "Winnie's Poster"
-  },
+  "name": "Winnie's Poster",
   "games": {
     "nh": {
       "sellPrice": {

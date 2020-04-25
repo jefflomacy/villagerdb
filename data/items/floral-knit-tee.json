@@ -1,14 +1,6 @@
 {
   "id": "floral-knit-tee",
-  "name": {
-    "de": "Primelshirt",
-    "en-GB": "Floral Knit Tee",
-    "en-US": "Floral Knit Tee",
-    "es": "Camiseta iris",
-    "fr": "T-shirt floral",
-    "it": "Maglietta fioroni",
-    "ja": "しろいはなのシャツ"
-  },
+  "name": "Floral Knit Tee",
   "category": "Tops",
   "games": {
     "nl": {

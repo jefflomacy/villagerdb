@@ -1,8 +1,6 @@
 {
   "id": "genjis-poster",
-  "name": {
-    "en-US": "Genji's Poster"
-  },
+  "name": "Genji's Poster",
   "games": {
     "nh": {
       "sources": [

@@ -1,8 +1,6 @@
 {
   "id": "arcade-combat-game",
-  "name": {
-    "en-US": "Arcade Combat Game"
-  },
+  "name": "Arcade Combat Game",
   "games": {
     "nh": {
       "sellPrice": {

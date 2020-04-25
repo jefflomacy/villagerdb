@@ -1,8 +1,6 @@
 {
   "id": "stripe-flooring",
-  "name": {
-    "en-US": "Stripe Flooring"
-  },
+  "name": "Stripe Flooring",
   "games": {
     "nh": {
       "orderable": true,

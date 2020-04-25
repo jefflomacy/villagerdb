@@ -1,14 +1,6 @@
 {
   "id": "mush-stool",
-  "name": {
-    "de": "Pilzhocker",
-    "en-GB": "Mush Stool",
-    "en-US": "Mush Stool",
-    "es": "Taburete hongo",
-    "fr": "Siège champi",
-    "it": "Sgabello fungo",
-    "ja": "さるのこしかけ"
-  },
+  "name": "Mush Stool",
   "category": "Furniture",
   "games": {
     "nl": {

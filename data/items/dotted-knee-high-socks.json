@@ -1,8 +1,6 @@
 {
   "id": "dotted-knee-high-socks",
-  "name": {
-    "en-US": "Dotted Knee-high Socks"
-  },
+  "name": "Dotted Knee-high Socks",
   "games": {
     "nh": {
       "orderable": true,

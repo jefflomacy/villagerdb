@@ -1,8 +1,6 @@
 {
   "id": "pink-paint-flooring",
-  "name": {
-    "en-US": "Pink-paint Flooring"
-  },
+  "name": "Pink-paint Flooring",
   "games": {
     "nh": {
       "orderable": true,

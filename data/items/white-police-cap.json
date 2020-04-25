@@ -1,14 +1,6 @@
 {
   "id": "white-police-cap",
-  "name": {
-    "de": "Polizeimütze (weiß)",
-    "en-GB": "White Police Cap",
-    "en-US": "White Police Cap",
-    "es": "Gorra policía blanca",
-    "fr": "Casquette police B",
-    "it": "Capp. polizia bianco",
-    "ja": "しろいけいかんぼう"
-  },
+  "name": "White Police Cap",
   "category": "Hats",
   "games": {
     "nl": {

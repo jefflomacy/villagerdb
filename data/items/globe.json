@@ -1,14 +1,6 @@
 {
   "id": "globe",
-  "name": {
-    "de": "Globus",
-    "en-GB": "Globe",
-    "en-US": "Globe",
-    "es": "Globo terráqueo",
-    "fr": "Globe terrestre",
-    "it": "Mappamondo",
-    "ja": "ちきゅうぎ"
-  },
+  "name": "Globe",
   "category": "Furniture",
   "games": {
     "nl": {

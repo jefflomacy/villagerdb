@@ -1,14 +1,6 @@
 {
   "id": "sprout-table",
-  "name": {
-    "de": "Keimlingtisch",
-    "en-GB": "Sprout Table",
-    "en-US": "Sprout Table",
-    "es": "Mesa brote",
-    "fr": "Table germe",
-    "it": "Tavolino germoglio",
-    "ja": "ふたばテーブル"
-  },
+  "name": "Sprout Table",
   "category": "Furniture",
   "games": {
     "nl": {

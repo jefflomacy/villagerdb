@@ -1,14 +1,6 @@
 {
   "id": "croton",
-  "name": {
-    "de": "Wunderstrauch",
-    "en-GB": "Croton",
-    "en-US": "Croton",
-    "es": "Crotón",
-    "fr": "Croton",
-    "it": "Croton",
-    "ja": "クロトン"
-  },
+  "name": "Croton",
   "category": "Furniture",
   "games": {
     "nl": {

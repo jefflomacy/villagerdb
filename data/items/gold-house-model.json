@@ -1,14 +1,6 @@
 {
   "id": "gold-house-model",
-  "name": {
-    "de": "Gold-Hausmodell",
-    "en-GB": "Gold House Model",
-    "en-US": "Gold House Model",
-    "es": "Minicasa de oro",
-    "fr": "Modèle maison or",
-    "it": "Modellino casa d'oro",
-    "ja": "きんのおうちのもけい"
-  },
+  "name": "Gold House Model",
   "category": "Furniture",
   "games": {
     "nl": {

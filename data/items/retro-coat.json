@@ -1,8 +1,6 @@
 {
   "id": "retro-coat",
-  "name": {
-    "en-US": "Retro Coat"
-  },
+  "name": "Retro Coat",
   "games": {
     "nh": {
       "sellPrice": {

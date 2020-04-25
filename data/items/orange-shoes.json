@@ -1,14 +1,6 @@
 {
   "id": "orange-shoes",
-  "name": {
-    "de": "Orangeturnschuh",
-    "en-GB": "Orange Shoes",
-    "en-US": "Orange Shoes",
-    "es": "Zapato naranja",
-    "fr": "Paire tennis orange",
-    "it": "P. scarpe arancioni",
-    "ja": "オレンジのスニーカー"
-  },
+  "name": "Orange Shoes",
   "category": "Shoes",
   "games": {
     "nl": {

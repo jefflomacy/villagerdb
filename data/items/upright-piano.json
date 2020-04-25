@@ -1,14 +1,6 @@
 {
   "id": "upright-piano",
-  "name": {
-    "de": "Klavier",
-    "en-GB": "Upright Piano",
-    "en-US": "Upright Piano",
-    "es": "Piano de pared",
-    "fr": "Piano droit",
-    "it": "Piano verticale",
-    "ja": "アップライトピアノ"
-  },
+  "name": "Upright Piano",
   "category": "Furniture",
   "games": {
     "nl": {

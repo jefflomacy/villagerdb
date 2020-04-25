@@ -1,8 +1,6 @@
 {
   "id": "gold-armor",
-  "name": {
-    "en-US": "Gold Armor"
-  },
+  "name": "Gold Armor",
   "games": {
     "nh": {
       "orderable": false,

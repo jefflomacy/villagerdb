@@ -1,14 +1,6 @@
 {
   "id": "tropical-tee",
-  "name": {
-    "de": "Tropik-Shirt",
-    "en-GB": "Tropical Tee",
-    "en-US": "Tropical Tee",
-    "es": "Camiseta tropical",
-    "fr": "T-shirt tropique",
-    "it": "Maglietta tropicale",
-    "ja": "ポリネシアンなふく"
-  },
+  "name": "Tropical Tee",
   "category": "Tops",
   "games": {
     "nl": {

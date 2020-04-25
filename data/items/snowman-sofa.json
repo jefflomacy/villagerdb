@@ -1,14 +1,6 @@
 {
   "id": "snowman-sofa",
-  "name": {
-    "de": "Schneemannsofa",
-    "en-GB": "Snowman Sofa",
-    "en-US": "Snowman Sofa",
-    "es": "Sofá nieve",
-    "fr": "Canapé Yétiti",
-    "it": "Sofà neve",
-    "ja": "ゆきだるまソファ"
-  },
+  "name": "Snowman Sofa",
   "category": "Furniture",
   "games": {
     "nl": {

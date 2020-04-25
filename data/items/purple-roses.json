@@ -1,8 +1,6 @@
 {
   "id": "purple-roses",
-  "name": {
-    "en-US": "Purple Roses"
-  },
+  "name": "Purple Roses",
   "games": {
     "nh": {
       "orderable": false,

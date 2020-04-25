@@ -1,8 +1,6 @@
 {
   "id": "bonjour-tee",
-  "name": {
-    "en-US": "Bonjour Tee"
-  },
+  "name": "Bonjour Tee",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "volleyball-net",
-  "name": {
-    "de": "Volleyballnetz",
-    "en-GB": "Volleyball Net",
-    "en-US": "Volleyball Net",
-    "es": "Red de voleibol",
-    "fr": "Filet de volleyball",
-    "it": "Rete da pallavolo",
-    "ja": "バレーのネット"
-  },
+  "name": "Volleyball Net",
   "category": "Furniture",
   "games": {
     "nl": {

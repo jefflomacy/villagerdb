@@ -1,8 +1,6 @@
 {
   "id": "golden-casket",
-  "name": {
-    "en-US": "Golden Casket"
-  },
+  "name": "Golden Casket",
   "games": {
     "nh": {
       "sellPrice": {

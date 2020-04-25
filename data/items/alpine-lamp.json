@@ -1,14 +1,6 @@
 {
   "id": "alpine-lamp",
-  "name": {
-    "de": "Nordlampe",
-    "en-GB": "Alpine Lamp",
-    "en-US": "Alpine Lamp",
-    "es": "Lámpara nórdica",
-    "fr": "Lampe nordique",
-    "it": "Lampada nordica",
-    "ja": "スカンジナビアなランプ"
-  },
+  "name": "Alpine Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "black-bass-model",
-  "name": {
-    "en-US": "Black Bass Model"
-  },
+  "name": "Black Bass Model",
   "games": {
     "nh": {
       "sellPrice": {

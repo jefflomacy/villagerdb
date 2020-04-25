@@ -1,14 +1,6 @@
 {
   "id": "space-suit",
-  "name": {
-    "de": "Astronautenjacke",
-    "en-GB": "Space Suit",
-    "en-US": "Space Suit",
-    "es": "Jersey espacial",
-    "fr": "Pull spatial",
-    "it": "Maglia spaziale",
-    "ja": "うちゅうふく"
-  },
+  "name": "Space Suit",
   "category": "Dresses",
   "games": {
     "nl": {

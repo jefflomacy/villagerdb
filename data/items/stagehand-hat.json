@@ -1,14 +1,6 @@
 {
   "id": "stagehand-hat",
-  "name": {
-    "de": "Kabuki-Hut",
-    "en-GB": "Stagehand Hat",
-    "en-US": "Stagehand Hat",
-    "es": "Gorro negro con velo",
-    "fr": "Chapeau machiniste",
-    "it": "Cappuccio garza nera",
-    "ja": "くろこ"
-  },
+  "name": "Stagehand Hat",
   "category": "Hats",
   "games": {
     "nl": {

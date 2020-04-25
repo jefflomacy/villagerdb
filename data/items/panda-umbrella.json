@@ -1,8 +1,6 @@
 {
   "id": "panda-umbrella",
-  "name": {
-    "en-US": "Panda Umbrella"
-  },
+  "name": "Panda Umbrella",
   "games": {
     "nh": {
       "sellPrice": {

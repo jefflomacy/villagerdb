@@ -1,14 +1,6 @@
 {
   "id": "tulip-hat",
-  "name": {
-    "de": "Tulpenhut",
-    "en-GB": "Tulip Hat",
-    "en-US": "Tulip Hat",
-    "es": "Gorro tulipán",
-    "fr": "Chapeau tulipe",
-    "it": "Cappello tulipano",
-    "ja": "チューリップハット"
-  },
+  "name": "Tulip Hat",
   "category": "Hats",
   "games": {
     "nl": {

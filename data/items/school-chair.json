@@ -1,14 +1,6 @@
 {
   "id": "school-chair",
-  "name": {
-    "de": "Schulstuhl",
-    "en-GB": "School Chair",
-    "en-US": "School Chair",
-    "es": "Silla escolar",
-    "fr": "Chaise d'écolier",
-    "it": "Sedia scuola",
-    "ja": "がっこうのイス"
-  },
+  "name": "School Chair",
   "category": "Furniture",
   "games": {
     "nl": {

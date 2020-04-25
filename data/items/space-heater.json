@@ -1,14 +1,6 @@
 {
   "id": "space-heater",
-  "name": {
-    "de": "Heizgerät",
-    "en-GB": "Space Heater",
-    "en-US": "Space Heater",
-    "es": "Calefactor",
-    "fr": "Chauffage",
-    "it": "Stufetta bianca",
-    "ja": "ストーブ"
-  },
+  "name": "Space Heater",
   "category": "Furniture",
   "games": {
     "nl": {

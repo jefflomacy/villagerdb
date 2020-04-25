@@ -1,8 +1,6 @@
 {
   "id": "artsy-parquet-flooring",
-  "name": {
-    "en-US": "Artsy Parquet Flooring"
-  },
+  "name": "Artsy Parquet Flooring",
   "games": {
     "nh": {
       "orderable": true,

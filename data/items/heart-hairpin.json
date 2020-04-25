@@ -1,14 +1,6 @@
 {
   "id": "heart-hairpin",
-  "name": {
-    "de": "Herzhaarnadel",
-    "en-GB": "Heart Hairpin",
-    "en-US": "Heart Hairpin",
-    "es": "Clip corazón",
-    "fr": "épingle c\\u0153ur",
-    "it": "Molletta cuore",
-    "ja": "ハートのかみかざり"
-  },
+  "name": "Heart Hairpin",
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "lcd-tv-50-in",
-  "name": {
-    "en-US": "Lcd Tv (50 In.)"
-  },
+  "name": "Lcd Tv (50 In.)",
   "games": {
     "nh": {
       "orderable": true,

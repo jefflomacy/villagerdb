@@ -1,14 +1,6 @@
 {
   "id": "snowman-table",
-  "name": {
-    "de": "Schneemanntisch",
-    "en-GB": "Snowman Table",
-    "en-US": "Snowman Table",
-    "es": "Mesa nieve",
-    "fr": "Table Yétiti",
-    "it": "Tavolo neve",
-    "ja": "ゆきだるまテーブル"
-  },
+  "name": "Snowman Table",
   "category": "Furniture",
   "games": {
     "nl": {

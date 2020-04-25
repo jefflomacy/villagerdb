@@ -1,8 +1,6 @@
 {
   "id": "zells-poster",
-  "name": {
-    "en-US": "Zell's Poster"
-  },
+  "name": "Zell's Poster",
   "games": {
     "nh": {
       "sources": [

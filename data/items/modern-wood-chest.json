@@ -1,14 +1,6 @@
 {
   "id": "modern-wood-chest",
-  "name": {
-    "de": "Buntholzkommode",
-    "en-GB": "Modern Wood Chest",
-    "en-US": "Modern Wood Chest",
-    "es": "Cómoda listones",
-    "fr": "Commo. bois moderne",
-    "it": "Comò legno",
-    "ja": "ミックスウッドのタンス"
-  },
+  "name": "Modern Wood Chest",
   "category": "Furniture",
   "games": {
     "nl": {

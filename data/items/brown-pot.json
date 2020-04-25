@@ -1,14 +1,6 @@
 {
   "id": "brown-pot",
-  "name": {
-    "de": "Brauntopf",
-    "en-GB": "Brown Pot",
-    "en-US": "Brown Pot",
-    "es": "Olla marrón",
-    "fr": "Pot marron",
-    "it": "Vaso marrone",
-    "ja": "ちゃいろいかめ"
-  },
+  "name": "Brown Pot",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "skull-shirt",
-  "name": {
-    "de": "Schädelpulli",
-    "en-GB": "Skull Shirt",
-    "en-US": "Skull Shirt",
-    "es": "Jersey pirata",
-    "fr": "Pull crâne",
-    "it": "Maglia teschio",
-    "ja": "ドクロのふくL"
-  },
+  "name": "Skull Shirt",
   "category": "Tops",
   "games": {
     "nl": {

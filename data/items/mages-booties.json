@@ -1,8 +1,6 @@
 {
   "id": "mages-booties",
-  "name": {
-    "en-US": "Mage's Booties"
-  },
+  "name": "Mage's Booties",
   "games": {
     "nh": {
       "sellPrice": {

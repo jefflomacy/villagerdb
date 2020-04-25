@@ -1,14 +1,6 @@
 {
   "id": "folk-guitar",
-  "name": {
-    "de": "Folk-Gitarre",
-    "en-GB": "Folk Guitar",
-    "en-US": "Folk Guitar",
-    "es": "Guitarra folk",
-    "fr": "Guitare folk",
-    "it": "Chitarra folk",
-    "ja": "アコギターAS1"
-  },
+  "name": "Folk Guitar",
   "category": "Furniture",
   "games": {
     "nl": {

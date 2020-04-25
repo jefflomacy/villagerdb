@@ -1,8 +1,6 @@
 {
   "id": "fresh-cooler",
-  "name": {
-    "en-US": "Fresh Cooler"
-  },
+  "name": "Fresh Cooler",
   "games": {
     "nh": {
       "sources": [

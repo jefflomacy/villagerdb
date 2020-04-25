@@ -1,14 +1,6 @@
 {
   "id": "rugby-shirt",
-  "name": {
-    "de": "Rugby-Pulli",
-    "en-GB": "Rugby Shirt",
-    "en-US": "Rugby Shirt",
-    "es": "Jersey rugby",
-    "fr": "Pull rugby",
-    "it": "Maglia rugby",
-    "ja": "めだつボーダーのふくL"
-  },
+  "name": "Rugby Shirt",
   "category": "Tops",
   "games": {
     "nl": {

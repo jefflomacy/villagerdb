@@ -1,8 +1,6 @@
 {
   "id": "tankless-toilet",
-  "name": {
-    "en-US": "Tankless Toilet"
-  },
+  "name": "Tankless Toilet",
   "games": {
     "nh": {
       "orderable": true,

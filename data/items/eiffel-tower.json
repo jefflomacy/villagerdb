@@ -1,14 +1,6 @@
 {
   "id": "eiffel-tower",
-  "name": {
-    "de": "Eiffelturm",
-    "en-GB": "Eiffel Tower",
-    "en-US": "Eiffel Tower",
-    "es": "Torre Eiffel",
-    "fr": "Tour Eiffel",
-    "it": "Torre Eiffel",
-    "ja": "エッフェルとう"
-  },
+  "name": "Eiffel Tower",
   "category": "Furniture",
   "games": {
     "nl": {

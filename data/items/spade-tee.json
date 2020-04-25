@@ -1,14 +1,6 @@
 {
   "id": "spade-tee",
-  "name": {
-    "de": "Shirt \\u201EPik\\u201C",
-    "en-GB": "Spade Tee",
-    "en-US": "Spade Tee",
-    "es": "Camiseta pica",
-    "fr": "T-shirt pique",
-    "it": "Maglietta di picche",
-    "ja": "スペードのふく"
-  },
+  "name": "Spade Tee",
   "category": "Tops",
   "games": {
     "nl": {

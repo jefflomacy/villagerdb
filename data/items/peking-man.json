@@ -1,14 +1,6 @@
 {
   "id": "peking-man",
-  "name": {
-    "de": "Pekingmensch",
-    "en-GB": "Peking Man",
-    "en-US": "Peking Man",
-    "es": "Hombre de Pekín",
-    "fr": "Homme de Pékin",
-    "it": "Uomo di Pechino",
-    "ja": "ペキンげんじん"
-  },
+  "name": "Peking Man",
   "category": "Fossils",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "green-bar-tee",
-  "name": {
-    "de": "Apfelshirt",
-    "en-GB": "Green-Bar Tee",
-    "en-US": "Green-Bar Tee",
-    "es": "Camiseta toldo verde",
-    "fr": "T-shirt raies vert",
-    "it": "Magliet. bande verdi",
-    "ja": "みどりボーダーのふく"
-  },
+  "name": "Green-bar Tee",
   "category": "Tops",
   "games": {
     "nl": {

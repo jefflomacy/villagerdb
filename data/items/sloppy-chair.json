@@ -1,14 +1,6 @@
 {
   "id": "sloppy-chair",
-  "name": {
-    "de": "Schlamperstuhl",
-    "en-GB": "Sloppy Chair",
-    "en-US": "Sloppy Chair",
-    "es": "Silla desorden",
-    "fr": "Chaise négligée",
-    "it": "Sedia trasandata",
-    "ja": "だらしないイス"
-  },
+  "name": "Sloppy Chair",
   "category": "Furniture",
   "games": {
     "nl": {

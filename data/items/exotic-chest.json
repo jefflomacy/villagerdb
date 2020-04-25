@@ -1,14 +1,6 @@
 {
   "id": "exotic-chest",
-  "name": {
-    "de": "Orient-Truhe",
-    "en-GB": "Exotic Chest",
-    "en-US": "Exotic Chest",
-    "es": "Baúl exótico",
-    "fr": "Coffre teck",
-    "it": "Baule esotico",
-    "ja": "アジアなバンダヂ"
-  },
+  "name": "Exotic Chest",
   "category": "Furniture",
   "games": {
     "nl": {

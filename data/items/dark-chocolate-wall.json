@@ -1,8 +1,6 @@
 {
   "id": "dark-chocolate-wall",
-  "name": {
-    "en-US": "Dark-chocolate Wall"
-  },
+  "name": "Dark-chocolate Wall",
   "games": {
     "nh": {
       "orderable": false,

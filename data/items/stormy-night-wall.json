@@ -1,8 +1,6 @@
 {
   "id": "stormy-night-wall",
-  "name": {
-    "en-US": "Stormy-night Wall"
-  },
+  "name": "Stormy-night Wall",
   "games": {
     "nh": {
       "sellPrice": {

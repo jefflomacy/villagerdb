@@ -1,14 +1,6 @@
 {
   "id": "golden-closet",
-  "name": {
-    "de": "Goldschrank",
-    "en-GB": "Golden Closet",
-    "en-US": "Golden Closet",
-    "es": "Armario dorado",
-    "fr": "Armoire d'or",
-    "it": "Armadio d'oro",
-    "ja": "おうごんのクロゼット"
-  },
+  "name": "Golden Closet",
   "category": "Furniture",
   "games": {
     "nl": {

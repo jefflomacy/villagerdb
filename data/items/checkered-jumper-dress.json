@@ -1,8 +1,6 @@
 {
   "id": "checkered-jumper-dress",
-  "name": {
-    "en-US": "Checkered Jumper Dress"
-  },
+  "name": "Checkered Jumper Dress",
   "games": {
     "nh": {
       "orderable": true,

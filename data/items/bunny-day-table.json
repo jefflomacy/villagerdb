@@ -1,8 +1,6 @@
 {
   "id": "bunny-day-table",
-  "name": {
-    "en-US": "Bunny Day Table"
-  },
+  "name": "Bunny Day Table",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "camping-cot",
-  "name": {
-    "en-US": "Camping Cot"
-  },
+  "name": "Camping Cot",
   "games": {
     "nh": {
       "orderable": true,

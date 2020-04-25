@@ -1,8 +1,6 @@
 {
   "id": "cosmos-wand",
-  "name": {
-    "en-US": "Cosmos Wand"
-  },
+  "name": "Cosmos Wand",
   "games": {
     "nh": {
       "orderable": false,

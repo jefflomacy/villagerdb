@@ -1,14 +1,6 @@
 {
   "id": "zebra-tee",
-  "name": {
-    "de": "Zebrashirt",
-    "en-GB": "Zebra Tee",
-    "en-US": "Zebra Tee",
-    "es": "Camiseta cebra",
-    "fr": "T-shirt zèbre",
-    "it": "Maglietta zebra",
-    "ja": "ゼブラなふく"
-  },
+  "name": "Zebra Tee",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "detour-arrow",
-  "name": {
-    "de": "Umleitungsschild",
-    "en-GB": "Detour Arrow",
-    "en-US": "Detour Arrow",
-    "es": "Flecha desvío",
-    "fr": "Flèche détour",
-    "it": "Freccia deviazione",
-    "ja": "やじるしボード"
-  },
+  "name": "Detour Arrow",
   "category": "Furniture",
   "games": {
     "nl": {

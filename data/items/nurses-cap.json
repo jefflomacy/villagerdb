@@ -1,14 +1,6 @@
 {
   "id": "nurses-cap",
-  "name": {
-    "de": "Schwesternhaube",
-    "en-GB": "Nurse's Cap",
-    "en-US": "Nurse's Cap",
-    "es": "Cofia enfermera",
-    "fr": "Coiffe d'infirmière",
-    "it": "Cuffia da infermiera",
-    "ja": "ナースキャップ"
-  },
+  "name": "Nurse's Cap",
   "category": "Hats",
   "games": {
     "nl": {

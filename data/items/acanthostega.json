@@ -1,8 +1,6 @@
 {
   "id": "acanthostega",
-  "name": {
-    "en-US": "Acanthostega"
-  },
+  "name": "Acanthostega",
   "games": {
     "nh": {
       "orderable": false,

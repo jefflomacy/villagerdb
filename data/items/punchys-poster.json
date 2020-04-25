@@ -1,8 +1,6 @@
 {
   "id": "punchys-poster",
-  "name": {
-    "en-US": "Punchy's Poster"
-  },
+  "name": "Punchy's Poster",
   "games": {
     "nh": {
       "sources": [

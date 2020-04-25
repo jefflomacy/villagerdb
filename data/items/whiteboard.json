@@ -1,14 +1,6 @@
 {
   "id": "whiteboard",
-  "name": {
-    "de": "Whiteboard",
-    "en-GB": "Whiteboard",
-    "en-US": "Whiteboard",
-    "es": "Pizarra blanca",
-    "fr": "Tableau blanc",
-    "it": "Lavagna bianca",
-    "ja": "ホワイトボード"
-  },
+  "name": "Whiteboard",
   "category": "Furniture",
   "games": {
     "nl": {

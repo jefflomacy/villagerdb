@@ -1,8 +1,6 @@
 {
   "id": "labels-poster",
-  "name": {
-    "en-US": "Label's Poster"
-  },
+  "name": "Label's Poster",
   "games": {
     "nh": {
       "sources": [

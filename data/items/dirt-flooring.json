@@ -1,8 +1,6 @@
 {
   "id": "dirt-flooring",
-  "name": {
-    "en-US": "Dirt Flooring"
-  },
+  "name": "Dirt Flooring",
   "games": {
     "nh": {
       "orderable": false,

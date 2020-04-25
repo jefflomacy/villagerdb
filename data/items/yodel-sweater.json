@@ -1,8 +1,6 @@
 {
   "id": "yodel-sweater",
-  "name": {
-    "en-US": "Yodel Sweater"
-  },
+  "name": "Yodel Sweater",
   "games": {
     "nh": {
       "sellPrice": {

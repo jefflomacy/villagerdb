@@ -1,8 +1,6 @@
 {
   "id": "golden-flooring",
-  "name": {
-    "en-US": "Golden Flooring"
-  },
+  "name": "Golden Flooring",
   "games": {
     "nh": {
       "orderable": false,

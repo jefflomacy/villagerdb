@@ -1,8 +1,6 @@
 {
   "id": "bunny-day-wreath",
-  "name": {
-    "en-US": "Bunny Day Wreath"
-  },
+  "name": "Bunny Day Wreath",
   "games": {
     "nh": {
       "orderable": false,

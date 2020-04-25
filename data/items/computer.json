@@ -1,14 +1,6 @@
 {
   "id": "computer",
-  "name": {
-    "de": "Computer",
-    "en-GB": "Computer",
-    "en-US": "Computer",
-    "es": "Ordenador",
-    "fr": "Ordinateur",
-    "it": "Computer",
-    "ja": "パソコンとラック"
-  },
+  "name": "Computer",
   "category": "Furniture",
   "games": {
     "nl": {

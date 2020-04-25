@@ -1,14 +1,6 @@
 {
   "id": "djimbe-drum",
-  "name": {
-    "de": "Djembetrommel",
-    "en-GB": "Djimbe Drum",
-    "en-US": "Djimbe Drum",
-    "es": "Tambor djembé",
-    "fr": "Djembé",
-    "it": "Djembé",
-    "ja": "ジャンベ"
-  },
+  "name": "Djimbe Drum",
   "category": "Furniture",
   "games": {
     "nl": {

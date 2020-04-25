@@ -1,14 +1,6 @@
 {
   "id": "wheat-bundle",
-  "name": {
-    "de": "Weizenbündel",
-    "en-GB": "Wheat Bundle",
-    "en-US": "Wheat Bundle",
-    "es": "Haz de trigo",
-    "fr": "Botte de blé",
-    "it": "Fascina",
-    "ja": "ムギのたば"
-  },
+  "name": "Wheat Bundle",
   "category": "Furniture",
   "games": {
     "nl": {

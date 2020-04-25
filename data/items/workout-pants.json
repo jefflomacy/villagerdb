@@ -1,8 +1,6 @@
 {
   "id": "workout-pants",
-  "name": {
-    "en-US": "Workout Pants"
-  },
+  "name": "Workout Pants",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,8 +1,6 @@
 {
   "id": "fertilizer",
-  "name": {
-    "en-US": "Fertilizer"
-  },
+  "name": "Fertilizer",
   "category": "Usables",
   "games": {
     "nl": {

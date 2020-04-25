@@ -1,14 +1,6 @@
 {
   "id": "ice-shelf",
-  "name": {
-    "de": "Eisregal",
-    "en-GB": "Ice Shelf",
-    "en-US": "Ice Shelf",
-    "es": "Estantería hielo",
-    "fr": "étagère glace",
-    "it": "Scaffale ghiaccio",
-    "ja": "アイスなシェルフ"
-  },
+  "name": "Ice Shelf",
   "category": "Furniture",
   "games": {
     "nl": {

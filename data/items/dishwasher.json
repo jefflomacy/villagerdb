@@ -1,14 +1,6 @@
 {
   "id": "dishwasher",
-  "name": {
-    "de": "Geschirrspüler",
-    "en-GB": "Dishwasher",
-    "en-US": "Dishwasher",
-    "es": "Lavavajillas",
-    "fr": "Lave-vaisselle",
-    "it": "Lavastoviglie",
-    "ja": "しょっきあらいき"
-  },
+  "name": "Dishwasher",
   "category": "Furniture",
   "games": {
     "nl": {

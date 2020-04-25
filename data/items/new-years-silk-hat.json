@@ -1,8 +1,6 @@
 {
   "id": "new-years-silk-hat",
-  "name": {
-    "en-US": "New Year's Silk Hat"
-  },
+  "name": "New Year's Silk Hat",
   "games": {
     "nh": {
       "sellPrice": {

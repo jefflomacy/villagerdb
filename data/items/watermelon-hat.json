@@ -1,14 +1,6 @@
 {
   "id": "watermelon-hat",
-  "name": {
-    "de": "Melonenhut",
-    "en-GB": "Watermelon Hat",
-    "en-US": "Watermelon Hat",
-    "es": "Gorro sandía",
-    "fr": "Chapeau pastèque",
-    "it": "Cappello anguria",
-    "ja": "すいかのぼうし"
-  },
+  "name": "Watermelon Hat",
   "category": "Hats",
   "games": {
     "nl": {

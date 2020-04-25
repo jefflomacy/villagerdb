@@ -1,14 +1,6 @@
 {
   "id": "bunk-bed",
-  "name": {
-    "de": "Etagenbett",
-    "en-GB": "Bunk Bed",
-    "en-US": "Bunk Bed",
-    "es": "Litera",
-    "fr": "Lit superposé",
-    "it": "Letto a castello",
-    "ja": "にだんベッド"
-  },
+  "name": "Bunk Bed",
   "category": "Furniture",
   "games": {
     "nl": {

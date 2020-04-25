@@ -1,14 +1,6 @@
 {
   "id": "varia-suit-shoes",
-  "name": {
-    "de": "Varia-Schuh",
-    "en-GB": "Varia Suit Shoes",
-    "en-US": "Varia Suit Shoes",
-    "es": "Zapato climático",
-    "fr": "Paire bottes Varia",
-    "it": "P. scarpe termotuta",
-    "ja": "バリアスーツ・シューズ"
-  },
+  "name": "Varia Suit Shoes",
   "category": "Shoes",
   "games": {
     "nl": {

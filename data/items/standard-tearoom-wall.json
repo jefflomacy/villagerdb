@@ -1,8 +1,6 @@
 {
   "id": "standard-tearoom-wall",
-  "name": {
-    "en-US": "Standard Tearoom Wall"
-  },
+  "name": "Standard Tearoom Wall",
   "games": {
     "nh": {
       "orderable": true,

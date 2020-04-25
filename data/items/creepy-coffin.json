@@ -1,14 +1,6 @@
 {
   "id": "creepy-coffin",
-  "name": {
-    "de": "Gruselsarg",
-    "en-GB": "Creepy Coffin",
-    "en-US": "Creepy Coffin",
-    "es": "Ataúd pavoroso",
-    "fr": "Cercueil lugubre",
-    "it": "Bara horror",
-    "ja": "きょうふのかんおけ"
-  },
+  "name": "Creepy Coffin",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "snowman-chair",
-  "name": {
-    "de": "Schneemannstuhl",
-    "en-GB": "Snowman Chair",
-    "en-US": "Snowman Chair",
-    "es": "Silla nieve",
-    "fr": "Chaise Yétiti",
-    "it": "Sedia neve",
-    "ja": "ゆきだるまチェア"
-  },
+  "name": "Snowman Chair",
   "category": "Furniture",
   "games": {
     "nl": {

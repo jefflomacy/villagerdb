@@ -1,8 +1,6 @@
 {
   "id": "dojo-wall",
-  "name": {
-    "en-US": "Dojo Wall"
-  },
+  "name": "Dojo Wall",
   "games": {
     "nh": {
       "sellPrice": {

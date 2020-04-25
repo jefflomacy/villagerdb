@@ -1,8 +1,6 @@
 {
   "id": "glass-holder-with-candle",
-  "name": {
-    "en-US": "Glass Holder With Candle"
-  },
+  "name": "Glass Holder With Candle",
   "games": {
     "nh": {
       "orderable": true,

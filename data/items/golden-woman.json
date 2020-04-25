@@ -1,14 +1,6 @@
 {
   "id": "golden-woman",
-  "name": {
-    "de": "Goldfrau",
-    "en-GB": "Golden Woman",
-    "en-US": "Golden Woman",
-    "es": "Figura mujer dorada",
-    "fr": "Totem femme d'or",
-    "it": "Statua donna d'oro",
-    "ja": "おうごんのふじんぞう"
-  },
+  "name": "Golden Woman",
   "category": "Furniture",
   "games": {
     "nl": {

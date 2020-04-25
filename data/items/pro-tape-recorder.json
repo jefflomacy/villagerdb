@@ -1,8 +1,6 @@
 {
   "id": "pro-tape-recorder",
-  "name": {
-    "en-US": "Pro Tape Recorder"
-  },
+  "name": "Pro Tape Recorder",
   "games": {
     "nh": {
       "orderable": true,

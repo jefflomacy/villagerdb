@@ -1,14 +1,6 @@
 {
   "id": "golden-chair",
-  "name": {
-    "de": "Goldstuhl",
-    "en-GB": "Golden Chair",
-    "en-US": "Golden Chair",
-    "es": "Silla dorada",
-    "fr": "Chaise d'or",
-    "it": "Sedia d'oro",
-    "ja": "おうごんのイス"
-  },
+  "name": "Golden Chair",
   "category": "Furniture",
   "games": {
     "nl": {

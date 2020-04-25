@@ -1,8 +1,6 @@
 {
   "id": "emperor-butterfly-model",
-  "name": {
-    "en-US": "Emperor Butterfly Model"
-  },
+  "name": "Emperor Butterfly Model",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "iron-shelf",
-  "name": {
-    "en-US": "Iron Shelf"
-  },
+  "name": "Iron Shelf",
   "games": {
     "nh": {
       "sellPrice": {

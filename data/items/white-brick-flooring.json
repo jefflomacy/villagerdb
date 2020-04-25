@@ -1,8 +1,6 @@
 {
   "id": "white-brick-flooring",
-  "name": {
-    "en-US": "White-brick Flooring"
-  },
+  "name": "White-brick Flooring",
   "games": {
     "nh": {
       "sellPrice": {

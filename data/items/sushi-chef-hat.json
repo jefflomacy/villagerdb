@@ -1,8 +1,6 @@
 {
   "id": "sushi-chef-hat",
-  "name": {
-    "en-US": "Sushi Chef Hat"
-  },
+  "name": "Sushi Chef Hat",
   "games": {
     "nh": {
       "sellPrice": {

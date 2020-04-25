@@ -1,14 +1,6 @@
 {
   "id": "red-bar-shirt",
-  "name": {
-    "de": "Ferienpulli",
-    "en-GB": "Red-Bar Shirt",
-    "en-US": "Red-Bar Shirt",
-    "es": "Jersey barras",
-    "fr": "Pull barre",
-    "it": "Maglia a rigoni",
-    "ja": "あかしろラガーシャツL"
-  },
+  "name": "Red-bar Shirt",
   "category": "Tops",
   "games": {
     "nl": {

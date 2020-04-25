@@ -1,14 +1,6 @@
 {
   "id": "watermelon-tee",
-  "name": {
-    "de": "Melonenshirt",
-    "en-GB": "Watermelon Tee",
-    "en-US": "Watermelon Tee",
-    "es": "Camiseta sandía",
-    "fr": "T-shirt pastèque",
-    "it": "Maglietta anguria",
-    "ja": "すいかのふく"
-  },
+  "name": "Watermelon Tee",
   "category": "Tops",
   "games": {
     "nl": {

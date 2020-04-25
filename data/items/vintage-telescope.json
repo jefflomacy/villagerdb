@@ -1,14 +1,6 @@
 {
   "id": "vintage-telescope",
-  "name": {
-    "de": "Retro-Teleskop",
-    "en-GB": "Vintage Telescope",
-    "en-US": "Vintage Telescope",
-    "es": "Telescopio de época",
-    "fr": "Télescope d'époque",
-    "it": "Telescopio antico",
-    "ja": "レトロなぼうえんきょう"
-  },
+  "name": "Vintage Telescope",
   "category": "Furniture",
   "games": {
     "nl": {

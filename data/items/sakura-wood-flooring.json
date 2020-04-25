@@ -1,8 +1,6 @@
 {
   "id": "sakura-wood-flooring",
-  "name": {
-    "en-US": "Sakura-wood Flooring"
-  },
+  "name": "Sakura-wood Flooring",
   "games": {
     "nh": {
       "orderable": false,

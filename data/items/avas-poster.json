@@ -1,8 +1,6 @@
 {
   "id": "avas-poster",
-  "name": {
-    "en-US": "Ava's Poster"
-  },
+  "name": "Ava's Poster",
   "games": {
     "nh": {
       "sources": [

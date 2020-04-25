@@ -1,8 +1,6 @@
 {
   "id": "green-molded-panel-wall",
-  "name": {
-    "en-US": "Green Molded-panel Wall"
-  },
+  "name": "Green Molded-panel Wall",
   "games": {
     "nh": {
       "orderable": true,

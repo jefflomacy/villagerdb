@@ -1,14 +1,6 @@
 {
   "id": "varia-suit-pants",
-  "name": {
-    "de": "Varia-Hose",
-    "en-GB": "Varia Suit Pants",
-    "en-US": "Varia Suit Pants",
-    "es": "Pantalón climático",
-    "fr": "Pantalon Varia",
-    "it": "Pantalone termotuta",
-    "ja": "バリアスーツ・レッグ"
-  },
+  "name": "Varia Suit Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

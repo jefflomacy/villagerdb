@@ -1,14 +1,6 @@
 {
   "id": "cabin-clock",
-  "name": {
-    "de": "Blockhausuhr",
-    "en-GB": "Cabin Clock",
-    "en-US": "Cabin Clock",
-    "es": "Reloj cabaña",
-    "fr": "Horloge chalet",
-    "it": "Orologio rustico",
-    "ja": "ログはとどけい"
-  },
+  "name": "Cabin Clock",
   "category": "Furniture",
   "games": {
     "nl": {

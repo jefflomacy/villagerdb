@@ -1,14 +1,6 @@
 {
   "id": "rock-guitar",
-  "name": {
-    "de": "Rock-Gitarre",
-    "en-GB": "Rock Guitar",
-    "en-US": "Rock Guitar",
-    "es": "Guitarra rock",
-    "fr": "Guitare rock",
-    "it": "Chitarra rock",
-    "ja": "エレキギターES1"
-  },
+  "name": "Rock Guitar",
   "category": "Furniture",
   "games": {
     "nl": {

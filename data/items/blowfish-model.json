@@ -1,8 +1,6 @@
 {
   "id": "blowfish-model",
-  "name": {
-    "en-US": "Blowfish Model"
-  },
+  "name": "Blowfish Model",
   "games": {
     "nh": {
       "orderable": false,

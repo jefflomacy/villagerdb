@@ -1,8 +1,6 @@
 {
   "id": "hot-dog-hood",
-  "name": {
-    "en-US": "Hot-dog Hood"
-  },
+  "name": "Hot-dog Hood",
   "games": {
     "nh": {
       "sellPrice": {

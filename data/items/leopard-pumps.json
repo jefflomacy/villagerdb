@@ -1,14 +1,6 @@
 {
   "id": "leopard-pumps",
-  "name": {
-    "de": "Leopardenschuh",
-    "en-GB": "Leopard Pumps",
-    "en-US": "Leopard Pumps",
-    "es": "Manoletina leopardo",
-    "fr": "P. ballerin. léopard",
-    "it": "P. ballerine leopar.",
-    "ja": "アニマルパンプス"
-  },
+  "name": "Leopard Pumps",
   "category": "Shoes",
   "games": {
     "nl": {

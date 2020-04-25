@@ -1,14 +1,6 @@
 {
   "id": "mermaid-closet",
-  "name": {
-    "de": "Nixenschrank",
-    "en-GB": "Mermaid Closet",
-    "en-US": "Mermaid Closet",
-    "es": "Armario sirena",
-    "fr": "Armoire sirène",
-    "it": "Armadio sirena",
-    "ja": "マーメイドなクロゼット"
-  },
+  "name": "Mermaid Closet",
   "category": "Furniture",
   "games": {
     "nl": {

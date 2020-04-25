@@ -1,8 +1,6 @@
 {
   "id": "rugby-uniform",
-  "name": {
-    "en-US": "Rugby Uniform"
-  },
+  "name": "Rugby Uniform",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,8 +1,6 @@
 {
   "id": "gears",
-  "name": {
-    "en-US": "Gears"
-  },
+  "name": "Gears",
   "games": {
     "nh": {
       "sellPrice": {

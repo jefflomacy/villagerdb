@@ -1,8 +1,6 @@
 {
   "id": "log-bridge",
-  "name": {
-    "en-US": "Log Bridge"
-  },
+  "name": "Log Bridge",
   "games": {
     "nh": {
       "buyPrices": [

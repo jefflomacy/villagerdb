@@ -1,14 +1,6 @@
 {
   "id": "mod-shirt",
-  "name": {
-    "de": "Buntpunkt-Jacke",
-    "en-GB": "Mod Shirt",
-    "en-US": "Mod Shirt",
-    "es": "Chaqueta cuadritos",
-    "fr": "Veste bigarrée",
-    "it": "Giacca quadri bianca",
-    "ja": "だんしアイドルなふく"
-  },
+  "name": "Mod Shirt",
   "category": "Tops",
   "games": {
     "nl": {

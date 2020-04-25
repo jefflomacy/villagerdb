@@ -1,14 +1,6 @@
 {
   "id": "bad-plaid-shirt",
-  "name": {
-    "de": "Cool-Pulli",
-    "en-GB": "Bad Plaid Shirt",
-    "en-US": "Bad Plaid Shirt",
-    "es": "Jersey cuadrados",
-    "fr": "Pull tartan mauve",
-    "it": "Maglia porpora",
-    "ja": "ふかいタータンのふくL"
-  },
+  "name": "Bad Plaid Shirt",
   "category": "Tops",
   "games": {
     "nl": {

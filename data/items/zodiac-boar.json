@@ -1,14 +1,6 @@
 {
   "id": "zodiac-boar",
-  "name": {
-    "de": "Schweinefigur",
-    "en-GB": "Zodiac Boar",
-    "en-US": "Zodiac Boar",
-    "es": "Figura de jabalí",
-    "fr": "Figurine de cochon",
-    "it": "Figurina di cinghia.",
-    "ja": "えとのおきもの・い"
-  },
+  "name": "Zodiac Boar",
   "category": "Furniture",
   "games": {
     "nl": {

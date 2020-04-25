@@ -1,8 +1,6 @@
 {
   "id": "gray-molded-panel-wall",
-  "name": {
-    "en-US": "Gray Molded-panel Wall"
-  },
+  "name": "Gray Molded-panel Wall",
   "games": {
     "nh": {
       "orderable": true,

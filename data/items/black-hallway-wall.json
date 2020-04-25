@@ -1,8 +1,6 @@
 {
   "id": "black-hallway-wall",
-  "name": {
-    "en-US": "Black Hallway Wall"
-  },
+  "name": "Black Hallway Wall",
   "games": {
     "nh": {
       "sellPrice": {

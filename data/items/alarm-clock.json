@@ -1,14 +1,6 @@
 {
   "id": "alarm-clock",
-  "name": {
-    "de": "Wecker",
-    "en-GB": "Alarm Clock",
-    "en-US": "Alarm Clock",
-    "es": "Despertador",
-    "fr": "Réveil",
-    "it": "Sveglia",
-    "ja": "めざましどけい"
-  },
+  "name": "Alarm Clock",
   "category": "Furniture",
   "games": {
     "nl": {

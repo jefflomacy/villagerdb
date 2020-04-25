@@ -1,14 +1,6 @@
 {
   "id": "catchers-mask",
-  "name": {
-    "de": "Eishockeyhelm",
-    "en-GB": "Catcher's Mask",
-    "en-US": "Catcher's Mask",
-    "es": "Máscara de béisbol",
-    "fr": "Masque de receveur",
-    "it": "Maschera ricevitore",
-    "ja": "キャッチャーマスク"
-  },
+  "name": "Catcher's Mask",
   "category": "Hats",
   "games": {
     "nl": {

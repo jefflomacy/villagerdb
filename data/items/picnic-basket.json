@@ -1,14 +1,6 @@
 {
   "id": "picnic-basket",
-  "name": {
-    "de": "Picknick-Korb",
-    "en-GB": "Picnic Basket",
-    "en-US": "Picnic Basket",
-    "es": "Cesta picnic",
-    "fr": "Panier-repas",
-    "it": "Cestino da picnic",
-    "ja": "ピクニックバスケット"
-  },
+  "name": "Picnic Basket",
   "category": "Furniture",
   "games": {
     "nl": {

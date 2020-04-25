@@ -1,14 +1,6 @@
 {
   "id": "iv-drip",
-  "name": {
-    "de": "Infusionsständer",
-    "en-GB": "IV Drip",
-    "en-US": "IV Drip",
-    "es": "Gotero hospital",
-    "fr": "Perfusion",
-    "it": "Portaflebo",
-    "ja": "てんてき"
-  },
+  "name": "IV Drip",
   "category": "Furniture",
   "games": {
     "nl": {

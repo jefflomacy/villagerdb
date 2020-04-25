@@ -1,8 +1,6 @@
 {
   "id": "ironing-board",
-  "name": {
-    "en-US": "Ironing Board"
-  },
+  "name": "Ironing Board",
   "games": {
     "nh": {
       "orderable": true,

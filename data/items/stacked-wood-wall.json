@@ -1,8 +1,6 @@
 {
   "id": "stacked-wood-wall",
-  "name": {
-    "en-US": "Stacked-wood Wall"
-  },
+  "name": "Stacked-wood Wall",
   "games": {
     "nh": {
       "orderable": false,

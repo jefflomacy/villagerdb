@@ -1,14 +1,6 @@
 {
   "id": "eight-ball-tee",
-  "name": {
-    "de": "8er-Shirt",
-    "en-GB": "Eight-Ball Tee",
-    "en-US": "Eight-Ball Tee",
-    "es": "Camiseta bola 8",
-    "fr": "T-shirt nº 8",
-    "it": "Maglietta palla 8",
-    "ja": "8ばんだまのふく"
-  },
+  "name": "Eight-ball Tee",
   "category": "Tops",
   "games": {
     "nl": {

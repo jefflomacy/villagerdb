@@ -1,14 +1,6 @@
 {
   "id": "bilboquet",
-  "name": {
-    "de": "Bilboquet",
-    "en-GB": "Bilboquet",
-    "en-US": "Bilboquet",
-    "es": "Boliche",
-    "fr": "Bilboquet",
-    "it": "Kendama",
-    "ja": "ジャンボけんだま"
-  },
+  "name": "Bilboquet",
   "category": "Furniture",
   "games": {
     "nl": {

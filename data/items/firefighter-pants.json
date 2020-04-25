@@ -1,14 +1,6 @@
 {
   "id": "firefighter-pants",
-  "name": {
-    "de": "Feuerwehrhose",
-    "en-GB": "Firefighter Pants",
-    "en-US": "Firefighter Pants",
-    "es": "Pantalón de bombero",
-    "fr": "Pantalon pompier",
-    "it": "Pantalone pompiere",
-    "ja": "しょうぼうズボン"
-  },
+  "name": "Firefighter Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

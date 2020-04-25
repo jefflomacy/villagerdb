@@ -1,14 +1,6 @@
 {
   "id": "led-display",
-  "name": {
-    "de": "LED-Wandanzeige",
-    "en-GB": "LED Display",
-    "en-US": "LED Display",
-    "es": "Panel LED",
-    "fr": "Affichage LED",
-    "it": "Schermo LED",
-    "ja": "かべのでんこうけいじばん"
-  },
+  "name": "Led Display",
   "category": "Furniture",
   "games": {
     "nl": {

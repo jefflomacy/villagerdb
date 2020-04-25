@@ -1,8 +1,6 @@
 {
   "id": "migratory-locust-model",
-  "name": {
-    "en-US": "Migratory Locust Model"
-  },
+  "name": "Migratory Locust Model",
   "games": {
     "nh": {
       "sellPrice": {

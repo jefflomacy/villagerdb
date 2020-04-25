@@ -1,14 +1,6 @@
 {
   "id": "plum-bonsai",
-  "name": {
-    "de": "Pflaumen-Bonsai",
-    "en-GB": "Plum Bonsai",
-    "en-US": "Plum Bonsai",
-    "es": "Ciruelo bonsái",
-    "fr": "Bonsaï prunier",
-    "it": "Bonsai prugno",
-    "ja": "ウメのぼんさい"
-  },
+  "name": "Plum Bonsai",
   "category": "Furniture",
   "games": {
     "nl": {

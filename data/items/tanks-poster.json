@@ -1,8 +1,6 @@
 {
   "id": "tanks-poster",
-  "name": {
-    "en-US": "Tank's Poster"
-  },
+  "name": "Tank's Poster",
   "games": {
     "nh": {
       "sources": [

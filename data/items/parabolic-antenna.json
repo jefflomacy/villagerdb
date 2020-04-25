@@ -1,8 +1,6 @@
 {
   "id": "parabolic-antenna",
-  "name": {
-    "en-US": "Parabolic Antenna"
-  },
+  "name": "Parabolic Antenna",
   "games": {
     "nh": {
       "orderable": true,

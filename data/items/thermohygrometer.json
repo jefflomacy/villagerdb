@@ -1,14 +1,6 @@
 {
   "id": "thermohygrometer",
-  "name": {
-    "de": "Hygrometer",
-    "en-GB": "Thermohygrometer",
-    "en-US": "Thermohygrometer",
-    "es": "Termohigrómetro",
-    "fr": "Thermo-hygromètre",
-    "it": "Termoigrometro",
-    "ja": "おんしつどきろくけい"
-  },
+  "name": "Thermohygrometer",
   "category": "Furniture",
   "games": {
     "nl": {

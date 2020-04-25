@@ -1,14 +1,6 @@
 {
   "id": "black-katana",
-  "name": {
-    "de": "Mondkatana",
-    "en-GB": "Black Katana",
-    "en-US": "Black Katana",
-    "es": "Katana negra",
-    "fr": "Katana noir",
-    "it": "Set katana",
-    "ja": "くろいにほんとう"
-  },
+  "name": "Black Katana",
   "category": "Furniture",
   "games": {
     "nl": {

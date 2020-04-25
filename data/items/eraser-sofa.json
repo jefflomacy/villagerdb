@@ -1,14 +1,6 @@
 {
   "id": "eraser-sofa",
-  "name": {
-    "de": "Radiergummisofa",
-    "en-GB": "Eraser Sofa",
-    "en-US": "Eraser Sofa",
-    "es": "Sofá borrador",
-    "fr": "Canapé gomme",
-    "it": "Sofà gomma",
-    "ja": "カドケシソファ"
-  },
+  "name": "Eraser Sofa",
   "category": "Furniture",
   "games": {
     "nl": {

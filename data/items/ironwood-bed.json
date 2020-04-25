@@ -1,8 +1,6 @@
 {
   "id": "ironwood-bed",
-  "name": {
-    "en-US": "Ironwood Bed"
-  },
+  "name": "Ironwood Bed",
   "games": {
     "nh": {
       "orderable": false,

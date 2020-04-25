@@ -1,8 +1,6 @@
 {
   "id": "thread-worn-sweater",
-  "name": {
-    "en-US": "Thread-worn Sweater"
-  },
+  "name": "Thread-worn Sweater",
   "games": {
     "nh": {
       "orderable": true,

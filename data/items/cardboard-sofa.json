@@ -1,14 +1,6 @@
 {
   "id": "cardboard-sofa",
-  "name": {
-    "de": "Kartonsofa",
-    "en-GB": "Cardboard Sofa",
-    "en-US": "Cardboard Sofa",
-    "es": "Sofá cartón",
-    "fr": "Canapé carton",
-    "it": "Sofà scatolone",
-    "ja": "ダンボールソファ"
-  },
+  "name": "Cardboard Sofa",
   "category": "Furniture",
   "games": {
     "nl": {

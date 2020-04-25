@@ -1,8 +1,6 @@
 {
   "id": "sewing-project",
-  "name": {
-    "en-US": "Sewing Project"
-  },
+  "name": "Sewing Project",
   "games": {
     "nh": {
       "orderable": true,

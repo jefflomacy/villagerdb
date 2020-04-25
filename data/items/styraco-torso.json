@@ -1,14 +1,6 @@
 {
   "id": "styraco-torso",
-  "name": {
-    "de": "Styraco-Torso",
-    "en-GB": "Styraco Torso",
-    "en-US": "Styraco Torso",
-    "es": "Cuerpo estira",
-    "fr": "Corps de styraco",
-    "it": "Torso stiracosauro",
-    "ja": "スティラコのからだ"
-  },
+  "name": "Styraco Torso",
   "category": "Fossils",
   "games": {
     "nl": {

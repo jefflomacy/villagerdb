@@ -1,8 +1,6 @@
 {
   "id": "crepe-design-wall",
-  "name": {
-    "en-US": "Crepe-design Wall"
-  },
+  "name": "Crepe-design Wall",
   "games": {
     "nh": {
       "orderable": true,

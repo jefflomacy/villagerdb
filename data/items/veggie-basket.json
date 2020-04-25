@@ -1,14 +1,6 @@
 {
   "id": "veggie-basket",
-  "name": {
-    "de": "Gemüsekorb",
-    "en-GB": "Veggie Basket",
-    "en-US": "Veggie Basket",
-    "es": "Cesta verduras",
-    "fr": "Panier de légumes",
-    "it": "Cesto di verdure",
-    "ja": "やさいのバスケット"
-  },
+  "name": "Veggie Basket",
   "category": "Furniture",
   "games": {
     "nl": {

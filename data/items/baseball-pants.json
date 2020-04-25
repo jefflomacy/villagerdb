@@ -1,14 +1,6 @@
 {
   "id": "baseball-pants",
-  "name": {
-    "de": "Baseballhose",
-    "en-GB": "Baseball Pants",
-    "en-US": "Baseball Pants",
-    "es": "Pantalón béisbol",
-    "fr": "Pantalon baseball",
-    "it": "Pantalone baseball",
-    "ja": "やきゅうのズボン"
-  },
+  "name": "Baseball Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

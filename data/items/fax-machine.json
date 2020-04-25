@@ -1,8 +1,6 @@
 {
   "id": "fax-machine",
-  "name": {
-    "en-US": "Fax Machine"
-  },
+  "name": "Fax Machine",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,8 +1,6 @@
 {
   "id": "desert-outfit",
-  "name": {
-    "en-US": "Desert Outfit"
-  },
+  "name": "Desert Outfit",
   "games": {
     "nh": {
       "sellPrice": {

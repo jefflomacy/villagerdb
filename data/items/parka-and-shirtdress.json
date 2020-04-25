@@ -1,8 +1,6 @@
 {
   "id": "parka-and-shirtdress",
-  "name": {
-    "en-US": "Parka And Shirtdress"
-  },
+  "name": "Parka And Shirtdress",
   "games": {
     "nh": {
       "orderable": true,

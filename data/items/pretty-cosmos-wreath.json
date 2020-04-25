@@ -1,8 +1,6 @@
 {
   "id": "pretty-cosmos-wreath",
-  "name": {
-    "en-US": "Pretty Cosmos Wreath"
-  },
+  "name": "Pretty Cosmos Wreath",
   "games": {
     "nh": {
       "orderable": false,

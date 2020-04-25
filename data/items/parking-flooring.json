@@ -1,8 +1,6 @@
 {
   "id": "parking-flooring",
-  "name": {
-    "en-US": "Parking Flooring"
-  },
+  "name": "Parking Flooring",
   "games": {
     "nh": {
       "orderable": false,

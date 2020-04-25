@@ -1,8 +1,6 @@
 {
   "id": "green-leaf-pile",
-  "name": {
-    "en-US": "Green-leaf Pile"
-  },
+  "name": "Green-leaf Pile",
   "games": {
     "nh": {
       "orderable": false,

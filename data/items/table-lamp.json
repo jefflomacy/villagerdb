@@ -1,14 +1,6 @@
 {
   "id": "table-lamp",
-  "name": {
-    "de": "Tischlampe",
-    "en-GB": "Table Lamp",
-    "en-US": "Table Lamp",
-    "es": "Lámpara mesita",
-    "fr": "Lampe de table",
-    "it": "Lampada",
-    "ja": "テーブルランプ"
-  },
+  "name": "Table Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

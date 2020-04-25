@@ -1,14 +1,6 @@
 {
   "id": "regal-dresser",
-  "name": {
-    "de": "Royalkommode",
-    "en-GB": "Regal Dresser",
-    "en-US": "Regal Dresser",
-    "es": "Cómoda regia",
-    "fr": "Commode royale",
-    "it": "Comò chic",
-    "ja": "ロイヤルなタンス"
-  },
+  "name": "Regal Dresser",
   "category": "Furniture",
   "games": {
     "nl": {

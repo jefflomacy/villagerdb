@@ -1,8 +1,6 @@
 {
   "id": "wooden-bridge",
-  "name": {
-    "en-US": "Wooden Bridge"
-  },
+  "name": "Wooden Bridge",
   "games": {
     "nh": {
       "buyPrices": [

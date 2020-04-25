@@ -1,14 +1,6 @@
 {
   "id": "green-counter",
-  "name": {
-    "de": "Smaragdanrichte",
-    "en-GB": "Green Counter",
-    "en-US": "Green Counter",
-    "es": "Taquillón verde",
-    "fr": "Console verte",
-    "it": "Scaffale verde",
-    "ja": "みどりのカウンター"
-  },
+  "name": "Green Counter",
   "category": "Furniture",
   "games": {
     "nl": {

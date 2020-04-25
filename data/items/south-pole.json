@@ -1,8 +1,6 @@
 {
   "id": "south-pole",
-  "name": {
-    "en-US": "South Pole"
-  },
+  "name": "South Pole",
   "games": {
     "nh": {
       "sellPrice": {

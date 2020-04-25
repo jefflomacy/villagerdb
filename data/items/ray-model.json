@@ -1,8 +1,6 @@
 {
   "id": "ray-model",
-  "name": {
-    "en-US": "Ray Model"
-  },
+  "name": "Ray Model",
   "games": {
     "nh": {
       "sellPrice": {

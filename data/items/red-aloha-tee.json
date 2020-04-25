@@ -1,14 +1,6 @@
 {
   "id": "red-aloha-tee",
-  "name": {
-    "de": "Inselshirt",
-    "en-GB": "Red Aloha Tee",
-    "en-US": "Red Aloha Tee",
-    "es": "Camiseta aloha roja",
-    "fr": "Chemise Hawaï rouge",
-    "it": "Camicia aloha rossa",
-    "ja": "あかのアロハ"
-  },
+  "name": "Red Aloha Tee",
   "category": "Tops",
   "games": {
     "nl": {

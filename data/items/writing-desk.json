@@ -1,14 +1,6 @@
 {
   "id": "writing-desk",
-  "name": {
-    "de": "Sekretär",
-    "en-GB": "Writing Desk",
-    "en-US": "Writing Desk",
-    "es": "Escritorio",
-    "fr": "Secrétaire",
-    "it": "Scrittoio",
-    "ja": "べんきょうづくえ"
-  },
+  "name": "Writing Desk",
   "category": "Furniture",
   "games": {
     "nl": {

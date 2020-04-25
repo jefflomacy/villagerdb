@@ -1,8 +1,6 @@
 {
   "id": "stone-egg-shoes",
-  "name": {
-    "en-US": "Stone-egg Shoes"
-  },
+  "name": "Stone-egg Shoes",
   "games": {
     "nh": {
       "orderable": false,

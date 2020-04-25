@@ -1,8 +1,6 @@
 {
   "id": "nylon-jacket",
-  "name": {
-    "en-US": "Nylon Jacket"
-  },
+  "name": "Nylon Jacket",
   "games": {
     "nh": {
       "sellPrice": {

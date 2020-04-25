@@ -1,14 +1,6 @@
 {
   "id": "fiendish-shirt",
-  "name": {
-    "de": "Wabenpulli",
-    "en-GB": "Fiendish Shirt",
-    "en-US": "Fiendish Shirt",
-    "es": "Jersey red roja",
-    "fr": "Pull magma",
-    "it": "Maglia a rete rossa",
-    "ja": "あかいネットのふく"
-  },
+  "name": "Fiendish Shirt",
   "category": "Tops",
   "games": {
     "nl": {

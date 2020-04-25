@@ -1,14 +1,6 @@
 {
   "id": "jinbei-top",
-  "name": {
-    "de": "Jimbei-Shirt",
-    "en-GB": "Jinbei Top",
-    "en-US": "Jinbei Top",
-    "es": "Batín",
-    "fr": "Veste jinbei",
-    "it": "Giacca giapponese",
-    "ja": "じんべい"
-  },
+  "name": "Jinbei Top",
   "category": "Tops",
   "games": {
     "nl": {

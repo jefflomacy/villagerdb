@@ -1,14 +1,6 @@
 {
   "id": "bubble-gum-shirt",
-  "name": {
-    "de": "Pünktchenpulli",
-    "en-GB": "Bubble-Gum Shirt",
-    "en-US": "Bubble-Gum Shirt",
-    "es": "Jersey topos rosa",
-    "fr": "Pull à pois roses",
-    "it": "Maglia pois rosa",
-    "ja": "いちごマーブルなふくL"
-  },
+  "name": "Bubble-gum Shirt",
   "category": "Tops",
   "games": {
     "nl": {

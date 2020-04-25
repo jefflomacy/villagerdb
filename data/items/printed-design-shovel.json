@@ -1,8 +1,6 @@
 {
   "id": "printed-design-shovel",
-  "name": {
-    "en-US": "Printed-design Shovel"
-  },
+  "name": "Printed-design Shovel",
   "games": {
     "nh": {
       "orderable": false,

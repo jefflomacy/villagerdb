@@ -1,14 +1,6 @@
 {
   "id": "sushi-platter",
-  "name": {
-    "de": "Sushi-Boot",
-    "en-GB": "Sushi Platter",
-    "en-US": "Sushi Platter",
-    "es": "Plato de sushi",
-    "fr": "Plateau de sushis",
-    "it": "Vassoio di sushi",
-    "ja": "ふなもり"
-  },
+  "name": "Sushi Platter",
   "category": "Furniture",
   "games": {
     "nl": {

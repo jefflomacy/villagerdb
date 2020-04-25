@@ -1,8 +1,6 @@
 {
   "id": "bunny-day-crown",
-  "name": {
-    "en-US": "Bunny Day Crown"
-  },
+  "name": "Bunny Day Crown",
   "games": {
     "nh": {
       "orderable": false,

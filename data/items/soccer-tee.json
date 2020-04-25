@@ -1,14 +1,6 @@
 {
   "id": "soccer-tee",
-  "name": {
-    "de": "WM-Shirt",
-    "en-GB": "Soccer Tee",
-    "en-US": "Soccer Tee",
-    "es": "Camiseta fútbol",
-    "fr": "T-shirt Brésil",
-    "it": "Maglietta calcio",
-    "ja": "ラテンなユニフォーム"
-  },
+  "name": "Soccer Tee",
   "category": "Tops",
   "games": {
     "nl": {

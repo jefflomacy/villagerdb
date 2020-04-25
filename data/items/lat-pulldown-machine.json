@@ -1,14 +1,6 @@
 {
   "id": "lat-pulldown-machine",
-  "name": {
-    "de": "Latzuggerät",
-    "en-GB": "Lat Pulldown Machine",
-    "en-US": "Lat Pulldown Machine",
-    "es": "Máquina espalda",
-    "fr": "Station poulie haute",
-    "it": "Macchina bicipiti",
-    "ja": "ラットプルダウン"
-  },
+  "name": "Lat Pulldown Machine",
   "category": "Furniture",
   "games": {
     "nl": {

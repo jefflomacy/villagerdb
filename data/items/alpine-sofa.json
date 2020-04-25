@@ -1,14 +1,6 @@
 {
   "id": "alpine-sofa",
-  "name": {
-    "de": "Nordsofa",
-    "en-GB": "Alpine Sofa",
-    "en-US": "Alpine Sofa",
-    "es": "Sofá nórdico",
-    "fr": "Canapé nordique",
-    "it": "Sofà nordico",
-    "ja": "スカンジナビアなソファ"
-  },
+  "name": "Alpine Sofa",
   "category": "Furniture",
   "games": {
     "nl": {

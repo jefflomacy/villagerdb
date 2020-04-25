@@ -1,8 +1,6 @@
 {
   "id": "wooden-table-mirror",
-  "name": {
-    "en-US": "Wooden Table Mirror"
-  },
+  "name": "Wooden Table Mirror",
   "games": {
     "nh": {
       "orderable": false,

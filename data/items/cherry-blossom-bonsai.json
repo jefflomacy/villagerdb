@@ -1,8 +1,6 @@
 {
   "id": "cherry-blossom-bonsai",
-  "name": {
-    "en-US": "Cherry-blossom Bonsai"
-  },
+  "name": "Cherry-blossom Bonsai",
   "games": {
     "nh": {
       "orderable": false,

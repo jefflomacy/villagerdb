@@ -1,14 +1,6 @@
 {
   "id": "satellite",
-  "name": {
-    "de": "Raumsonde",
-    "en-GB": "Satellite",
-    "en-US": "Satellite",
-    "es": "Satélite",
-    "fr": "Satellite",
-    "it": "Satellite",
-    "ja": "じんこうえいせい"
-  },
+  "name": "Satellite",
   "category": "Furniture",
   "games": {
     "nl": {

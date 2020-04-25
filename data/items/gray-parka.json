@@ -1,14 +1,6 @@
 {
   "id": "gray-parka",
-  "name": {
-    "de": "Grauparka",
-    "en-GB": "Gray Parka",
-    "en-US": "Gray Parka",
-    "es": "Sudadera gris",
-    "fr": "Sweat gris",
-    "it": "Felpa tuta grigia",
-    "ja": "グレーのパーカー"
-  },
+  "name": "Gray Parka",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "big-ben",
-  "name": {
-    "de": "Big Ben",
-    "en-GB": "Big Ben",
-    "en-US": "Big Ben",
-    "es": "Big Ben",
-    "fr": "Maquette de Big Ben",
-    "it": "Big Ben",
-    "ja": "ビッグベン"
-  },
+  "name": "Big Ben",
   "category": "Furniture",
   "games": {
     "nl": {

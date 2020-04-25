@@ -1,8 +1,6 @@
 {
   "id": "throwback-rocket",
-  "name": {
-    "en-US": "Throwback Rocket"
-  },
+  "name": "Throwback Rocket",
   "games": {
     "nh": {
       "orderable": true,

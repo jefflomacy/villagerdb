@@ -1,14 +1,6 @@
 {
   "id": "diplo-chest",
-  "name": {
-    "de": "Seismosaurus-Thorax",
-    "en-GB": "Diplo Chest",
-    "en-US": "Diplo Chest",
-    "es": "Tórax diplodocus",
-    "fr": "Torse de séismo",
-    "it": "Torso seismosauro",
-    "ja": "セイスモサウルスのむね"
-  },
+  "name": "Diplo Chest",
   "category": "Fossils",
   "games": {
     "nl": {

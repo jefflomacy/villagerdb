@@ -1,8 +1,6 @@
 {
   "id": "plain-wooden-shop-sign",
-  "name": {
-    "en-US": "Plain Wooden Shop Sign"
-  },
+  "name": "Plain Wooden Shop Sign",
   "games": {
     "nh": {
       "orderable": false,

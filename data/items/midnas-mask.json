@@ -1,14 +1,6 @@
 {
   "id": "midnas-mask",
-  "name": {
-    "de": "Midnamaske",
-    "en-GB": "Midna's Mask",
-    "en-US": "Midna's Mask",
-    "es": "Casco de Midna",
-    "fr": "Masque Midona",
-    "it": "Maschera da Midna",
-    "ja": "ミドナのかめん"
-  },
+  "name": "Midna's Mask",
   "category": "Hats",
   "games": {
     "nl": {

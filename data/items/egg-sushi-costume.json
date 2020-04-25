@@ -1,8 +1,6 @@
 {
   "id": "egg-sushi-costume",
-  "name": {
-    "en-US": "Egg-sushi Costume"
-  },
+  "name": "Egg-sushi Costume",
   "games": {
     "nh": {
       "orderable": true,

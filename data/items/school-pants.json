@@ -1,8 +1,6 @@
 {
   "id": "school-pants",
-  "name": {
-    "en-US": "School Pants"
-  },
+  "name": "School Pants",
   "games": {
     "nh": {
       "sellPrice": {

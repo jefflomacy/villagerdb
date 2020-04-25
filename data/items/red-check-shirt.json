@@ -1,14 +1,6 @@
 {
   "id": "red-check-shirt",
-  "name": {
-    "de": "Rotweiß-Pulli",
-    "en-GB": "Red-Check Shirt",
-    "en-US": "Red-Check Shirt",
-    "es": "Jersey trapo rojo",
-    "fr": "Pull carrés rouge",
-    "it": "Maglia tovaglia",
-    "ja": "あかチェックのふくL"
-  },
+  "name": "Red-check Shirt",
   "category": "Tops",
   "games": {
     "nl": {

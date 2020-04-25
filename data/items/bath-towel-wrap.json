@@ -1,8 +1,6 @@
 {
   "id": "bath-towel-wrap",
-  "name": {
-    "en-US": "Bath-towel Wrap"
-  },
+  "name": "Bath-towel Wrap",
   "games": {
     "nh": {
       "orderable": true,

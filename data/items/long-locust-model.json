@@ -1,8 +1,6 @@
 {
   "id": "long-locust-model",
-  "name": {
-    "en-US": "Long Locust Model"
-  },
+  "name": "Long Locust Model",
   "games": {
     "nh": {
       "sellPrice": {

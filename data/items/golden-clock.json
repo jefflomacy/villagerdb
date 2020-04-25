@@ -1,14 +1,6 @@
 {
   "id": "golden-clock",
-  "name": {
-    "de": "Golduhr",
-    "en-GB": "Golden Clock",
-    "en-US": "Golden Clock",
-    "es": "Reloj dorado",
-    "fr": "Horloge d'or",
-    "it": "Orologio d'oro",
-    "ja": "おうごんのとけい"
-  },
+  "name": "Golden Clock",
   "category": "Furniture",
   "games": {
     "nl": {

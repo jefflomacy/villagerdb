@@ -1,8 +1,6 @@
 {
   "id": "stone-egg-shell",
-  "name": {
-    "en-US": "Stone-egg Shell"
-  },
+  "name": "Stone-egg Shell",
   "games": {
     "nh": {
       "orderable": false,

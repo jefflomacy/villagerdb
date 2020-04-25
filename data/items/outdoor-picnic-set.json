@@ -1,8 +1,6 @@
 {
   "id": "outdoor-picnic-set",
-  "name": {
-    "en-US": "Outdoor Picnic Set"
-  },
+  "name": "Outdoor Picnic Set",
   "games": {
     "nh": {
       "orderable": false,

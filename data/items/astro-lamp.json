@@ -1,14 +1,6 @@
 {
   "id": "astro-lamp",
-  "name": {
-    "de": "Astrolampe",
-    "en-GB": "Astro Lamp",
-    "en-US": "Astro Lamp",
-    "es": "Lámpara futurista",
-    "fr": "Lampe astro",
-    "it": "Lampada futuro",
-    "ja": "きんみらいなランプ"
-  },
+  "name": "Astro Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

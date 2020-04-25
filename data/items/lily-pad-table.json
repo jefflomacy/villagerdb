@@ -1,14 +1,6 @@
 {
   "id": "lily-pad-table",
-  "name": {
-    "de": "Seerosentisch",
-    "en-GB": "Lily-Pad Table",
-    "en-US": "Lily-Pad Table",
-    "es": "Mesa nenúfar",
-    "fr": "Table nénuphar",
-    "it": "Tavolo ninfea",
-    "ja": "ハスのテーブル"
-  },
+  "name": "Lily-pad Table",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "heavy-duty-shirt",
-  "name": {
-    "en-US": "Heavy-duty Shirt"
-  },
+  "name": "Heavy-duty Shirt",
   "games": {
     "nh": {
       "sellPrice": {

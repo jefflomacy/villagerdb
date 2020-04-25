@@ -1,14 +1,6 @@
 {
   "id": "ankylo-skull",
-  "name": {
-    "de": "Ankylosaurus-Schädel",
-    "en-GB": "Ankylo Skull",
-    "en-US": "Ankylo Skull",
-    "es": "Cráneo anquilosaurio",
-    "fr": "Crâne d'ankylosaure",
-    "it": "Teschio anchilosauro",
-    "ja": "アンキロサウルスのあたま"
-  },
+  "name": "Ankylo Skull",
   "category": "Fossils",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "tokonoma",
-  "name": {
-    "de": "Bildnische",
-    "en-GB": "Tokonoma",
-    "en-US": "Tokonoma",
-    "es": "Papiro nipón",
-    "fr": "Alcôve",
-    "it": "Tokonoma",
-    "ja": "とこのま"
-  },
+  "name": "Tokonoma",
   "category": "Furniture",
   "games": {
     "nl": {

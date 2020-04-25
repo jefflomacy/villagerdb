@@ -1,14 +1,6 @@
 {
   "id": "tacky-sweater",
-  "name": {
-    "de": "Strickweste mit Hemd",
-    "en-GB": "Tacky Sweater",
-    "en-US": "Tacky Sweater",
-    "es": "Jersey de lana",
-    "fr": "Pull montagnard",
-    "it": "Maglione kitsch",
-    "ja": "ニットベスト"
-  },
+  "name": "Tacky Sweater",
   "category": "Tops",
   "games": {
     "nl": {

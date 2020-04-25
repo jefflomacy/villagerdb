@@ -1,14 +1,6 @@
 {
   "id": "electric-guitar",
-  "name": {
-    "de": "Jazz-Gitarre",
-    "en-GB": "Electric Guitar",
-    "en-US": "Electric Guitar",
-    "es": "Guitarra eléctrica",
-    "fr": "Guitare jazz",
-    "it": "Chitarra metal",
-    "ja": "エレキギターES2"
-  },
+  "name": "Electric Guitar",
   "category": "Furniture",
   "games": {
     "nl": {

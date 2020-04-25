@@ -1,8 +1,6 @@
 {
   "id": "white-mums",
-  "name": {
-    "en-US": "White Mums"
-  },
+  "name": "White Mums",
   "games": {
     "nh": {
       "orderable": false,

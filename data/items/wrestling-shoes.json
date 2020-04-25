@@ -1,8 +1,6 @@
 {
   "id": "wrestling-shoes",
-  "name": {
-    "en-US": "Wrestling Shoes"
-  },
+  "name": "Wrestling Shoes",
   "games": {
     "nh": {
       "sellPrice": {

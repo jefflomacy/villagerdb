@@ -1,8 +1,6 @@
 {
   "id": "cherry-speakers",
-  "name": {
-    "en-US": "Cherry Speakers"
-  },
+  "name": "Cherry Speakers",
   "games": {
     "nh": {
       "orderable": false,

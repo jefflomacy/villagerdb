@@ -1,14 +1,6 @@
 {
   "id": "polka-dot-bed",
-  "name": {
-    "de": "Pünktchenbett",
-    "en-GB": "Polka-Dot Bed",
-    "en-US": "Polka-Dot Bed",
-    "es": "Cama topos",
-    "fr": "Lit à pois rouge",
-    "it": "Letto pois",
-    "ja": "みずたまなベッド"
-  },
+  "name": "Polka-dot Bed",
   "category": "Furniture",
   "games": {
     "nl": {

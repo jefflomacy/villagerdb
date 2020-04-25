@@ -1,14 +1,6 @@
 {
   "id": "stripe-bed",
-  "name": {
-    "de": "Streifenbett",
-    "en-GB": "Stripe Bed",
-    "en-US": "Stripe Bed",
-    "es": "Cama rayas",
-    "fr": "Lit rayures",
-    "it": "Letto strisce",
-    "ja": "ストライプなベッド"
-  },
+  "name": "Stripe Bed",
   "category": "Furniture",
   "games": {
     "nl": {

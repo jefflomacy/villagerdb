@@ -1,8 +1,6 @@
 {
   "id": "water-egg-shell",
-  "name": {
-    "en-US": "Water-egg Shell"
-  },
+  "name": "Water-egg Shell",
   "games": {
     "nh": {
       "orderable": false,

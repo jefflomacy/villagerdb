@@ -1,8 +1,6 @@
 {
   "id": "fairy-tale-umbrella",
-  "name": {
-    "en-US": "Fairy-tale Umbrella"
-  },
+  "name": "Fairy-tale Umbrella",
   "games": {
     "nh": {
       "orderable": true,

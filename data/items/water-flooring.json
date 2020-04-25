@@ -1,8 +1,6 @@
 {
   "id": "water-flooring",
-  "name": {
-    "en-US": "Water Flooring"
-  },
+  "name": "Water Flooring",
   "games": {
     "nh": {
       "sellPrice": {

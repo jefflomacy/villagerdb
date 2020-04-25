@@ -1,14 +1,6 @@
 {
   "id": "sundae-tank",
-  "name": {
-    "de": "Pfui-Top",
-    "en-GB": "Sundae Tank",
-    "en-US": "Sundae Tank",
-    "es": "Top avalancha",
-    "fr": "Débardeur moche",
-    "it": "Canotta orrenda",
-    "ja": "うじきんときのふく"
-  },
+  "name": "Sundae Tank",
   "category": "Tops",
   "games": {
     "nl": {

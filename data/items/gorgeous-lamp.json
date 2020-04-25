@@ -1,14 +1,6 @@
 {
   "id": "gorgeous-lamp",
-  "name": {
-    "de": "Luxuslampe",
-    "en-GB": "Gorgeous Lamp",
-    "en-US": "Gorgeous Lamp",
-    "es": "Lámpara palacio",
-    "fr": "Lampe somptueuse",
-    "it": "Lampada divina",
-    "ja": "ゴージャスランプ"
-  },
+  "name": "Gorgeous Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

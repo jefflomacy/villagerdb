@@ -1,14 +1,6 @@
 {
   "id": "boomerang",
-  "name": {
-    "de": "Bumerang",
-    "en-GB": "Boomerang",
-    "en-US": "Boomerang",
-    "es": "Bumerán",
-    "fr": "Boomerang",
-    "it": "Boomerang",
-    "ja": "ブーメラン"
-  },
+  "name": "Boomerang",
   "category": "Furniture",
   "games": {
     "nl": {

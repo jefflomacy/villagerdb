@@ -1,8 +1,6 @@
 {
   "id": "speedway-shirt",
-  "name": {
-    "en-US": "Speedway Shirt"
-  },
+  "name": "Speedway Shirt",
   "category": "Tops",
   "games": {
     "ac": {

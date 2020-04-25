@@ -1,14 +1,6 @@
 {
   "id": "yellow-ribbon",
-  "name": {
-    "de": "Bernsteinband",
-    "en-GB": "Yellow Ribbon",
-    "en-US": "Yellow Ribbon",
-    "es": "Lazo amarillo",
-    "fr": "Ruban jaune",
-    "it": "Fiocco giallo",
-    "ja": "きいろいリボン"
-  },
+  "name": "Yellow Ribbon",
   "category": "Hats",
   "games": {
     "nl": {

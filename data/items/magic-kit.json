@@ -1,8 +1,6 @@
 {
   "id": "magic-kit",
-  "name": {
-    "en-US": "Magic Kit"
-  },
+  "name": "Magic Kit",
   "games": {
     "nh": {
       "orderable": true,

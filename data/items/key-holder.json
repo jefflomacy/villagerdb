@@ -1,8 +1,6 @@
 {
   "id": "key-holder",
-  "name": {
-    "en-US": "Key Holder"
-  },
+  "name": "Key Holder",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,14 +1,6 @@
 {
   "id": "reggae-tee",
-  "name": {
-    "de": "Reggae-Shirt",
-    "en-GB": "Reggae Tee",
-    "en-US": "Reggae Tee",
-    "es": "Camiseta reggae",
-    "fr": "T-shirt reggae",
-    "it": "Maglietta reggae",
-    "ja": "レゲエなふく"
-  },
+  "name": "Reggae Tee",
   "category": "Tops",
   "games": {
     "nl": {

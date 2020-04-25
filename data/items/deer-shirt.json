@@ -1,14 +1,6 @@
 {
   "id": "deer-shirt",
-  "name": {
-    "de": "Rentierpulli",
-    "en-GB": "Deer Shirt",
-    "en-US": "Deer Shirt",
-    "es": "Jersey ciervos",
-    "fr": "Pull daim",
-    "it": "Maglione con cervi",
-    "ja": "しかがらのニット"
-  },
+  "name": "Deer Shirt",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "silver-hha-trophy",
-  "name": {
-    "de": "AdsH-Silberpokal",
-    "en-GB": "Silver HHA Trophy",
-    "en-US": "Silver HHA Trophy",
-    "es": "Trofeo AAD de plata",
-    "fr": "Trophée AJD argent",
-    "it": "Trofeo ABC d'argento",
-    "ja": "ぎんのおうちトロフィー"
-  },
+  "name": "Silver Hha Trophy",
   "category": "Furniture",
   "games": {
     "nl": {

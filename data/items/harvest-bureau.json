@@ -1,14 +1,6 @@
 {
   "id": "harvest-bureau",
-  "name": {
-    "de": "Herbstschrank",
-    "en-GB": "Harvest Bureau",
-    "en-US": "Harvest Bureau",
-    "es": "Armario pavo",
-    "fr": "Armoire dindon",
-    "it": "Comò autunno",
-    "ja": "ハーベストクロゼット"
-  },
+  "name": "Harvest Bureau",
   "category": "Furniture",
   "games": {
     "nl": {

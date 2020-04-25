@@ -1,14 +1,6 @@
 {
   "id": "homework-set",
-  "name": {
-    "de": "Hausaufgaben-Set",
-    "en-GB": "Homework Set",
-    "en-US": "Homework Set",
-    "es": "Lote libros colegio",
-    "fr": "Lot livres scolaires",
-    "it": "Set per i compiti",
-    "ja": "おべんきょうセット"
-  },
+  "name": "Homework Set",
   "category": "Furniture",
   "games": {
     "nl": {

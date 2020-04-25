@@ -1,8 +1,6 @@
 {
   "id": "film-projector",
-  "name": {
-    "en-US": "Film Projector"
-  },
+  "name": "Film Projector",
   "games": {
     "nh": {
       "sellPrice": {

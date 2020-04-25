@@ -1,8 +1,6 @@
 {
   "id": "paw-slippers",
-  "name": {
-    "en-US": "Paw Slippers"
-  },
+  "name": "Paw Slippers",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,14 +1,6 @@
 {
   "id": "cacao-tree",
-  "name": {
-    "de": "Kakaobaum",
-    "en-GB": "Cacao Tree",
-    "en-US": "Cacao Tree",
-    "es": "Planta de cacao",
-    "fr": "Cacaoyer",
-    "it": "Pianta di cacao",
-    "ja": "カカオ"
-  },
+  "name": "Cacao Tree",
   "category": "Furniture",
   "games": {
     "nl": {

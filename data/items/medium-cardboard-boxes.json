@@ -1,8 +1,6 @@
 {
   "id": "medium-cardboard-boxes",
-  "name": {
-    "en-US": "Medium Cardboard Boxes"
-  },
+  "name": "Medium Cardboard Boxes",
   "games": {
     "nh": {
       "orderable": false,

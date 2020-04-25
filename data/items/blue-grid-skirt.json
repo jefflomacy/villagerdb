@@ -1,14 +1,6 @@
 {
   "id": "blue-grid-skirt",
-  "name": {
-    "de": "Gitterrock",
-    "en-GB": "Blue-Grid Skirt",
-    "en-US": "Blue-Grid Skirt",
-    "es": "Falda reja azul",
-    "fr": "Jupe grille bleue",
-    "it": "Gonna biancoblu",
-    "ja": "みずいろこうしのスカート"
-  },
+  "name": "Blue-grid Skirt",
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "yellow-vinyl-sheet",
-  "name": {
-    "en-US": "Yellow Vinyl Sheet"
-  },
+  "name": "Yellow Vinyl Sheet",
   "games": {
     "nh": {
       "sellPrice": {

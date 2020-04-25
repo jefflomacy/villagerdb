@@ -1,14 +1,6 @@
 {
   "id": "cosmos-fan",
-  "name": {
-    "de": "Kamillenventilator",
-    "en-GB": "Cosmos Fan",
-    "en-US": "Cosmos Fan",
-    "es": "Ventilador cosmos",
-    "fr": "Ventilateur cosmos",
-    "it": "Ventilatore cosmea",
-    "ja": "コスモスのせんぷうき"
-  },
+  "name": "Cosmos Fan",
   "category": "Furniture",
   "games": {
     "nl": {

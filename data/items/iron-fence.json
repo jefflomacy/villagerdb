@@ -1,8 +1,6 @@
 {
   "id": "iron-fence",
-  "name": {
-    "en-US": "Iron Fence"
-  },
+  "name": "Iron Fence",
   "games": {
     "nh": {
       "orderable": false,

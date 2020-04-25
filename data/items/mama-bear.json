@@ -1,14 +1,6 @@
 {
   "id": "mama-bear",
-  "name": {
-    "de": "Mama-Bär",
-    "en-GB": "Mama Bear",
-    "en-US": "Mama Bear",
-    "es": "Mamá oso",
-    "fr": "Maman ours",
-    "it": "Mamma orsa",
-    "ja": "くまのナミちゃん"
-  },
+  "name": "Mama Bear",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "red-heart-pattern-wall",
-  "name": {
-    "en-US": "Red Heart-pattern Wall"
-  },
+  "name": "Red Heart-pattern Wall",
   "games": {
     "nh": {
       "orderable": true,

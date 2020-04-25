@@ -1,8 +1,6 @@
 {
   "id": "snapping-turtle-model",
-  "name": {
-    "en-US": "Snapping Turtle Model"
-  },
+  "name": "Snapping Turtle Model",
   "games": {
     "nh": {
       "sellPrice": {

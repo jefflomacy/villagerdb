@@ -1,8 +1,6 @@
 {
   "id": "red-ornament",
-  "name": {
-    "en-US": "Red Ornament"
-  },
+  "name": "Red Ornament",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,8 +1,6 @@
 {
   "id": "myllokunmingia",
-  "name": {
-    "en-US": "Myllokunmingia"
-  },
+  "name": "Myllokunmingia",
   "games": {
     "nh": {
       "orderable": false,

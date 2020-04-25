@@ -1,14 +1,6 @@
 {
   "id": "harvest-table",
-  "name": {
-    "de": "Herbsttisch",
-    "en-GB": "Harvest Table",
-    "en-US": "Harvest Table",
-    "es": "Mesa pavo",
-    "fr": "Table dindon",
-    "it": "Tavolo autunno",
-    "ja": "ハーベストテーブル"
-  },
+  "name": "Harvest Table",
   "category": "Furniture",
   "games": {
     "nl": {

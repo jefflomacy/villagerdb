@@ -1,14 +1,6 @@
 {
   "id": "blue-stripe-tights",
-  "name": {
-    "de": "Blauringelstrumpf",
-    "en-GB": "Blue-Stripe Tights",
-    "en-US": "Blue-Stripe Tights",
-    "es": "Media rayas bicolor",
-    "fr": "Collant ray. bleues",
-    "it": "P. calze strisce blu",
-    "ja": "マリンボーダーのタイツ"
-  },
+  "name": "Blue-stripe Tights",
   "category": "Socks",
   "games": {
     "nl": {

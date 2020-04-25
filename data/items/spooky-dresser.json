@@ -1,14 +1,6 @@
 {
   "id": "spooky-dresser",
-  "name": {
-    "de": "Kürbiskommode",
-    "en-GB": "Spooky Dresser",
-    "en-US": "Spooky Dresser",
-    "es": "Cómoda calabaza",
-    "fr": "Buffet Halloween",
-    "it": "Comò brividi",
-    "ja": "ハロウィンタンス"
-  },
+  "name": "Spooky Dresser",
   "category": "Furniture",
   "games": {
     "nl": {

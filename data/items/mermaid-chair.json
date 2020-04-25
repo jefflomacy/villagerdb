@@ -1,14 +1,6 @@
 {
   "id": "mermaid-chair",
-  "name": {
-    "de": "Nixenstuhl",
-    "en-GB": "Mermaid Chair",
-    "en-US": "Mermaid Chair",
-    "es": "Silla sirena",
-    "fr": "Chaise sirène",
-    "it": "Sedia sirena",
-    "ja": "マーメイドなチェア"
-  },
+  "name": "Mermaid Chair",
   "category": "Furniture",
   "games": {
     "nl": {

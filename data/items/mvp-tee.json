@@ -1,14 +1,6 @@
 {
   "id": "mvp-tee",
-  "name": {
-    "de": "MVP-Shirt",
-    "en-GB": "MVP Tee",
-    "en-US": "MVP Tee",
-    "es": "Camiseta MVP",
-    "fr": "T-shirt MVP",
-    "it": "Maglietta MVP",
-    "ja": "MVPTシャツ"
-  },
+  "name": "Mvp Tee",
   "category": "Tops",
   "games": {
     "nl": {

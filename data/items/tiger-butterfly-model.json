@@ -1,8 +1,6 @@
 {
   "id": "tiger-butterfly-model",
-  "name": {
-    "en-US": "Tiger Butterfly Model"
-  },
+  "name": "Tiger Butterfly Model",
   "games": {
     "nh": {
       "sellPrice": {

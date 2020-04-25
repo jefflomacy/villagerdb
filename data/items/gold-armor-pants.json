@@ -1,14 +1,6 @@
 {
   "id": "gold-armor-pants",
-  "name": {
-    "de": "Goldrüstungshose",
-    "en-GB": "Gold-Armor Pants",
-    "en-US": "Gold-Armor Pants",
-    "es": "Greba de oro",
-    "fr": "Pantalon plates or",
-    "it": "Pantal. armatura oro",
-    "ja": "きんのすねあて"
-  },
+  "name": "Gold-armor Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "cute-wardrobe",
-  "name": {
-    "en-US": "Cute Wardrobe"
-  },
+  "name": "Cute Wardrobe",
   "games": {
     "nh": {
       "sellPrice": {

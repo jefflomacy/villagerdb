@@ -1,14 +1,6 @@
 {
   "id": "dream-catcher",
-  "name": {
-    "de": "Traumfänger",
-    "en-GB": "Dream Catcher",
-    "en-US": "Dream Catcher",
-    "es": "Atrapasueños",
-    "fr": "Attrapeur de rêves",
-    "it": "Acchiappasogni",
-    "ja": "ドリームキャッチャー"
-  },
+  "name": "Dream Catcher",
   "category": "Furniture",
   "games": {
     "nl": {

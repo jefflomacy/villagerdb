@@ -1,8 +1,6 @@
 {
   "id": "basement-flooring",
-  "name": {
-    "en-US": "Basement Flooring"
-  },
+  "name": "Basement Flooring",
   "games": {
     "nh": {
       "orderable": false,

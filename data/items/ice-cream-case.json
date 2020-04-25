@@ -1,14 +1,6 @@
 {
   "id": "ice-cream-case",
-  "name": {
-    "de": "Eiscremetruhe",
-    "en-GB": "Ice-Cream Case",
-    "en-US": "Ice-Cream Case",
-    "es": "Heladera terma",
-    "fr": "Congélo glaces",
-    "it": "Banco frigo",
-    "ja": "アイスケース"
-  },
+  "name": "Ice-cream Case",
   "category": "Furniture",
   "games": {
     "nl": {

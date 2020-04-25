@@ -1,14 +1,6 @@
 {
   "id": "heart-tee",
-  "name": {
-    "de": "Shirt \\u201EHerz\\u201C",
-    "en-GB": "Heart Tee",
-    "en-US": "Heart Tee",
-    "es": "Camiseta corazón",
-    "fr": "T-shirt c\\u0153ur",
-    "it": "Maglietta di cuori",
-    "ja": "ハートのふく"
-  },
+  "name": "Heart Tee",
   "category": "Tops",
   "games": {
     "nl": {

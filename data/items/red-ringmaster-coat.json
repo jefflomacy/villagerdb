@@ -1,14 +1,6 @@
 {
   "id": "red-ringmaster-coat",
-  "name": {
-    "de": "Dompteursjacke",
-    "en-GB": "Red Ringmaster Coat",
-    "en-US": "Red Ringmaster Coat",
-    "es": "Casaca circense roja",
-    "fr": "Veste Loyal rouge",
-    "it": "Giacca circo rossa",
-    "ja": "あかいきへいたいのふく"
-  },
+  "name": "Red Ringmaster Coat",
   "category": "Tops",
   "games": {
     "nl": {

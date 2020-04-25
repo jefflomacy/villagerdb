@@ -1,14 +1,6 @@
 {
   "id": "nine-lamp",
-  "name": {
-    "de": "\\u201E9\\u201C-Lampe",
-    "en-GB": "Nine Lamp",
-    "en-US": "Nine Lamp",
-    "es": "Lámpara nueve",
-    "fr": "Lampe 9",
-    "it": "Lampada a 9",
-    "ja": "9のランプ"
-  },
+  "name": "Nine Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

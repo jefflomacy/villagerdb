@@ -1,8 +1,6 @@
 {
   "id": "brown-shaggy-rug",
-  "name": {
-    "en-US": "Brown Shaggy Rug"
-  },
+  "name": "Brown Shaggy Rug",
   "games": {
     "nh": {
       "orderable": true,

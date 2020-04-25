@@ -1,8 +1,6 @@
 {
   "id": "acid-washed-jeans",
-  "name": {
-    "en-US": "Acid-washed Jeans"
-  },
+  "name": "Acid-washed Jeans",
   "games": {
     "nh": {
       "orderable": true,

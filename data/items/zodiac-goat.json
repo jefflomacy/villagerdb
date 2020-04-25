@@ -1,14 +1,6 @@
 {
   "id": "zodiac-goat",
-  "name": {
-    "de": "Schafsfigur",
-    "en-GB": "Zodiac Goat",
-    "en-US": "Zodiac Goat",
-    "es": "Figura de oveja",
-    "fr": "Figurine de mouton",
-    "it": "Figurina di pecora",
-    "ja": "えとのおきもの・ひつじ"
-  },
+  "name": "Zodiac Goat",
   "category": "Furniture",
   "games": {
     "nl": {

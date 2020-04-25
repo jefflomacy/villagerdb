@@ -1,14 +1,6 @@
 {
   "id": "ss-dolphin",
-  "name": {
-    "de": "Dolphin-Modell",
-    "en-GB": "S.S. Dolphin",
-    "en-US": "S.S. Dolphin",
-    "es": "Mini Dolphin",
-    "fr": "Maquette du Dolphin",
-    "it": "S.S. Dolphin",
-    "ja": "ドルフィンごう"
-  },
+  "name": "S.s. Dolphin",
   "category": "Furniture",
   "games": {
     "nl": {

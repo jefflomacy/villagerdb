@@ -1,14 +1,6 @@
 {
   "id": "dogtooth-tee",
-  "name": {
-    "de": "Pepita-Shirt",
-    "en-GB": "Dogtooth Tee",
-    "en-US": "Dogtooth Tee",
-    "es": "Camiseta pata gallo",
-    "fr": "T-shirt pied de coq",
-    "it": "Maglietta pied de p.",
-    "ja": "ちどりごうしのふく"
-  },
+  "name": "Dogtooth Tee",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "golden-bed",
-  "name": {
-    "de": "Goldbett",
-    "en-GB": "Golden Bed",
-    "en-US": "Golden Bed",
-    "es": "Cama dorada",
-    "fr": "Lit d'or",
-    "it": "Letto d'oro",
-    "ja": "おうごんのベッド"
-  },
+  "name": "Golden Bed",
   "category": "Furniture",
   "games": {
     "nl": {

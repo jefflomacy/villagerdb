@@ -1,8 +1,6 @@
 {
   "id": "dorado-model",
-  "name": {
-    "en-US": "Dorado Model"
-  },
+  "name": "Dorado Model",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "polka-dot-closet",
-  "name": {
-    "de": "Pünktchenschrank",
-    "en-GB": "Polka-Dot Closet",
-    "en-US": "Polka-Dot Closet",
-    "es": "Armario topos",
-    "fr": "Armoire à pois rouge",
-    "it": "Armadio pois",
-    "ja": "みずたまなクロゼット"
-  },
+  "name": "Polka-dot Closet",
   "category": "Furniture",
   "games": {
     "nl": {

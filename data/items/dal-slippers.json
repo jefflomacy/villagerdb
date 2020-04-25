@@ -1,8 +1,6 @@
 {
   "id": "dal-slippers",
-  "name": {
-    "en-US": "Dal Slippers"
-  },
+  "name": "Dal Slippers",
   "games": {
     "nh": {
       "orderable": false,

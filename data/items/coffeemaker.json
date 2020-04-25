@@ -1,14 +1,6 @@
 {
   "id": "coffeemaker",
-  "name": {
-    "de": "Kaffeemaschine",
-    "en-GB": "Coffeemaker",
-    "en-US": "Coffeemaker",
-    "es": "Cafetera",
-    "fr": "Cafetière",
-    "it": "Macchina da caffè",
-    "ja": "コーヒーメーカー"
-  },
+  "name": "Coffeemaker",
   "category": "Furniture",
   "games": {
     "nl": {

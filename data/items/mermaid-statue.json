@@ -1,14 +1,6 @@
 {
   "id": "mermaid-statue",
-  "name": {
-    "de": "Meerjungfrau",
-    "en-GB": "Mermaid Statue",
-    "en-US": "Mermaid Statue",
-    "es": "Sirenita",
-    "fr": "Statue de sirène",
-    "it": "Sirenetta",
-    "ja": "にんぎょぞう"
-  },
+  "name": "Mermaid Statue",
   "category": "Furniture",
   "games": {
     "nl": {

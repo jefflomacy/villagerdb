@@ -1,8 +1,6 @@
 {
   "id": "green-paint-flooring",
-  "name": {
-    "en-US": "Green-paint Flooring"
-  },
+  "name": "Green-paint Flooring",
   "games": {
     "nh": {
       "orderable": true,

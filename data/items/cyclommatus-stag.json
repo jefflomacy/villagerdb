@@ -1,8 +1,6 @@
 {
   "id": "cyclommatus-stag",
-  "name": {
-    "en-US": "Cyclommatus Stag"
-  },
+  "name": "Cyclommatus Stag",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,14 +1,6 @@
 {
   "id": "tropical-sandals",
-  "name": {
-    "de": "Tropensandale",
-    "en-GB": "Tropical Sandals",
-    "en-US": "Tropical Sandals",
-    "es": "Sandalia tropical",
-    "fr": "Paire tongs tropique",
-    "it": "P. sandali tropicali",
-    "ja": "エスニックなサンダル"
-  },
+  "name": "Tropical Sandals",
   "category": "Shoes",
   "games": {
     "nl": {

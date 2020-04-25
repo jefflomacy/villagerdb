@@ -1,8 +1,6 @@
 {
   "id": "gullivers-poster",
-  "name": {
-    "en-US": "Gulliver's Poster"
-  },
+  "name": "Gulliver's Poster",
   "games": {
     "nh": {
       "sources": [

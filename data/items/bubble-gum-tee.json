@@ -1,14 +1,6 @@
 {
   "id": "bubble-gum-tee",
-  "name": {
-    "de": "Pünktchenshirt",
-    "en-GB": "Bubble-Gum Tee",
-    "en-US": "Bubble-Gum Tee",
-    "es": "Camiseta topos rosa",
-    "fr": "T-shirt à pois roses",
-    "it": "Maglietta pois rosa",
-    "ja": "いちごマーブルなふく"
-  },
+  "name": "Bubble-gum Tee",
   "category": "Tops",
   "games": {
     "nl": {

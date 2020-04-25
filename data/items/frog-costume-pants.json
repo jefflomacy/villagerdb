@@ -1,14 +1,6 @@
 {
   "id": "frog-costume-pants",
-  "name": {
-    "de": "Froschhose",
-    "en-GB": "Frog-Costume Pants",
-    "en-US": "Frog-Costume Pants",
-    "es": "Pantalón rana",
-    "fr": "Bas grenouille",
-    "it": "Pantalone rana",
-    "ja": "カエルなズボン"
-  },
+  "name": "Frog-costume Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "snowflake",
-  "name": {
-    "en-US": "Snowflake"
-  },
+  "name": "Snowflake",
   "games": {
     "nh": {
       "sellPrice": {

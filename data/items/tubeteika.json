@@ -1,8 +1,6 @@
 {
   "id": "tubeteika",
-  "name": {
-    "en-US": "Tubeteika"
-  },
+  "name": "Tubeteika",
   "games": {
     "nh": {
       "orderable": false,

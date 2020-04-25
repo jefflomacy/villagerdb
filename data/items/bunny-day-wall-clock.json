@@ -1,8 +1,6 @@
 {
   "id": "bunny-day-wall-clock",
-  "name": {
-    "en-US": "Bunny Day Wall Clock"
-  },
+  "name": "Bunny Day Wall Clock",
   "games": {
     "nh": {
       "orderable": false,

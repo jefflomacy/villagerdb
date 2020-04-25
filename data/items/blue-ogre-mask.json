@@ -1,14 +1,6 @@
 {
   "id": "blue-ogre-mask",
-  "name": {
-    "de": "Ogermaske (blau)",
-    "en-GB": "Blue Ogre Mask",
-    "en-US": "Blue Ogre Mask",
-    "es": "Careta ogro azul",
-    "fr": "Masque d'ogre bleu",
-    "it": "Masch. Setsubun blu",
-    "ja": "あおオニのおめん"
-  },
+  "name": "Blue Ogre Mask",
   "category": "Hats",
   "games": {
     "nl": {

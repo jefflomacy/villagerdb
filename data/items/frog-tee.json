@@ -1,14 +1,6 @@
 {
   "id": "frog-tee",
-  "name": {
-    "de": "Quak-Shirt",
-    "en-GB": "Frog Tee",
-    "en-US": "Frog Tee",
-    "es": "Camiseta ranita",
-    "fr": "T-shirt rainette",
-    "it": "Maglietta rana",
-    "ja": "かえるのふく"
-  },
+  "name": "Frog Tee",
   "category": "Tops",
   "games": {
     "nl": {

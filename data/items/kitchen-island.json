@@ -1,14 +1,6 @@
 {
   "id": "kitchen-island",
-  "name": {
-    "de": "Kücheninsel",
-    "en-GB": "Kitchen Island",
-    "en-US": "Kitchen Island",
-    "es": "Isla de cocina",
-    "fr": "îlot de cuisine",
-    "it": "Isola da cucina",
-    "ja": "アイランドキッチン"
-  },
+  "name": "Kitchen Island",
   "category": "Furniture",
   "games": {
     "nl": {

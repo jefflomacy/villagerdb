@@ -1,8 +1,6 @@
 {
   "id": "wood",
-  "name": {
-    "en-US": "Wood"
-  },
+  "name": "Wood",
   "category": "Usables",
   "games": {
     "nh": {

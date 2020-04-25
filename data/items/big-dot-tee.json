@@ -1,14 +1,6 @@
 {
   "id": "big-dot-tee",
-  "name": {
-    "de": "Eiscreme-Shirt",
-    "en-GB": "Big-Dot Tee",
-    "en-US": "Big-Dot Tee",
-    "es": "Camiseta miel",
-    "fr": "T-shirt pois orange",
-    "it": "Maglietta gial. pois",
-    "ja": "きいろみずたまのふく"
-  },
+  "name": "Big-dot Tee",
   "category": "Tops",
   "games": {
     "nl": {

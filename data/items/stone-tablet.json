@@ -1,8 +1,6 @@
 {
   "id": "stone-tablet",
-  "name": {
-    "en-US": "Stone Tablet"
-  },
+  "name": "Stone Tablet",
   "games": {
     "nh": {
       "orderable": false,

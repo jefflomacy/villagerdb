@@ -1,8 +1,6 @@
 {
   "id": "bone-doorplate",
-  "name": {
-    "en-US": "Bone Doorplate"
-  },
+  "name": "Bone Doorplate",
   "games": {
     "nh": {
       "customizable": true,

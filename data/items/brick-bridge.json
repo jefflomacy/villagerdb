@@ -1,8 +1,6 @@
 {
   "id": "brick-bridge",
-  "name": {
-    "en-US": "Brick Bridge"
-  },
+  "name": "Brick Bridge",
   "games": {
     "nh": {
       "buyPrices": [

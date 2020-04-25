@@ -1,8 +1,6 @@
 {
   "id": "green-paint-wall",
-  "name": {
-    "en-US": "Green-paint Wall"
-  },
+  "name": "Green-paint Wall",
   "games": {
     "nh": {
       "orderable": true,

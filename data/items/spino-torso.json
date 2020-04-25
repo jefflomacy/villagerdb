@@ -1,14 +1,6 @@
 {
   "id": "spino-torso",
-  "name": {
-    "de": "Spinosaurus-Torso",
-    "en-GB": "Spino Torso",
-    "en-US": "Spino Torso",
-    "es": "Cuerpo espinosaurio",
-    "fr": "Corps de spinosaurus",
-    "it": "Torso spinosauro",
-    "ja": "スピノサウルスのからだ"
-  },
+  "name": "Spino Torso",
   "category": "Fossils",
   "games": {
     "nl": {

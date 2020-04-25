@@ -1,8 +1,6 @@
 {
   "id": "goldfish-model",
-  "name": {
-    "en-US": "Goldfish Model"
-  },
+  "name": "Goldfish Model",
   "games": {
     "nh": {
       "sellPrice": {

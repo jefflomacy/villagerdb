@@ -1,8 +1,6 @@
 {
   "id": "cricket-model",
-  "name": {
-    "en-US": "Cricket Model"
-  },
+  "name": "Cricket Model",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "water-cooler",
-  "name": {
-    "de": "Wasserspender",
-    "en-GB": "Water Cooler",
-    "en-US": "Water Cooler",
-    "es": "Surtidor de agua",
-    "fr": "Fontaine à eau",
-    "it": "Distributore d'acqua",
-    "ja": "ウォーターサーバー"
-  },
+  "name": "Water Cooler",
   "category": "Furniture",
   "games": {
     "nl": {

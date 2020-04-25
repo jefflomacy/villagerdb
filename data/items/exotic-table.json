@@ -1,14 +1,6 @@
 {
   "id": "exotic-table",
-  "name": {
-    "de": "Orient-Tisch",
-    "en-GB": "Exotic Table",
-    "en-US": "Exotic Table",
-    "es": "Mesa exótica",
-    "fr": "Table teck",
-    "it": "Tavolo esotico",
-    "ja": "アジアなテーブル"
-  },
+  "name": "Exotic Table",
   "category": "Furniture",
   "games": {
     "nl": {

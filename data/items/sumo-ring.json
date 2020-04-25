@@ -1,8 +1,6 @@
 {
   "id": "sumo-ring",
-  "name": {
-    "en-US": "Sumo Ring"
-  },
+  "name": "Sumo Ring",
   "games": {
     "nh": {
       "sellPrice": {

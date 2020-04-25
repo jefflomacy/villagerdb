@@ -1,14 +1,6 @@
 {
   "id": "humidifier",
-  "name": {
-    "de": "Luftbefeuchter",
-    "en-GB": "Humidifier",
-    "en-US": "Humidifier",
-    "es": "Humidificador",
-    "fr": "Humidificateur",
-    "it": "Umidificatore",
-    "ja": "かしつき"
-  },
+  "name": "Humidifier",
   "category": "Furniture",
   "games": {
     "nl": {

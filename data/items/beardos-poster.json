@@ -1,8 +1,6 @@
 {
   "id": "beardos-poster",
-  "name": {
-    "en-US": "Beardo's Poster"
-  },
+  "name": "Beardo's Poster",
   "games": {
     "nh": {
       "sources": [

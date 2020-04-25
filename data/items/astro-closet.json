@@ -1,14 +1,6 @@
 {
   "id": "astro-closet",
-  "name": {
-    "de": "Astroschrank",
-    "en-GB": "Astro Closet",
-    "en-US": "Astro Closet",
-    "es": "Armario futurista",
-    "fr": "Armoire astro",
-    "it": "Armadio futuro",
-    "ja": "きんみらいなクロゼット"
-  },
+  "name": "Astro Closet",
   "category": "Furniture",
   "games": {
     "nl": {

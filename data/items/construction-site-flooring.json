@@ -1,8 +1,6 @@
 {
   "id": "construction-site-flooring",
-  "name": {
-    "en-US": "Construction-site Flooring"
-  },
+  "name": "Construction-site Flooring",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,14 +1,6 @@
 {
   "id": "cabana-bed",
-  "name": {
-    "de": "Korbbett",
-    "en-GB": "Cabana Bed",
-    "en-US": "Cabana Bed",
-    "es": "Cama mimbre",
-    "fr": "Lit rotin",
-    "it": "Letto vimini",
-    "ja": "リゾートなベッド"
-  },
+  "name": "Cabana Bed",
   "category": "Furniture",
   "games": {
     "nl": {

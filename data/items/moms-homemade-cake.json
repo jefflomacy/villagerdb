@@ -1,8 +1,6 @@
 {
   "id": "moms-homemade-cake",
-  "name": {
-    "en-US": "Mom's Homemade Cake"
-  },
+  "name": "Mom's Homemade Cake",
   "games": {
     "nh": {
       "orderable": false,

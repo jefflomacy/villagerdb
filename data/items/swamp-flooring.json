@@ -1,8 +1,6 @@
 {
   "id": "swamp-flooring",
-  "name": {
-    "en-US": "Swamp Flooring"
-  },
+  "name": "Swamp Flooring",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,14 +1,6 @@
 {
   "id": "green-lamp",
-  "name": {
-    "de": "Smaragdtischchen",
-    "en-GB": "Green Lamp",
-    "en-US": "Green Lamp",
-    "es": "Lámpara verde",
-    "fr": "Lampe verte",
-    "it": "Lampada verde",
-    "ja": "みどりのランプ"
-  },
+  "name": "Green Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

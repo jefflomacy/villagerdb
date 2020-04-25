@@ -1,8 +1,6 @@
 {
   "id": "camofrogs-photo",
-  "name": {
-    "en-US": "Camofrog's Photo"
-  },
+  "name": "Camofrog's Photo",
   "games": {
     "nh": {
       "sellPrice": {

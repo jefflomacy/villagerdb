@@ -1,8 +1,6 @@
 {
   "id": "street-piano",
-  "name": {
-    "en-US": "Street Piano"
-  },
+  "name": "Street Piano",
   "games": {
     "nh": {
       "customizable": true,

@@ -1,14 +1,6 @@
 {
   "id": "toilet",
-  "name": {
-    "de": "Toilette",
-    "en-GB": "Toilet",
-    "en-US": "Toilet",
-    "es": "Inodoro",
-    "fr": "WC",
-    "it": "Water bianco",
-    "ja": "ようしきトイレ"
-  },
+  "name": "Toilet",
   "category": "Furniture",
   "games": {
     "nl": {

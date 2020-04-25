@@ -1,8 +1,6 @@
 {
   "id": "athletic-shorts",
-  "name": {
-    "en-US": "Athletic Shorts"
-  },
+  "name": "Athletic Shorts",
   "games": {
     "nh": {
       "orderable": true,

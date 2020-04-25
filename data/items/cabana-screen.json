@@ -1,14 +1,6 @@
 {
   "id": "cabana-screen",
-  "name": {
-    "de": "Korb-Wandschirm",
-    "en-GB": "Cabana Screen",
-    "en-US": "Cabana Screen",
-    "es": "Biombo mimbre",
-    "fr": "Paravent rotin",
-    "it": "Separé vimini",
-    "ja": "リゾートなスクリーン"
-  },
+  "name": "Cabana Screen",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "blue-stripe-tee",
-  "name": {
-    "de": "Matrosenshirt",
-    "en-GB": "Blue-Stripe Tee",
-    "en-US": "Blue-Stripe Tee",
-    "es": "Camiseta playa azul",
-    "fr": "T-shirt marin",
-    "it": "Maglietta righe blu",
-    "ja": "マリンボーダーのふく"
-  },
+  "name": "Blue-stripe Tee",
   "category": "Tops",
   "games": {
     "nl": {

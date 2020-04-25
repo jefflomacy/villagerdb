@@ -1,14 +1,6 @@
 {
   "id": "paper-lantern",
-  "name": {
-    "de": "Papierlaterne",
-    "en-GB": "Paper Lantern",
-    "en-US": "Paper Lantern",
-    "es": "Farolillo",
-    "fr": "Lampion",
-    "it": "Lanterna carta",
-    "ja": "あんどん"
-  },
+  "name": "Paper Lantern",
   "category": "Furniture",
   "games": {
     "nl": {

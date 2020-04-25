@@ -1,8 +1,6 @@
 {
   "id": "agent-ss-poster",
-  "name": {
-    "en-US": "Agent S's Poster"
-  },
+  "name": "Agent S's Poster",
   "games": {
     "nh": {
       "sources": [

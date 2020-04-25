@@ -1,14 +1,6 @@
 {
   "id": "dala-horse",
-  "name": {
-    "de": "Dalapferd",
-    "en-GB": "Dala Horse",
-    "en-US": "Dala Horse",
-    "es": "Caballo Dalecarlia",
-    "fr": "Cheval de Dala",
-    "it": "Cavallo Dala",
-    "ja": "ダーラヘスト"
-  },
+  "name": "Dala Horse",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "pink-nightcap",
-  "name": {
-    "de": "Mädchen-Nachtmütze",
-    "en-GB": "Pink Nightcap",
-    "en-US": "Pink Nightcap",
-    "es": "Gorro de dormir rosa",
-    "fr": "Bonnet de nuit rose",
-    "it": "Berretto notte rosa",
-    "ja": "あかいナイトキャップ"
-  },
+  "name": "Pink Nightcap",
   "category": "Hats",
   "games": {
     "nl": {

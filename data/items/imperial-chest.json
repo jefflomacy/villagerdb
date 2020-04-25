@@ -1,8 +1,6 @@
 {
   "id": "imperial-chest",
-  "name": {
-    "en-US": "Imperial Chest"
-  },
+  "name": "Imperial Chest",
   "games": {
     "nh": {
       "sellPrice": {

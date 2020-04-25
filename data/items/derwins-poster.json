@@ -1,8 +1,6 @@
 {
   "id": "derwins-poster",
-  "name": {
-    "en-US": "Derwin's Poster"
-  },
+  "name": "Derwin's Poster",
   "games": {
     "nh": {
       "sources": [

@@ -1,8 +1,6 @@
 {
   "id": "frozen-treat-set",
-  "name": {
-    "en-US": "Frozen-treat Set"
-  },
+  "name": "Frozen-treat Set",
   "games": {
     "nh": {
       "sellPrice": {

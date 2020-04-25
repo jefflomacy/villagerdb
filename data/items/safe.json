@@ -1,14 +1,6 @@
 {
   "id": "safe",
-  "name": {
-    "de": "Safe",
-    "en-GB": "Safe",
-    "en-US": "Safe",
-    "es": "Caja fuerte",
-    "fr": "Coffre-fort",
-    "it": "Cassaforte",
-    "ja": "きんこ"
-  },
+  "name": "Safe",
   "category": "Furniture",
   "games": {
     "nl": {

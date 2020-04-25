@@ -1,8 +1,6 @@
 {
   "id": "poolside-bed",
-  "name": {
-    "en-US": "Poolside Bed"
-  },
+  "name": "Poolside Bed",
   "games": {
     "nh": {
       "orderable": true,

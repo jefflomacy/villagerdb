@@ -1,8 +1,6 @@
 {
   "id": "fossil-rug",
-  "name": {
-    "en-US": "Fossil Rug"
-  },
+  "name": "Fossil Rug",
   "games": {
     "nh": {
       "orderable": true,

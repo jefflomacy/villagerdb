@@ -1,14 +1,6 @@
 {
   "id": "clackercart",
-  "name": {
-    "de": "Spielwagen",
-    "en-GB": "Clackercart",
-    "en-US": "Clackercart",
-    "es": "Carrito carraca",
-    "fr": "Chariot",
-    "it": "Macchinina",
-    "ja": "ておしぐるま"
-  },
+  "name": "Clackercart",
   "category": "Furniture",
   "games": {
     "nl": {

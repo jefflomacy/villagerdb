@@ -1,8 +1,6 @@
 {
   "id": "outdoor-hat",
-  "name": {
-    "en-US": "Outdoor Hat"
-  },
+  "name": "Outdoor Hat",
   "games": {
     "nh": {
       "orderable": true,

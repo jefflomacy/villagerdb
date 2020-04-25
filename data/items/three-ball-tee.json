@@ -1,14 +1,6 @@
 {
   "id": "three-ball-tee",
-  "name": {
-    "de": "3er-Shirt",
-    "en-GB": "Three-Ball Tee",
-    "en-US": "Three-Ball Tee",
-    "es": "Camiseta bola 3",
-    "fr": "T-shirt nº 3",
-    "it": "Maglietta palla 3",
-    "ja": "3ばんだまのふく"
-  },
+  "name": "Three-ball Tee",
   "category": "Tops",
   "games": {
     "nl": {

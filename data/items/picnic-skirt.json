@@ -1,14 +1,6 @@
 {
   "id": "picnic-skirt",
-  "name": {
-    "de": "Rosa-Karo-Rock",
-    "en-GB": "Picnic Skirt",
-    "en-US": "Picnic Skirt",
-    "es": "Falda vichy lila",
-    "fr": "Jupe vichy sorbet",
-    "it": "Gonna amarena",
-    "ja": "ベリーギンガムなスカート"
-  },
+  "name": "Picnic Skirt",
   "category": "Bottoms",
   "games": {
     "nl": {

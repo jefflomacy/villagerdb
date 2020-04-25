@@ -1,8 +1,6 @@
 {
   "id": "snack-machine",
-  "name": {
-    "en-US": "Snack Machine"
-  },
+  "name": "Snack Machine",
   "category": "Furniture",
   "games": {
     "nl": {

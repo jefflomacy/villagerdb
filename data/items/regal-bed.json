@@ -1,14 +1,6 @@
 {
   "id": "regal-bed",
-  "name": {
-    "de": "Royalbett",
-    "en-GB": "Regal Bed",
-    "en-US": "Regal Bed",
-    "es": "Cama regia",
-    "fr": "Lit royal",
-    "it": "Letto chic",
-    "ja": "ロイヤルなベッド"
-  },
+  "name": "Regal Bed",
   "category": "Furniture",
   "games": {
     "nl": {

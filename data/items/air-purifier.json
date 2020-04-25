@@ -1,8 +1,6 @@
 {
   "id": "air-purifier",
-  "name": {
-    "en-US": "Air Purifier"
-  },
+  "name": "Air Purifier",
   "category": "Furniture",
   "games": {
     "nl": {

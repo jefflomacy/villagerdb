@@ -1,14 +1,6 @@
 {
   "id": "blue-check-tee",
-  "name": {
-    "de": "Blauweiß-Shirt",
-    "en-GB": "Blue-Check Tee",
-    "en-US": "Blue-Check Tee",
-    "es": "Camiseta trapo azul",
-    "fr": "T-shirt carrés bleu",
-    "it": "Maglietta quadri blu",
-    "ja": "あおチェックのふく"
-  },
+  "name": "Blue-check Tee",
   "category": "Tops",
   "games": {
     "nl": {

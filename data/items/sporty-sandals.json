@@ -1,8 +1,6 @@
 {
   "id": "sporty-sandals",
-  "name": {
-    "en-US": "Sporty Sandals"
-  },
+  "name": "Sporty Sandals",
   "games": {
     "nh": {
       "sellPrice": {

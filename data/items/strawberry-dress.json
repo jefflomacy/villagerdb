@@ -1,8 +1,6 @@
 {
   "id": "strawberry-dress",
-  "name": {
-    "en-US": "Strawberry Dress"
-  },
+  "name": "Strawberry Dress",
   "games": {
     "nh": {
       "sellPrice": {

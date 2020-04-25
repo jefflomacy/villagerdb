@@ -1,14 +1,6 @@
 {
   "id": "ladybug-tank",
-  "name": {
-    "de": "Käfertop",
-    "en-GB": "Ladybug Tank",
-    "en-US": "Ladybug Tank",
-    "es": "Top mariquita",
-    "fr": "Débardeur coccinelle",
-    "it": "Canotta coccinella",
-    "ja": "てんとうむしのふく"
-  },
+  "name": "Ladybug Tank",
   "category": "Tops",
   "games": {
     "nl": {

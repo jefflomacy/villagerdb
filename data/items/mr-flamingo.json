@@ -1,14 +1,6 @@
 {
   "id": "mr-flamingo",
-  "name": {
-    "de": "Mr. Flamingo",
-    "en-GB": "Mr. Flamingo",
-    "en-US": "Mr. Flamingo",
-    "es": "Sr. Flamenco",
-    "fr": "M. Flamingo",
-    "it": "Fenicottero 1",
-    "ja": "おすのフラミンゴ"
-  },
+  "name": "Mr. Flamingo",
   "category": "Furniture",
   "games": {
     "nl": {

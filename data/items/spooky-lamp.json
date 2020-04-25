@@ -1,14 +1,6 @@
 {
   "id": "spooky-lamp",
-  "name": {
-    "de": "Kürbislampe",
-    "en-GB": "Spooky Lamp",
-    "en-US": "Spooky Lamp",
-    "es": "Lámpara calabaza",
-    "fr": "Lampe Halloween",
-    "it": "Lampada brividi",
-    "ja": "ハロウィンランプ"
-  },
+  "name": "Spooky Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

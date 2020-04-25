@@ -1,8 +1,6 @@
 {
   "id": "ugly-shirt",
-  "name": {
-    "en-US": "Ugly Shirt"
-  },
+  "name": "Ugly Shirt",
   "category": "Tops",
   "games": {
     "ac": {

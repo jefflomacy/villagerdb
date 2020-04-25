@@ -1,8 +1,6 @@
 {
   "id": "artisanal-bug-cage",
-  "name": {
-    "en-US": "Artisanal Bug Cage"
-  },
+  "name": "Artisanal Bug Cage",
   "games": {
     "nh": {
       "sellPrice": {

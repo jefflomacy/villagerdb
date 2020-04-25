@@ -1,14 +1,6 @@
 {
   "id": "military-pants",
-  "name": {
-    "de": "Militärhose",
-    "en-GB": "Military Pants",
-    "en-US": "Military Pants",
-    "es": "Pantalón militar",
-    "fr": "Pantalon militaire",
-    "it": "Pantalone militare",
-    "ja": "へいたいズボン"
-  },
+  "name": "Military Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

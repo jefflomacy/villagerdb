@@ -1,8 +1,6 @@
 {
   "id": "bath-tile",
-  "name": {
-    "en-US": "Bath Tile"
-  },
+  "name": "Bath Tile",
   "category": "Flooring",
   "games": {
     "nl": {

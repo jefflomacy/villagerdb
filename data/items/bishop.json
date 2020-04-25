@@ -1,14 +1,6 @@
 {
   "id": "bishop",
-  "name": {
-    "de": "Läufer",
-    "en-GB": "Bishop",
-    "en-US": "Bishop",
-    "es": "Alfil",
-    "fr": "Fou",
-    "it": "Alfiere",
-    "ja": "ビショップのこま"
-  },
+  "name": "Bishop",
   "category": "Furniture",
   "games": {
     "nl": {

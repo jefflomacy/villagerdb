@@ -1,14 +1,6 @@
 {
   "id": "nebula-shirt",
-  "name": {
-    "de": "Funkelpulli",
-    "en-GB": "Nebula Shirt",
-    "en-US": "Nebula Shirt",
-    "es": "Jersey nebulosa",
-    "fr": "Pull galaxie",
-    "it": "Maglia nebulosa",
-    "ja": "ネビュラなふくL"
-  },
+  "name": "Nebula Shirt",
   "category": "Tops",
   "games": {
     "nl": {

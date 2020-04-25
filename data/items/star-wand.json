@@ -1,8 +1,6 @@
 {
   "id": "star-wand",
-  "name": {
-    "en-US": "Star Wand"
-  },
+  "name": "Star Wand",
   "games": {
     "nh": {
       "orderable": false,

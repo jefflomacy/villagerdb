@@ -1,8 +1,6 @@
 {
   "id": "accessories-stand",
-  "name": {
-    "en-US": "Accessories Stand"
-  },
+  "name": "Accessories Stand",
   "games": {
     "nh": {
       "orderable": true,

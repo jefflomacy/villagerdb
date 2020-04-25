@@ -1,14 +1,6 @@
 {
   "id": "green-shell",
-  "name": {
-    "de": "Koopa-Panzer",
-    "en-GB": "Green Shell",
-    "en-US": "Green Shell",
-    "es": "Caparazón verde",
-    "fr": "Carapace verte",
-    "it": "Guscio verde",
-    "ja": "ミドリこうら"
-  },
+  "name": "Green Shell",
   "category": "Furniture",
   "games": {
     "nl": {

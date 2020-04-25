@@ -1,14 +1,6 @@
 {
   "id": "yellow-cap",
-  "name": {
-    "de": "Streifenkappe",
-    "en-GB": "Yellow Cap",
-    "en-US": "Yellow Cap",
-    "es": "Gorra amarilla",
-    "fr": "Casquette jaune",
-    "it": "Cappello giallo",
-    "ja": "きいろいキャップ"
-  },
+  "name": "Yellow Cap",
   "category": "Hats",
   "games": {
     "nl": {

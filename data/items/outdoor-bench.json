@@ -1,8 +1,6 @@
 {
   "id": "outdoor-bench",
-  "name": {
-    "en-US": "Outdoor Bench"
-  },
+  "name": "Outdoor Bench",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,8 +1,6 @@
 {
   "id": "horned-atlas-model",
-  "name": {
-    "en-US": "Horned Atlas Model"
-  },
+  "name": "Horned Atlas Model",
   "games": {
     "nh": {
       "sellPrice": {

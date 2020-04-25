@@ -1,14 +1,6 @@
 {
   "id": "lovely-doll",
-  "name": {
-    "de": "Fernost-Puppe",
-    "en-GB": "Lovely Doll",
-    "en-US": "Lovely Doll",
-    "es": "Muñeca japonesa",
-    "fr": "Poupée japonaise",
-    "it": "Bambola giapponese",
-    "ja": "にほんにんぎょう"
-  },
+  "name": "Lovely Doll",
   "category": "Furniture",
   "games": {
     "nl": {

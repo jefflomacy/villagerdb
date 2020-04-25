@@ -1,14 +1,6 @@
 {
   "id": "yellow-pumpkin-head",
-  "name": {
-    "de": "Kürbiskopf (gelb)",
-    "en-GB": "Yellow-Pumpkin Head",
-    "en-US": "Yellow-Pumpkin Head",
-    "es": "Calabaza amarilla",
-    "fr": "Citrouille jaune",
-    "it": "Testa zucca gialla",
-    "ja": "イエローかぼちゃマスク"
-  },
+  "name": "Yellow-pumpkin Head",
   "category": "Hats",
   "games": {
     "nl": {

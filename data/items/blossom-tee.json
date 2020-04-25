@@ -1,14 +1,6 @@
 {
   "id": "blossom-tee",
-  "name": {
-    "de": "Blütenshirt",
-    "en-GB": "Blossom Tee",
-    "en-US": "Blossom Tee",
-    "es": "Camiseta rosácea",
-    "fr": "T-shirt fleuri",
-    "it": "Maglietta fioritura",
-    "ja": "ピンクはながらのふく"
-  },
+  "name": "Blossom Tee",
   "category": "Tops",
   "games": {
     "nl": {

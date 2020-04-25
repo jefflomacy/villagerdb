@@ -1,8 +1,6 @@
 {
   "id": "soft-shelled-turtle-model",
-  "name": {
-    "en-US": "Soft-shelled Turtle Model"
-  },
+  "name": "Soft-shelled Turtle Model",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "maple-bonsai",
-  "name": {
-    "de": "Ahorn-Bonsai",
-    "en-GB": "Maple Bonsai",
-    "en-US": "Maple Bonsai",
-    "es": "Arce bonsái",
-    "fr": "Bonsaï érable",
-    "it": "Bonsai acero",
-    "ja": "モミジのぼんさい"
-  },
+  "name": "Maple Bonsai",
   "category": "Furniture",
   "games": {
     "nl": {

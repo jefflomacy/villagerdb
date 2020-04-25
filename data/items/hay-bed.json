@@ -1,8 +1,6 @@
 {
   "id": "hay-bed",
-  "name": {
-    "en-US": "Hay Bed"
-  },
+  "name": "Hay Bed",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "wooden-low-table",
-  "name": {
-    "en-US": "Wooden Low Table"
-  },
+  "name": "Wooden Low Table",
   "games": {
     "nh": {
       "orderable": false,

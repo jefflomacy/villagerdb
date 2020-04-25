@@ -1,8 +1,6 @@
 {
   "id": "ironwood-diy-workbench",
-  "name": {
-    "en-US": "Ironwood Diy Workbench"
-  },
+  "name": "Ironwood Diy Workbench",
   "games": {
     "nh": {
       "orderable": false,

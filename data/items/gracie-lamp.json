@@ -1,14 +1,6 @@
 {
   "id": "gracie-lamp",
-  "name": {
-    "de": "Grazialampe",
-    "en-GB": "Gracie Lamp",
-    "en-US": "Gracie Lamp",
-    "es": "Lámpara Graciela",
-    "fr": "Lampe Carla",
-    "it": "Lampada Griffa",
-    "ja": "グレースランプ"
-  },
+  "name": "Gracie Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

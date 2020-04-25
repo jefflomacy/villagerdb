@@ -1,8 +1,6 @@
 {
   "id": "saw-stag-model",
-  "name": {
-    "en-US": "Saw Stag Model"
-  },
+  "name": "Saw Stag Model",
   "games": {
     "nh": {
       "sellPrice": {

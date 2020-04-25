@@ -1,8 +1,6 @@
 {
   "id": "lobby-floor",
-  "name": {
-    "en-US": "Lobby Floor"
-  },
+  "name": "Lobby Floor",
   "category": "Flooring",
   "games": {
     "nl": {

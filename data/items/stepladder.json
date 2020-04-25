@@ -1,14 +1,6 @@
 {
   "id": "stepladder",
-  "name": {
-    "de": "Stehleiter",
-    "en-GB": "Stepladder",
-    "en-US": "Stepladder",
-    "es": "Escalera plegable",
-    "fr": "Marchepied",
-    "it": "Scaletta",
-    "ja": "きゃたつ"
-  },
+  "name": "Stepladder",
   "category": "Furniture",
   "games": {
     "nl": {

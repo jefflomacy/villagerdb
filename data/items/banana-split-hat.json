@@ -1,14 +1,6 @@
 {
   "id": "banana-split-hat",
-  "name": {
-    "de": "Bananensplit-Hut",
-    "en-GB": "Banana-Split Hat",
-    "en-US": "Banana-Split Hat",
-    "es": "Sombrero postre",
-    "fr": "Chapeau glacé",
-    "it": "Capp. banana split",
-    "ja": "バナナスプリットのぼうし"
-  },
+  "name": "Banana-split Hat",
   "category": "Hats",
   "games": {
     "nl": {

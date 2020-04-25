@@ -1,8 +1,6 @@
 {
   "id": "collarless-shirt",
-  "name": {
-    "en-US": "Collarless Shirt"
-  },
+  "name": "Collarless Shirt",
   "games": {
     "nh": {
       "sellPrice": {

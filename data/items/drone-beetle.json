@@ -1,8 +1,6 @@
 {
   "id": "drone-beetle",
-  "name": {
-    "en-US": "Drone Beetle"
-  },
+  "name": "Drone Beetle",
   "games": {
     "nh": {
       "orderable": false,

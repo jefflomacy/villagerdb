@@ -1,8 +1,6 @@
 {
   "id": "blue-honeycomb-tile-wall",
-  "name": {
-    "en-US": "Blue Honeycomb-tile Wall"
-  },
+  "name": "Blue Honeycomb-tile Wall",
   "games": {
     "nh": {
       "orderable": true,

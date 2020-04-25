@@ -1,14 +1,6 @@
 {
   "id": "tapestry",
-  "name": {
-    "de": "Wandteppich",
-    "en-GB": "Tapestry",
-    "en-US": "Tapestry",
-    "es": "Tapiz",
-    "fr": "Tapisserie",
-    "it": "Arazzo",
-    "ja": "タペストリー"
-  },
+  "name": "Tapestry",
   "category": "Furniture",
   "games": {
     "nl": {

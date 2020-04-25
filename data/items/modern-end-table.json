@@ -1,14 +1,6 @@
 {
   "id": "modern-end-table",
-  "name": {
-    "de": "Schachecktisch",
-    "en-GB": "Modern End Table",
-    "en-US": "Modern End Table",
-    "es": "Mesita moderna",
-    "fr": "Table moderne",
-    "it": "Tavolino moderno",
-    "ja": "ツートンテーブル"
-  },
+  "name": "Modern End Table",
   "category": "Furniture",
   "games": {
     "nl": {

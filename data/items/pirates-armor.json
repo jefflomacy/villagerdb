@@ -1,14 +1,6 @@
 {
   "id": "pirates-armor",
-  "name": {
-    "de": "Piratenrüstung",
-    "en-GB": "Pirate's Armor",
-    "en-US": "Pirate's Armor",
-    "es": "Escudo de armas",
-    "fr": "Armure de pirate",
-    "it": "Armatura da pirata",
-    "ja": "かいぞくのけん"
-  },
+  "name": "Pirate's Armor",
   "category": "Furniture",
   "games": {
     "nl": {

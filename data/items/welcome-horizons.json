@@ -1,8 +1,6 @@
 {
   "id": "welcome-horizons",
-  "name": {
-    "en-US": "Welcome Horizons"
-  },
+  "name": "Welcome Horizons",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,8 +1,6 @@
 {
   "id": "old-school-jacket",
-  "name": {
-    "en-US": "Old-school Jacket"
-  },
+  "name": "Old-school Jacket",
   "games": {
     "nh": {
       "sellPrice": {

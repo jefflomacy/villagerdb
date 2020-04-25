@@ -1,14 +1,6 @@
 {
   "id": "arctic-camo-tee",
-  "name": {
-    "de": "Arktik-Shirt",
-    "en-GB": "Arctic-Camo Tee",
-    "en-US": "Arctic-Camo Tee",
-    "es": "Camiseta polar",
-    "fr": "T-shirt motif glace",
-    "it": "Maglietta mimet. blu",
-    "ja": "かんれいめいさいふく"
-  },
+  "name": "Arctic-camo Tee",
   "category": "Tops",
   "games": {
     "nl": {

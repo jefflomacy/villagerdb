@@ -1,8 +1,6 @@
 {
   "id": "velmas-poster",
-  "name": {
-    "en-US": "Velma's Poster"
-  },
+  "name": "Velma's Poster",
   "games": {
     "nh": {
       "sources": [

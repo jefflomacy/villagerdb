@@ -1,14 +1,6 @@
 {
   "id": "right-platform",
-  "name": {
-    "de": "Tafelhälfte (rechts)",
-    "en-GB": "Right Platform",
-    "en-US": "Right Platform",
-    "es": "Tarima derecha",
-    "fr": "Grand tableau droit",
-    "it": "Lavagna destra",
-    "ja": "きょうだんのみぎ"
-  },
+  "name": "Right Platform",
   "category": "Furniture",
   "games": {
     "nl": {

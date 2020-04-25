@@ -1,8 +1,6 @@
 {
   "id": "blue-mosaic-tile-flooring",
-  "name": {
-    "en-US": "Blue Mosaic-tile Flooring"
-  },
+  "name": "Blue Mosaic-tile Flooring",
   "games": {
     "nh": {
       "sellPrice": {

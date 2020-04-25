@@ -1,14 +1,6 @@
 {
   "id": "red-ribbon",
-  "name": {
-    "de": "Rubinband",
-    "en-GB": "Red Ribbon",
-    "en-US": "Red Ribbon",
-    "es": "Lazo rojo",
-    "fr": "Ruban rouge",
-    "it": "Fiocco rosso",
-    "ja": "あかいリボン"
-  },
+  "name": "Red Ribbon",
   "category": "Hats",
   "games": {
     "nl": {

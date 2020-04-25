@@ -1,14 +1,6 @@
 {
   "id": "sweets-closet",
-  "name": {
-    "de": "Süßschrank",
-    "en-GB": "Sweets Closet",
-    "en-US": "Sweets Closet",
-    "es": "Armario chuches",
-    "fr": "Armoire bonbons",
-    "it": "Armadio dolci",
-    "ja": "おかしのクロゼット"
-  },
+  "name": "Sweets Closet",
   "category": "Furniture",
   "games": {
     "nl": {

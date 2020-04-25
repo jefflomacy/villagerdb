@@ -1,8 +1,6 @@
 {
   "id": "wide-chino-pants",
-  "name": {
-    "en-US": "Wide Chino Pants"
-  },
+  "name": "Wide Chino Pants",
   "games": {
     "nh": {
       "orderable": true,

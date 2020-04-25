@@ -1,8 +1,6 @@
 {
   "id": "streetlamp",
-  "name": {
-    "en-US": "Streetlamp"
-  },
+  "name": "Streetlamp",
   "games": {
     "nh": {
       "orderable": true,

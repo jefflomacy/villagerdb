@@ -1,14 +1,6 @@
 {
   "id": "cabana-wall-radio",
-  "name": {
-    "de": "Korb-Wandradio",
-    "en-GB": "Cabana Wall Radio",
-    "en-US": "Cabana Wall Radio",
-    "es": "Radio mimbre",
-    "fr": "Radio mur rotin",
-    "it": "Radio a muro vimini",
-    "ja": "リゾートなかべかけラジオ"
-  },
+  "name": "Cabana Wall Radio",
   "category": "Furniture",
   "games": {
     "nl": {

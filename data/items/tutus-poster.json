@@ -1,8 +1,6 @@
 {
   "id": "tutus-poster",
-  "name": {
-    "en-US": "Tutu's Poster"
-  },
+  "name": "Tutu's Poster",
   "games": {
     "nh": {
       "sources": [

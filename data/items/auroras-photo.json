@@ -1,8 +1,6 @@
 {
   "id": "auroras-photo",
-  "name": {
-    "en-US": "Aurora's Photo"
-  },
+  "name": "Aurora's Photo",
   "games": {
     "nh": {
       "sellPrice": {

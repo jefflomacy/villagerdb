@@ -1,8 +1,6 @@
 {
   "id": "blue-paint-wall",
-  "name": {
-    "en-US": "Blue-paint Wall"
-  },
+  "name": "Blue-paint Wall",
   "games": {
     "nh": {
       "orderable": true,

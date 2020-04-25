@@ -1,14 +1,6 @@
 {
   "id": "green-headgear",
-  "name": {
-    "de": "Grünboxerhelm",
-    "en-GB": "Green Headgear",
-    "en-US": "Green Headgear",
-    "es": "Protector verde",
-    "fr": "Casque de boxe vert",
-    "it": "Casco da boxe verde",
-    "ja": "みどりのヘッドギア"
-  },
+  "name": "Green Headgear",
   "category": "Hats",
   "games": {
     "nl": {

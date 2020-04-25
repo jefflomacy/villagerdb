@@ -1,8 +1,6 @@
 {
   "id": "outdoorsy-fishing-rod",
-  "name": {
-    "en-US": "Outdoorsy Fishing Rod"
-  },
+  "name": "Outdoorsy Fishing Rod",
   "games": {
     "nh": {
       "orderable": false,

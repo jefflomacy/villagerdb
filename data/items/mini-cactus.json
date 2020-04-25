@@ -1,14 +1,6 @@
 {
   "id": "mini-cactus",
-  "name": {
-    "de": "Mini-Flachkaktus",
-    "en-GB": "Mini Cactus",
-    "en-US": "Mini Cactus",
-    "es": "Minicactus",
-    "fr": "Mini-cactus",
-    "it": "Mini cactus piatto",
-    "ja": "ミニへんぺいサボテン"
-  },
+  "name": "Mini Cactus",
   "category": "Furniture",
   "games": {
     "nl": {

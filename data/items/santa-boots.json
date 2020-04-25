@@ -1,14 +1,6 @@
 {
   "id": "santa-boots",
-  "name": {
-    "de": "Weihnachtsmannschuh",
-    "en-GB": "Santa Boots",
-    "en-US": "Santa Boots",
-    "es": "Bota festiva",
-    "fr": "P. bottes père Noël",
-    "it": "P. stivali B. Natale",
-    "ja": "サンタのブーツ"
-  },
+  "name": "Santa Boots",
   "category": "Shoes",
   "games": {
     "nl": {

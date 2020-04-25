@@ -1,14 +1,6 @@
 {
   "id": "balloon-table",
-  "name": {
-    "de": "Ballontisch",
-    "en-GB": "Balloon Table",
-    "en-US": "Balloon Table",
-    "es": "Mesa globos",
-    "fr": "Table ballons",
-    "it": "Tavolo palloncini",
-    "ja": "バルーンテーブル"
-  },
+  "name": "Balloon Table",
   "category": "Furniture",
   "games": {
     "nl": {

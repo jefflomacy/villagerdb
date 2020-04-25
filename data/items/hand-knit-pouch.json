@@ -1,8 +1,6 @@
 {
   "id": "hand-knit-pouch",
-  "name": {
-    "en-US": "Hand-knit Pouch"
-  },
+  "name": "Hand-knit Pouch",
   "games": {
     "nh": {
       "sellPrice": {

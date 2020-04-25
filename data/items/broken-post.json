@@ -1,14 +1,6 @@
 {
   "id": "broken-post",
-  "name": {
-    "de": "Antiksäule",
-    "en-GB": "Broken Post",
-    "en-US": "Broken Post",
-    "es": "Columna rota",
-    "fr": "Colonne brisée",
-    "it": "Colonna spezzata",
-    "ja": "おれたはしら"
-  },
+  "name": "Broken Post",
   "category": "Furniture",
   "games": {
     "nl": {

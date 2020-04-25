@@ -1,14 +1,6 @@
 {
   "id": "imperial-pants",
-  "name": {
-    "de": "Rotseidenhose",
-    "en-GB": "Imperial Pants",
-    "en-US": "Imperial Pants",
-    "es": "Pantalón imperial",
-    "fr": "Pantalon Chine",
-    "it": "Pantalone cinese",
-    "ja": "ちゅうかなズボン"
-  },
+  "name": "Imperial Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

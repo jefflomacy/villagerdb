@@ -1,8 +1,6 @@
 {
   "id": "forest-flooring",
-  "name": {
-    "en-US": "Forest Flooring"
-  },
+  "name": "Forest Flooring",
   "games": {
     "nh": {
       "sellPrice": {

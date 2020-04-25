@@ -1,14 +1,6 @@
 {
   "id": "mountain-standee",
-  "name": {
-    "de": "Papphügel",
-    "en-GB": "Mountain Standee",
-    "en-US": "Mountain Standee",
-    "es": "Montaña atrezo",
-    "fr": "Colline en carton",
-    "it": "Sagoma collina",
-    "ja": "ハリボテのやま"
-  },
+  "name": "Mountain Standee",
   "category": "Furniture",
   "games": {
     "nl": {

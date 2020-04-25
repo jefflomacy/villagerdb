@@ -1,14 +1,6 @@
 {
   "id": "lion-dance-mask",
-  "name": {
-    "de": "Löwentanzmaske",
-    "en-GB": "Lion-Dance Mask",
-    "en-US": "Lion-Dance Mask",
-    "es": "Máscara oriental",
-    "fr": "Masque danse du lion",
-    "it": "Maschera danza leone",
-    "ja": "ししまい"
-  },
+  "name": "Lion-dance Mask",
   "category": "Hats",
   "games": {
     "nl": {

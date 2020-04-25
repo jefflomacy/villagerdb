@@ -1,14 +1,6 @@
 {
   "id": "classic-bookcase",
-  "name": {
-    "de": "Klassikregal",
-    "en-GB": "Classic Bookcase",
-    "en-US": "Classic Bookcase",
-    "es": "Librería clásica",
-    "fr": "étagère rustique",
-    "it": "Libreria antica",
-    "ja": "シックなほんだな"
-  },
+  "name": "Classic Bookcase",
   "category": "Furniture",
   "games": {
     "nl": {

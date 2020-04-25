@@ -1,8 +1,6 @@
 {
   "id": "random-square-tile-flooring",
-  "name": {
-    "en-US": "Random-square-tile Flooring"
-  },
+  "name": "Random-square-tile Flooring",
   "games": {
     "nh": {
       "orderable": true,

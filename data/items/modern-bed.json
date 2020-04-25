@@ -1,14 +1,6 @@
 {
   "id": "modern-bed",
-  "name": {
-    "de": "Schachbett",
-    "en-GB": "Modern Bed",
-    "en-US": "Modern Bed",
-    "es": "Cama moderna",
-    "fr": "Lit moderne",
-    "it": "Letto moderno",
-    "ja": "ツートンベッド"
-  },
+  "name": "Modern Bed",
   "category": "Furniture",
   "games": {
     "nl": {

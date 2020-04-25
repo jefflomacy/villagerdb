@@ -1,8 +1,6 @@
 {
   "id": "brown-diner-wall",
-  "name": {
-    "en-US": "Brown Diner Wall"
-  },
+  "name": "Brown Diner Wall",
   "games": {
     "nh": {
       "sellPrice": {

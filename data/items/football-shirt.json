@@ -1,8 +1,6 @@
 {
   "id": "football-shirt",
-  "name": {
-    "en-US": "Football Shirt"
-  },
+  "name": "Football Shirt",
   "games": {
     "nh": {
       "sellPrice": {

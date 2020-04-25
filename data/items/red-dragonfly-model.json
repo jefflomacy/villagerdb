@@ -1,8 +1,6 @@
 {
   "id": "red-dragonfly-model",
-  "name": {
-    "en-US": "Red Dragonfly Model"
-  },
+  "name": "Red Dragonfly Model",
   "games": {
     "nh": {
       "sellPrice": {

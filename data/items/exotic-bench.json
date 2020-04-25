@@ -1,14 +1,6 @@
 {
   "id": "exotic-bench",
-  "name": {
-    "de": "Orient-Bank",
-    "en-GB": "Exotic Bench",
-    "en-US": "Exotic Bench",
-    "es": "Banco exótico",
-    "fr": "Banc teck",
-    "it": "Panca esotica",
-    "ja": "アジアなベンチ"
-  },
+  "name": "Exotic Bench",
   "category": "Furniture",
   "games": {
     "nl": {

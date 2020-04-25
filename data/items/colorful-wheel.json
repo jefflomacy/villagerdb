@@ -1,14 +1,6 @@
 {
   "id": "colorful-wheel",
-  "name": {
-    "de": "Zahlenrad",
-    "en-GB": "Colorful Wheel",
-    "en-US": "Colorful Wheel",
-    "es": "Ruleta colorida",
-    "fr": "Roue colorée",
-    "it": "Ruota colorata",
-    "ja": "ルーレット"
-  },
+  "name": "Colorful Wheel",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "simple-accent-socks",
-  "name": {
-    "en-US": "Simple-accent Socks"
-  },
+  "name": "Simple-accent Socks",
   "games": {
     "nh": {
       "orderable": true,

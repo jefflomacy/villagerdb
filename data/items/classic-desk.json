@@ -1,14 +1,6 @@
 {
   "id": "classic-desk",
-  "name": {
-    "de": "Klassiksekretär",
-    "en-GB": "Classic Desk",
-    "en-US": "Classic Desk",
-    "es": "Buró clásico",
-    "fr": "Bureau rustique",
-    "it": "Scrittoio antico",
-    "ja": "シックなビューロ"
-  },
+  "name": "Classic Desk",
   "category": "Furniture",
   "games": {
     "nl": {

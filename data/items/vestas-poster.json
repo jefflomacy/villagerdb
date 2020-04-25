@@ -1,8 +1,6 @@
 {
   "id": "vestas-poster",
-  "name": {
-    "en-US": "Vesta's Poster"
-  },
+  "name": "Vesta's Poster",
   "games": {
     "nh": {
       "sources": [

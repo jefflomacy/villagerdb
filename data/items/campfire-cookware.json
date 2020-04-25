@@ -1,14 +1,6 @@
 {
   "id": "campfire-cookware",
-  "name": {
-    "de": "Camping-Kochkessel",
-    "en-GB": "Campfire Cookware",
-    "en-US": "Campfire Cookware",
-    "es": "Cazuela hoguera",
-    "fr": "Casserole de camping",
-    "it": "Falò da campeggio",
-    "ja": "はんごう"
-  },
+  "name": "Campfire Cookware",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "wooden-block-toy",
-  "name": {
-    "en-US": "Wooden-block Toy"
-  },
+  "name": "Wooden-block Toy",
   "games": {
     "nh": {
       "orderable": false,

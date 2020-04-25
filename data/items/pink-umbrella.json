@@ -1,8 +1,6 @@
 {
   "id": "pink-umbrella",
-  "name": {
-    "en-US": "Pink Umbrella"
-  },
+  "name": "Pink Umbrella",
   "games": {
     "nh": {
       "sellPrice": {

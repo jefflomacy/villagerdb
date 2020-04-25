@@ -1,14 +1,6 @@
 {
   "id": "ranch-couch",
-  "name": {
-    "de": "Western-Sofa",
-    "en-GB": "Ranch Couch",
-    "en-US": "Ranch Couch",
-    "es": "Sofá rústico",
-    "fr": "Canapé ranch",
-    "it": "Sofà country",
-    "ja": "カントリーなソファL"
-  },
+  "name": "Ranch Couch",
   "category": "Furniture",
   "games": {
     "nl": {

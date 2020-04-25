@@ -1,8 +1,6 @@
 {
   "id": "gray-shanty-wall",
-  "name": {
-    "en-US": "Gray Shanty Wall"
-  },
+  "name": "Gray Shanty Wall",
   "games": {
     "nh": {
       "sellPrice": {

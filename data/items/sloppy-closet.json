@@ -1,14 +1,6 @@
 {
   "id": "sloppy-closet",
-  "name": {
-    "de": "Schlamperschrank",
-    "en-GB": "Sloppy Closet",
-    "en-US": "Sloppy Closet",
-    "es": "Armario desorden",
-    "fr": "Armoire négligée",
-    "it": "Armadio trasandato",
-    "ja": "だらしないクロゼット"
-  },
+  "name": "Sloppy Closet",
   "category": "Furniture",
   "games": {
     "nl": {

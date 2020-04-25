@@ -1,8 +1,6 @@
 {
   "id": "pondskater-model",
-  "name": {
-    "en-US": "Pondskater Model"
-  },
+  "name": "Pondskater Model",
   "games": {
     "nh": {
       "sellPrice": {

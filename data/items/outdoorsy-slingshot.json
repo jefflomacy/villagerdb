@@ -1,8 +1,6 @@
 {
   "id": "outdoorsy-slingshot",
-  "name": {
-    "en-US": "Outdoorsy Slingshot"
-  },
+  "name": "Outdoorsy Slingshot",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "patchwork-tile-flooring",
-  "name": {
-    "en-US": "Patchwork-tile Flooring"
-  },
+  "name": "Patchwork-tile Flooring",
   "games": {
     "nh": {
       "orderable": true,

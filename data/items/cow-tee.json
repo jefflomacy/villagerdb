@@ -1,14 +1,6 @@
 {
   "id": "cow-tee",
-  "name": {
-    "de": "Kuhshirt",
-    "en-GB": "Cow Tee",
-    "en-US": "Cow Tee",
-    "es": "Camiseta vaca",
-    "fr": "T-shirt vache",
-    "it": "Maglietta mucca",
-    "ja": "ホルスタインなふく"
-  },
+  "name": "Cow Tee",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "sno-cone-tank",
-  "name": {
-    "de": "Bonbontop",
-    "en-GB": "Sno-Cone Tank",
-    "en-US": "Sno-Cone Tank",
-    "es": "Top fresa-nata",
-    "fr": "Débardeur cône",
-    "it": "Canotta granita",
-    "ja": "こおりイチゴのふくN"
-  },
+  "name": "Sno-cone Tank",
   "category": "Tops",
   "games": {
     "nl": {

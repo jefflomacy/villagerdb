@@ -1,8 +1,6 @@
 {
   "id": "hello-kitty-dress",
-  "name": {
-    "en-US": "Hello Kitty Dress"
-  },
+  "name": "Hello Kitty Dress",
   "category": "Dresses",
   "games": {
     "nl": {

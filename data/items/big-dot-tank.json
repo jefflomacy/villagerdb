@@ -1,14 +1,6 @@
 {
   "id": "big-dot-tank",
-  "name": {
-    "de": "Eiscreme-Top",
-    "en-GB": "Big-Dot Tank",
-    "en-US": "Big-Dot Tank",
-    "es": "Top miel",
-    "fr": "Débard. pois orange",
-    "it": "Canotta gialla pois",
-    "ja": "きいろみずたまのふくN"
-  },
+  "name": "Big-dot Tank",
   "category": "Tops",
   "games": {
     "nl": {

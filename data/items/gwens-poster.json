@@ -1,8 +1,6 @@
 {
   "id": "gwens-poster",
-  "name": {
-    "en-US": "Gwen's Poster"
-  },
+  "name": "Gwen's Poster",
   "games": {
     "nh": {
       "sources": [

@@ -1,14 +1,6 @@
 {
   "id": "cow-bone",
-  "name": {
-    "de": "Kuhschädelhelm",
-    "en-GB": "Cow Bone",
-    "en-US": "Cow Bone",
-    "es": "Casco con cuernos",
-    "fr": "Casque préhistorique",
-    "it": "Teschio di mucca",
-    "ja": "うしのほね"
-  },
+  "name": "Cow Bone",
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "hyacinth-wreath",
-  "name": {
-    "en-US": "Hyacinth Wreath"
-  },
+  "name": "Hyacinth Wreath",
   "games": {
     "nh": {
       "orderable": false,

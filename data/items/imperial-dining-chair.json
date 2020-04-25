@@ -1,8 +1,6 @@
 {
   "id": "imperial-dining-chair",
-  "name": {
-    "en-US": "Imperial Dining Chair"
-  },
+  "name": "Imperial Dining Chair",
   "games": {
     "nh": {
       "sellPrice": {

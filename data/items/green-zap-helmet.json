@@ -1,14 +1,6 @@
 {
   "id": "green-zap-helmet",
-  "name": {
-    "de": "Grünheldenhelm",
-    "en-GB": "Green-Zap Helmet",
-    "en-US": "Green-Zap Helmet",
-    "es": "Supercasco verde",
-    "fr": "Casque de héros vert",
-    "it": "Casco eroe verde",
-    "ja": "ヒーローヘルメットG"
-  },
+  "name": "Green-zap Helmet",
   "category": "Hats",
   "games": {
     "nl": {

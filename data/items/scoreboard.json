@@ -1,14 +1,6 @@
 {
   "id": "scoreboard",
-  "name": {
-    "de": "Punktetafel",
-    "en-GB": "Scoreboard",
-    "en-US": "Scoreboard",
-    "es": "Marcador",
-    "fr": "Compte-points",
-    "it": "Segnapunti",
-    "ja": "とくてんボード"
-  },
+  "name": "Scoreboard",
   "category": "Furniture",
   "games": {
     "nl": {

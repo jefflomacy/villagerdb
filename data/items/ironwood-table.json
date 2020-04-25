@@ -1,8 +1,6 @@
 {
   "id": "ironwood-table",
-  "name": {
-    "en-US": "Ironwood Table"
-  },
+  "name": "Ironwood Table",
   "games": {
     "nh": {
       "orderable": false,

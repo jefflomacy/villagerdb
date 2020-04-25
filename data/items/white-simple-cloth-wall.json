@@ -1,8 +1,6 @@
 {
   "id": "white-simple-cloth-wall",
-  "name": {
-    "en-US": "White Simple-cloth Wall"
-  },
+  "name": "White Simple-cloth Wall",
   "games": {
     "nh": {
       "orderable": true,

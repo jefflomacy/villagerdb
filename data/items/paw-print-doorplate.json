@@ -1,8 +1,6 @@
 {
   "id": "paw-print-doorplate",
-  "name": {
-    "en-US": "Paw-print Doorplate"
-  },
+  "name": "Paw-print Doorplate",
   "games": {
     "nh": {
       "orderable": false,

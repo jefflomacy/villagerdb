@@ -1,14 +1,6 @@
 {
   "id": "compass",
-  "name": {
-    "de": "Kompass",
-    "en-GB": "Compass",
-    "en-US": "Compass",
-    "es": "Brújula",
-    "fr": "Boussole",
-    "it": "Bussola",
-    "ja": "ほういじしゃく"
-  },
+  "name": "Compass",
   "category": "Furniture",
   "games": {
     "nl": {

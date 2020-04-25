@@ -1,8 +1,6 @@
 {
   "id": "frozen-table",
-  "name": {
-    "en-US": "Frozen Table"
-  },
+  "name": "Frozen Table",
   "games": {
     "nh": {
       "sellPrice": {

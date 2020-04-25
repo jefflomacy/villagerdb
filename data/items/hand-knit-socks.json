@@ -1,8 +1,6 @@
 {
   "id": "hand-knit-socks",
-  "name": {
-    "en-US": "Hand-knit Socks"
-  },
+  "name": "Hand-knit Socks",
   "games": {
     "nh": {
       "sellPrice": {

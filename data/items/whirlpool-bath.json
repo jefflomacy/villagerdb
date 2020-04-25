@@ -1,14 +1,6 @@
 {
   "id": "whirlpool-bath",
-  "name": {
-    "de": "Whirlpool",
-    "en-GB": "Whirlpool Bath",
-    "en-US": "Whirlpool Bath",
-    "es": "Bañera hidromasaje",
-    "fr": "Bain à remous",
-    "it": "Vasca idromassaggio",
-    "ja": "ジャグジー"
-  },
+  "name": "Whirlpool Bath",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "office-desk",
-  "name": {
-    "de": "Bürotisch",
-    "en-GB": "Office Desk",
-    "en-US": "Office Desk",
-    "es": "Mesa oficina",
-    "fr": "Bureau pro",
-    "it": "Scrivania",
-    "ja": "じむづくえ"
-  },
+  "name": "Office Desk",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "adventure-dress",
-  "name": {
-    "en-US": "Adventure Dress"
-  },
+  "name": "Adventure Dress",
   "games": {
     "nh": {
       "sellPrice": {

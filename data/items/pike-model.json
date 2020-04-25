@@ -1,8 +1,6 @@
 {
   "id": "pike-model",
-  "name": {
-    "en-US": "Pike Model"
-  },
+  "name": "Pike Model",
   "games": {
     "nh": {
       "sellPrice": {

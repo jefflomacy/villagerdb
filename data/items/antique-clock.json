@@ -1,14 +1,6 @@
 {
   "id": "antique-clock",
-  "name": {
-    "de": "Antikstanduhr",
-    "en-GB": "Antique Clock",
-    "en-US": "Antique Clock",
-    "es": "Reloj antiguo",
-    "fr": "Horloge ancienne",
-    "it": "Vecchio orologio",
-    "ja": "アンティークなとけい"
-  },
+  "name": "Antique Clock",
   "category": "Furniture",
   "games": {
     "nl": {

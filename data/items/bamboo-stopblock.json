@@ -1,8 +1,6 @@
 {
   "id": "bamboo-stopblock",
-  "name": {
-    "en-US": "Bamboo Stopblock"
-  },
+  "name": "Bamboo Stopblock",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,14 +1,6 @@
 {
   "id": "planter",
-  "name": {
-    "de": "Blumenkasten",
-    "en-GB": "Planter",
-    "en-US": "Planter",
-    "es": "Macetero",
-    "fr": "Jardinière",
-    "it": "Vaso per piante",
-    "ja": "プランター"
-  },
+  "name": "Planter",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "orange-roses",
-  "name": {
-    "en-US": "Orange Roses"
-  },
+  "name": "Orange Roses",
   "games": {
     "nh": {
       "orderable": false,

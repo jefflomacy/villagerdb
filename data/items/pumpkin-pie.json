@@ -1,14 +1,6 @@
 {
   "id": "pumpkin-pie",
-  "name": {
-    "de": "Kürbiskuchen",
-    "en-GB": "Pumpkin Pie",
-    "en-US": "Pumpkin Pie",
-    "es": "Tarta de calabaza",
-    "fr": "Tarte à la courge",
-    "it": "Crostata di zucca",
-    "ja": "パンプキンパイ"
-  },
+  "name": "Pumpkin Pie",
   "category": "Furniture",
   "games": {
     "nl": {

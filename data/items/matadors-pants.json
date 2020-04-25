@@ -1,14 +1,6 @@
 {
   "id": "matadors-pants",
-  "name": {
-    "de": "Matadorhose",
-    "en-GB": "Iberian Pants",
-    "en-US": "Matador's Pants",
-    "es": "Pantalón de luces",
-    "fr": "Pantalon ibérique",
-    "it": "Pantalone da torero",
-    "ja": "とうぎゅうしのズボン"
-  },
+  "name": "Matador's Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

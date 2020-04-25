@@ -1,14 +1,6 @@
 {
   "id": "watermelon-shirt",
-  "name": {
-    "de": "Melonentop",
-    "en-GB": "Watermelon Shirt",
-    "en-US": "Watermelon Shirt",
-    "es": "Top sandía",
-    "fr": "Débardeur pastèque",
-    "it": "Maglia anguria",
-    "ja": "すいかのふくN"
-  },
+  "name": "Watermelon Shirt",
   "category": "Tops",
   "games": {
     "nl": {

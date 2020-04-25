@@ -1,8 +1,6 @@
 {
   "id": "monochromatic-dot-flooring",
-  "name": {
-    "en-US": "Monochromatic Dot Flooring"
-  },
+  "name": "Monochromatic Dot Flooring",
   "games": {
     "nh": {
       "orderable": true,

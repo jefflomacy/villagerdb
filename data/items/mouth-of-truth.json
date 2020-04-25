@@ -1,14 +1,6 @@
 {
   "id": "mouth-of-truth",
-  "name": {
-    "de": "Wahrheitsmund",
-    "en-GB": "Mouth Of Truth",
-    "en-US": "Mouth Of Truth",
-    "es": "Boca de la Verdad",
-    "fr": "Bouche de Vérité",
-    "it": "Bocca della Verità",
-    "ja": "しんじつのくち"
-  },
+  "name": "Mouth Of Truth",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "wooden-knot-flooring",
-  "name": {
-    "en-US": "Wooden-knot Flooring"
-  },
+  "name": "Wooden-knot Flooring",
   "games": {
     "nh": {
       "orderable": true,

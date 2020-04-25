@@ -1,8 +1,6 @@
 {
   "id": "giant-water-bug",
-  "name": {
-    "en-US": "Giant Water Bug"
-  },
+  "name": "Giant Water Bug",
   "games": {
     "nh": {
       "orderable": false,

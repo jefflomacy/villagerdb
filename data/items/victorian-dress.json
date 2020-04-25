@@ -1,8 +1,6 @@
 {
   "id": "victorian-dress",
-  "name": {
-    "en-US": "Victorian Dress"
-  },
+  "name": "Victorian Dress",
   "games": {
     "nh": {
       "sellPrice": {

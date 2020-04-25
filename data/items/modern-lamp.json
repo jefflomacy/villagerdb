@@ -1,14 +1,6 @@
 {
   "id": "modern-lamp",
-  "name": {
-    "de": "Schachlampe",
-    "en-GB": "Modern Lamp",
-    "en-US": "Modern Lamp",
-    "es": "Lámpara moderna",
-    "fr": "Lampe moderne",
-    "it": "Lampada moderna",
-    "ja": "ツートンランプ"
-  },
+  "name": "Modern Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "flips-poster",
-  "name": {
-    "en-US": "Flip's Poster"
-  },
+  "name": "Flip's Poster",
   "games": {
     "nh": {
       "sources": [

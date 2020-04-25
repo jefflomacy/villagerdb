@@ -1,14 +1,6 @@
 {
   "id": "slushie-machine",
-  "name": {
-    "de": "Eiscremespender",
-    "en-GB": "Slushie Machine",
-    "en-US": "Slushie Machine",
-    "es": "Máquina granizados",
-    "fr": "Machine à granités",
-    "it": "Macchina per granite",
-    "ja": "フローズンマシーン"
-  },
+  "name": "Slushie Machine",
   "category": "Furniture",
   "games": {
     "nl": {

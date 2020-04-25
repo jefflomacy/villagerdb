@@ -1,14 +1,6 @@
 {
   "id": "tiger-pants",
-  "name": {
-    "de": "Tigerhose",
-    "en-GB": "Tiger Pants",
-    "en-US": "Tiger Pants",
-    "es": "Pantalón tigre",
-    "fr": "Pantalon tigre",
-    "it": "Pantalone tigre",
-    "ja": "とらじまのズボン"
-  },
+  "name": "Tiger Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "green-gym-shorts",
-  "name": {
-    "de": "Sporthose",
-    "en-GB": "Green Gym Shorts",
-    "en-US": "Green Gym Shorts",
-    "es": "Bermuda sport verde",
-    "fr": "Short sport vert",
-    "it": "P. berm. sport verdi",
-    "ja": "みどりのたいそうズボン"
-  },
+  "name": "Green Gym Shorts",
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "arcade-seat",
-  "name": {
-    "en-US": "Arcade Seat"
-  },
+  "name": "Arcade Seat",
   "games": {
     "nh": {
       "sellPrice": {

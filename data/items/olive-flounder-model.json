@@ -1,8 +1,6 @@
 {
   "id": "olive-flounder-model",
-  "name": {
-    "en-US": "Olive Flounder Model"
-  },
+  "name": "Olive Flounder Model",
   "games": {
     "nh": {
       "sellPrice": {

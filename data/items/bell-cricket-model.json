@@ -1,8 +1,6 @@
 {
   "id": "bell-cricket-model",
-  "name": {
-    "en-US": "Bell Cricket Model"
-  },
+  "name": "Bell Cricket Model",
   "games": {
     "nh": {
       "orderable": false,

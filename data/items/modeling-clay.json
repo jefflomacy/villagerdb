@@ -1,8 +1,6 @@
 {
   "id": "modeling-clay",
-  "name": {
-    "en-US": "Modeling Clay"
-  },
+  "name": "Modeling Clay",
   "games": {
     "nh": {
       "orderable": false,

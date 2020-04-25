@@ -1,14 +1,6 @@
 {
   "id": "gelato-tee",
-  "name": {
-    "de": "3-Farben-Shirt",
-    "en-GB": "Gelato Tee",
-    "en-US": "Gelato Tee",
-    "es": "Camiseta góndola",
-    "fr": "T-shirt Rome",
-    "it": "Maglietta tricolore",
-    "ja": "いちごボーダーなふく"
-  },
+  "name": "Gelato Tee",
   "category": "Tops",
   "games": {
     "nl": {

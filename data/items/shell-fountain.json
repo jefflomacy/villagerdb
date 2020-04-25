@@ -1,8 +1,6 @@
 {
   "id": "shell-fountain",
-  "name": {
-    "en-US": "Shell Fountain"
-  },
+  "name": "Shell Fountain",
   "games": {
     "nh": {
       "orderable": false,

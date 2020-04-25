@@ -1,8 +1,6 @@
 {
   "id": "flower-sandals",
-  "name": {
-    "en-US": "Flower Sandals"
-  },
+  "name": "Flower Sandals",
   "games": {
     "nh": {
       "sellPrice": {

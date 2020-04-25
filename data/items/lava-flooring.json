@@ -1,8 +1,6 @@
 {
   "id": "lava-flooring",
-  "name": {
-    "en-US": "Lava Flooring"
-  },
+  "name": "Lava Flooring",
   "games": {
     "nh": {
       "sellPrice": {

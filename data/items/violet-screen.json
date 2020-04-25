@@ -1,14 +1,6 @@
 {
   "id": "violet-screen",
-  "name": {
-    "de": "Veilchenraumteiler",
-    "en-GB": "Violet Screen",
-    "en-US": "Violet Screen",
-    "es": "Biombo violeta",
-    "fr": "Paravent violette",
-    "it": "Separé violetta",
-    "ja": "スミレのスクリーン"
-  },
+  "name": "Violet Screen",
   "category": "Furniture",
   "games": {
     "nl": {

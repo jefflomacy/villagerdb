@@ -1,14 +1,6 @@
 {
   "id": "silk-bloom-tee",
-  "name": {
-    "de": "Kunstseidenshirt",
-    "en-GB": "Silk Bloom Tee",
-    "en-US": "Silk Bloom Tee",
-    "es": "Camiseta lilas",
-    "fr": "T-shirt en soie",
-    "it": "Maglietta tenue",
-    "ja": "はながらのゆうぜんシャツ"
-  },
+  "name": "Silk Bloom Tee",
   "category": "Tops",
   "games": {
     "nl": {

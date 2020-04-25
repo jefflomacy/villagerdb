@@ -1,14 +1,6 @@
 {
   "id": "egg-chair",
-  "name": {
-    "de": "Eierstuhl",
-    "en-GB": "Egg Chair",
-    "en-US": "Egg Chair",
-    "es": "Sillón huevo",
-    "fr": "Chaise \\u0153uf",
-    "it": "Sedia uovo",
-    "ja": "たまごのイス"
-  },
+  "name": "Egg Chair",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "mossy-garden-flooring",
-  "name": {
-    "en-US": "Mossy-garden Flooring"
-  },
+  "name": "Mossy-garden Flooring",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,14 +1,6 @@
 {
   "id": "canary-shirt",
-  "name": {
-    "de": "Schleifentop",
-    "en-GB": "Canary Shirt",
-    "en-US": "Canary Shirt",
-    "es": "Blusa con lacito",
-    "fr": "Pull canari",
-    "it": "Camicia giallo tenue",
-    "ja": "リボンのブラウス"
-  },
+  "name": "Canary Shirt",
   "category": "Tops",
   "games": {
     "nl": {

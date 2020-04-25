@@ -1,8 +1,6 @@
 {
   "id": "retro-sports-bag",
-  "name": {
-    "en-US": "Retro Sports Bag"
-  },
+  "name": "Retro Sports Bag",
   "games": {
     "nh": {
       "sellPrice": {

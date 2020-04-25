@@ -1,8 +1,6 @@
 {
   "id": "checkered-muffler",
-  "name": {
-    "en-US": "Checkered Muffler"
-  },
+  "name": "Checkered Muffler",
   "games": {
     "nh": {
       "sellPrice": {

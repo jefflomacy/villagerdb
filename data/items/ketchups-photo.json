@@ -1,8 +1,6 @@
 {
   "id": "ketchups-photo",
-  "name": {
-    "en-US": "Ketchup's Photo"
-  },
+  "name": "Ketchup's Photo",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,8 +1,6 @@
 {
   "id": "cyber-suit",
-  "name": {
-    "en-US": "Cyber Suit"
-  },
+  "name": "Cyber Suit",
   "games": {
     "nh": {
       "sellPrice": {

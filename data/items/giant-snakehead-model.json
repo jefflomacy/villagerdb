@@ -1,8 +1,6 @@
 {
   "id": "giant-snakehead-model",
-  "name": {
-    "en-US": "Giant Snakehead Model"
-  },
+  "name": "Giant Snakehead Model",
   "games": {
     "nh": {
       "sellPrice": {

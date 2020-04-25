@@ -1,14 +1,6 @@
 {
   "id": "ventilation-fan",
-  "name": {
-    "de": "Lüftungsventilator",
-    "en-GB": "Ventilation Fan",
-    "en-US": "Ventilation Fan",
-    "es": "Extractor",
-    "fr": "Aérateur",
-    "it": "Ventola",
-    "ja": "かんきせん"
-  },
+  "name": "Ventilation Fan",
   "category": "Furniture",
   "games": {
     "nl": {

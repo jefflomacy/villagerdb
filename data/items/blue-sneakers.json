@@ -1,14 +1,6 @@
 {
   "id": "blue-sneakers",
-  "name": {
-    "de": "Leinenturnschuh",
-    "en-GB": "Blue Sneakers",
-    "en-US": "Blue Sneakers",
-    "es": "Zapatilla azul",
-    "fr": "Paire tennis bleues",
-    "it": "P. scarpe tennis blu",
-    "ja": "あおいスニーカー"
-  },
+  "name": "Blue Sneakers",
   "category": "Shoes",
   "games": {
     "nl": {

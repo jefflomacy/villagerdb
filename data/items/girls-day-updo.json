@@ -1,14 +1,6 @@
 {
   "id": "girls-day-updo",
-  "name": {
-    "de": "Mädchentag-Perücke",
-    "en-GB": "Girl's Day Updo",
-    "en-US": "Girl's Day Updo",
-    "es": "Moño de emperatriz",
-    "fr": "Coiffe fête poupées",
-    "it": "Parrucca con diadema",
-    "ja": "おひなさま"
-  },
+  "name": "Girl's Day Updo",
   "category": "Hats",
   "games": {
     "nl": {

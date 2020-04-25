@@ -1,8 +1,6 @@
 {
   "id": "tennis-racket",
-  "name": {
-    "en-US": "Tennis Racket"
-  },
+  "name": "Tennis Racket",
   "category": "Furniture",
   "games": {
     "nl": {

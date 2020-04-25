@@ -1,8 +1,6 @@
 {
   "id": "wooden-chair",
-  "name": {
-    "en-US": "Wooden Chair"
-  },
+  "name": "Wooden Chair",
   "games": {
     "nh": {
       "orderable": false,

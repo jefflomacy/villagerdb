@@ -1,8 +1,6 @@
 {
   "id": "mangrove-wall",
-  "name": {
-    "en-US": "Mangrove Wall"
-  },
+  "name": "Mangrove Wall",
   "games": {
     "nh": {
       "sellPrice": {

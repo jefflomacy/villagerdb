@@ -1,8 +1,6 @@
 {
   "id": "shell-stool",
-  "name": {
-    "en-US": "Shell Stool"
-  },
+  "name": "Shell Stool",
   "games": {
     "nh": {
       "orderable": false,

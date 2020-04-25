@@ -1,14 +1,6 @@
 {
   "id": "kitchen-sink",
-  "name": {
-    "de": "Küchenzeile",
-    "en-GB": "Kitchen Sink",
-    "en-US": "Kitchen Sink",
-    "es": "Fregadero con mueble",
-    "fr": "Meuble évier",
-    "it": "Lavandino cucina",
-    "ja": "キッチンのシンク"
-  },
+  "name": "Kitchen Sink",
   "category": "Furniture",
   "games": {
     "nl": {

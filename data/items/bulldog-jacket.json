@@ -1,8 +1,6 @@
 {
   "id": "bulldog-jacket",
-  "name": {
-    "en-US": "Bulldog Jacket"
-  },
+  "name": "Bulldog Jacket",
   "games": {
     "nh": {
       "orderable": true,

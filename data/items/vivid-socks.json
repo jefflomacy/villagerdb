@@ -1,8 +1,6 @@
 {
   "id": "vivid-socks",
-  "name": {
-    "en-US": "Vivid Socks"
-  },
+  "name": "Vivid Socks",
   "games": {
     "nh": {
       "orderable": true,

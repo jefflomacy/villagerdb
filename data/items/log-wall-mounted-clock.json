@@ -1,8 +1,6 @@
 {
   "id": "log-wall-mounted-clock",
-  "name": {
-    "en-US": "Log Wall-mounted Clock"
-  },
+  "name": "Log Wall-mounted Clock",
   "games": {
     "nh": {
       "orderable": false,

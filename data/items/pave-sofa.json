@@ -1,14 +1,6 @@
 {
   "id": "pave-sofa",
-  "name": {
-    "de": "Karnevalssofa",
-    "en-GB": "Pavé Sofa",
-    "en-US": "Pavé Sofa",
-    "es": "Sofá Conga",
-    "fr": "Canapé carnaval",
-    "it": "Sofà Pavão",
-    "ja": "カーニバルソファ"
-  },
+  "name": "Pavé Sofa",
   "category": "Furniture",
   "games": {
     "nl": {

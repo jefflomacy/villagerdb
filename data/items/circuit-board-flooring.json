@@ -1,8 +1,6 @@
 {
   "id": "circuit-board-flooring",
-  "name": {
-    "en-US": "Circuit-board Flooring"
-  },
+  "name": "Circuit-board Flooring",
   "games": {
     "nh": {
       "orderable": false,

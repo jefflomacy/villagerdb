@@ -1,8 +1,6 @@
 {
   "id": "sweater-on-shirt",
-  "name": {
-    "en-US": "Sweater On Shirt"
-  },
+  "name": "Sweater On Shirt",
   "games": {
     "nh": {
       "sellPrice": {

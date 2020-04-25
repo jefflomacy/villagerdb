@@ -1,8 +1,6 @@
 {
   "id": "grape-dress",
-  "name": {
-    "en-US": "Grape Dress"
-  },
+  "name": "Grape Dress",
   "games": {
     "nh": {
       "sellPrice": {

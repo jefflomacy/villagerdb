@@ -1,14 +1,6 @@
 {
   "id": "red-corner",
-  "name": {
-    "de": "Ecke (rot)",
-    "en-GB": "Red Corner",
-    "en-US": "Red Corner",
-    "es": "Esquina roja",
-    "fr": "Coin rouge",
-    "it": "Angolo rosso",
-    "ja": "あかコーナー"
-  },
+  "name": "Red Corner",
   "category": "Furniture",
   "games": {
     "nl": {

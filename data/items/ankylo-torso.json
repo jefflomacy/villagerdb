@@ -1,14 +1,6 @@
 {
   "id": "ankylo-torso",
-  "name": {
-    "de": "Ankylosaurus-Torso",
-    "en-GB": "Ankylo Torso",
-    "en-US": "Ankylo Torso",
-    "es": "Cuerpo anquilosaurio",
-    "fr": "Torse d'ankylosaure",
-    "it": "Torso anchilosauro",
-    "ja": "アンキロサウルスのからだ"
-  },
+  "name": "Ankylo Torso",
   "category": "Fossils",
   "games": {
     "nl": {

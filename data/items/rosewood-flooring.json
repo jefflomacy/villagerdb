@@ -1,8 +1,6 @@
 {
   "id": "rosewood-flooring",
-  "name": {
-    "en-US": "Rosewood Flooring"
-  },
+  "name": "Rosewood Flooring",
   "games": {
     "nh": {
       "orderable": true,

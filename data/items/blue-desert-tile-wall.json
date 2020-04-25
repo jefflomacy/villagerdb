@@ -1,8 +1,6 @@
 {
   "id": "blue-desert-tile-wall",
-  "name": {
-    "en-US": "Blue Desert-tile Wall"
-  },
+  "name": "Blue Desert-tile Wall",
   "games": {
     "nh": {
       "orderable": true,

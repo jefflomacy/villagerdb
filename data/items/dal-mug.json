@@ -1,8 +1,6 @@
 {
   "id": "dal-mug",
-  "name": {
-    "en-US": "Dal Mug"
-  },
+  "name": "Dal Mug",
   "games": {
     "nh": {
       "sellPrice": {

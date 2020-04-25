@@ -1,8 +1,6 @@
 {
   "id": "lattice-fence",
-  "name": {
-    "en-US": "Lattice Fence"
-  },
+  "name": "Lattice Fence",
   "games": {
     "nh": {
       "orderable": false,

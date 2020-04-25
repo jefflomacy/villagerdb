@@ -1,14 +1,6 @@
 {
   "id": "buffet-server",
-  "name": {
-    "de": "Büfett",
-    "en-GB": "Buffet Server",
-    "en-US": "Buffet Server",
-    "es": "Bufé",
-    "fr": "Chauffe-plat",
-    "it": "Scaldavivande buffet",
-    "ja": "おでんのなべ"
-  },
+  "name": "Buffet Server",
   "category": "Furniture",
   "games": {
     "nl": {

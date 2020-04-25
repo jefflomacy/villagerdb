@@ -1,14 +1,6 @@
 {
   "id": "fish-tee",
-  "name": {
-    "de": "Fischgrät-Shirt",
-    "en-GB": "Fish Tee",
-    "en-US": "Fish Tee",
-    "es": "Camiseta pececillo",
-    "fr": "T-shirt poisson",
-    "it": "Maglietta pesciolino",
-    "ja": "さかなのふく"
-  },
+  "name": "Fish Tee",
   "category": "Tops",
   "games": {
     "nl": {

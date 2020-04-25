@@ -1,8 +1,6 @@
 {
   "id": "camper-tee",
-  "name": {
-    "en-US": "Camper Tee"
-  },
+  "name": "Camper Tee",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,8 +1,6 @@
 {
   "id": "heavy-curtain-wall",
-  "name": {
-    "en-US": "Heavy-curtain Wall"
-  },
+  "name": "Heavy-curtain Wall",
   "games": {
     "nh": {
       "sellPrice": {

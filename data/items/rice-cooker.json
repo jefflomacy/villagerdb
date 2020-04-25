@@ -1,14 +1,6 @@
 {
   "id": "rice-cooker",
-  "name": {
-    "de": "Reiskocher",
-    "en-GB": "Rice Cooker",
-    "en-US": "Rice Cooker",
-    "es": "Hervidor de arroz",
-    "fr": "Cuiseur de riz",
-    "it": "Cuociriso",
-    "ja": "すいはんき"
-  },
+  "name": "Rice Cooker",
   "category": "Furniture",
   "games": {
     "nl": {

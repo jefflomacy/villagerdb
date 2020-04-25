@@ -1,8 +1,6 @@
 {
   "id": "dungeon-wall",
-  "name": {
-    "en-US": "Dungeon Wall"
-  },
+  "name": "Dungeon Wall",
   "games": {
     "nh": {
       "sellPrice": {

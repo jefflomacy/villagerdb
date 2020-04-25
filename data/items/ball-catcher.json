@@ -1,14 +1,6 @@
 {
   "id": "ball-catcher",
-  "name": {
-    "de": "Ballwagen",
-    "en-GB": "Ball Catcher",
-    "en-US": "Ball Catcher",
-    "es": "Jaula pelotas",
-    "fr": "Porte-ballons",
-    "it": "Carrello",
-    "ja": "ボールいれ"
-  },
+  "name": "Ball Catcher",
   "category": "Furniture",
   "games": {
     "nl": {

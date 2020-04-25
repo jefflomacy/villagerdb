@@ -1,14 +1,6 @@
 {
   "id": "owl-clock",
-  "name": {
-    "de": "Eulenuhr",
-    "en-GB": "Owl Clock",
-    "en-US": "Owl Clock",
-    "es": "Reloj búho",
-    "fr": "Horloge chouette",
-    "it": "Sveglia gufo",
-    "ja": "みみずくどけい"
-  },
+  "name": "Owl Clock",
   "category": "Furniture",
   "games": {
     "nl": {

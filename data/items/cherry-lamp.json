@@ -1,8 +1,6 @@
 {
   "id": "cherry-lamp",
-  "name": {
-    "en-US": "Cherry Lamp"
-  },
+  "name": "Cherry Lamp",
   "games": {
     "nh": {
       "orderable": false,

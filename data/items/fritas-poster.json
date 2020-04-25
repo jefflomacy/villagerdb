@@ -1,8 +1,6 @@
 {
   "id": "fritas-poster",
-  "name": {
-    "en-US": "Frita's Poster"
-  },
+  "name": "Frita's Poster",
   "games": {
     "nh": {
       "sources": [

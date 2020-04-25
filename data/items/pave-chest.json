@@ -1,14 +1,6 @@
 {
   "id": "pave-chest",
-  "name": {
-    "de": "Karnevalskommode",
-    "en-GB": "Pavé Chest",
-    "en-US": "Pavé Chest",
-    "es": "Cómoda Conga",
-    "fr": "Coffre carnaval",
-    "it": "Comò Pavão",
-    "ja": "カーニバルチェスト"
-  },
+  "name": "Pavé Chest",
   "category": "Furniture",
   "games": {
     "nl": {

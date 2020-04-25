@@ -1,8 +1,6 @@
 {
   "id": "bamboo-partition",
-  "name": {
-    "en-US": "Bamboo Partition"
-  },
+  "name": "Bamboo Partition",
   "games": {
     "nh": {
       "orderable": false,

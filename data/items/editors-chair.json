@@ -1,14 +1,6 @@
 {
   "id": "editors-chair",
-  "name": {
-    "de": "Chefsessel",
-    "en-GB": "Editor's Chair",
-    "en-US": "Editor's Chair",
-    "es": "Silla despacho",
-    "fr": "Chaise de rédacteur",
-    "it": "Sedia del direttore",
-    "ja": "しゃちょうのイス"
-  },
+  "name": "Editor's Chair",
   "category": "Furniture",
   "games": {
     "nl": {

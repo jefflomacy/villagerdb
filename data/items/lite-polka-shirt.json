@@ -1,14 +1,6 @@
 {
   "id": "lite-polka-shirt",
-  "name": {
-    "de": "Konfettipulli",
-    "en-GB": "Lite Polka Shirt",
-    "en-US": "Lite Polka Shirt",
-    "es": "Jersey topos día",
-    "fr": "Pull blanc à pois",
-    "it": "Maglia tenue pois",
-    "ja": "しろマーブルなふくL"
-  },
+  "name": "Lite Polka Shirt",
   "category": "Tops",
   "games": {
     "nl": {

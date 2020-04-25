@@ -1,8 +1,6 @@
 {
   "id": "scorpion-model",
-  "name": {
-    "en-US": "Scorpion Model"
-  },
+  "name": "Scorpion Model",
   "games": {
     "nh": {
       "sellPrice": {

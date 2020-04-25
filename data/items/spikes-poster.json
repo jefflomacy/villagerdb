@@ -1,8 +1,6 @@
 {
   "id": "spikes-poster",
-  "name": {
-    "en-US": "Spike's Poster"
-  },
+  "name": "Spike's Poster",
   "games": {
     "nh": {
       "sources": [

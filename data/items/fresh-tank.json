@@ -1,14 +1,6 @@
 {
   "id": "fresh-tank",
-  "name": {
-    "de": "Sorbet-Top",
-    "en-GB": "Fresh Tank",
-    "en-US": "Fresh Tank",
-    "es": "Top brisa",
-    "fr": "Débardeur nouveau",
-    "it": "Canotta fresca",
-    "ja": "さわやかなふくN"
-  },
+  "name": "Fresh Tank",
   "category": "Tops",
   "games": {
     "nl": {

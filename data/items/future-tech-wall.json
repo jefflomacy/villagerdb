@@ -1,8 +1,6 @@
 {
   "id": "future-tech-wall",
-  "name": {
-    "en-US": "Future-tech Wall"
-  },
+  "name": "Future-tech Wall",
   "games": {
     "nh": {
       "sellPrice": {

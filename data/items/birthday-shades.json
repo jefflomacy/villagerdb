@@ -1,14 +1,6 @@
 {
   "id": "birthday-shades",
-  "name": {
-    "de": "Geburtstagsbrille",
-    "en-GB": "Birthday Shades",
-    "en-US": "Birthday Shades",
-    "es": "Gafa de cumpleaños",
-    "fr": "Monture anniv",
-    "it": "Montatura compleanno",
-    "ja": "バースデーサングラス"
-  },
+  "name": "Birthday Shades",
   "category": "Accessories",
   "games": {
     "nl": {

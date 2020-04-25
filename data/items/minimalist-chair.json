@@ -1,14 +1,6 @@
 {
   "id": "minimalist-chair",
-  "name": {
-    "de": "Minimalstuhl",
-    "en-GB": "Minimalist Chair",
-    "en-US": "Minimalist Chair",
-    "es": "Silla minimalista",
-    "fr": "Chaise minimaliste",
-    "it": "Sedia minimalista",
-    "ja": "シンプルなチェア"
-  },
+  "name": "Minimalist Chair",
   "category": "Furniture",
   "games": {
     "nl": {

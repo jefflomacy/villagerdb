@@ -1,8 +1,6 @@
 {
   "id": "corduroy-skirt",
-  "name": {
-    "en-US": "Corduroy Skirt"
-  },
+  "name": "Corduroy Skirt",
   "games": {
     "nh": {
       "orderable": true,

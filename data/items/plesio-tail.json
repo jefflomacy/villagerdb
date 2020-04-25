@@ -1,8 +1,6 @@
 {
   "id": "plesio-tail",
-  "name": {
-    "en-US": "Plesio Tail"
-  },
+  "name": "Plesio Tail",
   "games": {
     "nh": {
       "orderable": false,

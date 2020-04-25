@@ -1,14 +1,6 @@
 {
   "id": "gray-leggings",
-  "name": {
-    "de": "Baumwollgamasche",
-    "en-GB": "Gray Leggings",
-    "en-US": "Gray Leggings",
-    "es": "Legging gris",
-    "fr": "Legging gris",
-    "it": "Paio leggings grigi",
-    "ja": "グレーのレギンス"
-  },
+  "name": "Gray Leggings",
   "category": "Socks",
   "games": {
     "nl": {

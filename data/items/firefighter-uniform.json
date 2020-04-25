@@ -1,8 +1,6 @@
 {
   "id": "firefighter-uniform",
-  "name": {
-    "en-US": "Firefighter Uniform"
-  },
+  "name": "Firefighter Uniform",
   "games": {
     "nh": {
       "orderable": true,

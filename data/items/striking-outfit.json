@@ -1,14 +1,6 @@
 {
   "id": "striking-outfit",
-  "name": {
-    "de": "Kombishirt",
-    "en-GB": "Striking Outfit",
-    "en-US": "Striking Outfit",
-    "es": "Camiseta nudo",
-    "fr": "T-shirt frappant",
-    "it": "Maglietta guerriero",
-    "ja": "いさましいふく"
-  },
+  "name": "Striking Outfit",
   "category": "Tops",
   "games": {
     "nl": {

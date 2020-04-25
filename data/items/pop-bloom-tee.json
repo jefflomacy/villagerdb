@@ -1,14 +1,6 @@
 {
   "id": "pop-bloom-tee",
-  "name": {
-    "de": "Blumenbeetshirt",
-    "en-GB": "Pop Bloom Tee",
-    "en-US": "Pop Bloom Tee",
-    "es": "Camiseta jardín",
-    "fr": "T-shirt pop",
-    "it": "Maglietta sgargiante",
-    "ja": "ポップなはなのシャツ"
-  },
+  "name": "Pop Bloom Tee",
   "category": "Tops",
   "games": {
     "nl": {

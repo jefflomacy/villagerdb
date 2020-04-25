@@ -1,8 +1,6 @@
 {
   "id": "sporty-skirt",
-  "name": {
-    "en-US": "Sporty Skirt"
-  },
+  "name": "Sporty Skirt",
   "games": {
     "nh": {
       "orderable": true,

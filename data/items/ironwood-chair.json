@@ -1,8 +1,6 @@
 {
   "id": "ironwood-chair",
-  "name": {
-    "en-US": "Ironwood Chair"
-  },
+  "name": "Ironwood Chair",
   "games": {
     "nh": {
       "orderable": false,

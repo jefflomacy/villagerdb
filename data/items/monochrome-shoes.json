@@ -1,14 +1,6 @@
 {
   "id": "monochrome-shoes",
-  "name": {
-    "de": "Zweifarb-Lederschuh",
-    "en-GB": "Monochrome Shoes",
-    "en-US": "Monochrome Shoes",
-    "es": "Zapato formal",
-    "fr": "P. souliers N&B",
-    "it": "Paio scarpe tip tap",
-    "ja": "モノトーンなかわぐつ"
-  },
+  "name": "Monochrome Shoes",
   "category": "Shoes",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "natural-garden-table",
-  "name": {
-    "en-US": "Natural Garden Table"
-  },
+  "name": "Natural Garden Table",
   "games": {
     "nh": {
       "orderable": false,

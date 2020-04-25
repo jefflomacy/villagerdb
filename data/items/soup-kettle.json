@@ -1,8 +1,6 @@
 {
   "id": "soup-kettle",
-  "name": {
-    "en-US": "Soup Kettle"
-  },
+  "name": "Soup Kettle",
   "games": {
     "nh": {
       "orderable": true,

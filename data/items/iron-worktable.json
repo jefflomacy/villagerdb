@@ -1,8 +1,6 @@
 {
   "id": "iron-worktable",
-  "name": {
-    "en-US": "Iron Worktable"
-  },
+  "name": "Iron Worktable",
   "games": {
     "nh": {
       "orderable": false,

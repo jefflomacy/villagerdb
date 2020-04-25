@@ -1,14 +1,6 @@
 {
   "id": "pipe-organ",
-  "name": {
-    "de": "Orgel",
-    "en-GB": "Pipe Organ",
-    "en-US": "Pipe Organ",
-    "es": "Órgano",
-    "fr": "Orgue",
-    "it": "Organo a canne",
-    "ja": "パイプオルガン"
-  },
+  "name": "Pipe Organ",
   "category": "Furniture",
   "games": {
     "nl": {

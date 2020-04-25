@@ -1,8 +1,6 @@
 {
   "id": "bunny-day-merry-balloons",
-  "name": {
-    "en-US": "Bunny Day Merry Balloons"
-  },
+  "name": "Bunny Day Merry Balloons",
   "games": {
     "nh": {
       "orderable": false,

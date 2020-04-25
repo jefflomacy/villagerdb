@@ -1,14 +1,6 @@
 {
   "id": "tiara-hair",
-  "name": {
-    "de": "Diadem",
-    "en-GB": "Tiara Hair",
-    "en-US": "Tiara Hair",
-    "es": "Diadema princesa",
-    "fr": "Diadème",
-    "it": "Diadema",
-    "ja": "おひめさま"
-  },
+  "name": "Tiara Hair",
   "category": "Hats",
   "games": {
     "nl": {

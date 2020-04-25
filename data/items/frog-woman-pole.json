@@ -1,14 +1,6 @@
 {
   "id": "frog-woman-pole",
-  "name": {
-    "de": "Unken-Totempfahl",
-    "en-GB": "Frog-Woman Pole",
-    "en-US": "Frog-Woman Pole",
-    "es": "Tótem rana",
-    "fr": "Totem rainette",
-    "it": "Totem ranocchia",
-    "ja": "トーテムポール・サテ"
-  },
+  "name": "Frog-woman Pole",
   "category": "Furniture",
   "games": {
     "nl": {

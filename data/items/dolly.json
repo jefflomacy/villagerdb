@@ -1,14 +1,6 @@
 {
   "id": "dolly",
-  "name": {
-    "de": "Püppchen",
-    "en-GB": "Dolly",
-    "en-US": "Dolly",
-    "es": "Muñeca",
-    "fr": "Poupée",
-    "it": "Bambolina",
-    "ja": "おにんぎょう"
-  },
+  "name": "Dolly",
   "category": "Furniture",
   "games": {
     "nl": {

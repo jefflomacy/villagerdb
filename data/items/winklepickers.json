@@ -1,8 +1,6 @@
 {
   "id": "winklepickers",
-  "name": {
-    "en-US": "Winklepickers"
-  },
+  "name": "Winklepickers",
   "games": {
     "nh": {
       "orderable": true,

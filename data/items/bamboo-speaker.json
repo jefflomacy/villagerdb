@@ -1,8 +1,6 @@
 {
   "id": "bamboo-speaker",
-  "name": {
-    "en-US": "Bamboo Speaker"
-  },
+  "name": "Bamboo Speaker",
   "games": {
     "nh": {
       "orderable": false,

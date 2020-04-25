@@ -1,8 +1,6 @@
 {
   "id": "outdoor-generator",
-  "name": {
-    "en-US": "Outdoor Generator"
-  },
+  "name": "Outdoor Generator",
   "games": {
     "nh": {
       "orderable": true,

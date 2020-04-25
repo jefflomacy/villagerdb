@@ -1,8 +1,6 @@
 {
   "id": "stone-egg-outfit",
-  "name": {
-    "en-US": "Stone-egg Outfit"
-  },
+  "name": "Stone-egg Outfit",
   "games": {
     "nh": {
       "orderable": false,

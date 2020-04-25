@@ -1,8 +1,6 @@
 {
   "id": "party-garland",
-  "name": {
-    "en-US": "Party Garland"
-  },
+  "name": "Party Garland",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,8 +1,6 @@
 {
   "id": "box-skirt-uniform",
-  "name": {
-    "en-US": "Box-skirt Uniform"
-  },
+  "name": "Box-skirt Uniform",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,14 +1,6 @@
 {
   "id": "sleek-stereo",
-  "name": {
-    "de": "Designeranlage",
-    "en-GB": "Sleek Stereo",
-    "en-US": "Sleek Stereo",
-    "es": "Cadena tubos",
-    "fr": "Hi-fi design",
-    "it": "Stereo design",
-    "ja": "パイプなコンポ"
-  },
+  "name": "Sleek Stereo",
   "category": "Furniture",
   "games": {
     "nl": {

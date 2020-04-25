@@ -1,14 +1,6 @@
 {
   "id": "chaise-lounge",
-  "name": {
-    "de": "Chaiselongue",
-    "en-GB": "Chaise Lounge",
-    "en-US": "Chaise Lounge",
-    "es": "Diván",
-    "fr": "Méridienne",
-    "it": "Chaise longue",
-    "ja": "カウチ"
-  },
+  "name": "Chaise Lounge",
   "category": "Furniture",
   "games": {
     "nl": {

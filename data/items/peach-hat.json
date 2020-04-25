@@ -1,8 +1,6 @@
 {
   "id": "peach-hat",
-  "name": {
-    "en-US": "Peach Hat"
-  },
+  "name": "Peach Hat",
   "games": {
     "nh": {
       "sellPrice": {

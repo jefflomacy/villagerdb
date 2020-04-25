@@ -1,14 +1,6 @@
 {
   "id": "pep-squad-tank",
-  "name": {
-    "de": "Cheerleader-Top",
-    "en-GB": "Pep-Squad Tank",
-    "en-US": "Pep-Squad Tank",
-    "es": "Top animadora",
-    "fr": "Débardeur soda",
-    "it": "Canotta cheerleader",
-    "ja": "チアリーダーなふくN"
-  },
+  "name": "Pep-squad Tank",
   "category": "Tops",
   "games": {
     "nl": {

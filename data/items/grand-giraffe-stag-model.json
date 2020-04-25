@@ -1,8 +1,6 @@
 {
   "id": "grand-giraffe-stag-model",
-  "name": {
-    "en-US": "Grand Giraffe Stag Model"
-  },
+  "name": "Grand Giraffe Stag Model",
   "games": {
     "nh": {
       "sellPrice": {

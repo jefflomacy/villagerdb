@@ -1,8 +1,6 @@
 {
   "id": "fortune-telling-set",
-  "name": {
-    "en-US": "Fortune-telling Set"
-  },
+  "name": "Fortune-telling Set",
   "games": {
     "nh": {
       "orderable": true,

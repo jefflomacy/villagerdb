@@ -1,8 +1,6 @@
 {
   "id": "beach-ball",
-  "name": {
-    "en-US": "Beach Ball"
-  },
+  "name": "Beach Ball",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,14 +1,6 @@
 {
   "id": "classic-table",
-  "name": {
-    "de": "Klassiktisch",
-    "en-GB": "Classic Table",
-    "en-US": "Classic Table",
-    "es": "Mesita clásica",
-    "fr": "Table rustique",
-    "it": "Tavolo antico",
-    "ja": "シックなテーブル"
-  },
+  "name": "Classic Table",
   "category": "Furniture",
   "games": {
     "nl": {

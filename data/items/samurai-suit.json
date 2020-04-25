@@ -1,14 +1,6 @@
 {
   "id": "samurai-suit",
-  "name": {
-    "de": "Samuraikostüm",
-    "en-GB": "Samurai Suit",
-    "en-US": "Samurai Suit",
-    "es": "Armadura samurái",
-    "fr": "Armure de samouraï",
-    "it": "Tenuta samurai",
-    "ja": "よろいかぶと"
-  },
+  "name": "Samurai Suit",
   "category": "Furniture",
   "games": {
     "nl": {

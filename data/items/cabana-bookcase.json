@@ -1,14 +1,6 @@
 {
   "id": "cabana-bookcase",
-  "name": {
-    "de": "Korb-Bücherregal",
-    "en-GB": "Cabana Bookcase",
-    "en-US": "Cabana Bookcase",
-    "es": "Librería mimbre",
-    "fr": "étagère rotin",
-    "it": "Libreria vimini",
-    "ja": "リゾートなラック"
-  },
+  "name": "Cabana Bookcase",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "museum-chair",
-  "name": {
-    "de": "Museumshocker",
-    "en-GB": "Museum Chair",
-    "en-US": "Museum Chair",
-    "es": "Banco de museo",
-    "fr": "Tabouret de musée",
-    "it": "Sgabello museo",
-    "ja": "ミュージアムのイス"
-  },
+  "name": "Museum Chair",
   "category": "Furniture",
   "games": {
     "nl": {

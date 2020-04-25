@@ -1,14 +1,6 @@
 {
   "id": "painters-tee",
-  "name": {
-    "de": "Malershirt",
-    "en-GB": "Painter's Tee",
-    "en-US": "Painter's Tee",
-    "es": "Camiseta morada",
-    "fr": "T-shirt peintre",
-    "it": "Maglietta da pittore",
-    "ja": "しぼりぞめなふく"
-  },
+  "name": "Painter's Tee",
   "category": "Tops",
   "games": {
     "nl": {

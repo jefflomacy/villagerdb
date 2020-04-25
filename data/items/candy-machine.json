@@ -1,14 +1,6 @@
 {
   "id": "candy-machine",
-  "name": {
-    "de": "Snackautomat",
-    "en-GB": "Candy Machine",
-    "en-US": "Candy Machine",
-    "es": "Máquina dulces",
-    "fr": "Distributeur bonbons",
-    "it": "Distrib. caramelle",
-    "ja": "キャンディマシン"
-  },
+  "name": "Candy Machine",
   "category": "Furniture",
   "games": {
     "nl": {

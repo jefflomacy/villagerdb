@@ -1,8 +1,6 @@
 {
   "id": "safety-vest",
-  "name": {
-    "en-US": "Safety Vest"
-  },
+  "name": "Safety Vest",
   "games": {
     "nh": {
       "sellPrice": {

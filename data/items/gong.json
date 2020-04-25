@@ -1,8 +1,6 @@
 {
   "id": "gong",
-  "name": {
-    "en-US": "Gong"
-  },
+  "name": "Gong",
   "games": {
     "nh": {
       "orderable": false,

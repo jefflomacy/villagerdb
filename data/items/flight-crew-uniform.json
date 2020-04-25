@@ -1,8 +1,6 @@
 {
   "id": "flight-crew-uniform",
-  "name": {
-    "en-US": "Flight-crew Uniform"
-  },
+  "name": "Flight-crew Uniform",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "timpano-drum",
-  "name": {
-    "de": "Pauke",
-    "en-GB": "Timpano Drum",
-    "en-US": "Timpano Drum",
-    "es": "Timbal",
-    "fr": "Timpano",
-    "it": "Timpano",
-    "ja": "ティンパニ"
-  },
+  "name": "Timpano Drum",
   "category": "Furniture",
   "games": {
     "nl": {

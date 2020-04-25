@@ -1,8 +1,6 @@
 {
   "id": "screen-wall",
-  "name": {
-    "en-US": "Screen Wall"
-  },
+  "name": "Screen Wall",
   "games": {
     "nh": {
       "orderable": true,

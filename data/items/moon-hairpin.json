@@ -1,14 +1,6 @@
 {
   "id": "moon-hairpin",
-  "name": {
-    "de": "Mondhaarnadel",
-    "en-GB": "Moon Hairpin",
-    "en-US": "Moon Hairpin",
-    "es": "Clip luna",
-    "fr": "épingle lune",
-    "it": "Molletta luna",
-    "ja": "つきのかみかざり"
-  },
+  "name": "Moon Hairpin",
   "category": "Hats",
   "games": {
     "nl": {

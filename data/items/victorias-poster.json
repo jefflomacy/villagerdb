@@ -1,8 +1,6 @@
 {
   "id": "victorias-poster",
-  "name": {
-    "en-US": "Victoria's Poster"
-  },
+  "name": "Victoria's Poster",
   "games": {
     "nh": {
       "sources": [

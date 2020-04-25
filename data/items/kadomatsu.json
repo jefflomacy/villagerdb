@@ -1,14 +1,6 @@
 {
   "id": "kadomatsu",
-  "name": {
-    "de": "Kadomatsu",
-    "en-GB": "Kadomatsu",
-    "en-US": "Kadomatsu",
-    "es": "Kadomatsu",
-    "fr": "Kadomatsu",
-    "it": "Kadomatsu",
-    "ja": "かどまつ"
-  },
+  "name": "Kadomatsu",
   "category": "Furniture",
   "games": {
     "nl": {

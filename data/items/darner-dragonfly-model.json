@@ -1,8 +1,6 @@
 {
   "id": "darner-dragonfly-model",
-  "name": {
-    "en-US": "Darner Dragonfly Model"
-  },
+  "name": "Darner Dragonfly Model",
   "games": {
     "nh": {
       "sellPrice": {

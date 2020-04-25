@@ -1,8 +1,6 @@
 {
   "id": "town-backpack",
-  "name": {
-    "en-US": "Town Backpack"
-  },
+  "name": "Town Backpack",
   "games": {
     "nh": {
       "sellPrice": {

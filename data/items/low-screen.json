@@ -1,14 +1,6 @@
 {
   "id": "low-screen",
-  "name": {
-    "de": "Sichtschutz",
-    "en-GB": "Low Screen",
-    "en-US": "Low Screen",
-    "es": "Cubrechimeneas",
-    "fr": "Panneau bas",
-    "it": "Separé basso",
-    "ja": "ひくいついたて"
-  },
+  "name": "Low Screen",
   "category": "Furniture",
   "games": {
     "nl": {

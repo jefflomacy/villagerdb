@@ -1,8 +1,6 @@
 {
   "id": "classic-library-wall",
-  "name": {
-    "en-US": "Classic-library Wall"
-  },
+  "name": "Classic-library Wall",
   "games": {
     "nh": {
       "orderable": false,

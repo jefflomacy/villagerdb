@@ -1,14 +1,6 @@
 {
   "id": "fish-grill",
-  "name": {
-    "de": "Holzkohlengrill",
-    "en-GB": "Fish Grill",
-    "en-US": "Fish Grill",
-    "es": "Grill para pescado",
-    "fr": "Gril à poissons",
-    "it": "Griglia per pesce",
-    "ja": "しちりん"
-  },
+  "name": "Fish Grill",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "hot-spring-tee",
-  "name": {
-    "de": "Seidenshirt",
-    "en-GB": "Hot Spring Tee",
-    "en-US": "Hot Spring Tee",
-    "es": "Camiseta rocío",
-    "fr": "T-shirt iris mauve",
-    "it": "Maglietta rosa vivo",
-    "ja": "ピンクチャイナなふく"
-  },
+  "name": "Hot Spring Tee",
   "category": "Tops",
   "games": {
     "nl": {

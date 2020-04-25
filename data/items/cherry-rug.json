@@ -1,8 +1,6 @@
 {
   "id": "cherry-rug",
-  "name": {
-    "en-US": "Cherry Rug"
-  },
+  "name": "Cherry Rug",
   "games": {
     "nh": {
       "orderable": false,

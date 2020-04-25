@@ -1,14 +1,6 @@
 {
   "id": "black-stockings",
-  "name": {
-    "de": "Schwarzstrumpf",
-    "en-GB": "Black Stockings",
-    "en-US": "Black Stockings",
-    "es": "Media negra",
-    "fr": "Paire de bas noirs",
-    "it": "Paio collant neri",
-    "ja": "くろストッキング"
-  },
+  "name": "Black Stockings",
   "category": "Socks",
   "games": {
     "nl": {

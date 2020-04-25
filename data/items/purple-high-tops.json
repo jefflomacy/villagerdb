@@ -1,14 +1,6 @@
 {
   "id": "purple-high-tops",
-  "name": {
-    "de": "Basketballstiefel",
-    "en-GB": "Purple High-Tops",
-    "en-US": "Purple High-Tops",
-    "es": "Zapatilla alta",
-    "fr": "P. baskets montantes",
-    "it": "P. scarpe alte viola",
-    "ja": "ハイカットスニーカー"
-  },
+  "name": "Purple High-tops",
   "category": "Shoes",
   "games": {
     "nl": {

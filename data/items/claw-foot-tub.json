@@ -1,14 +1,6 @@
 {
   "id": "claw-foot-tub",
-  "name": {
-    "de": "Badewanne",
-    "en-GB": "Claw-Foot Tub",
-    "en-US": "Claw-Foot Tub",
-    "es": "Bañera",
-    "fr": "Baignoire à pieds",
-    "it": "Vasca da bagno",
-    "ja": "ねこあしバスタブ"
-  },
+  "name": "Claw-foot Tub",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "princes-tunic",
-  "name": {
-    "en-US": "Prince's Tunic"
-  },
+  "name": "Prince's Tunic",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,8 +1,6 @@
 {
   "id": "noh-mask",
-  "name": {
-    "en-US": "Noh Mask"
-  },
+  "name": "Noh Mask",
   "games": {
     "nh": {
       "orderable": true,

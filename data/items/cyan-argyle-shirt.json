@@ -1,14 +1,6 @@
 {
   "id": "cyan-argyle-shirt",
-  "name": {
-    "de": "Türkis-Argyle-Pulli",
-    "en-GB": "Cyan Argyle Shirt",
-    "en-US": "Cyan Argyle Shirt",
-    "es": "Jersey pijo cian",
-    "fr": "Pull écossais cyan",
-    "it": "Maglia rombi celesti",
-    "ja": "シアンアーガイルのふくL"
-  },
+  "name": "Cyan Argyle Shirt",
   "category": "Tops",
   "games": {
     "nl": {

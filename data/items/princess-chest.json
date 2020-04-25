@@ -1,14 +1,6 @@
 {
   "id": "princess-chest",
-  "name": {
-    "de": "Prachtkommode",
-    "en-GB": "Princess Chest",
-    "en-US": "Princess Chest",
-    "es": "Cómoda princesa",
-    "fr": "Commode princesse",
-    "it": "Comò contessa",
-    "ja": "プリンセスチェスト"
-  },
+  "name": "Princess Chest",
   "category": "Furniture",
   "games": {
     "nl": {

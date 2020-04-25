@@ -1,14 +1,6 @@
 {
   "id": "lawn-chair",
-  "name": {
-    "de": "Gartenstuhl",
-    "en-GB": "Lawn Chair",
-    "en-US": "Lawn Chair",
-    "es": "Silla jardín",
-    "fr": "Chaise de jardin",
-    "it": "Sedia giardino",
-    "ja": "ビニールチェア"
-  },
+  "name": "Lawn Chair",
   "category": "Furniture",
   "games": {
     "nl": {

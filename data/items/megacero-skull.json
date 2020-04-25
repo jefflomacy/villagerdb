@@ -1,14 +1,6 @@
 {
   "id": "megacero-skull",
-  "name": {
-    "de": "Megacerops-Schädel",
-    "en-GB": "Megacero Skull",
-    "en-US": "Megacero Skull",
-    "es": "Cráneo brontoterio",
-    "fr": "Crâne de bronto",
-    "it": "Teschio brontoterio",
-    "ja": "ブロントテリウムのあたま"
-  },
+  "name": "Megacero Skull",
   "category": "Fossils",
   "games": {
     "nl": {

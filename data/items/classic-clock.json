@@ -1,14 +1,6 @@
 {
   "id": "classic-clock",
-  "name": {
-    "de": "Klassikstanduhr",
-    "en-GB": "Classic Clock",
-    "en-US": "Classic Clock",
-    "es": "Reloj clásico",
-    "fr": "Horloge rustique",
-    "it": "Orologio antico",
-    "ja": "シックなふりこどけい"
-  },
+  "name": "Classic Clock",
   "category": "Furniture",
   "games": {
     "nl": {

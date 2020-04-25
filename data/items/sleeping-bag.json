@@ -1,14 +1,6 @@
 {
   "id": "sleeping-bag",
-  "name": {
-    "de": "Schlafsack",
-    "en-GB": "Sleeping Bag",
-    "en-US": "Sleeping Bag",
-    "es": "Saco de dormir",
-    "fr": "Sac de couchage",
-    "it": "Sacco a pelo",
-    "ja": "シュラフ"
-  },
+  "name": "Sleeping Bag",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "mic-stand",
-  "name": {
-    "de": "Standmikrofon",
-    "en-GB": "Mic Stand",
-    "en-US": "Mic Stand",
-    "es": "Micro con trípode",
-    "fr": "Pied pour microphone",
-    "it": "Asta microfono",
-    "ja": "スタンドマイク"
-  },
+  "name": "Mic Stand",
   "category": "Furniture",
   "games": {
     "nl": {

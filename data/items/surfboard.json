@@ -1,14 +1,6 @@
 {
   "id": "surfboard",
-  "name": {
-    "de": "Surfbrett",
-    "en-GB": "Surfboard",
-    "en-US": "Surfboard",
-    "es": "Tabla de surf",
-    "fr": "Planche de surf",
-    "it": "Tavola da surf",
-    "ja": "サーフボード"
-  },
+  "name": "Surfboard",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "rock-climbing-wall",
-  "name": {
-    "en-US": "Rock-climbing Wall"
-  },
+  "name": "Rock-climbing Wall",
   "games": {
     "nh": {
       "orderable": false,

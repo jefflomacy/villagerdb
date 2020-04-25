@@ -1,14 +1,6 @@
 {
   "id": "candy-jar",
-  "name": {
-    "de": "Bonbonglas",
-    "en-GB": "Candy Jar",
-    "en-US": "Candy Jar",
-    "es": "Bote con chuches",
-    "fr": "Pot à bonbons",
-    "it": "Barattolo caramelle",
-    "ja": "おかしケース"
-  },
+  "name": "Candy Jar",
   "category": "Furniture",
   "games": {
     "nl": {

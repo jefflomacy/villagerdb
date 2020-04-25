@@ -1,8 +1,6 @@
 {
   "id": "white-tulips",
-  "name": {
-    "en-US": "White Tulips"
-  },
+  "name": "White Tulips",
   "games": {
     "nh": {
       "orderable": false,

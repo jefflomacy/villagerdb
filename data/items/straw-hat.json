@@ -1,14 +1,6 @@
 {
   "id": "straw-hat",
-  "name": {
-    "de": "Strohhut",
-    "en-GB": "Straw Hat",
-    "en-US": "Straw Hat",
-    "es": "Sombrero de paja",
-    "fr": "Chapeau de paille",
-    "it": "Cappello di paglia",
-    "ja": "むぎわらぼうし"
-  },
+  "name": "Straw Hat",
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "mint-gingham-tee",
-  "name": {
-    "de": "Mint-Karo-Shirt",
-    "en-GB": "Mint Gingham Tee",
-    "en-US": "Mint Gingham Tee",
-    "es": "Camiseta vichy menta",
-    "fr": "T-shirt vichy menthe",
-    "it": "Maglietta menta",
-    "ja": "ミントギンガムなふく"
-  },
+  "name": "Mint Gingham Tee",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "ptera-body",
-  "name": {
-    "en-US": "Ptera Body"
-  },
+  "name": "Ptera Body",
   "games": {
     "nh": {
       "orderable": false,

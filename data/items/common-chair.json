@@ -1,14 +1,6 @@
 {
   "id": "common-chair",
-  "name": {
-    "de": "Normalstuhl",
-    "en-GB": "Common Chair",
-    "en-US": "Common Chair",
-    "es": "Silla básica",
-    "fr": "Chaise ordinaire",
-    "it": "Sedia comune",
-    "ja": "よくあるチェア"
-  },
+  "name": "Common Chair",
   "category": "Furniture",
   "games": {
     "nl": {

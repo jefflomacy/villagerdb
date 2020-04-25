@@ -1,8 +1,6 @@
 {
   "id": "frog",
-  "name": {
-    "en-US": "Frog"
-  },
+  "name": "Frog",
   "category": "Fish",
   "games": {
     "nl": {

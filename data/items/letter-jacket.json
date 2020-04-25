@@ -1,8 +1,6 @@
 {
   "id": "letter-jacket",
-  "name": {
-    "en-US": "Letter Jacket"
-  },
+  "name": "Letter Jacket",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,8 +1,6 @@
 {
   "id": "fresh-shirt",
-  "name": {
-    "en-US": "Fresh Shirt"
-  },
+  "name": "Fresh Shirt",
   "category": "Tops",
   "games": {
     "ac": {

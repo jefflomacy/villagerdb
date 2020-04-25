@@ -1,14 +1,6 @@
 {
   "id": "raven-pole",
-  "name": {
-    "de": "Raben-Totempfahl",
-    "en-GB": "Raven Pole",
-    "en-US": "Raven Pole",
-    "es": "Tótem cuervo",
-    "fr": "Totem corbeau",
-    "it": "Totem corvo",
-    "ja": "トーテムポール・マア"
-  },
+  "name": "Raven Pole",
   "category": "Furniture",
   "games": {
     "nl": {

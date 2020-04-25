@@ -1,8 +1,6 @@
 {
   "id": "right-megalo-side",
-  "name": {
-    "en-US": "Right Megalo Side"
-  },
+  "name": "Right Megalo Side",
   "games": {
     "nh": {
       "orderable": false,

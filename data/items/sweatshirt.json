@@ -1,8 +1,6 @@
 {
   "id": "sweatshirt",
-  "name": {
-    "en-US": "Sweatshirt"
-  },
+  "name": "Sweatshirt",
   "games": {
     "nh": {
       "orderable": true,

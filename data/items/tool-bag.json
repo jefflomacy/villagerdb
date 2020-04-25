@@ -1,8 +1,6 @@
 {
   "id": "tool-bag",
-  "name": {
-    "en-US": "Tool Bag"
-  },
+  "name": "Tool Bag",
   "games": {
     "nh": {
       "sellPrice": {

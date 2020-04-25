@@ -1,8 +1,6 @@
 {
   "id": "hello-kitty-chair",
-  "name": {
-    "en-US": "Hello Kitty Chair"
-  },
+  "name": "Hello Kitty Chair",
   "category": "Furniture",
   "games": {
     "nl": {

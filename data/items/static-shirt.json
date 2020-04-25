@@ -1,8 +1,6 @@
 {
   "id": "static-shirt",
-  "name": {
-    "en-US": "Static Shirt"
-  },
+  "name": "Static Shirt",
   "category": "Tops",
   "games": {
     "ac": {

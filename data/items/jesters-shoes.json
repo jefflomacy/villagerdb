@@ -1,14 +1,6 @@
 {
   "id": "jesters-shoes",
-  "name": {
-    "de": "Narrenschuh",
-    "en-GB": "Jester's Shoes",
-    "en-US": "Jester's Shoes",
-    "es": "Zapato de bufón",
-    "fr": "P. bottes bouffon",
-    "it": "P. scarpe giullare",
-    "ja": "ピエロのくつ"
-  },
+  "name": "Jester's Shoes",
   "category": "Shoes",
   "games": {
     "nl": {

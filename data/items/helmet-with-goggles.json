@@ -1,8 +1,6 @@
 {
   "id": "helmet-with-goggles",
-  "name": {
-    "en-US": "Helmet With Goggles"
-  },
+  "name": "Helmet With Goggles",
   "games": {
     "nh": {
       "sellPrice": {

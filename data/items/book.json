@@ -1,8 +1,6 @@
 {
   "id": "book",
-  "name": {
-    "en-US": "Book"
-  },
+  "name": "Book",
   "category": "Furniture",
   "games": {
     "nl": {

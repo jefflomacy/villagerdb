@@ -1,8 +1,6 @@
 {
   "id": "rainbow-umbrella",
-  "name": {
-    "en-US": "Rainbow Umbrella"
-  },
+  "name": "Rainbow Umbrella",
   "games": {
     "nh": {
       "sellPrice": {

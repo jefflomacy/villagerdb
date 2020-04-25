@@ -1,8 +1,6 @@
 {
   "id": "guayabera-shirt",
-  "name": {
-    "en-US": "Guayabera Shirt"
-  },
+  "name": "Guayabera Shirt",
   "games": {
     "nh": {
       "sellPrice": {

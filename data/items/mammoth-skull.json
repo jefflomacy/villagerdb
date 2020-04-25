@@ -1,14 +1,6 @@
 {
   "id": "mammoth-skull",
-  "name": {
-    "de": "Mammut-Schädel",
-    "en-GB": "Mammoth Skull",
-    "en-US": "Mammoth Skull",
-    "es": "Cráneo mamut",
-    "fr": "Crâne de mammouth",
-    "it": "Teschio mammut",
-    "ja": "マンモスのあたま"
-  },
+  "name": "Mammoth Skull",
   "category": "Fossils",
   "games": {
     "nl": {

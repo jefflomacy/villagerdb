@@ -1,14 +1,6 @@
 {
   "id": "caveman-tank",
-  "name": {
-    "de": "Steinzeittop",
-    "en-GB": "Caveman Tank",
-    "en-US": "Caveman Tank",
-    "es": "Top cavernícola",
-    "fr": "Débardeur caverne",
-    "it": "Canotta sapiens",
-    "ja": "げんしじんなふく"
-  },
+  "name": "Caveman Tank",
   "category": "Dresses",
   "games": {
     "nl": {

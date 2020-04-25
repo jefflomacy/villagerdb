@@ -1,8 +1,6 @@
 {
   "id": "everyday-tights",
-  "name": {
-    "en-US": "Everyday Tights"
-  },
+  "name": "Everyday Tights",
   "games": {
     "nh": {
       "orderable": true,

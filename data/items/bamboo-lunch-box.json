@@ -1,8 +1,6 @@
 {
   "id": "bamboo-lunch-box",
-  "name": {
-    "en-US": "Bamboo Lunch Box"
-  },
+  "name": "Bamboo Lunch Box",
   "games": {
     "nh": {
       "orderable": false,

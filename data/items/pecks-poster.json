@@ -1,8 +1,6 @@
 {
   "id": "pecks-poster",
-  "name": {
-    "en-US": "Peck's Poster"
-  },
+  "name": "Peck's Poster",
   "games": {
     "nh": {
       "sources": [

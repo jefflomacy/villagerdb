@@ -1,14 +1,6 @@
 {
   "id": "zero-lamp",
-  "name": {
-    "de": "\\u201E0\\u201C-Lampe",
-    "en-GB": "Zero Lamp",
-    "en-US": "Zero Lamp",
-    "es": "Lámpara cero",
-    "fr": "Lampe 0",
-    "it": "Lampada a 0",
-    "ja": "0のランプ"
-  },
+  "name": "Zero Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

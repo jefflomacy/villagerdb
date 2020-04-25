@@ -1,14 +1,6 @@
 {
   "id": "blue-dresser",
-  "name": {
-    "de": "Azurschränkchen",
-    "en-GB": "Blue Dresser",
-    "en-US": "Blue Dresser",
-    "es": "Cajonera azul",
-    "fr": "Buffet bleu",
-    "it": "Comodino blu",
-    "ja": "あおいチェスト"
-  },
+  "name": "Blue Dresser",
   "category": "Furniture",
   "games": {
     "nl": {

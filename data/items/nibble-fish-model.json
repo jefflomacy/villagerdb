@@ -1,8 +1,6 @@
 {
   "id": "nibble-fish-model",
-  "name": {
-    "en-US": "Nibble Fish Model"
-  },
+  "name": "Nibble Fish Model",
   "games": {
     "nh": {
       "sellPrice": {

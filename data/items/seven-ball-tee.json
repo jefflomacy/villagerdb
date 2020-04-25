@@ -1,14 +1,6 @@
 {
   "id": "seven-ball-tee",
-  "name": {
-    "de": "7er-Shirt",
-    "en-GB": "Seven-Ball Tee",
-    "en-US": "Seven-Ball Tee",
-    "es": "Camiseta bola 7",
-    "fr": "T-shirt nº 7",
-    "it": "Maglietta palla 7",
-    "ja": "7ばんだまのふく"
-  },
+  "name": "Seven-ball Tee",
   "category": "Tops",
   "games": {
     "nl": {

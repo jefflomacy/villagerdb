@@ -1,8 +1,6 @@
 {
   "id": "rotten-apple",
-  "name": {
-    "en-US": "Rotten Apple"
-  },
+  "name": "Rotten Apple",
   "category": "Fruit",
   "games": {
     "nl": {

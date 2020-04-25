@@ -1,14 +1,6 @@
 {
   "id": "fire-hydrant",
-  "name": {
-    "de": "Hydrant",
-    "en-GB": "Fire Hydrant",
-    "en-US": "Fire Hydrant",
-    "es": "Boca de incendio",
-    "fr": "Borne d'incendie",
-    "it": "Idrante",
-    "ja": "しょうかせん"
-  },
+  "name": "Fire Hydrant",
   "category": "Furniture",
   "games": {
     "nl": {

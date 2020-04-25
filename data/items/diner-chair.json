@@ -1,8 +1,6 @@
 {
   "id": "diner-chair",
-  "name": {
-    "en-US": "Diner Chair"
-  },
+  "name": "Diner Chair",
   "games": {
     "nh": {
       "orderable": true,

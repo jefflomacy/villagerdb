@@ -1,14 +1,6 @@
 {
   "id": "basketball-hoop",
-  "name": {
-    "de": "Basketballkorb",
-    "en-GB": "Basketball Hoop",
-    "en-US": "Basketball Hoop",
-    "es": "Canasta",
-    "fr": "Panneau de basket",
-    "it": "Canestro basket",
-    "ja": "バスケットのゴール"
-  },
+  "name": "Basketball Hoop",
   "category": "Furniture",
   "games": {
     "nl": {

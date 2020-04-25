@@ -1,14 +1,6 @@
 {
   "id": "beige-knit-shirt",
-  "name": {
-    "de": "Schurwolljacke",
-    "en-GB": "Beige Knit Shirt",
-    "en-US": "Beige Knit Shirt",
-    "es": "Jersey formal",
-    "fr": "Pull beige",
-    "it": "Maglione ambra",
-    "ja": "ベージュのニット"
-  },
+  "name": "Beige Knit Shirt",
   "category": "Tops",
   "games": {
     "nl": {

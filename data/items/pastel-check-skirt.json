@@ -1,14 +1,6 @@
 {
   "id": "pastel-check-skirt",
-  "name": {
-    "de": "Gute-Laune-Rock",
-    "en-GB": "Pastel-Check Skirt",
-    "en-US": "Pastel-Check Skirt",
-    "es": "Falda cuadritos",
-    "fr": "Jupe multicolore",
-    "it": "Gonna leggera",
-    "ja": "さわやかチェックスカート"
-  },
+  "name": "Pastel-check Skirt",
   "category": "Bottoms",
   "games": {
     "nl": {

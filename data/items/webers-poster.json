@@ -1,8 +1,6 @@
 {
   "id": "webers-poster",
-  "name": {
-    "en-US": "Weber's Poster"
-  },
+  "name": "Weber's Poster",
   "games": {
     "nh": {
       "sources": [

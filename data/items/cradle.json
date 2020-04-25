@@ -1,14 +1,6 @@
 {
   "id": "cradle",
-  "name": {
-    "de": "Wiege",
-    "en-GB": "Cradle",
-    "en-US": "Cradle",
-    "es": "Capazo",
-    "fr": "Berceau",
-    "it": "Culla",
-    "ja": "ゆりかご"
-  },
+  "name": "Cradle",
   "category": "Furniture",
   "games": {
     "nl": {

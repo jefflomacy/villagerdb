@@ -1,8 +1,6 @@
 {
   "id": "nurses-jacket",
-  "name": {
-    "en-US": "Nurse's Jacket"
-  },
+  "name": "Nurse's Jacket",
   "games": {
     "nh": {
       "orderable": true,

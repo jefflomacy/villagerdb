@@ -1,14 +1,6 @@
 {
   "id": "six-lamp",
-  "name": {
-    "de": "\\u201E6\\u201C-Lampe",
-    "en-GB": "Six Lamp",
-    "en-US": "Six Lamp",
-    "es": "Lámpara seis",
-    "fr": "Lampe 6",
-    "it": "Lampada a 6",
-    "ja": "6のランプ"
-  },
+  "name": "Six Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

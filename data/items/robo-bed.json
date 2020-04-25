@@ -1,14 +1,6 @@
 {
   "id": "robo-bed",
-  "name": {
-    "de": "Robo-Bett",
-    "en-GB": "Robo-Bed",
-    "en-US": "Robo-Bed",
-    "es": "Robocama",
-    "fr": "Lit robot",
-    "it": "Robo-letto",
-    "ja": "ロボベッド"
-  },
+  "name": "Robo-bed",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "iguanodon-torso",
-  "name": {
-    "de": "Iguanodon-Torso",
-    "en-GB": "Iguanodon Torso",
-    "en-US": "Iguanodon Torso",
-    "es": "Cuerpo iguanodonte",
-    "fr": "Torse d'iguanodon",
-    "it": "Torso iguanodonte",
-    "ja": "イグアノドンのからだ"
-  },
+  "name": "Iguanodon Torso",
   "category": "Fossils",
   "games": {
     "nl": {

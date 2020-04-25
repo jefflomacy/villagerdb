@@ -1,14 +1,6 @@
 {
   "id": "pleather-pants",
-  "name": {
-    "de": "Kunstlederhose",
-    "en-GB": "Pleather Pants",
-    "en-US": "Pleather Pants",
-    "es": "Pantalón polipiel",
-    "fr": "Pantalon en cuir",
-    "it": "Pantalone ecopelle",
-    "ja": "レザーパンツ"
-  },
+  "name": "Pleather Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "backyard-fence-wall",
-  "name": {
-    "en-US": "Backyard-fence Wall"
-  },
+  "name": "Backyard-fence Wall",
   "games": {
     "nh": {
       "orderable": false,

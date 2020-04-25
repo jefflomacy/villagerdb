@@ -1,8 +1,6 @@
 {
   "id": "ironwood-clock",
-  "name": {
-    "en-US": "Ironwood Clock"
-  },
+  "name": "Ironwood Clock",
   "games": {
     "nh": {
       "orderable": false,

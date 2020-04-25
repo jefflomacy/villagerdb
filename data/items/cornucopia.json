@@ -1,14 +1,6 @@
 {
   "id": "cornucopia",
-  "name": {
-    "de": "Füllhorn",
-    "en-GB": "Cornucopia",
-    "en-US": "Cornucopia",
-    "es": "Cornucopia",
-    "fr": "Corne d'abondance",
-    "it": "Cornucopia",
-    "ja": "ほうじょうのつの"
-  },
+  "name": "Cornucopia",
   "category": "Furniture",
   "games": {
     "nl": {

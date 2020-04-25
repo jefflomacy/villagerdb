@@ -1,14 +1,6 @@
 {
   "id": "dogtooth-pants",
-  "name": {
-    "de": "Pepita-Hose",
-    "en-GB": "Dogtooth Pants",
-    "en-US": "Dogtooth Pants",
-    "es": "Pantalón pata gallo",
-    "fr": "Pantalon pied de coq",
-    "it": "Pant. pied de poule",
-    "ja": "ちどりごうしのズボン"
-  },
+  "name": "Dogtooth Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

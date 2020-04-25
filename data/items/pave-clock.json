@@ -1,14 +1,6 @@
 {
   "id": "pave-clock",
-  "name": {
-    "de": "Karnevalsuhr",
-    "en-GB": "Pavé Clock",
-    "en-US": "Pavé Clock",
-    "es": "Reloj Conga",
-    "fr": "Horloge carnaval",
-    "it": "Orologio Pavão",
-    "ja": "カーニバルクロック"
-  },
+  "name": "Pavé Clock",
   "category": "Furniture",
   "games": {
     "nl": {

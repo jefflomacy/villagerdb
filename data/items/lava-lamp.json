@@ -1,14 +1,6 @@
 {
   "id": "lava-lamp",
-  "name": {
-    "de": "Lavalampe",
-    "en-GB": "Lava Lamp",
-    "en-US": "Lava Lamp",
-    "es": "Lámpara de lava",
-    "fr": "Lampe à lave",
-    "it": "Lava lamp",
-    "ja": "ラバランプ"
-  },
+  "name": "Lava Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

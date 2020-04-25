@@ -1,14 +1,6 @@
 {
   "id": "blossom-lantern",
-  "name": {
-    "de": "Blütenlampe",
-    "en-GB": "Blossom Lantern",
-    "en-US": "Blossom Lantern",
-    "es": "Lámpara bonbori",
-    "fr": "Lampe fleurie",
-    "it": "Lanterna floreale",
-    "ja": "ぼんぼり"
-  },
+  "name": "Blossom Lantern",
   "category": "Furniture",
   "games": {
     "nl": {

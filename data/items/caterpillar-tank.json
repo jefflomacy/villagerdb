@@ -1,14 +1,6 @@
 {
   "id": "caterpillar-tank",
-  "name": {
-    "de": "Raupentop",
-    "en-GB": "Caterpillar Tank",
-    "en-US": "Caterpillar Tank",
-    "es": "Top oruga",
-    "fr": "Débardeur bombyx",
-    "it": "Canotta bruco",
-    "ja": "あおむしのふく"
-  },
+  "name": "Caterpillar Tank",
   "category": "Tops",
   "games": {
     "nl": {

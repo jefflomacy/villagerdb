@@ -1,14 +1,6 @@
 {
   "id": "alpine-shelf",
-  "name": {
-    "de": "Nordregal",
-    "en-GB": "Alpine Shelf",
-    "en-US": "Alpine Shelf",
-    "es": "Aparador nórdico",
-    "fr": "étagère nordique",
-    "it": "Credenza nordica",
-    "ja": "スカンジナビアなたな"
-  },
+  "name": "Alpine Shelf",
   "category": "Furniture",
   "games": {
     "nl": {

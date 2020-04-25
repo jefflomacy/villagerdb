@@ -1,14 +1,6 @@
 {
   "id": "matadors-hat",
-  "name": {
-    "de": "Matadorhut",
-    "en-GB": "Iberian Hat",
-    "en-US": "Matador's Hat",
-    "es": "Montera",
-    "fr": "Chapeau ibérique",
-    "it": "Cappello da torero",
-    "ja": "とうぎゅうしのぼうし"
-  },
+  "name": "Matador's Hat",
   "category": "Hats",
   "games": {
     "nl": {

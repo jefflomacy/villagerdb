@@ -1,14 +1,6 @@
 {
   "id": "astro-table",
-  "name": {
-    "de": "Astrotisch",
-    "en-GB": "Astro Table",
-    "en-US": "Astro Table",
-    "es": "Mesa futurista",
-    "fr": "Table astro",
-    "it": "Tavolo futuro",
-    "ja": "きんみらいなテーブル"
-  },
+  "name": "Astro Table",
   "category": "Furniture",
   "games": {
     "nl": {

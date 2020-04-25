@@ -1,8 +1,6 @@
 {
   "id": "spider-model",
-  "name": {
-    "en-US": "Spider Model"
-  },
+  "name": "Spider Model",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "sagittarius-arrow",
-  "name": {
-    "de": "Schütze-Bogen",
-    "en-GB": "Sagittarius Arrow",
-    "en-US": "Sagittarius Arrow",
-    "es": "Arco Sagitario",
-    "fr": "Arc Sagittaire",
-    "it": "Arco Sagittario",
-    "ja": "サジタリアスのや"
-  },
+  "name": "Sagittarius Arrow",
   "category": "Furniture",
   "games": {
     "nl": {

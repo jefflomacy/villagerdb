@@ -1,14 +1,6 @@
 {
   "id": "garden-tank",
-  "name": {
-    "de": "Gartentop",
-    "en-GB": "Garden Tank",
-    "en-US": "Garden Tank",
-    "es": "Top flores",
-    "fr": "Débardeur jardin",
-    "it": "Canotta millefiori",
-    "ja": "はながらのプリントキャミ"
-  },
+  "name": "Garden Tank",
   "category": "Tops",
   "games": {
     "nl": {

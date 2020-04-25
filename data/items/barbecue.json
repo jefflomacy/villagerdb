@@ -1,14 +1,6 @@
 {
   "id": "barbecue",
-  "name": {
-    "de": "Grill",
-    "en-GB": "Barbecue",
-    "en-US": "Barbecue",
-    "es": "Barbacoa",
-    "fr": "Barbecue",
-    "it": "Barbecue",
-    "ja": "バーベキューグリル"
-  },
+  "name": "Barbecue",
   "category": "Furniture",
   "games": {
     "nl": {

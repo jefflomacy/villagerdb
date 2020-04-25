@@ -1,14 +1,6 @@
 {
   "id": "fresh-tee",
-  "name": {
-    "de": "Sorbet-Shirt",
-    "en-GB": "Fresh Tee",
-    "en-US": "Fresh Tee",
-    "es": "Camiseta brisa",
-    "fr": "T-shirt nouveau",
-    "it": "Maglietta fresca",
-    "ja": "さわやかなふく"
-  },
+  "name": "Fresh Tee",
   "category": "Tops",
   "games": {
     "nl": {

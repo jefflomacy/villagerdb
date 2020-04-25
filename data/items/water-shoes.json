@@ -1,8 +1,6 @@
 {
   "id": "water-shoes",
-  "name": {
-    "en-US": "Water Shoes"
-  },
+  "name": "Water Shoes",
   "games": {
     "nh": {
       "orderable": true,

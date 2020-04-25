@@ -1,8 +1,6 @@
 {
   "id": "new-spring-shirt",
-  "name": {
-    "en-US": "New Spring Shirt"
-  },
+  "name": "New Spring Shirt",
   "category": "Tops",
   "games": {
     "ac": {

@@ -1,14 +1,6 @@
 {
   "id": "western-shirt",
-  "name": {
-    "de": "Western-Hemd",
-    "en-GB": "Western Shirt",
-    "en-US": "Western Shirt",
-    "es": "Jersey de vaquero",
-    "fr": "Pull western",
-    "it": "Maglia cowboy",
-    "ja": "ウェスタンなふく"
-  },
+  "name": "Western Shirt",
   "category": "Tops",
   "games": {
     "nl": {

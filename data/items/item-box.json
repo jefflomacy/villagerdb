@@ -1,8 +1,6 @@
 {
   "id": "item-box",
-  "name": {
-    "en-US": "Item Box"
-  },
+  "name": "Item Box",
   "category": "Furniture",
   "games": {
     "nl": {

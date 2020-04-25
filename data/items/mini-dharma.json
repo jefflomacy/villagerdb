@@ -1,14 +1,6 @@
 {
   "id": "mini-dharma",
-  "name": {
-    "de": "Mini-Daruma",
-    "en-GB": "Mini Dharma",
-    "en-US": "Mini Dharma",
-    "es": "Minidaruma",
-    "fr": "Mini-matriochka",
-    "it": "Minidharma",
-    "ja": "ミニダルマ"
-  },
+  "name": "Mini Dharma",
   "category": "Furniture",
   "games": {
     "nl": {

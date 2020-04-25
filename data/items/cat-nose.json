@@ -1,8 +1,6 @@
 {
   "id": "cat-nose",
-  "name": {
-    "en-US": "Cat Nose"
-  },
+  "name": "Cat Nose",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,8 +1,6 @@
 {
   "id": "mush-rug",
-  "name": {
-    "en-US": "Mush Rug"
-  },
+  "name": "Mush Rug",
   "games": {
     "nh": {
       "sources": [

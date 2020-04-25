@@ -1,8 +1,6 @@
 {
   "id": "striped-socks",
-  "name": {
-    "en-US": "Striped Socks"
-  },
+  "name": "Striped Socks",
   "games": {
     "nh": {
       "orderable": true,

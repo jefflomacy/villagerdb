@@ -1,8 +1,6 @@
 {
   "id": "merchandise-table",
-  "name": {
-    "en-US": "Merchandise Table"
-  },
+  "name": "Merchandise Table",
   "category": "Furniture",
   "games": {
     "nl": {

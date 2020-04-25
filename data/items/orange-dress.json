@@ -1,8 +1,6 @@
 {
   "id": "orange-dress",
-  "name": {
-    "en-US": "Orange Dress"
-  },
+  "name": "Orange Dress",
   "games": {
     "nh": {
       "customizable": false,

@@ -1,14 +1,6 @@
 {
   "id": "gold-bar-tee",
-  "name": {
-    "de": "Ruderershirt",
-    "en-GB": "Gold-Bar Tee",
-    "en-US": "Gold-Bar Tee",
-    "es": "Camiseta rayas oro",
-    "fr": "T-shirt ray. jaune",
-    "it": "Maglietta barre gia.",
-    "ja": "じみなたてじまのふく"
-  },
+  "name": "Gold-bar Tee",
   "category": "Tops",
   "games": {
     "nl": {

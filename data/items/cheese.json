@@ -1,8 +1,6 @@
 {
   "id": "cheese",
-  "name": {
-    "en-US": "Cheese"
-  },
+  "name": "Cheese",
   "category": "Furniture",
   "games": {
     "nl": {

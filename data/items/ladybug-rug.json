@@ -1,8 +1,6 @@
 {
   "id": "ladybug-rug",
-  "name": {
-    "en-US": "Ladybug Rug"
-  },
+  "name": "Ladybug Rug",
   "games": {
     "nh": {
       "orderable": false,

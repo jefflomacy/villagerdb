@@ -1,14 +1,6 @@
 {
   "id": "tea-tansu",
-  "name": {
-    "de": "Tansu-Teeschrank",
-    "en-GB": "Tea Tansu",
-    "en-US": "Tea Tansu",
-    "es": "Tansu de té",
-    "fr": "Meuble à thé",
-    "it": "Tansu da tè",
-    "ja": "ちゃだんす"
-  },
+  "name": "Tea Tansu",
   "category": "Furniture",
   "games": {
     "nl": {

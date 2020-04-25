@@ -1,8 +1,6 @@
 {
   "id": "killifish-model",
-  "name": {
-    "en-US": "Killifish Model"
-  },
+  "name": "Killifish Model",
   "games": {
     "nh": {
       "sellPrice": {

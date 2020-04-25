@@ -1,8 +1,6 @@
 {
   "id": "cooler-box",
-  "name": {
-    "en-US": "Cooler Box"
-  },
+  "name": "Cooler Box",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,14 +1,6 @@
 {
   "id": "weeping-fig",
-  "name": {
-    "de": "Birkenfeige",
-    "en-GB": "Weeping Fig",
-    "en-US": "Weeping Fig",
-    "es": "Ficus benjamina",
-    "fr": "Figuier pleureur",
-    "it": "Fico piangente",
-    "ja": "ベンジャミン"
-  },
+  "name": "Weeping Fig",
   "category": "Furniture",
   "games": {
     "nl": {

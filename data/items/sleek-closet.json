@@ -1,14 +1,6 @@
 {
   "id": "sleek-closet",
-  "name": {
-    "de": "Designerschrank",
-    "en-GB": "Sleek Closet",
-    "en-US": "Sleek Closet",
-    "es": "Armario tubos",
-    "fr": "Armoire design",
-    "it": "Armadio design",
-    "ja": "パイプなクロゼット"
-  },
+  "name": "Sleek Closet",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "ultra-machine",
-  "name": {
-    "de": "Ultra Machine",
-    "en-GB": "Ultra Machine",
-    "en-US": "Ultra Machine",
-    "es": "Ultra Machine",
-    "fr": "Ultra Machine",
-    "it": "Ultra Machine",
-    "ja": "ウルトラマシーン"
-  },
+  "name": "Ultra Machine",
   "category": "Furniture",
   "games": {
     "nl": {

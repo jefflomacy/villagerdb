@@ -1,14 +1,6 @@
 {
   "id": "glass-top-table",
-  "name": {
-    "de": "Glastisch",
-    "en-GB": "Glass-Top Table",
-    "en-US": "Glass-Top Table",
-    "es": "Mesa cristal",
-    "fr": "Table en verre",
-    "it": "Tavolo di vetro",
-    "ja": "すかしぼりのテーブル"
-  },
+  "name": "Glass-top Table",
   "category": "Furniture",
   "games": {
     "nl": {

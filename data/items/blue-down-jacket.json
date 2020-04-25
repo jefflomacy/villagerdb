@@ -1,14 +1,6 @@
 {
   "id": "blue-down-jacket",
-  "name": {
-    "de": "Blaubeerpulli",
-    "en-GB": "Blue Down Jacket",
-    "en-US": "Blue Down Jacket",
-    "es": "Chaqueta azul",
-    "fr": "Doudoune bleue",
-    "it": "Golfino blu",
-    "ja": "あおいダウンジャケット"
-  },
+  "name": "Blue Down Jacket",
   "category": "Tops",
   "games": {
     "nl": {

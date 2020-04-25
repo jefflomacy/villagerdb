@@ -1,14 +1,6 @@
 {
   "id": "hospital-tv",
-  "name": {
-    "de": "Minifernseher",
-    "en-GB": "Hospital TV",
-    "en-US": "Hospital TV",
-    "es": "Tele hospital",
-    "fr": "Mini-télévision",
-    "it": "TV da cucina",
-    "ja": "ていしょくやのテレビ"
-  },
+  "name": "Hospital TV",
   "category": "Furniture",
   "games": {
     "nl": {

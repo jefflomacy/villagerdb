@@ -1,14 +1,6 @@
 {
   "id": "dapper-skirt",
-  "name": {
-    "de": "Alpaka-Rock",
-    "en-GB": "Dapper Skirt",
-    "en-US": "Dapper Skirt",
-    "es": "Falda paseo oro",
-    "fr": "Jupe pimpante",
-    "it": "Gonna festosa",
-    "ja": "きいろツイードスカート"
-  },
+  "name": "Dapper Skirt",
   "category": "Bottoms",
   "games": {
     "nl": {

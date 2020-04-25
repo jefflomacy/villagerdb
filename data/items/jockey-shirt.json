@@ -1,14 +1,6 @@
 {
   "id": "jockey-shirt",
-  "name": {
-    "de": "Jockeypulli",
-    "en-GB": "Jockey Shirt",
-    "en-US": "Jockey Shirt",
-    "es": "Jersey banda rosa",
-    "fr": "Pull jockey",
-    "it": "Maglia riga fucsia",
-    "ja": "しょうぶふく"
-  },
+  "name": "Jockey Shirt",
   "category": "Tops",
   "games": {
     "nl": {

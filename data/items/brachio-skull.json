@@ -1,8 +1,6 @@
 {
   "id": "brachio-skull",
-  "name": {
-    "en-US": "Brachio Skull"
-  },
+  "name": "Brachio Skull",
   "games": {
     "nh": {
       "orderable": false,

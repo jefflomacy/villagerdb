@@ -1,8 +1,6 @@
 {
   "id": "yellow-message-mat",
-  "name": {
-    "en-US": "Yellow Message Mat"
-  },
+  "name": "Yellow Message Mat",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "corseted-skirt",
-  "name": {
-    "de": "Korsettrock",
-    "en-GB": "Corseted Skirt",
-    "en-US": "Corseted Skirt",
-    "es": "Falda gótica",
-    "fr": "Jupe corset",
-    "it": "Gonna gotica",
-    "ja": "ゴシックなスカート"
-  },
+  "name": "Corseted Skirt",
   "category": "Bottoms",
   "games": {
     "nl": {

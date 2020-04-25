@@ -1,8 +1,6 @@
 {
   "id": "bonsai-shelf",
-  "name": {
-    "en-US": "Bonsai Shelf"
-  },
+  "name": "Bonsai Shelf",
   "games": {
     "nh": {
       "sellPrice": {

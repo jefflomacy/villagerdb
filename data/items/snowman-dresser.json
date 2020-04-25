@@ -1,14 +1,6 @@
 {
   "id": "snowman-dresser",
-  "name": {
-    "de": "Schneemannkommode",
-    "en-GB": "Snowman Dresser",
-    "en-US": "Snowman Dresser",
-    "es": "Cómoda nieve",
-    "fr": "Commode Yétiti",
-    "it": "Comò neve",
-    "ja": "ゆきだるまタンス"
-  },
+  "name": "Snowman Dresser",
   "category": "Furniture",
   "games": {
     "nl": {

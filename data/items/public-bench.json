@@ -1,8 +1,6 @@
 {
   "id": "public-bench",
-  "name": {
-    "en-US": "Public Bench"
-  },
+  "name": "Public Bench",
   "games": {
     "nh": {
       "orderable": true,

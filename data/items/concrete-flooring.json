@@ -1,8 +1,6 @@
 {
   "id": "concrete-flooring",
-  "name": {
-    "en-US": "Concrete Flooring"
-  },
+  "name": "Concrete Flooring",
   "games": {
     "nh": {
       "orderable": true,

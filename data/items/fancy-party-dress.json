@@ -1,8 +1,6 @@
 {
   "id": "fancy-party-dress",
-  "name": {
-    "en-US": "Fancy Party Dress"
-  },
+  "name": "Fancy Party Dress",
   "games": {
     "nh": {
       "sellPrice": {

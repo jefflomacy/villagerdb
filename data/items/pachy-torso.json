@@ -1,14 +1,6 @@
 {
   "id": "pachy-torso",
-  "name": {
-    "de": "Pachysaurus-Torso",
-    "en-GB": "Pachysaurus Torso",
-    "en-US": "Pachy Torso",
-    "es": "Cuerpo paquicefa",
-    "fr": "Torse de pachycéphal",
-    "it": "Torso pachicefalos.",
-    "ja": "パキケファロのからだ"
-  },
+  "name": "Pachy Torso",
   "category": "Fossils",
   "games": {
     "nl": {

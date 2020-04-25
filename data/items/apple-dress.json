@@ -1,8 +1,6 @@
 {
   "id": "apple-dress",
-  "name": {
-    "en-US": "Apple Dress"
-  },
+  "name": "Apple Dress",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "squid-model",
-  "name": {
-    "en-US": "Squid Model"
-  },
+  "name": "Squid Model",
   "games": {
     "nh": {
       "sellPrice": {

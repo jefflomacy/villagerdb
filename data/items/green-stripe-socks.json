@@ -1,14 +1,6 @@
 {
   "id": "green-stripe-socks",
-  "name": {
-    "de": "Grünringelsocke",
-    "en-GB": "Green-Stripe Socks",
-    "en-US": "Green-Stripe Socks",
-    "es": "Calcetín rayas verde",
-    "fr": "Paire chauss. vertes",
-    "it": "Paio calzini verdi",
-    "ja": "みどりボーダーソックス"
-  },
+  "name": "Green-stripe Socks",
   "category": "Socks",
   "games": {
     "nl": {

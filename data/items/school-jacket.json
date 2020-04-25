@@ -1,14 +1,6 @@
 {
   "id": "school-jacket",
-  "name": {
-    "de": "Streber-Schuljacke",
-    "en-GB": "School Jacket",
-    "en-US": "School Jacket",
-    "es": "Chaqueta escolar",
-    "fr": "Veste d'écolier",
-    "it": "Giacca scuola",
-    "ja": "がくせいふく"
-  },
+  "name": "School Jacket",
   "category": "Tops",
   "games": {
     "nl": {

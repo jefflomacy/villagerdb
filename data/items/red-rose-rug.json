@@ -1,8 +1,6 @@
 {
   "id": "red-rose-rug",
-  "name": {
-    "en-US": "Red Rose Rug"
-  },
+  "name": "Red Rose Rug",
   "games": {
     "nh": {
       "orderable": true,

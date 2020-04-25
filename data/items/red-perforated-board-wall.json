@@ -1,8 +1,6 @@
 {
   "id": "red-perforated-board-wall",
-  "name": {
-    "en-US": "Red Perforated-board Wall"
-  },
+  "name": "Red Perforated-board Wall",
   "games": {
     "nh": {
       "sellPrice": {

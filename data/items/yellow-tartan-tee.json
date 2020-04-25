@@ -1,14 +1,6 @@
 {
   "id": "yellow-tartan-tee",
-  "name": {
-    "de": "Kanarienshirt",
-    "en-GB": "Yellow Tartan Tee",
-    "en-US": "Yellow Tartan Tee",
-    "es": "Camiseta tartán oro",
-    "fr": "T-shirt tartan jaune",
-    "it": "Maglietta tartan oro",
-    "ja": "きいろタータンのふく"
-  },
+  "name": "Yellow Tartan Tee",
   "category": "Tops",
   "games": {
     "nl": {

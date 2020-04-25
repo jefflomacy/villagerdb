@@ -1,14 +1,6 @@
 {
   "id": "witchs-hat",
-  "name": {
-    "de": "Hexenhut",
-    "en-GB": "Witch's Hat",
-    "en-US": "Witch's Hat",
-    "es": "Sombrero bruja",
-    "fr": "Chapeau de sorcier",
-    "it": "Cappello da strega",
-    "ja": "まじょのぼうし"
-  },
+  "name": "Witch's Hat",
   "category": "Hats",
   "games": {
     "nl": {

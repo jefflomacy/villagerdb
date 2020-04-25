@@ -1,14 +1,6 @@
 {
   "id": "hibiscus-clock",
-  "name": {
-    "de": "Hibiskusuhr",
-    "en-GB": "Hibiscus Clock",
-    "en-US": "Hibiscus Clock",
-    "es": "Reloj hibisco",
-    "fr": "Horloge hibiscus",
-    "it": "Orologio ibisco",
-    "ja": "ハイビスカスのクロック"
-  },
+  "name": "Hibiscus Clock",
   "category": "Furniture",
   "games": {
     "nl": {

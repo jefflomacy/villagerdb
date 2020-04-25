@@ -1,14 +1,6 @@
 {
   "id": "giraffe-tee",
-  "name": {
-    "de": "Giraffenshirt",
-    "en-GB": "Giraffe Tee",
-    "en-US": "Giraffe Tee",
-    "es": "Camiseta jirafa",
-    "fr": "T-shirt girafe",
-    "it": "Maglietta giraffa",
-    "ja": "キリンのふく"
-  },
+  "name": "Giraffe Tee",
   "category": "Tops",
   "games": {
     "nl": {

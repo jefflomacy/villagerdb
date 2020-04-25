@@ -1,14 +1,6 @@
 {
   "id": "spherical-radar",
-  "name": {
-    "de": "3D-Radarbild",
-    "en-GB": "Spherical Radar",
-    "en-US": "Spherical Radar",
-    "es": "Radar en 3D",
-    "fr": "Radar 3D",
-    "it": "Radar 3D",
-    "ja": "まるいレーダー"
-  },
+  "name": "Spherical Radar",
   "category": "Furniture",
   "games": {
     "nl": {

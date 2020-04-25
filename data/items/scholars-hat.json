@@ -1,14 +1,6 @@
 {
   "id": "scholars-hat",
-  "name": {
-    "de": "Abschlusshut",
-    "en-GB": "Scholar's Hat",
-    "en-US": "Scholar's Hat",
-    "es": "Birrete de graduado",
-    "fr": "Chapeau diplôme",
-    "it": "Cappello laurea",
-    "ja": "がくしのぼうし"
-  },
+  "name": "Scholar's Hat",
   "category": "Hats",
   "games": {
     "nl": {

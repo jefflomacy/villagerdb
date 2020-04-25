@@ -1,14 +1,6 @@
 {
   "id": "pink-bud-tank",
-  "name": {
-    "de": "Knospentop",
-    "en-GB": "Pink-Bud Tank",
-    "en-US": "Pink-Bud Tank",
-    "es": "Top estival",
-    "fr": "Débardeur fleur rose",
-    "it": "Canotta fiori rosa",
-    "ja": "ピンクのプリントキャミ"
-  },
+  "name": "Pink-bud Tank",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "den-desk",
-  "name": {
-    "en-US": "Den Desk"
-  },
+  "name": "Den Desk",
   "games": {
     "nh": {
       "orderable": true,

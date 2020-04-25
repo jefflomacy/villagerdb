@@ -1,14 +1,6 @@
 {
   "id": "master-sword",
-  "name": {
-    "de": "Master-Schwert",
-    "en-GB": "Master Sword",
-    "en-US": "Master Sword",
-    "es": "Espada Maestra",
-    "fr": "Excalibur",
-    "it": "Spada Suprema",
-    "ja": "マスターソード"
-  },
+  "name": "Master Sword",
   "category": "Furniture",
   "games": {
     "nl": {

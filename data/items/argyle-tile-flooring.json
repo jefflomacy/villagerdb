@@ -1,8 +1,6 @@
 {
   "id": "argyle-tile-flooring",
-  "name": {
-    "en-US": "Argyle Tile Flooring"
-  },
+  "name": "Argyle Tile Flooring",
   "games": {
     "nh": {
       "orderable": true,

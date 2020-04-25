@@ -1,8 +1,6 @@
 {
   "id": "iceberg-wall",
-  "name": {
-    "en-US": "Iceberg Wall"
-  },
+  "name": "Iceberg Wall",
   "games": {
     "nh": {
       "sellPrice": {

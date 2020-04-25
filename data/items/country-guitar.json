@@ -1,14 +1,6 @@
 {
   "id": "country-guitar",
-  "name": {
-    "de": "Country-Gitarre",
-    "en-GB": "Country Guitar",
-    "en-US": "Country Guitar",
-    "es": "Guitarra country",
-    "fr": "Guitare country",
-    "it": "Chitarra country",
-    "ja": "アコギターAS2"
-  },
+  "name": "Country Guitar",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "betta-model",
-  "name": {
-    "en-US": "Betta Model"
-  },
+  "name": "Betta Model",
   "games": {
     "nh": {
       "sellPrice": {

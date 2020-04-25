@@ -1,14 +1,6 @@
 {
   "id": "ogre-mask",
-  "name": {
-    "de": "Dämonenmaske",
-    "en-GB": "Ogre Mask",
-    "en-US": "Ogre Mask",
-    "es": "Máscara de ogro",
-    "fr": "Masque d'ogre",
-    "it": "Maschera muro mostro",
-    "ja": "はんにゃののうめん"
-  },
+  "name": "Ogre Mask",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "jingle-piano",
-  "name": {
-    "de": "Festtagspiano",
-    "en-GB": "Jingle Piano",
-    "en-US": "Jingle Piano",
-    "es": "Piano festivo",
-    "fr": "Piano festif",
-    "it": "Piano Jingle",
-    "ja": "クリスマスピアノ"
-  },
+  "name": "Jingle Piano",
   "category": "Furniture",
   "games": {
     "nl": {

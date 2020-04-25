@@ -1,14 +1,6 @@
 {
   "id": "glass-display-case",
-  "name": {
-    "de": "Standvitrine",
-    "en-GB": "Glass Display Case",
-    "en-US": "Glass Display Case",
-    "es": "Vitrina exposición",
-    "fr": "Vitrine verticale",
-    "it": "Espositore verticale",
-    "ja": "ガラスのてんじだい"
-  },
+  "name": "Glass Display Case",
   "category": "Furniture",
   "games": {
     "nl": {

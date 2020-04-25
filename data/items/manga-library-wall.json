@@ -1,8 +1,6 @@
 {
   "id": "manga-library-wall",
-  "name": {
-    "en-US": "Manga-library Wall"
-  },
+  "name": "Manga-library Wall",
   "games": {
     "nh": {
       "orderable": false,

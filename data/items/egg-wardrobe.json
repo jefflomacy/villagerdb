@@ -1,14 +1,6 @@
 {
   "id": "egg-wardrobe",
-  "name": {
-    "de": "Eierschrank",
-    "en-GB": "Egg Wardrobe",
-    "en-US": "Egg Wardrobe",
-    "es": "Armario huevo",
-    "fr": "Bahut \\u0153uf",
-    "it": "Armadio uovo",
-    "ja": "たまごのクロゼット"
-  },
+  "name": "Egg Wardrobe",
   "category": "Furniture",
   "games": {
     "nl": {

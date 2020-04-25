@@ -1,14 +1,6 @@
 {
   "id": "pyramid",
-  "name": {
-    "de": "Pyramide",
-    "en-GB": "Pyramid",
-    "en-US": "Pyramid",
-    "es": "Pirámide",
-    "fr": "Pyramide",
-    "it": "Piramide",
-    "ja": "ピラミッド"
-  },
+  "name": "Pyramid",
   "category": "Furniture",
   "games": {
     "nl": {

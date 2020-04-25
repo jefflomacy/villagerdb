@@ -1,8 +1,6 @@
 {
   "id": "simple-small-purple-mat",
-  "name": {
-    "en-US": "Simple Small Purple Mat"
-  },
+  "name": "Simple Small Purple Mat",
   "games": {
     "nh": {
       "sources": [

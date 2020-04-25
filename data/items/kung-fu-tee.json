@@ -1,14 +1,6 @@
 {
   "id": "kung-fu-tee",
-  "name": {
-    "de": "Kung-Fu-Hemd",
-    "en-GB": "Kung-Fu Tee",
-    "en-US": "Kung-Fu Tee",
-    "es": "Camiseta kung-fu",
-    "fr": "T-shirt kung-fu",
-    "it": "Maglietta kung-fu",
-    "ja": "カンフーなふく"
-  },
+  "name": "Kung-fu Tee",
   "category": "Tops",
   "games": {
     "nl": {

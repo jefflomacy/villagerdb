@@ -1,14 +1,6 @@
 {
   "id": "science-table",
-  "name": {
-    "de": "Labortisch",
-    "en-GB": "Science Table",
-    "en-US": "Science Table",
-    "es": "Mesa laboratorio",
-    "fr": "Paillasse",
-    "it": "Tavolo laboratorio",
-    "ja": "りかしつのつくえ"
-  },
+  "name": "Science Table",
   "category": "Furniture",
   "games": {
     "nl": {

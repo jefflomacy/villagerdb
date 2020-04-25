@@ -1,14 +1,6 @@
 {
   "id": "coral-tank",
-  "name": {
-    "de": "Korallentop",
-    "en-GB": "Coral Tank",
-    "en-US": "Coral Tank",
-    "es": "Top coral",
-    "fr": "Débardeur corail",
-    "it": "Canotta corallo",
-    "ja": "マーブルもようのふくN"
-  },
+  "name": "Coral Tank",
   "category": "Tops",
   "games": {
     "nl": {

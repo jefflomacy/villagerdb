@@ -1,14 +1,6 @@
 {
   "id": "stadiometer",
-  "name": {
-    "de": "Stadiometer",
-    "en-GB": "Stadiometer",
-    "en-US": "Stadiometer",
-    "es": "Estadiómetro",
-    "fr": "Toise",
-    "it": "Misuratore altezza",
-    "ja": "しんちょうけい"
-  },
+  "name": "Stadiometer",
   "category": "Furniture",
   "games": {
     "nl": {

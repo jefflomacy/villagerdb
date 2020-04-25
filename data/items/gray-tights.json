@@ -1,14 +1,6 @@
 {
   "id": "gray-tights",
-  "name": {
-    "de": "Graustrumpfhose",
-    "en-GB": "Gray Tights",
-    "en-US": "Gray Tights",
-    "es": "Media gris",
-    "fr": "Collant gris",
-    "it": "Paio calze grigie",
-    "ja": "グレータイツ"
-  },
+  "name": "Gray Tights",
   "category": "Socks",
   "games": {
     "nl": {

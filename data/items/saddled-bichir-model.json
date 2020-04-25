@@ -1,8 +1,6 @@
 {
   "id": "saddled-bichir-model",
-  "name": {
-    "en-US": "Saddled Bichir Model"
-  },
+  "name": "Saddled Bichir Model",
   "games": {
     "nh": {
       "sellPrice": {

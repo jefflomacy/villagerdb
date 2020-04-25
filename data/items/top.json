@@ -1,14 +1,6 @@
 {
   "id": "top",
-  "name": {
-    "de": "Kreisel",
-    "en-GB": "Top",
-    "en-US": "Top",
-    "es": "Perinola",
-    "fr": "Toupie",
-    "it": "Trottola",
-    "ja": "こま"
-  },
+  "name": "Top",
   "category": "Furniture",
   "games": {
     "nl": {

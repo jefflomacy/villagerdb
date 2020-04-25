@@ -1,14 +1,6 @@
 {
   "id": "carp-banner",
-  "name": {
-    "de": "Karpfenwimpel",
-    "en-GB": "Carp Banner",
-    "en-US": "Carp Banner",
-    "es": "Koinobori",
-    "fr": "Bannière carpe",
-    "it": "Pennone koinobori",
-    "ja": "こいのぼり"
-  },
+  "name": "Carp Banner",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "semi-opaque-tights",
-  "name": {
-    "en-US": "Semi-opaque Tights"
-  },
+  "name": "Semi-opaque Tights",
   "games": {
     "nh": {
       "orderable": true,

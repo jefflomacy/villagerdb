@@ -1,8 +1,6 @@
 {
   "id": "attus-robe",
-  "name": {
-    "en-US": "Attus Robe"
-  },
+  "name": "Attus Robe",
   "games": {
     "nh": {
       "sellPrice": {

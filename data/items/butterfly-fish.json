@@ -1,8 +1,6 @@
 {
   "id": "butterfly-fish",
-  "name": {
-    "en-US": "Butterfly Fish"
-  },
+  "name": "Butterfly Fish",
   "games": {
     "nh": {
       "orderable": false,

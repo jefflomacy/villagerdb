@@ -1,8 +1,6 @@
 {
   "id": "gold-bars",
-  "name": {
-    "en-US": "Gold Bars"
-  },
+  "name": "Gold Bars",
   "games": {
     "nh": {
       "customizable": false,

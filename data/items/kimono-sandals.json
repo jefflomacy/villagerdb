@@ -1,14 +1,6 @@
 {
   "id": "kimono-sandals",
-  "name": {
-    "de": "Kimono-Sandale",
-    "en-GB": "Kimono Sandals",
-    "en-US": "Kimono Sandals",
-    "es": "Sandalia kimono",
-    "fr": "P. sandales kimono",
-    "it": "P. zoccoli kimono",
-    "ja": "げた"
-  },
+  "name": "Kimono Sandals",
   "category": "Shoes",
   "games": {
     "nl": {

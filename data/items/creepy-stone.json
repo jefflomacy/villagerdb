@@ -1,14 +1,6 @@
 {
   "id": "creepy-stone",
-  "name": {
-    "de": "Gruselstein",
-    "en-GB": "Creepy Stone",
-    "en-US": "Creepy Stone",
-    "es": "Estela pavorosa",
-    "fr": "Stèle lugubre",
-    "it": "Lapide horror",
-    "ja": "のろいのはかいし"
-  },
+  "name": "Creepy Stone",
   "category": "Furniture",
   "games": {
     "nl": {

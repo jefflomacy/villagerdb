@@ -1,8 +1,6 @@
 {
   "id": "traditional-straw-coat",
-  "name": {
-    "en-US": "Traditional Straw Coat"
-  },
+  "name": "Traditional Straw Coat",
   "games": {
     "nh": {
       "orderable": false,

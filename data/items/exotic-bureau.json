@@ -1,14 +1,6 @@
 {
   "id": "exotic-bureau",
-  "name": {
-    "de": "Orient-Kommode",
-    "en-GB": "Exotic Bureau",
-    "en-US": "Exotic Bureau",
-    "es": "Cómoda exótica",
-    "fr": "Commode teck",
-    "it": "Comò esotico",
-    "ja": "アジアなタンス"
-  },
+  "name": "Exotic Bureau",
   "category": "Furniture",
   "games": {
     "nl": {

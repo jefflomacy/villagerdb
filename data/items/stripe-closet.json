@@ -1,14 +1,6 @@
 {
   "id": "stripe-closet",
-  "name": {
-    "de": "Streifenschrank",
-    "en-GB": "Stripe Closet",
-    "en-US": "Stripe Closet",
-    "es": "Armario rayas",
-    "fr": "Armoire rayures",
-    "it": "Armadio strisce",
-    "ja": "ストライプなクロゼット"
-  },
+  "name": "Stripe Closet",
   "category": "Furniture",
   "games": {
     "nl": {

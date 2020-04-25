@@ -1,14 +1,6 @@
 {
   "id": "rocket",
-  "name": {
-    "de": "Rakete",
-    "en-GB": "Rocket",
-    "en-US": "Rocket",
-    "es": "Cohete espacial",
-    "fr": "Fusée",
-    "it": "Missile",
-    "ja": "ロケット"
-  },
+  "name": "Rocket",
   "category": "Furniture",
   "games": {
     "nl": {

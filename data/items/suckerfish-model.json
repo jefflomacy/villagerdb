@@ -1,8 +1,6 @@
 {
   "id": "suckerfish-model",
-  "name": {
-    "en-US": "Suckerfish Model"
-  },
+  "name": "Suckerfish Model",
   "games": {
     "nh": {
       "sellPrice": {

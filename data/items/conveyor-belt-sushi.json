@@ -1,14 +1,6 @@
 {
   "id": "conveyor-belt-sushi",
-  "name": {
-    "de": "Sushi-Bar",
-    "en-GB": "Conveyor-Belt Sushi",
-    "en-US": "Conveyor-Belt Sushi",
-    "es": "Sushi giratorio",
-    "fr": "Tapis roulant sushis",
-    "it": "Trasportatore sushi",
-    "ja": "かいてんずし"
-  },
+  "name": "Conveyor-belt Sushi",
   "category": "Furniture",
   "games": {
     "nl": {

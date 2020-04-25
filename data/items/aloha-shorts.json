@@ -1,14 +1,6 @@
 {
   "id": "aloha-shorts",
-  "name": {
-    "de": "Aloha-Hose",
-    "en-GB": "Aloha Shorts",
-    "en-US": "Aloha Shorts",
-    "es": "Bermuda aloha",
-    "fr": "Short Hawaï",
-    "it": "Paio bermuda aloha",
-    "ja": "アロハパンツ"
-  },
+  "name": "Aloha Shorts",
   "category": "Bottoms",
   "games": {
     "nl": {

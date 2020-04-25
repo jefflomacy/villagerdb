@@ -1,8 +1,6 @@
 {
   "id": "grape-umbrella",
-  "name": {
-    "en-US": "Grape Umbrella"
-  },
+  "name": "Grape Umbrella",
   "games": {
     "nh": {
       "sellPrice": {

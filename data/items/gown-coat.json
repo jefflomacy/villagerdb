@@ -1,8 +1,6 @@
 {
   "id": "gown-coat",
-  "name": {
-    "en-US": "Gown Coat"
-  },
+  "name": "Gown Coat",
   "games": {
     "nh": {
       "sellPrice": {

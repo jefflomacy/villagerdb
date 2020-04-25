@@ -1,14 +1,6 @@
 {
   "id": "red-down-jacket",
-  "name": {
-    "de": "Erdbeerpulli",
-    "en-GB": "Red Down Jacket",
-    "en-US": "Red Down Jacket",
-    "es": "Chaqueta roja",
-    "fr": "Doudoune rouge",
-    "it": "Golfino rosso",
-    "ja": "あかいダウンジャケット"
-  },
+  "name": "Red Down Jacket",
   "category": "Tops",
   "games": {
     "nl": {

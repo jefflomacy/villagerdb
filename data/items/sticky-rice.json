@@ -1,8 +1,6 @@
 {
   "id": "sticky-rice",
-  "name": {
-    "en-US": "Sticky Rice"
-  },
+  "name": "Sticky Rice",
   "games": {
     "nh": {
       "orderable": true,

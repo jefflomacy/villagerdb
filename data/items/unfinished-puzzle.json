@@ -1,8 +1,6 @@
 {
   "id": "unfinished-puzzle",
-  "name": {
-    "en-US": "Unfinished Puzzle"
-  },
+  "name": "Unfinished Puzzle",
   "games": {
     "nh": {
       "orderable": true,

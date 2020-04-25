@@ -1,8 +1,6 @@
 {
   "id": "tennis-sweater",
-  "name": {
-    "en-US": "Tennis Sweater"
-  },
+  "name": "Tennis Sweater",
   "games": {
     "nh": {
       "sellPrice": {

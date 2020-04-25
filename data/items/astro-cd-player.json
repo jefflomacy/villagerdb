@@ -1,14 +1,6 @@
 {
   "id": "astro-cd-player",
-  "name": {
-    "de": "Astro-Anlage",
-    "en-GB": "Astro CD Player",
-    "en-US": "Astro CD Player",
-    "es": "Cadena futurista",
-    "fr": "Lecteur CD astro",
-    "it": "Stereo futuro",
-    "ja": "きんみらいなオーディオ"
-  },
+  "name": "Astro CD Player",
   "category": "Furniture",
   "games": {
     "nl": {

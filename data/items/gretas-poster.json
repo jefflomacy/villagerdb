@@ -1,8 +1,6 @@
 {
   "id": "gretas-poster",
-  "name": {
-    "en-US": "Greta's Poster"
-  },
+  "name": "Greta's Poster",
   "games": {
     "nh": {
       "sources": [

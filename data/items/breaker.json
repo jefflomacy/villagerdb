@@ -1,14 +1,6 @@
 {
   "id": "breaker",
-  "name": {
-    "de": "Sicherungskasten",
-    "en-GB": "Breaker",
-    "en-US": "Breaker",
-    "es": "Interruptor",
-    "fr": "Disjoncteur",
-    "it": "Quadro interruttori",
-    "ja": "ブレーカー"
-  },
+  "name": "Breaker",
   "category": "Furniture",
   "games": {
     "nl": {

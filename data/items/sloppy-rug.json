@@ -1,8 +1,6 @@
 {
   "id": "sloppy-rug",
-  "name": {
-    "en-US": "Sloppy Rug"
-  },
+  "name": "Sloppy Rug",
   "games": {
     "nh": {
       "sellPrice": {

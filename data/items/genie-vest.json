@@ -1,14 +1,6 @@
 {
   "id": "genie-vest",
-  "name": {
-    "de": "Orient-Top",
-    "en-GB": "Genie Vest",
-    "en-US": "Genie Vest",
-    "es": "Chaleco persa",
-    "fr": "Débardeur persan",
-    "it": "Canotta persiana",
-    "ja": "ペルシャのチョッキN"
-  },
+  "name": "Genie Vest",
   "category": "Tops",
   "games": {
     "nl": {

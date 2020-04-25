@@ -1,14 +1,6 @@
 {
   "id": "t-rex-skull",
-  "name": {
-    "de": "T-Rex-Schädel",
-    "en-GB": "T. Rex Skull",
-    "en-US": "T. Rex Skull",
-    "es": "Cráneo tiranosaurio",
-    "fr": "Crâne de T. rex",
-    "it": "Teschio tirannosauro",
-    "ja": "Tレックスのあたま"
-  },
+  "name": "T. Rex Skull",
   "category": "Fossils",
   "games": {
     "nl": {

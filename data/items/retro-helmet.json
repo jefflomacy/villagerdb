@@ -1,14 +1,6 @@
 {
   "id": "retro-helmet",
-  "name": {
-    "de": "Retro-Helm",
-    "en-GB": "Retro Helmet",
-    "en-US": "Retro Helmet",
-    "es": "Casco retro",
-    "fr": "Casque rétro",
-    "it": "Casco rétro",
-    "ja": "レトロなヘルメット"
-  },
+  "name": "Retro Helmet",
   "category": "Hats",
   "games": {
     "nl": {

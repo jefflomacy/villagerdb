@@ -1,14 +1,6 @@
 {
   "id": "birthday-hat",
-  "name": {
-    "de": "Geburtstagshut",
-    "en-GB": "Birthday Hat",
-    "en-US": "Birthday Hat",
-    "es": "Sombrero cumpleaños",
-    "fr": "Chapeau anniv",
-    "it": "Cappello compleanno",
-    "ja": "バースデーハット"
-  },
+  "name": "Birthday Hat",
   "category": "Hats",
   "games": {
     "nl": {

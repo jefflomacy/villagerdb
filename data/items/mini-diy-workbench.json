@@ -1,8 +1,6 @@
 {
   "id": "mini-diy-workbench",
-  "name": {
-    "en-US": "Mini DIY Workbench"
-  },
+  "name": "Mini DIY Workbench",
   "games": {
     "nh": {
       "orderable": false,

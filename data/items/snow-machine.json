@@ -1,14 +1,6 @@
 {
   "id": "snow-machine",
-  "name": {
-    "de": "Schneemaschine",
-    "en-GB": "Snow Machine",
-    "en-US": "Snow Machine",
-    "es": "Cañón lanzanieve",
-    "fr": "Canon à neige",
-    "it": "Cannone sparaneve",
-    "ja": "じんこうこうせつき"
-  },
+  "name": "Snow Machine",
   "category": "Furniture",
   "games": {
     "nl": {

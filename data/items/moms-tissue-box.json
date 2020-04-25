@@ -1,8 +1,6 @@
 {
   "id": "moms-tissue-box",
-  "name": {
-    "en-US": "Mom's Tissue Box"
-  },
+  "name": "Mom's Tissue Box",
   "games": {
     "nh": {
       "customizable": true,

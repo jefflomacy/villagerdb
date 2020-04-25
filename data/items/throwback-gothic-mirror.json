@@ -1,8 +1,6 @@
 {
   "id": "throwback-gothic-mirror",
-  "name": {
-    "en-US": "Throwback Gothic Mirror"
-  },
+  "name": "Throwback Gothic Mirror",
   "games": {
     "nh": {
       "orderable": true,

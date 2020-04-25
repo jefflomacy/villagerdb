@@ -1,14 +1,6 @@
 {
   "id": "uncommon-shirt",
-  "name": {
-    "de": "Ethnopulli",
-    "en-GB": "Uncommon Shirt",
-    "en-US": "Uncommon Shirt",
-    "es": "Jersey original",
-    "fr": "Pull original",
-    "it": "Maglione insolito",
-    "ja": "いかめしいニット"
-  },
+  "name": "Uncommon Shirt",
   "category": "Tops",
   "games": {
     "nl": {

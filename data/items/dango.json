@@ -1,14 +1,6 @@
 {
   "id": "dango",
-  "name": {
-    "de": "Dango-Schachtel",
-    "en-GB": "Dango",
-    "en-US": "Dango",
-    "es": "Pasta de luna",
-    "fr": "Plat de dangos",
-    "it": "Dango",
-    "ja": "つきみだんご"
-  },
+  "name": "Dango",
   "category": "Furniture",
   "games": {
     "nl": {

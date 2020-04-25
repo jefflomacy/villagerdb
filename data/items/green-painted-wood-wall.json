@@ -1,8 +1,6 @@
 {
   "id": "green-painted-wood-wall",
-  "name": {
-    "en-US": "Green Painted-wood Wall"
-  },
+  "name": "Green Painted-wood Wall",
   "games": {
     "nh": {
       "orderable": true,

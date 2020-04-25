@@ -1,8 +1,6 @@
 {
   "id": "fishing-rod",
-  "name": {
-    "en-US": "Fishing Rod"
-  },
+  "name": "Fishing Rod",
   "category": "Tools",
   "games": {
     "nl": {

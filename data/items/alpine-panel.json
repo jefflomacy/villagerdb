@@ -1,14 +1,6 @@
 {
   "id": "alpine-panel",
-  "name": {
-    "de": "Nordfliese",
-    "en-GB": "Alpine Panel",
-    "en-US": "Alpine Panel",
-    "es": "Panel nórdico",
-    "fr": "Tableau nordique",
-    "it": "Piastrella nordica",
-    "ja": "スカンジナビアなパネル"
-  },
+  "name": "Alpine Panel",
   "category": "Furniture",
   "games": {
     "nl": {

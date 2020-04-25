@@ -1,8 +1,6 @@
 {
   "id": "athletic-pants",
-  "name": {
-    "en-US": "Athletic Pants"
-  },
+  "name": "Athletic Pants",
   "games": {
     "nh": {
       "sources": [

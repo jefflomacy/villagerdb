@@ -1,8 +1,6 @@
 {
   "id": "common-butterfly-model",
-  "name": {
-    "en-US": "Common Butterfly Model"
-  },
+  "name": "Common Butterfly Model",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "tree-branch-wand",
-  "name": {
-    "en-US": "Tree-branch Wand"
-  },
+  "name": "Tree-branch Wand",
   "games": {
     "nh": {
       "orderable": false,

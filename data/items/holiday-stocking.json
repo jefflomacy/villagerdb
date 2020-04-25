@@ -1,14 +1,6 @@
 {
   "id": "holiday-stocking",
-  "name": {
-    "de": "Geschenksocke",
-    "en-GB": "Holiday Stocking",
-    "en-US": "Holiday Stocking",
-    "es": "Calcetín de pared",
-    "fr": "Chaussette de fête",
-    "it": "Calza per regali",
-    "ja": "かべかけソックス"
-  },
+  "name": "Holiday Stocking",
   "category": "Furniture",
   "games": {
     "nl": {

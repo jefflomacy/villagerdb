@@ -1,8 +1,6 @@
 {
   "id": "pink-simple-cloth-wall",
-  "name": {
-    "en-US": "Pink Simple-cloth Wall"
-  },
+  "name": "Pink Simple-cloth Wall",
   "games": {
     "nh": {
       "orderable": true,

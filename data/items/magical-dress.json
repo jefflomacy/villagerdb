@@ -1,8 +1,6 @@
 {
   "id": "magical-dress",
-  "name": {
-    "en-US": "Magical Dress"
-  },
+  "name": "Magical Dress",
   "games": {
     "nh": {
       "sellPrice": {

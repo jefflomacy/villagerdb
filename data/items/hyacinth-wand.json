@@ -1,8 +1,6 @@
 {
   "id": "hyacinth-wand",
-  "name": {
-    "en-US": "Hyacinth Wand"
-  },
+  "name": "Hyacinth Wand",
   "games": {
     "nh": {
       "orderable": false,

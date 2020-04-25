@@ -1,8 +1,6 @@
 {
   "id": "a-shirt",
-  "name": {
-    "en-US": "A Shirt"
-  },
+  "name": "A Shirt",
   "category": "Tops",
   "games": {
     "ac": {

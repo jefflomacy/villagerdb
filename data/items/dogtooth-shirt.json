@@ -1,14 +1,6 @@
 {
   "id": "dogtooth-shirt",
-  "name": {
-    "de": "Pepita-Pulli",
-    "en-GB": "Dogtooth Shirt",
-    "en-US": "Dogtooth Shirt",
-    "es": "Jersey pata gallo",
-    "fr": "Pull pied de coq",
-    "it": "Maglia pied de poule",
-    "ja": "ちどりごうしのふくL"
-  },
+  "name": "Dogtooth Shirt",
   "category": "Tops",
   "games": {
     "nl": {

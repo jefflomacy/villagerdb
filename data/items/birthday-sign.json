@@ -1,14 +1,6 @@
 {
   "id": "birthday-sign",
-  "name": {
-    "de": "Geburtstagsschild",
-    "en-GB": "Birthday Sign",
-    "en-US": "Birthday Sign",
-    "es": "Cartel de cumpleaños",
-    "fr": "Panneau d'anniv",
-    "it": "Cartello compleanno",
-    "ja": "バースデーボード"
-  },
+  "name": "Birthday Sign",
   "category": "Furniture",
   "games": {
     "nl": {

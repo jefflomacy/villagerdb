@@ -1,14 +1,6 @@
 {
   "id": "red-stripe-pants",
-  "name": {
-    "de": "Rotringelhose",
-    "en-GB": "Red-Stripe Pants",
-    "en-US": "Red-Stripe Pants",
-    "es": "Pantalón rayas rojo",
-    "fr": "Pantalon rayé rouge",
-    "it": "Pantal. rosa e beige",
-    "ja": "あかいボーダーパンツ"
-  },
+  "name": "Red-stripe Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

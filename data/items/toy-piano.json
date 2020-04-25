@@ -1,8 +1,6 @@
 {
   "id": "toy-piano",
-  "name": {
-    "en-US": "Toy Piano"
-  },
+  "name": "Toy Piano",
   "category": "Furniture",
   "games": {
     "nl": {

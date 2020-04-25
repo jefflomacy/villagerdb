@@ -1,8 +1,6 @@
 {
   "id": "skiwear",
-  "name": {
-    "en-US": "Skiwear"
-  },
+  "name": "Skiwear",
   "games": {
     "nh": {
       "sellPrice": {

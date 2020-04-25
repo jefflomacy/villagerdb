@@ -1,8 +1,6 @@
 {
   "id": "fedora",
-  "name": {
-    "en-US": "Fedora"
-  },
+  "name": "Fedora",
   "games": {
     "nh": {
       "orderable": true,

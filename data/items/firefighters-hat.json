@@ -1,8 +1,6 @@
 {
   "id": "firefighters-hat",
-  "name": {
-    "en-US": "Firefighter's Hat"
-  },
+  "name": "Firefighter's Hat",
   "games": {
     "nh": {
       "sellPrice": {

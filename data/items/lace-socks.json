@@ -1,8 +1,6 @@
 {
   "id": "lace-socks",
-  "name": {
-    "en-US": "Lace Socks"
-  },
+  "name": "Lace Socks",
   "games": {
     "nh": {
       "orderable": true,

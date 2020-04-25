@@ -1,8 +1,6 @@
 {
   "id": "bell-voucher",
-  "name": {
-    "en-US": "Bell Voucher"
-  },
+  "name": "Bell Voucher",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,8 +1,6 @@
 {
   "id": "cartoonists-set",
-  "name": {
-    "en-US": "Cartoonist's Set"
-  },
+  "name": "Cartoonist's Set",
   "games": {
     "nh": {
       "orderable": true,

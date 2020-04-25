@@ -1,14 +1,6 @@
 {
   "id": "gorgeous-desk",
-  "name": {
-    "de": "Luxuspult",
-    "en-GB": "Gorgeous Desk",
-    "en-US": "Gorgeous Desk",
-    "es": "Secreter palacio",
-    "fr": "Bureau somptueux",
-    "it": "Scrittoio divino",
-    "ja": "ゴージャスデスク"
-  },
+  "name": "Gorgeous Desk",
   "category": "Furniture",
   "games": {
     "nl": {

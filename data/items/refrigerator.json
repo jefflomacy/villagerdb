@@ -1,14 +1,6 @@
 {
   "id": "refrigerator",
-  "name": {
-    "de": "Kühlschrank",
-    "en-GB": "Refrigerator",
-    "en-US": "Refrigerator",
-    "es": "Frigorífico",
-    "fr": "Réfrigérateur",
-    "it": "Frigorifero",
-    "ja": "れいぞうこ"
-  },
+  "name": "Refrigerator",
   "category": "Furniture",
   "games": {
     "nl": {

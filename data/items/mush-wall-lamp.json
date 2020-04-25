@@ -1,14 +1,6 @@
 {
   "id": "mush-wall-lamp",
-  "name": {
-    "de": "Pilzwandleuchte",
-    "en-GB": "Mush Wall Lamp",
-    "en-US": "Mush Wall Lamp",
-    "es": "Aplique hongo",
-    "fr": "Lampe mur champi",
-    "it": "Lampada a muro fungo",
-    "ja": "きのこのウォールランプ"
-  },
+  "name": "Mush Wall Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

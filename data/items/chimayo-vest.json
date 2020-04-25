@@ -1,8 +1,6 @@
 {
   "id": "chimayo-vest",
-  "name": {
-    "en-US": "Chimayo Vest"
-  },
+  "name": "Chimayo Vest",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,14 +1,6 @@
 {
   "id": "ultra-hand",
-  "name": {
-    "de": "Ultra Hand",
-    "en-GB": "Ultra Hand",
-    "en-US": "Ultra Hand",
-    "es": "Ultra Hand",
-    "fr": "Ultra Hand",
-    "it": "Ultra Hand",
-    "ja": "ウルトラハンド"
-  },
+  "name": "Ultra Hand",
   "category": "Furniture",
   "games": {
     "nl": {

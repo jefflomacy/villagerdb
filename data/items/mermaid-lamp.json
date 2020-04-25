@@ -1,14 +1,6 @@
 {
   "id": "mermaid-lamp",
-  "name": {
-    "de": "Nixenlampe",
-    "en-GB": "Mermaid Lamp",
-    "en-US": "Mermaid Lamp",
-    "es": "Lámpara sirena",
-    "fr": "Lampe sirène",
-    "it": "Lampada sirena",
-    "ja": "マーメイドなランプ"
-  },
+  "name": "Mermaid Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

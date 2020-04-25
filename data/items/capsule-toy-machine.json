@@ -1,14 +1,6 @@
 {
   "id": "capsule-toy-machine",
-  "name": {
-    "de": "Spielzeugautomat",
-    "en-GB": "Capsule-Toy Machine",
-    "en-US": "Capsule-Toy Machine",
-    "es": "Expendedora juguetes",
-    "fr": "Distributeur jouets",
-    "it": "Distributore giochi",
-    "ja": "カプセルトイ"
-  },
+  "name": "Capsule-toy Machine",
   "category": "Furniture",
   "games": {
     "nl": {

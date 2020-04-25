@@ -1,8 +1,6 @@
 {
   "id": "chain-pants",
-  "name": {
-    "en-US": "Chain Pants"
-  },
+  "name": "Chain Pants",
   "games": {
     "nh": {
       "sellPrice": {

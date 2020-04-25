@@ -1,14 +1,6 @@
 {
   "id": "candy-gingham-tee",
-  "name": {
-    "de": "Picknickshirt",
-    "en-GB": "Candy Gingham Tee",
-    "en-US": "Candy Gingham Tee",
-    "es": "Camiseta vichy rosa",
-    "fr": "T-shirt vichy rose",
-    "it": "Maglietta lampone",
-    "ja": "いちごギンガムのふく"
-  },
+  "name": "Candy Gingham Tee",
   "category": "Tops",
   "games": {
     "nl": {

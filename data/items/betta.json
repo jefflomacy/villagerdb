@@ -1,8 +1,6 @@
 {
   "id": "betta",
-  "name": {
-    "en-US": "Betta"
-  },
+  "name": "Betta",
   "games": {
     "nh": {
       "orderable": false,

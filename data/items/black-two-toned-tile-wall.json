@@ -1,8 +1,6 @@
 {
   "id": "black-two-toned-tile-wall",
-  "name": {
-    "en-US": "Black Two-toned Tile Wall"
-  },
+  "name": "Black Two-toned Tile Wall",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "waistcoat",
-  "name": {
-    "de": "Weste mit Hemd",
-    "en-GB": "Waistcoat",
-    "en-US": "Waistcoat",
-    "es": "Chaleco fino",
-    "fr": "Gilet de smoking",
-    "it": "Gilet classico",
-    "ja": "ベストつきワイシャツ"
-  },
+  "name": "Waistcoat",
   "category": "Tops",
   "games": {
     "nl": {

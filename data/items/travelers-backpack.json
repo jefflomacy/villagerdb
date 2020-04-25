@@ -1,8 +1,6 @@
 {
   "id": "travelers-backpack",
-  "name": {
-    "en-US": "Traveler's Backpack"
-  },
+  "name": "Traveler's Backpack",
   "games": {
     "nh": {
       "sources": [

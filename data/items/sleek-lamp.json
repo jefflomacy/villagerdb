@@ -1,14 +1,6 @@
 {
   "id": "sleek-lamp",
-  "name": {
-    "de": "Designerlampe",
-    "en-GB": "Sleek Lamp",
-    "en-US": "Sleek Lamp",
-    "es": "Lámpara tubos",
-    "fr": "Lampe design",
-    "it": "Lampada design",
-    "ja": "パイプなランプ"
-  },
+  "name": "Sleek Lamp",
   "category": "Furniture",
   "games": {
     "nl": {

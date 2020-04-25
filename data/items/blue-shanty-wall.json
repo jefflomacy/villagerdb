@@ -1,8 +1,6 @@
 {
   "id": "blue-shanty-wall",
-  "name": {
-    "en-US": "Blue Shanty Wall"
-  },
+  "name": "Blue Shanty Wall",
   "games": {
     "nh": {
       "sellPrice": {

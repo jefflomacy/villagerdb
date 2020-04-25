@@ -1,8 +1,6 @@
 {
   "id": "old-tire",
-  "name": {
-    "en-US": "Old Tire"
-  },
+  "name": "Old Tire",
   "games": {
     "nh": {
       "orderable": false,

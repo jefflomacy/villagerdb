@@ -1,14 +1,6 @@
 {
   "id": "card-dresser",
-  "name": {
-    "de": "Kartenkommode",
-    "en-GB": "Card Dresser",
-    "en-US": "Card Dresser",
-    "es": "Cómoda naipes",
-    "fr": "Commode cartes",
-    "it": "Comò carte",
-    "ja": "トランプタンス"
-  },
+  "name": "Card Dresser",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "fish-fishing-rod",
-  "name": {
-    "en-US": "Fish Fishing Rod"
-  },
+  "name": "Fish Fishing Rod",
   "games": {
     "nh": {
       "orderable": false,

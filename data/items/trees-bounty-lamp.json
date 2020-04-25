@@ -1,8 +1,6 @@
 {
   "id": "trees-bounty-lamp",
-  "name": {
-    "en-US": "Tree's Bounty Lamp"
-  },
+  "name": "Tree's Bounty Lamp",
   "games": {
     "nh": {
       "customizable": true,

@@ -1,8 +1,6 @@
 {
   "id": "pocket-vintage-camper",
-  "name": {
-    "en-US": "Pocket Vintage Camper"
-  },
+  "name": "Pocket Vintage Camper",
   "games": {
     "nh": {
       "customizable": true,

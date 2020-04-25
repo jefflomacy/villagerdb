@@ -1,8 +1,6 @@
 {
   "id": "archelon-tail",
-  "name": {
-    "en-US": "Archelon Tail"
-  },
+  "name": "Archelon Tail",
   "games": {
     "nh": {
       "orderable": false,

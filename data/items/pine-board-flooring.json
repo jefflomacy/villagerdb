@@ -1,8 +1,6 @@
 {
   "id": "pine-board-flooring",
-  "name": {
-    "en-US": "Pine-board Flooring"
-  },
+  "name": "Pine-board Flooring",
   "games": {
     "nh": {
       "orderable": true,

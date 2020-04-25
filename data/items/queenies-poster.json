@@ -1,8 +1,6 @@
 {
   "id": "queenies-poster",
-  "name": {
-    "en-US": "Queenie's Poster"
-  },
+  "name": "Queenie's Poster",
   "games": {
     "nh": {
       "sources": [

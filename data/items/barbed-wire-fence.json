@@ -1,8 +1,6 @@
 {
   "id": "barbed-wire-fence",
-  "name": {
-    "en-US": "Barbed-wire Fence"
-  },
+  "name": "Barbed-wire Fence",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "beige-desert-tile-wall",
-  "name": {
-    "en-US": "Beige Desert-tile Wall"
-  },
+  "name": "Beige Desert-tile Wall",
   "games": {
     "nh": {
       "orderable": true,

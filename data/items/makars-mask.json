@@ -1,14 +1,6 @@
 {
   "id": "makars-mask",
-  "name": {
-    "de": "Makorusmaske",
-    "en-GB": "Makar's Mask",
-    "en-US": "Makar's Mask",
-    "es": "Máscara de Makore",
-    "fr": "Masque de Dumoria",
-    "it": "Maschera da Macorè",
-    "ja": "はっぱのおめん"
-  },
+  "name": "Makar's Mask",
   "category": "Hats",
   "games": {
     "nl": {

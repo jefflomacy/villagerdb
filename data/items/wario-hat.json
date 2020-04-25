@@ -1,14 +1,6 @@
 {
   "id": "wario-hat",
-  "name": {
-    "de": "Wario-Mütze",
-    "en-GB": "Wario Hat",
-    "en-US": "Wario Hat",
-    "es": "Gorra de Wario",
-    "fr": "Casquette Wario",
-    "it": "Cappello Wario",
-    "ja": "ワリオのぼうし"
-  },
+  "name": "Wario Hat",
   "category": "Hats",
   "games": {
     "nl": {

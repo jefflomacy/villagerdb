@@ -1,8 +1,6 @@
 {
   "id": "night-vision-goggles",
-  "name": {
-    "en-US": "Night-vision Goggles"
-  },
+  "name": "Night-vision Goggles",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,14 +1,6 @@
 {
   "id": "natty-skirt",
-  "name": {
-    "de": "Mohair-Rock",
-    "en-GB": "Natty Skirt",
-    "en-US": "Natty Skirt",
-    "es": "Falda paseo rosa",
-    "fr": "Jupe filet",
-    "it": "Gonna di classe",
-    "ja": "ピンクツイードスカート"
-  },
+  "name": "Natty Skirt",
   "category": "Bottoms",
   "games": {
     "nl": {

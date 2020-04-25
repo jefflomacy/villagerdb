@@ -1,14 +1,6 @@
 {
   "id": "regal-armoire",
-  "name": {
-    "de": "Royalschrank",
-    "en-GB": "Regal Armoire",
-    "en-US": "Regal Armoire",
-    "es": "Armario regio",
-    "fr": "Armoire royale",
-    "it": "Armadio chic",
-    "ja": "ロイヤルなクロゼット"
-  },
+  "name": "Regal Armoire",
   "category": "Furniture",
   "games": {
     "nl": {

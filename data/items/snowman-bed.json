@@ -1,14 +1,6 @@
 {
   "id": "snowman-bed",
-  "name": {
-    "de": "Schneemannbett",
-    "en-GB": "Snowman Bed",
-    "en-US": "Snowman Bed",
-    "es": "Cama nieve",
-    "fr": "Lit Yétiti",
-    "it": "Letto neve",
-    "ja": "ゆきだるまベッド"
-  },
+  "name": "Snowman Bed",
   "category": "Furniture",
   "games": {
     "nl": {

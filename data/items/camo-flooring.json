@@ -1,8 +1,6 @@
 {
   "id": "camo-flooring",
-  "name": {
-    "en-US": "Camo Flooring"
-  },
+  "name": "Camo Flooring",
   "games": {
     "nh": {
       "sellPrice": {

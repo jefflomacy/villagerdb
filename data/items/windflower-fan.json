@@ -1,8 +1,6 @@
 {
   "id": "windflower-fan",
-  "name": {
-    "en-US": "Windflower Fan"
-  },
+  "name": "Windflower Fan",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "western-style-stone",
-  "name": {
-    "en-US": "Western-style Stone"
-  },
+  "name": "Western-style Stone",
   "games": {
     "nh": {
       "orderable": false,

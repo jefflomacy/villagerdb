@@ -1,14 +1,6 @@
 {
   "id": "radiator",
-  "name": {
-    "de": "Heizkörper",
-    "en-GB": "Radiator",
-    "en-US": "Radiator",
-    "es": "Radiador",
-    "fr": "Radiateur",
-    "it": "Calorifero",
-    "ja": "オイルヒーター"
-  },
+  "name": "Radiator",
   "category": "Furniture",
   "games": {
     "nl": {

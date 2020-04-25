@@ -1,14 +1,6 @@
 {
   "id": "ball-return",
-  "name": {
-    "de": "Bowlingmaschine",
-    "en-GB": "Ball Return",
-    "en-US": "Ball Return",
-    "es": "Máquina de bolos",
-    "fr": "Renvoi boules",
-    "it": "Ritorno bocce",
-    "ja": "ボウリングリターン"
-  },
+  "name": "Ball Return",
   "category": "Furniture",
   "games": {
     "nl": {

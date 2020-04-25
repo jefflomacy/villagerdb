@@ -1,14 +1,6 @@
 {
   "id": "neon-sign",
-  "name": {
-    "de": "Neonschild",
-    "en-GB": "Neon Sign",
-    "en-US": "Neon Sign",
-    "es": "Señal de neón",
-    "fr": "Enseigne lumineuse",
-    "it": "Insegna al neon",
-    "ja": "ネオンのかんばん"
-  },
+  "name": "Neon Sign",
   "category": "Furniture",
   "games": {
     "nl": {

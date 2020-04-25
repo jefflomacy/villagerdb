@@ -1,14 +1,6 @@
 {
   "id": "hot-plate",
-  "name": {
-    "de": "Bratplatte",
-    "en-GB": "Hot Plate",
-    "en-US": "Hot Plate",
-    "es": "Sartén eléctrica",
-    "fr": "Plaque chauffante",
-    "it": "Piastra elettrica",
-    "ja": "ホットプレート"
-  },
+  "name": "Hot Plate",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "red-brick-wall",
-  "name": {
-    "en-US": "Red-brick Wall"
-  },
+  "name": "Red-brick Wall",
   "games": {
     "nh": {
       "orderable": true,

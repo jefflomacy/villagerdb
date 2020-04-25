@@ -1,14 +1,6 @@
 {
   "id": "lucky-black-cat",
-  "name": {
-    "de": "Schwarz-Glückskatze",
-    "en-GB": "Lucky Black Cat",
-    "en-US": "Lucky Black Cat",
-    "es": "Gato suerte negro",
-    "fr": "Chat fétiche noir",
-    "it": "Gatto fortuna nero",
-    "ja": "くろいまねきねこ"
-  },
+  "name": "Lucky Black Cat",
   "category": "Furniture",
   "games": {
     "nl": {

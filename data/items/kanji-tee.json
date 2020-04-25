@@ -1,14 +1,6 @@
 {
   "id": "kanji-tee",
-  "name": {
-    "de": "Motiv-Shirt",
-    "en-GB": "Kanji Tee",
-    "en-US": "Kanji Tee",
-    "es": "Camiseta kanji",
-    "fr": "T-shirt kanji",
-    "it": "Maglietta ideogramma",
-    "ja": "かんじTシャツ"
-  },
+  "name": "Kanji Tee",
   "category": "Tops",
   "games": {
     "nl": {

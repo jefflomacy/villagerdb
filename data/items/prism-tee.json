@@ -1,14 +1,6 @@
 {
   "id": "prism-tee",
-  "name": {
-    "de": "Ausgehshirt",
-    "en-GB": "Prism Tee",
-    "en-US": "Prism Tee",
-    "es": "Camiseta prisma",
-    "fr": "T-shirt prisme",
-    "it": "Maglietta prisma",
-    "ja": "スペクトルなふく"
-  },
+  "name": "Prism Tee",
   "category": "Tops",
   "games": {
     "nl": {

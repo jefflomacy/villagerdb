@@ -1,14 +1,6 @@
 {
   "id": "princess-dresser",
-  "name": {
-    "de": "Prachtspiegel",
-    "en-GB": "Princess Dresser",
-    "en-US": "Princess Dresser",
-    "es": "Tocador princesa",
-    "fr": "Coiffeuse princesse",
-    "it": "Toletta contessa",
-    "ja": "プリンセスドレッサー"
-  },
+  "name": "Princess Dresser",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "kitchen-corner",
-  "name": {
-    "de": "Küchenecke",
-    "en-GB": "Kitchen Corner",
-    "en-US": "Kitchen Corner",
-    "es": "Esquina cocina",
-    "fr": "évier de coin",
-    "it": "Angolo cucina",
-    "ja": "キッチンのコーナー"
-  },
+  "name": "Kitchen Corner",
   "category": "Furniture",
   "games": {
     "nl": {

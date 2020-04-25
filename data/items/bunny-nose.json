@@ -1,8 +1,6 @@
 {
   "id": "bunny-nose",
-  "name": {
-    "en-US": "Bunny Nose"
-  },
+  "name": "Bunny Nose",
   "games": {
     "nh": {
       "orderable": true,

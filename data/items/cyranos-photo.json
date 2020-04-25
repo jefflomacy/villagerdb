@@ -1,8 +1,6 @@
 {
   "id": "cyranos-photo",
-  "name": {
-    "en-US": "Cyrano's Photo"
-  },
+  "name": "Cyrano's Photo",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,8 +1,6 @@
 {
   "id": "resettis-poster",
-  "name": {
-    "en-US": "Resetti's Poster"
-  },
+  "name": "Resetti's Poster",
   "games": {
     "nh": {
       "sources": [

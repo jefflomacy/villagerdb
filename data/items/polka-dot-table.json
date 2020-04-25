@@ -1,14 +1,6 @@
 {
   "id": "polka-dot-table",
-  "name": {
-    "de": "Pünktchentisch",
-    "en-GB": "Polka-Dot Table",
-    "en-US": "Polka-Dot Table",
-    "es": "Mesa topos",
-    "fr": "Table à pois rouge",
-    "it": "Tavolo pois",
-    "ja": "みずたまなテーブル"
-  },
+  "name": "Polka-dot Table",
   "category": "Furniture",
   "games": {
     "nl": {

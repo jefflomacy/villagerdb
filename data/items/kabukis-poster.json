@@ -1,8 +1,6 @@
 {
   "id": "kabukis-poster",
-  "name": {
-    "en-US": "Kabuki's Poster"
-  },
+  "name": "Kabuki's Poster",
   "games": {
     "nh": {
       "sources": [

@@ -1,8 +1,6 @@
 {
   "id": "colorful-watering-can",
-  "name": {
-    "en-US": "Colorful Watering Can"
-  },
+  "name": "Colorful Watering Can",
   "games": {
     "nh": {
       "orderable": false,

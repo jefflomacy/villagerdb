@@ -1,14 +1,6 @@
 {
   "id": "colorful-socks",
-  "name": {
-    "de": "Buntsocke",
-    "en-GB": "Colorful Socks",
-    "en-US": "Colorful Socks",
-    "es": "Calcetín colorido",
-    "fr": "P. chauss. colorées",
-    "it": "P. calzini colorati",
-    "ja": "はでなソックス"
-  },
+  "name": "Colorful Socks",
   "category": "Socks",
   "games": {
     "nl": {

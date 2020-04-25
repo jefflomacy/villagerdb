@@ -1,8 +1,6 @@
 {
   "id": "lifeguard-chair",
-  "name": {
-    "en-US": "Lifeguard Chair"
-  },
+  "name": "Lifeguard Chair",
   "games": {
     "nh": {
       "orderable": true,

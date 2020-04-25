@@ -1,14 +1,6 @@
 {
   "id": "green-knit-hat",
-  "name": {
-    "de": "Smaragdmütze",
-    "en-GB": "Green Knit Hat",
-    "en-US": "Green Knit Hat",
-    "es": "Gorro verde",
-    "fr": "Bonnet vert",
-    "it": "Berretto verde",
-    "ja": "みどりのニットぼう"
-  },
+  "name": "Green Knit Hat",
   "category": "Hats",
   "games": {
     "nl": {

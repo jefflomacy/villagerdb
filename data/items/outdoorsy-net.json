@@ -1,8 +1,6 @@
 {
   "id": "outdoorsy-net",
-  "name": {
-    "en-US": "Outdoorsy Net"
-  },
+  "name": "Outdoorsy Net",
   "games": {
     "nh": {
       "orderable": false,

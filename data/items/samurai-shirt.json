@@ -1,14 +1,6 @@
 {
   "id": "samurai-shirt",
-  "name": {
-    "de": "Samurairüstung",
-    "en-GB": "Samurai Shirt",
-    "en-US": "Samurai Shirt",
-    "es": "Coraza samurái",
-    "fr": "Cuirasse samouraï",
-    "it": "Armatura samurai",
-    "ja": "かっちゅう"
-  },
+  "name": "Samurai Shirt",
   "category": "Tops",
   "games": {
     "nl": {

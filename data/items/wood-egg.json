@@ -1,8 +1,6 @@
 {
   "id": "wood-egg",
-  "name": {
-    "en-US": "Wood Egg"
-  },
+  "name": "Wood Egg",
   "games": {
     "nh": {
       "orderable": false,

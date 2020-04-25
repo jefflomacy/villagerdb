@@ -1,8 +1,6 @@
 {
   "id": "nook-inc-wall",
-  "name": {
-    "en-US": "Nook Inc. Wall"
-  },
+  "name": "Nook Inc. Wall",
   "games": {
     "nh": {
       "orderable": true,

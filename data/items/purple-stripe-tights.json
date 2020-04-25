@@ -1,14 +1,6 @@
 {
   "id": "purple-stripe-tights",
-  "name": {
-    "de": "Ringelstrumpfhose",
-    "en-GB": "Purple-Stripe Tights",
-    "en-US": "Purple-Stripe Tights",
-    "es": "Media rayas lilas",
-    "fr": "Collant rayé",
-    "it": "Paio calze strisce",
-    "ja": "ボーダータイツ"
-  },
+  "name": "Purple-stripe Tights",
   "category": "Socks",
   "games": {
     "nl": {

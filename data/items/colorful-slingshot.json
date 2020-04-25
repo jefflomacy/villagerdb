@@ -1,8 +1,6 @@
 {
   "id": "colorful-slingshot",
-  "name": {
-    "en-US": "Colorful Slingshot"
-  },
+  "name": "Colorful Slingshot",
   "games": {
     "nh": {
       "orderable": false,

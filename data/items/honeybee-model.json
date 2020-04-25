@@ -1,8 +1,6 @@
 {
   "id": "honeybee-model",
-  "name": {
-    "en-US": "Honeybee Model"
-  },
+  "name": "Honeybee Model",
   "games": {
     "nh": {
       "sellPrice": {

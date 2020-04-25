@@ -1,8 +1,6 @@
 {
   "id": "berry-chocolates-flooring",
-  "name": {
-    "en-US": "Berry-chocolates Flooring"
-  },
+  "name": "Berry-chocolates Flooring",
   "games": {
     "nh": {
       "orderable": false,

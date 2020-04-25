@@ -1,14 +1,6 @@
 {
   "id": "cd-player",
-  "name": {
-    "de": "CD-Player",
-    "en-GB": "CD Player",
-    "en-US": "CD Player",
-    "es": "Lector de CD",
-    "fr": "Lecteur CD",
-    "it": "Lettore CD",
-    "ja": "CDラジカセ"
-  },
+  "name": "CD Player",
   "category": "Furniture",
   "games": {
     "nl": {

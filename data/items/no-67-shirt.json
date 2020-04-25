@@ -1,14 +1,6 @@
 {
   "id": "no-67-shirt",
-  "name": {
-    "de": "Nr.-67-Pulli",
-    "en-GB": "No. 67 Shirt",
-    "en-US": "No. 67 Shirt",
-    "es": "Jersey n.º 67",
-    "fr": "Pull 67",
-    "it": "Maglia nº 67",
-    "ja": "No.67のふく"
-  },
+  "name": "No. 67 Shirt",
   "category": "Tops",
   "games": {
     "nl": {

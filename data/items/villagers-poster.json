@@ -1,8 +1,6 @@
 {
   "id": "villagers-poster",
-  "name": {
-    "en-US": "Villager's Poster"
-  },
+  "name": "Villager's Poster",
   "games": {
     "nh": {
       "sources": [

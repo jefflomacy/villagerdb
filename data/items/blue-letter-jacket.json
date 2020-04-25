@@ -1,14 +1,6 @@
 {
   "id": "blue-letter-jacket",
-  "name": {
-    "de": "Collegejacke \\u201EK\\u201C",
-    "en-GB": "Blue Letter Jacket",
-    "en-US": "Blue Letter Jacket",
-    "es": "Cazadora azul",
-    "fr": "Veste collège bleue",
-    "it": "Giacca college blu",
-    "ja": "あおいスタジャン"
-  },
+  "name": "Blue Letter Jacket",
   "category": "Tops",
   "games": {
     "nl": {

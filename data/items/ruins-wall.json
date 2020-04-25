@@ -1,8 +1,6 @@
 {
   "id": "ruins-wall",
-  "name": {
-    "en-US": "Ruins Wall"
-  },
+  "name": "Ruins Wall",
   "games": {
     "nh": {
       "orderable": false,

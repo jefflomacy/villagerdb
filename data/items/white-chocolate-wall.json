@@ -1,8 +1,6 @@
 {
   "id": "white-chocolate-wall",
-  "name": {
-    "en-US": "White-chocolate Wall"
-  },
+  "name": "White-chocolate Wall",
   "games": {
     "nh": {
       "sellPrice": {

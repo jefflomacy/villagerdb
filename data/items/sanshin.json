@@ -1,14 +1,6 @@
 {
   "id": "sanshin",
-  "name": {
-    "de": "Sanshin",
-    "en-GB": "Sanshin",
-    "en-US": "Sanshin",
-    "es": "Sanshin",
-    "fr": "Sanshin",
-    "it": "Sanshin",
-    "ja": "さんしん"
-  },
+  "name": "Sanshin",
   "category": "Furniture",
   "games": {
     "nl": {

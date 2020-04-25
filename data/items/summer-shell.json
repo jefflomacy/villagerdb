@@ -1,8 +1,6 @@
 {
   "id": "summer-shell",
-  "name": {
-    "en-US": "Summer Shell"
-  },
+  "name": "Summer Shell",
   "games": {
     "nh": {
       "orderable": false,

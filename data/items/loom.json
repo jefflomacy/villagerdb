@@ -1,14 +1,6 @@
 {
   "id": "loom",
-  "name": {
-    "de": "Webstuhl",
-    "en-GB": "Loom",
-    "en-US": "Loom",
-    "es": "Telar",
-    "fr": "Métier à tisser",
-    "it": "Telaio",
-    "ja": "はたおりき"
-  },
+  "name": "Loom",
   "category": "Furniture",
   "games": {
     "nl": {

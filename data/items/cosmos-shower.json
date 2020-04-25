@@ -1,8 +1,6 @@
 {
   "id": "cosmos-shower",
-  "name": {
-    "en-US": "Cosmos Shower"
-  },
+  "name": "Cosmos Shower",
   "games": {
     "nh": {
       "sellPrice": {

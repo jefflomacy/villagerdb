@@ -1,14 +1,6 @@
 {
   "id": "no-3-shirt",
-  "name": {
-    "de": "Nr.-3-Pulli",
-    "en-GB": "No. 3 Shirt",
-    "en-US": "No. 3 Shirt",
-    "es": "Jersey n.º 3",
-    "fr": "Pull 3",
-    "it": "Maglia nº 3",
-    "ja": "No.3のふく"
-  },
+  "name": "No. 3 Shirt",
   "category": "Tops",
   "games": {
     "nl": {

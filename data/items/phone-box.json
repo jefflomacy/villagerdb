@@ -1,14 +1,6 @@
 {
   "id": "phone-box",
-  "name": {
-    "de": "Telefonzelle",
-    "en-GB": "Phone Box",
-    "en-US": "Phone Box",
-    "es": "Cabina telefónica",
-    "fr": "Cabine téléphonique",
-    "it": "Cabina telefono",
-    "ja": "でんわボックス"
-  },
+  "name": "Phone Box",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "classic-sofa",
-  "name": {
-    "de": "Klassiksofa",
-    "en-GB": "Classic Sofa",
-    "en-US": "Classic Sofa",
-    "es": "Sofá clásico",
-    "fr": "Canapé rustique",
-    "it": "Sofà antico",
-    "ja": "シックなソファ"
-  },
+  "name": "Classic Sofa",
   "category": "Furniture",
   "games": {
     "nl": {

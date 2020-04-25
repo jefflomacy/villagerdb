@@ -1,14 +1,6 @@
 {
   "id": "office-locker",
-  "name": {
-    "de": "Büroschrank",
-    "en-GB": "Office Locker",
-    "en-US": "Office Locker",
-    "es": "Taquilla oficina",
-    "fr": "Casier pro",
-    "it": "Archivio ufficio",
-    "ja": "ロッカー"
-  },
+  "name": "Office Locker",
   "category": "Furniture",
   "games": {
     "nl": {

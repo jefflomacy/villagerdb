@@ -1,14 +1,6 @@
 {
   "id": "dawn-tank",
-  "name": {
-    "de": "Aurora-Top",
-    "en-GB": "Dawn Tank",
-    "en-US": "Dawn Tank",
-    "es": "Top amanecer",
-    "fr": "Débardeur aurore",
-    "it": "Canotta aurora",
-    "ja": "しののめなふくN"
-  },
+  "name": "Dawn Tank",
   "category": "Tops",
   "games": {
     "nl": {

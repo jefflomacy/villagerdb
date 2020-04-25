@@ -1,14 +1,6 @@
 {
   "id": "green-dresser",
-  "name": {
-    "de": "Smaragdkommode",
-    "en-GB": "Green Dresser",
-    "en-US": "Green Dresser",
-    "es": "Cómoda verde",
-    "fr": "Commode verte",
-    "it": "Comò verde",
-    "ja": "みどりのタンス"
-  },
+  "name": "Green Dresser",
   "category": "Furniture",
   "games": {
     "nl": {

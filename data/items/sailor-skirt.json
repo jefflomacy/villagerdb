@@ -1,14 +1,6 @@
 {
   "id": "sailor-skirt",
-  "name": {
-    "de": "Marinerock",
-    "en-GB": "Sailor Skirt",
-    "en-US": "Sailor Skirt",
-    "es": "Falda marinera",
-    "fr": "Jupe matelot",
-    "it": "Gonna marinara",
-    "ja": "セーラーふくのスカート"
-  },
+  "name": "Sailor Skirt",
   "category": "Bottoms",
   "games": {
     "nl": {

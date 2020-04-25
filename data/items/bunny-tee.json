@@ -1,14 +1,6 @@
 {
   "id": "bunny-tee",
-  "name": {
-    "de": "Hasenshirt",
-    "en-GB": "Bunny Tee",
-    "en-US": "Bunny Tee",
-    "es": "Camiseta conejito",
-    "fr": "T-shirt lapin",
-    "it": "Maglietta coniglio",
-    "ja": "うさぎのふく"
-  },
+  "name": "Bunny Tee",
   "category": "Tops",
   "games": {
     "nl": {

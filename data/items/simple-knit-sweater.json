@@ -1,8 +1,6 @@
 {
   "id": "simple-knit-sweater",
-  "name": {
-    "en-US": "Simple Knit Sweater"
-  },
+  "name": "Simple Knit Sweater",
   "games": {
     "nh": {
       "sellPrice": {

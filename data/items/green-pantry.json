@@ -1,14 +1,6 @@
 {
   "id": "green-pantry",
-  "name": {
-    "de": "Smaragdbüfett",
-    "en-GB": "Green Pantry",
-    "en-US": "Green Pantry",
-    "es": "Alacena verde",
-    "fr": "Buffet vert",
-    "it": "Dispensa verde",
-    "ja": "みどりのチェスト"
-  },
+  "name": "Green Pantry",
   "category": "Furniture",
   "games": {
     "nl": {

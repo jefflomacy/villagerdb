@@ -1,14 +1,6 @@
 {
   "id": "night-sky-tee",
-  "name": {
-    "de": "Sternbild-Shirt",
-    "en-GB": "Night-Sky Tee",
-    "en-US": "Night-Sky Tee",
-    "es": "Camiseta estrellada",
-    "fr": "T-shirt astral",
-    "it": "Maglietta universo",
-    "ja": "よぞらなふく"
-  },
+  "name": "Night-sky Tee",
   "category": "Tops",
   "games": {
     "nl": {

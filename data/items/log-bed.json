@@ -1,8 +1,6 @@
 {
   "id": "log-bed",
-  "name": {
-    "en-US": "Log Bed"
-  },
+  "name": "Log Bed",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "street-art-wall",
-  "name": {
-    "en-US": "Street-art Wall"
-  },
+  "name": "Street-art Wall",
   "games": {
     "nh": {
       "sellPrice": {

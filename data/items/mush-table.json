@@ -1,14 +1,6 @@
 {
   "id": "mush-table",
-  "name": {
-    "de": "Pilztisch",
-    "en-GB": "Mush Table",
-    "en-US": "Mush Table",
-    "es": "Mesa hongo",
-    "fr": "Table champi",
-    "it": "Tavolo fungo",
-    "ja": "きのこのテーブル"
-  },
+  "name": "Mush Table",
   "category": "Furniture",
   "games": {
     "nl": {

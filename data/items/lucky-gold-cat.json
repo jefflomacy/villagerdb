@@ -1,14 +1,6 @@
 {
   "id": "lucky-gold-cat",
-  "name": {
-    "de": "Gold-Glückskatze",
-    "en-GB": "Lucky Gold Cat",
-    "en-US": "Lucky Gold Cat",
-    "es": "Gato suerte oro",
-    "fr": "Chat fétiche doré",
-    "it": "Gatto fortuna oro",
-    "ja": "きんのまねきねこ"
-  },
+  "name": "Lucky Gold Cat",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "baby-chair",
-  "name": {
-    "en-US": "Baby Chair"
-  },
+  "name": "Baby Chair",
   "games": {
     "nh": {
       "orderable": true,

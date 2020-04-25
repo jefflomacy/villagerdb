@@ -1,14 +1,6 @@
 {
   "id": "blue-cabinet",
-  "name": {
-    "de": "Azurspind",
-    "en-GB": "Blue Cabinet",
-    "en-US": "Blue Cabinet",
-    "es": "Ropero azul",
-    "fr": "Armoire bleue",
-    "it": "Credenza blu",
-    "ja": "あおいキャビネット"
-  },
+  "name": "Blue Cabinet",
   "category": "Furniture",
   "games": {
     "nl": {

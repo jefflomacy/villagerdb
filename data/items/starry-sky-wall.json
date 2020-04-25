@@ -1,8 +1,6 @@
 {
   "id": "starry-sky-wall",
-  "name": {
-    "en-US": "Starry-sky Wall"
-  },
+  "name": "Starry-sky Wall",
   "games": {
     "nh": {
       "sellPrice": {

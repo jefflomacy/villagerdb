@@ -1,8 +1,6 @@
 {
   "id": "piranha-model",
-  "name": {
-    "en-US": "Piranha Model"
-  },
+  "name": "Piranha Model",
   "games": {
     "nh": {
       "sellPrice": {

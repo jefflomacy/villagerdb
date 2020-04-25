@@ -1,8 +1,6 @@
 {
   "id": "springy-ride-on",
-  "name": {
-    "en-US": "Springy Ride-on"
-  },
+  "name": "Springy Ride-on",
   "games": {
     "nh": {
       "orderable": true,

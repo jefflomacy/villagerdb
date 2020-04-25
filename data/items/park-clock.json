@@ -1,8 +1,6 @@
 {
   "id": "park-clock",
-  "name": {
-    "en-US": "Park Clock"
-  },
+  "name": "Park Clock",
   "games": {
     "nh": {
       "orderable": true,

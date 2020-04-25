@@ -1,14 +1,6 @@
 {
   "id": "asteroid",
-  "name": {
-    "de": "Sternensplitter",
-    "en-GB": "Asteroid",
-    "en-US": "Asteroid",
-    "es": "Asteroide",
-    "fr": "Astéroïde",
-    "it": "Asteroide",
-    "ja": "いんせき"
-  },
+  "name": "Asteroid",
   "category": "Furniture",
   "games": {
     "nl": {

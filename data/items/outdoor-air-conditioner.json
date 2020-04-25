@@ -1,8 +1,6 @@
 {
   "id": "outdoor-air-conditioner",
-  "name": {
-    "en-US": "Outdoor Air Conditioner"
-  },
+  "name": "Outdoor Air Conditioner",
   "games": {
     "nh": {
       "orderable": true,

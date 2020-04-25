@@ -1,14 +1,6 @@
 {
   "id": "zodiac-rabbit",
-  "name": {
-    "de": "Hasenfigur",
-    "en-GB": "Zodiac Rabbit",
-    "en-US": "Zodiac Rabbit",
-    "es": "Figura de liebre",
-    "fr": "Figurine de lièvre",
-    "it": "Figurina di coniglio",
-    "ja": "えとのおきもの・う"
-  },
+  "name": "Zodiac Rabbit",
   "category": "Furniture",
   "games": {
     "nl": {

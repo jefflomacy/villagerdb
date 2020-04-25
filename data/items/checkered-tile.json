@@ -1,8 +1,6 @@
 {
   "id": "checkered-tile",
-  "name": {
-    "en-US": "Checkered Tile"
-  },
+  "name": "Checkered Tile",
   "category": "Flooring",
   "games": {
     "nl": {

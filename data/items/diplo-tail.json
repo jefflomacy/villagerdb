@@ -1,14 +1,6 @@
 {
   "id": "diplo-tail",
-  "name": {
-    "de": "Seismosaurus-Schwanz",
-    "en-GB": "Diplo Tail",
-    "en-US": "Diplo Tail",
-    "es": "Cola diplodocus",
-    "fr": "Queue de séismo",
-    "it": "Coda seismosauro",
-    "ja": "セイスモサウルスのしっぽ"
-  },
+  "name": "Diplo Tail",
   "category": "Fossils",
   "games": {
     "nl": {

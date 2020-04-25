@@ -1,14 +1,6 @@
 {
   "id": "clear-model",
-  "name": {
-    "de": "Kreislaufmodell",
-    "en-GB": "Clear Model",
-    "en-US": "Clear Model",
-    "es": "Modelo arterial",
-    "fr": "Modèle circulation",
-    "it": "Modello trasparente",
-    "ja": "とうめいなもけい"
-  },
+  "name": "Clear Model",
   "category": "Furniture",
   "games": {
     "nl": {

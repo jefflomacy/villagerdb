@@ -1,8 +1,6 @@
 {
   "id": "plain-cap",
-  "name": {
-    "en-US": "Plain Cap"
-  },
+  "name": "Plain Cap",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,8 +1,6 @@
 {
   "id": "black-crown-wall",
-  "name": {
-    "en-US": "Black-crown Wall"
-  },
+  "name": "Black-crown Wall",
   "games": {
     "nh": {
       "orderable": true,

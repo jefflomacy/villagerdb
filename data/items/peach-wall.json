@@ -1,8 +1,6 @@
 {
   "id": "peach-wall",
-  "name": {
-    "en-US": "Peach Wall"
-  },
+  "name": "Peach Wall",
   "games": {
     "nh": {
       "orderable": false,

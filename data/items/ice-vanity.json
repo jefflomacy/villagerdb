@@ -1,14 +1,6 @@
 {
   "id": "ice-vanity",
-  "name": {
-    "de": "Eisspiegel",
-    "en-GB": "Ice Vanity",
-    "en-US": "Ice Vanity",
-    "es": "Tocador hielo",
-    "fr": "Coiffeuse glace",
-    "it": "Toletta ghiaccio",
-    "ja": "アイスなドレッサー"
-  },
+  "name": "Ice Vanity",
   "category": "Furniture",
   "games": {
     "nl": {

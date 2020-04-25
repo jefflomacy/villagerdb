@@ -1,8 +1,6 @@
 {
   "id": "tee-parka-combo",
-  "name": {
-    "en-US": "Tee-parka Combo"
-  },
+  "name": "Tee-parka Combo",
   "games": {
     "nh": {
       "orderable": true,

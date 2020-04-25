@@ -1,14 +1,6 @@
 {
   "id": "ice-table",
-  "name": {
-    "de": "Eistisch",
-    "en-GB": "Ice Table",
-    "en-US": "Ice Table",
-    "es": "Mesa hielo",
-    "fr": "Table glace",
-    "it": "Tavolo ghiaccio",
-    "ja": "アイスなテーブル"
-  },
+  "name": "Ice Table",
   "category": "Furniture",
   "games": {
     "nl": {

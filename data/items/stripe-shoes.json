@@ -1,14 +1,6 @@
 {
   "id": "stripe-shoes",
-  "name": {
-    "de": "Zebra-Damenschuh",
-    "en-GB": "Stripe Shoes",
-    "en-US": "Stripe Shoes",
-    "es": "Manoletina rayas",
-    "fr": "P. ballerines rayées",
-    "it": "P. ballerine strisce",
-    "ja": "ストライプのパンプス"
-  },
+  "name": "Stripe Shoes",
   "category": "Shoes",
   "games": {
     "nl": {

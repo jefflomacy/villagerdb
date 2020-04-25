@@ -1,14 +1,6 @@
 {
   "id": "lovely-chair",
-  "name": {
-    "de": "Herzchenstuhl",
-    "en-GB": "Lovely Chair",
-    "en-US": "Lovely Chair",
-    "es": "Silla corazón",
-    "fr": "Chaise c\\u0153ur",
-    "it": "Sedia cuori",
-    "ja": "ラブリーチェア"
-  },
+  "name": "Lovely Chair",
   "category": "Furniture",
   "games": {
     "nl": {

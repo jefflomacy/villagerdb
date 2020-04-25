@@ -1,14 +1,6 @@
 {
   "id": "headkerchief",
-  "name": {
-    "de": "Wanderkopftuch",
-    "en-GB": "Headkerchief",
-    "en-US": "Headkerchief",
-    "es": "Pañuelo nudo nariz",
-    "fr": "Foulard vert",
-    "it": "Fazzoletto giapp.",
-    "ja": "ほっかむり"
-  },
+  "name": "Headkerchief",
   "category": "Hats",
   "games": {
     "nl": {

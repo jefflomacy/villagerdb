@@ -1,14 +1,6 @@
 {
   "id": "upright-vacuum",
-  "name": {
-    "de": "Stabstaubsauger",
-    "en-GB": "Upright Vacuum",
-    "en-US": "Upright Vacuum",
-    "es": "Aspiradora vertical",
-    "fr": "Aspirateur balai",
-    "it": "Aspirapol. verticale",
-    "ja": "スティックそうじき"
-  },
+  "name": "Upright Vacuum",
   "category": "Furniture",
   "games": {
     "nl": {

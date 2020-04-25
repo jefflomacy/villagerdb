@@ -1,14 +1,6 @@
 {
   "id": "holiday-candle",
-  "name": {
-    "de": "Festtagsgesteck",
-    "en-GB": "Holiday Candle",
-    "en-US": "Holiday Candle",
-    "es": "Vela festiva",
-    "fr": "Chandelle de fête",
-    "it": "Candela centrotavola",
-    "ja": "クリスマスキャンドル"
-  },
+  "name": "Holiday Candle",
   "category": "Furniture",
   "games": {
     "nl": {

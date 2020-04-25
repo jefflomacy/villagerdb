@@ -1,8 +1,6 @@
 {
   "id": "fragrance-diffuser",
-  "name": {
-    "en-US": "Fragrance Diffuser"
-  },
+  "name": "Fragrance Diffuser",
   "games": {
     "nh": {
       "orderable": true,

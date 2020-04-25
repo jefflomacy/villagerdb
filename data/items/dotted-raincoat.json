@@ -1,8 +1,6 @@
 {
   "id": "dotted-raincoat",
-  "name": {
-    "en-US": "Dotted Raincoat"
-  },
+  "name": "Dotted Raincoat",
   "games": {
     "nh": {
       "orderable": true,

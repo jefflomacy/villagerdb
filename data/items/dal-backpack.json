@@ -1,8 +1,6 @@
 {
   "id": "dal-backpack",
-  "name": {
-    "en-US": "Dal Backpack"
-  },
+  "name": "Dal Backpack",
   "games": {
     "nh": {
       "orderable": false,

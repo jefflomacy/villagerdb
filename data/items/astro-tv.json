@@ -1,14 +1,6 @@
 {
   "id": "astro-tv",
-  "name": {
-    "de": "Astrofernseher",
-    "en-GB": "Astro TV",
-    "en-US": "Astro TV",
-    "es": "Tele futurista",
-    "fr": "Télé astro",
-    "it": "TV futuro",
-    "ja": "きんみらいなテレビ"
-  },
+  "name": "Astro Tv",
   "category": "Furniture",
   "games": {
     "nl": {

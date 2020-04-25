@@ -1,8 +1,6 @@
 {
   "id": "blue-quilt-wall",
-  "name": {
-    "en-US": "Blue Quilt Wall"
-  },
+  "name": "Blue Quilt Wall",
   "games": {
     "nh": {
       "sellPrice": {

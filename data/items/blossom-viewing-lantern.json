@@ -1,8 +1,6 @@
 {
   "id": "blossom-viewing-lantern",
-  "name": {
-    "en-US": "Blossom-viewing Lantern"
-  },
+  "name": "Blossom-viewing Lantern",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "hello-kitty-floor",
-  "name": {
-    "en-US": "Hello Kitty Floor"
-  },
+  "name": "Hello Kitty Floor",
   "category": "Flooring",
   "games": {
     "nl": {

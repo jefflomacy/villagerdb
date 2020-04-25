@@ -1,14 +1,6 @@
 {
   "id": "beatnik-tank",
-  "name": {
-    "de": "Beatnik-Top",
-    "en-GB": "Beatnik Tank",
-    "en-US": "Beatnik Tank",
-    "es": "Top beatnik",
-    "fr": "Débardeur beatnik",
-    "it": "Canotta hipster",
-    "ja": "くろあかラガーシャツN"
-  },
+  "name": "Beatnik Tank",
   "category": "Tops",
   "games": {
     "nl": {

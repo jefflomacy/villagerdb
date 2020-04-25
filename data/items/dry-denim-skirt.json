@@ -1,14 +1,6 @@
 {
   "id": "dry-denim-skirt",
-  "name": {
-    "de": "Stonewashed-Rock",
-    "en-GB": "Dry-Denim Skirt",
-    "en-US": "Dry-Denim Skirt",
-    "es": "Falda tejana",
-    "fr": "Jupe en jean brut",
-    "it": "Gonna di jeans scura",
-    "ja": "ノンウォッシュスカート"
-  },
+  "name": "Dry-denim Skirt",
   "category": "Bottoms",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "lil-bros-hat",
-  "name": {
-    "de": "Luigi-Mütze",
-    "en-GB": "Li'l Bro's Hat",
-    "en-US": "Li'l Bro's Hat",
-    "es": "Gorra de Luigi",
-    "fr": "Casquette Luigi",
-    "it": "Cappello fratellino",
-    "ja": "おとうとさんのぼうし"
-  },
+  "name": "Li'l Bro's Hat",
   "category": "Hats",
   "games": {
     "nl": {

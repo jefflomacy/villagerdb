@@ -1,14 +1,6 @@
 {
   "id": "jockeys-helmet",
-  "name": {
-    "de": "Jockeyhelm",
-    "en-GB": "Jockey's Helmet",
-    "en-US": "Jockey's Helmet",
-    "es": "Casco de jinete",
-    "fr": "Casque de jockey",
-    "it": "Casco da fantino",
-    "ja": "ジョッキーヘルメット"
-  },
+  "name": "Jockey's Helmet",
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "ramshackle-flooring",
-  "name": {
-    "en-US": "Ramshackle Flooring"
-  },
+  "name": "Ramshackle Flooring",
   "games": {
     "nh": {
       "orderable": false,

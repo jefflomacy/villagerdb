@@ -1,14 +1,6 @@
 {
   "id": "blue-stripe-pants",
-  "name": {
-    "de": "Blauringelhose",
-    "en-GB": "Blue-Stripe Pants",
-    "en-US": "Blue-Stripe Pants",
-    "es": "Pantalón playa azul",
-    "fr": "Pantalon rayé bleu",
-    "it": "Pantalone grigioblu",
-    "ja": "あおいボーダーパンツ"
-  },
+  "name": "Blue-stripe Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

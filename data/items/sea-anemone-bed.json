@@ -1,14 +1,6 @@
 {
   "id": "sea-anemone-bed",
-  "name": {
-    "de": "Seeanemonenbett",
-    "en-GB": "Sea-Anemone Bed",
-    "en-US": "Sea-Anemone Bed",
-    "es": "Cama anémona",
-    "fr": "Lit anémone de mer",
-    "it": "Letto anemone mare",
-    "ja": "イソギンチャクなベッド"
-  },
+  "name": "Sea-anemone Bed",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "skull-doorplate",
-  "name": {
-    "en-US": "Skull Doorplate"
-  },
+  "name": "Skull Doorplate",
   "games": {
     "nh": {
       "orderable": true,

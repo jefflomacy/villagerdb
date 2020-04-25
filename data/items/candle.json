@@ -1,14 +1,6 @@
 {
   "id": "candle",
-  "name": {
-    "de": "Kerze",
-    "en-GB": "Candle",
-    "en-US": "Candle",
-    "es": "Vela",
-    "fr": "Bougeoir",
-    "it": "Candela",
-    "ja": "ろうそく"
-  },
+  "name": "Candle",
   "category": "Furniture",
   "games": {
     "nl": {

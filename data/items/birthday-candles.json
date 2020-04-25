@@ -1,14 +1,6 @@
 {
   "id": "birthday-candles",
-  "name": {
-    "de": "Geburtstagsdeko",
-    "en-GB": "Birthday Candles",
-    "en-US": "Birthday Candles",
-    "es": "Lote de velas cumple",
-    "fr": "Lot bougies d'anniv",
-    "it": "Ornamento compleanno",
-    "ja": "バースデーキャンドル"
-  },
+  "name": "Birthday Candles",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "hawthorn-bonsai",
-  "name": {
-    "de": "Weißdorn-Bonsai",
-    "en-GB": "Hawthorn Bonsai",
-    "en-US": "Hawthorn Bonsai",
-    "es": "Espino bonsái",
-    "fr": "Bonsaï aubépine",
-    "it": "Bonsai biancospino",
-    "ja": "ピラカンサのぼんさい"
-  },
+  "name": "Hawthorn Bonsai",
   "category": "Furniture",
   "games": {
     "nl": {

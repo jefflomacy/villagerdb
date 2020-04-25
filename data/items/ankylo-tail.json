@@ -1,14 +1,6 @@
 {
   "id": "ankylo-tail",
-  "name": {
-    "de": "Ankylosaurus-Schwanz",
-    "en-GB": "Ankylo Tail",
-    "en-US": "Ankylo Tail",
-    "es": "Cola anquilosaurio",
-    "fr": "Queue d'ankylosaure",
-    "it": "Coda anchilosauro",
-    "ja": "アンキロサウルスのしっぽ"
-  },
+  "name": "Ankylo Tail",
   "category": "Fossils",
   "games": {
     "nl": {

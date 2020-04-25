@@ -1,8 +1,6 @@
 {
   "id": "cardigan-shirt-combo",
-  "name": {
-    "en-US": "Cardigan-shirt Combo"
-  },
+  "name": "Cardigan-shirt Combo",
   "games": {
     "nh": {
       "orderable": true,

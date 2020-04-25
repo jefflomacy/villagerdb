@@ -1,8 +1,6 @@
 {
   "id": "antique-chair",
-  "name": {
-    "en-US": "Antique Chair"
-  },
+  "name": "Antique Chair",
   "games": {
     "nh": {
       "orderable": true,

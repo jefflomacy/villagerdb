@@ -1,14 +1,6 @@
 {
   "id": "mush-dresser",
-  "name": {
-    "de": "Pilzkommode",
-    "en-GB": "Mush Dresser",
-    "en-US": "Mush Dresser",
-    "es": "Cómoda hongo",
-    "fr": "Commode champi",
-    "it": "Comò fungo",
-    "ja": "きのこのタンス"
-  },
+  "name": "Mush Dresser",
   "category": "Furniture",
   "games": {
     "nl": {

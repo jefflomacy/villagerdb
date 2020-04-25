@@ -1,8 +1,6 @@
 {
   "id": "dal-umbrella",
-  "name": {
-    "en-US": "Dal Umbrella"
-  },
+  "name": "Dal Umbrella",
   "games": {
     "nh": {
       "sellPrice": {

@@ -1,8 +1,6 @@
 {
   "id": "business-suitcoat",
-  "name": {
-    "en-US": "Business Suitcoat"
-  },
+  "name": "Business Suitcoat",
   "games": {
     "nh": {
       "orderable": true,

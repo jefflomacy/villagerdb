@@ -1,14 +1,6 @@
 {
   "id": "giant-dharma",
-  "name": {
-    "de": "Riesen-Daruma",
-    "en-GB": "Giant Dharma",
-    "en-US": "Giant Dharma",
-    "es": "Daruma gigante",
-    "fr": "Matriochka XL",
-    "it": "Dharma gigante",
-    "ja": "ひっしょうダルマ"
-  },
+  "name": "Giant Dharma",
   "category": "Furniture",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "nook-inc-knapsack",
-  "name": {
-    "en-US": "Nook Inc. Knapsack"
-  },
+  "name": "Nook Inc. Knapsack",
   "games": {
     "nh": {
       "orderable": true,

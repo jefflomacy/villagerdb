@@ -1,8 +1,6 @@
 {
   "id": "plastic-pool",
-  "name": {
-    "en-US": "Plastic Pool"
-  },
+  "name": "Plastic Pool",
   "games": {
     "nh": {
       "orderable": true,

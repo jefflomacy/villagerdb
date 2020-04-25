@@ -1,14 +1,6 @@
 {
   "id": "heros-clothes",
-  "name": {
-    "de": "Heldenjacke",
-    "en-GB": "Hero's Clothes",
-    "en-US": "Hero's Clothes",
-    "es": "Jersey del héroe",
-    "fr": "Tenue héroïque",
-    "it": "Maglia Link",
-    "ja": "ゆうしゃのふく"
-  },
+  "name": "Hero's Clothes",
   "category": "Tops",
   "games": {
     "nl": {

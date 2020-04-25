@@ -1,14 +1,6 @@
 {
   "id": "drinking-fountain",
-  "name": {
-    "de": "Trinkwasserbrunnen",
-    "en-GB": "Drinking Fountain",
-    "en-US": "Drinking Fountain",
-    "es": "Fuente para beber",
-    "fr": "Fontaine eau potable",
-    "it": "Fontanella pubblica",
-    "ja": "れいすいき"
-  },
+  "name": "Drinking Fountain",
   "category": "Furniture",
   "games": {
     "nl": {

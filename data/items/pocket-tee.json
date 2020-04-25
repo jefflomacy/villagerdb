@@ -1,8 +1,6 @@
 {
   "id": "pocket-tee",
-  "name": {
-    "en-US": "Pocket Tee"
-  },
+  "name": "Pocket Tee",
   "games": {
     "nh": {
       "sellPrice": {

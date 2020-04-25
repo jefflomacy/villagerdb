@@ -1,14 +1,6 @@
 {
   "id": "pink-zap-helmet",
-  "name": {
-    "de": "Heldinnenhelm",
-    "en-GB": "Pink-Zap Helmet",
-    "en-US": "Pink-Zap Helmet",
-    "es": "Supercasco rosa",
-    "fr": "Casque d'héroïne",
-    "it": "Casco eroina",
-    "ja": "ヒロインヘルメット"
-  },
+  "name": "Pink-zap Helmet",
   "category": "Hats",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "luxury-car",
-  "name": {
-    "en-US": "Luxury Car"
-  },
+  "name": "Luxury Car",
   "category": "Furniture",
   "games": {
     "nl": {

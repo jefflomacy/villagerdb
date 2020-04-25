@@ -1,8 +1,6 @@
 {
   "id": "shirt-with-camera",
-  "name": {
-    "en-US": "Shirt With Camera"
-  },
+  "name": "Shirt With Camera",
   "games": {
     "nh": {
       "sellPrice": {

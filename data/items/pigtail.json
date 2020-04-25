@@ -1,14 +1,6 @@
 {
   "id": "pigtail",
-  "name": {
-    "de": "Khan-Perücke",
-    "en-GB": "Pigtail",
-    "en-US": "Pigtail",
-    "es": "Coleta mongola",
-    "fr": "Natte",
-    "it": "Codino cinese",
-    "ja": "べんぱつ"
-  },
+  "name": "Pigtail",
   "category": "Hats",
   "games": {
     "nl": {

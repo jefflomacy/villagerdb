@@ -1,14 +1,6 @@
 {
   "id": "scale-armor-pants",
-  "name": {
-    "de": "Schuppenpanzerhose",
-    "en-GB": "Scale-Armor Pants",
-    "en-US": "Scale-Armor Pants",
-    "es": "Greba cota de malla",
-    "fr": "Pantalon d'écailles",
-    "it": "Pant. cotta di magl.",
-    "ja": "うろこよろいズボン"
-  },
+  "name": "Scale-armor Pants",
   "category": "Bottoms",
   "games": {
     "nl": {

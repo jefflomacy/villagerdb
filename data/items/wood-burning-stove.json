@@ -1,8 +1,6 @@
 {
   "id": "wood-burning-stove",
-  "name": {
-    "en-US": "Wood-burning Stove"
-  },
+  "name": "Wood-burning Stove",
   "games": {
     "nh": {
       "orderable": true,

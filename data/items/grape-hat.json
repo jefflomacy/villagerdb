@@ -1,14 +1,6 @@
 {
   "id": "grape-hat",
-  "name": {
-    "de": "Traubenhut",
-    "en-GB": "Grape Hat",
-    "en-US": "Grape Hat",
-    "es": "Gorro uva",
-    "fr": "Chapeau raisin",
-    "it": "Cappello uva",
-    "ja": "ぶどうのぼうし"
-  },
+  "name": "Grape Hat",
   "category": "Hats",
   "games": {
     "nl": {

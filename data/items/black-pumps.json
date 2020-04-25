@@ -1,14 +1,6 @@
 {
   "id": "black-pumps",
-  "name": {
-    "de": "Kostüm-Damenschuh",
-    "en-GB": "Black Pumps",
-    "en-US": "Black Pumps",
-    "es": "Manoletina negra",
-    "fr": "P. ballerines noires",
-    "it": "Paio ballerine nere",
-    "ja": "くろいパンプス"
-  },
+  "name": "Black Pumps",
   "category": "Shoes",
   "games": {
     "nl": {

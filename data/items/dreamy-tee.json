@@ -1,14 +1,6 @@
 {
   "id": "dreamy-tee",
-  "name": {
-    "de": "Frotteeshirt",
-    "en-GB": "Dreamy Tee",
-    "en-US": "Dreamy Tee",
-    "es": "Camiseta ensueño",
-    "fr": "T-shirt de rêve",
-    "it": "Maglietta da sogno",
-    "ja": "ゆめのはながらのシャツ"
-  },
+  "name": "Dreamy Tee",
   "category": "Tops",
   "games": {
     "nl": {

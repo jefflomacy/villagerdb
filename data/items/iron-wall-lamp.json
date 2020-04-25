@@ -1,8 +1,6 @@
 {
   "id": "iron-wall-lamp",
-  "name": {
-    "en-US": "Iron Wall Lamp"
-  },
+  "name": "Iron Wall Lamp",
   "games": {
     "nh": {
       "orderable": false,

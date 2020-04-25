@@ -1,14 +1,6 @@
 {
   "id": "imperial-shirt",
-  "name": {
-    "de": "Rotseidenpulli",
-    "en-GB": "Imperial Shirt",
-    "en-US": "Imperial Shirt",
-    "es": "Jersey imperial",
-    "fr": "Pull Chine",
-    "it": "Maglia cinese",
-    "ja": "ちゅうかなふく"
-  },
+  "name": "Imperial Shirt",
   "category": "Tops",
   "games": {
     "nl": {

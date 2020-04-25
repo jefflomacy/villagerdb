@@ -1,8 +1,6 @@
 {
   "id": "brown-brick-flooring",
-  "name": {
-    "en-US": "Brown-brick Flooring"
-  },
+  "name": "Brown-brick Flooring",
   "games": {
     "nh": {
       "orderable": true,

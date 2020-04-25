@@ -1,14 +1,6 @@
 {
   "id": "mermaid-shelf",
-  "name": {
-    "de": "Nixenregal",
-    "en-GB": "Mermaid Shelf",
-    "en-US": "Mermaid Shelf",
-    "es": "Estantería sirena",
-    "fr": "étagère sirène",
-    "it": "Scaffale sirena",
-    "ja": "マーメイドなシェルフ"
-  },
+  "name": "Mermaid Shelf",
   "category": "Furniture",
   "games": {
     "nl": {

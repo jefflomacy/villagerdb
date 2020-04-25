@@ -1,14 +1,6 @@
 {
   "id": "left-platform",
-  "name": {
-    "de": "Tafelhälfte (links)",
-    "en-GB": "Left Platform",
-    "en-US": "Left Platform",
-    "es": "Tarima izquierda",
-    "fr": "Grand tableau gauche",
-    "it": "Lavagna sinistra",
-    "ja": "きょうだんのひだり"
-  },
+  "name": "Left Platform",
   "category": "Furniture",
   "games": {
     "nl": {

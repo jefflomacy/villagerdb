@@ -1,14 +1,6 @@
 {
   "id": "chain-gang-tee",
-  "name": {
-    "de": "Gefängnisshirt",
-    "en-GB": "Chain-Gang Tee",
-    "en-US": "Chain-Gang Tee",
-    "es": "Camiseta grumete",
-    "fr": "T-shirt bagnard",
-    "it": "Maglietta carcerato",
-    "ja": "プリズンなふく"
-  },
+  "name": "Chain-gang Tee",
   "category": "Tops",
   "games": {
     "nl": {

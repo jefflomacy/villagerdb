@@ -1,14 +1,6 @@
 {
   "id": "modern-dresser",
-  "name": {
-    "de": "Schachkommode",
-    "en-GB": "Modern Dresser",
-    "en-US": "Modern Dresser",
-    "es": "Cómoda moderna",
-    "fr": "Commode moderne",
-    "it": "Comodino moderno",
-    "ja": "ツートンタンス"
-  },
+  "name": "Modern Dresser",
   "category": "Furniture",
   "games": {
     "nl": {

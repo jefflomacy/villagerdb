@@ -1,14 +1,6 @@
 {
   "id": "reel-to-reel",
-  "name": {
-    "de": "Tonbandgerät",
-    "en-GB": "Reel-To-Reel",
-    "en-US": "Reel-To-Reel",
-    "es": "Magnetófono",
-    "fr": "Magnétophone",
-    "it": "Registratore",
-    "ja": "テープレコーダー"
-  },
+  "name": "Reel-to-reel",
   "category": "Furniture",
   "games": {
     "nl": {

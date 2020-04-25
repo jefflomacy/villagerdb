@@ -1,14 +1,6 @@
 {
   "id": "drum-set",
-  "name": {
-    "de": "Schlagzeug",
-    "en-GB": "Drum Set",
-    "en-US": "Drum Set",
-    "es": "Batería",
-    "fr": "Batterie classique",
-    "it": "Batteria",
-    "ja": "ドラムセット"
-  },
+  "name": "Drum Set",
   "category": "Furniture",
   "games": {
     "nl": {

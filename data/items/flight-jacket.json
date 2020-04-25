@@ -1,8 +1,6 @@
 {
   "id": "flight-jacket",
-  "name": {
-    "en-US": "Flight Jacket"
-  },
+  "name": "Flight Jacket",
   "games": {
     "nh": {
       "sellPrice": {

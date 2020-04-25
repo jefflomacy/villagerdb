@@ -1,8 +1,6 @@
 {
   "id": "pan-flute",
-  "name": {
-    "en-US": "Pan Flute"
-  },
+  "name": "Pan Flute",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "work-apron",
-  "name": {
-    "en-US": "Work Apron"
-  },
+  "name": "Work Apron",
   "games": {
     "nh": {
       "sellPrice": {

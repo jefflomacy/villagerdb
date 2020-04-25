@@ -1,8 +1,6 @@
 {
   "id": "toy-centipede",
-  "name": {
-    "en-US": "Toy Centipede"
-  },
+  "name": "Toy Centipede",
   "games": {
     "nh": {
       "sellPrice": {

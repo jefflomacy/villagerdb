@@ -1,14 +1,6 @@
 {
   "id": "straw-umbrella-hat",
-  "name": {
-    "de": "Flach-Reishut",
-    "en-GB": "Straw Umbrella Hat",
-    "en-US": "Straw Umbrella Hat",
-    "es": "Gorro paja achatado",
-    "fr": "Chapeau de bambou",
-    "it": "Capp. paglia oriente",
-    "ja": "さんどがさ"
-  },
+  "name": "Straw Umbrella Hat",
   "category": "Hats",
   "games": {
     "nl": {

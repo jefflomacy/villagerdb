@@ -1,14 +1,6 @@
 {
   "id": "exotic-bed",
-  "name": {
-    "de": "Orient-Bett",
-    "en-GB": "Exotic Bed",
-    "en-US": "Exotic Bed",
-    "es": "Cama exótica",
-    "fr": "Lit teck",
-    "it": "Letto esotico",
-    "ja": "アジアなベッド"
-  },
+  "name": "Exotic Bed",
   "category": "Furniture",
   "games": {
     "nl": {

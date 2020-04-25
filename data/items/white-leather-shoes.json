@@ -1,14 +1,6 @@
 {
   "id": "white-leather-shoes",
-  "name": {
-    "de": "Kunstlederschuh",
-    "en-GB": "White Leather Shoes",
-    "en-US": "White Leather Shoes",
-    "es": "Zapato elegante",
-    "fr": "P. souliers blancs",
-    "it": "Paio scarpe di pelle",
-    "ja": "しろいかわぐつ"
-  },
+  "name": "White Leather Shoes",
   "category": "Shoes",
   "games": {
     "nl": {

@@ -1,14 +1,6 @@
 {
   "id": "rainbow-screen",
-  "name": {
-    "de": "Regenbogenraumteiler",
-    "en-GB": "Rainbow Screen",
-    "en-US": "Rainbow Screen",
-    "es": "Biombo arcoíris",
-    "fr": "Paravent arc-en-ciel",
-    "it": "Separé arcobaleno",
-    "ja": "レインボースクリーン"
-  },
+  "name": "Rainbow Screen",
   "category": "Furniture",
   "games": {
     "nl": {

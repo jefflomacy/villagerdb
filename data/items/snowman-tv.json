@@ -1,14 +1,6 @@
 {
   "id": "snowman-tv",
-  "name": {
-    "de": "Schneemannfernseher",
-    "en-GB": "Snowman TV",
-    "en-US": "Snowman TV",
-    "es": "Tele nieve",
-    "fr": "Télé Yétiti",
-    "it": "TV neve",
-    "ja": "ゆきだるまテレビ"
-  },
+  "name": "Snowman Tv",
   "category": "Furniture",
   "games": {
     "nl": {

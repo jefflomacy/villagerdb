@@ -1,8 +1,6 @@
 {
   "id": "retro-gas-pump",
-  "name": {
-    "en-US": "Retro Gas Pump"
-  },
+  "name": "Retro Gas Pump",
   "games": {
     "nh": {
       "orderable": true,

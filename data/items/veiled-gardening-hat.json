@@ -1,8 +1,6 @@
 {
   "id": "veiled-gardening-hat",
-  "name": {
-    "en-US": "Veiled Gardening Hat"
-  },
+  "name": "Veiled Gardening Hat",
   "games": {
     "nh": {
       "orderable": true,

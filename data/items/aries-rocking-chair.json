@@ -1,14 +1,6 @@
 {
   "id": "aries-rocking-chair",
-  "name": {
-    "de": "Schaukelwidder",
-    "en-GB": "Aries Rocking Chair",
-    "en-US": "Aries Rocking Chair",
-    "es": "Mecedora Aries",
-    "fr": "Bélier à bascule",
-    "it": "Ariete a dondolo",
-    "ja": "アリエスのもくば"
-  },
+  "name": "Aries Rocking Chair",
   "category": "Furniture",
   "games": {
     "nl": {

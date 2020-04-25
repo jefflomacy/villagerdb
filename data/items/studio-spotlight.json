@@ -1,8 +1,6 @@
 {
   "id": "studio-spotlight",
-  "name": {
-    "en-US": "Studio Spotlight"
-  },
+  "name": "Studio Spotlight",
   "games": {
     "nh": {
       "orderable": true,

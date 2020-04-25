@@ -1,14 +1,6 @@
 {
   "id": "basketball-shorts",
-  "name": {
-    "de": "Basketballhose",
-    "en-GB": "Basketball Shorts",
-    "en-US": "Basketball Shorts",
-    "es": "Bermuda básquet",
-    "fr": "Short basketball",
-    "it": "Paio bermuda basket",
-    "ja": "バスケパンツ"
-  },
+  "name": "Basketball Shorts",
   "category": "Bottoms",
   "games": {
     "nl": {

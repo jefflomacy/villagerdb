@@ -1,14 +1,6 @@
 {
   "id": "egg-stereo",
-  "name": {
-    "de": "Eieranlage",
-    "en-GB": "Egg Stereo",
-    "en-US": "Egg Stereo",
-    "es": "Cadena huevo",
-    "fr": "Chaîne \\u0153uf",
-    "it": "Stereo uovo",
-    "ja": "たまごのコンポ"
-  },
+  "name": "Egg Stereo",
   "category": "Furniture",
   "games": {
     "nl": {

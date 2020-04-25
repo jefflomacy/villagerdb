@@ -1,8 +1,6 @@
 {
   "id": "red-dotted-wall",
-  "name": {
-    "en-US": "Red Dotted Wall"
-  },
+  "name": "Red Dotted Wall",
   "games": {
     "nh": {
       "orderable": true,

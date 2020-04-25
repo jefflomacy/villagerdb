@@ -1,8 +1,6 @@
 {
   "id": "torn-pants",
-  "name": {
-    "en-US": "Torn Pants"
-  },
+  "name": "Torn Pants",
   "games": {
     "nh": {
       "sellPrice": {

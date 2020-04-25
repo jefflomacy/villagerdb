@@ -1,8 +1,6 @@
 {
   "id": "football",
-  "name": {
-    "en-US": "Football"
-  },
+  "name": "Football",
   "games": {
     "nh": {
       "orderable": true,

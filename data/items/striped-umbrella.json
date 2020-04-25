@@ -1,8 +1,6 @@
 {
   "id": "striped-umbrella",
-  "name": {
-    "en-US": "Striped Umbrella"
-  },
+  "name": "Striped Umbrella",
   "games": {
     "nh": {
       "sellPrice": {

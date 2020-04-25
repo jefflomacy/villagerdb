@@ -1,14 +1,6 @@
 {
   "id": "super-toilet",
-  "name": {
-    "de": "Luxustoilette",
-    "en-GB": "Super Toilet",
-    "en-US": "Super Toilet",
-    "es": "Superinodoro",
-    "fr": "Super WC",
-    "it": "Water rosa",
-    "ja": "ウォッシュトイレ"
-  },
+  "name": "Super Toilet",
   "category": "Furniture",
   "games": {
     "nl": {

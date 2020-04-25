@@ -1,14 +1,6 @@
 {
   "id": "pachy-tail",
-  "name": {
-    "de": "Pachysaurus-Schwanz",
-    "en-GB": "Pachysaurus Tail",
-    "en-US": "Pachy Tail",
-    "es": "Cola paquicefa",
-    "fr": "Queue de pachycéphal",
-    "it": "Coda pachicefalos.",
-    "ja": "パキケファロのしっぽ"
-  },
+  "name": "Pachy Tail",
   "category": "Fossils",
   "games": {
     "nl": {

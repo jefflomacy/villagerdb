@@ -1,14 +1,6 @@
 {
   "id": "a-tee",
-  "name": {
-    "de": "A-Shirt",
-    "en-GB": "A Tee",
-    "en-US": "A Tee",
-    "es": "Camiseta A",
-    "fr": "T-shirt A",
-    "it": "Maglietta A",
-    "ja": "エースのふく"
-  },
+  "name": "A Tee",
   "category": "Tops",
   "games": {
     "nl": {

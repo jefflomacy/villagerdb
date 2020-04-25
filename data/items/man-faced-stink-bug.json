@@ -1,8 +1,6 @@
 {
   "id": "man-faced-stink-bug",
-  "name": {
-    "en-US": "Man-faced Stink Bug"
-  },
+  "name": "Man-faced Stink Bug",
   "games": {
     "nh": {
       "orderable": false,

@@ -1,8 +1,6 @@
 {
   "id": "moray-eel-model",
-  "name": {
-    "en-US": "Moray Eel Model"
-  },
+  "name": "Moray Eel Model",
   "games": {
     "nh": {
       "sellPrice": {

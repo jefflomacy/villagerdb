@@ -1,8 +1,6 @@
 {
   "id": "traditional-balancing-toy",
-  "name": {
-    "en-US": "Traditional Balancing Toy"
-  },
+  "name": "Traditional Balancing Toy",
   "games": {
     "nh": {
       "sellPrice": {

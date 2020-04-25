@@ -1,14 +1,6 @@
 {
   "id": "goal-pole",
-  "name": {
-    "de": "Zielpfahl",
-    "en-GB": "Goal Pole",
-    "en-US": "Goal Pole",
-    "es": "Banderín",
-    "fr": "Drapeau Mario",
-    "it": "Asta della bandiera",
-    "ja": "ゴールポール"
-  },
+  "name": "Goal Pole",
   "category": "Furniture",
   "games": {
     "nl": {

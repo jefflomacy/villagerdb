@@ -1,14 +1,6 @@
 {
   "id": "flan-tank",
-  "name": {
-    "de": "Puddingtop",
-    "en-GB": "Flan Tank",
-    "en-US": "Flan Tank",
-    "es": "Top flan",
-    "fr": "Débardeur flan",
-    "it": "Canotta budino",
-    "ja": "プリンなふく"
-  },
+  "name": "Flan Tank",
   "category": "Tops",
   "games": {
     "nl": {

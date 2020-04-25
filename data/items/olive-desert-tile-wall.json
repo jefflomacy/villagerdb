@@ -1,8 +1,6 @@
 {
   "id": "olive-desert-tile-wall",
-  "name": {
-    "en-US": "Olive Desert-tile Wall"
-  },
+  "name": "Olive Desert-tile Wall",
   "games": {
     "nh": {
       "orderable": true,

@@ -1,8 +1,6 @@
 {
   "id": "hucks-poster",
-  "name": {
-    "en-US": "Huck's Poster"
-  },
+  "name": "Huck's Poster",
   "games": {
     "nh": {
       "sources": [

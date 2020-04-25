@@ -1,14 +1,6 @@
 {
   "id": "cupid-bench",
-  "name": {
-    "de": "Amorbank",
-    "en-GB": "Cupid Bench",
-    "en-US": "Cupid Bench",
-    "es": "Banco de Cupido",
-    "fr": "Banc de Cupidon",
-    "it": "Panchina Cupido",
-    "ja": "キューピッドのイス"
-  },
+  "name": "Cupid Bench",
   "category": "Furniture",
   "games": {
     "nl": {

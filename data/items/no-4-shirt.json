@@ -1,14 +1,6 @@
 {
   "id": "no-4-shirt",
-  "name": {
-    "de": "Nr.-4-Pulli",
-    "en-GB": "No. 4 Shirt",
-    "en-US": "No. 4 Shirt",
-    "es": "Jersey n.º 4",
-    "fr": "Pull 4",
-    "it": "Maglia nº 4",
-    "ja": "No.4のふく"
-  },
+  "name": "No. 4 Shirt",
   "category": "Tops",
   "games": {
     "nl": {

@@ -1,8 +1,6 @@
 {
   "id": "king-salmon-model",
-  "name": {
-    "en-US": "King Salmon Model"
-  },
+  "name": "King Salmon Model",
   "games": {
     "nh": {
       "sellPrice": {

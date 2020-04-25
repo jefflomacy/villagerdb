@@ -1,14 +1,6 @@
 {
   "id": "captains-hat",
-  "name": {
-    "de": "Kapitänsmütze",
-    "en-GB": "Captain's Hat",
-    "en-US": "Captain's Hat",
-    "es": "Gorra de capitán",
-    "fr": "Casquette capitaine",
-    "it": "Cappello da capitano",
-    "ja": "キャプテンのぼうし"
-  },
+  "name": "Captain's Hat",
   "category": "Hats",
   "games": {
     "nl": {

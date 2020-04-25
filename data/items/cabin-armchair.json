@@ -1,14 +1,6 @@
 {
   "id": "cabin-armchair",
-  "name": {
-    "de": "Blockhaussessel",
-    "en-GB": "Cabin Armchair",
-    "en-US": "Cabin Armchair",
-    "es": "Butaca cabaña",
-    "fr": "Fauteuil chalet",
-    "it": "Poltrona rustica",
-    "ja": "ログソファ"
-  },
+  "name": "Cabin Armchair",
   "category": "Furniture",
   "games": {
     "nl": {

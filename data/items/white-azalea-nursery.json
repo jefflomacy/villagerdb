@@ -1,0 +1,23 @@
+{
+  "id": "white-azalea-nursery",
+  "name": "White-azalea Nursery",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Leif"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 70
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 280
+        }
+      ]
+    }
+  },
+  "category": "Bushes"
+}

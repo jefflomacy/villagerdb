@@ -3,6 +3,7 @@
   "name": "Pond Stone",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",

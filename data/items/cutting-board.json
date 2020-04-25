@@ -3,6 +3,7 @@
   "name": "Cutting Board",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 990

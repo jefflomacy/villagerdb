@@ -1,0 +1,23 @@
+{
+  "id": "twinkling-painting",
+  "name": "Twinkling Painting",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Redd"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1245
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 4980
+        }
+      ]
+    }
+  },
+  "category": "Art"
+}

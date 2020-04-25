@@ -1,0 +1,23 @@
+{
+  "id": "holly-bush",
+  "name": "Holly Bush",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Leif"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 140
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 560
+        }
+      ]
+    }
+  },
+  "category": "Bushes"
+}

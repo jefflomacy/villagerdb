@@ -3,6 +3,10 @@
   "name": "Orchid Mantis Model",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Flick"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 7200

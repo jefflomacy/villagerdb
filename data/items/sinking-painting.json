@@ -1,0 +1,23 @@
+{
+  "id": "sinking-painting",
+  "name": "Sinking Painting",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Redd"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1245
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 4980
+        }
+      ]
+    }
+  },
+  "category": "Art"
+}

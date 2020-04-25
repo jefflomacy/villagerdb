@@ -3,6 +3,7 @@
   "name": "Mom's Tissue Box",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",

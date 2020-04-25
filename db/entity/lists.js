@@ -46,6 +46,31 @@ class Lists {
     }
 
     /**
+     * Rename the list of user (id) from its old id (listId) to its new id (newListId) and new name (newListName).
+     *
+     * @param id
+     * @param listId
+     * @param newListId
+     * @param newListName
+     * @returns {Promise<void>}
+     */
+    async renameList(id, listId, newListId, newListName) {
+        const villagerDb = await this.db.get()
+
+        await villagerDb.collection('users')
+            .updateOne({
+                _id: id,
+                "lists.id": listId
+            },
+            {
+                $set: {
+                    "lists.$.id": newListId,
+                    "lists.$.name": newListName
+                }
+            });
+    }
+
+    /**
      * Add an entity to an existing list.
      *
      * @param id
@@ -137,7 +162,7 @@ class Lists {
      * Get all lists by a specific user using their id.
      *
      * @param id
-     * @returns {Promise<*>}
+     * @returns {Promise<[]>}
      */
     async getListsByUser(id) {
         const villagerDb = await this.db.get();

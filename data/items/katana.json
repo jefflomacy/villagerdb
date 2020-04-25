@@ -3,6 +3,10 @@
   "name": "Katana",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Gulliver"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 2500

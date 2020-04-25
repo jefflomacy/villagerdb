@@ -228,3 +228,18 @@ function andList(list) {
     return result;
 }
 module.exports.andList = andList;
+
+/**
+ * Comparator function for sorting user lists.
+ * @param a
+ * @param b
+ * @returns {number}
+ */
+function listSortComparator(a, b) {
+    if (a.id < b.id) {
+        return -1;
+    } else {
+        return 1;
+    }
+}
+module.exports.listSortComparator = listSortComparator;

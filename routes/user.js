@@ -4,6 +4,7 @@ const users = require('../db/entity/users');
 const lists = require('../db/entity/lists');
 const villagers = require('../db/entity/villagers');
 const items = require('../db/entity/items');
+const format = require('../helpers/format');
 
 /**
  * Load user profile.
@@ -18,13 +19,7 @@ async function loadUser(username) {
     }
 
     // Sort lists alphabetically
-    user.lists.sort((a, b) => {
-        if (a.name < b.name) {
-            return -1;
-        } else {
-            return 1;
-        }
-    });
+    user.lists.sort(format.listSortComparator);
 
     // Build result out.
     const result = {};

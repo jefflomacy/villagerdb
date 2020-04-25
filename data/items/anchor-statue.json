@@ -3,6 +3,7 @@
   "name": "Anchor Statue",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Fishing tournament prize pool (January, April, July, October)"
       ],

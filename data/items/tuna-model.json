@@ -3,6 +3,10 @@
   "name": "Tuna Model",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "CJ"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 21000

@@ -58,6 +58,12 @@ const categories = {
         },
         pageDescription: 'Flying, creeping and crawling; all of the bugs you need are here.'
     },
+    bushes: {
+        filter: {
+            category: ['Bushes']
+        },
+        pageDescription: 'Everyone\'s favorite alternative to fences.'
+    },
     'bushes-trees': {
         filter: {
             category: ['Trees']

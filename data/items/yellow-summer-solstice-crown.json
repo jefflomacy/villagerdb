@@ -1,0 +1,19 @@
+{
+  "id": "yellow-summer-solstice-crown",
+  "name": "Yellow Summer-solstice Crown",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 390
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1560
+        }
+      ]
+    }
+  },
+  "category": "Hats"
+}

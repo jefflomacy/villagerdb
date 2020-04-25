@@ -1,7 +1,7 @@
 {
   "id": "white-azalea-start",
   "name": "White-azalea Start",
-  "category": "Trees",
+  "category": "Bushes",
   "games": {
     "nl": {
       "orderable": false,
@@ -11,6 +11,22 @@
       },
       "sources": [
         "Gardening Store (with T.I.Y.)"
+      ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Leif"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 70
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 280
+        }
       ]
     }
   }

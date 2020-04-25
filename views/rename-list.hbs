@@ -1,0 +1,13 @@
+<h1>Rename list {{listName}}</h1>
+{{#each errors}}
+    <div class="alert alert-danger">
+        {{msg}}
+    </div>
+{{/each}}
+<form method="post" action="/list/rename/{{listId}}">
+    <div class="form-group">
+        <input type="text" name="list-name" class="form-control" id="list-name"
+               aria-describedby="list-name-help" placeholder="New list name" maxlength={{listNameLength}}>
+    </div>
+    <button type="submit" name="submit" class="btn btn-primary">Submit</button>
+</form>

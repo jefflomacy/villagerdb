@@ -1,0 +1,23 @@
+{
+  "id": "yellow-hibiscus-nursery",
+  "name": "Yellow-hibiscus Nursery",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Leif"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 70
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 280
+        }
+      ]
+    }
+  },
+  "category": "Bushes"
+}

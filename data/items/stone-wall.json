@@ -31,6 +31,7 @@
       ]
     },
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1500
@@ -40,7 +41,10 @@
           "currency": "bells",
           "value": 6000
         }
-      ]
+      ],
+      "recipe": {
+        "stone": 10
+      }
     }
   }
 }

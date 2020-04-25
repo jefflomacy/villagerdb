@@ -5,15 +5,65 @@ const {validationResult, body} = require('express-validator');
 const format = require('../helpers/format');
 
 /**
+ * Minimum name length for a list.
+ *
+ * @type {number}
+ */
+const minListNameLength = 3;
+
+/**
+ * Maximum name length for a list.
+ *
+ * @type {number}
+ */
+const maxListNameLength = 25;
+
+/**
+ * Validation expression for a list name.
+ *
+ * @type {RegExp}
+ */
+const listRegex = /^[A-Za-z0-9][A-Za-z0-9 ]+$/i;
+
+/**
+ * List validation rules on name submission.
+ *
+ * @type {ValidationChain[]}
+ */
+const listValidation = [
+    body(
+        'list-name',
+        'List names must be between ' + minListNameLength + ' and ' + maxListNameLength + ' characters long.')
+        .isLength({min: minListNameLength, max: maxListNameLength}),
+    body(
+        'list-name',
+        'List names can only have letters, numbers, and spaces, and must start with a letter or number.')
+        .matches(listRegex),
+    body(
+        'list-name',
+        'You already have a list by that name. Please choose another name.')
+        .trim()
+        .custom((value, {req}) => {
+            return lists.getListById(req.user.username, format.getSlug(value))
+                .then((listExists) => {
+                    if (listExists) {
+                        return Promise.reject();
+                    }
+                });
+        })
+];
+
+/**
  * Method to query database for user lists.
  *
  * @param listId
  * @returns {Promise<[]>}
  */
 async function getUserListsForEntity(listId, entityType, entityId, variationId) {
-    const userLists = await lists.getListsByUser(listId)
+    const userLists = await lists.getListsByUser(listId);
 
     if (userLists) {
+        userLists.sort(format.listSortComparator); // put in alphabetical order
         let result = [];
         userLists.forEach(function (list) {
             let hasEntity = false;
@@ -82,6 +132,7 @@ router.get('/create', (req, res, next) => {
     const data = {};
     data.pageTitle = 'Create New List';
     data.errors = req.session.errors;
+    data.listNameLength = maxListNameLength;
     delete req.session.errors;
 
     if (res.locals.userState.isRegistered) {
@@ -94,28 +145,7 @@ router.get('/create', (req, res, next) => {
 /**
  * Route for POSTing new list to the database.
  */
-router.post('/create', [
-    body(
-        'list-name',
-        'List names must be between 3 and 25 characters long.')
-        .isLength({min: 3, max: 25}),
-    body(
-        'list-name',
-        'List names can only have letters, numbers, and spaces, and must start with a letter or number.')
-        .matches(/^[A-Za-z0-9][A-Za-z0-9 ]+$/i),
-    body(
-        'list-name',
-        'You already have a list by that name. Please choose another name.')
-        .trim()
-        .custom((value, {req}) => {
-            return lists.getListById(req.user.username, format.getSlug(value))
-                .then((listExists) => {
-                    if (listExists) {
-                        return Promise.reject();
-                    }
-                });
-        })
-], (req, res) => {
+router.post('/create', listValidation, (req, res) => {
     // Only registered users here.
     if (!res.locals.userState.isRegistered) {
         res.redirect('/');
@@ -133,6 +163,60 @@ router.post('/create', [
             .then(() => {
                 res.redirect('/user/' + req.user.username);
             })
+    }
+});
+
+/**
+ * Route for getting the rename-list page.
+ */
+router.get('/rename/:listId', (req, res, next) => {
+    const data = {}
+    data.pageTitle = 'Rename List';
+    data.listId = req.params.listId;
+    data.errors = req.session.errors;
+    data.listNameLength = maxListNameLength;
+    delete req.session.errors;
+
+    if (res.locals.userState.isRegistered) {
+        // Make sure the list exists.
+        lists.getListById(req.user.username, req.params.listId)
+            .then((list) => {
+                if (list) {
+                    data.listName = list.name;
+                    res.render('rename-list', data);
+                } else {
+                    // No such list...
+                    res.redirect('/user/' + req.user.username);
+                }
+            }).catch(next);
+    } else {
+        res.redirect('/login'); // create an account to continue
+    }
+})
+
+/**
+ * Route for POSTing new name of a list.
+ */
+router.post('/rename/:listId', listValidation, (req, res, next) => {
+    // Only registered users here.
+    if (!res.locals.userState.isRegistered) {
+        res.status(403).send();
+        return;
+    }
+
+    const listId = req.params.listId
+    const newListName = req.body['list-name'];
+    const errors = validationResult(req);
+
+    if (!errors.isEmpty()) {
+        req.session.errors = errors.array();
+        res.redirect('/list/rename/' + listId);
+    } else {
+        lists.renameList(req.user.id, listId, format.getSlug(newListName), newListName)
+            .then(() => {
+                res.redirect('/user/' + req.user.username + '/list/' + format.getSlug(newListName));
+            })
+            .catch(next);
     }
 });
 

@@ -3,6 +3,7 @@
   "name": "Bunny Day Basket",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Recipe obtained during Bunny Day event (April)"
       ],

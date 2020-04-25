@@ -40,7 +40,10 @@
           "currency": "bells",
           "value": 7200
         }
-      ]
+      ],
+      "recipe": {
+        "hardwood": 15
+      }
     }
   }
 }

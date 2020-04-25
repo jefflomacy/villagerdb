@@ -28,6 +28,7 @@
       ]
     },
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 9000

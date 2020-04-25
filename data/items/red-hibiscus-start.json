@@ -1,7 +1,7 @@
 {
   "id": "red-hibiscus-start",
   "name": "Red-hibiscus Start",
-  "category": "Trees",
+  "category": "Bushes",
   "games": {
     "nl": {
       "orderable": false,
@@ -12,6 +12,22 @@
         {
           "currency": "bells",
           "value": 5
+        }
+      ]
+    },
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Leif"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 70
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 280
         }
       ]
     }

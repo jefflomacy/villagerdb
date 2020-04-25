@@ -1,0 +1,23 @@
+{
+  "id": "young-pink-hydrangea",
+  "name": "Young Pink Hydrangea",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Leif"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 105
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 420
+        }
+      ]
+    }
+  },
+  "category": "Bushes"
+}

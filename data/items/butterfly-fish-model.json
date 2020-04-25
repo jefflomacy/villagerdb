@@ -3,20 +3,10 @@
   "name": "Butterfly Fish Model",
   "games": {
     "nh": {
-      "orderable": true,
-      "sources": [
-        "Nook's Cranny"
-      ],
       "sellPrice": {
         "currency": "bells",
-        "value": 325
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 1300
-        }
-      ]
+        "value": 3000
+      }
     }
   },
   "category": "Furniture"

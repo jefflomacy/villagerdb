@@ -1,0 +1,19 @@
+{
+  "id": "beige-winter-solstice-sweater",
+  "name": "Beige Winter-solstice Sweater",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1200
+        }
+      ]
+    }
+  },
+  "category": "Tops"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "hedge",
+  "name": "Hedge",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 55
+      },
+      "recipe": {
+        "clump-of-weeds": 10,
+        "tree-branch": 5,
+        "stone": 2
+      }
+    }
+  },
+  "category": "Furniture"
+}

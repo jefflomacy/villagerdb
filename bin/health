@@ -1,0 +1,82 @@
+#!/usr/bin/env node
+
+require('dotenv').config();
+
+const fs = require('fs');
+const path = require('path');
+const urlHelper = require('../helpers/url');
+
+/**
+ * Report on any missing aspects of an item's image.
+ * @param entityId
+ * @param variationId
+ */
+function reportOnImage(entityId, variationId) {
+    const output = [];
+
+    const imageData = urlHelper.getEntityImageData(urlHelper.ITEM, entityId, variationId, false);
+    if (!imageData.full) {
+        output.push('Missing full image.');
+    }
+    if (!imageData.medium) {
+        output.push('Missing medium image.');
+    }
+    if (!imageData.thumb) {
+        output.push('Missing thumb image');
+    }
+
+    return output;
+}
+
+/**
+ * Check items health.
+ */
+function itemHealthReport() {
+    const files = fs.readdirSync(path.join('data', 'items'));
+    for (let file of files) {
+        const data = fs.readFileSync(path.join('data', 'items', file), 'utf8');
+        const parsed = JSON.parse(data);
+        const games = Object.keys(parsed.games).join('; ');
+
+        // Check base image.
+        const baseOutput = reportOnImage(parsed.id);
+        let basePrinted = false;
+        if (baseOutput.length > 0) {
+            console.log(parsed.id + ' (games: ' + games + '):');
+            basePrinted = true;
+            for (let o of baseOutput) {
+                console.log('\t' + o);
+            }
+        }
+        // Check variants - NH only
+        if (parsed.games.nh && parsed.games.nh.variations) {
+            for (let variationId of Object.keys(parsed.games.nh.variations)) {
+                const variationOutput = reportOnImage(parsed.id, variationId);
+                if (variationOutput.length > 0) {
+                    if (!basePrinted) {
+                        console.log(parsed.id + ' (games: ' + games + '):');
+                        basePrinted = true;
+                    }
+                    console.log('\t' + variationId + ':');
+                    for (let o of variationOutput) {
+                        console.log('\t\t' + o);
+                    }
+                }
+            }
+        }
+
+    }
+}
+
+if (process.argv.length !== 3) {
+    console.error('Specify a command.');
+    process.exit(1);
+}
+
+const command = process.argv[2];
+if (command === 'items') {
+    itemHealthReport();
+} else {
+    console.error('Invalid command: ' + command);
+    process.exit(1);
+}

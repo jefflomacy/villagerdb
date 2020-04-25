@@ -3,6 +3,10 @@
   "name": "Tarantula Model",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Flick"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 24000

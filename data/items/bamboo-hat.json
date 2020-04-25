@@ -3,6 +3,7 @@
   "name": "Bamboo Hat",
   "games": {
     "nh": {
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 200
@@ -13,6 +14,9 @@
           "value": 800
         }
       ],
+      "recipe": {
+        "clump-of-weeds": 10
+      },
       "variations": {
         "beige": "Beige"
       }

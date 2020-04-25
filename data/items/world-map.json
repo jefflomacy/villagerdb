@@ -12,6 +12,18 @@
       "sources": [
         "Katie"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 160
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 640
+        }
+      ]
     }
   }
 }

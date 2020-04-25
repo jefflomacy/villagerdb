@@ -1,0 +1,23 @@
+{
+  "id": "orange-tea-olive-nursery",
+  "name": "Orange-tea-olive Nursery",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Leif"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 70
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 280
+        }
+      ]
+    }
+  },
+  "category": "Bushes"
+}

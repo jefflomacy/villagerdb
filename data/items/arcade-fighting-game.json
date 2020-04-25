@@ -3,6 +3,7 @@
   "name": "Arcade Fighting Game",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 16000

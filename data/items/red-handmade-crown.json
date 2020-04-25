@@ -1,0 +1,19 @@
+{
+  "id": "red-handmade-crown",
+  "name": "Red Handmade Crown",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 75
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 300
+        }
+      ]
+    }
+  },
+  "category": "Hats"
+}

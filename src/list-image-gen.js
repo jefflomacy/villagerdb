@@ -50,7 +50,7 @@ const LIST_NAME_POS_Y = 150;
  * Location of URL.
  * @type {number}
  */
-const USERNAME_POS_Y = 175;
+const USERNAME_POS_Y = 185;
 
 /**
  * Canvas font to use.
@@ -97,13 +97,13 @@ $(document).ready(() => {
         ctx.fillRect(0, 0, canvas.width, canvas.height);
 
         // Draw wishlist name.
-        ctx.font = '20px ' + CANVAS_FONT;
+        ctx.font = '30px ' + CANVAS_FONT;
         ctx.fillStyle = STROKE_COLOR;
         ctx.textAlign = 'center';
         ctx.fillText(listName, canvas.width / 2, LIST_NAME_POS_Y);
 
         // Draw username url
-        ctx.font = '15pd ' + CANVAS_FONT;
+        ctx.font = '20px ' + CANVAS_FONT;
         ctx.fillStyle = STROKE_COLOR;
         ctx.textAlign = 'center';
         ctx.fillText(userUrl, canvas.width / 2, USERNAME_POS_Y);

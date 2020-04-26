@@ -28,16 +28,16 @@ const MAX_IMAGE_HEIGHT = 75;
  * @type {({x: number, y: number})[]}
  */
 const IMAGE_POSITIONS = [
-    {x: 10, y: 10}, // Row 1, col 1
-    {x: 425, y: 230}, // Row 2, col 5
-    {x: 125, y: 30}, // Row 1, col 2
-    {x: 325, y: 250}, // Row 2, col 4
-    {x: 225, y: 10}, // Row 1, col 3
+    {x: 225, y: 20}, // Row 1, col 3
     {x: 225, y: 230}, // Row 2, col 3
-    {x: 325, y: 30}, // Row 1, col 4
-    {x: 125, y: 250}, // Row 2, col 2
-    {x: 425, y: 10}, // Row 1, col 5
-    {x: 10, y: 230}, // Row 2, col 1
+    {x: 150, y: 40}, // Row 1, col 2
+    {x: 300, y: 250}, // Row 2, col 4
+    {x: 300, y: 40}, // Row 1, col 4
+    {x: 150, y: 250}, // Row 2, col 2
+    {x: 375, y: 20}, // Row 1, col 5
+    {x: 75, y: 230}, // Row 2, col 1
+    {x: 75, y: 20}, // Row 1, col 1
+    {x: 375, y: 230}, // Row 2, col 5
 ];
 
 /**

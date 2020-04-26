@@ -61,7 +61,12 @@ async function buildSearchIndex() {
             properties: {
                 suggest: {
                     type: 'completion',
-                    analyzer: 'vdb_ascii_fold'
+                    analyzer: 'vdb_ascii_fold',
+                    contexts: {
+                        name: 'game',
+                        type: 'category',
+                        path: 'game' // tell ES to read it from the document 'game' property!
+                    }
                 },
                 type: {
                     type: 'keyword'

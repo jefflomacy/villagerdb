@@ -22,7 +22,10 @@ router.get('/', function (req, res, next) {
                             completion: {
                                 field: 'suggest',
                                 size: 5,
-                                skip_duplicates: true
+                                skip_duplicates: true,
+                                contexts: {
+                                    game: ['nh'] // TODO re-add other games later in life
+                                }
                             }
                         }
                     }

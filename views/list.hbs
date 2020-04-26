@@ -15,9 +15,8 @@
 </div>
 {{#if isOwnUser}}
     <div class="alert alert-primary mb-4">
-        Tip: You can add a specific color or type of item to your wishlist by going to the item's detail page. On the
-        item page, select the variation you want from the dropdown and then add it to your wishlist by clicking the
-        <span class="font-weight-bold"><span class="fa fa-plus"></span> List</span> button.
+        <span style="font-weight: bold; color: red">New!</span> Share a picture of your wishlist by
+        <a href="#image-maker">clicking here</a>!
     </div>
 {{/if}}
 {{#if isEmpty}}
@@ -36,7 +35,7 @@
                 <div>
                     <a href="/{{type}}/{{id}}" class="no-link-underline">
                         <img src="{{image}}" alt="Picture of {{name}}"
-                             class="img-responsive" style="max-width: 50px;">
+                             class="img-responsive user-list-image" style="max-width: 50px;">
                     </a>
                     <a href="/{{type}}/{{id}}" class="ml-2">{{name}}</a> {{variation}}
                 </div>
@@ -52,6 +51,23 @@
             </li>
         {{/each}}
     </ul>
+
+    {{#if isOwnUser}}
+        <div id="image-maker">
+            <h2 class="mt-4">Share your list!</h2>
+            <p>Get what you need by sharing an image of your list with the world. Click the &quot;Create Image&quot; button
+                below. Save the image and share it!</p>
+            <p class="text-center">
+                <button type="button" class="btn btn-primary" id="generate-image-button"
+                        data-user-name="{{author}}" data-list-name="{{listName}}">Create Image</button>
+            </p>
+
+            <canvas id="generated-list-image" width="500" height="333"
+                    style="display: none;"></canvas>
+
+            <img id="canvas-target" class="d-block" style="margin: 0 auto; max-width: 100%; height: auto; border: 1px solid black; display: none;">
+        </div>
+    {{/if}}
 
     {{#if displayUnit2 }}
         {{> rev-unit2 }}

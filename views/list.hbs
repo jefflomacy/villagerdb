@@ -28,10 +28,11 @@
         {{/if}}
     </p>
 {{else}}
-    <p class="text-right">{{countText}}</p>
+    {{> user/list-search }}
+    <p id="user-list-size" class="text-right" data-orig-text="{{countText}}">{{countText}}</p>
     <ul class="list-group user-list-view">
         {{#each entities}}
-            <li class="list-group-item d-flex justify-content-between align-items-center">
+            <li class="list-group-item d-flex justify-content-between align-items-center" data-name="{{name}} {{variation}}">
                 <div>
                     <a href="/{{type}}/{{id}}" class="no-link-underline">
                         <img src="{{image}}" alt="Picture of {{name}}"

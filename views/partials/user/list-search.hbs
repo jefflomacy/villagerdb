@@ -1,5 +1,5 @@
 <form>
-    <div class="input-group mb-2">
+    <div class="input-group mb-3">
         <label class="sr-only" for="user-list-search">Search this list for items and villagers</label>
         <input type="text" class="form-control" id="user-list-search" name="user-list-search"
                placeholder="Search this list" autoComplete="off" />
@@ -9,10 +9,13 @@
             </button>
         </span>
     </div>
-    <div id="user-list-search-notice" class="mb-2" style="display: none;">
+    <div id="user-list-search-notice" style="display: none;">
         <p>
             You are viewing search results for &quot;<span id="user-list-search-query"></span>&quot;.
             <a href="#" id="user-list-search-clear">Clear search</a>.
         </p>
+    </div>
+    <div id="user-list-search-no-results" class="mb-2 text-center" style="display: none;">
+        <p>There were no results for your search in this list.</p>
     </div>
 </form>

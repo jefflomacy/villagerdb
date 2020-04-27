@@ -2,6 +2,12 @@
   "id": "yellow-hibiscus-start",
   "name": "Yellow-hibiscus Start",
   "games": {
+    "nl": {
+      "orderable": false,
+      "sources": [
+        "Island Gift Shop"
+      ]
+    },
     "nh": {
       "orderable": false,
       "sources": [
@@ -19,5 +25,5 @@
       ]
     }
   },
-  "category": "Bushes"
+  "category": "Bushes and Trees"
 }

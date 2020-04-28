@@ -2,20 +2,41 @@ import $ from "jquery";
 import _ from 'underscore';
 
 /**
+ * Up arrow key code.
+ * @type {number}
+ */
+const UP_KEYCODE = 38;
+
+/**
+ * Down arrow key code.
+ * @type {number}
+ */
+const DOWN_KEYCODE = 40;
+
+/**
+ * Escape keycode.
+ * @type {number}
+ */
+const ESC_KEYCODE = 27;
+
+/**
  * The currently-executing request. We cancel it if concurrent ones are happening.
  */
 let currentRequest;
 
 $(document).ready(() => {
+    /**
+     * Autocomplete unordered list
+     * @type {jQuery|HTMLElement}
+     */
     const dataList = $('#autocomplete-items');
 
     /**
-     * Up/Down arrow support for autocomplete items
+     * Up/down arrow and escape key handler for autocomplete items
      * @param e
      */
-    const upDownArrowHandler = (e) => {
-        // Up = 38, Down = 40
-        if (e.keyCode == 38 || e.keyCode == 40) {
+    const keyDownHandler = (e) => {
+        if (e.keyCode === UP_KEYCODE || e.keyCode === DOWN_KEYCODE) {
             // Prevent cursor from jumping to the start or end of query in the search box
             e.preventDefault();
 
@@ -27,20 +48,24 @@ $(document).ready(() => {
             if (currentSelected.length > 0) {
                 currentSelected.removeClass('selected');
                 const items = currentSelected.parent().children();
-                if (e.keyCode == 38) {
+                if (e.keyCode === UP_KEYCODE) {
                     newSelected = items.eq((items.index(currentSelected) - 1) % items.length)
-                } else if (e.keyCode = 40) {
+                } else { // down
                     newSelected = items.eq((items.index(currentSelected) + 1) % items.length)
                 }
             } else {
-                if (e.keyCode == 38) {
+                if (e.keyCode === UP_KEYCODE) {
                     newSelected = $('#autocomplete-items li').last();
-                } else if (e.keyCode = 40) {
+                } else { // down
                     newSelected = $('#autocomplete-items li').first();
                 }
             }
             newSelected.addClass('selected');
             $('#q').val(newSelected.text());
+        } else if (e.keyCode === ESC_KEYCODE) {
+            // Just make the list go away.
+            e.preventDefault();
+            hideList();
         }
     }
 
@@ -48,7 +73,7 @@ $(document).ready(() => {
      * Make the list visible.
      */
     const showList = () => {
-        $(window).on('keydown', upDownArrowHandler);
+        $(window).on('keydown', keyDownHandler);
         dataList.show();
     };
 

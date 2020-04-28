@@ -39,7 +39,7 @@ async function loadUser(username) {
  * @param listId
  * @returns {Promise<void>}
  */
-async function loadList(username, listId) {
+async function loadList(username, listId, loggedInUserId) {
     const result = {};
     const list = await lists.getListById(username, listId);
     if (list == null || typeof list.entities !== 'object') {
@@ -96,6 +96,22 @@ async function loadList(username, listId) {
     result.displayUnit2 = entities.length >= 10;
     result.entities = entities;
     result.shareUrl = 'https://villagerdb.com/user/' + username + '/list/' + list.id;
+
+    // Handle logged in users lists for compare button
+    if (loggedInUserId) {
+        const loggedInUserLists = await lists.getListsByUser(loggedInUserId);
+        const userLists = [];
+        if (loggedInUserLists != null) {
+            for (const uList of loggedInUserLists.filter(liul => liul.id != listId)) {
+                userLists.push({
+                    "name": uList.name,
+                    "id": uList.id
+                });
+            }
+        }
+        result.loggedInUserLists =  userLists.isEmpty ? null : userLists;
+    }
+
     return result;
 }
 
@@ -164,7 +180,8 @@ router.get('/:username', function (req, res, next) {
  * Route for list.
  */
 router.get('/:username/list/:listId', (req, res, next) => {
-    loadList(req.params.username, req.params.listId)
+    const loggedInUserId = req.user == null ? null : req.user.id;
+    loadList(req.params.username, req.params.listId, loggedInUserId)
         .then((data) => {
             if (!data) {
                 const e = new Error('No such list.');
@@ -176,6 +193,69 @@ router.get('/:username/list/:listId', (req, res, next) => {
                 res.render('list', data);
             }
         }).catch(next);
+});
+
+/**
+ * Route for comparing registered user lists
+ */
+router.get('/:username/list/:listId/compare/:compare_username/:compare_listId', (req, res, next) => {
+    // You cannot compare against the same lists
+    if (req.params.username === req.params.compare_username &&
+            req.params.listId === req.params.compare_listId) {
+                const e = new Error('Bad request. You cannot compare against the same lists.');
+                e.status = 400;
+                throw e;
+            }
+
+    // Load both user lists
+    Promise.all([loadList(req.params.username, req.params.listId),
+        loadList(req.params.compare_username, req.params.compare_listId)])
+            .then((values) => {
+                if (values.includes(null)) {
+                    const e = new Error('No such list.');
+                    e.status = 404;
+                    throw e;
+                } else {
+                    response = {};
+                    response.author = values[0].author;
+                    response.otherAuthor = values[1].author;
+                    response.listName = values[0].listName;
+                    response.otherListName = values[1].listName;
+
+                    const otherListIds = values[1].entities.map(e => e._sortKey);
+                    const sharedIds = [];
+                    const entities = [];
+                    diffCount = 0;
+
+                    values[0].entities.forEach(element => {
+                        if (otherListIds.includes(element._sortKey)) {
+                            // Matching entries
+                            sharedIds.push(element._sortKey);
+                        } else {
+                            // Initial user only entries
+                            element.compareStatus = "present";
+                            diffCount++;
+                        }
+                        entities.push(element);
+                    });
+
+                    // Add remaining items to list
+                    values[1].entities.filter(e => !sharedIds.includes(e._sortKey))
+                        .forEach(element => {
+                            element.compareStatus = "missing";
+                            entities.push(element);
+                            diffCount++;
+                    });
+
+                    // Sort lists alphabetically
+                    entities.sort((a, b) => a.name < b.name ? -1 : 1);
+
+                    response.allShared = diffCount == 0;
+                    response.noneShared = sharedIds.length == 0;
+                    response.entities = entities;
+                    res.render('list-compare', response);
+                }
+            }).catch(next);
 });
 
 module.exports = router;

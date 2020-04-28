@@ -11,7 +11,25 @@
 </h1>
 <p><small class="text-muted">by <a href="/user/{{author}}">{{author}}</a></small></p>
 <div class="text-right">
-    {{> social-media shareUrl=shareUrl showCopyButton=true }}
+    <div class="btn-group mr-4 float-left">
+        <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Compare
+        </button>
+        <div class="dropdown-menu">
+            {{#if userState.isRegistered}}
+                {{#if loggedInUserLists}}
+                    {{#each loggedInUserLists}}
+                        <a class="dropdown-item" href="/user/{{../userState.username}}/list/{{id}}/compare/{{../author}}/{{../listId}}">{{name}}</a>
+                    {{/each}}
+                {{else}}
+                    <a class="dropdown-item" href="/list/create">New List</a>
+                {{/if}}
+            {{else}}
+                <a class="dropdown-item" href="/login">New List</a>
+            {{/if}}              
+        </div>
+    </div>
+    {{> social-media shareUrl=shareUrl showCopyButton=true}}
 </div>
 {{#if isOwnUser}}
     {{#unless isEmpty}}

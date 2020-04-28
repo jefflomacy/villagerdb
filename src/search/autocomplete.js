@@ -7,11 +7,57 @@ import _ from 'underscore';
 let currentRequest;
 
 $(document).ready(() => {
+    const dataList = $('#autocomplete-items');
+
+    /**
+     * Up/Down arrow support for autocomplete items
+     * @param e
+     */
+    const upDownArrowHandler = (e) => {
+        // Up = 38, Down = 40
+        if (e.keyCode == 38 || e.keyCode == 40) {
+            // Prevent cursor from jumping to the start or end of query in the search box
+            e.preventDefault();
+
+            // The "selected" class indicates the currently selected item
+            const currentSelected = $('#autocomplete-items li.selected');
+            let newSelected;
+            // If there is an item currently selected, cycle through the list
+            // Otherwise, select the top or bottom one depending on the key pressed
+            if (currentSelected.length > 0) {
+                currentSelected.removeClass('selected');
+                const items = currentSelected.parent().children();
+                if (e.keyCode == 38) {
+                    newSelected = items.eq((items.index(currentSelected) - 1) % items.length)
+                } else if (e.keyCode = 40) {
+                    newSelected = items.eq((items.index(currentSelected) + 1) % items.length)
+                }
+            } else {
+                if (e.keyCode == 38) {
+                    newSelected = $('#autocomplete-items li').last();
+                } else if (e.keyCode = 40) {
+                    newSelected = $('#autocomplete-items li').first();
+                }
+            }
+            newSelected.addClass('selected');
+            $('#q').val(newSelected.text());
+        }
+    }
+
+    /**
+     * Make the list visible.
+     */
+    const showList = () => {
+        $(window).on('keydown', upDownArrowHandler);
+        dataList.show();
+    };
+
     /**
      * Make the list invisible.
      */
     const hideList = () => {
-        $('#autocomplete-items').hide();
+        $(window).off('keydown');
+        dataList.hide();
     };
 
     /**
@@ -20,8 +66,7 @@ $(document).ready(() => {
      */
     const fillAutoComplete = (e) => {
         // Hide the list until we have results.
-        const dataList = $('#autocomplete-items');
-        dataList.hide();
+        hideList();
 
         // Only continue if we have something to search for.
         const q = $(e.target).val().trim();
@@ -51,7 +96,7 @@ $(document).ready(() => {
                     }
 
                     // Show it once filled.
-                    dataList.show();
+                    showList();
                     currentRequest = undefined;
                 },
                 error: function() {
@@ -80,4 +125,5 @@ $(document).ready(() => {
 
     // On lost focus, destroy the list.
     $('body').on('click', hideList);
+
 });

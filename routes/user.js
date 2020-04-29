@@ -221,16 +221,16 @@ router.get('/:username/list/:listId/compare/:compareUsername/:compareListId', (r
                     response.otherListId = values[1].listId;
                     response.otherListName = values[1].listName;
 
-                    const otherListElementIds = values[1].entities.map(e => e._sortKey);
+                    const otherListElementIds = values[1].entities.map(e => e.type + '-' + e._sortKey);
                     const sharedIds = {}; // make it an O(1) hashmap lookup
                     const entities = [];
                     let diffCount = 0;
 
                     values[0].entities.forEach(element => {
-                        if (otherListElementIds.includes(element._sortKey)) {
+                        if (otherListElementIds.includes(element.type + '-' + element._sortKey)) {
                             // Matching entries
                             element.compareStatus = 'shared';
-                            sharedIds[element._sortKey] = true;
+                            sharedIds[element.type + '-' + element._sortKey] = true;
                         } else {
                             // Initial user only entries
                             element.compareStatus = 'present';
@@ -240,7 +240,7 @@ router.get('/:username/list/:listId/compare/:compareUsername/:compareListId', (r
                     });
 
                     // Add remaining items to list
-                    values[1].entities.filter(e => !sharedIds[e._sortKey])
+                    values[1].entities.filter(e => !sharedIds[e.type + '-' + e._sortKey])
                         .forEach(element => {
                             element.compareStatus = 'missing';
                             entities.push(element);

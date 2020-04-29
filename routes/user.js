@@ -255,7 +255,7 @@ router.get('/:username/list/:listId/compare/:compareUsername/:compareListId', (r
                     response.entities = entities;
 
                     // SEO
-                    response.pageTitle = 'Comparing ' + response.listName + ' to ' + response.otherListName;
+                    response.pageTitle = 'Compare ' + response.listName + ' to ' + response.otherListName;
                     response.pageDescription = 'View a comparison of list ' + response.listName + ' by ' +
                         response.author + ' to list ' + response.otherListName + ' by ' + response.otherAuthor;
                     response.shareUrl = 'https://villagerdb.com/user/' + req.params.username + '/list/'

@@ -243,3 +243,18 @@ function listSortComparator(a, b) {
     }
 }
 module.exports.listSortComparator = listSortComparator;
+
+/**
+ * Comparator function for sorting user list items.
+ * @param a
+ * @param b
+ * @returns {number}
+ */
+function listItemSortComparator(a, b) {
+    if (a._sortKey < b._sortKey) {
+        return -1;
+    } else {
+        return 1;
+    }
+}
+module.exports.listItemSortComparator = listItemSortComparator;

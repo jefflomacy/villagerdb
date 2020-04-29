@@ -1,26 +1,33 @@
+{{> rev-unit1 }}
+
 <h1>
     {{listName}}
     <small class="text-muted">by <a href="/user/{{author}}">{{author}}</a></small>
 </h1>
-<h2>
-    <small>comparing against</small>
-    {{otherListName}}
-    <small class="text-muted">by <a href="/user/{{otherAuthor}}">{{otherAuthor}}</a></small> 
-</h2>
+
+<small class="text-muted">comparing against
+    <a href="/user/{{otherAuthor}}/list/{{otherListId}}">{{otherListName}}</a>
+    by <a href="/user/{{otherAuthor}}">{{otherAuthor}}</a>
+</small>
+
 <div class="text-right">
     {{> social-media shareUrl=shareUrl showCopyButton=true text="Share this comparison"}}
 </div>
+
 {{!-- TODO: Add color key for what the different background colors represent --}}
+
 {{#if allShared}}
     <div class="alert alert-info" role="alert">
         These two lists are the same.
     </div>
 {{/if}}
+
 {{#if noneShared}}
     <div class="alert alert-info" role="alert">
         These lists have nothing in common.
     </div>
 {{/if}}
+
 {{#if entities}}
     {{> user/list-search }}
     <ul class="list-group mb-4 user-list-view">

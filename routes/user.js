@@ -95,7 +95,6 @@ async function loadList(username, listId, loggedInUserId) {
     result.pageDescription = 'View ' + list.name + ', a list by ' + username + ' containing ' + result.countText;
 
     // Handle logged in users lists for compare button
-    // TODO
     if (loggedInUserId) {
         const loggedInUserLists = await lists.getListsByUser(loggedInUserId);
         const userLists = [];
@@ -223,26 +222,27 @@ router.get('/:username/list/:listId/compare/:compareUsername/:compareListId', (r
                     response.otherListName = values[1].listName;
 
                     const otherListElementIds = values[1].entities.map(e => e._sortKey);
-                    const sharedIds = [];
+                    const sharedIds = {}; // make it an O(1) hashmap lookup
                     const entities = [];
                     let diffCount = 0;
 
                     values[0].entities.forEach(element => {
                         if (otherListElementIds.includes(element._sortKey)) {
                             // Matching entries
-                            sharedIds.push(element._sortKey);
+                            element.compareStatus = 'shared';
+                            sharedIds[element._sortKey] = true;
                         } else {
                             // Initial user only entries
-                            element.compareStatus = "present";
+                            element.compareStatus = 'present';
                             diffCount++;
                         }
                         entities.push(element);
                     });
 
                     // Add remaining items to list
-                    values[1].entities.filter(e => !sharedIds.includes(e._sortKey))
+                    values[1].entities.filter(e => !sharedIds[e._sortKey])
                         .forEach(element => {
-                            element.compareStatus = "missing";
+                            element.compareStatus = 'missing';
                             entities.push(element);
                             diffCount++;
                     });
@@ -251,13 +251,16 @@ router.get('/:username/list/:listId/compare/:compareUsername/:compareListId', (r
                     entities.sort(format.listItemSortComparator);
 
                     response.allShared = diffCount == 0;
-                    response.noneShared = sharedIds.length === 0;
+                    response.noneShared = Object.keys(sharedIds).length === 0;
                     response.entities = entities;
 
                     // SEO
                     response.pageTitle = 'Comparing ' + response.listName + ' to ' + response.otherListName;
                     response.pageDescription = 'View a comparison of list ' + response.listName + ' by ' +
                         response.author + ' to list ' + response.otherListName + ' by ' + response.otherAuthor;
+                    response.shareUrl = 'https://villagerdb.com/user/' + req.params.username + '/list/'
+                        + req.params.listId + '/compare/'
+                        + req.params.compareUsername + '/' + req.params.compareListId;
                     res.render('list-compare', response);
                 }
             }).catch(next);

@@ -13,20 +13,18 @@
 <div class="text-right">
     <div class="btn-group mr-4 float-left">
         <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-            Compare
+            Compare to...
         </button>
         <div class="dropdown-menu">
-            {{#if userState.isRegistered}}
-                {{#if loggedInUserLists}}
-                    {{#each loggedInUserLists}}
-                        <a class="dropdown-item" href="/user/{{../userState.username}}/list/{{id}}/compare/{{../author}}/{{../listId}}">{{name}}</a>
-                    {{/each}}
-                {{else}}
-                    <a class="dropdown-item" href="/list/create">New List</a>
-                {{/if}}
-            {{else}}
-                <a class="dropdown-item" href="/login">New List</a>
-            {{/if}}              
+            {{#if loggedInUserLists}}
+                {{#each loggedInUserLists}}
+                    <a class="dropdown-item"
+                       href="/user/{{../author}}/list/{{../listId}}/compare/{{../userState.username}}/{{id}}">
+                        {{name}}
+                    </a>
+                {{/each}}
+            {{/if}}
+            <a class="dropdown-item" href="/list/create">New list...</a>
         </div>
     </div>
     {{> social-media shareUrl=shareUrl showCopyButton=true}}

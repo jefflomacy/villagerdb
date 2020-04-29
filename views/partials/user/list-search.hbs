@@ -2,7 +2,7 @@
     <div class="input-group mb-3">
         <label class="sr-only" for="user-list-search">Search this list for items and villagers</label>
         <input type="text" class="form-control" id="user-list-search" name="user-list-search"
-               placeholder="Search this list" autoComplete="off" />
+               placeholder="{{#if placeholder}}{{placeholder}}{{else}}Search this list{{/if}}" autoComplete="off" />
         <span class="input-group-btn">
             <button id="user-list-search-submit" class="btn btn-primary" type="submit" style="border-radius: 0;">
                 <span class="fas fa-search"></span>

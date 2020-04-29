@@ -105,8 +105,9 @@ async function loadList(username, listId, loggedInUserId) {
                     "id": uList.id
                 });
             }
+            userLists.sort(format.listSortComparator);
         }
-        result.loggedInUserLists =  userLists.isEmpty ? null : userLists;
+        result.loggedInUserLists = userLists;
     }
 
     return result;
@@ -177,8 +178,7 @@ router.get('/:username', function (req, res, next) {
  * Route for list.
  */
 router.get('/:username/list/:listId', (req, res, next) => {
-    const loggedInUserId = req.user == null ? null : req.user.id;
-    loadList(req.params.username, req.params.listId, loggedInUserId)
+    loadList(req.params.username, req.params.listId, typeof req.user !== 'object' ? undefined : req.user.id)
         .then((data) => {
             if (!data) {
                 const e = new Error('No such list.');

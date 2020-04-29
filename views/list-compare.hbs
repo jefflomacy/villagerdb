@@ -2,11 +2,11 @@
 
 <h1>
     {{listName}}
-    <small class="text-muted">by <a href="/user/{{author}}">{{author}}</a></small>
 </h1>
 
 <small class="text-muted">
-    comparing <a target="_blank" href="/user/{{author}}/list/{{listId}}">{{listName}}</a> against
+    comparing <a target="_blank" href="/user/{{author}}/list/{{listId}}">{{listName}}</a>
+    by <a href="/user/{{author}}">{{author}}</a> against
     <a target="_blank" href="/user/{{otherAuthor}}/list/{{otherListId}}">{{otherListName}}</a>
     by <a href="/user/{{otherAuthor}}">{{otherAuthor}}</a>
 </small>
@@ -17,11 +17,11 @@
 
 {{#if allShared}}
     <div class="alert alert-info" role="alert">
-        These two lists are the same.
+        This list is the same as <strong>{{otherListName}}</strong>.
     </div>
 {{else if noneShared}}
     <div class="alert alert-info" role="alert">
-        These lists have nothing in common.
+        This list has nothing in common with <strong>{{otherListName}}</strong>.
     </div>
 {{/if}}
 {{#if entities}}
@@ -32,11 +32,11 @@
             <div class="compare-key-block"></div>
         </div>
         <div class="d-flex align-items-center justify-content-end">
-            <div class="mr-2">Only in this list</div>
+            <div class="mr-2">Only in <strong>{{listName}}</strong></div>
             <div class="compare-key-block compare-key-present"></div>
         </div>
         <div class="d-flex align-items-center justify-content-end">
-            <div class="mr-2">Not in this list</div>
+            <div class="mr-2">Not in <strong>{{listName}}</strong></div>
             <div class="compare-key-block compare-key-missing"></div>
         </div>
     </div>

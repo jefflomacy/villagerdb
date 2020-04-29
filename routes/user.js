@@ -96,18 +96,19 @@ async function loadList(username, listId, loggedInUserId) {
 
     // Handle logged in users lists for compare button
     if (loggedInUserId) {
-        const loggedInUserLists = await lists.getListsByUser(loggedInUserId);
-        const userLists = [];
-        if (loggedInUserLists != null) {
-            for (const uList of loggedInUserLists.filter(liul => liul.id != listId)) {
-                userLists.push({
-                    "name": uList.name,
-                    "id": uList.id
+        let loggedInUserLists = await lists.getListsByUser(loggedInUserId);
+        if (loggedInUserLists) {
+            loggedInUserLists = loggedInUserLists
+                .filter((u) => u.id !== listId)
+                .map((u) => {
+                    return {
+                        id: u.id,
+                        name: u.name
+                    };
                 });
-            }
-            userLists.sort(format.listSortComparator);
+            loggedInUserLists.sort(format.listSortComparator);
         }
-        result.loggedInUserLists = userLists;
+        result.loggedInUserLists = loggedInUserLists;
     }
 
     return result;

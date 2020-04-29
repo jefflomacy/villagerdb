@@ -19,7 +19,7 @@
             {{#if loggedInUserLists}}
                 {{#each loggedInUserLists}}
                     <a class="dropdown-item"
-                       href="/user/{{../author}}/list/{{../listId}}/compare/{{../userState.username}}/{{id}}">
+                       href="/user/{{../userState.username}}/list/{{id}}/compare/{{../author}}/{{../listId}}">
                         {{name}}
                     </a>
                 {{/each}}

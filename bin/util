@@ -25,6 +25,7 @@ async function buildSearchIndex() {
         index: newIndexName,
         body: {
             settings: {
+                max_ngram_diff: 8,
                 analysis: {
                     analyzer: {
                         vdb_ascii_fold: {
@@ -38,9 +39,14 @@ async function buildSearchIndex() {
                     },
                     tokenizer: {
                         vdb_tokenizer: {
-                            type: "edge_ngram",
+                            type: "ngram",
                             min_gram: 2,
-                            max_gram: 10
+                            max_gram: 10,
+                            token_chars: [
+                                'letter',
+                                'digit'
+                            ]
+
                         }
                     },
                     filter: {

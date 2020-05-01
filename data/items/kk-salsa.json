@@ -18,10 +18,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Salsa"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -34,21 +31,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Salsa",
-        "en-GB": "K.K. Salsa",
-        "de": "K.K. Salsa",
-        "es": "Tota-Salsa",
-        "fr": "Salsa de Kéké",
-        "it": "K.K. Salsa",
-        "nl": "K.K.-Salsa",
-        "zh-CN": "K.K.萨尔萨",
-        "zh-TW": "K.K.騷莎",
-        "jp": "けけサルサ",
-        "ko": "K.K.살사",
-        "ru": "Сальса К. К."
-      }
+      ]
     }
   }
 }

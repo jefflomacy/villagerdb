@@ -14,16 +14,7 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ],
-      "name": {
-        "de": "Spinosaurus-Torso",
-        "en-GB": "Spino Torso",
-        "en-US": "Spino Torso",
-        "es": "Cuerpo espinosaurio",
-        "fr": "Corps de spinosaurus",
-        "it": "Torso spinosauro",
-        "ja": "スピノサウルスのからだ"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -33,19 +24,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3000
-      },
-      "name": {
-        "en-US": "Spino Torso",
-        "en-GB": "Spino Torso",
-        "de": "Spinosaurus-Torso",
-        "es": "Cuerpo espinosaurio",
-        "fr": "Corps de spinosaure",
-        "it": "Torso spinosauro",
-        "nl": "Spinosaurusromp",
-        "zh-CN": "棘龙的身体",
-        "zh-TW": "棘龍的身體",
-        "jp": "スピノサウルスのからだ",
-        "ko": "스피노사우루스의 몸통"
       }
     }
   }

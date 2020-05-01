@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 160
         }
-      ],
-      "name": {
-        "de": "Bündchensocke",
-        "en-GB": "Bobby Socks",
-        "en-US": "Bobby Socks",
-        "es": "Calcetín sencillo",
-        "fr": "Paire socq. simples",
-        "it": "P. calzini con trina",
-        "ja": "3つおりソックス"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -47,19 +38,6 @@
         "gray": "Gray",
         "black": "Black",
         "brown": "Brown"
-      },
-      "name": {
-        "en-US": "Bobby Socks",
-        "en-GB": "Bobby Socks",
-        "de": "Paars Bündchensocken",
-        "es": "Calcetín sencillo",
-        "fr": "Paire de socquettes simples",
-        "it": "Paio di calzini con trina",
-        "nl": "Sokken met omslag",
-        "zh-CN": "三折袜",
-        "zh-TW": "三折襪",
-        "jp": "みつおりソックス",
-        "ko": "접는 양말"
       }
     }
   }

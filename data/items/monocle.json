@@ -23,10 +23,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Monocle"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -47,19 +44,6 @@
         "black": "Black",
         "gold": "Gold",
         "silver": "Silver"
-      },
-      "name": {
-        "en-US": "Monocle",
-        "en-GB": "Monocle",
-        "de": "Monokels",
-        "es": "Monóculo",
-        "fr": "Monocle",
-        "it": "Monocolo",
-        "nl": "Monocle",
-        "zh-CN": "单片眼镜",
-        "zh-TW": "單片眼鏡",
-        "jp": "モノクル",
-        "ko": "모노클"
       }
     }
   }

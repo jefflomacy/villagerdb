@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 1300
         }
-      ],
-      "name": {
-        "en-US": "Retro Radiator",
-        "en-GB": "Retro Radiator",
-        "de": "Heizung",
-        "es": "Radiador calefacción central",
-        "fr": "Chauffage central",
-        "it": "Riscaldamento centralizzato",
-        "nl": "Radiator",
-        "zh-CN": "中央暖气",
-        "zh-TW": "中央暖氣",
-        "jp": "セントラルヒーティング",
-        "ko": "라디에이터"
-      }
+      ]
     }
   },
   "category": "Furniture"

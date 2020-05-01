@@ -29,10 +29,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Backyard Lawn"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -48,19 +45,6 @@
       ],
       "recipe": {
         "clump-of-weeds": 30
-      },
-      "name": {
-        "en-US": "Backyard Lawn",
-        "en-GB": "Backyard Lawn",
-        "de": "Wiese",
-        "es": "Suelo césped",
-        "fr": "Gazon patio",
-        "it": "Moquette cortile",
-        "nl": "Tuingazon",
-        "zh-CN": "草坪地板",
-        "zh-TW": "草坪地板",
-        "jp": "しばふのゆか",
-        "ko": "잔디밭 바닥"
       }
     }
   }

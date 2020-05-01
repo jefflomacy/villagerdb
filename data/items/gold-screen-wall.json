@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 2180
         }
-      ],
-      "name": {
-        "en-US": "Gold Screen Wall"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -35,19 +32,6 @@
       "recipe": {
         "gold-nugget": 2,
         "screen-wall": 1
-      },
-      "name": {
-        "en-US": "Gold-Screen Wall",
-        "en-GB": "Gold-Screen Wall",
-        "de": "Goldtürtapete",
-        "es": "Pared oriental",
-        "fr": "Mur paravent",
-        "it": "Muro porta scorrevole d'oro",
-        "nl": "Gouden scherm",
-        "zh-CN": "金箔日式拉门",
-        "zh-TW": "金箔日式拉門",
-        "jp": "きんぱくのふすま",
-        "ko": "황금 미닫이 문 벽"
       }
     }
   }

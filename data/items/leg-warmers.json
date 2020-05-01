@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 160
         }
-      ],
-      "name": {
-        "de": "Beinwärmer",
-        "en-GB": "Leg Warmers",
-        "en-US": "Leg Warmers",
-        "es": "Calentador",
-        "fr": "Paire de guêtres",
-        "it": "Paio scaldamuscoli",
-        "ja": "レッグウォーマー"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -49,19 +40,6 @@
         "pink": "Pink",
         "light-purple": "Light purple",
         "blue": "Blue"
-      },
-      "name": {
-        "en-US": "Leg Warmers",
-        "en-GB": "Leg Warmers",
-        "de": "Paars Beinwärmer",
-        "es": "Calentador",
-        "fr": "Paire de jambières",
-        "it": "Paio di scaldamuscoli",
-        "nl": "Beenwarmers",
-        "zh-CN": "袜套",
-        "zh-TW": "保暖襪套",
-        "jp": "レッグウォーマー",
-        "ko": "발 토시"
       }
     }
   }

@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "Lucky K.K."
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -36,21 +33,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "Lucky K.K.",
-        "en-GB": "Lucky K.K.",
-        "de": "K.K. Glückspilz",
-        "es": "Tota-Celta",
-        "fr": "Kéké le verni",
-        "it": "K.K. Felicità",
-        "nl": "K.K. de Kelt",
-        "zh-CN": "爱尔兰乐曲",
-        "zh-TW": "愛爾蘭樂曲",
-        "jp": "アイリッシュそんぐ",
-        "ko": "아일랜드의 노래",
-        "ru": "Счастливчик К. К."
-      }
+      ]
     }
   }
 }

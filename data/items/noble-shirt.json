@@ -23,16 +23,7 @@
           "currency": "bells",
           "value": 380
         }
-      ],
-      "name": {
-        "de": "Adelspulli",
-        "en-GB": "Noble Shirt",
-        "en-US": "Noble Shirt",
-        "es": "Jersey príncipe",
-        "fr": "Pull noble",
-        "it": "Giacca nobile",
-        "ja": "かくちょうたかいふく"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -48,10 +39,7 @@
           "currency": "bells",
           "value": 380
         }
-      ],
-      "name": {
-        "en-US": "Noble Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -67,10 +55,7 @@
           "currency": "bells",
           "value": 380
         }
-      ],
-      "name": {
-        "en-US": "Noble Shirt"
-      }
+      ]
     }
   }
 }

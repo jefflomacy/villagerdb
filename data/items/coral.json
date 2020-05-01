@@ -11,10 +11,7 @@
       },
       "sources": [
         "Beach"
-      ],
-      "name": {
-        "en-US": "Coral"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -24,19 +21,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 500
-      },
-      "name": {
-        "en-US": "Coral",
-        "en-GB": "Coral",
-        "de": "Korallen",
-        "es": "Corales",
-        "fr": "Branches de corail",
-        "it": "Coralli",
-        "nl": "Stukken koraal",
-        "zh-CN": "珊瑚",
-        "zh-TW": "珊瑚",
-        "jp": "サンゴ",
-        "ko": "산호"
       }
     }
   }

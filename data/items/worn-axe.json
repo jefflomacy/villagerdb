@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 40
         }
-      ],
-      "name": {
-        "en-US": "Worn Axe",
-        "en-GB": "Worn Axe",
-        "de": "Morschaxt",
-        "es": "Hacha maltrecha",
-        "fr": "Hache émoussée",
-        "it": "Ascia consumata",
-        "nl": "Versleten bijl",
-        "zh-CN": "快要坏掉的斧头",
-        "zh-TW": "快壞掉的斧頭",
-        "jp": "こわれかけのオノ",
-        "ko": "튼튼하지 않은 도끼"
-      }
+      ]
     }
   },
   "category": "Tools"

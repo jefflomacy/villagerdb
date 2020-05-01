@@ -16,20 +16,7 @@
           "currency": "bells",
           "value": 1200
         }
-      ],
-      "name": {
-        "en-US": "Stripe Flooring",
-        "en-GB": "Stripe Flooring",
-        "de": "Streifenboden",
-        "es": "Suelo rayas",
-        "fr": "Sol rayures",
-        "it": "Pavimento strisce",
-        "nl": "Gestreepte vloer",
-        "zh-CN": "条纹地板",
-        "zh-TW": "條紋地板",
-        "jp": "ストライプなゆか",
-        "ko": "스트라이프 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

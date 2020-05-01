@@ -11,10 +11,7 @@
       },
       "sources": [
         "In waterfalls."
-      ],
-      "name": {
-        "en-US": "Char"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3800
-      },
-      "name": {
-        "en-US": "Char",
-        "en-GB": "Char",
-        "de": "Saibling",
-        "es": "Trucha",
-        "fr": "Omble",
-        "it": "Salmerino alpino",
-        "nl": "Bronforel",
-        "zh-CN": "花羔红点鲑",
-        "zh-TW": "花羔紅點鮭",
-        "jp": "オオイワナ",
-        "ko": "열목어"
       }
     }
   }

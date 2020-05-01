@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 480
         }
-      ],
-      "name": {
-        "de": "Sanduhr",
-        "en-GB": "Hourglass",
-        "en-US": "Hourglass",
-        "es": "Reloj de arena",
-        "fr": "Sablier",
-        "it": "Clessidra",
-        "ja": "すなどけい"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -51,19 +42,6 @@
         "white": "White",
         "black": "Black",
         "brown": "Brown"
-      },
-      "name": {
-        "en-US": "Hourglass",
-        "en-GB": "Hourglass",
-        "de": "Sanduhr",
-        "es": "Reloj de arena",
-        "fr": "Sablier",
-        "it": "Clessidra",
-        "nl": "Zandloper",
-        "zh-CN": "沙漏",
-        "zh-TW": "沙漏",
-        "jp": "すなどけい",
-        "ko": "모래시계"
       }
     }
   }

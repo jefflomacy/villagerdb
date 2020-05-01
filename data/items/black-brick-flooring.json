@@ -16,20 +16,7 @@
           "currency": "bells",
           "value": 1040
         }
-      ],
-      "name": {
-        "en-US": "Black-Brick Flooring",
-        "en-GB": "Black-Brick Flooring",
-        "de": "Schwarzziegelboden",
-        "es": "Suelo ladrillo negro",
-        "fr": "Sol briques noires",
-        "it": "Pavimento mattoni neri",
-        "nl": "Zwarte bakstenen vloer",
-        "zh-CN": "黑色砖块地板",
-        "zh-TW": "黑色磚塊地板",
-        "jp": "くろレンガのゆか",
-        "ko": "검정 벽돌 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

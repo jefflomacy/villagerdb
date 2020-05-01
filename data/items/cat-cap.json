@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 480
         }
-      ],
-      "name": {
-        "de": "Katzenmütze",
-        "en-GB": "Cat Cap",
-        "en-US": "Cat Cap",
-        "es": "Gorro de gato",
-        "fr": "Cagoule chat",
-        "it": "Cappello gatto",
-        "ja": "ネコのかぶりもの"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -47,19 +38,6 @@
         "navy-blue": "Navy blue",
         "brown": "Brown",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Cat Cap",
-        "en-GB": "Cat Cap",
-        "de": "Katzenmütze",
-        "es": "Gorro de gato",
-        "fr": "Cagoule chat",
-        "it": "Cappello da gatto",
-        "nl": "Kattenmuts",
-        "zh-CN": "猫头套",
-        "zh-TW": "貓頭套",
-        "jp": "ネコのかぶりもの",
-        "ko": "고양이 모자"
       }
     }
   }

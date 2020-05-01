@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Crucian Carp"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 160
-      },
-      "name": {
-        "en-US": "Crucian Carp",
-        "en-GB": "Crucian Carp",
-        "de": "Karausche",
-        "es": "Carpín",
-        "fr": "Carassin",
-        "it": "Carassio",
-        "nl": "Kroeskarper",
-        "zh-CN": "鲫鱼",
-        "zh-TW": "鯽魚",
-        "jp": "フナ",
-        "ko": "붕어"
       }
     }
   }

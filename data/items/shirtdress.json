@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 680
         }
-      ],
-      "name": {
-        "en-US": "Shirtdress"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -40,19 +37,6 @@
         "navy-blue": "Navy blue",
         "beige": "Beige",
         "olive": "Olive"
-      },
-      "name": {
-        "en-US": "Shirtdress",
-        "en-GB": "Shirtdress",
-        "de": "Hemdkleid",
-        "es": "Vestido camisero",
-        "fr": "Robe chemisier",
-        "it": "Camicione",
-        "nl": "Overhemdjurk",
-        "zh-CN": "衬衫连身裙",
-        "zh-TW": "襯衫連身裙",
-        "jp": "シャツワンピ",
-        "ko": "셔츠 원피스"
       }
     }
   }

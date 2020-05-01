@@ -23,16 +23,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "de": "Frühlingspulli",
-        "en-GB": "Spring Shirt",
-        "en-US": "Spring Shirt",
-        "es": "Jersey copitos",
-        "fr": "Pull pastel",
-        "it": "Maglione primavera",
-        "ja": "はながらのニット"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -48,10 +39,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Spring Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -67,10 +55,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Spring Shirt"
-      }
+      ]
     }
   }
 }

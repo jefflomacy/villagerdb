@@ -23,16 +23,7 @@
           "currency": "bells",
           "value": 600
         }
-      ],
-      "name": {
-        "de": "Skimaske",
-        "en-GB": "Ski Mask",
-        "en-US": "Ski Mask",
-        "es": "Pasamontañas",
-        "fr": "Cagoule",
-        "it": "Passamontagna",
-        "ja": "めだしぼう"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -51,19 +42,6 @@
         "lime": "Lime",
         "red": "Red",
         "blue": "Blue"
-      },
-      "name": {
-        "en-US": "Ski Mask",
-        "en-GB": "Ski Mask",
-        "de": "Skimaske",
-        "es": "Pasamontañas",
-        "fr": "Cagoule",
-        "it": "Passamontagna",
-        "nl": "Bivakmuts",
-        "zh-CN": "全罩式头套",
-        "zh-TW": "全罩式頭套",
-        "jp": "めだしぼう",
-        "ko": "복면 마스크"
       }
     }
   }

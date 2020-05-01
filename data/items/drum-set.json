@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 1800
         }
-      ],
-      "name": {
-        "de": "Schlagzeug",
-        "en-GB": "Drum Set",
-        "en-US": "Drum Set",
-        "es": "Batería",
-        "fr": "Batterie classique",
-        "it": "Batteria",
-        "ja": "ドラムセット"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -91,19 +82,6 @@
         "black-white-white-with-logo": "Black & white / White with logo",
         "black-white-rock-logo": "Black & white / Rock logo",
         "black-white-vintage-logo": "Black & white / Vintage logo"
-      },
-      "name": {
-        "en-US": "Drum Set",
-        "en-GB": "Drum Set",
-        "de": "Schlagzeug",
-        "es": "Batería",
-        "fr": "Batterie classique",
-        "it": "Batteria",
-        "nl": "Drumstel",
-        "zh-CN": "爵士鼓组合",
-        "zh-TW": "爵士鼓組合",
-        "jp": "ドラムセット",
-        "ko": "드럼"
       }
     }
   }

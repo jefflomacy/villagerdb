@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Lobby Flooring",
-        "en-GB": "Lobby Flooring",
-        "de": "Lobby-Boden",
-        "es": "Moqueta recepción",
-        "fr": "Sol vestibule",
-        "it": "Pavimento reception",
-        "nl": "Lobbyvloer",
-        "zh-CN": "大厅地板",
-        "zh-TW": "大廳地板",
-        "jp": "ロビーのゆか",
-        "ko": "로비 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

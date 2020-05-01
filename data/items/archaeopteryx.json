@@ -11,16 +11,7 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ],
-      "name": {
-        "de": "Archaeopteryx",
-        "en-GB": "Archaeopteryx",
-        "en-US": "Archaeopteryx",
-        "es": "Arqueoptérix",
-        "fr": "Archéoptéryx",
-        "it": "Archaeopteryx",
-        "ja": "しそちょう"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -30,19 +21,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1300
-      },
-      "name": {
-        "en-US": "Archaeopteryx",
-        "en-GB": "Archaeopteryx",
-        "de": "Archaeopteryx",
-        "es": "Arqueoptérix",
-        "fr": "Archéoptéryx",
-        "it": "Archaeopteryx",
-        "nl": "Archeopteryx",
-        "zh-CN": "始祖鸟",
-        "zh-TW": "始祖鳥",
-        "jp": "しそちょう",
-        "ko": "시조새"
       }
     }
   }

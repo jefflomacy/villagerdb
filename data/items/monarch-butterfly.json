@@ -11,10 +11,7 @@
       },
       "sources": [
         "Around flowers."
-      ],
-      "name": {
-        "en-US": "Monarch Butterfly"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 140
-      },
-      "name": {
-        "en-US": "Monarch Butterfly",
-        "en-GB": "Monarch Butterfly",
-        "de": "Monarchfalter",
-        "es": "Mariposa monarca",
-        "fr": "Monarque",
-        "it": "Farfalla monarca",
-        "nl": "Monarchvlinder",
-        "zh-CN": "大桦斑蝶",
-        "zh-TW": "大樺斑蝶",
-        "jp": "オオカバマダラ",
-        "ko": "왕나비"
       }
     }
   }

@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 240
         }
-      ],
-      "name": {
-        "de": "Schülerhut",
-        "en-GB": "School Hat",
-        "en-US": "School Hat",
-        "es": "Gorra de colegio",
-        "fr": "Chapeau d'écolier",
-        "it": "Cappello da scolaro",
-        "ja": "つうがくぼう"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -45,19 +36,6 @@
       "variations": {
         "yellow": "Yellow",
         "navy-blue": "Navy blue"
-      },
-      "name": {
-        "en-US": "School Hat",
-        "en-GB": "School Hat",
-        "de": "Schülerhut",
-        "es": "Gorra de colegio",
-        "fr": "Chapeau d'écolier",
-        "it": "Cappello da scolaro",
-        "nl": "Japanse schoolhoedje",
-        "zh-CN": "上学帽",
-        "zh-TW": "上學帽",
-        "jp": "つうがくぼう",
-        "ko": "유치원생 모자"
       }
     }
   }

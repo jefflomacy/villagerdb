@@ -26,16 +26,7 @@
           "currency": "bells",
           "value": 640
         }
-      ],
-      "name": {
-        "de": "Samurairüstung",
-        "en-GB": "Samurai Shirt",
-        "en-US": "Samurai Shirt",
-        "es": "Coraza samurái",
-        "fr": "Cuirasse samouraï",
-        "it": "Armatura samurai",
-        "ja": "かっちゅう"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -54,19 +45,6 @@
         "blue": "Blue",
         "white": "White",
         "golden-yellow": "Golden yellow"
-      },
-      "name": {
-        "en-US": "Samurai Shirt",
-        "en-GB": "Samurai Shirt",
-        "de": "Samurairüstung",
-        "es": "Coraza de samurái",
-        "fr": "Cuirasse de samouraï",
-        "it": "Armatura da samurai",
-        "nl": "Samoeraituniek",
-        "zh-CN": "盔甲",
-        "zh-TW": "盔甲",
-        "jp": "かっちゅう",
-        "ko": "일본 무사 갑옷"
       }
     }
   }

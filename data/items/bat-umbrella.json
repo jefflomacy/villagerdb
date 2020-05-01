@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Bat Umbrella"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -36,20 +33,7 @@
           "currency": "bells",
           "value": 840
         }
-      ],
-      "name": {
-        "en-US": "Bat Umbrella",
-        "en-GB": "Bat Umbrella",
-        "de": "Flederschirm",
-        "es": "Paraguas negro",
-        "fr": "Parapluie noir",
-        "it": "Ombrello tetro",
-        "nl": "Vleermuisparaplu",
-        "zh-CN": "蝙蝠雨伞",
-        "zh-TW": "蝙蝠雨傘",
-        "jp": "こうもりがさ",
-        "ko": "박쥐 우산"
-      }
+      ]
     }
   }
 }

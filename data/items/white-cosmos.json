@@ -17,10 +17,7 @@
           "currency": "bells",
           "value": 160
         }
-      ],
-      "name": {
-        "en-US": "White Cosmos"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -37,20 +34,7 @@
           "currency": "bells",
           "value": 160
         }
-      ],
-      "name": {
-        "en-US": "White Cosmos",
-        "en-GB": "White Cosmos",
-        "de": "Weißcosmeen",
-        "es": "Cosmos blancos",
-        "fr": "Cosmos blancs",
-        "it": "Cosmee bianche",
-        "nl": "Witte cosmea's",
-        "zh-CN": "白色波斯菊",
-        "zh-TW": "白色波斯菊",
-        "jp": "しろいコスモス",
-        "ko": "하얀 코스모스"
-      }
+      ]
     }
   }
 }

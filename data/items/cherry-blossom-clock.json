@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 4160
         }
-      ],
-      "name": {
-        "de": "Kirschblütenuhr",
-        "en-GB": "Cherry-Blossom Clock",
-        "en-US": "Cherry-Blossom Clock",
-        "es": "Reloj flor de cerezo",
-        "fr": "Horloge cerisier",
-        "it": "Orol. fiore ciliegio",
-        "ja": "さくらクロック"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -45,19 +36,6 @@
       "variations": {
         "pink": "Pink",
         "pink-white": "Pink-white"
-      },
-      "name": {
-        "en-US": "Cherry-Blossom Clock",
-        "en-GB": "Cherry-Blossom Clock",
-        "de": "Kirschblütenuhr",
-        "es": "Reloj flor de cerezo",
-        "fr": "Horloge cerisier",
-        "it": "Orologio fiore di ciliegio",
-        "nl": "Kersenbloesemklok",
-        "zh-CN": "樱花时钟",
-        "zh-TW": "櫻花時鐘",
-        "jp": "さくらクロック",
-        "ko": "벚꽃 시계"
       }
     }
   }

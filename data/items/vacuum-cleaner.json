@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 1200
         }
-      ],
-      "name": {
-        "de": "Staubsauger",
-        "en-GB": "Vacuum Cleaner",
-        "en-US": "Vacuum Cleaner",
-        "es": "Aspiradora",
-        "fr": "Aspirateur",
-        "it": "Aspirapolvere",
-        "ja": "そうじき"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "green": "Green",
         "gray": "Gray",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Vacuum Cleaner",
-        "en-GB": "Vacuum Cleaner",
-        "de": "Staubsauger",
-        "es": "Aspiradora",
-        "fr": "Aspirateur",
-        "it": "Aspirapolvere",
-        "nl": "Stofzuiger",
-        "zh-CN": "吸尘器",
-        "zh-TW": "吸塵器",
-        "jp": "そうじき",
-        "ko": "청소기"
       }
     }
   }

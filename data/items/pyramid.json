@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 3800
         }
-      ],
-      "name": {
-        "de": "Pyramide",
-        "en-GB": "Pyramid",
-        "en-US": "Pyramid",
-        "es": "Pirámide",
-        "fr": "Pyramide",
-        "it": "Piramide",
-        "ja": "ピラミッド"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -46,20 +37,7 @@
           "currency": "bells",
           "value": 9200
         }
-      ],
-      "name": {
-        "en-US": "Pyramid",
-        "en-GB": "Pyramid",
-        "de": "Pyramide",
-        "es": "Pirámide",
-        "fr": "Pyramide",
-        "it": "Piramide",
-        "nl": "Piramide",
-        "zh-CN": "金字塔",
-        "zh-TW": "金字塔",
-        "jp": "ピラミッド",
-        "ko": "피라미드"
-      }
+      ]
     }
   }
 }

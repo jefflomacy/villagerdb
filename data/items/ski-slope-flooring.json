@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 12800
         }
-      ],
-      "name": {
-        "en-US": "Ski-Slope Flooring",
-        "en-GB": "Ski-Slope Flooring",
-        "de": "Skipistenboden",
-        "es": "Suelo esquí",
-        "fr": "Sol piste de ski",
-        "it": "Pavimento pista da sci",
-        "nl": "Skihellingvloer",
-        "zh-CN": "滑雪场地板",
-        "zh-TW": "滑雪場地板",
-        "jp": "ゲレンデのゆか",
-        "ko": "스키장 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

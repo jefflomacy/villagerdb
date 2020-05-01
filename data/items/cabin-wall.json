@@ -28,10 +28,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Cabin Wall"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -46,19 +43,6 @@
       ],
       "recipe": {
         "hardwood": 15
-      },
-      "name": {
-        "en-US": "Cabin Wall",
-        "en-GB": "Cabin Wall",
-        "de": "Blockhauswand",
-        "es": "Pared cabaña",
-        "fr": "Mur chalet",
-        "it": "Muro rustico",
-        "nl": "Blokhutwand",
-        "zh-CN": "木屋墙",
-        "zh-TW": "木屋牆",
-        "jp": "ログハウスのかべ",
-        "ko": "통나무집 벽"
       }
     }
   }

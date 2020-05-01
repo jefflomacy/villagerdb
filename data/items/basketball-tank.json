@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Basketballtrikot",
-        "en-GB": "Basketball Tank",
-        "en-US": "Basketball Tank",
-        "es": "Top básquet",
-        "fr": "Débardeur basketball",
-        "it": "Canotta basket",
-        "ja": "バスケシャツ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "yellow": "Yellow",
         "light-blue": "Light blue",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Basketball Tank",
-        "en-GB": "Basketball Tank",
-        "de": "Basketballtrikot",
-        "es": "Top básquet",
-        "fr": "Débardeur basketball",
-        "it": "Canotta da basket",
-        "nl": "Basketbalshirt",
-        "zh-CN": "篮球衣",
-        "zh-TW": "籃球衣",
-        "jp": "バスケシャツ",
-        "ko": "농구복 상의"
       }
     }
   }

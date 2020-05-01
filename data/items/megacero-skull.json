@@ -14,16 +14,7 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ],
-      "name": {
-        "de": "Megacerops-Schädel",
-        "en-GB": "Megacero Skull",
-        "en-US": "Megacero Skull",
-        "es": "Cráneo brontoterio",
-        "fr": "Crâne de bronto",
-        "it": "Teschio brontoterio",
-        "ja": "ブロントテリウムのあたま"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -33,19 +24,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4500
-      },
-      "name": {
-        "en-US": "Megacero Skull",
-        "en-GB": "Megacero Skull",
-        "de": "Megacerops-Schädel",
-        "es": "Cráneo brontoterio",
-        "fr": "Crâne de brontothérium",
-        "it": "Cranio brontoterio",
-        "nl": "Brontopskop",
-        "zh-CN": "巨角犀的头",
-        "zh-TW": "巨角犀的頭",
-        "jp": "メガセロプスのあたま",
-        "ko": "메가케롭스의 머리"
       }
     }
   }

@@ -22,10 +22,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "Two Days Ago"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "Two Days Ago",
-        "en-GB": "Two Days Ago",
-        "de": "Vorgestern",
-        "es": "Anteayer",
-        "fr": "2 jours plus tôt",
-        "it": "Due giorni fa",
-        "nl": "Eergisteren",
-        "zh-CN": "前天",
-        "zh-TW": "前天",
-        "jp": "おととい",
-        "ko": "이틀 전",
-        "ru": "Два дня назад"
-      }
+      ]
     }
   }
 }

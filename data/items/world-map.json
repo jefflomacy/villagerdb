@@ -11,16 +11,7 @@
       },
       "sources": [
         "Katie"
-      ],
-      "name": {
-        "de": "Weltkarte",
-        "en-GB": "World Map",
-        "en-US": "World Map",
-        "es": "Mapamundi",
-        "fr": "Carte du monde",
-        "it": "Planisfero",
-        "ja": "せかいちず"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -32,20 +23,7 @@
           "currency": "bells",
           "value": 640
         }
-      ],
-      "name": {
-        "en-US": "World Map",
-        "en-GB": "World Map",
-        "de": "Weltkarte",
-        "es": "Mapamundi",
-        "fr": "Mappemonde",
-        "it": "Planisfero",
-        "nl": "Wereldkaart",
-        "zh-CN": "世界地图",
-        "zh-TW": "世界地圖",
-        "jp": "せかいちず",
-        "ko": "세계 지도"
-      }
+      ]
     }
   }
 }

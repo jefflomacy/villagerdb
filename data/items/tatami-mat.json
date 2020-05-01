@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 1500
         }
-      ],
-      "name": {
-        "en-US": "Tatami Mat",
-        "en-GB": "Tatami Mat",
-        "de": "Tatami-Matte",
-        "es": "Alfombra japonesa",
-        "fr": "Tatami",
-        "it": "Tappetino tatami",
-        "nl": "Tatamimat",
-        "zh-CN": "一张榻榻米",
-        "zh-TW": "一張榻榻米",
-        "jp": "いちじょうのたたみ",
-        "ko": "일본식 짚 깔개"
-      }
+      ]
     }
   },
   "category": "Flooring"

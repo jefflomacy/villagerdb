@@ -14,16 +14,7 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ],
-      "name": {
-        "de": "Triceratops-Schädel",
-        "en-GB": "Tricera Skull",
-        "en-US": "Tricera Skull",
-        "es": "Cráneo triceratops",
-        "fr": "Crâne de tricératops",
-        "it": "Teschio triceratopo",
-        "ja": "トリケラトプスのあたま"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -33,19 +24,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5500
-      },
-      "name": {
-        "en-US": "Tricera Skull",
-        "en-GB": "Tricera Skull",
-        "de": "Triceratops-Schädel",
-        "es": "Cráneo triceratops",
-        "fr": "Crâne de tricératops",
-        "it": "Cranio triceratopo",
-        "nl": "Triceratopskop",
-        "zh-CN": "三角龙的头",
-        "zh-TW": "三角龍的頭",
-        "jp": "トリケラトプスのあたま",
-        "ko": "트리케라톱스의 머리"
       }
     }
   }

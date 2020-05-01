@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 1400
         }
-      ],
-      "name": {
-        "de": "Schaukelstuhl",
-        "en-GB": "Rocking Chair",
-        "en-US": "Rocking Chair",
-        "es": "Mecedora",
-        "fr": "Rocking-chair",
-        "it": "Sedia a dondolo",
-        "ja": "ロッキングチェア"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -48,19 +39,6 @@
         "dark-wood": "Dark wood",
         "white": "White",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Rocking Chair",
-        "en-GB": "Rocking Chair",
-        "de": "Schaukelstuhl",
-        "es": "Mecedora",
-        "fr": "Rocking-Chair",
-        "it": "Sedia a dondolo",
-        "nl": "Schommelstoel",
-        "zh-CN": "摇椅",
-        "zh-TW": "搖椅",
-        "jp": "ロッキングチェア",
-        "ko": "흔들의자"
       }
     }
   }

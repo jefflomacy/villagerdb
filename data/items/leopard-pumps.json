@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 4000
         }
-      ],
-      "name": {
-        "de": "Leopardenschuh",
-        "en-GB": "Leopard Pumps",
-        "en-US": "Leopard Pumps",
-        "es": "Manoletina leopardo",
-        "fr": "P. ballerin. léopard",
-        "it": "P. ballerine leopar.",
-        "ja": "アニマルパンプス"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -49,19 +40,6 @@
         "green": "Green",
         "purple": "Purple",
         "pink": "Pink"
-      },
-      "name": {
-        "en-US": "Leopard Pumps",
-        "en-GB": "Leopard Pumps",
-        "de": "Paars Leopardenschuhe",
-        "es": "Manoletina de leopardo",
-        "fr": "Paire de ballerines léopard",
-        "it": "Paio di ballerine maculate",
-        "nl": "Luipaardpumps",
-        "zh-CN": "豹纹浅口鞋",
-        "zh-TW": "豹紋低跟鞋",
-        "jp": "アニマルパンプス",
-        "ko": "레오파드 펌프스"
       }
     }
   }

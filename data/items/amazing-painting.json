@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3920
         }
-      ],
-      "name": {
-        "en-US": "Amazing Painting"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -44,19 +41,6 @@
       "variations": {
         "real": "Real",
         "fake": "Fake"
-      },
-      "name": {
-        "en-US": "Amazing Painting",
-        "en-GB": "Amazing Painting",
-        "de": "Enormgemälde",
-        "es": "Cuadro holandés",
-        "fr": "Toile incroyable",
-        "it": "Quadro stupendo",
-        "nl": "Sublieme schilderij",
-        "zh-CN": "惊人的名画",
-        "zh-TW": "驚人的名畫",
-        "jp": "すごいめいが",
-        "ko": "대단한 명화"
       }
     }
   }

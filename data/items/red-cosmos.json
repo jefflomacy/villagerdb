@@ -17,10 +17,7 @@
           "currency": "bells",
           "value": 160
         }
-      ],
-      "name": {
-        "en-US": "Red Cosmos"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -37,20 +34,7 @@
           "currency": "bells",
           "value": 160
         }
-      ],
-      "name": {
-        "en-US": "Red Cosmos",
-        "en-GB": "Red Cosmos",
-        "de": "Rotcosmea",
-        "es": "Cosmos rojo",
-        "fr": "Cosmos rouge",
-        "it": "Cosmea rossa",
-        "nl": "Rode cosmea",
-        "zh-CN": "红色波斯菊",
-        "zh-TW": "紅色波斯菊",
-        "jp": "あかいコスモス",
-        "ko": "빨간 코스모스"
-      }
+      ]
     }
   }
 }

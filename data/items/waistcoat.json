@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 5400
         }
-      ],
-      "name": {
-        "de": "Weste mit Hemd",
-        "en-GB": "Waistcoat",
-        "en-US": "Waistcoat",
-        "es": "Chaleco fino",
-        "fr": "Gilet de smoking",
-        "it": "Gilet classico",
-        "ja": "ベストつきワイシャツ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +39,6 @@
         "beige": "Beige",
         "white": "White",
         "navy-blue": "Navy blue"
-      },
-      "name": {
-        "en-US": "Waistcoat",
-        "en-GB": "Waistcoat",
-        "de": "Weste mit Hemd",
-        "es": "Chaleco fino",
-        "fr": "Gilet de smoking",
-        "it": "Gilet classico",
-        "nl": "Gilet",
-        "zh-CN": "配西装背心衬衫",
-        "zh-TW": "西裝背心配襯衫",
-        "jp": "ベストつきワイシャツ",
-        "ko": "베스트&와이셔츠"
       }
     }
   }

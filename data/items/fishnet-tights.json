@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 240
         }
-      ],
-      "name": {
-        "de": "Modestrumpfhose",
-        "en-GB": "Crocheted Tights",
-        "en-US": "Fishnet Tights",
-        "es": "Media de rejilla",
-        "fr": "Collant filet",
-        "it": "Paio calze a rete",
-        "ja": "あみタイツ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -46,19 +37,6 @@
         "black": "Black",
         "white": "White",
         "red": "Red"
-      },
-      "name": {
-        "en-US": "Fishnet Tights",
-        "en-GB": "Fishnet Tights",
-        "de": "Modestrumpfhose",
-        "es": "Media de rejilla",
-        "fr": "Collant filet",
-        "it": "Paio di calze a rete",
-        "nl": "Netpanty",
-        "zh-CN": "网袜",
-        "zh-TW": "網襪",
-        "jp": "あみタイツ",
-        "ko": "망사 타이츠"
       }
     }
   }

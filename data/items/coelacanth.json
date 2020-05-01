@@ -11,10 +11,7 @@
       },
       "sources": [
         "In the ocean when it is raining."
-      ],
-      "name": {
-        "en-US": "Coelacanth"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 15000
-      },
-      "name": {
-        "en-US": "Coelacanth",
-        "en-GB": "Coelacanth",
-        "de": "Quastenflosser",
-        "es": "Celacanto",
-        "fr": "Cœlacanthe",
-        "it": "Celacanto",
-        "nl": "Coelacant",
-        "zh-CN": "矛尾鱼",
-        "zh-TW": "矛尾魚",
-        "jp": "シーラカンス",
-        "ko": "실러캔스"
       }
     }
   }

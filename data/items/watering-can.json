@@ -11,10 +11,7 @@
       },
       "sources": [
         "Gardening Store"
-      ],
-      "name": {
-        "en-US": "Watering Can"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -36,19 +33,6 @@
         "pink": "Pink",
         "white": "White",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Watering Can",
-        "en-GB": "Watering Can",
-        "de": "Gießkanne",
-        "es": "Regadera",
-        "fr": "Arrosoir",
-        "it": "Annaffiatoio",
-        "nl": "Gieter",
-        "zh-CN": "浇花壶",
-        "zh-TW": "澆花壺",
-        "jp": "ジョウロ",
-        "ko": "물뿌리개"
       }
     }
   }

@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "Stale Cupcakes"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -36,21 +33,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "Stale Cupcakes",
-        "en-GB": "Stale Cupcakes",
-        "de": "Alter Kuchen",
-        "es": "Pastelito seco",
-        "fr": "Vieux biscuits",
-        "it": "Vecchi dolcetti",
-        "nl": "Oude cupcakes",
-        "zh-CN": "蓝色饭团",
-        "zh-TW": "藍色飯糰",
-        "jp": "ブルーおにぎり",
-        "ko": "블루 삼각 김밥",
-        "ru": "Черствые капкейки"
-      }
+      ]
     }
   }
 }

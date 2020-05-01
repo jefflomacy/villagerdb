@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Beatnik-Pulli",
-        "en-GB": "Beatnik Shirt",
-        "en-US": "Beatnik Shirt",
-        "es": "Jersey beatnik",
-        "fr": "Pull beatnik",
-        "it": "Maglia hipster",
-        "ja": "くろあかラガーシャツL"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "en-US": "Beatnik Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "en-US": "Beatnik Shirt"
-      }
+      ]
     }
   }
 }

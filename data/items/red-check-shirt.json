@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Rotweiß-Pulli",
-        "en-GB": "Red-Check Shirt",
-        "en-US": "Red-Check Shirt",
-        "es": "Jersey trapo rojo",
-        "fr": "Pull carrés rouge",
-        "it": "Maglia tovaglia",
-        "ja": "あかチェックのふくL"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 330
         }
-      ],
-      "name": {
-        "en-US": "Red-Check Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 330
         }
-      ],
-      "name": {
-        "en-US": "Red-Check Shirt"
-      }
+      ]
     }
   }
 }

@@ -17,10 +17,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Beach Umbrella"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -32,20 +29,7 @@
           "currency": "bells",
           "value": 770
         }
-      ],
-      "name": {
-        "en-US": "Beach Umbrella",
-        "en-GB": "Beach Umbrella",
-        "de": "Strandschirm",
-        "es": "Paraguas playa",
-        "fr": "Parapluie de plage",
-        "it": "Ombrello da mare",
-        "nl": "Strandbalparaplu",
-        "zh-CN": "沙滩伞",
-        "zh-TW": "沙灘傘",
-        "jp": "ビーチなかさ",
-        "ko": "해변가 우산"
-      }
+      ]
     }
   }
 }

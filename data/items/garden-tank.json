@@ -24,16 +24,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Gartentop",
-        "en-GB": "Garden Tank",
-        "en-US": "Garden Tank",
-        "es": "Top flores",
-        "fr": "Débardeur jardin",
-        "it": "Canotta millefiori",
-        "ja": "はながらのプリントキャミ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -51,19 +42,6 @@
         "blue": "Blue",
         "orange": "Orange",
         "green": "Green"
-      },
-      "name": {
-        "en-US": "Garden Tank",
-        "en-GB": "Garden Tank",
-        "de": "Gartentop",
-        "es": "Top flores",
-        "fr": "Débardeur jardin",
-        "it": "Canotta millefiori",
-        "nl": "Gebloemde hemdje",
-        "zh-CN": "花朵图案细肩带背心",
-        "zh-TW": "花紋圖案細肩帶背心",
-        "jp": "はながらのプリントキャミ",
-        "ko": "꽃무늬 캐미솔"
       }
     }
   }

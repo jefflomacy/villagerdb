@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Stadium Wall"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -29,20 +26,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Stadium Wall",
-        "en-GB": "Stadium Wall",
-        "de": "Stadiontapete",
-        "es": "Pared graderío",
-        "fr": "Mur stade",
-        "it": "Muro stadio",
-        "nl": "Stadionwand",
-        "zh-CN": "体育场墙",
-        "zh-TW": "體育場牆",
-        "jp": "スタジアムのかべ",
-        "ko": "스타디움 벽"
-      }
+      ]
     }
   }
 }

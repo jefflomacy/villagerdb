@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 240
         }
-      ],
-      "name": {
-        "de": "Sternhaarnadel",
-        "en-GB": "Star Hairpin",
-        "en-US": "Star Hairpin",
-        "es": "Clip estrella",
-        "fr": "épingle étoile",
-        "it": "Molletta stella",
-        "ja": "ほしのかみかざり"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +39,6 @@
         "purple": "Purple",
         "mint": "Mint",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Star Hairpin",
-        "en-GB": "Star Hairpin",
-        "de": "Sternhaarnadel",
-        "es": "Clip estrella",
-        "fr": "Épingle étoile",
-        "it": "Molletta stella",
-        "nl": "Sterrenhaarspeld",
-        "zh-CN": "星星发夹",
-        "zh-TW": "星星髮飾",
-        "jp": "ほしのかみかざり",
-        "ko": "별 머리핀"
       }
     }
   }

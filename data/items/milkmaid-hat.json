@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "de": "Trachtenhaube",
-        "en-GB": "Milkmaid Hat",
-        "en-US": "Milkmaid Hat",
-        "es": "Tocado holandés",
-        "fr": "Chapeau hollandais",
-        "it": "Cuffia olandese",
-        "ja": "オランダのぼうし"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -45,19 +36,6 @@
       ],
       "variations": {
         "white": "White"
-      },
-      "name": {
-        "en-US": "Milkmaid Hat",
-        "en-GB": "Milkmaid Hat",
-        "de": "Trachtenhaube",
-        "es": "Tocado holandés",
-        "fr": "Chapeau hollandais",
-        "it": "Cuffia olandese",
-        "nl": "Melkmeisjesmuts",
-        "zh-CN": "荷兰帽子",
-        "zh-TW": "荷蘭帽子",
-        "jp": "オランダのぼうし",
-        "ko": "네덜란드 모자"
       }
     }
   }

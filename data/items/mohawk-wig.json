@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 480
         }
-      ],
-      "name": {
-        "de": "Irokesenperücke",
-        "en-GB": "Mohawk Wig",
-        "en-US": "Mohawk Wig",
-        "es": "Cresta india",
-        "fr": "Perruque iroquoise",
-        "it": "Parrucca da moicano",
-        "ja": "モヒカン"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -44,19 +35,6 @@
       ],
       "variations": {
         "hair-color": "Hair Color"
-      },
-      "name": {
-        "en-US": "Mohawk Wig",
-        "en-GB": "Mohawk Wig",
-        "de": "Irokesenperücke",
-        "es": "Cresta mohicana",
-        "fr": "Perruque iroquoise",
-        "it": "Parrucca da moicano",
-        "nl": "Hanenkampruik",
-        "zh-CN": "朋克头",
-        "zh-TW": "龐克頭",
-        "jp": "モヒカン",
-        "ko": "모히칸"
       }
     }
   }

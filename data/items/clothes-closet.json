@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 1340
         }
-      ],
-      "name": {
-        "de": "Kleiderschrank",
-        "en-GB": "Clothes Closet",
-        "en-US": "Clothes Closet",
-        "es": "Armario de tela",
-        "fr": "Penderie en tissu",
-        "it": "Appendiabiti",
-        "ja": "ファッションケース"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -51,19 +42,6 @@
         "blue": "Blue",
         "pink": "Pink",
         "light-blue": "Light blue"
-      },
-      "name": {
-        "en-US": "Clothes Closet",
-        "en-GB": "Clothes Closet",
-        "de": "Kleiderschrank",
-        "es": "Armario de tela",
-        "fr": "Penderie en tissu",
-        "it": "Armadio in tela",
-        "nl": "Kledingkast",
-        "zh-CN": "服饰收纳盒",
-        "zh-TW": "衣物櫃",
-        "jp": "ファッションケース",
-        "ko": "패션 케이스"
       }
     }
   }

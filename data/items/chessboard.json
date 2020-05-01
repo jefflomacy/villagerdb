@@ -16,19 +16,6 @@
       "variations": {
         "brown": "Brown",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Chessboard",
-        "en-GB": "Chessboard",
-        "de": "Schachbrett",
-        "es": "Tablero de ajedrez",
-        "fr": "Échiquier",
-        "it": "Scacchiera",
-        "nl": "Schaakbord",
-        "zh-CN": "西洋棋",
-        "zh-TW": "西洋棋",
-        "jp": "チェス",
-        "ko": "체스"
       }
     }
   },

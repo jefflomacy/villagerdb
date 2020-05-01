@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Schädelpulli",
-        "en-GB": "Skull Shirt",
-        "en-US": "Skull Shirt",
-        "es": "Jersey pirata",
-        "fr": "Pull crâne",
-        "it": "Maglia teschio",
-        "ja": "ドクロのふくL"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Skull Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Skull Shirt"
-      }
+      ]
     }
   }
 }

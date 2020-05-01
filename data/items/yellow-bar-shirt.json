@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Aprikosenpulli",
-        "en-GB": "Yellow-Bar Shirt",
-        "en-US": "Yellow-Bar Shirt",
-        "es": "Jersey toldo ocre",
-        "fr": "Pull raies orange",
-        "it": "Maglia bande gialle",
-        "ja": "きいろボーダーのふくL"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Yellow-Bar Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Yellow-Bar Shirt"
-      }
+      ]
     }
   }
 }

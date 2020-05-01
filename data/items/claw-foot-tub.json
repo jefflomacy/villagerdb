@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 1280
         }
-      ],
-      "name": {
-        "de": "Badewanne",
-        "en-GB": "Claw-Foot Tub",
-        "en-US": "Claw-Foot Tub",
-        "es": "Bañera",
-        "fr": "Baignoire à pieds",
-        "it": "Vasca da bagno",
-        "ja": "ねこあしバスタブ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -49,19 +40,6 @@
         "blue": "Blue",
         "pink": "Pink",
         "yellow": "Yellow"
-      },
-      "name": {
-        "en-US": "Claw-Foot Tub",
-        "en-GB": "Claw-Foot Tub",
-        "de": "Badewanne",
-        "es": "Bañera",
-        "fr": "Baignoire à pieds",
-        "it": "Vasca da bagno",
-        "nl": "Bad met klauwpoten",
-        "zh-CN": "古典浴缸",
-        "zh-TW": "古典浴缸",
-        "jp": "ねこあしバスタブ",
-        "ko": "럭셔리 욕조"
       }
     }
   }

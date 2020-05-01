@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 480
         }
-      ],
-      "name": {
-        "de": "Umkrempelhose",
-        "en-GB": "Cuffed Pants",
-        "en-US": "Cuffed Pants",
-        "es": "Pantalón bajo vuelto",
-        "fr": "Pantalon à revers",
-        "it": "Pantalone risvolti",
-        "ja": "すそみせズボン"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -47,19 +38,6 @@
         "purple": "Purple",
         "green": "Green",
         "gray": "Gray"
-      },
-      "name": {
-        "en-US": "Cuffed Pants",
-        "en-GB": "Cuffed Pants",
-        "de": "Umkrempelhose",
-        "es": "Pantalón bajo vuelto",
-        "fr": "Pantalon à revers",
-        "it": "Pantalone con risvolti",
-        "nl": "Omgeslagen broek",
-        "zh-CN": "反折裤",
-        "zh-TW": "反摺褲",
-        "jp": "すそみせズボン",
-        "ko": "롤업 바지"
       }
     }
   }

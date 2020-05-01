@@ -18,16 +18,7 @@
           "currency": "bells",
           "value": 2760
         }
-      ],
-      "name": {
-        "de": "Rasenmäher",
-        "en-GB": "Lawn Mower",
-        "en-US": "Lawn Mower",
-        "es": "Cortacésped",
-        "fr": "Tondeuse à gazon",
-        "it": "Tagliaerba",
-        "ja": "しばかりき"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -50,19 +41,6 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "green": "Green"
-      },
-      "name": {
-        "en-US": "Lawn Mower",
-        "en-GB": "Lawn Mower",
-        "de": "Rasenmäher",
-        "es": "Cortacésped",
-        "fr": "Tondeuse à gazon",
-        "it": "Tagliaerba",
-        "nl": "Grasmaaier",
-        "zh-CN": "割草机",
-        "zh-TW": "割草機",
-        "jp": "しばかりき",
-        "ko": "잔디 깎기"
       }
     }
   }

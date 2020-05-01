@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 1900
         }
-      ],
-      "name": {
-        "de": "Sekretär",
-        "en-GB": "Writing Desk",
-        "en-US": "Writing Desk",
-        "es": "Escritorio",
-        "fr": "Secrétaire",
-        "it": "Scrittoio",
-        "ja": "べんきょうづくえ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -53,19 +44,6 @@
         "light-brown": "Light brown",
         "dark-brown": "Dark brown",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Writing Desk",
-        "en-GB": "Writing Desk",
-        "de": "Lern-Schreibtisch",
-        "es": "Escritorio aprendizaje",
-        "fr": "Bureau d'études",
-        "it": "Scrivania da studio",
-        "nl": "Huiswerkbureau",
-        "zh-CN": "学习书桌",
-        "zh-TW": "學習書桌",
-        "jp": "がくしゅうデスク",
-        "ko": "공부 책상"
       }
     }
   }

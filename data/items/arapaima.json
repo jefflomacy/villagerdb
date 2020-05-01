@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Arapaima"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10000
-      },
-      "name": {
-        "en-US": "Arapaima",
-        "en-GB": "Arapaima",
-        "de": "Arapaima",
-        "es": "Pirarucú",
-        "fr": "Arapaïma",
-        "it": "Pirarucù",
-        "nl": "Arapaima",
-        "zh-CN": "巨骨舌鱼",
-        "zh-TW": "巨骨舌魚",
-        "jp": "ピラルク",
-        "ko": "피라루쿠"
       }
     }
   }

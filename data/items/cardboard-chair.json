@@ -14,16 +14,7 @@
       },
       "sources": [
         "Re-Tail (flea market) or Police Station (lost and found)"
-      ],
-      "name": {
-        "de": "Kartonhocker",
-        "en-GB": "Cardboard Chair",
-        "en-US": "Cardboard Chair",
-        "es": "Silla cartón",
-        "fr": "Siège carton",
-        "it": "Sgabello scatolone",
-        "ja": "ダンボールイス"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -38,19 +29,6 @@
       "variations": {
         "plain": "Plain",
         "labeled": "Labeled"
-      },
-      "name": {
-        "en-US": "Cardboard Chair",
-        "en-GB": "Cardboard Chair",
-        "de": "Kartonhocker",
-        "es": "Silla de cartón",
-        "fr": "Siège en carton",
-        "it": "Sgabello scatolone",
-        "nl": "Kartonnen stoel",
-        "zh-CN": "纸箱椅",
-        "zh-TW": "紙箱椅",
-        "jp": "ダンボールチェア",
-        "ko": "박스 의자"
       }
     }
   }

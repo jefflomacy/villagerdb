@@ -14,10 +14,7 @@
           "currency": "bells",
           "value": 8000
         }
-      ],
-      "name": {
-        "en-US": "Teacup Ride"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -39,19 +36,6 @@
         "gorgeous": "Gorgeous",
         "pastel": "Pastel",
         "cool": "Cool"
-      },
-      "name": {
-        "en-US": "Teacup Ride",
-        "en-GB": "Teacup Ride",
-        "de": "Drehkaffeetasse",
-        "es": "Atracción tazas giratorias",
-        "fr": "Manège tasses à café",
-        "it": "Giostra tazze da caffè",
-        "nl": "Theekopcarrousel",
-        "zh-CN": "旋转咖啡杯",
-        "zh-TW": "旋轉咖啡杯",
-        "jp": "まわるコーヒーカップ",
-        "ko": "빙글빙글 커피 잔"
       }
     }
   }

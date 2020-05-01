@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Soul"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Soul",
-        "en-GB": "K.K. Soul",
-        "de": "K.K. Soul",
-        "es": "Tota-Soul",
-        "fr": "Soul de Kéké",
-        "it": "K.K. Soul",
-        "nl": "K.K.-Soul",
-        "zh-CN": "K.K.灵魂乐",
-        "zh-TW": "K.K.靈魂樂",
-        "jp": "けけソウル",
-        "ko": "K.K.소울",
-        "ru": "Соул К. К."
-      }
+      ]
     }
   }
 }

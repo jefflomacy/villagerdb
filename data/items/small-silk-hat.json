@@ -23,16 +23,7 @@
           "currency": "bells",
           "value": 2400
         }
-      ],
-      "name": {
-        "de": "Mini-Seidenhut",
-        "en-GB": "Small Silk Hat",
-        "en-US": "Small Silk Hat",
-        "es": "Minichistera",
-        "fr": "Chapeau de cavalière",
-        "it": "Capp. di seta rossa",
-        "ja": "ちいさめシルクハット"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -49,19 +40,6 @@
         "purple": "Purple",
         "black": "Black",
         "red": "Red"
-      },
-      "name": {
-        "en-US": "Small Silk Hat",
-        "en-GB": "Small Silk Hat",
-        "de": "Mini-Seidenhut",
-        "es": "Minichistera",
-        "fr": "Chapeau de cavalière",
-        "it": "Cappello di seta piccolo",
-        "nl": "Zijden hoedje",
-        "zh-CN": "丝质小礼帽",
-        "zh-TW": "絲質小禮帽",
-        "jp": "ちいさめシルクハット",
-        "ko": "작은 실크해트"
       }
     }
   }

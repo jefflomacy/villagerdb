@@ -25,16 +25,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "de": "Astronautenjacke",
-        "en-GB": "Space Suit",
-        "en-US": "Space Suit",
-        "es": "Jersey espacial",
-        "fr": "Pull spatial",
-        "it": "Maglia spaziale",
-        "ja": "うちゅうふく"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -49,19 +40,6 @@
       ],
       "variations": {
         "white": "White"
-      },
-      "name": {
-        "en-US": "Space Suit",
-        "en-GB": "Space Suit",
-        "de": "Raumanzug",
-        "es": "Traje espacial",
-        "fr": "Combinaison spatiale",
-        "it": "Tuta spaziale",
-        "nl": "Ruimtepak",
-        "zh-CN": "航天服",
-        "zh-TW": "太空服",
-        "jp": "うちゅうふく",
-        "ko": "우주복"
       }
     }
   }

@@ -11,10 +11,7 @@
       },
       "sources": [
         "On trees."
-      ],
-      "name": {
-        "en-US": "Evening Cicada"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 550
-      },
-      "name": {
-        "en-US": "Evening Cicada",
-        "en-GB": "Evening Cicada",
-        "de": "Abendzikade",
-        "es": "Cigarrilla",
-        "fr": "Cigale higurashi",
-        "it": "Cicala notturna",
-        "nl": "Avondcicade",
-        "zh-CN": "暮蝉",
-        "zh-TW": "暮蟬",
-        "jp": "ヒグラシ",
-        "ko": "쓰르라미"
       }
     }
   }

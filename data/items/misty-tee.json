@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 380
         }
-      ],
-      "name": {
-        "de": "Nebelshirt",
-        "en-GB": "Misty Tee",
-        "en-US": "Misty Tee",
-        "es": "Camiseta bruma",
-        "fr": "T-shirt brume",
-        "it": "Maglietta nebbia",
-        "ja": "かすみのふく"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -44,19 +35,6 @@
       ],
       "variations": {
         "green": "Green"
-      },
-      "name": {
-        "en-US": "Misty Tee",
-        "en-GB": "Misty Tee",
-        "de": "Nebelshirt",
-        "es": "Camiseta bruma",
-        "fr": "T-Shirt brume",
-        "it": "Maglietta nebbia",
-        "nl": "Nevel-T-Shirt",
-        "zh-CN": "云雾上衣",
-        "zh-TW": "雲霧衣服",
-        "jp": "かすみのふく",
-        "ko": "봄안개 옷"
       }
     }
   }

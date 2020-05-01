@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Frog"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 120
-      },
-      "name": {
-        "en-US": "Frog",
-        "en-GB": "Frog",
-        "de": "Frosch",
-        "es": "Rana",
-        "fr": "Grenouille",
-        "it": "Rana",
-        "nl": "Kikker",
-        "zh-CN": "青蛙",
-        "zh-TW": "青蛙",
-        "jp": "カエル",
-        "ko": "개구리"
       }
     }
   }

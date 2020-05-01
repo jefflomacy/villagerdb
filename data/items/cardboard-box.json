@@ -26,16 +26,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Karton",
-        "en-GB": "Cardboard Box",
-        "en-US": "Cardboard Box",
-        "es": "Caja de cartón",
-        "fr": "Boîte en carton",
-        "it": "Scatolone",
-        "ja": "ダンボール"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -57,19 +48,6 @@
         "peaches": "Peaches",
         "pears": "Pears",
         "cherries": "Cherries"
-      },
-      "name": {
-        "en-US": "Cardboard Box",
-        "en-GB": "Cardboard Box",
-        "de": "Karton",
-        "es": "Caja de cartón",
-        "fr": "Boîte en carton",
-        "it": "Scatolone",
-        "nl": "Kartonnen doos",
-        "zh-CN": "纸箱",
-        "zh-TW": "紙箱",
-        "jp": "ダンボール",
-        "ko": "종이 상자"
       }
     }
   }

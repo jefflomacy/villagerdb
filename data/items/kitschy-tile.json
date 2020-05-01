@@ -27,10 +27,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Kitschy Tile"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -43,20 +40,7 @@
           "currency": "bells",
           "value": 1280
         }
-      ],
-      "name": {
-        "en-US": "Kitschy Tile",
-        "en-GB": "Kitschy Tile",
-        "de": "70Er-Kachelboden",
-        "es": "Losa kitsch",
-        "fr": "Carrelage kitsch",
-        "it": "Pavimento kitsch",
-        "nl": "Kitscherige tegelvloer",
-        "zh-CN": "庸俗地板",
-        "zh-TW": "庸俗地板",
-        "jp": "キッチュなゆか",
-        "ko": "어지러운 바닥"
-      }
+      ]
     }
   }
 }

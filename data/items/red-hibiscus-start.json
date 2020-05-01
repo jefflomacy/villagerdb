@@ -13,10 +13,7 @@
           "currency": "bells",
           "value": 5
         }
-      ],
-      "name": {
-        "en-US": "Red-Hibiscus Start"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -32,20 +29,7 @@
           "currency": "bells",
           "value": 280
         }
-      ],
-      "name": {
-        "en-US": "Red-Hibiscus Start",
-        "en-GB": "Red-Hibiscus Start",
-        "de": "Bluthibiskussetzling",
-        "es": "Hibisco rojo de vivero",
-        "fr": "Pousse d'hibiscus rouge",
-        "it": "Germoglio di ibisco rosso",
-        "nl": "Rode-Hibiscus-Zaailing",
-        "zh-CN": "红色扶桑花苗",
-        "zh-TW": "紅色扶桑花苗",
-        "jp": "あかいハイビスカスのなえ",
-        "ko": "빨간 히비스커스 묘목"
-      }
+      ]
     }
   }
 }

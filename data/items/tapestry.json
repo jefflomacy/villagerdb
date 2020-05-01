@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 800
         }
-      ],
-      "name": {
-        "de": "Wandteppich",
-        "en-GB": "Tapestry",
-        "en-US": "Tapestry",
-        "es": "Tapiz",
-        "fr": "Tapisserie",
-        "it": "Arazzo",
-        "ja": "タペストリー"
-      }
+      ]
     },
     "nh": {
       "customizable": false,
@@ -50,19 +41,6 @@
         "fairy-tale": "Fairy tale",
         "bird": "Bird",
         "snow": "Snow"
-      },
-      "name": {
-        "en-US": "Tapestry",
-        "en-GB": "Tapestry",
-        "de": "Wandteppich",
-        "es": "Tapiz",
-        "fr": "Tapisserie",
-        "it": "Arazzo",
-        "nl": "Wandtapijt",
-        "zh-CN": "壁毯",
-        "zh-TW": "壁毯",
-        "jp": "タペストリー",
-        "ko": "태피스트리"
       }
     }
   }

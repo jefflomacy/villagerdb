@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 1780
         }
-      ],
-      "name": {
-        "en-US": "Lattice Wall"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -39,20 +36,7 @@
           "currency": "bells",
           "value": 1780
         }
-      ],
-      "name": {
-        "en-US": "Lattice Wall",
-        "en-GB": "Lattice Wall",
-        "de": "Pavillonwand",
-        "es": "Pared celosía",
-        "fr": "Mur tonnelle",
-        "it": "Muro a rete",
-        "nl": "Raamwerkwand",
-        "zh-CN": "东方风交叉格栅",
-        "zh-TW": "東方風交叉格柵",
-        "jp": "オリエンタルなラティス",
-        "ko": "오리엔탈 격자 벽"
-      }
+      ]
     }
   }
 }

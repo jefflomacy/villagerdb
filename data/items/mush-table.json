@@ -16,16 +16,7 @@
       },
       "sources": [
         "Pick mushrooms during November"
-      ],
-      "name": {
-        "de": "Pilztisch",
-        "en-GB": "Mush Table",
-        "en-US": "Mush Table",
-        "es": "Mesa hongo",
-        "fr": "Table champi",
-        "it": "Tavolo fungo",
-        "ja": "きのこのテーブル"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -44,19 +35,6 @@
         "strange-mushroom": "Strange mushroom",
         "red-mushroom": "Red mushroom",
         "yellow-mushroom": "Yellow mushroom"
-      },
-      "name": {
-        "en-US": "Mush Table",
-        "en-GB": "Mush Table",
-        "de": "Pilztisch",
-        "es": "Mesa hongo",
-        "fr": "Table champi",
-        "it": "Tavolo fungo",
-        "nl": "Paddenstoeltafel",
-        "zh-CN": "蘑菇桌",
-        "zh-TW": "蘑菇桌",
-        "jp": "キノコのテーブル",
-        "ko": "버섯 테이블"
       }
     }
   }

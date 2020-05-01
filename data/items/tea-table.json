@@ -28,16 +28,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Teetischchen",
-        "en-GB": "Tea Table",
-        "en-US": "Tea Table",
-        "es": "Mesita",
-        "fr": "Table à thé",
-        "it": "Tavolo da tè",
-        "ja": "ちゃぶだい"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -55,19 +46,6 @@
         "orange-wood": "Orange wood",
         "light-wood": "Light wood",
         "red-wood": "Red wood"
-      },
-      "name": {
-        "en-US": "Tea Table",
-        "en-GB": "Tea Table",
-        "de": "Teetischchen",
-        "es": "Mesita",
-        "fr": "Table à thé",
-        "it": "Tavolo da tè",
-        "nl": "Theetafel",
-        "zh-CN": "茶几",
-        "zh-TW": "茶几",
-        "jp": "ちゃぶだい",
-        "ko": "낮은 밥상"
       }
     }
   }

@@ -23,16 +23,7 @@
           "currency": "bells",
           "value": 480
         }
-      ],
-      "name": {
-        "de": "Dutt",
-        "en-GB": "Bun Wig",
-        "en-US": "Bun Wig",
-        "es": "Moño",
-        "fr": "Perruque beignet",
-        "it": "Parrucca chignon",
-        "ja": "おだんごあたま"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -53,19 +44,6 @@
         "purple": "Purple",
         "green": "Green",
         "orange": "Orange"
-      },
-      "name": {
-        "en-US": "Bun Wig",
-        "en-GB": "Bun Wig",
-        "de": "Doppel-Dutt",
-        "es": "Moño",
-        "fr": "Perruque beignet",
-        "it": "Parrucca con chignon",
-        "nl": "Knotjespruik",
-        "zh-CN": "双丸子头",
-        "zh-TW": "丸子頭",
-        "jp": "おだんごあたま",
-        "ko": "양갈래 머리"
       }
     }
   }

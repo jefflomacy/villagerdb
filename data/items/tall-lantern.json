@@ -22,16 +22,7 @@
           "currency": "bells",
           "value": 5980
         }
-      ],
-      "name": {
-        "de": "Mega-Laterne",
-        "en-GB": "Tall Lantern",
-        "en-US": "Tall Lantern",
-        "es": "Farol alto",
-        "fr": "Lanterne haute",
-        "it": "Lanterna alta",
-        "ja": "とうろう"
-      }
+      ]
     },
     "nh": {
       "customizable": true,
@@ -52,19 +43,6 @@
         "natural": "Natural",
         "white": "White",
         "mossy": "Mossy"
-      },
-      "name": {
-        "en-US": "Tall Lantern",
-        "en-GB": "Tall Lantern",
-        "de": "Mega-Laterne",
-        "es": "Farol alto",
-        "fr": "Lanterne haute",
-        "it": "Lanterna alta",
-        "nl": "Hoge lantaarn",
-        "zh-CN": "石灯笼",
-        "zh-TW": "石燈籠",
-        "jp": "とうろう",
-        "ko": "석등"
       }
     }
   }

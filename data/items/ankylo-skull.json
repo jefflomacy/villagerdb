@@ -14,16 +14,7 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ],
-      "name": {
-        "de": "Ankylosaurus-Schädel",
-        "en-GB": "Ankylo Skull",
-        "en-US": "Ankylo Skull",
-        "es": "Cráneo anquilosaurio",
-        "fr": "Crâne d'ankylosaure",
-        "it": "Teschio anchilosauro",
-        "ja": "アンキロサウルスのあたま"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -33,19 +24,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3500
-      },
-      "name": {
-        "en-US": "Ankylo Skull",
-        "en-GB": "Ankylo Skull",
-        "de": "Ankylosaurus-Schädel",
-        "es": "Cráneo anquilosaurio",
-        "fr": "Crâne d'ankylosaure",
-        "it": "Cranio anchilosauro",
-        "nl": "Ankylosauruskop",
-        "zh-CN": "甲龙的头",
-        "zh-TW": "甲龍的頭",
-        "jp": "アンキロサウルスのあたま",
-        "ko": "안킬로사우루스의 머리"
       }
     }
   }

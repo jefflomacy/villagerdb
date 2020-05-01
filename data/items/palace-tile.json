@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "Palace Tile"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -40,20 +37,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Palace Tile",
-        "en-GB": "Palace Tile",
-        "de": "Palastkachelboden",
-        "es": "Losa palacete",
-        "fr": "Dallage palais",
-        "it": "Pavimento palazzo",
-        "nl": "Paleistegelvloer",
-        "zh-CN": "宫殿地板",
-        "zh-TW": "宮殿地板",
-        "jp": "きゅうでんのゆか",
-        "ko": "궁전 바닥"
-      }
+      ]
     }
   }
 }

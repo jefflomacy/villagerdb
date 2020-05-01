@@ -14,10 +14,7 @@
           "currency": "bells",
           "value": 8000
         }
-      ],
-      "name": {
-        "en-US": "Robot Hero"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -42,19 +39,6 @@
         "white": "White",
         "black": "Black",
         "gray": "Gray"
-      },
-      "name": {
-        "en-US": "Robot Hero",
-        "en-GB": "Robot Hero",
-        "de": "Heldenroboter",
-        "es": "Robot gigante",
-        "fr": "Robot géant",
-        "it": "Eroe robot",
-        "nl": "Robotheld",
-        "zh-CN": "英雄机器人",
-        "zh-TW": "英雄機器人",
-        "jp": "ヒーローロボ",
-        "ko": "히어로 로봇"
       }
     }
   }

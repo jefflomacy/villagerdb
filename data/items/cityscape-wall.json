@@ -27,10 +27,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Cityscape Wall"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -42,20 +39,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Cityscape Wall",
-        "en-GB": "Cityscape Wall",
-        "de": "Großstadttapete",
-        "es": "Pared urbe",
-        "fr": "Mur ville",
-        "it": "Muro città",
-        "nl": "Stadsgezichtwand",
-        "zh-CN": "夜景墙",
-        "zh-TW": "夜景牆",
-        "jp": "やけいのかべ",
-        "ko": "야경 벽"
-      }
+      ]
     }
   }
 }

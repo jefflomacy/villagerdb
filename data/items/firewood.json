@@ -25,10 +25,7 @@
           "currency": "meow",
           "value": 5
         }
-      ],
-      "name": {
-        "en-US": "Firewood"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -39,19 +36,6 @@
       },
       "recipe": {
         "wood": 8
-      },
-      "name": {
-        "en-US": "Firewood",
-        "en-GB": "Firewood",
-        "de": "Feuerholz",
-        "es": "Pila de leña",
-        "fr": "Tas de bûches",
-        "it": "Legna da ardere",
-        "nl": "Stapel brandhout",
-        "zh-CN": "柴火",
-        "zh-TW": "柴火",
-        "jp": "まき",
-        "ko": "장작"
       }
     }
   }

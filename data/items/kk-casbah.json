@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Casbah"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Casbah",
-        "en-GB": "K.K. Casbah",
-        "de": "K.K. Orientsong",
-        "es": "Tota-Alcazaba",
-        "fr": "Cheb Kéké",
-        "it": "K.K. Assolo",
-        "nl": "K.K. in de kasba",
-        "zh-CN": "土耳其乐曲",
-        "zh-TW": "土耳其樂曲",
-        "jp": "トルコそんぐ",
-        "ko": "터키의 노래",
-        "ru": "Крепость К. К."
-      }
+      ]
     }
   }
 }

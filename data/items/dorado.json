@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Dorado"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 15000
-      },
-      "name": {
-        "en-US": "Dorado",
-        "en-GB": "Dorado",
-        "de": "Lachssalmler",
-        "es": "Dorado",
-        "fr": "Dorado",
-        "it": "Dorado",
-        "nl": "Dorado",
-        "zh-CN": "黄金河虎",
-        "zh-TW": "黃金河虎",
-        "jp": "ドラド",
-        "ko": "황금연어"
       }
     }
   }

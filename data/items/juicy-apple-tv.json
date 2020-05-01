@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 1200
         }
-      ],
-      "name": {
-        "de": "Apfelfernseher",
-        "en-GB": "Juicy-Apple TV",
-        "en-US": "Juicy-Apple TV",
-        "es": "Tele manzana",
-        "fr": "Télé pomme",
-        "it": "TV mela",
-        "ja": "リンゴのテレビ"
-      }
+      ]
     },
     "nh": {
       "customizable": true,
@@ -51,19 +42,6 @@
       "variations": {
         "red-apple": "Red apple",
         "green-apple": "Green apple"
-      },
-      "name": {
-        "en-US": "Juicy-Apple TV",
-        "en-GB": "Juicy-Apple TV",
-        "de": "Apfelfernseher",
-        "es": "Tele manzana",
-        "fr": "Télé pomme",
-        "it": "TV mela",
-        "nl": "Appel-Tv",
-        "zh-CN": "苹果电视",
-        "zh-TW": "蘋果電視",
-        "jp": "リンゴのテレビ",
-        "ko": "사과 TV"
       }
     }
   }

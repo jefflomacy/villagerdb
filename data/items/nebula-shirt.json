@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Funkelpulli",
-        "en-GB": "Nebula Shirt",
-        "en-US": "Nebula Shirt",
-        "es": "Jersey nebulosa",
-        "fr": "Pull galaxie",
-        "it": "Maglia nebulosa",
-        "ja": "ネビュラなふくL"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 390
         }
-      ],
-      "name": {
-        "en-US": "Nebula Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 390
         }
-      ],
-      "name": {
-        "en-US": "Nebula Shirt"
-      }
+      ]
     }
   }
 }

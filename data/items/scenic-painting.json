@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 3920
         }
-      ],
-      "name": {
-        "en-US": "Scenic Painting"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -43,19 +40,6 @@
       "variations": {
         "real": "Real",
         "fake": "Fake"
-      },
-      "name": {
-        "en-US": "Scenic Painting",
-        "en-GB": "Scenic Painting",
-        "de": "Wintergemälde",
-        "es": "Cuadro invernal",
-        "fr": "Toile hivernale",
-        "it": "Quadro invernale",
-        "nl": "Winterse schilderij",
-        "zh-CN": "优美的名画",
-        "zh-TW": "優美的名畫",
-        "jp": "みごとなめいが",
-        "ko": "뛰어난 명화"
       }
     }
   }

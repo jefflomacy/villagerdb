@@ -11,10 +11,7 @@
       },
       "sources": [
         "In the sea."
-      ],
-      "name": {
-        "en-US": "Ribbon Eel"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 600
-      },
-      "name": {
-        "en-US": "Ribbon Eel",
-        "en-GB": "Ribbon Eel",
-        "de": "Nasenmuräne",
-        "es": "Anguila de listón azul",
-        "fr": "Murène ruban bleue",
-        "it": "Murena a nastro",
-        "nl": "Lintmurene",
-        "zh-CN": "五彩鳗",
-        "zh-TW": "五彩鰻",
-        "jp": "ハナヒゲウツボ",
-        "ko": "리본장어"
       }
     }
   }

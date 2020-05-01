@@ -24,16 +24,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Nähmaschine",
-        "en-GB": "Sewing Machine",
-        "en-US": "Sewing Machine",
-        "es": "Máquina de coser",
-        "fr": "Machine à coudre",
-        "it": "Macchina da cucire",
-        "ja": "ミシン"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -58,19 +49,6 @@
         "yellow": "Yellow",
         "green": "Green",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Sewing Machine",
-        "en-GB": "Sewing Machine",
-        "de": "Nähmaschine",
-        "es": "Máquina de coser",
-        "fr": "Machine à coudre",
-        "it": "Macchina da cucire",
-        "nl": "Naaimachine",
-        "zh-CN": "缝纫机",
-        "zh-TW": "縫紉機",
-        "jp": "ミシン",
-        "ko": "재봉틀"
       }
     }
   }

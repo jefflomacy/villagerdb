@@ -15,10 +15,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Changing Room"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -96,19 +93,6 @@
         "green-red": "Green / Red",
         "green-green": "Green / Green",
         "green-blue": "Green / Blue"
-      },
-      "name": {
-        "en-US": "Changing Room",
-        "en-GB": "Changing Room",
-        "de": "Umkleide",
-        "es": "Probador",
-        "fr": "Cabine d'essayage",
-        "it": "Cabina di prova",
-        "nl": "Kleedruimte",
-        "zh-CN": "试衣间",
-        "zh-TW": "試衣間",
-        "jp": "しちゃくしつ",
-        "ko": "피팅 룸"
       }
     }
   }

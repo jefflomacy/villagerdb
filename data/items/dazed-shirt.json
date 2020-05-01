@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Wohlfühlpulli",
-        "en-GB": "Dazed Shirt",
-        "en-US": "Dazed Shirt",
-        "es": "Jersey rombos",
-        "fr": "Pull losange",
-        "it": "Maglia quadri rosa",
-        "ja": "ゆめいろこうしのふくL"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 350
         }
-      ],
-      "name": {
-        "en-US": "Dazed Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 350
         }
-      ],
-      "name": {
-        "en-US": "Dazed Shirt"
-      }
+      ]
     }
   }
 }

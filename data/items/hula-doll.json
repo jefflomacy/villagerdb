@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 1800
         }
-      ],
-      "name": {
-        "de": "Hula-Puppe",
-        "en-GB": "Hula Doll",
-        "en-US": "Hula Doll",
-        "es": "Muñeca hawaiana",
-        "fr": "Poupée hawaïenne",
-        "it": "Bambola hawaiana",
-        "ja": "フラダンスにんぎょう"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -48,19 +39,6 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "beige": "Beige"
-      },
-      "name": {
-        "en-US": "Hula Doll",
-        "en-GB": "Hula Doll",
-        "de": "Hula-Puppe",
-        "es": "Muñeca hawaiana",
-        "fr": "Poupée hawaïenne",
-        "it": "Bambola hawaiana",
-        "nl": "Hula-Pop",
-        "zh-CN": "草裙舞娃娃",
-        "zh-TW": "草裙舞娃娃",
-        "jp": "フラダンスにんぎょう",
-        "ko": "훌라 댄스 인형"
       }
     }
   }

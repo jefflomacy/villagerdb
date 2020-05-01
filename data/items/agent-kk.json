@@ -22,10 +22,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "Agent K.K."
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -38,21 +35,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "Agent K.K.",
-        "en-GB": "Agent K.K.",
-        "de": "Agent K.K.",
-        "es": "Agente Totakeke",
-        "fr": "Agent Kéké",
-        "it": "Agente K.K.",
-        "nl": "Agent K.K.",
-        "zh-CN": "K.K.刑警",
-        "zh-TW": "K.K.刑警",
-        "jp": "けけけいじ",
-        "ko": "K.K.형사",
-        "ru": "Агент К. К."
-      }
+      ]
     }
   }
 }

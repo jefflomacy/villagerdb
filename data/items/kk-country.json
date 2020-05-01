@@ -22,10 +22,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Country"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -38,21 +35,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Country",
-        "en-GB": "K.K. Country",
-        "de": "K.K. Country",
-        "es": "Tota-Country",
-        "fr": "Country Kéké",
-        "it": "K.K. Country",
-        "nl": "K.K.-Country",
-        "zh-CN": "K.K.乡村",
-        "zh-TW": "K.K.鄉村",
-        "jp": "けけカントリー",
-        "ko": "K.K.컨트리",
-        "ru": "Кантри К. К."
-      }
+      ]
     }
   }
 }

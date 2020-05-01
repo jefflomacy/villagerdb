@@ -23,16 +23,7 @@
           "currency": "bells",
           "value": 200
         }
-      ],
-      "name": {
-        "de": "Zauberhut",
-        "en-GB": "Wizard's Cap",
-        "en-US": "Wizard's Cap",
-        "es": "Gorro mago",
-        "fr": "Chapeau de magicien",
-        "it": "Cappello da mago",
-        "ja": "とんがりぼうし"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +39,6 @@
       "variations": {
         "blue": "Blue",
         "purple": "Purple"
-      },
-      "name": {
-        "en-US": "Wizard's Cap",
-        "en-GB": "Wizard's Cap",
-        "de": "Zauberhut",
-        "es": "Gorro mago",
-        "fr": "Chapeau de magicien",
-        "it": "Cappello da mago",
-        "nl": "Tovenaarshoed",
-        "zh-CN": "尖头帽",
-        "zh-TW": "尖頭帽",
-        "jp": "とんがりぼうし",
-        "ko": "마법사 모자"
       }
     }
   }

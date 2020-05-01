@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Alto Saxophone"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -30,20 +27,7 @@
           "currency": "bells",
           "value": 3400
         }
-      ],
-      "name": {
-        "en-US": "Alto Saxophone",
-        "en-GB": "Alto Saxophone",
-        "de": "Saxofon",
-        "es": "Saxofón",
-        "fr": "Saxophone alto",
-        "it": "Sax contralto",
-        "nl": "Altsaxofoon",
-        "zh-CN": "中音萨克斯风",
-        "zh-TW": "中音薩克斯風",
-        "jp": "アルトサックス",
-        "ko": "알토 색소폰"
-      }
+      ]
     }
   }
 }

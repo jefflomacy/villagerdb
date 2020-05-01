@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 960
         }
-      ],
-      "name": {
-        "de": "Wäscheleine",
-        "en-GB": "Clothesline Pole",
-        "en-US": "Clothesline Pole",
-        "es": "Tendedero",
-        "fr": "étendoir",
-        "it": "Corda del bucato",
-        "ja": "ものほしざお"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "blue-pe-shirt": "Blue / PE shirt",
         "blue-fish": "Blue / Fish",
         "blue-carrot": "Blue / Carrot"
-      },
-      "name": {
-        "en-US": "Clothesline Pole",
-        "en-GB": "Clothesline Pole",
-        "de": "Wäscheleine",
-        "es": "Tendedero",
-        "fr": "Étendoir",
-        "it": "Corda del bucato",
-        "nl": "Waslijn",
-        "zh-CN": "晒衣竿",
-        "zh-TW": "曬衣竿",
-        "jp": "ものほしざお",
-        "ko": "빨래 건조봉"
       }
     }
   }

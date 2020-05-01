@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 4896
         }
-      ],
-      "name": {
-        "de": "Festtagsgesteck",
-        "en-GB": "Holiday Candle",
-        "en-US": "Holiday Candle",
-        "es": "Vela festiva",
-        "fr": "Chandelle de fête",
-        "it": "Candela centrotavola",
-        "ja": "クリスマスキャンドル"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +39,6 @@
         "gold": "Gold",
         "brown": "Brown",
         "pink": "Pink"
-      },
-      "name": {
-        "en-US": "Holiday Candle",
-        "en-GB": "Holiday Candle",
-        "de": "Festtagsgesteck",
-        "es": "Vela festiva",
-        "fr": "Chandelle de fête",
-        "it": "Candela centrotavola",
-        "nl": "Feestelijke kaars",
-        "zh-CN": "圣诞蜡烛",
-        "zh-TW": "聖誕蠟燭",
-        "jp": "クリスマスキャンドル",
-        "ko": "크리스마스 양초"
       }
     }
   }

@@ -23,10 +23,7 @@
           "currency": "bells",
           "value": 640
         }
-      ],
-      "name": {
-        "en-US": "Palatial Tank Dress"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -41,19 +38,6 @@
       ],
       "variations": {
         "white": "White"
-      },
-      "name": {
-        "en-US": "Palatial Tank Dress",
-        "en-GB": "Palatial Tank Dress",
-        "de": "Oasen-Trägerkleid",
-        "es": "Vestido del Nilo",
-        "fr": "Robe d'été Nil",
-        "it": "Scamiciato egizio",
-        "nl": "Egyptische jurk",
-        "zh-CN": "尼罗河传统服装",
-        "zh-TW": "尼羅河服",
-        "jp": "ナイルなふく",
-        "ko": "이집트풍 옷"
       }
     }
   }

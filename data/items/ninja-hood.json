@@ -24,16 +24,7 @@
           "currency": "bells",
           "value": 480
         }
-      ],
-      "name": {
-        "de": "Ninjakapuze",
-        "en-GB": "Ninja Hood",
-        "en-US": "Ninja Hood",
-        "es": "Caperuza ninja",
-        "fr": "Cagoule de ninja",
-        "it": "Cappuccio ninja",
-        "ja": "にんじゃずきん"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -55,19 +46,6 @@
         "green": "Green",
         "yellow": "Yellow",
         "orange": "Orange"
-      },
-      "name": {
-        "en-US": "Ninja Hood",
-        "en-GB": "Ninja Hood",
-        "de": "Ninjakapuze",
-        "es": "Caperuza de ninja",
-        "fr": "Cagoule de ninja",
-        "it": "Cappuccio ninja",
-        "nl": "Ninjamasker",
-        "zh-CN": "忍者头巾",
-        "zh-TW": "忍者頭巾",
-        "jp": "にんじゃずきん",
-        "ko": "닌자 두건"
       }
     }
   }

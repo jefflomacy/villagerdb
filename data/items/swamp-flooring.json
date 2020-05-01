@@ -16,20 +16,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Swamp Flooring",
-        "en-GB": "Swamp Flooring",
-        "de": "Sumpfboden",
-        "es": "Suelo ciénaga",
-        "fr": "Sol marécage",
-        "it": "Pavimento palude",
-        "nl": "Moerasvloer",
-        "zh-CN": "泥沼地板",
-        "zh-TW": "泥沼地板",
-        "jp": "どろぬまなゆか",
-        "ko": "진흙탕 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

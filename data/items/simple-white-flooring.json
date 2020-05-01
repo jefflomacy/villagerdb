@@ -16,20 +16,7 @@
           "currency": "bells",
           "value": 1500
         }
-      ],
-      "name": {
-        "en-US": "Simple White Flooring",
-        "en-GB": "Simple White Flooring",
-        "de": "Weißteppichboden",
-        "es": "Suelo liso blanco",
-        "fr": "Moquette blanche",
-        "it": "Pavimento semplice bianco",
-        "nl": "Simpele witte vloer",
-        "zh-CN": "白色简约地毯",
-        "zh-TW": "白色簡約地毯",
-        "jp": "しろいシンプルカーペット",
-        "ko": "하얀 심플 카펫 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

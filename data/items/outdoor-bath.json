@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 4900
         }
-      ],
-      "name": {
-        "de": "Schwimmteich",
-        "en-GB": "Outdoor Bath",
-        "en-US": "Outdoor Bath",
-        "es": "Baño termal",
-        "fr": "Bain extérieur",
-        "it": "Bagno termale",
-        "ja": "ろてんぶろ"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -47,19 +38,6 @@
         "black": "Black",
         "brown": "Brown",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Outdoor Bath",
-        "en-GB": "Outdoor Bath",
-        "de": "Freiluftbad",
-        "es": "Baño termal",
-        "fr": "Bain extérieur",
-        "it": "Bagno termale",
-        "nl": "Warmwaterbron",
-        "zh-CN": "露天池",
-        "zh-TW": "露天池",
-        "jp": "ろてんぶろ",
-        "ko": "노천온천"
       }
     }
   }

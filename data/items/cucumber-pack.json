@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "en-US": "Cucumber Pack"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -38,19 +35,6 @@
       ],
       "variations": {
         "green": "Green"
-      },
-      "name": {
-        "en-US": "Cucumber Pack",
-        "en-GB": "Cucumber Pack",
-        "de": "Gurkenmaske",
-        "es": "Mascarilla de pepino",
-        "fr": "Masque concombre",
-        "it": "Maschera al cetriolo",
-        "nl": "Komkommerschijfjes",
-        "zh-CN": "小黄瓜面膜",
-        "zh-TW": "小黃瓜面膜",
-        "jp": "きゅうりパック",
-        "ko": "오이 팩"
       }
     }
   }

@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 2452
         }
-      ],
-      "name": {
-        "en-US": "Stately Wall"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -39,20 +36,7 @@
           "currency": "bells",
           "value": 2450
         }
-      ],
-      "name": {
-        "en-US": "Stately Wall",
-        "en-GB": "Stately Wall",
-        "de": "Wandverkleidung",
-        "es": "Pared majestuosa",
-        "fr": "Mur ouvragé",
-        "it": "Muro solenne",
-        "nl": "Monumentale wand",
-        "zh-CN": "文艺复兴墙",
-        "zh-TW": "文藝復興牆",
-        "jp": "ルネッサンスなかべ",
-        "ko": "르네상스풍 벽"
-      }
+      ]
     }
   }
 }

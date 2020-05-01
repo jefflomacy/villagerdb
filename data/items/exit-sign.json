@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 1600
         }
-      ],
-      "name": {
-        "de": "Notausgangsschild",
-        "en-GB": "Exit Sign",
-        "en-US": "Exit Sign",
-        "es": "Salida de emergencia",
-        "fr": "Panneau de sortie",
-        "it": "Segnale di uscita",
-        "ja": "ひじょうぐち"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -49,19 +40,6 @@
         "right-arrow": "Right arrow",
         "red-exit": "Red exit",
         "left-and-right-arrows": "Left and right arrows"
-      },
-      "name": {
-        "en-US": "Exit Sign",
-        "en-GB": "Exit Sign",
-        "de": "Notausgangsschild",
-        "es": "Salida de emergencia",
-        "fr": "Panneau de sortie",
-        "it": "Segnale di uscita",
-        "nl": "Nooduitgangbord",
-        "zh-CN": "紧急逃生出口",
-        "zh-TW": "緊急逃生出口",
-        "jp": "ひじょうぐち",
-        "ko": "비상구"
       }
     }
   }

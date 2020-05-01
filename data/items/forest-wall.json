@@ -16,10 +16,7 @@
       },
       "sources": [
         "Pick mushrooms during November"
-      ],
-      "name": {
-        "en-US": "Forest Wall"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -31,20 +28,7 @@
           "currency": "bells",
           "value": 176000
         }
-      ],
-      "name": {
-        "en-US": "Forest Wall",
-        "en-GB": "Forest Wall",
-        "de": "Waldtapete",
-        "es": "Pared bosque",
-        "fr": "Mur forêt",
-        "it": "Muro bosco",
-        "nl": "Boswand",
-        "zh-CN": "蘑菇森林墙",
-        "zh-TW": "蘑菇森林牆",
-        "jp": "キノコのもりのかべ",
-        "ko": "버섯숲 벽지"
-      }
+      ]
     }
   }
 }

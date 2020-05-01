@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 1380
         }
-      ],
-      "name": {
-        "en-US": "Natural-Block Flooring",
-        "en-GB": "Natural-Block Flooring",
-        "de": "Natur-Quadratboden",
-        "es": "Parqué cuadriculado claro",
-        "fr": "Sol blocs de bois naturel",
-        "it": "Pavimento blocchi naturali",
-        "nl": "Naturel houten blokvloer",
-        "zh-CN": "自然风地板砖块",
-        "zh-TW": "自然風地板磚塊",
-        "jp": "ナチュラルフローリングブロック",
-        "ko": "내추럴 나무 블록 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

@@ -23,16 +23,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Kartontisch",
-        "en-GB": "Cardboard Table",
-        "en-US": "Cardboard Table",
-        "es": "Mesa cartón",
-        "fr": "Table carton",
-        "it": "Tavolo scatolone",
-        "ja": "ダンボールテーブル"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -47,19 +38,6 @@
       "variations": {
         "plain": "Plain",
         "labeled": "Labeled"
-      },
-      "name": {
-        "en-US": "Cardboard Table",
-        "en-GB": "Cardboard Table",
-        "de": "Kartontisch",
-        "es": "Mesa de cartón",
-        "fr": "Table en carton",
-        "it": "Tavolo scatolone",
-        "nl": "Kartonnen tafel",
-        "zh-CN": "纸箱桌",
-        "zh-TW": "紙箱桌",
-        "jp": "ダンボールテーブル",
-        "ko": "박스 테이블"
       }
     }
   }

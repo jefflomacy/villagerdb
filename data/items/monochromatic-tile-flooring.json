@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 1620
         }
-      ],
-      "name": {
-        "en-US": "Monochromatic Tile Flooring",
-        "en-GB": "Monochromatic Tile Flooring",
-        "de": "Grauplattenboden",
-        "es": "Losa monocromo",
-        "fr": "Moquette dalles gris foncé",
-        "it": "Pav. a scacchi monocromo",
-        "nl": "Effen tapijttegels",
-        "zh-CN": "单色配色拼接地毯",
-        "zh-TW": "灰階配色拼接地毯",
-        "jp": "モノクロパネルカーペット",
-        "ko": "흑백 패널 카펫 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

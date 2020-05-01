@@ -18,16 +18,7 @@
           "currency": "bells",
           "value": 6800
         }
-      ],
-      "name": {
-        "de": "Ecke (rot)",
-        "en-GB": "Red Corner",
-        "en-US": "Red Corner",
-        "es": "Esquina roja",
-        "fr": "Coin rouge",
-        "it": "Angolo rosso",
-        "ja": "あかコーナー"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -50,19 +41,6 @@
         "blue": "Blue",
         "black": "Black",
         "yellow": "Yellow"
-      },
-      "name": {
-        "en-US": "Red Corner",
-        "en-GB": "Red Corner",
-        "de": "Ecke (rot)",
-        "es": "Esquina roja",
-        "fr": "Coin rouge",
-        "it": "Angolo rosso",
-        "nl": "Rode hoek",
-        "zh-CN": "红色转角",
-        "zh-TW": "紅色轉角",
-        "jp": "あかコーナー",
-        "ko": "빨간색 링 모서리"
       }
     }
   }

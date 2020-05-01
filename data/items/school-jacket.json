@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Streber-Schuljacke",
-        "en-GB": "School Jacket",
-        "en-US": "School Jacket",
-        "es": "Chaqueta escolar",
-        "fr": "Veste d'écolier",
-        "it": "Giacca scuola",
-        "ja": "がくせいふく"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -50,19 +41,6 @@
         "purple": "Purple",
         "gray": "Gray",
         "blue": "Blue"
-      },
-      "name": {
-        "en-US": "School Jacket",
-        "en-GB": "School Jacket",
-        "de": "Streber-Schuljacke",
-        "es": "Chaqueta escolar",
-        "fr": "Veste d'écolier",
-        "it": "Giacca da scolaro",
-        "nl": "Schooljas",
-        "zh-CN": "学生服",
-        "zh-TW": "學生服",
-        "jp": "がくせいふく",
-        "ko": "학생복"
       }
     }
   }

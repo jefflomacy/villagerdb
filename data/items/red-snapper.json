@@ -11,10 +11,7 @@
       },
       "sources": [
         "In the sea."
-      ],
-      "name": {
-        "en-US": "Red Snapper"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3000
-      },
-      "name": {
-        "en-US": "Red Snapper",
-        "en-GB": "Red Snapper",
-        "de": "Kaiserschnapper",
-        "es": "Pargo rojo",
-        "fr": "Vivaneau",
-        "it": "Lutiano rosso",
-        "nl": "Rode snapper",
-        "zh-CN": "鲷鱼",
-        "zh-TW": "鯛魚",
-        "jp": "タイ",
-        "ko": "도미"
       }
     }
   }

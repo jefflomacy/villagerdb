@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 640
         }
-      ],
-      "name": {
-        "de": "Basketballschuh",
-        "en-GB": "Basketball Shoes",
-        "en-US": "Basketball Shoes",
-        "es": "Zapatilla básquet",
-        "fr": "Paire de baskets",
-        "it": "Paio scarpe basket",
-        "ja": "バスケットシューズ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "purple": "Purple",
         "light-blue": "Light blue",
         "pink": "Pink"
-      },
-      "name": {
-        "en-US": "Basketball Shoes",
-        "en-GB": "Basketball Shoes",
-        "de": "Paars Basketballschuhe",
-        "es": "Zapatilla de básquet",
-        "fr": "Paire de baskets",
-        "it": "Paio di scarpe da basket",
-        "nl": "Basketbalschoenen",
-        "zh-CN": "篮球鞋",
-        "zh-TW": "籃球鞋",
-        "jp": "バスケットシューズ",
-        "ko": "농구화"
       }
     }
   }

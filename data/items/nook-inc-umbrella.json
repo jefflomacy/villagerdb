@@ -16,20 +16,7 @@
           "currency": "miles",
           "value": 700
         }
-      ],
-      "name": {
-        "en-US": "Nook Inc. Umbrella",
-        "en-GB": "Nook Inc. Umbrella",
-        "de": "Nook-Inc.-Schirm",
-        "es": "Paraguas de Nook Inc.",
-        "fr": "Parapluie Nook Inc.",
-        "it": "Ombrello Nook Inc.",
-        "nl": "Nook Inc.-paraplu",
-        "zh-CN": "Nook Inc.雨伞",
-        "zh-TW": "Nook Inc.雨傘",
-        "jp": "たぬきかいはつのかさ",
-        "ko": "Nook Inc. 우산"
-      }
+      ]
     }
   },
   "category": "Umbrellas"

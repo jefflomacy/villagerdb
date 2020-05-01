@@ -23,10 +23,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Ragtime"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -39,21 +36,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Ragtime",
-        "en-GB": "K.K. Ragtime",
-        "de": "K.K. Ragtime",
-        "es": "Tota-Ragtime",
-        "fr": "Ragtime Kéké",
-        "it": "K.K. Ritmo",
-        "nl": "K.K.-Ragtime",
-        "zh-CN": "格拉泰姆音乐",
-        "zh-TW": "拉格泰姆音樂",
-        "jp": "ラグタイム",
-        "ko": "래그타임",
-        "ru": "Регтайм К. К."
-      }
+      ]
     }
   }
 }

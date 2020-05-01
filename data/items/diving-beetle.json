@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Diving Beetle"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 800
-      },
-      "name": {
-        "en-US": "Diving Beetle",
-        "en-GB": "Diving Beetle",
-        "de": "Schwimmkäfer",
-        "es": "Escarabajo nadador",
-        "fr": "Dytique",
-        "it": "Ditisco",
-        "nl": "Waterroofkever",
-        "zh-CN": "龙虱",
-        "zh-TW": "龍蝨",
-        "jp": "ゲンゴロウ",
-        "ko": "물방개"
       }
     }
   }

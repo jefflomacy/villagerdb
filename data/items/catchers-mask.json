@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 720
         }
-      ],
-      "name": {
-        "de": "Eishockeyhelm",
-        "en-GB": "Catcher's Mask",
-        "en-US": "Catcher's Mask",
-        "es": "Máscara de béisbol",
-        "fr": "Masque de receveur",
-        "it": "Maschera ricevitore",
-        "ja": "キャッチャーマスク"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +39,6 @@
         "green": "Green",
         "orange": "Orange",
         "yellow": "Yellow"
-      },
-      "name": {
-        "en-US": "Catcher's Mask",
-        "en-GB": "Catcher's Mask",
-        "de": "Baseballmaske",
-        "es": "Máscara de béisbol",
-        "fr": "Masque de receveur",
-        "it": "Maschera da ricevitore",
-        "nl": "Achtervangershelm",
-        "zh-CN": "捕手面罩",
-        "zh-TW": "捕手面罩",
-        "jp": "キャッチャーマスク",
-        "ko": "포수 마스크"
       }
     }
   }

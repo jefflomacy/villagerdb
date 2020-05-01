@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 1000
         }
-      ],
-      "name": {
-        "de": "Taktmesser",
-        "en-GB": "Metronome",
-        "en-US": "Metronome",
-        "es": "Metrónomo",
-        "fr": "Métronome",
-        "it": "Metronomo",
-        "ja": "メトロノーム"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -46,19 +37,6 @@
         "blue": "Blue",
         "black": "Black",
         "brown": "Brown"
-      },
-      "name": {
-        "en-US": "Metronome",
-        "en-GB": "Metronome",
-        "de": "Taktmesser",
-        "es": "Metrónomo",
-        "fr": "Métronome",
-        "it": "Metronomo",
-        "nl": "Metronoom",
-        "zh-CN": "节拍器",
-        "zh-TW": "節拍器",
-        "jp": "メトロノーム",
-        "ko": "메트로놈"
       }
     }
   }

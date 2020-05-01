@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Ring"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -39,19 +36,6 @@
         "brown": "Brown",
         "black": "Black",
         "pink": "Pink"
-      },
-      "name": {
-        "en-US": "Ring",
-        "en-GB": "Ring",
-        "de": "Verlobungsring",
-        "es": "Anillo de compromiso",
-        "fr": "Bague en diamant",
-        "it": "Anello con diamante",
-        "nl": "Ring",
-        "zh-CN": "戒指",
-        "zh-TW": "戒指",
-        "jp": "ゆびわ",
-        "ko": "반지"
       }
     }
   }

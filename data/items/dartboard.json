@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 1520
         }
-      ],
-      "name": {
-        "de": "Dartbrett",
-        "en-GB": "Dartboard",
-        "en-US": "Dartboard",
-        "es": "Máquina dardos",
-        "fr": "Jeu de fléchettes",
-        "it": "Bersaglio freccette",
-        "ja": "ダーツボード"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -42,20 +33,7 @@
           "currency": "bells",
           "value": 5200
         }
-      ],
-      "name": {
-        "en-US": "Dartboard",
-        "en-GB": "Dartboard",
-        "de": "Dartautomat",
-        "es": "Máquina de dardos",
-        "fr": "Jeu de fléchettes",
-        "it": "Bersaglio per freccette",
-        "nl": "Dartbord",
-        "zh-CN": "飞镖靶",
-        "zh-TW": "飛鏢靶",
-        "jp": "ダーツボード",
-        "ko": "다트 보드"
-      }
+      ]
     }
   }
 }

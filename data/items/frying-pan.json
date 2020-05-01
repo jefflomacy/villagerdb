@@ -20,19 +20,6 @@
         "ratatouille": "Ratatouille",
         "pizza": "Pizza",
         "failed-attempt": "Failed attempt"
-      },
-      "name": {
-        "en-US": "Frying Pan",
-        "en-GB": "Frying Pan",
-        "de": "Pfanne",
-        "es": "Sartén",
-        "fr": "Poêle à frire",
-        "it": "Padella",
-        "nl": "Koekenpan",
-        "zh-CN": "平底锅",
-        "zh-TW": "平底鍋",
-        "jp": "フライパン",
-        "ko": "프라이팬"
       }
     },
     "nl": {
@@ -44,10 +31,7 @@
       },
       "sources": [
         "Clear six advanced levels in Desert Island Escape"
-      ],
-      "name": {
-        "en-US": "Frying Pan"
-      }
+      ]
     }
   }
 }

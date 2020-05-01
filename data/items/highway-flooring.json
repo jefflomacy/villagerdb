@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Highway Flooring",
-        "en-GB": "Highway Flooring",
-        "de": "Highwayboden",
-        "es": "Suelo carretera",
-        "fr": "Sol autoroute",
-        "it": "Pavimento strada",
-        "nl": "Snelwegvloer",
-        "zh-CN": "高速公路地板",
-        "zh-TW": "高速公路地板",
-        "jp": "ハイウェイのゆか",
-        "ko": "고속도로 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

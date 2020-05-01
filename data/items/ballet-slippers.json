@@ -23,16 +23,7 @@
           "currency": "bells",
           "value": 400
         }
-      ],
-      "name": {
-        "de": "Ballettschuh",
-        "en-GB": "Ballet Slippers",
-        "en-US": "Ballet Slippers",
-        "es": "Zapatilla de ballet",
-        "fr": "P. chaussons danse",
-        "it": "P. scarpe da punta",
-        "ja": "バレエシューズ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -58,19 +49,6 @@
         "white": "White",
         "yellow": "Yellow",
         "red": "Red"
-      },
-      "name": {
-        "en-US": "Ballet Slippers",
-        "en-GB": "Ballet Slippers",
-        "de": "Paars Ballettschuhe",
-        "es": "Zapatilla de ballet",
-        "fr": "Paire de chaussons danse",
-        "it": "Paio di scarpette da punta",
-        "nl": "Balletschoenen",
-        "zh-CN": "芭蕾舞鞋",
-        "zh-TW": "芭蕾舞鞋",
-        "jp": "バレエシューズ",
-        "ko": "발레 슈즈"
       }
     }
   }

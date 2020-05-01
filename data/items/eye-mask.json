@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 160
         }
-      ],
-      "name": {
-        "en-US": "Eye Mask"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -43,19 +40,6 @@
         "green": "Green",
         "orange": "Orange",
         "red": "Red"
-      },
-      "name": {
-        "en-US": "Eye Mask",
-        "en-GB": "Eye Mask",
-        "de": "Augenmaske",
-        "es": "Antifaz para dormir",
-        "fr": "Masque repos",
-        "it": "Mascherina per dormire",
-        "nl": "Slaapmasker",
-        "zh-CN": "眼罩",
-        "zh-TW": "眼罩",
-        "jp": "アイマスク",
-        "ko": "아이마스크"
       }
     }
   }

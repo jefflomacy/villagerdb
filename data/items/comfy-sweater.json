@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "de": "Wollpulli",
-        "en-GB": "Comfy Sweater",
-        "en-US": "Comfy Sweater",
-        "es": "Jersey andino",
-        "fr": "Pull confortable",
-        "it": "Maglione fantasia",
-        "ja": "こげちゃのニット"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "en-US": "Comfy Sweater"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "en-US": "Comfy Sweater"
-      }
+      ]
     }
   }
 }

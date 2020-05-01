@@ -17,16 +17,7 @@
       },
       "sources": [
         "Birthday"
-      ],
-      "name": {
-        "de": "Geburtstagshut",
-        "en-GB": "Birthday Hat",
-        "en-US": "Birthday Hat",
-        "es": "Sombrero cumpleaños",
-        "fr": "Chapeau anniv",
-        "it": "Cappello compleanno",
-        "ja": "バースデーハット"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -43,19 +34,6 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "pink": "Pink"
-      },
-      "name": {
-        "en-US": "Birthday Hat",
-        "en-GB": "Birthday Hat",
-        "de": "Geburtstagshut",
-        "es": "Sombrero de cumpleaños",
-        "fr": "Chapeau anniversaire",
-        "it": "Cappello di compleanno",
-        "nl": "Verjaardagshoed",
-        "zh-CN": "生日帽",
-        "zh-TW": "生日帽",
-        "jp": "バースデーハット",
-        "ko": "생일 모자"
       }
     }
   }

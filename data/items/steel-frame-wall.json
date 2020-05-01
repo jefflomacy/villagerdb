@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Steel-Frame Wall"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -28,19 +25,6 @@
       },
       "recipe": {
         "iron-nugget": 8
-      },
-      "name": {
-        "en-US": "Steel-Frame Wall",
-        "en-GB": "Steel-Frame Wall",
-        "de": "Eisengittertapete",
-        "es": "Pared viga de hierro",
-        "fr": "Mur poutres en fer",
-        "it": "Muro struttura in ferro",
-        "nl": "Wand met stalen balken",
-        "zh-CN": "钢架墙",
-        "zh-TW": "鋼筋牆",
-        "jp": "てっこつのかべ",
-        "ko": "철근 벽"
       }
     }
   }

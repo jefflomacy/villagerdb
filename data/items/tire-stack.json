@@ -21,10 +21,7 @@
           "currency": "meow",
           "value": 5
         }
-      ],
-      "name": {
-        "en-US": "Tire Stack"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -41,19 +38,6 @@
         "green": "Green",
         "colorful": "Colorful",
         "old": "Old"
-      },
-      "name": {
-        "en-US": "Tire Stack",
-        "en-GB": "Tire Stack",
-        "de": "Reifenstapel",
-        "es": "Pila de neumáticos",
-        "fr": "Pile de pneus",
-        "it": "Pila di pneumatici",
-        "nl": "Stapel autobanden",
-        "zh-CN": "轮胎堆",
-        "zh-TW": "輪胎堆",
-        "jp": "つまれたタイヤ",
-        "ko": "쌓인 타이어"
       }
     }
   }

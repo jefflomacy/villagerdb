@@ -17,10 +17,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Candy Umbrella"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -32,20 +29,7 @@
           "currency": "bells",
           "value": 770
         }
-      ],
-      "name": {
-        "en-US": "Candy Umbrella",
-        "en-GB": "Candy Umbrella",
-        "de": "Karoschirm",
-        "es": "Paraguas vichy",
-        "fr": "Parapluie vichy fraise",
-        "it": "Ombrello caramella",
-        "nl": "Roze geruite paraplu",
-        "zh-CN": "草莓嘉顿格雨伞",
-        "zh-TW": "草莓嘉頓格雨傘",
-        "jp": "いちごギンガムのかさ",
-        "ko": "딸기 깅엄 우산"
-      }
+      ]
     }
   }
 }

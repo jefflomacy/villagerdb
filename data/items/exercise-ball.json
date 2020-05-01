@@ -25,10 +25,7 @@
           "currency": "meow",
           "value": 5
         }
-      ],
-      "name": {
-        "en-US": "Exercise Ball"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -51,19 +48,6 @@
         "white": "White",
         "black": "Black",
         "gold": "Gold"
-      },
-      "name": {
-        "en-US": "Exercise Ball",
-        "en-GB": "Exercise Ball",
-        "de": "Gymnastikball",
-        "es": "Pelota de ejercicios",
-        "fr": "Ballon de gymnastique",
-        "it": "Palla da pilates",
-        "nl": "Gymnastiekbal",
-        "zh-CN": "瑜伽球",
-        "zh-TW": "瑜伽球",
-        "jp": "バランスボール",
-        "ko": "짐 볼"
       }
     }
   }

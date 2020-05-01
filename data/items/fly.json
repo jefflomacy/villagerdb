@@ -11,10 +11,7 @@
       },
       "sources": [
         "Around rafflesia and spoiled turnips and trash left on the ground."
-      ],
-      "name": {
-        "en-US": "Fly"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 60
-      },
-      "name": {
-        "en-US": "Fly",
-        "en-GB": "Fly",
-        "de": "Fliege",
-        "es": "Mosca",
-        "fr": "Mouche",
-        "it": "Mosca",
-        "nl": "Vlieg",
-        "zh-CN": "苍蝇",
-        "zh-TW": "蒼蠅",
-        "jp": "ハエ",
-        "ko": "파리"
       }
     }
   }

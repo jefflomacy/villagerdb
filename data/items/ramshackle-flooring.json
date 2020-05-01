@@ -16,20 +16,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Ramshackle Flooring",
-        "en-GB": "Ramshackle Flooring",
-        "de": "Bruchbudenboden",
-        "es": "Suelo ruinas",
-        "fr": "Sol délabré",
-        "it": "Pavimento diroccato",
-        "nl": "Krakkemikkige vloer",
-        "zh-CN": "废墟地板",
-        "zh-TW": "廢墟地板",
-        "jp": "はいきょのゆか",
-        "ko": "폐허 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

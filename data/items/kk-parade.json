@@ -22,10 +22,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Parade"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -38,21 +35,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Parade",
-        "en-GB": "K.K. Parade",
-        "de": "K.K. Parade",
-        "es": "Tota-Desfile",
-        "fr": "Kéké académie",
-        "it": "K.K. Parata",
-        "nl": "K.K.-Parade",
-        "zh-CN": "K.K.嘉年华",
-        "zh-TW": "K.K.嘉年華",
-        "jp": "けけパレード",
-        "ko": "K.K.퍼레이드",
-        "ru": "Парад К. К."
-      }
+      ]
     }
   }
 }

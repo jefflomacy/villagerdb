@@ -24,16 +24,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Campingofen",
-        "en-GB": "Camp Stove",
-        "en-US": "Camp Stove",
-        "es": "Hornillo acampada",
-        "fr": "Réchaud de camping",
-        "it": "Fornello campeggio",
-        "ja": "コッフェル"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -57,19 +48,6 @@
         "green": "Green",
         "brown": "Brown",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Camp Stove",
-        "en-GB": "Camp Stove",
-        "de": "Campingkocher",
-        "es": "Hornillo de acampada",
-        "fr": "Réchaud de camping",
-        "it": "Fornello da campeggio",
-        "nl": "Campinggasstel",
-        "zh-CN": "露营炉具",
-        "zh-TW": "露營爐具",
-        "jp": "コッフェル",
-        "ko": "코펠"
       }
     }
   }

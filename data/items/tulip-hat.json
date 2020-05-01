@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 640
         }
-      ],
-      "name": {
-        "de": "Tulpenhut",
-        "en-GB": "Tulip Hat",
-        "en-US": "Tulip Hat",
-        "es": "Gorro tulipán",
-        "fr": "Chapeau tulipe",
-        "it": "Cappello tulipano",
-        "ja": "チューリップハット"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -50,19 +41,6 @@
         "orange": "Orange",
         "brown": "Brown",
         "camel": "Camel"
-      },
-      "name": {
-        "en-US": "Tulip Hat",
-        "en-GB": "Tulip Hat",
-        "de": "Tulpenhut",
-        "es": "Gorro tulipán",
-        "fr": "Chapeau tulipe",
-        "it": "Cappello tulipano",
-        "nl": "Tulphoed",
-        "zh-CN": "郁金香帽",
-        "zh-TW": "花瓣帽",
-        "jp": "チューリップハット",
-        "ko": "튤립 모자"
       }
     }
   }

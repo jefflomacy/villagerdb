@@ -23,10 +23,7 @@
           "currency": "bells",
           "value": 600
         }
-      ],
-      "name": {
-        "en-US": "Gas Mask"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -46,19 +43,6 @@
       "variations": {
         "black": "Black",
         "avocado": "Avocado"
-      },
-      "name": {
-        "en-US": "Gas Mask",
-        "en-GB": "Gas Mask",
-        "de": "Gasmaske",
-        "es": "Máscara de gas",
-        "fr": "Masque à gaz",
-        "it": "Maschera antigas",
-        "nl": "Gasmasker",
-        "zh-CN": "防毒面具",
-        "zh-TW": "防毒面具",
-        "jp": "ガスマスク",
-        "ko": "가스 마스크"
       }
     }
   }

@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Waffelpulli",
-        "en-GB": "Waffle Shirt",
-        "en-US": "Waffle Shirt",
-        "es": "Jersey escocés",
-        "fr": "Pull gaufre",
-        "it": "Maglia tartan ocra",
-        "ja": "しぶいタータンのふくL"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 430
         }
-      ],
-      "name": {
-        "en-US": "Waffle Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 430
         }
-      ],
-      "name": {
-        "en-US": "Waffle Shirt"
-      }
+      ]
     }
   }
 }

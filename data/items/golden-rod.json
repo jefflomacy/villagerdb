@@ -11,29 +11,13 @@
       },
       "sources": [
         "Fishing Tourney (full fish/deep-sea catch encyclopedia)"
-      ],
-      "name": {
-        "en-US": "Golden Rod"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 10400
-      },
-      "name": {
-        "en-US": "Golden Rod",
-        "en-GB": "Golden Rod",
-        "de": "Goldangel",
-        "es": "Caña de oro",
-        "fr": "Canne à pêche dorée",
-        "it": "Canna d'oro",
-        "nl": "Gouden hengel",
-        "zh-CN": "金色钓竿",
-        "zh-TW": "金色釣竿",
-        "jp": "きんのつりざお",
-        "ko": "금 낚싯대"
       }
     }
   }

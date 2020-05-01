@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Pond Smelt"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 400
-      },
-      "name": {
-        "en-US": "Pond Smelt",
-        "en-GB": "Pond Smelt",
-        "de": "Stint",
-        "es": "Eperlano",
-        "fr": "Éperlan",
-        "it": "Pingo",
-        "nl": "Spiering",
-        "zh-CN": "西太公鱼",
-        "zh-TW": "西太公魚",
-        "jp": "ワカサギ",
-        "ko": "빙어"
       }
     }
   }

@@ -14,16 +14,7 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ],
-      "name": {
-        "de": "Triceratops-Schwanz",
-        "en-GB": "Tricera Tail",
-        "en-US": "Tricera Tail",
-        "es": "Cola triceratops",
-        "fr": "Queue de tricératops",
-        "it": "Coda triceratopo",
-        "ja": "トリケラトプスのしっぽ"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -33,19 +24,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4500
-      },
-      "name": {
-        "en-US": "Tricera Tail",
-        "en-GB": "Tricera Tail",
-        "de": "Triceratops-Schwanz",
-        "es": "Cola triceratops",
-        "fr": "Queue de tricératops",
-        "it": "Coda triceratopo",
-        "nl": "Triceratopsstaart",
-        "zh-CN": "三角龙的尾巴",
-        "zh-TW": "三角龍的尾巴",
-        "jp": "トリケラトプスのしっぽ",
-        "ko": "트리케라톱스의 꼬리"
       }
     }
   }

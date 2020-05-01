@@ -24,16 +24,7 @@
           "currency": "bells",
           "value": 640
         }
-      ],
-      "name": {
-        "de": "Erdbeerhut",
-        "en-GB": "Strawberry Hat",
-        "en-US": "Strawberry Hat",
-        "es": "Gorro fresa",
-        "fr": "Chapeau fraise",
-        "it": "Cappello fragola",
-        "ja": "いちごのぼうし"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +39,6 @@
       ],
       "variations": {
         "red": "Red"
-      },
-      "name": {
-        "en-US": "Strawberry Hat",
-        "en-GB": "Strawberry Hat",
-        "de": "Erdbeerhut",
-        "es": "Gorro fresa",
-        "fr": "Chapeau fraise",
-        "it": "Cappello fragola",
-        "nl": "Aardbeimuts",
-        "zh-CN": "草莓帽子",
-        "zh-TW": "草莓帽子",
-        "jp": "いちごのぼうし",
-        "ko": "딸기 모자"
       }
     }
   }

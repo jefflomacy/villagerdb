@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Spider Umbrella"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -35,20 +32,7 @@
           "currency": "bells",
           "value": 840
         }
-      ],
-      "name": {
-        "en-US": "Spider Umbrella",
-        "en-GB": "Spider Umbrella",
-        "de": "Spinnwebenschirm",
-        "es": "Parasol telaraña",
-        "fr": "Parapluie arachnide",
-        "it": "Ombrello ragnatela",
-        "nl": "Spinnenwebparaplu",
-        "zh-CN": "蜘蛛网雨伞",
-        "zh-TW": "蜘蛛網雨傘",
-        "jp": "スパイダーなかさ",
-        "ko": "스파이더 우산"
-      }
+      ]
     }
   }
 }

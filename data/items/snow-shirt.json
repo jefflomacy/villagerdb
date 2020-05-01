@@ -20,34 +20,19 @@
           "currency": "bells",
           "value": 680
         }
-      ],
-      "name": {
-        "de": "Schneepulli",
-        "en-GB": "Snow Shirt",
-        "en-US": "Snow Shirt",
-        "es": "Jersey nieve",
-        "fr": "Pull neige",
-        "it": "Maglia neve",
-        "ja": "ゆきのふく"
-      }
+      ]
     },
     "ac": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ],
-      "name": {
-        "en-US": "Snow Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ],
-      "name": {
-        "en-US": "Snow Shirt"
-      }
+      ]
     }
   }
 }

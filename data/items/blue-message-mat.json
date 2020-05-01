@@ -15,20 +15,7 @@
           "currency": "bells",
           "value": 1000
         }
-      ],
-      "name": {
-        "en-US": "Blue Message Mat",
-        "en-GB": "Blue Message Mat",
-        "de": "Blau-Textmatte",
-        "es": "Alfombra bocadillo azul",
-        "fr": "Paillasson à message bleu",
-        "it": "Tappetino benvenuto blu",
-        "nl": "Blauwe boodschapmat",
-        "zh-CN": "蓝色信息地垫",
-        "zh-TW": "藍色訊息地墊",
-        "jp": "あおいメッセージマット",
-        "ko": "파란 메시지 매트"
-      }
+      ]
     }
   },
   "category": "Flooring"

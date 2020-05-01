@@ -16,20 +16,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Scramble Crosswalk",
-        "en-GB": "Scramble Crosswalk",
-        "de": "Kreuzungsboden",
-        "es": "Suelo paso de cebra en cruz",
-        "fr": "Sol passages piétons",
-        "it": "Pavimento incrocio pedoni",
-        "nl": "Kruispuntvloer",
-        "zh-CN": "全向十字路口",
-        "zh-TW": "全向十字路口",
-        "jp": "スクランブルこうさてん",
-        "ko": "대각선 횡단보도"
-      }
+      ]
     }
   },
   "category": "Flooring"

@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 1800
         }
-      ],
-      "name": {
-        "de": "Tischtennisset",
-        "en-GB": "Tennis Table",
-        "en-US": "Tennis Table",
-        "es": "Tenis de mesa",
-        "fr": "Set tennis de table",
-        "it": "Tav. tennis tavolo",
-        "ja": "たっきゅうだい"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -41,20 +32,7 @@
           "currency": "bells",
           "value": 44000
         }
-      ],
-      "name": {
-        "en-US": "Tennis Table",
-        "en-GB": "Tennis Table",
-        "de": "Tischtennisset",
-        "es": "Tenis de mesa",
-        "fr": "Set tennis de table",
-        "it": "Tavolo tennis da tavolo",
-        "nl": "Tafeltennistafel",
-        "zh-CN": "乒乓球桌",
-        "zh-TW": "乒乓球桌",
-        "jp": "たっきゅうだい",
-        "ko": "탁구대"
-      }
+      ]
     }
   }
 }

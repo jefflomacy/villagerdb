@@ -24,16 +24,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "de": "Seidenmütze",
-        "en-GB": "Silk Hat",
-        "en-US": "Silk Hat",
-        "es": "Gorro de seda",
-        "fr": "Chapeau en soie",
-        "it": "Cappello di seta",
-        "ja": "チャイナハット"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -51,19 +42,6 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Silk Hat",
-        "en-GB": "Silk Hat",
-        "de": "Asia-Mütze",
-        "es": "Gorro de seda",
-        "fr": "Chapeau en soie",
-        "it": "Cappello di seta",
-        "nl": "Zijden muts",
-        "zh-CN": "唐装帽",
-        "zh-TW": "唐裝帽",
-        "jp": "チャイナハット",
-        "ko": "중국풍 모자"
       }
     }
   }

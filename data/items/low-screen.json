@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 1480
         }
-      ],
-      "name": {
-        "de": "Sichtschutz",
-        "en-GB": "Low Screen",
-        "en-US": "Low Screen",
-        "es": "Cubrechimeneas",
-        "fr": "Panneau bas",
-        "it": "Separé basso",
-        "ja": "ひくいついたて"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -63,19 +54,6 @@
         "brown-summer": "Brown / Summer",
         "brown-fall": "Brown / Fall",
         "brown-winter": "Brown / Winter"
-      },
-      "name": {
-        "en-US": "Low Screen",
-        "en-GB": "Low Screen",
-        "de": "Sichtschutz",
-        "es": "Cubrechimeneas",
-        "fr": "Panneau bas",
-        "it": "Separé basso",
-        "nl": "Lage scherm",
-        "zh-CN": "矮屏风",
-        "zh-TW": "矮屏風",
-        "jp": "ひくいついたて",
-        "ko": "낮은 파티션"
       }
     }
   }

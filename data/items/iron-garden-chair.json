@@ -25,10 +25,7 @@
           "currency": "meow",
           "value": 5
         }
-      ],
-      "name": {
-        "en-US": "Iron Garden Chair"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -46,19 +43,6 @@
         "brown": "Brown",
         "black": "Black",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Iron Garden Chair",
-        "en-GB": "Iron Garden Chair",
-        "de": "Romantikgartenstuhl",
-        "es": "Silla de forja",
-        "fr": "Chaise de jardin fer",
-        "it": "Sedia da giardino di ferro",
-        "nl": "Ijzeren tuinstoel",
-        "zh-CN": "花园铸铁椅",
-        "zh-TW": "鑄鐵花園椅",
-        "jp": "アイアンガーデンチェア",
-        "ko": "아이언 가든 체어"
       }
     }
   }

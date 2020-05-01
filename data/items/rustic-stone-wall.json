@@ -11,19 +11,6 @@
       "recipe": {
         "stone": 5,
         "clay": 5
-      },
-      "name": {
-        "en-US": "Rustic-Stone Wall",
-        "en-GB": "Rustic-Stone Wall",
-        "de": "Bruchsteinwand",
-        "es": "Pared piedra rústica",
-        "fr": "Mur en pierres traditionnel",
-        "it": "Muro in pietra rustica",
-        "nl": "Rustieke stenen wand",
-        "zh-CN": "不规则石头墙",
-        "zh-TW": "不規則石頭牆",
-        "jp": "ランダムストーンのかべ",
-        "ko": "마구 붙인 돌 벽"
       }
     }
   },

@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "de": "Western-Hut",
-        "en-GB": "Outback Hat",
-        "en-US": "Outback Hat",
-        "es": "Sombrero austral",
-        "fr": "Feutre",
-        "it": "Cappello australiano",
-        "ja": "テンガロンハット"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -53,19 +44,6 @@
         "red": "Red",
         "pink": "Pink",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Outback Hat",
-        "en-GB": "Outback Hat",
-        "de": "Western-Hut",
-        "es": "Sombrero austral",
-        "fr": "Feutre",
-        "it": "Cappello australiano",
-        "nl": "Westernhoed",
-        "zh-CN": "牛仔帽",
-        "zh-TW": "牛仔帽",
-        "jp": "テンガロンハット",
-        "ko": "카우보이 모자"
       }
     }
   }

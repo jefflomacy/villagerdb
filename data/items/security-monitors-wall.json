@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Security-Monitors Wall",
-        "en-GB": "Security-Monitors Wall",
-        "de": "Überwachungswand",
-        "es": "Pared sala de seguridad",
-        "fr": "Mur vidéosurveillance",
-        "it": "Muro monitor di sicurezza",
-        "nl": "Observatiewand",
-        "zh-CN": "监控室墙",
-        "zh-TW": "監控室牆",
-        "jp": "モニタールームのかべ",
-        "ko": "모니터 룸 벽"
-      }
+      ]
     }
   },
   "category": "Wallpaper"

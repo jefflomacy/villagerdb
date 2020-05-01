@@ -17,10 +17,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Blue Umbrella"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -32,20 +29,7 @@
           "currency": "bells",
           "value": 770
         }
-      ],
-      "name": {
-        "en-US": "Blue Umbrella",
-        "en-GB": "Blue Umbrella",
-        "de": "Aquaschirm",
-        "es": "Paraguas azul",
-        "fr": "Parapluie bleu",
-        "it": "Ombrello blu",
-        "nl": "Blauwe paraplu",
-        "zh-CN": "蓝色纯色雨伞",
-        "zh-TW": "藍色無圖案雨傘",
-        "jp": "あおいむじのかさ",
-        "ko": "파란 우산"
-      }
+      ]
     }
   }
 }

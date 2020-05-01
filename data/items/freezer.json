@@ -28,16 +28,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Kühltruhe",
-        "en-GB": "Freezer",
-        "en-US": "Freezer",
-        "es": "Arcón congelador",
-        "fr": "Congélateur",
-        "it": "Congelatore",
-        "ja": "れいとうこ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -56,19 +47,6 @@
         "black": "Black",
         "beige": "Beige",
         "silver": "Silver"
-      },
-      "name": {
-        "en-US": "Freezer",
-        "en-GB": "Freezer",
-        "de": "Kühltruhe",
-        "es": "Arcón congelador",
-        "fr": "Congélateur",
-        "it": "Congelatore",
-        "nl": "Diepvriezer",
-        "zh-CN": "冷冻柜",
-        "zh-TW": "冷凍櫃",
-        "jp": "れいとうこ",
-        "ko": "냉동고"
       }
     }
   }

@@ -24,16 +24,7 @@
           "currency": "bells",
           "value": 720
         }
-      ],
-      "name": {
-        "de": "Superheldenstiefel",
-        "en-GB": "Zap Boots",
-        "en-US": "Zap Boots",
-        "es": "Superbota",
-        "fr": "P. bottes de héros",
-        "it": "Paio stivali eroe",
-        "ja": "ヒーローブーツ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +39,6 @@
       ],
       "variations": {
         "white": "White"
-      },
-      "name": {
-        "en-US": "Zap Boots",
-        "en-GB": "Zap Boots",
-        "de": "Paars Superheldenstiefel",
-        "es": "Superbota",
-        "fr": "Paire de bottes de héros",
-        "it": "Paio di stivali da eroe",
-        "nl": "Superlaarzen",
-        "zh-CN": "英雄靴",
-        "zh-TW": "英雄靴",
-        "jp": "ヒーローブーツ",
-        "ko": "히어로 부츠"
       }
     }
   }

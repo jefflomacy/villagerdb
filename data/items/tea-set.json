@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 300
         }
-      ],
-      "name": {
-        "de": "Tee-Service",
-        "en-GB": "Tea Set",
-        "en-US": "Tea Set",
-        "es": "Juego de té",
-        "fr": "Service à thé",
-        "it": "Set da tè",
-        "ja": "ティーセット"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -61,19 +52,6 @@
         "white-blue": "White / Blue",
         "white-red": "White / Red",
         "white-gray": "White / Gray"
-      },
-      "name": {
-        "en-US": "Tea Set",
-        "en-GB": "Tea Set",
-        "de": "Teeservice",
-        "es": "Juego de té",
-        "fr": "Service à thé",
-        "it": "Set da tè",
-        "nl": "Theeservies",
-        "zh-CN": "茶具组合",
-        "zh-TW": "茶具組合",
-        "jp": "ティーセット",
-        "ko": "티 세트"
       }
     }
   }

@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 1400
         }
-      ],
-      "name": {
-        "de": "Tafel",
-        "en-GB": "Chalkboard",
-        "en-US": "Chalkboard",
-        "es": "Pizarra",
-        "fr": "Tableau noir",
-        "it": "Lavagna",
-        "ja": "こくばん"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "music": "Music",
         "club-activities": "Club activities",
         "art": "Art"
-      },
-      "name": {
-        "en-US": "Chalkboard",
-        "en-GB": "Chalkboard",
-        "de": "Tafel",
-        "es": "Pizarra",
-        "fr": "Tableau noir",
-        "it": "Lavagna",
-        "nl": "Schoolbord",
-        "zh-CN": "黑板",
-        "zh-TW": "黑板",
-        "jp": "こくばん",
-        "ko": "칠판"
       }
     }
   }

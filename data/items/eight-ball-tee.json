@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 340
         }
-      ],
-      "name": {
-        "de": "8er-Shirt",
-        "en-GB": "Eight-Ball Tee",
-        "en-US": "Eight-Ball Tee",
-        "es": "Camiseta bola 8",
-        "fr": "T-shirt nº 8",
-        "it": "Maglietta palla 8",
-        "ja": "8ばんだまのふく"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -44,19 +35,6 @@
       ],
       "variations": {
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Eight-Ball Tee",
-        "en-GB": "Eight-Ball Tee",
-        "de": "8Er-Shirt",
-        "es": "Camiseta bola 8",
-        "fr": "T-Shirt nº 8",
-        "it": "Maglietta palla 8",
-        "nl": "8-Bal-T-Shirt",
-        "zh-CN": "8号球上衣",
-        "zh-TW": "8號球衣服",
-        "jp": "８ばんだまのふく",
-        "ko": "8번공 옷"
       }
     }
   }

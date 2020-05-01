@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "de": "Schleifchen-Strohhut",
-        "en-GB": "Ribboned Straw Hat",
-        "en-US": "Ribboned Straw Hat",
-        "es": "Sombrero con lazo",
-        "fr": "Chapeau paille ruban",
-        "it": "Capp. paglia nastro",
-        "ja": "ちいさめなぼうし"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -46,19 +37,6 @@
         "light-blue": "Light blue",
         "pink": "Pink",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Ribboned Straw Hat",
-        "en-GB": "Ribboned Straw Hat",
-        "de": "Mini-Strohhut",
-        "es": "Sombrero con lazo",
-        "fr": "Chapeau paille ruban",
-        "it": "Cappello di paglia e nastro",
-        "nl": "Strohoed met lint",
-        "zh-CN": "小帽子",
-        "zh-TW": "小帽子",
-        "jp": "ちいさめなぼうし",
-        "ko": "작은 모자"
       }
     }
   }

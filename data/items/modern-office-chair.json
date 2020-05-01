@@ -15,10 +15,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Modern Office Chair"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -43,19 +40,6 @@
         "light-blue": "Light blue",
         "pink": "Pink",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Modern Office Chair",
-        "en-GB": "Modern Office Chair",
-        "de": "Profi-Bürostuhl",
-        "es": "Sillón de oficina",
-        "fr": "Fauteuil pro",
-        "it": "Sedia da ufficio",
-        "nl": "Moderne kantoorstoel",
-        "zh-CN": "办公室椅子",
-        "zh-TW": "辦公室椅子",
-        "jp": "オフィスのチェア",
-        "ko": "사무용 의자"
       }
     }
   }

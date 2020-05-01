@@ -11,10 +11,7 @@
       },
       "sources": [
         "Location:In lakes."
-      ],
-      "name": {
-        "en-US": "Gar"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 6000
-      },
-      "name": {
-        "en-US": "Gar",
-        "en-GB": "Gar",
-        "de": "Knochenhecht",
-        "es": "Pez caimán",
-        "fr": "Gar",
-        "it": "Luccio",
-        "nl": "Kaaimansnoek",
-        "zh-CN": "雀鳝",
-        "zh-TW": "雀鱔",
-        "jp": "ガー",
-        "ko": "가아"
       }
     }
   }

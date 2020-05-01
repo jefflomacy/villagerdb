@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 160
         }
-      ],
-      "name": {
-        "de": "Safarihut",
-        "en-GB": "Explorer's Hat",
-        "en-US": "Explorer's Hat",
-        "es": "Sombrero explorador",
-        "fr": "Chapeau aventure",
-        "it": "Cappello esploratore",
-        "ja": "たんけんぼう"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +39,6 @@
         "avocado": "Avocado",
         "beige": "Beige",
         "blue": "Blue"
-      },
-      "name": {
-        "en-US": "Explorer's Hat",
-        "en-GB": "Explorer's Hat",
-        "de": "Safarihut",
-        "es": "Sombrero de exploración",
-        "fr": "Chapeau aventure",
-        "it": "Cappello da esploratore",
-        "nl": "Ontdekkingsreizigershoed",
-        "zh-CN": "探险帽",
-        "zh-TW": "探險帽",
-        "jp": "たんけんぼう",
-        "ko": "탐험 모자"
       }
     }
   }

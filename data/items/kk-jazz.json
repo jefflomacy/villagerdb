@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Jazz"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Jazz",
-        "en-GB": "K.K. Jazz",
-        "de": "K.K. Jazz",
-        "es": "Tota-Jazz",
-        "fr": "Jazz de Kéké",
-        "it": "K.K. Jazz",
-        "nl": "K.K.-Jazz",
-        "zh-CN": "K.K.爵士乐",
-        "zh-TW": "K.K.爵士樂",
-        "jp": "けけジャズ",
-        "ko": "K.K.재즈",
-        "ru": "Джаз К. К."
-      }
+      ]
     }
   }
 }

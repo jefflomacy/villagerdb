@@ -11,10 +11,7 @@
       },
       "sources": [
         "Gardening Store (with T.I.Y.)"
-      ],
-      "name": {
-        "en-US": "Holly Start"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -30,20 +27,7 @@
           "currency": "bells",
           "value": 280
         }
-      ],
-      "name": {
-        "en-US": "Holly Start",
-        "en-GB": "Holly Start",
-        "de": "Stechpalmensetzling",
-        "es": "Acebo de vivero",
-        "fr": "Pousse de houx",
-        "it": "Germoglio di agrifoglio",
-        "nl": "Hulstzaailing",
-        "zh-CN": "柊树苗",
-        "zh-TW": "柊樹苗",
-        "jp": "ヒイラギのなえ",
-        "ko": "호랑가시나무 묘목"
-      }
+      ]
     }
   }
 }

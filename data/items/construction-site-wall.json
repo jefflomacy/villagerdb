@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Construction-Site Wall",
-        "en-GB": "Construction-Site Wall",
-        "de": "Baustellenwand",
-        "es": "Pared fachada en obras",
-        "fr": "Mur de chantier",
-        "it": "Muro cantiere",
-        "nl": "Bouwplaatswand",
-        "zh-CN": "施工现场墙",
-        "zh-TW": "施工現場牆",
-        "jp": "こうじげんばのかべ",
-        "ko": "공사 현장 벽"
-      }
+      ]
     }
   },
   "category": "Wallpaper"

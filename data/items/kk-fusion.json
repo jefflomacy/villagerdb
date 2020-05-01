@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Fusion"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -40,21 +37,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Fusion",
-        "en-GB": "K.K. Fusion",
-        "de": "K.K. Fusion",
-        "es": "Tota-Fusión",
-        "fr": "Fusion Kéké",
-        "it": "K.K. Fusion",
-        "nl": "K.K.-Fusion",
-        "zh-CN": "K.K.融合爵士乐",
-        "zh-TW": "K.K.融合爵士樂",
-        "jp": "けけフュージョン",
-        "ko": "K.K.퓨전",
-        "ru": "Фьюжен К. К."
-      }
+      ]
     }
   }
 }

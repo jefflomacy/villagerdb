@@ -11,10 +11,7 @@
       },
       "sources": [
         "Around flowers."
-      ],
-      "name": {
-        "en-US": "Yellow Butterfly"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 160
-      },
-      "name": {
-        "en-US": "Yellow Butterfly",
-        "en-GB": "Yellow Butterfly",
-        "de": "Zitronenfalter",
-        "es": "Mariposa colias",
-        "fr": "Citrin",
-        "it": "Farfalla gialla",
-        "nl": "Citroenvlinder",
-        "zh-CN": "斑缘点粉蝶",
-        "zh-TW": "斑緣點粉蝶",
-        "jp": "モンキチョウ",
-        "ko": "노랑나비"
       }
     }
   }

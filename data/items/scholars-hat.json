@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Abschlusshut",
-        "en-GB": "Scholar's Hat",
-        "en-US": "Scholar's Hat",
-        "es": "Birrete de graduado",
-        "fr": "Chapeau diplôme",
-        "it": "Cappello laurea",
-        "ja": "がくしのぼうし"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -49,19 +40,6 @@
         "green": "Green",
         "blue": "Blue",
         "yellow": "Yellow"
-      },
-      "name": {
-        "en-US": "Scholar's Hat",
-        "en-GB": "Scholar's Hat",
-        "de": "Abschlusshut",
-        "es": "Birrete de graduación",
-        "fr": "Chapeau diplôme",
-        "it": "Cappello da laurea",
-        "nl": "Afstudeerhoed",
-        "zh-CN": "学士帽",
-        "zh-TW": "學士帽",
-        "jp": "がくしのぼうし",
-        "ko": "학사모"
       }
     }
   }

@@ -14,16 +14,7 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ],
-      "name": {
-        "de": "Stegosaurus-Torso",
-        "en-GB": "Stego Torso",
-        "en-US": "Stego Torso",
-        "es": "Cuerpo estegosaurio",
-        "fr": "Corps de stégosaure",
-        "it": "Torso stegosauro",
-        "ja": "ステゴサウルスのからだ"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -33,19 +24,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4500
-      },
-      "name": {
-        "en-US": "Stego Torso",
-        "en-GB": "Stego Torso",
-        "de": "Stegosaurus-Torso",
-        "es": "Cuerpo estegosaurio",
-        "fr": "Corps de stégosaure",
-        "it": "Torso stegosauro",
-        "nl": "Stegosaurusromp",
-        "zh-CN": "剑龙的身体",
-        "zh-TW": "劍龍的身體",
-        "jp": "ステゴサウルスのからだ",
-        "ko": "스테고사우루스의 몸통"
       }
     }
   }

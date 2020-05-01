@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Groove"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Groove",
-        "en-GB": "K.K. Groove",
-        "de": "K.K. Groove",
-        "es": "Tota-Groove",
-        "fr": "Groove Kéké",
-        "it": "K.K. Groove",
-        "nl": "K.K.-Groove",
-        "zh-CN": "K.K.律动",
-        "zh-TW": "K.K.律動",
-        "jp": "けけグルーヴ",
-        "ko": "K.K.그루브",
-        "ru": "Грув К. К."
-      }
+      ]
     }
   }
 }

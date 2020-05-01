@@ -17,10 +17,7 @@
           "currency": "bells",
           "value": 1480
         }
-      ],
-      "name": {
-        "en-US": "Cloud Flooring"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -36,20 +33,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Cloud Flooring",
-        "en-GB": "Cloud Flooring",
-        "de": "Wolkengrund",
-        "es": "Suelo nube",
-        "fr": "Sol nuages",
-        "it": "Pavimento nuvole",
-        "nl": "Wolkenvloer",
-        "zh-CN": "云上风景",
-        "zh-TW": "雲上風景",
-        "jp": "くものうえ",
-        "ko": "구름 위"
-      }
+      ]
     }
   }
 }

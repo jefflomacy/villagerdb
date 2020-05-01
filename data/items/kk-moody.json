@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Moody"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Moody",
-        "en-GB": "K.K. Moody",
-        "de": "K.K. Sonnenuntergang",
-        "es": "Tota-Bolero",
-        "fr": "Slow Kéké",
-        "it": "K.K. Tramonto",
-        "nl": "K.K.-Bolero",
-        "zh-CN": "K.K.波蕾洛",
-        "zh-TW": "K.K.波蕾洛",
-        "jp": "けけボレロ",
-        "ko": "K.K.볼레로",
-        "ru": "Задумчивый К. К."
-      }
+      ]
     }
   }
 }

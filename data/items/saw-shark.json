@@ -11,10 +11,7 @@
       },
       "sources": [
         "In the sea."
-      ],
-      "name": {
-        "en-US": "Saw Shark"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 12000
-      },
-      "name": {
-        "en-US": "Saw Shark",
-        "en-GB": "Saw Shark",
-        "de": "Sägehai",
-        "es": "Pez sierra",
-        "fr": "Requin scie",
-        "it": "Squalo sega",
-        "nl": "Zaaghaai",
-        "zh-CN": "锯鲨",
-        "zh-TW": "鋸鯊",
-        "jp": "ノコギリザメ",
-        "ko": "톱상어"
       }
     }
   }

@@ -20,34 +20,19 @@
           "currency": "bells",
           "value": 680
         }
-      ],
-      "name": {
-        "de": "Wabenpulli",
-        "en-GB": "Fiendish Shirt",
-        "en-US": "Fiendish Shirt",
-        "es": "Jersey red roja",
-        "fr": "Pull magma",
-        "it": "Maglia a rete rossa",
-        "ja": "あかいネットのふく"
-      }
+      ]
     },
     "ac": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ],
-      "name": {
-        "en-US": "Fiendish Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ],
-      "name": {
-        "en-US": "Fiendish Shirt"
-      }
+      ]
     }
   }
 }

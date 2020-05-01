@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Lecture-Hall Desk"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -38,19 +35,6 @@
         "light-brown": "Light brown",
         "dark-brown": "Dark brown",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Lecture-Hall Desk",
-        "en-GB": "Lecture-Hall Desk",
-        "de": "Hörsaaltisch",
-        "es": "Pupitre",
-        "fr": "Table d'amphi",
-        "it": "Banco per aula",
-        "nl": "Collegezaaltafel",
-        "zh-CN": "讲堂桌子",
-        "zh-TW": "講堂桌子",
-        "jp": "こうぎしつのつくえ",
-        "ko": "강의실 책상"
       }
     }
   }

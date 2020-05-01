@@ -23,16 +23,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "de": "Strohpulli",
-        "en-GB": "Straw Shirt",
-        "en-US": "Straw Shirt",
-        "es": "Jersey ramitas",
-        "fr": "Pull paille",
-        "it": "Maglia paglia",
-        "ja": "かれくさのふく"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -48,10 +39,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "en-US": "Straw Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -67,10 +55,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "en-US": "Straw Shirt"
-      }
+      ]
     }
   }
 }

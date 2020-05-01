@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 1200
         }
-      ],
-      "name": {
-        "de": "Teekessel",
-        "en-GB": "Simple Kettle",
-        "en-US": "Simple Kettle",
-        "es": "Tetera normal",
-        "fr": "Bouilloire standard",
-        "it": "Bollitore standard",
-        "ja": "ケトル"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -48,19 +39,6 @@
         "black": "Black",
         "navy-blue": "Navy blue",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Simple Kettle",
-        "en-GB": "Simple Kettle",
-        "de": "Teekessel",
-        "es": "Tetera normal",
-        "fr": "Bouilloire standard",
-        "it": "Bollitore standard",
-        "nl": "Waterketel",
-        "zh-CN": "开水壶",
-        "zh-TW": "開水壺",
-        "jp": "ケトル",
-        "ko": "심플 주전자"
       }
     }
   }

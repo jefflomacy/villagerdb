@@ -24,16 +24,7 @@
           "currency": "bells",
           "value": 1032
         }
-      ],
-      "name": {
-        "de": "Mumienmaske",
-        "en-GB": "Mummy Mask",
-        "en-US": "Mummy Mask",
-        "es": "Careta de momia",
-        "fr": "Masque de momie",
-        "it": "Maschera mummia",
-        "ja": "ミイラのかぶりもの"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +39,6 @@
       ],
       "variations": {
         "white": "White"
-      },
-      "name": {
-        "en-US": "Mummy Mask",
-        "en-GB": "Mummy Mask",
-        "de": "Mumienmaske",
-        "es": "Careta de momia",
-        "fr": "Masque de momie",
-        "it": "Maschera da mummia",
-        "nl": "Mummiemasker",
-        "zh-CN": "木乃伊头套",
-        "zh-TW": "木乃伊頭套",
-        "jp": "ミイラのかぶりもの",
-        "ko": "미라 마스크"
       }
     }
   }

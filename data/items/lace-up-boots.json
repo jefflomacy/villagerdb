@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 720
         }
-      ],
-      "name": {
-        "de": "Schnürstiefel",
-        "en-GB": "Lace-Up Boots",
-        "en-US": "Lace-Up Boots",
-        "es": "Bota alta",
-        "fr": "Paire bottes lacets",
-        "it": "P. stivali con lacci",
-        "ja": "あみあげブーツ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -51,19 +42,6 @@
         "white": "White",
         "brown": "Brown",
         "red": "Red"
-      },
-      "name": {
-        "en-US": "Lace-Up Boots",
-        "en-GB": "Lace-Up Boots",
-        "de": "Paars Schnürstiefel",
-        "es": "Bota alta",
-        "fr": "Paire de bottes à lacets",
-        "it": "Paio di stivali con lacci",
-        "nl": "Geveterde laarzen",
-        "zh-CN": "绑带靴",
-        "zh-TW": "綁帶靴",
-        "jp": "あみあげブーツ",
-        "ko": "레이스업 부츠"
       }
     }
   }

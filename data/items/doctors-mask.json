@@ -23,10 +23,7 @@
           "currency": "bells",
           "value": 80
         }
-      ],
-      "name": {
-        "en-US": "Doctor's Mask"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -42,19 +39,6 @@
       ],
       "variations": {
         "white": "White"
-      },
-      "name": {
-        "en-US": "Doctor's Mask",
-        "en-GB": "Doctor's Mask",
-        "de": "Mundschutzes",
-        "es": "Mascarilla quirúrgica",
-        "fr": "Masque chirurgical",
-        "it": "Mascherina medica",
-        "nl": "Doktersmasker",
-        "zh-CN": "口罩",
-        "zh-TW": "口罩",
-        "jp": "マスク",
-        "ko": "마스크"
       }
     }
   }

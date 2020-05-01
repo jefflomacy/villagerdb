@@ -24,16 +24,7 @@
           "currency": "bells",
           "value": 480
         }
-      ],
-      "name": {
-        "de": "Kimono-Sandale",
-        "en-GB": "Kimono Sandals",
-        "en-US": "Kimono Sandals",
-        "es": "Sandalia kimono",
-        "fr": "P. sandales kimono",
-        "it": "P. zoccoli kimono",
-        "ja": "げた"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -55,19 +46,6 @@
         "purple": "Purple",
         "yellow": "Yellow",
         "green": "Green"
-      },
-      "name": {
-        "en-US": "Kimono Sandals",
-        "en-GB": "Kimono Sandals",
-        "de": "Paars Kimono-Sandalen",
-        "es": "Sandalia kimono",
-        "fr": "Paire de sandales kimono",
-        "it": "Paio di zoccoli da kimono",
-        "nl": "Kimonosandalen",
-        "zh-CN": "木屐",
-        "zh-TW": "二齒木屐",
-        "jp": "げた",
-        "ko": "일본풍 샌들"
       }
     }
   }

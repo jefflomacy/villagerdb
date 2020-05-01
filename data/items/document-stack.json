@@ -16,10 +16,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Document Stack"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -45,19 +42,6 @@
         "text-documents": "Text documents",
         "exam-papers": "Exam papers",
         "storyboards": "Storyboards"
-      },
-      "name": {
-        "en-US": "Document Stack",
-        "en-GB": "Document Stack",
-        "de": "Dokumentenstapel",
-        "es": "Pila de documentos",
-        "fr": "Pile de documents",
-        "it": "Pila di documenti",
-        "nl": "Stapel documenten",
-        "zh-CN": "文件堆",
-        "zh-TW": "文件堆",
-        "jp": "しょるいのやま",
-        "ko": "서류 더미"
       }
     }
   }

@@ -11,10 +11,7 @@
       },
       "sources": [
         "Gift balloon (after popping lots of balloons)"
-      ],
-      "name": {
-        "en-US": "Golden Slingshot"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -26,19 +23,6 @@
       "recipe": {
         "gold-nugget": 1,
         "slingshot": 1
-      },
-      "name": {
-        "en-US": "Golden Slingshot",
-        "en-GB": "Golden Slingshot",
-        "de": "Goldschleuder",
-        "es": "Tirachinas de oro",
-        "fr": "Lance-Pierre doré",
-        "it": "Fionda d'oro",
-        "nl": "Gouden katapult",
-        "zh-CN": "金色弹弓",
-        "zh-TW": "金色彈弓",
-        "jp": "きんのパチンコ",
-        "ko": "금 새총"
       }
     }
   }

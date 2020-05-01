@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Synthesizer"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -37,19 +34,6 @@
         "yellow": "Yellow",
         "silver": "Silver",
         "brown": "Brown"
-      },
-      "name": {
-        "en-US": "Synthesizer",
-        "en-GB": "Synthesizer",
-        "de": "Synthesizer",
-        "es": "Sintetizador",
-        "fr": "Synthétiseur",
-        "it": "Sintetizzatore",
-        "nl": "Synthesizer",
-        "zh-CN": "电子琴",
-        "zh-TW": "電子琴",
-        "jp": "シンセサイザー",
-        "ko": "신시사이저"
       }
     }
   }

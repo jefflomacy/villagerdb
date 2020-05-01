@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 1380
         }
-      ],
-      "name": {
-        "en-US": "Dark-Block Flooring",
-        "en-GB": "Dark-Block Flooring",
-        "de": "Dunkel-Quadratboden",
-        "es": "Parqué cuadriculado oscuro",
-        "fr": "Sol blocs de bois sombre",
-        "it": "Pavimento blocchi scuri",
-        "nl": "Donkere houten blokvloer",
-        "zh-CN": "深色地板砖块",
-        "zh-TW": "深色地板磚塊",
-        "jp": "ダークなフローリングブロック",
-        "ko": "다크 나무 블록 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

@@ -11,10 +11,7 @@
       },
       "sources": [
         "On trees (shake them)."
-      ],
-      "name": {
-        "en-US": "Bagworm"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 600
-      },
-      "name": {
-        "en-US": "Bagworm",
-        "en-GB": "Bagworm",
-        "de": "Sackträger",
-        "es": "Oruga de bolsón",
-        "fr": "Psyché",
-        "it": "Bruco dal fodero",
-        "nl": "Zakjesdrager",
-        "zh-CN": "蓑衣虫",
-        "zh-TW": "蓑衣蟲",
-        "jp": "ミノムシ",
-        "ko": "도롱이벌레"
       }
     }
   }

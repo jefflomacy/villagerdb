@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 700
         }
-      ],
-      "name": {
-        "en-US": "Rubber-Tile Flooring",
-        "en-GB": "Rubber-Tile Flooring",
-        "de": "Gummifliesenboden",
-        "es": "Suelo caucho aislante",
-        "fr": "Sol dalles caoutchouc",
-        "it": "Pavimento piastrelle gomma",
-        "nl": "Rubberen tegelvloer",
-        "zh-CN": "橡胶砖地板",
-        "zh-TW": "橡膠磚地板",
-        "jp": "ゴムタイルのゆか",
-        "ko": "고무 타일 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

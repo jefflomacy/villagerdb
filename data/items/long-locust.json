@@ -11,10 +11,7 @@
       },
       "sources": [
         "In grassy patches."
-      ],
-      "name": {
-        "en-US": "Long Locust"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 200
-      },
-      "name": {
-        "en-US": "Long Locust",
-        "en-GB": "Long Locust",
-        "de": "Nasenschrecke",
-        "es": "Langosta alargada",
-        "fr": "Acrida cinerea",
-        "it": "Acrida cinerea",
-        "nl": "Veldsprinkhaan",
-        "zh-CN": "中华剑角蝗",
-        "zh-TW": "中華劍角蝗",
-        "jp": "ショウリョウバッタ",
-        "ko": "방아깨비"
       }
     }
   }

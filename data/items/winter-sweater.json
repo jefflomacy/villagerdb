@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 292
         }
-      ],
-      "name": {
-        "de": "Winterpulli",
-        "en-GB": "Winter Sweater",
-        "en-US": "Winter Sweater",
-        "es": "Jersey nórdico",
-        "fr": "Pull hiver",
-        "it": "Maglione invernale",
-        "ja": "ゆきぐになニット"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 290
         }
-      ],
-      "name": {
-        "en-US": "Winter Sweater"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 290
         }
-      ],
-      "name": {
-        "en-US": "Winter Sweater"
-      }
+      ]
     }
   }
 }

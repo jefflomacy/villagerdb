@@ -11,10 +11,7 @@
       },
       "sources": [
         "On trees."
-      ],
-      "name": {
-        "en-US": "Horned Dynastid"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1350
-      },
-      "name": {
-        "en-US": "Horned Dynastid",
-        "en-GB": "Horned Dynastid",
-        "de": "Nashornkäfer",
-        "es": "Escarabajo astado japonés",
-        "fr": "Scarabée kabuto",
-        "it": "Scarabeo kabutomushi",
-        "nl": "Neushoornkever",
-        "zh-CN": "独角仙",
-        "zh-TW": "獨角仙",
-        "jp": "カブトムシ",
-        "ko": "장수풍뎅이"
       }
     }
   }

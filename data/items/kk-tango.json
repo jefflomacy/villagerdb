@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Tango"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -40,21 +37,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Tango",
-        "en-GB": "K.K. Tango",
-        "de": "K.K. Tango",
-        "es": "Tota-Tango",
-        "fr": "Tango de Kéké",
-        "it": "K.K. Tango",
-        "nl": "K.K.-Tango",
-        "zh-CN": "K.K.探戈",
-        "zh-TW": "K.K.探戈",
-        "jp": "けけタンゴ",
-        "ko": "K.K.탱고",
-        "ru": "Танго К. К."
-      }
+      ]
     }
   }
 }

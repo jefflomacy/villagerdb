@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 1420
         }
-      ],
-      "name": {
-        "en-US": "Monochromatic-Tile Wall",
-        "en-GB": "Monochromatic-Tile Wall",
-        "de": "Graufliesenwand",
-        "es": "Pared alicatada blanca",
-        "fr": "Mur carrelage monochrome",
-        "it": "Muro piastrelle monocrome",
-        "nl": "Effen tegelwand",
-        "zh-CN": "单色配色砖墙",
-        "zh-TW": "灰階配色磚牆",
-        "jp": "モノクロタイルのかべ",
-        "ko": "흑백 타일 벽"
-      }
+      ]
     }
   },
   "category": "Wallpaper"

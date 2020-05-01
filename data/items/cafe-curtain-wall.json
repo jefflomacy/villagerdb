@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Café-Curtain Wall"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -29,20 +26,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Café-Curtain Wall",
-        "en-GB": "Café-Curtain Wall",
-        "de": "Scheibengardinenwand",
-        "es": "Pared cafetería",
-        "fr": "Mur rideaux de café",
-        "it": "Muro caffetteria",
-        "nl": "Caféwand",
-        "zh-CN": "咖啡店窗帘墙",
-        "zh-TW": "咖啡店窗簾牆",
-        "jp": "カフェカーテンのかべ",
-        "ko": "카페 커튼 벽"
-      }
+      ]
     }
   }
 }

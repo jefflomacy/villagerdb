@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 70
         }
-      ],
-      "name": {
-        "de": "Whirlpool",
-        "en-GB": "Whirlpool Bath",
-        "en-US": "Whirlpool Bath",
-        "es": "Bañera hidromasaje",
-        "fr": "Bain à remous",
-        "it": "Vasca idromassaggio",
-        "ja": "ジャグジー"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -42,19 +33,6 @@
       "variations": {
         "white": "White",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Whirlpool Bath",
-        "en-GB": "Whirlpool Bath",
-        "de": "Whirlpool",
-        "es": "Bañera de hidromasaje",
-        "fr": "Bain à remous",
-        "it": "Vasca idromassaggio",
-        "nl": "Bubbelbad",
-        "zh-CN": "按摩浴缸",
-        "zh-TW": "按摩浴缸",
-        "jp": "ジャグジー",
-        "ko": "자쿠지 욕조"
       }
     }
   }

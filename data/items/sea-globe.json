@@ -27,16 +27,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Aquariumkugel",
-        "en-GB": "Sea Globe",
-        "en-US": "Sea Globe",
-        "es": "Globo de acuario",
-        "fr": "Boule aquarium",
-        "it": "Boccia acquario",
-        "ja": "シーグローブ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,20 +43,7 @@
           "currency": "bells",
           "value": 1200
         }
-      ],
-      "name": {
-        "en-US": "Sea Globe",
-        "en-GB": "Sea Globe",
-        "de": "Aquariumkugel",
-        "es": "Globo de acuario",
-        "fr": "Boule aquarium",
-        "it": "Boccia acquario",
-        "nl": "Aquariumglobe",
-        "zh-CN": "海洋水晶球",
-        "zh-TW": "海洋水晶球",
-        "jp": "シーグローブ",
-        "ko": "해저볼"
-      }
+      ]
     }
   }
 }

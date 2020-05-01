@@ -23,10 +23,7 @@
           "currency": "bells",
           "value": 1200
         }
-      ],
-      "name": {
-        "en-US": "Superhero Mask"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -45,19 +42,6 @@
       ],
       "variations": {
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Superhero Mask",
-        "en-GB": "Superhero Mask",
-        "de": "Superheldenmaske",
-        "es": "Antifaz",
-        "fr": "Masque de héros",
-        "it": "Maschera nera",
-        "nl": "Superheldenmasker",
-        "zh-CN": "英雄面具",
-        "zh-TW": "英雄面具",
-        "jp": "ヒーローマスク",
-        "ko": "히어로 마스크"
       }
     }
   }

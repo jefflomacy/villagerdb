@@ -11,10 +11,7 @@
       },
       "sources": [
         "Island tree"
-      ],
-      "name": {
-        "en-US": "Coconut"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 250
-      },
-      "name": {
-        "en-US": "Coconut",
-        "en-GB": "Coconut",
-        "de": "Kokosnuss",
-        "es": "Coco",
-        "fr": "Noix de coco",
-        "it": "Noce di cocco",
-        "nl": "Kokosnoot",
-        "zh-CN": "椰子",
-        "zh-TW": "椰子",
-        "jp": "ヤシのみ",
-        "ko": "야자열매"
       }
     }
   }

@@ -11,10 +11,7 @@
       },
       "sources": [
         "In the air."
-      ],
-      "name": {
-        "en-US": "Mosquito"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 130
-      },
-      "name": {
-        "en-US": "Mosquito",
-        "en-GB": "Mosquito",
-        "de": "Mücke",
-        "es": "Mosquito",
-        "fr": "Moustique",
-        "it": "Zanzara",
-        "nl": "Mug",
-        "zh-CN": "蚊子",
-        "zh-TW": "蚊子",
-        "jp": "カ",
-        "ko": "모기"
       }
     }
   }

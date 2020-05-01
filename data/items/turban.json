@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 600
         }
-      ],
-      "name": {
-        "de": "Turban",
-        "en-GB": "Turban",
-        "en-US": "Turban",
-        "es": "Turbante",
-        "fr": "Turban",
-        "it": "Turbante",
-        "ja": "ターバン"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +39,6 @@
         "blue": "Blue",
         "pink": "Pink",
         "yellow": "Yellow"
-      },
-      "name": {
-        "en-US": "Turban",
-        "en-GB": "Turban",
-        "de": "Turban",
-        "es": "Turbante",
-        "fr": "Turban",
-        "it": "Turbante",
-        "nl": "Tulband",
-        "zh-CN": "特本头巾",
-        "zh-TW": "特本頭巾",
-        "jp": "ターバン",
-        "ko": "터번"
       }
     }
   }

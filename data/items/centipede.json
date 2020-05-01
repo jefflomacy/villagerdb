@@ -11,10 +11,7 @@
       },
       "sources": [
         "Hidden under rocks (smack with a shovel)."
-      ],
-      "name": {
-        "en-US": "Centipede"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 300
-      },
-      "name": {
-        "en-US": "Centipede",
-        "en-GB": "Centipede",
-        "de": "Hundertfüßer",
-        "es": "Ciempiés",
-        "fr": "Mille-Pattes",
-        "it": "Centopiedi",
-        "nl": "Duizendpoot",
-        "zh-CN": "蜈蚣",
-        "zh-TW": "蜈蚣",
-        "jp": "ムカデ",
-        "ko": "지네"
       }
     }
   }

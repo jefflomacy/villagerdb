@@ -24,16 +24,7 @@
           "currency": "bells",
           "value": 4800
         }
-      ],
-      "name": {
-        "de": "Münzen-Stirnband",
-        "en-GB": "Coin Headpiece",
-        "en-US": "Coin Headpiece",
-        "es": "Gorra de monedas",
-        "fr": "Parure de sultane",
-        "it": "Copricapo con monete",
-        "ja": "コインヘッドピース"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -49,19 +40,6 @@
       ],
       "variations": {
         "gold": "Gold"
-      },
-      "name": {
-        "en-US": "Coin Headpiece",
-        "en-GB": "Coin Headpiece",
-        "de": "Münzen-Stirnband",
-        "es": "Gorra de monedas",
-        "fr": "Parure de sultane",
-        "it": "Copricapo con monete",
-        "nl": "Muntenpruik",
-        "zh-CN": "金币头饰",
-        "zh-TW": "金幣頭飾",
-        "jp": "コインヘッドピース",
-        "ko": "코인 헤드피스"
       }
     }
   }

@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 500
         }
-      ],
-      "name": {
-        "de": "Mülltonne",
-        "en-GB": "Garbage Can",
-        "en-US": "Garbage Can",
-        "es": "Cubo de basura",
-        "fr": "Poubelle",
-        "it": "Bidone rifiuti",
-        "ja": "ブリキのペール"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -45,20 +36,7 @@
           "currency": "bells",
           "value": 960
         }
-      ],
-      "name": {
-        "en-US": "Garbage Can",
-        "en-GB": "Garbage Can",
-        "de": "Mülltonne",
-        "es": "Cubo de basura",
-        "fr": "Poubelle",
-        "it": "Bidone dei rifiuti",
-        "nl": "Metalen vuilnisemmer",
-        "zh-CN": "铁桶",
-        "zh-TW": "鐵桶",
-        "jp": "ブリキのペール",
-        "ko": "양철 쓰레기통"
-      }
+      ]
     }
   }
 }

@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 680
         }
-      ],
-      "name": {
-        "de": "Papiertiger",
-        "en-GB": "Paper Tiger",
-        "en-US": "Paper Tiger",
-        "es": "Tigre de papel",
-        "fr": "Tigre en papier",
-        "it": "Tigre di carta",
-        "ja": "はりこのとら"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -46,20 +37,7 @@
           "currency": "bells",
           "value": 1500
         }
-      ],
-      "name": {
-        "en-US": "Paper Tiger",
-        "en-GB": "Paper Tiger",
-        "de": "Papiertiger",
-        "es": "Tigre de papel",
-        "fr": "Tigre en papier",
-        "it": "Tigre di carta",
-        "nl": "Papieren tijger",
-        "zh-CN": "纸老虎",
-        "zh-TW": "紙老虎",
-        "jp": "はりこのとら",
-        "ko": "종이호랑이"
-      }
+      ]
     }
   }
 }

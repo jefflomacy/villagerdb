@@ -23,16 +23,7 @@
           "currency": "bells",
           "value": 380
         }
-      ],
-      "name": {
-        "de": "Militärjacke",
-        "en-GB": "Military Uniform",
-        "en-US": "Military Uniform",
-        "es": "Chaqueta militar",
-        "fr": "Pull militaire",
-        "it": "Giacca militare",
-        "ja": "へいたいのふく"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -50,19 +41,6 @@
         "blue": "Blue",
         "green": "Green",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Military Uniform",
-        "en-GB": "Military Uniform",
-        "de": "Militärjacke",
-        "es": "Chaqueta militar",
-        "fr": "Veste militaire",
-        "it": "Giacca militare",
-        "nl": "Paleiswachtersjas",
-        "zh-CN": "骑兵队制服",
-        "zh-TW": "騎兵隊衣服",
-        "jp": "へいたいのふく",
-        "ko": "군인 옷"
       }
     }
   }

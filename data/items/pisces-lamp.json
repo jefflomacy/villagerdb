@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 4800
         }
-      ],
-      "name": {
-        "de": "Fische-Lampe",
-        "en-GB": "Pisces Lamp",
-        "en-US": "Pisces Lamp",
-        "es": "Lámpara Piscis",
-        "fr": "Lampe Poissons",
-        "it": "Lampada Pesci",
-        "ja": "ピスケスのランプ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -38,20 +29,7 @@
           "currency": "bells",
           "value": 88200
         }
-      ],
-      "name": {
-        "en-US": "Pisces Lamp",
-        "en-GB": "Pisces Lamp",
-        "de": "Fische-Lampe",
-        "es": "Lámpara Piscis",
-        "fr": "Lampe Poissons",
-        "it": "Lampada Pesci",
-        "nl": "Vissen-Lamp",
-        "zh-CN": "双鱼座灯",
-        "zh-TW": "雙魚座燈",
-        "jp": "ピスケスのランプ",
-        "ko": "물고기자리 램프"
-      }
+      ]
     }
   }
 }

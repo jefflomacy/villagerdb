@@ -11,10 +11,7 @@
       },
       "sources": [
         "In the sea."
-      ],
-      "name": {
-        "en-US": "Whale Shark"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 13000
-      },
-      "name": {
-        "en-US": "Whale Shark",
-        "en-GB": "Whale Shark",
-        "de": "Walhai",
-        "es": "Tiburón ballena",
-        "fr": "Requin-Baleine",
-        "it": "Squalo balena",
-        "nl": "Walvishaai",
-        "zh-CN": "鲸鲨",
-        "zh-TW": "鯨鯊",
-        "jp": "ジンベエザメ",
-        "ko": "고래상어"
       }
     }
   }

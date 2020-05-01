@@ -16,16 +16,7 @@
           "currency": "bells",
           "value": 60
         }
-      ],
-      "name": {
-        "de": "Flaschenschiff",
-        "en-GB": "Bottled Ship",
-        "en-US": "Bottled Ship",
-        "es": "Barco en botella",
-        "fr": "Bateau bouteille",
-        "it": "Modellino nave",
-        "ja": "ボトルシップ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -43,19 +34,6 @@
         "trading-ship": "Trading ship",
         "leisure-boat": "Leisure boat",
         "pirate-ship": "Pirate ship"
-      },
-      "name": {
-        "en-US": "Bottled Ship",
-        "en-GB": "Bottled Ship",
-        "de": "Flaschenschiff",
-        "es": "Barco en botella",
-        "fr": "Bateau bouteille",
-        "it": "Modellino di nave",
-        "nl": "Flessenscheepje",
-        "zh-CN": "瓶中船",
-        "zh-TW": "瓶中船",
-        "jp": "ボトルシップ",
-        "ko": "보틀쉽"
       }
     }
   }

@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "The K. Funk"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -36,21 +33,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "The K. Funk",
-        "en-GB": "The K. Funk",
-        "de": "K. Funk",
-        "es": "Tota-Funk",
-        "fr": "Le Kéké Funk",
-        "it": "K.K. Funk",
-        "nl": "K.K.-Funk",
-        "zh-CN": "K.K.放克",
-        "zh-TW": "K.K.放克",
-        "jp": "けけファンク",
-        "ko": "K.K.펑키",
-        "ru": "Фанк К. К."
-      }
+      ]
     }
   }
 }

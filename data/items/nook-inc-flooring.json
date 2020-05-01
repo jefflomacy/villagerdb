@@ -16,20 +16,7 @@
           "currency": "miles",
           "value": 1200
         }
-      ],
-      "name": {
-        "en-US": "Nook Inc. Flooring",
-        "en-GB": "Nook Inc. Flooring",
-        "de": "Nook-Inc.-Boden",
-        "es": "Suelo de Nook Inc.",
-        "fr": "Sol Nook Inc.",
-        "it": "Pavimento Nook Inc.",
-        "nl": "Nook Inc.-vloer",
-        "zh-CN": "Nook Inc.地板",
-        "zh-TW": "Nook Inc.地板",
-        "jp": "たぬきかいはつのフローリング",
-        "ko": "Nook Inc. 마룻바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

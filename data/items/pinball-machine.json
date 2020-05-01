@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 1960
         }
-      ],
-      "name": {
-        "de": "Flipper",
-        "en-GB": "Pinball Machine",
-        "en-US": "Pinball Machine",
-        "es": "Máquina pinball",
-        "fr": "Flipper",
-        "it": "Flipper",
-        "ja": "ピンボールだい"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +39,6 @@
         "blue": "Blue",
         "black": "Black",
         "brown": "Brown"
-      },
-      "name": {
-        "en-US": "Pinball Machine",
-        "en-GB": "Pinball Machine",
-        "de": "Flipper",
-        "es": "Máquina de pinball",
-        "fr": "Flipper",
-        "it": "Flipper",
-        "nl": "Flipperkast",
-        "zh-CN": "弹珠台",
-        "zh-TW": "彈珠台",
-        "jp": "ピンボールだい",
-        "ko": "핀볼 게임기"
       }
     }
   }

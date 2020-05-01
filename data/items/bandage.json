@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 80
         }
-      ],
-      "name": {
-        "en-US": "Bandage"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -42,19 +39,6 @@
       ],
       "variations": {
         "beige": "Beige"
-      },
-      "name": {
-        "en-US": "Bandage",
-        "en-GB": "Bandage",
-        "de": "Pflasters",
-        "es": "Par de tiritas",
-        "fr": "Lot de pansements",
-        "it": "Set di cerotti",
-        "nl": "Pleisters",
-        "zh-CN": "创可贴",
-        "zh-TW": "絆創帶",
-        "jp": "ばんそうこう",
-        "ko": "반창고"
       }
     }
   }

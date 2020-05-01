@@ -11,10 +11,7 @@
       },
       "sources": [
         "On palm trees."
-      ],
-      "name": {
-        "en-US": "Horned Hercules"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 12000
-      },
-      "name": {
-        "en-US": "Horned Hercules",
-        "en-GB": "Horned Hercules",
-        "de": "Herkuleskäfer",
-        "es": "Escarabajo astado hércules",
-        "fr": "Scarabée Hercule",
-        "it": "Scarabeo Ercole",
-        "nl": "Herculeskever",
-        "zh-CN": "长戟大兜虫",
-        "zh-TW": "長戟大兜蟲",
-        "jp": "ヘラクレスオオカブト",
-        "ko": "헤라클레스장수풍뎅이"
       }
     }
   }

@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 380
         }
-      ],
-      "name": {
-        "de": "Baumpulli",
-        "en-GB": "Monkey Shirt",
-        "en-US": "Monkey Shirt",
-        "es": "Jersey monos",
-        "fr": "Pull singe",
-        "it": "Maglione con scimmie",
-        "ja": "さるがらのニット"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 380
         }
-      ],
-      "name": {
-        "en-US": "Monkey Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 380
         }
-      ],
-      "name": {
-        "en-US": "Monkey Shirt"
-      }
+      ]
     }
   }
 }

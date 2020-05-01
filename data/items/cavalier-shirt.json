@@ -24,16 +24,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Edelmann-Hemd",
-        "en-GB": "Cavalier Shirt",
-        "en-US": "Cavalier Shirt",
-        "es": "Jersey mosquetero",
-        "fr": "Pull équitation",
-        "it": "Giubba moschettiere",
-        "ja": "じゅうきしのふく"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -54,19 +45,6 @@
         "blue": "Blue",
         "red": "Red",
         "green": "Green"
-      },
-      "name": {
-        "en-US": "Cavalier Shirt",
-        "en-GB": "Cavalier Shirt",
-        "de": "Edelmann-Hemd",
-        "es": "Jersey de mosquetero",
-        "fr": "Tenue de mousquetaire",
-        "it": "Giubba da moschettiere",
-        "nl": "Musketierstuniek",
-        "zh-CN": "候补骑士服",
-        "zh-TW": "騎士衣服",
-        "jp": "じゅうきしのふく",
-        "ko": "기사 옷"
       }
     }
   }

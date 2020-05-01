@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 2400
         }
-      ],
-      "name": {
-        "de": "Fahrradergometer",
-        "en-GB": "Exercise Bike",
-        "en-US": "Exercise Bike",
-        "es": "Bicicleta estática",
-        "fr": "Vélo d'appartement",
-        "it": "Cyclette",
-        "ja": "エクササイズバイク"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -47,19 +38,6 @@
         "red": "Red",
         "yellow": "Yellow",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Exercise Bike",
-        "en-GB": "Exercise Bike",
-        "de": "Fahrradergometer",
-        "es": "Bicicleta estática",
-        "fr": "Vélo d'appartement",
-        "it": "Cyclette",
-        "nl": "Hometrainer",
-        "zh-CN": "健身脚踏车",
-        "zh-TW": "健身腳踏車",
-        "jp": "エクササイズバイク",
-        "ko": "자전거 머신"
       }
     }
   }

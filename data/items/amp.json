@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 2400
         }
-      ],
-      "name": {
-        "de": "Verstärker",
-        "en-GB": "Amp",
-        "en-US": "Amp",
-        "es": "Amplificador",
-        "fr": "Ampli",
-        "it": "Amplificatore",
-        "ja": "アンプ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -55,19 +46,6 @@
         "blue": "Blue",
         "red": "Red",
         "pink": "Pink"
-      },
-      "name": {
-        "en-US": "Amp",
-        "en-GB": "Amp",
-        "de": "Verstärker",
-        "es": "Amplificador",
-        "fr": "Ampli",
-        "it": "Amplificatore",
-        "nl": "Versterker",
-        "zh-CN": "扩音器",
-        "zh-TW": "擴音器",
-        "jp": "アンプ",
-        "ko": "앰프"
       }
     }
   }

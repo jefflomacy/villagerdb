@@ -11,16 +11,7 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ],
-      "name": {
-        "de": "Ammonit",
-        "en-GB": "Ammonite",
-        "en-US": "Ammonite",
-        "es": "Amonites",
-        "fr": "Ammonite",
-        "it": "Ammonite",
-        "ja": "アンモナイト"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -30,19 +21,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1100
-      },
-      "name": {
-        "en-US": "Ammonite",
-        "en-GB": "Ammonite",
-        "de": "Ammonit",
-        "es": "Amonites",
-        "fr": "Ammonite",
-        "it": "Ammonite",
-        "nl": "Ammoniet",
-        "zh-CN": "菊石",
-        "zh-TW": "菊石",
-        "jp": "アンモナイト",
-        "ko": "암모나이트"
       }
     }
   }

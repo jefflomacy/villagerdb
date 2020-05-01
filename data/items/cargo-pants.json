@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 480
         }
-      ],
-      "name": {
-        "de": "Cargohose",
-        "en-GB": "Cargo Pants",
-        "en-US": "Cargo Pants",
-        "es": "Pantalón cargo",
-        "fr": "Pantalon cargo",
-        "it": "Pantalone con tasche",
-        "ja": "カーゴパンツ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "navy-blue": "Navy blue",
         "mustard": "Mustard",
         "brown": "Brown"
-      },
-      "name": {
-        "en-US": "Cargo Pants",
-        "en-GB": "Cargo Pants",
-        "de": "Cargohose",
-        "es": "Pantalón cargo",
-        "fr": "Pantalon cargo",
-        "it": "Pantalone con tasche",
-        "nl": "Cargobroek",
-        "zh-CN": "工作裤",
-        "zh-TW": "工作褲",
-        "jp": "カーゴパンツ",
-        "ko": "카고 바지"
       }
     }
   }

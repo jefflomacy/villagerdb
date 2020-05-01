@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Killifish"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 300
-      },
-      "name": {
-        "en-US": "Killifish",
-        "en-GB": "Killifish",
-        "de": "Killifisch",
-        "es": "Killi",
-        "fr": "Fondule barré",
-        "it": "Killifish",
-        "nl": "Killivis",
-        "zh-CN": "稻田鱼",
-        "zh-TW": "稻田魚",
-        "jp": "メダカ",
-        "ko": "송사리"
       }
     }
   }

@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 5200
         }
-      ],
-      "name": {
-        "de": "Profi-Waschmaschine",
-        "en-GB": "Deluxe Washer",
-        "en-US": "Deluxe Washer",
-        "es": "Lavadora",
-        "fr": "Lave-linge luxe",
-        "it": "Lavatrice deluxe",
-        "ja": "ドラムしきせんたくき"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -50,19 +41,6 @@
         "red": "Red",
         "yellow": "Yellow",
         "pink": "Pink"
-      },
-      "name": {
-        "en-US": "Deluxe Washer",
-        "en-GB": "Deluxe Washer",
-        "de": "Profi-Waschmaschine",
-        "es": "Lavadora",
-        "fr": "Lave-Linge d'expert",
-        "it": "Lavatrice deluxe",
-        "nl": "Luxe wasmachine",
-        "zh-CN": "滚筒式洗衣机",
-        "zh-TW": "滾筒式洗衣機",
-        "jp": "ドラムしきせんたくき",
-        "ko": "드럼 세탁기"
       }
     }
   }

@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Calypso"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Calypso",
-        "en-GB": "K.K. Calypso",
-        "de": "K.K. Calypso",
-        "es": "Tota-Calipso",
-        "fr": "Calypso de Kéké",
-        "it": "K.K. Calipso",
-        "nl": "K.K.-Calypso",
-        "zh-CN": "K.K.卡利普索",
-        "zh-TW": "K.K.卡利普索",
-        "jp": "けけカリプソ",
-        "ko": "K.K.칼립소",
-        "ru": "Калипсо К. К."
-      }
+      ]
     }
   }
 }

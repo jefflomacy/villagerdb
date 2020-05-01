@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Silver Mic"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -30,20 +27,7 @@
           "currency": "bells",
           "value": 1800
         }
-      ],
-      "name": {
-        "en-US": "Silver Mic",
-        "en-GB": "Silver Mic",
-        "de": "Retro-Mikrofon",
-        "es": "Micrófono vocal",
-        "fr": "Microphone argenté",
-        "it": "Microfono",
-        "nl": "Zilveren microfoon",
-        "zh-CN": "复古麦克风",
-        "zh-TW": "復古麥克風",
-        "jp": "ガイコツマイク",
-        "ko": "실버 마이크"
-      }
+      ]
     }
   }
 }

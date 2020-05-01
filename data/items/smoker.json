@@ -24,16 +24,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Räucherofen",
-        "en-GB": "Smoker",
-        "en-US": "Smoker",
-        "es": "Horno para ahumados",
-        "fr": "Fumoir",
-        "it": "Affumicatore",
-        "ja": "くんせいマシーン"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -54,19 +45,6 @@
         "black": "Black",
         "green": "Green",
         "silver": "Silver"
-      },
-      "name": {
-        "en-US": "Smoker",
-        "en-GB": "Smoker",
-        "de": "Räucherofen",
-        "es": "Horno para ahumados",
-        "fr": "Fumoir",
-        "it": "Affumicatore",
-        "nl": "Rookoven",
-        "zh-CN": "烟熏炉",
-        "zh-TW": "煙燻爐",
-        "jp": "くんせいマシン",
-        "ko": "훈제 통"
       }
     }
   }

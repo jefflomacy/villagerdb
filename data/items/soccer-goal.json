@@ -8,10 +8,7 @@
       "set": "Welcome amiibo Update",
       "sources": [
         "DLC (JP)"
-      ],
-      "name": {
-        "en-US": "Soccer Goal"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -27,20 +24,7 @@
           "currency": "miles",
           "value": 4000
         }
-      ],
-      "name": {
-        "en-US": "Soccer Goal",
-        "en-GB": "Soccer Goal",
-        "de": "Fußballtor",
-        "es": "Portería",
-        "fr": "But de football",
-        "it": "Porta da calcio",
-        "nl": "Voetbaldoel",
-        "zh-CN": "足球球门",
-        "zh-TW": "足球球門",
-        "jp": "サッカーゴール",
-        "ko": "축구 골대"
-      }
+      ]
     }
   }
 }

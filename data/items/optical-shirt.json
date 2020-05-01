@@ -23,16 +23,7 @@
           "currency": "bells",
           "value": 432
         }
-      ],
-      "name": {
-        "de": "Optik-Pulli",
-        "en-GB": "Optical Shirt",
-        "en-US": "Optical Shirt",
-        "es": "Jersey óptico",
-        "fr": "Pull optique",
-        "it": "Maglia optical",
-        "ja": "オプティカルなふく"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -48,10 +39,7 @@
           "currency": "bells",
           "value": 430
         }
-      ],
-      "name": {
-        "en-US": "Optical Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -67,10 +55,7 @@
           "currency": "bells",
           "value": 430
         }
-      ],
-      "name": {
-        "en-US": "Optical Shirt"
-      }
+      ]
     }
   }
 }

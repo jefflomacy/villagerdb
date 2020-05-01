@@ -14,16 +14,7 @@
       },
       "sources": [
         "Brewster (work at The Roost)"
-      ],
-      "name": {
-        "de": "Milch- und Zuckerset",
-        "en-GB": "Cream And Sugar",
-        "en-US": "Cream And Sugar",
-        "es": "Bandeja leche/azúcar",
-        "fr": "Pot de lait et sucre",
-        "it": "Latte con zucchero",
-        "ja": "シュガー&ミルク"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -45,19 +36,6 @@
         "silver": "Silver",
         "white": "White",
         "floral": "Floral"
-      },
-      "name": {
-        "en-US": "Cream And Sugar",
-        "en-GB": "Cream And Sugar",
-        "de": "Milch- und Zuckerset",
-        "es": "Bandeja con leche y azúcar",
-        "fr": "Pot de lait et sucre",
-        "it": "Latte con zucchero",
-        "nl": "Melk-En-Suikerset",
-        "zh-CN": "糖＆牛奶",
-        "zh-TW": "糖＆牛奶",
-        "jp": "シュガー&ミルク",
-        "ko": "슈거&밀크"
       }
     }
   }

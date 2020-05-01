@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 3400
         }
-      ],
-      "name": {
-        "de": "Server",
-        "en-GB": "Server",
-        "en-US": "Server",
-        "es": "Servidor",
-        "fr": "Serveur informatique",
-        "it": "Server",
-        "ja": "サーバー"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -41,20 +32,7 @@
           "currency": "bells",
           "value": 100000
         }
-      ],
-      "name": {
-        "en-US": "Server",
-        "en-GB": "Server",
-        "de": "Server",
-        "es": "Servidor",
-        "fr": "Serveur informatique",
-        "it": "Server",
-        "nl": "Server",
-        "zh-CN": "服务器",
-        "zh-TW": "伺服器",
-        "jp": "サーバー",
-        "ko": "서버"
-      }
+      ]
     }
   }
 }

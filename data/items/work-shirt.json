@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Bürohemd",
-        "en-GB": "Work Shirt",
-        "en-US": "Work Shirt",
-        "es": "Camisa con corbata",
-        "fr": "Chemise bureau",
-        "it": "Camicia da ufficio",
-        "ja": "ネクタイつきワイシャツ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +39,6 @@
         "purple-striped-necktie": "Purple-striped necktie",
         "green-striped-necktie": "Green-striped necktie",
         "white-striped-necktie": "White-striped necktie"
-      },
-      "name": {
-        "en-US": "Work Shirt",
-        "en-GB": "Work Shirt",
-        "de": "Bürohemd",
-        "es": "Camisa con corbata",
-        "fr": "Chemise de bureau",
-        "it": "Camicia da ufficio",
-        "nl": "Kantooroverhemd",
-        "zh-CN": "配领带衬衫",
-        "zh-TW": "領帶配襯衫",
-        "jp": "ネクタイつきワイシャツ",
-        "ko": "넥타이&와이셔츠"
       }
     }
   }

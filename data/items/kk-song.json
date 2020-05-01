@@ -22,10 +22,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Song"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -38,21 +35,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Song",
-        "en-GB": "K.K. Song",
-        "de": "K.K. Song",
-        "es": "Tota-Canción",
-        "fr": "Rengaine de Kéké",
-        "it": "K.K. Canzone",
-        "nl": "K.K.-Lied",
-        "zh-CN": "K.K.乐曲",
-        "zh-TW": "K.K.樂曲",
-        "jp": "けけソング",
-        "ko": "K.K.의 노래",
-        "ru": "Песнь К. К."
-      }
+      ]
     }
   }
 }

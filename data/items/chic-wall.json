@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 1960
         }
-      ],
-      "name": {
-        "en-US": "Chic Wall"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -39,20 +36,7 @@
           "currency": "bells",
           "value": 1960
         }
-      ],
-      "name": {
-        "en-US": "Chic Wall",
-        "en-GB": "Chic Wall",
-        "de": "Omatapete",
-        "es": "Pared lujo",
-        "fr": "Mur rustique",
-        "it": "Muro classico",
-        "nl": "Chique wand",
-        "zh-CN": "古典壁纸",
-        "zh-TW": "古典壁紙",
-        "jp": "クラシックなかべがみ",
-        "ko": "클래식 벽지"
-      }
+      ]
     }
   }
 }

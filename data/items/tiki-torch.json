@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 872
         }
-      ],
-      "name": {
-        "de": "Fackel",
-        "en-GB": "Tiki Torch",
-        "en-US": "Tiki Torch",
-        "es": "Antorcha",
-        "fr": "Flambeau",
-        "it": "Torcia",
-        "ja": "たいまつ"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -42,19 +33,6 @@
       "recipe": {
         "tree-branch": 5,
         "wood": 5
-      },
-      "name": {
-        "en-US": "Tiki Torch",
-        "en-GB": "Tiki Torch",
-        "de": "Fackel",
-        "es": "Antorcha",
-        "fr": "Flambeau",
-        "it": "Torcia",
-        "nl": "Tuinfakkel",
-        "zh-CN": "火把",
-        "zh-TW": "火把",
-        "jp": "たいまつ",
-        "ko": "횃불"
       }
     }
   }

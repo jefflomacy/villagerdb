@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "de": "Western-Hose",
-        "en-GB": "Western Pants",
-        "en-US": "Western Pants",
-        "es": "Pantalón de vaquero",
-        "fr": "Pantalon western",
-        "it": "Pantalone cowboy",
-        "ja": "カウボーイパンツ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -49,19 +40,6 @@
       ],
       "variations": {
         "brown": "Brown"
-      },
-      "name": {
-        "en-US": "Western Pants",
-        "en-GB": "Western Pants",
-        "de": "Western-Hose",
-        "es": "Pantalón de vaquero",
-        "fr": "Pantalon western",
-        "it": "Pantalone da cowboy",
-        "nl": "Westernbroek",
-        "zh-CN": "西部牛仔裤",
-        "zh-TW": "西部牛仔褲",
-        "jp": "カウボーイパンツ",
-        "ko": "카우보이 바지"
       }
     }
   }

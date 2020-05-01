@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 640
         }
-      ],
-      "name": {
-        "en-US": "Rubber Apron"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -40,19 +37,6 @@
       "variations": {
         "black": "Black",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Rubber Apron",
-        "en-GB": "Rubber Apron",
-        "de": "Kunststoffschürze",
-        "es": "Delantal rígido",
-        "fr": "Tablier caoutchouc",
-        "it": "Grembiule di gomma",
-        "nl": "Rubber schort",
-        "zh-CN": "橡胶围裙",
-        "zh-TW": "橡膠圍裙",
-        "jp": "ゴムエプロン",
-        "ko": "고무 앞치마"
       }
     }
   }

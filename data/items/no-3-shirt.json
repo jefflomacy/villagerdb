@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 252
         }
-      ],
-      "name": {
-        "de": "Nr.-3-Pulli",
-        "en-GB": "No. 3 Shirt",
-        "en-US": "No. 3 Shirt",
-        "es": "Jersey n.º 3",
-        "fr": "Pull 3",
-        "it": "Maglia nº 3",
-        "ja": "No.3のふく"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 250
         }
-      ],
-      "name": {
-        "en-US": "No. 3 Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 250
         }
-      ],
-      "name": {
-        "en-US": "No. 3 Shirt"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -86,19 +71,6 @@
       ],
       "variations": {
         "green": "Green"
-      },
-      "name": {
-        "en-US": "No. 3 Shirt",
-        "en-GB": "No. 3 Shirt",
-        "de": "Nr.-3-Shirt",
-        "es": "Camiseta n.º 3",
-        "fr": "T-Shirt 3",
-        "it": "Maglia nº 3",
-        "nl": "Nummer 3-T-shirt",
-        "zh-CN": "3号服",
-        "zh-TW": "3號衣服",
-        "jp": "No.3のふく",
-        "ko": "No.3 옷"
       }
     }
   }

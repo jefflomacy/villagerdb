@@ -11,10 +11,7 @@
       },
       "sources": [
         "On grass and dirt."
-      ],
-      "name": {
-        "en-US": "Tarantula"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 8000
-      },
-      "name": {
-        "en-US": "Tarantula",
-        "en-GB": "Tarantula",
-        "de": "Vogelspinne",
-        "es": "Tarántula",
-        "fr": "Tarentule",
-        "it": "Tarantola",
-        "nl": "Vogelspin",
-        "zh-CN": "狼蛛",
-        "zh-TW": "狼蛛",
-        "jp": "タランチュラ",
-        "ko": "타란툴라"
       }
     }
   }

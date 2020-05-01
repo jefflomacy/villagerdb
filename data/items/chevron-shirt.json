@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "de": "Musterpulli",
-        "en-GB": "Chevron Shirt",
-        "en-US": "Chevron Shirt",
-        "es": "Jersey étnico",
-        "fr": "Pull chevrons",
-        "it": "Maglione geometrico",
-        "ja": "みどりのニット"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Chevron Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Chevron Shirt"
-      }
+      ]
     }
   }
 }

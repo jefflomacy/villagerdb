@@ -24,16 +24,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Profi-Golfbag",
-        "en-GB": "Golf Bag",
-        "en-US": "Golf Bag",
-        "es": "Bolsa golf",
-        "fr": "Sac de golf",
-        "it": "Sacca golf",
-        "ja": "ゴルフバッグ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -53,19 +44,6 @@
         "multicolor": "Multicolor",
         "brown": "Brown",
         "silver": "Silver"
-      },
-      "name": {
-        "en-US": "Golf Bag",
-        "en-GB": "Golf Bag",
-        "de": "Profi-Golftasche",
-        "es": "Bolsa de golf",
-        "fr": "Sac de golf",
-        "it": "Sacca da golf",
-        "nl": "Golftas",
-        "zh-CN": "高尔夫球袋",
-        "zh-TW": "高爾夫球袋",
-        "jp": "ゴルフバッグ",
-        "ko": "골프백"
       }
     }
   }

@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 340
         }
-      ],
-      "name": {
-        "de": "2er-Shirt",
-        "en-GB": "Two-Ball Tee",
-        "en-US": "Two-Ball Tee",
-        "es": "Camiseta bola 2",
-        "fr": "T-shirt nº 2",
-        "it": "Maglietta palla 2",
-        "ja": "2ばんだまのふく"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -48,19 +39,6 @@
       ],
       "variations": {
         "blue": "Blue"
-      },
-      "name": {
-        "en-US": "Two-Ball Tee",
-        "en-GB": "Two-Ball Tee",
-        "de": "2Er-Shirt",
-        "es": "Camiseta bola 2",
-        "fr": "T-Shirt nº 2",
-        "it": "Maglietta palla 2",
-        "nl": "2-Bal-T-Shirt",
-        "zh-CN": "2号球上衣",
-        "zh-TW": "2號球衣服",
-        "jp": "２ばんだまのふく",
-        "ko": "2번공 옷"
       }
     }
   }

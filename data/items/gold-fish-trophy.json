@@ -11,16 +11,7 @@
       },
       "sources": [
         "Fishing Tourney"
-      ],
-      "name": {
-        "de": "Gold-Angelpokal",
-        "en-GB": "Gold Fish Trophy",
-        "en-US": "Gold Fish Trophy",
-        "es": "Pez de oro",
-        "fr": "Trophée de pêche or",
-        "it": "Trofeo pesca oro",
-        "ja": "きんのサカナトロフィー"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -30,19 +21,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 450
-      },
-      "name": {
-        "en-US": "Gold Fish Trophy",
-        "en-GB": "Gold Fish Trophy",
-        "de": "Gold-Angelpokal",
-        "es": "Pez de oro",
-        "fr": "Trophée pêche or",
-        "it": "Trofeo di pesca d'oro",
-        "nl": "Gouden vissenbeker",
-        "zh-CN": "鱼儿金奖杯",
-        "zh-TW": "魚兒金獎盃",
-        "jp": "きんのサカナトロフィー",
-        "ko": "금 물고기 트로피"
       }
     }
   }

@@ -23,10 +23,7 @@
           "currency": "bells",
           "value": 4800
         }
-      ],
-      "name": {
-        "en-US": "Heart Shades"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -45,19 +42,6 @@
         "blue": "Blue",
         "purple": "Purple",
         "green": "Green"
-      },
-      "name": {
-        "en-US": "Heart Shades",
-        "en-GB": "Heart Shades",
-        "de": "Herzchenbrille",
-        "es": "Gafa corazón",
-        "fr": "Monture cœur",
-        "it": "Montatura a cuori",
-        "nl": "Hartenzonnebril",
-        "zh-CN": "爱心墨镜",
-        "zh-TW": "愛心墨鏡",
-        "jp": "ハートのサングラス",
-        "ko": "하트 선글라스"
       }
     }
   }

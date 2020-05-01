@@ -7,10 +7,7 @@
       "orderable": false,
       "sources": [
         "Bunny Day (dig spot)"
-      ],
-      "name": {
-        "en-US": "Earth Egg"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -20,19 +17,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 200
-      },
-      "name": {
-        "zh-CN": "地面蛋",
-        "de": "Erd-Glücksei's",
-        "en-GB": "Earth Egg",
-        "es": "Huevo terrestre",
-        "fr": "Œuf terrestre",
-        "it": "Uovo terrestre",
-        "jp": "じめんのたまご",
-        "ko": "땅 달걀",
-        "nl": "Aarde-Ei",
-        "zh-TW": "地面蛋",
-        "en-US": "Earth Egg"
       }
     }
   }

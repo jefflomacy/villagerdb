@@ -17,20 +17,7 @@
           "currency": "bells",
           "value": 2000
         }
-      ],
-      "name": {
-        "en-US": "Monochromatic Dotted Rug",
-        "en-GB": "Monochromatic Dotted Rug",
-        "de": "Monochrom-Tüpfelteppich",
-        "es": "Alfombra pastel monocroma",
-        "fr": "Tapis à pois monochrome",
-        "it": "Tappeto monocromo a pois",
-        "nl": "Zwart-Witte stippentapijt",
-        "zh-CN": "单色点点地毯",
-        "zh-TW": "灰階配色點點地墊",
-        "jp": "モノクロドットのラグ",
-        "ko": "흑백 도트 러그"
-      }
+      ]
     }
   },
   "category": "Flooring"

@@ -11,10 +11,7 @@
       },
       "sources": [
         "Around flowers."
-      ],
-      "name": {
-        "en-US": "Emperor Butterfly"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4000
-      },
-      "name": {
-        "en-US": "Emperor Butterfly",
-        "en-GB": "Emperor Butterfly",
-        "de": "Himmelsfalter",
-        "es": "Mariposa celeste",
-        "fr": "Morpho bleu",
-        "it": "Farfalla morfo blu",
-        "nl": "Blauwe morpho",
-        "zh-CN": "大蓝闪蝶",
-        "zh-TW": "大藍閃蝶",
-        "jp": "モルフォチョウ",
-        "ko": "몰포나비"
       }
     }
   }

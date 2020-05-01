@@ -14,16 +14,7 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ],
-      "name": {
-        "de": "T-Rex-Schwanz",
-        "en-GB": "T. Rex Tail",
-        "en-US": "T. Rex Tail",
-        "es": "Cola tiranosaurio",
-        "fr": "Queue de T. rex",
-        "it": "Coda tirannosauro",
-        "ja": "Tレックスのしっぽ"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -33,19 +24,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5000
-      },
-      "name": {
-        "en-US": "T. Rex Tail",
-        "en-GB": "T. Rex Tail",
-        "de": "T-Rex-Schwanz",
-        "es": "Cola tiranosaurio",
-        "fr": "Queue de tyrannosaure",
-        "it": "Coda tirannosauro",
-        "nl": "Tyrannosaurusstaart",
-        "zh-CN": "暴龙的尾巴",
-        "zh-TW": "暴龍的尾巴",
-        "jp": "Tレックスのしっぽ",
-        "ko": "티렉스의 꼬리"
       }
     }
   }

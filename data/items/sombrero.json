@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 240
         }
-      ],
-      "name": {
-        "de": "Sombrero",
-        "en-GB": "Sombrero",
-        "en-US": "Sombrero",
-        "es": "Sombrero cuate",
-        "fr": "Sombrero",
-        "it": "Sombrero",
-        "ja": "ソンブレロ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -52,19 +43,6 @@
         "red": "Red",
         "blue": "Blue",
         "orange": "Orange"
-      },
-      "name": {
-        "en-US": "Sombrero",
-        "en-GB": "Sombrero",
-        "de": "Sombrero",
-        "es": "Sombrero cuate",
-        "fr": "Sombrero",
-        "it": "Sombrero",
-        "nl": "Sombrero",
-        "zh-CN": "墨西哥草帽",
-        "zh-TW": "墨西哥草帽",
-        "jp": "ソンブレロ",
-        "ko": "솜브레로"
       }
     }
   }

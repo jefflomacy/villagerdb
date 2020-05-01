@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 680
         }
-      ],
-      "name": {
-        "de": "Jockeyhelm",
-        "en-GB": "Jockey's Helmet",
-        "en-US": "Jockey's Helmet",
-        "es": "Casco de jinete",
-        "fr": "Casque de jockey",
-        "it": "Casco da fantino",
-        "ja": "ジョッキーヘルメット"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -51,19 +42,6 @@
         "red": "Red",
         "black": "Black",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Jockey's Helmet",
-        "en-GB": "Jockey's Helmet",
-        "de": "Jockeyhelm",
-        "es": "Casco de jinete",
-        "fr": "Casque de jockey",
-        "it": "Casco da fantino",
-        "nl": "Jockeyhelm",
-        "zh-CN": "马术头盔",
-        "zh-TW": "馬術安全帽",
-        "jp": "ジョッキーヘルメット",
-        "ko": "기수 헬멧"
       }
     }
   }

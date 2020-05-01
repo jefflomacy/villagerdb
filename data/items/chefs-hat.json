@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "de": "Kochmütze",
-        "en-GB": "Chef's Hat",
-        "en-US": "Chef's Hat",
-        "es": "Gorro de chef",
-        "fr": "Toque",
-        "it": "Cappello da cuoco",
-        "ja": "コックさんのぼうし"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -45,19 +36,6 @@
       ],
       "variations": {
         "white": "White"
-      },
-      "name": {
-        "en-US": "Chef's Hat",
-        "en-GB": "Chef's Hat",
-        "de": "Kochmütze",
-        "es": "Gorro de chef",
-        "fr": "Toque",
-        "it": "Cappello da cuoco",
-        "nl": "Koksmuts",
-        "zh-CN": "厨师帽",
-        "zh-TW": "廚師帽",
-        "jp": "コックさんのぼうし",
-        "ko": "요리사 모자"
       }
     }
   }

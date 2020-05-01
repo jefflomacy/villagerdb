@@ -14,16 +14,7 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ],
-      "name": {
-        "de": "Dimetrodon-Schädel",
-        "en-GB": "Dimetrodon Skull",
-        "en-US": "Dimetrodon Skull",
-        "es": "Cráneo dimetrodonte",
-        "fr": "Crâne de dimétrodon",
-        "it": "Teschio dimetrodonte",
-        "ja": "ディメトロドンのあたま"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -33,19 +24,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5500
-      },
-      "name": {
-        "en-US": "Dimetrodon Skull",
-        "en-GB": "Dimetrodon Skull",
-        "de": "Dimetrodon-Schädel",
-        "es": "Cráneo dimetrodonte",
-        "fr": "Crâne de dimétrodon",
-        "it": "Cranio dimetrodonte",
-        "nl": "Dimetrodonkop",
-        "zh-CN": "异齿龙的头",
-        "zh-TW": "異齒龍的頭",
-        "jp": "ディメトロドンのあたま",
-        "ko": "디메트로돈의 머리"
       }
     }
   }

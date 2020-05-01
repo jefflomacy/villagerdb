@@ -23,16 +23,7 @@
           "currency": "bells",
           "value": 400
         }
-      ],
-      "name": {
-        "de": "Schimmelpulli",
-        "en-GB": "Moldy Shirt",
-        "en-US": "Moldy Shirt",
-        "es": "Jersey borrones",
-        "fr": "Pull élimé",
-        "it": "Maglia ammuffita",
-        "ja": "カビたふくL"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -48,10 +39,7 @@
           "currency": "bells",
           "value": 50
         }
-      ],
-      "name": {
-        "en-US": "Moldy Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -67,10 +55,7 @@
           "currency": "bells",
           "value": 50
         }
-      ],
-      "name": {
-        "en-US": "Moldy Shirt"
-      }
+      ]
     }
   }
 }

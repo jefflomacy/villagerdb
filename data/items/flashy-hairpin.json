@@ -23,16 +23,7 @@
           "currency": "bells",
           "value": 4800
         }
-      ],
-      "name": {
-        "de": "Blumenspange",
-        "en-GB": "Flashy Hairpin",
-        "en-US": "Flashy Hairpin",
-        "es": "Horquilla flor",
-        "fr": "épingle luxueuse",
-        "it": "Fermaglio fiore",
-        "ja": "はでなかみかざり"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -53,19 +44,6 @@
         "orange": "Orange",
         "green": "Green",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Flashy Hairpin",
-        "en-GB": "Flashy Hairpin",
-        "de": "Blumenspange",
-        "es": "Horquilla flor",
-        "fr": "Épingle luxueuse",
-        "it": "Fermaglio floreale",
-        "nl": "Opvallende haarspeld",
-        "zh-CN": "华丽头饰",
-        "zh-TW": "鮮艷髮飾",
-        "jp": "はでなかみかざり",
-        "ko": "화려한 머리핀"
       }
     }
   }

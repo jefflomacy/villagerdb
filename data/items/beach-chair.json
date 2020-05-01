@@ -25,16 +25,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Sonnenstuhl",
-        "en-GB": "Beach Chair",
-        "en-US": "Beach Chair",
-        "es": "Silla de playa",
-        "fr": "Transat",
-        "it": "Sedia a sdraio",
-        "ja": "ビーチベッド"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -58,19 +49,6 @@
         "orange": "Orange",
         "yellow": "Yellow",
         "pink": "Pink"
-      },
-      "name": {
-        "en-US": "Beach Chair",
-        "en-GB": "Beach Chair",
-        "de": "Sonnenstuhl",
-        "es": "Silla de playa",
-        "fr": "Transat",
-        "it": "Sedia a sdraio",
-        "nl": "Strandstoel",
-        "zh-CN": "沙滩躺椅",
-        "zh-TW": "沙灘躺椅",
-        "jp": "ビーチベッド",
-        "ko": "선베드"
       }
     }
   }

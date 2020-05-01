@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3920
         }
-      ],
-      "name": {
-        "en-US": "Scary Painting"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -44,19 +41,6 @@
       "variations": {
         "real": "Real",
         "fake": "Fake"
-      },
-      "name": {
-        "en-US": "Scary Painting",
-        "en-GB": "Scary Painting",
-        "de": "Furchtgemälde",
-        "es": "Cuadro japonés",
-        "fr": "Toile effrayante",
-        "it": "Quadro spaventoso",
-        "nl": "Griezelige schilderij",
-        "zh-CN": "俊俏的名画",
-        "zh-TW": "俊俏的名畫",
-        "jp": "いなせなめいが",
-        "ko": "씩씩한 명화"
       }
     }
   }

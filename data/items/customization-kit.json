@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 600
         }
-      ],
-      "name": {
-        "zh-CN": "改造工具组",
-        "de": "Umgestaltungsset's",
-        "en-GB": "Customization Kit",
-        "es": "Kit de personalización",
-        "fr": "Kit de personnalisation",
-        "it": "Kit di personalizzazione",
-        "jp": "リメイクキット",
-        "ko": "리폼 키트",
-        "nl": "Aanpassingspakket",
-        "zh-TW": "改造工具組",
-        "en-US": "Customization Kit"
-      }
+      ]
     }
   },
   "category": "Usables"

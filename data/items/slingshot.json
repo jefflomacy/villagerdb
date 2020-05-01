@@ -11,10 +11,7 @@
       },
       "sources": [
         "T&T Mart"
-      ],
-      "name": {
-        "en-US": "Slingshot"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -41,19 +38,6 @@
         "pink": "Pink",
         "white": "White",
         "gray": "Gray"
-      },
-      "name": {
-        "en-US": "Slingshot",
-        "en-GB": "Slingshot",
-        "de": "Schleuder",
-        "es": "Tirachinas",
-        "fr": "Lance-Pierre",
-        "it": "Fionda",
-        "nl": "Katapult",
-        "zh-CN": "弹弓",
-        "zh-TW": "彈弓",
-        "jp": "パチンコ",
-        "ko": "새총"
       }
     }
   }

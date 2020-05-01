@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "de": "Musikbox",
-        "en-GB": "Jukebox",
-        "en-US": "Jukebox",
-        "es": "Gramola",
-        "fr": "Juke-box",
-        "it": "Jukebox",
-        "ja": "ジュークボックス"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -42,20 +33,7 @@
           "currency": "bells",
           "value": 5600
         }
-      ],
-      "name": {
-        "en-US": "Jukebox",
-        "en-GB": "Jukebox",
-        "de": "Musikbox",
-        "es": "Gramola",
-        "fr": "Juke-Box",
-        "it": "Jukebox",
-        "nl": "Jukebox",
-        "zh-CN": "点唱机",
-        "zh-TW": "點唱機",
-        "jp": "ジュークボックス",
-        "ko": "주크박스"
-      }
+      ]
     }
   }
 }

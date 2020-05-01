@@ -14,16 +14,7 @@
       },
       "sources": [
         "Re-Tail (flea market) or Police Station (lost and found)"
-      ],
-      "name": {
-        "de": "Kartonsofa",
-        "en-GB": "Cardboard Sofa",
-        "en-US": "Cardboard Sofa",
-        "es": "Sofá cartón",
-        "fr": "Canapé carton",
-        "it": "Sofà scatolone",
-        "ja": "ダンボールソファ"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -38,19 +29,6 @@
       "variations": {
         "plain": "Plain",
         "labeled": "Labeled"
-      },
-      "name": {
-        "en-US": "Cardboard Sofa",
-        "en-GB": "Cardboard Sofa",
-        "de": "Kartonsofa",
-        "es": "Sofá de cartón",
-        "fr": "Canapé en carton",
-        "it": "Sofà scatolone",
-        "nl": "Kartonnen sofa",
-        "zh-CN": "纸箱沙发",
-        "zh-TW": "紙箱沙發",
-        "jp": "ダンボールソファ",
-        "ko": "박스 소파"
       }
     }
   }

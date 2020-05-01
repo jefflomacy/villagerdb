@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "Hypno K.K."
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -36,21 +33,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "Hypno K.K.",
-        "en-GB": "Hypno K.K.",
-        "de": "Schlummerlied",
-        "es": "Mírame a los ojos",
-        "fr": "Psykéké",
-        "it": "K.K. Ipnotico",
-        "nl": "Hypnotherapie",
-        "zh-CN": "白日梦",
-        "zh-TW": "白日夢",
-        "jp": "うたたねのゆめ",
-        "ko": "졸면서 꾸는 꿈",
-        "ru": "Гипноз К. К."
-      }
+      ]
     }
   }
 }

@@ -14,16 +14,7 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ],
-      "name": {
-        "de": "Iguanodon-Schädel",
-        "en-GB": "Iguanodon Skull",
-        "en-US": "Iguanodon Skull",
-        "es": "Cráneo iguanodonte",
-        "fr": "Crâne d'iguanodon",
-        "it": "Teschio iguanodonte",
-        "ja": "イグアノドンのあたま"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -33,19 +24,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4000
-      },
-      "name": {
-        "en-US": "Iguanodon Skull",
-        "en-GB": "Iguanodon Skull",
-        "de": "Iguanodon-Schädel",
-        "es": "Cráneo iguanodonte",
-        "fr": "Crâne d'iguanodon",
-        "it": "Cranio iguanodonte",
-        "nl": "Iguanodonkop",
-        "zh-CN": "禽龙的头",
-        "zh-TW": "禽龍的頭",
-        "jp": "イグアノドンのあたま",
-        "ko": "이구아노돈의 머리"
       }
     }
   }

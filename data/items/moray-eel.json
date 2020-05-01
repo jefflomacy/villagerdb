@@ -11,10 +11,7 @@
       },
       "sources": [
         "In the sea."
-      ],
-      "name": {
-        "en-US": "Moray Eel"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2000
-      },
-      "name": {
-        "en-US": "Moray Eel",
-        "en-GB": "Moray Eel",
-        "de": "Muräne",
-        "es": "Morena",
-        "fr": "Murène",
-        "it": "Murena",
-        "nl": "Murene",
-        "zh-CN": "裸胸鳝",
-        "zh-TW": "裸胸鱔",
-        "jp": "ウツボ",
-        "ko": "곰치"
       }
     }
   }

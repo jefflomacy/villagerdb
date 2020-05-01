@@ -11,10 +11,7 @@
       },
       "sources": [
         "On flowers."
-      ],
-      "name": {
-        "en-US": "Ladybug"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 200
-      },
-      "name": {
-        "en-US": "Ladybug",
-        "en-GB": "Ladybug",
-        "de": "Marienkäfer",
-        "es": "Mariquita",
-        "fr": "Coccinelle",
-        "it": "Coccinella",
-        "nl": "Lieveheersbeestje",
-        "zh-CN": "瓢虫",
-        "zh-TW": "瓢蟲",
-        "jp": "テントウムシ",
-        "ko": "무당벌레"
       }
     }
   }

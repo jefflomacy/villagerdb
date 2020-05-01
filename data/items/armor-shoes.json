@@ -25,16 +25,7 @@
           "currency": "bells",
           "value": 960
         }
-      ],
-      "name": {
-        "de": "Silberrüstungsschuh",
-        "en-GB": "Armor Shoes",
-        "en-US": "Armor Shoes",
-        "es": "Escarpe",
-        "fr": "Paire de solerets",
-        "it": "Paio scarpe armatura",
-        "ja": "てつのかっちゅうぐつ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -49,19 +40,6 @@
       ],
       "variations": {
         "gray": "Gray"
-      },
-      "name": {
-        "en-US": "Armor Shoes",
-        "en-GB": "Armor Shoes",
-        "de": "Paars Silberrüstungsschuhe",
-        "es": "Escarpe",
-        "fr": "Paire de solerets",
-        "it": "Paio scarpe armatura",
-        "nl": "Ridderlaarzen",
-        "zh-CN": "铁甲靴",
-        "zh-TW": "鐵甲鞋",
-        "jp": "アイアンアーマーシューズ",
-        "ko": "아이언 아머 슈즈"
       }
     }
   }

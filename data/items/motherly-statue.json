@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 3920
         }
-      ],
-      "name": {
-        "en-US": "Motherly Statue"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -43,19 +40,6 @@
       "variations": {
         "real": "Real",
         "fake": "Fake"
-      },
-      "name": {
-        "en-US": "Motherly Statue",
-        "en-GB": "Motherly Statue",
-        "de": "Wölfinnenstatue",
-        "es": "Figura materna",
-        "fr": "Statue maternelle",
-        "it": "Statua leggendaria",
-        "nl": "Moederlijke beeld",
-        "zh-CN": "充满母爱的雕塑",
-        "zh-TW": "充滿母愛的雕塑",
-        "jp": "ぼせいあふれるちょうこく",
-        "ko": "모성이 느껴지는 조각"
       }
     }
   }

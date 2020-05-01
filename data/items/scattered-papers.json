@@ -21,10 +21,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Scattered Papers"
-      }
+      ]
     },
     "nh": {
       "customizable": true,
@@ -46,19 +43,6 @@
         "manuscript-paper": "Manuscript paper",
         "illustrations": "Illustrations",
         "plans": "Plans"
-      },
-      "name": {
-        "en-US": "Scattered Papers",
-        "en-GB": "Scattered Papers",
-        "de": "Papierchaos",
-        "es": "Montón de papeles",
-        "fr": "Tas de papiers",
-        "it": "Mucchio di fogli",
-        "nl": "Stel papieren",
-        "zh-CN": "散乱的纸张",
-        "zh-TW": "散亂的紙張",
-        "jp": "ちらばったかみ",
-        "ko": "널려 있는 종이"
       }
     }
   }

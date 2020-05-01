@@ -15,10 +15,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Simple Panel"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -96,19 +93,6 @@
         "gold-mud-wall": "Gold / Mud wall",
         "gold-concrete": "Gold / Concrete",
         "gold-gold": "Gold / Gold"
-      },
-      "name": {
-        "en-US": "Simple Panel",
-        "en-GB": "Simple Panel",
-        "de": "Zwischenwand",
-        "es": "Mampara simple",
-        "fr": "Cloison simple",
-        "it": "Tramezzo semplice",
-        "nl": "Scheidingswand",
-        "zh-CN": "简单壁板",
-        "zh-TW": "簡單壁板",
-        "jp": "シンプルなパネル",
-        "ko": "심플 패널"
       }
     }
   }

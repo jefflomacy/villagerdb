@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 20
         }
-      ],
-      "name": {
-        "de": "Käpten-Mütze",
-        "en-GB": "Kappa Cap",
-        "en-US": "Kappa Cap",
-        "es": "Gorro kappa",
-        "fr": "Cagoule kappa",
-        "it": "Cappello tartaruga",
-        "ja": "カッパのおさら"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -42,19 +33,6 @@
       "variations": {
         "green": "Green",
         "pink": "Pink"
-      },
-      "name": {
-        "en-US": "Kappa Cap",
-        "en-GB": "Kappa Cap",
-        "de": "Käpten-Mütze",
-        "es": "Gorro de kappa",
-        "fr": "Cagoule kappa",
-        "it": "Cappello da tartaruga",
-        "nl": "Kappa-Muts",
-        "zh-CN": "河童头套",
-        "zh-TW": "河童頭頂",
-        "jp": "カッパのおさら",
-        "ko": "거북이 모자"
       }
     }
   }

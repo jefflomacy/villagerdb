@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Ferienpulli",
-        "en-GB": "Red-Bar Shirt",
-        "en-US": "Red-Bar Shirt",
-        "es": "Jersey barras",
-        "fr": "Pull barre",
-        "it": "Maglia a rigoni",
-        "ja": "あかしろラガーシャツL"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "en-US": "Red-Bar Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "en-US": "Red-Bar Shirt"
-      }
+      ]
     }
   }
 }

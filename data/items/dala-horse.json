@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 1200
         }
-      ],
-      "name": {
-        "de": "Dalapferd",
-        "en-GB": "Dala Horse",
-        "en-US": "Dala Horse",
-        "es": "Caballo Dalecarlia",
-        "fr": "Cheval de Dala",
-        "it": "Cavallo Dala",
-        "ja": "ダーラヘスト"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -52,19 +43,6 @@
         "red": "Red",
         "blue": "Blue",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Dala Horse",
-        "en-GB": "Dala Horse",
-        "de": "Dalapferd",
-        "es": "Caballo de Dalecarlia",
-        "fr": "Cheval de Dala",
-        "it": "Cavallo Dala",
-        "nl": "Dalapaard",
-        "zh-CN": "达拉木马",
-        "zh-TW": "達拉木馬",
-        "jp": "ダーラヘスト",
-        "ko": "달라헤스트"
       }
     }
   }

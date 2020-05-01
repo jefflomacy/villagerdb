@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Bitterling"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 900
-      },
-      "name": {
-        "en-US": "Bitterling",
-        "en-GB": "Bitterling",
-        "de": "Bitterling",
-        "es": "Amarguillo",
-        "fr": "Bouvière",
-        "it": "Rodeo",
-        "nl": "Bittervoorn",
-        "zh-CN": "红目鲫",
-        "zh-TW": "紅目鯽",
-        "jp": "タナゴ",
-        "ko": "납줄개"
       }
     }
   }

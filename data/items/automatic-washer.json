@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 4800
         }
-      ],
-      "name": {
-        "de": "Uralt-Waschmaschine",
-        "en-GB": "Automatic Washer",
-        "en-US": "Automatic Washer",
-        "es": "Lav. carga superior",
-        "fr": "Lave-linge auto",
-        "it": "Lavatrice automatica",
-        "ja": "ぜんじどうせんたくき"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -50,19 +41,6 @@
         "green": "Green",
         "yellow": "Yellow",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Automatic Washer",
-        "en-GB": "Automatic Washer",
-        "de": "Toplader-Waschmaschine",
-        "es": "Lavadora de carga superior",
-        "fr": "Lave-Linge",
-        "it": "Lavatrice con carica dall'alto",
-        "nl": "Bovenlader",
-        "zh-CN": "洗衣机",
-        "zh-TW": "洗衣機",
-        "jp": "せんたくき",
-        "ko": "세탁기"
       }
     }
   }

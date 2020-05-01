@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "de": "Feuershirt",
-        "en-GB": "Flame Tee",
-        "en-US": "Flame Tee",
-        "es": "Camiseta fuego",
-        "fr": "T-shirt flamme",
-        "it": "Maglietta fiamma",
-        "ja": "ファイアーなふく"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -44,19 +35,6 @@
       ],
       "variations": {
         "red": "Red"
-      },
-      "name": {
-        "en-US": "Flame Tee",
-        "en-GB": "Flame Tee",
-        "de": "Feuershirt",
-        "es": "Camiseta fuego",
-        "fr": "T-Shirt flamme",
-        "it": "Maglietta fiamma",
-        "nl": "Vlammenshirt",
-        "zh-CN": "火焰T恤",
-        "zh-TW": "火焰T恤",
-        "jp": "ファイアーなＴシャツ",
-        "ko": "파이어 티셔츠"
       }
     }
   }

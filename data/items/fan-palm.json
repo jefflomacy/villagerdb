@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 1300
         }
-      ],
-      "name": {
-        "de": "Fächerpalme",
-        "en-GB": "Fan Palm",
-        "en-US": "Fan Palm",
-        "es": "Palmera",
-        "fr": "Palmier d'Arec",
-        "it": "Palma cinese",
-        "ja": "ヤマドリヤシ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -51,19 +42,6 @@
         "blue": "Blue",
         "green": "Green",
         "red": "Red"
-      },
-      "name": {
-        "en-US": "Fan Palm",
-        "en-GB": "Fan Palm",
-        "de": "Fächerpalme",
-        "es": "Palmera",
-        "fr": "Palmier d'arec",
-        "it": "Palma cinese",
-        "nl": "Dypsis",
-        "zh-CN": "黄椰子",
-        "zh-TW": "黃椰子",
-        "jp": "ヤマドリヤシ",
-        "ko": "아레카야자"
       }
     }
   }

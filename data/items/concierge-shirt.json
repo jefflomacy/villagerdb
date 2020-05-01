@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 352
         }
-      ],
-      "name": {
-        "de": "Portierjacke",
-        "en-GB": "Concierge Shirt",
-        "en-US": "Concierge Shirt",
-        "es": "Chaqueta conserje",
-        "fr": "Pull hôtel",
-        "it": "Giacca portiere",
-        "ja": "ホテルマンなふく"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 350
         }
-      ],
-      "name": {
-        "en-US": "Concierge Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 350
         }
-      ],
-      "name": {
-        "en-US": "Concierge Shirt"
-      }
+      ]
     }
   }
 }

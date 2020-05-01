@@ -12,34 +12,12 @@
       "sources": [
         "HHA (90",
         "000 points)"
-      ],
-      "name": {
-        "de": "AdsH-Silberpokal",
-        "en-GB": "Silver HHA Trophy",
-        "en-US": "Silver HHA Trophy",
-        "es": "Trofeo AAD de plata",
-        "fr": "Trophée AJD argent",
-        "it": "Trofeo ABC d'argento",
-        "ja": "ぎんのおうちトロフィー"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
         "currency": "bells",
         "value": 425
-      },
-      "name": {
-        "en-US": "Silver HHA Trophy",
-        "en-GB": "Silver HHA Trophy",
-        "de": "Adsh-Silberpokal",
-        "es": "Trofeo AAD de plata",
-        "fr": "Trophée AJD argent",
-        "it": "Trofeo ABC d'argento",
-        "nl": "Zilveren AWW-trofee",
-        "zh-CN": "银屋奖杯",
-        "zh-TW": "銀屋獎盃",
-        "jp": "ぎんのおうちトロフィー",
-        "ko": "집 모양 은 트로피"
       }
     }
   }

@@ -15,10 +15,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Drink Machine"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -60,19 +57,6 @@
         "pink-sports-drink": "Pink / Sports drink",
         "pink-sale": "Pink / Sale",
         "pink-cute": "Pink / Cute"
-      },
-      "name": {
-        "en-US": "Drink Machine",
-        "en-GB": "Drink Machine",
-        "de": "Getränkeautomat",
-        "es": "Máquina de refrescos",
-        "fr": "Distributeur de boissons",
-        "it": "Distributore di bevande",
-        "nl": "Blikjesautomaat",
-        "zh-CN": "自动贩卖机",
-        "zh-TW": "自動販賣機",
-        "jp": "じはんき",
-        "ko": "음료수 자동판매기"
       }
     }
   }

@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 20
         }
-      ],
-      "name": {
-        "de": "Badesandale",
-        "en-GB": "Flip-Flops",
-        "en-US": "Flip-Flops",
-        "es": "Chancla",
-        "fr": "Paire de tongs",
-        "it": "Paio infradito",
-        "ja": "ビーチサンダル"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "light-blue": "Light blue",
         "pink": "Pink",
         "red": "Red"
-      },
-      "name": {
-        "en-US": "Flip-Flops",
-        "en-GB": "Flip-Flops",
-        "de": "Paars Badesandalen",
-        "es": "Chancla",
-        "fr": "Paire de tongs",
-        "it": "Paio di infradito",
-        "nl": "Teenslippers",
-        "zh-CN": "沙滩拖鞋",
-        "zh-TW": "沙灘拖鞋",
-        "jp": "ビーチサンダル",
-        "ko": "비치 샌들"
       }
     }
   }

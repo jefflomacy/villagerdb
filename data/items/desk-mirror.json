@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Desk Mirror"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -37,19 +34,6 @@
         "blue": "Blue",
         "white": "White",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Desk Mirror",
-        "en-GB": "Desk Mirror",
-        "de": "Tischspiegel",
-        "es": "Espejo de tocador",
-        "fr": "Miroir de table",
-        "it": "Specchio da tavolo",
-        "nl": "Bureauspiegel",
-        "zh-CN": "桌镜",
-        "zh-TW": "桌鏡",
-        "jp": "おきかがみ",
-        "ko": "책상용 거울"
       }
     }
   }

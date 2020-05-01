@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 1120
         }
-      ],
-      "name": {
-        "de": "Dreirad",
-        "en-GB": "Tricycle",
-        "en-US": "Tricycle",
-        "es": "Triciclo",
-        "fr": "Tricycle",
-        "it": "Triciclo",
-        "ja": "さんりんしゃ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -49,19 +40,6 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Tricycle",
-        "en-GB": "Tricycle",
-        "de": "Dreirad",
-        "es": "Triciclo",
-        "fr": "Tricycle",
-        "it": "Triciclo",
-        "nl": "Driewieler",
-        "zh-CN": "三轮车",
-        "zh-TW": "三輪車",
-        "jp": "さんりんしゃ",
-        "ko": "세발자전거"
       }
     }
   }

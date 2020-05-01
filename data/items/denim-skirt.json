@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 480
         }
-      ],
-      "name": {
-        "de": "Bluejeansrock",
-        "en-GB": "Denim Skirt",
-        "en-US": "Denim Skirt",
-        "es": "Falda vaquera",
-        "fr": "Jupe en jean",
-        "it": "Gonna di jeans",
-        "ja": "デニムスカート"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "navy-blue": "Navy blue",
         "black": "Black",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Denim Skirt",
-        "en-GB": "Denim Skirt",
-        "de": "Jeansrock",
-        "es": "Falda vaquera",
-        "fr": "Jupe en jean",
-        "it": "Gonna di jeans scura",
-        "nl": "Jeansrokje",
-        "zh-CN": "牛仔裙",
-        "zh-TW": "牛仔裙",
-        "jp": "デニムスカート",
-        "ko": "데님 스커트"
       }
     }
   }

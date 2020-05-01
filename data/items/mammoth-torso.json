@@ -14,16 +14,7 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ],
-      "name": {
-        "de": "Mammut-Torso",
-        "en-GB": "Mammoth Torso",
-        "en-US": "Mammoth Torso",
-        "es": "Cuerpo mamut",
-        "fr": "Corps de mammouth",
-        "it": "Torso mammut",
-        "ja": "マンモスのからだ"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -33,19 +24,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2500
-      },
-      "name": {
-        "en-US": "Mammoth Torso",
-        "en-GB": "Mammoth Torso",
-        "de": "Mammut-Torso",
-        "es": "Cuerpo mamut",
-        "fr": "Corps de mammouth",
-        "it": "Torso mammut",
-        "nl": "Mammoetromp",
-        "zh-CN": "长毛象的身体",
-        "zh-TW": "長毛象的身體",
-        "jp": "マンモスのからだ",
-        "ko": "매머드의 몸통"
       }
     }
   }

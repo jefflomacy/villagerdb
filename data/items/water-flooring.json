@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 28800
         }
-      ],
-      "name": {
-        "en-US": "Water Flooring",
-        "en-GB": "Water Flooring",
-        "de": "Wasseroberfläche",
-        "es": "Suelo fondo piscina",
-        "fr": "Sol eau",
-        "it": "Pavimento acqua",
-        "nl": "Watervloer",
-        "zh-CN": "水面地板",
-        "zh-TW": "水面地板",
-        "jp": "みなものゆか",
-        "ko": "수면 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

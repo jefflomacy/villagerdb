@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Synth"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Synth",
-        "en-GB": "K.K. Synth",
-        "de": "K.K. Synthiepop",
-        "es": "Tota-Electrónica",
-        "fr": "Synthé Kéké",
-        "it": "K.K. Synth",
-        "nl": "K.K.-Synthpop",
-        "zh-CN": "K.K.电子民谣",
-        "zh-TW": "K.K.電子民謠",
-        "jp": "けけトロニカ",
-        "ko": "K.K.트로니카",
-        "ru": "Синти-Поп К. К."
-      }
+      ]
     }
   }
 }

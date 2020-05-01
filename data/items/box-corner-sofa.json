@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 1600
         }
-      ],
-      "name": {
-        "de": "Sofa-Eckelement",
-        "en-GB": "Box Corner Sofa",
-        "en-US": "Box Corner Sofa",
-        "es": "Módulo sofá esquina",
-        "fr": "Angle de canapé",
-        "it": "Sofà pezzo d'angolo",
-        "ja": "ボックスソファのコーナー"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "magenta": "Magenta",
         "white": "White",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Box Corner Sofa",
-        "en-GB": "Box Corner Sofa",
-        "de": "Sofa-Eckelement",
-        "es": "Módulo de sofá esquina",
-        "fr": "Angle de canapé",
-        "it": "Sofà pezzo d'angolo",
-        "nl": "Hoekcombibank",
-        "zh-CN": "无扶手转角沙发",
-        "zh-TW": "無扶手轉角沙發",
-        "jp": "ボックスソファのコーナー",
-        "ko": "사각 소파 코너"
       }
     }
   }

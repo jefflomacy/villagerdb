@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 340
         }
-      ],
-      "name": {
-        "de": "6er-Shirt",
-        "en-GB": "Six-Ball Tee",
-        "en-US": "Six-Ball Tee",
-        "es": "Camiseta bola 6",
-        "fr": "T-shirt nº 6",
-        "it": "Maglietta palla 6",
-        "ja": "6ばんだまのふく"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -44,19 +35,6 @@
       ],
       "variations": {
         "green": "Green"
-      },
-      "name": {
-        "en-US": "Six-Ball Tee",
-        "en-GB": "Six-Ball Tee",
-        "de": "6Er-Shirt",
-        "es": "Camiseta bola 6",
-        "fr": "T-Shirt nº 6",
-        "it": "Maglietta palla 6",
-        "nl": "6-Bal-T-Shirt",
-        "zh-CN": "6号球上衣",
-        "zh-TW": "6號球衣服",
-        "jp": "６ばんだまのふく",
-        "ko": "6번공 옷"
       }
     }
   }

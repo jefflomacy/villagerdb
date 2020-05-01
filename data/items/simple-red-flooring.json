@@ -16,20 +16,7 @@
           "currency": "bells",
           "value": 1500
         }
-      ],
-      "name": {
-        "en-US": "Simple Red Flooring",
-        "en-GB": "Simple Red Flooring",
-        "de": "Rotteppichboden",
-        "es": "Suelo liso rojo",
-        "fr": "Moquette rouge",
-        "it": "Pavimento semplice rosso",
-        "nl": "Simpele rode vloer",
-        "zh-CN": "红色简约地毯",
-        "zh-TW": "紅色簡約地毯",
-        "jp": "あかいシンプルカーペット",
-        "ko": "빨간 심플 카펫 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

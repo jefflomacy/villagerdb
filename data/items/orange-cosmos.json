@@ -11,10 +11,7 @@
       },
       "sources": [
         "Hybrid - From Red and Yellow Cosmos."
-      ],
-      "name": {
-        "en-US": "Orange Cosmos"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 80
-      },
-      "name": {
-        "en-US": "Orange Cosmos",
-        "en-GB": "Orange Cosmos",
-        "de": "Orangecosmea",
-        "es": "Cosmos naranja",
-        "fr": "Cosmos orange",
-        "it": "Cosmea arancione",
-        "nl": "Oranje cosmea",
-        "zh-CN": "橘色波斯菊",
-        "zh-TW": "橘色波斯菊",
-        "jp": "オレンジのコスモス",
-        "ko": "오렌지색 코스모스"
       }
     }
   }

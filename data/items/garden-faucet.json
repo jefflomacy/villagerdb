@@ -25,10 +25,7 @@
           "currency": "meow",
           "value": 5
         }
-      ],
-      "name": {
-        "en-US": "Garden Faucet"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -51,19 +48,6 @@
         "wooden": "Wooden",
         "concrete": "Concrete",
         "stainless": "Stainless"
-      },
-      "name": {
-        "en-US": "Garden Faucet",
-        "en-GB": "Garden Faucet",
-        "de": "Gartenwasserhahn",
-        "es": "Grifo de jardín",
-        "fr": "Robinet de jardin",
-        "it": "Fontanella da giardino",
-        "nl": "Tuinkraan",
-        "zh-CN": "花园水龙头",
-        "zh-TW": "花園水龍頭",
-        "jp": "ウォータービュー",
-        "ko": "정원 수도꼭지"
       }
     }
   }

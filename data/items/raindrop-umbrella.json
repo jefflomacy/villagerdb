@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 750
         }
-      ],
-      "name": {
-        "en-US": "Raindrop Umbrella",
-        "en-GB": "Raindrop Umbrella",
-        "de": "Tropfenschirm",
-        "es": "Paraguas gotas de lluvia",
-        "fr": "Parapluie motif pluie",
-        "it": "Ombrello gocce di pioggia",
-        "nl": "Regendruppelsparaplu",
-        "zh-CN": "雨点雨伞",
-        "zh-TW": "雨點雨傘",
-        "jp": "レイニーなかさ",
-        "ko": "비 내리는 우산"
-      }
+      ]
     }
   },
   "category": "Umbrellas"

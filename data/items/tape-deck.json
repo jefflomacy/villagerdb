@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 712
         }
-      ],
-      "name": {
-        "de": "Radiorekorder",
-        "en-GB": "Tape Deck",
-        "en-US": "Tape Deck",
-        "es": "Radiocasete",
-        "fr": "Cassettophone",
-        "it": "Radio",
-        "ja": "ラジカセ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -48,19 +39,6 @@
         "orange": "Orange",
         "white": "White",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Tape Deck",
-        "en-GB": "Tape Deck",
-        "de": "Radiorekorder",
-        "es": "Radiocasete",
-        "fr": "Cassettophone",
-        "it": "Radio",
-        "nl": "Cassettespeler",
-        "zh-CN": "磁带录音机",
-        "zh-TW": "卡帶收音機",
-        "jp": "ラジカセ",
-        "ko": "카세트라디오"
       }
     }
   }

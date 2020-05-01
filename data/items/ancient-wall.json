@@ -15,10 +15,7 @@
       },
       "sources": [
         "Saharah"
-      ],
-      "name": {
-        "en-US": "Ancient Wall"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -30,20 +27,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Ancient Wall",
-        "en-GB": "Ancient Wall",
-        "de": "Antikwand",
-        "es": "Pared egipcia",
-        "fr": "Mur hiéroglyphe",
-        "it": "Muro egizio",
-        "nl": "Hiërogliefenwand",
-        "zh-CN": "埃及墙",
-        "zh-TW": "埃及牆",
-        "jp": "エジプトなかべ",
-        "ko": "이집트풍 벽"
-      }
+      ]
     }
   }
 }

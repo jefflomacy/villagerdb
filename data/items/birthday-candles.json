@@ -14,16 +14,7 @@
       },
       "sources": [
         "Birthday (friendship level at maximum with the 3 neighbors)"
-      ],
-      "name": {
-        "de": "Geburtstagsdeko",
-        "en-GB": "Birthday Candles",
-        "en-US": "Birthday Candles",
-        "es": "Lote de velas cumple",
-        "fr": "Lot bougies d'anniv",
-        "it": "Ornamento compleanno",
-        "ja": "バースデーキャンドル"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -43,19 +34,6 @@
         "green": "Green",
         "orange": "Orange",
         "gorgeous": "Gorgeous"
-      },
-      "name": {
-        "en-US": "Birthday Candles",
-        "en-GB": "Birthday Candles",
-        "de": "Geburtstagsdeko",
-        "es": "Set de velas de cumpleaños",
-        "fr": "Lot bougies d'anniversaire",
-        "it": "Ornamento di compleanno",
-        "nl": "Verjaardagskaarsjes",
-        "zh-CN": "生日蜡烛",
-        "zh-TW": "生日蠟燭",
-        "jp": "バースデーキャンドル",
-        "ko": "생일 양초"
       }
     }
   }

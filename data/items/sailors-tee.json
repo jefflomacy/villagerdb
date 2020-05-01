@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "de": "Marineshirt",
-        "en-GB": "Sailor's Tee",
-        "en-US": "Sailor's Tee",
-        "es": "Camiseta marinera",
-        "fr": "T-shirt matelot",
-        "it": "Maglietta marinaio",
-        "ja": "はんそでセーラーふく"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -52,19 +43,6 @@
         "purple": "Purple",
         "red": "Red",
         "pink": "Pink"
-      },
-      "name": {
-        "en-US": "Sailor's Tee",
-        "en-GB": "Sailor's Tee",
-        "de": "Marineshirt",
-        "es": "Camiseta marinera",
-        "fr": "T-Shirt matelot",
-        "it": "Maglietta da marinaio",
-        "nl": "Matrozenshirt",
-        "zh-CN": "短袖水手服",
-        "zh-TW": "短袖水手服",
-        "jp": "はんそでセーラーふく",
-        "ko": "세일러복"
       }
     }
   }

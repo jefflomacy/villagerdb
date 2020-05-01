@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Alpaka-Pulli",
-        "en-GB": "Dapper Shirt",
-        "en-US": "Dapper Shirt",
-        "es": "Jersey paseo oro",
-        "fr": "Pull pimpant",
-        "it": "Maglia festosa",
-        "ja": "きいろツイードのふくL"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 350
         }
-      ],
-      "name": {
-        "en-US": "Dapper Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 350
         }
-      ],
-      "name": {
-        "en-US": "Dapper Shirt"
-      }
+      ]
     }
   }
 }

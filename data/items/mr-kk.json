@@ -22,10 +22,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "Mr. K.K."
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "Mr. K.K.",
-        "en-GB": "Mr. K.K.",
-        "de": "Herr K.K.",
-        "es": "Míster Totakeke",
-        "fr": "M. Kéké",
-        "it": "K.K. Sig. No",
-        "nl": "Meester K.K.",
-        "zh-CN": "K.K.老师",
-        "zh-TW": "K.K.老師",
-        "jp": "けけせんせい",
-        "ko": "K.K.선생님",
-        "ru": "Господин К. К."
-      }
+      ]
     }
   }
 }

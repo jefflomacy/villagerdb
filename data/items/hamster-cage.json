@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 2292
         }
-      ],
-      "name": {
-        "de": "Hamsterkäfig",
-        "en-GB": "Hamster Cage",
-        "en-US": "Hamster Cage",
-        "es": "Jaula de hámster",
-        "fr": "Cage à hamster",
-        "it": "Gabbia per criceti",
-        "ja": "ハムスターのかご"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -53,19 +44,6 @@
         "yellow": "Yellow",
         "red": "Red",
         "brown": "Brown"
-      },
-      "name": {
-        "en-US": "Hamster Cage",
-        "en-GB": "Hamster Cage",
-        "de": "Hamsterkäfig",
-        "es": "Jaula de hámster",
-        "fr": "Cage à hamster",
-        "it": "Gabbia per criceti",
-        "nl": "Hamsterkooi",
-        "zh-CN": "仓鼠笼",
-        "zh-TW": "倉鼠籠",
-        "jp": "ハムスターのかご",
-        "ko": "햄스터 철장"
       }
     }
   }

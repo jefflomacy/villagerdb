@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 352
         }
-      ],
-      "name": {
-        "de": "Western-Hemd",
-        "en-GB": "Western Shirt",
-        "en-US": "Western Shirt",
-        "es": "Jersey de vaquero",
-        "fr": "Pull western",
-        "it": "Maglia cowboy",
-        "ja": "ウェスタンなふく"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +39,6 @@
         "pink": "Pink",
         "yellow": "Yellow",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Western Shirt",
-        "en-GB": "Western Shirt",
-        "de": "Western-Hemd",
-        "es": "Jersey de vaquero",
-        "fr": "Chemise western",
-        "it": "Camicia da cowboy",
-        "nl": "Westernshirt",
-        "zh-CN": "西部牛仔装",
-        "zh-TW": "西部牛仔衣服",
-        "jp": "ウェスタンなふく",
-        "ko": "웨스턴풍 옷"
       }
     }
   }

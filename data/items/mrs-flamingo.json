@@ -18,16 +18,7 @@
           "currency": "bells",
           "value": 1532
         }
-      ],
-      "name": {
-        "de": "Mrs. Flamingo",
-        "en-GB": "Mrs. Flamingo",
-        "en-US": "Mrs. Flamingo",
-        "es": "Sra. Flamenco",
-        "fr": "Mme Flamingo",
-        "it": "Fenicottero 2",
-        "ja": "めすのフラミンゴ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -44,19 +35,6 @@
       "variations": {
         "natural": "Natural",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Mrs. Flamingo",
-        "en-GB": "Mrs. Flamingo",
-        "de": "Mrs. Flamingo",
-        "es": "Sra. Flamenco",
-        "fr": "Mme Flamingo",
-        "it": "Fenicottero 2",
-        "nl": "Mevrouw Flamingo",
-        "zh-CN": "雌火烈鸟",
-        "zh-TW": "雌紅鶴",
-        "jp": "めすのフラミンゴ",
-        "ko": "암컷 플라밍고"
       }
     }
   }

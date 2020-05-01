@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 1200
         }
-      ],
-      "name": {
-        "de": "Blumengesteck",
-        "en-GB": "Flashy-Flower Sign",
-        "en-US": "Flashy-Flower Sign",
-        "es": "Cartel florido",
-        "fr": "Panneau fleuri",
-        "it": "Decor. inaugurazioni",
-        "ja": "はなわ"
-      }
+      ]
     },
     "nh": {
       "customizable": false,
@@ -47,19 +38,6 @@
         "pop": "Pop",
         "cute": "Cute",
         "elegant": "Elegant"
-      },
-      "name": {
-        "en-US": "Flashy-Flower Sign",
-        "en-GB": "Flashy-Flower Sign",
-        "de": "Blumengesteck",
-        "es": "Cartel florido",
-        "fr": "Panneau fleuri",
-        "it": "Decorazione inaugurale",
-        "nl": "Bloemenbord",
-        "zh-CN": "花环",
-        "zh-TW": "花環",
-        "jp": "はなわ",
-        "ko": "화환"
       }
     }
   }

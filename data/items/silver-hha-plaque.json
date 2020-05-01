@@ -12,16 +12,7 @@
       "sources": [
         "HHA (50",
         "000 points)"
-      ],
-      "name": {
-        "de": "AdsH-Silberabzeichen",
-        "en-GB": "Silver HHA Plaque",
-        "en-US": "Silver HHA Plaque",
-        "es": "Placa AAD de plata",
-        "fr": "Plaque AJD argent",
-        "it": "Targa ABC d'argento",
-        "ja": "アカデミーのぎんのたて"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -31,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 425
-      },
-      "name": {
-        "en-US": "Silver HHA Plaque",
-        "en-GB": "Silver HHA Plaque",
-        "de": "Adsh-Silberabzeichen",
-        "es": "Placa AAD de plata",
-        "fr": "Plaque AJD argent",
-        "it": "Targa ABC d'argento",
-        "nl": "Zilveren AWW-plaket",
-        "zh-CN": "快乐家协会银奖座",
-        "zh-TW": "快樂家協會銀獎座",
-        "jp": "アカデミーのぎんのたて",
-        "ko": "아카데미 은 상패"
       }
     }
   }

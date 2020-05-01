@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 800
         }
-      ],
-      "name": {
-        "de": "Kissen",
-        "en-GB": "Cushion",
-        "en-US": "Cushion",
-        "es": "Cojín",
-        "fr": "Coussin",
-        "it": "Cuscino",
-        "ja": "クッション"
-      }
+      ]
     },
     "nh": {
       "customizable": true,
@@ -47,19 +38,6 @@
         "paisley": "Paisley",
         "rainbow-colors": "Rainbow colors",
         "pop": "Pop"
-      },
-      "name": {
-        "en-US": "Cushion",
-        "en-GB": "Cushion",
-        "de": "Kissen",
-        "es": "Cojín",
-        "fr": "Coussin",
-        "it": "Cuscino",
-        "nl": "Kussen",
-        "zh-CN": "抱枕",
-        "zh-TW": "抱枕",
-        "jp": "クッション",
-        "ko": "쿠션"
       }
     }
   }

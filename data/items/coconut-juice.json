@@ -17,19 +17,6 @@
       ],
       "recipe": {
         "coconut": 1
-      },
-      "name": {
-        "en-US": "Coconut Juice",
-        "en-GB": "Coconut Juice",
-        "de": "Kokosnusswasser",
-        "es": "Zumo de coco",
-        "fr": "Jus de coco",
-        "it": "Acqua di cocco",
-        "nl": "Drinkkokosnoot",
-        "zh-CN": "椰子水",
-        "zh-TW": "椰子水",
-        "jp": "ココナッツジュース",
-        "ko": "코코넛 주스"
       }
     },
     "nl": {
@@ -54,10 +41,7 @@
           "currency": "meow",
           "value": 5
         }
-      ],
-      "name": {
-        "en-US": "Coconut Juice"
-      }
+      ]
     }
   }
 }

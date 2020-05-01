@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Angelweste",
-        "en-GB": "Fishing Vest",
-        "en-US": "Fishing Vest",
-        "es": "Camiseta de pesca",
-        "fr": "Veste de pêcheur",
-        "it": "Giubbotto da pesca",
-        "ja": "つりジャケット"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -51,19 +42,6 @@
         "pink": "Pink",
         "green": "Green",
         "avocado": "Avocado"
-      },
-      "name": {
-        "en-US": "Fishing Vest",
-        "en-GB": "Fishing Vest",
-        "de": "Angelweste",
-        "es": "Chaleco de pesca",
-        "fr": "Veste de pêcheur",
-        "it": "Giubbotto da pesca",
-        "nl": "Vissersvest",
-        "zh-CN": "钓鱼背心",
-        "zh-TW": "釣魚背心",
-        "jp": "つりジャケット",
-        "ko": "낚시 재킷"
       }
     }
   }

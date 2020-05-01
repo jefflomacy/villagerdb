@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 1200
         }
-      ],
-      "name": {
-        "de": "Papphügel",
-        "en-GB": "Mountain Standee",
-        "en-US": "Mountain Standee",
-        "es": "Montaña atrezo",
-        "fr": "Colline en carton",
-        "it": "Sagoma collina",
-        "ja": "ハリボテのやま"
-      }
+      ]
     },
     "nh": {
       "customizable": true,
@@ -51,19 +42,6 @@
         "kyoto-in-summer": "Kyoto in summer",
         "fall": "Fall",
         "winter": "Winter"
-      },
-      "name": {
-        "en-US": "Mountain Standee",
-        "en-GB": "Mountain Standee",
-        "de": "Papphügel",
-        "es": "Montaña de atrezo",
-        "fr": "Colline en carton",
-        "it": "Sagoma di collina",
-        "nl": "Decoratieberg",
-        "zh-CN": "假山道具",
-        "zh-TW": "假山道具",
-        "jp": "ハリボテのやま",
-        "ko": "연극용 산"
       }
     }
   }

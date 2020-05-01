@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 720
         }
-      ],
-      "name": {
-        "en-US": "Common Flooring",
-        "en-GB": "Common Flooring",
-        "de": "Normalboden",
-        "es": "Suelo básico",
-        "fr": "Sol ordinaire",
-        "it": "Pavimento comune",
-        "nl": "Standaardvloer",
-        "zh-CN": "常见地板",
-        "zh-TW": "常見地板",
-        "jp": "よくあるゆかいた",
-        "ko": "평범한 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

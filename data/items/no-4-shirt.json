@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 252
         }
-      ],
-      "name": {
-        "de": "Nr.-4-Pulli",
-        "en-GB": "No. 4 Shirt",
-        "en-US": "No. 4 Shirt",
-        "es": "Jersey n.º 4",
-        "fr": "Pull 4",
-        "it": "Maglia nº 4",
-        "ja": "No.4のふく"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 250
         }
-      ],
-      "name": {
-        "en-US": "No. 4 Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 250
         }
-      ],
-      "name": {
-        "en-US": "No. 4 Shirt"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -86,19 +71,6 @@
       ],
       "variations": {
         "pink": "Pink"
-      },
-      "name": {
-        "en-US": "No. 4 Shirt",
-        "en-GB": "No. 4 Shirt",
-        "de": "Nr.-4-Shirt",
-        "es": "Camiseta n.º 4",
-        "fr": "T-Shirt 4",
-        "it": "Maglia nº 4",
-        "nl": "Nummer 4-T-shirt",
-        "zh-CN": "4号服",
-        "zh-TW": "4號衣服",
-        "jp": "No.4のふく",
-        "ko": "No.4 옷"
       }
     }
   }

@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3920
         }
-      ],
-      "name": {
-        "en-US": "Mystic Statue"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -44,19 +41,6 @@
       "variations": {
         "real": "Real",
         "fake": "Fake"
-      },
-      "name": {
-        "en-US": "Mystic Statue",
-        "en-GB": "Mystic Statue",
-        "de": "Geheimnisbüste",
-        "es": "Busto antiguo",
-        "fr": "Sculpture mystérieuse",
-        "it": "Statua enigmatica",
-        "nl": "Enigmatische beeld",
-        "zh-CN": "神秘的雕塑",
-        "zh-TW": "神祕的雕塑",
-        "jp": "しんぴてきなちょうこく",
-        "ko": "신비로운 조각"
       }
     }
   }

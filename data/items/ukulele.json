@@ -13,16 +13,7 @@
           "currency": "bells",
           "value": 30
         }
-      ],
-      "name": {
-        "de": "Ukulele",
-        "en-GB": "Ukulele",
-        "en-US": "Ukulele",
-        "es": "Ukelele",
-        "fr": "Ukulélé",
-        "it": "Ukulele",
-        "ja": "ウクレレ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -43,19 +34,6 @@
         "brown": "Brown",
         "white": "White",
         "ocean-blue": "Ocean blue"
-      },
-      "name": {
-        "en-US": "Ukulele",
-        "en-GB": "Ukulele",
-        "de": "Ukulele",
-        "es": "Ukelele",
-        "fr": "Ukulélé",
-        "it": "Ukulele",
-        "nl": "Ukulele",
-        "zh-CN": "乌克丽丽",
-        "zh-TW": "烏克麗麗",
-        "jp": "ウクレレ",
-        "ko": "우쿨렐레"
       }
     }
   }

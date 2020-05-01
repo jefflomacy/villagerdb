@@ -22,10 +22,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Stroll"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -38,21 +35,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Stroll",
-        "en-GB": "K.K. Stroll",
-        "de": "Spaziergang",
-        "es": "Paseíto",
-        "fr": "Flânerie Kéké",
-        "it": "K.K. Trallalà",
-        "nl": "Op straat",
-        "zh-CN": "散散步",
-        "zh-TW": "散散步",
-        "jp": "おさんぽ",
-        "ko": "산책",
-        "ru": "Прогулка К. К."
-      }
+      ]
     }
   }
 }

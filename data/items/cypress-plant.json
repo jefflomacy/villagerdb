@@ -26,10 +26,7 @@
           "currency": "meow",
           "value": 5
         }
-      ],
-      "name": {
-        "en-US": "Cypress Plant"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +49,6 @@
         "yellow": "Yellow",
         "black": "Black",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Cypress Plant",
-        "en-GB": "Cypress Plant",
-        "de": "Zypresse",
-        "es": "Ciprés",
-        "fr": "Cyprès",
-        "it": "Cipresso in vaso",
-        "nl": "Cipres",
-        "zh-CN": "黄金柏",
-        "zh-TW": "黃金柏",
-        "jp": "ゴールドクレスト",
-        "ko": "율마"
       }
     }
   }

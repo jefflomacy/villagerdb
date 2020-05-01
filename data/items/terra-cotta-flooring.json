@@ -13,20 +13,7 @@
           "currency": "bells",
           "value": 1800
         }
-      ],
-      "name": {
-        "en-US": "Terra-Cotta Flooring",
-        "en-GB": "Terra-Cotta Flooring",
-        "de": "Terrakottaboden",
-        "es": "Losa terracota",
-        "fr": "Sol terre cuite",
-        "it": "Pavimento terracotta",
-        "nl": "Terracotta vloer",
-        "zh-CN": "陶砖地板",
-        "zh-TW": "陶磚地板",
-        "jp": "テラコッタタイルのゆか",
-        "ko": "테라코타 타일 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

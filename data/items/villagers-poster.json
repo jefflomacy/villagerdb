@@ -15,20 +15,7 @@
           "currency": "bells",
           "value": 1000
         }
-      ],
-      "name": {
-        "zh-CN": "村民的海报",
-        "de": "Poster's des Bewohners",
-        "en-GB": "Villager's Poster",
-        "es": "Póster del aldeano",
-        "fr": "Poster du villageois",
-        "it": "Poster di Abitante",
-        "jp": "むらびとのポスター",
-        "ko": "마을 주민의 포스터",
-        "nl": "Poster van Dorpsbewoner",
-        "zh-TW": "村民的海報",
-        "en-US": "Villager's Poster"
-      }
+      ]
     }
   },
   "category": "Photos"

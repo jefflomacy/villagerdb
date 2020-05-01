@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Sweetfish"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 900
-      },
-      "name": {
-        "en-US": "Sweetfish",
-        "en-GB": "Sweetfish",
-        "de": "Ayu",
-        "es": "Ayu",
-        "fr": "Ayu",
-        "it": "Ayu",
-        "nl": "Ayu",
-        "zh-CN": "香鱼",
-        "zh-TW": "香魚",
-        "jp": "アユ",
-        "ko": "은어"
       }
     }
   }

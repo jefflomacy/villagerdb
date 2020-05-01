@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 640
         }
-      ],
-      "name": {
-        "de": "Tischlampe",
-        "en-GB": "Table Lamp",
-        "en-US": "Table Lamp",
-        "es": "Lámpara mesita",
-        "fr": "Lampe de table",
-        "it": "Lampada",
-        "ja": "テーブルランプ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "green-flowers": "Green flowers",
         "yellow-flowers": "Yellow flowers",
         "pink-flowers": "Pink flowers"
-      },
-      "name": {
-        "en-US": "Table Lamp",
-        "en-GB": "Table Lamp",
-        "de": "Tischlampe",
-        "es": "Lámpara mesita",
-        "fr": "Lampe de table",
-        "it": "Lampada",
-        "nl": "Tafellamp",
-        "zh-CN": "桌灯",
-        "zh-TW": "桌燈",
-        "jp": "テーブルランプ",
-        "ko": "테이블 램프"
       }
     }
   }

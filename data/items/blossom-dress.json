@@ -23,10 +23,7 @@
           "currency": "bells",
           "value": 640
         }
-      ],
-      "name": {
-        "en-US": "Blossom Dress"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -49,19 +46,6 @@
         "yellow": "Yellow",
         "green": "Green",
         "purple": "Purple"
-      },
-      "name": {
-        "en-US": "Blossom Dress",
-        "en-GB": "Blossom Dress",
-        "de": "Blütenkleid",
-        "es": "Vestido florido",
-        "fr": "Robe d'été fleurie",
-        "it": "Vestito floreale",
-        "nl": "Gebloemde jurk",
-        "zh-CN": "花朵连身裙",
-        "zh-TW": "花紋連身裙",
-        "jp": "はながらワンピース",
-        "ko": "꽃무늬 원피스"
       }
     }
   }

@@ -24,10 +24,7 @@
           "currency": "bells",
           "value": 640
         }
-      ],
-      "name": {
-        "en-US": "Pharaoh's Outfit"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -42,19 +39,6 @@
       ],
       "variations": {
         "white": "White"
-      },
-      "name": {
-        "en-US": "Pharaoh's Outfit",
-        "en-GB": "Pharaoh's Outfit",
-        "de": "Pharao-Robe",
-        "es": "Vestido egipcio",
-        "fr": "Tenue de pharaon",
-        "it": "Vestito faraonico",
-        "nl": "Faraokostuum",
-        "zh-CN": "埃及传统服装",
-        "zh-TW": "埃及服",
-        "jp": "エジプトのふく",
-        "ko": "파라오 옷"
       }
     }
   }

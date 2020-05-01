@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 5200
         }
-      ],
-      "name": {
-        "en-US": "Tortoise Specs"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -41,19 +38,6 @@
         "brown": "Brown",
         "beige": "Beige",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Tortoise Specs",
-        "en-GB": "Tortoise Specs",
-        "de": "Kunststoffbrille",
-        "es": "Gafa de carey",
-        "fr": "Monture tortue",
-        "it": "Montatura tartarugata",
-        "nl": "Bril met schildpadmontuur",
-        "zh-CN": "琥珀眼镜",
-        "zh-TW": "琥珀眼鏡",
-        "jp": "べっこうめがね",
-        "ko": "거북이 등껍질 안경"
       }
     }
   }

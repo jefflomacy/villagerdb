@@ -11,10 +11,7 @@
       },
       "sources": [
         "On tree stumps."
-      ],
-      "name": {
-        "en-US": "Violin Beetle"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 450
-      },
-      "name": {
-        "en-US": "Violin Beetle",
-        "en-GB": "Violin Beetle",
-        "de": "Geigenkäfer",
-        "es": "Escarabajo violín",
-        "fr": "Mormolyce",
-        "it": "Carabo violino",
-        "nl": "Vioolkever",
-        "zh-CN": "提琴虫",
-        "zh-TW": "提琴蟲",
-        "jp": "バイオリンムシ",
-        "ko": "바이올린벌레"
       }
     }
   }

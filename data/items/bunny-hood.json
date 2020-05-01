@@ -28,16 +28,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Hasenkapuze",
-        "en-GB": "Bunny Hood",
-        "en-US": "Bunny Hood",
-        "es": "Gorro de conejito",
-        "fr": "Cagoule lapin",
-        "it": "Cappello coniglio",
-        "ja": "うさぎのかぶりもの"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -55,19 +46,6 @@
         "pink": "Pink",
         "yellow": "Yellow",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Bunny Hood",
-        "en-GB": "Bunny Hood",
-        "de": "Hasenkapuze",
-        "es": "Gorro de conejito",
-        "fr": "Cagoule lapin",
-        "it": "Cappello da coniglio",
-        "nl": "Konijnenmuts",
-        "zh-CN": "兔子头套",
-        "zh-TW": "兔子頭套",
-        "jp": "ウサギのかぶりもの",
-        "ko": "토끼 모자"
       }
     }
   }

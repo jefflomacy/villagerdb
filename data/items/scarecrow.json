@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Vogelscheuche",
-        "en-GB": "Scarecrow",
-        "en-US": "Scarecrow",
-        "es": "Espantapájaros",
-        "fr": "épouvantail",
-        "it": "Spaventapasseri",
-        "ja": "かかし"
-      }
+      ]
     },
     "nh": {
       "customizable": false,
@@ -46,19 +37,6 @@
       "recipe": {
         "tree-branch": 4,
         "clump-of-weeds": 5
-      },
-      "name": {
-        "en-US": "Scarecrow",
-        "en-GB": "Scarecrow",
-        "de": "Vogelscheuche",
-        "es": "Espantapájaros",
-        "fr": "Épouvantail",
-        "it": "Spaventapasseri",
-        "nl": "Vogelverschrikker",
-        "zh-CN": "稻草人",
-        "zh-TW": "稻草人",
-        "jp": "かかし",
-        "ko": "허수아비"
       }
     }
   }

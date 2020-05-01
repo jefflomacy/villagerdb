@@ -14,16 +14,7 @@
       },
       "sources": [
         "Birthday (friendship level at maximum with the 3 neighbors)"
-      ],
-      "name": {
-        "de": "Geburtstagsschild",
-        "en-GB": "Birthday Sign",
-        "en-US": "Birthday Sign",
-        "es": "Cartel de cumpleaños",
-        "fr": "Panneau d'anniv",
-        "it": "Cartello compleanno",
-        "ja": "バースデーボード"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -43,19 +34,6 @@
         "green": "Green",
         "orange": "Orange",
         "gorgeous": "Gorgeous"
-      },
-      "name": {
-        "en-US": "Birthday Sign",
-        "en-GB": "Birthday Sign",
-        "de": "Geburtstagsschild",
-        "es": "Cartel de cumpleaños",
-        "fr": "Panneau d'anniversaire",
-        "it": "Cartello di compleanno",
-        "nl": "Verjaardagsbord",
-        "zh-CN": "生日立牌",
-        "zh-TW": "生日立牌",
-        "jp": "バースデーボード",
-        "ko": "생일 보드"
       }
     }
   }

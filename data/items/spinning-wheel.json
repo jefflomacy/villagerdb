@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 2200
         }
-      ],
-      "name": {
-        "de": "Spinnrad",
-        "en-GB": "Spinning Wheel",
-        "en-US": "Spinning Wheel",
-        "es": "Rueca",
-        "fr": "Rouet",
-        "it": "Arcolaio",
-        "ja": "いとぐるま"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -46,20 +37,7 @@
           "currency": "bells",
           "value": 970
         }
-      ],
-      "name": {
-        "en-US": "Spinning Wheel",
-        "en-GB": "Spinning Wheel",
-        "de": "Spinnrad",
-        "es": "Rueca",
-        "fr": "Rouet",
-        "it": "Arcolaio",
-        "nl": "Spinnewiel",
-        "zh-CN": "纺车",
-        "zh-TW": "紡車",
-        "jp": "いとぐるま",
-        "ko": "물레"
-      }
+      ]
     }
   }
 }

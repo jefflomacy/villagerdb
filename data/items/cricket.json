@@ -11,10 +11,7 @@
       },
       "sources": [
         "In grassy patches."
-      ],
-      "name": {
-        "en-US": "Cricket"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 130
-      },
-      "name": {
-        "en-US": "Cricket",
-        "en-GB": "Cricket",
-        "de": "Grille",
-        "es": "Grillo común",
-        "fr": "Grillon des prés",
-        "it": "Grillo",
-        "nl": "Krekel",
-        "zh-CN": "蟋蟀",
-        "zh-TW": "蟋蟀",
-        "jp": "コオロギ",
-        "ko": "귀뚜라미"
       }
     }
   }

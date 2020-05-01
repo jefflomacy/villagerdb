@@ -25,16 +25,7 @@
           "currency": "bells",
           "value": 1600
         }
-      ],
-      "name": {
-        "de": "Geishaperücke",
-        "en-GB": "Geisha Wig",
-        "en-US": "Geisha Wig",
-        "es": "Peluca de geisha",
-        "fr": "Coiffe de geisha",
-        "it": "Parrucca da geisha",
-        "ja": "ゲイシャさん"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -55,19 +46,6 @@
         "blue": "Blue",
         "purple": "Purple",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Geisha Wig",
-        "en-GB": "Geisha Wig",
-        "de": "Geishaperücke",
-        "es": "Peluca de geisha",
-        "fr": "Coiffe de geisha",
-        "it": "Parrucca da geisha",
-        "nl": "Geishapruik",
-        "zh-CN": "艺伎假发",
-        "zh-TW": "藝妓假髮",
-        "jp": "ゲイシャさん",
-        "ko": "게이샤 머리"
       }
     }
   }

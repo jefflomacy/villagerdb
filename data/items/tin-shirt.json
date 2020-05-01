@@ -23,34 +23,19 @@
           "currency": "bells",
           "value": 400
         }
-      ],
-      "name": {
-        "de": "Blechshirt",
-        "en-GB": "Tin Shirt",
-        "en-US": "Tin Shirt",
-        "es": "Camiseta hojalata",
-        "fr": "T-shirt métal",
-        "it": "Maglia tipo latta",
-        "ja": "ブリキのふく"
-      }
+      ]
     },
     "ac": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ],
-      "name": {
-        "en-US": "Tin Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": false,
       "sources": [
         "Gracie"
-      ],
-      "name": {
-        "en-US": "Tin Shirt"
-      }
+      ]
     }
   }
 }

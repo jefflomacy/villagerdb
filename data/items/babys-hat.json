@@ -23,16 +23,7 @@
           "currency": "bells",
           "value": 400
         }
-      ],
-      "name": {
-        "de": "Babyhütchen",
-        "en-GB": "Baby's Hat",
-        "en-US": "Baby's Hat",
-        "es": "Gorro de bebé",
-        "fr": "Chapeau de bébé",
-        "it": "Cuffietta",
-        "ja": "あかちゃんのぼうし"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -54,19 +45,6 @@
         "baby-gray": "Baby gray",
         "baby-blue": "Baby blue",
         "baby-orange": "Baby orange"
-      },
-      "name": {
-        "en-US": "Baby's Hat",
-        "en-GB": "Baby's Hat",
-        "de": "Babyhütchen",
-        "es": "Gorro de bebé",
-        "fr": "Chapeau de bébé",
-        "it": "Cuffietta",
-        "nl": "Babymutsje",
-        "zh-CN": "婴儿帽子",
-        "zh-TW": "嬰兒帽子",
-        "jp": "あかちゃんのぼうし",
-        "ko": "아기 모자"
       }
     }
   }

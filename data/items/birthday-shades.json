@@ -14,16 +14,7 @@
       },
       "sources": [
         "Birthday (if you're good friends with a neighbor)"
-      ],
-      "name": {
-        "de": "Geburtstagsbrille",
-        "en-GB": "Birthday Shades",
-        "en-US": "Birthday Shades",
-        "es": "Gafa de cumpleaños",
-        "fr": "Monture anniv",
-        "it": "Montatura compleanno",
-        "ja": "バースデーサングラス"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -41,19 +32,6 @@
         "pink": "Pink",
         "red": "Red",
         "blue": "Blue"
-      },
-      "name": {
-        "en-US": "Birthday Shades",
-        "en-GB": "Birthday Shades",
-        "de": "Geburtstagsbrille",
-        "es": "Gafa de cumpleaños",
-        "fr": "Monture anniversaire",
-        "it": "Montatura da compleanno",
-        "nl": "Verjaardagszonnebril",
-        "zh-CN": "生日眼镜",
-        "zh-TW": "生日眼鏡",
-        "jp": "バースデーサングラス",
-        "ko": "생일 선글라스"
       }
     }
   }

@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 15
         }
-      ],
-      "name": {
-        "de": "Strohhut",
-        "en-GB": "Straw Hat",
-        "en-US": "Straw Hat",
-        "es": "Sombrero de paja",
-        "fr": "Chapeau de paille",
-        "it": "Cappello di paglia",
-        "ja": "むぎわらぼうし"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -46,19 +37,6 @@
         "brown": "Brown",
         "blue": "Blue",
         "red": "Red"
-      },
-      "name": {
-        "en-US": "Straw Hat",
-        "en-GB": "Straw Hat",
-        "de": "Strohhut",
-        "es": "Sombrero de paja",
-        "fr": "Chapeau de paille",
-        "it": "Cappello di paglia",
-        "nl": "Strohoed",
-        "zh-CN": "草帽",
-        "zh-TW": "草帽",
-        "jp": "むぎわらぼうし",
-        "ko": "밀짚모자"
       }
     }
   }

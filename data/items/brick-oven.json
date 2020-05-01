@@ -25,10 +25,7 @@
           "currency": "meow",
           "value": 5
         }
-      ],
-      "name": {
-        "en-US": "Brick Oven"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -47,19 +44,6 @@
         "brown": "Brown",
         "white": "White",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Brick Oven",
-        "en-GB": "Brick Oven",
-        "de": "Steinofen",
-        "es": "Horno de ladrillo",
-        "fr": "Four en pierre",
-        "it": "Forno in mattoni",
-        "nl": "Stenen oven",
-        "zh-CN": "窑烤炉",
-        "zh-TW": "窯烤爐",
-        "jp": "いしがま",
-        "ko": "벽돌 가마"
       }
     }
   }

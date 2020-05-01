@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 400
         }
-      ],
-      "name": {
-        "en-US": "Facial Mask"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -38,19 +35,6 @@
       ],
       "variations": {
         "white": "White"
-      },
-      "name": {
-        "en-US": "Facial Mask",
-        "en-GB": "Facial Mask",
-        "de": "Kosmetikmaske",
-        "es": "Mascarilla facial",
-        "fr": "Masque de beauté",
-        "it": "Maschera idratante",
-        "nl": "Gezichtsmasker",
-        "zh-CN": "面膜",
-        "zh-TW": "面膜",
-        "jp": "パック",
-        "ko": "팩"
       }
     }
   }

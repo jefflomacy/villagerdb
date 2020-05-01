@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Sonata"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Sonata",
-        "en-GB": "K.K. Sonata",
-        "de": "K.K. Sonate",
-        "es": "Tota-Sonata",
-        "fr": "Sonate Kéké",
-        "it": "K.K. Sonata",
-        "nl": "K.K.-Sonate",
-        "zh-CN": "K.K.奏鸣曲",
-        "zh-TW": "K.K.奏鳴曲",
-        "jp": "けけのソナタ",
-        "ko": "K.K.소나타",
-        "ru": "Соната К. К."
-      }
+      ]
     }
   }
 }

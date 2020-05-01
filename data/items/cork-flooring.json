@@ -16,20 +16,7 @@
           "currency": "bells",
           "value": 1500
         }
-      ],
-      "name": {
-        "en-US": "Cork Flooring",
-        "en-GB": "Cork Flooring",
-        "de": "Korkboden",
-        "es": "Suelo corcho",
-        "fr": "Sol liège",
-        "it": "Pavimento di sughero",
-        "nl": "Kurken vloer",
-        "zh-CN": "软木地板",
-        "zh-TW": "軟木地板",
-        "jp": "コルクフローリング",
-        "ko": "코르크 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

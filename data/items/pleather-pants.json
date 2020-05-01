@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 3600
         }
-      ],
-      "name": {
-        "de": "Kunstlederhose",
-        "en-GB": "Pleather Pants",
-        "en-US": "Pleather Pants",
-        "es": "Pantalón polipiel",
-        "fr": "Pantalon en cuir",
-        "it": "Pantalone ecopelle",
-        "ja": "レザーパンツ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -49,19 +40,6 @@
         "red": "Red",
         "blue": "Blue",
         "yellow": "Yellow"
-      },
-      "name": {
-        "en-US": "Pleather Pants",
-        "en-GB": "Pleather Pants",
-        "de": "Kunstlederhose",
-        "es": "Pantalón de polipiel",
-        "fr": "Pantalon en similicuir",
-        "it": "Pantalone in ecopelle",
-        "nl": "Kunstleren broek",
-        "zh-CN": "皮裤",
-        "zh-TW": "皮褲",
-        "jp": "レザーパンツ",
-        "ko": "가죽 바지"
       }
     }
   }

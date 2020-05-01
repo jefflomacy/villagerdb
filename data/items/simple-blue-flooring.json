@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 1500
         }
-      ],
-      "name": {
-        "en-US": "Simple Blue Flooring",
-        "en-GB": "Simple Blue Flooring",
-        "de": "Blauteppichboden",
-        "es": "Suelo liso azul",
-        "fr": "Moquette bleue",
-        "it": "Pavimento semplice blu",
-        "nl": "Simpele blauwe vloer",
-        "zh-CN": "蓝色简约地毯",
-        "zh-TW": "藍色簡約地毯",
-        "jp": "あおいシンプルカーペット",
-        "ko": "파란 심플 카펫 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

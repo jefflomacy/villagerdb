@@ -22,10 +22,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Swing"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -41,21 +38,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Swing",
-        "en-GB": "K.K. Swing",
-        "de": "K.K. Swing",
-        "es": "Tota-Swing",
-        "fr": "Swing de Kéké",
-        "it": "K.K. Swing",
-        "nl": "K.K.-Swing",
-        "zh-CN": "K.K.摇摆乐",
-        "zh-TW": "K.K.搖擺樂",
-        "jp": "けけスウィング",
-        "ko": "K.K.스윙",
-        "ru": "Свинг К. К."
-      }
+      ]
     }
   }
 }

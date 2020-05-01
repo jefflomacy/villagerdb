@@ -17,10 +17,7 @@
           "currency": "bells",
           "value": 290
         }
-      ],
-      "name": {
-        "en-US": "Diner Uniform"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -36,10 +33,7 @@
           "currency": "bells",
           "value": 290
         }
-      ],
-      "name": {
-        "en-US": "Diner Uniform"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -60,19 +54,6 @@
         "aquamarine": "Aquamarine",
         "cream": "Cream",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Diner Uniform",
-        "en-GB": "Diner Uniform",
-        "de": "Dineruniform",
-        "es": "Uniforme café años 50",
-        "fr": "Robe de serveuse années 50",
-        "it": "Uniforme bar anni '50",
-        "nl": "Serveerstersjurk",
-        "zh-CN": "餐厅制服",
-        "zh-TW": "餐館制服",
-        "jp": "ダイナーのユニフォーム",
-        "ko": "다이너 유니폼"
       }
     }
   }

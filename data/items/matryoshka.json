@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 3920
         }
-      ],
-      "name": {
-        "de": "Matroschka",
-        "en-GB": "Matryoshka",
-        "en-US": "Matryoshka",
-        "es": "Matrioska",
-        "fr": "Série matriochka",
-        "it": "Matriosca",
-        "ja": "マトリョーシカ"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -48,19 +39,6 @@
         "blue": "Blue",
         "brown": "Brown",
         "green": "Green"
-      },
-      "name": {
-        "en-US": "Matryoshka",
-        "en-GB": "Matryoshka",
-        "de": "Matroschka",
-        "es": "Matrioska",
-        "fr": "Série matriochka",
-        "it": "Matriosca",
-        "nl": "Matroesjka",
-        "zh-CN": "俄罗斯套娃",
-        "zh-TW": "俄羅斯套娃",
-        "jp": "マトリョーシカ",
-        "ko": "마트료시카"
       }
     }
   }

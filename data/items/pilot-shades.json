@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 600
         }
-      ],
-      "name": {
-        "en-US": "Pilot Shades"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -39,19 +36,6 @@
       "variations": {
         "black": "Black",
         "gold": "Gold"
-      },
-      "name": {
-        "en-US": "Pilot Shades",
-        "en-GB": "Pilot Shades",
-        "de": "Pilotenbrille",
-        "es": "Gafa de sol piloto",
-        "fr": "Monture pilote",
-        "it": "Montatura a goccia",
-        "nl": "Pilotenzonnebril",
-        "zh-CN": "飞行员墨镜",
-        "zh-TW": "飛行員墨鏡",
-        "jp": "パイロットサングラス",
-        "ko": "파일럿 선글라스"
       }
     }
   }

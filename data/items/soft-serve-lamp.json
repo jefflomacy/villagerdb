@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 1120
         }
-      ],
-      "name": {
-        "de": "Softeis-Lampe",
-        "en-GB": "Soft-Serve Lamp",
-        "en-US": "Soft-Serve Lamp",
-        "es": "Lámpara cono helado",
-        "fr": "Lampe cornet glace",
-        "it": "Lampada cono gelato",
-        "ja": "ソフトクリームランプ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "chocolate-swirl": "Chocolate swirl",
         "strawberry-swirl": "Strawberry swirl",
         "rainbow": "Rainbow"
-      },
-      "name": {
-        "en-US": "Soft-Serve Lamp",
-        "en-GB": "Soft-Serve Lamp",
-        "de": "Softeis-Lampe",
-        "es": "Lámpara cono de helado",
-        "fr": "Lampe cornet de glace",
-        "it": "Lampada cono gelato",
-        "nl": "Softijslamp",
-        "zh-CN": "霜淇淋台灯",
-        "zh-TW": "霜淇淋檯燈",
-        "jp": "ソフトクリームランプ",
-        "ko": "소프트아이스크림 램프"
       }
     }
   }

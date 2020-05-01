@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 800
         }
-      ],
-      "name": {
-        "en-US": "Red Dot Flooring",
-        "en-GB": "Red Dot Flooring",
-        "de": "Rot-Punktboden",
-        "es": "Suelo topos rojo",
-        "fr": "Moquette à pois rouge",
-        "it": "Pavimento a pois rosso",
-        "nl": "Rode stippelvloer",
-        "zh-CN": "红色点点全屋地毯",
-        "zh-TW": "紅色點點地毯",
-        "jp": "レッドドットカーペット",
-        "ko": "레드 도트 카펫 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

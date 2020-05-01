@@ -18,16 +18,7 @@
           "currency": "bells",
           "value": 1532
         }
-      ],
-      "name": {
-        "de": "Mr. Flamingo",
-        "en-GB": "Mr. Flamingo",
-        "en-US": "Mr. Flamingo",
-        "es": "Sr. Flamenco",
-        "fr": "M. Flamingo",
-        "it": "Fenicottero 1",
-        "ja": "おすのフラミンゴ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -47,19 +38,6 @@
       "variations": {
         "natural": "Natural",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Mr. Flamingo",
-        "en-GB": "Mr. Flamingo",
-        "de": "Mr. Flamingo",
-        "es": "Sr. Flamenco",
-        "fr": "M. Flamingo",
-        "it": "Fenicottero 1",
-        "nl": "Meneer Flamingo",
-        "zh-CN": "雄火烈鸟",
-        "zh-TW": "雄紅鶴",
-        "jp": "おすのフラミンゴ",
-        "ko": "수컷 플라밍고"
       }
     }
   }

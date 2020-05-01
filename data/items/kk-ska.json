@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Ska"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Ska",
-        "en-GB": "K.K. Ska",
-        "de": "K.K. Ska",
-        "es": "Tota-Ska",
-        "fr": "Ska Kéké",
-        "it": "K.K. Ska",
-        "nl": "K.K.-Ska",
-        "zh-CN": "K.K.斯卡",
-        "zh-TW": "K.K.斯卡",
-        "jp": "けけスカ",
-        "ko": "K.K.스카",
-        "ru": "Ска К. К."
-      }
+      ]
     }
   }
 }

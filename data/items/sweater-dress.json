@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 7200
         }
-      ],
-      "name": {
-        "en-US": "Sweater Dress"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -40,19 +37,6 @@
         "olive": "Olive",
         "beige": "Beige",
         "dark-brown": "Dark brown"
-      },
-      "name": {
-        "en-US": "Sweater Dress",
-        "en-GB": "Sweater Dress",
-        "de": "Strickkleid",
-        "es": "Vestido de punto",
-        "fr": "Robe en laine",
-        "it": "Vestito di lana",
-        "nl": "Sweaterjurk",
-        "zh-CN": "针织连身裙",
-        "zh-TW": "針織連身裙",
-        "jp": "ニットワンピース",
-        "ko": "니트 원피스"
       }
     }
   }

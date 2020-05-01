@@ -13,20 +13,7 @@
           "currency": "bells",
           "value": 64000
         }
-      ],
-      "name": {
-        "en-US": "Arcade Mahjong Game",
-        "en-GB": "Arcade Mahjong Game",
-        "de": "Arcade-Mah-Jongg-Spiel",
-        "es": "Máquina recreativa mahjong",
-        "fr": "Borne d'arcade mah-jong",
-        "it": "Cabinato con mahjong",
-        "nl": "Mahjong-Arcadekast",
-        "zh-CN": "街机（桌上游戏）",
-        "zh-TW": "街機（桌上遊戲）",
-        "jp": "アーケードゲーム（TBL）",
-        "ko": "테이블 아케이드 게임"
-      }
+      ]
     }
   },
   "category": "Furniture"

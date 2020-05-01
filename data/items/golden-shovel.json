@@ -11,29 +11,13 @@
       },
       "sources": [
         "Gardening Store (buy 50 or more bags of fertilizer)"
-      ],
-      "name": {
-        "en-US": "Golden Shovel"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 10675
-      },
-      "name": {
-        "en-US": "Golden Shovel",
-        "en-GB": "Golden Shovel",
-        "de": "Goldschaufel",
-        "es": "Pala de oro",
-        "fr": "Pelle dorée",
-        "it": "Pala d'oro",
-        "nl": "Gouden schep",
-        "zh-CN": "金色铲子",
-        "zh-TW": "金色鏟子",
-        "jp": "きんのスコップ",
-        "ko": "금 삽"
       }
     }
   }

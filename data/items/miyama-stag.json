@@ -11,10 +11,7 @@
       },
       "sources": [
         "On trees."
-      ],
-      "name": {
-        "en-US": "Miyama Stag"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1000
-      },
-      "name": {
-        "en-US": "Miyama Stag",
-        "en-GB": "Miyama Stag",
-        "de": "Hirschkäfer",
-        "es": "Escarabajo ciervo Miyama",
-        "fr": "Lucane miyama",
-        "it": "Coleottero lucanide",
-        "nl": "Miyama-Hertkever",
-        "zh-CN": "深山锹形虫",
-        "zh-TW": "深山鍬形蟲",
-        "jp": "ミヤマクワガタ",
-        "ko": "사슴벌레"
       }
     }
   }

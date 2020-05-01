@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 5200
         }
-      ],
-      "name": {
-        "en-US": "Trench Coat"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -43,19 +40,6 @@
         "red": "Red",
         "orange": "Orange",
         "navy-blue": "Navy blue"
-      },
-      "name": {
-        "en-US": "Trench Coat",
-        "en-GB": "Trench Coat",
-        "de": "Trenchcoat",
-        "es": "Gabardina",
-        "fr": "Pardessus",
-        "it": "Trench",
-        "nl": "Trenchcoat",
-        "zh-CN": "风衣",
-        "zh-TW": "風衣",
-        "jp": "トレンチコート",
-        "ko": "트렌치코트"
       }
     }
   }

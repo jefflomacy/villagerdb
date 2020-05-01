@@ -2,21 +2,7 @@
   "id": "square-mailbox",
   "name": "Square Mailbox",
   "games": {
-    "nh": {
-      "name": {
-        "zh-CN": "方形信箱",
-        "de": "Eckigbriefkasten's",
-        "en-GB": "Square Mailbox",
-        "es": "Buzón cuadrado",
-        "fr": "B.A.L. rectangulaire",
-        "it": "Cassetta posta cubica",
-        "jp": "しかくいポスト",
-        "ko": "사각 우편함",
-        "nl": "Brievenbus",
-        "zh-TW": "四角型郵筒",
-        "en-US": "Square Mailbox"
-      }
-    }
+    "nh": {}
   },
   "category": "Furniture"
 }

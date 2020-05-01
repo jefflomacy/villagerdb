@@ -11,10 +11,7 @@
       },
       "sources": [
         "On trees."
-      ],
-      "name": {
-        "en-US": "Brown Cicada"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 250
-      },
-      "name": {
-        "en-US": "Brown Cicada",
-        "en-GB": "Brown Cicada",
-        "de": "Braunzikade",
-        "es": "Cigarra marrón",
-        "fr": "Cigale cercope",
-        "it": "Cicala marrone",
-        "nl": "Bruine cicade",
-        "zh-CN": "油蝉",
-        "zh-TW": "油蟬",
-        "jp": "アブラゼミ",
-        "ko": "유지매미"
       }
     }
   }

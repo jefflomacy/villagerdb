@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 1200
         }
-      ],
-      "name": {
-        "de": "Eismaschine",
-        "en-GB": "Shaved-Ice Maker",
-        "en-US": "Shaved-Ice Maker",
-        "es": "Picadora hielo",
-        "fr": "Râpe-glace",
-        "it": "Tritaghiaccio",
-        "ja": "かきごおりき"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -42,19 +33,6 @@
       "variations": {
         "green": "Green",
         "silver": "Silver"
-      },
-      "name": {
-        "en-US": "Shaved-Ice Maker",
-        "en-GB": "Shaved-Ice Maker",
-        "de": "Eismaschine",
-        "es": "Picadora de hielo",
-        "fr": "Râpe-Glace",
-        "it": "Tritaghiaccio",
-        "nl": "Ijsschaafmachine",
-        "zh-CN": "刨冰机",
-        "zh-TW": "刨冰機",
-        "jp": "かきごおりき",
-        "ko": "팥빙수 기계"
       }
     }
   }

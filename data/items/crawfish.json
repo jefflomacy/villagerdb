@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Crawfish"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 200
-      },
-      "name": {
-        "en-US": "Crawfish",
-        "en-GB": "Crawfish",
-        "de": "Flusskrebs",
-        "es": "Cangrejo de río",
-        "fr": "Écrevisse",
-        "it": "Gambero",
-        "nl": "Rode rivierkreeft",
-        "zh-CN": "淡水龙虾",
-        "zh-TW": "淡水龍蝦",
-        "jp": "ザリガニ",
-        "ko": "가재"
       }
     }
   }

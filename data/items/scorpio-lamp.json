@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 4800
         }
-      ],
-      "name": {
-        "de": "Skorpion-Lampe",
-        "en-GB": "Scorpio Lamp",
-        "en-US": "Scorpio Lamp",
-        "es": "Lámpara Escorpio",
-        "fr": "Lampe Scorpion",
-        "it": "Lampada Scorpione",
-        "ja": "スコーピオのランプ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -41,20 +32,7 @@
           "currency": "bells",
           "value": 88500
         }
-      ],
-      "name": {
-        "en-US": "Scorpio Lamp",
-        "en-GB": "Scorpio Lamp",
-        "de": "Skorpion-Lampe",
-        "es": "Lámpara Escorpio",
-        "fr": "Lampe Scorpion",
-        "it": "Lampada Scorpione",
-        "nl": "Schorpioen-Lamp",
-        "zh-CN": "天蝎座灯",
-        "zh-TW": "天蠍座燈",
-        "jp": "スコーピオのランプ",
-        "ko": "전갈자리 램프"
-      }
+      ]
     }
   }
 }

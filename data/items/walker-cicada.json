@@ -11,10 +11,7 @@
       },
       "sources": [
         "On trees."
-      ],
-      "name": {
-        "en-US": "Walker Cicada"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 400
-      },
-      "name": {
-        "en-US": "Walker Cicada",
-        "en-GB": "Walker Cicada",
-        "de": "Bergzikade",
-        "es": "Cigarra común",
-        "fr": "Cigale cicadelle",
-        "it": "Cicala sputacchina",
-        "nl": "Bergcicade",
-        "zh-CN": "寒蝉",
-        "zh-TW": "寒蟬",
-        "jp": "ツクツクホウシ",
-        "ko": "애매미"
       }
     }
   }

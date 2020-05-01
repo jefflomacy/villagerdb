@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Tadpole"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 100
-      },
-      "name": {
-        "en-US": "Tadpole",
-        "en-GB": "Tadpole",
-        "de": "Kaulquappe",
-        "es": "Renacuajo",
-        "fr": "Têtard",
-        "it": "Girino",
-        "nl": "Kikkervisje",
-        "zh-CN": "蝌蚪",
-        "zh-TW": "蝌蚪",
-        "jp": "オタマジャクシ",
-        "ko": "올챙이"
       }
     }
   }

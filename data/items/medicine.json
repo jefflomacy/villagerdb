@@ -13,10 +13,7 @@
           "currency": "bells",
           "value": 400
         }
-      ],
-      "name": {
-        "en-US": "Medicine"
-      }
+      ]
     },
     "nh": {
       "customizable": false,
@@ -27,19 +24,6 @@
       "recipe": {
         "wasp-nest": 1,
         "clump-of-weeds": 3
-      },
-      "name": {
-        "zh-CN": "药",
-        "de": "Medizin",
-        "en-GB": "Medicine",
-        "es": "Medicinas",
-        "fr": "Remèdes",
-        "it": "Medicine",
-        "jp": "おくすり",
-        "ko": "약",
-        "nl": "Medicijnen",
-        "zh-TW": "藥",
-        "en-US": "Medicine"
       }
     }
   }

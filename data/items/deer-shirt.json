@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 380
         }
-      ],
-      "name": {
-        "de": "Rentierpulli",
-        "en-GB": "Deer Shirt",
-        "en-US": "Deer Shirt",
-        "es": "Jersey ciervos",
-        "fr": "Pull daim",
-        "it": "Maglione con cervi",
-        "ja": "しかがらのニット"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 380
         }
-      ],
-      "name": {
-        "en-US": "Deer Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 380
         }
-      ],
-      "name": {
-        "en-US": "Deer Shirt"
-      }
+      ]
     }
   }
 }

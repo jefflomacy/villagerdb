@@ -21,16 +21,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Picknick-Korb",
-        "en-GB": "Picnic Basket",
-        "en-US": "Picnic Basket",
-        "es": "Cesta picnic",
-        "fr": "Panier-repas",
-        "it": "Cestino da picnic",
-        "ja": "ピクニックバスケット"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -55,19 +46,6 @@
         "green": "Green",
         "white": "White",
         "gray": "Gray"
-      },
-      "name": {
-        "en-US": "Picnic Basket",
-        "en-GB": "Picnic Basket",
-        "de": "Picknick-Korb",
-        "es": "Cesta de pícnic",
-        "fr": "Panier-Repas",
-        "it": "Cestino da picnic",
-        "nl": "Picknickmand",
-        "zh-CN": "野餐篮",
-        "zh-TW": "野餐籃",
-        "jp": "ピクニックバスケット",
-        "ko": "피크닉 가방"
       }
     }
   }

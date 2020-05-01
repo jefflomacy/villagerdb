@@ -11,34 +11,12 @@
       },
       "sources": [
         "Bug Off"
-      ],
-      "name": {
-        "de": "Silber-Insektenpokal",
-        "en-GB": "Silver Bug Trophy",
-        "en-US": "Silver Bug Trophy",
-        "es": "Bichotrofeo de plata",
-        "fr": "Trophée insecte arg",
-        "it": "Trofeo ins. argento",
-        "ja": "ぎんのムシトロフィー"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
         "currency": "bells",
         "value": 425
-      },
-      "name": {
-        "en-US": "Silver Bug Trophy",
-        "en-GB": "Silver Bug Trophy",
-        "de": "Silber-Insektenpokal",
-        "es": "Bichotrofeo de plata",
-        "fr": "Trophée insecte argent",
-        "it": "Trofeo insetti d'argento",
-        "nl": "Zilveren beestjesbeker",
-        "zh-CN": "虫类银奖杯",
-        "zh-TW": "蟲子銀獎盃",
-        "jp": "ぎんのムシトロフィー",
-        "ko": "은 곤충 트로피"
       }
     }
   }

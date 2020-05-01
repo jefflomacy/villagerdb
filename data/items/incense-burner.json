@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 680
         }
-      ],
-      "name": {
-        "de": "Räucherstäbchen-Set",
-        "en-GB": "Incense Burner",
-        "en-US": "Incense Burner",
-        "es": "Quemador de incienso",
-        "fr": "Porte-encens",
-        "it": "Brucia incensi",
-        "ja": "おこう"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -53,19 +44,6 @@
         "forest": "Forest",
         "cherry-blossoms": "Cherry blossoms",
         "tea": "Tea"
-      },
-      "name": {
-        "en-US": "Incense Burner",
-        "en-GB": "Incense Burner",
-        "de": "Räucherstäbchen-Set",
-        "es": "Quemador de incienso",
-        "fr": "Porte-Encens",
-        "it": "Brucia incensi",
-        "nl": "Wierookbrander",
-        "zh-CN": "线香盘",
-        "zh-TW": "線香盤",
-        "jp": "おこう",
-        "ko": "향"
       }
     }
   }

@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Bamboo Bench"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -33,19 +30,6 @@
         "green-bamboo": "Green bamboo",
         "dried-bamboo": "Dried bamboo",
         "smoke-cured-bamboo": "Smoke-cured bamboo"
-      },
-      "name": {
-        "en-US": "Bamboo Bench",
-        "en-GB": "Bamboo Bench",
-        "de": "Bambusbank",
-        "es": "Banco de bambú",
-        "fr": "Banc en bambou",
-        "it": "Panca di bambù",
-        "nl": "Bamboebank",
-        "zh-CN": "竹长凳",
-        "zh-TW": "竹長椅",
-        "jp": "たけのベンチ",
-        "ko": "대나무 벤치"
       }
     }
   }

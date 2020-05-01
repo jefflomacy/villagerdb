@@ -16,20 +16,7 @@
           "currency": "bells",
           "value": 1080
         }
-      ],
-      "name": {
-        "en-US": "Floral Mosaic-Tile Flooring",
-        "en-GB": "Floral Mosaic-Tile Flooring",
-        "de": "Mosaikfliesenboden",
-        "es": "Suelo mosaico tradicional",
-        "fr": "Sol mosaïque florale",
-        "it": "Pavimento mosaico floreale",
-        "nl": "Bloemmozaïektegelvloer",
-        "zh-CN": "花式马赛克砖地板",
-        "zh-TW": "花式馬賽克磚",
-        "jp": "フローラルなモザイクタイル",
-        "ko": "플라워 모자이크 타일 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

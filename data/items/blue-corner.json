@@ -18,16 +18,7 @@
           "currency": "bells",
           "value": 6800
         }
-      ],
-      "name": {
-        "de": "Ecke (blau)",
-        "en-GB": "Blue Corner",
-        "en-US": "Blue Corner",
-        "es": "Esquina azul",
-        "fr": "Coin bleu",
-        "it": "Angolo blu",
-        "ja": "あおコーナー"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -46,19 +37,6 @@
         "blue": "Blue",
         "black": "Black",
         "yellow": "Yellow"
-      },
-      "name": {
-        "en-US": "Blue Corner",
-        "en-GB": "Blue Corner",
-        "de": "Ecke (blau)",
-        "es": "Esquina azul",
-        "fr": "Coin bleu",
-        "it": "Angolo blu",
-        "nl": "Blauwe hoek",
-        "zh-CN": "蓝色转角",
-        "zh-TW": "藍色轉角",
-        "jp": "あおコーナー",
-        "ko": "파란색 링 모서리"
       }
     }
   }

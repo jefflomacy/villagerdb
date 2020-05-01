@@ -11,10 +11,7 @@
       },
       "sources": [
         "In the sea."
-      ],
-      "name": {
-        "en-US": "Hammerhead Shark"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 8000
-      },
-      "name": {
-        "en-US": "Hammerhead Shark",
-        "en-GB": "Hammerhead Shark",
-        "de": "Hammerhai",
-        "es": "Pez martillo",
-        "fr": "Requin marteau",
-        "it": "Pesce martello",
-        "nl": "Hamerhaai",
-        "zh-CN": "双髻鲨",
-        "zh-TW": "雙髻鯊",
-        "jp": "シュモクザメ",
-        "ko": "귀상어"
       }
     }
   }

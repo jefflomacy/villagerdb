@@ -11,29 +11,13 @@
       },
       "sources": [
         "Bug Off (full insect encyclopedia)"
-      ],
-      "name": {
-        "en-US": "Golden Net"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 10400
-      },
-      "name": {
-        "en-US": "Golden Net",
-        "en-GB": "Golden Net",
-        "de": "Goldkescher",
-        "es": "Red de oro",
-        "fr": "Filet doré",
-        "it": "Retino d'oro",
-        "nl": "Gouden net",
-        "zh-CN": "金色捕虫网",
-        "zh-TW": "金色捕蟲網",
-        "jp": "きんのあみ",
-        "ko": "금 잠자리채"
       }
     }
   }

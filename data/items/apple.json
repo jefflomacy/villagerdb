@@ -11,10 +11,7 @@
       },
       "sources": [
         "Apple tree"
-      ],
-      "name": {
-        "en-US": "Apple"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -31,20 +28,7 @@
           "currency": "bells",
           "value": 400
         }
-      ],
-      "name": {
-        "en-US": "Apple",
-        "en-GB": "Apple",
-        "de": "Apfel",
-        "es": "Manzana",
-        "fr": "Pomme",
-        "it": "Mela",
-        "nl": "Appel",
-        "zh-CN": "苹果",
-        "zh-TW": "蘋果",
-        "jp": "リンゴ",
-        "ko": "사과"
-      }
+      ]
     }
   }
 }

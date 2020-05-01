@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 3920
         }
-      ],
-      "name": {
-        "en-US": "Moody Painting"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -39,20 +36,7 @@
           "currency": "bells",
           "value": 4980
         }
-      ],
-      "name": {
-        "en-US": "Moody Painting",
-        "en-GB": "Moody Painting",
-        "de": "Kraftgemälde",
-        "es": "Retrato joven",
-        "fr": "Toile puissante",
-        "it": "Quadro possente",
-        "nl": "Noeste schilderij",
-        "zh-CN": "强健的名画",
-        "zh-TW": "強健的名畫",
-        "jp": "ちからづよいめいが",
-        "ko": "힘찬 명화"
-      }
+      ]
     }
   }
 }

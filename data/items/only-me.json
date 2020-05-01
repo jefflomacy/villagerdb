@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "Only Me"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -36,21 +33,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "Only Me",
-        "en-GB": "Only Me",
-        "de": "Ganz allein",
-        "es": "Solo yo",
-        "fr": "Moi et juste moi",
-        "it": "Solo io",
-        "nl": "Alleen ik",
-        "zh-CN": "只有我",
-        "zh-TW": "只有我",
-        "jp": "オンリーミー",
-        "ko": "온리미",
-        "ru": "Только я"
-      }
+      ]
     }
   }
 }

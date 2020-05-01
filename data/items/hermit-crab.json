@@ -11,10 +11,7 @@
       },
       "sources": [
         "Only found on the tropical island (never in town)."
-      ],
-      "name": {
-        "en-US": "Hermit Crab"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1000
-      },
-      "name": {
-        "en-US": "Hermit Crab",
-        "en-GB": "Hermit Crab",
-        "de": "Einsiedlerkrebs",
-        "es": "Cangrejo ermitaño",
-        "fr": "Bernard-L'ermite",
-        "it": "Granchio paguro",
-        "nl": "Heremietkreeft",
-        "zh-CN": "寄居蟹",
-        "zh-TW": "寄居蟹",
-        "jp": "ヤドカリ",
-        "ko": "소라게"
       }
     }
   }

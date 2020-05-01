@@ -17,10 +17,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Old Wallpaper"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -32,20 +29,7 @@
           "currency": "bells",
           "value": 200
         }
-      ],
-      "name": {
-        "en-US": "Old Wallpaper",
-        "en-GB": "Old Wallpaper",
-        "de": "Gammeltapete",
-        "es": "Pared sosa",
-        "fr": "Mur miteux",
-        "it": "Muro malandato",
-        "nl": "Wand met oud behang",
-        "zh-CN": "破烂壁纸",
-        "zh-TW": "破爛壁紙",
-        "jp": "ボロいかべがみ",
-        "ko": "낡은 벽지"
-      }
+      ]
     }
   }
 }

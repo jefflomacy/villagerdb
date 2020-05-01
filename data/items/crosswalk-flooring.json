@@ -16,20 +16,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Crosswalk Flooring",
-        "en-GB": "Crosswalk Flooring",
-        "de": "Zebrastreifenboden",
-        "es": "Suelo paso de cebra",
-        "fr": "Sol passage piéton",
-        "it": "Pavimento strisce pedonali",
-        "nl": "Zebrapadvloer",
-        "zh-CN": "斑马线地板",
-        "zh-TW": "斑馬線地板",
-        "jp": "おうだんほどうのゆか",
-        "ko": "횡단보도 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

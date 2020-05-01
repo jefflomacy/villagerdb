@@ -27,10 +27,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Dirt-Clod Wall"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -42,20 +39,7 @@
           "currency": "bells",
           "value": 200
         }
-      ],
-      "name": {
-        "en-US": "Dirt-Clod Wall",
-        "en-GB": "Dirt-Clod Wall",
-        "de": "Schmutzwand",
-        "es": "Pared ruinosa",
-        "fr": "Mur terreux",
-        "it": "Muro di terra",
-        "nl": "Gehavende wand",
-        "zh-CN": "破烂泥土墙",
-        "zh-TW": "破爛泥土牆",
-        "jp": "ボロいつちかべ",
-        "ko": "낡은 토벽"
-      }
+      ]
     }
   }
 }

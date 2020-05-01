@@ -11,10 +11,7 @@
       },
       "sources": [
         "Sea (early September)/River (late September)"
-      ],
-      "name": {
-        "en-US": "King Salmon"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1800
-      },
-      "name": {
-        "en-US": "King Salmon",
-        "en-GB": "King Salmon",
-        "de": "Königslachs",
-        "es": "Salmón real",
-        "fr": "Saumon roi",
-        "it": "Salmone reale",
-        "nl": "Chinookzalm",
-        "zh-CN": "帝王鲑",
-        "zh-TW": "帝王鮭",
-        "jp": "キングサーモン",
-        "ko": "왕연어"
       }
     }
   }

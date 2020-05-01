@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 1320
         }
-      ],
-      "name": {
-        "de": "Hängematte",
-        "en-GB": "Hammock",
-        "en-US": "Hammock",
-        "es": "Hamaca",
-        "fr": "Hamac",
-        "it": "Amaca",
-        "ja": "ハンモック"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -76,19 +67,6 @@
         "black-camouflage": "Black / Camouflage",
         "black-hibiscus-flowers": "Black / Hibiscus flowers",
         "black-white": "Black / White"
-      },
-      "name": {
-        "en-US": "Hammock",
-        "en-GB": "Hammock",
-        "de": "Hängematte",
-        "es": "Hamaca",
-        "fr": "Hamac",
-        "it": "Amaca",
-        "nl": "Hangmat",
-        "zh-CN": "吊床",
-        "zh-TW": "吊床",
-        "jp": "ハンモック",
-        "ko": "해먹"
       }
     }
   }

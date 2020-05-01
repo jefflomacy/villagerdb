@@ -22,10 +22,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Ballad"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -41,21 +38,7 @@
           "currency": "bells",
           "value": 2000
         }
-      ],
-      "name": {
-        "en-US": "K.K. Ballad",
-        "en-GB": "K.K. Ballad",
-        "de": "K.K. Ballade",
-        "es": "Tota-Balada",
-        "fr": "Ballade de Kéké",
-        "it": "K.K. Lento",
-        "nl": "K.K.-Ballade",
-        "zh-CN": "K.K.叙事歌谣",
-        "zh-TW": "K.K.敘事歌謠",
-        "jp": "けけバラッド",
-        "ko": "K.K.발라드",
-        "ru": "Баллада К. К."
-      }
+      ]
     }
   }
 }

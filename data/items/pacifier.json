@@ -23,10 +23,7 @@
           "currency": "bells",
           "value": 120
         }
-      ],
-      "name": {
-        "en-US": "Pacifier"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +45,6 @@
         "baby-gray": "Baby gray",
         "baby-blue": "Baby blue",
         "baby-orange": "Baby orange"
-      },
-      "name": {
-        "en-US": "Pacifier",
-        "en-GB": "Pacifier",
-        "de": "Schnullers",
-        "es": "Chupete",
-        "fr": "Tétine",
-        "it": "Ciuccio",
-        "nl": "Speen",
-        "zh-CN": "奶嘴",
-        "zh-TW": "奶嘴",
-        "jp": "おしゃぶり",
-        "ko": "노리개젖꼭지"
       }
     }
   }

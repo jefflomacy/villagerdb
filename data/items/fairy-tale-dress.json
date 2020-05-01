@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 640
         }
-      ],
-      "name": {
-        "en-US": "Fairy-Tale Dress"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -45,19 +42,6 @@
         "light-blue": "Light blue",
         "light-green": "Light green",
         "orange": "Orange"
-      },
-      "name": {
-        "en-US": "Fairy-Tale Dress",
-        "en-GB": "Fairy-Tale Dress",
-        "de": "Märchenkleid",
-        "es": "Vestido de cuento",
-        "fr": "Robe féerique",
-        "it": "Vestito fiabesco",
-        "nl": "Sprookjesjurk",
-        "zh-CN": "童话风洋装",
-        "zh-TW": "童話風洋裝",
-        "jp": "メルヘンなドレス",
-        "ko": "메르헨 드레스"
       }
     }
   }

@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. House"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. House",
-        "en-GB": "K.K. House",
-        "de": "K.K. House",
-        "es": "Tota-House",
-        "fr": "Kéké House",
-        "it": "K.K. House",
-        "nl": "K.K.-House",
-        "zh-CN": "K.K.浩室",
-        "zh-TW": "K.K.浩室",
-        "jp": "けけハウス",
-        "ko": "K.K.하우스",
-        "ru": "Хаус К. К."
-      }
+      ]
     }
   }
 }

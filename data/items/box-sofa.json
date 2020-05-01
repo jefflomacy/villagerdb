@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 2400
         }
-      ],
-      "name": {
-        "de": "Sofa-Element",
-        "en-GB": "Box Sofa",
-        "en-US": "Box Sofa",
-        "es": "Módulo sofá largo",
-        "fr": "Module de canapé",
-        "it": "Sofà elemento lungo",
-        "ja": "ボックスソファ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "magenta": "Magenta",
         "white": "White",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Box Sofa",
-        "en-GB": "Box Sofa",
-        "de": "Sofa-Element",
-        "es": "Módulo de sofá largo",
-        "fr": "Module de canapé",
-        "it": "Sofà elemento lungo",
-        "nl": "Combibank",
-        "zh-CN": "无扶手沙发",
-        "zh-TW": "無扶手沙發",
-        "jp": "ボックスソファ",
-        "ko": "사각 소파"
       }
     }
   }

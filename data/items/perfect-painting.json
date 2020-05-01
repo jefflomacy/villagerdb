@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 3920
         }
-      ],
-      "name": {
-        "en-US": "Perfect Painting"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -43,19 +40,6 @@
       "variations": {
         "real": "Real",
         "fake": "Fake"
-      },
-      "name": {
-        "en-US": "Perfect Painting",
-        "en-GB": "Perfect Painting",
-        "de": "Perfektgemälde",
-        "es": "Bodegón",
-        "fr": "Toile parfaite",
-        "it": "Quadro perfetto",
-        "nl": "Kleurrijke schilderij",
-        "zh-CN": "厉害的名画",
-        "zh-TW": "厲害的名畫",
-        "jp": "すばらしいめいが",
-        "ko": "훌륭한 명화"
       }
     }
   }

@@ -18,16 +18,7 @@
           "currency": "bells",
           "value": 5500
         }
-      ],
-      "name": {
-        "de": "Ecke (neutral)",
-        "en-GB": "Neutral Corner",
-        "en-US": "Neutral Corner",
-        "es": "Esquina neutral",
-        "fr": "Coin neutre",
-        "it": "Angolo neutrale",
-        "ja": "ニュートラルコーナー"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -47,19 +38,6 @@
         "blue": "Blue",
         "black": "Black",
         "yellow": "Yellow"
-      },
-      "name": {
-        "en-US": "Neutral Corner",
-        "en-GB": "Neutral Corner",
-        "de": "Ecke (neutral)",
-        "es": "Esquina neutral",
-        "fr": "Coin neutre",
-        "it": "Angolo neutrale",
-        "nl": "Neutrale hoek",
-        "zh-CN": "中性色转角",
-        "zh-TW": "中性色轉角",
-        "jp": "ニュートラルコーナー",
-        "ko": "뉴트럴 링 모서리"
       }
     }
   }

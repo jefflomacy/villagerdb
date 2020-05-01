@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Neon Tetra"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 500
-      },
-      "name": {
-        "en-US": "Neon Tetra",
-        "en-GB": "Neon Tetra",
-        "de": "Neonsalmler",
-        "es": "Tetra neón",
-        "fr": "Néon bleu",
-        "it": "Pesce neon",
-        "nl": "Neontetra",
-        "zh-CN": "霓虹灯鱼",
-        "zh-TW": "霓虹燈魚",
-        "jp": "ネオンテトラ",
-        "ko": "네온테트라"
       }
     }
   }

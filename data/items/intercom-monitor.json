@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 860
         }
-      ],
-      "name": {
-        "en-US": "Intercom Monitor",
-        "en-GB": "Intercom Monitor",
-        "de": "Gegensprechanlage",
-        "es": "Interfono",
-        "fr": "Interphone",
-        "it": "Videocitofono",
-        "nl": "Intercom",
-        "zh-CN": "监视对讲机",
-        "zh-TW": "監視對講機",
-        "jp": "インターフォンモニター",
-        "ko": "인터폰 모니터"
-      }
+      ]
     }
   },
   "category": "Furniture"

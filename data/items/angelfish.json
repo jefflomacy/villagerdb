@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Angelfish"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3000
-      },
-      "name": {
-        "en-US": "Angelfish",
-        "en-GB": "Angelfish",
-        "de": "Skalar",
-        "es": "Pez ángel",
-        "fr": "Poisson-Ange",
-        "it": "Pesce angelo",
-        "nl": "Maanvis",
-        "zh-CN": "神仙鱼",
-        "zh-TW": "神仙魚",
-        "jp": "エンゼルフィッシュ",
-        "ko": "천사어"
       }
     }
   }

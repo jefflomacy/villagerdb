@@ -11,29 +11,13 @@
       },
       "sources": [
         "Gardening Store (buy 50 or more saplings)"
-      ],
-      "name": {
-        "en-US": "Golden Axe"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 10655
-      },
-      "name": {
-        "en-US": "Golden Axe",
-        "en-GB": "Golden Axe",
-        "de": "Goldaxt",
-        "es": "Hacha de oro",
-        "fr": "Hache dorée",
-        "it": "Ascia d'oro",
-        "nl": "Gouden bijl",
-        "zh-CN": "金色斧头",
-        "zh-TW": "金色斧頭",
-        "jp": "きんのオノ",
-        "ko": "금도끼"
       }
     }
   }

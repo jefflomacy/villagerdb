@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 2400
         }
-      ],
-      "name": {
-        "de": "UFO",
-        "en-GB": "Flying Saucer",
-        "en-US": "Flying Saucer",
-        "es": "Platillo volante",
-        "fr": "Soucoupe volante",
-        "it": "Disco volante",
-        "ja": "そらとぶえんばん"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -42,20 +33,7 @@
           "currency": "bells",
           "value": 60000
         }
-      ],
-      "name": {
-        "en-US": "Flying Saucer",
-        "en-GB": "Flying Saucer",
-        "de": "UFO",
-        "es": "Platillo volante",
-        "fr": "Soucoupe volante",
-        "it": "Disco volante",
-        "nl": "Vliegende schotel",
-        "zh-CN": "飞碟",
-        "zh-TW": "飛碟",
-        "jp": "そらとぶえんばん",
-        "ko": "하늘 나는 원반"
-      }
+      ]
     }
   }
 }

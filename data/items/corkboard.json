@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 1600
         }
-      ],
-      "name": {
-        "de": "Pinnwand",
-        "en-GB": "Corkboard",
-        "en-US": "Corkboard",
-        "es": "Tablón de corcho",
-        "fr": "Tableau en liège",
-        "it": "Bacheca in sughero",
-        "ja": "コルクボード"
-      }
+      ]
     },
     "nh": {
       "customizable": true,
@@ -54,19 +45,6 @@
         "blue-apple": "Blue / Apple",
         "blue-fish": "Blue / Fish",
         "blue-flower": "Blue / Flower"
-      },
-      "name": {
-        "en-US": "Corkboard",
-        "en-GB": "Corkboard",
-        "de": "Pinnwand",
-        "es": "Tablón de corcho",
-        "fr": "Tableau en liège",
-        "it": "Bacheca in sughero",
-        "nl": "Prikbord",
-        "zh-CN": "软木布告栏",
-        "zh-TW": "軟木佈告欄",
-        "jp": "コルクボード",
-        "ko": "코르크 보드"
       }
     }
   }

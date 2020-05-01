@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Bluejeansjacke",
-        "en-GB": "Denim Jacket",
-        "en-US": "Denim Jacket",
-        "es": "Chaqueta vaquera",
-        "fr": "Veste en jean",
-        "it": "Camicia di jeans",
-        "ja": "デニムジャケット"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "navy-blue": "Navy blue",
         "black": "Black",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Denim Jacket",
-        "en-GB": "Denim Jacket",
-        "de": "Bluejeansjacke",
-        "es": "Chaqueta vaquera",
-        "fr": "Veste en jean",
-        "it": "Giacca di jeans",
-        "nl": "Spijkerjasje",
-        "zh-CN": "牛仔外套",
-        "zh-TW": "牛仔外套",
-        "jp": "デニムジャケット",
-        "ko": "데님 재킷"
       }
     }
   }

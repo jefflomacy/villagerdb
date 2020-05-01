@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Rice-Paddy Wall"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -29,20 +26,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Rice-Paddy Wall",
-        "en-GB": "Rice-Paddy Wall",
-        "de": "Savannentapete",
-        "es": "Pared arrozal",
-        "fr": "Mur rizière",
-        "it": "Muro cielo risaia",
-        "nl": "Rijstveldwand",
-        "zh-CN": "田园风景墙",
-        "zh-TW": "田園風景牆",
-        "jp": "でんえんふうけいのかべ",
-        "ko": "전원 풍경 벽"
-      }
+      ]
     }
   }
 }

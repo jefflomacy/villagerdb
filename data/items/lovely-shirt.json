@@ -17,10 +17,7 @@
           "currency": "bells",
           "value": 400
         }
-      ],
-      "name": {
-        "en-US": "Lovely Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -36,10 +33,7 @@
           "currency": "bells",
           "value": 400
         }
-      ],
-      "name": {
-        "en-US": "Lovely Shirt"
-      }
+      ]
     }
   }
 }

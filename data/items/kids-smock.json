@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Malkittel",
-        "en-GB": "Kids' Smock",
-        "en-US": "Kids' Smock",
-        "es": "Jersey parvulario",
-        "fr": "Blouse enfant",
-        "it": "Maglia grembiule",
-        "ja": "スモック"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -47,19 +38,6 @@
         "chick": "Chick",
         "cherry-blossom": "Cherry blossom",
         "frog": "Frog"
-      },
-      "name": {
-        "en-US": "Kids' Smock",
-        "en-GB": "Kids' Smock",
-        "de": "Malkittel",
-        "es": "Jersey parvulario",
-        "fr": "Blouse enfant",
-        "it": "Maglia da scolaro",
-        "nl": "Kinderjakje",
-        "zh-CN": "儿童罩衣",
-        "zh-TW": "兒童罩衣",
-        "jp": "スモック",
-        "ko": "유치원생 옷"
       }
     }
   }

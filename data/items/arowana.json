@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Arowana"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10000
-      },
-      "name": {
-        "en-US": "Arowana",
-        "en-GB": "Arowana",
-        "de": "Arowana",
-        "es": "Arowana",
-        "fr": "Arowana",
-        "it": "Arowana",
-        "nl": "Arowana",
-        "zh-CN": "骨舌鱼",
-        "zh-TW": "骨舌魚",
-        "jp": "アロワナ",
-        "ko": "아로와나"
       }
     }
   }

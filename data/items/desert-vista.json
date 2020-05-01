@@ -11,10 +11,7 @@
       },
       "sources": [
         "Saharah"
-      ],
-      "name": {
-        "en-US": "Desert Vista"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -26,20 +23,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Desert Vista",
-        "en-GB": "Desert Vista",
-        "de": "Saharatapete",
-        "es": "Pared desierto",
-        "fr": "Mur vue désert",
-        "it": "Muro deserto",
-        "nl": "Woestijnwand",
-        "zh-CN": "沙漠墙",
-        "zh-TW": "沙漠牆",
-        "jp": "さばくなかべ",
-        "ko": "사막 벽"
-      }
+      ]
     }
   }
 }

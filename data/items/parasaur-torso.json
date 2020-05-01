@@ -14,16 +14,7 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ],
-      "name": {
-        "de": "Parasaurus-Torso",
-        "en-GB": "Parasaur Torso",
-        "en-US": "Parasaur Torso",
-        "es": "Cuerpo parasaurio",
-        "fr": "Torse de parasauro",
-        "it": "Torso parasauro",
-        "ja": "パラサウロロフスのからだ"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -33,19 +24,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3000
-      },
-      "name": {
-        "en-US": "Parasaur Torso",
-        "en-GB": "Parasaur Torso",
-        "de": "Parasaurus-Torso",
-        "es": "Cuerpo parasaurio",
-        "fr": "Torse de parasaurolophus",
-        "it": "Torso parasauro",
-        "nl": "Parasaurolophusromp",
-        "zh-CN": "副栉龙的身体",
-        "zh-TW": "副櫛龍的身體",
-        "jp": "パラサウロロフスのからだ",
-        "ko": "파라사우롤로푸스의 몸통"
       }
     }
   }

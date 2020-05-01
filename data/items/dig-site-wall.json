@@ -17,10 +17,7 @@
           "currency": "bells",
           "value": 1600
         }
-      ],
-      "name": {
-        "en-US": "Dig-Site Wall"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -36,20 +33,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Dig-Site Wall",
-        "en-GB": "Dig-Site Wall",
-        "de": "Fossilientapete",
-        "es": "Pared yacimiento",
-        "fr": "Mur fossiles",
-        "it": "Muro archeologico",
-        "nl": "Opgravingswand",
-        "zh-CN": "地层壁纸",
-        "zh-TW": "地層壁紙",
-        "jp": "ちそうのかべがみ",
-        "ko": "지층 벽"
-      }
+      ]
     }
   }
 }

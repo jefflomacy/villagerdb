@@ -22,10 +22,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Island"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -38,21 +35,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Island",
-        "en-GB": "K.K. Island",
-        "de": "Die Insel der Tiere",
-        "es": "Mi isla, mi hogar",
-        "fr": "Kéké des îles",
-        "it": "K.K. Isola",
-        "nl": "Onbewoond eiland",
-        "zh-CN": "动物岛",
-        "zh-TW": "動物島",
-        "jp": "どうぶつのしま",
-        "ko": "동물의 섬",
-        "ru": "Остров К. К."
-      }
+      ]
     }
   }
 }

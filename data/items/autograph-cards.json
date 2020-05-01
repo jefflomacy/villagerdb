@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 5
         }
-      ],
-      "name": {
-        "en-US": "Autograph Cards"
-      }
+      ]
     },
     "nh": {
       "customizable": true,
@@ -40,19 +37,6 @@
         "illustration-comedians-signature": "Illustration / Comedian's signature",
         "words-of-wisdom-musicians-signature": "Words of wisdom / Musician's signature",
         "words-of-wisdom-comedians-signature": "Words of wisdom / Comedian's signature"
-      },
-      "name": {
-        "en-US": "Autograph Cards",
-        "en-GB": "Autograph Cards",
-        "de": "Kalligrafie-Deko",
-        "es": "Set de autógrafos",
-        "fr": "Série d'autographes",
-        "it": "Set di calligrafie",
-        "nl": "Handtekeningenset",
-        "zh-CN": "签名板",
-        "zh-TW": "簽名板",
-        "jp": "しきし",
-        "ko": "두꺼운 종이"
       }
     }
   }

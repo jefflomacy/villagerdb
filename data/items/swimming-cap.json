@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 200
         }
-      ],
-      "name": {
-        "de": "Schwimmkappe",
-        "en-GB": "Swimming Cap",
-        "en-US": "Swimming Cap",
-        "es": "Gorro piscina",
-        "fr": "Bonnet de natation",
-        "it": "Cuffia nuoto",
-        "ja": "すいえいキャップ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -51,19 +42,6 @@
         "blue": "Blue",
         "pink": "Pink",
         "green": "Green"
-      },
-      "name": {
-        "en-US": "Swimming Cap",
-        "en-GB": "Swimming Cap",
-        "de": "Schwimmkappe",
-        "es": "Gorro de natación",
-        "fr": "Bonnet de natation",
-        "it": "Cuffia da nuoto",
-        "nl": "Badmuts",
-        "zh-CN": "泳帽",
-        "zh-TW": "泳帽",
-        "jp": "すいえいキャップ",
-        "ko": "수영 모자"
       }
     }
   }

@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 2300
         }
-      ],
-      "name": {
-        "de": "Mikrowelle",
-        "en-GB": "Microwave",
-        "en-US": "Microwave",
-        "es": "Microondas",
-        "fr": "Micro-ondes",
-        "it": "Forno microonde",
-        "ja": "でんしレンジ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "black": "Black",
         "red": "Red",
         "green": "Green"
-      },
-      "name": {
-        "en-US": "Microwave",
-        "en-GB": "Microwave",
-        "de": "Mikrowelle",
-        "es": "Microondas",
-        "fr": "Micro-Ondes",
-        "it": "Forno a microonde",
-        "nl": "Magnetron",
-        "zh-CN": "微波炉",
-        "zh-TW": "微波爐",
-        "jp": "でんしレンジ",
-        "ko": "전자레인지"
       }
     }
   }

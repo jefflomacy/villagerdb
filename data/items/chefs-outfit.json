@@ -28,16 +28,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Kochshirt",
-        "en-GB": "Chef's Outfit",
-        "en-US": "Chef's Outfit",
-        "es": "Uniforme de chef",
-        "fr": "Tenue de chef",
-        "it": "Maglietta da cuoco",
-        "ja": "コックさんのふく"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -59,19 +50,6 @@
         "orange": "Orange",
         "brown": "Brown",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Chef's Outfit",
-        "en-GB": "Chef's Outfit",
-        "de": "Koch-Outfit",
-        "es": "Uniforme de chef",
-        "fr": "Tenue de chef",
-        "it": "Divisa da cuoco",
-        "nl": "Koksbuis",
-        "zh-CN": "厨师服",
-        "zh-TW": "廚師衣服",
-        "jp": "コックさんのふく",
-        "ko": "요리사 옷"
       }
     }
   }

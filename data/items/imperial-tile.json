@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 2980
         }
-      ],
-      "name": {
-        "en-US": "Imperial Tile"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -36,20 +33,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Imperial Tile",
-        "en-GB": "Imperial Tile",
-        "de": "Samuraiboden",
-        "es": "Losa imperial",
-        "fr": "Sol shogun",
-        "it": "Pavimento imperiale",
-        "nl": "Keizerlijke tegelvloer",
-        "zh-CN": "皇家地板",
-        "zh-TW": "王朝地板",
-        "jp": "おうちょうなゆか",
-        "ko": "왕조 바닥"
-      }
+      ]
     }
   }
 }

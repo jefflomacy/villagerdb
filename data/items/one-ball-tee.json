@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 340
         }
-      ],
-      "name": {
-        "de": "1er-Shirt",
-        "en-GB": "One-Ball Tee",
-        "en-US": "One-Ball Tee",
-        "es": "Camiseta bola 1",
-        "fr": "T-shirt nº 1",
-        "it": "Maglietta palla 1",
-        "ja": "1ばんだまのふく"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -44,19 +35,6 @@
       ],
       "variations": {
         "yellow": "Yellow"
-      },
-      "name": {
-        "en-US": "One-Ball Tee",
-        "en-GB": "One-Ball Tee",
-        "de": "1Er-Shirt",
-        "es": "Camiseta bola 1",
-        "fr": "T-Shirt nº 1",
-        "it": "Maglietta palla 1",
-        "nl": "1-Bal-T-Shirt",
-        "zh-CN": "1号球上衣",
-        "zh-TW": "1號球衣服",
-        "jp": "１ばんだまのふく",
-        "ko": "1번공 옷"
       }
     }
   }

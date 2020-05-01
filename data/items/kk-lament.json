@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Lament"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Lament",
-        "en-GB": "K.K. Lament",
-        "de": "K.K. Klagelied",
-        "es": "Tota-Lamento",
-        "fr": "Complainte Kéké",
-        "it": "K.K. Lacrime",
-        "nl": "K.K.-Klaagzang",
-        "zh-CN": "K.K.演歌",
-        "zh-TW": "K.K.演歌",
-        "jp": "けけえんか",
-        "ko": "K.K.트로트",
-        "ru": "Жалобная песнь К. К."
-      }
+      ]
     }
   }
 }

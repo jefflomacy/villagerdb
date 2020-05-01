@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Sea Butterfly"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1000
-      },
-      "name": {
-        "en-US": "Sea Butterfly",
-        "en-GB": "Sea Butterfly",
-        "de": "See-Engel",
-        "es": "Mariposa marina",
-        "fr": "Clione",
-        "it": "Cavolinia",
-        "nl": "Zeevlinder",
-        "zh-CN": "海蝴蝶",
-        "zh-TW": "海天使",
-        "jp": "クリオネ",
-        "ko": "클리오네"
       }
     }
   }

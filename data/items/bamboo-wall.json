@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 1152
         }
-      ],
-      "name": {
-        "en-US": "Bamboo Wall"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -34,19 +31,6 @@
       },
       "recipe": {
         "bamboo-piece": 15
-      },
-      "name": {
-        "en-US": "Bamboo Wall",
-        "en-GB": "Bamboo Wall",
-        "de": "Bambuswand",
-        "es": "Pared bambú",
-        "fr": "Mur en bambou",
-        "it": "Muro bambù",
-        "nl": "Bamboewand",
-        "zh-CN": "竹子墙",
-        "zh-TW": "竹子牆",
-        "jp": "バンブーなかべ",
-        "ko": "대나무 벽"
       }
     }
   }

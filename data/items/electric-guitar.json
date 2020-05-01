@@ -18,16 +18,7 @@
           "currency": "bells",
           "value": 1900
         }
-      ],
-      "name": {
-        "de": "Jazz-Gitarre",
-        "en-GB": "Electric Guitar",
-        "en-US": "Electric Guitar",
-        "es": "Guitarra eléctrica",
-        "fr": "Guitare jazz",
-        "it": "Chitarra metal",
-        "ja": "エレキギターES2"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -97,19 +88,6 @@
         "cosmo-black-handwritten-logo": "Cosmo black / Handwritten logo",
         "cosmo-black-pop-logo": "Cosmo black / Pop logo",
         "cosmo-black-cute-logo": "Cosmo black / Cute logo"
-      },
-      "name": {
-        "en-US": "Electric Guitar",
-        "en-GB": "Electric Guitar",
-        "de": "Jazz-Gitarre",
-        "es": "Guitarra eléctrica",
-        "fr": "Guitare jazz",
-        "it": "Chitarra elettrica",
-        "nl": "Elektrische gitaar",
-        "zh-CN": "电吉他ES2",
-        "zh-TW": "電吉他ES2",
-        "jp": "エレキギターES2",
-        "ko": "일렉트릭기타 ES2"
       }
     }
   }

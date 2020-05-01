@@ -16,20 +16,7 @@
           "currency": "bells",
           "value": 2100
         }
-      ],
-      "name": {
-        "en-US": "Patchwork-Tile Flooring",
-        "en-GB": "Patchwork-Tile Flooring",
-        "de": "Kunterbunt-Fliesenboden",
-        "es": "Losa variada",
-        "fr": "Sol dallage patchwork",
-        "it": "Pavimento patchwork",
-        "nl": "Patchworktegelvloer",
-        "zh-CN": "拼接砖地板",
-        "zh-TW": "拼花磚地板",
-        "jp": "パッチワークタイルのゆか",
-        "ko": "패치워크 타일 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

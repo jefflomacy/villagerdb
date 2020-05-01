@@ -7,19 +7,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1000
-      },
-      "name": {
-        "en-US": "Wand",
-        "en-GB": "Wand",
-        "de": "Stab",
-        "es": "Varita",
-        "fr": "Baguette magique",
-        "it": "Bacchetta",
-        "nl": "Toverstaf",
-        "zh-CN": "棒子",
-        "zh-TW": "棒子",
-        "jp": "ステッキ",
-        "ko": "지팡이"
       }
     }
   },

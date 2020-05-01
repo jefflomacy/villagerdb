@@ -24,16 +24,7 @@
           "currency": "bells",
           "value": 380
         }
-      ],
-      "name": {
-        "de": "Königswams",
-        "en-GB": "Royal Shirt",
-        "en-US": "Royal Shirt",
-        "es": "Jersey real",
-        "fr": "Pull royal",
-        "it": "Maglia reale",
-        "ja": "おうさまのふく"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +39,6 @@
       ],
       "variations": {
         "red": "Red"
-      },
-      "name": {
-        "en-US": "Royal Shirt",
-        "en-GB": "Royal Shirt",
-        "de": "Königswams",
-        "es": "Jersey real",
-        "fr": "Manteau royal",
-        "it": "Maglia reale",
-        "nl": "Koninklijke mantel",
-        "zh-CN": "国王服",
-        "zh-TW": "國王衣服",
-        "jp": "おうさまのふく",
-        "ko": "임금님 옷"
       }
     }
   }

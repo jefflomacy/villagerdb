@@ -13,10 +13,7 @@
           "currency": "bells",
           "value": 480
         }
-      ],
-      "name": {
-        "en-US": "Fortune Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -28,10 +25,7 @@
           "currency": "bells",
           "value": 480
         }
-      ],
-      "name": {
-        "en-US": "Fortune Shirt"
-      }
+      ]
     }
   }
 }

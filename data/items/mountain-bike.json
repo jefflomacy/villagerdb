@@ -24,16 +24,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Mountainbike",
-        "en-GB": "Mountain Bike",
-        "en-US": "Mountain Bike",
-        "es": "Bici de montaña",
-        "fr": "VTT",
-        "it": "Mountain bike",
-        "ja": "マウンテンバイク"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -57,19 +48,6 @@
         "blue": "Blue",
         "white": "White",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Mountain Bike",
-        "en-GB": "Mountain Bike",
-        "de": "Mountainbike",
-        "es": "Bici de montaña",
-        "fr": "VTT",
-        "it": "Mountain bike",
-        "nl": "Mountainbike",
-        "zh-CN": "登山车",
-        "zh-TW": "登山車",
-        "jp": "マウンテンバイク",
-        "ko": "마운틴 바이크"
       }
     }
   }

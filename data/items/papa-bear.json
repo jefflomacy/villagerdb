@@ -22,16 +22,7 @@
           "currency": "bells",
           "value": 2200
         }
-      ],
-      "name": {
-        "de": "Papa-Bär",
-        "en-GB": "Papa Bear",
-        "en-US": "Papa Bear",
-        "es": "Papá oso",
-        "fr": "Papa ours",
-        "it": "Papà orso",
-        "ja": "くまのダイちゃん"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -69,19 +60,6 @@
         "tweed-red": "Tweed / Red",
         "tweed-blue": "Tweed / Blue",
         "tweed-yellow": "Tweed / Yellow"
-      },
-      "name": {
-        "en-US": "Papa Bear",
-        "en-GB": "Papa Bear",
-        "de": "Papa-Bär",
-        "es": "Papá oso",
-        "fr": "Papa ours",
-        "it": "Papà orso",
-        "nl": "Papabeer",
-        "zh-CN": "大熊熊",
-        "zh-TW": "大熊熊",
-        "jp": "くまのダイちゃん",
-        "ko": "큰 곰인형"
       }
     }
   }

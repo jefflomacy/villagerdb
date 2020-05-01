@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Feuerpulli",
-        "en-GB": "Flame Shirt",
-        "en-US": "Flame Shirt",
-        "es": "Jersey fuego",
-        "fr": "Pull flamme",
-        "it": "Maglia fiamma",
-        "ja": "ファイアーなふくL"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "en-US": "Flame Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "en-US": "Flame Shirt"
-      }
+      ]
     }
   }
 }

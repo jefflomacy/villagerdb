@@ -14,16 +14,7 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ],
-      "name": {
-        "de": "Ankylosaurus-Schwanz",
-        "en-GB": "Ankylo Tail",
-        "en-US": "Ankylo Tail",
-        "es": "Cola anquilosaurio",
-        "fr": "Queue d'ankylosaure",
-        "it": "Coda anchilosauro",
-        "ja": "アンキロサウルスのしっぽ"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -33,19 +24,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2500
-      },
-      "name": {
-        "en-US": "Ankylo Tail",
-        "en-GB": "Ankylo Tail",
-        "de": "Ankylosaurus-Schwanz",
-        "es": "Cola anquilosaurio",
-        "fr": "Queue d'ankylosaure",
-        "it": "Coda anchilosauro",
-        "nl": "Ankylosaurusstaart",
-        "zh-CN": "甲龙的尾巴",
-        "zh-TW": "甲龍的尾巴",
-        "jp": "アンキロサウルスのしっぽ",
-        "ko": "안킬로사우루스의 꼬리"
       }
     }
   }

@@ -17,10 +17,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Melon Umbrella"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -32,20 +29,7 @@
           "currency": "bells",
           "value": 770
         }
-      ],
-      "name": {
-        "en-US": "Melon Umbrella",
-        "en-GB": "Melon Umbrella",
-        "de": "Melonenschirm",
-        "es": "Paraguas melón",
-        "fr": "Parapluie vichy melon",
-        "it": "Ombrello melone",
-        "nl": "Groengeruite paraplu",
-        "zh-CN": "嫩叶嘉顿格纹雨伞",
-        "zh-TW": "綠葉嘉頓格紋雨傘",
-        "jp": "わかばギンガムのかさ",
-        "ko": "새싹 깅엄 우산"
-      }
+      ]
     }
   }
 }

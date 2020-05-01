@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 1400
         }
-      ],
-      "name": {
-        "de": "Bügelset",
-        "en-GB": "Ironing Set",
-        "en-US": "Ironing Set",
-        "es": "Tabla de planchar",
-        "fr": "Set de repassage",
-        "it": "Asse e ferro stiro",
-        "ja": "アイロン"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -45,19 +36,6 @@
         "yellow": "Yellow",
         "pink": "Pink",
         "blue": "Blue"
-      },
-      "name": {
-        "en-US": "Ironing Set",
-        "en-GB": "Ironing Set",
-        "de": "Bügelset",
-        "es": "Plancha a vapor",
-        "fr": "Set de repassage",
-        "it": "Asse e ferro da stiro",
-        "nl": "Strijkbout",
-        "zh-CN": "烫衣组合",
-        "zh-TW": "燙衣組合",
-        "jp": "アイロン",
-        "ko": "다리미"
       }
     }
   }

@@ -22,16 +22,7 @@
           "currency": "bells",
           "value": 3360
         }
-      ],
-      "name": {
-        "de": "Anatomiemodell",
-        "en-GB": "Anatomical Model",
-        "en-US": "Anatomical Model",
-        "es": "Modelo anatómico",
-        "fr": "Modèle musculaire",
-        "it": "Modellino anatomico",
-        "ja": "じんたいもけい"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -45,20 +36,7 @@
           "currency": "bells",
           "value": 3500
         }
-      ],
-      "name": {
-        "en-US": "Anatomical Model",
-        "en-GB": "Anatomical Model",
-        "de": "Anatomiemodell",
-        "es": "Modelo anatómico",
-        "fr": "Modèle musculaire",
-        "it": "Modellino anatomico",
-        "nl": "Anatomiemodel",
-        "zh-CN": "人体模型",
-        "zh-TW": "人體模型",
-        "jp": "じんたいもけい",
-        "ko": "인체 모형"
-      }
+      ]
     }
   }
 }

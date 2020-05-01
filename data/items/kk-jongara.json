@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Jongara"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -40,21 +37,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Jongara",
-        "en-GB": "K.K. Jongara",
-        "de": "K.K. Melodie",
-        "es": "Tota-Shamisen",
-        "fr": "Shamisen Kéké",
-        "it": "K.K. Shamisen",
-        "nl": "K.K.-Jongara",
-        "zh-CN": "K.K.三味线",
-        "zh-TW": "K.K.三味線",
-        "jp": "けけじょんがら",
-        "ko": "K.K.샤미센 연주곡",
-        "ru": "Джонгара К. К."
-      }
+      ]
     }
   }
 }

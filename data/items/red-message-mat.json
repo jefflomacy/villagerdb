@@ -15,20 +15,7 @@
           "currency": "bells",
           "value": 1000
         }
-      ],
-      "name": {
-        "en-US": "Red Message Mat",
-        "en-GB": "Red Message Mat",
-        "de": "Rot-Textmatte",
-        "es": "Alfombra bocadillo roja",
-        "fr": "Paillasson à message rouge",
-        "it": "Tappetino benvenuto rosso",
-        "nl": "Rode boodschapmat",
-        "zh-CN": "红色信息地垫",
-        "zh-TW": "紅色訊息地墊",
-        "jp": "あかいメッセージマット",
-        "ko": "빨간 메시지 매트"
-      }
+      ]
     }
   },
   "category": "Flooring"

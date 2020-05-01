@@ -11,10 +11,7 @@
       },
       "sources": [
         "In the sea."
-      ],
-      "name": {
-        "en-US": "Barred Knifejaw"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5000
-      },
-      "name": {
-        "en-US": "Barred Knifejaw",
-        "en-GB": "Barred Knifejaw",
-        "de": "Schnabelbarsch",
-        "es": "Dorada japonesa",
-        "fr": "Scarus",
-        "it": "Ishidai",
-        "nl": "Kraaibek",
-        "zh-CN": "条石鲷",
-        "zh-TW": "條石鯛",
-        "jp": "イシダイ",
-        "ko": "돌돔"
       }
     }
   }

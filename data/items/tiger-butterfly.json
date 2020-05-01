@@ -11,10 +11,7 @@
       },
       "sources": [
         "Around red/pink flowers."
-      ],
-      "name": {
-        "en-US": "Tiger Butterfly"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 240
-      },
-      "name": {
-        "en-US": "Tiger Butterfly",
-        "en-GB": "Tiger Butterfly",
-        "de": "Schwalbenschwanz",
-        "es": "Mariposa tigre",
-        "fr": "Machaon",
-        "it": "Farfalla tigre",
-        "nl": "Koninginnenpage",
-        "zh-CN": "凤蝶",
-        "zh-TW": "鳳蝶",
-        "jp": "アゲハチョウ",
-        "ko": "호랑나비"
       }
     }
   }

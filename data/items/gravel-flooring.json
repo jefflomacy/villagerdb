@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Gravel Flooring",
-        "en-GB": "Gravel Flooring",
-        "de": "Kieselsteinboden",
-        "es": "Suelo gravilla",
-        "fr": "Sol gravier",
-        "it": "Pavimento di ghiaia",
-        "nl": "Kiezelsteenvloer",
-        "zh-CN": "碎石地板",
-        "zh-TW": "碎石地板",
-        "jp": "たまじゃりのゆか",
-        "ko": "자갈 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

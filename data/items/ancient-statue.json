@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3920
         }
-      ],
-      "name": {
-        "en-US": "Ancient Statue"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -44,19 +41,6 @@
       "variations": {
         "real": "Real",
         "fake": "Fake"
-      },
-      "name": {
-        "en-US": "Ancient Statue",
-        "en-GB": "Ancient Statue",
-        "de": "Uraltstatue",
-        "es": "Estatua primitiva",
-        "fr": "Statuette antique",
-        "it": "Statua antica",
-        "nl": "Prehistorische beeldje",
-        "zh-CN": "远古的雕塑",
-        "zh-TW": "遠古的雕塑",
-        "jp": "いにしえのちょうこく",
-        "ko": "태고의 조각"
       }
     }
   }

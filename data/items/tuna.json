@@ -11,10 +11,7 @@
       },
       "sources": [
         "In the sea."
-      ],
-      "name": {
-        "en-US": "Tuna"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 7000
-      },
-      "name": {
-        "en-US": "Tuna",
-        "en-GB": "Tuna",
-        "de": "Thunfisch",
-        "es": "Atún",
-        "fr": "Thon",
-        "it": "Tonno",
-        "nl": "Tonijn",
-        "zh-CN": "鲔鱼",
-        "zh-TW": "鮪魚",
-        "jp": "マグロ",
-        "ko": "다랑어"
       }
     }
   }

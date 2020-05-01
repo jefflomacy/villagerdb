@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "To The Edge"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -36,21 +33,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "To The Edge",
-        "en-GB": "To The Edge",
-        "de": "Am Rande",
-        "es": "Hasta el final",
-        "fr": "Limite",
-        "it": "Al limite",
-        "nl": "Op het randje",
-        "zh-CN": "漫弥",
-        "zh-TW": "漫瀰",
-        "jp": "ナミナミ",
-        "ko": "파도소리",
-        "ru": "На краю"
-      }
+      ]
     }
   }
 }

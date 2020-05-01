@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 1200
         }
-      ],
-      "name": {
-        "de": "Go-Brett",
-        "en-GB": "Go Board",
-        "en-US": "Go Board",
-        "es": "Tablero de go",
-        "fr": "Table de go",
-        "it": "Tavola da go",
-        "ja": "ごばん"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -46,20 +37,7 @@
           "currency": "bells",
           "value": 1800
         }
-      ],
-      "name": {
-        "en-US": "Go Board",
-        "en-GB": "Go Board",
-        "de": "Go-Brett",
-        "es": "Tablero de go",
-        "fr": "Table de go",
-        "it": "Tavola da go",
-        "nl": "Go-Bord",
-        "zh-CN": "围棋桌",
-        "zh-TW": "圍棋桌",
-        "jp": "ごばん",
-        "ko": "바둑판"
-      }
+      ]
     }
   }
 }

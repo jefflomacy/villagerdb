@@ -18,16 +18,7 @@
           "currency": "bells",
           "value": 2992
         }
-      ],
-      "name": {
-        "de": "Maisbirne",
-        "en-GB": "Speed Bag",
-        "en-US": "Speed Bag",
-        "es": "Balón pera",
-        "fr": "Ballon vitesse",
-        "it": "Punching ball",
-        "ja": "スピードバッグ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -45,19 +36,6 @@
         "red": "Red",
         "blue": "Blue",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Speed Bag",
-        "en-GB": "Speed Bag",
-        "de": "Maisbirne",
-        "es": "Balón pera",
-        "fr": "Ballon vitesse",
-        "it": "Punching ball",
-        "nl": "Boksbal",
-        "zh-CN": "速度球",
-        "zh-TW": "速度球",
-        "jp": "スピードバッグ",
-        "ko": "스피드백"
       }
     }
   }

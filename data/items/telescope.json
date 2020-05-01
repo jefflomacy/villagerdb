@@ -28,16 +28,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Teleskop",
-        "en-GB": "Telescope",
-        "en-US": "Telescope",
-        "es": "Telescopio",
-        "fr": "Télescope",
-        "it": "Telescopio",
-        "ja": "ぼうえんきょう"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -53,20 +44,7 @@
           "currency": "bells",
           "value": 5600
         }
-      ],
-      "name": {
-        "en-US": "Telescope",
-        "en-GB": "Telescope",
-        "de": "Teleskop",
-        "es": "Telescopio",
-        "fr": "Télescope",
-        "it": "Telescopio",
-        "nl": "Telescoop",
-        "zh-CN": "望远镜",
-        "zh-TW": "望遠鏡",
-        "jp": "ぼうえんきょう",
-        "ko": "망원경"
-      }
+      ]
     }
   }
 }

@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 1420
         }
-      ],
-      "name": {
-        "en-US": "Blue Honeycomb Tile",
-        "en-GB": "Blue Honeycomb Tile",
-        "de": "Blau-Wabenfliesenboden",
-        "es": "Suelo panal azul",
-        "fr": "Sol alvéolé bleu",
-        "it": "Pavimento esagoni blu",
-        "nl": "Blauwe bijenraattegelvloer",
-        "zh-CN": "蓝色六角砖地板",
-        "zh-TW": "藍色六角磚地板",
-        "jp": "ブルーハニカムタイルのゆか",
-        "ko": "파란 육각 타일 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

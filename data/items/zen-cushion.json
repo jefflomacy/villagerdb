@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Zen Cushion"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -39,19 +36,6 @@
         "goldfish": "Goldfish",
         "crane": "Crane",
         "gold": "Gold"
-      },
-      "name": {
-        "en-US": "Zen Cushion",
-        "en-GB": "Zen Cushion",
-        "de": "Fernost-Kissen",
-        "es": "Cojín con borlas",
-        "fr": "Zabuton",
-        "it": "Cuscino giapponese",
-        "nl": "Zenkussen",
-        "zh-CN": "座垫",
-        "zh-TW": "坐墊",
-        "jp": "ざぶとん",
-        "ko": "방석"
       }
     }
   }

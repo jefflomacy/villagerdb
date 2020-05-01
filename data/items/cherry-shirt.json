@@ -13,10 +13,7 @@
           "currency": "bells",
           "value": 380
         }
-      ],
-      "name": {
-        "en-US": "Cherry Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -28,10 +25,7 @@
           "currency": "bells",
           "value": 380
         }
-      ],
-      "name": {
-        "en-US": "Cherry Shirt"
-      }
+      ]
     }
   }
 }

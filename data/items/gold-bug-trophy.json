@@ -11,34 +11,12 @@
       },
       "sources": [
         "Bug Off"
-      ],
-      "name": {
-        "de": "Gold-Insektenpokal",
-        "en-GB": "Gold Bug Trophy",
-        "en-US": "Gold Bug Trophy",
-        "es": "Bichotrofeo de oro",
-        "fr": "Trophée insecte or",
-        "it": "Trofeo insetti oro",
-        "ja": "きんのムシトロフィー"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
         "currency": "bells",
         "value": 450
-      },
-      "name": {
-        "en-US": "Gold Bug Trophy",
-        "en-GB": "Gold Bug Trophy",
-        "de": "Gold-Insektenpokal",
-        "es": "Bichotrofeo de oro",
-        "fr": "Trophée insecte or",
-        "it": "Trofeo insetti d'oro",
-        "nl": "Gouden beestjesbeker",
-        "zh-CN": "虫类金奖杯",
-        "zh-TW": "蟲子金獎盃",
-        "jp": "きんのムシトロフィー",
-        "ko": "금 곤충 트로피"
       }
     }
   }

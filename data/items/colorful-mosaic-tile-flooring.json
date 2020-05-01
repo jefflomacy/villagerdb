@@ -16,20 +16,7 @@
           "currency": "bells",
           "value": 900
         }
-      ],
-      "name": {
-        "en-US": "Colorful Mosaic-Tile Flooring",
-        "en-GB": "Colorful Mosaic-Tile Flooring",
-        "de": "Bunt-Minifliesenboden",
-        "es": "Suelo alicatado multicolor",
-        "fr": "Sol mosaïque multicolore",
-        "it": "Pavimento mosaico colorato",
-        "nl": "Kleurrijke mozaïektegelvloer",
-        "zh-CN": "彩色马赛克砖地板",
-        "zh-TW": "彩色馬賽克磚地板",
-        "jp": "カラフルモザイクタイルのゆか",
-        "ko": "컬러풀 모자이크 타일 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

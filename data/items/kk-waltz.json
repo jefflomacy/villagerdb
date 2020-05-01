@@ -22,10 +22,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Waltz"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -38,21 +35,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Waltz",
-        "en-GB": "K.K. Waltz",
-        "de": "K.K. Walzer",
-        "es": "Tota-Vals",
-        "fr": "Valse de Kéké",
-        "it": "K.K. Valzer",
-        "nl": "K.K.-Wals",
-        "zh-CN": "K.K.圆舞曲",
-        "zh-TW": "K.K.圓舞曲",
-        "jp": "けけワルツ",
-        "ko": "K.K.왈츠",
-        "ru": "Вальс К. К."
-      }
+      ]
     }
   }
 }

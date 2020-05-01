@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 32800
         }
-      ],
-      "name": {
-        "en-US": "Ice Flooring",
-        "en-GB": "Ice Flooring",
-        "de": "Eisboden",
-        "es": "Suelo hielo",
-        "fr": "Sol glace",
-        "it": "Pavimento ghiaccio",
-        "nl": "Ijsvloer",
-        "zh-CN": "冰雪地板",
-        "zh-TW": "冰雪地板",
-        "jp": "アイスなゆか",
-        "ko": "아이스 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

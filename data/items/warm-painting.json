@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 3920
         }
-      ],
-      "name": {
-        "en-US": "Warm Painting"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -39,20 +36,7 @@
           "currency": "bells",
           "value": 4980
         }
-      ],
-      "name": {
-        "en-US": "Warm Painting",
-        "en-GB": "Warm Painting",
-        "de": "Warmgemälde",
-        "es": "Cuadro clásico",
-        "fr": "Toile radieuse",
-        "it": "Quadro classico",
-        "nl": "Verleidelijke schilderij",
-        "zh-CN": "舒适的名画",
-        "zh-TW": "舒適的名畫",
-        "jp": "いいかんじのめいが",
-        "ko": "느낌이 좋은 명화"
-      }
+      ]
     }
   }
 }

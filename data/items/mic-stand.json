@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 1800
         }
-      ],
-      "name": {
-        "de": "Standmikrofon",
-        "en-GB": "Mic Stand",
-        "en-US": "Mic Stand",
-        "es": "Micro con trípode",
-        "fr": "Pied pour microphone",
-        "it": "Asta microfono",
-        "ja": "スタンドマイク"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -39,20 +30,7 @@
           "currency": "bells",
           "value": 1000
         }
-      ],
-      "name": {
-        "en-US": "Mic Stand",
-        "en-GB": "Mic Stand",
-        "de": "Standmikrofon",
-        "es": "Micro con trípode",
-        "fr": "Microphone sur pied",
-        "it": "Asta microfono",
-        "nl": "Microfoon met standaard",
-        "zh-CN": "直立式麦克风",
-        "zh-TW": "直立式麥克風",
-        "jp": "スタンドマイク",
-        "ko": "스탠드 마이크"
-      }
+      ]
     }
   }
 }

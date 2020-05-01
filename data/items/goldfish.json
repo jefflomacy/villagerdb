@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Goldfish"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1300
-      },
-      "name": {
-        "en-US": "Goldfish",
-        "en-GB": "Goldfish",
-        "de": "Goldfisch",
-        "es": "Pez dorado",
-        "fr": "Poisson rouge",
-        "it": "Pesce rosso",
-        "nl": "Goudvis",
-        "zh-CN": "金鱼",
-        "zh-TW": "金魚",
-        "jp": "キンギョ",
-        "ko": "금붕어"
       }
     }
   }

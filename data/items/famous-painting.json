@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3920
         }
-      ],
-      "name": {
-        "en-US": "Famous Painting"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -40,20 +37,7 @@
           "currency": "bells",
           "value": 4980
         }
-      ],
-      "name": {
-        "en-US": "Famous Painting",
-        "en-GB": "Famous Painting",
-        "de": "Berühmtgemälde",
-        "es": "Retrato italiano",
-        "fr": "Toile célèbre",
-        "it": "Quadro famoso",
-        "nl": "Beroemde schilderij",
-        "zh-CN": "有名的名画",
-        "zh-TW": "有名的名畫",
-        "jp": "ゆうめいなめいが",
-        "ko": "유명한 명화"
-      }
+      ]
     }
   }
 }

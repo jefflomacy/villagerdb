@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "de": "Dandymütze",
-        "en-GB": "Dandy Hat",
-        "en-US": "Dandy Hat",
-        "es": "Gorra bicolor",
-        "fr": "Casquette de dandy",
-        "it": "Basco colorato",
-        "ja": "キャスケット"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -49,19 +40,6 @@
         "purple": "Purple",
         "gray": "Gray",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Dandy Hat",
-        "en-GB": "Dandy Hat",
-        "de": "Dandymütze",
-        "es": "Gorra elegante",
-        "fr": "Casquette de dandy",
-        "it": "Berretto da dandy",
-        "nl": "Krantenjongenspet",
-        "zh-CN": "报童帽",
-        "zh-TW": "報童帽",
-        "jp": "キャスケット",
-        "ko": "카스케트"
       }
     }
   }

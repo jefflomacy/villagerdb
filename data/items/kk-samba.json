@@ -22,10 +22,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Samba"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -38,21 +35,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Samba",
-        "en-GB": "K.K. Samba",
-        "de": "K.K. Samba",
-        "es": "Tota-Samba",
-        "fr": "Samba de Kéké",
-        "it": "K.K. Samba",
-        "nl": "K.K.-Samba",
-        "zh-CN": "K.K.桑巴",
-        "zh-TW": "K.K.森巴",
-        "jp": "けけサンバ",
-        "ko": "K.K.삼바",
-        "ru": "Самба К. К."
-      }
+      ]
     }
   }
 }

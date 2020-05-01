@@ -24,16 +24,7 @@
           "currency": "bells",
           "value": 372
         }
-      ],
-      "name": {
-        "de": "Blütenshirt",
-        "en-GB": "Blossom Tee",
-        "en-US": "Blossom Tee",
-        "es": "Camiseta rosácea",
-        "fr": "T-shirt fleuri",
-        "it": "Maglietta fioritura",
-        "ja": "ピンクはながらのふく"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -52,19 +43,6 @@
         "yellow": "Yellow",
         "green": "Green",
         "purple": "Purple"
-      },
-      "name": {
-        "en-US": "Blossom Tee",
-        "en-GB": "Blossom Tee",
-        "de": "Blumenshirt",
-        "es": "Camiseta florida",
-        "fr": "T-Shirt à imprimé floral",
-        "it": "Maglietta floreale",
-        "nl": "T-Shirt met bloemopdruk",
-        "zh-CN": "花朵T恤",
-        "zh-TW": "花紋T恤",
-        "jp": "はながらのＴシャツ",
-        "ko": "꽃무늬 티셔츠"
       }
     }
   }

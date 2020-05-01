@@ -23,16 +23,7 @@
           "currency": "bells",
           "value": 460
         }
-      ],
-      "name": {
-        "de": "Kombishirt",
-        "en-GB": "Striking Outfit",
-        "en-US": "Striking Outfit",
-        "es": "Camiseta nudo",
-        "fr": "T-shirt frappant",
-        "it": "Maglietta guerriero",
-        "ja": "いさましいふく"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -48,10 +39,7 @@
           "currency": "bells",
           "value": 460
         }
-      ],
-      "name": {
-        "en-US": "Striking Outfit"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -67,10 +55,7 @@
           "currency": "bells",
           "value": 460
         }
-      ],
-      "name": {
-        "en-US": "Striking Outfit"
-      }
+      ]
     }
   }
 }

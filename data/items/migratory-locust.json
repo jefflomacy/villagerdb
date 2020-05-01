@@ -11,10 +11,7 @@
       },
       "sources": [
         "In grassy patches."
-      ],
-      "name": {
-        "en-US": "Migratory Locust"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 600
-      },
-      "name": {
-        "en-US": "Migratory Locust",
-        "en-GB": "Migratory Locust",
-        "de": "Wanderschrecke",
-        "es": "Langosta migratoria",
-        "fr": "Criquet pèlerin",
-        "it": "Locusta migratoria",
-        "nl": "Treksprinkhaan",
-        "zh-CN": "飞蝗",
-        "zh-TW": "飛蝗",
-        "jp": "トノサマバッタ",
-        "ko": "섬풀무치"
       }
     }
   }

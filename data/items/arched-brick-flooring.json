@@ -16,20 +16,7 @@
           "currency": "bells",
           "value": 1100
         }
-      ],
-      "name": {
-        "en-US": "Arched-Brick Flooring",
-        "en-GB": "Arched-Brick Flooring",
-        "de": "Kopfsteinpflaster",
-        "es": "Suelo arco adoquines",
-        "fr": "Sol arches briques",
-        "it": "Pavimento sampietrini",
-        "nl": "Kasseien vloer",
-        "zh-CN": "弧形砖块地板",
-        "zh-TW": "弧形磚塊地板",
-        "jp": "アーチレンガのゆか",
-        "ko": "아치 벽돌 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

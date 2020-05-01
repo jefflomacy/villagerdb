@@ -25,10 +25,7 @@
           "currency": "meow",
           "value": 5
         }
-      ],
-      "name": {
-        "en-US": "Garden Rock"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -39,19 +36,6 @@
       },
       "recipe": {
         "stone": 15
-      },
-      "name": {
-        "en-US": "Garden Rock",
-        "en-GB": "Garden Rock",
-        "de": "Gartenstein",
-        "es": "Roca gruesa",
-        "fr": "Petit rocher jardin",
-        "it": "Pietra da giardino",
-        "nl": "Rots",
-        "zh-CN": "常见庭院石",
-        "zh-TW": "常見庭園石",
-        "jp": "よくあるにわいし",
-        "ko": "평범한 정원 돌"
       }
     }
   }

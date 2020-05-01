@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Rugby-Pulli",
-        "en-GB": "Rugby Shirt",
-        "en-US": "Rugby Shirt",
-        "es": "Jersey rugby",
-        "fr": "Pull rugby",
-        "it": "Maglia rugby",
-        "ja": "めだつボーダーのふくL"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "en-US": "Rugby Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 360
         }
-      ],
-      "name": {
-        "en-US": "Rugby Shirt"
-      }
+      ]
     }
   }
 }

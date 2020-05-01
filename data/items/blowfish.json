@@ -11,10 +11,7 @@
       },
       "sources": [
         "In the sea."
-      ],
-      "name": {
-        "en-US": "Blowfish"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5000
-      },
-      "name": {
-        "en-US": "Blowfish",
-        "en-GB": "Blowfish",
-        "de": "Kugelfisch",
-        "es": "Pez globo",
-        "fr": "Poisson-Ballon",
-        "it": "Pesce palla",
-        "nl": "Kogelvis",
-        "zh-CN": "河豚",
-        "zh-TW": "河豚",
-        "jp": "フグ",
-        "ko": "복어"
       }
     }
   }

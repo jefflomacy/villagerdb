@@ -23,10 +23,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. D&B"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -39,21 +36,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. D&B",
-        "en-GB": "K.K. D&B",
-        "de": "K.K. D & B",
-        "es": "Tota-Drum&Bass",
-        "fr": "Drum & bass Kéké",
-        "it": "K.K. & Band",
-        "nl": "K.K.-Drum-'n-Bass",
-        "zh-CN": "鼓打贝斯",
-        "zh-TW": "鼓打貝斯",
-        "jp": "ドラムンベース",
-        "ko": "드럼앤베이스",
-        "ru": "Драм-Н-Бэйс К. К."
-      }
+      ]
     }
   }
 }

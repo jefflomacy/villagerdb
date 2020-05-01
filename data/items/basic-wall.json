@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Basic Wall"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -29,20 +26,7 @@
           "currency": "bells",
           "value": 600
         }
-      ],
-      "name": {
-        "en-US": "Basic Wall",
-        "en-GB": "Basic Wall",
-        "de": "Minimalwand",
-        "es": "Panel minimalista",
-        "fr": "Mur pans blancs",
-        "it": "Muro pannelli bianco",
-        "nl": "Wand met witte panelen",
-        "zh-CN": "简约壁板墙",
-        "zh-TW": "簡約壁板牆",
-        "jp": "シンプルパネルのかべ",
-        "ko": "심플 패널 벽"
-      }
+      ]
     }
   }
 }

@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 2400
         }
-      ],
-      "name": {
-        "de": "Telefonzelle",
-        "en-GB": "Phone Box",
-        "en-US": "Phone Box",
-        "es": "Cabina telefónica",
-        "fr": "Cabine téléphonique",
-        "it": "Cabina telefono",
-        "ja": "でんわボックス"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "white": "White",
         "black": "Black",
         "gold": "Gold"
-      },
-      "name": {
-        "en-US": "Phone Box",
-        "en-GB": "Phone Box",
-        "de": "Telefonzelle",
-        "es": "Cabina telefónica",
-        "fr": "Cabine téléphonique",
-        "it": "Cabina del telefono",
-        "nl": "Telefooncel",
-        "zh-CN": "电话亭",
-        "zh-TW": "電話亭",
-        "jp": "でんわボックス",
-        "ko": "공중전화 부스"
       }
     }
   }

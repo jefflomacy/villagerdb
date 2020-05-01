@@ -11,10 +11,7 @@
       },
       "sources": [
         "Orange tree"
-      ],
-      "name": {
-        "en-US": "Orange"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -31,20 +28,7 @@
           "currency": "bells",
           "value": 400
         }
-      ],
-      "name": {
-        "en-US": "Orange",
-        "en-GB": "Orange",
-        "de": "Orange",
-        "es": "Naranja",
-        "fr": "Orange",
-        "it": "Arancia",
-        "nl": "Sinaasappel",
-        "zh-CN": "橘子",
-        "zh-TW": "橘子",
-        "jp": "オレンジ",
-        "ko": "오렌지"
-      }
+      ]
     }
   }
 }

@@ -23,10 +23,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Post-Op Patch"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -41,19 +38,6 @@
       ],
       "variations": {
         "white": "White"
-      },
-      "name": {
-        "en-US": "Post-Op Patch",
-        "en-GB": "Post-Op Patch",
-        "de": "Augenverbands",
-        "es": "Parche médico",
-        "fr": "Pansement oculaire",
-        "it": "Benda postoperatoria",
-        "nl": "Oogverband",
-        "zh-CN": "医疗眼罩",
-        "zh-TW": "醫療眼罩",
-        "jp": "がんたい",
-        "ko": "안대"
       }
     }
   }

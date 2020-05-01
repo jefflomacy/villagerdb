@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Dinnerware"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -33,20 +30,7 @@
           "currency": "bells",
           "value": 930
         }
-      ],
-      "name": {
-        "en-US": "Dinnerware",
-        "en-GB": "Dinnerware",
-        "de": "Geschirrset",
-        "es": "Vajilla",
-        "fr": "Ensemble vaisselle",
-        "it": "Set di stoviglie",
-        "nl": "Serviesgoed",
-        "zh-CN": "餐具",
-        "zh-TW": "餐具",
-        "jp": "しょっき",
-        "ko": "식기"
-      }
+      ]
     }
   }
 }

@@ -15,10 +15,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Serving Cart"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -42,19 +39,6 @@
         "white-silver": "White & silver",
         "red": "Red",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Serving Cart",
-        "en-GB": "Serving Cart",
-        "de": "Servierwagen",
-        "es": "Carrito de servicio",
-        "fr": "Chariot de service",
-        "it": "Carrello da portate",
-        "nl": "Serveerwagen",
-        "zh-CN": "服务餐车",
-        "zh-TW": "服務餐車",
-        "jp": "サービングカート",
-        "ko": "서빙 카트"
       }
     }
   }

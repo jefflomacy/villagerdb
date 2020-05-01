@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 1000
         }
-      ],
-      "name": {
-        "de": "Mixer",
-        "en-GB": "Mixer",
-        "en-US": "Mixer",
-        "es": "Batidora de vaso",
-        "fr": "Mixeur",
-        "it": "Mixer",
-        "ja": "ミキサー"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "bananas": "Bananas",
         "strawberries": "Strawberries",
         "kiwifruit": "Kiwifruit"
-      },
-      "name": {
-        "en-US": "Mixer",
-        "en-GB": "Mixer",
-        "de": "Mixer",
-        "es": "Batidora de vaso",
-        "fr": "Mixeur",
-        "it": "Frullatore",
-        "nl": "Blender",
-        "zh-CN": "果汁机",
-        "zh-TW": "果汁機",
-        "jp": "ミキサー",
-        "ko": "믹서"
       }
     }
   }

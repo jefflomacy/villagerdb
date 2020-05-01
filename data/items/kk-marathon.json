@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Marathon"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Marathon",
-        "en-GB": "K.K. Marathon",
-        "de": "K.K. Marathon",
-        "es": "Tota-Maratón",
-        "fr": "Kéké marathon",
-        "it": "K.K. Maratona",
-        "nl": "K.K.-Gamelan",
-        "zh-CN": "K.K.甘美朗",
-        "zh-TW": "K.K.甘美朗",
-        "jp": "けけガムラン",
-        "ko": "K.K.가믈란",
-        "ru": "Марафон К. К."
-      }
+      ]
     }
   }
 }

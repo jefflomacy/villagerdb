@@ -16,20 +16,7 @@
           "currency": "bells",
           "value": 1800
         }
-      ],
-      "name": {
-        "en-US": "Bidet",
-        "en-GB": "Bidet",
-        "de": "Bidet",
-        "es": "Bidé",
-        "fr": "Bidet",
-        "it": "Bidet",
-        "nl": "Bidet",
-        "zh-CN": "坐浴桶",
-        "zh-TW": "坐浴桶",
-        "jp": "ビデ",
-        "ko": "수동 비데"
-      }
+      ]
     }
   },
   "category": "Furniture"

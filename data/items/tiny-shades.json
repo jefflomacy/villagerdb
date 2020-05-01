@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 240
         }
-      ],
-      "name": {
-        "en-US": "Tiny Shades"
-      }
+      ]
     },
     "nh": {
       "sources": [
@@ -43,19 +40,6 @@
         "gold": "Gold",
         "black": "Black",
         "berry-red": "Berry red"
-      },
-      "name": {
-        "en-US": "Tiny Shades",
-        "en-GB": "Tiny Shades",
-        "de": "Minisonnenbrille",
-        "es": "Gafa de sol mini",
-        "fr": "Monture mini",
-        "it": "Montatura piccola",
-        "nl": "Kleine zonnebril",
-        "zh-CN": "迷你墨镜",
-        "zh-TW": "迷你墨鏡",
-        "jp": "ちいさいサングラス",
-        "ko": "작은 선글라스"
       }
     }
   }

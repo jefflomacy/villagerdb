@@ -24,16 +24,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Kratzbaum",
-        "en-GB": "Cat Tower",
-        "en-US": "Cat Tower",
-        "es": "Torre para gatos",
-        "fr": "Arbre à chat",
-        "it": "Torre per gatti",
-        "ja": "キャットタワー"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -57,19 +48,6 @@
         "gray": "Gray",
         "pink": "Pink",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Cat Tower",
-        "en-GB": "Cat Tower",
-        "de": "Kratzbaum",
-        "es": "Torre para gatos",
-        "fr": "Arbre à chat",
-        "it": "Torre per gatti",
-        "nl": "Kattenpaal",
-        "zh-CN": "猫跳台",
-        "zh-TW": "貓跳台",
-        "jp": "キャットタワー",
-        "ko": "캣타워"
       }
     }
   }

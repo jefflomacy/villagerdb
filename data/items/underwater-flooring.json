@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 26400
         }
-      ],
-      "name": {
-        "en-US": "Underwater Flooring",
-        "en-GB": "Underwater Flooring",
-        "de": "Meeresboden",
-        "es": "Suelo fondo marino",
-        "fr": "Sol fonds marins",
-        "it": "Pavimento sottomarino",
-        "nl": "Onderwatervloer",
-        "zh-CN": "海底地板",
-        "zh-TW": "海底地板",
-        "jp": "うみのそこのゆか",
-        "ko": "해저 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

@@ -27,10 +27,7 @@
           "currency": "meow",
           "value": 5
         }
-      ],
-      "name": {
-        "en-US": "Trash Bags"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -49,19 +46,6 @@
         "white": "White",
         "blue": "Blue",
         "yellow": "Yellow"
-      },
-      "name": {
-        "en-US": "Trash Bags",
-        "en-GB": "Trash Bags",
-        "de": "Müll",
-        "es": "Basura",
-        "fr": "Duo de sacs poubelle",
-        "it": "Spazzatura",
-        "nl": "Vuilniszakken",
-        "zh-CN": "垃圾袋",
-        "zh-TW": "垃圾袋",
-        "jp": "ゴミぶくろ",
-        "ko": "쓰레기봉투"
       }
     }
   }

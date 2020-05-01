@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 4896
         }
-      ],
-      "name": {
-        "en-US": "Jingle Wall"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -36,20 +33,7 @@
           "currency": "bells",
           "value": 10000
         }
-      ],
-      "name": {
-        "en-US": "Jingle Wall",
-        "en-GB": "Jingle Wall",
-        "de": "Festtagstapete",
-        "es": "Pared festiva",
-        "fr": "Mur festif",
-        "it": "Muro Jingle",
-        "nl": "Feestboomwand",
-        "zh-CN": "圣诞墙",
-        "zh-TW": "聖誕牆",
-        "jp": "クリスマスなかべ",
-        "ko": "크리스마스 벽"
-      }
+      ]
     }
   }
 }

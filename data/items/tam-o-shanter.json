@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 4000
         }
-      ],
-      "name": {
-        "de": "Schottenmütze",
-        "en-GB": "Tam-O'-Shanter",
-        "en-US": "Tam-O'-Shanter",
-        "es": "Boina escocesa",
-        "fr": "Béret écossais",
-        "it": "Cappello scozzese",
-        "ja": "スコットランドぼうし"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -47,19 +38,6 @@
         "gray": "Gray",
         "blue": "Blue",
         "green": "Green"
-      },
-      "name": {
-        "en-US": "Tam-O'-Shanter",
-        "en-GB": "Tam-O'-Shanter",
-        "de": "Schottenmütze",
-        "es": "Boina escocesa",
-        "fr": "Béret écossais",
-        "it": "Basco scozzese",
-        "nl": "Schotse baret",
-        "zh-CN": "苏格兰帽",
-        "zh-TW": "蘇格蘭帽",
-        "jp": "スコットランドぼうし",
-        "ko": "스코틀랜드 모자"
       }
     }
   }

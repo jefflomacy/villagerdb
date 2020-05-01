@@ -24,16 +24,7 @@
           "currency": "bells",
           "value": 340
         }
-      ],
-      "name": {
-        "de": "Drachenshirt",
-        "en-GB": "Dragon Suit",
-        "en-US": "Dragon Suit",
-        "es": "Camiseta dragón",
-        "fr": "T-shirt dragon",
-        "it": "Maglietta drago",
-        "ja": "ドラゴンスーツ"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -49,10 +40,7 @@
           "currency": "bells",
           "value": 340
         }
-      ],
-      "name": {
-        "en-US": "Dragon Suit"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -68,10 +56,7 @@
           "currency": "bells",
           "value": 340
         }
-      ],
-      "name": {
-        "en-US": "Dragon Suit"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -86,19 +71,6 @@
       ],
       "variations": {
         "yellow": "Yellow"
-      },
-      "name": {
-        "en-US": "Dragon Suit",
-        "en-GB": "Dragon Suit",
-        "de": "Drachen-Outfit",
-        "es": "Traje dragón",
-        "fr": "Combinaison dragon",
-        "it": "Tuta drago",
-        "nl": "Drakenpak",
-        "zh-CN": "龙纹装",
-        "zh-TW": "龍紋裝",
-        "jp": "ドラゴンスーツ",
-        "ko": "드래곤 옷"
       }
     }
   }

@@ -20,10 +20,7 @@
           "currency": "bells",
           "value": 3920
         }
-      ],
-      "name": {
-        "en-US": "Moving Painting"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -39,20 +36,7 @@
           "currency": "bells",
           "value": 4980
         }
-      ],
-      "name": {
-        "en-US": "Moving Painting",
-        "en-GB": "Moving Painting",
-        "de": "Schöngemälde",
-        "es": "Cuadro alegórico",
-        "fr": "Toile émouvante",
-        "it": "Quadro colorato",
-        "nl": "Symbolische schilderij",
-        "zh-CN": "动人的名画",
-        "zh-TW": "動人的名畫",
-        "jp": "きれいなめいが",
-        "ko": "예쁜 명화"
-      }
+      ]
     }
   }
 }

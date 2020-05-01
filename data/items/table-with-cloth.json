@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Table With Cloth"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -39,19 +36,6 @@
         "yellow": "Yellow",
         "light-green": "Light green",
         "light-blue": "Light blue"
-      },
-      "name": {
-        "en-US": "Table With Cloth",
-        "en-GB": "Table With Cloth",
-        "de": "Tischdeckentisch",
-        "es": "Mesa con mantel",
-        "fr": "Table nappée",
-        "it": "Tavola con tovaglia",
-        "nl": "Tafel met tafelkleed",
-        "zh-CN": "附桌巾桌子",
-        "zh-TW": "附桌巾桌子",
-        "jp": "クロスつきテーブル",
-        "ko": "사각 테이블"
       }
     }
   }

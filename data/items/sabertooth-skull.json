@@ -14,16 +14,7 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ],
-      "name": {
-        "de": "Säbelzahn-Schädel",
-        "en-GB": "Sabertooth Skull",
-        "en-US": "Sabertooth Skull",
-        "es": "Cráneo tigre",
-        "fr": "Crâne de smilodon",
-        "it": "Teschio smilodonte",
-        "ja": "サーベルタイガーのあたま"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -33,19 +24,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2500
-      },
-      "name": {
-        "en-US": "Sabertooth Skull",
-        "en-GB": "Sabertooth Skull",
-        "de": "Säbelzahn-Vorderteil",
-        "es": "Cuerpo tigre dientes sable",
-        "fr": "Crâne de smilodon",
-        "it": "Cranio smilodonte",
-        "nl": "Sabeltandtijgerkop",
-        "zh-CN": "剑齿虎的头",
-        "zh-TW": "劍齒虎的頭",
-        "jp": "スミロドンのあたま",
-        "ko": "스밀로돈의 머리"
       }
     }
   }

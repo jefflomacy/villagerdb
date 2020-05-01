@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Reggae"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -40,21 +37,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Reggae",
-        "en-GB": "K.K. Reggae",
-        "de": "K.K. Reggae",
-        "es": "Tota-Reggae",
-        "fr": "Reggae de Kéké",
-        "it": "K.K. Reggae",
-        "nl": "K.K.-Reggae",
-        "zh-CN": "K.K.雷鬼",
-        "zh-TW": "K.K.雷鬼",
-        "jp": "けけレゲエ",
-        "ko": "K.K.레게",
-        "ru": "Регги К. К."
-      }
+      ]
     }
   }
 }

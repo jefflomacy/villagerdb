@@ -24,16 +24,7 @@
           "currency": "bells",
           "value": 960
         }
-      ],
-      "name": {
-        "de": "Pilotenmütze",
-        "en-GB": "Pilot's Hat",
-        "en-US": "Pilot's Hat",
-        "es": "Gorra de piloto",
-        "fr": "Chapeau de capitaine",
-        "it": "Cappello da pilota",
-        "ja": "きちょうのぼうし"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -50,19 +41,6 @@
         "navy-blue": "Navy blue",
         "black": "Black",
         "light-blue": "Light blue"
-      },
-      "name": {
-        "en-US": "Pilot's Hat",
-        "en-GB": "Pilot's Hat",
-        "de": "Pilotenmütze",
-        "es": "Gorra de piloto",
-        "fr": "Chapeau de capitaine",
-        "it": "Cappello da pilota",
-        "nl": "Pilotenpet",
-        "zh-CN": "机长帽",
-        "zh-TW": "機長帽子",
-        "jp": "きちょうのぼうし",
-        "ko": "기장 모자"
       }
     }
   }

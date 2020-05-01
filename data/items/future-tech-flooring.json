@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Future-Tech Flooring",
-        "en-GB": "Future-Tech Flooring",
-        "de": "Zukunftstechnikboden",
-        "es": "Suelo red neuronal",
-        "fr": "Sol hypertechnologique",
-        "it": "Pavimento iper tecnologico",
-        "nl": "Futuristische vloer",
-        "zh-CN": "超科技地板",
-        "zh-TW": "超科技地板",
-        "jp": "オーバーテクノロジーなゆか",
-        "ko": "오버 테크놀로지 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

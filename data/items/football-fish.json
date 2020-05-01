@@ -11,10 +11,7 @@
       },
       "sources": [
         "In the sea."
-      ],
-      "name": {
-        "en-US": "Football Fish"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2500
-      },
-      "name": {
-        "en-US": "Football Fish",
-        "en-GB": "Football Fish",
-        "de": "Anglerfisch",
-        "es": "Pez balón",
-        "fr": "Poisson lanterne",
-        "it": "Pesce abissale",
-        "nl": "Voetbalvis",
-        "zh-CN": "灯笼鱼",
-        "zh-TW": "燈籠魚",
-        "jp": "チョウチンアンコウ",
-        "ko": "초롱아귀"
       }
     }
   }

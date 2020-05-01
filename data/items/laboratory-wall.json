@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Laboratory Wall",
-        "en-GB": "Laboratory Wall",
-        "de": "Biotechnologietapete",
-        "es": "Pared sala de estasis",
-        "fr": "Mur laboratoire",
-        "it": "Muro laboratorio",
-        "nl": "Laboratoriumwand",
-        "zh-CN": "实验室墙",
-        "zh-TW": "實驗室牆",
-        "jp": "ラボのかべ",
-        "ko": "연구실 벽"
-      }
+      ]
     }
   },
   "category": "Wallpaper"

@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 1800
         }
-      ],
-      "name": {
-        "de": "Whiteboard",
-        "en-GB": "Whiteboard",
-        "en-US": "Whiteboard",
-        "es": "Pizarra blanca",
-        "fr": "Tableau blanc",
-        "it": "Lavagna bianca",
-        "ja": "ホワイトボード"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -50,19 +41,6 @@
         "strategy-meeting": "Strategy meeting",
         "brainstorming-meeting": "Brainstorming meeting",
         "fact-finding-meeting": "Fact-finding meeting"
-      },
-      "name": {
-        "en-US": "Whiteboard",
-        "en-GB": "Whiteboard",
-        "de": "Whiteboard",
-        "es": "Pizarra blanca",
-        "fr": "Tableau blanc",
-        "it": "Lavagna bianca",
-        "nl": "Whiteboard",
-        "zh-CN": "白板",
-        "zh-TW": "白板",
-        "jp": "ホワイトボード",
-        "ko": "화이트보드"
       }
     }
   }

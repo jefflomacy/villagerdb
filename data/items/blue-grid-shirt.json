@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Gitterpulli",
-        "en-GB": "Blue-Grid Shirt",
-        "en-US": "Blue-Grid Shirt",
-        "es": "Jersey reja azul",
-        "fr": "Pull grille bleu",
-        "it": "Maglia biancoblu",
-        "ja": "みずいろこうしのふくL"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 340
         }
-      ],
-      "name": {
-        "en-US": "Blue-Grid Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 340
         }
-      ],
-      "name": {
-        "en-US": "Blue-Grid Shirt"
-      }
+      ]
     }
   }
 }

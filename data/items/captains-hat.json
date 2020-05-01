@@ -24,16 +24,7 @@
           "currency": "bells",
           "value": 15
         }
-      ],
-      "name": {
-        "de": "Kapitänsmütze",
-        "en-GB": "Captain's Hat",
-        "en-US": "Captain's Hat",
-        "es": "Gorra de capitán",
-        "fr": "Casquette capitaine",
-        "it": "Cappello da capitano",
-        "ja": "キャプテンのぼうし"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +39,6 @@
       ],
       "variations": {
         "white": "White"
-      },
-      "name": {
-        "en-US": "Captain's Hat",
-        "en-GB": "Captain's Hat",
-        "de": "Kapitänsmütze",
-        "es": "Gorra de capitán",
-        "fr": "Casquette de capitaine",
-        "it": "Cappello da capitano",
-        "nl": "Kapiteinspet",
-        "zh-CN": "船长帽子",
-        "zh-TW": "船長帽子",
-        "jp": "キャプテンのぼうし",
-        "ko": "캡틴 모자"
       }
     }
   }

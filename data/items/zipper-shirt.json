@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "de": "Zipp-Jacke",
-        "en-GB": "Zipper Shirt",
-        "en-US": "Zipper Shirt",
-        "es": "Jersey cremallera",
-        "fr": "Pull zip",
-        "it": "Maglia cerniera",
-        "ja": "ジッパーのふく"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Zipper Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Zipper Shirt"
-      }
+      ]
     }
   }
 }

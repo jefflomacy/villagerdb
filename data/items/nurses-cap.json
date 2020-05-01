@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 1200
         }
-      ],
-      "name": {
-        "de": "Schwesternhaube",
-        "en-GB": "Nurse's Cap",
-        "en-US": "Nurse's Cap",
-        "es": "Cofia enfermera",
-        "fr": "Coiffe d'infirmière",
-        "it": "Cuffia da infermiera",
-        "ja": "ナースキャップ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -46,19 +37,6 @@
         "pink": "Pink",
         "white": "White",
         "blue": "Blue"
-      },
-      "name": {
-        "en-US": "Nurse's Cap",
-        "en-GB": "Nurse's Cap",
-        "de": "Schwesternhaube",
-        "es": "Cofia enfermera",
-        "fr": "Coiffe d'infirmière",
-        "it": "Cuffia da infermiera",
-        "nl": "Verpleegsterskapje",
-        "zh-CN": "护士帽",
-        "zh-TW": "護士帽",
-        "jp": "ナースキャップ",
-        "ko": "간호사 모자"
       }
     }
   }

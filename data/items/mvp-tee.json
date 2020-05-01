@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 372
         }
-      ],
-      "name": {
-        "de": "MVP-Shirt",
-        "en-GB": "MVP Tee",
-        "en-US": "MVP Tee",
-        "es": "Camiseta MVP",
-        "fr": "T-shirt MVP",
-        "it": "Maglietta MVP",
-        "ja": "MVPTシャツ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -44,19 +35,6 @@
       ],
       "variations": {
         "white": "White"
-      },
-      "name": {
-        "en-US": "MVP Tee",
-        "en-GB": "MVP Tee",
-        "de": "Mvp-Shirt",
-        "es": "Camiseta MVP",
-        "fr": "T-Shirt MVP",
-        "it": "Maglietta MVP",
-        "nl": "Mvp-T-Shirt",
-        "zh-CN": "MVP T恤",
-        "zh-TW": "MVP T恤",
-        "jp": "ＭＶＰなＴシャツ",
-        "ko": "MVP 티셔츠"
       }
     }
   }

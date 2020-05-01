@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 1200
         }
-      ],
-      "name": {
-        "de": "Football-Helm",
-        "en-GB": "Football Helmet",
-        "en-US": "Football Helmet",
-        "es": "Casco de rugby",
-        "fr": "Casque de football",
-        "it": "Casco football",
-        "ja": "アメフトヘルメット"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -51,19 +42,6 @@
         "turquoise": "Turquoise",
         "red": "Red",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Football Helmet",
-        "en-GB": "Football Helmet",
-        "de": "Football-Helm",
-        "es": "Casco de rugby",
-        "fr": "Casque de football",
-        "it": "Casco da football",
-        "nl": "Americanfootballhelm",
-        "zh-CN": "美式足球头盔",
-        "zh-TW": "美式足球安全帽",
-        "jp": "アメフトヘルメット",
-        "ko": "럭비 헬멧"
       }
     }
   }

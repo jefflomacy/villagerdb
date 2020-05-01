@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 1700
         }
-      ],
-      "name": {
-        "de": "Vogelkäfig",
-        "en-GB": "Birdcage",
-        "en-US": "Birdcage",
-        "es": "Jaula de pájaros",
-        "fr": "Cage à oiseaux",
-        "it": "Gabbia",
-        "ja": "とりかご"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -48,19 +39,6 @@
         "blue": "Blue",
         "white": "White",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Birdcage",
-        "en-GB": "Birdcage",
-        "de": "Vogelkäfig",
-        "es": "Jaula de pájaros",
-        "fr": "Cage à oiseau",
-        "it": "Gabbia",
-        "nl": "Vogelkooi",
-        "zh-CN": "鸟笼",
-        "zh-TW": "鳥籠",
-        "jp": "とりかご",
-        "ko": "새장"
       }
     }
   }

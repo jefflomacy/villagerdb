@@ -16,10 +16,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Stacked Magazines"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -40,19 +37,6 @@
         "comics": "Comics",
         "kids": "Kids",
         "weekly-news": "Weekly news"
-      },
-      "name": {
-        "en-US": "Stacked Magazines",
-        "en-GB": "Stacked Magazines",
-        "de": "Magazinsammlung",
-        "es": "Montón de revistas",
-        "fr": "Lot de magazines",
-        "it": "Raccolta di riviste",
-        "nl": "Stapel tijdschriften",
-        "zh-CN": "杂志堆",
-        "zh-TW": "雜誌堆",
-        "jp": "ざっしのたば",
-        "ko": "쌓인 잡지"
       }
     }
   }

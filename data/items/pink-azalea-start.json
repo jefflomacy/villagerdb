@@ -11,10 +11,7 @@
       },
       "sources": [
         "Gardening Store (with T.I.Y.)"
-      ],
-      "name": {
-        "en-US": "Pink-Azalea Start"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -30,20 +27,7 @@
           "currency": "bells",
           "value": 280
         }
-      ],
-      "name": {
-        "en-US": "Pink-Azalea Start",
-        "en-GB": "Pink-Azalea Start",
-        "de": "Heckenazaleensetzling",
-        "es": "Azalea rosa de vivero",
-        "fr": "Pousse d'azalée rose",
-        "it": "Germoglio di azalea rosa",
-        "nl": "Roze-Azalea-Zaailing",
-        "zh-CN": "粉红杜鹃花苗",
-        "zh-TW": "粉紅杜鵑花苗",
-        "jp": "ピンクのツツジのなえ",
-        "ko": "핑크색 진달래 묘목"
-      }
+      ]
     }
   }
 }

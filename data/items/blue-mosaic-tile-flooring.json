@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 900
         }
-      ],
-      "name": {
-        "en-US": "Blue Mosaic-Tile Flooring",
-        "en-GB": "Blue Mosaic-Tile Flooring",
-        "de": "Blau-Minifliesenboden",
-        "es": "Suelo alicatado azul marino",
-        "fr": "Sol mosaïque bleue",
-        "it": "Pavimento mosaico blu",
-        "nl": "Blauwe mozaïektegelvloer",
-        "zh-CN": "蓝色马赛克砖地板",
-        "zh-TW": "藍色馬賽克磚地板",
-        "jp": "ブルーモザイクタイルのゆか",
-        "ko": "블루 모자이크 타일 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "de": "Popcorn-Maschine",
-        "en-GB": "Popcorn Machine",
-        "en-US": "Popcorn Machine",
-        "es": "Máquina de palomitas",
-        "fr": "Machine à pop-corn",
-        "it": "Macchina pop-corn",
-        "ja": "ポップコーンマシン"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -49,19 +40,6 @@
         "pink": "Pink",
         "blue": "Blue",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Popcorn Machine",
-        "en-GB": "Popcorn Machine",
-        "de": "Popcorn-Maschine",
-        "es": "Máquina de palomitas",
-        "fr": "Machine à pop-corn",
-        "it": "Macchina per pop-corn",
-        "nl": "Popcornmachine",
-        "zh-CN": "爆米花机",
-        "zh-TW": "爆米花機",
-        "jp": "ポップコーンマシン",
-        "ko": "팝콘 머신"
       }
     }
   }

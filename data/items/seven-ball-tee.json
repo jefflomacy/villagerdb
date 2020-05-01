@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 340
         }
-      ],
-      "name": {
-        "de": "7er-Shirt",
-        "en-GB": "Seven-Ball Tee",
-        "en-US": "Seven-Ball Tee",
-        "es": "Camiseta bola 7",
-        "fr": "T-shirt nº 7",
-        "it": "Maglietta palla 7",
-        "ja": "7ばんだまのふく"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -48,19 +39,6 @@
       ],
       "variations": {
         "brown": "Brown"
-      },
-      "name": {
-        "en-US": "Seven-Ball Tee",
-        "en-GB": "Seven-Ball Tee",
-        "de": "7Er-Shirt",
-        "es": "Camiseta bola 7",
-        "fr": "T-Shirt nº 7",
-        "it": "Maglietta palla 7",
-        "nl": "7-Bal-T-Shirt",
-        "zh-CN": "7号球上衣",
-        "zh-TW": "7號球衣服",
-        "jp": "７ばんだまのふく",
-        "ko": "7번공 옷"
       }
     }
   }

@@ -19,16 +19,7 @@
           "currency": "bells",
           "value": 20
         }
-      ],
-      "name": {
-        "de": "Hibiskus-Haarspange",
-        "en-GB": "Hibiscus Hairpin",
-        "en-US": "Hibiscus Hairpin",
-        "es": "Horquilla hibisco",
-        "fr": "épingle hibiscus",
-        "it": "Molletta ibisco",
-        "ja": "ハイビスカスのかみかざり"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -46,19 +37,6 @@
         "yellow": "Yellow",
         "white": "White",
         "pink": "Pink"
-      },
-      "name": {
-        "en-US": "Hibiscus Hairpin",
-        "en-GB": "Hibiscus Hairpin",
-        "de": "Hibiskus-Haarspange",
-        "es": "Horquilla hibisco",
-        "fr": "Épingle hibiscus",
-        "it": "Molletta ibisco",
-        "nl": "Hibiscushaarspeld",
-        "zh-CN": "扶桑花头饰",
-        "zh-TW": "扶桑花髮飾",
-        "jp": "ハイビスカスのかみかざり",
-        "ko": "히비스커스 머리핀"
       }
     }
   }

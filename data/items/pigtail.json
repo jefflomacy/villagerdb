@@ -24,16 +24,7 @@
           "currency": "bells",
           "value": 400
         }
-      ],
-      "name": {
-        "de": "Khan-Perücke",
-        "en-GB": "Pigtail",
-        "en-US": "Pigtail",
-        "es": "Coleta mongola",
-        "fr": "Natte",
-        "it": "Codino cinese",
-        "ja": "べんぱつ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +39,6 @@
       ],
       "variations": {
         "hair-color": "Hair Color"
-      },
-      "name": {
-        "en-US": "Pigtail",
-        "en-GB": "Pigtail",
-        "de": "Khan-Perücke",
-        "es": "Coleta mongola",
-        "fr": "Natte",
-        "it": "Codino cinese",
-        "nl": "Paardenstaart",
-        "zh-CN": "小辫子",
-        "zh-TW": "小辮子",
-        "jp": "べんぱつ",
-        "ko": "변발"
       }
     }
   }

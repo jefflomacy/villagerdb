@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 2480
         }
-      ],
-      "name": {
-        "de": "Tannenbaum",
-        "en-GB": "Big Festive Tree",
-        "en-US": "Big Festive Tree",
-        "es": "Árbol festivo",
-        "fr": "Grand sapin",
-        "it": "Albero festivo",
-        "ja": "おおきなクリスマスツリー"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -45,19 +36,6 @@
         "pink": "Pink",
         "gold": "Gold",
         "white": "White"
-      },
-      "name": {
-        "en-US": "Big Festive Tree",
-        "en-GB": "Big Festive Tree",
-        "de": "Tannenbaum",
-        "es": "Árbol festivo",
-        "fr": "Grand sapin décoré",
-        "it": "Albero festivo",
-        "nl": "Grote feestboom",
-        "zh-CN": "大型圣诞树",
-        "zh-TW": "大型聖誕樹",
-        "jp": "おおきなクリスマスツリー",
-        "ko": "큰 크리스마스트리"
       }
     }
   }

@@ -15,10 +15,7 @@
       },
       "sources": [
         "Snowmam"
-      ],
-      "name": {
-        "en-US": "Ice Wall"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -30,20 +27,7 @@
           "currency": "bells",
           "value": 32800
         }
-      ],
-      "name": {
-        "en-US": "Ice Wall",
-        "en-GB": "Ice Wall",
-        "de": "Eistapete",
-        "es": "Pared hielo",
-        "fr": "Mur glace",
-        "it": "Muro ghiaccio",
-        "nl": "Ijswand",
-        "zh-CN": "冰雪壁纸",
-        "zh-TW": "冰雪壁紙",
-        "jp": "アイスなかべがみ",
-        "ko": "아이스 벽"
-      }
+      ]
     }
   }
 }

@@ -11,10 +11,7 @@
       },
       "sources": [
         "Cherry tree"
-      ],
-      "name": {
-        "en-US": "Cherry"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -31,20 +28,7 @@
           "currency": "bells",
           "value": 400
         }
-      ],
-      "name": {
-        "en-US": "Cherry",
-        "en-GB": "Cherry",
-        "de": "Kirsche",
-        "es": "Cereza",
-        "fr": "Cerise",
-        "it": "Ciliegia",
-        "nl": "Kers",
-        "zh-CN": "樱桃",
-        "zh-TW": "櫻桃",
-        "jp": "さくらんぼ",
-        "ko": "체리"
-      }
+      ]
     }
   }
 }

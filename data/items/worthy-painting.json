@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3920
         }
-      ],
-      "name": {
-        "en-US": "Worthy Painting"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -40,20 +37,7 @@
           "currency": "bells",
           "value": 4980
         }
-      ],
-      "name": {
-        "en-US": "Worthy Painting",
-        "en-GB": "Worthy Painting",
-        "de": "Wahrgemälde",
-        "es": "Cuadro romántico",
-        "fr": "Toile précieuse",
-        "it": "Quadro prezioso",
-        "nl": "Zegevierende schilderij",
-        "zh-CN": "名贵的名画",
-        "zh-TW": "名貴的名畫",
-        "jp": "かちのあるめいが",
-        "ko": "가치 있는 명화"
-      }
+      ]
     }
   }
 }

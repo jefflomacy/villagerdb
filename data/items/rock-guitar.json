@@ -18,16 +18,7 @@
           "currency": "bells",
           "value": 1800
         }
-      ],
-      "name": {
-        "de": "Rock-Gitarre",
-        "en-GB": "Rock Guitar",
-        "en-US": "Rock Guitar",
-        "es": "Guitarra rock",
-        "fr": "Guitare rock",
-        "it": "Chitarra rock",
-        "ja": "エレキギターES1"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -106,19 +97,6 @@
         "cool-blue-handwritten-logo": "Cool blue / Handwritten logo",
         "cool-blue-pop-logo": "Cool blue / Pop logo",
         "cool-blue-cute-logo": "Cool blue / Cute logo"
-      },
-      "name": {
-        "en-US": "Rock Guitar",
-        "en-GB": "Rock Guitar",
-        "de": "Rock-Gitarre",
-        "es": "Guitarra rock",
-        "fr": "Guitare rock",
-        "it": "Chitarra rock",
-        "nl": "Rockgitaar",
-        "zh-CN": "电吉他ES1",
-        "zh-TW": "電吉他ES1",
-        "jp": "エレキギターES1",
-        "ko": "일렉트릭기타 ES1"
       }
     }
   }

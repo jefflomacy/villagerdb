@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 5600
         }
-      ],
-      "name": {
-        "de": "Bleichjeansjacke",
-        "en-GB": "Acid-Washed Jacket",
-        "en-US": "Acid-Washed Jacket",
-        "es": "Chaqueta desteñida",
-        "fr": "Veste délavée",
-        "it": "Giacca sbiadita",
-        "ja": "ケミカルデニムジャケット"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -49,19 +40,6 @@
       "variations": {
         "blue": "Blue",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Acid-Washed Jacket",
-        "en-GB": "Acid-Washed Jacket",
-        "de": "Bleichjeansjacke",
-        "es": "Chaqueta desteñida",
-        "fr": "Veste délavée",
-        "it": "Giacca sbiadita",
-        "nl": "Gebleekte spijkerjack",
-        "zh-CN": "刷白牛仔外套",
-        "zh-TW": "刷白牛仔外套",
-        "jp": "ケミカルデニムジャケット",
-        "ko": "물빠진 데님 재킷"
       }
     }
   }

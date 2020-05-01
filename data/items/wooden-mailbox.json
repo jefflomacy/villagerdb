@@ -2,21 +2,7 @@
   "id": "wooden-mailbox",
   "name": "Wooden Mailbox",
   "games": {
-    "nh": {
-      "name": {
-        "zh-CN": "木信箱",
-        "de": "Holzbriefkasten's",
-        "en-GB": "Wooden Mailbox",
-        "es": "Buzón de madera",
-        "fr": "Boîte aux lettres en bois",
-        "it": "Cassetta posta di legno",
-        "jp": "きのポスト",
-        "ko": "나무 우편함",
-        "nl": "Houten brievenbus",
-        "zh-TW": "木郵筒",
-        "en-US": "Wooden Mailbox"
-      }
-    }
+    "nh": {}
   },
   "category": "Furniture"
 }

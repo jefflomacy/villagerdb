@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 1360
         }
-      ],
-      "name": {
-        "en-US": "Bamboo Flooring"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -35,19 +32,6 @@
       },
       "recipe": {
         "bamboo-piece": 15
-      },
-      "name": {
-        "en-US": "Bamboo Flooring",
-        "en-GB": "Bamboo Flooring",
-        "de": "Bambusboden",
-        "es": "Suelo bambú",
-        "fr": "Sol en bambou",
-        "it": "Pavimento bambù",
-        "nl": "Bamboevloer",
-        "zh-CN": "竹子地板",
-        "zh-TW": "竹子地板",
-        "jp": "バンブーなゆか",
-        "ko": "대나무 바닥"
       }
     }
   }

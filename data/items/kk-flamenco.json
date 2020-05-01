@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Flamenco"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Flamenco",
-        "en-GB": "K.K. Flamenco",
-        "de": "K.K. Flamenco",
-        "es": "Tota-Flamenco",
-        "fr": "Flamenco Kéké",
-        "it": "K.K. Flamenco",
-        "nl": "K.K.-Flamenco",
-        "zh-CN": "K.K.佛朗明哥",
-        "zh-TW": "K.K.佛朗明哥",
-        "jp": "けけフラメンコ",
-        "ko": "K.K.플라멩코",
-        "ru": "Фламенко К. К."
-      }
+      ]
     }
   }
 }

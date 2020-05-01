@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 96000
         }
-      ],
-      "name": {
-        "en-US": "Fire Pit",
-        "en-GB": "Fire Pit",
-        "de": "Feuerkorb",
-        "es": "Brasero",
-        "fr": "Brasero en inox",
-        "it": "Braciere",
-        "nl": "Vuurschaal",
-        "zh-CN": "柴火炉",
-        "zh-TW": "柴火爐",
-        "jp": "ファイヤーピット",
-        "ko": "야외용 화덕"
-      }
+      ]
     }
   },
   "category": "Furniture"

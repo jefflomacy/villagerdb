@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Rockabilly"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Rockabilly",
-        "en-GB": "K.K. Rockabilly",
-        "de": "K.K. Rockabilly",
-        "es": "Tota-Rockabilly",
-        "fr": "Rockabilly Kéké",
-        "it": "K.K. Rockabilly",
-        "nl": "K.K.-Rockabilly",
-        "zh-CN": "K.K.乡村摇滚",
-        "zh-TW": "K.K.鄉村搖滾",
-        "jp": "けけビリー",
-        "ko": "K.K.빌리",
-        "ru": "Рокабилли К. К."
-      }
+      ]
     }
   }
 }

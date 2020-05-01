@@ -17,10 +17,7 @@
           "currency": "bells",
           "value": 640
         }
-      ],
-      "name": {
-        "en-US": "Polo Shirt"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -42,19 +39,6 @@
         "ivory": "Ivory",
         "white": "White",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Polo Shirt",
-        "en-GB": "Polo Shirt",
-        "de": "Polohemd",
-        "es": "Polo de dependiente",
-        "fr": "Polo",
-        "it": "Polo",
-        "nl": "Poloshirt",
-        "zh-CN": "Polo衫",
-        "zh-TW": "Polo衫",
-        "jp": "ポロシャツ",
-        "ko": "폴로 셔츠"
       }
     }
   }

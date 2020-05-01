@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 3000
         }
-      ],
-      "name": {
-        "en-US": "Oasis Flooring",
-        "en-GB": "Oasis Flooring",
-        "de": "Oasenboden",
-        "es": "Suelo oasis",
-        "fr": "Sol oasis",
-        "it": "Pavimento oasi",
-        "nl": "Oasisvloer",
-        "zh-CN": "绿洲地板",
-        "zh-TW": "綠洲地板",
-        "jp": "オアシスなゆか",
-        "ko": "오아시스 바닥"
-      }
+      ]
     }
   },
   "category": "Flooring"

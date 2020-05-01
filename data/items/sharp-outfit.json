@@ -23,16 +23,7 @@
           "currency": "bells",
           "value": 280
         }
-      ],
-      "name": {
-        "de": "Rautenshirt",
-        "en-GB": "Sharp Outfit",
-        "en-US": "Sharp Outfit",
-        "es": "Camiseta trazos",
-        "fr": "T-shirt dièse",
-        "it": "Maglietta diesis",
-        "ja": "いげたもようのふく"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -48,10 +39,7 @@
           "currency": "bells",
           "value": 290
         }
-      ],
-      "name": {
-        "en-US": "Sharp Outfit"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -67,10 +55,7 @@
           "currency": "bells",
           "value": 290
         }
-      ],
-      "name": {
-        "en-US": "Sharp Outfit"
-      }
+      ]
     }
   }
 }

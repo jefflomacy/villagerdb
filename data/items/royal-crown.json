@@ -25,16 +25,7 @@
           "currency": "bells",
           "value": 1200000
         }
-      ],
-      "name": {
-        "de": "Königskrone",
-        "en-GB": "Royal Crown",
-        "en-US": "Royal Crown",
-        "es": "Corona imperial",
-        "fr": "Couronne royale",
-        "it": "Corona reale",
-        "ja": "おうかん"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -49,19 +40,6 @@
       ],
       "variations": {
         "red": "Red"
-      },
-      "name": {
-        "en-US": "Royal Crown",
-        "en-GB": "Royal Crown",
-        "de": "Königskrone",
-        "es": "Corona imperial",
-        "fr": "Couronne royale",
-        "it": "Corona reale",
-        "nl": "Koninklijke kroon",
-        "zh-CN": "王冠",
-        "zh-TW": "王冠",
-        "jp": "おうかん",
-        "ko": "왕관"
       }
     }
   }

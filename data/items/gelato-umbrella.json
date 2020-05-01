@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Gelato Umbrella"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -36,20 +33,7 @@
           "currency": "bells",
           "value": 750
         }
-      ],
-      "name": {
-        "en-US": "Gelato Umbrella",
-        "en-GB": "Gelato Umbrella",
-        "de": "3-Farben-Schirm",
-        "es": "Paraguas tricolor",
-        "fr": "Parapluie Rome",
-        "it": "Ombrello spicchi",
-        "nl": "Tricoloreparaplu",
-        "zh-CN": "三色雨伞",
-        "zh-TW": "三色雨傘",
-        "jp": "トリコロールなかさ",
-        "ko": "3색 우산"
-      }
+      ]
     }
   }
 }

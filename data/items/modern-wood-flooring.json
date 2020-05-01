@@ -30,10 +30,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Modern Wood Flooring"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -49,20 +46,7 @@
           "currency": "bells",
           "value": 1280
         }
-      ],
-      "name": {
-        "en-US": "Modern Wood Flooring",
-        "en-GB": "Modern Wood Flooring",
-        "de": "Buntholzboden",
-        "es": "Suelo listones",
-        "fr": "Sol bois moderne",
-        "it": "Pavimento legno",
-        "nl": "Moderne houten vloer",
-        "zh-CN": "拼木地板",
-        "zh-TW": "拼木地板",
-        "jp": "ミックスウッドのフローリング",
-        "ko": "믹스우드 바닥"
-      }
+      ]
     }
   }
 }

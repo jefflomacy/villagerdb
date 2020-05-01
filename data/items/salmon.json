@@ -11,10 +11,7 @@
       },
       "sources": [
         "Sea (early September)/River (late September)"
-      ],
-      "name": {
-        "en-US": "Salmon"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 700
-      },
-      "name": {
-        "en-US": "Salmon",
-        "en-GB": "Salmon",
-        "de": "Lachs",
-        "es": "Salmón",
-        "fr": "Saumon",
-        "it": "Salmone",
-        "nl": "Zalm",
-        "zh-CN": "鲑鱼",
-        "zh-TW": "鮭魚",
-        "jp": "サケ",
-        "ko": "연어"
       }
     }
   }

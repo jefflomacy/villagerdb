@@ -7,10 +7,7 @@
       "orderable": false,
       "sources": [
         "Bunny Day (gift balloon)"
-      ],
-      "name": {
-        "en-US": "Sky Egg"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -20,19 +17,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 200
-      },
-      "name": {
-        "zh-CN": "飞天蛋",
-        "de": "Luft-Glücksei's",
-        "en-GB": "Sky Egg",
-        "es": "Huevo celeste",
-        "fr": "Œuf aérien",
-        "it": "Uovo celeste",
-        "jp": "そらとぶたまご",
-        "ko": "하늘을 나는 달걀",
-        "nl": "Luchtei",
-        "zh-TW": "飛天蛋",
-        "en-US": "Sky Egg"
       }
     }
   }

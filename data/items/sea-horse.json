@@ -11,10 +11,7 @@
       },
       "sources": [
         "In rivers."
-      ],
-      "name": {
-        "en-US": "Sea Horse"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1100
-      },
-      "name": {
-        "en-US": "Sea Horse",
-        "en-GB": "Sea Horse",
-        "de": "Seepferdchen",
-        "es": "Caballito de mar",
-        "fr": "Hippocampe",
-        "it": "Ippocampo",
-        "nl": "Zeepaardje",
-        "zh-CN": "海马",
-        "zh-TW": "海馬",
-        "jp": "タツノオトシゴ",
-        "ko": "해마"
       }
     }
   }

@@ -26,10 +26,7 @@
           "currency": "meow",
           "value": 5
         }
-      ],
-      "name": {
-        "en-US": "Metal Can"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -42,20 +39,7 @@
           "currency": "bells",
           "value": 600
         }
-      ],
-      "name": {
-        "en-US": "Metal Can",
-        "en-GB": "Metal Can",
-        "de": "Metallkanister",
-        "es": "Lata metálica",
-        "fr": "Bidon métallique",
-        "it": "Latta di metallo",
-        "nl": "Blik",
-        "zh-CN": "一斗罐",
-        "zh-TW": "一斗罐",
-        "jp": "いっとかん",
-        "ko": "사각 깡통"
-      }
+      ]
     }
   }
 }

@@ -22,16 +22,7 @@
           "currency": "bells",
           "value": 800
         }
-      ],
-      "name": {
-        "de": "Baby-Bär",
-        "en-GB": "Baby Bear",
-        "en-US": "Baby Bear",
-        "es": "Osito",
-        "fr": "Bébé ours",
-        "it": "Orsetto",
-        "ja": "くまのチビちゃん"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -74,19 +65,6 @@
         "tweed-heart": "Tweed / Heart",
         "tweed-fish": "Tweed / Fish",
         "tweed-star": "Tweed / Star"
-      },
-      "name": {
-        "en-US": "Baby Bear",
-        "en-GB": "Baby Bear",
-        "de": "Baby-Bär",
-        "es": "Osito",
-        "fr": "Bébé ours",
-        "it": "Orsetto",
-        "nl": "Babybeer",
-        "zh-CN": "小熊熊",
-        "zh-TW": "小熊熊",
-        "jp": "くまのチビちゃん",
-        "ko": "작은 곰인형"
       }
     }
   }

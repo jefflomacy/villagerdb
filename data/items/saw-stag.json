@@ -11,10 +11,7 @@
       },
       "sources": [
         "On trees."
-      ],
-      "name": {
-        "en-US": "Saw Stag"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2000
-      },
-      "name": {
-        "en-US": "Saw Stag",
-        "en-GB": "Saw Stag",
-        "de": "Sägezahn-Hirschkäfer",
-        "es": "Escarabajo ciervo sierra",
-        "fr": "Lucane inclinatus",
-        "it": "Coleottero cervo",
-        "nl": "Zaaghertkever",
-        "zh-CN": "锯锹形虫",
-        "zh-TW": "鋸鍬形蟲",
-        "jp": "ノコギリクワガタ",
-        "ko": "톱사슴벌레"
       }
     }
   }

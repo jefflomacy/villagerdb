@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 1352
         }
-      ],
-      "name": {
-        "de": "Pedalnähmaschine",
-        "en-GB": "Old Sewing Machine",
-        "en-US": "Old Sewing Machine",
-        "es": "Máquina coser vieja",
-        "fr": "Machine coudre rétro",
-        "it": "Macch. cucire antica",
-        "ja": "ふるいミシン"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -43,19 +34,6 @@
         "black": "Black",
         "green": "Green",
         "silver": "Silver"
-      },
-      "name": {
-        "en-US": "Old Sewing Machine",
-        "en-GB": "Old Sewing Machine",
-        "de": "Pedalnähmaschine",
-        "es": "Máquina de coser antigua",
-        "fr": "Machine à coudre rétro",
-        "it": "Macchina da cucire antica",
-        "nl": "Trapnaaimachine",
-        "zh-CN": "旧式缝纫机",
-        "zh-TW": "舊式縫紉機",
-        "jp": "ふるいミシン",
-        "ko": "오래된 재봉틀"
       }
     }
   }

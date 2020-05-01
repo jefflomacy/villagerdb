@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Gumbo"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Gumbo",
-        "en-GB": "K.K. Gumbo",
-        "de": "K.K. Gumbo",
-        "es": "Tota-Gumbo",
-        "fr": "Gumbo Kéké",
-        "it": "K.K. Gumbo",
-        "nl": "K.K.-Gumbo",
-        "zh-CN": "新奥尔良乐曲",
-        "zh-TW": "新奧爾良樂曲",
-        "jp": "ニューオリンズそんぐ",
-        "ko": "딕시랜드 재즈",
-        "ru": "Гамбо К. К."
-      }
+      ]
     }
   }
 }

@@ -12,20 +12,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Ladybug Umbrella",
-        "en-GB": "Ladybug Umbrella",
-        "de": "Marienkäferschirm",
-        "es": "Paraguas mariquita",
-        "fr": "Parapluie coccinelle",
-        "it": "Ombrello coccinella",
-        "nl": "Lieveheersbeestjeparaplu",
-        "zh-CN": "瓢虫雨伞",
-        "zh-TW": "瓢蟲雨傘",
-        "jp": "テントウムシのかさ",
-        "ko": "무당벌레 우산"
-      }
+      ]
     }
   },
   "category": "Umbrellas"

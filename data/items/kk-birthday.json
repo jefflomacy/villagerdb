@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Birthday"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Birthday",
-        "en-GB": "K.K. Birthday",
-        "de": "Geburtstagslied",
-        "es": "Feliz en tu día",
-        "fr": "Anniversaire Kéké",
-        "it": "K.K. Compleanno",
-        "nl": "Fijne verjaardag",
-        "zh-CN": "你的生日",
-        "zh-TW": "你的生日",
-        "jp": "きみのたんじょうび",
-        "ko": "그대의 생일",
-        "ru": "День рождения К. К."
-      }
+      ]
     }
   }
 }

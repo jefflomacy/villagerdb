@@ -25,16 +25,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Rettungsring",
-        "en-GB": "Life Ring",
-        "en-US": "Life Ring",
-        "es": "Salvavidas",
-        "fr": "Bouée de sauvetage",
-        "it": "Salvagente",
-        "ja": "うきわ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -53,19 +44,6 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "orange": "Orange"
-      },
-      "name": {
-        "en-US": "Life Ring",
-        "en-GB": "Life Ring",
-        "de": "Rettungsring",
-        "es": "Salvavidas",
-        "fr": "Bouée de sauvetage",
-        "it": "Salvagente",
-        "nl": "Reddingsboei",
-        "zh-CN": "泳圈",
-        "zh-TW": "泳圈",
-        "jp": "うきわ",
-        "ko": "튜브"
       }
     }
   }

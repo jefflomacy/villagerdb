@@ -17,10 +17,7 @@
       ],
       "rvs": [
         "joan"
-      ],
-      "name": {
-        "en-US": "Shoji Screen"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -32,20 +29,7 @@
           "currency": "bells",
           "value": 1880
         }
-      ],
-      "name": {
-        "en-US": "Shoji Screen",
-        "en-GB": "Shoji Screen",
-        "de": "Shoji-Wand",
-        "es": "Pared shoji",
-        "fr": "Mur shôji",
-        "it": "Muro shoji",
-        "nl": "Shoji-Scherm",
-        "zh-CN": "日式纸拉门",
-        "zh-TW": "日式紙拉門",
-        "jp": "しょうじ",
-        "ko": "창호지 문 벽"
-      }
+      ]
     }
   }
 }

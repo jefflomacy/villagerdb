@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Gefängnispulli",
-        "en-GB": "Chain-Gang Shirt",
-        "en-US": "Chain-Gang Shirt",
-        "es": "Jersey grumete",
-        "fr": "Pull bagnard",
-        "it": "Maglia carcerato",
-        "ja": "プリズンなふくL"
-      }
+      ]
     },
     "ac": {
       "orderable": true,
@@ -45,10 +36,7 @@
           "currency": "bells",
           "value": 260
         }
-      ],
-      "name": {
-        "en-US": "Chain-Gang Shirt"
-      }
+      ]
     },
     "afe+": {
       "orderable": true,
@@ -64,10 +52,7 @@
           "currency": "bells",
           "value": 260
         }
-      ],
-      "name": {
-        "en-US": "Chain-Gang Shirt"
-      }
+      ]
     }
   }
 }

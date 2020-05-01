@@ -22,16 +22,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "de": "Landefähre",
-        "en-GB": "Lunar Lander",
-        "en-US": "Lunar Lander",
-        "es": "Módulo lunar",
-        "fr": "Module lunaire",
-        "it": "Sonda lunare",
-        "ja": "ちゃくりくせん"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -43,20 +34,7 @@
           "currency": "bells",
           "value": 65000
         }
-      ],
-      "name": {
-        "en-US": "Lunar Lander",
-        "en-GB": "Lunar Lander",
-        "de": "Landefähre",
-        "es": "Módulo lunar",
-        "fr": "Module lunaire",
-        "it": "Sonda lunare",
-        "nl": "Maanlander",
-        "zh-CN": "登月舱",
-        "zh-TW": "登月艙",
-        "jp": "ちゃくりくせん",
-        "ko": "달착륙선"
-      }
+      ]
     }
   }
 }

@@ -14,16 +14,7 @@
       },
       "sources": [
         "Underground (dig spot)"
-      ],
-      "name": {
-        "de": "Seismosaurus-Schwanz",
-        "en-GB": "Diplo Tail",
-        "en-US": "Diplo Tail",
-        "es": "Cola diplodocus",
-        "fr": "Queue de séismo",
-        "it": "Coda seismosauro",
-        "ja": "セイスモサウルスのしっぽ"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -33,19 +24,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5000
-      },
-      "name": {
-        "en-US": "Diplo Tail",
-        "en-GB": "Diplo Tail",
-        "de": "Diplodocus-Schwanz",
-        "es": "Cola diplodocus",
-        "fr": "Queue de diplodocus",
-        "it": "Coda diplodoco",
-        "nl": "Diplodocusstaart",
-        "zh-CN": "梁龙的尾巴",
-        "zh-TW": "梁龍的尾巴",
-        "jp": "ディプロドクスのしっぽ",
-        "ko": "디플로도쿠스의 꼬리"
       }
     }
   }

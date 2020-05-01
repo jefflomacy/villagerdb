@@ -23,10 +23,7 @@
           "currency": "bells",
           "value": 7200
         }
-      ],
-      "name": {
-        "en-US": "Maid Dress"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -48,19 +45,6 @@
         "pink": "Pink",
         "purple": "Purple",
         "yellow": "Yellow"
-      },
-      "name": {
-        "en-US": "Maid Dress",
-        "en-GB": "Maid Dress",
-        "de": "Magdkleid",
-        "es": "Vestido doncella",
-        "fr": "Robe de servante",
-        "it": "Vestito da domestica",
-        "nl": "Dienstmeisjesuniform",
-        "zh-CN": "女仆装",
-        "zh-TW": "女僕裝",
-        "jp": "メイドのふく",
-        "ko": "메이드 옷"
       }
     }
   }

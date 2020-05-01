@@ -23,10 +23,7 @@
           "currency": "bells",
           "value": 680
         }
-      ],
-      "name": {
-        "en-US": "Festive Dress"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -41,19 +38,6 @@
       ],
       "variations": {
         "red": "Red"
-      },
-      "name": {
-        "en-US": "Festive Dress",
-        "en-GB": "Festive Dress",
-        "de": "Festtagskleid",
-        "es": "Vestido festivo",
-        "fr": "Robe de mère Noël",
-        "it": "Vestito festivo",
-        "nl": "Feestdagenjurk",
-        "zh-CN": "圣诞洋装",
-        "zh-TW": "聖誕洋裝",
-        "jp": "クリスマスなドレス",
-        "ko": "크리스마스 드레스"
       }
     }
   }

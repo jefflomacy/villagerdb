@@ -24,16 +24,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Schlafsack",
-        "en-GB": "Sleeping Bag",
-        "en-US": "Sleeping Bag",
-        "es": "Saco de dormir",
-        "fr": "Sac de couchage",
-        "it": "Sacco a pelo",
-        "ja": "シュラフ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -57,19 +48,6 @@
         "purple": "Purple",
         "white": "White",
         "red": "Red"
-      },
-      "name": {
-        "en-US": "Sleeping Bag",
-        "en-GB": "Sleeping Bag",
-        "de": "Schlafsack",
-        "es": "Saco de dormir",
-        "fr": "Sac de couchage",
-        "it": "Sacco a pelo",
-        "nl": "Slaapzak",
-        "zh-CN": "睡袋",
-        "zh-TW": "睡袋",
-        "jp": "シュラフ",
-        "ko": "침낭"
       }
     }
   }

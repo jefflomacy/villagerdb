@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 680
         }
-      ],
-      "name": {
-        "de": "Malset",
-        "en-GB": "Painting Set",
-        "en-US": "Painting Set",
-        "es": "Kit de pintura",
-        "fr": "Set de peinture",
-        "it": "Set da pittura",
-        "ja": "おえかきセット"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -64,19 +55,6 @@
         "white-smile": "White / Smile",
         "white-bug": "White / Bug",
         "white-still-life": "White / Still life"
-      },
-      "name": {
-        "en-US": "Painting Set",
-        "en-GB": "Painting Set",
-        "de": "Malset",
-        "es": "Kit de pintura",
-        "fr": "Set de peinture",
-        "it": "Set da pittura",
-        "nl": "Verfset",
-        "zh-CN": "水彩用具组合",
-        "zh-TW": "水彩用具組合",
-        "jp": "おえかきセット",
-        "ko": "그림 그리기 세트"
       }
     }
   }

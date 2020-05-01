@@ -17,16 +17,7 @@
           "currency": "bells",
           "value": 1180
         }
-      ],
-      "name": {
-        "de": "Laterne",
-        "en-GB": "Lantern",
-        "en-US": "Lantern",
-        "es": "Farol",
-        "fr": "Lanterne",
-        "it": "Lanterna",
-        "ja": "ランタン"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "light-blue": "Light blue",
         "black": "Black",
         "gold": "Gold"
-      },
-      "name": {
-        "en-US": "Lantern",
-        "en-GB": "Lantern",
-        "de": "Laterne",
-        "es": "Farol",
-        "fr": "Lanterne",
-        "it": "Lanterna",
-        "nl": "Lantaarn",
-        "zh-CN": "油灯",
-        "zh-TW": "油燈",
-        "jp": "ランタン",
-        "ko": "랜턴"
       }
     }
   }

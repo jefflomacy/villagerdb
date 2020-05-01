@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Safari"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -37,21 +34,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "K.K. Safari",
-        "en-GB": "K.K. Safari",
-        "de": "K.K. Safari",
-        "es": "Tota-Safari",
-        "fr": "Ali Farka Kéké",
-        "it": "K.K. Safari",
-        "nl": "K.K. in de jungle",
-        "zh-CN": "K.K.非洲音乐",
-        "zh-TW": "K.K.非洲音樂",
-        "jp": "けけアフロ",
-        "ko": "K.K.아프리카",
-        "ru": "Сафари К. К."
-      }
+      ]
     }
   }
 }

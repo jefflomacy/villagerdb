@@ -23,16 +23,7 @@
           "currency": "bells",
           "value": 600
         }
-      ],
-      "name": {
-        "de": "Schaukelpferd",
-        "en-GB": "Rocking Horse",
-        "en-US": "Rocking Horse",
-        "es": "Caballo balancín",
-        "fr": "Cheval à bascule",
-        "it": "Cavalluccio",
-        "ja": "もくば"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -51,19 +42,6 @@
         "pastel": "Pastel",
         "blue": "Blue",
         "pop": "Pop"
-      },
-      "name": {
-        "en-US": "Rocking Horse",
-        "en-GB": "Rocking Horse",
-        "de": "Schaukelpferd",
-        "es": "Caballo balancín",
-        "fr": "Cheval à bascule",
-        "it": "Cavalluccio",
-        "nl": "Hobbelpaard",
-        "zh-CN": "木马",
-        "zh-TW": "木馬",
-        "jp": "もくば",
-        "ko": "목마"
       }
     }
   }

@@ -11,34 +11,12 @@
       },
       "sources": [
         "Bug Off"
-      ],
-      "name": {
-        "de": "Bronze-Insektenpokal",
-        "en-GB": "Bronze Bug Trophy",
-        "en-US": "Bronze Bug Trophy",
-        "es": "Bichotrofeo bronce",
-        "fr": "Trophée insecte brze",
-        "it": "Trofeo ins. bronzo",
-        "ja": "どうのムシトロフィー"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
         "currency": "bells",
         "value": 400
-      },
-      "name": {
-        "en-US": "Bronze Bug Trophy",
-        "en-GB": "Bronze Bug Trophy",
-        "de": "Bronze-Insektenpokal",
-        "es": "Bichotrofeo de bronce",
-        "fr": "Trophée insecte bronze",
-        "it": "Trofeo insetti di bronzo",
-        "nl": "Bronzen beestjesbeker",
-        "zh-CN": "虫类铜奖杯",
-        "zh-TW": "蟲子銅獎盃",
-        "jp": "どうのムシトロフィー",
-        "ko": "동 곤충 트로피"
       }
     }
   }

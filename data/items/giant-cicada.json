@@ -11,10 +11,7 @@
       },
       "sources": [
         "On trees."
-      ],
-      "name": {
-        "en-US": "Giant Cicada"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 500
-      },
-      "name": {
-        "en-US": "Giant Cicada",
-        "en-GB": "Giant Cicada",
-        "de": "Riesenzikade",
-        "es": "Cigarra gigante",
-        "fr": "Cigale géante",
-        "it": "Cicala gigante",
-        "nl": "Reuzencicade",
-        "zh-CN": "熊蝉",
-        "zh-TW": "熊蟬",
-        "jp": "クマゼミ",
-        "ko": "곰매미"
       }
     }
   }

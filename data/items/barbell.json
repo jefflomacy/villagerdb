@@ -14,10 +14,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Barbell"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -30,19 +27,6 @@
         "white": "White",
         "red": "Red",
         "colorful": "Colorful"
-      },
-      "name": {
-        "en-US": "Barbell",
-        "en-GB": "Barbell",
-        "de": "Langhantel",
-        "es": "Barra de pesas",
-        "fr": "Haltère",
-        "it": "Bilanciere",
-        "nl": "Halter",
-        "zh-CN": "杠铃",
-        "zh-TW": "槓鈴",
-        "jp": "バーベル",
-        "ko": "바벨"
       }
     }
   }

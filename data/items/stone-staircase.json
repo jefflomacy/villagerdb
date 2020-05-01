@@ -8,20 +8,7 @@
           "currency": "bells",
           "value": 168000
         }
-      ],
-      "name": {
-        "en-US": "Stone Staircase",
-        "en-GB": "Stone Staircase",
-        "de": "Steintreppe",
-        "es": "Escalera de piedra",
-        "fr": "Escalier en pierre",
-        "it": "Scala di pietra",
-        "nl": "Stenen trap",
-        "zh-CN": "石台阶",
-        "zh-TW": "石樓梯",
-        "jp": "いしのかいだん",
-        "ko": "돌 계단"
-      }
+      ]
     }
   },
   "category": "Furniture"

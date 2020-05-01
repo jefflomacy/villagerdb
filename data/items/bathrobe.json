@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 5800
         }
-      ],
-      "name": {
-        "en-US": "Bathrobe"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -46,19 +43,6 @@
         "purple": "Purple",
         "black": "Black",
         "brown": "Brown"
-      },
-      "name": {
-        "en-US": "Bathrobe",
-        "en-GB": "Bathrobe",
-        "de": "Bademantel",
-        "es": "Albornoz",
-        "fr": "Peignoir",
-        "it": "Accappatoio",
-        "nl": "Badjas",
-        "zh-CN": "浴袍",
-        "zh-TW": "浴袍",
-        "jp": "バスローブ",
-        "ko": "목욕 가운"
       }
     }
   }

@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 2400
         }
-      ],
-      "name": {
-        "de": "Tatamibett",
-        "en-GB": "Tatami Bed",
-        "en-US": "Tatami Bed",
-        "es": "Cama tatami",
-        "fr": "Lit tatami",
-        "it": "Letto tatami",
-        "ja": "たたみのベッド"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -51,19 +42,6 @@
         "natural": "Natural",
         "black": "Black",
         "light-brown": "Light brown"
-      },
-      "name": {
-        "en-US": "Tatami Bed",
-        "en-GB": "Tatami Bed",
-        "de": "Tatamibett",
-        "es": "Cama tatami",
-        "fr": "Lit tatami",
-        "it": "Letto tatami",
-        "nl": "Tatamibed",
-        "zh-CN": "榻榻米床铺",
-        "zh-TW": "榻榻米床鋪",
-        "jp": "タタミのベッド",
-        "ko": "돗자리 침대"
       }
     }
   }

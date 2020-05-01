@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 1800
         }
-      ],
-      "name": {
-        "de": "Stabstaubsauger",
-        "en-GB": "Upright Vacuum",
-        "en-US": "Upright Vacuum",
-        "es": "Aspiradora vertical",
-        "fr": "Aspirateur balai",
-        "it": "Aspirapol. verticale",
-        "ja": "スティックそうじき"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -55,19 +46,6 @@
         "orange": "Orange",
         "green": "Green",
         "pink": "Pink"
-      },
-      "name": {
-        "en-US": "Upright Vacuum",
-        "en-GB": "Upright Vacuum",
-        "de": "Stabstaubsauger",
-        "es": "Aspiradora vertical",
-        "fr": "Aspirateur balai",
-        "it": "Scopa elettrica",
-        "nl": "Steelstofzuiger",
-        "zh-CN": "直立式吸尘器",
-        "zh-TW": "直立式吸塵器",
-        "jp": "スティックそうじき",
-        "ko": "스틱 청소기"
       }
     }
   }

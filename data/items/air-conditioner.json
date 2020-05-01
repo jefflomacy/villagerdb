@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 2500
         }
-      ],
-      "name": {
-        "de": "Klimaanlage",
-        "en-GB": "Air Conditioner",
-        "en-US": "Air Conditioner",
-        "es": "Aire acondicionado",
-        "fr": "Climatiseur",
-        "it": "Condizionatore aria",
-        "ja": "エアコン"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -50,19 +41,6 @@
         "pink": "Pink",
         "blue": "Blue",
         "brown": "Brown"
-      },
-      "name": {
-        "en-US": "Air Conditioner",
-        "en-GB": "Air Conditioner",
-        "de": "Klimaanlage",
-        "es": "Aire acondicionado",
-        "fr": "Climatiseur",
-        "it": "Condizionatore d'aria",
-        "nl": "Airconditioner",
-        "zh-CN": "空调",
-        "zh-TW": "空調",
-        "jp": "エアコン",
-        "ko": "에어컨"
       }
     }
   }

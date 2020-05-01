@@ -21,16 +21,7 @@
           "currency": "bells",
           "value": 480
         }
-      ],
-      "name": {
-        "de": "Bärenmütze",
-        "en-GB": "Bear Cap",
-        "en-US": "Bear Cap",
-        "es": "Gorro de oso",
-        "fr": "Cagoule ours",
-        "it": "Cappello orso",
-        "ja": "クマのかぶりもの"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +43,6 @@
         "black": "Black",
         "pink": "Pink",
         "blue": "Blue"
-      },
-      "name": {
-        "en-US": "Bear Cap",
-        "en-GB": "Bear Cap",
-        "de": "Bärenmütze",
-        "es": "Gorro de oso",
-        "fr": "Cagoule ours",
-        "it": "Cappello da orso",
-        "nl": "Berenmuts",
-        "zh-CN": "熊头套",
-        "zh-TW": "熊頭套",
-        "jp": "クマのかぶりもの",
-        "ko": "곰 모자"
       }
     }
   }

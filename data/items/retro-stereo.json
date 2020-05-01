@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 5500
         }
-      ],
-      "name": {
-        "de": "Retro-Anlage",
-        "en-GB": "Retro Stereo",
-        "en-US": "Retro Stereo",
-        "es": "Cadena retro",
-        "fr": "Hi-fi rétro",
-        "it": "Vecchio stereo",
-        "ja": "レトロなステレオ"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -49,19 +40,6 @@
       "variations": {
         "black": "Black",
         "brown": "Brown"
-      },
-      "name": {
-        "en-US": "Retro Stereo",
-        "en-GB": "Retro Stereo",
-        "de": "Retro-Anlage",
-        "es": "Cadena retro",
-        "fr": "Hi-Fi rétro",
-        "it": "Stereo rétro",
-        "nl": "Retrostereo",
-        "zh-CN": "复古立体音响",
-        "zh-TW": "復古立體音響",
-        "jp": "レトロなステレオ",
-        "ko": "복고풍 스테레오"
       }
     }
   }

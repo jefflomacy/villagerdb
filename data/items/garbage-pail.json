@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 1100
         }
-      ],
-      "name": {
-        "de": "Abfalltonne",
-        "en-GB": "Garbage Pail",
-        "en-US": "Garbage Pail",
-        "es": "Cubo de desechos",
-        "fr": "Conteneur à ordures",
-        "it": "Secchio rifiuti",
-        "ja": "ペール"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -42,20 +33,7 @@
           "currency": "bells",
           "value": 1000
         }
-      ],
-      "name": {
-        "en-US": "Garbage Pail",
-        "en-GB": "Garbage Pail",
-        "de": "Abfalltonne",
-        "es": "Cubo de desechos",
-        "fr": "Conteneur à ordures",
-        "it": "Secchio dei rifiuti",
-        "nl": "Plastic vuilnisemmer",
-        "zh-CN": "塑胶桶",
-        "zh-TW": "塑膠桶",
-        "jp": "ペール",
-        "ko": "뚜껑 쓰레기통"
-      }
+      ]
     }
   }
 }

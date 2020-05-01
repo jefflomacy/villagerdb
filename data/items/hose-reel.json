@@ -25,10 +25,7 @@
           "currency": "meow",
           "value": 5
         }
-      ],
-      "name": {
-        "en-US": "Hose Reel"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -52,19 +49,6 @@
         "green": "Green",
         "blue": "Blue",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Hose Reel",
-        "en-GB": "Hose Reel",
-        "de": "Gartenschlauch",
-        "es": "Manguera de jardín",
-        "fr": "Dévidoir",
-        "it": "Tubo da giardino",
-        "nl": "Haspel",
-        "zh-CN": "卷管器",
-        "zh-TW": "捲管器",
-        "jp": "ホースリール",
-        "ko": "호스 릴"
       }
     }
   }

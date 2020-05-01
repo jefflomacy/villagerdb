@@ -29,10 +29,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "en-US": "Modern Wood Wall"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -44,19 +41,6 @@
         "wood": 5,
         "softwood": 5,
         "hardwood": 5
-      },
-      "name": {
-        "en-US": "Modern Wood Wall",
-        "en-GB": "Modern Wood Wall",
-        "de": "Buntholzwand",
-        "es": "Pared listones",
-        "fr": "Mur bois moderne",
-        "it": "Muro legno",
-        "nl": "Moderne houten wand",
-        "zh-CN": "拼木墙",
-        "zh-TW": "拼木牆",
-        "jp": "ミックスウッドのかべ",
-        "ko": "믹스우드 벽"
       }
     }
   }

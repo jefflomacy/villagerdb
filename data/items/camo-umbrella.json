@@ -17,10 +17,7 @@
           "currency": "bells",
           "value": 320
         }
-      ],
-      "name": {
-        "en-US": "Camo Umbrella"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -32,20 +29,7 @@
           "currency": "bells",
           "value": 650
         }
-      ],
-      "name": {
-        "en-US": "Camo Umbrella",
-        "en-GB": "Camo Umbrella",
-        "de": "Tarnschirm",
-        "es": "Paraguas camuflaje",
-        "fr": "Parapluie camouflage",
-        "it": "Ombrello mimetico",
-        "nl": "Camouflageparaplu",
-        "zh-CN": "迷彩雨伞",
-        "zh-TW": "迷彩雨傘",
-        "jp": "めいさいのかさ",
-        "ko": "밀리터리 우산"
-      }
+      ]
     }
   }
 }

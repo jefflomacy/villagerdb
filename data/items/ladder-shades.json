@@ -17,10 +17,7 @@
       },
       "sources": [
         "Summer Solstice (Isabelle)"
-      ],
-      "name": {
-        "en-US": "Ladder Shades"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -40,19 +37,6 @@
         "pink": "Pink",
         "yellow": "Yellow",
         "gold": "Gold"
-      },
-      "name": {
-        "en-US": "Ladder Shades",
-        "en-GB": "Ladder Shades",
-        "de": "Lamellenbrille",
-        "es": "Gafa de rejilla",
-        "fr": "Monture stores",
-        "it": "Montatura a tapparella",
-        "nl": "Lamellenbril",
-        "zh-CN": "百叶窗墨镜",
-        "zh-TW": "百葉窗墨鏡",
-        "jp": "ブラインドサングラス",
-        "ko": "블라인드 선글라스"
       }
     }
   }

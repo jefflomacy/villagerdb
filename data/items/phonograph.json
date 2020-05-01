@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 1840
         }
-      ],
-      "name": {
-        "de": "Grammofon",
-        "en-GB": "Phonograph",
-        "en-US": "Phonograph",
-        "es": "Fonógrafo",
-        "fr": "Phonographe",
-        "it": "Fonografo",
-        "ja": "ちくおんき"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -41,20 +32,7 @@
           "currency": "bells",
           "value": 53000
         }
-      ],
-      "name": {
-        "en-US": "Phonograph",
-        "en-GB": "Phonograph",
-        "de": "Grammofon",
-        "es": "Fonógrafo",
-        "fr": "Phonographe",
-        "it": "Fonografo",
-        "nl": "Fonograaf",
-        "zh-CN": "留声机",
-        "zh-TW": "留聲機",
-        "jp": "ちくおんき",
-        "ko": "축음기"
-      }
+      ]
     }
   }
 }

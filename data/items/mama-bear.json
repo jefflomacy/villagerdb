@@ -22,16 +22,7 @@
           "currency": "bells",
           "value": 1600
         }
-      ],
-      "name": {
-        "de": "Mama-Bär",
-        "en-GB": "Mama Bear",
-        "en-US": "Mama Bear",
-        "es": "Mamá oso",
-        "fr": "Maman ours",
-        "it": "Mamma orsa",
-        "ja": "くまのナミちゃん"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -74,19 +65,6 @@
         "tweed-red-stripes": "Tweed / Red stripes",
         "tweed-blue-stripes": "Tweed / Blue stripes",
         "tweed-yellow-stripes": "Tweed / Yellow stripes"
-      },
-      "name": {
-        "en-US": "Mama Bear",
-        "en-GB": "Mama Bear",
-        "de": "Mama-Bär",
-        "es": "Mamá oso",
-        "fr": "Maman ours",
-        "it": "Mamma orsa",
-        "nl": "Mamabeer",
-        "zh-CN": "中熊熊",
-        "zh-TW": "中熊熊",
-        "jp": "くまのナミちゃん",
-        "ko": "중간 곰인형"
       }
     }
   }

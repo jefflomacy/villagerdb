@@ -23,16 +23,7 @@
           "currency": "meow",
           "value": 3
         }
-      ],
-      "name": {
-        "de": "Kartonbett",
-        "en-GB": "Cardboard Bed",
-        "en-US": "Cardboard Bed",
-        "es": "Cama cartón",
-        "fr": "Lit carton",
-        "it": "Letto scatolone",
-        "ja": "ダンボールベッド"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -47,19 +38,6 @@
       "variations": {
         "plain": "Plain",
         "labeled": "Labeled"
-      },
-      "name": {
-        "en-US": "Cardboard Bed",
-        "en-GB": "Cardboard Bed",
-        "de": "Kartonbett",
-        "es": "Cama de cartón",
-        "fr": "Lit en carton",
-        "it": "Letto scatolone",
-        "nl": "Kartonnen bed",
-        "zh-CN": "纸箱床铺",
-        "zh-TW": "紙箱床鋪",
-        "jp": "ダンボールベッド",
-        "ko": "박스 침대"
       }
     }
   }

@@ -11,10 +11,7 @@
       },
       "sources": [
         "In the sea."
-      ],
-      "name": {
-        "en-US": "Squid"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 500
-      },
-      "name": {
-        "en-US": "Squid",
-        "en-GB": "Squid",
-        "de": "Kalmar",
-        "es": "Calamar",
-        "fr": "Calmar",
-        "it": "Calamaro",
-        "nl": "Pijlinktvis",
-        "zh-CN": "鱿鱼",
-        "zh-TW": "魷魚",
-        "jp": "イカ",
-        "ko": "오징어"
       }
     }
   }

@@ -11,10 +11,7 @@
       },
       "sources": [
         "In the sea."
-      ],
-      "name": {
-        "en-US": "Olive Flounder"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 800
-      },
-      "name": {
-        "en-US": "Olive Flounder",
-        "en-GB": "Olive Flounder",
-        "de": "Flunder",
-        "es": "Rodaballo",
-        "fr": "Cardeau",
-        "it": "Sogliola",
-        "nl": "Bot",
-        "zh-CN": "比目鱼",
-        "zh-TW": "比目魚",
-        "jp": "ヒラメ",
-        "ko": "넙치"
       }
     }
   }

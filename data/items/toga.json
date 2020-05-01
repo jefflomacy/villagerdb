@@ -23,10 +23,7 @@
           "currency": "bells",
           "value": 640
         }
-      ],
-      "name": {
-        "en-US": "Toga"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -42,19 +39,6 @@
       "variations": {
         "red": "Red",
         "purple": "Purple"
-      },
-      "name": {
-        "en-US": "Toga",
-        "en-GB": "Toga",
-        "de": "Kaisertoga",
-        "es": "Toga",
-        "fr": "Toge romaine",
-        "it": "Toga",
-        "nl": "Toga",
-        "zh-CN": "罗马传统服装",
-        "zh-TW": "羅馬服",
-        "jp": "ローマなふく",
-        "ko": "로마풍 옷"
       }
     }
   }

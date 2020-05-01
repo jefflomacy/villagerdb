@@ -11,10 +11,7 @@
       },
       "sources": [
         "On palm trees."
-      ],
-      "name": {
-        "en-US": "Golden Stag"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -25,19 +22,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 12000
-      },
-      "name": {
-        "en-US": "Golden Stag",
-        "en-GB": "Golden Stag",
-        "de": "Allotopus rosenbergi",
-        "es": "Escarabajo ciervo tornasol",
-        "fr": "Lucane lamprima",
-        "it": "Coleottero dorato",
-        "nl": "Gouden hertkever",
-        "zh-CN": "黄金鬼锹形虫",
-        "zh-TW": "黃金鬼鍬形蟲",
-        "jp": "オウゴンオニクワガタ",
-        "ko": "황금사슴벌레"
       }
     }
   }

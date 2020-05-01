@@ -12,10 +12,7 @@
       "sources": [
         "In the air above freshwater (rivers",
         "etc.)."
-      ],
-      "name": {
-        "en-US": "Firefly"
-      }
+      ]
     },
     "nh": {
       "orderable": false,
@@ -26,19 +23,6 @@
       "sellPrice": {
         "currency": "bells",
         "value": 300
-      },
-      "name": {
-        "en-US": "Firefly",
-        "en-GB": "Firefly",
-        "de": "Leuchtkäfer",
-        "es": "Luciérnaga",
-        "fr": "Luciole",
-        "it": "Lucciola",
-        "nl": "Vuurvliegje",
-        "zh-CN": "萤火虫",
-        "zh-TW": "螢火蟲",
-        "jp": "ホタル",
-        "ko": "반디"
       }
     }
   }

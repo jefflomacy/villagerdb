@@ -18,16 +18,7 @@
           "currency": "bells",
           "value": 1600
         }
-      ],
-      "name": {
-        "de": "Bürotisch",
-        "en-GB": "Office Desk",
-        "en-US": "Office Desk",
-        "es": "Mesa oficina",
-        "fr": "Bureau pro",
-        "it": "Scrivania",
-        "ja": "じむづくえ"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -45,19 +36,6 @@
         "beige-white": "Beige & white",
         "brown-black": "Brown & black",
         "gray": "Gray"
-      },
-      "name": {
-        "en-US": "Office Desk",
-        "en-GB": "Office Desk",
-        "de": "Bürotisch",
-        "es": "Mesa de oficina",
-        "fr": "Bureau pro",
-        "it": "Scrivania da ufficio",
-        "nl": "Kantoorbureau",
-        "zh-CN": "办公室桌子",
-        "zh-TW": "辦公室桌子",
-        "jp": "オフィスのデスク",
-        "ko": "사무용 책상"
       }
     }
   }

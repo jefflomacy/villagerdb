@@ -27,10 +27,7 @@
           "currency": "meow",
           "value": 5
         }
-      ],
-      "name": {
-        "en-US": "Garbage Bin"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -51,19 +48,6 @@
         "white": "White",
         "red": "Red",
         "blue": "Blue"
-      },
-      "name": {
-        "en-US": "Garbage Bin",
-        "en-GB": "Garbage Bin",
-        "de": "Wertstofftonne",
-        "es": "Contenedor de basura",
-        "fr": "Poubelle roulettes",
-        "it": "Bidone con ruote",
-        "nl": "Vuilcontainer",
-        "zh-CN": "可推式垃圾桶",
-        "zh-TW": "可推式垃圾桶",
-        "jp": "キャスターペール",
-        "ko": "이동식 쓰레기통"
       }
     }
   }

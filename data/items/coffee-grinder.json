@@ -14,16 +14,7 @@
       },
       "sources": [
         "Brewster (work at The Roost)"
-      ],
-      "name": {
-        "de": "Kaffeemühle",
-        "en-GB": "Coffee Grinder",
-        "en-US": "Coffee Grinder",
-        "es": "Molinillo de café",
-        "fr": "Moulin à café",
-        "it": "Macinino per caffè",
-        "ja": "コーヒーミル"
-      }
+      ]
     },
     "nh": {
       "orderable": true,
@@ -40,20 +31,7 @@
           "currency": "bells",
           "value": 2200
         }
-      ],
-      "name": {
-        "en-US": "Coffee Grinder",
-        "en-GB": "Coffee Grinder",
-        "de": "Kaffeemühle",
-        "es": "Molinillo de café",
-        "fr": "Moulin à café",
-        "it": "Macinino per caffè",
-        "nl": "Koffiemolen",
-        "zh-CN": "咖啡磨豆机",
-        "zh-TW": "咖啡磨豆機",
-        "jp": "コーヒーミル",
-        "ko": "커피밀"
-      }
+      ]
     }
   }
 }

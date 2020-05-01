@@ -21,10 +21,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "I Love You"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -36,21 +33,7 @@
           "currency": "bells",
           "value": 3200
         }
-      ],
-      "name": {
-        "en-US": "I Love You",
-        "en-GB": "I Love You",
-        "de": "Ich liebe dich",
-        "es": "Te quiero",
-        "fr": "Je vous aime",
-        "it": "Ti amo",
-        "nl": "Ik hou van jou",
-        "zh-CN": "我爱你",
-        "zh-TW": "我愛你",
-        "jp": "だいすき",
-        "ko": "사랑해",
-        "ru": "Я вас люблю"
-      }
+      ]
     }
   }
 }

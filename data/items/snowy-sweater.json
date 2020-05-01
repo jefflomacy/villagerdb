@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Winterstrickjacke",
-        "en-GB": "Snowy Sweater",
-        "en-US": "Snowy Sweater",
-        "es": "Chaqueta de lana",
-        "fr": "Pull nordique",
-        "it": "Maglione nordico",
-        "ja": "アイスランドなセーター"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -46,19 +37,6 @@
         "gray": "Gray",
         "blue": "Blue",
         "black": "Black"
-      },
-      "name": {
-        "en-US": "Snowy Sweater",
-        "en-GB": "Snowy Sweater",
-        "de": "Winterstrickpulli",
-        "es": "Jersey copos",
-        "fr": "Chandail neige",
-        "it": "Maglione nevoso",
-        "nl": "Sneeuwvlokkentrui",
-        "zh-CN": "雪花毛衣",
-        "zh-TW": "下雪毛衣",
-        "jp": "スノーセーター",
-        "ko": "스노 스웨터"
       }
     }
   }

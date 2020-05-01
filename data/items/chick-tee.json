@@ -20,16 +20,7 @@
           "currency": "bells",
           "value": 420
         }
-      ],
-      "name": {
-        "de": "Kükenshirt",
-        "en-GB": "Chick Tee",
-        "en-US": "Chick Tee",
-        "es": "Camiseta pollitos",
-        "fr": "T-shirt poussins",
-        "it": "Maglietta pulcini",
-        "ja": "ひよこのふく"
-      }
+      ]
     },
     "nh": {
       "sellPrice": {
@@ -44,19 +35,6 @@
       ],
       "variations": {
         "blue": "Blue"
-      },
-      "name": {
-        "en-US": "Chick Tee",
-        "en-GB": "Chick Tee",
-        "de": "Kükenshirt",
-        "es": "Camiseta pollitos",
-        "fr": "T-Shirt poussins",
-        "it": "Maglietta pulcini",
-        "nl": "Kuikentjes-T-Shirt",
-        "zh-CN": "小鸡T恤",
-        "zh-TW": "小雞T恤",
-        "jp": "ひよこがらＴシャツ",
-        "ko": "병아리무늬 티셔츠"
       }
     }
   }

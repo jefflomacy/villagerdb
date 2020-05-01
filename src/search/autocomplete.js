@@ -2,16 +2,91 @@ import $ from "jquery";
 import _ from 'underscore';
 
 /**
+ * Up arrow key code.
+ * @type {number}
+ */
+const UP_KEYCODE = 38;
+
+/**
+ * Down arrow key code.
+ * @type {number}
+ */
+const DOWN_KEYCODE = 40;
+
+/**
+ * Escape keycode.
+ * @type {number}
+ */
+const ESC_KEYCODE = 27;
+
+/**
  * The currently-executing request. We cancel it if concurrent ones are happening.
  */
 let currentRequest;
 
 $(document).ready(() => {
     /**
+     * Autocomplete unordered list
+     * @type {jQuery|HTMLElement}
+     */
+    const dataList = $('#autocomplete-items');
+
+    /**
+     * Up/down arrow and escape key handler for autocomplete items
+     * @param e
+     */
+    const keyDownHandler = (e) => {
+        if (e.keyCode === UP_KEYCODE || e.keyCode === DOWN_KEYCODE) {
+            // Prevent cursor from jumping to the start or end of query in the search box
+            e.preventDefault();
+
+            // The "selected" class indicates the currently selected item
+            const currentSelected = $('#autocomplete-items li.selected');
+            let newSelected;
+            // If there is an item currently selected, cycle through the list
+            // Otherwise, select the top or bottom one depending on the key pressed
+            if (currentSelected.length > 0) {
+                currentSelected.removeClass('selected');
+                const items = currentSelected.parent().children();
+                if (e.keyCode === UP_KEYCODE) {
+                    newSelected = items.eq((items.index(currentSelected) - 1) % items.length)
+                } else { // down
+                    newSelected = items.eq((items.index(currentSelected) + 1) % items.length)
+                }
+            } else {
+                if (e.keyCode === UP_KEYCODE) {
+                    newSelected = $('#autocomplete-items li').last();
+                } else { // down
+                    newSelected = $('#autocomplete-items li').first();
+                }
+            }
+
+            // If we have a new selection...
+            if (newSelected && newSelected.length > 0) {
+                newSelected.addClass('selected');
+                $('#q').val(newSelected.text());
+            }
+        } else if (e.keyCode === ESC_KEYCODE) {
+            // Just make the list go away.
+            e.preventDefault();
+            hideList();
+        }
+    }
+
+    /**
+     * Make the list visible.
+     */
+    const showList = () => {
+        $(window).on('keydown', keyDownHandler);
+        dataList.show();
+    };
+
+    /**
      * Make the list invisible.
      */
     const hideList = () => {
-        $('#autocomplete-items').hide();
+        $(window).off('keydown');
+        dataList.hide();
     };
 
     /**
@@ -20,8 +95,7 @@ $(document).ready(() => {
      */
     const fillAutoComplete = (e) => {
         // Hide the list until we have results.
-        const dataList = $('#autocomplete-items');
-        dataList.hide();
+        hideList();
 
         // Only continue if we have something to search for.
         const q = $(e.target).val().trim();
@@ -51,7 +125,7 @@ $(document).ready(() => {
                     }
 
                     // Show it once filled.
-                    dataList.show();
+                    showList();
                     currentRequest = undefined;
                 },
                 error: function() {
@@ -80,4 +154,5 @@ $(document).ready(() => {
 
     // On lost focus, destroy the list.
     $('body').on('click', hideList);
+
 });

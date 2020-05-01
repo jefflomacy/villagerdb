@@ -243,3 +243,31 @@ function listSortComparator(a, b) {
     }
 }
 module.exports.listSortComparator = listSortComparator;
+
+/**
+ * Comparator function for sorting user list items.
+ * @param a
+ * @param b
+ * @returns {number}
+ */
+function listItemSortComparator(a, b) {
+    if (a.id < b.id) {
+        return -1;
+    } else if (a.id > b.id) {
+        return 1;
+    }
+
+    // If we're still here, and there's a variation ID, sort on it.
+    if (a.variationId && b.variationId) {
+        if (a.variationId < b.variationId) {
+            return -1;
+        } else if (a.variationId > b.variationId) {
+            return 1;
+        }
+    } else if (!a.variationId && b.variationId) {
+        return -1;
+    } else if (a.variationId && !b.variationId) {
+        return 1;
+    }
+}
+module.exports.listItemSortComparator = listItemSortComparator;

@@ -1,0 +1,37 @@
+@import 'color.less';
+
+.user-list-view {
+  li {
+    border: 1px solid #ccc;
+  }
+
+  li:nth-child(even) {
+    background: #eee;
+  }
+
+  li.list-compare-present,
+  li.list-compare-present:nth-child(even) {
+    background-color: @successBackground;
+  }
+
+  li.list-compare-missing,
+  li.list-compare-missing:nth-child(even) {
+    background-color: @errorBackground;
+  }
+}
+
+.compare-key-chart {
+  .compare-key-block {
+    border: 1px solid #ccc;
+    width: 20px;
+    height: 20px;
+  }
+
+  .compare-key-missing {
+    background-color: @errorBackground;
+  }
+
+  .compare-key-present {
+    background-color: @successBackground;
+  }
+}

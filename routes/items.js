@@ -21,6 +21,18 @@ const browse = require('./abstract-browser');
 const sanitize = require('../helpers/sanitize');
 
 /**
+ * Bushes and trees are used twice - once at /bushes and again at /bushes-trees
+ * @type {{}}
+ */
+const bushesAndTreesDefinition = {
+    filter: {
+        category: ['Bushes and Trees']
+    },
+    pageTitle: 'Bushes & Trees',
+    pageDescription: 'All plantable bushes and trees that do not bear fruit.'
+};
+
+/**
  * Map of URL slug to fixed query parameter to ElasticSearch.
  * @type {{}}
  */
@@ -58,19 +70,8 @@ const categories = {
         },
         pageDescription: 'Flying, creeping and crawling; all of the bugs you need are here.'
     },
-    bushes: {
-        filter: {
-            category: ['Bushes']
-        },
-        pageDescription: 'Everyone\'s favorite alternative to fences.'
-    },
-    'bushes-trees': {
-        filter: {
-            category: ['Trees']
-        },
-        pageTitle: 'Bushes & Trees',
-        pageDescription: 'All plantable bushes and trees that do not bear fruit.'
-    },
+    bushes: bushesAndTreesDefinition, // kept around to prevent 404
+    'bushes-trees': bushesAndTreesDefinition,
     dresses: {
         filter: {
             category: ['Dresses']

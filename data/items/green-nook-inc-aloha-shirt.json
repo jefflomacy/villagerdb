@@ -1,0 +1,23 @@
+{
+  "id": "green-nook-inc-aloha-shirt",
+  "name": "Green Nook Inc. Aloha Shirt",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Nook Miles Rewards"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3000
+      },
+      "buyPrices": [
+        {
+          "currency": "miles",
+          "value": 600
+        }
+      ]
+    }
+  },
+  "category": "Tops"
+}

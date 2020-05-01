@@ -4,14 +4,11 @@
             <label class="sr-only" for="q">Search for a villager or item</label>
             <input type="hidden" name="game" value="nh"/>
             <input type="text" class="form-control" maxlength="64" id="q" name="q"
-                   placeholder="Item or villager name" autoComplete="off" list="qautocomplete"
-                   value="{{searchQuery}}"/>
+                   placeholder="Item or villager name" autoComplete="off" value="{{searchQuery}}"/>
             <ul id="autocomplete-items" style="display: none;"></ul>
             <span class="input-group-btn">
                 <button class="btn btn-primary" type="submit"><span class="fas fa-search"></span></button>
             </span>
-            <datalist id="qautocomplete">
-            </datalist>
         </div>
     </form>
 </div>

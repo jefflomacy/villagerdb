@@ -3,6 +3,9 @@
         <li class="list-inline-item">
             <a href="{{shareUrl}}" class="btn btn-primary linking-button">
                 <span class="fas fa-link"></span>
+                {{#if text}}
+                    <span>{{text}}</span>
+                {{/if}}
                 <span class="sr-only">Copy link</span>
             </a>
         </li>

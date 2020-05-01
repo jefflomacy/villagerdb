@@ -1,0 +1,16 @@
+{
+  "id": "rovers-briefcase",
+  "name": "Rover's Briefcase",
+  "games": {
+    "nh": {
+      "sources": [
+        "Complete May Day tour maze"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2000
+      }
+    }
+  },
+  "category": "Furniture"
+}

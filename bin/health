@@ -12,20 +12,20 @@ const urlHelper = require('../helpers/url');
  * @param variationId
  */
 function reportOnImage(entityId, variationId) {
-    const output = [];
+    const missing = [];
 
     const imageData = urlHelper.getEntityImageData(urlHelper.ITEM, entityId, variationId, false);
     if (!imageData.full) {
-        output.push('Missing full image.');
+        missing.push('full');
     }
     if (!imageData.medium) {
-        output.push('Missing medium image.');
+        missing.push('medium');
     }
     if (!imageData.thumb) {
-        output.push('Missing thumb image');
+        missing.push('thumb');
     }
 
-    return output;
+    return missing;
 }
 
 /**
@@ -42,24 +42,21 @@ function itemHealthReport() {
         const baseOutput = reportOnImage(parsed.id);
         let basePrinted = false;
         if (baseOutput.length > 0) {
-            console.log(parsed.id + ' (games: ' + games + '):');
+            console.log(parsed.id + ' (games: ' + games + '): Missing ' + baseOutput.join(', '));
             basePrinted = true;
-            for (let o of baseOutput) {
-                console.log('\t' + o);
-            }
         }
-        // Check variants - NH only
+        // Check variants - NH only - and only if more than one
         if (parsed.games.nh && parsed.games.nh.variations) {
-            for (let variationId of Object.keys(parsed.games.nh.variations)) {
-                const variationOutput = reportOnImage(parsed.id, variationId);
-                if (variationOutput.length > 0) {
-                    if (!basePrinted) {
-                        console.log(parsed.id + ' (games: ' + games + '):');
-                        basePrinted = true;
-                    }
-                    console.log('\t' + variationId + ':');
-                    for (let o of variationOutput) {
-                        console.log('\t\t' + o);
+            const variationList = Object.keys(parsed.games.nh.variations);
+            if (variationList.length > 1) {
+                for (let variationId of variationList) {
+                    const variationOutput = reportOnImage(parsed.id, variationId);
+                    if (variationOutput.length > 0) {
+                        if (!basePrinted) {
+                            console.log(parsed.id + ' (games: ' + games + '):');
+                            basePrinted = true;
+                        }
+                        console.log('\t' + variationId + ': Missing ' + variationOutput.join(', '));
                     }
                 }
             }

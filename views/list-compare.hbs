@@ -1,0 +1,57 @@
+{{> rev-unit1 }}
+
+<h1>
+    {{listName}}
+</h1>
+
+<small class="text-muted">
+    comparing <a target="_blank" href="/user/{{author}}/list/{{listId}}">{{listName}}</a>
+    by <a href="/user/{{author}}">{{author}}</a> against
+    <a target="_blank" href="/user/{{otherAuthor}}/list/{{otherListId}}">{{otherListName}}</a>
+    by <a href="/user/{{otherAuthor}}">{{otherAuthor}}</a>
+</small>
+
+<div class="text-right">
+    {{> social-media shareUrl=shareUrl showCopyButton=true }}
+</div>
+
+{{#if allShared}}
+    <div class="alert alert-info" role="alert">
+        This list is the same as <strong>{{otherListName}}</strong>.
+    </div>
+{{else if noneShared}}
+    <div class="alert alert-info" role="alert">
+        This list has nothing in common with <strong>{{otherListName}}</strong>.
+    </div>
+{{/if}}
+{{#if entities}}
+    <div class="text-right mb-2 compare-key-chart">
+        <div>Color key:</div>
+        <div class="d-flex align-items-center justify-content-end">
+            <div class="mr-2">In both lists</div>
+            <div class="compare-key-block"></div>
+        </div>
+        <div class="d-flex align-items-center justify-content-end">
+            <div class="mr-2">Only in <strong>{{listName}}</strong></div>
+            <div class="compare-key-block compare-key-present"></div>
+        </div>
+        <div class="d-flex align-items-center justify-content-end">
+            <div class="mr-2">Not in <strong>{{listName}}</strong></div>
+            <div class="compare-key-block compare-key-missing"></div>
+        </div>
+    </div>
+    {{> user/list-search placeholder="Search this comparison" }}
+    <ul class="list-group mb-4 user-list-view">
+        {{#each entities}}
+            <li class="list-compare-{{compareStatus}} list-group-item d-flex justify-content-between align-items-center" data-name="{{name}} {{variation}}">
+                <div>
+                    <a href="/{{type}}/{{id}}" class="no-link-underline">
+                        <img src="{{image}}" alt="Picture of {{name}}"
+                             class="img-responsive" style="max-width: 50px;">
+                    </a>
+                    <a href="/{{type}}/{{id}}" class="ml-2">{{name}}</a> {{variation}}
+                </div>
+            </li>
+        {{/each}}
+    </ul>
+{{/if}}

@@ -5,20 +5,37 @@
         <a href="/list/rename/{{listId}}"
            class="btn btn-secondary btn-sm" role="button">
             <span class="fa fa-edit"></span>
-            <span class="sr-only">Edit List Name</span>
+            Rename
         </a>
     {{/if}}
 </h1>
 <p><small class="text-muted">by <a href="/user/{{author}}">{{author}}</a></small></p>
 <div class="text-right">
-    {{> social-media shareUrl=shareUrl showCopyButton=true }}
+    <div class="btn-group mr-4 float-left">
+        <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Compare to...
+        </button>
+        <div class="dropdown-menu">
+            {{#if loggedInUserLists}}
+                {{#each loggedInUserLists}}
+                    <a class="dropdown-item"
+                       href="/user/{{../userState.username}}/list/{{id}}/compare/{{../author}}/{{../listId}}">
+                        {{name}}
+                    </a>
+                {{/each}}
+            {{/if}}
+            <a class="dropdown-item" href="/list/create">New list...</a>
+        </div>
+    </div>
+    {{> social-media shareUrl=shareUrl showCopyButton=true}}
 </div>
 {{#if isOwnUser}}
-    <div class="alert alert-primary mb-4">
-        Tip: You can add a specific color or type of item to your wishlist by going to the item's detail page. On the
-        item page, select the variation you want from the dropdown and then add it to your wishlist by clicking the
-        <span class="font-weight-bold"><span class="fa fa-plus"></span> List</span> button.
-    </div>
+    {{#unless isEmpty}}
+        <div class="alert alert-primary mb-4">
+            <span style="font-weight: bold; color: red">New!</span> Share a picture of your wishlist by
+            <a href="#image-maker">clicking here</a>!
+        </div>
+    {{/unless}}
 {{/if}}
 {{#if isEmpty}}
     <p>
@@ -29,14 +46,15 @@
         {{/if}}
     </p>
 {{else}}
-    <p class="text-right">{{countText}}</p>
-    <ul class="list-group">
+    {{> user/list-search }}
+    <p id="user-list-size" class="text-right" data-orig-text="{{countText}}">{{countText}}</p>
+    <ul class="list-group user-list-view">
         {{#each entities}}
-            <li class="list-group-item d-flex justify-content-between align-items-center">
+            <li class="list-group-item d-flex justify-content-between align-items-center" data-name="{{name}} {{variation}}">
                 <div>
                     <a href="/{{type}}/{{id}}" class="no-link-underline">
                         <img src="{{image}}" alt="Picture of {{name}}"
-                             class="img-responsive" style="max-width: 50px;">
+                             class="img-responsive user-list-image" style="max-width: 50px;">
                     </a>
                     <a href="/{{type}}/{{id}}" class="ml-2">{{name}}</a> {{variation}}
                 </div>
@@ -52,6 +70,22 @@
             </li>
         {{/each}}
     </ul>
+
+    {{#if isOwnUser}}
+        <div id="image-maker">
+            <h2 class="mt-4">Spread your list!</h2>
+            <p>Click the &quot;Create Image&quot; button below, then save your image and share it!</p>
+            <p class="text-center">
+                <button type="button" class="btn btn-primary" id="generate-image-button"
+                        data-user-name="{{author}}" data-list-name="{{listName}}">Create Image</button>
+            </p>
+
+            <canvas id="generated-list-image" width="500" height="333"
+                    style="display: none;"></canvas>
+
+            <img id="canvas-target" class="d-block" style="margin: 0 auto; max-width: 100%; height: auto; display: none;">
+        </div>
+    {{/if}}
 
     {{#if displayUnit2 }}
         {{> rev-unit2 }}

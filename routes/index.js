@@ -9,7 +9,7 @@ router.get('/', function(req, res, next) {
     birthdays.getBirthdays()
         .then((birthdays) => {
             res.render('index', {
-                pageTitle: 'Home',
+                pageDescription: 'The largest Animal Crossing item, villager database and wishlist maker on the internet.',
                 birthdays: birthdays,
                 shouldDisplayBirthdays: birthdays.length > 0
             });

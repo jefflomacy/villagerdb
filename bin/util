@@ -26,18 +26,11 @@ async function generateSitemap() {
 function computeTags(item) {
     const tags = [];
 
-    // Check if craftable.
+    // Check if craftable - TODO dont like the way this is done but need 2 options to show as filterable!
     if (item.games && item.games.nh && item.games.nh.recipe && Object.keys(item.games.nh.recipe).length > 0) {
         tags.push('Craftable');
-    }
-
-    // Check if orderable
-    let orderable = false;
-    for (let game in item.games) {
-        orderable = orderable || item.games[game].orderable ? true : false;
-    }
-    if (orderable) {
-        tags.push('Orderable');
+    } else if (item.games && item.games.nh) {
+        tags.push('Not Craftable');
     }
 
     if (tags.length > 0) {

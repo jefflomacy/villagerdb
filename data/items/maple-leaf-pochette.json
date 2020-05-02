@@ -8,6 +8,9 @@
         "currency": "bells",
         "value": 2400
       },
+      "recipe": {
+        "maple-leaf": 6
+      },
       "variations": {
         "red": "Red"
       }

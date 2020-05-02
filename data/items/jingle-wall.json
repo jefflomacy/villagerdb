@@ -33,7 +33,13 @@
           "currency": "bells",
           "value": 10000
         }
-      ]
+      ],
+      "recipe": {
+        "red-ornament": 5,
+        "blue-ornament": 5,
+        "gold-ornament": 5,
+        "clay": 5
+      }
     }
   }
 }

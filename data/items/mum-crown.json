@@ -13,6 +13,11 @@
           "value": 1920
         }
       ],
+      "recipe": {
+        "red-mums": 2,
+        "yellow-mums": 2,
+        "white-mums": 2
+      },
       "variations": {
         "colorful": "Colorful"
       }

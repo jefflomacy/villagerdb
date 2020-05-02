@@ -34,6 +34,12 @@
       "sellPrice": {
         "currency": "bells",
         "value": 22125
+      },
+      "recipe": {
+        "star-fragment": 3,
+        "aquarius-fragment": 2,
+        "gold-nugget": 2,
+        "stone": 5
       }
     }
   }

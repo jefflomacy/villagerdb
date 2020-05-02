@@ -13,6 +13,9 @@
           "value": 4000
         }
       ],
+      "recipe": {
+        "cherry": 5
+      },
       "variations": {
         "red": "Red"
       }

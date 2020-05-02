@@ -13,6 +13,9 @@
           "value": 3200
         }
       ],
+      "recipe": {
+        "black-tulips": 5
+      },
       "variations": {
         "dark-red": "Dark red"
       }

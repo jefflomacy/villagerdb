@@ -13,6 +13,10 @@
           "value": 4480
         }
       ],
+      "recipe": {
+        "pink-cosmos": 4,
+        "orange-cosmos": 3
+      },
       "variations": {
         "colorful": "Colorful"
       }

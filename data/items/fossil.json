@@ -12,6 +12,16 @@
       "sources": [
         "Dig spot"
       ]
+    },
+    "nh": {
+      "orderable": false,
+      "sellPrice": {
+        "currency": "bells",
+        "value": 100
+      },
+      "sources": [
+        "Dig spot"
+      ]
     }
   }
 }

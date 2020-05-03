@@ -79,14 +79,16 @@ class Browser extends React.Component {
                                        startIndex={this.state.startIndex}
                                        endIndex={this.state.endIndex}
                                        totalCount={this.state.totalCount}
-                                       totalPages={this.state.totalPages}/>
+                                       totalPages={this.state.totalPages}
+                                       topAnchor="#browser" />
                             <SearchResults results={this.state.results} />
                             <Paginator onPageChange={this.setPage}
                                        currentPage={this.state.currentPage}
                                        startIndex={this.state.startIndex}
                                        endIndex={this.state.endIndex}
                                        totalCount={this.state.totalCount}
-                                       totalPages={this.state.totalPages}/>
+                                       totalPages={this.state.totalPages}
+                                       topAnchor="#browser" />
                         </div>
                     </div>
                 </div>

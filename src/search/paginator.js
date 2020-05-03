@@ -1,4 +1,5 @@
 import React from "react";
+import $ from 'jquery'
 
 /**
  *
@@ -30,13 +31,13 @@ export default class Paginator extends React.Component {
         if (this.props.currentPage === 1) {
             previousPageLink = (
                 <li className="page-item disabled">
-                    <a className="page-link" href="#browser" tabIndex="-1">Previous page</a>
+                    <a className="page-link" href="#" tabIndex="-1">Previous page</a>
                 </li>
             );
         } else {
             previousPageLink = (
                 <li className="page-item">
-                    <a className="page-link" href="#browser"
+                    <a className="page-link" href="#"
                        onClick={this.previousPage}
                        tabIndex="-1">
                         Previous page
@@ -76,14 +77,28 @@ export default class Paginator extends React.Component {
     }
 
     previousPage(e) {
+        e.preventDefault();
+        this.scrollToTop();
         if (this.props.currentPage > 1) {
             this.props.onPageChange(this.props.currentPage - 1);
         }
     }
 
     nextPage(e) {
+        e.preventDefault();
+        this.scrollToTop();
         if (this.props.currentPage < this.props.totalPages) {
             this.props.onPageChange(this.props.currentPage + 1);
+        }
+    }
+
+    /**
+     * Return user to the top of the browser (not top of page) on page change.
+     */
+    scrollToTop() {
+        const offset = $(this.props.topAnchor).offset();
+        if (offset && offset.top) {
+            $('html, body').scrollTop(offset.top);
         }
     }
 }

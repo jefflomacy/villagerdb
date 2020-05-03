@@ -37,9 +37,10 @@ async function loadUser(username) {
  *
  * @param username
  * @param listId
+ * @param loggedInUser
  * @returns {Promise<{}|null>}
  */
-async function loadList(username, listId, loggedInUserId) {
+async function loadList(username, listId, loggedInUser) {
     const result = {};
     const list = await lists.getListById(username, listId);
     if (list == null || typeof list.entities !== 'object') {
@@ -95,11 +96,17 @@ async function loadList(username, listId, loggedInUserId) {
     result.pageDescription = 'View ' + list.name + ', a list by ' + username + ' containing ' + result.countText;
 
     // Handle logged in users lists for compare button
-    if (loggedInUserId) {
-        let loggedInUserLists = await lists.getListsByUser(loggedInUserId);
+    if (typeof loggedInUser === 'object' && loggedInUser.id && loggedInUser.username) {
+        let loggedInUserLists = await lists.getListsByUser(loggedInUser.id);
         if (loggedInUserLists) {
             loggedInUserLists = loggedInUserLists
-                .filter((u) => u.id !== listId)
+                .filter((u) => {
+                    if (username === loggedInUser.username) {
+                        return u.id !== listId; // only filter out list if its the same logged in user
+                    } else {
+                        return true; // include all
+                    }
+                })
                 .map((u) => {
                     return {
                         id: u.id,
@@ -180,7 +187,7 @@ router.get('/:username', function (req, res, next) {
  * Route for list.
  */
 router.get('/:username/list/:listId', (req, res, next) => {
-    loadList(req.params.username, req.params.listId, typeof req.user !== 'object' ? undefined : req.user.id)
+    loadList(req.params.username, req.params.listId, req.user)
         .then((data) => {
             if (!data) {
                 const e = new Error('No such list.');

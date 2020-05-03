@@ -122,6 +122,12 @@ class Items extends RedisStore {
                 throw new Error('Invalid ingredient id: ' + ingredient);
             }
 
+            // Make sure the map contains a number.
+            if (typeof map[ingredient] !== 'number' || isNaN(map[ingredient])) {
+                // Another serious failure. Stop indexing.
+                throw new Error('Ingredient item ' + ingredient + ' is not a number: ' + map[ingredient]);
+            }
+            
             recipeArray.push({
                 name: name,
                 url: url,
@@ -136,12 +142,13 @@ class Items extends RedisStore {
      * Builds a full recipe list from a map by recursively following the map down until only base items are in the
      * list of items.
      *
-     * @param map
-     * @param outputMap
-     * @param seenIds
+     * @param map the original input recipe
+     * @param outputMap the final result computed along the way
+     * @param seenIds ids we've already dived into to prevent re-looping
+     * @param itemMultiplier for non-base-case items, how many are required
      * @returns {Promise<*>}
      */
-    async buildFullRecipe(map, outputMap = {}, seenIds = {}) {
+    async buildFullRecipe(map, outputMap = {}, seenIds = {}, itemMultiplier = 1) {
         // For every non-base item, call ourselves. For every base item, add it to the output map.
         for (let ingredient of Object.keys(map)) {
             // Is it an ingredient item that has a recipe?
@@ -150,13 +157,13 @@ class Items extends RedisStore {
                 && !seenIds[ingredient]) {
                 // Yes. Call ourselves after making sure we prevent an infinite loop.
                 seenIds[ingredient] = true; // mark it as seen
-                await this.buildFullRecipe(ingredientItem.games.nh.recipe, outputMap, seenIds);
+                await this.buildFullRecipe(ingredientItem.games.nh.recipe, outputMap, seenIds, map[ingredient]);
             } else {
                 // No. Base case. Add the numbers up.
                 if (typeof outputMap[ingredient] !== 'undefined') {
-                    outputMap[ingredient] += map[ingredient];
+                    outputMap[ingredient] += map[ingredient] * itemMultiplier;
                 } else {
-                    outputMap[ingredient] = map[ingredient];
+                    outputMap[ingredient] = map[ingredient] * itemMultiplier;
                 }
             }
         }

@@ -196,10 +196,23 @@
         {{/if}}
         {{#if hasDependents}}
             <h3>What uses this?</h3>
-            <p>The following items require this in their recipe:</p>
-            <ul>
+            <p>This item is used in the following recipes:</p>
+            <ul class="list-unstyled row">
                 {{#each dependents}}
-                    <li><a href="{{url}}">{{name}}</a></li>
+                    <li class="col-6 col-sm-4 col-lg-3 mt-2 mb-2">
+                        <div class="d-flex flex-column align-items-center justify-content-center"
+                             style="height: 100%; border: 1px solid #ccc; padding: 10px 0 10px 0;">
+                            <div class="text-center">
+                                <a href="{{url}}">
+                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
+                                            class="img-responsive lazy-load" data-src="{{image}}" alt="Picture of {{name}}" />
+                                </a>
+                                <div class="mt-2">
+                                    <a href="{{url}}">{{name}}</a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
                 {{/each}}
             </ul>
         {{/if}}

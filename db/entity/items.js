@@ -35,6 +35,10 @@ class Items extends RedisStore {
             await this.buildOwnersArray(item, villagersList);
             await this.formatRecipe(item);
             await this.updateEntity(item.id, item);
+        }
+
+        // Build dependencies (NH recipes)
+        for (let item of items) {
             await this.buildRecipeDependents(item);
         }
     }
@@ -195,8 +199,7 @@ class Items extends RedisStore {
                 name: item.name,
                 url: urlHelper.getEntityUrl(urlHelper.ITEM, item.id)
             };
-            console.log('ADDED to ' + otherItem.id);
-            console.log(JSON.stringify(otherItem, null, 2));
+
             await this.updateEntity(otherItem.id, otherItem);
         }
     }

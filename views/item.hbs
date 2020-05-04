@@ -194,6 +194,15 @@
                 {{/each}}
             </ul>
         {{/if}}
+        {{#if hasDependents}}
+            <h3>What uses this?</h3>
+            <p>The following items require this in their recipe:</p>
+            <ul>
+                {{#each dependents}}
+                    <li><a href="{{url}}">{{name}}</a></li>
+                {{/each}}
+            </ul>
+        {{/if}}
     </div>
 </div>
 

@@ -35,6 +35,7 @@ class Items extends RedisStore {
             await this.buildOwnersArray(item, villagersList);
             await this.formatRecipe(item);
             await this.updateEntity(item.id, item);
+            await this.buildRecipeDependents(item);
         }
     }
 
@@ -169,6 +170,35 @@ class Items extends RedisStore {
         }
 
         return outputMap;
+    }
+
+    /**
+     * TODO describe
+     *
+     * @param item
+     * @returns {Promise<void>}
+     */
+    async buildRecipeDependents(item) {
+        if (!item || !item.games || !item.games.nh || !item.games.nh.recipe) {
+            return;
+        }
+
+        console.log('Building recipe dependents for item: ' + item.id);
+        const recipeItems = Object.keys(item.games.nh.recipe);
+        for (let recipeItemId of recipeItems) {
+            // Load in other object and add ourselves as a dependency.
+            const otherItem = await this.getById(recipeItemId);
+            if (!otherItem.recipeDependents) {
+                otherItem.recipeDependents = {};
+            }
+            otherItem.recipeDependents[item.id] = {
+                name: item.name,
+                url: urlHelper.getEntityUrl(urlHelper.ITEM, item.id)
+            };
+            console.log('ADDED to ' + otherItem.id);
+            console.log(JSON.stringify(otherItem, null, 2));
+            await this.updateEntity(otherItem.id, otherItem);
+        }
     }
 
     /**

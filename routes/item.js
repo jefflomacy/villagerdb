@@ -154,17 +154,6 @@ function formatItem(item) {
     return formatted;
 }
 
-function buildDependents(item) {
-    if (!item || !item.recipeDependents) {
-        return [];
-    }
-
-    return Object.keys(item.recipeDependents)
-        .sort()
-        .map((id) => {
-            return item.recipeDependents[id];
-        });
-}
 /**
  * Load the specified item.
  *
@@ -199,8 +188,9 @@ async function loadItem(id) {
     result.owners = item.owners;
 
     // Dependents data.
-    result.dependents = buildDependents(item);
-    result.hasDependents = result.dependents.length > 0;
+    result.dependents = item.recipeDependents;
+    result.dependentsCount = typeof item.recipeDependents === 'object' ? result.dependents.length : 0;
+    result.hasDependents = result.dependentsCount > 0;
 
     // Social media information
     result.pageUrl = 'https://villagerdb.com/item/' + item.id;

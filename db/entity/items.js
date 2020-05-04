@@ -38,9 +38,7 @@ class Items extends RedisStore {
         }
 
         // Build dependencies (NH recipes)
-        for (let item of items) {
-            await this.buildRecipeDependents(item);
-        }
+        await this.buildAllRecipeDependents(items);
     }
 
     /**
@@ -177,7 +175,7 @@ class Items extends RedisStore {
     }
 
     /**
-     * TODO describe
+     * Build a list of all the recipes an item can be used to craft.
      *
      * @param item
      * @returns {Promise<void>}
@@ -197,10 +195,51 @@ class Items extends RedisStore {
             }
             otherItem.recipeDependents[item.id] = {
                 name: item.name,
+                image: item.image.thumb,
                 url: urlHelper.getEntityUrl(urlHelper.ITEM, item.id)
             };
 
             await this.updateEntity(otherItem.id, otherItem);
+        }
+    }
+
+    /**
+     * Format recipe dependents for the frontend.
+     *
+     * @param item
+     * @returns {Promise<void>}
+     */
+    async formatRecipeDependents(item) {
+        const redisItem = await this.getById(item.id);
+        if (!redisItem || !redisItem.recipeDependents) {
+            return;
+        }
+
+        console.log('Formatting recipe dependents for item: ' + item.id);
+        const deps = Object.keys(redisItem.recipeDependents)
+            .sort()
+            .map((id) => {
+                return redisItem.recipeDependents[id];
+            });
+        redisItem.recipeDependents = deps;
+        await this.updateEntity(redisItem.id, redisItem);
+    }
+
+    /**
+     * Build the recipe dependents for each item and then format them for frontend after all processing finishes.
+     *
+     * @param items
+     * @returns {Promise<void>}
+     */
+    async buildAllRecipeDependents(items) {
+        // Build the data out first.
+        for (let item of items) {
+            await this.buildRecipeDependents(item);
+        }
+
+        // Now, make it ready for the frontend.
+        for (let item of items) {
+            await this.formatRecipeDependents(item);
         }
     }
 

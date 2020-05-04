@@ -11,6 +11,14 @@
                     entityImages=serializedImages entityVariationImages=variationImages
                     fullBaseImage=image.full mediumBaseImage=image.medium }}
         </div>
+        <p class="text-center">
+            {{#if hasDependents}}
+                <a href="#item-dependencies">
+                    <span class="fas fa-list"></span>
+                    This item is used in <strong>{{dependentsCount}}</strong> {{recipesText}}
+                </a>
+            {{/if}}
+        </p>
         <table class="table table-borderless">
             <tbody>
             <tr class="bg-dark text-light font-weight-bold">
@@ -195,25 +203,27 @@
             </ul>
         {{/if}}
         {{#if hasDependents}}
-            <h3>What uses this?</h3>
-            <p>This item is used in the following recipes:</p>
-            <ul class="list-unstyled row">
-                {{#each dependents}}
-                    <li class="col-6 col-sm-4 col-lg-3 mt-2 mb-2">
-                        <div class="d-flex flex-column align-items-center justify-content-center dependent-item">
-                            <div class="text-center">
-                                <a href="{{url}}">
-                                    <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
-                                            class="img-responsive lazy-load" data-src="{{image}}" alt="Picture of {{name}}" />
-                                </a>
-                                <div class="mt-2">
-                                    <a href="{{url}}">{{name}}</a>
+            <div id="item-dependencies">
+                <h3>What uses this?</h3>
+                <p>This item is used in the following recipes:</p>
+                <ul class="list-unstyled row">
+                    {{#each dependents}}
+                        <li class="col-6 col-sm-4 col-lg-3 mt-2 mb-2">
+                            <div class="d-flex flex-column align-items-center justify-content-center dependent-item">
+                                <div class="text-center">
+                                    <a href="{{url}}">
+                                        <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E"
+                                             class="img-responsive lazy-load" data-src="{{image}}" alt="Picture of {{name}}" />
+                                    </a>
+                                    <div class="mt-2">
+                                        <a href="{{url}}">{{name}}</a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                    </li>
-                {{/each}}
-            </ul>
+                        </li>
+                    {{/each}}
+                </ul>
+            </div>
         {{/if}}
     </div>
 </div>

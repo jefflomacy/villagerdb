@@ -20,12 +20,13 @@
 {{#if hasLists}}
     <ul class="list-group user-list-view">
         {{#each lists}}
-            <li class="list-group-item d-flex justify-content-between align-items-center">
+            <li class="list-group-item d-flex justify-content-between align-items-center deletable-item">
                 <div>
                     <a href="/user/{{../username}}/list/{{id}}">{{name}}</a>
                 </div>
                 {{#if ../isOwnUser}}
-                    <a href="/list/delete/{{id}}" class="btn btn-danger delete-list-button" role="button">
+                    <a href="#" data-posturl="/list/delete/{{id}}" data-shouldconfirm="true"
+                       class="btn btn-danger delete-object-button" role="button">
                         <span class="fa fa-trash"></span>
                         <span class="sr-only">Delete</span>
                     </a>

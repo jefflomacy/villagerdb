@@ -3,8 +3,9 @@
   "name": "Traveler's Backpack",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
-        "Kick's"
+        "Kicks"
       ],
       "sellPrice": {
         "currency": "bells",

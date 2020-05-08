@@ -26,7 +26,12 @@
           "currency": "bells",
           "value": 18800
         }
-      ]
+      ],
+      "recipe": {
+        "maple-leaf": 10,
+        "wood": 5,
+        "clump-of-weeds": 5
+      }
     }
   }
 }

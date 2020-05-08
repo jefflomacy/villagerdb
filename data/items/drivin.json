@@ -3,6 +3,9 @@
   "name": "Drivin'",
   "games": {
     "nh": {
+      "sources": [
+        "Request from K.K."
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 800

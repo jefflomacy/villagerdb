@@ -3,6 +3,7 @@
   "name": "Red Wavy Rug",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

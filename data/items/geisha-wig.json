@@ -28,16 +28,14 @@
       ]
     },
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Gulliver"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 1350
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 5400
-        }
-      ],
       "variations": {
         "red": "Red",
         "pink": "Pink",

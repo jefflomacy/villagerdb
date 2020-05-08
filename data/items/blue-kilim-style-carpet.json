@@ -3,6 +3,7 @@
   "name": "Blue Kilim-style Carpet",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 500

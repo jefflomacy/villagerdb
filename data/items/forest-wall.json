@@ -28,7 +28,14 @@
           "currency": "bells",
           "value": 176000
         }
-      ]
+      ],
+      "recipe": {
+        "elegant-mushroom": 2,
+        "round-mushroom": 2,
+        "skinny-mushroom": 2,
+        "flat-mushroom": 2,
+        "wood": 10
+      }
     }
   }
 }

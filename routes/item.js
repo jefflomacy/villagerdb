@@ -51,6 +51,10 @@ function generateParagraph(item, formatData) {
         paragraph += 'You ' + (latestFormatData.orderable ? 'can' : 'cannot') + ' order it from the catalog. ';
     }
 
+    if (typeof latestFormatData.customizable !== 'undefined') {
+        paragraph += 'It ' + (latestFormatData.customizable ? 'can': 'cannot') + ' be customized. ';
+    }
+
     // Fashion and interior themes.
     if (latestFormatData.hasFashionTheme) {
         paragraph += 'This item fits the ' +
@@ -124,6 +128,8 @@ function formatItem(item) {
                 gameTitle: format.games[gameId].title,
                 orderable: game.orderable,
                 orderableText: typeof game.orderable !== 'undefined' ? (game.orderable ? 'Yes' : 'No') : undefined,
+                customizable: game.customizable,
+                customizableText: typeof game.customizable !== 'undefined' ? (game.customizable ? 'Yes' : 'No') : undefined,
                 sizeText: game.xSize > 0 && game.ySize > 0 ? (game.xSize + ' x ' + game.ySize) : undefined,
                 hasSource: source.length > 0,
                 source: source,
@@ -186,7 +192,13 @@ async function loadItem(id) {
     // Ownership data
     result.hasOwnership = typeof item.owners !== 'undefined' && item.owners.length > 0;
     result.owners = item.owners;
-    
+
+    // Dependents data.
+    result.dependents = item.recipeDependents;
+    result.dependentsCount = typeof item.recipeDependents === 'object' ? result.dependents.length : 0;
+    result.hasDependents = result.dependentsCount > 0;
+    result.recipesText = 'recipe' + (result.dependentsCount > 1 ? 's' : '');
+
     // Social media information
     result.pageUrl = 'https://villagerdb.com/item/' + item.id;
     result.pageDescription = result.paragraph;

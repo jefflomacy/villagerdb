@@ -3,16 +3,15 @@
   "name": "Mush Log",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1680
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 6720
-        }
-      ],
+      "recipe": {
+        "skinny-mushroom": 2,
+        "log-stool": 1
+      },
       "variations": {
         "ordinary-mushroom": "Ordinary mushroom",
         "white-mushroom": "White mushroom",

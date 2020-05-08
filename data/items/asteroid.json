@@ -29,6 +29,10 @@
       "sellPrice": {
         "currency": "bells",
         "value": 4000
+      },
+      "recipe": {
+        "star-fragment": 5,
+        "stone": 10
       }
     }
   }

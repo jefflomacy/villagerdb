@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 30880
         }
-      ]
+      ],
+      "recipe": {
+        "summer-shell": 3,
+        "sandy-beach-flooring": 1
+      }
     }
   },
   "category": "Flooring"

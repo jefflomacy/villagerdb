@@ -4,9 +4,6 @@
   "games": {
     "nh": {
       "orderable": false,
-      "sources": [
-        "Gulliver"
-      ],
       "customizable": true,
       "sellPrice": {
         "currency": "bells",

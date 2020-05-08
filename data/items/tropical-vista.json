@@ -37,7 +37,10 @@
           "currency": "bells",
           "value": 24000
         }
-      ]
+      ],
+      "recipe": {
+        "summer-shell": 5
+      }
     }
   }
 }

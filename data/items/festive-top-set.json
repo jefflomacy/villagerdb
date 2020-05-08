@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 1280
         }
-      ]
+      ],
+      "recipe": {
+        "gold-ornament": 2,
+        "hardwood": 1
+      }
     }
   },
   "category": "Furniture"

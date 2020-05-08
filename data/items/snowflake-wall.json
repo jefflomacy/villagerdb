@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 19200
         }
-      ]
+      ],
+      "recipe": {
+        "snowflake": 12
+      }
     }
   },
   "category": "Wallpaper"

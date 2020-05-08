@@ -3,6 +3,7 @@
   "name": "Green Stripes Rug",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

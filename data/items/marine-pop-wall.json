@@ -17,6 +17,7 @@
       ]
     },
     "nh": {
+      "orderable": false,
       "sources": [
         "Fishing tournament prize pool (January, April, July, October)"
       ],

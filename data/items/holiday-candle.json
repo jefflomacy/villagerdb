@@ -33,6 +33,10 @@
           "value": 2400
         }
       ],
+      "recipe": {
+        "red-ornament": 5,
+        "clump-of-weeds": 5
+      },
       "variations": {
         "red": "Red",
         "blue": "Blue",

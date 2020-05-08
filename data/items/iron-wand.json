@@ -7,6 +7,10 @@
       "sellPrice": {
         "currency": "bells",
         "value": 3750
+      },
+      "recipe": {
+        "iron-nugget": 3,
+        "star-fragment": 3
       }
     }
   },

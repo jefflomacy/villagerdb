@@ -3,6 +3,10 @@
   "name": "Yellow Vinyl Sheet",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Saharah"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 375

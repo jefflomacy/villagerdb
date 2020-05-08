@@ -50,18 +50,22 @@
     <p id="user-list-size" class="text-right" data-orig-text="{{countText}}">{{countText}}</p>
     <ul class="list-group user-list-view">
         {{#each entities}}
-            <li class="list-group-item d-flex justify-content-between align-items-center" data-name="{{name}} {{variation}}">
+            <li class="list-group-item d-flex justify-content-between align-items-center deletable-item"
+                data-name="{{name}} {{variation}}">
                 <div>
                     <a href="/{{type}}/{{id}}" class="no-link-underline">
                         <img src="{{image}}" alt="Picture of {{name}}"
                              class="img-responsive user-list-image" style="max-width: 50px;">
                     </a>
+                    {{#if isDIY}}
+                        <img src="/images/diy.1111111.png" alt="DIY Icon"/>
+                    {{/if}}
                     <a href="/{{type}}/{{id}}" class="ml-2">{{name}}</a> {{variation}}
                 </div>
                 {{#if ../isOwnUser}}
                     <div>
-                        <a href="{{deleteUrl}}"
-                           class="btn btn-danger" role="button">
+                        <a href="#" data-posturl="{{deleteUrl}}"
+                           class="btn btn-danger delete-object-button" role="button">
                             <span class="fa fa-trash"></span>
                             <span class="sr-only">Delete</span>
                         </a>

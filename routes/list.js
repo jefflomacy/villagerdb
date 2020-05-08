@@ -117,11 +117,11 @@ function handleDeleteEntity(req, res, next) {
         lists.removeEntityFromList(req.user.id,  req.params.listId, req.params.id, req.params.type,
             req.params.variationId)
             .then((dbResponse) => {
-                res.redirect('/user/' + req.user.username + '/list/' + req.params.listId);
+                res.status(204).send(); // success reply but empty
             })
-            .catch(next)
+            .catch(next);
     } else {
-        res.redirect('/');
+        res.status(403).send();
     }
 }
 
@@ -223,24 +223,24 @@ router.post('/rename/:listId', listValidation, (req, res, next) => {
 /**
  * Route for deleting an entity from a list.
  */
-router.get('/delete-entity/:listId/:type/:id', (req, res, next) => {
+router.post('/delete-entity/:listId/:type/:id', (req, res, next) => {
     handleDeleteEntity(req, res, next);
 });
-router.get('/delete-entity/:listId/:type/:id/:variationId', (req, res, next) => {
+router.post('/delete-entity/:listId/:type/:id/:variationId', (req, res, next) => {
     handleDeleteEntity(req, res, next);
 });
 
 /**
  * Route for deleting a list.
  */
-router.get('/delete/:listId', (req, res) => {
+router.post('/delete/:listId', (req, res) => {
     if (res.locals.userState.isRegistered) {
         lists.deleteList(req.user.id, req.params.listId)
             .then(() => {
-                res.redirect('/user/' + req.user.username);
+                res.status(204).send();
             });
     } else {
-        res.redirect('/');
+        res.status(403).send();
     }
 });
 

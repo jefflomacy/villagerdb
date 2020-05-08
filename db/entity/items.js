@@ -3,6 +3,7 @@ const fs = require('fs');
 const RedisStore = require('./redis-store');
 const redisConnection = require('../redis');
 const urlHelper = require('../../helpers/url');
+const consts = require('../../helpers/consts');
 const villagers = require('./villagers');
 
 class Items extends RedisStore {
@@ -36,6 +37,9 @@ class Items extends RedisStore {
             await this.formatRecipe(item);
             await this.updateEntity(item.id, item);
         }
+
+        // Build dependencies (NH recipes)
+        await this.buildAllRecipeDependents(items);
     }
 
     /**
@@ -81,12 +85,20 @@ class Items extends RedisStore {
      * @returns {Promise<void>}
      */
     async formatRecipe(item) {
-        console.log('Formatting recipe for ' + item.id);
         if (item.games.nh && item.games.nh.recipe) {
-            item.games.nh.normalRecipe = await this.buildRecipeArrayFromMap(item.games.nh.recipe);
-            item.games.nh.fullRecipe = await this.buildRecipeArrayFromMap(
-                await this.buildFullRecipe(item.games.nh.recipe)
-            );
+            console.log('Formatting recipe for ' + item.id);
+
+            try {
+                item.games.nh.normalRecipe = await this.buildRecipeArrayFromMap(item.games.nh.recipe);
+                item.games.nh.fullRecipe = await this.buildRecipeArrayFromMap(
+                    await this.buildFullRecipe(item.games.nh.recipe)
+                );
+            } catch (e) {
+                console.error('Problem while recipe formatting for item: ' + item.id);
+                console.error(e);
+                throw e; // re-throw
+            }
+
         }
     }
 
@@ -109,7 +121,17 @@ class Items extends RedisStore {
             if (ingredientItem) {
                 name = ingredientItem.name;
                 url = urlHelper.getEntityUrl(urlHelper.ITEM, ingredientItem.id);
+            } else {
+                // This is a serious failure. Cancel indexing.
+                throw new Error('Invalid ingredient id: ' + ingredient);
             }
+
+            // Make sure the map contains a number.
+            if (typeof map[ingredient] !== 'number' || isNaN(map[ingredient])) {
+                // Another serious failure. Stop indexing.
+                throw new Error('Ingredient item ' + ingredient + ' is not a number: ' + map[ingredient]);
+            }
+            
             recipeArray.push({
                 name: name,
                 url: url,
@@ -124,12 +146,13 @@ class Items extends RedisStore {
      * Builds a full recipe list from a map by recursively following the map down until only base items are in the
      * list of items.
      *
-     * @param map
-     * @param outputMap
-     * @param seenIds
+     * @param map the original input recipe
+     * @param outputMap the final result computed along the way
+     * @param seenIds ids we've already dived into to prevent re-looping
+     * @param itemMultiplier for non-base-case items, how many are required
      * @returns {Promise<*>}
      */
-    async buildFullRecipe(map, outputMap = {}, seenIds = {}) {
+    async buildFullRecipe(map, outputMap = {}, seenIds = {}, itemMultiplier = 1) {
         // For every non-base item, call ourselves. For every base item, add it to the output map.
         for (let ingredient of Object.keys(map)) {
             // Is it an ingredient item that has a recipe?
@@ -138,18 +161,87 @@ class Items extends RedisStore {
                 && !seenIds[ingredient]) {
                 // Yes. Call ourselves after making sure we prevent an infinite loop.
                 seenIds[ingredient] = true; // mark it as seen
-                await this.buildFullRecipe(ingredientItem.games.nh.recipe, outputMap, seenIds);
+                await this.buildFullRecipe(ingredientItem.games.nh.recipe, outputMap, seenIds, map[ingredient]);
             } else {
                 // No. Base case. Add the numbers up.
                 if (typeof outputMap[ingredient] !== 'undefined') {
-                    outputMap[ingredient] += map[ingredient];
+                    outputMap[ingredient] += map[ingredient] * itemMultiplier;
                 } else {
-                    outputMap[ingredient] = map[ingredient];
+                    outputMap[ingredient] = map[ingredient] * itemMultiplier;
                 }
             }
         }
 
         return outputMap;
+    }
+
+    /**
+     * Build a list of all the recipes an item can be used to craft.
+     *
+     * @param item
+     * @returns {Promise<void>}
+     */
+    async buildRecipeDependents(item) {
+        if (!item || !item.games || !item.games.nh || !item.games.nh.recipe) {
+            return;
+        }
+
+        console.log('Building recipe dependents for item: ' + item.id);
+        const recipeItems = Object.keys(item.games.nh.recipe);
+        for (let recipeItemId of recipeItems) {
+            // Load in other object and add ourselves as a dependency.
+            const otherItem = await this.getById(recipeItemId);
+            if (!otherItem.recipeDependents) {
+                otherItem.recipeDependents = {};
+            }
+            otherItem.recipeDependents[item.id] = {
+                name: item.name,
+                image: item.image.thumb,
+                url: urlHelper.getEntityUrl(urlHelper.ITEM, item.id)
+            };
+
+            await this.updateEntity(otherItem.id, otherItem);
+        }
+    }
+
+    /**
+     * Format recipe dependents for the frontend.
+     *
+     * @param item
+     * @returns {Promise<void>}
+     */
+    async formatRecipeDependents(item) {
+        const redisItem = await this.getById(item.id);
+        if (!redisItem || !redisItem.recipeDependents) {
+            return;
+        }
+
+        console.log('Formatting recipe dependents for item: ' + item.id);
+        const deps = Object.keys(redisItem.recipeDependents)
+            .sort()
+            .map((id) => {
+                return redisItem.recipeDependents[id];
+            });
+        redisItem.recipeDependents = deps;
+        await this.updateEntity(redisItem.id, redisItem);
+    }
+
+    /**
+     * Build the recipe dependents for each item and then format them for frontend after all processing finishes.
+     *
+     * @param items
+     * @returns {Promise<void>}
+     */
+    async buildAllRecipeDependents(items) {
+        // Build the data out first.
+        for (let item of items) {
+            await this.buildRecipeDependents(item);
+        }
+
+        // Now, make it ready for the frontend.
+        for (let item of items) {
+            await this.formatRecipeDependents(item);
+        }
     }
 
     /**
@@ -168,9 +260,9 @@ class Items extends RedisStore {
             }
         }
 
-        // Only allow variations selection if more than one variant exists.
-        if (Object.keys(variations).length < 2) {
-            return;
+        // Add DIY variation for items that have a recipe.
+        if (item.games.nh) {
+            this.diyChecks(variations, item)
         }
 
         // Sort before assignment.
@@ -206,6 +298,20 @@ class Items extends RedisStore {
                 imageData.full = item.image.full;
             }
             item.variationImages[k] = imageData;
+        }
+    }
+
+    /**
+     * Some checks to ensure we are only adding the _isDIY entry to items with recipes.
+     *
+     * @param variations
+     * @param item
+     */
+    diyChecks(variations, item) {
+        if (item.games.nh.recipe) {
+            if (Object.keys(item.games.nh.recipe).length > 0) {
+                variations[consts.isDIY] = 'Recipe'; // text can be anything, impacts frontend display
+            }
         }
     }
 }

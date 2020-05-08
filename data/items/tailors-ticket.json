@@ -3,6 +3,7 @@
   "name": "Tailors Ticket",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 250

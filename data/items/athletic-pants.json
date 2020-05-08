@@ -3,6 +3,7 @@
   "name": "Athletic Pants",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Able Sisters"
       ],

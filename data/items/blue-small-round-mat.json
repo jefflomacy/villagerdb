@@ -3,6 +3,7 @@
   "name": "Blue Small Round Mat",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

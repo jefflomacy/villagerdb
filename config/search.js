@@ -47,12 +47,8 @@ module.exports = {
             canAggregate: true,
             sort: 2
         },
-        orderable: {
-            name: 'Orderable from Catalog',
-            values: {
-                true: 'Yes',
-                false: 'No'
-            },
+        tag: {
+            name: 'Tags',
             canAggregate: true,
             sort: 3
         },

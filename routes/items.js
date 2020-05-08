@@ -72,6 +72,13 @@ const categories = {
     },
     bushes: bushesAndTreesDefinition, // kept around to prevent 404
     'bushes-trees': bushesAndTreesDefinition,
+    diy: {
+        filter: {
+            tag: ['Craftable']
+        },
+        pageTitle: 'DIYs',
+        pageDescription: 'This category includes all items you can craft in New Horizons.'
+    },
     dresses: {
         filter: {
             category: ['Dresses']

@@ -7,6 +7,10 @@
       "sellPrice": {
         "currency": "bells",
         "value": 5100
+      },
+      "recipe": {
+        "summer-shell": 3,
+        "star-fragment": 3
       }
     }
   },

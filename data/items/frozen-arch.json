@@ -13,6 +13,10 @@
           "value": 36000
         }
       ],
+      "recipe": {
+        "large-snowflake": 1,
+        "snowflake": 10
+      },
       "variations": {
         "ice": "Ice",
         "ice-blue": "Ice blue",

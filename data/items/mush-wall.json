@@ -12,7 +12,13 @@
           "currency": "bells",
           "value": 85600
         }
-      ]
+      ],
+      "recipe": {
+        "elegant-mushroom": 1,
+        "round-mushroom": 1,
+        "skinny-mushroom": 1,
+        "flat-mushroom": 1
+      }
     }
   },
   "category": "Wallpaper"

@@ -4,6 +4,9 @@
   "games": {
     "nh": {
       "orderable": false,
+      "sources": [
+        "Lost and Found"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 10

@@ -3,16 +3,11 @@
   "name": "Apple Hat",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1000
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 4000
-        }
-      ],
       "recipe": {
         "apple": 5
       },

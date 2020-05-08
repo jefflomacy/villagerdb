@@ -3,6 +3,7 @@
   "name": "Blue Blocks Rug",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

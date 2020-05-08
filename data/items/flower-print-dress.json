@@ -3,6 +3,10 @@
   "name": "Flower-print Dress",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 300

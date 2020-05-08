@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 17280
         }
-      ]
+      ],
+      "recipe": {
+        "black-roses": 3,
+        "purple-roses": 6
+      }
     }
   },
   "category": "Furniture"

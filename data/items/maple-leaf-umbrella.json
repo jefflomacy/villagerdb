@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 11200
         }
-      ]
+      ],
+      "recipe": {
+        "maple-leaf": 7
+      }
     }
   },
   "category": "Umbrellas"

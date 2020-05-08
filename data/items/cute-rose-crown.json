@@ -13,6 +13,10 @@
           "value": 3840
         }
       ],
+      "recipe": {
+        "pink-roses": 3,
+        "orange-roses": 3
+      },
       "variations": {
         "colorful": "Colorful"
       }

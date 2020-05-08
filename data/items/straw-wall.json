@@ -3,6 +3,7 @@
   "name": "Straw Wall",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 750

@@ -3,6 +3,7 @@
   "name": "Wooden Bookshelf",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1925

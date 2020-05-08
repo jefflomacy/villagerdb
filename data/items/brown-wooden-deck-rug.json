@@ -3,6 +3,7 @@
   "name": "Brown Wooden-deck Rug",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

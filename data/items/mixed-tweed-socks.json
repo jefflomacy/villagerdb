@@ -3,6 +3,10 @@
   "name": "Mixed-tweed Socks",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 200

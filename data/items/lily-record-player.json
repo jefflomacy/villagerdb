@@ -18,17 +18,12 @@
       ]
     },
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 3010
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 12040
-        }
-      ],
       "recipe": {
         "white-lilies": 5,
         "iron-nugget": 3,

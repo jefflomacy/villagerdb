@@ -13,6 +13,9 @@
           "value": 7680
         }
       ],
+      "recipe": {
+        "log-sofa": 2
+      },
       "variations": {
         "dark-wood": "Dark wood",
         "dark-wood-southwestern-flair": "Dark wood / Southwestern flair",

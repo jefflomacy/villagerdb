@@ -32,7 +32,12 @@
           "currency": "bells",
           "value": 87000
         }
-      ]
+      ],
+      "recipe": {
+        "star-fragment": 3,
+        "sagittarius-fragment": 2,
+        "gold-nugget": 2
+      }
     }
   }
 }

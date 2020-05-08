@@ -3,6 +3,7 @@
   "name": "Peach Stripes Rug",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

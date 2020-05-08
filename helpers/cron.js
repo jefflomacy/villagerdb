@@ -28,7 +28,7 @@ const scheduleCrons = () => {
         clearBirthdays();
     });
 
-    cron.schedule('0 0 * * * *', () => {
+    cron.schedule('0 3 * * *', () => {
         siteMap.generateMap();
     });
 

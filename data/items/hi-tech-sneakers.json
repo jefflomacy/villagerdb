@@ -3,6 +3,10 @@
   "name": "Hi-tech Sneakers",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 315

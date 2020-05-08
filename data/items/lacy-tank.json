@@ -3,6 +3,10 @@
   "name": "Lacy Tank",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters (Summer)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 212

@@ -3,16 +3,15 @@
   "name": "Illuminated Snowflakes",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 3150
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 12600
-        }
-      ],
+      "recipe": {
+        "blue-ornament": 9,
+        "iron-nugget": 3
+      },
       "variations": {
         "white": "White",
         "pink": "Pink",

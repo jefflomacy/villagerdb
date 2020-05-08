@@ -3,6 +3,7 @@
   "name": "Foldover-top Backpack",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Kicks"
       ],

@@ -3,6 +3,7 @@
   "name": "Mush Rug",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

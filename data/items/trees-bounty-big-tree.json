@@ -13,6 +13,13 @@
           "value": 24320
         }
       ],
+      "recipe": {
+        "pine-cone": 5,
+        "acorn": 4,
+        "maple-leaf": 4,
+        "tree-branch": 8,
+        "clay": 4
+      },
       "variations": {
         "brown": "Brown",
         "white": "White"

@@ -3,16 +3,15 @@
   "name": "Maple-leaf Pond Stone",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 2700
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 10800
-        }
-      ]
+      "recipe": {
+        "stone": 10,
+        "maple-leaf": 3
+      }
     }
   },
   "category": "Furniture"

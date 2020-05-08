@@ -3,6 +3,10 @@
   "name": "Emblem Blazer",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 490

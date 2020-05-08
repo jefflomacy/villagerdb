@@ -3,16 +3,15 @@
   "name": "Illuminated Reindeer",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 4350
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 17400
-        }
-      ],
+      "recipe": {
+        "gold-ornament": 6,
+        "iron-nugget": 5
+      },
       "variations": {
         "yellow": "Yellow",
         "pink": "Pink",

@@ -4,6 +4,9 @@
   "games": {
     "nh": {
       "orderable": false,
+      "sources": [
+        "DIY (Fishing up a boot)"
+      ],
       "customizable": false,
       "sellPrice": {
         "currency": "bells",

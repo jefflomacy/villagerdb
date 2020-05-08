@@ -2,7 +2,9 @@
   "id": "wooden-mailbox",
   "name": "Wooden Mailbox",
   "games": {
-    "nh": {}
+    "nh": {
+      "orderable": false
+    }
   },
   "category": "Furniture"
 }

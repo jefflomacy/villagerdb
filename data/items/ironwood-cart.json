@@ -3,16 +3,11 @@
   "name": "Ironwood Cart",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 3720
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 14880
-        }
-      ],
       "recipe": {
         "wood": 6,
         "iron-nugget": 4

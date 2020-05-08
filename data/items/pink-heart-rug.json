@@ -3,6 +3,7 @@
   "name": "Pink Heart Rug",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

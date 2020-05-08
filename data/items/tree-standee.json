@@ -37,6 +37,10 @@
           "value": 6240
         }
       ],
+      "recipe": {
+        "wood": 5,
+        "softwood": 8
+      },
       "variations": {
         "spring": "Spring",
         "cherry-blossoms": "Cherry blossoms",

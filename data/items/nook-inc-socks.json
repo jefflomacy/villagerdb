@@ -3,7 +3,7 @@
   "name": "Nook Inc. Socks",
   "games": {
     "nh": {
-      "orderable": true,
+      "orderable": false,
       "sources": [
         "Nook Miles System"
       ],

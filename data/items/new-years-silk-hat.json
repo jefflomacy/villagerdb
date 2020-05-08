@@ -3,16 +3,14 @@
   "name": "New Year's Silk Hat",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Gulliver"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 125
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 500
-        }
-      ],
       "variations": {
         "red": "Red",
         "blue": "Blue",

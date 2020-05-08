@@ -3,6 +3,7 @@
   "name": "Galaxy Flooring",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Celeste"
       ],

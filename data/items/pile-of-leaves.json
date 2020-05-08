@@ -30,16 +30,15 @@
       ]
     },
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1300
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 5200
-        }
-      ]
+      "recipe": {
+        "pine-cone": 3,
+        "clump-of-weeds": 5
+      }
     }
   }
 }

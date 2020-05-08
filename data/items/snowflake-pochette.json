@@ -8,6 +8,9 @@
         "currency": "bells",
         "value": 2400
       },
+      "recipe": {
+        "snowflake": 6
+      },
       "variations": {
         "white": "White"
       }

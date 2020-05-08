@@ -3,6 +3,7 @@
   "name": "Green Kitchen Mat",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

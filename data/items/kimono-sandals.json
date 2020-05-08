@@ -27,6 +27,9 @@
       ]
     },
     "nh": {
+      "sources": [
+        "Kicks"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 400

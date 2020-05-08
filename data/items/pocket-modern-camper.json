@@ -3,6 +3,10 @@
   "name": "Pocket Modern Camper",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Pocket Camp promotion"
+      ],
       "customizable": true,
       "sellPrice": {
         "currency": "bells",

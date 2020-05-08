@@ -3,6 +3,7 @@
   "name": "Wall Clock",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 172

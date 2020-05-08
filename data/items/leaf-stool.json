@@ -3,16 +3,15 @@
   "name": "Leaf Stool",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1560
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 6240
-        }
-      ],
+      "recipe": {
+        "maple-leaf": 3,
+        "wood": 3
+      },
       "variations": {
         "brown": "Brown",
         "red": "Red",

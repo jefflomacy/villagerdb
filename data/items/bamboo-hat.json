@@ -3,17 +3,12 @@
   "name": "Bamboo Hat",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 200
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 800
-        }
-      ],
       "recipe": {
         "clump-of-weeds": 10
       },

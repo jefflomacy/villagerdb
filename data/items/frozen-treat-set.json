@@ -13,6 +13,10 @@
           "value": 21600
         }
       ],
+      "recipe": {
+        "large-snowflake": 1,
+        "snowflake": 1
+      },
       "variations": {
         "soda": "Soda",
         "vanilla-chocolate": "Vanilla & chocolate",

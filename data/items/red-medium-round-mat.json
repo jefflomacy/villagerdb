@@ -3,6 +3,7 @@
   "name": "Red Medium Round Mat",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

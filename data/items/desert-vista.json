@@ -14,6 +14,10 @@
       ]
     },
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Saharah"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 750

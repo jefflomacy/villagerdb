@@ -3,16 +3,15 @@
   "name": "Ornament Wreath",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 800
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 3200
-        }
-      ],
+      "recipe": {
+        "blue-ornament": 6,
+        "gold-ornament": 2
+      },
       "variations": {
         "blue": "Blue",
         "gold": "Gold",

@@ -3,6 +3,7 @@
   "name": "Wall-mounted Tv (20 In.)",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 2225

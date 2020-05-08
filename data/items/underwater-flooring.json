@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 26400
         }
-      ]
+      ],
+      "recipe": {
+        "summer-shell": 3,
+        "coral": 3
+      }
     }
   },
   "category": "Flooring"

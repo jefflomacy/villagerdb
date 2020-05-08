@@ -3,17 +3,12 @@
   "name": "Golden Gears",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 11125
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 44500
-        }
-      ],
       "recipe": {
         "gold-nugget": 1,
         "iron-nugget": 3

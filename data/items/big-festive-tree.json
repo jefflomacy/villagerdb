@@ -29,6 +29,13 @@
         "currency": "bells",
         "value": 3200
       },
+      "recipe": {
+        "red-ornament": 6,
+        "blue-ornament": 6,
+        "gold-ornament": 4,
+        "wood": 5,
+        "clay": 5
+      },
       "variations": {
         "colorful": "Colorful",
         "blue": "Blue",

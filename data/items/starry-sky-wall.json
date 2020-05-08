@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 30000
         }
-      ]
+      ],
+      "recipe": {
+        "star-fragment": 5,
+        "large-star-fragment": 1
+      }
     }
   },
   "category": "Wallpaper"

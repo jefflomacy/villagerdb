@@ -3,6 +3,7 @@
   "name": "Ivory Simple Bath Mat",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

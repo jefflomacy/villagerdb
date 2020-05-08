@@ -3,16 +3,18 @@
   "name": "Shell Wreath",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 4720
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 18880
-        }
-      ]
+      "recipe": {
+        "summer-shell": 1,
+        "sea-snail": 1,
+        "sand-dollar": 1,
+        "coral": 1,
+        "giant-clam": 1
+      }
     }
   },
   "category": "Furniture"

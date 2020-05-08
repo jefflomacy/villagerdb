@@ -3,6 +3,7 @@
   "name": "Blue Vinyl Sheet",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

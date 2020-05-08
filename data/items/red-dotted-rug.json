@@ -3,6 +3,7 @@
   "name": "Red Dotted Rug",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

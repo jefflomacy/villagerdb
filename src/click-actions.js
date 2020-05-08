@@ -1,7 +1,9 @@
 /**
  * Simple script to open a popup when users click on a social media sharing link.
  */
-const $ = require('jquery');
+
+import $ from "jquery";
+import _ from 'underscore';
 
 $(document).ready(() => {
     // Copy link buttons
@@ -24,8 +26,39 @@ $(document).ready(() => {
         }
     });
 
-    // Delete list buttons
-    $('a.delete-list-button').on('click', (e) => {
-        return confirm('You are about to delete this list. This cannot be undone!');
-    });
+    // Delete object buttons - and try to prevent double clicks.
+    $('a.delete-object-button').on('click', _.debounce(deleteHandler, 100, true));
 });
+
+function deleteHandler(e) {
+    e.preventDefault();
+    if (!e.currentTarget) {
+        return;
+    }
+
+    let confirmed = true;
+    const url = $(e.currentTarget).data('posturl');
+    const shouldConfirm = $(e.currentTarget).data('shouldconfirm');
+
+    if (shouldConfirm) {
+        confirmed = confirm('You are about to delete this list. This cannot be undone!');
+    }
+
+    if (confirmed) {
+        $.ajax({
+            url: url,
+            type: 'POST',
+            success: () => {
+                // Delete was done, so remove it from the DOM.
+                const toDelete = $(e.currentTarget).closest('.deletable-item');
+                toDelete.fadeOut(300, () => {
+                    toDelete.remove();
+                });
+            },
+            error: () => {
+                // This should not occur to a normal user.
+                alert('There was a problem deleting this. Please let us know this is happening.');
+            }
+        });
+    }
+}

@@ -13,6 +13,10 @@
           "value": 34000
         }
       ],
+      "recipe": {
+        "star-fragment": 7,
+        "large-star-fragment": 1
+      },
       "variations": {
         "yellow": "Yellow",
         "green": "Green",

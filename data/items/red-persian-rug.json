@@ -3,6 +3,7 @@
   "name": "Red Persian Rug",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

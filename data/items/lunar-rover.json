@@ -25,16 +25,16 @@
       ]
     },
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 12580
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 50320
-        }
-      ]
+      "recipe": {
+        "star-fragment": 10,
+        "iron-nugget": 10,
+        "old-tire": 4
+      }
     }
   }
 }

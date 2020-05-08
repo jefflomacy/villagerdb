@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 7360
         }
-      ]
+      ],
+      "recipe": {
+        "acorn": 4,
+        "hardwood": 2
+      }
     }
   },
   "category": "Furniture"

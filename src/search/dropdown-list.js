@@ -3,20 +3,38 @@ import $ from "jquery";
 import ReactDOM from "react-dom";
 
 /**
+ * Internal name for DIY variations.
+ *
+ * @type {string}
+ */
+const diyVariationId = '_isDIY';
+
+/**
  * The "+ Add" button on entity pages and browsing pages.
  */
 export default class DropdownList extends React.Component {
     constructor(props) {
         super(props);
 
-        // Initialize variation data if present.
+        // Initialize variation data if present. Note that DIY is a special variation we skip but mark a flag for.
         this.variations = [];
+        this.hasDIY = false;
         if (typeof this.props.variations === 'object') {
+            const variations = [];
             for (let v of Object.keys(this.props.variations)) {
-                this.variations.push({
-                    key: v,
-                    value: this.props.variations[v]
-                });
+                if (v !== diyVariationId) {
+                    variations.push({
+                        key: v,
+                        value: this.props.variations[v]
+                    });
+                } else {
+                    this.hasDIY = true;
+                }
+            }
+
+            // Only display variations if there are 2 or more.
+            if (variations.length > 1) {
+                this.variations = variations;
             }
         }
 
@@ -27,16 +45,23 @@ export default class DropdownList extends React.Component {
             isSuccess: false,
             isError: false,
             lists: [],
-            variationIndex: -1, // -1 means "Any"!
-            selectedVariation: undefined
+            variationIndex: -1, // -1 means "Any" unless diySelected is true.
+            selectedVariation: undefined,
+            diySelected: false
         };
+
+        // Body click handler to unbind on unmount
+        this.checkBodyHandler = this.checkBodyClick.bind(this);
+
+        // DIY toggle
+        this.toggleDIY = this.toggleDIY.bind(this);
     }
 
     /**
-     *
+     * Remove click checker when we unmount to prevent memory leak in user's browser.
      */
-    componentDidMount() {
-        $('body').on('click', this.checkBodyClick.bind(this));
+    componentWillUnmount() {
+        $('body').off('click', this.checkBodyHandler);
     }
 
     /**
@@ -94,41 +119,57 @@ export default class DropdownList extends React.Component {
             }
         }
 
+        // Create or destroy the expansion listener.
+        if (this.state.isExpanded) {
+            $('body').on('click', this.checkBodyHandler);
+        } else {
+            $('body').off('click', this.checkBodyHandler);
+        }
+
         // We always draw the variations dropdown if variations exist.
         if (this.variations.length > 0) {
             // Make the variations dropdown if enabled.
             if (this.props.displayDropdown) {
                 const variationsList = [];
 
-                // Default is none/any
-                variationsList.push((
-                    <option key="no-selection" value="">
-                        Any
-                    </option>
-                ));
-
                 // Now show the variations.
-                for (let v of this.variations) {
+                if (this.state.diySelected) {
                     variationsList.push((
-                        <option key={v.key} value={v.key}>
-                            {v.value}
+                        <option key={diyVariationId} value={diyVariationId}>Recipe</option>
+                    ));
+                } else {
+                    // Default is none/any
+                    variationsList.push((
+                        <option key="no-selection" value="">
+                            Any
                         </option>
                     ));
+
+                    for (let v of this.variations) {
+                        variationsList.push((
+                            <option key={v.key} value={v.key}>
+                                {v.value}
+                            </option>
+                        ));
+                    }
                 }
 
                 const optionState = typeof this.state.selectedVariation === 'undefined' ? '' : this.state.selectedVariation;
                 variationsDropdown = (
                     <div className="flex-fill ml-2">
-                        <select className="form-control" value={optionState} onChange={this.variationDropdownSelectionChange.bind(this)}>
+                        <select className="form-control" value={optionState} onChange={this.variationDropdownSelectionChange.bind(this)}
+                            disabled={this.state.diySelected}>
                             {variationsList}
                         </select>
                     </div>
                 );
             }
 
-            // Make the links.
-            const previousLinkClass = this.state.variationIndex <= -1 ? 'disabled': '';
-            const nextLinkClass = this.state.variationIndex >= this.variations.length - 1 ? 'disabled' : '';
+            // Make the links
+            const previousLinkClass = this.state.variationIndex <= -1 || this.state.diySelected
+                ? 'disabled': '';
+            const nextLinkClass = this.state.variationIndex >= this.variations.length - 1 || this.state.diySelected
+                ? 'disabled' : '';
             previousLink = (
                 <div className="slider-nav-link">
                     <a href="#" className={previousLinkClass} onClick={this.previousVariation.bind(this)}>
@@ -172,6 +213,26 @@ export default class DropdownList extends React.Component {
             );
         }
 
+        // DIY selector
+        let diySelector = null;
+        if (this.hasDIY) {
+            const checkboxAlignment = variationsDropdown ? 'text-right' : 'text-center';
+            diySelector = (
+                <div className={checkboxAlignment + ' mt-2 mb-2'}>
+                    <div className="form-check">
+                        <input type="checkbox" className="form-check-input"
+                               id={this.props.entityType + '-' + this.props.entityId + '-diy'}
+                               onChange={this.toggleDIY}
+                               checked={this.state.diySelected} />
+                        <label className="form-check-label"
+                               htmlFor={this.props.entityType + '-' + this.props.entityId + '-diy'}>
+                            Recipe
+                        </label>
+                    </div>
+                </div>
+            );
+        }
+
         return (
             <div className="entity-slider-container">
                 <div className="d-flex justify-content-between align-items-center entity-slider">
@@ -184,6 +245,7 @@ export default class DropdownList extends React.Component {
                     {nextLink}
                 </div>
                 {nameDiv}
+                {diySelector}
                 <div className={buttonContainerClass}>
                     <div>
                         <div className={'dropdown-list-container dropdown ' + showClass}>
@@ -197,6 +259,22 @@ export default class DropdownList extends React.Component {
                 </div>
             </div>
         );
+    }
+
+    /**
+     * Toggle whether or not a DIY is selected based on the checkbox state.
+     *
+     * @param e
+     */
+    toggleDIY(e) {
+        if (e.target && e.target.type === 'checkbox') {
+            const diySelected = e.target.checked;
+            this.setState({
+                diySelected: diySelected,
+                variationIndex: -1, // always reset
+                selectedVariation: diySelected ? diyVariationId : undefined // set to special val or reset
+            });
+        }
     }
 
     /**
@@ -359,10 +437,12 @@ export default class DropdownList extends React.Component {
      */
     previousVariation(e) {
         e.preventDefault();
-        if (this.state.variationIndex <= 0) {
-            this.setSelectedVariation(undefined);
-        } else {
-            this.setSelectedVariation(this.variations[this.state.variationIndex - 1].key);
+        if (!this.state.diySelected) {
+            if (this.state.variationIndex <= 0) {
+                this.setSelectedVariation(undefined);
+            } else {
+                this.setSelectedVariation(this.variations[this.state.variationIndex - 1].key);
+            }
         }
     }
 
@@ -372,10 +452,12 @@ export default class DropdownList extends React.Component {
      */
     nextVariation(e) {
         e.preventDefault();
-        if (this.state.variationIndex >= this.variations.length - 1) {
-            this.setSelectedVariation(this.variations[this.variations.length - 1].key);
-        } else {
-            this.setSelectedVariation(this.variations[this.state.variationIndex + 1].key);
+        if (!this.state.diySelected) {
+            if (this.state.variationIndex >= this.variations.length - 1) {
+                this.setSelectedVariation(this.variations[this.variations.length - 1].key);
+            } else {
+                this.setSelectedVariation(this.variations[this.state.variationIndex + 1].key);
+            }
         }
     }
 

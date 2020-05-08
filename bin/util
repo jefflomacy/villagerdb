@@ -17,6 +17,32 @@ async function generateSitemap() {
     sitemap.generateMap();
 }
 
+/**
+ * Computes tags for items.
+ *
+ * @param item
+ * @returns {[]}
+ */
+function computeTags(item) {
+    const tags = [];
+
+    // Check if craftable - TODO dont like the way this is done but need 2 options to show as filterable!
+    if (item.games && item.games.nh && item.games.nh.recipe && Object.keys(item.games.nh.recipe).length > 0) {
+        tags.push('Craftable');
+    } else if (item.games && item.games.nh) {
+        tags.push('Not Craftable');
+    }
+
+    if (tags.length > 0) {
+        return tags;
+    }
+}
+
+/**
+ * Build the ElasticSearch index.
+ *
+ * @returns {Promise<void>}
+ */
 async function buildSearchIndex() {
     const newIndexName = 'i' + Date.now();
 
@@ -104,9 +130,6 @@ async function buildSearchIndex() {
                 fashionTheme: {
                     type: 'keyword'
                 },
-                orderable: {
-                    type: 'boolean'
-                },
                 set: {
                     type: 'keyword'
                 },
@@ -136,15 +159,19 @@ async function buildSearchIndex() {
                 variationImages: {
                     type: 'object',
                     enabled: false
+                },
+                tag: {
+                    type: 'keyword'
                 }
             }
         }
     });
 
+    // Add villagers and items.
     await indexVillagers(es, newIndexName);
     await indexItems(es, newIndexName);
 
-    // Save the new index to the cache.
+    // Save the new index name to the cache.
     const oldIndexName = await cache.get(searchConfig.CACHE_INDEX_NAME);
     await cache.set(searchConfig.CACHE_INDEX_NAME, newIndexName);
     console.log('New index name: ' + newIndexName);
@@ -255,12 +282,12 @@ async function indexItems(es, newIndexName) {
             url: urlHelper.getEntityUrl(searchConfig.itemEntityType, parsed.id),
             image: redisItem.image,
             variations: redisItem.variations,
-            variationImages: redisItem.variationImages
+            variationImages: redisItem.variationImages,
+            tag: computeTags(redisItem)
         };
 
         for (let game in parsed.games) {
             document.game.push(game);
-            document.orderable = parsed.games[game].orderable ? true : false;
             document.interiorTheme = parsed.games[game].interiorThemes;
             document.fashionTheme = parsed.games[game].fashionThemes;
             document.set = parsed.games[game].set;
@@ -292,6 +319,9 @@ async function buildRedisDb() {
     console.log('Items database populated.');
 }
 
+/**
+ * Entry point starts here.
+ */
 if (process.argv.length !== 3) {
     process.exit(1);
 }

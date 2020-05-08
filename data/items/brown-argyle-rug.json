@@ -3,6 +3,7 @@
   "name": "Brown Argyle Rug",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

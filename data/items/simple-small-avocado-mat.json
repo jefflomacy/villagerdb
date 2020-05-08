@@ -3,9 +3,6 @@
   "name": "Simple Small Avocado Mat",
   "games": {
     "nh": {
-      "sources": [
-        "Nook's Cranny"
-      ],
       "sellPrice": {
         "currency": "bells",
         "value": 250

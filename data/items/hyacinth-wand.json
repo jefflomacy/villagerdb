@@ -7,6 +7,10 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1660
+      },
+      "recipe": {
+        "pink-hyacinths": 1,
+        "star-fragment": 3
       }
     }
   },

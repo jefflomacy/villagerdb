@@ -2,7 +2,9 @@
   "id": "square-mailbox",
   "name": "Square Mailbox",
   "games": {
-    "nh": {}
+    "nh": {
+      "orderable": false
+    }
   },
   "category": "Furniture"
 }

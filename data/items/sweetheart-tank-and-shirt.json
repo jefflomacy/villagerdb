@@ -3,6 +3,10 @@
   "name": "Sweetheart Tank And Shirt",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 300

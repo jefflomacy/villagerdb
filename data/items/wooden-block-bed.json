@@ -3,6 +3,7 @@
   "name": "Wooden-block Bed",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",

@@ -3,6 +3,7 @@
   "name": "Wasp-head Model",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 625

@@ -3,16 +3,14 @@
   "name": "Gold Rose Crown",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 12000
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 48000
-        }
-      ],
+      "recipe": {
+        "gold-roses": 6
+      },
       "variations": {
         "gold": "Gold"
       }

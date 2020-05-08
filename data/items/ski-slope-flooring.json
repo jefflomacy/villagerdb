@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 12800
         }
-      ]
+      ],
+      "recipe": {
+        "snowflake": 8
+      }
     }
   },
   "category": "Flooring"

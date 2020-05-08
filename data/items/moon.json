@@ -25,16 +25,11 @@
       ]
     },
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 12500
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 50000
-        }
-      ],
       "recipe": {
         "star-fragment": 15,
         "large-star-fragment": 1

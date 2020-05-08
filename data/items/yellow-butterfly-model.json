@@ -3,6 +3,7 @@
   "name": "Yellow Butterfly Model",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 480

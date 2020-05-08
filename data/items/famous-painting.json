@@ -37,7 +37,11 @@
           "currency": "bells",
           "value": 4980
         }
-      ]
+      ],
+      "variations": {
+        "real": "Real",
+        "fake": "Fake"
+      }
     }
   }
 }

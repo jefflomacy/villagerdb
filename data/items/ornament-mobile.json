@@ -3,16 +3,17 @@
   "name": "Ornament Mobile",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 340
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 1360
-        }
-      ],
+      "recipe": {
+        "red-ornament": 1,
+        "blue-ornament": 1,
+        "gold-ornament": 1,
+        "tree-branch": 4
+      },
       "variations": {
         "colorful": "Colorful",
         "blue": "Blue",

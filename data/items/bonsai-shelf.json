@@ -12,7 +12,12 @@
           "currency": "bells",
           "value": 33840
         }
-      ]
+      ],
+      "recipe": {
+        "cherry-blossom-bonsai": 1,
+        "pine-bonsai-tree": 1,
+        "wood": 8
+      }
     }
   },
   "category": "Furniture"

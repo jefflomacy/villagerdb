@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 16000
         }
-      ]
+      ],
+      "recipe": {
+        "cherry": 20
+      }
     }
   },
   "category": "Wallpaper"

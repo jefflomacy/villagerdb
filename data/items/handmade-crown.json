@@ -1,19 +1,19 @@
 {
-  "id": "red-handmade-cape",
-  "name": "Red Handmade Cape",
+  "id": "handmade-crown",
+  "name": "Handmade Crown",
   "games": {
     "nh": {
       "sellPrice": {
         "currency": "bells",
-        "value": 125
+        "value": 75
       },
       "buyPrices": [
         {
           "currency": "bells",
-          "value": 500
+          "value": 300
         }
       ]
     }
   },
-  "category": "Tops"
+  "category": "Hats"
 }

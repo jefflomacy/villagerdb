@@ -7,6 +7,10 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1580
+      },
+      "recipe": {
+        "white-cosmos": 1,
+        "star-fragment": 3
       }
     }
   },

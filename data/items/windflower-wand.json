@@ -7,6 +7,10 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1580
+      },
+      "recipe": {
+        "orange-windflowers": 1,
+        "star-fragment": 3
       }
     }
   },

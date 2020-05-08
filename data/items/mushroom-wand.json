@@ -8,6 +8,10 @@
         "currency": "bells",
         "value": 3300
       },
+      "recipe": {
+        "skinny-mushroom": 3,
+        "star-fragment": 3
+      },
       "variations": {
         "ordinary-mushroom": "Ordinary mushroom",
         "white-mushroom": "White mushroom",

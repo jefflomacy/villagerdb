@@ -3,6 +3,7 @@
   "name": "Bone Doorplate",
   "games": {
     "nh": {
+      "orderable": true,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",

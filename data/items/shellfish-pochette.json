@@ -8,6 +8,10 @@
         "currency": "bells",
         "value": 10800
       },
+      "recipe": {
+        "giant-clam": 2,
+        "summer-shell": 6
+      },
       "variations": {
         "white": "White"
       }

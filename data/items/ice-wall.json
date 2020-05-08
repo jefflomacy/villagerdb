@@ -27,7 +27,11 @@
           "currency": "bells",
           "value": 32800
         }
-      ]
+      ],
+      "recipe": {
+        "large-snowflake": 1,
+        "snowflake": 8
+      }
     }
   }
 }

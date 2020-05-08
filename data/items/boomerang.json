@@ -30,6 +30,9 @@
           "value": 1440
         }
       ],
+      "recipe": {
+        "hardwood": 3
+      },
       "variations": {
         "natural": "Natural",
         "green-orange": "Green & orange",

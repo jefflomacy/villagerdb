@@ -8,6 +8,9 @@
         "currency": "bells",
         "value": 800
       },
+      "recipe": {
+        "bamboo-piece": 5
+      },
       "variations": {
         "green-bamboo": "Green bamboo",
         "dried-bamboo": "Dried bamboo",

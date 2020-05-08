@@ -3,6 +3,7 @@
   "name": "Blue-design Kitchen Mat",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

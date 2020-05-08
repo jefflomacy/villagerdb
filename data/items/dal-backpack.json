@@ -4,6 +4,9 @@
   "games": {
     "nh": {
       "orderable": false,
+      "sources": [
+        "In the mail"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 1010

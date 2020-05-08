@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 80000
         }
-      ]
+      ],
+      "recipe": {
+        "star-fragment": 10,
+        "iron-nugget": 20
+      }
     }
   },
   "category": "Furniture"

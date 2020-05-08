@@ -13,6 +13,9 @@
           "value": 6000
         }
       ],
+      "recipe": {
+        "iron-nugget": 2
+      },
       "variations": {
         "black": "Black",
         "white": "White",

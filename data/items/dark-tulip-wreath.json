@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 6400
         }
-      ]
+      ],
+      "recipe": {
+        "black-tulips": 10
+      }
     }
   },
   "category": "Furniture"

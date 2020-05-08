@@ -12,7 +12,12 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "recipe": {
+        "blue-windflowers": 3,
+        "pink-windflowers": 3,
+        "white-windflowers": 3
+      }
     }
   },
   "category": "Furniture"

@@ -3,16 +3,11 @@
   "name": "Cool Pansy Crown",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 960
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 3840
-        }
-      ],
       "recipe": {
         "orange-pansies": 3,
         "blue-pansies": 3

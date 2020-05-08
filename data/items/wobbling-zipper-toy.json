@@ -3,6 +3,7 @@
   "name": "Wobbling Zipper Toy",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": false,
       "sellPrice": {
         "currency": "bells",

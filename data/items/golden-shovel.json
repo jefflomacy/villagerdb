@@ -18,6 +18,10 @@
       "sellPrice": {
         "currency": "bells",
         "value": 10675
+      },
+      "recipe": {
+        "gold-nugget": 1,
+        "shovel": 1
       }
     }
   }

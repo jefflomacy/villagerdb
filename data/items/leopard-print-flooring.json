@@ -3,6 +3,10 @@
   "name": "Leopard-print Flooring",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook's Cranny"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 325

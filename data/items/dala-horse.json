@@ -33,12 +33,6 @@
         "currency": "bells",
         "value": 1300
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 5200
-        }
-      ],
       "variations": {
         "red": "Red",
         "blue": "Blue",

@@ -7,6 +7,10 @@
       "sellPrice": {
         "currency": "bells",
         "value": 1550
+      },
+      "recipe": {
+        "tree-branch": 5,
+        "star-fragment": 3
       }
     }
   },

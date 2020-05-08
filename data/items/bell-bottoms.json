@@ -3,6 +3,7 @@
   "name": "Bell-bottoms",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Able Sisters"
       ],

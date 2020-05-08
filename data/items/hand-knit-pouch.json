@@ -3,6 +3,10 @@
   "name": "Hand-knit Pouch",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Kicks"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 312

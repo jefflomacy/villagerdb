@@ -3,6 +3,7 @@
   "name": "Natural Wooden-deck Rug",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

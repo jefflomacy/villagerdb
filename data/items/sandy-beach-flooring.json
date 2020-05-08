@@ -3,6 +3,7 @@
   "name": "Sandy-beach Flooring",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": false,
       "sellPrice": {
         "currency": "bells",
@@ -19,8 +20,7 @@
         "venus-comb": 1,
         "sand-dollar": 1,
         "coral": 1,
-        "giant-clam": 1,
-        "cowrie": 1
+        "giant-clam": 1
       }
     }
   },

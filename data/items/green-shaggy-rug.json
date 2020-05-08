@@ -3,6 +3,7 @@
   "name": "Green Shaggy Rug",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

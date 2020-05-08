@@ -3,6 +3,7 @@
   "name": "Oval Entrance Mat",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

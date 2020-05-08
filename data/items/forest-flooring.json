@@ -12,7 +12,14 @@
           "currency": "bells",
           "value": 140000
         }
-      ]
+      ],
+      "recipe": {
+        "rare-mushroom": 1,
+        "round-mushroom": 2,
+        "skinny-mushroom": 2,
+        "flat-mushroom": 2,
+        "clump-of-weeds": 10
+      }
     }
   },
   "category": "Flooring"

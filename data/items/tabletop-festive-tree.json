@@ -13,6 +13,11 @@
           "value": 3720
         }
       ],
+      "recipe": {
+        "gold-ornament": 5,
+        "tree-branch": 3,
+        "clay": 2
+      },
       "variations": {
         "colorful": "Colorful",
         "blue": "Blue",

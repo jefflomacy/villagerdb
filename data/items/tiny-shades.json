@@ -23,6 +23,7 @@
       ]
     },
     "nh": {
+      "orderable": true,
       "sources": [
         "Able Sisters"
       ],

@@ -3,6 +3,10 @@
   "name": "Poncho-style Sweater",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 375

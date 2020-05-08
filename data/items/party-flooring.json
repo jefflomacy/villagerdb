@@ -3,6 +3,9 @@
   "name": "Party Flooring",
   "games": {
     "nh": {
+      "sources": [
+        "Birthday present"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 370

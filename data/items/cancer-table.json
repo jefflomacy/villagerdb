@@ -27,6 +27,7 @@
       ]
     },
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 21975
@@ -36,7 +37,13 @@
           "currency": "bells",
           "value": 87900
         }
-      ]
+      ],
+      "recipe": {
+        "star-fragment": 3,
+        "cancer-fragment": 2,
+        "gold-nugget": 2,
+        "stone": 3
+      }
     }
   }
 }

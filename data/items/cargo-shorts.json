@@ -3,6 +3,7 @@
   "name": "Cargo Shorts",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Able Sisters"
       ],

@@ -3,7 +3,7 @@
   "name": "Springy Ride-on",
   "games": {
     "nh": {
-      "orderable": true,
+      "orderable": false,
       "sources": [
         "Nook Miles System"
       ],

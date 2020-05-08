@@ -13,6 +13,11 @@
           "value": 16480
         }
       ],
+      "recipe": {
+        "pine-cone": 6,
+        "acorn": 4,
+        "hardwood": 1
+      },
       "variations": {
         "brown": "Brown",
         "white": "White"

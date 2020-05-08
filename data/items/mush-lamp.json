@@ -19,16 +19,15 @@
       ]
     },
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1600
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 6400
-        }
-      ],
+      "recipe": {
+        "skinny-mushroom": 1,
+        "clay": 5
+      },
       "variations": {
         "ordinary-mushroom": "Ordinary mushroom",
         "white-mushroom": "White mushroom",

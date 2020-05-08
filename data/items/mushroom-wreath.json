@@ -3,16 +3,17 @@
   "name": "Mushroom Wreath",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1500
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 6000
-        }
-      ]
+      "recipe": {
+        "tree-branch": 10,
+        "round-mushroom": 1,
+        "skinny-mushroom": 1,
+        "flat-mushroom": 1
+      }
     }
   },
   "category": "Furniture"

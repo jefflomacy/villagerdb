@@ -34,6 +34,12 @@
           "value": 5600
         }
       ],
+      "recipe": {
+        "red-ornament": 3,
+        "blue-ornament": 3,
+        "gold-ornament": 2,
+        "wood": 5
+      },
       "variations": {
         "colorful": "Colorful",
         "blue": "Blue",

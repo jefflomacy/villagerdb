@@ -3,9 +3,14 @@
   "name": "Colored-leaves Flooring",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 4300
+      },
+      "recipe": {
+        "maple-leaf": 10,
+        "clump-of-weeds": 15
       }
     }
   },

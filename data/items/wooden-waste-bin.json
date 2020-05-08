@@ -3,6 +3,7 @@
   "name": "Wooden Waste Bin",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",

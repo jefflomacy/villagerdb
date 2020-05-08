@@ -3,17 +3,12 @@
   "name": "Natural Square Table",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1980
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 7920
-        }
-      ],
       "recipe": {
         "hardwood": 4,
         "iron-nugget": 2

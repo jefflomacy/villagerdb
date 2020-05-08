@@ -3,6 +3,10 @@
   "name": "Long Denim Cardigan",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 500

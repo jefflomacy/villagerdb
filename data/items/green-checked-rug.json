@@ -3,6 +3,7 @@
   "name": "Green Checked Rug",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

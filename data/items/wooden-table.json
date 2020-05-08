@@ -3,6 +3,7 @@
   "name": "Wooden Table",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1800

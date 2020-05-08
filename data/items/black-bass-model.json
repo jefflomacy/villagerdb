@@ -3,6 +3,7 @@
   "name": "Black Bass Model",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1200

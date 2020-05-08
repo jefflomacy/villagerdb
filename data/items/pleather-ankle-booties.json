@@ -3,6 +3,10 @@
   "name": "Pleather Ankle Booties",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 320

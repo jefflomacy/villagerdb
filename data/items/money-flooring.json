@@ -3,6 +3,7 @@
   "name": "Money Flooring",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": false,
       "sellPrice": {
         "currency": "bells",

@@ -3,16 +3,15 @@
   "name": "Red-leaf Pile",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1280
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 5120
-        }
-      ]
+      "recipe": {
+        "maple-leaf": 3,
+        "clump-of-weeds": 4
+      }
     }
   },
   "category": "Furniture"

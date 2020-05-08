@@ -3,6 +3,11 @@
   "name": "Labelle Sunglasses",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Label",
+        "Able Sisters after unlocking from Label"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 500

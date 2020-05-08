@@ -3,6 +3,7 @@
   "name": "Black Blocks Rug",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

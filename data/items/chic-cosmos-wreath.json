@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 19200
         }
-      ]
+      ],
+      "recipe": {
+        "black-cosmos": 10
+      }
     }
   },
   "category": "Furniture"

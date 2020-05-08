@@ -3,17 +3,12 @@
   "name": "Golden Dishes",
   "games": {
     "nh": {
+      "orderable": false,
       "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 10000
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 40000
-        }
-      ],
       "recipe": {
         "gold-nugget": 1
       }

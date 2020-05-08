@@ -3,18 +3,13 @@
   "name": "Log Decorative Shelves",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 1560
       },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 6240
-        }
-      ],
       "recipe": {
-        "log-bench": 1,
+        "log-bench": 2,
         "hardwood": 3
       },
       "variations": {

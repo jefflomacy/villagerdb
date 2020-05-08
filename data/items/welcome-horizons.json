@@ -3,6 +3,10 @@
   "name": "Welcome Horizons",
   "games": {
     "nh": {
+      "sources": [
+        "Reward for K.K.'s first visit",
+        "Request from K.K."
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 800

@@ -3,6 +3,7 @@
   "name": "Double-bridge Glasses",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Able Sisters"
       ],

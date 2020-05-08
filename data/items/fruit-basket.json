@@ -26,7 +26,14 @@
           "currency": "bells",
           "value": 4000
         }
-      ]
+      ],
+      "recipe": {
+        "apple": 1,
+        "pear": 1,
+        "cherry": 1,
+        "orange": 1,
+        "peach": 1
+      }
     }
   }
 }

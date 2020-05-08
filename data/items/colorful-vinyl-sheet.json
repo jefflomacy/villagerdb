@@ -3,6 +3,7 @@
   "name": "Colorful Vinyl Sheet",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

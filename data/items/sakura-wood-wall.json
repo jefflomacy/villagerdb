@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 12800
         }
-      ]
+      ],
+      "recipe": {
+        "cherry-blossom-petal": 5,
+        "wood": 10
+      }
     }
   },
   "category": "Wallpaper"

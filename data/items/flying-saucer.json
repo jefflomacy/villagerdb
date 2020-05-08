@@ -33,7 +33,11 @@
           "currency": "bells",
           "value": 60000
         }
-      ]
+      ],
+      "recipe": {
+        "star-fragment": 15,
+        "iron-nugget": 10
+      }
     }
   }
 }

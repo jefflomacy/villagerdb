@@ -12,7 +12,10 @@
           "currency": "bells",
           "value": 4800
         }
-      ]
+      ],
+      "recipe": {
+        "flat-mushroom": 3
+      }
     }
   },
   "category": "Umbrellas"

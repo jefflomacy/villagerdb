@@ -7,7 +7,8 @@
     "build-js": "webpack --mode production",
     "build-css": "lessc public/stylesheets/style.less public/stylesheets/style.css -x",
     "watch-less": "grunt",
-    "watch-js": "webpack --mode development --watch"
+    "watch-js": "webpack --mode development --watch",
+    "validate-schemas": "node ./bin/validate"
   },
   "dependencies": {
     "@babel/core": "^7.7.2",
@@ -52,7 +53,8 @@
     "grunt-cli": "^1.3.2",
     "grunt-contrib-less": "^2.0.0",
     "grunt-contrib-watch": "^1.1.0",
-    "nodemon": "^2.0.2"
+    "nodemon": "^2.0.2",
+    "jsonschema": "^1.2.6"
   },
   "nodemonConfig": {
     "ignore": [

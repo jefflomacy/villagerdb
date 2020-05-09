@@ -1,0 +1,21 @@
+#!/usr/bin/env node
+
+const path = require("path");
+const fs = require("fs");
+
+const validate = require("jsonschema").validate;
+const itemSchema = require("../data/models/item");
+
+const dataStorePath = path.join("data", "items");
+const files = fs.readdirSync(dataStorePath);
+
+for (let file of files) {
+  const filePath = path.join(dataStorePath, file);
+  console.log("Processing " + filePath);
+  const data = fs.readFileSync(filePath, "utf8");
+  const parsed = JSON.parse(data);
+  const validation = validate(parsed, itemSchema);
+  if (!validation.valid) {
+    throw Error(validation.errors);
+  }
+}

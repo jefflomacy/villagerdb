@@ -30,6 +30,15 @@ module.exports = {
     game: {
       type: "object",
       properties: {
+        name: {
+          type: "object",
+          patternProperties: {
+            // Localization key
+            "^[\\w-]+$": {
+              type: "string",
+            },
+          },
+        },
         orderable: {
           type: "boolean",
         },
@@ -55,9 +64,6 @@ module.exports = {
   type: "object",
   properties: {
     id: {
-      type: "string",
-    },
-    name: {
       type: "string",
     },
     games: {
@@ -116,6 +122,7 @@ module.exports = {
             recipe: {
               type: "object",
               patternProperties: {
+                // Recipe key
                 "^[\\w-]+$": {
                   type: "integer",
                 },
@@ -125,6 +132,7 @@ module.exports = {
             variations: {
               type: "object",
               patternProperties: {
+                // Variation key
                 "^[\\w-]+$": {
                   type: "string",
                 },

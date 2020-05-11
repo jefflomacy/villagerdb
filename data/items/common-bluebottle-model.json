@@ -3,6 +3,9 @@
   "name": "Common Bluebottle Model",
   "games": {
     "nh": {
+      "sources": [
+        "Flick (Give 3)"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 900

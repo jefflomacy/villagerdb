@@ -3,6 +3,7 @@
   "name": "Cute Sofa",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 2400

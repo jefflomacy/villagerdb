@@ -3,6 +3,7 @@
   "name": "Cat Grass",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 142

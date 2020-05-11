@@ -3,6 +3,10 @@
   "name": "Rad Power Skirt Suit",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 560

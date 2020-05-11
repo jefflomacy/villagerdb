@@ -3,6 +3,7 @@
   "name": "Welcome Horizons",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Reward for K.K.'s first visit",
         "Request from K.K."
@@ -10,13 +11,7 @@
       "sellPrice": {
         "currency": "bells",
         "value": 800
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 3200
-        }
-      ]
+      }
     }
   },
   "category": "Music"

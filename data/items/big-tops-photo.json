@@ -3,6 +3,7 @@
   "name": "Big Top's Photo",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Gift from villager"
       ],

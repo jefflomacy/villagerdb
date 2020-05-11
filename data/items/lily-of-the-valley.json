@@ -1,0 +1,17 @@
+{
+  "id": "lily-of-the-valley",
+  "name": "Lily Of The Valley",
+  "games": {
+    "nh": {
+      "orderable": false,
+      "sources": [
+        "Grow on island after you have a 5 star evaluation"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 222
+      }
+    }
+  },
+  "category": "Flowers"
+}

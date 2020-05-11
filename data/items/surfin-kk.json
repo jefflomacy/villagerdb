@@ -24,6 +24,11 @@
       ]
     },
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook Shopping"
+      ],
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 800

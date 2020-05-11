@@ -4,6 +4,9 @@
   "games": {
     "nh": {
       "orderable": false,
+      "sources": [
+        "Celeste"
+      ],
       "customizable": false,
       "sellPrice": {
         "currency": "bells",

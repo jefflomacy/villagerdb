@@ -3,6 +3,10 @@
   "name": "Pleather Shoulder Bag",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Kicks"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 600

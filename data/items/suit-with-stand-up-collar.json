@@ -3,6 +3,10 @@
   "name": "Suit With Stand-up Collar",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 450

@@ -3,6 +3,7 @@
   "name": "Elaborate Kimono Stand",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 55000

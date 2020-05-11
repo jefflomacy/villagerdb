@@ -3,6 +3,7 @@
   "name": "Simple Small Brown Mat",
   "games": {
     "nh": {
+      "orderable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 250

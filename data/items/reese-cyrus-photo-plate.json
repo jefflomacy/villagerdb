@@ -1,0 +1,19 @@
+{
+  "id": "reese-cyrus-photo-plate",
+  "name": "Reese & Cyrus Photo Plate",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 100
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 400
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

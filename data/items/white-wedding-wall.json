@@ -1,12 +1,8 @@
 {
-  "id": "security-monitors-wall",
-  "name": "Security-monitors Wall",
+  "id": "white-wedding-wall",
+  "name": "White Wedding Wall",
   "games": {
     "nh": {
-      "orderable": false,
-      "sources": [
-        "Saharah"
-      ],
       "sellPrice": {
         "currency": "bells",
         "value": 750

@@ -1,0 +1,19 @@
+{
+  "id": "white-wedding-tuxedo",
+  "name": "White Wedding Tuxedo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3000
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 12000
+        }
+      ]
+    }
+  },
+  "category": "Dresses"
+}

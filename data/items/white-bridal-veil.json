@@ -1,0 +1,19 @@
+{
+  "id": "white-bridal-veil",
+  "name": "White Bridal Veil",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1150
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 4600
+        }
+      ]
+    }
+  },
+  "category": "Hats"
+}

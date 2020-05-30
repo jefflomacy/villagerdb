@@ -1,12 +1,8 @@
 {
-  "id": "security-monitors-wall",
-  "name": "Security-monitors Wall",
+  "id": "brown-wedding-flooring",
+  "name": "Brown Wedding Flooring",
   "games": {
     "nh": {
-      "orderable": false,
-      "sources": [
-        "Saharah"
-      ],
       "sellPrice": {
         "currency": "bells",
         "value": 750
@@ -19,5 +15,5 @@
       ]
     }
   },
-  "category": "Wallpaper"
+  "category": "Flooring"
 }

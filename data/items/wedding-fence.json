@@ -1,0 +1,23 @@
+{
+  "id": "wedding-fence",
+  "name": "Wedding Fence",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 411
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1644
+        }
+      ],
+      "recipe": {
+        "iron-nugget": 5,
+        "softwood": 3
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,20 +1,16 @@
 {
-  "id": "security-monitors-wall",
-  "name": "Security-monitors Wall",
+  "id": "wedding-party-wall",
+  "name": "Wedding-party Wall",
   "games": {
     "nh": {
-      "orderable": false,
-      "sources": [
-        "Saharah"
-      ],
       "sellPrice": {
         "currency": "bells",
-        "value": 750
+        "value": 437
       },
       "buyPrices": [
         {
           "currency": "bells",
-          "value": 3000
+          "value": 1750
         }
       ]
     }

@@ -4,6 +4,7 @@
   "games": {
     "nh": {
       "orderable": false,
+      "customizable": false,
       "sources": [
         "CJ"
       ],

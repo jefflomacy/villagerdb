@@ -31,6 +31,7 @@
     },
     "nh": {
       "orderable": true,
+      "customizable": false,
       "sources": [
         "Nook shopping"
       ],

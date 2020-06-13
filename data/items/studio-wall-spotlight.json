@@ -3,6 +3,8 @@
   "name": "Studio Wall Spotlight",
   "games": {
     "nh": {
+      "orderable": true,
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 575

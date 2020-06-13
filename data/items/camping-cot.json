@@ -4,6 +4,7 @@
   "games": {
     "nh": {
       "orderable": true,
+      "customizable": false,
       "sources": [
         "Nook's Cranny",
         "Tom Nook on your first day"

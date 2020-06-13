@@ -19,6 +19,7 @@
     },
     "nh": {
       "orderable": true,
+      "customizable": true,
       "sources": [
         "Nook Miles System"
       ],

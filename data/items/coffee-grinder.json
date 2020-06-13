@@ -18,6 +18,7 @@
     },
     "nh": {
       "orderable": true,
+      "customizable": false,
       "sources": [
         "Nook's Cranny"
       ],

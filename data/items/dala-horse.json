@@ -28,7 +28,7 @@
       "sources": [
         "Gulliver"
       ],
-      "customizable": false,
+      "customizable": true,
       "sellPrice": {
         "currency": "bells",
         "value": 1300

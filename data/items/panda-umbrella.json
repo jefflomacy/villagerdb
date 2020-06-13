@@ -2,6 +2,10 @@
   "id": "panda-umbrella",
   "name": "Panda Umbrella",
   "games": {
+    "orderable": true,
+    "sources": [
+      "Nook's Cranny"
+    ],
     "nh": {
       "sellPrice": {
         "currency": "bells",

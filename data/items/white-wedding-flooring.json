@@ -3,6 +3,7 @@
   "name": "White Wedding Flooring",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 750

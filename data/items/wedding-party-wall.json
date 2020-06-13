@@ -3,6 +3,7 @@
   "name": "Wedding-party Wall",
   "games": {
     "nh": {
+      "orderable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 437

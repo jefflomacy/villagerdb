@@ -211,7 +211,7 @@ async function indexVillagers(es, newIndexName) {
             suggest: {
                 input: parsed.name
             },
-            keyword: parsed.id,
+            keyword: formatHelper.getSlug(parsed.name),
             gender: parsed.gender,
             species: parsed.species,
             name: parsed.name,
@@ -274,7 +274,7 @@ async function indexItems(es, newIndexName) {
             suggest: {
                 input: parsed.name
             },
-            keyword: parsed.id,
+            keyword: formatHelper.getSlug(parsed.name),
             name: parsed.name,
             ngram: parsed.name,
             category: parsed.category,

@@ -134,6 +134,7 @@ async function loadList(username, listId, loggedInUser) {
 function organizeData(listId, entity, type, variationId) {
     let entityData = {};
     entityData.name = entity.name;
+    entityData.nameSlug = format.getSlug(entity.name);
     entityData.id = entity.id;
     entityData.type = type;
     entityData.image = entity.image.thumb;
@@ -150,6 +151,7 @@ function organizeData(listId, entity, type, variationId) {
             variationDisplay = entity.variations[variationId];
         }
         entityData.variationId = variationId;
+        entityData.variationSlug = format.getSlug(variationDisplay);
         entityData.variation = '(' + variationDisplay + ')';
         entityData.deleteUrl += '/' + variationId;
         entityData._sortKey += '-vv-' + variationId;

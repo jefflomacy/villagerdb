@@ -251,22 +251,22 @@ module.exports.listSortComparator = listSortComparator;
  * @returns {number}
  */
 function listItemSortComparator(a, b) {
-    if (a.id < b.id) {
+    if (a.nameSlug < b.nameSlug) {
         return -1;
-    } else if (a.id > b.id) {
+    } else if (a.nameSlug > b.nameSlug) {
         return 1;
     }
 
     // If we're still here, and there's a variation ID, sort on it.
-    if (a.variationId && b.variationId) {
-        if (a.variationId < b.variationId) {
+    if (a.variationSlug && b.variationSlug) {
+        if (a.variationSlug < b.variationSlug) {
             return -1;
-        } else if (a.variationId > b.variationId) {
+        } else if (a.variationSlug > b.variationSlug) {
             return 1;
         }
-    } else if (!a.variationId && b.variationId) {
+    } else if (!a.variationSlug && b.variationSlug) {
         return -1;
-    } else if (a.variationId && !b.variationId) {
+    } else if (a.variationSlug && !b.variationSlug) {
         return 1;
     }
 }

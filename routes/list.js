@@ -167,6 +167,47 @@ router.post('/create', listValidation, (req, res) => {
 });
 
 /**
+ * Route for getting the list import page.
+ */
+router.get('/import', (req, res, next) => {
+    const data = {};
+    data.pageTitle = 'Import List';
+    data.errors = req.session.errors;
+    data.listNameLength = maxListNameLength;
+    delete req.session.errors;
+
+    if (res.locals.userState.isRegistered) {
+        res.render('import-list', data);
+    } else {
+        res.redirect('/login'); // create an account to continue
+    }
+})
+
+/**
+ * Route for POSTing imported list to the database.
+ */
+router.post('/import', listValidation, (req, res) => {
+    // Only registered users here.
+    if (!res.locals.userState.isRegistered) {
+        res.redirect('/');
+        return;
+    }
+
+    const listName = req.body['list-name'];
+    const errors = validationResult(req);
+
+    if (!errors.isEmpty()) {
+        req.session.errors = errors.array();
+        res.redirect('/list/import');
+    } else {
+        lists.createList(req.user.id, format.getSlug(listName), listName)
+            .then(() => {
+                res.redirect('/user/' + req.user.username);
+            })
+    }
+});
+
+/**
  * Route for getting the rename-list page.
  */
 router.get('/rename/:listId', (req, res, next) => {

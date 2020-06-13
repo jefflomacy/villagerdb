@@ -1,0 +1,26 @@
+<h1>Import a list</h1>
+<p>You can import a list using <a href="https://twitter.com/CatalogScanner">CatalogScanner</a>.
+Follow the instructions and paste the link in here to import your catalog quickly and easily!</p>
+{{#each errors}}
+    <div class="alert alert-danger">
+        {{msg}}
+    </div>
+{{/each}}
+<form method="post" action="/list/import">
+    <div class="form-group">
+        <label for="list-name">List Name</label>
+        <input type="text" name="list-name" class="form-control" id="list-name"
+               aria-describedby="list-name-help" placeholder="Enter list name" maxlength={{listNameLength}}>
+        <small id="list-name-help" class="form-text text-muted">
+            You can still edit your list later!
+        </small>
+        <hr>
+        <label for="list-url">Import URL</label>
+        <input type="url" name="list-url" class="form-control" id="list-url"
+               aria-describedby="list-url-help" placeholder="Enter import URL">
+        <small id="list-url-help" class="form-text text-muted">
+            Enter the URL from the CatalogScanner app (e.g. ehsan.lol/xyz)
+        </small>
+    </div>
+    <button type="submit" name="submit" class="btn btn-primary">Submit</button>
+</form>

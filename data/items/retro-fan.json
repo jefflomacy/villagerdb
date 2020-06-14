@@ -3,6 +3,11 @@
   "name": "Retro Fan",
   "games": {
     "nh": {
+      "orderable": true,
+      "customizable": false,
+      "sources": [
+        "Nook's Cranny"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 525

@@ -3,6 +3,10 @@
   "name": "Ribbon-straps Tank",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 240

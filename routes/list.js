@@ -1,6 +1,8 @@
 const express = require('express');
 const router = express.Router();
+const axios = require('axios');
 const lists = require('../db/entity/lists');
+const items = require('../db/entity/items');
 const {validationResult, body} = require('express-validator');
 const format = require('../helpers/format');
 
@@ -84,6 +86,39 @@ async function getUserListsForEntity(listId, entityType, entityId, variationId) 
         return result;
     } else {
         return [];
+    }
+}
+
+/**
+ * Logic for handling list importing from CatalogScanner
+ *
+ * @param req
+ * @param listName
+ * @param listUrl
+ * @returns {Promise<string>}
+ */
+async function listImport(req, listName, listUrl) {
+    const ehsanUrl = 'https://ehsan.lol'
+    const formedUrl = new URL(listUrl);
+    if (formedUrl.origin !== ehsanUrl) {
+        // URL is not what we are expecting
+        return '/list/import';
+    } else {
+        const https = axios.create();
+        https.defaults.timeout = 5000;
+        https.defaults.timeoutErrorMessage = "ehsan.lol took too long to respond...";
+
+        const urlResponse = await https.get(listUrl);
+        const importEntityList = urlResponse.data.trim().split('\n');
+        await importEntityList.forEach((entity, index) => {
+            const sluggedName = format.getSlug(entity);
+            importEntityList[index] = sluggedName;
+        });
+
+        const redisItems = await items.getByIds(importEntityList);
+        await lists.createList(req.user.id, format.getSlug(listName), listName);
+        await lists.importItemsToList(req.user.id, format.getSlug(listName), redisItems);
+        return '/user/' + req.user.username + '/list/' + format.getSlug(listName);
     }
 }
 
@@ -186,24 +221,26 @@ router.get('/import', (req, res, next) => {
 /**
  * Route for POSTing imported list to the database.
  */
-router.post('/import', listValidation, (req, res) => {
+router.post('/import', listValidation, (req, res, next) => {
     // Only registered users here.
     if (!res.locals.userState.isRegistered) {
         res.redirect('/');
         return;
     }
 
-    const listName = req.body['list-name'];
     const errors = validationResult(req);
+    const listName = req.body['list-name'];
+    const url = req.body['list-url']
 
     if (!errors.isEmpty()) {
         req.session.errors = errors.array();
         res.redirect('/list/import');
     } else {
-        lists.createList(req.user.id, format.getSlug(listName), listName)
-            .then(() => {
-                res.redirect('/user/' + req.user.username);
+        listImport(req, listName, url)
+            .then((redirect) => {
+                res.redirect(redirect);
             })
+            .catch(next);
     }
 });
 

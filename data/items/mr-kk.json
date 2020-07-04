@@ -25,6 +25,7 @@
       ]
     },
     "nh": {
+      "orderable": true,
       "sources": [
         "Nook Shopping"
       ],

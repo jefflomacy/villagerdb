@@ -22,7 +22,8 @@
     "nh": {
       "orderable": true,
       "sources": [
-        "Nook Shopping"
+        "Nook Shopping",
+        "Nook's Cranny"
       ],
       "customizable": false,
       "sellPrice": {

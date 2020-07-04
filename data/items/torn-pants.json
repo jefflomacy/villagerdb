@@ -3,6 +3,10 @@
   "name": "Torn Pants",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Recycling Bin"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 10

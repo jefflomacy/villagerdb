@@ -3,6 +3,7 @@
   "name": "Magic-circle Rug",
   "games": {
     "nh": {
+      "orderable": true,
       "sources": [
         "Saharah"
       ],

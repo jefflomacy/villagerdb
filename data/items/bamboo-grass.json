@@ -21,6 +21,7 @@
       "sources": [
         "Nook Shopping (seasonally available until July 31st)"
       ],
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 770

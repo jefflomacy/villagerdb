@@ -24,6 +24,9 @@
       ]
     },
     "nh": {
+      "sources": [
+        "Pascal"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 10480

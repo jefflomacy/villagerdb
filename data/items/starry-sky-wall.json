@@ -3,6 +3,7 @@
   "name": "Starry-sky Wall",
   "games": {
     "nh": {
+      "orderable": false,
       "sources": [
         "Celeste"
       ],

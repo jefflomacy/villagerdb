@@ -1,12 +1,13 @@
 {
   "id": "writing-poster",
-  "name": "Writing Poster",
+  "name": "Study Poster",
   "games": {
     "nh": {
       "orderable": true,
       "sources": [
         "Nook's Cranny"
       ],
+      "customizable": false,
       "sellPrice": {
         "currency": "bells",
         "value": 160

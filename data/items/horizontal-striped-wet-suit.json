@@ -1,12 +1,22 @@
 {
-  "id": "horizontal-striped-wet-suit-",
-  "name": "Horizontal-striped Wet Suit ",
+  "id": "horizontal-striped-wet-suit",
+  "name": "Horizontal-striped Wet Suit",
   "games": {
     "nh": {
+      "orderable": true,
+      "sources": [
+        "Nook's Cranny"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 750
       },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3000
+        }
+      ],
       "variations": {
         "red": "Red",
         "blue": "Blue",

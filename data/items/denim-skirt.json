@@ -25,7 +25,8 @@
     "nh": {
       "orderable": true,
       "sources": [
-        "Able Sisters"
+        "Able Sisters",
+        "Nook Shopping"
       ],
       "sellPrice": {
         "currency": "bells",

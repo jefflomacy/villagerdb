@@ -3,6 +3,10 @@
   "name": "Mermaid Shoes",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Pascal"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 450

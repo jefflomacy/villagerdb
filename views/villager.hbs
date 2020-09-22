@@ -35,10 +35,12 @@
                 <td class="bg-light text-dark font-weight-bold">Gender</td>
                 <td>{{gender}}</td>
             </tr>
-            <tr>
-                <td class="bg-light text-dark font-weight-bold">Birthday</td>
-                <td>{{birthday}} ({{zodiac}})</td>
-            </tr>
+            {{#if birthday}}
+                <tr>
+                    <td class="bg-light text-dark font-weight-bold">Birthday</td>
+                    <td>{{birthday}} ({{zodiac}})</td>
+                </tr>
+            {{/if}}
             {{#if collab}}
                 <tr>
                     <td class="bg-light text-dark font-weight-bold">Collaboration</td>

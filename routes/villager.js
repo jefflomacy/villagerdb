@@ -19,9 +19,6 @@ function formatVillager(villager) {
         let momentBirthdate = moment(villager.birthday + '-2000', 'MM-DD-YYYY'); // we only store month/year, so add 2000.
         result.birthday = momentBirthdate.format('MMMM Do');
         result.zodiac = format.getZodiac(momentBirthdate);
-    } else {
-        result.birthday = 'Unknown'; // TODO
-        result.zodiac = 'Unknown'; // TODO
     }
 
     // All the game-specific data, sort games in reverse chronological order.
@@ -88,8 +85,8 @@ function generateParagraph(villager, formattedVillager) {
 
     // Build paragraph
     let paragraph = name + ' is ' + format.aOrAn(personality.toLowerCase()) + ' ' + species + ' villager. ' +
-        format.capFirstLetter(pronoun) + ' was born on ' + birthday + ' and ' + posessivePronoun +
-        ' star sign  is ' + zodiac + '. ';
+        (birthday ? format.capFirstLetter(pronoun) + ' was born on ' + birthday + ' and ' + posessivePronoun +
+        ' star sign  is ' + zodiac + '. ' : '');
     if (gameData.clothesName) {
         paragraph += name + ' wears the ' + gameData.clothesName + '. ';
     }

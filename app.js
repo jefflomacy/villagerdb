@@ -20,6 +20,7 @@ const authRouter = require('./routes/auth');
 const userRouter = require('./routes/user');
 const listRouter = require('./routes/list');
 const randomRouter = require('./routes/random');
+const imageResizer = require('./routes/images');
 
 const app = express();
 
@@ -60,6 +61,9 @@ app.use('/auth', authRouter);
 app.use('/list', listRouter);
 app.use('/user', userRouter);
 app.use('/random', randomRouter);
+
+// For image resizing.
+app.use(imageResizer);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {

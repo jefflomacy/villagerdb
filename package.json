@@ -42,6 +42,7 @@
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "redis": "^2.8.0",
+    "sharp": "^0.26.1",
     "slick-carousel": "^1.8.1",
     "underscore": "^1.9.1",
     "webpack": "^4.41.2",

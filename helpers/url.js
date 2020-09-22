@@ -62,12 +62,28 @@ const staticCache = {};
 /**
  * The path for an image that can't be found.
  *
- * @param type THUMB, MEDIUM or FULL.
+ * @param size THUMB, MEDIUM or FULL.
  * @returns {string}
  */
-function getImageNotFoundFilename(type) {
-    return '/images/image-not-available-' + type + '.svg';
+function getImageNotFoundFilename(size) {
+    return '/images/image-not-available-' + size + '.svg';
 }
+
+/**
+ * Create the URL suffix hash for a file.
+ * @param filePath path to the file to hash
+ *
+ * @returns {string|undefined}
+ */
+function createFileHash(filePath) {
+    if (fs.existsSync(filePath)) {
+        const fileStr = fs.readFileSync(filePath, 'utf8');
+        return crypto.createHash('md5')
+            .update(fileStr, 'utf8')
+            .digest('hex')
+            .substr(0, HASH_LENGTH);
+    }
+};
 
 /**
  * Insert hash string into the last segment of URL before file extension.
@@ -125,8 +141,6 @@ module.exports.VILLAGER = VILLAGER;
  * @param imageType: one of THUMB, MEDIUM or FULL.
  * @param id
  * @param variationId if defined, refer to the variation image
- * @param usePlaceholderImage if true (default), returns a placeholder image instead of undefined if image does not
- * exist on disk.
  * @returns {string}
  */
 const getImageUrl = (entityType, imageType, id, variationId = undefined,
@@ -136,7 +150,9 @@ const getImageUrl = (entityType, imageType, id, variationId = undefined,
         if (variationId) {
             imageId += '-vv-' + variationId;
         }
-        const pathPrefix = './public/images/' + entityType + 's/' + imageType + '/' + imageId;
+
+        // Always use full image for checking existence - other types are generated
+        const pathPrefix = './public/images/' + entityType + 's/' + FULL + '/' + imageId;
         if (fs.existsSync(pathPrefix + '.png')) {
             return '/images/' + entityType + 's/' + imageType + '/' + imageId + '.png';
         } else if (fs.existsSync(pathPrefix + '.jpg')) {
@@ -144,11 +160,6 @@ const getImageUrl = (entityType, imageType, id, variationId = undefined,
         } else if (fs.existsSync(pathPrefix + '.jpeg')) {
             return '/images/' + entityType + 's/' + imageType + '/' + imageId + '.jpeg';
         }
-    }
-
-    // Image not found.
-    if (usePlaceholderImage) {
-        return getImageNotFoundFilename(imageType);
     }
 }
 module.exports.getImageUrl = getImageUrl;
@@ -165,10 +176,23 @@ module.exports.getImageUrl = getImageUrl;
  */
 module.exports.getEntityImageData = (entityType, id, variationId = undefined,
                                      usePlaceholderImage = true) => {
+    // Get the full size image URL... does the image exist?
+    const url = getImageUrl(entityType, FULL, id, variationId);
+    if (!url) {
+        // Return image not found images if we're supposed to.
+        return {
+            thumb: usePlaceholderImage ? getImageNotFoundFilename(THUMB) : undefined,
+            medium: usePlaceholderImage ? getImageNotFoundFilename(MEDIUM) : undefined,
+            full: usePlaceholderImage ? getImageNotFoundFilename(FULL) : undefined
+        };
+    }
+
+    // Otherwise, get the hash and compute some URLs.
+    const hash = createFileHash(path.join(process.cwd(), 'public', url));
     return {
-        thumb: computeStaticAssetUrl(getImageUrl(entityType, THUMB, id, variationId, usePlaceholderImage)),
-        medium: computeStaticAssetUrl(getImageUrl(entityType, MEDIUM, id, variationId, usePlaceholderImage)),
-        full: computeStaticAssetUrl(getImageUrl(entityType, FULL, id, variationId, usePlaceholderImage))
+        thumb: computeStaticAssetUrl(getImageUrl(entityType, THUMB, id, variationId), hash),
+        medium: computeStaticAssetUrl(getImageUrl(entityType, MEDIUM, id, variationId), hash),
+        full: computeStaticAssetUrl(getImageUrl(entityType, FULL, id, variationId), hash)
     };
 };
 
@@ -185,24 +209,21 @@ module.exports.getEntityUrl = (entityType, id) => {
 
 /**
  * Compute a static asset URL suitable for CDN use. Computations are not cached.
+ *
  * @param inputUrl
- * @returns {string}
+ * @param computedHash optional hash to add - if not set, will be computed
+ * @returns {string|undefined}
  */
-const computeStaticAssetUrl = (inputUrl) => {
+const computeStaticAssetUrl = (inputUrl, computedHash) => {
     if (typeof inputUrl !== 'string') {
-        return;
+        return undefined;
     }
 
-    const filePath = path.join(process.cwd(), 'public', inputUrl);
-    if (fs.existsSync(filePath)) {
-        const fileStr = fs.readFileSync(filePath, 'utf8');
-        const hash = crypto.createHash('md5')
-            .update(fileStr, 'utf8')
-            .digest('hex')
-            .substr(0, HASH_LENGTH);
+    const hash = computedHash ? computedHash : createFileHash(path.join(process.cwd(), 'public', inputUrl));
+    if (hash) {
         return addHashToUrl(inputUrl, hash);
     } else {
-        // No such file. Just return as is.
+        // Hashing failed. Return as-is.
         return inputUrl;
     }
 };

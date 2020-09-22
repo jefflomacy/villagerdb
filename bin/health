@@ -18,12 +18,6 @@ function reportOnImage(entityId, variationId) {
     if (!imageData.full) {
         missing.push('full');
     }
-    if (!imageData.medium) {
-        missing.push('medium');
-    }
-    if (!imageData.thumb) {
-        missing.push('thumb');
-    }
 
     return missing;
 }

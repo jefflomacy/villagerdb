@@ -50,13 +50,13 @@ module.exports = (req, res, next) => {
         }
 
         // Does the referenced file exist as a full image?
-        const originalFile = path.join('public', 'images', entityType, 'full', file);
+        const originalFile = path.join(process.cwd(), 'public', 'images', entityType, 'full', file);
         if (!fs.existsSync(originalFile)) {
             next(); // bail
         }
 
         // Build the new file
-        const newFile = path.join('public', 'images', entityType, size, file);
+        const newFile = path.join(process.cwd(), 'public', 'images', entityType, size, file);
         sharp(originalFile)
             .resize(RESIZE_RULES[entityType][size].width, RESIZE_RULES[entityType][size].height,
                 {

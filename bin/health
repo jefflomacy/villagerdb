@@ -12,8 +12,6 @@ const urlHelper = require('../helpers/url');
  * @param variationId
  */
 function isImageMissing(entityId, variationId) {
-    const missing = [];
-
     const imageData = urlHelper.getEntityImageData(urlHelper.ITEM, entityId, variationId, false);
     if (!imageData) {
         return true;

@@ -143,8 +143,7 @@ module.exports.VILLAGER = VILLAGER;
  * @param variationId if defined, refer to the variation image
  * @returns {string}
  */
-const getImageUrl = (entityType, imageType, id, variationId = undefined,
-                     usePlaceholderImage = true) => {
+const getImageUrl = (entityType, imageType, id, variationId = undefined) => {
     if (imageType == THUMB || imageType == MEDIUM || imageType == FULL) {
         let imageId = id;
         if (variationId) {

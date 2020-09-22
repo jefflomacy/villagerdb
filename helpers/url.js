@@ -171,7 +171,7 @@ module.exports.getImageUrl = getImageUrl;
  * @param variationId if defined, refer to the variation image
  * @param usePlaceholderImage if true (default), returns a placeholder image instead of undefined if image does not
  * exist on disk.
- * @returns {{thumb: *, medium: *, full: *}}
+ * @returns {{thumb: *, medium: *, full: *}|undefined}
  */
 module.exports.getEntityImageData = (entityType, id, variationId = undefined,
                                      usePlaceholderImage = true) => {
@@ -179,11 +179,15 @@ module.exports.getEntityImageData = (entityType, id, variationId = undefined,
     const url = getImageUrl(entityType, FULL, id, variationId);
     if (!url) {
         // Return image not found images if we're supposed to.
-        return {
-            thumb: usePlaceholderImage ? getImageNotFoundFilename(THUMB) : undefined,
-            medium: usePlaceholderImage ? getImageNotFoundFilename(MEDIUM) : undefined,
-            full: usePlaceholderImage ? getImageNotFoundFilename(FULL) : undefined
-        };
+        if (usePlaceholderImage) {
+            return {
+                thumb:  getImageNotFoundFilename(THUMB),
+                medium: getImageNotFoundFilename(MEDIUM),
+                full:  getImageNotFoundFilename(FULL)
+            };
+        } else {
+            return;
+        }
     }
 
     // Otherwise, get the hash and compute some URLs.
@@ -215,7 +219,7 @@ module.exports.getEntityUrl = (entityType, id) => {
  */
 const computeStaticAssetUrl = (inputUrl, computedHash) => {
     if (typeof inputUrl !== 'string') {
-        return undefined;
+        return;
     }
 
     const hash = computedHash ? computedHash : createFileHash(path.join(process.cwd(), 'public', inputUrl));

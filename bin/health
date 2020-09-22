@@ -11,15 +11,15 @@ const urlHelper = require('../helpers/url');
  * @param entityId
  * @param variationId
  */
-function reportOnImage(entityId, variationId) {
+function isImageMissing(entityId, variationId) {
     const missing = [];
 
     const imageData = urlHelper.getEntityImageData(urlHelper.ITEM, entityId, variationId, false);
-    if (!imageData.full) {
-        missing.push('full');
+    if (!imageData) {
+        return true;
     }
 
-    return missing;
+    return false;
 }
 
 /**
@@ -33,10 +33,11 @@ function itemHealthReport() {
         const games = Object.keys(parsed.games).join('; ');
 
         // Check base image.
-        const baseOutput = reportOnImage(parsed.id);
+        const baseImageMissing = isImageMissing(parsed.id);
         let basePrinted = false;
-        if (baseOutput.length > 0) {
-            console.log(parsed.id + ' (games: ' + games + '): Missing ' + baseOutput.join(', '));
+        if (baseImageMissing) {
+            console.log(parsed.id + ' (games: ' + games + '):');
+            console.log('\tMissing base image');
             basePrinted = true;
         }
         // Check variants - NH only - and only if more than one
@@ -44,18 +45,17 @@ function itemHealthReport() {
             const variationList = Object.keys(parsed.games.nh.variations);
             if (variationList.length > 1) {
                 for (let variationId of variationList) {
-                    const variationOutput = reportOnImage(parsed.id, variationId);
-                    if (variationOutput.length > 0) {
+                    const variationImageMissing = isImageMissing(parsed.id, variationId);
+                    if (variationImageMissing) {
                         if (!basePrinted) {
                             console.log(parsed.id + ' (games: ' + games + '):');
                             basePrinted = true;
                         }
-                        console.log('\t' + variationId + ': Missing ' + variationOutput.join(', '));
+                        console.log('\t' + variationId + ': Missing variation image');
                     }
                 }
             }
         }
-
     }
 }
 

@@ -14,7 +14,7 @@ module.exports = {
     },
     villagerEntityType: 'villager',
     itemEntityType: 'item',
-    searchResultsPageSize: 25,
+    searchResultsPageSize: 100,
     maxQueryLength: 64,
     textQuerySearchKey: 'q',
     filters: {

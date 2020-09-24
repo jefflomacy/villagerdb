@@ -57,21 +57,31 @@ module.exports = (req, res, next) => {
 
         // Build the new file
         const newFile = path.join(process.cwd(), 'public', 'images', entityType, size, file);
-        sharp(originalFile)
+        const extname = path.extname(newFile).toLowerCase();
+        let resharp = sharp(originalFile)
             .resize(RESIZE_RULES[entityType][size].width, RESIZE_RULES[entityType][size].height,
                 {
                     fit: 'inside',
                     withoutEnlargement: true
-                })
-            .toFile(newFile, (err, info) => {
-                if (err) {
-                    next(err); // bail!
-                }
+                });
 
-                // Send the new file with max age 1 year
-                send(req, newFile, SEND_OPTIONS)
-                    .pipe(res);
-            });
+        // If it's a JPEG, maintain full quality.
+        if (extname === '.jpg' || extname === '.jpeg') {
+            resharp.jpeg({
+                quality: 100
+            })
+        }
+
+        // Save to disk.
+        resharp.toFile(newFile, (err, info) => {
+            if (err) {
+                next(err); // bail!
+            }
+
+            // Send the new file with max age 1 year
+            send(req, newFile, SEND_OPTIONS)
+                .pipe(res);
+        });
     } else {
         next(); // not found
     }

@@ -61,6 +61,7 @@ passport.deserializeUser(function(id, callback) {
                 const userData = {};
                 userData.id = user._id;
                 userData.username = user.username;
+                userData.role = user.role;
                 callback(null, userData);
             } else {
                 callback(null, null);

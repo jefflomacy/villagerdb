@@ -1,0 +1,9 @@
+<h1>Admin</h1>
+
+<h2>CMS Pages</h2>
+<ul>
+    <a href="/{{adminUrlKey}}/cms/create">Create New CMS Page</a>
+    {{#each pages}}
+        <a href="/{{adminUrlKey}}/cms/edit/{{pageId}}">Edit {{pageTitle}}</a> | <a href="#">Delete {{pageTitle}}</a>
+    {{/each}}
+</ul>

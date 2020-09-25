@@ -80,6 +80,9 @@ module.exports = (req, res, next) => {
 
             // Send the new file with max age 1 year
             send(req, newFile, SEND_OPTIONS)
+                .on('error', (err) => {
+                    return next(err);
+                })
                 .pipe(res);
         });
     } else {

@@ -46,13 +46,13 @@ module.exports = (req, res, next) => {
 
         // Is it a valid entity type?
         if (!RESIZE_RULES[entityType] || !RESIZE_RULES[entityType][size]) {
-            next(); // bail
+            return next(); // bail
         }
 
         // Does the referenced file exist as a full image?
         const originalFile = path.join(process.cwd(), 'public', 'images', entityType, 'full', file);
         if (!fs.existsSync(originalFile)) {
-            next(); // bail
+            return next(); // bail
         }
 
         // Build the new file
@@ -75,7 +75,7 @@ module.exports = (req, res, next) => {
         // Save to disk.
         resharp.toFile(newFile, (err, info) => {
             if (err) {
-                next(err); // bail!
+                return next(err); // bail!
             }
 
             // Send the new file with max age 1 year
@@ -83,6 +83,6 @@ module.exports = (req, res, next) => {
                 .pipe(res);
         });
     } else {
-        next(); // not found
+        return next(); // not found
     }
 };

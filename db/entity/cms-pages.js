@@ -94,18 +94,14 @@ class CmsPages {
     }
 
     /**
-     * Walk pages using the given callback function. Useful for admin.
+     * Get all pages in the database.
      *
-     * @param func
-     * @returns {Promise<void>}
+     * @returns {Promise<*>}
      */
-    async walkPages(func) {
+    async getPages() {
         const villagerDb = await this.db.get();
-        const cursor = villagerDb.collection(ENTITY_COLLECTION_NAME)
-            .find({});
-        while (await cursor.hasNext()) {
-            await func(await cursor.next());
-        }
+        return villagerDb.collection(ENTITY_COLLECTION_NAME)
+            .find({}).toArray();
     }
 }
 

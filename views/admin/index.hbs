@@ -5,8 +5,9 @@
     <li><a href="/{{adminUrlKey}}/cms/create">Create New CMS Page</a></li>
     {{#each pages}}
         <li class="deletable-item">
-            <a href="/{{adminUrlKey}}/cms/edit/{{pageId}}">Edit {{pageTitle}}</a>
-            | <a href="#" data-posturl="/{{adminUrlKey}}/cms/delete/{{pageId}}" class="delete-object-button">Delete {{pageTitle}}</a>
+            <a href="/{{../adminUrlKey}}/cms/edit/{{pageId}}">Edit {{pageTitle}}</a>
+            | <a href="#" data-posturl="/{{../adminUrlKey}}/cms/delete/{{pageId}}"
+                 data-shouldconfirm="true" class="delete-object-button">Delete {{pageTitle}}</a>
         </li>
     {{/each}}
 </ul>

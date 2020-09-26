@@ -2,13 +2,7 @@ const express = require('express');
 const router = express.Router();
 const cache = require('../db/cache');
 const repo = require('../db/entity/cms-pages');
-
-/**
- * Redis DB prefix for cms page cache
- *
- * @type {string}
- */
-const CACHE_KEY_PREFIX = 'cmspage:';
+const config = require('../config/common');
 
 /**
  * Cache pages for this amount of time.
@@ -20,7 +14,7 @@ const PAGE_TTL = 3600; // 1 hour
 /* get page */
 router.get('/:pageId', function(req, res, next) {
     // Try cache first
-    cache.get(CACHE_KEY_PREFIX + req.params.pageId)
+    cache.get(config.CMS_CACHE_KEY_PREFIX + req.params.pageId)
         .then((cachedData) => {
             if (cachedData) {
                 // Easy
@@ -43,7 +37,7 @@ router.get('/:pageId', function(req, res, next) {
                         }
 
                         // Update cache and go
-                        cache.set(CACHE_KEY_PREFIX + req.params.pageId, JSON.stringify(pageData), PAGE_TTL)
+                        cache.set(config.CMS_CACHE_KEY_PREFIX + req.params.pageId, JSON.stringify(pageData), PAGE_TTL)
                             .then(() => {
                                 res.render('cms/page', pageData);
                             })

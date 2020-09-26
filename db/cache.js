@@ -37,6 +37,15 @@ class Cache {
             await this.redisClient.expireAsync(this.keyPrefix + key, ttl);
         }
     }
+
+    /**
+     * Delete a cache entry.
+     * @param key
+     * @returns {Promise<void>}
+     */
+    async delete(key) {
+        await this.redisClient.delAsync(this.keyPrefix + key);
+    }
 }
 
 module.exports = new Cache(redis);

@@ -2,6 +2,7 @@ const express = require('express');
 const router = express.Router();
 
 const cms = require('./admin/cms');
+const pages = require('../db/entity/cms-pages');
 
 /**
  * Admin role name in database.
@@ -25,10 +26,18 @@ router.get('/', (req, res, next) => {
         return next();
     }
 
-    res.render('admin/index', {
+    const data = {
         pageTitle: 'Admin',
         adminUrlKey: process.env.ADMIN_URL_KEY
-    });
+    };
+
+    // Fill in cms pages
+    pages.getPages()
+        .then((pages) => {
+            data.pages = pages;
+            res.render('admin/index', data);
+        })
+        .catch(next);
 });
 
 router.get('/cms/create', (req, res, next) => {
@@ -39,12 +48,28 @@ router.get('/cms/create', (req, res, next) => {
     cms.showCreateOrUpdate(req, res, next);
 });
 
+router.post('/cms/create', (req, res, next) => {
+    if (!isAuthorized(req, res)) {
+        return next();
+    }
+
+    cms.save(req, res, next);
+});
+
 router.get('/cms/edit/:pageId', (req, res, next) => {
     if (!isAuthorized(req, res)) {
         return next();
     }
 
     cms.showCreateOrUpdate(req, res, next);
+});
+
+router.post('/cms/edit/:pageId', (req, res, next) => {
+    if (!isAuthorized(req, res)) {
+        return next();
+    }
+
+    cms.save(req, res, next);
 });
 
 router.post('/cms/delete/:pageId', (req, res, next) => {

@@ -1,0 +1,39 @@
+<a href="/{{adminUrlKey}}">Back to admin</a>
+{{#if page.pageId}}
+    <h1>Edit page</h1>
+    <p><a href="/cms/{{page.pageId}}">Go to page</a></p>
+{{else}}
+    <h1>Create page</h1>
+{{/if}}
+{{#each errors}}
+    <div class="alert alert-danger">
+        {{msg}}
+    </div>
+{{/each}}
+<form method="post" action="/{{adminUrlKey}}/{{#if page.pageId}}cms/edit/{{page.pageId}}{{else}}cms/create{{/if}}">
+    <div class="form-group">
+        <label for="page-id">Page ID (url key)</label>
+        <input type="text" name="page-id" class="form-control" id="page-id"
+               {{#if page.pageId}}value="{{page.pageId}}" disabled{{/if}}>
+    </div>
+    <div class="form-group">
+        <label for="page-title">Page Title</label>
+        <input type="text" name="page-title" class="form-control" id="page-title"
+               {{#if page.pageTitle}}value="{{page.pageTitle}}"{{/if}}>
+    </div>
+    <div class="form-group">
+        <label for="page-description">Page Description</label>
+        <input type="text" name="page-description" class="form-control" id="page-description"
+               {{#if page.pageDescription}}value="{{page.pageDescription}}"{{/if}}>
+    </div>
+    <div class="form-group">
+        <label for="page-image">Page Image</label>
+        <input type="text" name="page-image" class="form-control" id="page-image"
+               {{#if page.pageImage}}value="{{page.pageImage}}"{{/if}}>
+    </div>
+    <div class="form-group">
+        <label for="page-content">Page Content</label>
+        <textarea name="page-content" class="form-control" id="page-content">{{page.pageContent}}</textarea>
+    </div>
+    <button type="submit" name="submit" class="btn btn-primary">Submit</button>
+</form>

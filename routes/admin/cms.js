@@ -1,4 +1,6 @@
 const pages = require('../../db/entity/cms-pages');
+const cache = require('../../db/cache');
+const config = require('../../config/common');
 const {validationResult, body} = require('express-validator');
 
 /**
@@ -10,6 +12,7 @@ const {validationResult, body} = require('express-validator');
  */
 module.exports.showCreateOrUpdate = (req, res, next) => {
     const data = {};
+    data.adminUrlKey = process.env.ADMIN_URL_KEY;
     data.pageTitle = 'CMS Page Add / Edit';
     data.page = {};
     data.page.pageId = req.params.pageId;
@@ -53,12 +56,11 @@ module.exports.showCreateOrUpdate = (req, res, next) => {
  * @param next
  */
 module.exports.save = (req, res, next) => {
-    const pageId = req.params.pageId ? req.params.pageId : format.getSlug(req.body['pageId']);
+    const pageId = req.params.pageId ? req.params.pageId : req.body['page-id'];
     const isNewPage = typeof req.params.pageId === 'undefined';
     let errors = validationResult(req).array();
 
     // Check if any errors
-    errors = errors.concat(results.errors);
     if (errors.length > 0) {
         req.session.errors = errors;
         req.session.pageSubmitData = {};
@@ -72,7 +74,6 @@ module.exports.save = (req, res, next) => {
             res.redirect(process.env.ADMIN_URL_KEY + '/cms/create');
         }
     } else {
-        const pageId = req.body['page-id'];
         const pageTitle = req.body['page-title'];
         const pageDescription = req.body['page-description'];
         const pageImage = req.body['page-image'];
@@ -81,14 +82,19 @@ module.exports.save = (req, res, next) => {
             // It's a new town
             pages.createPage(pageId, pageTitle, pageDescription, pageImage, pageContent)
                 .then(() => {
-                    res.redirect(process.env.ADMIN_URL_KEY + '/cms/edit/' + pageId);
+                    res.redirect('/' + process.env.ADMIN_URL_KEY + '/cms/edit/' + pageId);
                 })
                 .catch(next);
         } else {
             // Existing town
             pages.savePage(pageId, pageTitle, pageDescription, pageImage, pageContent)
                 .then(() => {
-                    res.redirect(process.env.ADMIN_URL_KEY + '/cms/edit/' + pageId);
+                    // Clear it from the cache
+                    cache.delete(config.CMS_CACHE_KEY_PREFIX + pageId)
+                        .then(() => {
+                            res.redirect('/' + process.env.ADMIN_URL_KEY + '/cms/edit/' + pageId);
+                        })
+                        .catch(next);
                 })
                 .catch(next);
         }

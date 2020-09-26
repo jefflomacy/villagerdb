@@ -17,13 +17,7 @@ const ADMIN_ROLE = 'admin';
  * @returns {boolean}
  */
 function isAuthorized(req, res) {
-    if (res.locals.userState.isRegistered) {
-        if (req.user.role === ADMIN_ROLE) {
-            return true;
-        }
-    }
-
-    return false;
+    return res.locals.userState.isRegistered && req.user.role === ADMIN_ROLE;
 }
 
 router.get('/', (req, res, next) => {
@@ -42,7 +36,7 @@ router.get('/cms/create', (req, res, next) => {
         return next();
     }
 
-    cms.createOrUpdate(req, res, next);
+    cms.showCreateOrUpdate(req, res, next);
 });
 
 router.get('/cms/edit/:pageId', (req, res, next) => {
@@ -50,15 +44,15 @@ router.get('/cms/edit/:pageId', (req, res, next) => {
         return next();
     }
 
-    cms.createOrUpdate(req, res, next);
+    cms.showCreateOrUpdate(req, res, next);
 });
 
 router.post('/cms/delete/:pageId', (req, res, next) => {
     if (!isAuthorized(req, res)) {
         return next();
     }
-    
+
     cms.delete(req, res, next);
-})
+});
 
 module.exports = router;

@@ -2,8 +2,11 @@
 
 <h2>CMS Pages</h2>
 <ul>
-    <a href="/{{adminUrlKey}}/cms/create">Create New CMS Page</a>
+    <li><a href="/{{adminUrlKey}}/cms/create">Create New CMS Page</a></li>
     {{#each pages}}
-        <a href="/{{adminUrlKey}}/cms/edit/{{pageId}}">Edit {{pageTitle}}</a> | <a href="#">Delete {{pageTitle}}</a>
+        <li class="deletable-item">
+            <a href="/{{adminUrlKey}}/cms/edit/{{pageId}}">Edit {{pageTitle}}</a>
+            | <a href="#" data-posturl="/{{adminUrlKey}}/cms/delete/{{pageId}}" class="delete-object-button">Delete {{pageTitle}}</a>
+        </li>
     {{/each}}
 </ul>

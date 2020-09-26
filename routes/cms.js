@@ -4,13 +4,6 @@ const cache = require('../db/cache');
 const repo = require('../db/entity/cms-pages');
 const config = require('../config/common');
 
-/**
- * Cache pages for this amount of time.
- *
- * @type {number}
- */
-const PAGE_TTL = 3600; // 1 hour
-
 /* get page */
 router.get('/:pageId', function(req, res, next) {
     // Try cache first
@@ -39,7 +32,8 @@ router.get('/:pageId', function(req, res, next) {
                         }
 
                         // Update cache and go
-                        cache.set(config.CMS_CACHE_KEY_PREFIX + req.params.pageId, JSON.stringify(pageData), PAGE_TTL)
+                        cache.set(config.CMS_CACHE_KEY_PREFIX + req.params.pageId, JSON.stringify(pageData),
+                            config.CMS_PAGE_TTL)
                             .then(() => {
                                 res.render('cms/page', pageData);
                             })

@@ -31,8 +31,10 @@ router.get('/:pageId', function(req, res, next) {
 
                         // Build new SEO data
                         const pageData = page;
-                        pageData.shareUrl = 'https://villagerdb.com/cms/' + page.pageId;
+                        pageData.isCMSPage = true;
+                        pageData.pageUrl = 'https://villagerdb.com/cms/' + page.pageId;
                         if (pageData.pageImage) {
+                            pageData.useLargeImage = true;
                             pageData.pageImage = 'https://villagerdb.com/' + pageData.pageImage;
                         }
 

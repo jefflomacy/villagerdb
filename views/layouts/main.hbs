@@ -17,11 +17,11 @@
     {{#if pageUrl}}
         <meta property="og:url" content="{{pageUrl}}" />
     {{/if}}
-    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:card" content="{{#if useLargeImage}}summary_large_image{{else}}summary{{/if}}" />
     <meta name="twitter:site" content="@villagerdb" />
     <meta name="twitter:title" content="{{#if pageTitle}}{{pageTitle}} | {{/if}}Animal Crossing Item and Villager Database - VillagerDB" />
     <meta property="og:title" content="{{#if pageTitle}}{{pageTitle}} | {{/if}}Animal Crossing Item and Villager Database - VillagerDB" />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content="{{#if isCMSPage}}article{{else}}website{{/if}}" />
     <link rel='stylesheet' href="{{stylesheetUrl}}">
     <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">

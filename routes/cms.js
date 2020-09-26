@@ -33,7 +33,7 @@ router.get('/:pageId', function(req, res, next) {
                         const pageData = page;
                         pageData.shareUrl = 'https://villagerdb.com/cms/' + page.pageId;
                         if (pageData.pageImage) {
-                            pageData.pageImage = 'https://villagerdb.com' + pageData.pageImage;
+                            pageData.pageImage = 'https://villagerdb.com/' + pageData.pageImage;
                         }
 
                         // Update cache and go

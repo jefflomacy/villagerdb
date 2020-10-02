@@ -33,12 +33,16 @@ function formatVillager(villager) {
                 hasClothes: typeof game.clothesName !== 'undefined',
                 clothesName: game.clothesName,
                 clothesUrl: game.clothesUrl,
-                hasPersonality: typeof game.clothes !== 'undefined',
+                hasPersonality: typeof game.personality !== 'undefined',
                 personality: format.capFirstLetter(game.personality),
                 hasPhrase: typeof game.phrase !== 'undefined',
                 phrase: game.phrase,
                 hasSong: typeof game.song !== 'undefined',
                 song: game.song,
+                hasHobby: typeof game.hobby !== 'undefined',
+                hobby: game.hobby,
+                hasSubtype: typeof game.subtype !== 'undefined',
+                subtype: game.subtype
             });
         }
     }

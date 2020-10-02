@@ -37,7 +37,9 @@
     "nh": {
       "personality": "normal",
       "phrase": "bigfoot",
-      "song": "K.K. Ballad"
+      "song": "K.K. Ballad",
+      "hobby": "Music",
+      "subtype": "B"
     }
   },
   "name": "Rhonda",

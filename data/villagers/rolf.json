@@ -49,7 +49,9 @@
     "nh": {
       "personality": "cranky",
       "phrase": "grrrolf",
-      "song": "Spring Blossoms"
+      "song": "Spring Blossoms",
+      "hobby": "Fitness",
+      "subtype": "B"
     }
   },
   "name": "Rolf",

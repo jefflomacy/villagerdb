@@ -36,7 +36,9 @@
     "nh": {
       "personality": "normal",
       "phrase": "beaker",
-      "song": "K.K. Country"
+      "song": "K.K. Country",
+      "hobby": "Music",
+      "subtype": "B"
     }
   },
   "name": "Ava",

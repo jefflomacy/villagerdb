@@ -43,7 +43,9 @@
     "nh": {
       "personality": "normal",
       "phrase": "guvnor",
-      "song": "Surfin' K.K."
+      "song": "Surfin' K.K.",
+      "hobby": "Education",
+      "subtype": "B"
     }
   },
   "name": "Alice",

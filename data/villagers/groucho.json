@@ -41,7 +41,9 @@
     "nh": {
       "personality": "cranky",
       "phrase": "grumble",
-      "song": "K.K. Metal"
+      "song": "K.K. Metal",
+      "hobby": "Music",
+      "subtype": "B"
     }
   },
   "name": "Groucho",

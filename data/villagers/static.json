@@ -49,7 +49,9 @@
     "nh": {
       "personality": "cranky",
       "phrase": "krzzt",
-      "song": "Surfin' K.K."
+      "song": "Surfin' K.K.",
+      "hobby": "Music",
+      "subtype": "B"
     }
   },
   "name": "Static",

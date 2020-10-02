@@ -35,7 +35,9 @@
     "nh": {
       "personality": "peppy",
       "phrase": "chickadee",
-      "song": "K.K. Synth"
+      "song": "K.K. Synth",
+      "hobby": "Play",
+      "subtype": "A"
     }
   },
   "name": "Piper",

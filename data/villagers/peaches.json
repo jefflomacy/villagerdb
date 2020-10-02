@@ -42,7 +42,9 @@
     "nh": {
       "personality": "normal",
       "phrase": "neighbor",
-      "song": "K.K. Song"
+      "song": "K.K. Song",
+      "hobby": "Education",
+      "subtype": "B"
     }
   },
   "name": "Peaches",

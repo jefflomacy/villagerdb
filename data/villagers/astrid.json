@@ -42,7 +42,9 @@
     "nh": {
       "personality": "snooty",
       "phrase": "my pet",
-      "song": "I Love You"
+      "song": "I Love You",
+      "hobby": "Music",
+      "subtype": "B"
     }
   },
   "name": "Astrid",

@@ -31,7 +31,9 @@
     },
     "nh": {
       "personality": "jock",
-      "phrase": "toots"
+      "phrase": "toots",
+      "hobby": "Fitness",
+      "subtype": "A"
     }
   },
   "name": "Louie",

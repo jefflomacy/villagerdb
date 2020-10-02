@@ -42,7 +42,9 @@
     "nh": {
       "personality": "cranky",
       "phrase": "grrr",
-      "song": "K.K. Dirge"
+      "song": "K.K. Dirge",
+      "hobby": "Education",
+      "subtype": "B"
     }
   },
   "name": "Grizzly",

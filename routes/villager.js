@@ -104,6 +104,9 @@ function generateParagraph(villager, formattedVillager) {
     if (gameData.song) {
         paragraph.push(format.capFirstLetter(posessivePronoun) + ' favorite song is ' + gameData.song + '.');
     }
+    if (gameData.hobby) {
+        paragraph.push(name + '\'s favorite hobby is ' + gameData.hobby.toLowerCase());
+    }
     if (gameData.goal) {
         paragraph.push(posessive + ' goal is to be ' + format.aOrAn(gameData.goal.toLowerCase()) + '. ');
     }

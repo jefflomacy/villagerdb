@@ -91,13 +91,13 @@ module.exports = {
             canAggregate: true,
             sort: 8
         },
-        hobby: {
-            name: 'Hobby',
+        subtype: {
+            name: 'Subtype',
             canAggregate: true,
             sort: 9
         },
-        subtype: {
-            name: 'Subtype',
+        hobby: {
+            name: 'Hobby',
             canAggregate: true,
             sort: 10
         },

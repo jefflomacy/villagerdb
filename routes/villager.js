@@ -92,35 +92,38 @@ function generateParagraph(villager, formattedVillager) {
     const zodiac = formattedVillager.zodiac;
 
     // Build paragraph
-    let paragraph = name + ' is ' + format.aOrAn(personality.toLowerCase()) + ' ' + species + ' villager. ' +
-        (birthday ? format.capFirstLetter(pronoun) + ' was born on ' + birthday + ' and ' + posessivePronoun +
-        ' star sign  is ' + zodiac + '. ' : '');
+    const paragraph = [];
+    paragraph.push(name + ' is ' + format.aOrAn(personality.toLowerCase()) + ' ' + species + ' villager. ');
+    if (birthday) {
+        paragraph.push(format.capFirstLetter(pronoun) + ' was born on ' + birthday + ' and ' + posessivePronoun +
+            ' star sign  is ' + zodiac + '. ');
+    }
     if (gameData.clothesName) {
-        paragraph += name + ' wears the ' + gameData.clothesName + '. ';
+        paragraph.push(name + ' wears the ' + gameData.clothesName + '. ');
     }
     if (gameData.song) {
-        paragraph += format.capFirstLetter(posessivePronoun) + ' favorite song is ' + gameData.song + '. ';
+        paragraph.push(format.capFirstLetter(posessivePronoun) + ' favorite song is ' + gameData.song + '.');
     }
     if (gameData.goal) {
-        paragraph += posessive + ' goal is to be ' + format.aOrAn(gameData.goal.toLowerCase()) + '. ';
+        paragraph.push(posessive + ' goal is to be ' + format.aOrAn(gameData.goal.toLowerCase()) + '. ');
     }
     if (gameData.skill) {
-        paragraph += format.capFirstLetter(pronoun) + ' is talented at ' + gameData.skill.toLowerCase() + '. ';
+        paragraph.push(format.capFirstLetter(pronoun) + ' is talented at ' + gameData.skill.toLowerCase() + '. ');
     }
     if (gameData.favoriteStyle && gameData.dislikedStyle) {
-        paragraph += format.capFirstLetter(posessivePronoun) + ' favorite style is ' +
+        paragraph.push(format.capFirstLetter(posessivePronoun) + ' favorite style is ' +
             gameData.favoriteStyle.toLowerCase() + ', but ' + pronoun + ' dislikes the ' +
-            gameData.dislikedStyle.toLowerCase() + ' style. ';
+            gameData.dislikedStyle.toLowerCase() + ' style. ');
     }
     if (gameData.favoriteColor) {
-        paragraph += posessive + ' favorite color is ' + gameData.favoriteColor.toLowerCase() + '. ';
+        paragraph.push(posessive + ' favorite color is ' + gameData.favoriteColor.toLowerCase() + '. ');
     }
     if (gameData.siblings) {
-        paragraph += 'In ' + posessivePronoun + ' family, ' + name + ' is the ' + gameData.siblings.toLowerCase() +
-            '. ';
+        paragraph.push('In ' + posessivePronoun + ' family, ' + name + ' is the ' + gameData.siblings.toLowerCase() +
+            '. ');
     }
 
-    return paragraph;
+    return paragraph.join(' ');
 
 }
 

@@ -162,6 +162,12 @@ async function buildSearchIndex() {
                 },
                 tag: {
                     type: 'keyword'
+                },
+                hobby: {
+                    type: 'keyword'
+                },
+                subtype: {
+                    type: 'keyword'
                 }
             }
         }
@@ -220,16 +226,26 @@ async function indexVillagers(es, newIndexName) {
             image: redisVillager.image,
             game: [],
             personality: [],
+            hobby: [],
+            subtype: [],
             collab: parsed.collab ? parsed.collab : 'Standard'
         };
 
-        // Get unique personalities.
+        // Get unique personalities, hobbies and subtypes.
         for (let game in parsed.games) {
             document.game.push(game);
 
             const personality = parsed.games[game].personality;
+            const hobby = parsed.games[game].hobby;
+            const subtype = parsed.games[game].subtype;
             if (personality && !document.personality.includes(personality)) {
                 document.personality.push(personality);
+            }
+            if (hobby && !document.hobby.includes(hobby)) {
+                document.hobby.push(hobby);
+            }
+            if (subtype && !document.subtype.includes(subtype)) {
+                document.subtype.push(subtype);
             }
         }
 

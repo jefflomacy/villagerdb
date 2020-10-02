@@ -91,6 +91,16 @@ module.exports = {
             canAggregate: true,
             sort: 8
         },
+        hobby: {
+            name: 'Hobby',
+            canAggregate: true,
+            sort: 9
+        },
+        subtype: {
+            name: 'Subtype',
+            canAggregate: true,
+            sort: 10
+        },
         species: {
             name: 'Species',
             values: {
@@ -131,7 +141,7 @@ module.exports = {
                 wolf: 'Wolf',
             },
             canAggregate: true,
-            sort: 9
+            sort: 11
         },
         zodiac: {
             name: 'Star Sign',
@@ -150,12 +160,12 @@ module.exports = {
                 virgo: 'Virgo'
             },
             canAggregate: true,
-            sort: 10
+            sort: 12
         },
         collab: {
             name: 'Collaboration',
             canAggregate: true,
-            sort: 11
+            sort: 13
         }
     }
 };

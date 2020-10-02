@@ -27,14 +27,18 @@ function formatVillager(villager) {
     for (let gameId in format.games) {
         let game = villager.games[gameId];
         if (game) {
+            let personality = format.capFirstLetter(game.personality);
+            if (personality === 'Uchi') {
+                personality += ' (Sisterly)'
+            }
             result.gameTitles.push(format.games[gameId].title);
             result.games.push({
                 gameTitle: format.games[gameId].title,
                 hasClothes: typeof game.clothesName !== 'undefined',
                 clothesName: game.clothesName,
                 clothesUrl: game.clothesUrl,
-                hasPersonality: typeof game.personality !== 'undefined',
-                personality: format.capFirstLetter(game.personality),
+                hasPersonality: typeof personality !== 'undefined',
+                personality: personality,
                 hasPhrase: typeof game.phrase !== 'undefined',
                 phrase: game.phrase,
                 hasSong: typeof game.song !== 'undefined',

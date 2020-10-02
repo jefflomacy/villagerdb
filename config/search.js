@@ -86,7 +86,7 @@ module.exports = {
                 peppy: 'Peppy',
                 smug: 'Smug',
                 snooty: 'Snooty',
-                uchi: 'Uchi'
+                uchi: 'Uchi (Sisterly)'
             },
             canAggregate: true,
             sort: 8

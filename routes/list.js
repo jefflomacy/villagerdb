@@ -101,10 +101,10 @@ async function listImport(req, listName, listId) {
     // Set timeout and make request
     const https = axios.create();
     https.defaults.timeout = 10000; // TODO maybe move to env?
-    https.defaults.timeoutErrorMessage = "ehsan.lol took too long to respond...";
+    https.defaults.timeoutErrorMessage = "nook.lol took too long to respond...";
 
     // use `/raw` endpoint to avoid getting HTML, and `locale=en-us` to translate the response.
-    const requestUrl = 'https://ehsan.lol/' + listId + '/raw?locale=en-us';
+    const requestUrl = 'https://nook.lol/' + listId + '/raw?locale=en-us';
     const urlResponse = await https.get(requestUrl);
 
     // Split up the reply and
@@ -236,9 +236,9 @@ router.post('/import',
     listValidation.concat([
         body(
             'list-url',
-            'Please make sure your URL is of the form ehsan.lol/abc, http://ehsan.lol/xyz, or http://ehsan.lol/jkl.')
+            'Please make sure your URL is of the form nook.lol/abc, http://nook.lol/xyz, or https://nook.lol/jkl.')
             .trim()
-            .matches(/^((http(s?))\:\/\/)?(ehsan\.lol\/)([A-za-z0-9]+)$/)
+            .matches(/^((http(s?))\:\/\/)?((ehsan|nook)\.lol\/)([A-za-z0-9]+)$/)
     ]),
     (req, res, next) => {
     // Only registered users here.

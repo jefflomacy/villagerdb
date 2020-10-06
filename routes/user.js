@@ -8,6 +8,12 @@ const format = require('../helpers/format');
 const consts = require('../helpers/consts');
 
 /**
+ * Reserved name for uncategorized lists.
+ *
+ * @type {string}
+ */
+const UNCATEGORIZED_TEXT = 'Uncategorized';
+/**
  * Load user profile.
  *
  * @param username
@@ -19,15 +25,33 @@ async function loadUser(username) {
         return null;
     }
 
-    // Sort lists alphabetically
-    user.lists.sort(format.listSortComparator);
+    // Build categories
+    const result = {};
+    const categories = {};
+    for (let l of user.lists) {
+        const catName = l.category ? l.category : UNCATEGORIZED_TEXT;
+
+        if (!categories[catName]) {
+            categories[catName] = [];
+        }
+        categories[catName].push(l);
+    }
+    result.categories = {};
+    for (let k of Object.keys(categories).sort()) {
+        if (k !== UNCATEGORIZED_TEXT) {
+            result.categories[k] = categories[k];
+            result.categories[k].sort(format.listSortComparator);
+        }
+    }
+    if (categories[UNCATEGORIZED_TEXT]) {
+        result.categories[UNCATEGORIZED_TEXT] = categories[UNCATEGORIZED_TEXT];
+        result.categories[UNCATEGORIZED_TEXT].sort(format.listSortComparator);
+    }
 
     // Build result out.
-    const result = {};
     result.user = user;
     result.pageTitle = user.username + "'s Profile";
     result.username = user.username;
-    result.lists = user.lists;
     result.hasLists = user.lists.length > 0;
     result.shareUrl = 'https://villagerdb.com/user/' + user.username;
     return result;

@@ -193,6 +193,13 @@ function handleDeleteEntity(req, res, next) {
     }
 }
 
+/**
+ * Form for adding/editing a list.
+ *
+ * @param req
+ * @param res
+ * @param next
+ */
 function showListEditForm(req, res, next) {
     if (!res.locals.userState.isRegistered) {
         res.redirect('/login'); // create an account to continue
@@ -237,7 +244,7 @@ function showListEditForm(req, res, next) {
 }
 
 /**
- * Route for getting the create-list page.
+ * Route for getting the create list page.
  */
 router.get('/create', (req, res, next) => {
     showListEditForm(req, res, next);

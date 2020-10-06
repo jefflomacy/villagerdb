@@ -29,22 +29,25 @@
 {{/if}}
 
 {{#if hasLists}}
-    <ul class="list-group user-list-view">
-        {{#each lists}}
-            <li class="list-group-item d-flex justify-content-between align-items-center deletable-item">
-                <div>
-                    <a href="/user/{{../username}}/list/{{id}}">{{name}}</a>
-                </div>
-                {{#if ../isOwnUser}}
-                    <a href="#" data-posturl="/list/delete/{{id}}" data-shouldconfirm="true"
-                       class="btn btn-danger delete-object-button" role="button">
-                        <span class="fa fa-trash"></span>
-                        <span class="sr-only">Delete</span>
-                    </a>
-                {{/if}}
-            </li>
-        {{/each}}
-    </ul>
+    {{#each categories}}
+        <h2 class="mb-4">{{@key}}</h2>
+        <ul class="list-group user-list-view mb-5">
+            {{#each this}}
+                <li class="list-group-item d-flex justify-content-between align-items-center deletable-item">
+                    <div>
+                        <a href="/user/{{../../username}}/list/{{id}}">{{name}}</a>
+                    </div>
+                    {{#if ../../isOwnUser}}
+                        <a href="#" data-posturl="/list/delete/{{id}}" data-shouldconfirm="true"
+                           class="btn btn-danger delete-object-button" role="button">
+                            <span class="fa fa-trash"></span>
+                            <span class="sr-only">Delete</span>
+                        </a>
+                    {{/if}}
+                </li>
+            {{/each}}
+        </ul>
+    {{/each}}
 {{else}}
     {{#if isOwnUser}}
         <p>

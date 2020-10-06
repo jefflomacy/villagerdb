@@ -1,10 +1,11 @@
 const express = require('express');
 const router = express.Router();
 const axios = require('axios');
-const lists = require('../db/entity/lists');
-const items = require('../db/entity/items');
 const {validationResult, body} = require('express-validator');
-const format = require('../helpers/format');
+
+const lists = require('../../db/entity/lists');
+const items = require('../../db/entity/items');
+const format = require('../../helpers/format');
 
 /**
  * Minimum name length for a list.
@@ -208,6 +209,7 @@ function showListEditForm(req, res, next) {
 
     const data = {};
     data.pageTitle = req.params.listId ? 'Edit List' : 'Create New List';
+    data.username = req.user.username;
     data.listId = req.params.listId;
     data.errors = req.session.errors;
     data.listNameLength = maxListNameLength;

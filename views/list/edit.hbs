@@ -1,3 +1,5 @@
+{{> rev-unit1 }}
+<a href="/user/{{username}}">Back to profile</a>
 <h1>
     {{#if listId}}
         Edit List <span class="text-muted">{{listName}}</span>
@@ -26,9 +28,11 @@
                aria-describedby="category-name-help" placeholder="Clothing Category" maxlength="{{categoryNameLength}}"
                value="{{categoryName}}">
         <small id="category-name-help" class="form-text text-muted">
-            You can change the category of your list by entering a name here. If you don't enter a name, your list
+            <span style="color: red; font-weight: bold;">New!</span> You can change the category of your list by entering a name here. If you don't enter a name, your list
             will show in the uncategorized section of your profile page.
+            <a target="_blank" href="/cms/list-categories-added">Learn More</a>
         </small>
     </div>
     <button type="submit" name="submit" class="btn btn-primary">Submit</button>
 </form>
+{{> rev-unit2 }}

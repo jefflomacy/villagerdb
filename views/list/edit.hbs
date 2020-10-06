@@ -1,0 +1,34 @@
+<h1>
+    {{#if listId}}
+        Edit List <span class="text-muted">{{listName}}</span>
+    {{else}}
+        Create New List
+    {{/if}}
+</h1>
+{{#each errors}}
+    <div class="alert alert-danger">
+        {{msg}}
+    </div>
+{{/each}}
+<form method="post" action="{{#if listId}}/list/edit/{{listId}}{{else}}/list/create{{/if}}">
+    <div class="form-group">
+        <label for="town-name">List Name</label>
+        <input type="text" name="list-name" class="form-control" id="list-name"
+               aria-describedby="list-name-help" placeholder="Enter new list name" maxlength="{{listNameLength}}"
+               value="{{listName}}">
+        <small id="list-name-help" class="form-text text-muted">
+            You can change the name of your list by entering a new name here.
+        </small>
+    </div>
+    <div class="form-group">
+        <label for="town-name">List Category (optional)</label>
+        <input type="text" name="category-name" class="form-control" id="category-name"
+               aria-describedby="category-name-help" placeholder="Clothing Category" maxlength="{{categoryNameLength}}"
+               value="{{categoryName}}">
+        <small id="category-name-help" class="form-text text-muted">
+            You can change the category of your list by entering a name here. If you don't enter a name, your list
+            will show in the uncategorized section of your profile page.
+        </small>
+    </div>
+    <button type="submit" name="submit" class="btn btn-primary">Submit</button>
+</form>

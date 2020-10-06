@@ -21,6 +21,12 @@ const minListNameLength = 3;
 const maxListNameLength = 25;
 
 /**
+ * Maximum length of a list category.
+ *
+ * @type {number}
+ */
+const maxCategoryNameLength = 25;
+/**
  * Validation expression for a list name.
  *
  * @type {RegExp}
@@ -28,19 +34,41 @@ const maxListNameLength = 25;
 const listRegex = /^[A-Za-z0-9][A-Za-z0-9 ]+$/i;
 
 /**
- * List validation rules on name submission.
+ * Validation expression for a category name.
+ *
+ * @type {RegExp}
+ */
+const categoryRegex = /^([A-Za-z0-9][A-Za-z0-9 ])*$/i;
+
+/**
+ * List validation rules on existing list submission.
  *
  * @type {ValidationChain[]}
  */
-const listValidation = [
+const existingListValidation = [
     body(
         'list-name',
         'List names must be between ' + minListNameLength + ' and ' + maxListNameLength + ' characters long.')
+        .trim()
         .isLength({min: minListNameLength, max: maxListNameLength}),
     body(
         'list-name',
         'List names can only have letters, numbers, and spaces, and must start with a letter or number.')
+        .trim()
         .matches(listRegex),
+    body(
+        'list-category',
+        'Category names can only have letters, numbers, and spaces, and must start with a letter or number.')
+        .trim()
+        .matches(categoryRegex)
+];
+
+/**
+ * List validation rules for new lists.
+ *
+ * @type {ValidationChain[]}
+ */
+const newListValidation = existingListValidation.concat([
     body(
         'list-name',
         'You already have a list by that name. Please choose another name.')
@@ -53,7 +81,7 @@ const listValidation = [
                     }
                 });
         })
-];
+]);
 
 /**
  * Method to query database for user lists.
@@ -165,27 +193,60 @@ function handleDeleteEntity(req, res, next) {
     }
 }
 
+function showListEditForm(req, res, next) {
+    if (!res.locals.userState.isRegistered) {
+        res.redirect('/login'); // create an account to continue
+        return;
+    }
+
+    const data = {};
+    data.pageTitle = req.params.listId ? 'Edit List' : 'Create New List';
+    data.listId = req.params.listId;
+    data.errors = req.session.errors;
+    data.listNameLength = maxListNameLength;
+    data.categoryNameLength = maxCategoryNameLength;
+
+    // Previous submission data?
+    if (req.session.listSubmitData) {
+        data.listName = req.session.listSubmitData.listName;
+        data.categoryName = req.session.listSubmitData.categoryName;
+    }
+
+    // If any prior errors or submissions, clean them up.
+    delete req.session.errors;
+    delete req.session.listSubmitData;
+
+    if (!req.params.listId) {
+        res.render('list/edit', data); // new list
+    } else {
+        // Make sure the list exists.
+        lists.getListById(req.user.username, req.params.listId)
+            .then((list) => {
+                if (list) {
+                    if (!req.session.listSubmitData) {
+                        data.listName = list.name;
+                        data.categoryName = list.category;
+                    }
+                    res.render('list/edit', data);
+                } else {
+                    // No such list...
+                    res.redirect('/user/' + req.user.username);
+                }
+            }).catch(next);
+    }
+}
+
 /**
  * Route for getting the create-list page.
  */
 router.get('/create', (req, res, next) => {
-    const data = {};
-    data.pageTitle = 'Create New List';
-    data.errors = req.session.errors;
-    data.listNameLength = maxListNameLength;
-    delete req.session.errors;
-
-    if (res.locals.userState.isRegistered) {
-        res.render('create-list', data);
-    } else {
-        res.redirect('/login'); // create an account to continue
-    }
+    showListEditForm(req, res, next);
 });
 
 /**
  * Route for POSTing new list to the database.
  */
-router.post('/create', listValidation, (req, res) => {
+router.post('/create', newListValidation, (req, res) => {
     // Only registered users here.
     if (!res.locals.userState.isRegistered) {
         res.redirect('/');
@@ -193,16 +254,59 @@ router.post('/create', listValidation, (req, res) => {
     }
 
     const listName = req.body['list-name'];
+    const categoryName = req.body['category-name'];
     const errors = validationResult(req);
 
     if (!errors.isEmpty()) {
         req.session.errors = errors.array();
+        req.session.listSubmitData = {
+            listName: listName,
+            categoryName: categoryName
+        };
         res.redirect('/list/create');
     } else {
-        lists.createList(req.user.id, format.getSlug(listName), listName)
+        lists.createList(req.user.id, format.getSlug(listName), listName, categoryName)
             .then(() => {
                 res.redirect('/user/' + req.user.username);
             })
+    }
+});
+
+/**
+ * Route for getting the edit list page.
+ */
+router.get('/edit/:listId', (req, res, next) => {
+    showListEditForm(req, res, next);
+})
+
+/**
+ * Route for POSTing edit of a list.
+ */
+router.post('/edit/:listId', existingListValidation, (req, res, next) => {
+    // Only registered users here.
+    if (!res.locals.userState.isRegistered) {
+        res.status(403).send();
+        return;
+    }
+
+    const listId = req.params.listId;
+    const newListName = req.body['list-name'];
+    const newCategoryName = req.body['category-name'];
+    const errors = validationResult(req);
+
+    if (!errors.isEmpty()) {
+        req.session.errors = errors.array();
+        req.session.listSubmitData = {
+            listName: newListName,
+            categoryName: newCategoryName
+        };
+        res.redirect('/list/edit/' + listId);
+    } else {
+        lists.updateList(req.user.id, listId, format.getSlug(newListName), newListName, newCategoryName)
+            .then(() => {
+                res.redirect('/user/' + req.user.username + '/list/' + format.getSlug(newListName));
+            })
+            .catch(next);
     }
 });
 
@@ -223,7 +327,7 @@ router.get('/import', (req, res, next) => {
     }
 
     if (res.locals.userState.isRegistered) {
-        res.render('import-list', data);
+        res.render('list/import', data);
     } else {
         res.redirect('/login'); // create an account to continue
     }
@@ -233,7 +337,7 @@ router.get('/import', (req, res, next) => {
  * Route for POSTing imported list to the database.
  */
 router.post('/import',
-    listValidation.concat([
+    newListValidation.concat([
         body(
             'list-url',
             'Please make sure your URL is of the form nook.lol/abc, http://nook.lol/xyz, or https://nook.lol/jkl.')
@@ -277,60 +381,6 @@ router.post('/import',
             req.session.errors = ['URL was incorrect. Please paste the URL given by the CatalogScanner bot.']
             res.redirect('/list/import'); // not going to use failureUrl because this just shouldn't happen...
         }
-    }
-});
-
-/**
- * Route for getting the rename-list page.
- */
-router.get('/rename/:listId', (req, res, next) => {
-    const data = {}
-    data.pageTitle = 'Rename List';
-    data.listId = req.params.listId;
-    data.errors = req.session.errors;
-    data.listNameLength = maxListNameLength;
-    delete req.session.errors;
-
-    if (res.locals.userState.isRegistered) {
-        // Make sure the list exists.
-        lists.getListById(req.user.username, req.params.listId)
-            .then((list) => {
-                if (list) {
-                    data.listName = list.name;
-                    res.render('rename-list', data);
-                } else {
-                    // No such list...
-                    res.redirect('/user/' + req.user.username);
-                }
-            }).catch(next);
-    } else {
-        res.redirect('/login'); // create an account to continue
-    }
-})
-
-/**
- * Route for POSTing new name of a list.
- */
-router.post('/rename/:listId', listValidation, (req, res, next) => {
-    // Only registered users here.
-    if (!res.locals.userState.isRegistered) {
-        res.status(403).send();
-        return;
-    }
-
-    const listId = req.params.listId
-    const newListName = req.body['list-name'];
-    const errors = validationResult(req);
-
-    if (!errors.isEmpty()) {
-        req.session.errors = errors.array();
-        res.redirect('/list/rename/' + listId);
-    } else {
-        lists.renameList(req.user.id, listId, format.getSlug(newListName), newListName)
-            .then(() => {
-                res.redirect('/user/' + req.user.username + '/list/' + format.getSlug(newListName));
-            })
-            .catch(next);
     }
 });
 

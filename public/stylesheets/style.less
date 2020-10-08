@@ -61,7 +61,7 @@ h3, h4, h5, h6 {
 }
 
 #footer {
-  padding: 1rem 0 1rem 0;
+  padding: 1rem 0 100px 0;
 }
 
 table.result-set {
@@ -103,4 +103,18 @@ table.item-game-data {
 
 a.no-link-underline:hover {
   text-decoration: none;
+}
+
+.rev-container {
+  min-height: 90px;
+}
+
+@media (max-width: 1000px) {
+  .rev-container {
+    min-height: 50px;
+  }
+
+  #footer {
+    padding-bottom: 60px;
+  }
 }

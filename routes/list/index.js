@@ -46,7 +46,7 @@ const categoryRegex = /^([A-Za-z0-9][A-Za-z0-9 ])*$/i;
  *
  * @type {ValidationChain[]}
  */
-const existingListValidation = [
+const listValidation = [
     body(
         'list-name',
         'List names must be between ' + minListNameLength + ' and ' + maxListNameLength + ' characters long.')
@@ -61,28 +61,28 @@ const existingListValidation = [
         'list-category',
         'Category names can only have letters, numbers, and spaces, and must start with a letter or number.')
         .trim()
-        .matches(categoryRegex)
-];
-
-/**
- * List validation rules for new lists.
- *
- * @type {ValidationChain[]}
- */
-const newListValidation = existingListValidation.concat([
+        .matches(categoryRegex),
     body(
         'list-name',
         'You already have a list by that name. Please choose another name.')
         .trim()
         .custom((value, {req}) => {
-            return lists.getListById(req.user.username, format.getSlug(value))
+            const newListId = format.getSlug(value);
+            return lists.getListById(req.user.username, newListId)
                 .then((listExists) => {
-                    if (listExists) {
+                    // If it's a new list, we must check this.
+                    if (!req.params.listId && listExists) {
                         return Promise.reject();
+                    } else if (req.params.listId) {
+                        // Slightly more complicated. List is being renamed, but it's only O.K. if the list exists
+                        // if the entered list ID matches the requested list ID.
+                        if (req.params.listId !== newListId && listExists) {
+                            return Promise.reject();
+                        }
                     }
                 });
         })
-]);
+];
 
 /**
  * Method to query database for user lists.
@@ -216,9 +216,11 @@ function showListEditForm(req, res, next) {
     data.categoryNameLength = maxCategoryNameLength;
 
     // Previous submission data?
+    let hadSubmitData = false;
     if (req.session.listSubmitData) {
         data.listName = req.session.listSubmitData.listName;
         data.categoryName = req.session.listSubmitData.categoryName;
+        hadSubmitData = true;
     }
 
     // If any prior errors or submissions, clean them up.
@@ -232,7 +234,7 @@ function showListEditForm(req, res, next) {
         lists.getListById(req.user.username, req.params.listId)
             .then((list) => {
                 if (list) {
-                    if (!req.session.listSubmitData) {
+                    if (!hadSubmitData) {
                         data.listName = list.name;
                         data.categoryName = list.category;
                     }
@@ -255,7 +257,7 @@ router.get('/create', (req, res, next) => {
 /**
  * Route for POSTing new list to the database.
  */
-router.post('/create', newListValidation, (req, res) => {
+router.post('/create', listValidation, (req, res) => {
     // Only registered users here.
     if (!res.locals.userState.isRegistered) {
         res.redirect('/');
@@ -291,7 +293,7 @@ router.get('/edit/:listId', (req, res, next) => {
 /**
  * Route for POSTing edit of a list.
  */
-router.post('/edit/:listId', existingListValidation, (req, res, next) => {
+router.post('/edit/:listId', listValidation, (req, res, next) => {
     // Only registered users here.
     if (!res.locals.userState.isRegistered) {
         res.status(403).send();
@@ -300,6 +302,7 @@ router.post('/edit/:listId', existingListValidation, (req, res, next) => {
 
     const listId = req.params.listId;
     const newListName = req.body['list-name'];
+    const newListId = format.getSlug(newListName);
     const newCategoryName = req.body['category-name'];
     const errors = validationResult(req);
 
@@ -311,7 +314,7 @@ router.post('/edit/:listId', existingListValidation, (req, res, next) => {
         };
         res.redirect('/list/edit/' + listId);
     } else {
-        lists.updateList(req.user.id, listId, format.getSlug(newListName), newListName, newCategoryName)
+        lists.updateList(req.user.id, listId, newListId, newListName, newCategoryName)
             .then(() => {
                 res.redirect('/user/' + req.user.username + '/list/' + format.getSlug(newListName));
             })
@@ -346,7 +349,7 @@ router.get('/import', (req, res, next) => {
  * Route for POSTing imported list to the database.
  */
 router.post('/import',
-    newListValidation.concat([
+    listValidation.concat([
         body(
             'list-url',
             'Please make sure your URL is of the form nook.lol/abc, http://nook.lol/xyz, or https://nook.lol/jkl.')

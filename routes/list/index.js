@@ -264,8 +264,8 @@ router.post('/create', listValidation, (req, res) => {
         return;
     }
 
-    const listName = req.body['list-name'];
-    const categoryName = req.body['category-name'];
+    const listName = req.body['list-name'].trim();
+    const categoryName = req.body['category-name'].trim();
     const errors = validationResult(req);
 
     if (!errors.isEmpty()) {
@@ -301,9 +301,9 @@ router.post('/edit/:listId', listValidation, (req, res, next) => {
     }
 
     const listId = req.params.listId;
-    const newListName = req.body['list-name'];
+    const newListName = req.body['list-name'].trim();
     const newListId = format.getSlug(newListName);
-    const newCategoryName = req.body['category-name'];
+    const newCategoryName = req.body['category-name'].trim();
     const errors = validationResult(req);
 
     if (!errors.isEmpty()) {

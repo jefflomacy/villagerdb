@@ -28,8 +28,16 @@ $(document).ready(() => {
 
     // Delete object buttons - and try to prevent double clicks.
     $('a.delete-object-button').on('click', _.debounce(deleteHandler, 100, true));
+
+    // Update list text item button
+    $('form.list-item-updater').on('submit', listeItemUpdateHandler);
 });
 
+/**
+ * Handle delete entity clicks
+ *
+ * @param e
+ */
 function deleteHandler(e) {
     e.preventDefault();
     if (!e.currentTarget) {
@@ -61,4 +69,40 @@ function deleteHandler(e) {
             }
         });
     }
+}
+
+/**
+ * Handle update to list item text
+ *
+ * @param e
+ */
+function listeItemUpdateHandler(e) {
+    e.preventDefault();
+    if (!e.currentTarget) {
+        return;
+    }
+
+    const url = $(e.currentTarget).data('update-url');
+    const text = $(e.currentTarget).find('input.list-item-updater-text').val();
+    const statusDiv = $(e.currentTarget).find('span.list-item-updater-status');
+
+    // Start the loader
+    statusDiv.html('<span class="fa fa-spin fa-spinner"></span> Loading');
+
+    $.ajax({
+        url: url,
+        type: 'POST',
+        dataType: 'json',
+        data: {
+            text: text
+        },
+        success: () => {
+            // Display success to user
+            statusDiv.html('<span style="color: green;"><span class="fa fa-check"></span> Saved!</span>')
+        },
+        error: () => {
+            // Display error to user
+            statusDiv.html('<span style="color: red;"><span class="fa fa-times"></span> Something went wrong. Please try again.</span>');
+        }
+    });
 }

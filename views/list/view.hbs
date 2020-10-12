@@ -71,14 +71,18 @@
                         </div>
                     {{/if}}
                 </div>
-                <div class="list-updater mt-2" data-update-url="{{updateUrl}}">
-                    <div class="form-group">
-                        <input type="text" class="form-control" placeholder="Enter something (LF, FT, need 100, etc.)"
-                            {{#if text}}value="{{text}}"{{/if}} maxlength="255">
-                    </div>
-                    <button type="button" class="btn btn-primary">Update</button>
-                    <span class="list-updater-status"></span>
-                </div>
+                {{#if ../isOwnUser}}
+                    <form class="list-item-updater mt-2" data-update-url="{{updateUrl}}">
+                        <div class="form-group">
+                            <input type="text" class="form-control list-item-updater-text" placeholder="Enter something (LF, FT, need 100, etc.)"
+                                   {{#if text}}value="{{text}}"{{/if}} maxlength="255">
+                        </div>
+                        <button type="submit" class="btn btn-primary">Update</button>
+                        <span class="ml-2 list-item-updater-status"></span>
+                    </form>
+                {{else}}
+                    {{#if text}}<p class="mt-2 mb-2">{{text}}</p>{{/if}}
+                {{/if}}
             </li>
         {{/each}}
     </ul>

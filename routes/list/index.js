@@ -209,9 +209,9 @@ function handleDeleteEntity(req, res, next) {
  * @param res
  * @param next
  */
-function handleUpdateEntity(req, res, next) {
+function handleUpdateText(req, res, next) {
     if (res.locals.userState.isRegistered) {
-        if (!req.body['text'] || req.body['text'].length > listTextMaxLength) {
+        if (typeof req.body['text'] !== 'string' || req.body['text'].length > listTextMaxLength) {
             res.status(400).send(); // impossible request if user is following the law
             return;
         }
@@ -444,10 +444,10 @@ router.post('/delete-entity/:listId/:type/:id/:variationId', (req, res, next) =>
  * Route for updating an entity in a list.
  */
 router.post('/update-entity/:listId/:type/:id', (req, res, next) => {
-    handleUpdateEntity(req, res, next);
+    handleUpdateText(req, res, next);
 });
 router.post('/update-entity/:listId/:type/:id/:variationId', (req, res, next) => {
-    handleUpdateEntity(req, res, next);
+    handleUpdateText(req, res, next);
 });
 
 /**

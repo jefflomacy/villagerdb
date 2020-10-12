@@ -99,7 +99,7 @@ async function loadList(username, listId, loggedInUser) {
             }
         } else {
             if (redisItems[entity.id]) {
-                entities.push(organizeData(list.id, redisItems[entity.id], 'item', entity.variationId));
+                entities.push(organizeData(list.id, redisItems[entity.id], 'item', entity.variationId, entity.text));
             }
         }
     }
@@ -152,16 +152,19 @@ async function loadList(username, listId, loggedInUser) {
  * @param entity
  * @param type
  * @param variationId
+ * @param text
  * @returns {{}}
  */
-function organizeData(listId, entity, type, variationId) {
+function organizeData(listId, entity, type, variationId, text) {
     let entityData = {};
     entityData.name = entity.name;
     entityData.nameSlug = format.getSlug(entity.name);
     entityData.id = entity.id;
     entityData.type = type;
     entityData.image = entity.image.thumb;
+    entityData.text = text;
     entityData.deleteUrl = '/list/delete-entity/' + listId + '/' + type + '/' + entity.id;
+    entityData.updateUrl = '/list/update-entity/' + listId + '/' + type + '/' + entity.id;
     entityData._sortKey = entity.id;
 
     // Variation?
@@ -177,6 +180,7 @@ function organizeData(listId, entity, type, variationId) {
         entityData.variationSlug = format.getSlug(variationDisplay);
         entityData.variation = '(' + variationDisplay + ')';
         entityData.deleteUrl += '/' + variationId;
+        entityData.updateUrl += '/' + variationId;
         entityData._sortKey += '-vv-' + variationId;
         entityData.isDIY = entityData.variationId === consts.isDIY;
 

@@ -27,6 +27,14 @@ const maxListNameLength = 25;
  * @type {number}
  */
 const maxCategoryNameLength = 25;
+
+/**
+ * Maximum length of a text string in a list.
+ *
+ * @type {number}
+ */
+const listTextMaxLength = 256;
+
 /**
  * Validation expression for a list name.
  *
@@ -185,6 +193,32 @@ function handleDeleteEntity(req, res, next) {
     if (res.locals.userState.isRegistered) {
         lists.removeEntityFromList(req.user.id,  req.params.listId, req.params.id, req.params.type,
             req.params.variationId)
+            .then((dbResponse) => {
+                res.status(204).send(); // success reply but empty
+            })
+            .catch(next);
+    } else {
+        res.status(403).send();
+    }
+}
+
+/**
+ * Generic handler for /update-entity/:listId/:type/:id[/:variationId]
+ *
+ * @param req
+ * @param res
+ * @param next
+ */
+function handleUpdateEntity(req, res, next) {
+    if (res.locals.userState.isRegistered) {
+        if (!req.body['text'] || req.body['text'].length > listTextMaxLength) {
+            res.status(400).send(); // impossible request if user is following the law
+            return;
+        }
+
+        const text = req.body['text'].trim();
+        lists.setEntityText(req.user.id,  req.params.listId, req.params.id, req.params.type,
+            req.params.variationId, text)
             .then((dbResponse) => {
                 res.status(204).send(); // success reply but empty
             })
@@ -404,6 +438,16 @@ router.post('/delete-entity/:listId/:type/:id', (req, res, next) => {
 });
 router.post('/delete-entity/:listId/:type/:id/:variationId', (req, res, next) => {
     handleDeleteEntity(req, res, next);
+});
+
+/**
+ * Route for updating an entity in a list.
+ */
+router.post('/update-entity/:listId/:type/:id', (req, res, next) => {
+    handleUpdateEntity(req, res, next);
+});
+router.post('/update-entity/:listId/:type/:id/:variationId', (req, res, next) => {
+    handleUpdateEntity(req, res, next);
 });
 
 /**

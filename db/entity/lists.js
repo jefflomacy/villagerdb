@@ -164,6 +164,42 @@ class Lists {
     }
 
     /**
+     * Set the text for an entity
+     *
+     * @param id
+     * @param listId
+     * @param entityId
+     * @param type
+     * @param variationId
+     * @param text
+     * @returns {Promise<Promise|OrderedBulkOperation|UnorderedBulkOperation>}
+     */
+    async setEntityText(id, listId, entityId, type, variationId, text) {
+        const villagerDb = await this.db.get();
+        return villagerDb.collection('users')
+            .updateOne({
+                    _id: id,
+                },
+                {
+                    $set: {
+                        "lists.$[list].entities.$[entity].text": text
+                    },
+                },
+                {
+                    arrayFilters: [
+                        {
+                            "list.id": listId
+                        },
+                        {
+                            'entity.id': entityId,
+                            'entity.type': type,
+                            'entity.variationId': variationId
+                        }
+                    ]
+                });
+    }
+
+    /**
      * Find a list by its id.
      *
      * @param username

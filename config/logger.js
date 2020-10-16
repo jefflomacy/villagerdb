@@ -13,9 +13,9 @@ const LOG_FILE_PATH = path.join(process.cwd() ,'var', 'log', 'system.log');
  *
  * @type {Format}
  */
-const logstashFormat = winston.format.combine(
+const logFormat = winston.format.combine(
     winston.format.timestamp(),
-    winston.format.logstash()
+    winston.format.prettyPrint()
 );
 
 /**
@@ -23,8 +23,8 @@ const logstashFormat = winston.format.combine(
  * @type {winston.Logger}
  */
 module.exports = winston.createLogger({
-    level: 'info',
-    format: logstashFormat,
+    level: 'info', // log anything higher than info
+    format: logFormat,
     transports: [
         new winston.transports.File({ filename: LOG_FILE_PATH }),
     ],

@@ -90,7 +90,8 @@ app.use(function(err, req, res, next) {
     // Log error if not 400, 401, 403 or 404
     const errorStatus = err.status || 500;
     if (errorStatus != 400 && errorStatus !== 401 && errorStatus != 403 && errorStatus != 404) {
-        logger.error(errorStatus + ': ' + err.message + ': ' + req.originalUrl + ': ' + err.stack);
+        logger.error('Serious error ' + errorStatus + ' at url ' + req.originalUrl + ': ' + err.message +
+            ': ' + err.stack);
     }
 
     // Render error

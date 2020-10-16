@@ -23,10 +23,10 @@ services:
       - NODE_ENV=production
     ports:
       - 3000:3000
-      - 9229:9229
     volumes:
       - ./data:/usr/src/app/data
       - ./public:/usr/src/app/public
+      - ./var:/usr/src/app/var
     depends_on:
       - villagerdb_es
       - villagerdb_redis

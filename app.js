@@ -1,12 +1,13 @@
 const createError = require('http-errors');
 const express = require('express');
 const path = require('path');
-const logger = require('morgan');
+const morgan = require('morgan');
 const hbs = require('express-handlebars');
 const cron = require('./helpers/cron');
 const passport = require('./config/passport');
 const session = require('./config/session/middleware');
 const appState = require('./helpers/middleware/app-state');
+const logger = require('./config/logger');
 
 // Routers
 const adminRouter = require('./routes/admin');
@@ -37,7 +38,7 @@ const handlebars = hbs.create({
 app.engine('hbs', handlebars.engine);
 app.set('view engine', 'hbs');
 
-app.use(logger('dev'));
+app.use(morgan('dev'));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
 
@@ -82,15 +83,22 @@ app.use(function(req, res, next) {
 
 // Error handler
 app.use(function(err, req, res, next) {
-  // set locals, only providing error in development
-  res.locals.message = err.message;
-  res.locals.error = req.app.get('env') === 'development' ? err : {};
+    // set locals, only providing error in development
+    res.locals.message = err.message;
+    res.locals.error = req.app.get('env') === 'development' ? err : {};
 
-  // render the error page
-  res.status(err.status || 500);
-  res.render('error', {
-      pageTitle: 'Error'
-  });
+    // Log error if not 400, 401, 403 or 404
+    const errorStatus = err.status || 500;
+    if (errorStatus != 400 && errorStatus !== 401 && errorStatus != 403 && errorStatus != 404) {
+        logger.error(errorStatus + ': ' + err.message + ': ' + req.originalUrl + ': ' + err.stack);
+    }
+
+    // Render error
+    res.status(errorStatus);
+    res.render('error',
+        {
+            pageTitle: 'Error'
+        });
 });
 
 // Schedule crons

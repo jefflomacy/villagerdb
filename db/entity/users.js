@@ -26,8 +26,7 @@ class Users {
         const villagerDb = await this.db.get();
         await villagerDb.collection('users').insertOne({
             googleId: googleId,
-            email: email,
-            lists: []
+            email: email
         });
         return villagerDb.collection('users')
             .findOne({

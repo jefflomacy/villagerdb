@@ -10,25 +10,32 @@ async function migrateLists() {
         .find({});
 
     let userCount = 0;
+    let skipCount = 0;
     let listCount = 0;
     while (await cursor.hasNext()) {
-        userCount++;
         const user = await cursor.next();
-        for (let list of user.lists) {
-            listCount++;
-            console.log('Migrating ' + user.username + '/' + list.id + '...');
-            await villagerDb.collection('lists')
-                .insertOne({
-                    username: user.username,
-                    id: list.id,
-                    name: list.name,
-                    category: list.category,
-                    entities: list.entities
-                })
+        if (typeof user.username !== 'string') {
+            userCount++;
+            for (let list of user.lists) {
+                listCount++;
+                console.log('Migrating ' + user.username + '/' + list.id + '...');
+                await villagerDb.collection('lists')
+                    .insertOne({
+                        username: user.username,
+                        id: list.id,
+                        name: list.name,
+                        category: list.category,
+                        entities: list.entities
+                    })
+            }
+        } else {
+            skipCount++;
+            console.log('Skip unregistered user');
         }
     }
 
-    console.log('Migrated ' + listCount + ' lists for ' + userCount + ' users.');
+    console.log('Migrated ' + listCount + ' lists for ' + userCount + ' users, skipping ' + skipCount +
+        ' unregistered users.');
 }
 
 migrateLists()

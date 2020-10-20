@@ -114,6 +114,7 @@ async function getUserListsForEntity(username, entityType, entityId, variationId
                 // We want to catch null versus undefined on variationId... so loosely equal on variationId...
                 if (item.id === entityId && item.type === entityType && item.variationId == variationId) {
                     hasEntity = true;
+                    break; // no need to keep computing
                 }
             }
 

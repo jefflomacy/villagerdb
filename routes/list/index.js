@@ -224,7 +224,7 @@ function handleUpdateText(req, res, next) {
         const text = req.body['text'].trim();
         lists.setEntityText(req.user.username,  req.params.listId, req.params.id, req.params.type,
             req.params.variationId, text)
-            .then((dbResponse) => {
+            .then(() => {
                 res.status(204).send(); // success reply but empty
             })
             .catch(next);
@@ -462,8 +462,7 @@ router.post('/update-entity/:listId/:type/:id/:variationId', (req, res, next) =>
 router.post('/delete/:listId', (req, res, next) => {
     if (res.locals.userState.isRegistered) {
         lists.deleteList(req.user.username, req.params.listId)
-            .then((dbResponse) => {
-                console.log(dbResponse);
+            .then(() => {
                 res.status(204).send();
             })
             .catch(next);
@@ -501,7 +500,7 @@ router.post('/entity-to-list', function (req, res, next) {
                 .catch(next);
         } else {
             lists.removeEntityFromList(req.user.username, listId, entityId, type, variationId)
-                .then((dbResponse) => {
+                .then(() => {
                     res.status(200).send({success: true});
                 })
                 .catch(next);

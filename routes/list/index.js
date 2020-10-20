@@ -102,8 +102,8 @@ const listValidation = [
  * @param listId
  * @returns {Promise<[]>}
  */
-async function getUserListsForEntity(listId, entityType, entityId, variationId) {
-    const userLists = await lists.getListsByUser(listId);
+async function getUserListsForEntity(username, entityType, entityId, variationId) {
+    const userLists = await lists.getListsByUser(username);
 
     if (userLists) {
         userLists.sort(format.listSortComparator); // put in alphabetical order
@@ -177,7 +177,7 @@ async function listImport(req, listName, listId) {
  */
 function handleUserListsForEntity(req, res, next) {
     if (res.locals.userState.isRegistered && typeof req.params.entityId === 'string') {
-        getUserListsForEntity(req.user.id, req.params.entityType, req.params.entityId, req.params.variationId)
+        getUserListsForEntity(req.user.username, req.params.entityType, req.params.entityId, req.params.variationId)
             .then((data) => {
                 res.send(data);
             })
@@ -198,7 +198,7 @@ function handleDeleteEntity(req, res, next) {
     if (res.locals.userState.isRegistered) {
         lists.removeEntityFromList(req.user.username,  req.params.listId, req.params.id, req.params.type,
             req.params.variationId)
-            .then((dbResponse) => {
+            .then(() => {
                 res.status(204).send(); // success reply but empty
             })
             .catch(next);
@@ -461,8 +461,9 @@ router.post('/update-entity/:listId/:type/:id/:variationId', (req, res, next) =>
  */
 router.post('/delete/:listId', (req, res, next) => {
     if (res.locals.userState.isRegistered) {
-        lists.deleteList(req.user.id, req.params.listId)
-            .then(() => {
+        lists.deleteList(req.user.username, req.params.listId)
+            .then((dbResponse) => {
+                console.log(dbResponse);
                 res.status(204).send();
             })
             .catch(next);

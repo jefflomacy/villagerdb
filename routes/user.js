@@ -21,14 +21,15 @@ const UNCATEGORIZED_TEXT = 'Uncategorized';
  */
 async function loadUser(username) {
     const user = await users.findUserByName(username);
-    if (!user || typeof user.lists !== 'object') {
+    if (!user) {
         return null;
     }
 
     // Build categories
     const result = {};
     const categories = {};
-    for (let l of user.lists) {
+    const userLists = await lists.getListsByUser(username);
+    for (let l of userLists) {
         const catName = l.category ? l.category : UNCATEGORIZED_TEXT;
 
         if (!categories[catName]) {
@@ -53,7 +54,7 @@ async function loadUser(username) {
     result.user = user;
     result.pageTitle = user.username + "'s Profile";
     result.username = user.username;
-    result.hasLists = user.lists.length > 0;
+    result.hasLists = userLists.length > 0;
     result.shareUrl = 'https://villagerdb.com/user/' + user.username;
     return result;
 }
@@ -122,7 +123,7 @@ async function loadList(username, listId, loggedInUser) {
 
     // Handle logged in users lists for compare button
     if (typeof loggedInUser === 'object' && loggedInUser.id && loggedInUser.username) {
-        let loggedInUserLists = await lists.getListsByUser(loggedInUser.id);
+        let loggedInUserLists = await lists.getListsByUser(loggedInUser.username);
         if (loggedInUserLists) {
             loggedInUserLists = loggedInUserLists
                 .filter((u) => {

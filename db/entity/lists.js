@@ -24,7 +24,7 @@ class Lists {
     async createList(username, listId, listName, listCategory) {
         const villagerDb = await this.db.get();
 
-        await villagerDb.collections('lists')
+        return villagerDb.collection('lists')
             .insertOne({
                 username: username,
                 id: listId,
@@ -47,7 +47,7 @@ class Lists {
     async updateList(username, listId, newListId, newListName, newListCategory) {
         const villagerDb = await this.db.get()
 
-        await villagerDb.collection('lists')
+        return villagerDb.collection('lists')
             .updateOne({
                 username: username,
                 id: listId
@@ -78,7 +78,7 @@ class Lists {
             type: type
         };
 
-        await villagerDb.collection('lists')
+        return villagerDb.collection('lists')
             .updateOne({
                     username: username,
                     id: listId
@@ -110,7 +110,7 @@ class Lists {
             });
         }
 
-        await villagerDb.collection('lists')
+        return villagerDb.collection('lists')
             .updateOne({
                     username: username,
                     id: listId
@@ -134,9 +134,9 @@ class Lists {
     async removeEntityFromList(username, listId, entityId, type, variationId) {
         const villagerDb = await this.db.get();
 
-        await villagerDb.collection('lists')
+        return villagerDb.collection('lists')
             .updateOne({
-                    uesrname: username,
+                    username: username,
                     id: listId
                 },
                 {
@@ -163,7 +163,7 @@ class Lists {
      */
     async setEntityText(username, listId, entityId, type, variationId, text) {
         const villagerDb = await this.db.get();
-        await villagerDb.collection('users')
+        return villagerDb.collection('lists')
             .updateOne({
                     username: username,
                     id: listId,
@@ -194,70 +194,40 @@ class Lists {
     async getListById(username, listId) {
         const villagerDb = await this.db.get();
 
-        const cursor = await villagerDb.collection('users')
+        return villagerDb.collection('lists')
             .findOne({
-                    username: username
-                },
-                {
-                    projection: {
-                        lists: 1,
-                        _id: 0
-                    }
+                    username: username,
+                    id: listId
                 });
-
-        // Grab the list they want.
-        if (cursor && cursor.lists) {
-            for (let list of cursor.lists) {
-                if (list.id === listId) {
-                    return list;
-                }
-            }
-        }
     }
 
     /**
      * Get all lists by a specific user using their id.
      *
-     * @param id
+     * @param username
      * @returns {Promise<[]>}
      */
-    async getListsByUser(id) {
+    async getListsByUser(username) {
         const villagerDb = await this.db.get();
-        const cursor = await villagerDb.collection('users')
-            .findOne({
-                _id: id
-            },
-            {
-                projection: {
-                    lists: 1, _id: 0
-                }
-            });
-
-        // Make sure the user exists and then return their lists, if defined.
-        if (cursor && cursor.lists) {
-            return cursor.lists;
-        }
+        return villagerDb.collection('lists')
+            .find({
+                username: username
+            }).toArray();
     }
 
     /**
      * Delete a list by its name.
      *
-     * @param id
+     * @param username
      * @param listId
      * @returns {Promise<Promise|OrderedBulkOperation|UnorderedBulkOperation>}
      */
-    async deleteList(id, listId) {
+    async deleteList(username, listId) {
         const villagerDb = await this.db.get();
-        return villagerDb.collection('users')
-            .updateOne({
-                    _id: id
-                },
-                {
-                    $pull: {
-                        lists: {
-                            id: listId
-                        }
-                    }
+        return villagerDb.collection('lists')
+            .deleteOne({
+                    username: username,
+                    id: listId
                 });
     }
 }

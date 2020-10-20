@@ -14,7 +14,7 @@ async function migrateLists() {
     let listCount = 0;
     while (await cursor.hasNext()) {
         const user = await cursor.next();
-        if (typeof user.username !== 'string') {
+        if (typeof user.username === 'string') {
             userCount++;
             for (let list of user.lists) {
                 listCount++;

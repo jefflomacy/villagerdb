@@ -104,10 +104,27 @@ class Users {
      */
     async deleteUserById(id) {
         const villagerDb = await this.db.get();
-        return villagerDb.collection('users')
-            .deleteOne({
+
+        // Make sure user exists
+        const existingUser = await villagerDb.collection('users')
+            .findOne({
                 _id: new ObjectId(id)
             });
+        if (existingUser) {
+            // Delete all of their lists
+            if (typeof existingUser.username === 'string') {
+                await villagerDb.collection('lists')
+                    .deleteMany({
+                        username: existingUser.username
+                    });
+            }
+
+            // Finally, delete the user
+            await villagerDb.collection('users')
+                .deleteOne({
+                    _id: new ObjectId(id)
+                });
+        }
     }
 }
 

@@ -23,7 +23,7 @@ class Lists {
      */
     async createList(username, listId, listName, listCategory) {
         const villagerDb = await this.db.get();
-
+        
         return villagerDb.collection('lists')
             .insertOne({
                 username: username,

@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+require('dotenv').config();
+
 const db = require('../db/mongo');
 
 async function migrateLists() {

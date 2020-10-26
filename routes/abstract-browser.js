@@ -52,53 +52,45 @@ function cleanQueries(userQueries) {
 }
 
 /**
- * Determines if a query is a pure text-only query from the search box on the site.
- * This is only true if: 'q' is the only user query, and there are no fixed queries.
- *
- * @param userQueries
- * @param fixedQueries
- * @returns {boolean}
- */
-function isTextOnlyQuery(userQueries, fixedQueries) {
-    // Safety null checks.
-    if (!userQueries) {
-        return false;
-    }
-
-    const userKeys = Object.keys(userQueries);
-    return userKeys.length === 1 && userKeys.includes('q')
-        && !fixedQueries;
-}
-
-/**
- * AJAX provider for browser
- *
+ * Frontend provider for browser.
+ * @param req
  * @param res
  * @param next
- * @param pageNumber
- * @param urlPrefix
+ * @param pageUrlPrefix
+ * @param ajaxUrlPrefix
  * @param pageTitle
- * @param userQueries - these get sanitized from the frontend.
  * @param fixedQueries
  * @param data
  */
-function ajax(res, next, pageNumber, userQueries, fixedQueries) {
-    browser.browse(pageNumber, cleanQueries(userQueries), fixedQueries)
+function frontend(req, res, next, pageUrlPrefix, ajaxUrlPrefix, pageTitle, pageDescription, fixedQueries) {
+    const pageNumberInt = sanitize.parsePositiveInteger(req.params ? req.params.pageNumber : undefined);
+
+    const data = {};
+    data.pageTitle = pageTitle;
+    data.pageDescription = pageDescription;
+    data.pageUrl = 'https://villagerdb.com' + pageUrlPrefix + pageNumberInt;
+    data.pageUrlPrefix = pageUrlPrefix;
+    data.ajaxUrlPrefix = ajaxUrlPrefix;
+    data.allFilters = JSON.stringify(config.filters);
+    data.appliedFilters = JSON.stringify(browser.getAppliedFilters(cleanQueries(req.query), fixedQueries));
+    data.currentPage = sanitize.parsePositiveInteger(req.params ? req.params.pageNumber : undefined);;
+    res.render('browser', data);
+}
+module.exports.frontend = frontend;
+
+/**
+ * AJAX provider for browser.
+ * @param req
+ * @param res
+ * @param next
+ * @param fixedQueries
+ */
+function ajax(req, res, next, fixedQueries) {
+    const pageNumber = sanitize.parsePositiveInteger(req.params ? req.params.pageNumber : undefined);
+    browser.browse(pageNumber, cleanQueries(req.query), fixedQueries)
         .then((result) => {
             res.send(result);
         })
         .catch(next);;
 }
 module.exports.ajax = ajax;
-
-function frontend(res, next, pageNumber, pageUrlPrefix, ajaxUrlPrefix, pageTitle, userQueries, fixedQueries, data) {
-    data.pageTitle = pageTitle;
-    data.pageUrlPrefix = pageUrlPrefix;
-    data.ajaxUrlPrefix = ajaxUrlPrefix;
-    data.allFilters = JSON.stringify(config.filters);
-    data.appliedFilters = JSON.stringify(browser.getAppliedFilters(cleanQueries(userQueries), fixedQueries));
-    data.currentPage = pageNumber;
-    res.render('browser', data);
-}
-
-module.exports.frontend = frontend;

@@ -61,10 +61,18 @@ class Browser extends React.Component {
 
         // Error case.
         if (this.state.error) {
+            let reason = undefined;
+            if (this.state.errorText) {
+                reason = (
+                    <div>Let the mayor know that: <strong>{this.state.errorText}</strong></div>
+                )
+            }
+
             return (
-                <p className="p-3 mb-2 bg-danger text-white">
-                    We're having some trouble. Try refreshing the page.
-                </p>
+                <div className="p-3 mb-2 bg-danger text-white">
+                    <div>We're having some trouble. Try refreshing the page.</div>
+                    {reason}
+                </div>
             );
         }
 
@@ -171,8 +179,9 @@ class Browser extends React.Component {
         // Errors are unrecoverable, so put us into that state.
         this.setState({
             isLoading: false,
+            initialized: true,
             error: true,
-            errorText: response.errorText // TODO
+            errorText: response.errorText
         });
     }
 

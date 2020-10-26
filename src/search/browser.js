@@ -19,8 +19,11 @@ class Browser extends React.Component {
     constructor(props) {
         super(props);
 
-        // Initialize state.
-        this.state = JSON.parse(this.props.initialState);
+        // Loading until we mount and can make a request.
+        this.state = {
+            isLoading: true,
+            initialized: false
+        };
 
         // Bindings
         this.setPage = this.setPage.bind(this);
@@ -28,19 +31,34 @@ class Browser extends React.Component {
     }
 
     componentDidMount() {
+        // Listen for pop state event.
         window.addEventListener('popstate', (event) => {
             if (event.state) {
                 this.setState(event.state);
             } else {
-                this.setState(JSON.parse(this.props.initialState));
+                this.getResults(this.props.currentPage, this.props.appliedFilters, false);
             }
         });
+
+        // Load initial results now
+        this.getResults(this.props.currentPage, this.props.appliedFilters, false);
     }
+
     /**
      *
      * @returns {*}
      */
     render() {
+        // Not initialized yet?
+        if (!this.state.initialized) {
+            return (
+                <div id={this.props.id}>
+                    <p className="text-center">Please wait while we warm up...</p>
+                    <Loader />
+                </div>
+            )
+        }
+
         // Error case.
         if (this.state.error) {
             return (
@@ -96,28 +114,41 @@ class Browser extends React.Component {
         );
     }
 
-    getResults(pageNumber, appliedFilters) {
-        // On update, just consume the state.
-        const updateState = (state) => {
-            state.isLoading = false;
-            let url = this.buildUrlFromState(state.currentPage, state.appliedFilters);
-            history.pushState(state, null, url);
-            this.setState(state);
+    getResults(pageNumber, appliedFilters, pushState) {
+        // Handler for when AJAX request comes back
+        const updateState = (response) => {
+            const newState = {
+                currentPage: response.currentPage,
+                startIndex: response.startIndex,
+                endIndex: response.endIndex,
+                totalCount: response.totalCount,
+                totalPages: response.totalPages,
+                results: response.results,
+                appliedFilters: appliedFilters,
+                availableFilters: response.availableFilters,
+                isLoading: false,
+                initialized: true
+            };
+
+            // Should we push this state to history?
+            if (pushState) {
+                let url = this.getPageUrl(response.currentPage, response.appliedFilters);
+                history.pushState(newState, null, url);
+            }
+
+            // Finally, set state.
+            this.setState(newState);
         };
 
-        // Make AJAX request to get the page.
-        let url = this.buildUrlFromState(pageNumber, appliedFilters);
-        if (url.includes('?')) {
-            url += '&isAjax=true';
-        } else {
-            url += '?isAjax=true'
-        }
-
+        // Set state to loading
         this.setState({
             appliedFilters: appliedFilters,
             currentPage: pageNumber,
             isLoading: true
         });
+
+        // Make AJAX request to get the results, which is then handled by updateState
+        const url = this.getAjaxUrl(pageNumber, appliedFilters);
         $.ajax({
             url: url,
             type: 'GET',
@@ -128,22 +159,24 @@ class Browser extends React.Component {
     }
 
     setPage(pageNumber) {
-        this.getResults(pageNumber, this.state.appliedFilters);
+        this.getResults(pageNumber, this.state.appliedFilters, true);
     }
 
     setAppliedFilters(filters) {
         // Changing the filters will always put us back on page 1.
-        this.getResults(1, filters);
+        this.getResults(1, filters, true);
     }
 
-    onError() {
+    onError(response) {
+        // Errors are unrecoverable, so put us into that state.
         this.setState({
             isLoading: false,
-            error: true
+            error: true,
+            errorText: response.errorText // TODO
         });
     }
 
-    buildUrlFromState(pageNumber, appliedFilters) {
+    getFilterUrlQuery(pageNumber, appliedFilters) {
         // Build out from applied filters
         const applied = [];
         for (let filterId in appliedFilters) {
@@ -153,9 +186,17 @@ class Browser extends React.Component {
             }
             applied.push(filterId + '=' + values.join(','));
         }
-        const filterQuery = applied.length > 0 ? ('?' + applied.join('&')) : '';
-        let url = this.props.pageUrlPrefix + pageNumber + filterQuery;
-        return url;
+        return applied.length > 0 ? ('?' + applied.join('&')) : '';
+    }
+
+    getAjaxUrl(pageNumber, appliedFilters) {
+        const filterQuery = this.getFilterUrlQuery(pageNumber, appliedFilters);
+        return this.props.ajaxUrlPrefix + pageNumber + filterQuery;
+    }
+
+    getPageUrl(pageNumber, appliedFilters) {
+        const filterQuery = this.getFilterUrlQuery(pageNumber, appliedFilters);
+        return this.props.pageUrlPrefix + pageNumber + filterQuery;
     }
 }
 
@@ -167,10 +208,17 @@ $(document).ready(function() {
     if (targetElement.length !== 1) {
         return;
     }
-    
-    const initialState = targetElement.attr('data-initial-state');
-    const allFilters = targetElement.data('all-filters');
+
+    const ajaxUrlPrefix = targetElement.data('ajax-url-prefix');
     const pageUrlPrefix = targetElement.data('page-url-prefix');
-    ReactDOM.render(<Browser id="browser" initialState={initialState}
-        allFilters={allFilters} pageUrlPrefix={pageUrlPrefix} />, targetElement[0]);
+    const allFilters = targetElement.data('all-filters');
+    const appliedFilters = targetElement.data('applied-filters');
+    const currentPage = targetElement.data('current-page');
+    ReactDOM.render(<Browser
+        id="browser"
+        ajaxUrlPrefix={ajaxUrlPrefix}
+        pageUrlPrefix={pageUrlPrefix}
+        allFilters={allFilters}
+        appliedFilters={appliedFilters}
+        currentPage={currentPage} />, targetElement[0]);
 })

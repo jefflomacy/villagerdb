@@ -71,7 +71,7 @@ function isTextOnlyQuery(userQueries, fixedQueries) {
 }
 
 /**
- * Call the browser.
+ * AJAX provider for browser
  *
  * @param res
  * @param next
@@ -82,29 +82,23 @@ function isTextOnlyQuery(userQueries, fixedQueries) {
  * @param fixedQueries
  * @param data
  */
-function browse(res, next, pageNumber, urlPrefix, pageTitle, userQueries, fixedQueries, data) {
-    data.pageTitle = pageTitle;
-    data.pageUrlPrefix = urlPrefix;
-    data.isRegistered = res.locals.userState.isRegistered;
-
-    browser(pageNumber, cleanQueries(userQueries), fixedQueries)
+function ajax(res, next, pageNumber, userQueries, fixedQueries) {
+    browser.browse(pageNumber, cleanQueries(userQueries), fixedQueries)
         .then((result) => {
-            if (userQueries.isAjax === 'true') {
-                res.send(result);
-            } else {
-                data.initialState = JSON.stringify(result); // TODO: Need to stop doing this someday.
-                data.allFilters = JSON.stringify(config.filters);
-                data.result = result;
-
-                // If there is only one result and this is a text-only query, we should just forward the user to it.
-                if (data.result.totalCount === 1 && data.result.results.length === 1 && isTextOnlyQuery(userQueries)) {
-                    res.redirect(302, data.result.results[0].url);
-                } else {
-                    // Show the browser.
-                    res.render('browser', data);
-                }
-            }
+            res.send(result);
         })
         .catch(next);;
 }
-module.exports = browse;
+module.exports.ajax = ajax;
+
+function frontend(res, next, pageNumber, pageUrlPrefix, ajaxUrlPrefix, pageTitle, userQueries, fixedQueries, data) {
+    data.pageTitle = pageTitle;
+    data.pageUrlPrefix = pageUrlPrefix;
+    data.ajaxUrlPrefix = ajaxUrlPrefix;
+    data.allFilters = JSON.stringify(config.filters);
+    data.appliedFilters = JSON.stringify(browser.getAppliedFilters(cleanQueries(userQueries), fixedQueries));
+    data.currentPage = pageNumber;
+    res.render('browser', data);
+}
+
+module.exports.frontend = frontend;

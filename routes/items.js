@@ -13,7 +13,7 @@ const format = require('../helpers/format');
  *
  * @type {browse}
  */
-const browse = require('./abstract-browser');
+const browser = require('./abstract-browser');
 
 /**
  * Sanitizer.
@@ -265,29 +265,20 @@ const categories = {
 };
 
 /**
- * Invokes the browser.
  * @param req
  * @param res
  * @param next
  * @param slug
  */
-function callBrowser(req, res, next, slug) {
-    const data = {};
-    const pageNumber = req.params ? req.params.pageNumber : undefined;
-    const pageNumberInt = sanitize.parsePositiveInteger(pageNumber);
-
-    // Social media information
-    data.pageUrl = 'https://villagerdb.com/items/' + slug +
-        (typeof pageNumber !== 'undefined' ? '/page/' + pageNumberInt : '');
-    data.pageDescription = categories[slug].pageDescription;
-    data.shareUrl = encodeURIComponent(data.pageUrl);
-
-    browse(res, next, pageNumberInt,
+function frontend(req, res, next, slug) {
+    browser.frontend(req,
+        res,
+        next,
         '/items/' + slug + '/page/',
+        '/items/' + slug + '/ajax/page/',
         categories[slug].pageTitle ? categories[slug].pageTitle : format.capFirstLetter(slug),
-        req.query,
-        categories[slug].filter,
-        data);
+        categories[slug].pageDescription,
+        categories[slug].filter);
 }
 
 /**
@@ -299,11 +290,18 @@ const router = express.Router();
 // Build the URLs based on the slugs above.
 for (let slug in categories) {
     router.get('/' + slug, (req, res, next) => {
-        callBrowser(req, res, next, slug);
+        frontend(req, res, next, slug);
     });
 
     router.get('/' + slug + '/page/:pageNumber', (req, res, next) => {
-        callBrowser(req, res, next, slug);
+        frontend(req, res, next, slug);
+    });
+
+    router.get('/' + slug + '/ajax/page/:pageNumber', (req, res, next) => {
+        browser.ajax(req,
+            res,
+            next,
+            categories[slug].filter);
     });
 }
 

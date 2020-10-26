@@ -31,7 +31,7 @@ $(document).ready(() => {
 
     // Update list item text
     $('button.add-list-text-button').on('click', showHideListTextBoxes);
-    $('.user-list-view').on('submit', 'form.list-item-updater', listeItemUpdateHandler);
+    $('.user-list-view').on('submit', 'form.list-item-updater', listItemUpdateHandler);
     $('.user-list-view').on('input', 'input.list-item-updater-text', _.debounce(submitListItemForm, 1000));
 });
 
@@ -81,27 +81,11 @@ function showHideListTextBoxes(e) {
     const hidden = $('.user-list-view').hasClass('hide-text-inputs');
     if (hidden) {
         $('.user-list-view').removeClass('hide-text-inputs');
-        $(e.currentTarget).html('<span class="fa fa-minus"></span> Hide Text');
+        $(e.currentTarget).html('<span class="fa fa-binoculars"></span> View Item Notes');
     } else {
         $('.user-list-view').addClass('hide-text-inputs');
-        $(e.currentTarget).html('<span class="fa fa-plus"></span> Show Text');
+        $(e.currentTarget).html('<span class="fa fa-edit"></span> Edit Item Notes');
     }
-}
-/**
- * Handle update to list item text
- *
- * @param e
- */
-function listeItemUpdateHandler(e) {
-    e.preventDefault();
-    if (!e.currentTarget) {
-        return;
-    }
-
-    const url = $(e.currentTarget).data('update-url');
-    const textField = $(e.currentTarget).find('input.list-item-updater-text');
-    const text = textField.val();
-    updateListItemText(url, text, textField);
 }
 
 /**
@@ -118,14 +102,33 @@ function submitListItemForm(e) {
 }
 
 /**
+ * Handle update to list item text
+ *
+ * @param e
+ */
+function listItemUpdateHandler(e) {
+    e.preventDefault();
+    if (!e.currentTarget) {
+        return;
+    }
+
+    const url = $(e.currentTarget).data('update-url');
+    const staticText = $(e.currentTarget).parent().find('p.list-item-updater-static');
+    const statusDiv = $(e.currentTarget).parent().find('div.list-item-updater-status');
+    const text = $(e.currentTarget).find('input.list-item-updater-text').val();
+    updateListItemText(url, text, staticText, statusDiv);
+}
+
+/**
  * Update list item text
  *
  * @param url
  * @param text
- * @param textField
+ * @param staticText
+ * @param statusDiv
  */
-function updateListItemText(url, text, textField) {
-    textField.prop('style', 'border: 1px solid black; color: black;')
+function updateListItemText(url, text, staticText, statusDiv) {
+    $(statusDiv).hide();
     $.ajax({
         url: url,
         type: 'POST',
@@ -134,11 +137,15 @@ function updateListItemText(url, text, textField) {
             text: text
         },
         success: () => {
-            // Display success to user
-            textField.prop('style', 'border: 1px solid green; color: green;')
+            // Display success to user and update static display
+            $(statusDiv).html('<span style="color: green;"><span class="fa fa-check"></span> Saved!</span>')
+            $(statusDiv).show();
+            $(staticText).text(text);
         },
         error: () => {
-            textField.prop('style', 'border: 1px solid red; color: red;');
+            // Display error to the user
+            $(statusDiv).html('<span style="color: red;"><span class="fa fa-times"></span> Something went wrong...</span>')
+            $(statusDiv).show();
         }
     });
 }

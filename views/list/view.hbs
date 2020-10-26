@@ -49,7 +49,7 @@
     <p id="user-list-size" class="text-right" data-orig-text="{{countText}}">{{countText}}</p>
     {{#if isOwnUser}}
         <div class="text-right mb-4">
-            <button type="button" class="btn btn-secondary add-list-text-button"><span class="fa fa-plus"></span> Show Text</button>
+            <button type="button" class="btn btn-secondary add-list-text-button"><span class="fa fa-edit"></span> Edit Item Notes</button>
         </div>
     {{/if}}
     <ul class="list-group user-list-view hide-text-inputs">
@@ -84,8 +84,10 @@
                         </div>
                         <button type="submit" class="btn btn-primary sr-only">Update</button>
                     </form>
+                    <div class="list-item-updater-status" style="display: none;"></div>
+                    <p class="mt-2 mb-0 list-item-updater-static">{{text}}</p>
                 {{else}}
-                    {{#if text}}<p class="mt-2 mb-2">{{text}}</p>{{/if}}
+                    {{#if text}}<p class="mt-2 mb-0">{{text}}</p>{{/if}}
                 {{/if}}
             </li>
         {{/each}}

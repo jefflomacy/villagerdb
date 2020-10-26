@@ -140,7 +140,14 @@ function updateListItemText(url, text, staticText, statusDiv) {
             // Display success to user and update static display
             $(statusDiv).html('<span style="color: green;"><span class="fa fa-check"></span> Saved!</span>')
             $(statusDiv).show();
+
             $(staticText).text(text);
+            if (text.trim().length > 0) {
+                $(staticText).prop('style', '');
+            } else {
+                $(staticText).prop('style', 'display: none;');
+            }
+
         },
         error: () => {
             // Display error to the user

@@ -85,7 +85,7 @@
                         <button type="submit" class="btn btn-primary sr-only">Update</button>
                     </form>
                     <div class="list-item-updater-status" style="display: none;"></div>
-                    <p class="mt-2 mb-0 list-item-updater-static">{{text}}</p>
+                    <p class="mt-2 mb-0 list-item-updater-static" {{#unless text}}style="display: none;"{{/unless}}>{{text}}</p>
                 {{else}}
                     {{#if text}}<p class="mt-2 mb-0">{{text}}</p>{{/if}}
                 {{/if}}

@@ -48,9 +48,8 @@ class Browser extends React.Component {
         // Not initialized yet?
         if (!this.state.initialized) {
             return (
-                <div id={this.props.id}>
-                    <p className="text-center">Please wait while we warm up...</p>
-                    <Loader />
+                <div className="text-center" style={{'font-size': '40px', 'color': '#003A70'}}>
+                    <div className="fas fa-spin fa-spinner"></div>
                 </div>
             )
         }

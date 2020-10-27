@@ -12,10 +12,6 @@ import AppliedFilters from './applied-filters.js';
  *
  */
 class Browser extends React.Component {
-    /**
-     *
-     * @param props
-     */
     constructor(props) {
         super(props);
 
@@ -30,6 +26,10 @@ class Browser extends React.Component {
         this.setAppliedFilters = this.setAppliedFilters.bind(this);
     }
 
+    /**
+     * When we mount, we: add the popstate event listener so the back/forward buttons work properly, and
+     * initialize results from the server.
+     */
     componentDidMount() {
         // Listen for pop state event.
         window.addEventListener('popstate', (event) => {
@@ -44,10 +44,6 @@ class Browser extends React.Component {
         this.getResults(this.props.currentPage, this.props.appliedFilters, false);
     }
 
-    /**
-     *
-     * @returns {*}
-     */
     render() {
         // Not initialized yet?
         if (!this.state.initialized) {
@@ -122,6 +118,12 @@ class Browser extends React.Component {
         );
     }
 
+    /**
+     * Entry point for getting results from the server AJAX endpoint.
+     * @param pageNumber
+     * @param appliedFilters
+     * @param pushState
+     */
     getResults(pageNumber, appliedFilters, pushState) {
         // Handler for when AJAX request comes back
         const updateState = (response) => {
@@ -166,25 +168,58 @@ class Browser extends React.Component {
         });
     }
 
+    /**
+     * Set the current page number.
+     *
+     * @param pageNumber
+     */
     setPage(pageNumber) {
         this.getResults(pageNumber, this.state.appliedFilters, true);
     }
 
+    /**
+     * Apply the given filters from the FilterList or AppliedFilters components.
+     *
+     * @param filters
+     */
     setAppliedFilters(filters) {
         // Changing the filters will always put us back on page 1.
         this.getResults(1, filters, true);
     }
 
-    onError(response) {
+    /**
+     * Error handler when AJAX request fails.
+     *
+     * @param jqXHR
+     */
+    onError(jqXHR) {
+        // Try to get explanation from the server if possible.
+        let errorText = undefined;
+        if (jqXHR) {
+            try {
+                const decoded = JSON.parse(jqXHR.responseText);
+                errorText = decoded.errorText;
+            } catch (e) {
+                console.error(e);
+            }
+        }
+
         // Errors are unrecoverable, so put us into that state.
         this.setState({
             isLoading: false,
             initialized: true,
             error: true,
-            errorText: response.errorText
+            errorText: errorText
         });
     }
 
+    /**
+     * Build the query parameters that are made up of what filters are currently applied by the user, such as
+     * ?game=nh&q=Raymond
+     * @param pageNumber
+     * @param appliedFilters
+     * @returns {string}
+     */
     getFilterUrlQuery(pageNumber, appliedFilters) {
         // Build out from applied filters
         const applied = [];
@@ -198,11 +233,23 @@ class Browser extends React.Component {
         return applied.length > 0 ? ('?' + applied.join('&')) : '';
     }
 
+    /**
+     * Get the AJAX URL endpoint for the server.
+     * @param pageNumber
+     * @param appliedFilters
+     * @returns {string}
+     */
     getAjaxUrl(pageNumber, appliedFilters) {
         const filterQuery = this.getFilterUrlQuery(pageNumber, appliedFilters);
         return this.props.ajaxUrlPrefix + pageNumber + filterQuery;
     }
 
+    /**
+     * Get the user-friendly frontend URL for the page.
+     * @param pageNumber
+     * @param appliedFilters
+     * @returns {string}
+     */
     getPageUrl(pageNumber, appliedFilters) {
         const filterQuery = this.getFilterUrlQuery(pageNumber, appliedFilters);
         return this.props.pageUrlPrefix + pageNumber + filterQuery;

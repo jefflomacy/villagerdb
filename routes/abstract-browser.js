@@ -16,6 +16,12 @@ const browser = require('../helpers/browser');
 const sanitize = require('../helpers/sanitize');
 
 /**
+ * Logger
+ * @type {winston.Logger}
+ */
+const logger = require('../config/logger');
+
+/**
  * Clean up input from frontend by making sure it matches a known filter and does not exceed the max string length.
  *
  * @param userQueries
@@ -53,14 +59,15 @@ function cleanQueries(userQueries) {
 
 /**
  * Frontend provider for browser.
+ *
  * @param req
  * @param res
  * @param next
  * @param pageUrlPrefix
  * @param ajaxUrlPrefix
  * @param pageTitle
+ * @param pageDescription
  * @param fixedQueries
- * @param data
  */
 function frontend(req, res, next, pageUrlPrefix, ajaxUrlPrefix, pageTitle, pageDescription, fixedQueries) {
     const pageNumberInt = sanitize.parsePositiveInteger(req.params ? req.params.pageNumber : undefined);
@@ -91,6 +98,13 @@ function ajax(req, res, next, fixedQueries) {
         .then((result) => {
             res.send(result);
         })
-        .catch(next);;
+        .catch((e) => {
+            // Log and send
+            logger.error('Browser error at url ' + req.originalUrl + ': ' + e.message +
+                ': ' + e.stack);
+            res.status(500).send({
+                errorText: e.message
+            });
+        });
 }
 module.exports.ajax = ajax;

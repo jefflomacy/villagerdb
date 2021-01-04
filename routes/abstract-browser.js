@@ -16,6 +16,12 @@ const browser = require('../helpers/browser');
 const sanitize = require('../helpers/sanitize');
 
 /**
+ * Logger
+ * @type {winston.Logger}
+ */
+const logger = require('../config/logger');
+
+/**
  * Clean up input from frontend by making sure it matches a known filter and does not exceed the max string length.
  *
  * @param userQueries
@@ -52,59 +58,59 @@ function cleanQueries(userQueries) {
 }
 
 /**
- * Determines if a query is a pure text-only query from the search box on the site.
- * This is only true if: 'q' is the only user query, and there are no fixed queries.
+ * Frontend provider for browser.
  *
- * @param userQueries
- * @param fixedQueries
- * @returns {boolean}
- */
-function isTextOnlyQuery(userQueries, fixedQueries) {
-    // Safety null checks.
-    if (!userQueries) {
-        return false;
-    }
-
-    const userKeys = Object.keys(userQueries);
-    return userKeys.length === 1 && userKeys.includes('q')
-        && !fixedQueries;
-}
-
-/**
- * Call the browser.
- *
+ * @param req
  * @param res
  * @param next
- * @param pageNumber
- * @param urlPrefix
+ * @param pageUrlPrefix
+ * @param ajaxUrlPrefix
  * @param pageTitle
- * @param userQueries - these get sanitized from the frontend.
+ * @param pageDescription
  * @param fixedQueries
- * @param data
  */
-function browse(res, next, pageNumber, urlPrefix, pageTitle, userQueries, fixedQueries, data) {
+function frontend(req, res, next, pageUrlPrefix, ajaxUrlPrefix, pageTitle, pageDescription, fixedQueries) {
+    const pageNumberInt = sanitize.parsePositiveInteger(req.params ? req.params.pageNumber : undefined);
+
+    // Information on every page.
+    const data = {};
     data.pageTitle = pageTitle;
-    data.pageUrlPrefix = urlPrefix;
-    data.isRegistered = res.locals.userState.isRegistered;
+    data.pageDescription = pageDescription;
+    data.pageUrl = 'https://villagerdb.com' + pageUrlPrefix + pageNumberInt;
+    data.pageUrlPrefix = pageUrlPrefix;
+    data.ajaxUrlPrefix = ajaxUrlPrefix;
+    data.allFilters = JSON.stringify(config.filters);
+    data.appliedFilters = JSON.stringify(browser.getAppliedFilters(cleanQueries(req.query), fixedQueries));
+    data.currentPage = sanitize.parsePositiveInteger(req.params ? req.params.pageNumber : undefined);
 
-    browser(pageNumber, cleanQueries(userQueries), fixedQueries)
-        .then((result) => {
-            if (userQueries.isAjax === 'true') {
-                res.send(result);
-            } else {
-                data.initialState = JSON.stringify(result); // TODO: Need to stop doing this someday.
-                data.allFilters = JSON.stringify(config.filters);
-                data.result = result;
+    // Don't forget to populate the search query, if present.
+    data.searchQuery = sanitize.cleanQuery(req.query.q);
 
-                // If there is only one result and this is a text-only query, we should just forward the user to it.
-                if (data.result.totalCount === 1 && data.result.results.length === 1 && isTextOnlyQuery(userQueries)) {
-                    res.redirect(302, data.result.results[0].url);
-                } else {
-                    // Show the browser.
-                    res.render('browser', data);
-                }
-            }
-        })
-        .catch(next);;
+    // Ready to go!
+    res.render('browser', data);
 }
-module.exports = browse;
+module.exports.frontend = frontend;
+
+/**
+ * AJAX provider for browser.
+ * @param req
+ * @param res
+ * @param next
+ * @param fixedQueries
+ */
+function ajax(req, res, next, fixedQueries) {
+    const pageNumber = sanitize.parsePositiveInteger(req.params ? req.params.pageNumber : undefined);
+    browser.browse(pageNumber, cleanQueries(req.query), fixedQueries)
+        .then((result) => {
+            res.send(result);
+        })
+        .catch((e) => {
+            // Log and send
+            logger.error('Browser error at url ' + req.originalUrl + ': ' + e.message +
+                ': ' + e.stack);
+            res.status(500).send({
+                errorText: e.message
+            });
+        });
+}
+module.exports.ajax = ajax;

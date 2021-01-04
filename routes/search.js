@@ -8,7 +8,7 @@ const express = require('express');
  *
  * @type {browse}
  */
-const browse = require('./abstract-browser');
+const browser = require('./abstract-browser');
 
 /**
  * Sanitizer.
@@ -22,17 +22,18 @@ const sanitize = require('../helpers/sanitize');
  * @param res
  * @param next
  */
-function search(req, res, next) {
+function frontend(req, res, next) {
     const searchQuery = sanitize.cleanQuery(req.query.q);
-    const pageTitle = typeof searchQuery !== 'undefined' && searchQuery.length > 0?
-        'Search results for \'' + searchQuery + '\'' : 'Browse catalog';
-    const pageNumber = req.params ? req.params.pageNumber : undefined;
-    const pageNumberInt = sanitize.parsePositiveInteger(pageNumber);
 
-    const data = {};
-    data.searchQuery = searchQuery;
-    browse(res, next, pageNumberInt,
-        '/search/page/', pageTitle, req.query, {}, data);
+    browser.frontend(req,
+        res,
+        next,
+        '/search/page/',
+        '/search/ajax/page/',
+        typeof searchQuery !== 'undefined' && searchQuery.length > 0?
+            'Search results for \'' + searchQuery + '\'' : 'Browse catalog',
+        undefined,
+        {});
 }
 
 /**
@@ -41,12 +42,19 @@ function search(req, res, next) {
  */
 const router = express.Router();
 
-router.get('/', function (req, res, next) {
-    search(req, res, next);
+router.get('/', (req, res, next) => {
+    frontend(req, res, next);
 });
 
-router.get('/page/:pageNumber', function (req, res, next) {
-    search(req, res, next);
+router.get('/page/:pageNumber', (req, res, next) => {
+    frontend(req, res, next);
+});
+
+router.get('/ajax/page/:pageNumber', (req, res, next) => {
+    browser.ajax(req,
+        res,
+        next,
+        {});
 });
 
 module.exports = router;

@@ -5,7 +5,9 @@
     <p>{{pageDescription}}</p>
 {{/if}}
 <div id="entity-browser"
+     data-ajax-url-prefix="{{ajaxUrlPrefix}}"
      data-page-url-prefix="{{pageUrlPrefix}}"
-     data-initial-state="{{initialState}}"
-     data-all-filters="{{allFilters}}"></div>
+     data-all-filters="{{allFilters}}"
+     data-applied-filters="{{appliedFilters}}"
+     data-current-page="{{currentPage}}"></div>
 {{> rev-unit2 }}

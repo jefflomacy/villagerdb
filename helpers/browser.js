@@ -118,6 +118,7 @@ function getAppliedFilters(userQueries, fixedQueries) {
 
     return appliedFilters;
 }
+module.exports.getAppliedFilters = getAppliedFilters;
 
 /**
  * Get match queries for the applied filters. Returns an empty array if there is nothing to
@@ -375,4 +376,4 @@ async function browse(pageNumber, userQueries, fixedQueries) {
     return result;
 }
 
-module.exports = browse;
+module.exports.browse = browse;

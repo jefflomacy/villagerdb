@@ -23,7 +23,11 @@
         "green": "Green",
         "purple": "Purple",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

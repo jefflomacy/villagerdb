@@ -25,7 +25,11 @@
         "pink": "Pink",
         "gray": "Gray",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Shoes"

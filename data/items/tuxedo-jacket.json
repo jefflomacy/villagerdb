@@ -21,7 +21,13 @@
         "black": "Black",
         "gray": "Gray",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party",
+        "Theatrical",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

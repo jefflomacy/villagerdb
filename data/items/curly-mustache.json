@@ -39,7 +39,12 @@
       ],
       "variations": {
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Party"
+      ]
     }
   }
 }

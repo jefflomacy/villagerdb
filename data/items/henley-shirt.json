@@ -22,7 +22,11 @@
         "mustard": "Mustard",
         "light-blue": "Light blue",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

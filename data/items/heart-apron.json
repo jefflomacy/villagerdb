@@ -23,7 +23,11 @@
         "red": "Red",
         "purple": "Purple",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

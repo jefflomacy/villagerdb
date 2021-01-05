@@ -23,7 +23,12 @@
         "white": "White",
         "blue": "Blue",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Shoes"

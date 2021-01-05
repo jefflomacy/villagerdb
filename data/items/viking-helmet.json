@@ -48,7 +48,10 @@
         "gray": "Gray",
         "brown": "Brown",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale"
+      ]
     }
   }
 }

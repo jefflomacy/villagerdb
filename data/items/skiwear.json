@@ -20,7 +20,11 @@
         "green": "Green",
         "red": "Red",
         "ruby-red": "Ruby red"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Tops"

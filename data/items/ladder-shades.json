@@ -41,7 +41,11 @@
         "pink": "Pink",
         "yellow": "Yellow",
         "gold": "Gold"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

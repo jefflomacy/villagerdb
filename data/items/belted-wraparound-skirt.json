@@ -19,7 +19,11 @@
         "red": "Red",
         "green": "Green",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Bottoms"

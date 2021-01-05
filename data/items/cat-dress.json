@@ -38,7 +38,12 @@
         "navy-blue": "Navy blue",
         "brown": "Brown",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

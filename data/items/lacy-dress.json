@@ -18,7 +18,12 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

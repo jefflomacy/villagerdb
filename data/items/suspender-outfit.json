@@ -23,7 +23,12 @@
         "pink": "Pink",
         "black": "Black",
         "light-green": "Light green"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Dresses"

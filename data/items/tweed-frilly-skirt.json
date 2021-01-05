@@ -22,7 +22,12 @@
         "gray": "Gray",
         "pink": "Pink",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Formal"
+      ]
     }
   },
   "category": "Bottoms"

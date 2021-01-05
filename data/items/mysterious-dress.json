@@ -21,7 +21,11 @@
         "purple": "Purple",
         "black": "Black",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Goth",
+        "Party"
+      ]
     }
   },
   "category": "Dresses"

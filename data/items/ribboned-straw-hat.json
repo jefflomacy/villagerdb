@@ -38,7 +38,12 @@
         "light-blue": "Light blue",
         "pink": "Pink",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   }
 }

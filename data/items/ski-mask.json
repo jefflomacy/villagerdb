@@ -46,7 +46,10 @@
         "lime": "Lime",
         "red": "Red",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Goth"
+      ]
     }
   }
 }

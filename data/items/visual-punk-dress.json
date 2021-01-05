@@ -16,7 +16,12 @@
       ],
       "variations": {
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

@@ -43,7 +43,11 @@
         "navy-blue": "Navy blue",
         "mustard": "Mustard",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   }
 }

@@ -19,7 +19,12 @@
         "green": "Green",
         "red": "Red",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Tops"

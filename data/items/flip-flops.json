@@ -47,7 +47,13 @@
         "light-blue": "Light blue",
         "pink": "Pink",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Outdoorsy",
+        "Sporty",
+        "Vacation"
+      ]
     }
   }
 }

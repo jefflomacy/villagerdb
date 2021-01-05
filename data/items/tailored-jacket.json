@@ -20,7 +20,11 @@
         "navy-blue": "Navy blue",
         "beige": "Beige",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

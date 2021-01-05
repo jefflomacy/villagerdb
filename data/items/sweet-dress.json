@@ -17,7 +17,12 @@
       "variations": {
         "white": "White",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

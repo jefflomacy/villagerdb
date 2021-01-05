@@ -20,7 +20,11 @@
       "variations": {
         "white": "White",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Goth",
+        "Theatrical"
+      ]
     }
   },
   "category": "Hats"

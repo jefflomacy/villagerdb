@@ -44,7 +44,11 @@
         "black": "Black",
         "red": "Red",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Work"
+      ]
     }
   }
 }

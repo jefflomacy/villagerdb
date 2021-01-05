@@ -19,7 +19,13 @@
         "yellow": "Yellow",
         "pink": "Pink",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

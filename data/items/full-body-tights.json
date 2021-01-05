@@ -23,7 +23,11 @@
         "pink": "Pink",
         "gold": "Gold",
         "silver": "Silver"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

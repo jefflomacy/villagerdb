@@ -25,7 +25,12 @@
         "navy-blue": "Navy blue",
         "beige": "Beige",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party",
+        "Work"
+      ]
     }
   },
   "category": "Bottoms"

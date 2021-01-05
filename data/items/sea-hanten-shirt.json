@@ -16,7 +16,11 @@
       "variations": {
         "dark-blue": "Dark blue",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Vacation",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

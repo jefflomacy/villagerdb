@@ -26,7 +26,11 @@
         "purple": "Purple",
         "black": "Black",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

@@ -22,7 +22,11 @@
         "aqua": "Aqua",
         "pale-orange": "Pale orange",
         "parrot-green": "Parrot green"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Dresses"

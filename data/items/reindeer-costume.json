@@ -6,7 +6,12 @@
       "sellPrice": {
         "currency": "bells",
         "value": 425
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

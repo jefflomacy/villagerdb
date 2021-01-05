@@ -23,7 +23,10 @@
         "brown": "Brown",
         "lime-yellow": "Lime yellow",
         "avocado": "Avocado"
-      }
+      },
+      "fashionThemes": [
+        "Work"
+      ]
     }
   },
   "category": "Hats"

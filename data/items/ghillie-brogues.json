@@ -18,7 +18,11 @@
         "brown": "Brown",
         "black": "Black",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Shoes"

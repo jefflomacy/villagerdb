@@ -23,7 +23,11 @@
         "yellow": "Yellow",
         "green": "Green",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

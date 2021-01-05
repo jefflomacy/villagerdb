@@ -18,7 +18,12 @@
         "pink": "Pink",
         "yellow": "Yellow",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

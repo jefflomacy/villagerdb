@@ -24,7 +24,10 @@
         "pink": "Pink",
         "yellow": "Yellow",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Party"
+      ]
     }
   },
   "category": "Dresses"

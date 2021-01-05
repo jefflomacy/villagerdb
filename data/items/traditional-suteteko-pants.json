@@ -24,7 +24,11 @@
         "purple": "Purple",
         "aqua": "Aqua",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

@@ -23,7 +23,13 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Socks"

@@ -41,7 +41,10 @@
         "orange": "Orange",
         "yellow": "Yellow",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy"
+      ]
     }
   }
 }

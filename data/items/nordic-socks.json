@@ -21,7 +21,12 @@
         "gray": "Gray",
         "green": "Green",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Socks"

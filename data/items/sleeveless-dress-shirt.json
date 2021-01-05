@@ -23,7 +23,11 @@
         "green": "Green",
         "orange": "Orange",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

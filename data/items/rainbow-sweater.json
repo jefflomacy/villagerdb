@@ -23,7 +23,11 @@
         "red": "Red",
         "green": "Green",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

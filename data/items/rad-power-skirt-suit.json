@@ -25,7 +25,12 @@
         "green": "Green",
         "yellow": "Yellow",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

@@ -24,7 +24,11 @@
         "light-blue": "Light blue",
         "white": "White",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Dresses"

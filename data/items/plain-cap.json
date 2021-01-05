@@ -23,7 +23,11 @@
         "red": "Red",
         "blue": "Blue",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Work"
+      ]
     }
   },
   "category": "Hats"

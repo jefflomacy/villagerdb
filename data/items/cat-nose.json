@@ -21,7 +21,12 @@
         "white": "White",
         "brown": "Brown",
         "navy-blue": "Navy blue"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Accessories"

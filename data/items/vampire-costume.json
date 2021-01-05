@@ -20,7 +20,12 @@
       "variations": {
         "black": "Black",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Goth",
+        "Theatrical"
+      ]
     }
   },
   "category": "Tops"

@@ -20,7 +20,11 @@
         "avocado": "Avocado",
         "pink": "Pink",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Bottoms"

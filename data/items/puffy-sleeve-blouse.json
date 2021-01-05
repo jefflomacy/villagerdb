@@ -22,7 +22,12 @@
         "yellow": "Yellow",
         "pink": "Pink",
         "lime": "Lime"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

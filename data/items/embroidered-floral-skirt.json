@@ -21,7 +21,12 @@
         "green": "Green",
         "blue": "Blue",
         "berry-red": "Berry red"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

@@ -23,7 +23,11 @@
         "blue": "Blue",
         "red": "Red",
         "olive": "Olive"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Work"
+      ]
     }
   },
   "category": "Shoes"

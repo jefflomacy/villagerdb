@@ -18,7 +18,11 @@
         "white": "White",
         "black": "Black",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Shoes"

@@ -35,7 +35,11 @@
         "white": "White",
         "red": "Red",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   }
 }

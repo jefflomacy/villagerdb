@@ -13,7 +13,12 @@
       },
       "variations": {
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty",
+        "Work"
+      ]
     }
   },
   "category": "Accessories"

@@ -20,7 +20,12 @@
       "variations": {
         "blue": "Blue",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Bottoms"

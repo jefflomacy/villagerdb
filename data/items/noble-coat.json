@@ -26,7 +26,13 @@
         "purple": "Purple",
         "yellow": "Yellow",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Tops"

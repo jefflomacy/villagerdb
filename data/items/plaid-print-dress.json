@@ -18,7 +18,12 @@
         "energetic-plaid": "Energetic plaid",
         "dreamy-plaid": "Dreamy plaid",
         "sweet-plaid": "Sweet plaid"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

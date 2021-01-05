@@ -13,7 +13,11 @@
       },
       "variations": {
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Hats"

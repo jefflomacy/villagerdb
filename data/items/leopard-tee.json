@@ -38,7 +38,11 @@
         "pink": "Pink",
         "green": "Green",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   }
 }

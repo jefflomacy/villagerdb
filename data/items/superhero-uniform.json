@@ -22,7 +22,11 @@
         "red": "Red",
         "black": "Black",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Theatrical",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

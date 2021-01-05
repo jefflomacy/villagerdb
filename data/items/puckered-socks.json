@@ -23,7 +23,10 @@
         "blue": "Blue",
         "green": "Green",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Everyday"
+      ]
     }
   },
   "category": "Socks"

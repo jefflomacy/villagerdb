@@ -26,7 +26,12 @@
         "red": "Red",
         "yellow": "Yellow",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Shoes"

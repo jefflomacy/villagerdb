@@ -19,7 +19,12 @@
         "yellow": "Yellow",
         "orange": "Orange",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Sporty"
+      ]
     }
   },
   "category": "Dresses"

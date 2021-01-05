@@ -19,7 +19,13 @@
       ],
       "variations": {
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical",
+        "Vacation"
+      ]
     }
   },
   "category": "Hats"

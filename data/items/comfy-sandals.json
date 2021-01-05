@@ -23,7 +23,12 @@
         "orange": "Orange",
         "yellow": "Yellow",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Shoes"

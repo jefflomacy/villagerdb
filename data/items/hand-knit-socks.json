@@ -21,7 +21,11 @@
         "green": "Green",
         "purple": "Purple",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Socks"

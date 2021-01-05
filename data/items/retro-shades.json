@@ -24,7 +24,12 @@
         "purple": "Purple",
         "blue": "Blue",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Party",
+        "Vacation"
+      ]
     }
   },
   "category": "Accessories"

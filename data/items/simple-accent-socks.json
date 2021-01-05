@@ -26,7 +26,11 @@
         "orange": "Orange",
         "red": "Red",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Socks"

@@ -18,7 +18,11 @@
         "light-blue": "Light blue",
         "pink": "Pink",
         "mustard": "Mustard"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Bottoms"

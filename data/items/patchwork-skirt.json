@@ -22,7 +22,12 @@
         "red": "Red",
         "yellow": "Yellow",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

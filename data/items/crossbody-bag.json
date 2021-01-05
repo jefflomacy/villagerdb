@@ -22,7 +22,12 @@
         "green": "Green",
         "yellow": "Yellow",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Accessories"

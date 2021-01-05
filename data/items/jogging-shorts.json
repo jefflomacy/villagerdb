@@ -22,7 +22,12 @@
         "black": "Black",
         "purple": "Purple",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Bottoms"

@@ -18,7 +18,11 @@
         "green": "Green",
         "blue": "Blue",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Bottoms"

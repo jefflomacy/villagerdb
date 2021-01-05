@@ -25,7 +25,11 @@
         "light-blue": "Light blue",
         "green": "Green",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Tops"

@@ -20,7 +20,10 @@
         "red": "Red",
         "pink": "Pink",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Party"
+      ]
     }
   },
   "category": "Dresses"

@@ -34,7 +34,12 @@
         "orange": "Orange",
         "green": "Green",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   }
 }

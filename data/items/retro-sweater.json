@@ -18,7 +18,13 @@
         "yellow": "Yellow",
         "white": "White",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Tops"

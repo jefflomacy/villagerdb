@@ -20,7 +20,11 @@
         "berry-red": "Berry red",
         "green": "Green",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Bottoms"

@@ -24,7 +24,11 @@
         "white": "White",
         "navy-blue": "Navy blue",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Work"
+      ]
     }
   },
   "category": "Socks"

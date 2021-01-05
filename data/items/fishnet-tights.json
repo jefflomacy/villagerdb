@@ -41,7 +41,11 @@
         "black": "Black",
         "white": "White",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

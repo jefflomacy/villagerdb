@@ -20,7 +20,12 @@
         "mint": "Mint",
         "pink": "Pink",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

@@ -40,7 +40,11 @@
       "variations": {
         "pop": "Pop",
         "cool": "Cool"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale"
+      ]
     }
   }
 }

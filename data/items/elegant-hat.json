@@ -46,7 +46,13 @@
         "red": "Red",
         "white": "White",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

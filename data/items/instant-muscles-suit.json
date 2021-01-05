@@ -23,7 +23,12 @@
         "red": "Red",
         "blue": "Blue",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Sporty",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

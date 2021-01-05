@@ -49,7 +49,12 @@
         "monotone": "Monotone",
         "light-blue": "Light blue",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   }
 }

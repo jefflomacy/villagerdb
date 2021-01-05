@@ -38,7 +38,13 @@
       },
       "recipe": {
         "gold-nugget": 5
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Goth",
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

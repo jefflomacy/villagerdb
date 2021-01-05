@@ -20,7 +20,11 @@
         "green": "Green",
         "blue": "Blue",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Hats"

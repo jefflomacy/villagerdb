@@ -45,7 +45,14 @@
         "purple": "Purple",
         "sky-blue": "Sky blue",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical",
+        "Vacation",
+        "Work"
+      ]
     }
   }
 }

@@ -19,7 +19,13 @@
         "peacock-blue": "Peacock blue",
         "orange": "Orange",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Dresses"

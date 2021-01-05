@@ -22,7 +22,11 @@
         "navy-blue": "Navy blue",
         "light-blue": "Light blue",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Bottoms"

@@ -18,7 +18,12 @@
         "purple": "Purple",
         "gray": "Gray",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Dresses"

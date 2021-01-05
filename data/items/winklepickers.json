@@ -22,7 +22,12 @@
         "white": "White",
         "black": "Black",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical",
+        "Work"
+      ]
     }
   },
   "category": "Shoes"

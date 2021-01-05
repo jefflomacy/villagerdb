@@ -20,7 +20,12 @@
         "green": "Green",
         "berry-red": "Berry red",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Dresses"

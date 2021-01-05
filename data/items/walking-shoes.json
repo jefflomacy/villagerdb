@@ -21,7 +21,12 @@
         "pink": "Pink",
         "beige": "Beige",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Shoes"

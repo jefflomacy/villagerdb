@@ -16,7 +16,11 @@
       "variations": {
         "navy-blue": "Navy blue",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

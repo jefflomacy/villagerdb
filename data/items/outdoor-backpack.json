@@ -21,7 +21,11 @@
         "avocado": "Avocado",
         "orange": "Orange",
         "navy-blue": "Navy blue"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Accessories"

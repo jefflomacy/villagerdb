@@ -22,7 +22,12 @@
         "black": "Black",
         "green": "Green",
         "mustard": "Mustard"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Shoes"

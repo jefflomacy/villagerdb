@@ -23,7 +23,11 @@
         "yellow": "Yellow",
         "green": "Green",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Dresses"

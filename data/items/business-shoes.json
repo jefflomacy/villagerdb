@@ -20,7 +20,11 @@
       "variations": {
         "black": "Black",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Shoes"

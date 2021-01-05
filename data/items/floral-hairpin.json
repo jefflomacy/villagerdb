@@ -23,7 +23,11 @@
         "green": "Green",
         "yellow": "Yellow",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale"
+      ]
     }
   },
   "category": "Hats"

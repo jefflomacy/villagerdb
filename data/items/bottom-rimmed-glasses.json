@@ -25,7 +25,12 @@
         "yellow": "Yellow",
         "pink": "Pink",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Work"
+      ]
     }
   },
   "category": "Accessories"

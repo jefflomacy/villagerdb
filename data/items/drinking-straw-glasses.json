@@ -22,7 +22,12 @@
         "blue": "Blue",
         "pink": "Pink",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation",
+        "Work"
+      ]
     }
   },
   "category": "Accessories"

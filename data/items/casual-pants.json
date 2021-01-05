@@ -24,7 +24,11 @@
         "beige": "Beige",
         "black": "Black",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Bottoms"

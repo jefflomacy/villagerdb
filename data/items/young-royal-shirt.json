@@ -20,7 +20,13 @@
         "pink": "Pink",
         "blue": "Blue",
         "cream": "Cream"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Tops"

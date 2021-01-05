@@ -22,7 +22,12 @@
         "orange": "Orange",
         "red": "Red",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

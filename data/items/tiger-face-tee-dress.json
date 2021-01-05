@@ -23,7 +23,12 @@
         "purple": "Purple",
         "pink": "Pink",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Goth"
+      ]
     }
   },
   "category": "Dresses"

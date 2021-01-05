@@ -17,7 +17,13 @@
         "red": "Red",
         "black": "Black",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Party",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

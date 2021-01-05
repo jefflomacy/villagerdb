@@ -22,7 +22,12 @@
         "purple": "Purple",
         "silver": "Silver",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation",
+        "Work"
+      ]
     }
   },
   "category": "Accessories"

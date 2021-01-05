@@ -22,7 +22,11 @@
         "beige": "Beige",
         "blue": "Blue",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Dresses"

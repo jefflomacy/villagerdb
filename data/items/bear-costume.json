@@ -39,7 +39,12 @@
         "black": "Black",
         "pink": "Pink",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

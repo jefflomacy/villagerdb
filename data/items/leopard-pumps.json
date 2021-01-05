@@ -44,7 +44,12 @@
         "green": "Green",
         "purple": "Purple",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

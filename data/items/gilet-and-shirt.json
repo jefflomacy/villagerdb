@@ -18,7 +18,12 @@
         "blue": "Blue",
         "red": "Red",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

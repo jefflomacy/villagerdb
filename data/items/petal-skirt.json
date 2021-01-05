@@ -21,7 +21,11 @@
         "cool": "Cool",
         "rainbow": "Rainbow",
         "pastel": "Pastel"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Bottoms"

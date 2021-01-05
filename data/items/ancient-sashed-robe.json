@@ -20,7 +20,10 @@
         "red": "Red",
         "blue": "Blue",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Formal"
+      ]
     }
   },
   "category": "Dresses"

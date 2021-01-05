@@ -17,7 +17,11 @@
         "blue": "Blue",
         "pink": "Pink",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

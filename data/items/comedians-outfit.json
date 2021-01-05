@@ -43,7 +43,11 @@
         "purple": "Purple",
         "aquamarine": "Aquamarine",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

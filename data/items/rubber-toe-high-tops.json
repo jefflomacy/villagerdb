@@ -26,7 +26,11 @@
         "coral": "Coral",
         "ivory": "Ivory",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Sporty"
+      ]
     }
   },
   "category": "Shoes"

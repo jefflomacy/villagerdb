@@ -26,7 +26,11 @@
         "orange": "Orange",
         "peacock-blue": "Peacock blue",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Bottoms"

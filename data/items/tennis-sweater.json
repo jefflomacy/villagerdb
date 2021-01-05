@@ -22,7 +22,11 @@
         "green": "Green",
         "brown": "Brown",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

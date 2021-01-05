@@ -43,7 +43,11 @@
         "blue": "Blue",
         "black": "Black",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   }
 }

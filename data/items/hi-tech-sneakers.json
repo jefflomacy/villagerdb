@@ -23,7 +23,11 @@
         "green": "Green",
         "light-blue": "Light blue",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Shoes"

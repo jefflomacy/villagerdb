@@ -22,7 +22,10 @@
         "white": "White",
         "red": "Red",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday"
+      ]
     }
   },
   "category": "Socks"

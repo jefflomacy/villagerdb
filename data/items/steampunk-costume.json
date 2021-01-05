@@ -17,7 +17,11 @@
       "variations": {
         "red": "Red",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

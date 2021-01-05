@@ -45,7 +45,13 @@
         "brown": "Brown",
         "yellow": "Yellow",
         "berry-red": "Berry red"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Outdoorsy",
+        "Sporty",
+        "Work"
+      ]
     }
   }
 }

@@ -21,7 +21,12 @@
         "yellow": "Yellow",
         "pink": "Pink",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Accessories"

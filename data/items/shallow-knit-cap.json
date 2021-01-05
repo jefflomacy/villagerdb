@@ -25,7 +25,11 @@
         "purple": "Purple",
         "gray": "Gray",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Hats"

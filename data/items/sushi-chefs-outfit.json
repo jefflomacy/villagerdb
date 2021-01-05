@@ -37,7 +37,10 @@
       "variations": {
         "white": "White",
         "dark-blue": "Dark blue"
-      }
+      },
+      "fashionThemes": [
+        "Work"
+      ]
     }
   }
 }

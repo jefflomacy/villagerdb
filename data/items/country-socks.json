@@ -22,7 +22,11 @@
         "green-ribbons": "Green ribbons",
         "blue-ribbons": "Blue ribbons",
         "black-ribbons": "Black ribbons"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Socks"

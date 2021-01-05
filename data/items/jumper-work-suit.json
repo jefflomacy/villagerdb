@@ -26,7 +26,11 @@
         "pink": "Pink",
         "brown": "Brown",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

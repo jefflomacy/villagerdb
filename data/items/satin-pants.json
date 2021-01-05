@@ -21,7 +21,12 @@
         "dark-red": "Dark red",
         "ruby-red": "Ruby red",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Bottoms"

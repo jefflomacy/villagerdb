@@ -21,7 +21,12 @@
         "light-blue": "Light blue",
         "white": "White",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

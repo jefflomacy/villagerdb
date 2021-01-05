@@ -21,7 +21,12 @@
         "red": "Red",
         "beige": "Beige",
         "olive": "Olive"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Hats"

@@ -20,7 +20,12 @@
       "variations": {
         "camel": "Camel",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Accessories"

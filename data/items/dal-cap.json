@@ -15,7 +15,12 @@
       ],
       "variations": {
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty",
+        "Vacation"
+      ]
     }
   },
   "category": "Hats"

@@ -41,7 +41,11 @@
         "navy-blue": "Navy blue",
         "gray": "Gray",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party"
+      ]
     }
   }
 }

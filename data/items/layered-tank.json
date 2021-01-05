@@ -26,7 +26,12 @@
         "light-blue": "Light blue",
         "red": "Red",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

@@ -20,7 +20,11 @@
       "variations": {
         "black": "Black",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

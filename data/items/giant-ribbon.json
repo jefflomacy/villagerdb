@@ -26,7 +26,12 @@
         "pink": "Pink",
         "white": "White",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Hats"

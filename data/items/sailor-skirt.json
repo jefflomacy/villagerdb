@@ -46,7 +46,11 @@
         "purple": "Purple",
         "red": "Red",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   }
 }

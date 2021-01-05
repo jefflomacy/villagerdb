@@ -23,7 +23,13 @@
         "avocado": "Avocado",
         "camel": "Camel",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Outdoorsy",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

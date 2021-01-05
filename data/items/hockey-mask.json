@@ -39,7 +39,12 @@
       ],
       "variations": {
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Goth",
+        "Sporty",
+        "Work"
+      ]
     }
   }
 }

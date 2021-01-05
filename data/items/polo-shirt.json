@@ -39,7 +39,12 @@
         "ivory": "Ivory",
         "white": "White",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Vacation",
+        "Work"
+      ]
     }
   }
 }

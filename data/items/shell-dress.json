@@ -24,7 +24,13 @@
         "mint": "Mint",
         "red": "Red",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

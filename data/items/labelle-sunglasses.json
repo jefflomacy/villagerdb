@@ -25,7 +25,14 @@
         "ocean": "Ocean",
         "sunset": "Sunset",
         "love": "Love"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Party",
+        "Theatrical",
+        "Vacation"
+      ]
     }
   },
   "category": "Accessories"

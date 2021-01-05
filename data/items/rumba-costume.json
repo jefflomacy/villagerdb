@@ -21,7 +21,11 @@
         "red": "Red",
         "orange": "Orange",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

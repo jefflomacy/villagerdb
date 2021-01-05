@@ -26,7 +26,12 @@
         "yellow": "Yellow",
         "red": "Red",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty",
+        "Vacation"
+      ]
     }
   },
   "category": "Shoes"

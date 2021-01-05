@@ -24,7 +24,15 @@
         "pink": "Pink",
         "white": "White",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Formal",
+        "Party",
+        "Theatrical",
+        "Work"
+      ]
     }
   },
   "category": "Shoes"

@@ -19,7 +19,11 @@
         "brown": "Brown",
         "blue": "Blue",
         "mustard": "Mustard"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Party"
+      ]
     }
   },
   "category": "Shoes"

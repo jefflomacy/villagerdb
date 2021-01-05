@@ -22,7 +22,12 @@
         "black": "Black",
         "brown": "Brown",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Socks"

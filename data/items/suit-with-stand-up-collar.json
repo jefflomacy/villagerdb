@@ -22,7 +22,12 @@
         "avocado": "Avocado",
         "white": "White",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

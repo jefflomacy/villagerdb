@@ -20,7 +20,11 @@
         "light-gray": "Light gray",
         "orange": "Orange",
         "off-white": "Off-white"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

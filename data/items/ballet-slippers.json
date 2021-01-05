@@ -50,7 +50,13 @@
         "white": "White",
         "yellow": "Yellow",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Sporty",
+        "Theatrical",
+        "Work"
+      ]
     }
   }
 }

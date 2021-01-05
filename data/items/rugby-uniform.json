@@ -26,7 +26,11 @@
         "blue-black": "Blue & black",
         "green-black": "Green & black",
         "orange-black": "Orange & black"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

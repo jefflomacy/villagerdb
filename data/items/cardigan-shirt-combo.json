@@ -24,7 +24,11 @@
         "blue": "Blue",
         "gray": "Gray",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

@@ -24,7 +24,11 @@
         "purple": "Purple",
         "light-blue": "Light blue",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale"
+      ]
     }
   },
   "category": "Dresses"

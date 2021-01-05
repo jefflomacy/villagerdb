@@ -20,7 +20,11 @@
         "lime": "Lime",
         "light-blue": "Light blue",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Shoes"

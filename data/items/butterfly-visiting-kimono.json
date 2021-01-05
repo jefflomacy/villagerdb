@@ -17,7 +17,11 @@
         "black": "Black",
         "indigo-blue": "Indigo blue",
         "fuchsia": "Fuchsia"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Dresses"

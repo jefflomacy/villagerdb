@@ -18,7 +18,11 @@
         "blue": "Blue",
         "brown": "Brown",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Hats"

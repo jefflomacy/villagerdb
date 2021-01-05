@@ -20,7 +20,11 @@
         "green": "Green",
         "blue": "Blue",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Socks"

@@ -20,7 +20,10 @@
         "orange": "Orange",
         "purple": "Purple",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Everyday"
+      ]
     }
   },
   "category": "Bottoms"

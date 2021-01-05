@@ -45,7 +45,10 @@
       "variations": {
         "red-necktie": "Red necktie",
         "black-necktie": "Black necktie"
-      }
+      },
+      "fashionThemes": [
+        "Work"
+      ]
     }
   }
 }

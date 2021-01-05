@@ -27,7 +27,11 @@
         "red": "Red",
         "beige": "Beige",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Shoes"

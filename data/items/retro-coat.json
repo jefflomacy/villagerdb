@@ -18,7 +18,12 @@
         "mustard": "Mustard",
         "red": "Red",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Tops"

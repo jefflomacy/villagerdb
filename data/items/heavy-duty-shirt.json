@@ -22,7 +22,12 @@
         "green": "Green",
         "blue": "Blue",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

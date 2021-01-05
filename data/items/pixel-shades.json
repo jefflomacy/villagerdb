@@ -22,7 +22,11 @@
         "green": "Green",
         "blue": "Blue",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Vacation"
+      ]
     }
   },
   "category": "Accessories"

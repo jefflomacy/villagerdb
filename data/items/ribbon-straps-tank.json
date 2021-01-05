@@ -21,7 +21,13 @@
         "black": "Black",
         "pink": "Pink",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

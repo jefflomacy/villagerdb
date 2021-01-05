@@ -45,7 +45,11 @@
         "green": "Green",
         "white": "White",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Vacation"
+      ]
     }
   }
 }

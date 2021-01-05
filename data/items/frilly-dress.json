@@ -22,7 +22,11 @@
         "brown": "Brown",
         "green": "Green",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale"
+      ]
     }
   },
   "category": "Dresses"

@@ -19,7 +19,11 @@
         "brown": "Brown",
         "green": "Green",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

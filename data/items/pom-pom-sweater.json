@@ -17,7 +17,12 @@
         "pink": "Pink",
         "white": "White",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Fairy Tale"
+      ]
     }
   },
   "category": "Tops"

@@ -20,7 +20,11 @@
         "blue": "Blue",
         "light-blue": "Light blue",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Bottoms"

@@ -45,7 +45,11 @@
         "blue": "Blue",
         "red": "Red",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Theatrical"
+      ]
     }
   }
 }

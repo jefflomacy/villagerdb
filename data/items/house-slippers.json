@@ -26,7 +26,11 @@
         "blue": "Blue",
         "red": "Red",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation"
+      ]
     }
   },
   "category": "Shoes"

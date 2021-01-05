@@ -46,7 +46,14 @@
         "blue": "Blue",
         "green": "Green",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Formal",
+        "Party",
+        "Work"
+      ]
     }
   }
 }

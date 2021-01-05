@@ -21,7 +21,13 @@
         "silver": "Silver",
         "rose-gold": "Rose gold",
         "gold": "Gold"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Hats"

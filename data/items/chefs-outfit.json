@@ -53,7 +53,10 @@
         "orange": "Orange",
         "brown": "Brown",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Work"
+      ]
     }
   }
 }

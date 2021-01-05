@@ -18,7 +18,12 @@
         "white": "White",
         "orange": "Orange",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Goth",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Socks"

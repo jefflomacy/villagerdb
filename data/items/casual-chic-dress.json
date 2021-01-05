@@ -24,7 +24,12 @@
         "green": "Green",
         "navy-blue": "Navy blue",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

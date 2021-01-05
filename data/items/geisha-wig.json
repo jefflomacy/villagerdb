@@ -44,7 +44,11 @@
         "blue": "Blue",
         "purple": "Purple",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Theatrical",
+        "Work"
+      ]
     }
   }
 }

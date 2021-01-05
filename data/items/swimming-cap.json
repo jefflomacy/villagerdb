@@ -42,7 +42,12 @@
         "blue": "Blue",
         "pink": "Pink",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty",
+        "Vacation"
+      ]
     }
   }
 }

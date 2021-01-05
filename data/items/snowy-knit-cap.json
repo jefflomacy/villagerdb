@@ -22,7 +22,11 @@
         "orange": "Orange",
         "red": "Red",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Hats"

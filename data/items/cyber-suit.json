@@ -17,7 +17,11 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

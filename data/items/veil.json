@@ -16,7 +16,12 @@
         "purple": "Purple",
         "pink": "Pink",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Hats"

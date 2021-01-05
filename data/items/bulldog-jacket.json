@@ -21,7 +21,11 @@
         "black": "Black",
         "white": "White",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Tops"

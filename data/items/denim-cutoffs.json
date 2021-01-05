@@ -23,7 +23,11 @@
         "navy-blue": "Navy blue",
         "white": "White",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

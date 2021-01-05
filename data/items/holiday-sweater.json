@@ -17,7 +17,11 @@
         "green": "Green",
         "red": "Red",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Party"
+      ]
     }
   },
   "category": "Tops"

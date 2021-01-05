@@ -26,7 +26,12 @@
         "light-blue": "Light blue",
         "purple": "Purple",
         "berry-red": "Berry red"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Shoes"

@@ -40,7 +40,11 @@
       "variations": {
         "black": "Black",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

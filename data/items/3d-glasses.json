@@ -44,7 +44,10 @@
       "variations": {
         "white": "White",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Party"
+      ]
     }
   }
 }

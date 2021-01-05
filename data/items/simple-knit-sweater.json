@@ -18,7 +18,11 @@
         "white": "White",
         "black": "Black",
         "camel": "Camel"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

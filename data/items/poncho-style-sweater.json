@@ -23,7 +23,11 @@
         "orange": "Orange",
         "blue": "Blue",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale"
+      ]
     }
   },
   "category": "Tops"

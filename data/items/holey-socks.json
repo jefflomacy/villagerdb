@@ -18,7 +18,11 @@
         "blue": "Blue",
         "navy-blue": "Navy blue",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Goth"
+      ]
     }
   },
   "category": "Socks"

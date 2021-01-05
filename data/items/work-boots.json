@@ -26,7 +26,12 @@
         "blue": "Blue",
         "green": "Green",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Theatrical",
+        "Work"
+      ]
     }
   },
   "category": "Shoes"

@@ -222,9 +222,7 @@ function buildAvailableFilters(appliedFilters, aggregations) {
             return split[0];
         })
         .filter((a) => {
-            return typeof allFilters[a] !== 'undefined' && allFilters[a].canAggregate
-                && (typeof allFilters[a].shouldDisplay === 'undefined' ||
-                    (typeof allFilters[a].shouldDisplay === 'function' && allFilters[a].shouldDisplay(appliedFilters)));
+            return typeof allFilters[a] !== 'undefined' && allFilters[a].canAggregate;
         })
         .sort((a, b) => {
             return allFilters[a].sort - allFilters[b].sort;

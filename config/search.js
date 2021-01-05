@@ -57,29 +57,16 @@ module.exports = {
             canAggregate: true,
             sort: 4
         },
-        fashionThemeNL: {
-            name: 'Fashion Theme (NL)',
+        fashionTheme: {
+            name: 'Fashion Theme',
             canAggregate: true,
-            sort: 5,
-            shouldDisplay: (appliedFilters) => {
-                return typeof appliedFilters === 'object' &&
-                    typeof appliedFilters.game === 'object' &&
-                    appliedFilters.game.includes('nl');
-            }
-        },
-        fashionThemeNH: {
-            name: 'Fashion Theme (NH)',
-            canAggregate: true,
-            sort: 5,
-            shouldDisplay: (appliedFilters) => {
-                return typeof appliedFilters === 'object' &&
-                    typeof appliedFilters.game === 'object' &&
-                    appliedFilters.game.includes('nh');
-            }
+            gameDependent: true,
+            sort: 5
         },
         interiorTheme: {
             name: 'Interior Theme',
             canAggregate: true,
+            gameDependent: true,
             sort: 6
         },
         gender: {
@@ -104,16 +91,19 @@ module.exports = {
                 uchi: 'Uchi (Sisterly)'
             },
             canAggregate: true,
+            gameDependent: true,
             sort: 8
         },
         subtype: {
             name: 'Subtype',
             canAggregate: true,
+            gameDependent: true,
             sort: 9
         },
         hobby: {
             name: 'Hobby',
             canAggregate: true,
+            gameDependent: true,
             sort: 10
         },
         species: {
@@ -156,6 +146,7 @@ module.exports = {
                 wolf: 'Wolf',
             },
             canAggregate: true,
+            gameDependent: true,
             sort: 11
         },
         zodiac: {

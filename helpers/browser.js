@@ -19,10 +19,11 @@ function hasTextualQuery(queryList) {
  * Whatever this function returns must be met in all queries. If nothing else, it returns a 'match_all' statement,
  * which always evaluates to true.
  *
+ * @param appliedFilters
  * @param fixedQueries
  * @returns {{}}
  */
-function getSubsetMatchQuery(fixedQueries) {
+function getSubsetMatchQuery(appliedFilters, fixedQueries) {
     if (Object.keys(fixedQueries).length === 0) {
         return [{
             match_all: {}
@@ -33,7 +34,7 @@ function getSubsetMatchQuery(fixedQueries) {
     for (let key in fixedQueries) {
         const innerQuery = { bool: { should: [] }};
         for (let value of fixedQueries[key]) {
-            innerQuery.bool.should = innerQuery.bool.should.concat(buildQuery(key, value));
+            innerQuery.bool.should = innerQuery.bool.should.concat(buildQuery(key, value, appliedFilters));
         }
         matchQueries.push(innerQuery);
     }
@@ -47,7 +48,7 @@ function getSubsetMatchQuery(fixedQueries) {
  * @param key
  * @param value
  */
-function buildQuery(key, value) {
+function buildQuery(key, value, appliedFilters) {
     if (allFilters[key].isTextSearch) { // textual search
         return [
             {
@@ -69,10 +70,49 @@ function buildQuery(key, value) {
         ]
     } else if (allFilters[key]) { // faceted search (exact match - term)
         const query = {};
-        query.term = {};
-        query.term[key] = {
-            value: value
-        };
+
+        // Is it game dependent? If so, we have to match on '.value' and also match on all relevant games selected
+        // (if any)
+        if (allFilters[key].gameDependent) {
+            query.nested = {};
+            query.nested.path = key;
+            query.nested.query = {};
+            query.nested.query.bool = {};
+            query.nested.query.bool.must = [];
+            const term = {};
+            term[key + '.value'] = {
+                value: value
+            };
+            query.nested.query.bool.must.push({
+                term: term
+            });
+
+            // Any games to apply?
+            if (typeof appliedFilters === 'object' && typeof appliedFilters.game === 'object') {
+                const shoulds = [];
+                for (let g of appliedFilters.game) {
+                    const gameTerm = {};
+                    gameTerm[key + '.game'] = {
+                        value: g
+                    };
+                    shoulds.push({
+                        term: gameTerm
+                    });
+                }
+                query.nested.query.bool.must.push({
+                    bool: {
+                        should: shoulds
+                    }
+                });
+            }
+        } else {
+            // Non-dependent query
+            query.term = {};
+            query.term[key] = {
+                value: value
+            };
+        }
+
         return [query];
     }
 }
@@ -82,13 +122,14 @@ function buildQuery(key, value) {
  *
  * @param appliedQueries
  * @param fixedQueries
+ * @param appliedFilters
  * @returns {{bool: {must: *}}}
  */
-function buildRootElasticSearchQuery(appliedQueries, fixedQueries) {
+function buildRootElasticSearchQuery(appliedQueries, fixedQueries, appliedFilters) {
     // It must always be part of the subset we care about.
     const finalQuery = {
         bool: {
-            must: getSubsetMatchQuery(fixedQueries)
+            must: getSubsetMatchQuery(appliedFilters, fixedQueries)
         }
     };
 
@@ -133,7 +174,7 @@ function getAppliedQueries(appliedFilters) {
         outerQueries[key] = [];
         let innerQueries = [];
         for (let value of appliedFilters[key]) {
-            innerQueries = innerQueries.concat(buildQuery(key, value));
+            innerQueries = innerQueries.concat(buildQuery(key, value, appliedFilters));
         }
         outerQueries[key].push({
             bool: {
@@ -168,7 +209,7 @@ function getAggregations(appliedFilters, appliedQueries, fixedQueries) {
         // Has to be aggregable, and not already set in the fixed query.
         if (allFilters[key].canAggregate && typeof fixedQueries[key] === 'undefined') {
             innerAggs[key + '_filter'] = {};
-            innerAggs[key + '_filter'].filter = getAggregationFilter(key, appliedQueries, fixedQueries);
+            innerAggs[key + '_filter'].filter = getAggregationFilter(key, appliedQueries, fixedQueries, appliedFilters);
             innerAggs[key + '_filter'].aggregations = {};
             innerAggs[key + '_filter'].aggregations[key] = {
                 terms: {
@@ -192,7 +233,7 @@ function getAggregations(appliedFilters, appliedQueries, fixedQueries) {
  * @param searchQuery
  * @returns {{bool: {must: *[]}}}
  */
-function getAggregationFilter(key, appliedQueries, fixedQueries) {
+function getAggregationFilter(key, appliedQueries, fixedQueries, appliedFilters) {
     // Get all queries that do *not* match this key.
     const facetQueries = [];
     for (let fKey in appliedQueries) {
@@ -201,7 +242,7 @@ function getAggregationFilter(key, appliedQueries, fixedQueries) {
         }
     }
 
-    return buildRootElasticSearchQuery(facetQueries, fixedQueries);
+    return buildRootElasticSearchQuery(facetQueries, fixedQueries, appliedFilters);
 }
 
 /**
@@ -310,7 +351,7 @@ async function browse(pageNumber, userQueries, fixedQueries) {
     const aggs = getAggregations(result.appliedFilters, appliedQueries, fixedQueries);
 
     // Now we can build the root query...
-    const query = buildRootElasticSearchQuery(appliedQueries, fixedQueries);
+    const query = buildRootElasticSearchQuery(appliedQueries, fixedQueries, result.appliedFilters);
 
     // Build the sort. We only include _score if a textual search field was included.
     const sort = [];

@@ -118,6 +118,43 @@ function buildQuery(key, value, appliedFilters) {
 }
 
 /**
+ * For aggregation purposes, we have to match on game for game dependent search spaces.
+ *
+ * @param appliedFilters
+ * @param key name of the key in the root document that is marked gameDependent in search config
+ * @returns {{match_all: {}}|{bool: {must: [{bool: {should: []}}]}}}
+ */
+function buildGameInnerFilter(appliedFilters, key) {
+    if (typeof appliedFilters === 'object' && typeof appliedFilters.game === 'object') {
+        const shoulds = [];
+        for (let g of appliedFilters.game) {
+            const gameTerm = {};
+            gameTerm[key + '.game'] = {
+                value: g
+            };
+            shoulds.push({
+                term: gameTerm
+            });
+        }
+        return {
+            bool: {
+                must: [
+                    {
+                        bool: {
+                            should: shoulds
+                        }
+                    }
+                ]
+            }
+        };
+    } else {
+        return {
+            match_all: {}
+        }
+    }
+}
+
+/**
  * Builds an ElasticSearch query applying the given queries.
  *
  * @param appliedQueries
@@ -208,13 +245,37 @@ function getAggregations(appliedFilters, appliedQueries, fixedQueries) {
     for (let key in allFilters) {
         // Has to be aggregable, and not already set in the fixed query.
         if (allFilters[key].canAggregate && typeof fixedQueries[key] === 'undefined') {
+            // First, build the root aggregation. We always have this.
+            // Easier, just the root aggregation.
             innerAggs[key + '_filter'] = {};
             innerAggs[key + '_filter'].filter = getAggregationFilter(key, appliedQueries, fixedQueries, appliedFilters);
             innerAggs[key + '_filter'].aggregations = {};
-            innerAggs[key + '_filter'].aggregations[key] = {
-                terms: {
-                    field: key,
-                    size: 50
+
+            // ... but it's not specific enough. Now we need to sub-aggregate if the key in question is dependnet on
+            // game.
+            if (allFilters[key].gameDependent) {
+                innerAggs[key + '_filter'].aggregations[key + '_nested'] = {};
+                const subAgg = innerAggs[key + '_filter'].aggregations[key + '_nested'];
+                subAgg.nested = {
+                    path: key
+                };
+                subAgg.aggregations = {};
+                subAgg.aggregations[key + '_nested_filter'] = {};
+                subAgg.aggregations[key + '_nested_filter'].filter = buildGameInnerFilter(appliedFilters, key);
+                subAgg.aggregations[key + '_nested_filter'].aggregations = {};
+                subAgg.aggregations[key + '_nested_filter'].aggregations[key + '_values'] = {
+                    terms: {
+                        field: key + '.value', // need .value because its a sub document of (game, value)
+                        size: 50
+                    }
+                }
+            } else {
+                // Just term aggregator.
+                innerAggs[key + '_filter'].aggregations[key + '_values'] = {
+                    terms: {
+                        field: key,
+                        size: 50
+                    }
                 }
             }
         }
@@ -271,7 +332,14 @@ function buildAvailableFilters(appliedFilters, aggregations) {
 
     // Find out what filters we can show as available.
     for (let key of sortedAggregations) {
-        const agg = aggregations[key + '_filter'][key];
+        let agg = undefined;
+        // Where the aggregation lives depends on if it's game-dependent or not.
+        if (allFilters[key].gameDependent) {
+            agg = aggregations[key + '_filter'][key + '_nested'][key + '_nested_filter'][key + '_values'];
+        } else {
+            agg = aggregations[key + '_filter'][key + '_values'];
+        }
+
         // Skip entirely empty buckets.
         if (agg.buckets.length > 0) {
             // Only show what the aggregation allows.
@@ -374,6 +442,7 @@ async function browse(pageNumber, userQueries, fixedQueries) {
         aggregations: aggs,
         sort: sort
     };
+    console.log(JSON.stringify(body, null, 2));
 
     // Get index name
     const indexName = await config.getElasticSearchIndexName();

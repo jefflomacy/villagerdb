@@ -145,7 +145,7 @@ async function buildSearchIndex() {
                 category: { // aggregate, game-independent
                     type: 'keyword'
                 },
-                collab: { // aggregate, game-independent (TODO)
+                collab: { // aggregate, game-independent
                     type: 'keyword'
                 },
                 tag: { // aggregate, game-independent (TODO)
@@ -368,10 +368,12 @@ async function indexItems(es, newIndexName) {
 
         for (let game in parsed.games) {
             document.game.push(game);
-            document.set.push({
-                game: game,
-                value: parsed.games[game].set
-            });
+            if (parsed.games[game].set) {
+                document.set.push({
+                    game: game,
+                    value: parsed.games[game].set
+                });
+            }
 
             const interiorThemes = parsed.games[game].interiorThemes;
             const fashionThemes = parsed.games[game].fashionThemes;
@@ -389,7 +391,7 @@ async function indexItems(es, newIndexName) {
                 for (let fashionTheme of fashionThemes) {
                     document.fashionTheme.push({
                         game: game,
-                        fashionTheme: fashionTheme
+                        value: fashionTheme
                     });
                 }
             }

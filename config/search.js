@@ -146,7 +146,6 @@ module.exports = {
                 wolf: 'Wolf',
             },
             canAggregate: true,
-            gameDependent: true,
             sort: 11
         },
         zodiac: {

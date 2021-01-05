@@ -127,7 +127,10 @@ async function buildSearchIndex() {
                 interiorTheme: {
                     type: 'keyword',
                 },
-                fashionTheme: {
+                fashionThemeNL: {
+                    type: 'keyword'
+                },
+                fashionThemeNH: {
                     type: 'keyword'
                 },
                 set: {
@@ -309,7 +312,11 @@ async function indexItems(es, newIndexName) {
         for (let game in parsed.games) {
             document.game.push(game);
             document.interiorTheme = parsed.games[game].interiorThemes;
-            document.fashionTheme = parsed.games[game].fashionThemes;
+            if (game === 'nl') {
+                document.fashionThemeNL = parsed.games[game].fashionThemes;
+            } else if (game === 'nh') {
+                document.fashionThemeNH = parsed.games[game].fashionThemes;
+            }
             document.set = parsed.games[game].set;
         }
 

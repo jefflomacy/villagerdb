@@ -57,10 +57,25 @@ module.exports = {
             canAggregate: true,
             sort: 4
         },
-        fashionTheme: {
-            name: 'Fashion Theme',
+        fashionThemeNL: {
+            name: 'Fashion Theme (NL)',
             canAggregate: true,
-            sort: 5
+            sort: 5,
+            shouldDisplay: (appliedFilters) => {
+                return typeof appliedFilters === 'object' &&
+                    typeof appliedFilters.game === 'object' &&
+                    appliedFilters.game.includes('nl');
+            }
+        },
+        fashionThemeNH: {
+            name: 'Fashion Theme (NH)',
+            canAggregate: true,
+            sort: 5,
+            shouldDisplay: (appliedFilters) => {
+                return typeof appliedFilters === 'object' &&
+                    typeof appliedFilters.game === 'object' &&
+                    appliedFilters.game.includes('nh');
+            }
         },
         interiorTheme: {
             name: 'Interior Theme',

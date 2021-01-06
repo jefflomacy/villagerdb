@@ -26,11 +26,17 @@ async function generateSitemap() {
 function computeTags(item) {
     const tags = [];
 
-    // Check if craftable - TODO dont like the way this is done but need 2 options to show as filterable!
+    // Check if craftable
     if (item.games && item.games.nh && item.games.nh.recipe && Object.keys(item.games.nh.recipe).length > 0) {
-        tags.push('Craftable');
+        tags.push({
+            game: 'nh',
+            value: 'Craftable'
+        });
     } else if (item.games && item.games.nh) {
-        tags.push('Not Craftable');
+        tags.push({
+            game: 'nh',
+            value: 'Not Craftable'
+        });
     }
 
     if (tags.length > 0) {
@@ -148,8 +154,16 @@ async function buildSearchIndex() {
                 collab: { // aggregate, game-independent
                     type: 'keyword'
                 },
-                tag: { // aggregate, game-independent (TODO)
-                    type: 'keyword'
+                tag: { // aggregate, game-dependent
+                    type: 'nested',
+                    properties: {
+                        game: {
+                            type: 'keyword'
+                        },
+                        value: {
+                            type: 'keyword'
+                        }
+                    }
                 },
                 personality: { // aggregate, game-dependent
                     type: 'nested',

@@ -50,6 +50,7 @@ module.exports = {
         tag: {
             name: 'Tags',
             canAggregate: true,
+            gameDependent: true,
             sort: 3
         },
         category: {

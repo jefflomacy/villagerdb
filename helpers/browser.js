@@ -343,22 +343,53 @@ function buildAvailableFilters(appliedFilters, aggregations) {
         // Skip entirely empty buckets.
         if (agg.buckets.length > 0) {
             // Only show what the aggregation allows.
-            const buckets = agg.buckets
-                .map((b) => {
-                    return b.key;
-                });
+            const buckets = agg.buckets;
 
-            const bucketKeyValue = {};
+            // Sort the buckets aplhabetically. If it has a key-value store pre-configured, we'll use that instead of
+            // alphabetical.
             if (allFilters[key].values) {
-                for (let b of Object.keys(allFilters[key].values)) {
-                    if (buckets.includes(b)) {
-                        bucketKeyValue[b] = allFilters[key].values[b];
+                const valueKeys = Object.keys(allFilters[key].values);
+                buckets.sort((a, b) => {
+                    const aIndex = valueKeys.indexOf(a.key);
+                    const bIndex = valueKeys.indexOf(b.key);
+                    if (aIndex < bIndex) {
+                        return -1;
+                    } else {
+                        return 1;
+                    }
+                })
+            } else {
+                // Sort the keys on their own
+                buckets.sort((a, b) => {
+                    if (a.key < b.key) {
+                        return -1;
+                    } else {
+                        return 1;
+                    }
+                });
+            }
+
+
+            // Build the key-value-count store
+            const bucketKeyValue = {};
+
+            // Does it have pre-configured display values we want?
+            if (allFilters[key].values) {
+                for (let b of buckets) {
+                    if (allFilters[key].values[b.key]) {
+                        bucketKeyValue[b.key] = {
+                            label: allFilters[key].values[b.key],
+                            count: b.doc_count
+                        }
                     }
                 }
             } else {
-                buckets.sort();
+                // Nope... just use the buckets as-presented.
                 for (let b of buckets) {
-                    bucketKeyValue[b] = b;
+                    bucketKeyValue[b.key] = {
+                        label: b.key,
+                        count: b.doc_count
+                    };
                 }
             }
 

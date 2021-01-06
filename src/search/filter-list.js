@@ -34,7 +34,8 @@ export default class FilterList extends React.Component {
             let filter = this.props.availableFilters[filterId];
             let valueOptions = [];
             for (let valueId in filter.values) {
-                let label = filter.values[valueId];
+                let label = filter.values[valueId].label;
+                let count = filter.values[valueId].count;
                 const isApplied = this.isFilterApplied(filterId, valueId);
                 valueOptions.push((
                     <div className="form-check" key={filterId + '-' + counter}>
@@ -43,7 +44,7 @@ export default class FilterList extends React.Component {
                                onChange={this.toggleFilterValue.bind(this, filterId, valueId)}
                                checked={isApplied} />
                         <label className="form-check-label" htmlFor={filterId + '-' + counter}>
-                            {label}
+                            {label} <span className="text-muted">({count})</span>
                         </label>
                     </div>
                 ));

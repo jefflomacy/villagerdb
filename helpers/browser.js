@@ -243,6 +243,11 @@ function getAggregations(appliedFilters, appliedQueries, fixedQueries) {
     // ElasticSearch requires us to nest these aggregations a level deeper than I would like, but it does work.
     const innerAggs = result.all_entries.aggregations;
     for (let key in allFilters) {
+        // Skip the game filter, we will do it differently below.
+        if (key === 'game') {
+            continue;
+        }
+
         // Has to be aggregable, and not already set in the fixed query.
         if (allFilters[key].canAggregate && typeof fixedQueries[key] === 'undefined') {
             // First, build the root aggregation. We always have this.
@@ -281,6 +286,25 @@ function getAggregations(appliedFilters, appliedQueries, fixedQueries) {
         }
     }
 
+    // The game filter is more complicated. We have to build one aggregation for each game and apply the
+    // game-dependent filters that are already applied to find out what documents match.
+    for (let game of Object.keys(allFilters['game'].values)) {
+        const forcedGameAppliedFilters = Object.assign(appliedFilters,{
+            game: [game]
+        });
+
+        result['game_' + game] = {};
+        result['game_' + game].filter = getAggregationFilter('game', getAppliedQueries(forcedGameAppliedFilters),
+            fixedQueries, forcedGameAppliedFilters);
+        result['game_' + game].aggregations = {};
+        result['game_' + game].aggregations['game_' + game + '_values'] = {
+            terms: {
+                field: 'game',
+                size: 50
+            }
+        }
+    }
+
     return result;
 }
 
@@ -311,13 +335,40 @@ function getAggregationFilter(key, appliedQueries, fixedQueries, appliedFilters)
  * ones that are actually aggregable.
  *
  * @param appliedFilters
- * @param aggregations
+ * @param aggregationsRoot
  */
-function buildAvailableFilters(appliedFilters, aggregations) {
+function buildAvailableFilters(appliedFilters, aggregationsRoot) {
     const availableFilters = {};
 
+    // Game aggregations first.
+    availableFilters['game'] = {
+        name: allFilters['game'].name,
+        values: {}
+    };
+    const gameValues = {};
+    for (let key in allFilters['game'].values) {
+        const buckets = aggregationsRoot['game_' + key]['game_' + key + '_values'].buckets;
+        if (buckets.length > 0) {
+            // Find the count for this game in the buckets.
+            for (let b of buckets) {
+                if (b.key === key && b.doc_count > 0) {
+                    gameValues[key] = {
+                        label: allFilters['game'].values[key],
+                        count: b.doc_count
+                    }
+                    break;
+                }
+            }
+        }
+    }
+    availableFilters['game'].values = gameValues;
+
     // Sort aggregations so that they maintain their order.
+    const aggregations = aggregationsRoot.all_entries;
     const sortedAggregations = Object.keys(aggregations)
+        .filter((a) => {
+            return !a.startsWith('game_'); // skip game aggregations
+        })
         .map((a) => {
             // We need the child here, not the parent.
             const split = a.split('_');
@@ -473,7 +524,6 @@ async function browse(pageNumber, userQueries, fixedQueries) {
         aggregations: aggs,
         sort: sort
     };
-    console.log(JSON.stringify(body, null, 2));
 
     // Get index name
     const indexName = await config.getElasticSearchIndexName();
@@ -499,7 +549,7 @@ async function browse(pageNumber, userQueries, fixedQueries) {
             body: body
         });
 
-        result.availableFilters = buildAvailableFilters(result.appliedFilters, results.aggregations.all_entries);
+        result.availableFilters = buildAvailableFilters(result.appliedFilters, results.aggregations);
 
         // Load the results.
         for (let h of results.hits.hits) {

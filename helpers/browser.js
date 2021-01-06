@@ -289,9 +289,8 @@ function getAggregations(appliedFilters, appliedQueries, fixedQueries) {
     // The game filter is more complicated. We have to build one aggregation for each game and apply the
     // game-dependent filters that are already applied to find out what documents match.
     for (let game of Object.keys(allFilters['game'].values)) {
-        const forcedGameAppliedFilters = Object.assign(appliedFilters,{
-            game: [game]
-        });
+        const forcedGameAppliedFilters = Object.assign({}, appliedFilters);
+        forcedGameAppliedFilters.game = [game];
 
         result['game_' + game] = {};
         result['game_' + game].filter = getAggregationFilter('game', getAppliedQueries(forcedGameAppliedFilters),

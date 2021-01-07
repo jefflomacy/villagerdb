@@ -133,7 +133,7 @@ class Browser extends React.Component {
                 totalCount: response.totalCount,
                 totalPages: response.totalPages,
                 results: response.results,
-                appliedFilters: appliedFilters,
+                appliedFilters: response.appliedFilters,
                 availableFilters: response.availableFilters,
                 isLoading: false,
                 initialized: true

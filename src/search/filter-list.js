@@ -53,6 +53,7 @@ export default class FilterList extends React.Component {
 
             // No sense in showing less than two options, right?
             if (valueOptions.length >= 2) {
+                let valueCount = valueOptions.length;
                 let caretClassName = 'fa-chevron-down';
                 // Only show value options if expanded.
                 if (!this.state.expandedFilters.includes(filterId)) {
@@ -64,7 +65,9 @@ export default class FilterList extends React.Component {
                         <div className="mb-2">
                             <a href="#" className="filter-root" onClick={this.expandCollapse.bind(this, filterId)}>
                                 <span className="font-weight-bold">{filter.name}</span>
-                                <span aria-hidden="true" className={'fas ' + caretClassName} style={{float: 'right'}}></span>
+                                <span className="text-muted">&nbsp;({valueCount})</span>
+                                <span aria-hidden="true" className={'fas ' + caretClassName}
+                                      style={{float: 'right'}}></span>
                             </a>
                         </div>
                         {valueOptions}

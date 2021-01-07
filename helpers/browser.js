@@ -199,6 +199,43 @@ function getAppliedFilters(userQueries, fixedQueries) {
 module.exports.getAppliedFilters = getAppliedFilters;
 
 /**
+ * Sometimes users can select collections of options that result in a previously selected filter no
+ * longer being available. This function cleans those up so that the run query equals the shown query.
+ *
+ * @param appliedFilters
+ * @param availableFilters
+ * @returns {*}
+ */
+function cleanAppliedFilters(appliedFilters, availableFilters) {
+    // Remove any applied filter that is not available.
+    for (let key in appliedFilters) {
+        if (!availableFilters[key] && allFilters[key].canAggregate) {
+            delete appliedFilters[key];
+        }
+    }
+
+    // Remove any applied filter option that is not available.
+    for (let key in appliedFilters) {
+        if (availableFilters[key] && allFilters[key].canAggregate) {
+            const appliedValues = appliedFilters[key];
+            const cleanedAppliedValues = [];
+            const availableValues = availableFilters[key].values;
+            for (let value of appliedValues) {
+                if (availableValues[value]) {
+                    cleanedAppliedValues.push(value);
+                }
+            }
+            if (cleanedAppliedValues.length > 0) {
+                appliedFilters[key] = cleanedAppliedValues;
+            } else {
+                delete appliedFilters[key];
+            }
+        }
+    }
+
+    return appliedFilters;
+}
+/**
  * Get match queries for the applied filters. Returns an empty array if there is nothing to
  * send to ElasticSearch.
  *
@@ -549,6 +586,9 @@ async function browse(pageNumber, userQueries, fixedQueries) {
         });
 
         result.availableFilters = buildAvailableFilters(result.appliedFilters, results.aggregations);
+
+        // Clean the applied filters - don't leave any filters applied that are not available in the new set.
+        result.appliedFilters = cleanAppliedFilters(result.appliedFilters, result.availableFilters);
 
         // Load the results.
         for (let h of results.hits.hits) {

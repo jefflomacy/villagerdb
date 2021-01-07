@@ -41,7 +41,11 @@
         "dark-blue": "Dark blue",
         "pink": "Pink",
         "muslin": "Muslin"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Work"
+      ]
     }
   }
 }

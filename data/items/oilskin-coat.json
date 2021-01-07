@@ -18,7 +18,11 @@
         "yellow": "Yellow",
         "red": "Red",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

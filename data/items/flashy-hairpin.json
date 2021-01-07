@@ -48,7 +48,12 @@
         "orange": "Orange",
         "green": "Green",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

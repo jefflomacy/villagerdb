@@ -18,7 +18,11 @@
         "black": "Black",
         "yellow": "Yellow",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

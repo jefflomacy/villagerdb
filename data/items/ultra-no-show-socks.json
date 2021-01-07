@@ -26,7 +26,12 @@
         "purple": "Purple",
         "black": "Black",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Socks"

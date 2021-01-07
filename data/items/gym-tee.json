@@ -22,7 +22,11 @@
         "blue": "Blue",
         "green": "Green",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Sporty"
+      ]
     }
   },
   "category": "Tops"

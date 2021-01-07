@@ -40,7 +40,11 @@
       "variations": {
         "black": "Black",
         "gold": "Gold"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Work"
+      ]
     }
   }
 }

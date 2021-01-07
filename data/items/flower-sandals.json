@@ -25,7 +25,12 @@
         "blue": "Blue",
         "black": "Black",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Outdoorsy",
+        "Vacation"
+      ]
     }
   },
   "category": "Shoes"

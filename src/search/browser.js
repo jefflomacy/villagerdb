@@ -48,7 +48,7 @@ class Browser extends React.Component {
         // Not initialized yet?
         if (!this.state.initialized) {
             return (
-                <div className="text-center" style={{'font-size': '40px', 'color': '#003A70'}}>
+                <div className="text-center" style={{'fontSize': '40px', 'color': '#003A70'}}>
                     <div className="fas fa-spin fa-spinner"></div>
                 </div>
             )
@@ -133,7 +133,7 @@ class Browser extends React.Component {
                 totalCount: response.totalCount,
                 totalPages: response.totalPages,
                 results: response.results,
-                appliedFilters: appliedFilters,
+                appliedFilters: response.appliedFilters,
                 availableFilters: response.availableFilters,
                 isLoading: false,
                 initialized: true

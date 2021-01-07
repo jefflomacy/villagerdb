@@ -23,7 +23,12 @@
         "purple": "Purple",
         "gold": "Gold",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation",
+        "Work"
+      ]
     }
   },
   "category": "Accessories"

@@ -34,7 +34,8 @@ export default class FilterList extends React.Component {
             let filter = this.props.availableFilters[filterId];
             let valueOptions = [];
             for (let valueId in filter.values) {
-                let label = filter.values[valueId];
+                let label = filter.values[valueId].label;
+                let count = filter.values[valueId].count;
                 const isApplied = this.isFilterApplied(filterId, valueId);
                 valueOptions.push((
                     <div className="form-check" key={filterId + '-' + counter}>
@@ -43,15 +44,16 @@ export default class FilterList extends React.Component {
                                onChange={this.toggleFilterValue.bind(this, filterId, valueId)}
                                checked={isApplied} />
                         <label className="form-check-label" htmlFor={filterId + '-' + counter}>
-                            {label}
+                            {label} <span className="text-muted">({count})</span>
                         </label>
                     </div>
                 ));
                 counter++;
             }
 
-            // No sense in showing less than two options, right?
-            if (valueOptions.length >= 2) {
+            // Only show if more than one.
+            if (valueOptions.length >= 1) {
+                let valueCount = valueOptions.length;
                 let caretClassName = 'fa-chevron-down';
                 // Only show value options if expanded.
                 if (!this.state.expandedFilters.includes(filterId)) {
@@ -63,7 +65,9 @@ export default class FilterList extends React.Component {
                         <div className="mb-2">
                             <a href="#" className="filter-root" onClick={this.expandCollapse.bind(this, filterId)}>
                                 <span className="font-weight-bold">{filter.name}</span>
-                                <span aria-hidden="true" className={'fas ' + caretClassName} style={{float: 'right'}}></span>
+                                <span className="text-muted">&nbsp;({valueCount})</span>
+                                <span aria-hidden="true" className={'fas ' + caretClassName}
+                                      style={{float: 'right'}}></span>
                             </a>
                         </div>
                         {valueOptions}

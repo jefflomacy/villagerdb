@@ -44,7 +44,11 @@
         "pink": "Pink",
         "gold": "Gold",
         "silver": "Silver"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party"
+      ]
     }
   }
 }

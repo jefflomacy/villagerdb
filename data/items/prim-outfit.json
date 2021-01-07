@@ -37,7 +37,12 @@
         "blue": "Blue",
         "gray": "Gray",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party",
+        "Work"
+      ]
     }
   }
 }

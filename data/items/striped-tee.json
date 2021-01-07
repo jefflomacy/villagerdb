@@ -21,7 +21,11 @@
         "green": "Green",
         "purple": "Purple",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

@@ -23,7 +23,11 @@
         "orange": "Orange",
         "pink": "Pink",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

@@ -36,7 +36,11 @@
         "gray": "Gray",
         "blue": "Blue",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Work"
+      ]
     }
   }
 }

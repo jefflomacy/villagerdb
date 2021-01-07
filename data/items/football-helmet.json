@@ -42,7 +42,11 @@
         "turquoise": "Turquoise",
         "red": "Red",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Work"
+      ]
     }
   }
 }

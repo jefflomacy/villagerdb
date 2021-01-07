@@ -41,7 +41,12 @@
         "blue": "Blue",
         "green": "Green",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Work"
+      ]
     }
   }
 }

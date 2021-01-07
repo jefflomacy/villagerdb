@@ -22,7 +22,11 @@
         "brown": "Brown",
         "light-green": "Light green",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

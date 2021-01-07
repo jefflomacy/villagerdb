@@ -19,7 +19,12 @@
         "green": "Green",
         "pink": "Pink",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

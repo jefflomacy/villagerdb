@@ -43,7 +43,11 @@
       ],
       "variations": {
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Work"
+      ]
     }
   }
 }

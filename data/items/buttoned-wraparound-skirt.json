@@ -24,7 +24,11 @@
         "pink": "Pink",
         "green": "Green",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Bottoms"

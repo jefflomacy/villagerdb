@@ -37,7 +37,12 @@
       },
       "variations": {
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Outdoorsy",
+        "Vacation"
+      ]
     }
   }
 }

@@ -22,7 +22,11 @@
         "white": "White",
         "pink": "Pink",
         "lime": "Lime"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

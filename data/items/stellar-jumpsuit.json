@@ -23,7 +23,11 @@
         "dark-red": "Dark red",
         "purple": "Purple",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

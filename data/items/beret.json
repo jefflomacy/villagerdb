@@ -44,7 +44,12 @@
         "mustard": "Mustard",
         "gray": "Gray",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Party"
+      ]
     }
   }
 }

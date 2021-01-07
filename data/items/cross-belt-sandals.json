@@ -21,7 +21,11 @@
         "brown": "Brown",
         "black": "Black",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Shoes"

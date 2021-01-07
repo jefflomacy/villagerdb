@@ -22,7 +22,11 @@
         "brown": "Brown",
         "green": "Green",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Accessories"

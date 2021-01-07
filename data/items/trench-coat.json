@@ -40,7 +40,12 @@
         "red": "Red",
         "orange": "Orange",
         "navy-blue": "Navy blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Work"
+      ]
     }
   }
 }

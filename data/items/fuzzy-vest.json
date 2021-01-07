@@ -20,7 +20,11 @@
         "brown": "Brown",
         "green": "Green",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Tops"

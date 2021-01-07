@@ -20,7 +20,11 @@
         "navy-blue": "Navy blue",
         "purple": "Purple",
         "coral": "Coral"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Tops"

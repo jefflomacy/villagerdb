@@ -26,7 +26,12 @@
         "pale-sky": "Pale sky",
         "purple-sweet-potato": "Purple sweet potato",
         "black-sesame": "Black sesame"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Hats"

@@ -17,7 +17,11 @@
         "blue": "Blue",
         "green": "Green",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Dresses"

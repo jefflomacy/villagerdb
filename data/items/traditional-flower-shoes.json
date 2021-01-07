@@ -23,7 +23,11 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "lime": "Lime"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Shoes"

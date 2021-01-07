@@ -46,7 +46,11 @@
         "yellow": "Yellow",
         "light-blue": "Light blue",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Work"
+      ]
     }
   }
 }

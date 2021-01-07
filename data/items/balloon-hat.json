@@ -35,7 +35,11 @@
         "orange": "Orange",
         "blue": "Blue",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

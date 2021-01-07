@@ -22,7 +22,11 @@
         "blue": "Blue",
         "camel": "Camel",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Dresses"

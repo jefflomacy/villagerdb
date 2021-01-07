@@ -22,7 +22,12 @@
         "pink": "Pink",
         "black": "Black",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   },
   "category": "Hats"

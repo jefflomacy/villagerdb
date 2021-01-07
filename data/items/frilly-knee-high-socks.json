@@ -23,7 +23,13 @@
         "pink": "Pink",
         "purple": "Purple",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Socks"

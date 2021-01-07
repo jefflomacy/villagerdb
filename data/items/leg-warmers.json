@@ -40,7 +40,11 @@
         "pink": "Pink",
         "light-purple": "Light purple",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Outdoorsy"
+      ]
     }
   }
 }

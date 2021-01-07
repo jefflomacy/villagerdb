@@ -19,7 +19,11 @@
         "green": "Green",
         "black": "Black",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Bottoms"

@@ -24,7 +24,11 @@
         "yellow": "Yellow",
         "purple": "Purple",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale"
+      ]
     }
   },
   "category": "Shoes"

@@ -24,7 +24,11 @@
         "berry-red": "Berry red",
         "navy-blue": "Navy blue",
         "cream": "Cream"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Hats"

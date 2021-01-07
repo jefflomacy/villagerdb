@@ -18,7 +18,11 @@
         "black": "Black",
         "beige": "Beige",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Vacation"
+      ]
     }
   },
   "category": "Hats"

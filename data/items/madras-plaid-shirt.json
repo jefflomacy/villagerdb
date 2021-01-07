@@ -21,7 +21,11 @@
         "purple": "Purple",
         "pink": "Pink",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

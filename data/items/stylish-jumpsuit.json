@@ -20,7 +20,11 @@
         "beige": "Beige",
         "avocado": "Avocado",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

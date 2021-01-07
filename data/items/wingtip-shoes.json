@@ -25,7 +25,14 @@
         "gray": "Gray",
         "berry-red": "Berry red",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Party",
+        "Theatrical",
+        "Work"
+      ]
     }
   },
   "category": "Shoes"

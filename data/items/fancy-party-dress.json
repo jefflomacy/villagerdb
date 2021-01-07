@@ -22,7 +22,11 @@
         "pink": "Pink",
         "green": "Green",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Dresses"

@@ -23,7 +23,12 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

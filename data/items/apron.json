@@ -26,7 +26,11 @@
         "purple": "Purple",
         "gray": "Gray",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

@@ -19,7 +19,11 @@
         "red": "Red",
         "green": "Green",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Bottoms"

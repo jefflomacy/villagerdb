@@ -21,7 +21,11 @@
         "brown": "Brown",
         "green": "Green",
         "blue-gray": "Blue-gray"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Goth"
+      ]
     }
   },
   "category": "Hats"

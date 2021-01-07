@@ -39,7 +39,10 @@
       ],
       "variations": {
         "hair-color": "Hair Color"
-      }
+      },
+      "fashionThemes": [
+        "Theatrical"
+      ]
     }
   }
 }

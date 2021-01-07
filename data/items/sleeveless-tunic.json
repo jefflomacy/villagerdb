@@ -21,7 +21,11 @@
         "pink": "Pink",
         "white": "White",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

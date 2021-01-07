@@ -15,7 +15,11 @@
       ],
       "variations": {
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Dresses"

@@ -20,7 +20,11 @@
         "mint": "Mint",
         "red": "Red",
         "navy-blue": "Navy blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

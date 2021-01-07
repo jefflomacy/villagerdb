@@ -18,7 +18,12 @@
       },
       "variations": {
         "dark-red": "Dark red"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Vacation"
+      ]
     }
   },
   "category": "Hats"

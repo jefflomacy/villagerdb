@@ -23,7 +23,12 @@
         "green": "Green",
         "orange": "Orange",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty",
+        "Work"
+      ]
     }
   },
   "category": "Hats"

@@ -22,7 +22,12 @@
         "black": "Black",
         "blue": "Blue",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Shoes"

@@ -20,7 +20,13 @@
       "variations": {
         "blue": "Blue",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Party",
+        "Sporty",
+        "Theatrical"
+      ]
     }
   },
   "category": "Tops"

@@ -37,7 +37,11 @@
         "blue": "Blue",
         "pink": "Pink",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   }
 }

@@ -42,7 +42,11 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   }
 }

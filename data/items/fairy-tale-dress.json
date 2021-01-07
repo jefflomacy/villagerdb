@@ -43,7 +43,11 @@
         "light-blue": "Light blue",
         "light-green": "Light green",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Theatrical"
+      ]
     }
   }
 }

@@ -26,7 +26,13 @@
         "purple-green": "Purple & green",
         "pink-yellow": "Pink & yellow",
         "black-gray": "Black & gray"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Socks"

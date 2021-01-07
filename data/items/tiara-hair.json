@@ -41,7 +41,13 @@
         "silver": "Silver",
         "gold": "Gold",
         "rose-gold": "Rose gold"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

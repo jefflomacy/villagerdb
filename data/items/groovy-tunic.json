@@ -21,7 +21,11 @@
         "orange": "Orange",
         "brown": "Brown",
         "camel": "Camel"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Theatrical"
+      ]
     }
   },
   "category": "Tops"

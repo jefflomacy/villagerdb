@@ -16,7 +16,11 @@
       "variations": {
         "tiger": "Tiger",
         "zebra": "Zebra"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

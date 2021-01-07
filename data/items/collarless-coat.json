@@ -18,7 +18,11 @@
         "gray": "Gray",
         "beige": "Beige",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Tops"

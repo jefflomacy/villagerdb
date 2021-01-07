@@ -22,7 +22,11 @@
         "pink": "Pink",
         "yellow": "Yellow",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

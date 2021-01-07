@@ -20,7 +20,11 @@
       "variations": {
         "pink": "Pink",
         "green-tea": "Green tea"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Dresses"

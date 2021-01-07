@@ -20,7 +20,12 @@
         "green": "Green",
         "red": "Red",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Goth",
+        "Party"
+      ]
     }
   },
   "category": "Accessories"

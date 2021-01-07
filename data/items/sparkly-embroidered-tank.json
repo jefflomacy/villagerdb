@@ -17,7 +17,11 @@
         "red": "Red",
         "yellow": "Yellow",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

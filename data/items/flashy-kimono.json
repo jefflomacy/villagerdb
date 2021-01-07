@@ -24,7 +24,11 @@
         "blue": "Blue",
         "white": "White",
         "fuchsia": "Fuchsia"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

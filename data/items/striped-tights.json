@@ -26,7 +26,11 @@
         "purple": "Purple",
         "green": "Green",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Socks"

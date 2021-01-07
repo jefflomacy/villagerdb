@@ -26,7 +26,13 @@
         "purple": "Purple",
         "lime": "Lime",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Outdoorsy",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

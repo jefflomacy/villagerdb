@@ -42,7 +42,11 @@
         "navy-blue": "Navy blue",
         "black": "Black",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Work"
+      ]
     }
   }
 }

@@ -16,7 +16,11 @@
       "variations": {
         "black": "Black",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

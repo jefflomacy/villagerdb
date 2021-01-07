@@ -22,7 +22,12 @@
         "indigo-blue": "Indigo blue",
         "saxon-blue": "Saxon blue",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Socks"

@@ -23,7 +23,13 @@
         "blue": "Blue",
         "berry-red": "Berry red",
         "navy-blue": "Navy blue"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party",
+        "Theatrical",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

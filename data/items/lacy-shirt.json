@@ -20,7 +20,14 @@
       "variations": {
         "black": "Black",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Formal",
+        "Party",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

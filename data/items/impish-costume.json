@@ -20,7 +20,12 @@
       "variations": {
         "black": "Black",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Goth",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

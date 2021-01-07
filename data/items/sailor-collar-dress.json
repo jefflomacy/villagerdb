@@ -22,7 +22,12 @@
         "navy-blue": "Navy blue",
         "blue": "Blue",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

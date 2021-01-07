@@ -39,7 +39,10 @@
         "beige": "Beige",
         "red": "Red",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Everyday"
+      ]
     }
   }
 }

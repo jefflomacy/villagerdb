@@ -42,7 +42,11 @@
         "purple": "Purple",
         "gray": "Gray",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   }
 }

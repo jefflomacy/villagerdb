@@ -18,7 +18,12 @@
         "pink": "Pink",
         "green": "Green",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

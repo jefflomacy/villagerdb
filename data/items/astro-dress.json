@@ -17,7 +17,11 @@
         "blue": "Blue",
         "green": "Green",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

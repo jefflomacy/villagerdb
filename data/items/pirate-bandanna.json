@@ -14,7 +14,12 @@
         "red": "Red",
         "blue": "Blue",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Goth",
+        "Theatrical"
+      ]
     }
   },
   "category": "Hats"

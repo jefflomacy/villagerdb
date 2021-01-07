@@ -19,7 +19,12 @@
       ],
       "variations": {
         "hair-color": "Hair Color"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical",
+        "Work"
+      ]
     }
   },
   "category": "Hats"

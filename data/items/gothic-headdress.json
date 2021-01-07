@@ -24,7 +24,12 @@
         "pink": "Pink",
         "blue": "Blue",
         "light-purple": "Light purple"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Hats"

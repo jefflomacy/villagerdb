@@ -42,7 +42,11 @@
         "orange": "Orange",
         "brown": "Brown",
         "camel": "Camel"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Outdoorsy"
+      ]
     }
   }
 }

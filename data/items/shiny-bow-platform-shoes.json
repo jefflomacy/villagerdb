@@ -26,7 +26,12 @@
         "light-blue": "Light blue",
         "white": "White",
         "light-purple": "Light purple"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Shoes"

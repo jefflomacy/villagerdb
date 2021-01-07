@@ -23,7 +23,11 @@
         "white": "White",
         "brown": "Brown",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Work"
+      ]
     }
   },
   "category": "Socks"

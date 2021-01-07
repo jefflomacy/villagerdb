@@ -22,7 +22,13 @@
         "red": "Red",
         "brown": "Brown",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Outdoorsy",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

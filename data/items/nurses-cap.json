@@ -41,7 +41,10 @@
         "pink": "Pink",
         "white": "White",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Work"
+      ]
     }
   }
 }

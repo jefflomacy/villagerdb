@@ -22,7 +22,12 @@
         "blue": "Blue",
         "green": "Green",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Theatrical",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

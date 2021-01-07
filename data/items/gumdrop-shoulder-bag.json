@@ -20,7 +20,11 @@
       "variations": {
         "pop": "Pop",
         "cool": "Cool"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Accessories"

@@ -25,7 +25,12 @@
         "purple": "Purple",
         "blue": "Blue",
         "dark-red": "Dark red"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Theatrical",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

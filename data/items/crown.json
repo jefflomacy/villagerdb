@@ -43,7 +43,13 @@
       ],
       "variations": {
         "gold": "Gold"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

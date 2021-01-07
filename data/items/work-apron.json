@@ -20,7 +20,11 @@
       "variations": {
         "orange": "Orange",
         "avocado": "Avocado"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

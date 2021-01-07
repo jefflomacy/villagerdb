@@ -44,7 +44,11 @@
         "red-orange": "Red & orange",
         "lime-light-blue": "Lime & light blue",
         "purple-pink": "Purple & pink"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   }
 }

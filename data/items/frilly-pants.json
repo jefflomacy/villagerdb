@@ -23,7 +23,11 @@
         "pink": "Pink",
         "blue": "Blue",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

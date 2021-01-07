@@ -18,7 +18,11 @@
         "blue": "Blue",
         "golden-yellow": "Golden yellow",
         "dark-red": "Dark red"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Work"
+      ]
     }
   },
   "category": "Bottoms"

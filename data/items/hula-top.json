@@ -19,7 +19,11 @@
         "beige": "Beige",
         "purple": "Purple",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

@@ -15,7 +15,12 @@
       ],
       "variations": {
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Party"
+      ]
     }
   },
   "category": "Hats"

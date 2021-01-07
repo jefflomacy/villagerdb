@@ -19,7 +19,11 @@
         "black": "Black",
         "blue": "Blue",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Tops"

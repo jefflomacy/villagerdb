@@ -27,7 +27,11 @@
         "light-blue": "Light blue",
         "white": "White",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Shoes"

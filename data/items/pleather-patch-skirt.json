@@ -22,7 +22,11 @@
         "green": "Green",
         "purple": "Purple",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Bottoms"

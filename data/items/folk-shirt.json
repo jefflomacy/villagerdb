@@ -69,7 +69,11 @@
         "red": "Red",
         "brown": "Brown",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   }
 }

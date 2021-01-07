@@ -22,7 +22,11 @@
         "orange": "Orange",
         "blue": "Blue",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Accessories"

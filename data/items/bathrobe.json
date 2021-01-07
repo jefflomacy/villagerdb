@@ -43,7 +43,10 @@
         "purple": "Purple",
         "black": "Black",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Comfy"
+      ]
     }
   }
 }

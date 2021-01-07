@@ -39,7 +39,11 @@
         "green": "Green",
         "orange": "Orange",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Work"
+      ]
     }
   }
 }

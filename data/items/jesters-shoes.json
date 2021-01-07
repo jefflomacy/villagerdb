@@ -43,7 +43,14 @@
         "black": "Black",
         "red": "Red",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Goth",
+        "Party",
+        "Theatrical",
+        "Work"
+      ]
     }
   }
 }

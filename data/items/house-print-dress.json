@@ -20,7 +20,11 @@
       "variations": {
         "white": "White",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale"
+      ]
     }
   },
   "category": "Dresses"

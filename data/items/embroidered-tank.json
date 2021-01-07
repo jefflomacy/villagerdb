@@ -25,7 +25,12 @@
         "green": "Green",
         "beige": "Beige",
         "navy-blue": "Navy blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

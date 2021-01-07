@@ -23,7 +23,11 @@
         "pink": "Pink",
         "mint": "Mint",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Bottoms"

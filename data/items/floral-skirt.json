@@ -21,7 +21,13 @@
         "light-blue": "Light blue",
         "yellow": "Yellow",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

@@ -20,7 +20,13 @@
       "variations": {
         "green": "Green",
         "dark-green": "Dark green"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Party",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

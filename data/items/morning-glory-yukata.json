@@ -22,7 +22,12 @@
         "white": "White",
         "pale-green": "Pale green",
         "dark-blue": "Dark blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

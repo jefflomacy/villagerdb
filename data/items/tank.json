@@ -23,7 +23,14 @@
         "brown": "Brown",
         "red": "Red",
         "navy-blue": "Navy blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Outdoorsy",
+        "Sporty",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

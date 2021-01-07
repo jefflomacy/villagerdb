@@ -41,7 +41,12 @@
         "red": "Red",
         "blue": "Blue",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

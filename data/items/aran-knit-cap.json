@@ -19,7 +19,12 @@
         "red": "Red",
         "blue": "Blue",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Hats"

@@ -42,7 +42,11 @@
       ],
       "variations": {
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Theatrical",
+        "Work"
+      ]
     }
   }
 }

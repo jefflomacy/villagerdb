@@ -26,7 +26,12 @@
         "pink": "Pink",
         "green": "Green",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Shoes"

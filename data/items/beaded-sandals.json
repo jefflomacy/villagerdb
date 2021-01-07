@@ -24,7 +24,12 @@
         "red": "Red",
         "green": "Green",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Shoes"

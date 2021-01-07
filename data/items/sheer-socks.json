@@ -20,7 +20,12 @@
         "green": "Green",
         "olive": "Olive",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Socks"

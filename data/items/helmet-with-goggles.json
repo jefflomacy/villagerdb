@@ -23,7 +23,11 @@
         "light-blue": "Light blue",
         "black": "Black",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Work"
+      ]
     }
   },
   "category": "Hats"

@@ -21,7 +21,11 @@
         "ruby-red": "Ruby red",
         "moss-green": "Moss green",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Hats"

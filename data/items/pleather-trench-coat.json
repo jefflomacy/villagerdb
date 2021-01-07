@@ -17,7 +17,11 @@
         "black": "Black",
         "purple": "Purple",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Tops"

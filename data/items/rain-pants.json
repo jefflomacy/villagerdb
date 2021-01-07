@@ -22,7 +22,10 @@
         "red": "Red",
         "beige": "Beige",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Bottoms"

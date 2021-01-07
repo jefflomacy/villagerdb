@@ -22,7 +22,12 @@
         "blue": "Blue",
         "green": "Green",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Theatrical",
+        "Work"
+      ]
     }
   },
   "category": "Hats"

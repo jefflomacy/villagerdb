@@ -18,7 +18,13 @@
         "berry-red": "Berry red",
         "beige": "Beige",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

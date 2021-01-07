@@ -44,7 +44,12 @@
       ],
       "variations": {
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

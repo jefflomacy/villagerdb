@@ -21,7 +21,12 @@
         "red": "Red",
         "ochre": "Ochre",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical",
+        "Vacation"
+      ]
     }
   },
   "category": "Accessories"

@@ -21,7 +21,11 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Dresses"

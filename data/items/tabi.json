@@ -21,7 +21,12 @@
         "white": "White",
         "black": "Black",
         "navy-blue": "Navy blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Socks"

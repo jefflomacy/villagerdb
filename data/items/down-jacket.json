@@ -22,7 +22,11 @@
         "yellow": "Yellow",
         "orange": "Orange",
         "lime": "Lime"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Tops"

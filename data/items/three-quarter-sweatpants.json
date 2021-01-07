@@ -26,7 +26,11 @@
         "yellow": "Yellow",
         "red": "Red",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Sporty"
+      ]
     }
   },
   "category": "Bottoms"

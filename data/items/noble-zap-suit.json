@@ -26,7 +26,12 @@
         "black": "Black",
         "silver": "Silver",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Theatrical",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

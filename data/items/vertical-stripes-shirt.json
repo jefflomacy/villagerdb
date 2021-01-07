@@ -25,7 +25,12 @@
         "gray": "Gray",
         "beige": "Beige",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

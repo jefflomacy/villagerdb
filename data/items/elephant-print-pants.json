@@ -20,7 +20,11 @@
         "green": "Green",
         "purple": "Purple",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

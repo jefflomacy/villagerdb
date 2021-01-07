@@ -44,7 +44,12 @@
         "black": "Black",
         "gold": "Gold",
         "silver": "Silver"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Work"
+      ]
     }
   }
 }

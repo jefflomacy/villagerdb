@@ -20,7 +20,11 @@
         "white": "White",
         "olive": "Olive",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Dresses"

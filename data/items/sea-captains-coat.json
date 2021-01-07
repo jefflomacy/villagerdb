@@ -40,7 +40,13 @@
         "red": "Red",
         "blue": "Blue",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Goth",
+        "Theatrical"
+      ]
     }
   }
 }

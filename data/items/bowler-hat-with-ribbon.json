@@ -23,7 +23,12 @@
         "green": "Green",
         "red": "Red",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Hats"

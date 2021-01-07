@@ -24,7 +24,12 @@
         "red": "Red",
         "blue": "Blue",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Theatrical"
+      ]
     }
   },
   "category": "Tops"

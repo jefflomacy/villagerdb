@@ -21,7 +21,11 @@
         "dark-blue": "Dark blue",
         "fuchsia": "Fuchsia",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

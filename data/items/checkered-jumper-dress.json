@@ -22,7 +22,10 @@
         "green": "Green",
         "yellow": "Yellow",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Everyday"
+      ]
     }
   },
   "category": "Dresses"

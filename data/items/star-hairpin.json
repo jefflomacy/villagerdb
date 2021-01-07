@@ -39,7 +39,11 @@
         "purple": "Purple",
         "mint": "Mint",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale"
+      ]
     }
   }
 }

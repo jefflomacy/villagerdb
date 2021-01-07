@@ -22,7 +22,14 @@
         "green": "Green",
         "purple": "Purple",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Formal",
+        "Party",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

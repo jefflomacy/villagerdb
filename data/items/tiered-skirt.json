@@ -19,7 +19,13 @@
         "avocado": "Avocado",
         "yellow": "Yellow",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

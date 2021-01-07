@@ -26,7 +26,12 @@
         "green": "Green",
         "blue": "Blue",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Goth",
+        "Theatrical"
+      ]
     }
   },
   "category": "Socks"

@@ -13,7 +13,11 @@
       },
       "variations": {
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Accessories"

@@ -42,7 +42,12 @@
         "black": "Black",
         "navy-blue": "Navy blue",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Work"
+      ]
     }
   }
 }

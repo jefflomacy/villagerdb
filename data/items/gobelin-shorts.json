@@ -20,7 +20,11 @@
       "variations": {
         "beige": "Beige",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

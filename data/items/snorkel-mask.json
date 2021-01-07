@@ -37,7 +37,13 @@
         "pink": "Pink",
         "green": "Green",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty",
+        "Vacation",
+        "Work"
+      ]
     }
   }
 }

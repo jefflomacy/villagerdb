@@ -23,7 +23,13 @@
         "pink": "Pink",
         "purple": "Purple",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Outdoorsy",
+        "Sporty",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

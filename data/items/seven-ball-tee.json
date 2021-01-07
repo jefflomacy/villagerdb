@@ -39,7 +39,11 @@
       ],
       "variations": {
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   }
 }

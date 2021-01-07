@@ -22,7 +22,14 @@
         "black-white": "Black & white",
         "red-blue": "Red & blue",
         "green-red": "Green & red"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Goth",
+        "Party",
+        "Theatrical",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

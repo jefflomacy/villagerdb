@@ -23,7 +23,11 @@
         "light-blue": "Light blue",
         "red": "Red",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

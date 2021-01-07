@@ -20,7 +20,11 @@
         "purple": "Purple",
         "pink": "Pink",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Hats"

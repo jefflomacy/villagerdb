@@ -19,7 +19,11 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

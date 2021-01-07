@@ -20,7 +20,11 @@
       "variations": {
         "white": "White",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

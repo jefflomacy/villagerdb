@@ -20,7 +20,12 @@
       "variations": {
         "black": "Black",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Party",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

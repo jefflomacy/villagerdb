@@ -22,7 +22,11 @@
         "white": "White",
         "olive": "Olive",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Hats"

@@ -45,7 +45,12 @@
         "mint": "Mint",
         "orange": "Orange",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Party"
+      ]
     }
   }
 }

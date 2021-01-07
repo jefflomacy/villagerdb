@@ -21,7 +21,11 @@
         "beige": "Beige",
         "green": "Green",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

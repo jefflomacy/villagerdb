@@ -19,7 +19,11 @@
         "white": "White",
         "purple": "Purple",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Dresses"

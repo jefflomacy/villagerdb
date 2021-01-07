@@ -23,7 +23,12 @@
         "berry-red": "Berry red",
         "purple": "Purple",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

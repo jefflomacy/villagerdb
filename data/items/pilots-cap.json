@@ -37,7 +37,11 @@
         "brown": "Brown",
         "black": "Black",
         "avocado": "Avocado"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Work"
+      ]
     }
   }
 }

@@ -20,7 +20,11 @@
         "beige": "Beige",
         "greige": "Greige",
         "moss-green": "Moss green"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Dresses"

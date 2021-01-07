@@ -50,7 +50,11 @@
         "green": "Green",
         "yellow": "Yellow",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Work"
+      ]
     }
   }
 }

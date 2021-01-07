@@ -44,7 +44,13 @@
         "brown": "Brown",
         "black": "Black",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   }
 }

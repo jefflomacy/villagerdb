@@ -24,7 +24,10 @@
         "green": "Green",
         "light-gray": "Light gray",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday"
+      ]
     }
   },
   "category": "Bottoms"

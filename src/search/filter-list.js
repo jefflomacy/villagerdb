@@ -51,8 +51,8 @@ export default class FilterList extends React.Component {
                 counter++;
             }
 
-            // No sense in showing less than two options, right?
-            if (valueOptions.length >= 2) {
+            // Only show if more than one.
+            if (valueOptions.length >= 1) {
                 let valueCount = valueOptions.length;
                 let caretClassName = 'fa-chevron-down';
                 // Only show value options if expanded.

@@ -28,7 +28,7 @@
                aria-describedby="category-name-help" placeholder="Clothing Category" maxlength="{{categoryNameLength}}"
                value="{{categoryName}}">
         <small id="category-name-help" class="form-text text-muted">
-            <span style="color: red; font-weight: bold;">New!</span> You can change the category of your list by entering a name here. If you don't enter a name, your list
+            You can change the category of your list by entering a name here. If you don't enter a name, your list
             will show in the uncategorized section of your profile page.
             <a target="_blank" href="/cms/list-categories-added">Learn More</a>
         </small>
@@ -36,10 +36,12 @@
     <div>
         <label for="notes-name">Notes</label>
         <textarea type="text" name="notes" class="form-control" id="notes"
-               aria-describedby="notes-help" placeholder="Enter any information you want people to know about this list"
+                  aria-describedby="notes-help"
+                  rows="5"
+                  placeholder="Enter any information you want people to know about this list"
                   maxlength="{{notesLength}}">{{notes}}</textarea>
         <small id="notes-help" class="form-text text-muted">
-            These notes will be visible to anyone viewing your list.
+            <span style="color: red; font-weight: bold;">New!</span> These notes will be visible to anyone viewing your list.
         </small>
     </div>
     <button type="submit" name="submit" class="btn btn-primary">Submit</button>

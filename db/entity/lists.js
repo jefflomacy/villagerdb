@@ -19,9 +19,10 @@ class Lists {
      * @param username
      * @param listName
      * @param listCategory
+     * @param notes
      * @returns {Promise<*>}
      */
-    async createList(username, listId, listName, listCategory) {
+    async createList(username, listId, listName, listCategory, notes) {
         const villagerDb = await this.db.get();
         
         return villagerDb.collection('lists')
@@ -30,6 +31,7 @@ class Lists {
                 id: listId,
                 name: listName,
                 category: listCategory,
+                notes: notes,
                 entities: []
             });
     }
@@ -42,9 +44,10 @@ class Lists {
      * @param newListId
      * @param newListName
      * @param newListCategory
+     * @param newNotes
      * @returns {Promise<void>}
      */
-    async updateList(username, listId, newListId, newListName, newListCategory) {
+    async updateList(username, listId, newListId, newListName, newListCategory, newNotes) {
         const villagerDb = await this.db.get()
 
         return villagerDb.collection('lists')
@@ -56,7 +59,8 @@ class Lists {
                 $set: {
                     id: newListId,
                     name: newListName,
-                    category: newListCategory
+                    category: newListCategory,
+                    notes: newNotes
                 }
             });
     }

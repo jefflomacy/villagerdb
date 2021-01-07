@@ -10,6 +10,9 @@
     {{/if}}
 </h1>
 <p><small class="text-muted">by <a href="/user/{{author}}">{{author}}</a></small></p>
+{{#if notes}}
+    <p style="white-space: pre-line; overflow-wrap: anywhere;">{{notes}}</p>
+{{/if}}
 <div class="text-right">
     <div class="btn-group mr-4 float-left">
         <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">

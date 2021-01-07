@@ -76,6 +76,7 @@ async function loadList(username, listId, loggedInUser) {
 
     result.listId = list.id;
     result.listName = list.name;
+    result.notes = list.notes;
     result.author = username;
 
     // Gather up IDs to grab from redis.

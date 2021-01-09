@@ -73,15 +73,20 @@ const listValidation = [
         .trim()
         .matches(listRegex),
     body(
-        'list-category',
+        'category-name',
+        'Category names cannot be longer than ' + maxCategoryNameLength + ' characters.')
+        .trim()
+        .isLength({max: maxCategoryNameLength}),
+    body(
+        'category-name',
         'Category names can only have letters, numbers, and spaces, and must start with a letter or number.')
         .trim()
         .matches(categoryRegex),
     body(
-        'list-notes',
-        'List notes cannot be greater than ' + noteTextMaxLength + ' characters long.')
+        'notes',
+        'List notes cannot be more than ' + noteTextMaxLength + ' characters long.')
         .trim()
-        .isLength( {min: 0, max: noteTextMaxLength}),
+        .isLength({max: noteTextMaxLength}),
     body(
         'list-name',
         'You already have a list by that name. Please choose another name.')

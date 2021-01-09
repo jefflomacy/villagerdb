@@ -50,13 +50,6 @@ const noteTextMaxLength = 2048;
 const listRegex = /^[A-Za-z0-9][A-Za-z0-9 ]+$/i;
 
 /**
- * Validation expression for a category name.
- *
- * @type {RegExp}
- */
-const categoryRegex = /^([A-Za-z0-9][A-Za-z0-9 ])*$/i;
-
-/**
  * List validation rules on existing list submission.
  *
  * @type {ValidationChain[]}
@@ -77,11 +70,6 @@ const listValidation = [
         'Category names cannot be longer than ' + maxCategoryNameLength + ' characters.')
         .trim()
         .isLength({max: maxCategoryNameLength}),
-    body(
-        'category-name',
-        'Category names can only have letters, numbers, and spaces, and must start with a letter or number.')
-        .trim()
-        .matches(categoryRegex),
     body(
         'notes',
         'List notes cannot be more than ' + noteTextMaxLength + ' characters long.')

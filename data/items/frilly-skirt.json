@@ -24,7 +24,14 @@
         "orange": "Orange",
         "purple": "Purple",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Bottoms"

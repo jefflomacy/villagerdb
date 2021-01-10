@@ -27,7 +27,11 @@
         "green": "Green",
         "brown": "Brown",
         "yellow-green": "Yellow-green"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Bottoms"

@@ -18,7 +18,12 @@
         "red": "Red",
         "green": "Green",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Tops"

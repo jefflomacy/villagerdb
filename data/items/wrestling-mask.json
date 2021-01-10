@@ -42,7 +42,12 @@
         "pink": "Pink",
         "black": "Black",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Theatrical",
+        "Work"
+      ]
     }
   }
 }

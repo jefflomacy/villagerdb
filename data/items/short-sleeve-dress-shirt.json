@@ -23,7 +23,12 @@
         "green": "Green",
         "yellow": "Yellow",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

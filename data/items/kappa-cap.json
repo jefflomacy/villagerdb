@@ -34,7 +34,12 @@
       "variations": {
         "green": "Green",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

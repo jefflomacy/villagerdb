@@ -20,7 +20,11 @@
         "pink": "Pink",
         "blue": "Blue",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

@@ -24,7 +24,13 @@
         "green": "Green",
         "purple": "Purple",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Socks"

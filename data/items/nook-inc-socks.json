@@ -19,7 +19,12 @@
       ],
       "variations": {
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Socks"

@@ -26,7 +26,12 @@
         "pink": "Pink",
         "orange": "Orange",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Socks"

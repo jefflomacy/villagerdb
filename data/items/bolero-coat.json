@@ -19,7 +19,12 @@
         "yellow": "Yellow",
         "blue": "Blue",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Fairy Tale"
+      ]
     }
   },
   "category": "Dresses"

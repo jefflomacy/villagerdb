@@ -20,7 +20,11 @@
         "brown": "Brown",
         "orange": "Orange",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

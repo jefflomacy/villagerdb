@@ -21,7 +21,10 @@
         "green": "Green",
         "gray": "Gray",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

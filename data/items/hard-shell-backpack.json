@@ -21,7 +21,11 @@
         "blue": "Blue",
         "red": "Red",
         "silver": "Silver"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Work"
+      ]
     }
   },
   "category": "Accessories"

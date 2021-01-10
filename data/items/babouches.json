@@ -27,7 +27,11 @@
         "purple": "Purple",
         "mint": "Mint",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation"
+      ]
     }
   },
   "category": "Shoes"

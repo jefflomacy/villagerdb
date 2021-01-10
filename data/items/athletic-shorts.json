@@ -24,7 +24,12 @@
         "blue": "Blue",
         "berry-red": "Berry red",
         "navy-blue": "Navy blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Bottoms"

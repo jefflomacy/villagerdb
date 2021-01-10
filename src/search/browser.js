@@ -48,7 +48,7 @@ class Browser extends React.Component {
         // Not initialized yet?
         if (!this.state.initialized) {
             return (
-                <div className="text-center" style={{'font-size': '40px', 'color': '#003A70'}}>
+                <div className="text-center" style={{'fontSize': '40px', 'color': '#003A70'}}>
                     <div className="fas fa-spin fa-spinner"></div>
                 </div>
             )
@@ -90,7 +90,7 @@ class Browser extends React.Component {
                                     appliedFilters={this.state.appliedFilters}
                                     allFilters={this.props.allFilters} />
                     </div>
-                    <div className="col-12 col-md-9">
+                    <div className="col-12 col-md-9" id={this.props.scrollId}>
                         <AppliedFilters onFilterChange={this.setAppliedFilters}
                                         appliedFilters={this.state.appliedFilters}
                                         allFilters={this.props.allFilters} />
@@ -100,16 +100,14 @@ class Browser extends React.Component {
                                        startIndex={this.state.startIndex}
                                        endIndex={this.state.endIndex}
                                        totalCount={this.state.totalCount}
-                                       totalPages={this.state.totalPages}
-                                       topAnchor="#browser" />
+                                       totalPages={this.state.totalPages} />
                             <SearchResults results={this.state.results} />
                             <Paginator onPageChange={this.setPage}
                                        currentPage={this.state.currentPage}
                                        startIndex={this.state.startIndex}
                                        endIndex={this.state.endIndex}
                                        totalCount={this.state.totalCount}
-                                       totalPages={this.state.totalPages}
-                                       topAnchor="#browser" />
+                                       totalPages={this.state.totalPages} />
                         </div>
                     </div>
                 </div>
@@ -133,7 +131,7 @@ class Browser extends React.Component {
                 totalCount: response.totalCount,
                 totalPages: response.totalPages,
                 results: response.results,
-                appliedFilters: appliedFilters,
+                appliedFilters: response.appliedFilters,
                 availableFilters: response.availableFilters,
                 isLoading: false,
                 initialized: true
@@ -143,6 +141,11 @@ class Browser extends React.Component {
             if (pushState) {
                 let url = this.getPageUrl(response.currentPage, response.appliedFilters);
                 history.pushState(newState, null, url);
+            }
+
+            // Scroll to top if this is not initial state.
+            if (this.state.initialized) {
+                this.scrollToTop();
             }
 
             // Finally, set state.
@@ -253,6 +256,16 @@ class Browser extends React.Component {
         const filterQuery = this.getFilterUrlQuery(pageNumber, appliedFilters);
         return this.props.pageUrlPrefix + pageNumber + filterQuery;
     }
+
+    /**
+     * Return user to the top of the browser (not top of page) on result set change.
+     */
+    scrollToTop() {
+        const offset = $('#' + this.props.scrollId).offset();
+        if (offset && offset.top) {
+            $('html, body').scrollTop(offset.top);
+        }
+    }
 }
 
 /**
@@ -271,6 +284,7 @@ $(document).ready(function() {
     const currentPage = targetElement.data('current-page');
     ReactDOM.render(<Browser
         id="browser"
+        scrollId="browser-inner"
         ajaxUrlPrefix={ajaxUrlPrefix}
         pageUrlPrefix={pageUrlPrefix}
         allFilters={allFilters}

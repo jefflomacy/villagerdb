@@ -18,7 +18,12 @@
         "blue": "Blue",
         "purple": "Purple",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

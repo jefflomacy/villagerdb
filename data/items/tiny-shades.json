@@ -41,7 +41,11 @@
         "gold": "Gold",
         "black": "Black",
         "berry-red": "Berry red"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal"
+      ]
     }
   }
 }

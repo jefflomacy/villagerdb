@@ -17,7 +17,11 @@
         "plum": "Plum",
         "green": "Green",
         "dark-blue": "Dark blue"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Dresses"

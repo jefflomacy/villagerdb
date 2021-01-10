@@ -42,7 +42,11 @@
         "white": "White",
         "brown": "Brown",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Theatrical"
+      ]
     }
   }
 }

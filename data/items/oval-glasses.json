@@ -25,7 +25,11 @@
         "magenta": "Magenta",
         "mustard": "Mustard",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Work"
+      ]
     }
   },
   "category": "Accessories"

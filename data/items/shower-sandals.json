@@ -23,7 +23,13 @@
         "gold": "Gold",
         "red": "Red",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Outdoorsy",
+        "Vacation"
+      ]
     }
   },
   "category": "Shoes"

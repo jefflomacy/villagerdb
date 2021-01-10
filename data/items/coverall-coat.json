@@ -18,7 +18,11 @@
         "navy-blue": "Navy blue",
         "beige": "Beige",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Tops"

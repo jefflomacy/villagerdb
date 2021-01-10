@@ -19,7 +19,11 @@
         "light-blue": "Light blue",
         "green": "Green",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

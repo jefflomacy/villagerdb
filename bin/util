@@ -26,11 +26,17 @@ async function generateSitemap() {
 function computeTags(item) {
     const tags = [];
 
-    // Check if craftable - TODO dont like the way this is done but need 2 options to show as filterable!
+    // Check if craftable
     if (item.games && item.games.nh && item.games.nh.recipe && Object.keys(item.games.nh.recipe).length > 0) {
-        tags.push('Craftable');
+        tags.push({
+            game: 'nh',
+            value: 'Craftable'
+        });
     } else if (item.games && item.games.nh) {
-        tags.push('Not Craftable');
+        tags.push({
+            game: 'nh',
+            value: 'Not Craftable'
+        });
     }
 
     if (tags.length > 0) {
@@ -91,7 +97,7 @@ async function buildSearchIndex() {
         index: newIndexName,
         body: {
             properties: {
-                suggest: {
+                suggest: { // non-aggregate
                     type: 'completion',
                     analyzer: 'vdb_ascii_fold',
                     contexts: {
@@ -100,74 +106,130 @@ async function buildSearchIndex() {
                         path: 'game' // tell ES to read it from the document 'game' property!
                     }
                 },
-                type: {
+                keyword: { // non-aggregate
                     type: 'keyword'
                 },
-                keyword: {
-                    type: 'keyword'
-                },
-                gender: {
-                    type: 'keyword'
-                },
-                species: {
-                    type: 'keyword'
-                },
-                personality: {
-                    type: 'keyword'
-                },
-                game: {
-                    type: 'keyword'
-                },
-                zodiac: {
-                    type: 'keyword'
-                },
-                category: {
-                    type: 'keyword'
-                },
-                interiorTheme: {
-                    type: 'keyword',
-                },
-                fashionTheme: {
-                    type: 'keyword'
-                },
-                set: {
-                    type: 'keyword'
-                },
-                collab: {
-                    type: 'keyword'
-                },
-                ngram: {
+                ngram: { // non-aggregate
                     type: 'text',
                     analyzer: 'vdb_ascii_fold_partial_match'
                 },
-                name: {
+                name: { // non-aggregate
                     type: 'text',
                     analyzer: 'vdb_ascii_fold'
                 },
-                url: {
+                url: { // non-aggregate
                     type: 'object',
                     enabled: false
                 },
-                image: {
+                image: { // non-aggregate
                     type: 'object',
                     enabled: false
                 },
-                variations: {
+                variations: { // non-aggregate
                     type: 'object',
                     enabled: false
                 },
-                variationImages: {
+                variationImages: { // non-aggregate
                     type: 'object',
                     enabled: false
                 },
-                tag: {
+                type: { // aggregate, game-independent
                     type: 'keyword'
                 },
-                hobby: {
+                gender: { // aggregate, game-independent
                     type: 'keyword'
                 },
-                subtype: {
+                species: { // aggregate, game-independent
                     type: 'keyword'
+                },
+                game: { // aggregate, game-independent
+                    type: 'keyword'
+                },
+                zodiac: { // aggregate, game-independent
+                    type: 'keyword'
+                },
+                category: { // aggregate, game-independent
+                    type: 'keyword'
+                },
+                collab: { // aggregate, game-independent
+                    type: 'keyword'
+                },
+                tag: { // aggregate, game-dependent
+                    type: 'nested',
+                    properties: {
+                        game: {
+                            type: 'keyword'
+                        },
+                        value: {
+                            type: 'keyword'
+                        }
+                    }
+                },
+                personality: { // aggregate, game-dependent
+                    type: 'nested',
+                    properties: {
+                        game: {
+                            type: 'keyword'
+                        },
+                        value: {
+                            type: 'keyword'
+                        }
+                    }
+                },
+                hobby: { // aggregate, game-dependent
+                    type: 'nested',
+                    properties: {
+                        game: {
+                            type: 'keyword'
+                        },
+                        value: {
+                            type: 'keyword'
+                        }
+                    }
+                },
+                subtype: { // aggregate, game-dependent
+                    type: 'nested',
+                    properties: {
+                        game: {
+                            type: 'keyword'
+                        },
+                        value: {
+                            type: 'keyword'
+                        }
+                    }
+                },
+                interiorTheme: { // aggregate, game-dependent
+                    type: 'nested',
+                    properties: {
+                        game: {
+                            type: 'keyword'
+                        },
+                        value: {
+                            type: 'keyword'
+                        }
+                    }
+                },
+                fashionTheme: { // aggregate, game-dependent
+                    type: 'nested',
+                    properties: {
+                        game: {
+                            type: 'keyword'
+                        },
+                        value: {
+                            type: 'keyword'
+                        }
+                    }
+                },
+                set: { // aggregate, game-dependent
+                    type: 'nested',
+                    properties: {
+                        game: {
+                            type: 'keyword'
+                        },
+                        value: {
+                            type: 'keyword'
+                        }
+                    }
                 }
             }
         }
@@ -218,12 +280,12 @@ async function indexVillagers(es, newIndexName) {
                 input: parsed.name
             },
             keyword: formatHelper.getSlug(parsed.name),
-            gender: parsed.gender,
-            species: parsed.species,
             name: parsed.name,
             ngram: parsed.name,
             url: urlHelper.getEntityUrl(searchConfig.villagerEntityType, parsed.id),
             image: redisVillager.image,
+            gender: parsed.gender,
+            species: parsed.species,
             game: [],
             personality: [],
             hobby: [],
@@ -235,6 +297,11 @@ async function indexVillagers(es, newIndexName) {
             document.collab = parsed.collab;
         }
 
+        // Zodiac
+        if (parsed.birthday) {
+            document.zodiac = formatHelper.getZodiac(moment(parsed.birthday + '-2000', 'MM-DD-YYYY')).toLowerCase();
+        }
+
         // Get unique personalities, hobbies and subtypes.
         for (let game in parsed.games) {
             document.game.push(game);
@@ -242,20 +309,24 @@ async function indexVillagers(es, newIndexName) {
             const personality = parsed.games[game].personality;
             const hobby = parsed.games[game].hobby;
             const subtype = parsed.games[game].subtype;
-            if (personality && !document.personality.includes(personality)) {
-                document.personality.push(personality);
+            if (personality) {
+                document.personality.push({
+                    game: game,
+                    value: personality
+                });
             }
-            if (hobby && !document.hobby.includes(hobby)) {
-                document.hobby.push(hobby);
+            if (hobby) {
+                document.hobby.push({
+                    game: game,
+                    value: hobby
+                });
             }
-            if (subtype && !document.subtype.includes(subtype)) {
-                document.subtype.push(subtype);
+            if (subtype) {
+                document.subtype.push({
+                    game: game,
+                    value: subtype
+                });
             }
-        }
-
-        // Zodiac?
-        if (parsed.birthday) {
-            document.zodiac = formatHelper.getZodiac(moment(parsed.birthday + '-2000', 'MM-DD-YYYY')).toLowerCase();
         }
 
         // Create the villager document.
@@ -297,20 +368,47 @@ async function indexItems(es, newIndexName) {
             keyword: formatHelper.getSlug(parsed.name),
             name: parsed.name,
             ngram: parsed.name,
-            category: parsed.category,
-            game: [],
             url: urlHelper.getEntityUrl(searchConfig.itemEntityType, parsed.id),
             image: redisItem.image,
             variations: redisItem.variations,
             variationImages: redisItem.variationImages,
-            tag: computeTags(redisItem)
+            category: parsed.category,
+            tag: computeTags(redisItem),
+            game: [],
+            set: [],
+            interiorTheme: [],
+            fashionTheme: []
         };
 
         for (let game in parsed.games) {
             document.game.push(game);
-            document.interiorTheme = parsed.games[game].interiorThemes;
-            document.fashionTheme = parsed.games[game].fashionThemes;
-            document.set = parsed.games[game].set;
+            if (parsed.games[game].set) {
+                document.set.push({
+                    game: game,
+                    value: parsed.games[game].set
+                });
+            }
+
+            const interiorThemes = parsed.games[game].interiorThemes;
+            const fashionThemes = parsed.games[game].fashionThemes;
+
+            if (interiorThemes) {
+                for (let interiorTheme of interiorThemes) {
+                    document.interiorTheme.push({
+                        game: game,
+                        value: interiorTheme
+                    });
+                }
+            }
+
+            if (fashionThemes) {
+                for (let fashionTheme of fashionThemes) {
+                    document.fashionTheme.push({
+                        game: game,
+                        value: fashionTheme
+                    });
+                }
+            }
         }
 
         // Create the item document.

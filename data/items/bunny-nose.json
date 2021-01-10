@@ -21,7 +21,12 @@
         "pink": "Pink",
         "yellow": "Yellow",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Accessories"

@@ -22,7 +22,11 @@
         "blue": "Blue",
         "white": "White",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Theatrical"
+      ]
     }
   },
   "category": "Bottoms"

@@ -21,7 +21,11 @@
         "gray": "Gray",
         "black": "Black",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Goth"
+      ]
     }
   },
   "category": "Tops"

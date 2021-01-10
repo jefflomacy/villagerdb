@@ -20,7 +20,11 @@
         "yellow": "Yellow",
         "purple": "Purple",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Hats"

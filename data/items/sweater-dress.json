@@ -37,7 +37,11 @@
         "olive": "Olive",
         "beige": "Beige",
         "dark-brown": "Dark brown"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   }
 }

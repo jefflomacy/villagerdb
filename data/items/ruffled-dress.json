@@ -17,7 +17,13 @@
         "purple": "Purple",
         "black": "Black",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Goth",
+        "Party"
+      ]
     }
   },
   "category": "Dresses"

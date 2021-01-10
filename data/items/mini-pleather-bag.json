@@ -20,7 +20,12 @@
       "variations": {
         "white": "White",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Accessories"

@@ -19,7 +19,11 @@
         "blue": "Blue",
         "white": "White",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Goth"
+      ]
     }
   },
   "category": "Dresses"

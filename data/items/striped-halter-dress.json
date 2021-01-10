@@ -18,7 +18,12 @@
         "green": "Green",
         "orange": "Orange",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

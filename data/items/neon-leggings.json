@@ -23,7 +23,12 @@
         "orange": "Orange",
         "green": "Green",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Socks"

@@ -37,7 +37,11 @@
       ],
       "variations": {
         "navy-blue": "Navy blue"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Work"
+      ]
     }
   }
 }

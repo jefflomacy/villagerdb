@@ -18,7 +18,11 @@
         "blue": "Blue",
         "pink": "Pink",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Dresses"

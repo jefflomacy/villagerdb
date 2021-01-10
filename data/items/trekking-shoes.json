@@ -26,7 +26,11 @@
         "purple": "Purple",
         "white": "White",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Shoes"

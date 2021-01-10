@@ -25,7 +25,12 @@
         "ocean": "Ocean",
         "sunset": "Sunset",
         "love": "Love"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Sporty",
+        "Theatrical"
+      ]
     }
   },
   "category": "Hats"

@@ -20,7 +20,11 @@
       "variations": {
         "pink": "Pink",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale"
+      ]
     }
   },
   "category": "Dresses"

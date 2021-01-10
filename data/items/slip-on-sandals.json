@@ -26,7 +26,11 @@
         "red": "Red",
         "orange": "Orange",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation"
+      ]
     }
   },
   "category": "Shoes"

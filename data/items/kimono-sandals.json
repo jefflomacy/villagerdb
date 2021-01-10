@@ -51,7 +51,12 @@
         "purple": "Purple",
         "yellow": "Yellow",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Theatrical"
+      ]
     }
   }
 }

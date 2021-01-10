@@ -22,7 +22,11 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale"
+      ]
     }
   },
   "category": "Tops"

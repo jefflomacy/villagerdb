@@ -18,7 +18,11 @@
         "light-blue": "Light blue",
         "pink": "Pink",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

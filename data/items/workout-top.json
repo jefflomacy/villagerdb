@@ -21,7 +21,12 @@
         "lime": "Lime",
         "pink": "Pink",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

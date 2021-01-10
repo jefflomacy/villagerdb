@@ -22,7 +22,11 @@
         "orange-red": "Orange & red",
         "green-purple": "Green & purple",
         "purple-pink": "Purple & pink"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Bottoms"

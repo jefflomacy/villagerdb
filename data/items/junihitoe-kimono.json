@@ -15,7 +15,12 @@
       ],
       "variations": {
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

@@ -23,7 +23,13 @@
         "green": "Green",
         "black": "Black",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Socks"

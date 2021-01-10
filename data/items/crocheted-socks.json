@@ -22,7 +22,11 @@
         "gray": "Gray",
         "purple": "Purple",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Socks"

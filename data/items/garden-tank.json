@@ -46,7 +46,13 @@
         "blue": "Blue",
         "orange": "Orange",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   }
 }

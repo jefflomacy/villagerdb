@@ -19,7 +19,11 @@
         "blue": "Blue",
         "olive": "Olive",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Tops"

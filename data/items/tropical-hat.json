@@ -22,7 +22,12 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Outdoorsy",
+        "Vacation"
+      ]
     }
   },
   "category": "Hats"

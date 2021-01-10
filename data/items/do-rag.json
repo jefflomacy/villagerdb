@@ -46,7 +46,10 @@
         "purple": "Purple",
         "green": "Green",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Work"
+      ]
     }
   }
 }

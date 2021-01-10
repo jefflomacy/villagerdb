@@ -24,7 +24,12 @@
         "berry-red": "Berry red",
         "aquamarine": "Aquamarine",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Tops"

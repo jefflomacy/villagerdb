@@ -9,7 +9,13 @@
       "sellPrice": {
         "currency": "bells",
         "value": 800
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Goth",
+        "Theatrical"
+      ]
     }
   },
   "category": "Bottoms"

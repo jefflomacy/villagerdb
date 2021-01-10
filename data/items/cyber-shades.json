@@ -48,7 +48,11 @@
         "purple": "Purple",
         "green": "Green",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

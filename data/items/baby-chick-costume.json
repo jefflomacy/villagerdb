@@ -21,7 +21,12 @@
         "yellow": "Yellow",
         "blue": "Blue",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

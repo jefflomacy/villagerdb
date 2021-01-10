@@ -21,7 +21,11 @@
         "green": "Green",
         "blue": "Blue",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party"
+      ]
     }
   },
   "category": "Shoes"

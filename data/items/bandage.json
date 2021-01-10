@@ -40,7 +40,12 @@
       ],
       "variations": {
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   }
 }

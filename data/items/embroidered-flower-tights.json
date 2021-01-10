@@ -24,7 +24,12 @@
         "beige": "Beige",
         "blue": "Blue",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Party"
+      ]
     }
   },
   "category": "Socks"

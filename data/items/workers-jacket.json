@@ -21,7 +21,11 @@
         "light-blue": "Light blue",
         "beige": "Beige",
         "navy-blue": "Navy blue"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

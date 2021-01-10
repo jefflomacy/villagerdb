@@ -21,7 +21,11 @@
         "red": "Red",
         "blue": "Blue",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

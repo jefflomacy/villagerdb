@@ -21,7 +21,12 @@
         "white": "White",
         "orange": "Orange",
         "navy-blue": "Navy blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

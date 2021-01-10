@@ -20,7 +20,11 @@
       "variations": {
         "brown": "Brown",
         "navy-blue": "Navy blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Accessories"

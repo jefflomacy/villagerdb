@@ -41,7 +41,11 @@
         "brown": "Brown",
         "beige": "Beige",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   }
 }

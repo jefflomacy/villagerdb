@@ -22,7 +22,11 @@
         "orange": "Orange",
         "light-blue": "Light blue",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

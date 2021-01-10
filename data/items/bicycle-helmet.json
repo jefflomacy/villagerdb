@@ -44,7 +44,10 @@
         "orange": "Orange",
         "purple": "Purple",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Sporty"
+      ]
     }
   }
 }

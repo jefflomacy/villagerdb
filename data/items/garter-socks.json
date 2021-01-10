@@ -18,7 +18,12 @@
         "white": "White",
         "purple": "Purple",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Socks"

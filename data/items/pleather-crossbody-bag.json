@@ -20,7 +20,11 @@
       "variations": {
         "navy-blue": "Navy blue",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Work"
+      ]
     }
   },
   "category": "Accessories"

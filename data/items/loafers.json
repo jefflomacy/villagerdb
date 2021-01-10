@@ -25,7 +25,12 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Shoes"

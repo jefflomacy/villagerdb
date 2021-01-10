@@ -17,7 +17,13 @@
       "variations": {
         "black": "Black",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Socks"

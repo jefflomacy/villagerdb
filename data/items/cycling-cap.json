@@ -26,7 +26,11 @@
         "red": "Red",
         "lime-purple": "Lime & purple",
         "blue-purple": "Blue & purple"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Hats"

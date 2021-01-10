@@ -26,7 +26,11 @@
         "aqua": "Aqua",
         "yellow": "Yellow",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Dresses"

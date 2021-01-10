@@ -22,7 +22,11 @@
         "blue-green": "Blue & green",
         "navy-blue": "Navy & blue",
         "navy-red": "Navy & red"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Tops"

@@ -18,7 +18,11 @@
         "brown": "Brown",
         "black": "Black",
         "greige": "Greige"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale"
+      ]
     }
   },
   "category": "Shoes"

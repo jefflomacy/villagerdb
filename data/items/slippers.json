@@ -46,7 +46,12 @@
         "blue": "Blue",
         "red": "Red",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   }
 }

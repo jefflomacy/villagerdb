@@ -20,7 +20,12 @@
         "pink": "Pink",
         "mint": "Mint",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty",
+        "Work"
+      ]
     }
   },
   "category": "Socks"

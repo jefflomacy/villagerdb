@@ -44,7 +44,12 @@
         "red": "Red",
         "blue": "Blue",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Theatrical"
+      ]
     }
   }
 }

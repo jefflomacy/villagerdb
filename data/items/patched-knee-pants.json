@@ -42,7 +42,13 @@
         "purple": "Purple",
         "green": "Green",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Sporty",
+        "Vacation",
+        "Work"
+      ]
     }
   }
 }

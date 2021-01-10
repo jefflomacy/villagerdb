@@ -21,7 +21,10 @@
         "red": "Red",
         "green": "Green",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Theatrical"
+      ]
     }
   },
   "category": "Tops"

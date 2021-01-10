@@ -20,7 +20,12 @@
       "variations": {
         "black": "Black",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Tops"

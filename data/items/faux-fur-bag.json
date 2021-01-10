@@ -16,7 +16,11 @@
       "variations": {
         "pink": "Pink",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Accessories"

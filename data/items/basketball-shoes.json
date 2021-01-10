@@ -46,7 +46,11 @@
         "purple": "Purple",
         "light-blue": "Light blue",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Work"
+      ]
     }
   }
 }

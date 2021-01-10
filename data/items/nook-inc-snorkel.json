@@ -6,7 +6,13 @@
       "sellPrice": {
         "currency": "bells",
         "value": 2500
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty",
+        "Vacation",
+        "Work"
+      ]
     }
   },
   "category": "Accessories"

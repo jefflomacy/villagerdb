@@ -22,7 +22,11 @@
         "red": "Red",
         "white": "White",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Tops"

@@ -14,7 +14,13 @@
       "variations": {
         "pink": "Pink",
         "light-blue": "Light Blue"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Shoes"

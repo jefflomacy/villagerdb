@@ -22,7 +22,11 @@
         "red": "Red",
         "purple": "Purple",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Theatrical"
+      ]
     }
   },
   "category": "Tops"

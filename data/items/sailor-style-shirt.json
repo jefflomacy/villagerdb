@@ -18,7 +18,12 @@
         "navy-blue": "Navy blue",
         "light-blue": "Light blue",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

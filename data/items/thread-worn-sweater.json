@@ -19,7 +19,11 @@
         "black": "Black",
         "beige": "Beige",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

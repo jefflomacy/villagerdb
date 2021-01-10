@@ -22,7 +22,11 @@
         "pink": "Pink",
         "navy-blue": "Navy blue",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Bottoms"

@@ -20,7 +20,12 @@
       "variations": {
         "brown": "Brown",
         "dark-brown": "Dark brown"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Accessories"

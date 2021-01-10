@@ -26,7 +26,12 @@
         "white": "White",
         "aqua": "Aqua",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Shoes"

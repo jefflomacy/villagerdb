@@ -22,7 +22,11 @@
         "blue": "Blue",
         "green": "Green",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

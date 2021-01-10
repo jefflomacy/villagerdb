@@ -50,6 +50,7 @@ module.exports = {
         tag: {
             name: 'Tags',
             canAggregate: true,
+            gameDependent: true,
             sort: 3
         },
         category: {
@@ -60,11 +61,13 @@ module.exports = {
         fashionTheme: {
             name: 'Fashion Theme',
             canAggregate: true,
+            gameDependent: true,
             sort: 5
         },
         interiorTheme: {
             name: 'Interior Theme',
             canAggregate: true,
+            gameDependent: true,
             sort: 6
         },
         gender: {
@@ -89,16 +92,19 @@ module.exports = {
                 uchi: 'Uchi (Sisterly)'
             },
             canAggregate: true,
+            gameDependent: true,
             sort: 8
         },
         subtype: {
             name: 'Subtype',
             canAggregate: true,
+            gameDependent: true,
             sort: 9
         },
         hobby: {
             name: 'Hobby',
             canAggregate: true,
+            gameDependent: true,
             sort: 10
         },
         species: {

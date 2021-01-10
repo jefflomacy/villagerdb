@@ -20,7 +20,11 @@
       "variations": {
         "light-blue": "Light blue",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

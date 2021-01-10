@@ -21,7 +21,12 @@
         "purple": "Purple",
         "silver": "Silver",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Shoes"

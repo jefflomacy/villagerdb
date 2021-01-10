@@ -22,7 +22,12 @@
         "blue": "Blue",
         "red": "Red",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

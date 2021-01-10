@@ -22,7 +22,14 @@
         "beige": "Beige",
         "ruby-red": "Ruby red",
         "navy-blue": "Navy blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Shoes"

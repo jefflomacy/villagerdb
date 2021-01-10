@@ -22,7 +22,11 @@
         "green": "Green",
         "gray": "Gray",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Tops"

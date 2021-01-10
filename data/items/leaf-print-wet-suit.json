@@ -22,7 +22,12 @@
         "purple": "Purple",
         "yellow": "Yellow",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

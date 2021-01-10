@@ -40,7 +40,10 @@
       "variations": {
         "yellow": "Yellow",
         "navy-blue": "Navy blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday"
+      ]
     }
   }
 }

@@ -46,7 +46,11 @@
         "light-blue": "Light blue",
         "yellow": "Yellow",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Sporty"
+      ]
     }
   }
 }

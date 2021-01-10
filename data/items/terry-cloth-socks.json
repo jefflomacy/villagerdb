@@ -22,7 +22,11 @@
         "beige": "Beige",
         "red": "Red",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Fairy Tale"
+      ]
     }
   },
   "category": "Socks"

@@ -19,7 +19,11 @@
         "blue": "Blue",
         "yellow": "Yellow",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

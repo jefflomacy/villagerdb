@@ -36,18 +36,18 @@ const maxCategoryNameLength = 25;
 const listTextMaxLength = 256;
 
 /**
+ * Maximum length of a list note.
+ *
+ * @type {number}
+ */
+const noteTextMaxLength = 2048;
+
+/**
  * Validation expression for a list name.
  *
  * @type {RegExp}
  */
 const listRegex = /^[A-Za-z0-9][A-Za-z0-9 ]+$/i;
-
-/**
- * Validation expression for a category name.
- *
- * @type {RegExp}
- */
-const categoryRegex = /^([A-Za-z0-9][A-Za-z0-9 ])*$/i;
 
 /**
  * List validation rules on existing list submission.
@@ -66,10 +66,15 @@ const listValidation = [
         .trim()
         .matches(listRegex),
     body(
-        'list-category',
-        'Category names can only have letters, numbers, and spaces, and must start with a letter or number.')
+        'category-name',
+        'Category names cannot be longer than ' + maxCategoryNameLength + ' characters.')
         .trim()
-        .matches(categoryRegex),
+        .isLength({max: maxCategoryNameLength}),
+    body(
+        'notes',
+        'List notes cannot be more than ' + noteTextMaxLength + ' characters long.')
+        .trim()
+        .isLength({max: noteTextMaxLength}),
     body(
         'list-name',
         'You already have a list by that name. Please choose another name.')
@@ -254,12 +259,14 @@ function showListEditForm(req, res, next) {
     data.errors = req.session.errors;
     data.listNameLength = maxListNameLength;
     data.categoryNameLength = maxCategoryNameLength;
+    data.notesLength = noteTextMaxLength;
 
     // Previous submission data?
     let hadSubmitData = false;
     if (req.session.listSubmitData) {
         data.listName = req.session.listSubmitData.listName;
         data.categoryName = req.session.listSubmitData.categoryName;
+        data.notes = req.session.listSubmitData.notes;
         hadSubmitData = true;
     }
 
@@ -277,6 +284,7 @@ function showListEditForm(req, res, next) {
                     if (!hadSubmitData) {
                         data.listName = list.name;
                         data.categoryName = list.category;
+                        data.notes = list.notes;
                     }
                     res.render('list/edit', data);
                 } else {
@@ -306,17 +314,19 @@ router.post('/create', listValidation, (req, res, next) => {
 
     const listName = req.body['list-name'].trim();
     const categoryName = req.body['category-name'].trim();
+    const notes = req.body['notes'].trim();
     const errors = validationResult(req);
 
     if (!errors.isEmpty()) {
         req.session.errors = errors.array();
         req.session.listSubmitData = {
             listName: listName,
-            categoryName: categoryName
+            categoryName: categoryName,
+            notes: notes
         };
         res.redirect('/list/create');
     } else {
-        lists.createList(req.user.username, format.getSlug(listName), listName, categoryName)
+        lists.createList(req.user.username, format.getSlug(listName), listName, categoryName, notes)
             .then(() => {
                 res.redirect('/user/' + req.user.username);
             })
@@ -345,17 +355,19 @@ router.post('/edit/:listId', listValidation, (req, res, next) => {
     const newListName = req.body['list-name'].trim();
     const newListId = format.getSlug(newListName);
     const newCategoryName = req.body['category-name'].trim();
+    const newNotes = req.body['notes'].trim();
     const errors = validationResult(req);
 
     if (!errors.isEmpty()) {
         req.session.errors = errors.array();
         req.session.listSubmitData = {
             listName: newListName,
-            categoryName: newCategoryName
+            categoryName: newCategoryName,
+            notes: newNotes
         };
         res.redirect('/list/edit/' + listId);
     } else {
-        lists.updateList(req.user.username, listId, newListId, newListName, newCategoryName)
+        lists.updateList(req.user.username, listId, newListId, newListName, newCategoryName, newNotes)
             .then(() => {
                 res.redirect('/user/' + req.user.username + '/list/' + format.getSlug(newListName));
             })

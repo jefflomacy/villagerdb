@@ -18,7 +18,11 @@
         "brown": "Brown",
         "light-blue": "Light blue",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Bottoms"

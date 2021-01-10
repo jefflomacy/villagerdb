@@ -46,7 +46,11 @@
         "green": "Green",
         "red": "Red",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Work"
+      ]
     }
   }
 }

@@ -23,7 +23,10 @@
         "gray": "Gray",
         "white": "White",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Sporty"
+      ]
     }
   },
   "category": "Hats"

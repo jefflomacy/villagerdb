@@ -40,7 +40,12 @@
         "black": "Black",
         "beige": "Beige",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Goth"
+      ]
     }
   }
 }

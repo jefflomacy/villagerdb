@@ -17,7 +17,12 @@
         "red": "Red",
         "navy-blue": "Navy blue",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Dresses"

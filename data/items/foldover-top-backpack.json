@@ -22,7 +22,11 @@
         "blue": "Blue",
         "gray": "Gray",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Accessories"

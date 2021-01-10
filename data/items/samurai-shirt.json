@@ -49,7 +49,11 @@
         "blue": "Blue",
         "white": "White",
         "golden-yellow": "Golden yellow"
-      }
+      },
+      "fashionThemes": [
+        "Theatrical",
+        "Work"
+      ]
     }
   }
 }

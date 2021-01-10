@@ -21,7 +21,12 @@
         "orange": "Orange",
         "blue": "Blue",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Outdoorsy",
+        "Work"
+      ]
     }
   },
   "category": "Accessories"

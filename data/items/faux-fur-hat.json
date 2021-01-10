@@ -21,7 +21,12 @@
         "pink": "Pink",
         "white": "White",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Party"
+      ]
     }
   },
   "category": "Hats"

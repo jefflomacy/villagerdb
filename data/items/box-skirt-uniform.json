@@ -25,7 +25,11 @@
         "gray": "Gray",
         "red": "Red",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Dresses"

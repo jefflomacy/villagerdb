@@ -23,7 +23,11 @@
         "navy-blue": "Navy blue",
         "avocado": "Avocado",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Bottoms"

@@ -21,7 +21,12 @@
         "beige": "Beige",
         "pink": "Pink",
         "mint": "Mint"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Party"
+      ]
     }
   },
   "category": "Bottoms"

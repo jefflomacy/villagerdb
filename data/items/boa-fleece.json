@@ -22,7 +22,12 @@
         "pink": "Pink",
         "yellow": "Yellow",
         "lime": "Lime"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Tops"

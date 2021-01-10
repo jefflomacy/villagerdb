@@ -22,7 +22,11 @@
         "aquamarine": "Aquamarine",
         "topaz": "Topaz",
         "amethyst": "Amethyst"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Dresses"

@@ -22,7 +22,11 @@
         "purple": "Purple",
         "pink": "Pink",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

@@ -19,7 +19,12 @@
         "brown": "Brown",
         "navy-blue": "Navy blue",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

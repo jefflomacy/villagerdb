@@ -20,7 +20,11 @@
       "variations": {
         "yellow": "Yellow",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   },
   "category": "Accessories"

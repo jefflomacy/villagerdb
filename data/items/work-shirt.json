@@ -43,7 +43,12 @@
         "purple-striped-necktie": "Purple-striped necktie",
         "green-striped-necktie": "Green-striped necktie",
         "white-striped-necktie": "White-striped necktie"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Work"
+      ]
     }
   }
 }

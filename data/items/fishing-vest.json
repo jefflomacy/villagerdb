@@ -46,7 +46,11 @@
         "pink": "Pink",
         "green": "Green",
         "avocado": "Avocado"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty"
+      ]
     }
   }
 }

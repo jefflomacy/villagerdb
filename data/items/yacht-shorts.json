@@ -22,7 +22,11 @@
         "red": "Red",
         "pink": "Pink",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

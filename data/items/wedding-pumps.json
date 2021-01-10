@@ -10,7 +10,12 @@
       "sellPrice": {
         "currency": "bells",
         "value": 750
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Theatrical"
+      ]
     }
   },
   "category": "Shoes"

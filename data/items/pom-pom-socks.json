@@ -19,7 +19,12 @@
         "green": "Green",
         "orange": "Orange",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Fairy Tale"
+      ]
     }
   },
   "category": "Socks"

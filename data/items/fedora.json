@@ -24,7 +24,12 @@
         "gray": "Gray",
         "white": "White",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Hats"

@@ -25,7 +25,11 @@
         "blue": "Blue",
         "purple": "Purple",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Tops"

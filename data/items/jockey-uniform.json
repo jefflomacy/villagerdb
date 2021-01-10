@@ -26,7 +26,11 @@
         "double-sash": "Double sash",
         "vertical-stripes": "Vertical stripes",
         "zigzag": "Zigzag"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

@@ -21,7 +21,11 @@
         "blue": "Blue",
         "light-blue": "Light blue",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Bottoms"

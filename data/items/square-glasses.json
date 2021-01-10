@@ -22,7 +22,12 @@
         "black": "Black",
         "gray": "Gray",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Accessories"

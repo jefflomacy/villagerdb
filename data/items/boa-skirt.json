@@ -26,7 +26,11 @@
         "light-blue": "Light blue",
         "beige": "Beige",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Bottoms"

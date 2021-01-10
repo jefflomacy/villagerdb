@@ -32,7 +32,10 @@
         "pink": "Pink",
         "red": "Red",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Party"
+      ]
     }
   }
 }

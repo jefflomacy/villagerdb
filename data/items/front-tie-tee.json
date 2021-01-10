@@ -22,7 +22,12 @@
         "white": "White",
         "red": "Red",
         "lime": "Lime"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Vacation"
+      ]
     }
   },
   "category": "Tops"

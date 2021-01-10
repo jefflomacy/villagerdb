@@ -26,7 +26,11 @@
         "pink": "Pink",
         "light-blue": "Light blue",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

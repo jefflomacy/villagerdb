@@ -26,7 +26,12 @@
       "sellPrice": {
         "currency": "bells",
         "value": 245
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Sporty"
+      ]
     }
   }
 }

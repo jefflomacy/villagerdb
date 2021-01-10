@@ -41,7 +41,11 @@
         "yellow": "Yellow",
         "white": "White",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Vacation"
+      ]
     }
   }
 }

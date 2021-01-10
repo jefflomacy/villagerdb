@@ -16,7 +16,12 @@
       "variations": {
         "pink": "Pink",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Fairy Tale"
+      ]
     }
   },
   "category": "Tops"

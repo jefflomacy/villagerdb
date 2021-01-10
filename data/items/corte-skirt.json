@@ -21,7 +21,11 @@
         "blue": "Blue",
         "magenta": "Magenta",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Vacation"
+      ]
     }
   },
   "category": "Bottoms"

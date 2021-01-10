@@ -46,7 +46,11 @@
         "white": "White",
         "navy-blue": "Navy blue",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Vacation",
+        "Work"
+      ]
     }
   }
 }

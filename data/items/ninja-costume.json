@@ -23,7 +23,12 @@
         "green": "Green",
         "yellow": "Yellow",
         "orange": "Orange"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Theatrical",
+        "Work"
+      ]
     }
   },
   "category": "Dresses"

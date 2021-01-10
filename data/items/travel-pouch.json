@@ -22,7 +22,11 @@
         "green": "Green",
         "light-blue": "Light blue",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Accessories"

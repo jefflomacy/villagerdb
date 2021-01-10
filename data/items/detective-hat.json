@@ -42,7 +42,10 @@
         "brown": "Brown",
         "gray": "Gray",
         "beige": "Beige"
-      }
+      },
+      "fashionThemes": [
+        "Work"
+      ]
     }
   }
 }

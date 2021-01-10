@@ -19,7 +19,11 @@
         "blue": "Blue",
         "green": "Green",
         "purple": "Purple"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Theatrical"
+      ]
     }
   },
   "category": "Bottoms"

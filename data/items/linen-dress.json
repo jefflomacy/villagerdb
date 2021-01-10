@@ -23,7 +23,11 @@
         "mustard": "Mustard",
         "white": "White",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Dresses"

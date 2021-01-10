@@ -26,7 +26,13 @@
         "pink": "Pink",
         "beige": "Beige",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Outdoorsy",
+        "Sporty",
+        "Vacation"
+      ]
     }
   },
   "category": "Shoes"

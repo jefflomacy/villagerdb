@@ -26,7 +26,10 @@
         "pink": "Pink",
         "red": "Red",
         "yellow-green": "Yellow-green"
-      }
+      },
+      "fashionThemes": [
+        "Everyday"
+      ]
     }
   },
   "category": "Socks"

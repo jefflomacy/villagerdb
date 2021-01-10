@@ -22,7 +22,11 @@
         "white": "White",
         "purple": "Purple",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Sporty",
+        "Theatrical"
+      ]
     }
   },
   "category": "Tops"

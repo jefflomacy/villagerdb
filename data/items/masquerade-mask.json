@@ -48,7 +48,12 @@
         "red": "Red",
         "green": "Green",
         "gold": "Gold"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   }
 }

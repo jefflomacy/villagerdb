@@ -26,7 +26,12 @@
         "white": "White",
         "orange": "Orange",
         "pink": "Pink"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal",
+        "Work"
+      ]
     }
   },
   "category": "Socks"

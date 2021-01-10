@@ -20,7 +20,10 @@
       "variations": {
         "green": "Green",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

@@ -37,7 +37,10 @@
       },
       "variations": {
         "hair-color": "Hair Color"
-      }
+      },
+      "fashionThemes": [
+        "Everyday"
+      ]
     }
   }
 }

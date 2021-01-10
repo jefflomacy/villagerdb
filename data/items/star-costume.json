@@ -19,7 +19,11 @@
         "red": "Red",
         "navy-blue": "Navy blue",
         "yellow": "Yellow"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Dresses"

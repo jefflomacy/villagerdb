@@ -23,7 +23,12 @@
         "orange": "Orange",
         "pink": "Pink",
         "mint": "Mint"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Sporty"
+      ]
     }
   },
   "category": "Tops"

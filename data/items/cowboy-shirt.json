@@ -23,7 +23,11 @@
         "blue": "Blue",
         "light-blue": "Light blue",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Work"
+      ]
     }
   },
   "category": "Tops"

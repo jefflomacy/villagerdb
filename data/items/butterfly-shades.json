@@ -21,7 +21,10 @@
         "blue": "Blue",
         "red": "Red",
         "brown": "Brown"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Accessories"

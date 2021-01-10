@@ -22,7 +22,12 @@
         "yellow": "Yellow",
         "blue": "Blue",
         "green": "Green"
-      }
+      },
+      "fashionThemes": [
+        "Outdoorsy",
+        "Sporty",
+        "Work"
+      ]
     }
   },
   "category": "Socks"

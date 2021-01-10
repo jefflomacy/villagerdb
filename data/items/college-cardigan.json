@@ -23,7 +23,10 @@
         "gray": "Gray",
         "orange": "Orange",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Everyday"
+      ]
     }
   },
   "category": "Tops"

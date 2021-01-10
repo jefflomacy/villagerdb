@@ -15,7 +15,14 @@
       ],
       "variations": {
         "hair-color": "Hair Color"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Formal",
+        "Party",
+        "Theatrical",
+        "Work"
+      ]
     }
   },
   "category": "Hats"

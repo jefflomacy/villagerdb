@@ -18,7 +18,11 @@
         "ochre": "Ochre",
         "green": "Green",
         "red": "Red"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   },
   "category": "Dresses"

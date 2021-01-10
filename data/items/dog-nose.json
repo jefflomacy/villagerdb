@@ -18,7 +18,12 @@
         "white": "White",
         "beige": "Beige",
         "black": "Black"
-      }
+      },
+      "fashionThemes": [
+        "Fairy Tale",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Accessories"

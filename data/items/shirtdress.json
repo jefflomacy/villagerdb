@@ -41,7 +41,11 @@
         "navy-blue": "Navy blue",
         "beige": "Beige",
         "olive": "Olive"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday"
+      ]
     }
   }
 }

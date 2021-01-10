@@ -15,7 +15,12 @@
         "purple": "Purple",
         "orange": "Orange",
         "blue": "Blue"
-      }
+      },
+      "fashionThemes": [
+        "Formal",
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Accessories"

@@ -22,7 +22,10 @@
         "yellow": "Yellow",
         "cyan": "Cyan",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Everyday"
+      ]
     }
   },
   "category": "Socks"

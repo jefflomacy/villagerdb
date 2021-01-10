@@ -39,7 +39,12 @@
         "navy-blue": "Navy blue",
         "black": "Black",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy",
+        "Vacation"
+      ]
     }
   }
 }

@@ -3,6 +3,10 @@
   "name": "New Year's Hat",
   "games": {
     "nh": {
+      "orderable": false,
+      "sources": [
+        "Tom Nook on New Year's Eve"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 125
@@ -22,7 +26,11 @@
         "purple": "Purple",
         "pink": "Pink",
         "light-blue": "Light blue"
-      }
+      },
+      "fashionThemes": [
+        "Party",
+        "Theatrical"
+      ]
     }
   },
   "category": "Hats"

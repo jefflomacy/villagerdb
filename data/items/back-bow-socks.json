@@ -21,7 +21,13 @@
         "white": "White",
         "blue": "Blue",
         "peacock-blue": "Peacock blue"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Fairy Tale",
+        "Party",
+        "Vacation"
+      ]
     }
   },
   "category": "Socks"

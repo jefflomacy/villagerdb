@@ -26,7 +26,11 @@
         "orange": "Orange",
         "light-blue": "Light blue",
         "white": "White"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Formal"
+      ]
     }
   },
   "category": "Bottoms"

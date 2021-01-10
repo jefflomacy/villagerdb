@@ -21,7 +21,12 @@
         "brown": "Brown",
         "pink": "Pink",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Tops"

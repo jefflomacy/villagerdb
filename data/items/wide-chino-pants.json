@@ -24,7 +24,11 @@
         "navy-blue": "Navy blue",
         "avocado": "Avocado",
         "gray": "Gray"
-      }
+      },
+      "fashionThemes": [
+        "Everyday",
+        "Outdoorsy"
+      ]
     }
   },
   "category": "Bottoms"

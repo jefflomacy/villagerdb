@@ -2,9 +2,11 @@ const path = require('path');
 const fs = require('fs');
 const RedisStore = require('./redis-store');
 const redisConnection = require('../redis');
+const format = require('../../helpers/format');
 const urlHelper = require('../../helpers/url');
 const consts = require('../../helpers/consts');
 const villagers = require('./villagers');
+const cache = require('../cache');
 
 class Items extends RedisStore {
     constructor() {
@@ -32,14 +34,20 @@ class Items extends RedisStore {
         const items = await this.getByRange(0, count);
 
         // Process items.
+        const nameToIdMatrix = {}; // for catalog scanner cache
         for (let item of items) {
             await this.buildOwnersArray(item, villagersList);
             await this.formatRecipe(item);
             await this.updateEntity(item.id, item);
+            nameToIdMatrix[format.getSlug(item.name)] = item.id;
         }
 
         // Build dependencies (NH recipes)
         await this.buildAllRecipeDependents(items);
+
+        // Save CatalogScanner matrix
+        console.log('Saving CatalogScanner matrix...');
+        await cache.set(consts.CATALOG_SCANNER_CACHE_KEY, JSON.stringify(nameToIdMatrix));
     }
 
     /**

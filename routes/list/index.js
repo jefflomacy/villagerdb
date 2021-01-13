@@ -3,6 +3,8 @@ const router = express.Router();
 const axios = require('axios');
 const {validationResult, body} = require('express-validator');
 
+const consts = require('../../helpers/consts');
+const cache = require('../../db/cache');
 const lists = require('../../db/entity/lists');
 const items = require('../../db/entity/items');
 const format = require('../../helpers/format');
@@ -156,9 +158,15 @@ async function listImport(req, listName, listId) {
 
     // Split up the reply
     const rawEntityList = urlResponse.data.trim().split('\n');
+
+    // Map the names to IDs and import
     const importEntityList = [];
+    const catalogScannerMatrix = JSON.parse(await cache.get(consts.CATALOG_SCANNER_CACHE_KEY));
     rawEntityList.forEach((entity, index) => {
-        importEntityList.push(format.getSlug(entity));
+        const entityId = catalogScannerMatrix[format.getSlug(entity)];
+        if (entityId) {
+            importEntityList.push(format.getSlug(entityId));
+        }
     });
 
     // Ask Redis to validate the items for us.

@@ -1,0 +1,13 @@
+{
+  "id": "lucky-red-envelope",
+  "name": "Lucky Red Envelope",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 125
+      }
+    }
+  },
+  "category": "Furniture"
+}

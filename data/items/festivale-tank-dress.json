@@ -28,6 +28,18 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 650
+      },
+      "variations": {
+        "blue": "Blue",
+        "green": "Green",
+        "purple": "Purple",
+        "red": "Red"
+      }
     }
   }
 }

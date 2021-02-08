@@ -1,0 +1,20 @@
+{
+  "id": "festivale-confetti-machine",
+  "name": "Festivale Confetti Machine",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1250
+      },
+      "variations": {
+        "blue": "Blue",
+        "green": "Green",
+        "purple": "Purple",
+        "red": "Red",
+        "colorful": "Rainbow"
+      }
+    }
+  },
+  "category": "Flooring"
+}

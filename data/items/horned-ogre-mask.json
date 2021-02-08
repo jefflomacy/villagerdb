@@ -1,0 +1,18 @@
+{
+  "id": "horned-ogre-mask",
+  "name": "Horned-ogre Mask",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 280
+      },
+      "variations": {
+        "blue": "Blue",
+        "green": "Green",
+        "red": "Red"
+      }
+    }
+  },
+  "category": "Hats"
+}

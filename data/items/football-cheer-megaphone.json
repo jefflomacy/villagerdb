@@ -1,0 +1,13 @@
+{
+  "id": "football-cheer-megaphone",
+  "name": "Football Cheer Megaphone",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 375
+      }
+    }
+  },
+  "category": "Tools"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "festivale-flag",
+  "name": "Festivale Flag",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 325
+      },
+      "variations": {
+        "blue": "Blue",
+        "green": "Green",
+        "purple": "Purple",
+        "red": "Red",
+        "colorful": "Rainbow"
+      }
+    }
+  },
+  "category": "Flooring"
+}

@@ -1,7 +1,7 @@
 {
   "id": "resetti-model",
   "name": "Resetti Model",
-  "category": "Furniture",
+  "category": "Flooring",
   "games": {
     "nl": {
       "orderable": false,
@@ -24,6 +24,12 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 550
+      }
     }
   }
 }

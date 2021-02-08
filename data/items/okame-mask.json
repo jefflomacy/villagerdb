@@ -1,0 +1,13 @@
+{
+  "id": "okame-mask",
+  "name": "Okame Mask",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 280
+      }
+    }
+  },
+  "category": "Hats"
+}

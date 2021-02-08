@@ -1,0 +1,20 @@
+{
+  "id": "festivale-balloon-lamp",
+  "name": "Festivale Balloon Lamp",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1000
+      },
+      "variations": {
+        "blue": "Blue",
+        "green": "Green",
+        "purple": "Purple",
+        "red": "Red",
+        "colorful": "Rainbow"
+      }
+    }
+  },
+  "category": "Flooring"
+}

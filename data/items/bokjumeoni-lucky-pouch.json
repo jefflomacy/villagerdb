@@ -1,0 +1,13 @@
+{
+  "id": "bokjumeoni-lucky-pouch",
+  "name": "Bokjumeoni Lucky Pouch",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 125
+      }
+    }
+  },
+  "category": "Furniture"
+}

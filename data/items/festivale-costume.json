@@ -1,0 +1,19 @@
+{
+  "id": "festivale-costume",
+  "name": "Festivale Costume",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 650
+      },
+      "variations": {
+        "blue": "Blue",
+        "green": "Green",
+        "purple": "Purple",
+        "red": "Red"
+      }
+    }
+  },
+  "category": "Dresses"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "festivale-garland",
+  "name": "Festivale Garland",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1000
+      },
+      "variations": {
+        "blue": "Blue",
+        "green": "Green",
+        "purple": "Purple",
+        "red": "Red",
+        "colorful": "Rainbow"
+      }
+    }
+  },
+  "category": "Furniture"
+}

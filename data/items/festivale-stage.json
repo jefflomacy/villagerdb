@@ -1,0 +1,20 @@
+{
+  "id": "festivale-stage",
+  "name": "Festivale Stage",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1500
+      },
+      "variations": {
+        "blue": "Blue",
+        "green": "Green",
+        "purple": "Purple",
+        "red": "Red",
+        "colorful": "Rainbow"
+      }
+    }
+  },
+  "category": "Flooring"
+}

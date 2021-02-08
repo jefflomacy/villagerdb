@@ -1,0 +1,18 @@
+{
+  "id": "ogre-costume",
+  "name": "Ogre Costume",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 400
+      },
+      "variations": {
+        "blue": "Blue",
+        "green": "Green",
+        "red": "Red"
+      }
+    }
+  },
+  "category": "Dresses"
+}

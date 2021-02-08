@@ -1,0 +1,18 @@
+{
+  "id": "mermaid-fence",
+  "name": "Mermaid Fence",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1310
+      },
+      "recipe": {
+        "pearl": 1,
+        "coral": 5,
+        "sand-dollar": 5
+      }
+    }
+  },
+  "category": "Furniture"
+}

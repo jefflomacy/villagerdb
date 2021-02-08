@@ -1,0 +1,13 @@
+{
+  "id": "football-rug",
+  "name": "Football Rug",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 500
+      }
+    }
+  },
+  "category": "Flooring"
+}

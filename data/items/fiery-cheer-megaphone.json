@@ -1,0 +1,13 @@
+{
+  "id": "fiery-cheer-megaphone",
+  "name": "Fiery Cheer Megaphone",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 375
+      }
+    }
+  },
+  "category": "Tools"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "festivale-float",
+  "name": "Festivale Float",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 20000
+      }
+    }
+  },
+  "category": "Furniture"
+}

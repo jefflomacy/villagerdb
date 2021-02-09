@@ -34,10 +34,12 @@
     },
     "nh": {
       "personality": "cranky",
-      "phrase": "laddie",
-      "song": "Pondering",
+      "phrase": "malarkey",
+      "song": "K.K. Safari",
       "hobby": "Education",
-      "subtype": "A"
+      "subtype": "A",
+      "quote": "More money, more problems.",
+      "clothes": "puffy-vest"
     }
   },
   "name": "Murphy",

@@ -48,10 +48,12 @@
     },
     "nh": {
       "personality": "jock",
-      "phrase": "okey-dokey",
-      "song": "K.K. Country",
+      "phrase": "grah grah",
+      "song": "My Place",
       "hobby": "Fitness",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "The sky's the limit!",
+      "clothes": "western-shirt"
     }
   },
   "name": "Kody",

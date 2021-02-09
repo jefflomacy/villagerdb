@@ -48,10 +48,12 @@
     },
     "nh": {
       "personality": "snooty",
-      "phrase": "bun bun",
-      "song": "K.K. Rock",
+      "phrase": "bunbun",
+      "song": "K.K. Ragtime",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "What is cheap is most costly.",
+      "clothes": "chic-tuxedo-dress"
     }
   },
   "name": "Tiffany",

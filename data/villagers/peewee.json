@@ -48,10 +48,12 @@
     },
     "nh": {
       "personality": "cranky",
-      "phrase": "li'l dude",
-      "song": "K.K. Rally",
+      "phrase": "li'l bitty baby",
+      "song": "K.K. Rock",
       "hobby": "Fitness",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Look behind you.",
+      "clothes": "five-ball-tee"
     }
   },
   "name": "Peewee",

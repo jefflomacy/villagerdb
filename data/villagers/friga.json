@@ -47,10 +47,12 @@
     },
     "nh": {
       "personality": "snooty",
-      "phrase": "brrmph",
-      "song": "K.K. Tango",
+      "phrase": "brrrmph",
+      "song": "Farewell",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "You can't learn a life lesson from a fortune cookie.",
+      "clothes": "simple-checkered-dress"
     }
   },
   "name": "Friga",

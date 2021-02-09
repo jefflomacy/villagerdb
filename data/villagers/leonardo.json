@@ -29,10 +29,12 @@
     },
     "nh": {
       "personality": "jock",
-      "phrase": "flexin",
-      "song": "K.K. Safari",
+      "phrase": "flexin'",
+      "song": "K.K. Metal",
       "hobby": "Fitness",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "That's the way the energy bar crumbles.",
+      "clothes": "hawk-jacket"
     }
   },
   "name": "Leonardo",

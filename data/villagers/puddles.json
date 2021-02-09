@@ -49,9 +49,11 @@
     "nh": {
       "personality": "peppy",
       "phrase": "splish",
-      "song": "K.K. Ballad",
+      "song": "K.K. Disco",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Look before you leap.",
+      "clothes": "retro-dress"
     }
   },
   "name": "Puddles",

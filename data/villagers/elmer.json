@@ -49,9 +49,11 @@
     "nh": {
       "personality": "lazy",
       "phrase": "tenderfoot",
-      "song": "K.K. Waltz",
+      "song": "K.K. Country",
       "hobby": "Play",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "The horse doesn't pull the cart, the oats do.",
+      "clothes": "boa-fleece"
     }
   },
   "name": "Elmer",

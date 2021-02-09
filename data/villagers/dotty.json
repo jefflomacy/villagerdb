@@ -49,9 +49,11 @@
     "nh": {
       "personality": "peppy",
       "phrase": "wee one",
-      "song": "K.K. Technopop",
+      "song": "Drivin'",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "It's always a good hare day.",
+      "clothes": "sleeveless-tunic"
     }
   },
   "name": "Dotty",

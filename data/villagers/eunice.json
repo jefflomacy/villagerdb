@@ -42,9 +42,11 @@
     "nh": {
       "personality": "normal",
       "phrase": "lambchop",
-      "song": "K.K. Waltz",
+      "song": "K.K. Disco",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "There is a point to every encounter.",
+      "clothes": "aran-knit-cardigan"
     }
   },
   "name": "Eunice",

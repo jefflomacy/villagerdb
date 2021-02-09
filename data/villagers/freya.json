@@ -42,9 +42,11 @@
     "nh": {
       "personality": "snooty",
       "phrase": "uff da",
-      "song": "Rockin' K.K.",
+      "song": "Lucky K.K.",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Don't stray too far from the pack.",
+      "clothes": "reindeer-sweater"
     }
   },
   "name": "Freya",

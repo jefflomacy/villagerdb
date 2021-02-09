@@ -42,9 +42,11 @@
     "nh": {
       "personality": "normal",
       "phrase": "croak-kay",
-      "song": "K.K. Country",
+      "song": "K.K. Cruisin'",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "It takes more muscles to frown than smile.",
+      "clothes": "shell-dress"
     }
   },
   "name": "Jambette",

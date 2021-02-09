@@ -49,9 +49,11 @@
     "nh": {
       "personality": "cranky",
       "phrase": "sucker",
-      "song": "K.K. D & B",
+      "song": "K.K. D&B",
       "hobby": "Play",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Don't be a sucker!",
+      "clothes": "gold-print-tee"
     }
   },
   "name": "Octavian",

@@ -24,10 +24,12 @@
     },
     "nh": {
       "personality": "jock",
-      "phrase": "tokana",
-      "song": "The K. Funk",
+      "phrase": "mush",
+      "song": "K.K. Blues",
       "hobby": "Play",
-      "subtype": "A"
+      "subtype": "A",
+      "quote": "Always land on your feet!",
+      "clothes": "simple-parka"
     }
   },
   "name": "Rudy",

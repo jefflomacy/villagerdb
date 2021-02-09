@@ -41,10 +41,12 @@
     },
     "nh": {
       "personality": "lazy",
-      "phrase": "tu-tutu",
-      "song": "Aloha K.K.",
+      "phrase": "human",
+      "song": "Farewell",
       "hobby": "Fitness",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Flying is believing.",
+      "clothes": "flight-jacket"
     }
   },
   "name": "Boomer",

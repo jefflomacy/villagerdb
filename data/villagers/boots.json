@@ -36,9 +36,11 @@
     "nh": {
       "personality": "jock",
       "phrase": "munchie",
-      "song": "K.K. Rally",
+      "song": "Wandering",
       "hobby": "Play",
-      "subtype": "A"
+      "subtype": "A",
+      "quote": "Strength lies in muscles.",
+      "clothes": "jester-costume"
     }
   },
   "name": "Boots",

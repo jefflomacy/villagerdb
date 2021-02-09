@@ -48,10 +48,12 @@
     },
     "nh": {
       "personality": "cranky",
-      "phrase": "Highness",
-      "song": "K.K. Lament",
+      "phrase": "highness",
+      "song": "K.K. Cruisin'",
       "hobby": "Fitness",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "As soon as you can grow a mustache, do it.",
+      "clothes": "a-tee"
     }
   },
   "name": "Cesar",

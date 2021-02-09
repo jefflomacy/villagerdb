@@ -49,9 +49,11 @@
     "nh": {
       "personality": "peppy",
       "phrase": "quackle",
-      "song": "K.K. Steppe",
+      "song": "K.K. Soul",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "A duck won't bite you.",
+      "clothes": "sunflower-dress"
     }
   },
   "name": "Pate",

@@ -49,9 +49,11 @@
     "nh": {
       "personality": "cranky",
       "phrase": "harrumph",
-      "song": "DJ K.K.",
+      "song": "Rockin' K.K.",
       "hobby": "Music",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Don't wish it were easier; wish you were better.",
+      "clothes": "sweater-on-shirt"
     }
   },
   "name": "Chief",

@@ -49,9 +49,11 @@
     "nh": {
       "personality": "snooty",
       "phrase": "la-di-da",
-      "song": "K.K. Bossa",
+      "song": "K.K. Cruisin'",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Always keep your wings manicured so you can fly away.",
+      "clothes": "front-tie-tee"
     }
   },
   "name": "Robin",

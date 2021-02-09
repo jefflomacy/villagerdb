@@ -31,9 +31,11 @@
     "nh": {
       "personality": "snooty",
       "phrase": "quacker",
-      "song": "K.K. Milonga",
+      "song": "Animal City",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Time is money.",
+      "clothes": "floral-lace-dress"
     }
   },
   "name": "Gloria",

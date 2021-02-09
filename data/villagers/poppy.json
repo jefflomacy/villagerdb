@@ -31,9 +31,11 @@
     "nh": {
       "personality": "normal",
       "phrase": "nutty",
-      "song": "K.K. Lullaby",
+      "song": "Forest Life",
       "hobby": "Education",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "It's all about positive thinking!",
+      "clothes": "alpinist-dress"
     }
   },
   "name": "Poppy",

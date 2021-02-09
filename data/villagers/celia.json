@@ -25,9 +25,11 @@
     "nh": {
       "personality": "normal",
       "phrase": "feathers",
-      "song": "K.K. Aria",
+      "song": "K.K. Soul",
       "hobby": "Nature",
-      "subtype": "A"
+      "subtype": "A",
+      "quote": "It's the thought that counts.",
+      "clothes": "alpinist-dress"
     }
   },
   "name": "Celia",

@@ -24,10 +24,12 @@
     },
     "nh": {
       "personality": "smug",
-      "phrase": "Indeed",
+      "phrase": "indeed",
       "song": "Bubblegum K.K.",
       "hobby": "Education",
-      "subtype": "A"
+      "subtype": "A",
+      "quote": "Knowledge is power.",
+      "clothes": "madras-plaid-shirt"
     }
   },
   "name": "Graham",

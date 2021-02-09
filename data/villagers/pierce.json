@@ -49,9 +49,11 @@
     "nh": {
       "personality": "jock",
       "phrase": "hawkeye",
-      "song": "K.K. Etude",
+      "song": "K.K. Gumbo",
       "hobby": "Fitness",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "When someone says fly, you ask how high!",
+      "clothes": "tennis-sweater"
     }
   },
   "name": "Pierce",

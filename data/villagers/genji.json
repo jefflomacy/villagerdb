@@ -48,10 +48,12 @@
     },
     "nh": {
       "personality": "jock",
-      "phrase": "otaku",
+      "phrase": "mochi",
       "song": "King K.K.",
       "hobby": "Fitness",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Fall down seven times, get up eight.",
+      "clothes": "misty-tee"
     }
   },
   "name": "Genji",

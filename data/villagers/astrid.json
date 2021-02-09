@@ -42,9 +42,11 @@
     "nh": {
       "personality": "snooty",
       "phrase": "my pet",
-      "song": "I Love You",
+      "song": "K.K. Gumbo",
       "hobby": "Music",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "The apple doesn't fall far from the tree.",
+      "clothes": "tee-dress"
     }
   },
   "name": "Astrid",

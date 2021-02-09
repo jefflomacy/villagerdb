@@ -49,9 +49,11 @@
     "nh": {
       "personality": "jock",
       "phrase": "b-b-buddy",
-      "song": "K.K. Parade",
+      "song": "K.K. March",
       "hobby": "Fitness",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "You must learn to waddle before you can swim.",
+      "clothes": "flannel-shirt"
     }
   },
   "name": "Roald",

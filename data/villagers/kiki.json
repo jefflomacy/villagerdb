@@ -49,9 +49,11 @@
     "nh": {
       "personality": "normal",
       "phrase": "kitty cat",
-      "song": "K.K. Country",
+      "song": "Only Me",
       "hobby": "Education",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Nothing ventured, nothing gained.",
+      "clothes": "argyle-sweater"
     }
   },
   "name": "Kiki",

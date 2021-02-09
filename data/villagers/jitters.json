@@ -38,9 +38,11 @@
     "nh": {
       "personality": "jock",
       "phrase": "bzzert",
-      "song": "K.K. Samba",
+      "song": "K.K. Adventure",
       "hobby": "Fitness",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "When you're a team of one, you're always captain!",
+      "clothes": "soccer-uniform-top"
     }
   },
   "name": "Jitters",

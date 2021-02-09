@@ -47,10 +47,12 @@
     },
     "nh": {
       "personality": "snooty",
-      "phrase": "h-h-hon",
+      "phrase": "h-h-h-hon",
       "song": "Drivin'",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Mind your manners, or someone else will.",
+      "clothes": "retro-dress"
     }
   },
   "name": "Gwen",

@@ -49,9 +49,11 @@
     "nh": {
       "personality": "cranky",
       "phrase": "mon chou",
-      "song": "K.K. Dirge",
+      "song": "K.K. Song",
       "hobby": "Education",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "An ear for an ear makes it hard to hear.",
+      "clothes": "color-block-dress-shirt"
     }
   },
   "name": "Gaston",

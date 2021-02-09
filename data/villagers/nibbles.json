@@ -49,9 +49,11 @@
     "nh": {
       "personality": "peppy",
       "phrase": "niblet",
-      "song": "K.K. Technopop",
+      "song": "K.K. Disco",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Appearances are, like, totally deceiving.",
+      "clothes": "watermelon-dress"
     }
   },
   "name": "Nibbles",

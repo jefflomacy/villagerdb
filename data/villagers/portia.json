@@ -48,9 +48,11 @@
     "nh": {
       "personality": "snooty",
       "phrase": "ruffian",
-      "song": "Cafe K.K.",
+      "song": "K.K. Disco",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Charity begins at home.",
+      "clothes": "rad-power-skirt-suit"
     }
   },
   "name": "Portia",

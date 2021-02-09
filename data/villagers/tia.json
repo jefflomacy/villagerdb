@@ -25,9 +25,11 @@
     "nh": {
       "personality": "normal",
       "phrase": "teacup",
-      "song": "K.K. Marathon",
+      "song": "K.K. Bossa",
       "hobby": "Nature",
-      "subtype": "A"
+      "subtype": "A",
+      "quote": "Tea is a cup of life.",
+      "clothes": "maid-dress"
     }
   },
   "name": "Tia",

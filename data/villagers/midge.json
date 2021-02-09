@@ -42,9 +42,11 @@
     "nh": {
       "personality": "normal",
       "phrase": "tweedledee",
-      "song": "K.K. Lullaby",
+      "song": "K.K. Stroll",
       "hobby": "Education",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "When the world gets cold, just fly south.",
+      "clothes": "silk-shirt"
     }
   },
   "name": "Midge",

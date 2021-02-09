@@ -30,10 +30,12 @@
     },
     "nh": {
       "personality": "lazy",
-      "phrase": "clip-clawp",
-      "song": "K.K. Dixie",
+      "phrase": "clip clawp",
+      "song": "Neapolitan",
       "hobby": "Play",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "The grass is always greener.",
+      "clothes": "madras-plaid-shirt"
     }
   },
   "name": "Clyde",

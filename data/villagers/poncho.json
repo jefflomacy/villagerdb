@@ -49,9 +49,11 @@
     "nh": {
       "personality": "jock",
       "phrase": "li'l bear",
-      "song": "K.K. Condor",
+      "song": "K.K. Blues",
       "hobby": "Fitness",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Fortune favors the brave!",
+      "clothes": "energetic-sweater"
     }
   },
   "name": "Poncho",

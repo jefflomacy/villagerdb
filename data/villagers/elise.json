@@ -38,9 +38,11 @@
     "nh": {
       "personality": "snooty",
       "phrase": "puh-lease",
-      "song": "Neapolitan",
+      "song": "K.K. Bossa",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Do as I say, not as I do.",
+      "clothes": "elegant-dress"
     }
   },
   "name": "Elise",

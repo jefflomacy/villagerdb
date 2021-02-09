@@ -36,9 +36,11 @@
     "nh": {
       "personality": "jock",
       "phrase": "dagnaabit",
-      "song": "K.K. Sonata",
+      "song": "K.K. Song",
       "hobby": "Play",
-      "subtype": "A"
+      "subtype": "A",
+      "quote": "Old dogs can learn new tricks.",
+      "clothes": "hanten-jacket"
     }
   },
   "name": "Billy",

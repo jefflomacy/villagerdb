@@ -24,10 +24,12 @@
     },
     "nh": {
       "personality": "smug",
-      "phrase": "Natch",
-      "song": "K.K. Moody",
+      "phrase": "natch",
+      "song": "K.K. Sonata",
       "hobby": "Education",
-      "subtype": "A"
+      "subtype": "A",
+      "quote": "Mottoes are for the unoriginal.",
+      "clothes": "emblem-blazer"
     }
   },
   "name": "Hippeux",

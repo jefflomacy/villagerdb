@@ -34,10 +34,12 @@
     },
     "nh": {
       "personality": "uchi",
-      "phrase": "chicky poo",
+      "phrase": "chicky-poo",
       "song": "K.K. Island",
       "hobby": "Play",
-      "subtype": "A"
+      "subtype": "A",
+      "quote": "Keep your crumbs out of the bed.",
+      "clothes": "bold-muumuu"
     }
   },
   "name": "Plucky",

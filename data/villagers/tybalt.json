@@ -35,10 +35,12 @@
     },
     "nh": {
       "personality": "jock",
-      "phrase": "grrRAH",
-      "song": "K.K. Salsa",
+      "phrase": "grrrRAH",
+      "song": "K.K. Groove",
       "hobby": "Play",
-      "subtype": "A"
+      "subtype": "A",
+      "quote": "There's no excuse for half-baked potatoes.",
+      "clothes": "simple-parka"
     }
   },
   "name": "Tybalt",

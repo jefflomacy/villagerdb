@@ -49,9 +49,11 @@
     "nh": {
       "personality": "snooty",
       "phrase": "nutlet",
-      "song": "K.K. Island",
+      "song": "K.K. Bossa",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Practice makes perfect.",
+      "clothes": "layered-tank-dress"
     }
   },
   "name": "Blaire",

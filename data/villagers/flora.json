@@ -25,9 +25,11 @@
     "nh": {
       "personality": "peppy",
       "phrase": "pinky",
-      "song": "K.K. Flamenco",
+      "song": "K.K. Condor",
       "hobby": "Play",
-      "subtype": "A"
+      "subtype": "A",
+      "quote": "Pink is the new black.",
+      "clothes": "gumdrop-dress"
     }
   },
   "name": "Flora",

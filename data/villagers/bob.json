@@ -48,10 +48,12 @@
     },
     "nh": {
       "personality": "lazy",
-      "phrase": "pthhhpth",
-      "song": "K.K. Ragtime",
+      "phrase": "pthhpth",
+      "song": "Neapolitan",
       "hobby": "Play",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "You only live once...or nine times.",
+      "clothes": "blossom-tee"
     }
   },
   "name": "Bob",

@@ -43,9 +43,11 @@
     "nh": {
       "personality": "peppy",
       "phrase": "sugar cube",
-      "song": "K.K. Country",
+      "song": "K.K. Adventure",
       "hobby": "Fitness",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Don't put the cart before the horse.",
+      "clothes": "one-ball-tee"
     }
   },
   "name": "Victoria",

@@ -36,9 +36,11 @@
     "nh": {
       "personality": "normal",
       "phrase": "beaker",
-      "song": "K.K. Country",
+      "song": "K.K. Love Song",
       "hobby": "Music",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Early to bed, early to rise.",
+      "clothes": "checkered-jumper-dress"
     }
   },
   "name": "Ava",

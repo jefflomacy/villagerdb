@@ -34,10 +34,12 @@
     },
     "nh": {
       "personality": "snooty",
-      "phrase": "snifffff",
-      "song": "Imperial K.K.",
+      "phrase": "sniffff",
+      "song": "K.K. Folk",
       "hobby": "Education",
-      "subtype": "A"
+      "subtype": "A",
+      "quote": "Request forgiveness, not permission.",
+      "clothes": "misty-tee"
     }
   },
   "name": "Snooty",

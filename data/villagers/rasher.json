@@ -48,9 +48,11 @@
     "nh": {
       "personality": "cranky",
       "phrase": "swine",
-      "song": "K.K. Faire",
+      "song": "K.K. Rockabilly",
       "hobby": "Music",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Don't judge a book by its cover.",
+      "clothes": "pineapple-aloha-shirt"
     }
   },
   "name": "Rasher",

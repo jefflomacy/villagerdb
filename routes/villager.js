@@ -165,22 +165,33 @@ function compressGameData(games, property) {
 }
 
 /**
- * Get quotes for the villager. They will be sorted in reverse chronological order because that's the way the
- * formatted villager game list comes back.
+ * Get quotes for the villager. Equal quotes will be grouped.
  *
  * @param villager
  * @param formattedVillager
  * @returns {Array}
  */
 function getQuotes(villager, formattedVillager) {
+    const uniqueQuotes = {}; // quote to games mapping
     const quotes = [];
-    for (let game in villager.games) {
-        if (villager.games[game].quote) {
-            quotes.push({
-                title: format.games[game].title,
-                quote: villager.games[game].quote
-            });
+
+    // Get unique...
+    for (let game of Object.keys(format.games)) {
+        if (typeof villager.games[game] !== 'undefined' && villager.games[game].quote) {
+            const quote = villager.games[game].quote;
+            if (!uniqueQuotes[quote]) {
+                uniqueQuotes[quote] = [];
+            }
+            uniqueQuotes[quote].push(format.games[game].title);
         }
+    }
+
+    // Now collapse
+    for (let quote of Object.keys(uniqueQuotes)) {
+        quotes.push({
+            title: format.andList(uniqueQuotes[quote]),
+            quote: quote
+        });
     }
 
     return quotes;

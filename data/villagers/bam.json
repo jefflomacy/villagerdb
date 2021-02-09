@@ -24,10 +24,12 @@
     },
     "nh": {
       "personality": "jock",
-      "phrase": "boosh",
-      "song": "DJ K.K.",
+      "phrase": "kablang",
+      "song": "K.K. Blues",
       "hobby": "Play",
-      "subtype": "A"
+      "subtype": "A",
+      "quote": "Get while the getting's good.",
+      "clothes": "athletic-jacket"
     }
   },
   "name": "Bam",

@@ -35,10 +35,12 @@
     },
     "nh": {
       "personality": "normal",
-      "phrase": "wee one",
-      "song": "Cafe K.K.",
+      "phrase": "li'l one",
+      "song": "K.K. Ballad",
       "hobby": "Nature",
-      "subtype": "A"
+      "subtype": "A",
+      "quote": "You need the sour to highlight the sweet.",
+      "clothes": "aran-knit-sweater"
     }
   },
   "name": "Ellie",

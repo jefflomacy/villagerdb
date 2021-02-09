@@ -48,10 +48,12 @@
     },
     "nh": {
       "personality": "peppy",
-      "phrase": "how now",
+      "phrase": "how-now",
       "song": "K.K. Calypso",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "A friend in need is a friend indeed!",
+      "clothes": "orange-dress"
     }
   },
   "name": "Patty",

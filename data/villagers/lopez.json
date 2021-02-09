@@ -24,10 +24,12 @@
     },
     "nh": {
       "personality": "smug",
-      "phrase": "buckaroo",
-      "song": "K.K. Milonga",
+      "phrase": "badoom",
+      "song": "K.K. Jazz",
       "hobby": "Education",
-      "subtype": "A"
+      "subtype": "A",
+      "quote": "Always look both ways before crossing the street.",
+      "clothes": "chimayo-vest"
     }
   },
   "name": "Lopez",

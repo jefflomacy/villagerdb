@@ -47,10 +47,12 @@
     },
     "nh": {
       "personality": "lazy",
-      "phrase": "pudgy",
-      "song": "Rockin' K.K.",
+      "phrase": "golly",
+      "song": "K.K. Stroll",
       "hobby": "Play",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "There's no such thing as a free lunch.",
+      "clothes": "letter-jacket"
     }
   },
   "name": "Pudge",

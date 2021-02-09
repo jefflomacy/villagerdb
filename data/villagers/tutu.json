@@ -42,9 +42,11 @@
     "nh": {
       "personality": "peppy",
       "phrase": "twinkles",
-      "song": "K.K. Steppe",
+      "song": "Bubblegum K.K.",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Even the best of friends start out as strangers.",
+      "clothes": "heart-sweater"
     }
   },
   "name": "Tutu",

@@ -49,9 +49,11 @@
     "nh": {
       "personality": "normal",
       "phrase": "kid",
-      "song": "K.K. Etude",
+      "song": "K.K. Étude",
       "hobby": "Nature",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Nanny-nanny boo-boo!",
+      "clothes": "tweed-dress"
     }
   },
   "name": "Nan",

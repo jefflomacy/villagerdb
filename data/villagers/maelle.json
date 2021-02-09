@@ -49,9 +49,11 @@
     "nh": {
       "personality": "snooty",
       "phrase": "duckling",
-      "song": "Cafe K.K.",
+      "song": "Café K.K.",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "A wise duck takes care of its bill.",
+      "clothes": "flower-sweater"
     }
   },
   "name": "Maelle",

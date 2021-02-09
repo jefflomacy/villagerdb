@@ -41,10 +41,12 @@
     },
     "nh": {
       "personality": "jock",
-      "phrase": "GAHHHH",
-      "song": "Go K.K. Rider!",
+      "phrase": "GAAHHH",
+      "song": "K.K. Flamenco",
       "hobby": "Fitness",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "If the mask fits, wear it!",
+      "clothes": "athletic-jacket"
     }
   },
   "name": "Stinky",

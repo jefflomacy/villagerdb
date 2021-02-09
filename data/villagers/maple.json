@@ -48,9 +48,11 @@
     "nh": {
       "personality": "normal",
       "phrase": "honey",
-      "song": "I Love You",
+      "song": "Forest Life",
       "hobby": "Education",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "Waste not, want not.",
+      "clothes": "tree-sweater"
     }
   },
   "name": "Maple",

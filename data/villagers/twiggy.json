@@ -49,9 +49,11 @@
     "nh": {
       "personality": "peppy",
       "phrase": "cheepers",
-      "song": "K.K. Calypso",
+      "song": "Bubblegum K.K.",
       "hobby": "Fashion",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "It's the early bird that catches the worm!",
+      "clothes": "striped-tank"
     }
   },
   "name": "Twiggy",

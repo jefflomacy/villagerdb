@@ -49,9 +49,11 @@
     "nh": {
       "personality": "jock",
       "phrase": "bunyip",
-      "song": "K.K. Lullaby",
+      "song": "King K.K.",
       "hobby": "Fitness",
-      "subtype": "B"
+      "subtype": "B",
+      "quote": "A good ninja is neither seen nor heard.",
+      "clothes": "ninja-costume"
     }
   },
   "name": "Snake",

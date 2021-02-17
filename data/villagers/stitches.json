@@ -46,7 +46,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "A stitch in time saves nine.",
-      "clothes": "starry-tank"
+      "clothes": "starry-tank",
+      "favoriteColors": [
+        "colorful",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Stitches",

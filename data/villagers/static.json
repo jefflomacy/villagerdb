@@ -57,7 +57,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Lightning never strikes twice.",
-      "clothes": "dragon-jacket"
+      "clothes": "dragon-jacket",
+      "favoriteColors": [
+        "black",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "active"
+      ]
     }
   },
   "name": "Static",

@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Fake it till you make it.",
-      "clothes": "overall-dress"
+      "clothes": "overall-dress",
+      "favoriteColors": [
+        "green",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Pippy",

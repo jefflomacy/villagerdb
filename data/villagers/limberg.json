@@ -57,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Don't build a better mousetrap.",
-      "clothes": "hanten-jacket"
+      "clothes": "hanten-jacket",
+      "favoriteColors": [
+        "green",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Limberg",

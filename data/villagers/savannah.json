@@ -57,7 +57,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Keep your chin up!",
-      "clothes": "top-coat"
+      "clothes": "top-coat",
+      "favoriteColors": [
+        "aqua",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Savannah",

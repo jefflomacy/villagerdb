@@ -33,7 +33,15 @@
       "hobby": "Fashion",
       "subtype": "A",
       "quote": "One mile or a thousand makes no difference to love.",
-      "clothes": "oversized-print-dress"
+      "clothes": "oversized-print-dress",
+      "favoriteColors": [
+        "pink",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "gorgeous"
+      ]
     }
   },
   "name": "Penelope",

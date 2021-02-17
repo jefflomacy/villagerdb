@@ -33,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Always land on your feet!",
-      "clothes": "simple-parka"
+      "clothes": "simple-parka",
+      "favoriteColors": [
+        "yellow",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Rudy",

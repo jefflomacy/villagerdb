@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Set 'em up and knock 'em down.",
-      "clothes": "sea-hanten-shirt"
+      "clothes": "sea-hanten-shirt",
+      "favoriteColors": [
+        "blue",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Rory",

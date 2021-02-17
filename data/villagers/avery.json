@@ -44,7 +44,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "What goes around comes around.",
-      "clothes": "oversized-shawl-overshirt"
+      "clothes": "oversized-shawl-overshirt",
+      "favoriteColors": [
+        "orange",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "gorgeous"
+      ]
     }
   },
   "name": "Avery",

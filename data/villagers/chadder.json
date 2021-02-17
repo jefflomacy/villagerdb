@@ -33,7 +33,15 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "Meeting is just the start of us saying goodbye.",
-      "clothes": "tailcoat"
+      "clothes": "tailcoat",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Chadder",

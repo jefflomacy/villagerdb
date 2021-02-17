@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "It's the thought that counts.",
-      "clothes": "alpinist-dress"
+      "clothes": "alpinist-dress",
+      "favoriteColors": [
+        "pink",
+        "green"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cute"
+      ]
     }
   },
   "name": "Celia",

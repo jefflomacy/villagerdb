@@ -46,7 +46,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "It takes two to tango.",
-      "clothes": "retro-sweater"
+      "clothes": "retro-sweater",
+      "favoriteColors": [
+        "colorful",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cute"
+      ]
     }
   },
   "name": "Tipper",

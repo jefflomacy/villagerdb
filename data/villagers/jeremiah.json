@@ -57,7 +57,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Sleep before you leap.",
-      "clothes": "gingham-picnic-shirt"
+      "clothes": "gingham-picnic-shirt",
+      "favoriteColors": [
+        "orange",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Jeremiah",

@@ -39,7 +39,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Sometimes life is rough.",
-      "clothes": "raglan-shirt"
+      "clothes": "raglan-shirt",
+      "favoriteColors": [
+        "red",
+        "black"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cool"
+      ]
     }
   },
   "name": "Mac",

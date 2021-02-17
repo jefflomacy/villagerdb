@@ -38,7 +38,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Which came first, the seeds or the sunflower?",
-      "clothes": "frog-tee"
+      "clothes": "frog-tee",
+      "favoriteColors": [
+        "aqua",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "gorgeous"
+      ]
     }
   },
   "name": "Wade",

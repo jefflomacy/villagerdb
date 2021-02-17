@@ -51,7 +51,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Trouble rides a fast horse.",
-      "clothes": "biker-jacket"
+      "clothes": "biker-jacket",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Roscoe",

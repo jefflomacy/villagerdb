@@ -33,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Get while the getting's good.",
-      "clothes": "athletic-jacket"
+      "clothes": "athletic-jacket",
+      "favoriteColors": [
+        "green",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Bam",

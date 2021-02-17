@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "A good start leads to a good end.",
-      "clothes": "garden-tank"
+      "clothes": "garden-tank",
+      "favoriteColors": [
+        "aqua",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "active"
+      ]
     }
   },
   "name": "Shari",

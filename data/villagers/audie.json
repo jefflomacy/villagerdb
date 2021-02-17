@@ -10,7 +10,15 @@
       "hobby": "Fitness",
       "subtype": "A",
       "song": "K.K. Island",
-      "clothes": "tropical-muumuu"
+      "clothes": "tropical-muumuu",
+      "favoriteColors": [
+        "green",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "active"
+      ]
     }
   },
   "name": "Audie",

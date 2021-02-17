@@ -56,7 +56,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "You never get a second chance to make a first impression.",
-      "clothes": "shirtdress"
+      "clothes": "shirtdress",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Queenie",

@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "A wise duck takes care of its bill.",
-      "clothes": "flower-sweater"
+      "clothes": "flower-sweater",
+      "favoriteColors": [
+        "pink",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Maelle",

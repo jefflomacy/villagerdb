@@ -39,7 +39,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "The lion's share goes to the lion.",
-      "clothes": "college-cardigan"
+      "clothes": "college-cardigan",
+      "favoriteColors": [
+        "blue",
+        "green"
+      ],
+      "favoriteStyles": [
+        "active",
+        "elegant"
+      ]
     }
   },
   "name": "Mott",

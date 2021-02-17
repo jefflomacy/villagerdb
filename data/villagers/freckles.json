@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Act now before you change your mind!",
-      "clothes": "flower-print-dress"
+      "clothes": "flower-print-dress",
+      "favoriteColors": [
+        "green",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Freckles",

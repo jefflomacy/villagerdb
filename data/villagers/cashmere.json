@@ -44,7 +44,15 @@
       "hobby": "Fashion",
       "subtype": "A",
       "quote": "100% Wool.",
-      "clothes": "sleeveless-tunic"
+      "clothes": "sleeveless-tunic",
+      "favoriteColors": [
+        "purple",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Cashmere",

@@ -50,7 +50,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Do not compare a fly with an elephant.",
-      "clothes": "kanji-tee"
+      "clothes": "kanji-tee",
+      "favoriteColors": [
+        "green",
+        "white"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Axel",

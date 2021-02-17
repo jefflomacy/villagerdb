@@ -57,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "An ear for an ear makes it hard to hear.",
-      "clothes": "color-block-dress-shirt"
+      "clothes": "color-block-dress-shirt",
+      "favoriteColors": [
+        "brown",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "gorgeous"
+      ]
     }
   },
   "name": "Gaston",

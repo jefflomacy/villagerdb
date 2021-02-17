@@ -57,7 +57,14 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Hare today, gone tomorrow.",
-      "clothes": "lively-plaid-dress"
+      "clothes": "lively-plaid-dress",
+      "favoriteColors": [
+        "green",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Bunnie",

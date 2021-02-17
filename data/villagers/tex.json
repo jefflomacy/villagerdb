@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Rules were made to be broken.",
-      "clothes": "letter-jacket"
+      "clothes": "letter-jacket",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "elegant"
+      ]
     }
   },
   "name": "Tex",

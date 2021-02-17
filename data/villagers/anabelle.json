@@ -46,7 +46,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Dance like no one's watching!",
-      "clothes": "bold-muumuu"
+      "clothes": "bold-muumuu",
+      "favoriteColors": [
+        "green",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Anabelle",

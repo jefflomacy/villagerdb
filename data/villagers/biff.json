@@ -44,7 +44,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Eighth place is just the seventh loser.",
-      "clothes": "gold-print-tee"
+      "clothes": "gold-print-tee",
+      "favoriteColors": [
+        "black",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "active"
+      ]
     }
   },
   "name": "Biff",

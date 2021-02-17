@@ -46,7 +46,15 @@
       "hobby": "Nature",
       "subtype": "B",
       "quote": "You can always take the red-eye.",
-      "clothes": "rabbit-tee"
+      "clothes": "rabbit-tee",
+      "favoriteColors": [
+        "aqua",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "active"
+      ]
     }
   },
   "name": "Ruby",

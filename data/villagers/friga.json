@@ -56,7 +56,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "You can't learn a life lesson from a fortune cookie.",
-      "clothes": "simple-checkered-dress"
+      "clothes": "simple-checkered-dress",
+      "favoriteColors": [
+        "pink",
+        "black"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Friga",

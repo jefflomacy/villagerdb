@@ -38,7 +38,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "That's the way the energy bar crumbles.",
-      "clothes": "hawk-jacket"
+      "clothes": "hawk-jacket",
+      "favoriteColors": [
+        "red",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "active",
+        "gorgeous"
+      ]
     }
   },
   "name": "Leonardo",

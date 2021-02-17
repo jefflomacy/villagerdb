@@ -50,7 +50,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Smile, and the world smiles with you.",
-      "clothes": "faux-hair-sweater"
+      "clothes": "faux-hair-sweater",
+      "favoriteColors": [
+        "white",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Winnie",

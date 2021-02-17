@@ -43,7 +43,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Dream big, expect little.",
-      "clothes": "hibiscus-muumuu"
+      "clothes": "hibiscus-muumuu",
+      "favoriteColors": [
+        "white",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "June",

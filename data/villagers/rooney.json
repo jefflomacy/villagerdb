@@ -33,7 +33,14 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "Bob and weave! Bob and weave!",
-      "clothes": "sleeveless-parka"
+      "clothes": "sleeveless-parka",
+      "favoriteColors": [
+        "gray",
+        "black"
+      ],
+      "favoriteStyles": [
+        "active"
+      ]
     }
   },
   "name": "Rooney",

@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "See no donut, hear no donut, speak no donut.",
-      "clothes": "muscle-tank"
+      "clothes": "muscle-tank",
+      "favoriteColors": [
+        "blue",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Flip",

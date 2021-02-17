@@ -57,7 +57,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Pampering yourself is as important as food, water, and shelter!",
-      "clothes": "aran-knit-sweater"
+      "clothes": "aran-knit-sweater",
+      "favoriteColors": [
+        "black",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "elegant"
+      ]
     }
   },
   "name": "Amelia",

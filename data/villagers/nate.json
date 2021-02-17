@@ -50,7 +50,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Be true to yourself.",
-      "clothes": "reindeer-sweater"
+      "clothes": "reindeer-sweater",
+      "favoriteColors": [
+        "white",
+        "green"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Nate",

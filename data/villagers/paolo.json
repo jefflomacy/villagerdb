@@ -41,7 +41,15 @@
       "subtype": "A",
       "song": "To The Edge",
       "quote": "When it works, it works.",
-      "clothes": "simple-parka"
+      "clothes": "simple-parka",
+      "favoriteColors": [
+        "gray",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Paolo",

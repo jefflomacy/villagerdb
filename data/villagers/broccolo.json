@@ -44,7 +44,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "One nap leads to another.",
-      "clothes": "raglan-shirt"
+      "clothes": "raglan-shirt",
+      "favoriteColors": [
+        "colorful",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Broccolo",

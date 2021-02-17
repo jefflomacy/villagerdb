@@ -56,7 +56,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "You're not living unless you're sweating!",
-      "clothes": "pineapple-aloha-shirt"
+      "clothes": "pineapple-aloha-shirt",
+      "favoriteColors": [
+        "green",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Bud",

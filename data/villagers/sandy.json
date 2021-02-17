@@ -43,7 +43,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Soaring through the sky takes more than a pair of wings.",
-      "clothes": "striped-tank"
+      "clothes": "striped-tank",
+      "favoriteColors": [
+        "aqua",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Sandy",

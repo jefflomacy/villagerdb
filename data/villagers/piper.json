@@ -43,7 +43,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Where there's life, there's hope.",
-      "clothes": "lacy-shirt"
+      "clothes": "lacy-shirt",
+      "favoriteColors": [
+        "black",
+        "white"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Piper",

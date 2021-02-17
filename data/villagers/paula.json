@@ -38,7 +38,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Trends always make a comeback.",
-      "clothes": "zigzag-print-dress"
+      "clothes": "zigzag-print-dress",
+      "favoriteColors": [
+        "orange",
+        "green"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "active"
+      ]
     }
   },
   "name": "Paula",

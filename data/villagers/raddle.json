@@ -38,7 +38,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "A healthy mind makes for a healthy body.",
-      "clothes": "doctors-coat"
+      "clothes": "doctors-coat",
+      "favoriteColors": [
+        "white",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "simple"
+      ]
     }
   },
   "name": "Raddle",

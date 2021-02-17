@@ -51,7 +51,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Don't put the cart before the horse.",
-      "clothes": "one-ball-tee"
+      "clothes": "one-ball-tee",
+      "favoriteColors": [
+        "yellow",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Victoria",

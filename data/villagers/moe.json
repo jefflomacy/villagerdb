@@ -51,7 +51,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Ignorance is bliss.",
-      "clothes": "simple-parka"
+      "clothes": "simple-parka",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Moe",

@@ -57,7 +57,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "A house without either a cat or a dog is a sad house indeed.",
-      "clothes": "argyle-vest"
+      "clothes": "argyle-vest",
+      "favoriteColors": [
+        "blue",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Butch",

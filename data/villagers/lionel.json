@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Love is blind.",
-      "clothes": "noble-coat"
+      "clothes": "noble-coat",
+      "favoriteColors": [
+        "green",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "active"
+      ]
     }
   },
   "name": "Lionel",

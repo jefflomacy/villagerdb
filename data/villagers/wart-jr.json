@@ -56,7 +56,14 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Age before beauty.",
-      "clothes": "hanten-jacket"
+      "clothes": "hanten-jacket",
+      "favoriteColors": [
+        "blue",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Wart Jr.",

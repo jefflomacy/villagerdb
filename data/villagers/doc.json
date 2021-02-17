@@ -44,7 +44,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "One cannot live on carrots alone.",
-      "clothes": "flannel-shirt"
+      "clothes": "flannel-shirt",
+      "favoriteColors": [
+        "gray",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Doc",

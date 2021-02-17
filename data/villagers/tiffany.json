@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "What is cheap is most costly.",
-      "clothes": "chic-tuxedo-dress"
+      "clothes": "chic-tuxedo-dress",
+      "favoriteColors": [
+        "black",
+        "red"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cool"
+      ]
     }
   },
   "name": "Tiffany",

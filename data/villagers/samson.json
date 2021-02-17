@@ -57,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Squeak softly and carry a big stick.",
-      "clothes": "kanji-tee"
+      "clothes": "kanji-tee",
+      "favoriteColors": [
+        "red",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Samson",

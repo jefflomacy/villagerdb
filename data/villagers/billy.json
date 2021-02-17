@@ -44,7 +44,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Old dogs can learn new tricks.",
-      "clothes": "hanten-jacket"
+      "clothes": "hanten-jacket",
+      "favoriteColors": [
+        "blue",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Billy",

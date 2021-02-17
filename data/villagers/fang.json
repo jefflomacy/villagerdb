@@ -50,7 +50,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "You mess with the wolf, you get the fangs.",
-      "clothes": "snowy-sweater"
+      "clothes": "snowy-sweater",
+      "favoriteColors": [
+        "white",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Fang",

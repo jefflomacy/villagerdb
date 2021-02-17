@@ -50,7 +50,15 @@
       "hobby": "Nature",
       "subtype": "B",
       "quote": "All that glitters is not gold.",
-      "clothes": "palatial-tank-dress"
+      "clothes": "palatial-tank-dress",
+      "favoriteColors": [
+        "colorful",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "simple"
+      ]
     }
   },
   "name": "Ankha",

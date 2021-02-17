@@ -57,7 +57,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "You gotta break a few eggs to make an omelet.",
-      "clothes": "folk-shirt"
+      "clothes": "folk-shirt",
+      "favoriteColors": [
+        "beige",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Egbert",

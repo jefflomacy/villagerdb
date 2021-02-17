@@ -57,7 +57,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Why do today what you can put off until tomorrow?",
-      "clothes": "yodel-sweater"
+      "clothes": "yodel-sweater",
+      "favoriteColors": [
+        "colorful",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Anchovy",

@@ -43,7 +43,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "If the world is flooded, it will be easy for the duck.",
-      "clothes": "sleeveless-shirtdress"
+      "clothes": "sleeveless-shirtdress",
+      "favoriteColors": [
+        "blue",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Miranda",

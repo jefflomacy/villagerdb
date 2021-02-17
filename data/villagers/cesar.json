@@ -57,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "As soon as you can grow a mustache, do it.",
-      "clothes": "a-tee"
+      "clothes": "a-tee",
+      "favoriteColors": [
+        "blue",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "elegant"
+      ]
     }
   },
   "name": "Cesar",

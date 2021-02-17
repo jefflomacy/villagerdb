@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "The way to a frog's heart is through his stomach.",
-      "clothes": "denim-jacket"
+      "clothes": "denim-jacket",
+      "favoriteColors": [
+        "aqua",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Henry",

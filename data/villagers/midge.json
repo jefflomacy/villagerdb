@@ -50,7 +50,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "When the world gets cold, just fly south.",
-      "clothes": "silk-shirt"
+      "clothes": "silk-shirt",
+      "favoriteColors": [
+        "pink",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Midge",

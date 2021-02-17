@@ -38,7 +38,15 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "There's always time to take a second look.",
-      "clothes": "three-ball-tee"
+      "clothes": "three-ball-tee",
+      "favoriteColors": [
+        "red",
+        "black"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Boyd",

@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Never trot when you can prance.",
-      "clothes": "space-parka"
+      "clothes": "space-parka",
+      "favoriteColors": [
+        "purple",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cool"
+      ]
     }
   },
   "name": "Julian",

@@ -46,7 +46,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Never settle for second best.",
-      "clothes": "cycling-shirt"
+      "clothes": "cycling-shirt",
+      "favoriteColors": [
+        "colorful",
+        "red"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Boone",

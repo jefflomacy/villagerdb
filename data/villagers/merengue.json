@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Life is a piece of cake.",
-      "clothes": "chefs-outfit"
+      "clothes": "chefs-outfit",
+      "favoriteColors": [
+        "white",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Merengue",

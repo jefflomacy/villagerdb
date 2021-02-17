@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "There is no room for two dragons in one pond.",
-      "clothes": "dragon-suit"
+      "clothes": "dragon-suit",
+      "favoriteColors": [
+        "orange",
+        "red"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Drago",

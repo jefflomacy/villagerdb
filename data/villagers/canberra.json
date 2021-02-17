@@ -33,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "It's never too late to start over.",
-      "clothes": "striped-tank"
+      "clothes": "striped-tank",
+      "favoriteColors": [
+        "green",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cool"
+      ]
     }
   },
   "name": "Canberra",

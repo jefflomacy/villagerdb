@@ -39,7 +39,15 @@
       "hobby": "Nature",
       "subtype": "B",
       "quote": "Let bygones be bygones.",
-      "clothes": "sleeveless-silk-dress"
+      "clothes": "sleeveless-silk-dress",
+      "favoriteColors": [
+        "red",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cute"
+      ]
     }
   },
   "name": "Pekoe",

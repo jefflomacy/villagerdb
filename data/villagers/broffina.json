@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Don't peck the hand that feeds you.",
-      "clothes": "rumba-dress"
+      "clothes": "rumba-dress",
+      "favoriteColors": [
+        "black",
+        "red"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Broffina",

@@ -41,7 +41,15 @@
       "subtype": "A",
       "song": "K.K. House",
       "quote": "Keep your eye on the ball.",
-      "clothes": "gold-print-tee"
+      "clothes": "gold-print-tee",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Spike",

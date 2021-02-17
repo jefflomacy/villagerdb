@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "There is beauty in everything.",
-      "clothes": "checkered-muffler"
+      "clothes": "checkered-muffler",
+      "favoriteColors": [
+        "beige",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Quillson",

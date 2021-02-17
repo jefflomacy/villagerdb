@@ -38,7 +38,15 @@
       "hobby": "Nature",
       "subtype": "B",
       "quote": "If you want to know yourself better, ask your neighbors.",
-      "clothes": "zigzag-shirt"
+      "clothes": "zigzag-shirt",
+      "favoriteColors": [
+        "red",
+        "green"
+      ],
+      "favoriteStyles": [
+        "active",
+        "gorgeous"
+      ]
     }
   },
   "name": "Curlos",

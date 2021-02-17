@@ -50,7 +50,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Some birds avoid the water, ducks look for it.",
-      "clothes": "frog-tee"
+      "clothes": "frog-tee",
+      "favoriteColors": [
+        "beige",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Scoot",

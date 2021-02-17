@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Best not to say too much.",
-      "clothes": "fischerhemd"
+      "clothes": "fischerhemd",
+      "favoriteColors": [
+        "green",
+        "red"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Phil",

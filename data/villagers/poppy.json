@@ -39,7 +39,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "It's all about positive thinking!",
-      "clothes": "alpinist-dress"
+      "clothes": "alpinist-dress",
+      "favoriteColors": [
+        "green",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Poppy",

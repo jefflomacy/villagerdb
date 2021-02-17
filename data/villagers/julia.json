@@ -38,7 +38,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Cut once, measure twice... Wait— reverse that.",
-      "clothes": "zigzag-print-dress"
+      "clothes": "zigzag-print-dress",
+      "favoriteColors": [
+        "purple",
+        "red"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Julia",

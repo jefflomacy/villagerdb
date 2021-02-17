@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Always lead by example.",
-      "clothes": "gumdrop-dress"
+      "clothes": "gumdrop-dress",
+      "favoriteColors": [
+        "pink",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cute"
+      ]
     }
   },
   "name": "Mint",

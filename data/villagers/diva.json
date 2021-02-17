@@ -33,7 +33,15 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "Eyes are the windows to the soul.",
-      "clothes": "palatial-tank-dress"
+      "clothes": "palatial-tank-dress",
+      "favoriteColors": [
+        "purple",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Diva",

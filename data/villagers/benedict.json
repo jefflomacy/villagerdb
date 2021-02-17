@@ -51,7 +51,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Don't put all your eggs in one basket.",
-      "clothes": "two-ball-tee"
+      "clothes": "two-ball-tee",
+      "favoriteColors": [
+        "blue",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Benedict",

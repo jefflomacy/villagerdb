@@ -33,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Pink is the new black.",
-      "clothes": "gumdrop-dress"
+      "clothes": "gumdrop-dress",
+      "favoriteColors": [
+        "colorful",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "active"
+      ]
     }
   },
   "name": "Flora",

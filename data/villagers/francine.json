@@ -44,7 +44,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "You can't have wise folks if you don't have fools too.",
-      "clothes": "marble-dots-dress"
+      "clothes": "marble-dots-dress",
+      "favoriteColors": [
+        "blue",
+        "black"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Francine",

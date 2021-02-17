@@ -44,7 +44,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Might makes right.",
-      "clothes": "flannel-shirt"
+      "clothes": "flannel-shirt",
+      "favoriteColors": [
+        "white",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Cobb",

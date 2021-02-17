@@ -33,7 +33,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Keep your nose clean.",
-      "clothes": "suit-of-lights"
+      "clothes": "suit-of-lights",
+      "favoriteColors": [
+        "red",
+        "black"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Olaf",

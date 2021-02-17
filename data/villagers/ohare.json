@@ -44,7 +44,15 @@
       "hobby": "Nature",
       "subtype": "B",
       "quote": "It's not old; it's vintage.",
-      "clothes": "pineapple-aloha-shirt"
+      "clothes": "pineapple-aloha-shirt",
+      "favoriteColors": [
+        "blue",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cool"
+      ]
     }
   },
   "name": "O'Hare",

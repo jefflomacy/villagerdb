@@ -57,7 +57,14 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Always go for the burn!",
-      "clothes": "bone-tee"
+      "clothes": "bone-tee",
+      "favoriteColors": [
+        "aqua",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Antonio",

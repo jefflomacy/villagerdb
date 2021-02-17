@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Candy makes the world go 'round.",
-      "clothes": "aran-knit-sweater"
+      "clothes": "aran-knit-sweater",
+      "favoriteColors": [
+        "white",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Bluebear",

@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Imitation is the sincerest form of flattery.",
-      "clothes": "biker-jacket"
+      "clothes": "biker-jacket",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Eugene",

@@ -51,7 +51,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "A Bell saved is a Bell earned.",
-      "clothes": "mvp-tee"
+      "clothes": "mvp-tee",
+      "favoriteColors": [
+        "blue",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cool"
+      ]
     }
   },
   "name": "Curt",

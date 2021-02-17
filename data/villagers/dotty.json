@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "It's always a good hare day.",
-      "clothes": "sleeveless-tunic"
+      "clothes": "sleeveless-tunic",
+      "favoriteColors": [
+        "blue",
+        "black"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Dotty",

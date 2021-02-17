@@ -57,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Look behind you.",
-      "clothes": "five-ball-tee"
+      "clothes": "five-ball-tee",
+      "favoriteColors": [
+        "orange",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cool"
+      ]
     }
   },
   "name": "Peewee",

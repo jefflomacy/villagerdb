@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Seize the day.",
-      "clothes": "puffy-vest"
+      "clothes": "puffy-vest",
+      "favoriteColors": [
+        "aqua",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Marshal",

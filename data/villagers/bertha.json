@@ -44,7 +44,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "The best part of spring is the picnics!",
-      "clothes": "pintuck-pleated-dress"
+      "clothes": "pintuck-pleated-dress",
+      "favoriteColors": [
+        "pink",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Bertha",

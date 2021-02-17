@@ -33,7 +33,15 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "Birds of a feather, et cetera, et cetera...",
-      "clothes": "athletic-jacket"
+      "clothes": "athletic-jacket",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cool"
+      ]
     }
   },
   "name": "Lucha",

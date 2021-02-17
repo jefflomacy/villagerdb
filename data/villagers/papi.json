@@ -33,7 +33,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Never say neigh.",
-      "clothes": "colorful-striped-sweater"
+      "clothes": "colorful-striped-sweater",
+      "favoriteColors": [
+        "orange",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Papi",

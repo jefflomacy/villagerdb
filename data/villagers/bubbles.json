@@ -44,7 +44,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "It's best to keep your lips and purse sealed.",
-      "clothes": "grape-dress"
+      "clothes": "grape-dress",
+      "favoriteColors": [
+        "purple",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cute"
+      ]
     }
   },
   "name": "Bubbles",

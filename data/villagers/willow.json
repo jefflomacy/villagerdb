@@ -44,7 +44,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "You can't fight your genes.",
-      "clothes": "pom-pom-sweater"
+      "clothes": "pom-pom-sweater",
+      "favoriteColors": [
+        "white",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "gorgeous"
+      ]
     }
   },
   "name": "Willow",

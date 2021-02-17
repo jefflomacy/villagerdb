@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Time spent with friends is time well spent.",
-      "clothes": "silk-floral-print-shirt"
+      "clothes": "silk-floral-print-shirt",
+      "favoriteColors": [
+        "red",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Pinky",

@@ -44,7 +44,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Strength lies in muscles.",
-      "clothes": "jester-costume"
+      "clothes": "jester-costume",
+      "favoriteColors": [
+        "colorful",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "active"
+      ]
     }
   },
   "name": "Boots",

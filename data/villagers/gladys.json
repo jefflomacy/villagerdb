@@ -51,7 +51,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Smiles are free.",
-      "clothes": "misty-tee"
+      "clothes": "misty-tee",
+      "favoriteColors": [
+        "green",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cute"
+      ]
     }
   },
   "name": "Gladys",

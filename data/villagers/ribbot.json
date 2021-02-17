@@ -53,7 +53,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Never rest, never rust.",
-      "clothes": "simple-parka"
+      "clothes": "simple-parka",
+      "favoriteColors": [
+        "blue",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Ribbot",

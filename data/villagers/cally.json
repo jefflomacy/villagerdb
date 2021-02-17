@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "B",
       "quote": "It's always teatime somewhere.",
-      "clothes": "fairy-tale-dress"
+      "clothes": "fairy-tale-dress",
+      "favoriteColors": [
+        "red",
+        "green"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Cally",

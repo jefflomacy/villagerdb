@@ -33,7 +33,15 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "You can't keep a good bird down.",
-      "clothes": "front-tie-tee"
+      "clothes": "front-tie-tee",
+      "favoriteColors": [
+        "black",
+        "red"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cool"
+      ]
     }
   },
   "name": "Phoebe",

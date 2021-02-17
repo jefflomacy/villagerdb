@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Squeak your mind, even if your voice shakes.",
-      "clothes": "flower-sweater"
+      "clothes": "flower-sweater",
+      "favoriteColors": [
+        "red",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cute"
+      ]
     }
   },
   "name": "Flurry",

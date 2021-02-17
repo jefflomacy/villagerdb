@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Purple is the color of royalty.",
-      "clothes": "striped-shirt"
+      "clothes": "striped-shirt",
+      "favoriteColors": [
+        "blue",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Mallary",

@@ -57,7 +57,14 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Nothing ventured, nothing gained.",
-      "clothes": "argyle-sweater"
+      "clothes": "argyle-sweater",
+      "favoriteColors": [
+        "brown",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Kiki",

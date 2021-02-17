@@ -43,7 +43,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Keep your crumbs out of the bed.",
-      "clothes": "bold-muumuu"
+      "clothes": "bold-muumuu",
+      "favoriteColors": [
+        "aqua",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Plucky",

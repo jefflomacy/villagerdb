@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "However little you think of an elephant, you can't say it won't fill a pot.",
-      "clothes": "front-tie-tee"
+      "clothes": "front-tie-tee",
+      "favoriteColors": [
+        "black",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Opal",

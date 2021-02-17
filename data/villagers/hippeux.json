@@ -33,7 +33,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Mottoes are for the unoriginal.",
-      "clothes": "emblem-blazer"
+      "clothes": "emblem-blazer",
+      "favoriteColors": [
+        "brown",
+        "green"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Hippeux",

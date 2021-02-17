@@ -43,7 +43,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "The walls have ears.",
-      "clothes": "colorful-striped-sweater"
+      "clothes": "colorful-striped-sweater",
+      "favoriteColors": [
+        "red",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Anicotti",

@@ -33,7 +33,15 @@
       "hobby": "Fashion",
       "subtype": "A",
       "quote": "Moo like there's no tomorrow.",
-      "clothes": "marble-print-dress"
+      "clothes": "marble-print-dress",
+      "favoriteColors": [
+        "colorful",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Naomi",

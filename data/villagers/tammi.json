@@ -46,7 +46,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Always be down to monkey around!",
-      "clothes": "silk-floral-print-shirt"
+      "clothes": "silk-floral-print-shirt",
+      "favoriteColors": [
+        "purple",
+        "green"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "active"
+      ]
     }
   },
   "name": "Tammi",

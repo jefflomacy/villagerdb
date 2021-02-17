@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Beauty is in the eye of the beholder.",
-      "clothes": "aran-knit-sweater"
+      "clothes": "aran-knit-sweater",
+      "favoriteColors": [
+        "orange",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "elegant"
+      ]
     }
   },
   "name": "Yuka",

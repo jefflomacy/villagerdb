@@ -38,7 +38,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Onwards and upwards!",
-      "clothes": "peacoat-and-skirt-combo"
+      "clothes": "peacoat-and-skirt-combo",
+      "favoriteColors": [
+        "gray",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Vivian",

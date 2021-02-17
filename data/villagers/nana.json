@@ -46,7 +46,14 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Bread always falls peanut-butter side down.",
-      "clothes": "pom-pom-sweater"
+      "clothes": "pom-pom-sweater",
+      "favoriteColors": [
+        "pink",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Nana",

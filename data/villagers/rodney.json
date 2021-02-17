@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Everything is temporary.",
-      "clothes": "striped-tank"
+      "clothes": "striped-tank",
+      "favoriteColors": [
+        "pink",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cool"
+      ]
     }
   },
   "name": "Rodney",

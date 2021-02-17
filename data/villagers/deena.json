@@ -57,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Duck...duck...GOOSE!",
-      "clothes": "overall-dress"
+      "clothes": "overall-dress",
+      "favoriteColors": [
+        "colorful",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Deena",

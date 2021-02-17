@@ -33,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "The proof of the pudding is in the eating.",
-      "clothes": "earbuds-combo"
+      "clothes": "earbuds-combo",
+      "favoriteColors": [
+        "green",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Sparro",

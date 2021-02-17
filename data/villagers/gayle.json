@@ -33,7 +33,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "An ounce of prevention is worth a pound of cure.",
-      "clothes": "lace-up-dress"
+      "clothes": "lace-up-dress",
+      "favoriteColors": [
+        "pink",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Gayle",

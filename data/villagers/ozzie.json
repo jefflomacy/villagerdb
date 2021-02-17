@@ -44,7 +44,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Half a loaf is better than none.",
-      "clothes": "energetic-sweater"
+      "clothes": "energetic-sweater",
+      "favoriteColors": [
+        "yellow",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Ozzie",

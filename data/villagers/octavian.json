@@ -57,7 +57,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Don't be a sucker!",
-      "clothes": "gold-print-tee"
+      "clothes": "gold-print-tee",
+      "favoriteColors": [
+        "black",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Octavian",

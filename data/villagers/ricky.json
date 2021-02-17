@@ -44,7 +44,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "You gotta break a few shells to get to the nut.",
-      "clothes": "three-ball-tee"
+      "clothes": "three-ball-tee",
+      "favoriteColors": [
+        "blue",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Ricky",

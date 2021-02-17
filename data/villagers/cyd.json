@@ -10,7 +10,15 @@
       "hobby": "Music",
       "subtype": "A",
       "song": "K.K. Metal",
-      "clothes": "dragon-jacket"
+      "clothes": "dragon-jacket",
+      "favoriteColors": [
+        "black",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "active"
+      ]
     }
   },
   "name": "Cyd",

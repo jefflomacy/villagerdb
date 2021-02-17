@@ -50,7 +50,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "There is a point to every encounter.",
-      "clothes": "aran-knit-cardigan"
+      "clothes": "aran-knit-cardigan",
+      "favoriteColors": [
+        "beige",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Eunice",

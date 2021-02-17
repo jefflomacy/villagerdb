@@ -46,7 +46,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Better a live coward than a forgotten hero.",
-      "clothes": "royal-shirt"
+      "clothes": "royal-shirt",
+      "favoriteColors": [
+        "red",
+        "black"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Elvis",

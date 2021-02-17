@@ -57,7 +57,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Keep it real. Real chill.",
-      "clothes": "camo-tee"
+      "clothes": "camo-tee",
+      "favoriteColors": [
+        "beige",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Hugh",

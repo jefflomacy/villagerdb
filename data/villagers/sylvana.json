@@ -38,7 +38,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Remember to see the forest between the trees.",
-      "clothes": "kiwi-dress"
+      "clothes": "kiwi-dress",
+      "favoriteColors": [
+        "green",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Sylvana",

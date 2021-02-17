@@ -57,7 +57,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Happiness is a rainy day!",
-      "clothes": "parka-dress"
+      "clothes": "parka-dress",
+      "favoriteColors": [
+        "pink",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Pompom",

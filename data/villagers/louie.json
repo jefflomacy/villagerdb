@@ -40,7 +40,15 @@
       "subtype": "A",
       "song": "K.K. Fusion",
       "quote": "It's all about the muscle.",
-      "clothes": "muscle-tank"
+      "clothes": "muscle-tank",
+      "favoriteColors": [
+        "gray",
+        "red"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Louie",

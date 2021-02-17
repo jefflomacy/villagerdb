@@ -44,7 +44,14 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "A fool and their Bells are soon parted.",
-      "clothes": "marble-dots-dress"
+      "clothes": "marble-dots-dress",
+      "favoriteColors": [
+        "pink",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Chrissy",

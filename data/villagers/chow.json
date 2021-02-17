@@ -57,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "All good things must come to an end.",
-      "clothes": "gold-print-tee"
+      "clothes": "gold-print-tee",
+      "favoriteColors": [
+        "black",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Chow",

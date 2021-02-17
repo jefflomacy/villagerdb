@@ -44,7 +44,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Take a leap!",
-      "clothes": "one-ball-tee"
+      "clothes": "one-ball-tee",
+      "favoriteColors": [
+        "yellow",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Tad",

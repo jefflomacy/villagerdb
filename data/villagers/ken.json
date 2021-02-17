@@ -33,7 +33,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "C'est la vie!",
-      "clothes": "ninja-costume"
+      "clothes": "ninja-costume",
+      "favoriteColors": [
+        "purple",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Ken",

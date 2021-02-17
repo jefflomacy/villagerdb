@@ -56,7 +56,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Waste not, want not.",
-      "clothes": "tree-sweater"
+      "clothes": "tree-sweater",
+      "favoriteColors": [
+        "beige",
+        "green"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Maple",

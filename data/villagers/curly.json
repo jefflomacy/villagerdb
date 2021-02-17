@@ -57,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Get fired up!",
-      "clothes": "energetic-sweater"
+      "clothes": "energetic-sweater",
+      "favoriteColors": [
+        "yellow",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Curly",

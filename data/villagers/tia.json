@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Tea is a cup of life.",
-      "clothes": "maid-dress"
+      "clothes": "maid-dress",
+      "favoriteColors": [
+        "black",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Tia",

@@ -33,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "You reap what you sow.",
-      "clothes": "striped-halter-dress"
+      "clothes": "striped-halter-dress",
+      "favoriteColors": [
+        "pink",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Agnes",

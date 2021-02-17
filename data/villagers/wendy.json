@@ -39,7 +39,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Every cloud has a silver lining.",
-      "clothes": "watermelon-dress"
+      "clothes": "watermelon-dress",
+      "favoriteColors": [
+        "red",
+        "green"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Wendy",

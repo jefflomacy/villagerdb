@@ -50,7 +50,14 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "It takes more muscles to frown than smile.",
-      "clothes": "shell-dress"
+      "clothes": "shell-dress",
+      "favoriteColors": [
+        "brown",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "cool"
+      ]
     }
   },
   "name": "Jambette",

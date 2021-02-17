@@ -57,7 +57,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "There's an exception to every rule.",
-      "clothes": "sweetheart-dress"
+      "clothes": "sweetheart-dress",
+      "favoriteColors": [
+        "white",
+        "black"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "elegant"
+      ]
     }
   },
   "name": "Olivia",

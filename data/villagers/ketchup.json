@@ -38,7 +38,14 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "When in doubt, eat a tomato!",
-      "clothes": "lacy-dress"
+      "clothes": "lacy-dress",
+      "favoriteColors": [
+        "aqua",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Ketchup",

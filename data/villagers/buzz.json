@@ -44,7 +44,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Pride'll put you in a pickle.",
-      "clothes": "nine-ball-tee"
+      "clothes": "nine-ball-tee",
+      "favoriteColors": [
+        "yellow",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Buzz",

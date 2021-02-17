@@ -57,7 +57,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Always have a comeback.",
-      "clothes": "dragon-suit"
+      "clothes": "dragon-suit",
+      "favoriteColors": [
+        "yellow",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Hopper",

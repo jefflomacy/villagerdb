@@ -44,7 +44,15 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "Cold coffee makes for a cold demeanor.",
-      "clothes": "striped-tank"
+      "clothes": "striped-tank",
+      "favoriteColors": [
+        "green",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Huck",

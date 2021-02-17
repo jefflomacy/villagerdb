@@ -57,7 +57,14 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Even though there's no 'I' in team, there is a 'me'!",
-      "clothes": "basketball-tank"
+      "clothes": "basketball-tank",
+      "favoriteColors": [
+        "blue",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "active"
+      ]
     }
   },
   "name": "Bill",

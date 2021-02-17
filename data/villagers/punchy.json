@@ -57,7 +57,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "There's always more fish in the sea!",
-      "clothes": "madras-plaid-shirt"
+      "clothes": "madras-plaid-shirt",
+      "favoriteColors": [
+        "blue",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Punchy",

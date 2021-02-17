@@ -44,7 +44,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Strike while the iron is hot.",
-      "clothes": "jumper-work-suit"
+      "clothes": "jumper-work-suit",
+      "favoriteColors": [
+        "orange",
+        "green"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Sprocket",

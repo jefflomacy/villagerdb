@@ -56,7 +56,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Funny parents have funny kids.",
-      "clothes": "striped-halter-dress"
+      "clothes": "striped-halter-dress",
+      "favoriteColors": [
+        "purple",
+        "red"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "simple"
+      ]
     }
   },
   "name": "Kitt",

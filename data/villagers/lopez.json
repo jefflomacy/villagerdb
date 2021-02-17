@@ -33,7 +33,14 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Always look both ways before crossing the street.",
-      "clothes": "chimayo-vest"
+      "clothes": "chimayo-vest",
+      "favoriteColors": [
+        "gray",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "gorgeous"
+      ]
     }
   },
   "name": "Lopez",

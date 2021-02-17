@@ -44,7 +44,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "The bigger the fish, the bigger your dinner.",
-      "clothes": "tennis-sweater"
+      "clothes": "tennis-sweater",
+      "favoriteColors": [
+        "purple",
+        "green"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Leopold",

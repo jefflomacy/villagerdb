@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Little pitchers have big ears.",
-      "clothes": "orange-dress"
+      "clothes": "orange-dress",
+      "favoriteColors": [
+        "orange",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Cole",

@@ -50,7 +50,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Even the best of friends start out as strangers.",
-      "clothes": "heart-sweater"
+      "clothes": "heart-sweater",
+      "favoriteColors": [
+        "pink",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Tutu",

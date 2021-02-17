@@ -44,7 +44,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Don't judge a rabbit by its ears.",
-      "clothes": "marble-dots-tee"
+      "clothes": "marble-dots-tee",
+      "favoriteColors": [
+        "black",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Claude",

@@ -50,7 +50,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Catch more flies with honey than vinegar.",
-      "clothes": "striped-shirt"
+      "clothes": "striped-shirt",
+      "favoriteColors": [
+        "yellow",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Prince",

@@ -39,7 +39,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "No time like the present!",
-      "clothes": "chefs-outfit"
+      "clothes": "chefs-outfit",
+      "favoriteColors": [
+        "white",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Bettina",

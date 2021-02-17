@@ -56,7 +56,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Sometimes you gotta learn to chill.",
-      "clothes": "simple-dots-tee"
+      "clothes": "simple-dots-tee",
+      "favoriteColors": [
+        "yellow",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Cube",

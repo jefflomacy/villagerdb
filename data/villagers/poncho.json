@@ -57,7 +57,14 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Fortune favors the brave!",
-      "clothes": "energetic-sweater"
+      "clothes": "energetic-sweater",
+      "favoriteColors": [
+        "orange",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Poncho",

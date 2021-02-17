@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Always keep a straight face.",
-      "clothes": "folk-shirt"
+      "clothes": "folk-shirt",
+      "favoriteColors": [
+        "red",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Flo",

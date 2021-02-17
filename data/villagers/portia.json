@@ -56,7 +56,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Charity begins at home.",
-      "clothes": "rad-power-skirt-suit"
+      "clothes": "rad-power-skirt-suit",
+      "favoriteColors": [
+        "purple",
+        "black"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Portia",

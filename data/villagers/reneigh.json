@@ -10,7 +10,15 @@
       "hobby": "Play",
       "subtype": "A",
       "song": "K.K. Synth",
-      "clothes": "zigzag-print-dress"
+      "clothes": "zigzag-print-dress",
+      "favoriteColors": [
+        "black",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Reneigh",

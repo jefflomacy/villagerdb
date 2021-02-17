@@ -57,7 +57,14 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Practice makes purrrfect!",
-      "clothes": "gumdrop-dress"
+      "clothes": "gumdrop-dress",
+      "favoriteColors": [
+        "brown",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Mitzi",

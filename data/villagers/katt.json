@@ -33,7 +33,14 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "MeowMEOWmeow!",
-      "clothes": "old-school-jacket"
+      "clothes": "old-school-jacket",
+      "favoriteColors": [
+        "purple",
+        "black"
+      ],
+      "favoriteStyles": [
+        "cool"
+      ]
     }
   },
   "name": "Katt",

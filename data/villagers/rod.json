@@ -51,7 +51,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "If you can't beat 'em, work harder.",
-      "clothes": "striped-tank"
+      "clothes": "striped-tank",
+      "favoriteColors": [
+        "blue",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cool"
+      ]
     }
   },
   "name": "Rod",

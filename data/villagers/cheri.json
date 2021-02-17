@@ -43,7 +43,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Good things come in small packages.",
-      "clothes": "zigzag-print-dress"
+      "clothes": "zigzag-print-dress",
+      "favoriteColors": [
+        "yellow",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Cheri",

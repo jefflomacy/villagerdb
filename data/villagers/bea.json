@@ -44,7 +44,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "The perfect pair complements each other.",
-      "clothes": "striped-maxi-dress"
+      "clothes": "striped-maxi-dress",
+      "favoriteColors": [
+        "aqua",
+        "green"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Bea",

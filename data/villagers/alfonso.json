@@ -57,7 +57,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Slow and steady wins the race.",
-      "clothes": "simple-parka"
+      "clothes": "simple-parka",
+      "favoriteColors": [
+        "red",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Alfonso",

@@ -44,7 +44,14 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Laughter is the best medicine.",
-      "clothes": "snowy-sweater"
+      "clothes": "snowy-sweater",
+      "favoriteColors": [
+        "gray",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Lolly",

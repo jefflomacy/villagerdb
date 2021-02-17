@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Like water off a duck's back.",
-      "clothes": "pintuck-pleated-dress"
+      "clothes": "pintuck-pleated-dress",
+      "favoriteColors": [
+        "yellow",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Molly",

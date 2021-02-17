@@ -46,7 +46,14 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "A friend who shares is a friend who cares.",
-      "clothes": "plaid-print-dress"
+      "clothes": "plaid-print-dress",
+      "favoriteColors": [
+        "white",
+        "green"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Melba",

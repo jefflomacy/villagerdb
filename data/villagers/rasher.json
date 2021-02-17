@@ -56,7 +56,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Don't judge a book by its cover.",
-      "clothes": "pineapple-aloha-shirt"
+      "clothes": "pineapple-aloha-shirt",
+      "favoriteColors": [
+        "blue",
+        "black"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Rasher",

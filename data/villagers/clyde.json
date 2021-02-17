@@ -39,7 +39,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "The grass is always greener.",
-      "clothes": "madras-plaid-shirt"
+      "clothes": "madras-plaid-shirt",
+      "favoriteColors": [
+        "green",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Clyde",

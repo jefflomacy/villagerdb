@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Before you judge someone, walk a mile in their hooves.",
-      "clothes": "rainbow-sweater"
+      "clothes": "rainbow-sweater",
+      "favoriteColors": [
+        "red",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "elegant"
+      ]
     }
   },
   "name": "Pashmina",

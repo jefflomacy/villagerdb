@@ -50,7 +50,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "A bad attitude will land you in the penalty box.",
-      "clothes": "ice-hockey-uniform"
+      "clothes": "ice-hockey-uniform",
+      "favoriteColors": [
+        "blue",
+        "red"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Puck",

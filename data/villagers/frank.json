@@ -38,7 +38,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Today is the last day of the rest of your life.",
-      "clothes": "letter-jacket"
+      "clothes": "letter-jacket",
+      "favoriteColors": [
+        "brown",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cool"
+      ]
     }
   },
   "name": "Frank",

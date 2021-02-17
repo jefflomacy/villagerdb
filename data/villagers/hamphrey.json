@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Children should be seen and not heard.",
-      "clothes": "fuzzy-vest"
+      "clothes": "fuzzy-vest",
+      "favoriteColors": [
+        "gray",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Hamphrey",

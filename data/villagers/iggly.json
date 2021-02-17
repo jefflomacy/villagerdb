@@ -39,7 +39,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Six of one, half dozen of the other.",
-      "clothes": "rugby-uniform"
+      "clothes": "rugby-uniform",
+      "favoriteColors": [
+        "red",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Iggly",

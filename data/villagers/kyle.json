@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Never trust a sheep in wolf's clothing.",
-      "clothes": "gilet-and-shirt"
+      "clothes": "gilet-and-shirt",
+      "favoriteColors": [
+        "black",
+        "white"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cool"
+      ]
     }
   },
   "name": "Kyle",

@@ -44,7 +44,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Let gossip go in one ear and out the other.",
-      "clothes": "bold-muumuu"
+      "clothes": "bold-muumuu",
+      "favoriteColors": [
+        "blue",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "active"
+      ]
     }
   },
   "name": "Annalise",

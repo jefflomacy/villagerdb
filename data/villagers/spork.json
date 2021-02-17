@@ -50,7 +50,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "It's never too late for a snack.",
-      "clothes": "layered-shirt"
+      "clothes": "layered-shirt",
+      "favoriteColors": [
+        "green",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Spork",

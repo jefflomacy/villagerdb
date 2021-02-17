@@ -39,7 +39,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Sleep early. Wake late.",
-      "clothes": "dragon-suit"
+      "clothes": "dragon-suit",
+      "favoriteColors": [
+        "yellow",
+        "green"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Chester",

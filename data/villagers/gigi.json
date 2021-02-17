@@ -39,7 +39,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Look at the world through rose-colored glasses.",
-      "clothes": "full-length-dress-with-pearls"
+      "clothes": "full-length-dress-with-pearls",
+      "favoriteColors": [
+        "black",
+        "white"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Gigi",

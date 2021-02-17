@@ -56,7 +56,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Don't put off till tomorrow what you can do today.",
-      "clothes": "layered-tank-dress"
+      "clothes": "layered-tank-dress",
+      "favoriteColors": [
+        "beige",
+        "green"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Coco",

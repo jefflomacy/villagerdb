@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "All publicity is good publicity!",
-      "clothes": "flapper-dress"
+      "clothes": "flapper-dress",
+      "favoriteColors": [
+        "purple",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Monique",

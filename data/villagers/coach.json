@@ -33,7 +33,14 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "Fool me once, shame on you. Fool me twice, shame on me.",
-      "clothes": "relay-tank"
+      "clothes": "relay-tank",
+      "favoriteColors": [
+        "blue",
+        "red"
+      ],
+      "favoriteStyles": [
+        "active"
+      ]
     }
   },
   "name": "Coach",

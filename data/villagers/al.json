@@ -39,7 +39,14 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Life is a buffet. Always go back for seconds.",
-      "clothes": "athletic-jacket"
+      "clothes": "athletic-jacket",
+      "favoriteColors": [
+        "red",
+        "white"
+      ],
+      "favoriteStyles": [
+        "active"
+      ]
     }
   },
   "name": "Al",

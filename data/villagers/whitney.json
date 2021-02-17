@@ -46,7 +46,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Don't cry wolf unless you mean it.",
-      "clothes": "sleeveless-shirtdress"
+      "clothes": "sleeveless-shirtdress",
+      "favoriteColors": [
+        "blue",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Whitney",

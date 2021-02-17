@@ -57,7 +57,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Keep it mellow.",
-      "clothes": "bone-tee"
+      "clothes": "bone-tee",
+      "favoriteColors": [
+        "yellow",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Dizzy",

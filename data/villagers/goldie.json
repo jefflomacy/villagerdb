@@ -56,7 +56,15 @@
       "hobby": "Nature",
       "subtype": "B",
       "quote": "A little bit of happiness is better than a lot of anguish.",
-      "clothes": "tweed-dress"
+      "clothes": "tweed-dress",
+      "favoriteColors": [
+        "yellow",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Goldie",

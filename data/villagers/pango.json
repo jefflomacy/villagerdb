@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "A thing of beauty is a joy forever.",
-      "clothes": "oversized-print-dress"
+      "clothes": "oversized-print-dress",
+      "favoriteColors": [
+        "orange",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Pango",

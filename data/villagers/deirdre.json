@@ -33,7 +33,14 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Legs of an antelope, heart of an eagle.",
-      "clothes": "flower-sweater"
+      "clothes": "flower-sweater",
+      "favoriteColors": [
+        "orange",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Deirdre",

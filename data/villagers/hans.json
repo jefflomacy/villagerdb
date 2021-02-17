@@ -33,7 +33,15 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "One good turn deserves another.",
-      "clothes": "down-ski-jacket"
+      "clothes": "down-ski-jacket",
+      "favoriteColors": [
+        "gray",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Hans",

@@ -33,7 +33,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Sometimes you have to lose to win.",
-      "clothes": "mysterious-dress"
+      "clothes": "mysterious-dress",
+      "favoriteColors": [
+        "purple",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Diana",

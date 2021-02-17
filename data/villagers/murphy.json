@@ -43,7 +43,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "More money, more problems.",
-      "clothes": "puffy-vest"
+      "clothes": "puffy-vest",
+      "favoriteColors": [
+        "blue",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Murphy",

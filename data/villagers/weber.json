@@ -43,7 +43,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Today's adults are yesterday's children.",
-      "clothes": "striped-shirt"
+      "clothes": "striped-shirt",
+      "favoriteColors": [
+        "blue",
+        "black"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Weber",

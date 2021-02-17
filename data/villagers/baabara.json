@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Don't just follow the flock.",
-      "clothes": "zigzag-print-dress"
+      "clothes": "zigzag-print-dress",
+      "favoriteColors": [
+        "purple",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Baabara",

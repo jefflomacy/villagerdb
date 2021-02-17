@@ -45,7 +45,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Don't look down your nose at people!",
-      "clothes": "ruffled-dress"
+      "clothes": "ruffled-dress",
+      "favoriteColors": [
+        "purple",
+        "black"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Rhonda",

@@ -33,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "The best defense is a good offense.",
-      "clothes": "raglan-shirt"
+      "clothes": "raglan-shirt",
+      "favoriteColors": [
+        "beige",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Peck",

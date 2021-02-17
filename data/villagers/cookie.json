@@ -50,7 +50,14 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Don't lose sight of what you're really after.",
-      "clothes": "retro-dress"
+      "clothes": "retro-dress",
+      "favoriteColors": [
+        "green",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Cookie",

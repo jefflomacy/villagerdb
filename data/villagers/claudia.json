@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "A tiger can't change its stripes.",
-      "clothes": "lacy-dress"
+      "clothes": "lacy-dress",
+      "favoriteColors": [
+        "purple",
+        "white"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Claudia",

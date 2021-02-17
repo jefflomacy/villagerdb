@@ -33,7 +33,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "If you're afraid of wolves, don't go to the woods.",
-      "clothes": "yodel-sweater"
+      "clothes": "yodel-sweater",
+      "favoriteColors": [
+        "beige",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Erik",

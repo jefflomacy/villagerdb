@@ -46,7 +46,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "...Quack.",
-      "clothes": "yodel-sweater"
+      "clothes": "yodel-sweater",
+      "favoriteColors": [
+        "brown",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Drake",

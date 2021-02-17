@@ -44,7 +44,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Sticky fingers attract bees.",
-      "clothes": "plover-dress"
+      "clothes": "plover-dress",
+      "favoriteColors": [
+        "brown",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Olive",

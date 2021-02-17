@@ -46,7 +46,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Zzzzzzzzzzzzzzzzz...",
-      "clothes": "graduation-gown"
+      "clothes": "graduation-gown",
+      "favoriteColors": [
+        "black",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Rodeo",

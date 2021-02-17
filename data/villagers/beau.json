@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "You snooze, you lose.",
-      "clothes": "reindeer-sweater"
+      "clothes": "reindeer-sweater",
+      "favoriteColors": [
+        "beige",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Beau",

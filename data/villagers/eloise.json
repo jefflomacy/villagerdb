@@ -55,7 +55,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "An elephant never forgets.",
-      "clothes": "zigzag-print-dress"
+      "clothes": "zigzag-print-dress",
+      "favoriteColors": [
+        "green",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "simple"
+      ]
     }
   },
   "name": "Eloise",

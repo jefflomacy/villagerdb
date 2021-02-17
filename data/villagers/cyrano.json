@@ -57,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Don't punch your nose to spite your face.",
-      "clothes": "judogi"
+      "clothes": "judogi",
+      "favoriteColors": [
+        "yellow",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "active"
+      ]
     }
   },
   "name": "Cyrano",

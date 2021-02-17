@@ -31,7 +31,15 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "There's no such thing as a safe secret.",
-      "clothes": "collarless-coat"
+      "clothes": "collarless-coat",
+      "favoriteColors": [
+        "beige",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Tasha",

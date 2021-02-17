@@ -46,7 +46,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "New brooms sweep clean.",
-      "clothes": "striped-maxi-dress"
+      "clothes": "striped-maxi-dress",
+      "favoriteColors": [
+        "colorful",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "gorgeous"
+      ]
     }
   },
   "name": "Caroline",

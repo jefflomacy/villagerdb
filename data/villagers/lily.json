@@ -57,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Don't jump to conclusions!",
-      "clothes": "tropical-muumuu"
+      "clothes": "tropical-muumuu",
+      "favoriteColors": [
+        "white",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Lily",

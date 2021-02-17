@@ -33,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "If a job is worth doing, do it right!",
-      "clothes": "hawk-jacket"
+      "clothes": "hawk-jacket",
+      "favoriteColors": [
+        "red",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "active"
+      ]
     }
   },
   "name": "Tammy",

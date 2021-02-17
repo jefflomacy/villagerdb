@@ -57,7 +57,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "You can never have too much of a good thing!",
-      "clothes": "tee-dress"
+      "clothes": "tee-dress",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cool"
+      ]
     }
   },
   "name": "Tabby",

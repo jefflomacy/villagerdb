@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Practice makes perfect.",
-      "clothes": "layered-tank-dress"
+      "clothes": "layered-tank-dress",
+      "favoriteColors": [
+        "orange",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Blaire",

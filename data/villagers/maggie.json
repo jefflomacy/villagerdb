@@ -38,7 +38,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "All a plant needs is love...and sun and water and soil.",
-      "clothes": "pintuck-pleated-dress"
+      "clothes": "pintuck-pleated-dress",
+      "favoriteColors": [
+        "green",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Maggie",

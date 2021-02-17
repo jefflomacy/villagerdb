@@ -57,7 +57,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "The horse doesn't pull the cart, the oats do.",
-      "clothes": "boa-fleece"
+      "clothes": "boa-fleece",
+      "favoriteColors": [
+        "blue",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Elmer",

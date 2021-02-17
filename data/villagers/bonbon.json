@@ -33,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Hindsight is always 20/20.",
-      "clothes": "sleeveless-tunic"
+      "clothes": "sleeveless-tunic",
+      "favoriteColors": [
+        "aqua",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Bonbon",

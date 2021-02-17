@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Nothing beats personal experience.",
-      "clothes": "butterfly-visiting-kimono"
+      "clothes": "butterfly-visiting-kimono",
+      "favoriteColors": [
+        "black",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Blanche",

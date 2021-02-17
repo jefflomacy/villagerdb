@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "A friend in need is a friend indeed!",
-      "clothes": "orange-dress"
+      "clothes": "orange-dress",
+      "favoriteColors": [
+        "orange",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Patty",

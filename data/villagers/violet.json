@@ -44,7 +44,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Pearls are a pink gorilla's best friend.",
-      "clothes": "poncho-style-sweater"
+      "clothes": "poncho-style-sweater",
+      "favoriteColors": [
+        "purple",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cool"
+      ]
     }
   },
   "name": "Violet",

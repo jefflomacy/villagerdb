@@ -56,7 +56,14 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "One good purr deserves another.",
-      "clothes": "dazed-dress"
+      "clothes": "dazed-dress",
+      "favoriteColors": [
+        "pink",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Rosie",

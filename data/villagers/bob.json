@@ -57,7 +57,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "You only live once...or nine times.",
-      "clothes": "blossom-tee"
+      "clothes": "blossom-tee",
+      "favoriteColors": [
+        "colorful",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Bob",

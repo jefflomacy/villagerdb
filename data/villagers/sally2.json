@@ -56,7 +56,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Even the smallest acorn may grow into the tallest tree.",
-      "clothes": "snowy-sweater"
+      "clothes": "snowy-sweater",
+      "favoriteColors": [
+        "white",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Sally",

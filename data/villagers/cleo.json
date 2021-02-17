@@ -44,7 +44,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "There's something lovable in all of us.",
-      "clothes": "floral-lace-dress"
+      "clothes": "floral-lace-dress",
+      "favoriteColors": [
+        "aqua",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Cleo",

@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Hard work beats talent.",
-      "clothes": "oversized-shawl-overshirt"
+      "clothes": "oversized-shawl-overshirt",
+      "favoriteColors": [
+        "beige",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Cranston",

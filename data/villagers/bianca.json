@@ -33,7 +33,14 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "There is such a thing as love at first sight.",
-      "clothes": "front-tie-button-down-shirt"
+      "clothes": "front-tie-button-down-shirt",
+      "favoriteColors": [
+        "pink",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Bianca",

@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Be the class clown.",
-      "clothes": "jester-costume"
+      "clothes": "jester-costume",
+      "favoriteColors": [
+        "colorful",
+        "red"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "simple"
+      ]
     }
   },
   "name": "Pietro",

@@ -44,7 +44,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Surround yourself with things you love.",
-      "clothes": "striped-maxi-dress"
+      "clothes": "striped-maxi-dress",
+      "favoriteColors": [
+        "red",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Ursala",

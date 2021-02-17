@@ -46,7 +46,14 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "No news is good news.",
-      "clothes": "guayabera-shirt"
+      "clothes": "guayabera-shirt",
+      "favoriteColors": [
+        "yellow",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool"
+      ]
     }
   },
   "name": "Monty",

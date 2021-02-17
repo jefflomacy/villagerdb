@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Clothes totally make the mammal.",
-      "clothes": "gilet-and-shirt"
+      "clothes": "gilet-and-shirt",
+      "favoriteColors": [
+        "purple",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Zell",

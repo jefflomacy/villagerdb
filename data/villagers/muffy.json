@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "There's a black sheep in every family.",
-      "clothes": "ruffled-dress"
+      "clothes": "ruffled-dress",
+      "favoriteColors": [
+        "black",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Muffy",

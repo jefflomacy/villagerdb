@@ -10,7 +10,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "song": "Forest Life",
-      "clothes": "dollhouse-dress"
+      "clothes": "dollhouse-dress",
+      "favoriteColors": [
+        "yellow",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Megan",

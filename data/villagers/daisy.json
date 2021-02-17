@@ -57,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "It's not always a dog-eat-dog world.",
-      "clothes": "colorful-striped-sweater"
+      "clothes": "colorful-striped-sweater",
+      "favoriteColors": [
+        "colorful",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Daisy",

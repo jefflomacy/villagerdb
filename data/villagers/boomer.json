@@ -50,7 +50,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Flying is believing.",
-      "clothes": "flight-jacket"
+      "clothes": "flight-jacket",
+      "favoriteColors": [
+        "brown",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Boomer",

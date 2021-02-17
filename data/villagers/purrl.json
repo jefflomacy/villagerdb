@@ -56,7 +56,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Let them drink cream.",
-      "clothes": "kung-fu-tee"
+      "clothes": "kung-fu-tee",
+      "favoriteColors": [
+        "gray",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "elegant"
+      ]
     }
   },
   "name": "Purrl",

@@ -38,7 +38,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Your greatest strength can be your greatest weakness.",
-      "clothes": "camo-bomber-style-jacket"
+      "clothes": "camo-bomber-style-jacket",
+      "favoriteColors": [
+        "green",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Jacob",

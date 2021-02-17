@@ -44,7 +44,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "You need the sour to highlight the sweet.",
-      "clothes": "aran-knit-sweater"
+      "clothes": "aran-knit-sweater",
+      "favoriteColors": [
+        "gray",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Ellie",

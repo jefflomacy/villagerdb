@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Even in a room full of fools, someone is the smartest.",
-      "clothes": "fuzzy-vest"
+      "clothes": "fuzzy-vest",
+      "favoriteColors": [
+        "blue",
+        "white"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cool"
+      ]
     }
   },
   "name": "Keaton",

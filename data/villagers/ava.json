@@ -44,7 +44,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Early to bed, early to rise.",
-      "clothes": "checkered-jumper-dress"
+      "clothes": "checkered-jumper-dress",
+      "favoriteColors": [
+        "red",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cute"
+      ]
     }
   },
   "name": "Ava",

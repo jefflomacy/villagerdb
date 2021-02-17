@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Make hay while the sun shines.",
-      "clothes": "princes-tunic"
+      "clothes": "princes-tunic",
+      "favoriteColors": [
+        "blue",
+        "red"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Colton",

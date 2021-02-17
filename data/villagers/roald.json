@@ -57,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "You must learn to waddle before you can swim.",
-      "clothes": "flannel-shirt"
+      "clothes": "flannel-shirt",
+      "favoriteColors": [
+        "red",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Roald",

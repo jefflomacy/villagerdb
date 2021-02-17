@@ -48,7 +48,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Trouble never comes alone.",
-      "clothes": "striped-shirt"
+      "clothes": "striped-shirt",
+      "favoriteColors": [
+        "yellow",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Vladimir",

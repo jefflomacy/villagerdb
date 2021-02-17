@@ -57,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Remember to keep your core muscles engaged!",
-      "clothes": "no-1-shirt"
+      "clothes": "no-1-shirt",
+      "favoriteColors": [
+        "red",
+        "green"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Tank",

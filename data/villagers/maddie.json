@@ -44,7 +44,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "The IT revolution is under way.",
-      "clothes": "layered-sleeveless-dress"
+      "clothes": "layered-sleeveless-dress",
+      "favoriteColors": [
+        "purple",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Maddie",

@@ -33,7 +33,15 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "Always help a friend in need.",
-      "clothes": "noble-zap-suit"
+      "clothes": "noble-zap-suit",
+      "favoriteColors": [
+        "red",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cool"
+      ]
     }
   },
   "name": "Mira",

@@ -33,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "One rotten apple spoils the barrel.",
-      "clothes": "marble-dots-tee"
+      "clothes": "marble-dots-tee",
+      "favoriteColors": [
+        "colorful",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Apple",

@@ -33,7 +33,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Don't pine for the past.",
-      "clothes": "aran-knit-sweater"
+      "clothes": "aran-knit-sweater",
+      "favoriteColors": [
+        "green",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Timbra",

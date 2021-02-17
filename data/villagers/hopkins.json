@@ -38,7 +38,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "A wise mammal gives danger a wide berth.",
-      "clothes": "striped-shirt"
+      "clothes": "striped-shirt",
+      "favoriteColors": [
+        "blue",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Hopkins",

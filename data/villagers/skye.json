@@ -33,7 +33,14 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Love makes the world go 'round.",
-      "clothes": "peasant-blouse"
+      "clothes": "peasant-blouse",
+      "favoriteColors": [
+        "blue",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Skye",

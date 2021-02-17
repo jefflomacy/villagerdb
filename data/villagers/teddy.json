@@ -57,7 +57,14 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "No pain, no gain!",
-      "clothes": "energetic-sweater"
+      "clothes": "energetic-sweater",
+      "favoriteColors": [
+        "yellow",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Teddy",

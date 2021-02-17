@@ -46,7 +46,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Do as I say, not as I do.",
-      "clothes": "elegant-dress"
+      "clothes": "elegant-dress",
+      "favoriteColors": [
+        "purple",
+        "red"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Elise",

@@ -46,7 +46,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Friends go together like peanut butter and bananas.",
-      "clothes": "striped-tank"
+      "clothes": "striped-tank",
+      "favoriteColors": [
+        "red",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Simon",

@@ -44,7 +44,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Necessity is the mother of all invention.",
-      "clothes": "frilly-dress"
+      "clothes": "frilly-dress",
+      "favoriteColors": [
+        "pink",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Bitty",

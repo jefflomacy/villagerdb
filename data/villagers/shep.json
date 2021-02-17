@@ -33,7 +33,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Even dogs won't get in the middle of true love.",
-      "clothes": "denim-vest"
+      "clothes": "denim-vest",
+      "favoriteColors": [
+        "aqua",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Shep",

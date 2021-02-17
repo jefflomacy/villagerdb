@@ -57,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Don't be afraid to show your fangs.",
-      "clothes": "flight-jacket"
+      "clothes": "flight-jacket",
+      "favoriteColors": [
+        "black",
+        "green"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "active"
+      ]
     }
   },
   "name": "Wolfgang",

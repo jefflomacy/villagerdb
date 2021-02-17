@@ -44,7 +44,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Life's short. Eat chocolate.",
-      "clothes": "desert-outfit"
+      "clothes": "desert-outfit",
+      "favoriteColors": [
+        "purple",
+        "black"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Boris",

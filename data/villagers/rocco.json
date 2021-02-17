@@ -57,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "The only thing to fear is fear itself... and wasps!",
-      "clothes": "danger-tank"
+      "clothes": "danger-tank",
+      "favoriteColors": [
+        "yellow",
+        "black"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Rocco",

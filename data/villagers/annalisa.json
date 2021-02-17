@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Home is where the heart is.",
-      "clothes": "blossoming-kimono"
+      "clothes": "blossoming-kimono",
+      "favoriteColors": [
+        "red",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Annalisa",

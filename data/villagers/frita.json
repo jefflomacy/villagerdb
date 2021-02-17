@@ -33,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Don't sweat the small potatoes.",
-      "clothes": "hot-dog-costume"
+      "clothes": "hot-dog-costume",
+      "favoriteColors": [
+        "yellow",
+        "red"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cute"
+      ]
     }
   },
   "name": "Frita",

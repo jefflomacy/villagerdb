@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "A duck won't bite you.",
-      "clothes": "sunflower-dress"
+      "clothes": "sunflower-dress",
+      "favoriteColors": [
+        "yellow",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Pate",

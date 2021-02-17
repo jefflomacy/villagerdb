@@ -56,7 +56,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Always go for the gold!",
-      "clothes": "six-ball-tee"
+      "clothes": "six-ball-tee",
+      "favoriteColors": [
+        "orange",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Drift",

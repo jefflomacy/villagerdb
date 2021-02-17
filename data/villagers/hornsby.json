@@ -44,7 +44,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "You can't hit a mosquito with a horseshoe.",
-      "clothes": "argyle-sweater"
+      "clothes": "argyle-sweater",
+      "favoriteColors": [
+        "green",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Hornsby",

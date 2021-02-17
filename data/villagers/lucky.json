@@ -57,7 +57,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Don't bite the hand that feeds you.",
-      "clothes": "open-collar-shirt"
+      "clothes": "open-collar-shirt",
+      "favoriteColors": [
+        "beige",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Lucky",

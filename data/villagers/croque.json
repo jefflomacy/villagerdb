@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Where there's smoke, there's fire.",
-      "clothes": "silk-shirt"
+      "clothes": "silk-shirt",
+      "favoriteColors": [
+        "red",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Croque",

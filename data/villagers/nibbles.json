@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Appearances are, like, totally deceiving.",
-      "clothes": "watermelon-dress"
+      "clothes": "watermelon-dress",
+      "favoriteColors": [
+        "red",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "active"
+      ]
     }
   },
   "name": "Nibbles",

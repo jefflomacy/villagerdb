@@ -56,7 +56,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Always keep your cool.",
-      "clothes": "plover-cardigan"
+      "clothes": "plover-cardigan",
+      "favoriteColors": [
+        "pink",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Aurora",

@@ -33,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Sometimes it's OK to get dirty.",
-      "clothes": "after-school-jacket"
+      "clothes": "after-school-jacket",
+      "favoriteColors": [
+        "black",
+        "red"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Kevin",

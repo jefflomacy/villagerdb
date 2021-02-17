@@ -33,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Please DO feed the bears!",
-      "clothes": "animal-stripes-tee"
+      "clothes": "animal-stripes-tee",
+      "favoriteColors": [
+        "yellow",
+        "black"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Barold",

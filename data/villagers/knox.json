@@ -39,7 +39,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "A chicken's coop is its castle.",
-      "clothes": "cavalier-shirt"
+      "clothes": "cavalier-shirt",
+      "favoriteColors": [
+        "brown",
+        "red"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Knox",

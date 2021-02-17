@@ -33,7 +33,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "You can't have your cake and eat it too.",
-      "clothes": "military-uniform"
+      "clothes": "military-uniform",
+      "favoriteColors": [
+        "red",
+        "green"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Chops",

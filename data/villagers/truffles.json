@@ -56,7 +56,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "The best things in life are free.",
-      "clothes": "tee-parka-combo"
+      "clothes": "tee-parka-combo",
+      "favoriteColors": [
+        "green",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "gorgeous"
+      ]
     }
   },
   "name": "Truffles",

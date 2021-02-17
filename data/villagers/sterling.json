@@ -39,7 +39,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Discretion is the better part of valor.",
-      "clothes": "cavalier-shirt"
+      "clothes": "cavalier-shirt",
+      "favoriteColors": [
+        "blue",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Sterling",

@@ -33,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Never say never!",
-      "clothes": "athletic-jacket"
+      "clothes": "athletic-jacket",
+      "favoriteColors": [
+        "red",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cute"
+      ]
     }
   },
   "name": "Hazel",

@@ -33,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Eucalyptus is the spice of life.",
-      "clothes": "vertical-stripes-shirt"
+      "clothes": "vertical-stripes-shirt",
+      "favoriteColors": [
+        "aqua",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Lyman",

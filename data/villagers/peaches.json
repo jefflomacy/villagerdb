@@ -50,7 +50,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Every day is a gift.",
-      "clothes": "long-denim-cardigan"
+      "clothes": "long-denim-cardigan",
+      "favoriteColors": [
+        "colorful",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Peaches",

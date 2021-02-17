@@ -56,7 +56,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "There's no such thing as a free lunch.",
-      "clothes": "letter-jacket"
+      "clothes": "letter-jacket",
+      "favoriteColors": [
+        "green",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Pudge",

@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Life is just a bowl of cherries.",
-      "clothes": "poncho-style-sweater"
+      "clothes": "poncho-style-sweater",
+      "favoriteColors": [
+        "beige",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "simple"
+      ]
     }
   },
   "name": "Clay",

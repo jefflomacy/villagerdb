@@ -57,7 +57,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "A snack a day keeps the vacuum away.",
-      "clothes": "printed-fleece-sweater"
+      "clothes": "printed-fleece-sweater",
+      "favoriteColors": [
+        "beige",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Bones",

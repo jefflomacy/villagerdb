@@ -50,7 +50,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Sail wherever the wind takes you.",
-      "clothes": "overall-dress"
+      "clothes": "overall-dress",
+      "favoriteColors": [
+        "beige",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Sydney",

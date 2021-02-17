@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "The more the merrier.",
-      "clothes": "gingham-picnic-shirt"
+      "clothes": "gingham-picnic-shirt",
+      "favoriteColors": [
+        "brown",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "gorgeous"
+      ]
     }
   },
   "name": "Gabi",

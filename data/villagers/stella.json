@@ -44,7 +44,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "100% Natural Fiber.",
-      "clothes": "flower-sweater"
+      "clothes": "flower-sweater",
+      "favoriteColors": [
+        "yellow",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Stella",

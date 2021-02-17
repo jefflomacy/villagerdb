@@ -44,7 +44,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "A mother's work is never done.",
-      "clothes": "simple-dots-dress"
+      "clothes": "simple-dots-dress",
+      "favoriteColors": [
+        "red",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Carrie",

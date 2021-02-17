@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Time makes fossils of us all.",
-      "clothes": "caveman-tank"
+      "clothes": "caveman-tank",
+      "favoriteColors": [
+        "yellow",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Tucker",

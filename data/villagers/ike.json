@@ -38,7 +38,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "The higher you climb, the smaller things look.",
-      "clothes": "camo-bomber-style-jacket"
+      "clothes": "camo-bomber-style-jacket",
+      "favoriteColors": [
+        "green",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "cool"
+      ]
     }
   },
   "name": "Ike",

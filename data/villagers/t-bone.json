@@ -43,7 +43,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Don't have a cow.",
-      "clothes": "hanten-jacket"
+      "clothes": "hanten-jacket",
+      "favoriteColors": [
+        "blue",
+        "black"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "T-Bone",

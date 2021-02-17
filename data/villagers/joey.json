@@ -57,7 +57,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Don't get your feathers all ruffled. Just chill.",
-      "clothes": "bear-tee"
+      "clothes": "bear-tee",
+      "favoriteColors": [
+        "green",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Joey",

@@ -51,7 +51,14 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "If you can't say something nice, don't say anything at all.",
-      "clothes": "dreamy-sweater"
+      "clothes": "dreamy-sweater",
+      "favoriteColors": [
+        "pink",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Marina",

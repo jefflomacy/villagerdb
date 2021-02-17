@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Righty tighty, lefty loosey.",
-      "clothes": "argyle-vest"
+      "clothes": "argyle-vest",
+      "favoriteColors": [
+        "purple",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Deli",

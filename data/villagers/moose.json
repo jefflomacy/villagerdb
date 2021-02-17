@@ -39,7 +39,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "A cornered rat will summon the courage to bite a cat.",
-      "clothes": "big-star-tee"
+      "clothes": "big-star-tee",
+      "favoriteColors": [
+        "purple",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Moose",

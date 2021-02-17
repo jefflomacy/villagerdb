@@ -49,7 +49,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Evil lurks everywhere.",
-      "clothes": "ninja-costume"
+      "clothes": "ninja-costume",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Rizzo",

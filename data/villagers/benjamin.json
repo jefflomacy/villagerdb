@@ -33,7 +33,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "A good dog deserves a good treat.",
-      "clothes": "striped-shirt"
+      "clothes": "striped-shirt",
+      "favoriteColors": [
+        "red",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Benjamin",

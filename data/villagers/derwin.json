@@ -57,7 +57,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Everything in moderation. Except for snacks.",
-      "clothes": "striped-tank"
+      "clothes": "striped-tank",
+      "favoriteColors": [
+        "yellow",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Derwin",

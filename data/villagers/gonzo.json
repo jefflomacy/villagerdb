@@ -44,7 +44,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Brothers are brothers, cheese is cheese.",
-      "clothes": "reindeer-sweater"
+      "clothes": "reindeer-sweater",
+      "favoriteColors": [
+        "black",
+        "green"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Gonzo",

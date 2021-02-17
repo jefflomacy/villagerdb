@@ -50,7 +50,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Jump first, ask questions later.",
-      "clothes": "silk-shirt"
+      "clothes": "silk-shirt",
+      "favoriteColors": [
+        "green",
+        "red"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Cousteau",

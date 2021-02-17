@@ -57,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "The squeaky wheel gets the cheese.",
-      "clothes": "sea-hanten-shirt"
+      "clothes": "sea-hanten-shirt",
+      "favoriteColors": [
+        "blue",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Dora",

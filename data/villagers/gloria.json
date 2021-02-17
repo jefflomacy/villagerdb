@@ -39,7 +39,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Time is money.",
-      "clothes": "floral-lace-dress"
+      "clothes": "floral-lace-dress",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Gloria",

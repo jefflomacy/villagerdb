@@ -50,7 +50,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Those who live in glass houses shouldn't throw stones.",
-      "clothes": "flannel-shirt"
+      "clothes": "flannel-shirt",
+      "favoriteColors": [
+        "red",
+        "black"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Grizzly",

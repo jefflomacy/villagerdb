@@ -33,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "The ear's the thing.",
-      "clothes": "big-star-tee"
+      "clothes": "big-star-tee",
+      "favoriteColors": [
+        "purple",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Hamlet",

@@ -43,7 +43,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "The players may change, but the music stays the same.",
-      "clothes": "bohemian-tunic-dress"
+      "clothes": "bohemian-tunic-dress",
+      "favoriteColors": [
+        "aqua",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Candi",

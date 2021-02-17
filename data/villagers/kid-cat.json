@@ -51,7 +51,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Crime doesn't pay!",
-      "clothes": "no-1-shirt"
+      "clothes": "no-1-shirt",
+      "favoriteColors": [
+        "red",
+        "red"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Kid Cat",

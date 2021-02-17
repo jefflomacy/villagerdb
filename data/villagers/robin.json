@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Always keep your wings manicured so you can fly away.",
-      "clothes": "front-tie-tee"
+      "clothes": "front-tie-tee",
+      "favoriteColors": [
+        "aqua",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Robin",

@@ -57,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "You gotta put the pedal to the metal!",
-      "clothes": "no-2-shirt"
+      "clothes": "no-2-shirt",
+      "favoriteColors": [
+        "blue",
+        "black"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Agent S",

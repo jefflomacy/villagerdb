@@ -33,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Winners don't quit, and quitters never win.",
-      "clothes": "tiger-jacket"
+      "clothes": "tiger-jacket",
+      "favoriteColors": [
+        "green",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cool"
+      ]
     }
   },
   "name": "Sheldon",

@@ -38,7 +38,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Be yourself, everyone else is already taken.",
-      "clothes": "tailored-jacket"
+      "clothes": "tailored-jacket",
+      "favoriteColors": [
+        "gray",
+        "white"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Kidd",

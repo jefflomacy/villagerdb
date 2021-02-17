@@ -51,7 +51,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "The gift says more about the giver.",
-      "clothes": "sweetheart-dress"
+      "clothes": "sweetheart-dress",
+      "favoriteColors": [
+        "black",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Bree",

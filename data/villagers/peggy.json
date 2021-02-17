@@ -44,7 +44,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "We're all diamonds in the rough.",
-      "clothes": "aran-knit-sweater"
+      "clothes": "aran-knit-sweater",
+      "favoriteColors": [
+        "blue",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "active"
+      ]
     }
   },
   "name": "Peggy",

@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "The road to a friend's house is never long.",
-      "clothes": "heart-apron"
+      "clothes": "heart-apron",
+      "favoriteColors": [
+        "pink",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Marcie",

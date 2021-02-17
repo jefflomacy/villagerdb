@@ -43,7 +43,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Old longings never truly fade.",
-      "clothes": "fuzzy-vest"
+      "clothes": "fuzzy-vest",
+      "favoriteColors": [
+        "brown",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Dobie",

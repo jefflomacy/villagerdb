@@ -33,7 +33,14 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Pride goes before a fall.",
-      "clothes": "toga"
+      "clothes": "toga",
+      "favoriteColors": [
+        "gray",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Klaus",

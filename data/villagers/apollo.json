@@ -57,7 +57,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "What goes up must come down.",
-      "clothes": "flight-jacket"
+      "clothes": "flight-jacket",
+      "favoriteColors": [
+        "black",
+        "black"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Apollo",

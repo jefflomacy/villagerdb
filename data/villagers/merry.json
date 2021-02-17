@@ -44,7 +44,14 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "A smile increases your face value.",
-      "clothes": "dreamy-sweater"
+      "clothes": "dreamy-sweater",
+      "favoriteColors": [
+        "pink",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Merry",

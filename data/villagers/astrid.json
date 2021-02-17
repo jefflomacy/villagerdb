@@ -50,7 +50,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "The apple doesn't fall far from the tree.",
-      "clothes": "tee-dress"
+      "clothes": "tee-dress",
+      "favoriteColors": [
+        "black",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "active"
+      ]
     }
   },
   "name": "Astrid",

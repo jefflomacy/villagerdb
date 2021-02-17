@@ -57,7 +57,14 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "He who hesitates has lost.",
-      "clothes": "six-ball-tee"
+      "clothes": "six-ball-tee",
+      "favoriteColors": [
+        "blue",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "active"
+      ]
     }
   },
   "name": "Jay",

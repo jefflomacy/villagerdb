@@ -50,7 +50,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "If the mask fits, wear it!",
-      "clothes": "athletic-jacket"
+      "clothes": "athletic-jacket",
+      "favoriteColors": [
+        "red",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Stinky",

@@ -44,7 +44,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Don't blink or you'll miss it.",
-      "clothes": "tropical-muumuu"
+      "clothes": "tropical-muumuu",
+      "favoriteColors": [
+        "yellow",
+        "green"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cute"
+      ]
     }
   },
   "name": "Bangle",

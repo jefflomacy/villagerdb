@@ -49,7 +49,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Rocky road is more than just a flavor of ice cream.",
-      "clothes": "dragon-jacket"
+      "clothes": "dragon-jacket",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Groucho",

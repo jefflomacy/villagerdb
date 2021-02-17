@@ -39,7 +39,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "There's not a dog so bad that he won't wag his tail.",
-      "clothes": "sea-hanten-shirt"
+      "clothes": "sea-hanten-shirt",
+      "favoriteColors": [
+        "green",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Marcel",

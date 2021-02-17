@@ -57,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "When someone says fly, you ask how high!",
-      "clothes": "tennis-sweater"
+      "clothes": "tennis-sweater",
+      "favoriteColors": [
+        "orange",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "active"
+      ]
     }
   },
   "name": "Pierce",

@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Promises are like pie crusts— they're made to be broken.",
-      "clothes": "milkmaid-dress"
+      "clothes": "milkmaid-dress",
+      "favoriteColors": [
+        "purple",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Pecan",

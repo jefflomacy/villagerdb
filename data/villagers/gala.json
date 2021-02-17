@@ -39,7 +39,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Still waters run deep.",
-      "clothes": "flower-print-dress"
+      "clothes": "flower-print-dress",
+      "favoriteColors": [
+        "pink",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Gala",

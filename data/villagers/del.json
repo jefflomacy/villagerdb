@@ -44,7 +44,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "The hero is brave in deeds as well as words.",
-      "clothes": "striped-shirt"
+      "clothes": "striped-shirt",
+      "favoriteColors": [
+        "blue",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Del",

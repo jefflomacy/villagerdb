@@ -44,7 +44,14 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Love has no bounds.",
-      "clothes": "tweed-dress"
+      "clothes": "tweed-dress",
+      "favoriteColors": [
+        "yellow",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Felicity",

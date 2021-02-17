@@ -56,7 +56,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Mind your manners, or someone else will.",
-      "clothes": "retro-dress"
+      "clothes": "retro-dress",
+      "favoriteColors": [
+        "green",
+        "white"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Gwen",

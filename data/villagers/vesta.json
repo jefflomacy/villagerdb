@@ -57,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "No sweater off my back.",
-      "clothes": "hand-knit-tank"
+      "clothes": "hand-knit-tank",
+      "favoriteColors": [
+        "orange",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Vesta",

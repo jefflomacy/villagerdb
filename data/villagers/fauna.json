@@ -33,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "The first step is always the hardest.",
-      "clothes": "bohemian-tunic-dress"
+      "clothes": "bohemian-tunic-dress",
+      "favoriteColors": [
+        "beige",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Fauna",

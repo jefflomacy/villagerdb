@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "100% Wool.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "Red",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "2 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "Red"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "snooty",

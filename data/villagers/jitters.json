@@ -26,14 +26,18 @@
       "fear": "Skeleton Hood",
       "quote": "When you're a team of one, you're always captain!",
       "siblings": "Second quintuplet",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "yellow",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "jock",

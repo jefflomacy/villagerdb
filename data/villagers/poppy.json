@@ -19,14 +19,18 @@
       "fear": "Skeleton Hood",
       "quote": "It's all about positive thinking!",
       "siblings": "Youngest of 5 kids",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "normal",

@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Moo like there's no tomorrow.",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "colorful",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "snooty",

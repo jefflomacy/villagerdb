@@ -24,14 +24,18 @@
       "fear": "Ghost Mask",
       "quote": "Don't blink or you'll miss it.",
       "siblings": "Second of 6 kids",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Basic",
-      "favoriteColor": "orange",
       "coffee": {
         "beans": "Mocha",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "peppy",

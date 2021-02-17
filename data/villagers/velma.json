@@ -24,14 +24,18 @@
       "fear": "Bug Mask",
       "quote": "Work smarter, not harder.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Rock",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "snooty",

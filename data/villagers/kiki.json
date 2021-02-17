@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "Nothing ventured, nothing gained.",
       "siblings": "Second of 5 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "normal",

@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "If it's not one thing, it's another.",
       "siblings": "Third quadruplet",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Official",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "cranky",

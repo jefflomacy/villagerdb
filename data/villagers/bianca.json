@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "There is such a thing as love at first sight.",
       "siblings": "Fifth of 6 kids",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "white",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "peppy",

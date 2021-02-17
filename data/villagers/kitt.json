@@ -36,14 +36,18 @@
       "fear": "Werewolf Hood",
       "quote": "Funny parents have funny kids.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "beige",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "normal",

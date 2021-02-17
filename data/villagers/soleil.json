@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Sometimes dreams are merely dreams.",
       "siblings": "Fourth of 6 kids",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Rock",
-      "favoriteColor": "orange",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "snooty",

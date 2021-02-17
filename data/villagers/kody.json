@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "The sky's the limit!",
       "siblings": "Third quadruplet",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Modern",
-      "favoriteColor": "colorful",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "jock",

@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Rules were made to be broken.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Official",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "smug",

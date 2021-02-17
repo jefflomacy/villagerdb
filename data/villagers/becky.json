@@ -24,14 +24,18 @@
       "fear": "Ghost Mask",
       "quote": "A fool and his Bells are soon parted.",
       "siblings": "Second of 3 kids",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",

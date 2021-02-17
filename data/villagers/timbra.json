@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "Don't pine for the past.",
       "siblings": "Older twin",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",

@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "C'est la vie!",
       "siblings": "Fifth of 6 kids",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "smug",

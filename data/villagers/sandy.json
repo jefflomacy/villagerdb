@@ -23,14 +23,18 @@
       "fear": "Bug Mask",
       "quote": "Soaring through the sky takes more than a pair of wings.",
       "siblings": "Fourth of 6 kids",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "Pink",
       "coffee": {
         "beans": "Blend",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "Pink"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "normal",

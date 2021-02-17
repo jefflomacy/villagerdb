@@ -18,14 +18,18 @@
       "fear": "Monster Mask",
       "quote": "Trends always make a comeback.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Basic",
-      "favoriteColor": "orange",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "uchi",

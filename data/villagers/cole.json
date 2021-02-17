@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Little pitchers have big ears.",
       "siblings": "Only child",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Rock",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Blend",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "lazy",

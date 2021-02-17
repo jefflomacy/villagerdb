@@ -30,14 +30,18 @@
       "fear": "Werewolf Hood",
       "quote": "You mess with the wolf, you get the fangs.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "beige",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "cranky",

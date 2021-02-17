@@ -30,14 +30,18 @@
       "fear": "Monster Mask",
       "quote": "All that glitters is not gold.",
       "siblings": "Eldest of 10 kids",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Rock",
-      "favoriteColor": "yellow",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "snooty",

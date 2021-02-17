@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "Don't cut off your nose to spite your face.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Modern",
-      "favoriteColor": "yellow",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "cranky",

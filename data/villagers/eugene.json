@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "Imitation is the sincerest form of flattery.",
       "siblings": "Youngest of 3 kids",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "smug",

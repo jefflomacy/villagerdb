@@ -30,14 +30,18 @@
       "fear": "Monster Mask",
       "quote": "If you want something done well, do it yourself.",
       "siblings": "Middle of 3 kids",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Rock",
-      "favoriteColor": "white",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "snooty",

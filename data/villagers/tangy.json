@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "When life gives you lemons, make lemonade.",
       "siblings": "Third of 6 kids",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Historical",
-      "favoriteColor": "orange",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "peppy",

@@ -18,14 +18,18 @@
       "fear": "Ghost Mask",
       "quote": "A wise man gives danger a wide berth.",
       "siblings": "Youngest quintuplet",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "Yellow",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "Yellow"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "lazy",

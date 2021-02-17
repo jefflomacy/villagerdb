@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "The ear's the thing.",
       "siblings": "Youngest of 6 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Official",
-      "favoriteColor": "orange",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "jock",

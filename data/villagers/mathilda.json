@@ -37,14 +37,18 @@
       "fear": "Skeleton Hood",
       "quote": "Nail polish is thicker than water.",
       "siblings": "Youngest of 3 sisters",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "snooty",

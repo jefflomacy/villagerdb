@@ -30,14 +30,18 @@
       "fear": "Bug Mask",
       "quote": "Those who live in glass houses shouldn't throw stones.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "cranky",

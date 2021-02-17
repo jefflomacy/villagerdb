@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "Always keep your wings manicured so you can fly away!",
       "siblings": "Third of 4 sisters",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "aqua",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "snooty",

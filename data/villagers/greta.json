@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "The world is a stage.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "snooty",

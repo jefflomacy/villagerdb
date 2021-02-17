@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "One good turn deserves another.",
       "siblings": "Youngest of 3 kids",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "gray",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "smug",

@@ -26,14 +26,18 @@
       "fear": "Ghost Mask",
       "quote": "Zzzzzzzzzzzzzzzzz...",
       "siblings": "Youngest triplet",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "red",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "lazy",

@@ -36,14 +36,18 @@
       "fear": "Werewolf Hood",
       "quote": "One good purr deserves another.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "red",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",

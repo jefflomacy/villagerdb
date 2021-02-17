@@ -24,14 +24,18 @@
       "fear": "Bug Mask",
       "quote": "Laughter is the best medicine",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "yellow",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "normal",

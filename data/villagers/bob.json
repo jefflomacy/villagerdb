@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "You only live once...or nine times.",
       "siblings": "Fourth of 6 kids",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Basic",
-      "favoriteColor": "colorful",
       "coffee": {
         "beans": "Kilamanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "lazy",

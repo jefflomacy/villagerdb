@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "Nothing beats personal experience.",
       "siblings": "Fourth of 5 kids",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Modern",
-      "favoriteColor": "white",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "snooty",

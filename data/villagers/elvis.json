@@ -26,14 +26,18 @@
       "fear": "Bug Mask",
       "quote": "Better a live coward than a dead hero.",
       "siblings": "Eldest quadruplet",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Basic",
-      "favoriteColor": "gray",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "cranky",

@@ -30,14 +30,18 @@
       "fear": "Skeleton Hood",
       "quote": "There's no use crying over spilled milk.",
       "siblings": "Second quadruplet",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "cranky",

@@ -37,14 +37,18 @@
       "skill": "Clearing my plate",
       "goal": "Photographer",
       "siblings": "Eldest of 10 kids",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "red",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "lazy",

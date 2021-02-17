@@ -30,14 +30,18 @@
       "fear": "Bug Mask",
       "quote": "Beauty is pain!",
       "siblings": "Third of 4 kids",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Historical",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "smug",

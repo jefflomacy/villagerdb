@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "A duck won't bite you.",
       "siblings": "Fourth of 5 kids",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Official",
-      "favoriteColor": "yellow",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "peppy",

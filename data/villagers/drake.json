@@ -26,14 +26,18 @@
       "fear": "Monster Mask",
       "quote": "...Quack.",
       "siblings": "Youngest triplet",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "lazy",

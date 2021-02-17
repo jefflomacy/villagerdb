@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "Never trot when you can prance.",
       "siblings": "Youngest twin",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Rock",
-      "favoriteColor": "aqua",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "smug",

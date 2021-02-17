@@ -37,14 +37,18 @@
       "fear": "Ghost Mask",
       "quote": "If you're gonna dream, dream big.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Rock",
-      "favoriteColor": "white",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "normal",

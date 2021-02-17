@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "Happiness is a rainy day.",
       "siblings": "Third of 6 kids",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Rock",
-      "favoriteColor": "aqua",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",

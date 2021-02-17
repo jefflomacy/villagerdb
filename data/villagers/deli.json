@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "Righty tighty, lefty loosey.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "lazy",

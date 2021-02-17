@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "An ear for an ear leaves everyone deaf.",
       "siblings": "Eldest triplet",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Basic",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "cranky",

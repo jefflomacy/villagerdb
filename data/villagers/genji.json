@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "Fall down seven times, get up eight.",
       "siblings": "Youngest of 6 kids",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Basic",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "jock",

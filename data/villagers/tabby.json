@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "You can never have too much of a good thing!",
       "siblings": "Eldest of 9 kids",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Basic",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "peppy",

@@ -37,14 +37,18 @@
       "fear": "Skeleton Hood",
       "quote": "Don't skip lunch. Ever.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "yellow",
       "coffee": {
         "beans": "Mocha",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "cranky",

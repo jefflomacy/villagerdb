@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "Birds of a feather crow together.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "white",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "jock",

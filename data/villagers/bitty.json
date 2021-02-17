@@ -24,14 +24,18 @@
       "fear": "Ghost Mask",
       "quote": "Necessity is the mother of all the invention.",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Basic",
-      "favoriteColor": "Red",
       "coffee": {
         "beans": "Mocha",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "Red"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "snooty",

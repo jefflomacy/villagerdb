@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "Never trust a sheep in wolf's clothing.",
       "siblings": "Eldest of 10 kids",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "gray",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "smug",

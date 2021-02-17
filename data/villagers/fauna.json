@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "The first step is always the hardest.",
       "siblings": "Middle of 3 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Rock",
-      "favoriteColor": "beige",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "normal",

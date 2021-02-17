@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "Candy makes the world go 'round.",
       "siblings": "Eldest of 3 sisters",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "blue",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",

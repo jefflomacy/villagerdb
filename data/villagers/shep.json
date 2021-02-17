@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "Even dogs won't get in the middle of true love.",
       "siblings": "Third quadruplet",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "beige",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "smug",

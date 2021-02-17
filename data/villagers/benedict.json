@@ -31,14 +31,18 @@
       "skill": "Remembering stuff",
       "goal": "Poet",
       "siblings": "Youngest quadruplet",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "yellow",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "lazy",

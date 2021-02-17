@@ -24,14 +24,18 @@
       "fear": "Mummy Mask",
       "quote": "There's something loveable in all of us.",
       "siblings": "Eldest of 7 kids",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Historical",
-      "favoriteColor": "White",
       "coffee": {
         "beans": "Mocha",
         "milk": "A little bit of milk",
         "sugar": "1 spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "White"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "snooty",

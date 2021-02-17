@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "All good things must come to an end.",
       "siblings": "Fourth quintuplet",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Basic",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "cranky",

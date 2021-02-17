@@ -37,14 +37,18 @@
       "fear": "Skeleton Hood",
       "quote": "Time spent with friends is time well spent!",
       "siblings": "Eldest of 3 sisters",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Rock",
-      "favoriteColor": "red",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",

@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "There's no excuse for half-baked potatoes.",
       "siblings": "Fourth quintuplet",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "Green",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "Green"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "jock",

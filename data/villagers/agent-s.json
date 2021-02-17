@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "You gotta put the pedal to the metal!",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Historical",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "peppy",

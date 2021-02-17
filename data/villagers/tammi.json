@@ -26,14 +26,18 @@
       "fear": "Mummy Mask",
       "quote": "Always be down to monkey around.",
       "siblings": "Youngest of 3 kids",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Modern",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "peppy",

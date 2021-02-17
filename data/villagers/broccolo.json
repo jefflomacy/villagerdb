@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "One nap leads to another.",
       "siblings": "Youngest triplet",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "colorful",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "lazy",

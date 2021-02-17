@@ -24,14 +24,18 @@
       "fear": "Mummy Mask",
       "quote": "Might makes right.",
       "siblings": "Second of 6 kids",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Rock",
-      "favoriteColor": "gray",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "jock",

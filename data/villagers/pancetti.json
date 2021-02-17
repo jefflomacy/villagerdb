@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "Always get it in writing.",
       "siblings": "Eldest of 7 kids",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Historical",
-      "favoriteColor": "yellow",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "snooty",

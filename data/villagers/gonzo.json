@@ -24,14 +24,18 @@
       "fear": "Monster Mask",
       "quote": "Brothers are brothers; cheese is cheese.",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "Black",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "Black"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "cranky",

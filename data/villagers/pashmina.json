@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "Before you judge someone, walk a mile in her hooves.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Basic",
-      "favoriteColor": "beige",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "uchi",

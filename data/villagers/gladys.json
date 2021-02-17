@@ -31,14 +31,18 @@
       "skill": "Calligraphy",
       "goal": "Architect",
       "siblings": "Eldest of 3 sisters",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Modern",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "normal",

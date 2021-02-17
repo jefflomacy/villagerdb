@@ -14,14 +14,18 @@
       "fear": "Werewolf Hood",
       "quote": "A good rider knows temper to curb.",
       "siblings": "Only child",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "Brown",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "Brown"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     }
   },
   "name": "Epona",

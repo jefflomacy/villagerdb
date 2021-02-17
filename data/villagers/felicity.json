@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "Love has no bounds.",
       "siblings": "Second of 3 sisters",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "beige",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",

@@ -26,14 +26,18 @@
       "fear": "Bug Mask",
       "quote": "Do as I say, not as I do.",
       "siblings": "Eldest of 4 sisters",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Historical",
-      "favoriteColor": "colorful",
       "coffee": {
         "beans": "Blend",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "snooty",

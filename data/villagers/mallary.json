@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "Purple is the color of royalty.",
       "siblings": "Middle of 3 kids",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "snooty",

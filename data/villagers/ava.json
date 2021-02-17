@@ -24,14 +24,18 @@
       "fear": "Monster Mask",
       "quote": "Early to bed, early to rise.",
       "siblings": "Eldest of 6 kids",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "normal",

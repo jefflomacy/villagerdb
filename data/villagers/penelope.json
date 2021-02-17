@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "One mile or a thousand makes no difference to love.",
       "siblings": "Younger twin sister",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "pink",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "A lot of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",

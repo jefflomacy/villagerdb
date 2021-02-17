@@ -37,14 +37,18 @@
       "fear": "Skeleton Hood",
       "quote": "Remember to keep your core muscles engaged!",
       "siblings": "Younger twin brother",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Modern",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No Milk",
         "sugar": "No Sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "jock",

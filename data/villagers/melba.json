@@ -26,14 +26,18 @@
       "fear": "Mummy Mask",
       "quote": "A friend who shares is a friend who cares.",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "normal",

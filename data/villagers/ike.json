@@ -18,14 +18,18 @@
       "fear": "Bug Mask",
       "quote": "The higher you climb, the smaller things look.",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Basic",
-      "favoriteColor": "Blue",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "Blue"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "cranky",

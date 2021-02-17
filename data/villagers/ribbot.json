@@ -33,14 +33,18 @@
       "fear": "Bug Mask",
       "quote": "Never rest, never rust.",
       "siblings": "Eldest of 9 kids",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Basic",
-      "favoriteColor": "gray",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "jock",

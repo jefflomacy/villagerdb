@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "What you can't see can't hurt you.",
       "siblings": "Second of 5 kids",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "blue",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "cranky",

@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "The more the merrier.",
       "siblings": "Fourth of 6 kids",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Official",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "peppy",

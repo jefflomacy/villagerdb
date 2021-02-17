@@ -25,14 +25,18 @@
       "fear": "Ghost Mask",
       "quote": "Don't look down your nose at people!",
       "siblings": "Only child",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "white",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "normal",

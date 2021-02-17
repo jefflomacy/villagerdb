@@ -24,14 +24,18 @@
       "fear": "Monster Mask",
       "quote": "Patience is a virtue for folks with time.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "aqua",
       "coffee": {
         "beans": "Mocha",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "cranky",

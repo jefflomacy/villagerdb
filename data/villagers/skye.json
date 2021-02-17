@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "Love makes the world go 'round.",
       "siblings": "Fourth of 5 kids",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "aqua",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "normal",

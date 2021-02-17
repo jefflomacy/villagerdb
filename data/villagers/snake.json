@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "A good ninja is neither seen, nor heard.",
       "siblings": "Third quadruplet",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Modern",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "jock",

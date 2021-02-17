@@ -24,14 +24,18 @@
       "fear": "Ghost Mask",
       "quote": "As a cow grows, so do its nostrils.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "Brown",
       "coffee": {
         "beans": "Mocha",
         "milk": "a little bit of milk",
         "sugar": "1 spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "Brown"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "lazy",

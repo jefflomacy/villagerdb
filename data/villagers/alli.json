@@ -37,14 +37,18 @@
       "fear": "Ghost Mask",
       "quote": "Think before you act.",
       "siblings": "Eldest triplet",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "blue",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",

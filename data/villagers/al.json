@@ -19,14 +19,18 @@
       "fear": "Mummy Mask",
       "quote": "Life is a buffet - always go back for seconds.",
       "siblings": "Eldest of 7 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Official",
-      "favoriteColor": "pink",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "lazy",

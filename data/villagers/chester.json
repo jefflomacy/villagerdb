@@ -19,14 +19,18 @@
       "fear": "Ghost Mask",
       "quote": "Sleep early. Wake late.",
       "siblings": "Youngest quintuplet",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Rock",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Blend",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "lazy",

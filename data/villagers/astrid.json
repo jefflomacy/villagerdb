@@ -30,14 +30,18 @@
       "fear": "Skeleton Hood",
       "quote": "The apple doesn't fall far from the tree.",
       "siblings": "Youngest of 4 kids",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Modern",
-      "favoriteColor": "gray",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "snooty",

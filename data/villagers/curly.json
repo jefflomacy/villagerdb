@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "Get fired up!",
       "siblings": "Middle triplet",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "red",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "jock",

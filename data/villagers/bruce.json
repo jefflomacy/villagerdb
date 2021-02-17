@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "Nobody's perfect.",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "blue",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "cranky",

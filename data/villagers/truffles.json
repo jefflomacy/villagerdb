@@ -36,14 +36,18 @@
       "fear": "Monster Mask",
       "quote": "The best things in life are free.",
       "siblings": "Youngest of 6 kids",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "pink",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",

@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "The way to a frog's heart is through his stomach.",
       "siblings": "Youngest quintuplet",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Official",
-      "favoriteColor": "aqua",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "smug",

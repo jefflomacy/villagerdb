@@ -31,14 +31,18 @@
       "skill": "Sprinting",
       "goal": "Explorer",
       "siblings": "Youngest quadruplet",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "jock",

@@ -36,14 +36,18 @@
       "fear": "Bug Mask",
       "quote": "Waste not, want not.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "yellow",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "normal",

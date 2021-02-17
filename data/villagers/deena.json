@@ -37,14 +37,18 @@
       "fear": "Ghost Mask",
       "quote": "Duck...duck...GOOSE!",
       "siblings": "Second of 5 kids",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "gray",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "normal",

@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "Hard work beats talent.",
       "siblings": "Second quadruplet",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Official",
-      "favoriteColor": "red",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "lazy",

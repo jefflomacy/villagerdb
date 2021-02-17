@@ -26,14 +26,18 @@
       "fear": "Monster Mask",
       "quote": "You can always take the red-eye.",
       "siblings": "Only child",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Rock",
-      "favoriteColor": "yellow",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "peppy",

@@ -31,14 +31,18 @@
       "skill": "Photography",
       "goal": "Stylist",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Mocha",
         "milk": "None milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "normal",

@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "It takes one to know one.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Basic",
-      "favoriteColor": "pink",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "uchi",

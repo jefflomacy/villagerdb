@@ -24,14 +24,18 @@
       "fear": "Bug Mask",
       "quote": "Sticky fingers attract bees.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "Pink",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "Pink"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "normal",

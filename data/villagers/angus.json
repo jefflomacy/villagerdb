@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "Even strong men cry.",
       "siblings": "Second of 5 kids",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "cranky",

@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "You can't have your cake and eat it too.",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Basic",
-      "favoriteColor": "gray",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "smug",

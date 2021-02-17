@@ -24,14 +24,18 @@
       "fear": "Ghost Mask",
       "quote": "Life's short. Eat chocolate.",
       "siblings": "Second quadruplet",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Basic",
-      "favoriteColor": "Black",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "3 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "Black"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "cranky",

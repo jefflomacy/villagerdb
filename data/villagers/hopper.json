@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "Always have a comeback.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Modern",
-      "favoriteColor": "yellow",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "cranky",

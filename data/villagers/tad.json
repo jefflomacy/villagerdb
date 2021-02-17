@@ -24,14 +24,18 @@
       "fear": "Bug Mask",
       "quote": "Take a leap!",
       "siblings": "Third quintuplet",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Rock",
-      "favoriteColor": "Yellow",
       "coffee": {
         "beans": "Mocha",
         "milk": "A little bit of milk",
         "sugar": "1 spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "Yellow"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "jock",

@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "Don't be a sucker!",
       "siblings": "Second quadruplet",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "red",
       "coffee": {
         "beans": "Blend",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "cranky",

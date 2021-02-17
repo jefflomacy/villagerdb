@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "Don't go nuts or anything.",
       "siblings": "Youngest quadruplet",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar."
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "lazy",

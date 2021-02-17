@@ -24,14 +24,18 @@
       "fear": "Mummy Mask",
       "quote": "Let gossip in one ear and out the other.",
       "siblings": "Youngest of 3 sisters",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "snooty",

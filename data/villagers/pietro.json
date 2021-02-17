@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "Be the class clown!",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Basic",
-      "favoriteColor": "colorful",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "smug",

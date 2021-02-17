@@ -18,14 +18,18 @@
       "fear": "Skeleton Hood",
       "quote": "Remember to see the forest between the trees.",
       "siblings": "Eldest of 4 sisters",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Rock",
-      "favoriteColor": "White",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "3 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "White"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "normal",

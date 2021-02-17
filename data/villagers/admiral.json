@@ -24,14 +24,18 @@
       "fear": "Bug Mask",
       "quote": "Only quitters give up.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "Black",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "2 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "Black"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "cranky",

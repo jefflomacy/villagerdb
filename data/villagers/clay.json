@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "Life is just a bowl of cherries.",
       "siblings": "Eldest of 7 kids",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "beige",
       "coffee": {
         "beans": "Mocha",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "lazy",

@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "No pain, no gain!",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "jock",

@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "Winners don't quit, and quitters never win.",
       "siblings": "Fourth quintuplet",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Modern",
-      "favoriteColor": "orange",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "a little bit of milk",
         "sugar": "one spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "jock",

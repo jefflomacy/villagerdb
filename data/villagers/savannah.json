@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "Keep your chin up!",
       "siblings": "Second of 6 kids",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Historical",
-      "favoriteColor": "gray",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "normal",

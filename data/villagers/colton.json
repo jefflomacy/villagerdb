@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "Make hay while the sun shines.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "beige",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "smug",

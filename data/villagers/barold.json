@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Please DO feed the bears!",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "aqua",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "lazy",

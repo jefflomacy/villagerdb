@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "The best defense is a good offense.",
       "siblings": "Youngest of 3",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Official",
-      "favoriteColor": "beige",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "jock",

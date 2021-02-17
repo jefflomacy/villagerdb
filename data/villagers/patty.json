@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "A friend in need is a friend indeed!",
       "siblings": "Eldest of 4 sisters",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "red",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "peppy",

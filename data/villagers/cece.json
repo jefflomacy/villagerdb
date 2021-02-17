@@ -14,13 +14,15 @@
       "quote": "Too heads are better than one!",
       "goal": "Stylist",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Cute/Fancy",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Little bit of milk",
         "sugar": "one spoonful of sugar"
-      }
+      },
+      "favoriteStyles": [
+        "Sporty"
+      ]
     }
   },
   "name": "Cece",

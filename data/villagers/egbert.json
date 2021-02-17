@@ -37,14 +37,18 @@
       "fear": "Skeleton Hood",
       "quote": "You gotta break a few eggs to make an omelet.",
       "siblings": "Third of 4 kids",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "red",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "lazy",

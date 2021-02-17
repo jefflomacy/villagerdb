@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "Mottoes are for the unoriginal.",
       "siblings": "Youngest of 3 kids",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "aqua",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "smug",

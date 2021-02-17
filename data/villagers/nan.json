@@ -37,14 +37,18 @@
       "fear": "Ghost Mask",
       "quote": "Nanny-nanny boo-boo!",
       "siblings": "Fourth of 5 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "normal",

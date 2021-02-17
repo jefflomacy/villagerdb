@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "Best not say too much.",
       "siblings": "Eldest quintuplet",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Modern",
-      "favoriteColor": "blue",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "smug",

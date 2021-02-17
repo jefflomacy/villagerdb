@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "Take the good with the bad.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Modern",
-      "favoriteColor": "gray",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "cranky",

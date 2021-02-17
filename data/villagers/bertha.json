@@ -24,14 +24,18 @@
       "fear": "Bug Mask",
       "quote": "The best part of spring is the picnics!",
       "siblings": "Youngest of 3 sisters",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Rock",
-      "favoriteColor": "gray",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "normal",

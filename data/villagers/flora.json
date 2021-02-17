@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "Pink is the new black.",
       "siblings": "Youngest of 4 sisters",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Historical",
-      "favoriteColor": "pink",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "peppy",

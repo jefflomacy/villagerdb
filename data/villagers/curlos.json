@@ -18,14 +18,18 @@
       "fear": "Werewolf Hood",
       "quote": "If you want to know yourself, ask your neighbors.",
       "siblings": "Eldest quadruplet",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Modern",
-      "favoriteColor": "yellow",
       "coffee": {
         "beans": "Kilamanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "smug",

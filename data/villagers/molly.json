@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Like water off a duck's back.",
       "siblings": "Eldest of 9 kids",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "beige",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "normal",

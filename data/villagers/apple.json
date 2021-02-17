@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "One spoiled apple spoils the barrel.",
       "siblings": "Third of 4 sisters",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Historical",
-      "favoriteColor": "red",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",

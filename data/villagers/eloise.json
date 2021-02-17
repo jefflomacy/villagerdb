@@ -35,14 +35,18 @@
       "fear": "Ghost Mask",
       "quote": "An elephant never forgets.",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "snooty",

@@ -19,14 +19,18 @@
       "fear": "Werewolf Hood",
       "quote": "Look at the world through rose-colored glasses.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",

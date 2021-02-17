@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "A mother's work is never done.",
       "siblings": "Middle of 3 kids",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "Pink",
       "coffee": {
         "beans": "Mocha",
         "milk": "none at all",
         "sugar": "none at all"
-      }
+      },
+      "favoriteColors": [
+        "Pink"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "normal",

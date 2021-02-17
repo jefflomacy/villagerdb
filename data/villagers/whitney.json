@@ -26,14 +26,18 @@
       "fear": "Bug Mask",
       "quote": "Don't cry wolf unless you mean it.",
       "siblings": "Eldest of 6 kids",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Mocha",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",

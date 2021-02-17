@@ -36,14 +36,18 @@
       "fear": "Mummy Mask",
       "quote": "Don't put off till tomorrow what you can do today.",
       "siblings": "Second of 5 kids",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "beige",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "normal",

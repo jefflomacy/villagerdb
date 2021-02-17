@@ -37,14 +37,18 @@
       "fear": "Ghost Mask",
       "quote": "A thing of beauty is a joy forever!",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "orange",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "peppy",

@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "Time makes fossils of us all.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Rock",
-      "favoriteColor": "orange",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "lazy",

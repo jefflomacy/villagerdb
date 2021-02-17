@@ -31,14 +31,18 @@
       "skill": "Playing Old Maid",
       "goal": "Pastry chef",
       "siblings": "Third of 5 kids",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Rock",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "normal",

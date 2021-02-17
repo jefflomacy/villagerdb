@@ -30,14 +30,18 @@
       "fear": "Bug Mask",
       "quote": "It's never too late for a snack.",
       "siblings": "Younger twin brother",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Kilamanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "lazy",

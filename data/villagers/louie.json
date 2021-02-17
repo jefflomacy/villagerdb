@@ -20,14 +20,18 @@
       "fear": "Skeleton Hood",
       "quote": "It's all about the muscle.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "Blue",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "Blue"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "jock",

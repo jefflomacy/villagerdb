@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "Bob and weave! Bob and weave!",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Modern",
-      "favoriteColor": "red",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "cranky",

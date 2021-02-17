@@ -14,14 +14,18 @@
       "fear": "Werewolf Hood",
       "quote": "Who knows what the stars have in store for us?",
       "siblings": "Older twin sister",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Basic",
-      "favoriteColor": "Pink",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "3 spoonfulls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "Pink"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     }
   },
   "name": "Étoile",

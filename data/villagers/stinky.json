@@ -30,14 +30,18 @@
       "fear": "Ghost Mask",
       "quote": "If the mask fits, wear it!",
       "siblings": "Third quintuplet",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Official",
-      "favoriteColor": "blue",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "jock",

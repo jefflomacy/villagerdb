@@ -37,14 +37,18 @@
       "skill": "Waking up early",
       "goal": "Basketball player",
       "siblings": "Middle triplet",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "yellow",
       "coffee": {
         "beans": "Mocha",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "jock",

@@ -36,14 +36,18 @@
       "fear": "Ghost Mask",
       "quote": "There's no such thing as a free lunch.",
       "siblings": "Youngest of 5 kids",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "blue",
       "coffee": {
         "beans": "Blend",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "lazy",

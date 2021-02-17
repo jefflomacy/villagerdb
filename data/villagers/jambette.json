@@ -30,14 +30,18 @@
       "fear": "Ghost Mask",
       "quote": "It takes more muscles to frown than to smile.",
       "siblings": "Third of 4 kids",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Rock",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "normal",

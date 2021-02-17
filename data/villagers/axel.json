@@ -30,14 +30,18 @@
       "fear": "Monster Mask",
       "quote": "Do not compare a fly with an elephant.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Historical",
-      "favoriteColor": "colorful",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "jock",

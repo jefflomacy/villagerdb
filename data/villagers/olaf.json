@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "Keep your nose clean.",
       "siblings": "Older twin",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Modern",
-      "favoriteColor": "red",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "smug",

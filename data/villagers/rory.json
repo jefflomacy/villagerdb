@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Set 'em up and knock 'em down.",
       "siblings": "Middle triplet",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "red",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "jock",

@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "Clothes totally make the man.",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Blend",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "smug",

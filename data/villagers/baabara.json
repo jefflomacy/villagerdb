@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "Don't just follow the flock.",
       "siblings": "Third of 6 kids",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",

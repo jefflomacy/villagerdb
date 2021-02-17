@@ -19,14 +19,18 @@
       "fear": "Mummy Mask",
       "quote": "There's not a dog so bad that he won't wag his tail.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "lazy",

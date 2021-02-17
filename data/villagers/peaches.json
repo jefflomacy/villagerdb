@@ -30,14 +30,18 @@
       "fear": "Monster Mask",
       "quote": "Every day is a gift.",
       "siblings": "Middle of 5 kids",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "pink",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "normal",

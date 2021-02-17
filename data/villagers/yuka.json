@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "Beauty is in the eye of the beholder.",
       "siblings": "Third of 4 sisters",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "white",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "snooty",

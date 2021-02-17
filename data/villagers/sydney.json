@@ -30,14 +30,18 @@
       "fear": "Mummy Mask",
       "quote": "Sail wherever the wind takes you.",
       "siblings": "Youngest of 3 kids",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Mocha",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "normal",

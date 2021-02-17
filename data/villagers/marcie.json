@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "The road to a friend's house is never long.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Rock",
-      "favoriteColor": "beige",
       "coffee": {
         "beans": "Mocha",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "normal",

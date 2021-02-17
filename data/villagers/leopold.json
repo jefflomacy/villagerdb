@@ -24,14 +24,18 @@
       "fear": "Monster Mask",
       "quote": "The bigger the first, the bigger your dinner.",
       "siblings": "Eldest triplet",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Historical",
-      "favoriteColor": "Green",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "3 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "Green"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "smug",

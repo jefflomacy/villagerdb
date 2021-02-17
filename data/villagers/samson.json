@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "Squeak softly and carry a big stick.",
       "siblings": "Second quintuplet",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Rock",
-      "favoriteColor": "colorful",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "jock",

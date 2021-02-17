@@ -30,14 +30,18 @@
       "fear": "Werewolf Hood",
       "quote": "Be true to yourself.",
       "siblings": "Third of 4 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Modern",
-      "favoriteColor": "white",
       "coffee": {
         "beans": "Mocha",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "lazy",

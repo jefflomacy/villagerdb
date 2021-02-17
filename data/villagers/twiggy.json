@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "It's the early bird that catches the worm!",
       "siblings": "Second of 4 sisters",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Official",
-      "favoriteColor": "blue",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "peppy",

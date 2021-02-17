@@ -36,14 +36,18 @@
       "fear": "Monster Mask",
       "quote": "Charity begins at home.",
       "siblings": "Second of 6 kids",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "white",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "snooty",

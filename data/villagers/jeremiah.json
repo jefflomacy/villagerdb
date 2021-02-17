@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "Sleep before you leap.",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "blue",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "lazy",

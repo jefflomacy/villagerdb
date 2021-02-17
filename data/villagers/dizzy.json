@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "Keep it mellow.",
       "siblings": "Youngest of 6 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "lazy",

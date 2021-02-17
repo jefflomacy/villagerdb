@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "Everything in moderation. Except for snacks.",
       "siblings": "Only child",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Rock",
-      "favoriteColor": "beige",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "lazy",

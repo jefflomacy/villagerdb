@@ -23,14 +23,18 @@
       "fear": "Mummy Mask",
       "quote": "Don't have a cow.",
       "siblings": "Youngest quadruplet",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "gray",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "cranky",

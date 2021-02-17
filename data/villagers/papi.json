@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "Never say neigh.",
       "siblings": "Middle kid",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "beige",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "lazy",

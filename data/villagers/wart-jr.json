@@ -36,14 +36,18 @@
       "fear": "Mummy Mask",
       "quote": "Age before beauty.",
       "siblings": "Second of quadruplets",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "cranky",

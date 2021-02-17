@@ -18,14 +18,18 @@
       "fear": "Werewolf Hood",
       "quote": "When in doubt, eat a tomato!",
       "siblings": "Eldest triplet",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "yellow",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "a little bit of milk",
         "sugar": "1 spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",

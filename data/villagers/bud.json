@@ -36,14 +36,18 @@
       "skill": "Rapping",
       "goal": "Singer",
       "siblings": "Fourth quintuplet",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Modern",
-      "favoriteColor": "colorful",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "jock",

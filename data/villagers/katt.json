@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "MeowMEOWmeow!",
       "siblings": "Third of 4 kids",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Official",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "uchi",

@@ -18,14 +18,18 @@
       "fear": "Werewolf Hood",
       "quote": "Which came first, the seeds or the sunflower?",
       "siblings": "Fourth of 6 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "Brown",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "Brown"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "lazy",

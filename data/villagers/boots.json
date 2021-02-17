@@ -24,14 +24,18 @@
       "fear": "Monster Mask",
       "quote": "Strength lies in muscles.",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Modern",
-      "favoriteColor": "Brown",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "3 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "Brown"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "jock",

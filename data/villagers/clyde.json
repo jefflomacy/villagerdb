@@ -19,14 +19,18 @@
       "fear": "Skeleton Hood",
       "quote": "The grass is always greener.",
       "siblings": "Eldest of 9 kids",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Rock",
-      "favoriteColor": "colorful",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "lazy",

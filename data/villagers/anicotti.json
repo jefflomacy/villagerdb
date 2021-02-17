@@ -23,14 +23,18 @@
       "fear": "Monster Mask",
       "quote": "The walls have ears.",
       "siblings": "Middle triplet",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Historical",
-      "favoriteColor": "pink",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "peppy",

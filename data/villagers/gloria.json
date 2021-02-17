@@ -19,14 +19,18 @@
       "fear": "Mummy Mask",
       "quote": "Time is money.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",

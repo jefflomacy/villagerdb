@@ -18,14 +18,18 @@
       "fear": "Monster Mask",
       "quote": "There's always time to take a second look.",
       "siblings": "Second of 5 kids",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "Blue",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "3 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "Blue"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "cranky",

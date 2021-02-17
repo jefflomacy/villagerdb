@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "Slow and steady wins the race.",
       "siblings": "Youngest quintuplet",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Official",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "lazy",

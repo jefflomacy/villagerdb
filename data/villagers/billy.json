@@ -24,14 +24,18 @@
       "fear": "Skeleton Hood",
       "quote": "Old dogs can learn new tricks.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Modern",
-      "favoriteColor": "Brown",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "Brown"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "jock",

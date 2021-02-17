@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "Pearls are a pink gorilla's best friend.",
       "siblings": "Second of 5 kids",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Rock",
-      "favoriteColor": "pink",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "snooty",

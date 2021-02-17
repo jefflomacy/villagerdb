@@ -24,14 +24,18 @@
       "fear": "Ghost Mask",
       "quote": "Eighth place is just the seventh loser.",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Basic",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "jock",

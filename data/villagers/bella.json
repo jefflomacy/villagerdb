@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "A head shot is worth a thousand words.",
       "siblings": "Youngest of 4 sisters",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Basic",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "peppy",

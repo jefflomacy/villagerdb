@@ -36,14 +36,18 @@
       "fear": "Monster Mask",
       "quote": "Let them drink cream.",
       "siblings": "Youngest triplet",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "gray",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "snooty",

@@ -19,14 +19,18 @@
       "fear": "Mummy Mask",
       "quote": "A man's coop is his castle.",
       "siblings": "Eldest triplet",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "cranky",

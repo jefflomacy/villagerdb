@@ -36,14 +36,18 @@
       "fear": "Skeleton Hood",
       "quote": "If you make your opponent flinch, you have already won.",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Modern",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "cranky",

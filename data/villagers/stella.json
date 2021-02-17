@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "100% Natural Fiber.",
       "siblings": "Eldest of 3 sisters",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Basic",
-      "favoriteColor": "Pink",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "3 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "Pink"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "normal",

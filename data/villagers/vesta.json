@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "No sweater off my back.",
       "siblings": "Eldest of 7 kids",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Rock",
-      "favoriteColor": "orange",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "normal",

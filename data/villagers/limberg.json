@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "Don’t build a better mousetrap.",
       "siblings": "Eldest of 7 kids",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Official",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "cranky",

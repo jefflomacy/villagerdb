@@ -31,14 +31,18 @@
       "skill": "Fishing",
       "goal": "CEO",
       "siblings": "Youngest of 5 kids",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "colorful",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "lazy",

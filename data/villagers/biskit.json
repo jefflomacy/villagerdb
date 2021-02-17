@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "Let sleeping dogs lie.",
       "siblings": "Youngest of 4 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Official",
-      "favoriteColor": "orange",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "lazy",

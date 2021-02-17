@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "Sometimes you have to lose to win.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Rock",
-      "favoriteColor": "white",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "snooty",

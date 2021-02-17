@@ -24,14 +24,18 @@
       "fear": "Monster Mask",
       "quote": "You can't hit a mosquito with a horseshoe.",
       "siblings": "Youngest of 3 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "Brown",
       "coffee": {
         "beans": "Blend",
         "milk": "A little bit of milk",
         "sugar": "1 spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "Brown"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "lazy",

@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "You can't fight your genes.",
       "siblings": "Second of 3 sisters",
-      "favoriteStyle": "Cute/Fancy",
       "dislikedStyle": "Historical",
-      "favoriteColor": "white",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "Cute/Fancy"
+      ]
     },
     "nh": {
       "personality": "snooty",

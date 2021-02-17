@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "Don't bite the hand that feeds you.",
       "siblings": "Fourth quintuplet",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "lazy",

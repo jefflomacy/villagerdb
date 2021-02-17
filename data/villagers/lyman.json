@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Eucalyptus is the spice of life.",
       "siblings": "Fifth of 6 kids",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "green",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "jock",

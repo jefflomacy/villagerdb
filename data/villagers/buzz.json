@@ -24,14 +24,18 @@
       "fear": "Ghost Mask",
       "quote": "Pride'll put you in a pickle.",
       "siblings": "Eldest of 6 kids",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "Red",
       "coffee": {
         "beans": "Blue mountain",
         "milk": "Lots of milk",
         "sugar": "3 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "Red"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "cranky",

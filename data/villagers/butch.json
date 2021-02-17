@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "A house without either a cat or a dog is a sad house indeed.",
       "siblings": "Eldest quintuplet",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Blend",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "cranky",

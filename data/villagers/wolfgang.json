@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "Don't be afraid to show your fangs.",
       "siblings": "Fourth of 5 kids",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "cranky",

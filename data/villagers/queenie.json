@@ -36,14 +36,18 @@
       "fear": "Mummy Mask",
       "quote": "You never get a second chance to make a first impression.",
       "siblings": "Older twin sister",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Basic",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",

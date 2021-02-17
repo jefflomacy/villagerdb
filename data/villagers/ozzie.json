@@ -24,14 +24,18 @@
       "fear": "Bug Mask",
       "quote": "Half a loaf is better than none.",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "lazy",

@@ -36,14 +36,18 @@
       "fear": "Skeleton Hood",
       "quote": "Just keep your cool.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Ornate",
-      "favoriteColor": "pink",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "normal",

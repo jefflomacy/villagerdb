@@ -14,14 +14,18 @@
       "fear": "Ghost Mask",
       "quote": "Just wait until I get started!",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "Yellow",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "Yellow"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     }
   },
   "name": "Marty",

@@ -37,14 +37,18 @@
       "skill": "Stomping around",
       "goal": "Makeup artist",
       "siblings": "Second of 4 sisters",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "white",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "snooty",

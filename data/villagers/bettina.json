@@ -19,14 +19,18 @@
       "fear": "Ghost Mask",
       "quote": "No time like the present!",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Rock",
-      "favoriteColor": "white",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "normal",

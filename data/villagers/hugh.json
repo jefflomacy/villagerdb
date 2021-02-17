@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "Keep it real. Real chill.",
       "siblings": "Third quadruplet",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Official",
-      "favoriteColor": "blue",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "A lot of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "lazy",

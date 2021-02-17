@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Always land on your feet!",
       "siblings": "Third of 6 kids",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Rock",
-      "favoriteColor": "beige",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "jock",

@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "Home is where the heart is.",
       "siblings": "Second of 3 sisters",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "red",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "normal",

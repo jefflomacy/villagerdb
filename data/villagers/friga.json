@@ -36,14 +36,18 @@
       "fear": "Mummy Mask",
       "quote": "You can't learn a life lesson from a fortune cookie.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "pink",
       "coffee": {
         "beans": "Blend",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",

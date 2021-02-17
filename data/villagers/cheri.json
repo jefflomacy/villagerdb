@@ -23,14 +23,18 @@
       "fear": "Mummy Mask",
       "quote": "Good things come in small packages.",
       "siblings": "Youngest of 3 kids",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Historical",
-      "favoriteColor": "yellow",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "peppy",

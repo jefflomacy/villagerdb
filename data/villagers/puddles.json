@@ -37,14 +37,18 @@
       "fear": "Skeleton Hood",
       "quote": "Look before you leap.",
       "siblings": "Younger twin sister",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Historical",
-      "favoriteColor": "pink",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "peppy",

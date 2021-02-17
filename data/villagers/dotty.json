@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "It's always a good hare day.",
       "siblings": "Youngest triplet",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Official",
-      "favoriteColor": "black",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "peppy",

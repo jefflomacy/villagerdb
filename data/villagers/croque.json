@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "Where there's smoke, there's fire.",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "red",
       "coffee": {
         "beans": "Kilamanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "cranky",

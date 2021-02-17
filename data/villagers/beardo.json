@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Ladies first!",
       "siblings": "Middle kid",
-      "favoriteStyle": "Official",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Official"
+      ]
     },
     "nh": {
       "personality": "smug",

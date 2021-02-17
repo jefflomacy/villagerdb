@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "Don't get your feathers all ruffled. Just chill.",
       "siblings": "Fourth quintuplet",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Rock",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "lazy",

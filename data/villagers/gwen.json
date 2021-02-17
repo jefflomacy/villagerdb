@@ -36,14 +36,18 @@
       "fear": "Mummy Mask",
       "quote": "Mind your manners, or someone else will.",
       "siblings": "Second of 4 sisters",
-      "favoriteStyle": "Ornate",
       "dislikedStyle": "Flashy",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Blend",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",

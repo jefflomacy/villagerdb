@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "There's an exception to every rule.",
       "siblings": "Eldest of 4 sisters",
-      "favoriteStyle": "Modern",
       "dislikedStyle": "Sporty",
-      "favoriteColor": "white",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "Modern"
+      ]
     },
     "nh": {
       "personality": "snooty",

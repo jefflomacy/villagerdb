@@ -36,14 +36,18 @@
       "fear": "Bug Mask",
       "quote": "Always go for the gold!",
       "siblings": "Youngest of 3 kids",
-      "favoriteStyle": "Flashy",
       "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "orange",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "Flashy"
+      ]
     },
     "nh": {
       "personality": "jock",

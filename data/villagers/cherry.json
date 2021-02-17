@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "One dog barks at something; the rest bark at him.",
       "siblings": "Second of 5 kids",
-      "favoriteStyle": "Rock",
       "dislikedStyle": "Official",
-      "favoriteColor": "purple",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "Rock"
+      ]
     },
     "nh": {
       "personality": "uchi",

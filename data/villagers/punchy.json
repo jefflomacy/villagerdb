@@ -37,14 +37,18 @@
       "skill": "Staying awake",
       "goal": "Cartoonist",
       "siblings": "Youngest of 6 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "blue",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "lazy",

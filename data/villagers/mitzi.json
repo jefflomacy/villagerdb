@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "Practice makes purrrfect!",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Historical",
       "dislikedStyle": "Iconic",
-      "favoriteColor": "brown",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "Historical"
+      ]
     },
     "nh": {
       "personality": "normal",

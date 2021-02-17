@@ -31,14 +31,18 @@
       "skill": "Playing horseshoes",
       "goal": "Marathon runner",
       "siblings": "Third of 4 kids",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Official",
-      "favoriteColor": "red",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "peppy",

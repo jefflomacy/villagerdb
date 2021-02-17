@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "You snooze, you lose.",
       "siblings": "Eldest of 8 kids",
-      "favoriteStyle": "Basic",
       "dislikedStyle": "Rock",
-      "favoriteColor": "beige",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "Basic"
+      ]
     },
     "nh": {
       "personality": "lazy",

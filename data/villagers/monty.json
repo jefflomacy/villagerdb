@@ -26,14 +26,18 @@
       "fear": "Skeleton Hood",
       "quote": "No news is good news.",
       "siblings": "Second of 5 kids",
-      "favoriteStyle": "Iconic",
       "dislikedStyle": "Official",
-      "favoriteColor": "blue",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "Iconic"
+      ]
     },
     "nh": {
       "personality": "cranky",

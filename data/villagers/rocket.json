@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "Art feeds the soul. So does pizza.",
       "siblings": "Youngest of 4 kids",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Official",
-      "favoriteColor": "pink",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "Sporty"
+      ]
     },
     "nh": {
       "personality": "uchi",

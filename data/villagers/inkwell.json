@@ -14,13 +14,15 @@
       "skill": "Defending territory",
       "goal": "Squid",
       "siblings": "Only child",
-      "favoriteStyle": "Sporty",
       "dislikedStyle": "Cute/Fancy",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteStyles": [
+        "Sporty"
+      ]
     }
   },
   "name": "Inkwell",

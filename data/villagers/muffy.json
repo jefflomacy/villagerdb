@@ -13,7 +13,7 @@
       "fear": "Werewolf Hood",
       "quote": "There's a black sheep in every family.",
       "siblings": "Only child",
-      "dislikedStyle": "Basic",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
@@ -23,7 +23,7 @@
         "black"
       ],
       "favoriteStyles": [
-        "Ornate"
+        "ornate"
       ]
     },
     "nh": {

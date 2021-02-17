@@ -37,7 +37,7 @@
       "fear": "Skeleton Hood",
       "quote": "Pampering yourself is as important as food, water, and shelter!",
       "siblings": "Eldest of 5 kids",
-      "dislikedStyle": "Basic",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
@@ -47,7 +47,7 @@
         "red"
       ],
       "favoriteStyles": [
-        "Ornate"
+        "ornate"
       ]
     },
     "nh": {

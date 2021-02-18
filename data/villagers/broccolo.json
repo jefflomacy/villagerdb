@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "One nap leads to another.",
       "siblings": "Youngest triplet",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -40,7 +44,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "One nap leads to another.",
-      "clothes": "raglan-shirt"
+      "clothes": "raglan-shirt",
+      "favoriteColors": [
+        "colorful",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Broccolo",

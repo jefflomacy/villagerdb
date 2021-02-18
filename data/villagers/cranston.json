@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "Hard work beats talent.",
       "siblings": "Second quadruplet",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Official",
-      "favoriteColor": "red",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -29,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Hard work beats talent.",
-      "clothes": "oversized-shawl-overshirt"
+      "clothes": "oversized-shawl-overshirt",
+      "favoriteColors": [
+        "beige",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Cranston",

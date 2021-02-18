@@ -19,14 +19,18 @@
       "fear": "Werewolf Hood",
       "quote": "Every cloud has a silver lining.",
       "siblings": "Youngest of 3 kids",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "white",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "House blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -35,7 +39,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Every cloud has a silver lining.",
-      "clothes": "watermelon-dress"
+      "clothes": "watermelon-dress",
+      "favoriteColors": [
+        "red",
+        "green"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Wendy",

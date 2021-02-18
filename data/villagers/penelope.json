@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "One mile or a thousand makes no difference to love.",
       "siblings": "Younger twin sister",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "pink",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "A lot of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -29,7 +33,15 @@
       "hobby": "Fashion",
       "subtype": "A",
       "quote": "One mile or a thousand makes no difference to love.",
-      "clothes": "oversized-print-dress"
+      "clothes": "oversized-print-dress",
+      "favoriteColors": [
+        "pink",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "gorgeous"
+      ]
     }
   },
   "name": "Penelope",

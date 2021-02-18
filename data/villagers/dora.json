@@ -37,14 +37,18 @@
       "fear": "Ghost Mask",
       "quote": "The squeaky wheel gets the cheese.",
       "siblings": "Eldest of 6 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "purple",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -53,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "The squeaky wheel gets the cheese.",
-      "clothes": "sea-hanten-shirt"
+      "clothes": "sea-hanten-shirt",
+      "favoriteColors": [
+        "blue",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Dora",

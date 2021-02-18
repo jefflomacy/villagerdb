@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "It's not always a dog-eat-dog world.",
       "siblings": "Eldest of 9 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "brown",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -53,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "It's not always a dog-eat-dog world.",
-      "clothes": "colorful-striped-sweater"
+      "clothes": "colorful-striped-sweater",
+      "favoriteColors": [
+        "colorful",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Daisy",

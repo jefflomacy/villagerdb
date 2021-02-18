@@ -26,14 +26,18 @@
       "fear": "Bug Mask",
       "quote": "Better a live coward than a dead hero.",
       "siblings": "Eldest quadruplet",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "gray",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -42,7 +46,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Better a live coward than a forgotten hero.",
-      "clothes": "royal-shirt"
+      "clothes": "royal-shirt",
+      "favoriteColors": [
+        "red",
+        "black"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Elvis",

@@ -24,14 +24,18 @@
       "fear": "Monster Mask",
       "quote": "Early to bed, early to rise.",
       "siblings": "Eldest of 6 kids",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "brown",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -40,7 +44,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Early to bed, early to rise.",
-      "clothes": "checkered-jumper-dress"
+      "clothes": "checkered-jumper-dress",
+      "favoriteColors": [
+        "red",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cute"
+      ]
     }
   },
   "name": "Ava",

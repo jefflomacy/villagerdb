@@ -26,14 +26,18 @@
       "fear": "Monster Mask",
       "quote": "...Quack.",
       "siblings": "Youngest triplet",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "brown",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -42,7 +46,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "...Quack.",
-      "clothes": "yodel-sweater"
+      "clothes": "yodel-sweater",
+      "favoriteColors": [
+        "brown",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Drake",

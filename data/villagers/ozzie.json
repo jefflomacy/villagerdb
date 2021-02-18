@@ -24,14 +24,18 @@
       "fear": "Bug Mask",
       "quote": "Half a loaf is better than none.",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "brown",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -40,7 +44,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Half a loaf is better than none.",
-      "clothes": "energetic-sweater"
+      "clothes": "energetic-sweater",
+      "favoriteColors": [
+        "yellow",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Ozzie",

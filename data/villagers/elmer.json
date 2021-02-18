@@ -37,14 +37,18 @@
       "fear": "Skeleton Hood",
       "quote": "The horse doesn't pull the cart, the oats do.",
       "siblings": "Youngest of 5 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "green",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -53,7 +57,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "The horse doesn't pull the cart, the oats do.",
-      "clothes": "boa-fleece"
+      "clothes": "boa-fleece",
+      "favoriteColors": [
+        "blue",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Elmer",

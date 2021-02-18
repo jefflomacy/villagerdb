@@ -36,14 +36,18 @@
       "fear": "Mummy Mask",
       "quote": "You can't learn a life lesson from a fortune cookie.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "pink",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Blend",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -52,7 +56,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "You can't learn a life lesson from a fortune cookie.",
-      "clothes": "simple-checkered-dress"
+      "clothes": "simple-checkered-dress",
+      "favoriteColors": [
+        "pink",
+        "black"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Friga",

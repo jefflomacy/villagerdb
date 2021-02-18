@@ -10,7 +10,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "song": "Hypno K.K.",
-      "clothes": "snowy-sweater"
+      "clothes": "snowy-sweater",
+      "favoriteColors": [
+        "gray",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Sherb",

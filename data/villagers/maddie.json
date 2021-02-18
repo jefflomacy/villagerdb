@@ -24,14 +24,18 @@
       "fear": "Bug Mask",
       "quote": "The IT revolution is under way.",
       "siblings": "Middle triplet",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "Pink",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Blue mountain",
         "milk": "lots of milk",
         "sugar": "3 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -40,7 +44,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "The IT revolution is under way.",
-      "clothes": "layered-sleeveless-dress"
+      "clothes": "layered-sleeveless-dress",
+      "favoriteColors": [
+        "purple",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Maddie",

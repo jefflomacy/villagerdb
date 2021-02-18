@@ -21,14 +21,18 @@
       "fear": "Bug Mask",
       "quote": "When it works, it works.",
       "siblings": "Youngest of 3 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "Blue",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "2 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -37,7 +41,15 @@
       "subtype": "A",
       "song": "To The Edge",
       "quote": "When it works, it works.",
-      "clothes": "simple-parka"
+      "clothes": "simple-parka",
+      "favoriteColors": [
+        "gray",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Paolo",

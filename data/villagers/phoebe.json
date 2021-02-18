@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "You can't keep a good bird down.",
       "siblings": "Fifth of 6 kids",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "yellow",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "uchi",
@@ -29,7 +33,15 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "You can't keep a good bird down.",
-      "clothes": "front-tie-tee"
+      "clothes": "front-tie-tee",
+      "favoriteColors": [
+        "black",
+        "red"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cool"
+      ]
     }
   },
   "name": "Phoebe",

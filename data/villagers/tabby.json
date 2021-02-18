@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "You can never have too much of a good thing!",
       "siblings": "Eldest of 9 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "black",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -53,7 +57,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "You can never have too much of a good thing!",
-      "clothes": "tee-dress"
+      "clothes": "tee-dress",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cool"
+      ]
     }
   },
   "name": "Tabby",

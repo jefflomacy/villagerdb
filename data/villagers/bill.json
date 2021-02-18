@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "Even though there's no 'I' in team, there is a 'me'!",
       "siblings": "Second quadruplet",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "green",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -53,7 +57,14 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Even though there's no 'I' in team, there is a 'me'!",
-      "clothes": "basketball-tank"
+      "clothes": "basketball-tank",
+      "favoriteColors": [
+        "blue",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "active"
+      ]
     }
   },
   "name": "Bill",

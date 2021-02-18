@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Like water off a duck's back.",
       "siblings": "Eldest of 9 kids",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "beige",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -29,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Like water off a duck's back.",
-      "clothes": "pintuck-pleated-dress"
+      "clothes": "pintuck-pleated-dress",
+      "favoriteColors": [
+        "yellow",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Molly",

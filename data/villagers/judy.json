@@ -10,7 +10,15 @@
       "hobby": "Music",
       "subtype": "A",
       "song": "K.K. Lullaby",
-      "clothes": "fairy-tale-dress"
+      "clothes": "fairy-tale-dress",
+      "favoriteColors": [
+        "pink",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Judy",

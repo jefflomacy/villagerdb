@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "You can't fight your genes.",
       "siblings": "Second of 3 sisters",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "white",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -40,7 +44,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "You can't fight your genes.",
-      "clothes": "pom-pom-sweater"
+      "clothes": "pom-pom-sweater",
+      "favoriteColors": [
+        "white",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "gorgeous"
+      ]
     }
   },
   "name": "Willow",

@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "Keep it mellow.",
       "siblings": "Youngest of 6 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "black",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -53,7 +57,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Keep it mellow.",
-      "clothes": "bone-tee"
+      "clothes": "bone-tee",
+      "favoriteColors": [
+        "yellow",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Dizzy",

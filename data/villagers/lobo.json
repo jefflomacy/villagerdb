@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "If it's not one thing, it's another.",
       "siblings": "Third quadruplet",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Official",
-      "favoriteColor": "black",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -53,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "If it's not one thing, it's another.",
-      "clothes": "bomber-style-jacket"
+      "clothes": "bomber-style-jacket",
+      "favoriteColors": [
+        "black",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "active"
+      ]
     }
   },
   "name": "Lobo",

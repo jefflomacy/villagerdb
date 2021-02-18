@@ -36,14 +36,18 @@
       "fear": "Monster Mask",
       "quote": "Charity begins at home.",
       "siblings": "Second of 6 kids",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "white",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -52,7 +56,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Charity begins at home.",
-      "clothes": "rad-power-skirt-suit"
+      "clothes": "rad-power-skirt-suit",
+      "favoriteColors": [
+        "purple",
+        "black"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Portia",

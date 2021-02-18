@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "Love is blind.",
       "siblings": "Eldest of 10 kids",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "gray",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Love is blind.",
-      "clothes": "noble-coat"
+      "clothes": "noble-coat",
+      "favoriteColors": [
+        "green",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "active"
+      ]
     }
   },
   "name": "Lionel",

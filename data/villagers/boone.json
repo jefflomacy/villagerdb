@@ -26,14 +26,18 @@
       "fear": "Skeleton Hood",
       "quote": "Never settle for second best.",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blend",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -42,7 +46,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Never settle for second best.",
-      "clothes": "cycling-shirt"
+      "clothes": "cycling-shirt",
+      "favoriteColors": [
+        "colorful",
+        "red"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Boone",

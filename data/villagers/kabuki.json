@@ -36,14 +36,18 @@
       "fear": "Skeleton Hood",
       "quote": "If you make your opponent flinch, you have already won.",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "purple",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -52,7 +56,14 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "If you make your opponent flinch, you have already won.",
-      "clothes": "kabuki-actor-yukata"
+      "clothes": "kabuki-actor-yukata",
+      "favoriteColors": [
+        "purple",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Kabuki",

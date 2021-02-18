@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "Nothing ventured, nothing gained.",
       "siblings": "Second of 5 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "brown",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -53,7 +57,14 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Nothing ventured, nothing gained.",
-      "clothes": "argyle-sweater"
+      "clothes": "argyle-sweater",
+      "favoriteColors": [
+        "brown",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Kiki",

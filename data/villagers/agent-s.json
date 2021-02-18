@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "You gotta put the pedal to the metal!",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "black",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -53,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "You gotta put the pedal to the metal!",
-      "clothes": "no-2-shirt"
+      "clothes": "no-2-shirt",
+      "favoriteColors": [
+        "blue",
+        "black"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Agent S",

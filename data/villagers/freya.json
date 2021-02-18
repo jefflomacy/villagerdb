@@ -30,14 +30,18 @@
       "fear": "Bug Mask",
       "quote": "Don't stray too far from the pack.",
       "siblings": "Eldest of 7 kids",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "black",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Mocha",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -46,7 +50,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Don't stray too far from the pack.",
-      "clothes": "reindeer-sweater"
+      "clothes": "reindeer-sweater",
+      "favoriteColors": [
+        "green",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Freya",

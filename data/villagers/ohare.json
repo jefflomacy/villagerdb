@@ -24,14 +24,18 @@
       "fear": "Bug Mask",
       "quote": "It's not old; it's vintage.",
       "siblings": "Second quintuplet",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "orange",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Blend",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -40,7 +44,15 @@
       "hobby": "Nature",
       "subtype": "B",
       "quote": "It's not old; it's vintage.",
-      "clothes": "pineapple-aloha-shirt"
+      "clothes": "pineapple-aloha-shirt",
+      "favoriteColors": [
+        "blue",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cool"
+      ]
     }
   },
   "name": "O'Hare",

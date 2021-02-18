@@ -30,14 +30,18 @@
       "fear": "Monster Mask",
       "quote": "Do not compare a fly with an elephant.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -46,7 +50,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Do not compare a fly with an elephant.",
-      "clothes": "kanji-tee"
+      "clothes": "kanji-tee",
+      "favoriteColors": [
+        "green",
+        "white"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Axel",

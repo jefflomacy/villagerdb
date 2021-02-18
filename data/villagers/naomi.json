@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Moo like there's no tomorrow.",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -29,7 +33,15 @@
       "hobby": "Fashion",
       "subtype": "A",
       "quote": "Moo like there's no tomorrow.",
-      "clothes": "marble-print-dress"
+      "clothes": "marble-print-dress",
+      "favoriteColors": [
+        "colorful",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Naomi",

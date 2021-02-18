@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "Where there's smoke, there's fire.",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "red",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Kilamanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -29,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Where there's smoke, there's fire.",
-      "clothes": "silk-shirt"
+      "clothes": "silk-shirt",
+      "favoriteColors": [
+        "red",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Croque",

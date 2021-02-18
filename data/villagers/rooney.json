@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "Bob and weave! Bob and weave!",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "red",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -29,7 +33,14 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "Bob and weave! Bob and weave!",
-      "clothes": "sleeveless-parka"
+      "clothes": "sleeveless-parka",
+      "favoriteColors": [
+        "gray",
+        "black"
+      ],
+      "favoriteStyles": [
+        "active"
+      ]
     }
   },
   "name": "Rooney",

@@ -18,14 +18,18 @@
       "fear": "Monster Mask",
       "quote": "A healthy mind makes for a healthy body.",
       "siblings": "Third quadruplet",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "White",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "3 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -34,7 +38,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "A healthy mind makes for a healthy body.",
-      "clothes": "doctors-coat"
+      "clothes": "doctors-coat",
+      "favoriteColors": [
+        "white",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "simple"
+      ]
     }
   },
   "name": "Raddle",

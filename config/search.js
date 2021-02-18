@@ -107,6 +107,18 @@ module.exports = {
             gameDependent: true,
             sort: 10
         },
+        favoriteColor: {
+            name: 'Favorite Color',
+            canAggregate: true,
+            gameDependent: true,
+            sort: 11
+        },
+        favoriteStyle: {
+            name: 'Favorite Style',
+            canAggregate: true,
+            gameDependent: true,
+            sort: 12
+        },
         species: {
             name: 'Species',
             values: {
@@ -147,7 +159,7 @@ module.exports = {
                 wolf: 'Wolf',
             },
             canAggregate: true,
-            sort: 11
+            sort: 13
         },
         zodiac: {
             name: 'Star Sign',
@@ -166,12 +178,12 @@ module.exports = {
                 virgo: 'Virgo'
             },
             canAggregate: true,
-            sort: 12
+            sort: 14
         },
         collab: {
             name: 'Collaboration',
             canAggregate: true,
-            sort: 13
+            sort: 15
         }
     }
 };

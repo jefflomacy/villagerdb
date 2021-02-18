@@ -26,14 +26,18 @@
       "fear": "Monster Mask",
       "quote": "Friends go together like peanut butter and bananas.",
       "siblings": "Third of 6 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Official",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Blend",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -42,7 +46,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Friends go together like peanut butter and bananas.",
-      "clothes": "striped-tank"
+      "clothes": "striped-tank",
+      "favoriteColors": [
+        "red",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Simon",

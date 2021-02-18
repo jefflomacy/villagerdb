@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "Winners don't quit, and quitters never win.",
       "siblings": "Fourth quintuplet",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "orange",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "a little bit of milk",
         "sugar": "one spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -29,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Winners don't quit, and quitters never win.",
-      "clothes": "tiger-jacket"
+      "clothes": "tiger-jacket",
+      "favoriteColors": [
+        "green",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cool"
+      ]
     }
   },
   "name": "Sheldon",

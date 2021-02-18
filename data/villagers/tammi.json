@@ -26,14 +26,18 @@
       "fear": "Mummy Mask",
       "quote": "Always be down to monkey around.",
       "siblings": "Youngest of 3 kids",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "brown",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -42,7 +46,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Always be down to monkey around!",
-      "clothes": "silk-floral-print-shirt"
+      "clothes": "silk-floral-print-shirt",
+      "favoriteColors": [
+        "purple",
+        "green"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "active"
+      ]
     }
   },
   "name": "Tammi",

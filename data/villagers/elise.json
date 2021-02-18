@@ -26,14 +26,18 @@
       "fear": "Bug Mask",
       "quote": "Do as I say, not as I do.",
       "siblings": "Eldest of 4 sisters",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Blend",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -42,7 +46,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Do as I say, not as I do.",
-      "clothes": "elegant-dress"
+      "clothes": "elegant-dress",
+      "favoriteColors": [
+        "purple",
+        "red"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Elise",

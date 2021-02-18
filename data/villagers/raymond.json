@@ -10,7 +10,15 @@
       "hobby": "Nature",
       "subtype": "B",
       "song": "K.K. Cruisin'",
-      "clothes": "waistcoat"
+      "clothes": "waistcoat",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Raymond",

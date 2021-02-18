@@ -37,14 +37,18 @@
       "skill": "Waking up early",
       "goal": "Basketball player",
       "siblings": "Middle triplet",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "yellow",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Mocha",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -53,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Refuse to lose.",
-      "clothes": "simple-dots-tee"
+      "clothes": "simple-dots-tee",
+      "favoriteColors": [
+        "aqua",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Rowan",

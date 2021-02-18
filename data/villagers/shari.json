@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "A good start leads to a good end.",
       "siblings": "Third of 4 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "beige",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Blend",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "uchi",
@@ -29,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "A good start leads to a good end.",
-      "clothes": "garden-tank"
+      "clothes": "garden-tank",
+      "favoriteColors": [
+        "aqua",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "active"
+      ]
     }
   },
   "name": "Shari",

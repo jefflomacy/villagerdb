@@ -36,14 +36,18 @@
       "fear": "Skeleton Hood",
       "quote": "Even the smallest acorn may grow into the tallest tree.",
       "siblings": "Youngest of 6 kids",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "yellow",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -52,7 +56,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Even the smallest acorn may grow into the tallest tree.",
-      "clothes": "snowy-sweater"
+      "clothes": "snowy-sweater",
+      "favoriteColors": [
+        "white",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Sally",

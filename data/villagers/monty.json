@@ -26,14 +26,18 @@
       "fear": "Skeleton Hood",
       "quote": "No news is good news.",
       "siblings": "Second of 5 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Official",
-      "favoriteColor": "blue",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -42,7 +46,14 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "No news is good news.",
-      "clothes": "guayabera-shirt"
+      "clothes": "guayabera-shirt",
+      "favoriteColors": [
+        "yellow",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool"
+      ]
     }
   },
   "name": "Monty",

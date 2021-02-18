@@ -31,14 +31,18 @@
       "skill": "Photography",
       "goal": "Stylist",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "purple",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Mocha",
         "milk": "None milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -47,7 +51,14 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Treat others as you would like to be treated.",
-      "clothes": "striped-maxi-dress"
+      "clothes": "striped-maxi-dress",
+      "favoriteColors": [
+        "red",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Alice",

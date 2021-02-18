@@ -29,14 +29,18 @@
       "fear": "Bug Mask",
       "quote": "Rocky road is more than just a flavor of ice cream.",
       "siblings": "Second of 5 kids",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "black",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -45,7 +49,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Rocky road is more than just a flavor of ice cream.",
-      "clothes": "dragon-jacket"
+      "clothes": "dragon-jacket",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Groucho",

@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "There is beauty in everything.",
       "siblings": "Middle of 7 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "orange",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "There is beauty in everything.",
-      "clothes": "checkered-muffler"
+      "clothes": "checkered-muffler",
+      "favoriteColors": [
+        "beige",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Quillson",

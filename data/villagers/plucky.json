@@ -23,14 +23,18 @@
       "fear": "Ghost Mask",
       "quote": "Keep your crumbs out of the bed.",
       "siblings": "Third of 5 kids",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "Yellow",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Mocha",
         "milk": "A little bit of milk",
         "sugar": "1 spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "uchi",
@@ -39,7 +43,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Keep your crumbs out of the bed.",
-      "clothes": "bold-muumuu"
+      "clothes": "bold-muumuu",
+      "favoriteColors": [
+        "aqua",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Plucky",

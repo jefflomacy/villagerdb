@@ -36,14 +36,18 @@
       "fear": "Bug Mask",
       "quote": "Waste not, want not.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "yellow",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -52,7 +56,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Waste not, want not.",
-      "clothes": "tree-sweater"
+      "clothes": "tree-sweater",
+      "favoriteColors": [
+        "beige",
+        "green"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Maple",

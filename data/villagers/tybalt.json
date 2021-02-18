@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "There's no excuse for half-baked potatoes.",
       "siblings": "Fourth quintuplet",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "Green",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -40,7 +44,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "There's no excuse for half-baked potatoes.",
-      "clothes": "simple-parka"
+      "clothes": "simple-parka",
+      "favoriteColors": [
+        "blue",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Tybalt",

@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "MeowMEOWmeow!",
       "siblings": "Third of 4 kids",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Official",
-      "favoriteColor": "purple",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "uchi",
@@ -29,7 +33,14 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "MeowMEOWmeow!",
-      "clothes": "old-school-jacket"
+      "clothes": "old-school-jacket",
+      "favoriteColors": [
+        "purple",
+        "black"
+      ],
+      "favoriteStyles": [
+        "cool"
+      ]
     }
   },
   "name": "Katt",

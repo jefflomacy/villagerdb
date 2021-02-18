@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Eucalyptus is the spice of life.",
       "siblings": "Fifth of 6 kids",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "green",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -29,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Eucalyptus is the spice of life.",
-      "clothes": "vertical-stripes-shirt"
+      "clothes": "vertical-stripes-shirt",
+      "favoriteColors": [
+        "aqua",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Lyman",

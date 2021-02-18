@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "Don't bite off more than you can chew.",
       "siblings": "Eldest of 7 kids",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -29,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Don't bite off more than you can chew.",
-      "clothes": "camo-tee"
+      "clothes": "camo-tee",
+      "favoriteColors": [
+        "brown",
+        "green"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Sly",

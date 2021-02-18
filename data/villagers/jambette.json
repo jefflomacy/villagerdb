@@ -30,14 +30,18 @@
       "fear": "Ghost Mask",
       "quote": "It takes more muscles to frown than to smile.",
       "siblings": "Third of 4 kids",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "brown",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -46,7 +50,14 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "It takes more muscles to frown than smile.",
-      "clothes": "shell-dress"
+      "clothes": "shell-dress",
+      "favoriteColors": [
+        "brown",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "cool"
+      ]
     }
   },
   "name": "Jambette",

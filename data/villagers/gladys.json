@@ -31,14 +31,18 @@
       "skill": "Calligraphy",
       "goal": "Architect",
       "siblings": "Eldest of 3 sisters",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "green",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -47,7 +51,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Smiles are free.",
-      "clothes": "misty-tee"
+      "clothes": "misty-tee",
+      "favoriteColors": [
+        "green",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cute"
+      ]
     }
   },
   "name": "Gladys",

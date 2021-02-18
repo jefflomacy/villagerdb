@@ -23,14 +23,18 @@
       "fear": "Mummy Mask",
       "quote": "Where there's life, there's hope.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "Black",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "3 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -39,7 +43,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Where there's life, there's hope.",
-      "clothes": "lacy-shirt"
+      "clothes": "lacy-shirt",
+      "favoriteColors": [
+        "black",
+        "white"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Piper",

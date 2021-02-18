@@ -26,14 +26,18 @@
       "fear": "Monster Mask",
       "quote": "Bread always falls peanut-butter side down.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -42,7 +46,14 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Bread always falls peanut-butter side down.",
-      "clothes": "pom-pom-sweater"
+      "clothes": "pom-pom-sweater",
+      "favoriteColors": [
+        "pink",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Nana",

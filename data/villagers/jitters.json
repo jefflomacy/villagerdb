@@ -26,14 +26,18 @@
       "fear": "Skeleton Hood",
       "quote": "When you're a team of one, you're always captain!",
       "siblings": "Second quintuplet",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "yellow",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -42,7 +46,14 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "When you're a team of one, you're always captain!",
-      "clothes": "soccer-uniform-top"
+      "clothes": "soccer-uniform-top",
+      "favoriteColors": [
+        "yellow",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "active"
+      ]
     }
   },
   "name": "Jitters",

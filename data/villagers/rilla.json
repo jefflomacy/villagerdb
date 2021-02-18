@@ -14,14 +14,18 @@
       "fear": "Skeleton Hood",
       "quote": "Where there's a will, there's a way.",
       "siblings": "Older twin sister",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "Red",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     }
   },
   "name": "Rilla",

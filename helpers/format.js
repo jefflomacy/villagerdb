@@ -182,6 +182,47 @@ function aOrAn(word) {
 module.exports.aOrAn = aOrAn;
 
 /**
+ * Takes an array as input and returns 'is' if it only has one element, or 'are' if it has
+ * multiple. A non-array input type always returns 'is'.
+ *
+ * @param arr
+ * @returns {string}
+ */
+function isOrAre(arr) {
+    if (typeof arr !== 'object') {
+        return 'is';
+    }
+
+    if (arr.length > 1) {
+        return 'are';
+    }
+
+    return 'is';
+}
+module.exports.isOrAre = isOrAre;
+
+/**
+ * Takes a word and an array as input. If the array has a single element or is not an array,
+ * the original word is returned. Otherwise, returns the word with 's' appended.
+ *
+ * @param word
+ * @param arr
+ * @returns {string|*}
+ */
+function singularOrPlural(word, arr) {
+    if (typeof arr !== 'object') {
+        return word;
+    }
+
+    if (arr.length > 1) {
+        return word + 's';
+    }
+
+    return word;
+}
+module.exports.singularOrPlural = singularOrPlural;
+
+/**
  * Turn any string into a URL-friendly slug
  *
  * @param s input string

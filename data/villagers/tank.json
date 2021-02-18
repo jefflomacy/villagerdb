@@ -37,14 +37,18 @@
       "fear": "Skeleton Hood",
       "quote": "Remember to keep your core muscles engaged!",
       "siblings": "Younger twin brother",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "green",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No Milk",
         "sugar": "No Sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -53,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Remember to keep your core muscles engaged!",
-      "clothes": "no-1-shirt"
+      "clothes": "no-1-shirt",
+      "favoriteColors": [
+        "red",
+        "green"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Tank",

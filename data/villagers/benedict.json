@@ -31,14 +31,18 @@
       "skill": "Remembering stuff",
       "goal": "Poet",
       "siblings": "Youngest quadruplet",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "yellow",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -47,7 +51,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Don't put all your eggs in one basket.",
-      "clothes": "two-ball-tee"
+      "clothes": "two-ball-tee",
+      "favoriteColors": [
+        "blue",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Benedict",

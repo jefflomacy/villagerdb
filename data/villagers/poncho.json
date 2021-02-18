@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "Fortune favors the brave!",
       "siblings": "Second of 6 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "orange",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -53,7 +57,14 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Fortune favors the brave!",
-      "clothes": "energetic-sweater"
+      "clothes": "energetic-sweater",
+      "favoriteColors": [
+        "orange",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Poncho",

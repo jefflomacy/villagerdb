@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Please DO feed the bears!",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "aqua",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -29,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Please DO feed the bears!",
-      "clothes": "animal-stripes-tee"
+      "clothes": "animal-stripes-tee",
+      "favoriteColors": [
+        "yellow",
+        "black"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Barold",

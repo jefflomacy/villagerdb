@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "Even strong men cry.",
       "siblings": "Second of 5 kids",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "green",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -53,7 +57,14 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Even strong bulls cry.",
-      "clothes": "flame-tee"
+      "clothes": "flame-tee",
+      "favoriteColors": [
+        "red",
+        "black"
+      ],
+      "favoriteStyles": [
+        "cool"
+      ]
     }
   },
   "name": "Angus",

@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "Meeting is just the start of us saying good-bye.",
       "siblings": "Eldest of 9 kids",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "yellow",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Kilamanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,15 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "Meeting is just the start of us saying goodbye.",
-      "clothes": "tailcoat"
+      "clothes": "tailcoat",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Chadder",

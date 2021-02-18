@@ -37,14 +37,18 @@
       "fear": "Skeleton Hood",
       "quote": "Don't skip lunch. Ever.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "yellow",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Mocha",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -53,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Don't skip lunch. Ever.",
-      "clothes": "down-jacket"
+      "clothes": "down-jacket",
+      "favoriteColors": [
+        "blue",
+        "black"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "active"
+      ]
     }
   },
   "name": "Rolf",

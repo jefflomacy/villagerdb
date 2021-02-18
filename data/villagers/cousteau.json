@@ -30,14 +30,18 @@
       "fear": "Bug Mask",
       "quote": "Jump first; ask questions later.",
       "siblings": "Eldest of 7 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "red",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blue mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -46,7 +50,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Jump first, ask questions later.",
-      "clothes": "silk-shirt"
+      "clothes": "silk-shirt",
+      "favoriteColors": [
+        "green",
+        "red"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Cousteau",

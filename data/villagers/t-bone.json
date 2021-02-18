@@ -23,14 +23,18 @@
       "fear": "Mummy Mask",
       "quote": "Don't have a cow.",
       "siblings": "Youngest quadruplet",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "gray",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -39,7 +43,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Don't have a cow.",
-      "clothes": "hanten-jacket"
+      "clothes": "hanten-jacket",
+      "favoriteColors": [
+        "blue",
+        "black"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "T-Bone",

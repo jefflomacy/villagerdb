@@ -23,14 +23,18 @@
       "fear": "Werewolf Hood",
       "quote": "Request forgiveness, not permission.",
       "siblings": "The only child",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "Brown",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "A little bit of milk",
         "sugar": "1 spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -39,7 +43,14 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Request forgiveness, not permission.",
-      "clothes": "misty-tee"
+      "clothes": "misty-tee",
+      "favoriteColors": [
+        "green",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Snooty",

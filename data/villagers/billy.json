@@ -24,14 +24,18 @@
       "fear": "Skeleton Hood",
       "quote": "Old dogs can learn new tricks.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "Brown",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -40,7 +44,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Old dogs can learn new tricks.",
-      "clothes": "hanten-jacket"
+      "clothes": "hanten-jacket",
+      "favoriteColors": [
+        "blue",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Billy",

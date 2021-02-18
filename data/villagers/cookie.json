@@ -30,14 +30,18 @@
       "fear": "Bug Mask",
       "quote": "Don't lose sight of what you're really after.",
       "siblings": "Fifth of 6 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "green",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -46,7 +50,14 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Don't lose sight of what you're really after.",
-      "clothes": "retro-dress"
+      "clothes": "retro-dress",
+      "favoriteColors": [
+        "green",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Cookie",

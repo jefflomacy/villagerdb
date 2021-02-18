@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "There's a black sheep in every family.",
       "siblings": "Only child",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "black",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "uchi",
@@ -29,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "There's a black sheep in every family.",
-      "clothes": "ruffled-dress"
+      "clothes": "ruffled-dress",
+      "favoriteColors": [
+        "black",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Muffy",

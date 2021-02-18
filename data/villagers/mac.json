@@ -19,14 +19,18 @@
       "fear": "Skeleton Hood",
       "quote": "Sometimes life is rough.",
       "siblings": "Eldest quadruplet",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "red",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -35,7 +39,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Sometimes life is rough.",
-      "clothes": "raglan-shirt"
+      "clothes": "raglan-shirt",
+      "favoriteColors": [
+        "red",
+        "black"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cool"
+      ]
     }
   },
   "name": "Mac",

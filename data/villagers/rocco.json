@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "The only thing to fear is fear itself... and bees.",
       "siblings": "Eldest of 6 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Official",
-      "favoriteColor": "yellow",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -53,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "The only thing to fear is fear itself... and wasps!",
-      "clothes": "danger-tank"
+      "clothes": "danger-tank",
+      "favoriteColors": [
+        "yellow",
+        "black"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Rocco",

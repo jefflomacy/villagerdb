@@ -24,14 +24,18 @@
       "fear": "Skeleton Hood",
       "quote": "You can't have wise men if you don't have fools too.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "blue",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -40,7 +44,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "You can't have wise folks if you don't have fools too.",
-      "clothes": "marble-dots-dress"
+      "clothes": "marble-dots-dress",
+      "favoriteColors": [
+        "blue",
+        "black"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Francine",

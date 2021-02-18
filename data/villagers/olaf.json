@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "Keep your nose clean.",
       "siblings": "Older twin",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "red",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Keep your nose clean.",
-      "clothes": "suit-of-lights"
+      "clothes": "suit-of-lights",
+      "favoriteColors": [
+        "red",
+        "black"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Olaf",

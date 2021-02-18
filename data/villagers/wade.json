@@ -18,14 +18,18 @@
       "fear": "Werewolf Hood",
       "quote": "Which came first, the seeds or the sunflower?",
       "siblings": "Fourth of 6 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "Brown",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -34,7 +38,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Which came first, the seeds or the sunflower?",
-      "clothes": "frog-tee"
+      "clothes": "frog-tee",
+      "favoriteColors": [
+        "aqua",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "gorgeous"
+      ]
     }
   },
   "name": "Wade",

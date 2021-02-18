@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "Nothing beats personal experience.",
       "siblings": "Fourth of 5 kids",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "white",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -29,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Nothing beats personal experience.",
-      "clothes": "butterfly-visiting-kimono"
+      "clothes": "butterfly-visiting-kimono",
+      "favoriteColors": [
+        "black",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Blanche",

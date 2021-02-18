@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "There's an exception to every rule.",
       "siblings": "Eldest of 4 sisters",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "white",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -53,7 +57,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "There's an exception to every rule.",
-      "clothes": "sweetheart-dress"
+      "clothes": "sweetheart-dress",
+      "favoriteColors": [
+        "white",
+        "black"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "elegant"
+      ]
     }
   },
   "name": "Olivia",

@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "You snooze, you lose.",
       "siblings": "Eldest of 8 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "beige",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -29,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "You snooze, you lose.",
-      "clothes": "reindeer-sweater"
+      "clothes": "reindeer-sweater",
+      "favoriteColors": [
+        "beige",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Beau",

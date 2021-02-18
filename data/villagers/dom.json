@@ -10,7 +10,15 @@
       "hobby": "Play",
       "subtype": "A",
       "song": "K.K. Country",
-      "clothes": "tie-dye-shirt"
+      "clothes": "tie-dye-shirt",
+      "favoriteColors": [
+        "red",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cute"
+      ]
     }
   },
   "name": "Dom",

@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "If you're afraid of wolves, don't go to the woods.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "aqua",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -29,7 +33,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "If you're afraid of wolves, don't go to the woods.",
-      "clothes": "yodel-sweater"
+      "clothes": "yodel-sweater",
+      "favoriteColors": [
+        "beige",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Erik",

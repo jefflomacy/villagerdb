@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "Don't bite the hand that feeds you.",
       "siblings": "Fourth quintuplet",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "purple",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -53,7 +57,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Don't bite the hand that feeds you.",
-      "clothes": "open-collar-shirt"
+      "clothes": "open-collar-shirt",
+      "favoriteColors": [
+        "beige",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Lucky",

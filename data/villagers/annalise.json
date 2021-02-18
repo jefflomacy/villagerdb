@@ -24,14 +24,18 @@
       "fear": "Mummy Mask",
       "quote": "Let gossip in one ear and out the other.",
       "siblings": "Youngest of 3 sisters",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "purple",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -40,7 +44,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Let gossip go in one ear and out the other.",
-      "clothes": "bold-muumuu"
+      "clothes": "bold-muumuu",
+      "favoriteColors": [
+        "blue",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "active"
+      ]
     }
   },
   "name": "Annalise",

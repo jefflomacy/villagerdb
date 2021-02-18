@@ -36,14 +36,18 @@
       "fear": "Monster Mask",
       "quote": "The best things in life are free.",
       "siblings": "Youngest of 6 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "pink",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -52,7 +56,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "The best things in life are free.",
-      "clothes": "tee-parka-combo"
+      "clothes": "tee-parka-combo",
+      "favoriteColors": [
+        "green",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "gorgeous"
+      ]
     }
   },
   "name": "Truffles",

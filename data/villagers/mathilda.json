@@ -37,14 +37,18 @@
       "fear": "Skeleton Hood",
       "quote": "Nail polish is thicker than water.",
       "siblings": "Youngest of 3 sisters",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "black",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -53,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Nail polish is thicker than water.",
-      "clothes": "sleeveless-sweater-dress"
+      "clothes": "sleeveless-sweater-dress",
+      "favoriteColors": [
+        "white",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Mathilda",

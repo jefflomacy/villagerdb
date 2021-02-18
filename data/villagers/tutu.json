@@ -30,14 +30,18 @@
       "fear": "Skeleton Hood",
       "quote": "Even best friends start out as strangers!",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "pink",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -46,7 +50,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Even the best of friends start out as strangers.",
-      "clothes": "heart-sweater"
+      "clothes": "heart-sweater",
+      "favoriteColors": [
+        "pink",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Tutu",

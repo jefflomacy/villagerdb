@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "Don't cut off your nose to spite your face.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "yellow",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -53,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Don't punch your nose to spite your face.",
-      "clothes": "judogi"
+      "clothes": "judogi",
+      "favoriteColors": [
+        "yellow",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "active"
+      ]
     }
   },
   "name": "Cyrano",

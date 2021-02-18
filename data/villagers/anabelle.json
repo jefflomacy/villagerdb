@@ -26,14 +26,18 @@
       "fear": "Ghost Mask",
       "quote": "Dance like no one's watching!",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "green",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -42,7 +46,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Dance like no one's watching!",
-      "clothes": "bold-muumuu"
+      "clothes": "bold-muumuu",
+      "favoriteColors": [
+        "green",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Anabelle",

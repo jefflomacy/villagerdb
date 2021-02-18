@@ -26,14 +26,18 @@
       "fear": "Ghost Mask",
       "quote": "It takes two to tango.",
       "siblings": "Third of 6 kids",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -42,7 +46,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "It takes two to tango.",
-      "clothes": "retro-sweater"
+      "clothes": "retro-sweater",
+      "favoriteColors": [
+        "colorful",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cute"
+      ]
     }
   },
   "name": "Tipper",

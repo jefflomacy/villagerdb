@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "It's always teatime somewhere.",
       "siblings": "Eldest of 4 sisters",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "green",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -29,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "B",
       "quote": "It's always teatime somewhere.",
-      "clothes": "fairy-tale-dress"
+      "clothes": "fairy-tale-dress",
+      "favoriteColors": [
+        "red",
+        "green"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Cally",

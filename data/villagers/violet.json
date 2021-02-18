@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "Pearls are a pink gorilla's best friend.",
       "siblings": "Second of 5 kids",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "pink",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -40,7 +44,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Pearls are a pink gorilla's best friend.",
-      "clothes": "poncho-style-sweater"
+      "clothes": "poncho-style-sweater",
+      "favoriteColors": [
+        "purple",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cool"
+      ]
     }
   },
   "name": "Violet",

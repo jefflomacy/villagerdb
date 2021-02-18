@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "Everything is temporary.",
       "siblings": "Eldest of 9 kids",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Everything is temporary.",
-      "clothes": "striped-tank"
+      "clothes": "striped-tank",
+      "favoriteColors": [
+        "pink",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cool"
+      ]
     }
   },
   "name": "Rodney",

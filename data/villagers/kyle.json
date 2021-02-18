@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "Never trust a sheep in wolf's clothing.",
       "siblings": "Eldest of 10 kids",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "gray",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Never trust a sheep in wolf's clothing.",
-      "clothes": "gilet-and-shirt"
+      "clothes": "gilet-and-shirt",
+      "favoriteColors": [
+        "black",
+        "white"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cool"
+      ]
     }
   },
   "name": "Kyle",

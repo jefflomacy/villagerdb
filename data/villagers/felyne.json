@@ -14,13 +14,15 @@
       "skill": "Befriending cats",
       "goal": "Monster hunter",
       "siblings": "Only child",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Cute/Fancy",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of Milk",
         "sugar": "3 Spoonfuls Sugar"
-      }
+      },
+      "favoriteStyles": [
+        "sporty"
+      ]
     }
   },
   "name": "Felyne",

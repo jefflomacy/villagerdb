@@ -36,14 +36,18 @@
       "fear": "Werewolf Hood",
       "quote": "Funny parents have funny kids.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "beige",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -52,7 +56,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Funny parents have funny kids.",
-      "clothes": "striped-halter-dress"
+      "clothes": "striped-halter-dress",
+      "favoriteColors": [
+        "purple",
+        "red"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "simple"
+      ]
     }
   },
   "name": "Kitt",

@@ -14,14 +14,18 @@
       "fear": "Ghost Mask",
       "quote": "Never be ashamed to pig out.",
       "siblings": "Only child",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "Black",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     }
   },
   "name": "Ganon",

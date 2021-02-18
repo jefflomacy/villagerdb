@@ -21,14 +21,18 @@
       "fear": "Skeleton Hood",
       "quote": "Keep your eye on the ball.",
       "siblings": "Third of 4 kids",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "Blue",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "The regular amount of milk",
         "sugar": "2 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -37,7 +41,15 @@
       "subtype": "A",
       "song": "K.K. House",
       "quote": "Keep your eye on the ball.",
-      "clothes": "gold-print-tee"
+      "clothes": "gold-print-tee",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Spike",

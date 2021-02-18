@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "The world is a stage.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "purple",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -29,7 +33,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "The world is a stage.",
-      "clothes": "pinafore"
+      "clothes": "pinafore",
+      "favoriteColors": [
+        "pink",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "simple"
+      ]
     }
   },
   "name": "Greta",

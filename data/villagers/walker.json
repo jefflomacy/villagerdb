@@ -37,14 +37,18 @@
       "skill": "Clearing my plate",
       "goal": "Photographer",
       "siblings": "Eldest of 10 kids",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "red",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -53,7 +57,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "The dog wags his tail, not for you, but for your bread.",
-      "clothes": "five-ball-tee"
+      "clothes": "five-ball-tee",
+      "favoriteColors": [
+        "orange",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Walker",

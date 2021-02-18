@@ -24,14 +24,18 @@
       "fear": "Monster Mask",
       "quote": "A fool and her Bells are soon parted.",
       "siblings": "Youngest of 4 sisters",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "pink",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -40,7 +44,14 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "A fool and their Bells are soon parted.",
-      "clothes": "marble-dots-dress"
+      "clothes": "marble-dots-dress",
+      "favoriteColors": [
+        "pink",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Chrissy",

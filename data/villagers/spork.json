@@ -30,14 +30,18 @@
       "fear": "Bug Mask",
       "quote": "It's never too late for a snack.",
       "siblings": "Younger twin brother",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "green",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Kilamanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -46,7 +50,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "It's never too late for a snack.",
-      "clothes": "layered-shirt"
+      "clothes": "layered-shirt",
+      "favoriteColors": [
+        "green",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Spork",

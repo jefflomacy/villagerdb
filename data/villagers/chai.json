@@ -14,13 +14,15 @@
       "fear": "Bug Mask",
       "quote": "He who chases two rabbit catches none.",
       "siblings": "Only child",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Basic",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Blend",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     }
   },
   "name": "Chai",

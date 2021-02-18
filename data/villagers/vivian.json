@@ -18,14 +18,18 @@
       "fear": "Bug Mask",
       "quote": "Onwards and upwards!",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "Red",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "3 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -34,7 +38,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Onwards and upwards!",
-      "clothes": "peacoat-and-skirt-combo"
+      "clothes": "peacoat-and-skirt-combo",
+      "favoriteColors": [
+        "gray",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Vivian",

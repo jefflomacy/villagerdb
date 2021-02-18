@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "No sweater off my back.",
       "siblings": "Eldest of 7 kids",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "orange",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -53,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "No sweater off my back.",
-      "clothes": "hand-knit-tank"
+      "clothes": "hand-knit-tank",
+      "favoriteColors": [
+        "orange",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Vesta",

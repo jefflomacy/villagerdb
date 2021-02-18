@@ -28,14 +28,18 @@
       "fear": "Skeleton Hood",
       "quote": "Trouble never comes alone.",
       "siblings": "Second of 6 kids",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "yellow",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -44,7 +48,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Trouble never comes alone.",
-      "clothes": "striped-shirt"
+      "clothes": "striped-shirt",
+      "favoriteColors": [
+        "yellow",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Vladimir",

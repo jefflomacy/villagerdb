@@ -30,14 +30,18 @@
       "fear": "Ghost Mask",
       "quote": "If the mask fits, wear it!",
       "siblings": "Third quintuplet",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Official",
-      "favoriteColor": "blue",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -46,7 +50,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "If the mask fits, wear it!",
-      "clothes": "athletic-jacket"
+      "clothes": "athletic-jacket",
+      "favoriteColors": [
+        "red",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Stinky",

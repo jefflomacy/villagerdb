@@ -18,14 +18,18 @@
       "fear": "Monster Mask",
       "quote": "Be yourself - everyone else is already taken.",
       "siblings": "Youngest of 3 kids",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "gray",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -34,7 +38,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Be yourself, everyone else is already taken.",
-      "clothes": "tailored-jacket"
+      "clothes": "tailored-jacket",
+      "favoriteColors": [
+        "gray",
+        "white"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Kidd",

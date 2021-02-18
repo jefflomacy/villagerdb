@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "A head shot is worth a thousand words.",
       "siblings": "Youngest of 4 sisters",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "black",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -53,7 +57,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "A glamour shot is worth a thousand words.",
-      "clothes": "tee-dress"
+      "clothes": "tee-dress",
+      "favoriteColors": [
+        "black",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "active"
+      ]
     }
   },
   "name": "Bella",

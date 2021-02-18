@@ -18,14 +18,18 @@
       "fear": "Ghost Mask",
       "quote": "A wise man gives danger a wide berth.",
       "siblings": "Youngest quintuplet",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "Yellow",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -34,7 +38,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "A wise mammal gives danger a wide berth.",
-      "clothes": "striped-shirt"
+      "clothes": "striped-shirt",
+      "favoriteColors": [
+        "blue",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Hopkins",

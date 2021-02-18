@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "Hindsight is always 20/20.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "white",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "2 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -29,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Hindsight is always 20/20.",
-      "clothes": "sleeveless-tunic"
+      "clothes": "sleeveless-tunic",
+      "favoriteColors": [
+        "aqua",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Bonbon",

@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "Clothes totally make the man.",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "purple",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blend",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Clothes totally make the mammal.",
-      "clothes": "gilet-and-shirt"
+      "clothes": "gilet-and-shirt",
+      "favoriteColors": [
+        "purple",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Zell",

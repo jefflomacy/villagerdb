@@ -37,14 +37,18 @@
       "skill": "Staying awake",
       "goal": "Cartoonist",
       "siblings": "Youngest of 6 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "blue",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -53,7 +57,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "There's always more fish in the sea!",
-      "clothes": "madras-plaid-shirt"
+      "clothes": "madras-plaid-shirt",
+      "favoriteColors": [
+        "blue",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Punchy",

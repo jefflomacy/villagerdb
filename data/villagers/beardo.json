@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Ladies first!",
       "siblings": "Middle kid",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "brown",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,14 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Fashion first!",
-      "clothes": "tweed-jacket"
+      "clothes": "tweed-jacket",
+      "favoriteColors": [
+        "brown",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "elegant"
+      ]
     }
   },
   "name": "Beardo",

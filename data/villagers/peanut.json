@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "Never take a nibble when you can take a bite.",
       "siblings": "Middle triplet",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "red",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two sugars"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -53,7 +57,14 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Never take a nibble when you can take a bite.",
-      "clothes": "striped-maxi-dress"
+      "clothes": "striped-maxi-dress",
+      "favoriteColors": [
+        "red",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Peanut",

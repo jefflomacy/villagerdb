@@ -37,14 +37,18 @@
       "fear": "Ghost Mask",
       "quote": "Nanny-nanny boo-boo!",
       "siblings": "Fourth of 5 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "black",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -53,7 +57,15 @@
       "hobby": "Nature",
       "subtype": "B",
       "quote": "Nanny-nanny boo-boo!",
-      "clothes": "tweed-dress"
+      "clothes": "tweed-dress",
+      "favoriteColors": [
+        "orange",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Nan",

@@ -31,14 +31,18 @@
       "skill": "Sprinting",
       "goal": "Explorer",
       "siblings": "Youngest quadruplet",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "purple",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -47,7 +51,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "If you can't beat 'em, work harder.",
-      "clothes": "striped-tank"
+      "clothes": "striped-tank",
+      "favoriteColors": [
+        "blue",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cool"
+      ]
     }
   },
   "name": "Rod",

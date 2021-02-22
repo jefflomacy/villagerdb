@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "Before you judge someone, walk a mile in her hooves.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "beige",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "uchi",
@@ -29,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Before you judge someone, walk a mile in their hooves.",
-      "clothes": "rainbow-sweater"
+      "clothes": "rainbow-sweater",
+      "favoriteColors": [
+        "red",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "elegant"
+      ]
     }
   },
   "name": "Pashmina",

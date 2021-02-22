@@ -25,14 +25,18 @@
       "fear": "Ghost Mask",
       "quote": "Don't look down your nose at people!",
       "siblings": "Only child",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "white",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -41,7 +45,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Don't look down your nose at people!",
-      "clothes": "ruffled-dress"
+      "clothes": "ruffled-dress",
+      "favoriteColors": [
+        "purple",
+        "black"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Rhonda",

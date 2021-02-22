@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "Take the good with the bad.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "gray",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -29,7 +33,14 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "Take the good with the bad.",
-      "clothes": "casual-kimono"
+      "clothes": "casual-kimono",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool"
+      ]
     }
   },
   "name": "Walt",

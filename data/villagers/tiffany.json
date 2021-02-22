@@ -37,14 +37,18 @@
       "fear": "Skeleton Hood",
       "quote": "What is cheap is most costly.",
       "siblings": "Third of 4 kids",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Official",
-      "favoriteColor": "red",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -53,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "What is cheap is most costly.",
-      "clothes": "chic-tuxedo-dress"
+      "clothes": "chic-tuxedo-dress",
+      "favoriteColors": [
+        "black",
+        "red"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cool"
+      ]
     }
   },
   "name": "Tiffany",

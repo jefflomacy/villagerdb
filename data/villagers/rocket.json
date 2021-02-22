@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "Art feeds the soul. So does pizza.",
       "siblings": "Youngest of 4 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Official",
-      "favoriteColor": "pink",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "uchi",
@@ -29,7 +33,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Art feeds the soul. So does pizza.",
-      "clothes": "no-4-shirt"
+      "clothes": "no-4-shirt",
+      "favoriteColors": [
+        "pink",
+        "red"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cool"
+      ]
     }
   },
   "name": "Rocket",

@@ -24,14 +24,18 @@
       "fear": "Bug Mask",
       "quote": "Sticky fingers attract bees.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "Pink",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -40,7 +44,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Sticky fingers attract bees.",
-      "clothes": "plover-dress"
+      "clothes": "plover-dress",
+      "favoriteColors": [
+        "brown",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Olive",

@@ -24,14 +24,18 @@
       "fear": "Skeleton Hood",
       "quote": "You gotta break a few shells to get to the nut.",
       "siblings": "Eldest of 10 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "aqua",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -40,7 +44,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "You gotta break a few shells to get to the nut.",
-      "clothes": "three-ball-tee"
+      "clothes": "three-ball-tee",
+      "favoriteColors": [
+        "blue",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Ricky",

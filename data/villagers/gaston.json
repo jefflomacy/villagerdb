@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "An ear for an ear leaves everyone deaf.",
       "siblings": "Eldest triplet",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "green",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -53,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "An ear for an ear makes it hard to hear.",
-      "clothes": "color-block-dress-shirt"
+      "clothes": "color-block-dress-shirt",
+      "favoriteColors": [
+        "brown",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "gorgeous"
+      ]
     }
   },
   "name": "Gaston",

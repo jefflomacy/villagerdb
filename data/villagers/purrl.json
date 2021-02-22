@@ -36,14 +36,18 @@
       "fear": "Monster Mask",
       "quote": "Let them drink cream.",
       "siblings": "Youngest triplet",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "gray",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -52,7 +56,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Let them drink cream.",
-      "clothes": "kung-fu-tee"
+      "clothes": "kung-fu-tee",
+      "favoriteColors": [
+        "gray",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "elegant"
+      ]
     }
   },
   "name": "Purrl",

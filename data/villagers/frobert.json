@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "Always aim high!",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -53,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Always aim high!",
-      "clothes": "striped-tee"
+      "clothes": "striped-tee",
+      "favoriteColors": [
+        "blue",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Frobert",

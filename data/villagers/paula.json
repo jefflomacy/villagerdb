@@ -18,14 +18,18 @@
       "fear": "Monster Mask",
       "quote": "Trends always make a comeback.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "orange",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "uchi",
@@ -34,7 +38,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Trends always make a comeback.",
-      "clothes": "zigzag-print-dress"
+      "clothes": "zigzag-print-dress",
+      "favoriteColors": [
+        "orange",
+        "green"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "active"
+      ]
     }
   },
   "name": "Paula",

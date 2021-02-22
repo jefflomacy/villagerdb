@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Sometimes dreams are merely dreams.",
       "siblings": "Fourth of 6 kids",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "orange",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -29,7 +33,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Sometimes dreams are merely dreams.",
-      "clothes": "sari"
+      "clothes": "sari",
+      "favoriteColors": [
+        "red",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Soleil",

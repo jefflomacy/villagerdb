@@ -31,14 +31,18 @@
       "skill": "Fishing",
       "goal": "CEO",
       "siblings": "Youngest of 5 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -47,7 +51,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Ignorance is bliss.",
-      "clothes": "simple-parka"
+      "clothes": "simple-parka",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Moe",

@@ -36,14 +36,18 @@
       "fear": "Bug Mask",
       "quote": "Always go for the gold!",
       "siblings": "Youngest of 3 kids",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "orange",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -52,7 +56,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Always go for the gold!",
-      "clothes": "six-ball-tee"
+      "clothes": "six-ball-tee",
+      "favoriteColors": [
+        "orange",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Drift",

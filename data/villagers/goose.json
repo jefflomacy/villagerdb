@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "Birds of a feather crow together.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "white",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -53,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Birds of a feather crow together.",
-      "clothes": "bold-aloha-shirt"
+      "clothes": "bold-aloha-shirt",
+      "favoriteColors": [
+        "blue",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Goose",

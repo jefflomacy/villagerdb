@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "Keep your chin up!",
       "siblings": "Second of 6 kids",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "gray",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -53,7 +57,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Keep your chin up!",
-      "clothes": "top-coat"
+      "clothes": "top-coat",
+      "favoriteColors": [
+        "aqua",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Savannah",

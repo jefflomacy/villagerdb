@@ -24,14 +24,18 @@
       "fear": "Bug Mask",
       "quote": "The best part of spring is the picnics!",
       "siblings": "Youngest of 3 sisters",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "gray",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -40,7 +44,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "The best part of spring is the picnics!",
-      "clothes": "pintuck-pleated-dress"
+      "clothes": "pintuck-pleated-dress",
+      "favoriteColors": [
+        "pink",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Bertha",

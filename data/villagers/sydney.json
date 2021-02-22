@@ -30,14 +30,18 @@
       "fear": "Mummy Mask",
       "quote": "Sail wherever the wind takes you.",
       "siblings": "Youngest of 3 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "brown",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Mocha",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -46,7 +50,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Sail wherever the wind takes you.",
-      "clothes": "overall-dress"
+      "clothes": "overall-dress",
+      "favoriteColors": [
+        "beige",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Sydney",

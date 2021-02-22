@@ -30,14 +30,18 @@
       "fear": "Monster Mask",
       "quote": "Every day is a gift.",
       "siblings": "Middle of 5 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "pink",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -46,7 +50,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Every day is a gift.",
-      "clothes": "long-denim-cardigan"
+      "clothes": "long-denim-cardigan",
+      "favoriteColors": [
+        "colorful",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Peaches",

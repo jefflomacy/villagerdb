@@ -36,14 +36,18 @@
       "fear": "Werewolf Hood",
       "quote": "A little bit of happiness is better than a lot of anguish.",
       "siblings": "Eldest triplet",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "white",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -52,7 +56,15 @@
       "hobby": "Nature",
       "subtype": "B",
       "quote": "A little bit of happiness is better than a lot of anguish.",
-      "clothes": "tweed-dress"
+      "clothes": "tweed-dress",
+      "favoriteColors": [
+        "yellow",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Goldie",

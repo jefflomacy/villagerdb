@@ -19,14 +19,18 @@
       "fear": "Bug Mask",
       "quote": "Six of one, half dozen of the other.",
       "siblings": "Only child",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "blue",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -35,7 +39,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Six of one, half dozen of the other.",
-      "clothes": "rugby-uniform"
+      "clothes": "rugby-uniform",
+      "favoriteColors": [
+        "red",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Iggly",

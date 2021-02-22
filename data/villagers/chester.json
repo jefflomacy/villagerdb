@@ -19,14 +19,18 @@
       "fear": "Ghost Mask",
       "quote": "Sleep early. Wake late.",
       "siblings": "Youngest quintuplet",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "green",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Blend",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -35,7 +39,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Sleep early. Wake late.",
-      "clothes": "dragon-suit"
+      "clothes": "dragon-suit",
+      "favoriteColors": [
+        "yellow",
+        "green"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Chester",

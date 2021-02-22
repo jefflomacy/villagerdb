@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Eyes are the windows to the soul.",
       "siblings": "Middle of 3 kids",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "purple",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "uchi",
@@ -29,7 +33,15 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "Eyes are the windows to the soul.",
-      "clothes": "palatial-tank-dress"
+      "clothes": "palatial-tank-dress",
+      "favoriteColors": [
+        "purple",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Diva",

@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "Let sleeping dogs lie.",
       "siblings": "Youngest of 4 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Official",
-      "favoriteColor": "orange",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -53,7 +57,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Let sleeping dogs lie.",
-      "clothes": "meme-shirt"
+      "clothes": "meme-shirt",
+      "favoriteColors": [
+        "purple",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "simple"
+      ]
     }
   },
   "name": "Biskit",

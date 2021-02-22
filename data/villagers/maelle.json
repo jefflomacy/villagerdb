@@ -37,14 +37,18 @@
       "skill": "Stomping around",
       "goal": "Makeup artist",
       "siblings": "Second of 4 sisters",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "white",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -53,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "A wise duck takes care of its bill.",
-      "clothes": "flower-sweater"
+      "clothes": "flower-sweater",
+      "favoriteColors": [
+        "pink",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Maelle",

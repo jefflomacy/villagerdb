@@ -35,14 +35,18 @@
       "fear": "Ghost Mask",
       "quote": "An elephant never forgets.",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "green",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -51,7 +55,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "An elephant never forgets.",
-      "clothes": "zigzag-print-dress"
+      "clothes": "zigzag-print-dress",
+      "favoriteColors": [
+        "green",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "simple"
+      ]
     }
   },
   "name": "Eloise",

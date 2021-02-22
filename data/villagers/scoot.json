@@ -30,14 +30,18 @@
       "fear": "Werewolf Hood",
       "quote": "Some birds avoid the water; ducks look for it.",
       "siblings": "Fourth of 5 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "blue",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -46,7 +50,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Some birds avoid the water, ducks look for it.",
-      "clothes": "frog-tee"
+      "clothes": "frog-tee",
+      "favoriteColors": [
+        "beige",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Scoot",

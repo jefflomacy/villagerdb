@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Pride goes before a fall.",
       "siblings": "Eldest of 7 kids",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "gray",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Just a little bit of milk",
         "sugar": "1 spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,14 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Pride goes before a fall.",
-      "clothes": "toga"
+      "clothes": "toga",
+      "favoriteColors": [
+        "gray",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Klaus",

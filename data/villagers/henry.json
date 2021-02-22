@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "The way to a frog's heart is through his stomach.",
       "siblings": "Youngest quintuplet",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Official",
-      "favoriteColor": "aqua",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "The way to a frog's heart is through his stomach.",
-      "clothes": "denim-jacket"
+      "clothes": "denim-jacket",
+      "favoriteColors": [
+        "aqua",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Henry",

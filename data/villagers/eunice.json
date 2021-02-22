@@ -30,14 +30,18 @@
       "fear": "Werewolf Hood",
       "quote": "There is a point to every encounter.",
       "siblings": "Middle triplet",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "black",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -46,7 +50,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "There is a point to every encounter.",
-      "clothes": "aran-knit-cardigan"
+      "clothes": "aran-knit-cardigan",
+      "favoriteColors": [
+        "beige",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Eunice",

@@ -24,14 +24,18 @@
       "fear": "Ghost Mask",
       "quote": "As a cow grows, so do its nostrils.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "Brown",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Mocha",
         "milk": "a little bit of milk",
         "sugar": "1 spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -40,7 +44,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "As a cow grows, so do its nostrils.",
-      "clothes": "yodel-sweater"
+      "clothes": "yodel-sweater",
+      "favoriteColors": [
+        "brown",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Stu",

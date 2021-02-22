@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "Keep it real. Real chill.",
       "siblings": "Third quadruplet",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Official",
-      "favoriteColor": "blue",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "A lot of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -53,7 +57,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Keep it real. Real chill.",
-      "clothes": "camo-tee"
+      "clothes": "camo-tee",
+      "favoriteColors": [
+        "beige",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Hugh",

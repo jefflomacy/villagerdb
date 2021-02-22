@@ -26,14 +26,18 @@
       "fear": "Bug Mask",
       "quote": "Don't cry wolf unless you mean it.",
       "siblings": "Eldest of 6 kids",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "purple",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Mocha",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -42,7 +46,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Don't cry wolf unless you mean it.",
-      "clothes": "sleeveless-shirtdress"
+      "clothes": "sleeveless-shirtdress",
+      "favoriteColors": [
+        "blue",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Whitney",

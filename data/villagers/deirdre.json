@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Legs of an antelope, heart of an eagle.",
       "siblings": "Youngest of 3 sisters",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "orange",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "uchi",
@@ -29,7 +33,14 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Legs of an antelope, heart of an eagle.",
-      "clothes": "flower-sweater"
+      "clothes": "flower-sweater",
+      "favoriteColors": [
+        "orange",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Deirdre",

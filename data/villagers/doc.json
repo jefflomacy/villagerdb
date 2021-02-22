@@ -24,14 +24,18 @@
       "fear": "Ghost Mask",
       "quote": "One cannot live on carrots alone.",
       "siblings": "Older twin brother",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "aqua",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -40,7 +44,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "One cannot live on carrots alone.",
-      "clothes": "flannel-shirt"
+      "clothes": "flannel-shirt",
+      "favoriteColors": [
+        "gray",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Doc",

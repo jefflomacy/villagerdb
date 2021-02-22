@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "Promises are like pie crusts - they're made to be broken.",
       "siblings": "Older twin",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "red",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Blend",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -53,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Promises are like pie crusts— they're made to be broken.",
-      "clothes": "milkmaid-dress"
+      "clothes": "milkmaid-dress",
+      "favoriteColors": [
+        "purple",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Pecan",

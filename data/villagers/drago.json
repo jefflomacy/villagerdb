@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "There's no room for two dragons in one pond.",
       "siblings": "Fifth of 6 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "red",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -29,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "There is no room for two dragons in one pond.",
-      "clothes": "dragon-suit"
+      "clothes": "dragon-suit",
+      "favoriteColors": [
+        "orange",
+        "red"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Drago",

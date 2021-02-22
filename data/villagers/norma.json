@@ -18,14 +18,18 @@
       "fear": "Bug Mask",
       "quote": "If you like what you have, then you'll have what you like!",
       "siblings": "Second of 3 sisters",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "White",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -34,7 +38,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "If you want what you have, then you'll have what you want.",
-      "clothes": "plaid-print-dress"
+      "clothes": "plaid-print-dress",
+      "favoriteColors": [
+        "white",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Norma",

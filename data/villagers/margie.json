@@ -31,14 +31,18 @@
       "skill": "Playing Old Maid",
       "goal": "Pastry chef",
       "siblings": "Third of 5 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "brown",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -47,7 +51,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Keep your feet on the ground.",
-      "clothes": "silk-floral-print-shirt"
+      "clothes": "silk-floral-print-shirt",
+      "favoriteColors": [
+        "pink",
+        "red"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cute"
+      ]
     }
   },
   "name": "Margie",

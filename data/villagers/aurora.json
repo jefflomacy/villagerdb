@@ -36,14 +36,18 @@
       "fear": "Skeleton Hood",
       "quote": "Just keep your cool.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "pink",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -52,7 +56,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Always keep your cool.",
-      "clothes": "plover-cardigan"
+      "clothes": "plover-cardigan",
+      "favoriteColors": [
+        "pink",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Aurora",

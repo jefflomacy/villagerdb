@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "C'est la vie!",
       "siblings": "Fifth of 6 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "purple",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "C'est la vie!",
-      "clothes": "ninja-costume"
+      "clothes": "ninja-costume",
+      "favoriteColors": [
+        "purple",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Ken",

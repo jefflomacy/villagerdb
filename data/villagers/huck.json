@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "Cold coffee makes for a cold demeanor.",
       "siblings": "Eldest of 9 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "Yellow",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Mocha",
         "milk": "a little bit of milk",
         "sugar": "1 spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -40,7 +44,15 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "Cold coffee makes for a cold demeanor.",
-      "clothes": "striped-tank"
+      "clothes": "striped-tank",
+      "favoriteColors": [
+        "green",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Huck",

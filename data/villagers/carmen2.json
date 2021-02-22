@@ -19,14 +19,18 @@
       "fear": "Monster Mask",
       "quote": "Absence makes the heart grow fonder.",
       "siblings": "Eldest of 7 kids",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "brown",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -35,7 +39,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Absence makes the heart grow fonder.",
-      "clothes": "plaid-print-dress"
+      "clothes": "plaid-print-dress",
+      "favoriteColors": [
+        "green",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cute"
+      ]
     }
   },
   "name": "Carmen",

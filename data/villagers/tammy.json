@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "If a job is worth doing, do it right!",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "purple",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Blend",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "uchi",
@@ -29,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "If a job is worth doing, do it right!",
-      "clothes": "hawk-jacket"
+      "clothes": "hawk-jacket",
+      "favoriteColors": [
+        "red",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "active"
+      ]
     }
   },
   "name": "Tammy",

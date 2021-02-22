@@ -36,14 +36,18 @@
       "fear": "Werewolf Hood",
       "quote": "Sometimes you gotta learn to chill.",
       "siblings": "Youngest of 4 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Official",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Blend",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -52,7 +56,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Sometimes you gotta learn to chill.",
-      "clothes": "simple-dots-tee"
+      "clothes": "simple-dots-tee",
+      "favoriteColors": [
+        "yellow",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Cube",

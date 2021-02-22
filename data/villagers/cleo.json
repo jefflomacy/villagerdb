@@ -24,14 +24,18 @@
       "fear": "Mummy Mask",
       "quote": "There's something loveable in all of us.",
       "siblings": "Eldest of 7 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "White",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Mocha",
         "milk": "A little bit of milk",
         "sugar": "1 spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -40,7 +44,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "There's something lovable in all of us.",
-      "clothes": "floral-lace-dress"
+      "clothes": "floral-lace-dress",
+      "favoriteColors": [
+        "aqua",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Cleo",

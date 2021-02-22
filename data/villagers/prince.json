@@ -30,14 +30,18 @@
       "fear": "Monster Mask",
       "quote": "Catch more flies with honey than vinegar.",
       "siblings": "Eldest of 10 kids",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Official",
-      "favoriteColor": "green",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -46,7 +50,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Catch more flies with honey than vinegar.",
-      "clothes": "striped-shirt"
+      "clothes": "striped-shirt",
+      "favoriteColors": [
+        "yellow",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Prince",

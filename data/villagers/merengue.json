@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Life is a piece of cake.",
       "siblings": "Eldest triplet",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "beige",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Blend",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -29,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Life is a piece of cake.",
-      "clothes": "chefs-outfit"
+      "clothes": "chefs-outfit",
+      "favoriteColors": [
+        "white",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Merengue",

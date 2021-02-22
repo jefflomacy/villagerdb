@@ -24,14 +24,18 @@
       "fear": "Monster Mask",
       "quote": "Surround yourself with things you love.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "Red",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "uchi",
@@ -40,7 +44,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Surround yourself with things you love.",
-      "clothes": "striped-maxi-dress"
+      "clothes": "striped-maxi-dress",
+      "favoriteColors": [
+        "red",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Ursala",

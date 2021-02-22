@@ -220,6 +220,28 @@ async function buildSearchIndex() {
                         }
                     }
                 },
+                favoriteColor: { // aggregate, game-dependent
+                    type: 'nested',
+                    properties: {
+                        game: {
+                            type: 'keyword'
+                        },
+                        value: {
+                            type: 'keyword'
+                        }
+                    }
+                },
+                favoriteStyle: { // aggregate, game-dependent
+                    type: 'nested',
+                    properties: {
+                        game: {
+                            type: 'keyword'
+                        },
+                        value: {
+                            type: 'keyword'
+                        }
+                    }
+                },
                 set: { // aggregate, game-dependent
                     type: 'nested',
                     properties: {
@@ -289,7 +311,9 @@ async function indexVillagers(es, newIndexName) {
             game: [],
             personality: [],
             hobby: [],
-            subtype: []
+            subtype: [],
+            favoriteColor: [],
+            favoriteStyle: []
         };
 
         // Collaboration
@@ -309,6 +333,8 @@ async function indexVillagers(es, newIndexName) {
             const personality = parsed.games[game].personality;
             const hobby = parsed.games[game].hobby;
             const subtype = parsed.games[game].subtype;
+            const favoriteColors = parsed.games[game].favoriteColors;
+            const favoriteStyles = parsed.games[game].favoriteStyles;
             if (personality) {
                 document.personality.push({
                     game: game,
@@ -326,6 +352,22 @@ async function indexVillagers(es, newIndexName) {
                     game: game,
                     value: subtype
                 });
+            }
+            if (favoriteColors) {
+                for (let v of favoriteColors) {
+                    document.favoriteColor.push({
+                        game: game,
+                        value: formatHelper.capFirstLetter(v)
+                    });
+                }
+            }
+            if (favoriteStyles) {
+                for (let v of favoriteStyles) {
+                    document.favoriteStyle.push({
+                        game: game,
+                        value: formatHelper.capFirstLetter(v)
+                    });
+                }
             }
         }
 

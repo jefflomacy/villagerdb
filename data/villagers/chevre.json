@@ -37,14 +37,18 @@
       "fear": "Ghost Mask",
       "quote": "If you're gonna dream, dream big.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "white",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -53,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "If you're gonna dream, dream big.",
-      "clothes": "poncho-coat"
+      "clothes": "poncho-coat",
+      "favoriteColors": [
+        "red",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Chevre",

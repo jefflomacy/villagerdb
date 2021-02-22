@@ -37,14 +37,18 @@
       "fear": "Bug Mask",
       "quote": "Appearances are, like, totally deceiving.",
       "siblings": "Eldest of 9 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "brown",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -53,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Appearances are, like, totally deceiving.",
-      "clothes": "watermelon-dress"
+      "clothes": "watermelon-dress",
+      "favoriteColors": [
+        "red",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "active"
+      ]
     }
   },
   "name": "Nibbles",

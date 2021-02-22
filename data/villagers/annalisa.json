@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "Home is where the heart is.",
       "siblings": "Second of 3 sisters",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "red",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -29,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Home is where the heart is.",
-      "clothes": "blossoming-kimono"
+      "clothes": "blossoming-kimono",
+      "favoriteColors": [
+        "red",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Annalisa",

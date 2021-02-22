@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "Candy makes the world go 'round.",
       "siblings": "Eldest of 3 sisters",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "blue",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -53,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Candy makes the world go 'round.",
-      "clothes": "aran-knit-sweater"
+      "clothes": "aran-knit-sweater",
+      "favoriteColors": [
+        "white",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Bluebear",

@@ -23,14 +23,18 @@
       "fear": "Bug Mask",
       "quote": "Dream big, expect little.",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "White",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -39,7 +43,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Dream big, expect little.",
-      "clothes": "hibiscus-muumuu"
+      "clothes": "hibiscus-muumuu",
+      "favoriteColors": [
+        "white",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "June",

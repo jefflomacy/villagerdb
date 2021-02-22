@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "Sometimes it's OK to get dirty.",
       "siblings": "Second quintuplet",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Official",
-      "favoriteColor": "orange",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -29,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "Sometimes it's OK to get dirty.",
-      "clothes": "after-school-jacket"
+      "clothes": "after-school-jacket",
+      "favoriteColors": [
+        "black",
+        "red"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Kevin",

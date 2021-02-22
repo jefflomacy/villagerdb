@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "As soon as you can grow a moustache, do it.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "brown",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blend",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -53,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "As soon as you can grow a mustache, do it.",
-      "clothes": "a-tee"
+      "clothes": "a-tee",
+      "favoriteColors": [
+        "blue",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "elegant"
+      ]
     }
   },
   "name": "Cesar",

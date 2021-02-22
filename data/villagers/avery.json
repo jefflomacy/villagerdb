@@ -24,14 +24,18 @@
       "fear": "Ghost Mask",
       "quote": "What goes around comes around.",
       "siblings": "Older twin",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "brown",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -40,7 +44,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "What goes around comes around.",
-      "clothes": "oversized-shawl-overshirt"
+      "clothes": "oversized-shawl-overshirt",
+      "favoriteColors": [
+        "orange",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "gorgeous"
+      ]
     }
   },
   "name": "Avery",

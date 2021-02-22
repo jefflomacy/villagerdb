@@ -24,14 +24,18 @@
       "fear": "Ghost Mask",
       "quote": "Don't judge a rabbit by its ears.",
       "siblings": "Second of 6 kids",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "Black",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -40,7 +44,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Don't judge a rabbit by its ears.",
-      "clothes": "marble-dots-tee"
+      "clothes": "marble-dots-tee",
+      "favoriteColors": [
+        "black",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Claude",

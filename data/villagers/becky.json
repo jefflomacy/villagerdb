@@ -24,14 +24,18 @@
       "fear": "Ghost Mask",
       "quote": "A fool and his Bells are soon parted.",
       "siblings": "Second of 3 kids",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "purple",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -40,7 +44,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "A fool and his Bells are soon parted.",
-      "clothes": "renaissance-dress"
+      "clothes": "renaissance-dress",
+      "favoriteColors": [
+        "purple",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Becky",

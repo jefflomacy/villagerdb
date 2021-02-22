@@ -24,14 +24,18 @@
       "fear": "Mummy Mask",
       "quote": "The hero is brave in deeds as well as words.",
       "siblings": "Second of 5 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "blue",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -40,7 +44,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "The hero is brave in deeds as well as words.",
-      "clothes": "striped-shirt"
+      "clothes": "striped-shirt",
+      "favoriteColors": [
+        "blue",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Del",

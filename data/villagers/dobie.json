@@ -23,14 +23,18 @@
       "fear": "Werewolf Hood",
       "quote": "Old longings never truly fade.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "Black",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Mocha",
         "milk": "A little bit of milk",
         "sugar": "1 spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -39,7 +43,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Old longings never truly fade.",
-      "clothes": "fuzzy-vest"
+      "clothes": "fuzzy-vest",
+      "favoriteColors": [
+        "brown",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Dobie",

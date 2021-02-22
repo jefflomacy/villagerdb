@@ -31,14 +31,18 @@
       "skill": "Whistling",
       "goal": "Carpenter",
       "siblings": "Eldest of 6 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "brown",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Mocha",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -47,7 +51,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "A Bell saved is a Bell earned.",
-      "clothes": "mvp-tee"
+      "clothes": "mvp-tee",
+      "favoriteColors": [
+        "blue",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cool"
+      ]
     }
   },
   "name": "Curt",

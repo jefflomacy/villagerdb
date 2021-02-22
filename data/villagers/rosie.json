@@ -36,14 +36,18 @@
       "fear": "Werewolf Hood",
       "quote": "One good purr deserves another.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "red",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Mocha",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -52,7 +56,14 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "One good purr deserves another.",
-      "clothes": "dazed-dress"
+      "clothes": "dazed-dress",
+      "favoriteColors": [
+        "pink",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Rosie",

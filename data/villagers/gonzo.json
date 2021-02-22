@@ -24,14 +24,18 @@
       "fear": "Monster Mask",
       "quote": "Brothers are brothers; cheese is cheese.",
       "siblings": "Eldest of 3 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "Black",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -40,7 +44,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Brothers are brothers, cheese is cheese.",
-      "clothes": "reindeer-sweater"
+      "clothes": "reindeer-sweater",
+      "favoriteColors": [
+        "black",
+        "green"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Gonzo",

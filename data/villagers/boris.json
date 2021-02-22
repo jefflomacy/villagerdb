@@ -24,14 +24,18 @@
       "fear": "Ghost Mask",
       "quote": "Life's short. Eat chocolate.",
       "siblings": "Second quadruplet",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "Black",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "3 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -40,7 +44,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Life's short. Eat chocolate.",
-      "clothes": "desert-outfit"
+      "clothes": "desert-outfit",
+      "favoriteColors": [
+        "purple",
+        "black"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Boris",

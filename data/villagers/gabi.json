@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "The more the merrier.",
       "siblings": "Fourth of 6 kids",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Official",
-      "favoriteColor": "brown",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -53,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "The more the merrier.",
-      "clothes": "gingham-picnic-shirt"
+      "clothes": "gingham-picnic-shirt",
+      "favoriteColors": [
+        "brown",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "gorgeous"
+      ]
     }
   },
   "name": "Gabi",

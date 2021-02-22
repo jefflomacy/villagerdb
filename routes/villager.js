@@ -118,14 +118,28 @@ function generateParagraph(villager, formattedVillager) {
     if (gameData.skill) {
         paragraph.push(format.capFirstLetter(pronoun) + ' is talented at ' + gameData.skill.toLowerCase() + '. ');
     }
-    if (gameData.favoriteStyle && gameData.dislikedStyle) {
-        paragraph.push(format.capFirstLetter(posessivePronoun) + ' favorite style is ' +
-            gameData.favoriteStyle.toLowerCase() + ', but ' + pronoun + ' dislikes the ' +
-            gameData.dislikedStyle.toLowerCase() + ' style. ');
+
+    if (gameData.favoriteStyles) {
+        let p = format.capFirstLetter(posessivePronoun) + ' favorite ' +
+            format.singularOrPlural('style', gameData.favoriteStyles) + ' ' +
+            format.isOrAre(gameData.favoriteStyles) + ' ' +
+            format.andList(gameData.favoriteStyles)
+        if (gameData.dislikedStyle) {
+            p += ', but ' + pronoun + ' dislikes the ' +
+                gameData.dislikedStyle.toLowerCase() + ' style. '
+        } else {
+            p += '.';
+        }
+        paragraph.push(p);
     }
-    if (gameData.favoriteColor) {
-        paragraph.push(posessive + ' favorite color is ' + gameData.favoriteColor.toLowerCase() + '. ');
+
+    if (gameData.favoriteColors) {
+        paragraph.push(posessive +
+            ' favorite ' + format.singularOrPlural('color', gameData.favoriteColors) +
+            ' ' + format.isOrAre(gameData.favoriteColors) + ' ' +
+            format.andList(gameData.favoriteColors) + '. ');
     }
+
     if (gameData.siblings) {
         paragraph.push('In ' + posessivePronoun + ' family, ' + name + ' is the ' + gameData.siblings.toLowerCase() +
             '. ');

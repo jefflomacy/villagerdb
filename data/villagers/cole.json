@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Little pitchers have big ears.",
       "siblings": "Only child",
-      "favoriteStyle": "Modern",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "black",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Blend",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "modern"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -29,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Little pitchers have big ears.",
-      "clothes": "orange-dress"
+      "clothes": "orange-dress",
+      "favoriteColors": [
+        "orange",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Cole",

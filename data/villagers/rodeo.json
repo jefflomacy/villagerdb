@@ -26,14 +26,18 @@
       "fear": "Ghost Mask",
       "quote": "Zzzzzzzzzzzzzzzzz...",
       "siblings": "Youngest triplet",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "red",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -42,7 +46,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Zzzzzzzzzzzzzzzzz...",
-      "clothes": "graduation-gown"
+      "clothes": "graduation-gown",
+      "favoriteColors": [
+        "black",
+        "red"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Rodeo",

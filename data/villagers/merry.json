@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "A smile increases your face value.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "aqua",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -40,7 +44,14 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "A smile increases your face value.",
-      "clothes": "dreamy-sweater"
+      "clothes": "dreamy-sweater",
+      "favoriteColors": [
+        "pink",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Merry",

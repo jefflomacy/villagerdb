@@ -14,14 +14,18 @@
       "fear": "Skeleton Hood",
       "quote": "Walk on the wild side.",
       "siblings": "Only child",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "Green",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     }
   },
   "name": "Wolf Link",

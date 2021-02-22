@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "100% Wool.",
       "siblings": "Eldest of 4 kids",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "Red",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "2 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -40,7 +44,15 @@
       "hobby": "Fashion",
       "subtype": "A",
       "quote": "100% Wool.",
-      "clothes": "sleeveless-tunic"
+      "clothes": "sleeveless-tunic",
+      "favoriteColors": [
+        "purple",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Cashmere",

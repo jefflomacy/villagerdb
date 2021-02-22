@@ -24,14 +24,18 @@
       "fear": "Skeleton Hood",
       "quote": "Don't burn bridges.",
       "siblings": "Eldest of 9 kids",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "purple",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blend",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -40,7 +44,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Don't burn bridges.",
-      "clothes": "old-school-jacket"
+      "clothes": "old-school-jacket",
+      "favoriteColors": [
+        "purple",
+        "black"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Gruff",

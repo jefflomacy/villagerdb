@@ -30,14 +30,18 @@
       "fear": "Ghost Mask",
       "quote": "When the world gets cold, just fly south.",
       "siblings": "Eldest of 10 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "pink",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -46,7 +50,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "When the world gets cold, just fly south.",
-      "clothes": "silk-shirt"
+      "clothes": "silk-shirt",
+      "favoriteColors": [
+        "pink",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Midge",

@@ -37,14 +37,18 @@
       "fear": "Ghost Mask",
       "quote": "Think before you act.",
       "siblings": "Eldest triplet",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "blue",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -53,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Think before you act.",
-      "clothes": "leopard-tee"
+      "clothes": "leopard-tee",
+      "favoriteColors": [
+        "yellow",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Alli",

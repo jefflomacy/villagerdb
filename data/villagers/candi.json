@@ -23,14 +23,18 @@
       "fear": "Monster Mask",
       "quote": "The players may change, but the music stays the same.",
       "siblings": "Eldest of 7 kids",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "Yellow",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "3 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -39,7 +43,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "The players may change, but the music stays the same.",
-      "clothes": "bohemian-tunic-dress"
+      "clothes": "bohemian-tunic-dress",
+      "favoriteColors": [
+        "aqua",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Candi",

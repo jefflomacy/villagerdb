@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "Don't wish it was easier; wish you were better.",
       "siblings": "Older twin brother",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "gray",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -53,7 +57,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Don't wish it were easier; wish you were better.",
-      "clothes": "sweater-on-shirt"
+      "clothes": "sweater-on-shirt",
+      "favoriteColors": [
+        "white",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Chief",

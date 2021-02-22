@@ -19,14 +19,18 @@
       "fear": "Monster Mask",
       "quote": "Still waters run deep.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "pink",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -35,7 +39,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Still waters run deep.",
-      "clothes": "flower-print-dress"
+      "clothes": "flower-print-dress",
+      "favoriteColors": [
+        "pink",
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "elegant"
+      ]
     }
   },
   "name": "Gala",

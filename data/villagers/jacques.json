@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "Better to have loved and squawked than to have never loved at all.",
       "siblings": "Third of 5 kids",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "green",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Better to have loved and squawked than to have never loved at all.",
-      "clothes": "puffy-vest"
+      "clothes": "puffy-vest",
+      "favoriteColors": [
+        "green",
+        "black"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Jacques",

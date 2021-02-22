@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "Fool me once, shame on you. Fool me twice, shame on me.",
       "siblings": "Eldest of 6 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "red",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -29,7 +33,14 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "Fool me once, shame on you. Fool me twice, shame on me.",
-      "clothes": "relay-tank"
+      "clothes": "relay-tank",
+      "favoriteColors": [
+        "blue",
+        "red"
+      ],
+      "favoriteStyles": [
+        "active"
+      ]
     }
   },
   "name": "Coach",

@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "A tiger can't change its stripes.",
       "siblings": "Third of 4 sisters",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "purple",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Mocha",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -29,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "A tiger can't change its stripes.",
-      "clothes": "lacy-dress"
+      "clothes": "lacy-dress",
+      "favoriteColors": [
+        "purple",
+        "white"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Claudia",

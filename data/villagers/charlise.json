@@ -18,14 +18,18 @@
       "fear": "Monster Mask",
       "quote": "Actions speak louder than words.",
       "siblings": "Youngest of 6 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "orange",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "uchi",
@@ -34,7 +38,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Actions speak louder than words.",
-      "clothes": "athletic-jacket"
+      "clothes": "athletic-jacket",
+      "favoriteColors": [
+        "red",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cute"
+      ]
     }
   },
   "name": "Charlise",

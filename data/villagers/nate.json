@@ -30,14 +30,18 @@
       "fear": "Werewolf Hood",
       "quote": "Be true to yourself.",
       "siblings": "Third of 4 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "white",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Mocha",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -46,7 +50,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Be true to yourself.",
-      "clothes": "reindeer-sweater"
+      "clothes": "reindeer-sweater",
+      "favoriteColors": [
+        "white",
+        "green"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Nate",

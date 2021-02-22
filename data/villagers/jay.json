@@ -37,14 +37,18 @@
       "fear": "Skeleton Hood",
       "quote": "He who hesitates has lost!",
       "siblings": "Third of 6 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "blue",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Killimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -53,7 +57,14 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "He who hesitates has lost.",
-      "clothes": "six-ball-tee"
+      "clothes": "six-ball-tee",
+      "favoriteColors": [
+        "blue",
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "active"
+      ]
     }
   },
   "name": "Jay",

@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "The sky's the limit!",
       "siblings": "Third quadruplet",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -53,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "The sky's the limit!",
-      "clothes": "western-shirt"
+      "clothes": "western-shirt",
+      "favoriteColors": [
+        "colorful",
+        "white"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Kody",

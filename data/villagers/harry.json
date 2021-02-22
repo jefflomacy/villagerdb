@@ -24,14 +24,18 @@
       "fear": "Monster Mask",
       "quote": "Patience is a virtue for folks with time.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "aqua",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Mocha",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -40,7 +44,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Patience is a virtue for folks with time.",
-      "clothes": "camo-tee"
+      "clothes": "camo-tee",
+      "favoriteColors": [
+        "green",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Harry",

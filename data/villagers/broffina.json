@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "Don't peck the hand that feeds you.",
       "siblings": "Younger twin",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "black",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -29,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Don't peck the hand that feeds you.",
-      "clothes": "rumba-dress"
+      "clothes": "rumba-dress",
+      "favoriteColors": [
+        "black",
+        "red"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Broffina",

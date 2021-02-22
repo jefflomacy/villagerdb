@@ -31,14 +31,18 @@
       "skill": "Tongue twisters",
       "goal": "Pharmacist",
       "siblings": "Middle triplet",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "pink",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -47,7 +51,14 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "If you can't say something nice, don't say anything at all.",
-      "clothes": "dreamy-sweater"
+      "clothes": "dreamy-sweater",
+      "favoriteColors": [
+        "pink",
+        "red"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Marina",

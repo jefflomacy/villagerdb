@@ -14,14 +14,18 @@
       "fear": "Werewolf Hood",
       "quote": "Always look a gift horse in the mouth.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "Pink",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "3 spoonfulls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     }
   },
   "name": "Chelsea",

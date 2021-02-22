@@ -23,14 +23,18 @@
       "fear": "Monster Mask",
       "quote": "The walls have ears.",
       "siblings": "Middle triplet",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "pink",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -39,7 +43,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "The walls have ears.",
-      "clothes": "colorful-striped-sweater"
+      "clothes": "colorful-striped-sweater",
+      "favoriteColors": [
+        "red",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Anicotti",

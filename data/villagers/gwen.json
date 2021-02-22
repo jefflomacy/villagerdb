@@ -36,14 +36,18 @@
       "fear": "Mummy Mask",
       "quote": "Mind your manners, or someone else will.",
       "siblings": "Second of 4 sisters",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "purple",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Blend",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -52,7 +56,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Mind your manners, or someone else will.",
-      "clothes": "retro-dress"
+      "clothes": "retro-dress",
+      "favoriteColors": [
+        "green",
+        "white"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "elegant"
+      ]
     }
   },
   "name": "Gwen",

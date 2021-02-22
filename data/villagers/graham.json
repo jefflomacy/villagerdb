@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "Knowledge is power.",
       "siblings": "Third quintuplet",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "orange",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Knowledge is power.",
-      "clothes": "madras-plaid-shirt"
+      "clothes": "madras-plaid-shirt",
+      "favoriteColors": [
+        "green",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Graham",

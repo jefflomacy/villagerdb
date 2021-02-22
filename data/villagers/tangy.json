@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "When life gives you lemons, make lemonade.",
       "siblings": "Third of 6 kids",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "orange",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -53,7 +57,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "When life gives you lemons, make lemonade!",
-      "clothes": "retro-dress"
+      "clothes": "retro-dress",
+      "favoriteColors": [
+        "green",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Tangy",

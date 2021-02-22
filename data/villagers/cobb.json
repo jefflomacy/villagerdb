@@ -24,14 +24,18 @@
       "fear": "Mummy Mask",
       "quote": "Might makes right.",
       "siblings": "Second of 6 kids",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "gray",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -40,7 +44,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Might makes right.",
-      "clothes": "flannel-shirt"
+      "clothes": "flannel-shirt",
+      "favoriteColors": [
+        "white",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Cobb",

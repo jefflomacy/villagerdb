@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "Always lead by example.",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "blue",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Blend",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -53,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "Always lead by example.",
-      "clothes": "gumdrop-dress"
+      "clothes": "gumdrop-dress",
+      "favoriteColors": [
+        "pink",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cute"
+      ]
     }
   },
   "name": "Mint",

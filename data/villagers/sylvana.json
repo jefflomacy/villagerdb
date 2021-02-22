@@ -18,14 +18,18 @@
       "fear": "Skeleton Hood",
       "quote": "Remember to see the forest between the trees.",
       "siblings": "Eldest of 4 sisters",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "White",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "3 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -34,7 +38,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Remember to see the forest between the trees.",
-      "clothes": "kiwi-dress"
+      "clothes": "kiwi-dress",
+      "favoriteColors": [
+        "green",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "cute",
+        "simple"
+      ]
     }
   },
   "name": "Sylvana",

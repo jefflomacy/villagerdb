@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "Don't pine for the past.",
       "siblings": "Older twin",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "brown",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -29,7 +33,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Don't pine for the past.",
-      "clothes": "aran-knit-sweater"
+      "clothes": "aran-knit-sweater",
+      "favoriteColors": [
+        "green",
+        "brown"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Timbra",

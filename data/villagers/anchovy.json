@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "Why do today what you can put off until tomorrow.",
       "siblings": "Eldest of 9 kids",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -53,7 +57,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Why do today what you can put off until tomorrow?",
-      "clothes": "yodel-sweater"
+      "clothes": "yodel-sweater",
+      "favoriteColors": [
+        "colorful",
+        "orange"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Anchovy",

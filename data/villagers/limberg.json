@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "Don’t build a better mousetrap.",
       "siblings": "Eldest of 7 kids",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Official",
-      "favoriteColor": "green",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -53,7 +57,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Don't build a better mousetrap.",
-      "clothes": "hanten-jacket"
+      "clothes": "hanten-jacket",
+      "favoriteColors": [
+        "green",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Limberg",

@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "Imitation is the sincerest form of flattery.",
       "siblings": "Youngest of 3 kids",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Iconic",
-      "favoriteColor": "black",
+      "dislikedStyle": "iconic",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "black"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Imitation is the sincerest form of flattery.",
-      "clothes": "biker-jacket"
+      "clothes": "biker-jacket",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "gorgeous"
+      ]
     }
   },
   "name": "Eugene",

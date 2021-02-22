@@ -23,14 +23,18 @@
       "fear": "Bug Mask",
       "quote": "Soaring through the sky takes more than a pair of wings.",
       "siblings": "Fourth of 6 kids",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "Pink",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blend",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -39,7 +43,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Soaring through the sky takes more than a pair of wings.",
-      "clothes": "striped-tank"
+      "clothes": "striped-tank",
+      "favoriteColors": [
+        "aqua",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cool"
+      ]
     }
   },
   "name": "Sandy",

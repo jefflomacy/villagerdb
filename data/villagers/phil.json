@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "Best not say too much.",
       "siblings": "Eldest quintuplet",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "blue",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Best not to say too much.",
-      "clothes": "fischerhemd"
+      "clothes": "fischerhemd",
+      "favoriteColors": [
+        "green",
+        "red"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cool"
+      ]
     }
   },
   "name": "Phil",

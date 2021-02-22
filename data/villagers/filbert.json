@@ -37,14 +37,18 @@
       "fear": "Werewolf Hood",
       "quote": "Don't go nuts or anything.",
       "siblings": "Youngest quadruplet",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "green",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar."
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -53,7 +57,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Don't go nuts or anything.",
-      "clothes": "tree-sweater"
+      "clothes": "tree-sweater",
+      "favoriteColors": [
+        "blue",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Filbert",

@@ -19,14 +19,18 @@
       "fear": "Skeleton Hood",
       "quote": "The grass is always greener.",
       "siblings": "Eldest of 9 kids",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -35,7 +39,15 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "The grass is always greener.",
-      "clothes": "madras-plaid-shirt"
+      "clothes": "madras-plaid-shirt",
+      "favoriteColors": [
+        "green",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Clyde",

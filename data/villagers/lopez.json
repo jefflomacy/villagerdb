@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "Always look both ways before crossing the street.",
       "siblings": "Second of 6 kids",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "gray",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blend",
         "milk": "Just a little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "gray"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,14 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Always look both ways before crossing the street.",
-      "clothes": "chimayo-vest"
+      "clothes": "chimayo-vest",
+      "favoriteColors": [
+        "gray",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "gorgeous"
+      ]
     }
   },
   "name": "Lopez",

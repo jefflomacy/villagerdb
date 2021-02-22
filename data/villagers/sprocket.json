@@ -24,14 +24,18 @@
       "fear": "Ghost Mask",
       "quote": "Strike while the iron is hot.",
       "siblings": "Middle triplet",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "Blue",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Mocha",
         "milk": "The regular amount of milk",
         "sugar": "2 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -40,7 +44,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Strike while the iron is hot.",
-      "clothes": "jumper-work-suit"
+      "clothes": "jumper-work-suit",
+      "favoriteColors": [
+        "orange",
+        "green"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Sprocket",

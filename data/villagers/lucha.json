@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "Birds of a feather, et cetera, et cetera...",
       "siblings": "Fifth of 6 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "red",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Blend",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,15 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "Birds of a feather, et cetera, et cetera...",
-      "clothes": "athletic-jacket"
+      "clothes": "athletic-jacket",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "active",
+        "cool"
+      ]
     }
   },
   "name": "Lucha",

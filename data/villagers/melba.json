@@ -26,14 +26,18 @@
       "fear": "Mummy Mask",
       "quote": "A friend who shares is a friend who cares.",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "green",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -42,7 +46,14 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "A friend who shares is a friend who cares.",
-      "clothes": "plaid-print-dress"
+      "clothes": "plaid-print-dress",
+      "favoriteColors": [
+        "white",
+        "green"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Melba",

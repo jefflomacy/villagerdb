@@ -24,14 +24,18 @@
       "fear": "Ghost Mask",
       "quote": "Eighth place is just the seventh loser.",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "green",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -40,7 +44,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Eighth place is just the seventh loser.",
-      "clothes": "gold-print-tee"
+      "clothes": "gold-print-tee",
+      "favoriteColors": [
+        "black",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "active"
+      ]
     }
   },
   "name": "Biff",

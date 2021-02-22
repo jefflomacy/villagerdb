@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "Get fired up!",
       "siblings": "Middle triplet",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "red",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -53,7 +57,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "Get fired up!",
-      "clothes": "energetic-sweater"
+      "clothes": "energetic-sweater",
+      "favoriteColors": [
+        "yellow",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Curly",

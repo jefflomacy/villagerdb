@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "The first step is always the hardest.",
       "siblings": "Middle of 3 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "beige",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -29,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "The first step is always the hardest.",
-      "clothes": "bohemian-tunic-dress"
+      "clothes": "bohemian-tunic-dress",
+      "favoriteColors": [
+        "beige",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Fauna",

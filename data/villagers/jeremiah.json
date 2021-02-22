@@ -37,14 +37,18 @@
       "fear": "Monster Mask",
       "quote": "Sleep before you leap.",
       "siblings": "Second of 4 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "blue",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "lazy",
@@ -53,7 +57,14 @@
       "hobby": "Play",
       "subtype": "B",
       "quote": "Sleep before you leap.",
-      "clothes": "gingham-picnic-shirt"
+      "clothes": "gingham-picnic-shirt",
+      "favoriteColors": [
+        "orange",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Jeremiah",

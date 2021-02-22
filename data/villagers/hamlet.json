@@ -13,14 +13,18 @@
       "fear": "Monster Mask",
       "quote": "The ear's the thing.",
       "siblings": "Youngest of 6 kids",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Official",
-      "favoriteColor": "orange",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -29,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "The ear's the thing.",
-      "clothes": "big-star-tee"
+      "clothes": "big-star-tee",
+      "favoriteColors": [
+        "purple",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "active"
+      ]
     }
   },
   "name": "Hamlet",

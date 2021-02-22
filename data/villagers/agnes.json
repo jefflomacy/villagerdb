@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "You reap what you sow.",
       "siblings": "Youngest of 4 kids",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "white",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "uchi",
@@ -29,7 +33,15 @@
       "hobby": "Play",
       "subtype": "A",
       "quote": "You reap what you sow.",
-      "clothes": "striped-halter-dress"
+      "clothes": "striped-halter-dress",
+      "favoriteColors": [
+        "pink",
+        "white"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "elegant"
+      ]
     }
   },
   "name": "Agnes",

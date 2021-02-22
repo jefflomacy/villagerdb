@@ -13,14 +13,18 @@
       "fear": "Werewolf Hood",
       "quote": "Even in a room full of fools, someone is the smartest.",
       "siblings": "Fifth of 6 kids",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "aqua",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Blend",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,15 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "Even in a room full of fools, someone is the smartest.",
-      "clothes": "fuzzy-vest"
+      "clothes": "fuzzy-vest",
+      "favoriteColors": [
+        "blue",
+        "white"
+      ],
+      "favoriteStyles": [
+        "gorgeous",
+        "cool"
+      ]
     }
   },
   "name": "Keaton",

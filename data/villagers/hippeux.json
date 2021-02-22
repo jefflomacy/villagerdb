@@ -13,14 +13,18 @@
       "fear": "Skeleton Hood",
       "quote": "Mottoes are for the unoriginal.",
       "siblings": "Youngest of 3 kids",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "aqua",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "smug",
@@ -29,7 +33,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Mottoes are for the unoriginal.",
-      "clothes": "emblem-blazer"
+      "clothes": "emblem-blazer",
+      "favoriteColors": [
+        "brown",
+        "green"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Hippeux",

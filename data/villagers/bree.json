@@ -31,14 +31,18 @@
       "skill": "Doodling",
       "goal": "Dermatologist",
       "siblings": "Third of 5 kids",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "white",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Blend",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "white"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -47,7 +51,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "The gift says more about the giver.",
-      "clothes": "sweetheart-dress"
+      "clothes": "sweetheart-dress",
+      "favoriteColors": [
+        "black",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Bree",

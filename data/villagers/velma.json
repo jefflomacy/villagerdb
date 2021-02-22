@@ -24,14 +24,18 @@
       "fear": "Bug Mask",
       "quote": "Work smarter, not harder.",
       "siblings": "Eldest of 2 kids",
-      "favoriteStyle": "Official",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "purple",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Mocha",
         "milk": "Lots of milk",
         "sugar": "Three spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "purple"
+      ],
+      "favoriteStyles": [
+        "official"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -40,7 +44,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Work smarter, not harder.",
-      "clothes": "prim-outfit"
+      "clothes": "prim-outfit",
+      "favoriteColors": [
+        "aqua",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Velma",

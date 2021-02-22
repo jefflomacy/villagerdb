@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "A mother's work is never done.",
       "siblings": "Middle of 3 kids",
-      "favoriteStyle": "Cute/Fancy",
-      "dislikedStyle": "Flashy",
-      "favoriteColor": "Pink",
+      "dislikedStyle": "flashy",
       "coffee": {
         "beans": "Mocha",
         "milk": "none at all",
         "sugar": "none at all"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cute/fancy"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -40,7 +44,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "A mother's work is never done.",
-      "clothes": "simple-dots-dress"
+      "clothes": "simple-dots-dress",
+      "favoriteColors": [
+        "red",
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "cute"
+      ]
     }
   },
   "name": "Carrie",

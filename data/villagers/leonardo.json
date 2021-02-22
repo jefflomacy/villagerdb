@@ -18,14 +18,18 @@
       "fear": "Werewolf Hood",
       "quote": "That's the way the energy bar crumbles.",
       "siblings": "Fourth of 6 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Official",
-      "favoriteColor": "orange",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Mocha",
         "milk": "A little bit of milk",
         "sugar": "One spoonful of sugar"
-      }
+      },
+      "favoriteColors": [
+        "orange"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -34,7 +38,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "That's the way the energy bar crumbles.",
-      "clothes": "hawk-jacket"
+      "clothes": "hawk-jacket",
+      "favoriteColors": [
+        "red",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "active",
+        "gorgeous"
+      ]
     }
   },
   "name": "Leonardo",

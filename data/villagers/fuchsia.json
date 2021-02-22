@@ -13,14 +13,18 @@
       "fear": "Ghost Mask",
       "quote": "It takes one to know one.",
       "siblings": "Youngest of 2 kids",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "pink",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "uchi",
@@ -29,7 +33,14 @@
       "hobby": "Music",
       "subtype": "A",
       "quote": "It takes one to know one.",
-      "clothes": "zigzag-print-dress"
+      "clothes": "zigzag-print-dress",
+      "favoriteColors": [
+        "pink",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "cool"
+      ]
     }
   },
   "name": "Fuchsia",

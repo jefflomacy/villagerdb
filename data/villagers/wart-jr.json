@@ -36,14 +36,18 @@
       "fear": "Mummy Mask",
       "quote": "Age before beauty.",
       "siblings": "Second of quadruplets",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Ornate",
-      "favoriteColor": "green",
+      "dislikedStyle": "ornate",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "green"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -52,7 +56,14 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "Age before beauty.",
-      "clothes": "hanten-jacket"
+      "clothes": "hanten-jacket",
+      "favoriteColors": [
+        "blue",
+        "purple"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Wart Jr.",

@@ -13,14 +13,18 @@
       "fear": "Bug Mask",
       "quote": "Squeak your mind, even if your voice shakes.",
       "siblings": "Eldest of 10 kids",
-      "favoriteStyle": "Iconic",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "beige",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Mocha",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "beige"
+      ],
+      "favoriteStyles": [
+        "iconic"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -29,7 +33,15 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "Squeak your mind, even if your voice shakes.",
-      "clothes": "flower-sweater"
+      "clothes": "flower-sweater",
+      "favoriteColors": [
+        "red",
+        "pink"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "cute"
+      ]
     }
   },
   "name": "Flurry",

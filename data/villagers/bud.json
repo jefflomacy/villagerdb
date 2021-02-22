@@ -36,14 +36,18 @@
       "skill": "Rapping",
       "goal": "Singer",
       "siblings": "Fourth quintuplet",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Modern",
-      "favoriteColor": "colorful",
+      "dislikedStyle": "modern",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "colorful"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -52,7 +56,15 @@
       "hobby": "Fitness",
       "subtype": "B",
       "quote": "You're not living unless you're sweating!",
-      "clothes": "pineapple-aloha-shirt"
+      "clothes": "pineapple-aloha-shirt",
+      "favoriteColors": [
+        "green",
+        "yellow"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Bud",

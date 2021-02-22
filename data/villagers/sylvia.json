@@ -18,14 +18,18 @@
       "fear": "Mummy Mask",
       "quote": "Hop first; ask questions later.",
       "siblings": "Youngest of 5 kids",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Historical",
-      "favoriteColor": "pink",
+      "dislikedStyle": "historical",
       "coffee": {
         "beans": "Mocha",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "uchi",
@@ -34,7 +38,15 @@
       "hobby": "Music",
       "subtype": "B",
       "quote": "Hop first; ask questions later.",
-      "clothes": "tropical-muumuu"
+      "clothes": "tropical-muumuu",
+      "favoriteColors": [
+        "yellow",
+        "green"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "gorgeous"
+      ]
     }
   },
   "name": "Sylvia",

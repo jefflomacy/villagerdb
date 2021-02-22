@@ -20,14 +20,18 @@
       "fear": "Skeleton Hood",
       "quote": "It's all about the muscle.",
       "siblings": "Eldest of 5 kids",
-      "favoriteStyle": "Sporty",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "Blue",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "No milk",
         "sugar": "No sugar"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "sporty"
+      ]
     },
     "nh": {
       "personality": "jock",
@@ -36,7 +40,15 @@
       "subtype": "A",
       "song": "K.K. Fusion",
       "quote": "It's all about the muscle.",
-      "clothes": "muscle-tank"
+      "clothes": "muscle-tank",
+      "favoriteColors": [
+        "gray",
+        "red"
+      ],
+      "favoriteStyles": [
+        "active",
+        "simple"
+      ]
     }
   },
   "name": "Louie",

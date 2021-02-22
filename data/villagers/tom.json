@@ -30,14 +30,18 @@
       "fear": "Skeleton Hood",
       "quote": "There's no use crying over spilled milk.",
       "siblings": "Second quadruplet",
-      "favoriteStyle": "Rock",
-      "dislikedStyle": "Cute/Fancy",
-      "favoriteColor": "brown",
+      "dislikedStyle": "cute/fancy",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "The regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "brown"
+      ],
+      "favoriteStyles": [
+        "rock"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -46,7 +50,15 @@
       "hobby": "Education",
       "subtype": "B",
       "quote": "There's no use crying over spilled milk.",
-      "clothes": "bulldog-jacket"
+      "clothes": "bulldog-jacket",
+      "favoriteColors": [
+        "black",
+        "gray"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "simple"
+      ]
     }
   },
   "name": "Tom",

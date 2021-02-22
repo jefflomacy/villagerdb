@@ -24,14 +24,18 @@
       "fear": "Werewolf Hood",
       "quote": "100% Natural Fiber.",
       "siblings": "Eldest of 3 sisters",
-      "favoriteStyle": "Ornate",
-      "dislikedStyle": "Basic",
-      "favoriteColor": "Pink",
+      "dislikedStyle": "basic",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "Lots of milk",
         "sugar": "3 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "pink"
+      ],
+      "favoriteStyles": [
+        "ornate"
+      ]
     },
     "nh": {
       "personality": "normal",
@@ -40,7 +44,14 @@
       "hobby": "Nature",
       "subtype": "A",
       "quote": "100% Natural Fiber.",
-      "clothes": "flower-sweater"
+      "clothes": "flower-sweater",
+      "favoriteColors": [
+        "yellow",
+        "beige"
+      ],
+      "favoriteStyles": [
+        "simple"
+      ]
     }
   },
   "name": "Stella",

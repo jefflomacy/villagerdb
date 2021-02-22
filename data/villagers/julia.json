@@ -18,14 +18,18 @@
       "fear": "Mummy Mask",
       "quote": "Cut once, measure twice... Wait- reverse that.",
       "siblings": "Youngest triplet",
-      "favoriteStyle": "Basic",
-      "dislikedStyle": "Rock",
-      "favoriteColor": "Red",
+      "dislikedStyle": "rock",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Lots of milk",
         "sugar": "3 spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "red"
+      ],
+      "favoriteStyles": [
+        "basic"
+      ]
     },
     "nh": {
       "personality": "snooty",
@@ -34,7 +38,15 @@
       "hobby": "Education",
       "subtype": "A",
       "quote": "Cut once, measure twice... Wait— reverse that.",
-      "clothes": "zigzag-print-dress"
+      "clothes": "zigzag-print-dress",
+      "favoriteColors": [
+        "purple",
+        "red"
+      ],
+      "favoriteStyles": [
+        "elegant",
+        "gorgeous"
+      ]
     }
   },
   "name": "Julia",

@@ -37,14 +37,18 @@
       "fear": "Mummy Mask",
       "quote": "It's the early bird that catches the worm!",
       "siblings": "Second of 4 sisters",
-      "favoriteStyle": "Flashy",
-      "dislikedStyle": "Official",
-      "favoriteColor": "blue",
+      "dislikedStyle": "official",
       "coffee": {
         "beans": "Kilimanjaro",
         "milk": "None at all",
         "sugar": "None at all"
-      }
+      },
+      "favoriteColors": [
+        "blue"
+      ],
+      "favoriteStyles": [
+        "flashy"
+      ]
     },
     "nh": {
       "personality": "peppy",
@@ -53,7 +57,15 @@
       "hobby": "Fashion",
       "subtype": "B",
       "quote": "It's the early bird that catches the worm!",
-      "clothes": "striped-tank"
+      "clothes": "striped-tank",
+      "favoriteColors": [
+        "pink",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "simple",
+        "cute"
+      ]
     }
   },
   "name": "Twiggy",

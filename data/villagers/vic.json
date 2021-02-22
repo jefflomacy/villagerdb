@@ -13,14 +13,18 @@
       "fear": "Mummy Mask",
       "quote": "You mess with the bull, you get the horns.",
       "siblings": "Eldest of 8 kids",
-      "favoriteStyle": "Historical",
-      "dislikedStyle": "Sporty",
-      "favoriteColor": "aqua",
+      "dislikedStyle": "sporty",
       "coffee": {
         "beans": "Blue Mountain",
         "milk": "Regular amount of milk",
         "sugar": "Two spoonfuls of sugar"
-      }
+      },
+      "favoriteColors": [
+        "aqua"
+      ],
+      "favoriteStyles": [
+        "historical"
+      ]
     },
     "nh": {
       "personality": "cranky",
@@ -29,7 +33,15 @@
       "hobby": "Fitness",
       "subtype": "A",
       "quote": "You mess with the bull, you get the horns.",
-      "clothes": "viking-top"
+      "clothes": "viking-top",
+      "favoriteColors": [
+        "aqua",
+        "blue"
+      ],
+      "favoriteStyles": [
+        "cool",
+        "active"
+      ]
     }
   },
   "name": "Vic",

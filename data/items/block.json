@@ -16,6 +16,18 @@
       "sources": [
         "Fortune cookie #17"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 250
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1000
+        }
+      ]
     }
   }
 }

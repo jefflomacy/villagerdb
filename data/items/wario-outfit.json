@@ -1,0 +1,19 @@
+{
+  "id": "wario-outfit",
+  "name": "Wario Outfit",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 600
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 2400
+        }
+      ]
+    }
+  },
+  "category": "Dresses"
+}

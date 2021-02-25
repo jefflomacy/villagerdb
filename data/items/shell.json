@@ -1,0 +1,23 @@
+{
+  "id": "shell",
+  "name": "Shell",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 175
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 700
+        }
+      ],
+      "variations": {
+        "green": "Green",
+        "red": "Red"
+      }
+    }
+  },
+  "category": "Furniture"
+}

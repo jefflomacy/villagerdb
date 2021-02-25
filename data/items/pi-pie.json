@@ -1,0 +1,19 @@
+{
+  "id": "pi-pie",
+  "name": "Π Pie",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 78
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 314
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

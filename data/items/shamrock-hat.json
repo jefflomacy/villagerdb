@@ -19,6 +19,18 @@
         "Shamrock Day (NA/EU",
         "Isabelle)"
       ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 330
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1320
+        }
+      ]
     }
   }
 }

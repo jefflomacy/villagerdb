@@ -1,0 +1,19 @@
+{
+  "id": "luigi-stache",
+  "name": "Luigi 'stache",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1200
+        }
+      ]
+    }
+  },
+  "category": "Accessories"
+}

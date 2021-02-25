@@ -1,0 +1,19 @@
+{
+  "id": "wario-stache",
+  "name": "Wario 'stache",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1200
+        }
+      ]
+    }
+  },
+  "category": "Accessories"
+}

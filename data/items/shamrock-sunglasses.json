@@ -1,0 +1,23 @@
+{
+  "id": "shamrock-sunglasses",
+  "name": "Shamrock Sunglasses",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 275
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1100
+        }
+      ],
+      "recipe": {
+        "clump-of-weeds": 3,
+        "star-fragment": 3
+      }
+    }
+  },
+  "category": "Accessories"
+}

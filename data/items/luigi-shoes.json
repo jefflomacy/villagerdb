@@ -1,0 +1,19 @@
+{
+  "id": "luigi-shoes",
+  "name": "Luigi Shoes",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 350
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1400
+        }
+      ]
+    }
+  },
+  "category": "Shoes"
+}

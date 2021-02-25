@@ -1,0 +1,24 @@
+{
+  "id": "small-mushroom-platform",
+  "name": "Small Mushroom Platform",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 250
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1000
+        }
+      ],
+      "variations": {
+        "yellow": "Yellow",
+        "pink": "Pink",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Furniture"
+}

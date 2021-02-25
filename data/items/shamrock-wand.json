@@ -12,7 +12,11 @@
           "currency": "bells",
           "value": 6240
         }
-      ]
+      ],
+      "recipe": {
+        "clump-of-weeds": 3,
+        "star-fragment": 3
+      }
     }
   },
   "category": "Tools"

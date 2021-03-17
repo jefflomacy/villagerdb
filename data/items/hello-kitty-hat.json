@@ -2,6 +2,7 @@
   "id": "hello-kitty-hat",
   "name": "Hello Kitty Hat",
   "category": "Hats",
+  "collab": "Sanrio",
   "games": {
     "nl": {
       "orderable": false,

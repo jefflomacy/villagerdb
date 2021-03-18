@@ -1,0 +1,20 @@
+{
+  "id": "cinnamoroll-sneakers",
+  "name": "Cinnamoroll Sneakers",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 350
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1400
+        }
+      ]
+    }
+  },
+  "category": "Shoes",
+  "collab": "Sanrio"
+}

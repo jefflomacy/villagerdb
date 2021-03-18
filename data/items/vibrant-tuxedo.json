@@ -1,0 +1,29 @@
+{
+  "id": "vibrant-tuxedo",
+  "name": "Vibrant Tuxedo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 720
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 2880
+        }
+      ],
+      "variations": {
+        "red": "Red",
+        "blue": "Blue",
+        "green": "Green",
+        "yellow": "Yellow",
+        "orange": "Orange",
+        "purple": "Purple",
+        "brown": "Brown",
+        "monotone": "Monotone"
+      }
+    }
+  },
+  "category": "Dresses"
+}

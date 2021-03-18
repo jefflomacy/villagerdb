@@ -1,0 +1,20 @@
+{
+  "id": "my-melody-shirt",
+  "name": "My Melody Shirt",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1200
+        }
+      ]
+    }
+  },
+  "category": "Tops",
+  "collab": "Sanrio"
+}

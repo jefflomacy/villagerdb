@@ -1,0 +1,20 @@
+{
+  "id": "kiki-lala-pin",
+  "name": "Kiki & Lala Pin",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 175
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 700
+        }
+      ]
+    }
+  },
+  "category": "Hats",
+  "collab": "Sanrio"
+}

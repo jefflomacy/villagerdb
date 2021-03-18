@@ -2,6 +2,7 @@
   "id": "cinnamoroll-jacket",
   "name": "Cinnamoroll Jacket",
   "category": "Tops",
+  "collab": "Sanrio",
   "games": {
     "nl": {
       "orderable": false,
@@ -19,6 +20,18 @@
         {
           "currency": "meow",
           "value": 3
+        }
+      ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 450
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1800
         }
       ]
     }

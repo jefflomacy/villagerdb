@@ -1,0 +1,20 @@
+{
+  "id": "kiki-lala-table",
+  "name": "Kiki & Lala Table",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 625
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 2500
+        }
+      ]
+    }
+  },
+  "category": "Furniture",
+  "collab": "Sanrio"
+}

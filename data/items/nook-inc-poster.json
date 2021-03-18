@@ -1,0 +1,19 @@
+{
+  "id": "nook-inc-poster",
+  "name": "Nook Inc. Poster",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 160
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 640
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

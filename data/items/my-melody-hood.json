@@ -1,0 +1,20 @@
+{
+  "id": "my-melody-hood",
+  "name": "My Melody Hood",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 375
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1500
+        }
+      ]
+    }
+  },
+  "category": "Shoes",
+  "collab": "Sanrio"
+}

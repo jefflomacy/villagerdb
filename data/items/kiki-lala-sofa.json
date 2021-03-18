@@ -1,0 +1,20 @@
+{
+  "id": "kiki-lala-sofa",
+  "name": "Kiki & Lala Sofa",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1000
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 4000
+        }
+      ]
+    }
+  },
+  "category": "Furniture",
+  "collab": "Sanrio"
+}

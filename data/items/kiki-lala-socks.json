@@ -1,0 +1,20 @@
+{
+  "id": "kiki-lala-socks",
+  "name": "Kiki & Lala Socks",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 180
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 720
+        }
+      ]
+    }
+  },
+  "category": "Socks",
+  "collab": "Sanrio"
+}

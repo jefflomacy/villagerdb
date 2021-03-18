@@ -1,7 +1,8 @@
 {
   "id": "pompompurin-outfit",
   "name": "Pompompurin Outfit",
-  "category": "Tops",
+  "category": "Dresses",
+  "collab": "Sanrio",
   "games": {
     "nl": {
       "orderable": false,
@@ -19,6 +20,18 @@
         {
           "currency": "meow",
           "value": 3
+        }
+      ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 600
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 2400
         }
       ]
     }

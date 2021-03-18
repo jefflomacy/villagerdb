@@ -1,0 +1,29 @@
+{
+  "id": "dance-shoes",
+  "name": "Dance Shoes",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1200
+        }
+      ],
+      "variations": {
+        "black": "Black",
+        "gold": "Gold",
+        "orange": "Orange",
+        "silver": "Silver",
+        "blue": "Blue",
+        "pink": "Pink",
+        "green": "Green",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Shoes"
+}

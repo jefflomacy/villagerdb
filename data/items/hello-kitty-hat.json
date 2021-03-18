@@ -2,6 +2,7 @@
   "id": "hello-kitty-hat",
   "name": "Hello Kitty Hat",
   "category": "Hats",
+  "collab": "Sanrio",
   "games": {
     "nl": {
       "orderable": false,
@@ -19,6 +20,18 @@
         {
           "currency": "meow",
           "value": 3
+        }
+      ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 375
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1500
         }
       ]
     }

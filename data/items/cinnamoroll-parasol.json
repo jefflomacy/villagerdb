@@ -2,6 +2,7 @@
   "id": "cinnamoroll-parasol",
   "name": "Cinnamoroll Parasol",
   "category": "Furniture",
+  "collab": "Sanrio",
   "games": {
     "nl": {
       "orderable": false,
@@ -16,6 +17,18 @@
         {
           "currency": "meow",
           "value": 3
+        }
+      ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 875
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3500
         }
       ]
     }

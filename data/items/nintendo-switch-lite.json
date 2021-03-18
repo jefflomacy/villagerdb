@@ -1,0 +1,19 @@
+{
+  "id": "nintendo-switch-lite",
+  "name": "Nintendo Switch Lite",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 4995
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 19980
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

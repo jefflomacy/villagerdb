@@ -1,0 +1,23 @@
+{
+  "id": "prom-crown",
+  "name": "Prom Crown",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1075
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 4300
+        }
+      ],
+      "variations": {
+        "gold": "Gold",
+        "silver": "Silver"
+      }
+    }
+  },
+  "category": "Hats"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "kerokerokeroppi-hallway",
+  "name": "Kerokerokeroppi Hallway",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1125
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 4500
+        }
+      ]
+    }
+  },
+  "category": "Furniture",
+  "collab": "Sanrio"
+}

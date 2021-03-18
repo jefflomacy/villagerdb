@@ -2,6 +2,7 @@
   "id": "hello-kitty-shoes",
   "name": "Hello Kitty Shoes",
   "category": "Shoes",
+  "collab": "Sanrio",
   "games": {
     "nl": {
       "orderable": false,
@@ -19,6 +20,18 @@
         {
           "currency": "meow",
           "value": 3
+        }
+      ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 300
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1200
         }
       ]
     }

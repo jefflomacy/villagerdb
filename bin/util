@@ -422,6 +422,11 @@ async function indexItems(es, newIndexName) {
             fashionTheme: []
         };
 
+        // Collaboration
+        if (parsed.collab) {
+            document.collab = parsed.collab;
+        }
+
         for (let game in parsed.games) {
             document.game.push(game);
             if (parsed.games[game].set) {

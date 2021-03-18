@@ -1,0 +1,20 @@
+{
+  "id": "kiki-lala-wand",
+  "name": "Kiki & Lala Wand",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 3060
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 12240
+        }
+      ]
+    }
+  },
+  "category": "Tools",
+  "collab": "Sanrio"
+}

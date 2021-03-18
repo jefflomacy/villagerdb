@@ -1,0 +1,20 @@
+{
+  "id": "tobys-photo",
+  "name": "Toby's Photo",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 10
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 40
+        }
+      ]
+    }
+  },
+  "category": "Photos",
+  "collab": "Sanrio"
+}

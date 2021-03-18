@@ -1,0 +1,27 @@
+{
+  "id": "slip-dress",
+  "name": "Slip Dress",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 650
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 2600
+        }
+      ],
+      "variations": {
+        "blue": "Blue",
+        "black": "Black",
+        "orange": "Orange",
+        "yellow": "Yellow",
+        "gray": "Gray",
+        "red": "Red"
+      }
+    }
+  },
+  "category": "Dresses"
+}

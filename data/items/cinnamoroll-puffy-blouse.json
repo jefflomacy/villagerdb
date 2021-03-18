@@ -1,0 +1,20 @@
+{
+  "id": "cinnamoroll-puffy-blouse",
+  "name": "Cinnamoroll Puffy Blouse",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 450
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1800
+        }
+      ]
+    }
+  },
+  "category": "Tops",
+  "collab": "Sanrio"
+}

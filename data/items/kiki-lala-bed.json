@@ -1,0 +1,20 @@
+{
+  "id": "kiki-lala-bed",
+  "name": "Kiki & Lala Bed",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 1375
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 5500
+        }
+      ]
+    }
+  },
+  "category": "Furniture",
+  "collab": "Sanrio"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sequin-dress",
+  "name": "Sequin Dress",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 560
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 2240
+        }
+      ],
+      "variations": {
+        "pink": "Pink",
+        "red": "Red",
+        "black": "Black",
+        "yellow": "Yellow",
+        "white": "White",
+        "blue": "Blue",
+        "purple": "Purple",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Dresses"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "prom-sash",
+  "name": "Prom Sash",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 875
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 3500
+        }
+      ],
+      "variations": {
+        "red": "Red",
+        "blue": "Blue",
+        "green": "Green",
+        "purple": "Purple",
+        "white": "White",
+        "black": "Black",
+        "gold": "Gold"
+      }
+    }
+  },
+  "category": "Accessories"
+}

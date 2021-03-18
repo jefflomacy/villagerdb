@@ -1,0 +1,23 @@
+{
+  "id": "elegant-masquerade-mask",
+  "name": "Elegant Masquerade Mask",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 260
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1040
+        }
+      ],
+      "variations": {
+        "red": "Red",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Accessories"
+}

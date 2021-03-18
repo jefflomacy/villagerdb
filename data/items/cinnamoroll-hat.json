@@ -1,7 +1,7 @@
 {
   "id": "cinnamoroll-hat",
   "name": "Cinnamoroll Hat",
-  "category": "Hats",
+  "category": "Shoes",
   "collab": "Sanrio",
   "games": {
     "nl": {
@@ -20,6 +20,18 @@
         {
           "currency": "meow",
           "value": 3
+        }
+      ]
+    },
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 375
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1500
         }
       ]
     }

@@ -1,0 +1,19 @@
+{
+  "id": "bunny-day-candy",
+  "name": "Bunny Day Candy",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 325
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1300
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

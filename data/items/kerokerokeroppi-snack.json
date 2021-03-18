@@ -1,0 +1,20 @@
+{
+  "id": "kerokerokeroppi-snack",
+  "name": "Kerokerokeroppi Snack",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 200
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 800
+        }
+      ]
+    }
+  },
+  "category": "Furniture",
+  "collab": "Sanrio"
+}

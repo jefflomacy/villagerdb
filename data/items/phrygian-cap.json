@@ -1,0 +1,26 @@
+{
+  "id": "phrygian-cap",
+  "name": "Phrygian Cap",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 220
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 880
+        }
+      ],
+      "variations": {
+        "red": "Red",
+        "orange": "Orange",
+        "green": "Green",
+        "light-blue": "Light blue",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Hats"
+}

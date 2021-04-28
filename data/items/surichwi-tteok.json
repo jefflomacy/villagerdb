@@ -1,16 +1,16 @@
 {
-  "id": "fossil-plaque",
-  "name": "Fossil Plaque",
+  "id": "surichwi-tteok",
+  "name": "Surichwi Tteok",
   "games": {
     "nh": {
       "sellPrice": {
         "currency": "bells",
-        "value": 2500
+        "value": 250
       },
       "buyPrices": [
         {
           "currency": "bells",
-          "value": 10000
+          "value": 1000
         }
       ]
     }

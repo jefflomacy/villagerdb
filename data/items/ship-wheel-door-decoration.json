@@ -1,16 +1,16 @@
 {
-  "id": "fossil-plaque",
-  "name": "Fossil Plaque",
+  "id": "ship-wheel-door-decoration",
+  "name": "Ship-wheel Door Decoration",
   "games": {
     "nh": {
       "sellPrice": {
         "currency": "bells",
-        "value": 2500
+        "value": 325
       },
       "buyPrices": [
         {
           "currency": "bells",
-          "value": 10000
+          "value": 1300
         }
       ]
     }

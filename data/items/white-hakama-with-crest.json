@@ -1,19 +1,19 @@
 {
-  "id": "fossil-plaque",
-  "name": "Fossil Plaque",
+  "id": "white-hakama-with-crest",
+  "name": "White Hakama With Crest",
   "games": {
     "nh": {
       "sellPrice": {
         "currency": "bells",
-        "value": 2500
+        "value": 1200
       },
       "buyPrices": [
         {
           "currency": "bells",
-          "value": 10000
+          "value": 4800
         }
       ]
     }
   },
-  "category": "Furniture"
+  "category": "Dresses"
 }

@@ -1,16 +1,16 @@
 {
-  "id": "fossil-plaque",
-  "name": "Fossil Plaque",
+  "id": "double-gloucester-cheese",
+  "name": "Double Gloucester Cheese",
   "games": {
     "nh": {
       "sellPrice": {
         "currency": "bells",
-        "value": 2500
+        "value": 300
       },
       "buyPrices": [
         {
           "currency": "bells",
-          "value": 10000
+          "value": 1200
         }
       ]
     }

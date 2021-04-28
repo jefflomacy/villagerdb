@@ -1,0 +1,26 @@
+{
+  "id": "thank-you-dad-apron",
+  "name": "Thank-you Dad Apron",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 275
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1100
+        }
+      ],
+      "variations": {
+        "blue": "Blue",
+        "red": "Red",
+        "green": "Green",
+        "brown": "Brown",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Tops"
+}

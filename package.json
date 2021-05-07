@@ -45,7 +45,7 @@
     "send": "^0.17.1",
     "sharp": "^0.26.1",
     "slick-carousel": "^1.8.1",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "webpack": "^4.41.2",
     "webpack-cli": "^3.3.10",
     "winston": "^3.3.3",

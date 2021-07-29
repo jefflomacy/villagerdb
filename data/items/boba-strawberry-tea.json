@@ -1,0 +1,19 @@
+{
+  "id": "boba-strawberry-tea",
+  "name": "Boba Strawberry Tea",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 150
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 600
+        }
+      ]
+    }
+  },
+  "category": "Usables"
+}

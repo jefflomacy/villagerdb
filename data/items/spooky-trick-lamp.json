@@ -1,0 +1,29 @@
+{
+  "id": "spooky-trick-lamp",
+  "name": "Spooky Trick Lamp",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 2900
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 11600
+        }
+      ],
+      "recipe": {
+        "orange-pumpkin": 4,
+        "iron-nugget": 4
+      },
+      "variations": {
+        "orange": "Orange",
+        "yellow": "Yellow",
+        "green": "Green",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Furniture"
+}

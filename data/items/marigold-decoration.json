@@ -1,0 +1,19 @@
+{
+  "id": "marigold-decoration",
+  "name": "Marigold Decoration",
+  "games": {
+    "nh": {
+      "sellPrice": {
+        "currency": "bells",
+        "value": 400
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 1600
+        }
+      ]
+    }
+  },
+  "category": "Furniture"
+}

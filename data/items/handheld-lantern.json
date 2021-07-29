@@ -12,7 +12,15 @@
           "currency": "bells",
           "value": 1100
         }
-      ]
+      ],
+      "variations": {
+        "stars": "Stars",
+        "moons": "Moons",
+        "stained-glass": "Stained Glass",
+        "suns": "Suns",
+        "geese": "Geese",
+        "leaves": "Leaves"
+      }
     }
   },
   "category": "Usables"

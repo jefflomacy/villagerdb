@@ -1,6 +1,7 @@
 {
   "gender": "female",
   "species": "koala",
+  "birthday": "3-21",
   "games": {
     "ac": {
       "personality": "normal",
@@ -10,6 +11,9 @@
     "afe+": {
       "personality": "normal",
       "clothes": "red-aloha-shirt"
+    },
+    "nh": {
+      "personality": "normal"
     }
   },
   "name": "Faith",

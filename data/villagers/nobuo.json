@@ -1,12 +1,16 @@
 {
   "gender": "male",
   "species": "penguin",
+  "birthday": "12-24",
   "games": {
     "afe+": {
       "personality": "lazy",
       "clothes": "paw-shirt"
+    },
+    "nh": {
+      "personality": "lazy"
     }
   },
-  "name": "Nobuo",
+  "name": "Chabwick",
   "id": "nobuo"
 }

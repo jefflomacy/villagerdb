@@ -1,0 +1,14 @@
+{
+  "gender": "female",
+  "species": "mouse",
+  "birthday": "10-23",
+  "games": {
+    "nh": {
+      "personality": "snooty",
+      "phrase": "mmmhmm",
+      "quote": "Our DNA is only the beginning of the story."
+    }
+  },
+  "name": "Petri",
+  "id": "petri"
+}

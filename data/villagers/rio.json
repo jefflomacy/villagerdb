@@ -1,6 +1,7 @@
 {
   "gender": "female",
   "species": "ostrich",
+  "birthday": "9-10",
   "games": {
     "ac": {
       "personality": "peppy",
@@ -12,6 +13,9 @@
       "personality": "peppy",
       "clothes": "red-scale-shirt",
       "song": "K.K. Samba"
+    },
+    "nh": {
+      "personality": "peppy"
     }
   },
   "name": "Rio",

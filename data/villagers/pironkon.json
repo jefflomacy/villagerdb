@@ -1,12 +1,16 @@
 {
   "gender": "male",
   "species": "alligator",
+  "birthday": "5-2",
   "games": {
     "afe+": {
       "personality": "lazy",
       "clothes": "blue-aloha-shirt"
+    },
+    "nh": {
+      "personality": "lazy"
     }
   },
-  "name": "Pironkon",
+  "name": "Roswell",
   "id": "pironkon"
 }

@@ -1,6 +1,7 @@
 {
   "gender": "male",
   "species": "bird",
+  "birthday": "8-11",
   "games": {
     "ac": {
       "personality": "jock",
@@ -12,6 +13,9 @@
       "personality": "jock",
       "clothes": "spade-shirt",
       "song": "K.K. Parade"
+    },
+    "nh": {
+      "personality": "jock"
     }
   },
   "name": "Ace",

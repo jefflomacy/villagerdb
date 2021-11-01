@@ -1,12 +1,16 @@
 {
   "gender": "male",
   "species": "dog",
+  "birthday": "10-30",
   "games": {
     "afe+": {
       "personality": "cranky",
       "clothes": "gray-tartan"
+    },
+    "nh": {
+      "personality": "cranky"
     }
   },
-  "name": "Champagne",
+  "name": "Frett",
   "id": "champagne"
 }

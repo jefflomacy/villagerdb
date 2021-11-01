@@ -1,13 +1,17 @@
 {
   "gender": "female",
   "species": "rhino",
+  "birthday": "12-18",
   "games": {
     "afe+": {
       "personality": "snooty",
       "clothes": "rickrack-shirt",
       "song": "Cafe K.K."
+    },
+    "nh": {
+      "personality": "snooty"
     }
   },
-  "name": "Petunia",
+  "name": "Azalea",
   "id": "petunia2"
 }

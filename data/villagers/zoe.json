@@ -1,6 +1,7 @@
 {
   "gender": "female",
   "species": "anteater",
+  "birthday": "2-10",
   "games": {
     "ac": {
       "personality": "normal",
@@ -10,6 +11,9 @@
     "afe+": {
       "personality": "normal",
       "clothes": "hot-spring-shirt"
+    },
+    "nh": {
+      "personality": "normal"
     }
   },
   "name": "Zoe",

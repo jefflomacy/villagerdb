@@ -219,7 +219,7 @@ export default class DropdownList extends React.Component {
             const checkboxAlignment = variationsDropdown ? 'text-right' : 'text-center';
             diySelector = (
                 <div className={checkboxAlignment + ' mt-2 mb-2'}>
-                    <div className="form-check">
+                    <div className="form-check recipe-container">
                         <input type="checkbox" className="form-check-input"
                                id={this.props.entityType + '-' + this.props.entityId + '-diy'}
                                onChange={this.toggleDIY}

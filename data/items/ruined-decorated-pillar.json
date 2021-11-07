@@ -1,0 +1,21 @@
+{
+  "id": "ruined-decorated-pillar",
+  "name": "Ruined Decorated Pillar",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "vine": 5,
+        "stone": 10
+      },
+      "variations": {
+        "ivory": "Ivory",
+        "white": "White",
+        "light-brown": "Light brown",
+        "black": "Black",
+        "mossy": "Mossy"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "hanging-lightbulb",
+  "name": "Hanging Lightbulb",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "silver": "Silver",
+        "gold": "Gold",
+        "copper": "Copper"
+      }
+    }
+  },
+  "category": "Furniture"
+}

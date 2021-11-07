@@ -1,0 +1,15 @@
+{
+  "id": "antique-map",
+  "name": "Antique Map",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "treasure-map": "Treasure map",
+        "ship-route-map": "Ship-route map",
+        "world-map": "World map"
+      }
+    }
+  },
+  "category": "Furniture"
+}

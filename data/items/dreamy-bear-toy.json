@@ -1,0 +1,18 @@
+{
+  "id": "dreamy-bear-toy",
+  "name": "Dreamy Bear Toy",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "purple": "Purple",
+        "blue": "Blue",
+        "green": "Green",
+        "yellow": "Yellow",
+        "pink": "Pink",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Furniture"
+}

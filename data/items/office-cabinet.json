@@ -15,6 +15,15 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "ivory-wood": "Ivory & wood",
+        "black": "Black",
+        "gray": "Gray"
+      }
     }
   }
 }

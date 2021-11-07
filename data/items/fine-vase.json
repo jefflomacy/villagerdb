@@ -1,0 +1,16 @@
+{
+  "id": "fine-vase",
+  "name": "Fine Vase",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "dragon": "Dragon",
+        "mt-fuji": "Mt. Fuji",
+        "plum-blossoms": "Plum blossoms",
+        "roses": "Roses"
+      }
+    }
+  },
+  "category": "Furniture"
+}

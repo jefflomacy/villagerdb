@@ -1,0 +1,16 @@
+{
+  "id": "porcelain-vase",
+  "name": "Porcelain Vase",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "simple": "Simple",
+        "cranes": "Cranes",
+        "wisteria": "Wisteria",
+        "gradation": "Gradation"
+      }
+    }
+  },
+  "category": "Furniture"
+}

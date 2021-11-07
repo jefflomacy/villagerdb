@@ -1,0 +1,21 @@
+{
+  "id": "vine-lamp",
+  "name": "Vine Lamp",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "vine": 5,
+        "iron-nugget": 2
+      },
+      "variations": {
+        "green": "Green",
+        "light-green": "Light green",
+        "dark-green": "Dark green",
+        "brown": "Brown",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Furniture"
+}

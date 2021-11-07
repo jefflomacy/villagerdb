@@ -1,0 +1,14 @@
+{
+  "id": "plain-cupcakes",
+  "name": "Plain Cupcakes",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 1,
+        "sugar": 1
+      }
+    }
+  },
+  "category": "Food"
+}

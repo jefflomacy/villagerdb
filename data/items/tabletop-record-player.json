@@ -1,0 +1,20 @@
+{
+  "id": "tabletop-record-player",
+  "name": "Tabletop Record Player",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver": "Silver",
+        "black": "Black",
+        "white": "White",
+        "red": "Red",
+        "blue": "Blue",
+        "yellow": "Yellow",
+        "pink": "Pink",
+        "brown": "Brown"
+      }
+    }
+  },
+  "category": "Furniture"
+}

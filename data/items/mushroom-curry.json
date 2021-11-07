@@ -1,0 +1,16 @@
+{
+  "id": "mushroom-curry",
+  "name": "Mushroom Curry",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 3,
+        "round-mushroom": 1,
+        "flat-mushroom": 1,
+        "skinny-mushroom": 1
+      }
+    }
+  },
+  "category": "Food"
+}

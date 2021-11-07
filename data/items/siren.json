@@ -1,0 +1,18 @@
+{
+  "id": "siren",
+  "name": "Siren",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "yellow": "Yellow",
+        "green": "Green",
+        "blue": "Blue",
+        "purple": "Purple",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Furniture"
+}

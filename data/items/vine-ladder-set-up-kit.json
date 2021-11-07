@@ -1,0 +1,14 @@
+{
+  "id": "vine-ladder-set-up-kit",
+  "name": "Vine Ladder Set-up Kit",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "ladder": 1,
+        "vine": 5
+      }
+    }
+  },
+  "category": "Tools"
+}

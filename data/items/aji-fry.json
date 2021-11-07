@@ -1,0 +1,14 @@
+{
+  "id": "aji-fry",
+  "name": "Aji Fry",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "horse-mackerel": 1,
+        "flour": 1
+      }
+    }
+  },
+  "category": "Food"
+}

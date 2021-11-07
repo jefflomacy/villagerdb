@@ -1,0 +1,21 @@
+{
+  "id": "ruined-broken-pillar",
+  "name": "Ruined Broken Pillar",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "vine": 5,
+        "stone": 5
+      },
+      "variations": {
+        "ivory": "Ivory",
+        "white": "White",
+        "light-brown": "Light brown",
+        "black": "Black",
+        "mossy": "Mossy"
+      }
+    }
+  },
+  "category": "Furniture"
+}

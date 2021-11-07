@@ -1,0 +1,15 @@
+{
+  "id": "antique-radio",
+  "name": "Antique Radio",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown": "Brown",
+        "natural": "Natural",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Furniture"
+}

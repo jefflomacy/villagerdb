@@ -1,0 +1,13 @@
+{
+  "id": "low-golden-island-counter",
+  "name": "Low Golden Island Counter",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gold-nugget": 4
+      }
+    }
+  },
+  "category": "Furniture"
+}

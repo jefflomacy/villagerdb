@@ -1,0 +1,52 @@
+{
+  "id": "wide-display-stand",
+  "name": "Wide Display Stand",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gray-white-text-plate": "Gray & White text plate",
+        "gray-black-text-plate": "Gray & Black text plate",
+        "gray-landscape-painting": "Gray & Landscape painting",
+        "gray-still-life-painting": "Gray & Still-life painting",
+        "gray-portrait": "Gray & Portrait",
+        "gray-woodblock-print": "Gray & Woodblock print",
+        "gray-abstract-painting": "Gray & Abstract painting",
+        "gray-childs-drawing": "Gray & Child's drawing",
+        "white-white-text-plate": "White & White text plate",
+        "white-black-text-plate": "White & Black text plate",
+        "white-landscape-painting": "White & Landscape painting",
+        "white-still-life-painting": "White & Still-life painting",
+        "white-portrait": "White & Portrait",
+        "white-woodblock-print": "White & Woodblock print",
+        "white-abstract-painting": "White & Abstract painting",
+        "white-childs-drawing": "White & Child's drawing",
+        "black-white-text-plate": "Black & White text plate",
+        "black-black-text-plate": "Black & Black text plate",
+        "black-landscape-painting": "Black & Landscape painting",
+        "black-still-life-painting": "Black & Still-life painting",
+        "black-portrait": "Black & Portrait",
+        "black-woodblock-print": "Black & Woodblock print",
+        "black-abstract-painting": "Black & Abstract painting",
+        "black-childs-drawing": "Black & Child's drawing",
+        "dark-wood-white-text-plate": "Dark wood & White text plate",
+        "dark-wood-black-text-plate": "Dark wood & Black text plate",
+        "dark-wood-landscape-painting": "Dark wood & Landscape painting",
+        "dark-wood-still-life-painting": "Dark wood & Still-life painting",
+        "dark-wood-portrait": "Dark wood & Portrait",
+        "dark-wood-woodblock-print": "Dark wood & Woodblock print",
+        "dark-wood-abstract-painting": "Dark wood & Abstract painting",
+        "dark-wood-childs-drawing": "Dark wood & Child's drawing",
+        "light-wood-white-text-plate": "Light wood & White text plate",
+        "light-wood-black-text-plate": "Light wood & Black text plate",
+        "light-wood-landscape-painting": "Light wood & Landscape painting",
+        "light-wood-still-life-painting": "Light wood & Still-life painting",
+        "light-wood-portrait": "Light wood & Portrait",
+        "light-wood-woodblock-print": "Light wood & Woodblock print",
+        "light-wood-abstract-painting": "Light wood & Abstract painting",
+        "light-wood-childs-drawing": "Light wood & Child's drawing"
+      }
+    }
+  },
+  "category": "Furniture"
+}

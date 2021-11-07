@@ -1,0 +1,18 @@
+{
+  "id": "stadium-light",
+  "name": "Stadium Light",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "red": "Red",
+        "yellow": "Yellow",
+        "green": "Green",
+        "blue": "Blue",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Furniture"
+}

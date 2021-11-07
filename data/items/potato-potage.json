@@ -1,0 +1,14 @@
+{
+  "id": "potato-potage",
+  "name": "Potato Potage",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 1,
+        "potato": 2
+      }
+    }
+  },
+  "category": "Food"
+}

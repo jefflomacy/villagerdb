@@ -1,0 +1,13 @@
+{
+  "id": "carpaccio-di-salmone",
+  "name": "Carpaccio Di Salmone",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "salmon": 1
+      }
+    }
+  },
+  "category": "Food"
+}

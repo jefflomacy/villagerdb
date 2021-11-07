@@ -1,0 +1,28 @@
+{
+  "id": "donation-box",
+  "name": "Donation Box",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "wood": 4,
+        "softwood": 4
+      },
+      "variations": {
+        "light-brown": "Light brown",
+        "light-brown-leaf": "Light brown & Leaf",
+        "light-brown-heart": "Light brown & Heart",
+        "light-brown-bell": "Light brown & Bell",
+        "white": "White",
+        "white-leaf": "White & Leaf",
+        "white-heart": "White & Heart",
+        "white-bell": "White & Bell",
+        "brown": "Brown",
+        "brown-leaf": "Brown & Leaf",
+        "brown-heart": "Brown & Heart",
+        "brown-bell": "Brown & Bell"
+      }
+    }
+  },
+  "category": "Furniture"
+}

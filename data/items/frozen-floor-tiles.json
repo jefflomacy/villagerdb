@@ -1,0 +1,13 @@
+{
+  "id": "frozen-floor-tiles",
+  "name": "Frozen Floor Tiles",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "snowflake": 8
+      }
+    }
+  },
+  "category": "Flooring"
+}

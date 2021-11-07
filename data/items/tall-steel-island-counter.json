@@ -1,0 +1,13 @@
+{
+  "id": "tall-steel-island-counter",
+  "name": "Tall Steel Island Counter",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "iron-nugget": 8
+      }
+    }
+  },
+  "category": "Furniture"
+}

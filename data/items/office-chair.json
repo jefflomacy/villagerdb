@@ -19,6 +19,15 @@
           "value": 1100
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gray": "Gray",
+        "brown": "Brown",
+        "black": "Black",
+        "green": "Green"
+      }
     }
   }
 }

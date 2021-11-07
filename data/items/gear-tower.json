@@ -1,0 +1,21 @@
+{
+  "id": "gear-tower",
+  "name": "Gear Tower",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gears": 4
+      },
+      "variations": {
+        "silver": "Silver",
+        "copper": "Copper",
+        "black": "Black",
+        "colorful": "Colorful",
+        "brown": "Brown",
+        "rust": "Rust"
+      }
+    }
+  },
+  "category": "Furniture"
+}

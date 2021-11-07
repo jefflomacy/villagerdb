@@ -1,0 +1,16 @@
+{
+  "id": "excavator",
+  "name": "Excavator",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "red": "Red",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Furniture"
+}

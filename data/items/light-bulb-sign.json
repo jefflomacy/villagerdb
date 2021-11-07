@@ -1,0 +1,20 @@
+{
+  "id": "light-bulb-sign",
+  "name": "Light-bulb Sign",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "yellow": "Yellow",
+        "green": "Green",
+        "navy-blue": "Navy blue",
+        "orange": "Orange",
+        "white": "White",
+        "black": "Black",
+        "red-white-blue": "Red, white & blue"
+      }
+    }
+  },
+  "category": "Furniture"
+}

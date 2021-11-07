@@ -1,0 +1,19 @@
+{
+  "id": "hanging-sign",
+  "name": "Hanging Sign",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "special": "SPECIAL",
+        "tableware": "Tableware",
+        "cafe-menu": "Cafe menu",
+        "warning": "WARNING",
+        "heart": "Heart",
+        "hand-washing": "Hand-washing",
+        "vintage-sign": "Vintage sign"
+      }
+    }
+  },
+  "category": "Furniture"
+}

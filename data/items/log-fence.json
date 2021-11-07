@@ -1,0 +1,13 @@
+{
+  "id": "log-fence",
+  "name": "Log Fence",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "softwood": 6
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "electronics-store-paper-bag",
+  "name": "Electronics-store Paper Bag",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "yellow": "Yellow",
+        "light-blue": "Light blue",
+        "red": "Red",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Accessories"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "pear-jelly",
+  "name": "Pear Jelly",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "pear": 2
+      }
+    }
+  },
+  "category": "Food"
+}

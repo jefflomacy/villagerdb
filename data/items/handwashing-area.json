@@ -26,6 +26,17 @@
           "value": 5
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "beige": "Beige",
+        "gray": "Gray",
+        "silver": "Silver",
+        "white": "White",
+        "pink": "Pink",
+        "blue-tile": "Blue tile"
+      }
     }
   }
 }

@@ -1,7 +1,7 @@
 {
   "id": "pumpkin-pie",
   "name": "Pumpkin Pie",
-  "category": "Furniture",
+  "category": "Food",
   "games": {
     "nl": {
       "orderable": false,
@@ -24,6 +24,14 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 3,
+        "sugar": 2,
+        "orange-pumpkin": 2
+      }
     }
   }
 }

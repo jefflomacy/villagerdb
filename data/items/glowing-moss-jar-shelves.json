@@ -1,0 +1,20 @@
+{
+  "id": "glowing-moss-jar-shelves",
+  "name": "Glowing-moss-jar Shelves",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss-jar": 6,
+        "iron-nugget": 6
+      },
+      "variations": {
+        "silver": "Silver",
+        "black": "Black",
+        "white": "White",
+        "damaged": "Damaged"
+      }
+    }
+  },
+  "category": "Furniture"
+}

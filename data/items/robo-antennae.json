@@ -1,0 +1,16 @@
+{
+  "id": "robo-antennae",
+  "name": "Robo Antennae",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-blue": "Light blue",
+        "green": "Green",
+        "yellow": "Yellow",
+        "red": "Red"
+      }
+    }
+  },
+  "category": "Hats"
+}

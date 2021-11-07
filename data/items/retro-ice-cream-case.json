@@ -1,0 +1,16 @@
+{
+  "id": "retro-ice-cream-case",
+  "name": "Retro Ice-cream Case",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "sun": "Sun",
+        "flowers": "Flowers",
+        "red": "Red",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "bubbloid",
+  "name": "Bubbloid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown": "Brown",
+        "green": "Green",
+        "pink": "Pink",
+        "purple": "Purple",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

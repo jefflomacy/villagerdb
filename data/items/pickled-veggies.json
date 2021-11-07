@@ -1,0 +1,16 @@
+{
+  "id": "pickled-veggies",
+  "name": "Pickled Veggies",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "carrot": 1,
+        "potato": 1,
+        "tomato": 1,
+        "orange-pumpkin": 1
+      }
+    }
+  },
+  "category": "Food"
+}

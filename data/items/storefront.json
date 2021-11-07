@@ -22,6 +22,25 @@
           "value": 3680
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown-wanted": "Brown & WANTED",
+        "brown-ad": "Brown & Ad",
+        "light-brown-wanted": "Light brown & WANTED",
+        "light-brown-ad": "Light brown & Ad",
+        "white-wanted": "White & WANTED",
+        "white-ad": "White & Ad",
+        "blue-wanted": "Blue & WANTED",
+        "blue-ad": "Blue & Ad",
+        "red-wanted": "Red & WANTED",
+        "red-ad": "Red & Ad",
+        "green-wanted": "Green & WANTED",
+        "green-ad": "Green & Ad",
+        "yellow-wanted": "Yellow & WANTED",
+        "yellow-ad": "Yellow & Ad"
+      }
     }
   }
 }

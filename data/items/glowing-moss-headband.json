@@ -1,0 +1,13 @@
+{
+  "id": "glowing-moss-headband",
+  "name": "Glowing-moss Headband",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss": 3
+      }
+    }
+  },
+  "category": "Hats"
+}

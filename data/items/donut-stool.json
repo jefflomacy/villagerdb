@@ -18,6 +18,32 @@
           "value": 1600
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver-blue": "Silver & Blue",
+        "silver-red": "Silver & Red",
+        "silver-green": "Silver & Green",
+        "silver-yellow": "Silver & Yellow",
+        "silver-checkered-white": "Silver & Checkered white",
+        "silver-checkered-black": "Silver & Checkered black",
+        "silver-donut": "Silver & Donut",
+        "white-blue": "White & Blue",
+        "white-red": "White & Red",
+        "white-green": "White & Green",
+        "white-yellow": "White & Yellow",
+        "white-checkered-white": "White & Checkered white",
+        "white-checkered-black": "White & Checkered black",
+        "white-donut": "White & Donut",
+        "black-blue": "Black & Blue",
+        "black-red": "Black & Red",
+        "black-green": "Black & Green",
+        "black-yellow": "Black & Yellow",
+        "black-checkered-white": "Black & Checkered white",
+        "black-checkered-black": "Black & Checkered black",
+        "black-donut": "Black & Donut"
+      }
     }
   }
 }

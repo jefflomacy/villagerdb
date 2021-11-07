@@ -1,0 +1,19 @@
+{
+  "id": "pleather-handbag",
+  "name": "Pleather Handbag",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "pink": "Pink",
+        "orange": "Orange",
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "gray": "Gray",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Accessories"
+}

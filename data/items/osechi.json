@@ -1,0 +1,16 @@
+{
+  "id": "osechi",
+  "name": "Osechi",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "red": "Red",
+        "white": "White",
+        "wood-grain": "Wood grain"
+      }
+    }
+  },
+  "category": "Food"
+}

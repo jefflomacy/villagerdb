@@ -1,0 +1,20 @@
+{
+  "id": "drapery",
+  "name": "Drapery",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "berry-red": "Berry red",
+        "green": "Green",
+        "yellow": "Yellow",
+        "light-blue": "Light blue",
+        "white": "White",
+        "navy-blue": "Navy blue",
+        "black": "Black",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Furniture"
+}

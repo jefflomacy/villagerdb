@@ -1,0 +1,36 @@
+{
+  "id": "vertical-split-curtains",
+  "name": "Vertical Split Curtains",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown-plain": "Brown & Plain",
+        "brown-seven-treasures-shippou": "Brown & Seven treasures (Shippou)",
+        "brown-arrow-fletchings-yagasuri": "Brown & Arrow fletchings (Yagasuri)",
+        "brown-balloon-flowers": "Brown & Balloon flowers",
+        "brown-lucky-cats-maneki-neko": "Brown & Lucky cats (Maneki-neko)",
+        "brown-cranes": "Brown & Cranes",
+        "brown-wisteria": "Brown & Wisteria",
+        "brown-circle-ensou": "Brown & Circle (Ensou)",
+        "black-plain": "Black & Plain",
+        "black-seven-treasures-shippou": "Black & Seven treasures (Shippou)",
+        "black-arrow-fletchings-yagasuri": "Black & Arrow fletchings (Yagasuri)",
+        "black-balloon-flowers": "Black & Balloon flowers",
+        "black-lucky-cats-maneki-neko": "Black & Lucky cats (Maneki-neko)",
+        "black-cranes": "Black & Cranes",
+        "black-wisteria": "Black & Wisteria",
+        "black-circle-ensou": "Black & Circle (Ensou)",
+        "white-plain": "White & Plain",
+        "white-seven-treasures-shippou": "White & Seven treasures (Shippou)",
+        "white-arrow-fletchings-yagasuri": "White & Arrow fletchings (Yagasuri)",
+        "white-balloon-flowers": "White & Balloon flowers",
+        "white-lucky-cats-maneki-neko": "White & Lucky cats (Maneki-neko)",
+        "white-cranes": "White & Cranes",
+        "white-wisteria": "White & Wisteria",
+        "white-circle-ensou": "White & Circle (Ensou)"
+      }
+    }
+  },
+  "category": "Furniture"
+}

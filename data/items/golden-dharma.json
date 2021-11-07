@@ -1,0 +1,14 @@
+{
+  "id": "golden-dharma",
+  "name": "Golden Dharma",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gold-nugget": 1,
+        "dharma": 1
+      }
+    }
+  },
+  "category": "Furniture"
+}

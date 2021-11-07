@@ -1,0 +1,13 @@
+{
+  "id": "woven-vines-hat",
+  "name": "Woven-vines Hat",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "vine": 8
+      }
+    }
+  },
+  "category": "Hats"
+}

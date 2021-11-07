@@ -1,0 +1,15 @@
+{
+  "id": "right-chalkboard-section",
+  "name": "Right Chalkboard Section",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blank": "Blank",
+        "math": "Math",
+        "language-arts": "Language arts"
+      }
+    }
+  },
+  "category": "Furniture"
+}

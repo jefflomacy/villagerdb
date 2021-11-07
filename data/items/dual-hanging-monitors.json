@@ -1,0 +1,36 @@
+{
+  "id": "dual-hanging-monitors",
+  "name": "Dual Hanging Monitors",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black-cafe-menu": "Black & Cafe menu",
+        "black-drink-menu": "Black & Drink menu",
+        "black-fast-food-menu": "Black & Fast-food menu",
+        "black-dinner-menu": "Black & Dinner menu",
+        "black-ice-cream-menu": "Black & Ice-cream menu",
+        "black-timetable": "Black & Timetable",
+        "black-service-numbers": "Black & Service numbers",
+        "black-stock-updates": "Black & Stock updates",
+        "white-cafe-menu": "White & Cafe menu",
+        "white-drink-menu": "White & Drink menu",
+        "white-fast-food-menu": "White & Fast-food menu",
+        "white-dinner-menu": "White & Dinner menu",
+        "white-ice-cream-menu": "White & Ice-cream menu",
+        "white-timetable": "White & Timetable",
+        "white-service-numbers": "White & Service numbers",
+        "white-stock-updates": "White & Stock updates",
+        "silver-cafe-menu": "Silver & Cafe menu",
+        "silver-drink-menu": "Silver & Drink menu",
+        "silver-fast-food-menu": "Silver & Fast-food menu",
+        "silver-dinner-menu": "Silver & Dinner menu",
+        "silver-ice-cream-menu": "Silver & Ice-cream menu",
+        "silver-timetable": "Silver & Timetable",
+        "silver-service-numbers": "Silver & Service numbers",
+        "silver-stock-updates": "Silver & Stock updates"
+      }
+    }
+  },
+  "category": "Furniture"
+}

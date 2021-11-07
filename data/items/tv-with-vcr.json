@@ -21,6 +21,27 @@
           "value": 2000
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver-sporting-event": "Silver & Sporting event",
+        "silver-sci-fi-movie": "Silver & Sci-fi movie",
+        "silver-music-video": "Silver & Music video",
+        "silver-cartoon": "Silver & Cartoon",
+        "black-sporting-event": "Black & Sporting event",
+        "black-sci-fi-movie": "Black & Sci-fi movie",
+        "black-music-video": "Black & Music video",
+        "black-cartoon": "Black & Cartoon",
+        "red-sporting-event": "Red & Sporting event",
+        "red-sci-fi-movie": "Red & Sci-fi movie",
+        "red-music-video": "Red & Music video",
+        "red-cartoon": "Red & Cartoon",
+        "blue-sporting-event": "Blue & Sporting event",
+        "blue-sci-fi-movie": "Blue & Sci-fi movie",
+        "blue-music-video": "Blue & Music video",
+        "blue-cartoon": "Blue & Cartoon"
+      }
     }
   }
 }

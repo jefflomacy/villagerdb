@@ -1,0 +1,55 @@
+{
+  "id": "open-wooden-shelves",
+  "name": "Open Wooden Shelves",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "wood": 10
+      },
+      "variations": {
+        "natural-forest-photo": "Natural & Forest photo",
+        "natural-seaside-photo": "Natural & Seaside photo",
+        "natural-flowers-photo": "Natural & Flowers photo",
+        "natural-train-photo": "Natural & Train photo",
+        "natural-monochrome-photo": "Natural & Monochrome photo",
+        "white-forest-photo": "White & Forest photo",
+        "white-seaside-photo": "White & Seaside photo",
+        "white-flowers-photo": "White & Flowers photo",
+        "white-train-photo": "White & Train photo",
+        "white-monochrome-photo": "White & Monochrome photo",
+        "cherry-forest-photo": "Cherry & Forest photo",
+        "cherry-seaside-photo": "Cherry & Seaside photo",
+        "cherry-flowers-photo": "Cherry & Flowers photo",
+        "cherry-train-photo": "Cherry & Train photo",
+        "cherry-monochrome-photo": "Cherry & Monochrome photo",
+        "brown-forest-photo": "Brown & Forest photo",
+        "brown-seaside-photo": "Brown & Seaside photo",
+        "brown-flowers-photo": "Brown & Flowers photo",
+        "brown-train-photo": "Brown & Train photo",
+        "brown-monochrome-photo": "Brown & Monochrome photo",
+        "ash-forest-photo": "Ash & Forest photo",
+        "ash-seaside-photo": "Ash & Seaside photo",
+        "ash-flowers-photo": "Ash & Flowers photo",
+        "ash-train-photo": "Ash & Train photo",
+        "ash-monochrome-photo": "Ash & Monochrome photo",
+        "green-forest-photo": "Green & Forest photo",
+        "green-seaside-photo": "Green & Seaside photo",
+        "green-flowers-photo": "Green & Flowers photo",
+        "green-train-photo": "Green & Train photo",
+        "green-monochrome-photo": "Green & Monochrome photo",
+        "blue-forest-photo": "Blue & Forest photo",
+        "blue-seaside-photo": "Blue & Seaside photo",
+        "blue-flowers-photo": "Blue & Flowers photo",
+        "blue-train-photo": "Blue & Train photo",
+        "blue-monochrome-photo": "Blue & Monochrome photo",
+        "pink-forest-photo": "Pink & Forest photo",
+        "pink-seaside-photo": "Pink & Seaside photo",
+        "pink-flowers-photo": "Pink & Flowers photo",
+        "pink-train-photo": "Pink & Train photo",
+        "pink-monochrome-photo": "Pink & Monochrome photo"
+      }
+    }
+  },
+  "category": "Furniture"
+}

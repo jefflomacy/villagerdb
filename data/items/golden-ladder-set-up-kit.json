@@ -1,0 +1,14 @@
+{
+  "id": "golden-ladder-set-up-kit",
+  "name": "Golden Ladder Set-up Kit",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "ladder": 1,
+        "gold-nugget": 1
+      }
+    }
+  },
+  "category": "Tools"
+}

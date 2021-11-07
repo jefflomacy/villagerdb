@@ -1,0 +1,13 @@
+{
+  "id": "stacked-senmaizuke-barrels",
+  "name": "Stacked Senmaizuke Barrels",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "senmaizuke-barrel": 2
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "glowing-moss-stool",
+  "name": "Glowing-moss Stool",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss": 8
+      },
+      "variations": {
+        "green": "Green",
+        "turquoise": "Turquoise",
+        "blue": "Blue",
+        "red": "Red",
+        "yellow": "Yellow",
+        "pink": "Pink",
+        "white": "White",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Furniture"
+}

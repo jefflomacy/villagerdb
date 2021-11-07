@@ -1,0 +1,16 @@
+{
+  "id": "office-materials",
+  "name": "Office Materials",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "craft-tape": "Craft tape",
+        "packing-tape": "Packing tape",
+        "fabric-tape": "Fabric tape",
+        "curing-tape": "Curing tape"
+      }
+    }
+  },
+  "category": "Furniture"
+}

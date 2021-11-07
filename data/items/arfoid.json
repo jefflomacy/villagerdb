@@ -1,0 +1,17 @@
+{
+  "id": "arfoid",
+  "name": "Arfoid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "yellow": "Yellow",
+        "brown": "Brown",
+        "green": "Green",
+        "pink": "Pink",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

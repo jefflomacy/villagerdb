@@ -1,0 +1,13 @@
+{
+  "id": "glowing-moss-rug",
+  "name": "Glowing-moss Rug",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss": 6
+      }
+    }
+  },
+  "category": "Flooring"
+}

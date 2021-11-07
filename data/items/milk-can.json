@@ -25,6 +25,43 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver-plain": "Silver & Plain",
+        "silver-white-logo": "Silver & White logo",
+        "silver-brown-logo": "Silver & Brown logo",
+        "silver-black-logo": "Silver & Black logo",
+        "copper-plain": "Copper & Plain",
+        "copper-white-logo": "Copper & White logo",
+        "copper-brown-logo": "Copper & Brown logo",
+        "copper-black-logo": "Copper & Black logo",
+        "white-plain": "White & Plain",
+        "white-white-logo": "White & White logo",
+        "white-brown-logo": "White & Brown logo",
+        "white-black-logo": "White & Black logo",
+        "green-plain": "Green & Plain",
+        "green-white-logo": "Green & White logo",
+        "green-brown-logo": "Green & Brown logo",
+        "green-black-logo": "Green & Black logo",
+        "blue-plain": "Blue & Plain",
+        "blue-white-logo": "Blue & White logo",
+        "blue-brown-logo": "Blue & Brown logo",
+        "blue-black-logo": "Blue & Black logo",
+        "red-plain": "Red & Plain",
+        "red-white-logo": "Red & White logo",
+        "red-brown-logo": "Red & Brown logo",
+        "red-black-logo": "Red & Black logo",
+        "black-plain": "Black & Plain",
+        "black-white-logo": "Black & White logo",
+        "black-brown-logo": "Black & Brown logo",
+        "black-black-logo": "Black & Black logo",
+        "damaged-plain": "Damaged & Plain",
+        "damaged-white-logo": "Damaged & White logo",
+        "damaged-brown-logo": "Damaged & Brown logo",
+        "damaged-black-logo": "Damaged & Black logo"
+      }
     }
   }
 }

@@ -1,0 +1,15 @@
+{
+  "id": "cards",
+  "name": "Cards",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "red": "Red",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Furniture"
+}

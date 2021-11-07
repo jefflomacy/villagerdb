@@ -1,0 +1,19 @@
+{
+  "id": "petaloid",
+  "name": "Petaloid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "green": "Green",
+        "brown": "Brown",
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "pink": "Pink",
+        "purple": "Purple",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

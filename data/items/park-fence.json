@@ -1,0 +1,13 @@
+{
+  "id": "park-fence",
+  "name": "Park Fence",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "iron-nugget": 5
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -28,6 +28,7 @@ function itemHealthReport() {
     for (let file of files) {
         const data = fs.readFileSync(path.join('data', 'items', file), 'utf8');
         const parsed = JSON.parse(data);
+        if (!parsed.games.nh || parsed.games.nh.version !== '2.0') { continue; } // TODO nh only items for now
         const games = Object.keys(parsed.games).join('; ');
 
         // Check base image.

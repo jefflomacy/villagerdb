@@ -21,6 +21,14 @@
           "value": 380
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gold": "Gold",
+        "pale-green": "Pale green",
+        "green": "Green"
+      }
     }
   }
 }

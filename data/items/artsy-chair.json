@@ -1,0 +1,52 @@
+{
+  "id": "artsy-chair",
+  "name": "Artsy Chair",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver-red": "Silver & Red",
+        "silver-blue": "Silver & Blue",
+        "silver-orange": "Silver & Orange",
+        "silver-moss-green": "Silver & Moss green",
+        "silver-purple": "Silver & Purple",
+        "silver-white": "Silver & White",
+        "silver-gray": "Silver & Gray",
+        "silver-black": "Silver & Black",
+        "black-red": "Black & Red",
+        "black-blue": "Black & Blue",
+        "black-orange": "Black & Orange",
+        "black-moss-green": "Black & Moss green",
+        "black-purple": "Black & Purple",
+        "black-white": "Black & White",
+        "black-gray": "Black & Gray",
+        "black-black": "Black & Black",
+        "orange-red": "Orange & Red",
+        "orange-blue": "Orange & Blue",
+        "orange-orange": "Orange & Orange",
+        "orange-moss-green": "Orange & Moss green",
+        "orange-purple": "Orange & Purple",
+        "orange-white": "Orange & White",
+        "orange-gray": "Orange & Gray",
+        "orange-black": "Orange & Black",
+        "blue-red": "Blue & Red",
+        "blue-blue": "Blue & Blue",
+        "blue-orange": "Blue & Orange",
+        "blue-moss-green": "Blue & Moss green",
+        "blue-purple": "Blue & Purple",
+        "blue-white": "Blue & White",
+        "blue-gray": "Blue & Gray",
+        "blue-black": "Blue & Black",
+        "red-red": "Red & Red",
+        "red-blue": "Red & Blue",
+        "red-orange": "Red & Orange",
+        "red-moss-green": "Red & Moss green",
+        "red-purple": "Red & Purple",
+        "red-white": "Red & White",
+        "red-gray": "Red & Gray",
+        "red-black": "Red & Black"
+      }
+    }
+  },
+  "category": "Furniture"
+}

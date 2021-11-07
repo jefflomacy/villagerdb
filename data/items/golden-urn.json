@@ -1,0 +1,14 @@
+{
+  "id": "golden-urn",
+  "name": "Golden Urn",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gold-nugget": 1,
+        "metal-pot": 1
+      }
+    }
+  },
+  "category": "Furniture"
+}

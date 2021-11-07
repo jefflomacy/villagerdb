@@ -1,0 +1,15 @@
+{
+  "id": "apple-tart",
+  "name": "Apple Tart",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 1,
+        "sugar": 1,
+        "apple": 1
+      }
+    }
+  },
+  "category": "Food"
+}

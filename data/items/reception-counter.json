@@ -15,6 +15,35 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white-name-list": "White & Name list",
+        "white-to-do-list": "White & To-do list",
+        "white-medical-questionnaire": "White & Medical questionnaire",
+        "black-name-list": "Black & Name list",
+        "black-to-do-list": "Black & To-do list",
+        "black-medical-questionnaire": "Black & Medical questionnaire",
+        "natural-wood-name-list": "Natural wood & Name list",
+        "natural-wood-to-do-list": "Natural wood & To-do list",
+        "natural-wood-medical-questionnaire": "Natural wood & Medical questionnaire",
+        "dark-wood-name-list": "Dark wood & Name list",
+        "dark-wood-to-do-list": "Dark wood & To-do list",
+        "dark-wood-medical-questionnaire": "Dark wood & Medical questionnaire",
+        "blue-name-list": "Blue & Name list",
+        "blue-to-do-list": "Blue & To-do list",
+        "blue-medical-questionnaire": "Blue & Medical questionnaire",
+        "pink-name-list": "Pink & Name list",
+        "pink-to-do-list": "Pink & To-do list",
+        "pink-medical-questionnaire": "Pink & Medical questionnaire",
+        "black-marble-name-list": "Black marble & Name list",
+        "black-marble-to-do-list": "Black marble & To-do list",
+        "black-marble-medical-questionnaire": "Black marble & Medical questionnaire",
+        "white-brick-name-list": "White brick & Name list",
+        "white-brick-to-do-list": "White brick & To-do list",
+        "white-brick-medical-questionnaire": "White brick & Medical questionnaire"
+      }
     }
   }
 }

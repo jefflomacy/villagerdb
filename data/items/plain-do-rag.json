@@ -1,0 +1,20 @@
+{
+  "id": "plain-do-rag",
+  "name": "Plain Do-rag",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "red": "Red",
+        "pink": "Pink",
+        "coral": "Coral",
+        "green": "Green",
+        "light-blue": "Light blue",
+        "navy-blue": "Navy blue",
+        "camel": "Camel"
+      }
+    }
+  },
+  "category": "Hats"
+}

@@ -21,6 +21,19 @@
           "value": 1800
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gold-red": "Gold & red",
+        "gold-blue": "Gold & blue",
+        "silver-red": "Silver & red",
+        "silver-blue": "Silver & blue",
+        "black": "Black",
+        "white": "White",
+        "bronze-yellow": "Bronze & yellow",
+        "green-gray": "Green & gray"
+      }
     }
   }
 }

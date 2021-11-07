@@ -1,0 +1,15 @@
+{
+  "id": "orange-pie",
+  "name": "Orange Pie",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 3,
+        "sugar": 2,
+        "orange": 2
+      }
+    }
+  },
+  "category": "Food"
+}

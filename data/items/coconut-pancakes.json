@@ -1,0 +1,15 @@
+{
+  "id": "coconut-pancakes",
+  "name": "Coconut Pancakes",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 2,
+        "sugar": 2,
+        "coconut": 2
+      }
+    }
+  },
+  "category": "Food"
+}

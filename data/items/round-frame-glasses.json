@@ -1,0 +1,17 @@
+{
+  "id": "round-frame-glasses",
+  "name": "Round-frame Glasses",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver": "Silver",
+        "black": "Black",
+        "red": "Red",
+        "navy-blue": "Navy blue",
+        "brown": "Brown"
+      }
+    }
+  },
+  "category": "Accessories"
+}

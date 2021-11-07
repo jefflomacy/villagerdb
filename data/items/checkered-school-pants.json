@@ -1,0 +1,18 @@
+{
+  "id": "checkered-school-pants",
+  "name": "Checkered School Pants",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "dark-gray": "Dark gray",
+        "light-gray": "Light gray",
+        "blue": "Blue",
+        "yellow": "Yellow",
+        "pink": "Pink",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Bottoms"
+}

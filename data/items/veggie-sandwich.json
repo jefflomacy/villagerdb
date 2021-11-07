@@ -1,0 +1,15 @@
+{
+  "id": "veggie-sandwich",
+  "name": "Veggie Sandwich",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 2,
+        "tomato": 1,
+        "carrot": 1
+      }
+    }
+  },
+  "category": "Food"
+}

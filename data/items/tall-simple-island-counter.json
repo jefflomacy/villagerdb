@@ -1,0 +1,24 @@
+{
+  "id": "tall-simple-island-counter",
+  "name": "Tall Simple Island Counter",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "clay": 4,
+        "stone": 4
+      },
+      "variations": {
+        "white": "White",
+        "pink": "Pink",
+        "pale-blue": "Pale blue",
+        "yellow": "Yellow",
+        "red": "Red",
+        "blue": "Blue",
+        "gray": "Gray",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Furniture"
+}

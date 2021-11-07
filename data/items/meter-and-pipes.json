@@ -1,0 +1,17 @@
+{
+  "id": "meter-and-pipes",
+  "name": "Meter And Pipes",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver": "Silver",
+        "copper": "Copper",
+        "black": "Black",
+        "white": "White",
+        "rust": "Rust"
+      }
+    }
+  },
+  "category": "Furniture"
+}

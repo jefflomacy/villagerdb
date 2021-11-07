@@ -1,0 +1,20 @@
+{
+  "id": "elegant-mirror",
+  "name": "Elegant Mirror",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gold": "Gold",
+        "silver": "Silver",
+        "brown": "Brown",
+        "white": "White",
+        "black": "Black",
+        "blue": "Blue",
+        "pink": "Pink",
+        "light-brown": "Light brown"
+      }
+    }
+  },
+  "category": "Furniture"
+}

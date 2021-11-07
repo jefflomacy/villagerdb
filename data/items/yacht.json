@@ -1,0 +1,36 @@
+{
+  "id": "yacht",
+  "name": "Yacht",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "white-japanese-kanji-logo": "White & Japanese-kanji logo",
+        "white-english-logo": "White & English logo",
+        "white-dolphin": "White & Dolphin",
+        "blue": "Blue",
+        "blue-japanese-kanji-logo": "Blue & Japanese-kanji logo",
+        "blue-english-logo": "Blue & English logo",
+        "blue-dolphin": "Blue & Dolphin",
+        "red": "Red",
+        "red-japanese-kanji-logo": "Red & Japanese-kanji logo",
+        "red-english-logo": "Red & English logo",
+        "red-dolphin": "Red & Dolphin",
+        "yellow-white": "Yellow & white",
+        "yellow-white-japanese-kanji-logo": "Yellow & white & Japanese-kanji logo",
+        "yellow-white-english-logo": "Yellow & white & English logo",
+        "yellow-white-dolphin": "Yellow & white & Dolphin",
+        "brown": "Brown",
+        "brown-japanese-kanji-logo": "Brown & Japanese-kanji logo",
+        "brown-english-logo": "Brown & English logo",
+        "brown-dolphin": "Brown & Dolphin",
+        "damaged": "Damaged",
+        "damaged-japanese-kanji-logo": "Damaged & Japanese-kanji logo",
+        "damaged-english-logo": "Damaged & English logo",
+        "damaged-dolphin": "Damaged & Dolphin"
+      }
+    }
+  },
+  "category": "Furniture"
+}

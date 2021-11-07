@@ -1,0 +1,13 @@
+{
+  "id": "rope-net-flooring",
+  "name": "Rope-net Flooring",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "vine": 10
+      }
+    }
+  },
+  "category": "Flooring"
+}

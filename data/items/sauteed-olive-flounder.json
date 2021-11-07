@@ -1,0 +1,14 @@
+{
+  "id": "sauteed-olive-flounder",
+  "name": "Sauteed Olive Flounder",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "olive-flounder": 1,
+        "skinny-mushroom": 1
+      }
+    }
+  },
+  "category": "Food"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "loungewear-shirt",
+  "name": "Loungewear Shirt",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown": "Brown",
+        "red": "Red",
+        "blue": "Blue",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Tops"
+}

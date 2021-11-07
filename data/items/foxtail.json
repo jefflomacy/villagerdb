@@ -1,0 +1,13 @@
+{
+  "id": "foxtail",
+  "name": "Foxtail",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "clump-of-weeds": 3
+      }
+    }
+  },
+  "category": "Tools"
+}

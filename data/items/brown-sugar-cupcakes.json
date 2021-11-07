@@ -1,0 +1,14 @@
+{
+  "id": "brown-sugar-cupcakes",
+  "name": "Brown-sugar Cupcakes",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "whole-wheat-flour": 1,
+        "brown-sugar": 1
+      }
+    }
+  },
+  "category": "Food"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "organic-bread",
+  "name": "Organic Bread",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "whole-wheat-flour": 3
+      }
+    }
+  },
+  "category": "Food"
+}

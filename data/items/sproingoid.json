@@ -1,0 +1,16 @@
+{
+  "id": "sproingoid",
+  "name": "Sproingoid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "camel": "Camel",
+        "green": "Green",
+        "red": "Red",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

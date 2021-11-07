@@ -1,0 +1,16 @@
+{
+  "id": "round-topiary",
+  "name": "Round Topiary",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-green": "Light green",
+        "green": "Green",
+        "brown": "Brown",
+        "pale-green": "Pale green"
+      }
+    }
+  },
+  "category": "Furniture"
+}

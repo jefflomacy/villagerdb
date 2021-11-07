@@ -1,0 +1,16 @@
+{
+  "id": "dj-kk-logo-tee",
+  "name": "DJ KK Logo Tee",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "neon-blue": "Neon blue",
+        "neon-orange": "Neon orange",
+        "neon-pink": "Neon pink",
+        "neon-green": "Neon green"
+      }
+    }
+  },
+  "category": "Tops"
+}

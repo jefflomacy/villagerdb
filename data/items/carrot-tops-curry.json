@@ -1,0 +1,14 @@
+{
+  "id": "carrot-tops-curry",
+  "name": "Carrot-tops Curry",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 3,
+        "carrot": 3
+      }
+    }
+  },
+  "category": "Food"
+}

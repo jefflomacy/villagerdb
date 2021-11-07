@@ -1,0 +1,24 @@
+{
+  "id": "low-simple-island-counter",
+  "name": "Low Simple Island Counter",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "clay": 2,
+        "stone": 2
+      },
+      "variations": {
+        "white": "White",
+        "pink": "Pink",
+        "pale-blue": "Pale blue",
+        "yellow": "Yellow",
+        "red": "Red",
+        "blue": "Blue",
+        "gray": "Gray",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "rubber-half-apron",
+  "name": "Rubber Half Apron",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "orange": "Orange",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Bottoms"
+}

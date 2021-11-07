@@ -1,0 +1,23 @@
+{
+  "id": "medium-wooden-partition",
+  "name": "Medium Wooden Partition",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "wood": 20
+      },
+      "variations": {
+        "light-wood": "Light wood",
+        "white-wood": "White wood",
+        "cherry-wood": "Cherry wood",
+        "dark-wood": "Dark wood",
+        "black": "Black",
+        "green": "Green",
+        "blue": "Blue",
+        "pink-wood": "Pink wood"
+      }
+    }
+  },
+  "category": "Furniture"
+}

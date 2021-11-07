@@ -1,0 +1,42 @@
+{
+  "id": "inspection-equipment",
+  "name": "Inspection Equipment",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver-wave-data": "Silver & Wave data",
+        "silver-x-ray": "Silver & X-ray",
+        "silver-thermography": "Silver & Thermography",
+        "silver-system-menu": "Silver & System menu",
+        "silver-error": "Silver & Error",
+        "white-wave-data": "White & Wave data",
+        "white-x-ray": "White & X-ray",
+        "white-thermography": "White & Thermography",
+        "white-system-menu": "White & System menu",
+        "white-error": "White & Error",
+        "black-wave-data": "Black & Wave data",
+        "black-x-ray": "Black & X-ray",
+        "black-thermography": "Black & Thermography",
+        "black-system-menu": "Black & System menu",
+        "black-error": "Black & Error",
+        "yellow-wave-data": "Yellow & Wave data",
+        "yellow-x-ray": "Yellow & X-ray",
+        "yellow-thermography": "Yellow & Thermography",
+        "yellow-system-menu": "Yellow & System menu",
+        "yellow-error": "Yellow & Error",
+        "blue-wave-data": "Blue & Wave data",
+        "blue-x-ray": "Blue & X-ray",
+        "blue-thermography": "Blue & Thermography",
+        "blue-system-menu": "Blue & System menu",
+        "blue-error": "Blue & Error",
+        "green-wave-data": "Green & Wave data",
+        "green-x-ray": "Green & X-ray",
+        "green-thermography": "Green & Thermography",
+        "green-system-menu": "Green & System menu",
+        "green-error": "Green & Error"
+      }
+    }
+  },
+  "category": "Furniture"
+}

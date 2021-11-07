@@ -1,0 +1,23 @@
+{
+  "id": "glowing-moss-boulder",
+  "name": "Glowing-moss Boulder",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss": 15
+      },
+      "variations": {
+        "green": "Green",
+        "turquoise": "Turquoise",
+        "blue": "Blue",
+        "red": "Red",
+        "yellow": "Yellow",
+        "pink": "Pink",
+        "white": "White",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Furniture"
+}

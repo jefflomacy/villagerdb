@@ -1,0 +1,44 @@
+{
+  "id": "transit-seat",
+  "name": "Transit Seat",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver-blue": "Silver & Blue",
+        "silver-red": "Silver & Red",
+        "silver-green": "Silver & Green",
+        "silver-yellow": "Silver & Yellow",
+        "silver-purple": "Silver & Purple",
+        "silver-light-purple": "Silver & Light purple",
+        "silver-brown": "Silver & Brown",
+        "silver-dark-brown": "Silver & Dark brown",
+        "white-blue": "White & Blue",
+        "white-red": "White & Red",
+        "white-green": "White & Green",
+        "white-yellow": "White & Yellow",
+        "white-purple": "White & Purple",
+        "white-light-purple": "White & Light purple",
+        "white-brown": "White & Brown",
+        "white-dark-brown": "White & Dark brown",
+        "black-blue": "Black & Blue",
+        "black-red": "Black & Red",
+        "black-green": "Black & Green",
+        "black-yellow": "Black & Yellow",
+        "black-purple": "Black & Purple",
+        "black-light-purple": "Black & Light purple",
+        "black-brown": "Black & Brown",
+        "black-dark-brown": "Black & Dark brown",
+        "brown-blue": "Brown & Blue",
+        "brown-red": "Brown & Red",
+        "brown-green": "Brown & Green",
+        "brown-yellow": "Brown & Yellow",
+        "brown-purple": "Brown & Purple",
+        "brown-light-purple": "Brown & Light purple",
+        "brown-brown": "Brown & Brown",
+        "brown-dark-brown": "Brown & Dark brown"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "botanical-print-backpack",
+  "name": "Botanical-print Backpack",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Accessories"
+}

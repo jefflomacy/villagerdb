@@ -1,0 +1,44 @@
+{
+  "id": "outdoor-folding-chair",
+  "name": "Outdoor Folding Chair",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver-green": "Silver & Green",
+        "silver-yellow": "Silver & Yellow",
+        "silver-red": "Silver & Red",
+        "silver-blue": "Silver & Blue",
+        "silver-orange": "Silver & Orange",
+        "silver-black": "Silver & Black",
+        "silver-white": "Silver & White",
+        "silver-pink": "Silver & Pink",
+        "black-green": "Black & Green",
+        "black-yellow": "Black & Yellow",
+        "black-red": "Black & Red",
+        "black-blue": "Black & Blue",
+        "black-orange": "Black & Orange",
+        "black-black": "Black & Black",
+        "black-white": "Black & White",
+        "black-pink": "Black & Pink",
+        "red-green": "Red & Green",
+        "red-yellow": "Red & Yellow",
+        "red-red": "Red & Red",
+        "red-blue": "Red & Blue",
+        "red-orange": "Red & Orange",
+        "red-black": "Red & Black",
+        "red-white": "Red & White",
+        "red-pink": "Red & Pink",
+        "blue-green": "Blue & Green",
+        "blue-yellow": "Blue & Yellow",
+        "blue-red": "Blue & Red",
+        "blue-blue": "Blue & Blue",
+        "blue-orange": "Blue & Orange",
+        "blue-black": "Blue & Black",
+        "blue-white": "Blue & White",
+        "blue-pink": "Blue & Pink"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "frosted-pretzels",
+  "name": "Frosted Pretzels",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 1,
+        "sugar": 2
+      }
+    }
+  },
+  "category": "Food"
+}

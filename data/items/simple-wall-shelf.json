@@ -1,0 +1,20 @@
+{
+  "id": "simple-wall-shelf",
+  "name": "Simple Wall Shelf",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "natural": "Natural",
+        "brown": "Brown",
+        "white": "White",
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "green": "Green",
+        "blue": "Blue",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Furniture"
+}

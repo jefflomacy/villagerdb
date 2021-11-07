@@ -1,0 +1,14 @@
+{
+  "id": "golden-vase",
+  "name": "Golden Vase",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gold-nugget": 1,
+        "fine-vase": 1
+      }
+    }
+  },
+  "category": "Furniture"
+}

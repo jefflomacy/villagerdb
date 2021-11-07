@@ -1,0 +1,13 @@
+{
+  "id": "carpaccio-di-marlin-blu",
+  "name": "Carpaccio Di Marlin Blu",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "blue-marlin": 1
+      }
+    }
+  },
+  "category": "Food"
+}

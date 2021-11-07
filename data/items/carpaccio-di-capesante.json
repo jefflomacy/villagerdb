@@ -1,0 +1,13 @@
+{
+  "id": "carpaccio-di-capesante",
+  "name": "Carpaccio Di Capesante",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "scallop": 2
+      }
+    }
+  },
+  "category": "Food"
+}

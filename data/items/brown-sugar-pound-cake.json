@@ -1,0 +1,14 @@
+{
+  "id": "brown-sugar-pound-cake",
+  "name": "Brown-sugar Pound Cake",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 2,
+        "brown-sugar": 1
+      }
+    }
+  },
+  "category": "Food"
+}

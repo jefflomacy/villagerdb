@@ -1,0 +1,22 @@
+{
+  "id": "double-edged-sword",
+  "name": "Double-edged Sword",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown": "Brown",
+        "brown-old-map": "Brown & Old map",
+        "blue": "Blue",
+        "blue-old-map": "Blue & Old map",
+        "gold": "Gold",
+        "gold-old-map": "Gold & Old map",
+        "gold-black": "Gold & black",
+        "gold-black-old-map": "Gold & black & Old map",
+        "damaged": "Damaged",
+        "damaged-old-map": "Damaged & Old map"
+      }
+    }
+  },
+  "category": "Furniture"
+}

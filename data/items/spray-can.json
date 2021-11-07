@@ -1,0 +1,17 @@
+{
+  "id": "spray-can",
+  "name": "Spray Can",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "orange": "Orange",
+        "black": "Black",
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Furniture"
+}

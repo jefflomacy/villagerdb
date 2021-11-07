@@ -21,6 +21,16 @@
           "value": 2200
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-wood": "Light wood",
+        "natural-wood": "Natural wood",
+        "dark-wood": "Dark wood",
+        "ivory": "Ivory",
+        "light-green": "Light green"
+      }
     }
   }
 }

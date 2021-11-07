@@ -1,0 +1,13 @@
+{
+  "id": "salad-stuffed-tomato",
+  "name": "Salad-stuffed Tomato",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "tomato": 3
+      }
+    }
+  },
+  "category": "Food"
+}

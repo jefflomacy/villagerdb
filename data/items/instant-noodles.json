@@ -1,0 +1,18 @@
+{
+  "id": "instant-noodles",
+  "name": "Instant Noodles",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "shoyu-ramen": "Shoyu ramen",
+        "shio-ramen": "Shio ramen",
+        "miso-ramen": "Miso ramen",
+        "green-curry": "Green curry",
+        "tom-yum-kung": "Tom yum kung",
+        "spicy-ramen": "Spicy ramen"
+      }
+    }
+  },
+  "category": "Food"
+}

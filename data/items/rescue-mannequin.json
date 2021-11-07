@@ -1,0 +1,33 @@
+{
+  "id": "rescue-mannequin",
+  "name": "Rescue Mannequin",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-gray-blue": "Light gray & Blue",
+        "light-gray-red": "Light gray & Red",
+        "light-gray-yellow": "Light gray & Yellow",
+        "light-gray-green": "Light gray & Green",
+        "light-gray-white": "Light gray & White",
+        "light-gray-gray": "Light gray & Gray",
+        "light-gray-black": "Light gray & Black",
+        "beige-blue": "Beige & Blue",
+        "beige-red": "Beige & Red",
+        "beige-yellow": "Beige & Yellow",
+        "beige-green": "Beige & Green",
+        "beige-white": "Beige & White",
+        "beige-gray": "Beige & Gray",
+        "beige-black": "Beige & Black",
+        "brown-blue": "Brown & Blue",
+        "brown-red": "Brown & Red",
+        "brown-yellow": "Brown & Yellow",
+        "brown-green": "Brown & Green",
+        "brown-white": "Brown & White",
+        "brown-gray": "Brown & Gray",
+        "brown-black": "Brown & Black"
+      }
+    }
+  },
+  "category": "Furniture"
+}

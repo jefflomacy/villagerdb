@@ -1,0 +1,44 @@
+{
+  "id": "toothbrush-and-cup-set",
+  "name": "Toothbrush-and-cup Set",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white-plain": "White & Plain",
+        "white-logo": "White & Logo",
+        "white-tulip": "White & Tulip",
+        "white-bus": "White & Bus",
+        "yellow-plain": "Yellow & Plain",
+        "yellow-logo": "Yellow & Logo",
+        "yellow-tulip": "Yellow & Tulip",
+        "yellow-bus": "Yellow & Bus",
+        "red-plain": "Red & Plain",
+        "red-logo": "Red & Logo",
+        "red-tulip": "Red & Tulip",
+        "red-bus": "Red & Bus",
+        "blue-plain": "Blue & Plain",
+        "blue-logo": "Blue & Logo",
+        "blue-tulip": "Blue & Tulip",
+        "blue-bus": "Blue & Bus",
+        "orange-plain": "Orange & Plain",
+        "orange-logo": "Orange & Logo",
+        "orange-tulip": "Orange & Tulip",
+        "orange-bus": "Orange & Bus",
+        "green-plain": "Green & Plain",
+        "green-logo": "Green & Logo",
+        "green-tulip": "Green & Tulip",
+        "green-bus": "Green & Bus",
+        "purple-plain": "Purple & Plain",
+        "purple-logo": "Purple & Logo",
+        "purple-tulip": "Purple & Tulip",
+        "purple-bus": "Purple & Bus",
+        "gray-plain": "Gray & Plain",
+        "gray-logo": "Gray & Logo",
+        "gray-tulip": "Gray & Tulip",
+        "gray-bus": "Gray & Bus"
+      }
+    }
+  },
+  "category": "Furniture"
+}

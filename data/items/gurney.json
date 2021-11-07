@@ -1,0 +1,16 @@
+{
+  "id": "gurney",
+  "name": "Gurney",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "green": "Green",
+        "orange": "Orange",
+        "ivory": "Ivory"
+      }
+    }
+  },
+  "category": "Furniture"
+}

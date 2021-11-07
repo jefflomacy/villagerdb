@@ -1,0 +1,16 @@
+{
+  "id": "round-streetlight",
+  "name": "Round Streetlight",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "silver": "Silver",
+        "white": "White",
+        "brown": "Brown"
+      }
+    }
+  },
+  "category": "Furniture"
+}

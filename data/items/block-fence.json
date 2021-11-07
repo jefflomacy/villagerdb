@@ -1,0 +1,14 @@
+{
+  "id": "block-fence",
+  "name": "Block Fence",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "stone": 8,
+        "iron-nugget": 2
+      }
+    }
+  },
+  "category": "Furniture"
+}

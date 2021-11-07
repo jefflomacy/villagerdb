@@ -1,0 +1,18 @@
+{
+  "id": "open-track-jacket",
+  "name": "Open Track Jacket",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "berry-red": "Berry red",
+        "red": "Red",
+        "green": "Green",
+        "blue": "Blue",
+        "navy-blue": "Navy blue"
+      }
+    }
+  },
+  "category": "Tops"
+}

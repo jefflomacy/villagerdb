@@ -1,0 +1,23 @@
+{
+  "id": "glow-in-the-dark-stickers",
+  "name": "Glow-in-the-dark Stickers",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss": 5
+      },
+      "variations": {
+        "music-notes": "Music notes",
+        "hands": "Hands",
+        "sea-creatures": "Sea creatures",
+        "flowers": "Flowers",
+        "stars": "Stars",
+        "hearts": "Hearts",
+        "snowflakes": "Snowflakes",
+        "dinosaurs": "Dinosaurs"
+      }
+    }
+  },
+  "category": "Furniture"
+}

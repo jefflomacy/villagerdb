@@ -1,0 +1,15 @@
+{
+  "id": "minestrone-soup",
+  "name": "Minestrone Soup",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "tomato": 2,
+        "potato": 1,
+        "carrot": 1
+      }
+    }
+  },
+  "category": "Food"
+}

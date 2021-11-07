@@ -1,0 +1,14 @@
+{
+  "id": "thumbprint-jam-cookies",
+  "name": "Thumbprint Jam Cookies",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 1,
+        "sugar": 1
+      }
+    }
+  },
+  "category": "Food"
+}

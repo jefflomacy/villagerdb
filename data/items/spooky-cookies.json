@@ -1,0 +1,17 @@
+{
+  "id": "spooky-cookies",
+  "name": "Spooky Cookies",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 1,
+        "orange-pumpkin": 1,
+        "yellow-pumpkin": 1,
+        "white-pumpkin": 1,
+        "green-pumpkin": 1
+      }
+    }
+  },
+  "category": "Food"
+}

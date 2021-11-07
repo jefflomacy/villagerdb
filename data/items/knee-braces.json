@@ -1,0 +1,17 @@
+{
+  "id": "knee-braces",
+  "name": "Knee Braces",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black-red": "Black & red",
+        "black-blue": "Black & blue",
+        "black-yellow": "Black & yellow",
+        "black-pink": "Black & pink",
+        "white-black": "White & black"
+      }
+    }
+  },
+  "category": "Socks"
+}

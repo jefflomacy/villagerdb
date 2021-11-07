@@ -1,0 +1,15 @@
+{
+  "id": "lunch-service-apron",
+  "name": "Lunch-service Apron",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Tops"
+}

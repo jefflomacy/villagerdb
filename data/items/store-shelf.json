@@ -26,6 +26,31 @@
           "value": 5
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white-pantry-staples": "White & Pantry staples",
+        "white-imported-foods": "White & Imported foods",
+        "white-organic-products": "White & Organic products",
+        "white-japanese-foods": "White & Japanese foods",
+        "black-pantry-staples": "Black & Pantry staples",
+        "black-imported-foods": "Black & Imported foods",
+        "black-organic-products": "Black & Organic products",
+        "black-japanese-foods": "Black & Japanese foods",
+        "silver-pantry-staples": "Silver & Pantry staples",
+        "silver-imported-foods": "Silver & Imported foods",
+        "silver-organic-products": "Silver & Organic products",
+        "silver-japanese-foods": "Silver & Japanese foods",
+        "light-wood-pantry-staples": "Light wood & Pantry staples",
+        "light-wood-imported-foods": "Light wood & Imported foods",
+        "light-wood-organic-products": "Light wood & Organic products",
+        "light-wood-japanese-foods": "Light wood & Japanese foods",
+        "dark-wood-pantry-staples": "Dark wood & Pantry staples",
+        "dark-wood-imported-foods": "Dark wood & Imported foods",
+        "dark-wood-organic-products": "Dark wood & Organic products",
+        "dark-wood-japanese-foods": "Dark wood & Japanese foods"
+      }
     }
   }
 }

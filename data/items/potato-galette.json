@@ -1,0 +1,14 @@
+{
+  "id": "potato-galette",
+  "name": "Potato Galette",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 2,
+        "potato": 3
+      }
+    }
+  },
+  "category": "Food"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "golden-gear-tower",
+  "name": "Golden Gear Tower",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gold-nugget": 2,
+        "gear-tower": 1
+      }
+    }
+  },
+  "category": "Furniture"
+}

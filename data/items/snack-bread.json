@@ -1,0 +1,14 @@
+{
+  "id": "snack-bread",
+  "name": "Snack Bread",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 3,
+        "sugar": 1
+      }
+    }
+  },
+  "category": "Food"
+}

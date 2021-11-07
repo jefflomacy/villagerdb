@@ -1,0 +1,17 @@
+{
+  "id": "small-clothing-rack",
+  "name": "Small Clothing Rack",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-wood": "Light wood",
+        "natural-wood": "Natural wood",
+        "dark-wood": "Dark wood",
+        "pastel": "Pastel",
+        "colorful": "Colorful"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "wooden-ladder-set-up-kit",
+  "name": "Wooden Ladder Set-up Kit",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "ladder": 1,
+        "wood": 5
+      }
+    }
+  },
+  "category": "Tools"
+}

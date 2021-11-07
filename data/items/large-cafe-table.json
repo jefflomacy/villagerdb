@@ -1,0 +1,17 @@
+{
+  "id": "large-cafe-table",
+  "name": "Large Cafe Table",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "natural": "Natural",
+        "light-brown": "Light brown",
+        "dark-brown": "Dark brown",
+        "white": "White",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "boioingoid",
+  "name": "Boioingoid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "orange": "Orange",
+        "green": "Green",
+        "blue": "Blue",
+        "purple": "Purple",
+        "black": "Black",
+        "wood": "Wood"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

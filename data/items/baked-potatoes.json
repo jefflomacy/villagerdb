@@ -1,0 +1,13 @@
+{
+  "id": "baked-potatoes",
+  "name": "Baked Potatoes",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "potato": 2
+      }
+    }
+  },
+  "category": "Food"
+}

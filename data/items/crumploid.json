@@ -1,0 +1,18 @@
+{
+  "id": "crumploid",
+  "name": "Crumploid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "yellow": "Yellow",
+        "brown": "Brown",
+        "blue": "Blue",
+        "red": "Red",
+        "green": "Green",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

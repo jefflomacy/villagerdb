@@ -1,0 +1,20 @@
+{
+  "id": "plain-paperboy-cap",
+  "name": "Plain Paperboy Cap",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "brown": "Brown",
+        "pink": "Pink",
+        "coral": "Coral",
+        "dark-green": "Dark green",
+        "green": "Green",
+        "light-blue": "Light blue",
+        "camel": "Camel"
+      }
+    }
+  },
+  "category": "Hats"
+}

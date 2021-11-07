@@ -1,0 +1,19 @@
+{
+  "id": "decorative-pillar",
+  "name": "Decorative Pillar",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brick": "Brick",
+        "red-brick": "Red brick",
+        "whitestone-marble": "Whitestone marble",
+        "blackstone-marble": "Blackstone marble",
+        "concrete": "Concrete",
+        "gray-stones": "Gray stones",
+        "wooden": "Wooden"
+      }
+    }
+  },
+  "category": "Furniture"
+}

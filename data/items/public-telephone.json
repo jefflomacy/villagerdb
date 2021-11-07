@@ -15,6 +15,14 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "pink": "Pink",
+        "red": "Red",
+        "blue": "Blue"
+      }
     }
   }
 }

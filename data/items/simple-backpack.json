@@ -1,0 +1,15 @@
+{
+  "id": "simple-backpack",
+  "name": "Simple Backpack",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "camel": "Camel",
+        "gray": "Gray",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Accessories"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "frozen-drink-machine",
+  "name": "Frozen-drink Machine",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "natural": "Natural",
+        "cute": "Cute",
+        "cool": "Cool"
+      }
+    }
+  },
+  "category": "Furniture"
+}

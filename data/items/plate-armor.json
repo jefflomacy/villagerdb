@@ -22,6 +22,16 @@
           "value": 6400
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "iron-nugget": 10
+      },
+      "variations": {
+        "new": "New",
+        "rusty": "Rusty"
+      }
     }
   }
 }

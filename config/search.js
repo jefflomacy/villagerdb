@@ -184,6 +184,11 @@ module.exports = {
             name: 'Collaboration',
             canAggregate: true,
             sort: 15
+        },
+        version: {
+            name: 'Game Version',
+            canAggregate: true,
+            sort: 16
         }
     }
 };

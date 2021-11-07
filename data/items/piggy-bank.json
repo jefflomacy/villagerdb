@@ -17,6 +17,18 @@
         "000",
         "000 Bells in savings account"
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "pink": "Pink",
+        "blue": "Blue",
+        "green": "Green",
+        "white": "White",
+        "brown": "Brown",
+        "black": "Black",
+        "floral": "Floral"
+      }
     }
   }
 }

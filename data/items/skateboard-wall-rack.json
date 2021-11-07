@@ -1,0 +1,21 @@
+{
+  "id": "skateboard-wall-rack",
+  "name": "Skateboard Wall Rack",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "skateboard": 3,
+        "hardwood": 2
+      },
+      "variations": {
+        "simple": "Simple",
+        "pop": "Pop",
+        "pastel": "Pastel",
+        "cool": "Cool",
+        "damaged": "Damaged"
+      }
+    }
+  },
+  "category": "Furniture"
+}

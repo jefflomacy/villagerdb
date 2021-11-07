@@ -1,0 +1,18 @@
+{
+  "id": "delivery-bag",
+  "name": "Delivery Bag",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "green": "Green",
+        "blue": "Blue",
+        "brown": "Brown"
+      }
+    }
+  },
+  "category": "Accessories"
+}

@@ -21,6 +21,17 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "tomato": 1,
+        "carrot": 1,
+        "potato": 1,
+        "orange-pumpkin": 1,
+        "wheat": 1,
+        "sugarcane": 1
+      }
     }
   }
 }

@@ -1,0 +1,18 @@
+{
+  "id": "simple-sunglasses",
+  "name": "Simple Sunglasses",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "red": "Red",
+        "orange": "Orange",
+        "yellow": "Yellow",
+        "lime": "Lime",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Accessories"
+}

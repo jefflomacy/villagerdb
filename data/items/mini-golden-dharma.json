@@ -1,0 +1,14 @@
+{
+  "id": "mini-golden-dharma",
+  "name": "Mini Golden Dharma",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gold-nugget": 1,
+        "mini-dharma": 1
+      }
+    }
+  },
+  "category": "Furniture"
+}

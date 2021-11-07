@@ -1,0 +1,13 @@
+{
+  "id": "woven-vine-pochette",
+  "name": "Woven-vine Pochette",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "vine": 5
+      }
+    }
+  },
+  "category": "Accessories"
+}

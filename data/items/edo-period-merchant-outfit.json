@@ -1,0 +1,17 @@
+{
+  "id": "edo-period-merchant-outfit",
+  "name": "Edo-period Merchant Outfit",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "dark-blue": "Dark blue",
+        "fuchsia": "Fuchsia",
+        "pale-green": "Pale green",
+        "purple": "Purple",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Tops"
+}

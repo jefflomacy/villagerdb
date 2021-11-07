@@ -1,0 +1,18 @@
+{
+  "id": "potted-starter-plants",
+  "name": "Potted Starter Plants",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "green": "Green",
+        "blue": "Blue",
+        "white": "White",
+        "pink": "Pink",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Furniture"
+}

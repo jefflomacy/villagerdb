@@ -1,0 +1,27 @@
+{
+  "id": "small-mannequin",
+  "name": "Small Mannequin",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white-green": "White & Green",
+        "white-white": "White & White",
+        "white-red": "White & Red",
+        "white-yellow": "White & Yellow",
+        "white-blue": "White & Blue",
+        "brown-green": "Brown & Green",
+        "brown-white": "Brown & White",
+        "brown-red": "Brown & Red",
+        "brown-yellow": "Brown & Yellow",
+        "brown-blue": "Brown & Blue",
+        "black-green": "Black & Green",
+        "black-white": "Black & White",
+        "black-red": "Black & Red",
+        "black-yellow": "Black & Yellow",
+        "black-blue": "Black & Blue"
+      }
+    }
+  },
+  "category": "Furniture"
+}

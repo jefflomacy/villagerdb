@@ -1,0 +1,14 @@
+{
+  "id": "golden-wristwatch",
+  "name": "Golden Wristwatch",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gold-nugget": 1,
+        "wristwatch": 1
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "green-bamboo-fence",
+  "name": "Green Bamboo Fence",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "bamboo-piece": 6
+      }
+    }
+  },
+  "category": "Furniture"
+}

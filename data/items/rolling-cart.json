@@ -17,6 +17,35 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue-plain": "Blue & Plain",
+        "blue-labels": "Blue & Labels",
+        "blue-white": "Blue & White",
+        "blue-yellow": "Blue & Yellow",
+        "blue-light-blue": "Blue & Light blue",
+        "blue-black": "Blue & Black",
+        "green-plain": "Green & Plain",
+        "green-labels": "Green & Labels",
+        "green-white": "Green & White",
+        "green-yellow": "Green & Yellow",
+        "green-light-blue": "Green & Light blue",
+        "green-black": "Green & Black",
+        "red-plain": "Red & Plain",
+        "red-labels": "Red & Labels",
+        "red-white": "Red & White",
+        "red-yellow": "Red & Yellow",
+        "red-light-blue": "Red & Light blue",
+        "red-black": "Red & Black",
+        "black-plain": "Black & Plain",
+        "black-labels": "Black & Labels",
+        "black-white": "Black & White",
+        "black-yellow": "Black & Yellow",
+        "black-light-blue": "Black & Light blue",
+        "black-black": "Black & Black"
+      }
     }
   }
 }

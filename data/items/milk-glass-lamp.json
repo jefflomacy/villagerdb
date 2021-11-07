@@ -1,0 +1,17 @@
+{
+  "id": "milk-glass-lamp",
+  "name": "Milk-glass Lamp",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "blue": "Blue",
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "dreamy-rabbit-toy",
+  "name": "Dreamy Rabbit Toy",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "light-blue": "Light blue",
+        "yellow": "Yellow",
+        "orange": "Orange",
+        "red": "Red",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -18,6 +18,18 @@
           "value": 960
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "yellow": "Yellow",
+        "green": "Green",
+        "black": "Black",
+        "blue": "Blue",
+        "white": "White",
+        "rust": "Rust"
+      }
     }
   }
 }

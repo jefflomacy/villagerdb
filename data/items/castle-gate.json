@@ -1,0 +1,20 @@
+{
+  "id": "castle-gate",
+  "name": "Castle Gate",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gray": "Gray",
+        "ivory": "Ivory",
+        "brown": "Brown",
+        "dark-gray": "Dark gray",
+        "pink-beige": "Pink-beige",
+        "blue-white": "Blue & white",
+        "light-brown": "Light brown",
+        "damaged": "Damaged"
+      }
+    }
+  },
+  "category": "Furniture"
+}

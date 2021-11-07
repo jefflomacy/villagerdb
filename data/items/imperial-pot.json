@@ -20,6 +20,20 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "iron-nugget": 3
+      },
+      "variations": {
+        "mapo-tofu": "Mapo tofu",
+        "egg-and-tomato-dish": "Egg-and-tomato dish",
+        "fried-rice": "Fried rice",
+        "stir-fried-peppers": "Stir-fried peppers",
+        "babaocai": "Babaocai",
+        "shrimp-in-chili-sauce": "Shrimp in chili sauce"
+      }
     }
   }
 }

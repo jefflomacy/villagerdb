@@ -1,0 +1,20 @@
+{
+  "id": "ceiling-spotlight",
+  "name": "Ceiling Spotlight",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "white": "White",
+        "silver": "Silver",
+        "gold": "Gold",
+        "red": "Red",
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "colorful": "Colorful"
+      }
+    }
+  },
+  "category": "Furniture"
+}

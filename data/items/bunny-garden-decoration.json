@@ -1,0 +1,20 @@
+{
+  "id": "bunny-garden-decoration",
+  "name": "Bunny Garden Decoration",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "ivory": "Ivory",
+        "terra-cotta": "Terra-cotta",
+        "brown": "Brown",
+        "gray": "Gray",
+        "black": "Black",
+        "white": "White",
+        "pink": "Pink",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Furniture"
+}

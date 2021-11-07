@@ -1,0 +1,13 @@
+{
+  "id": "kabu-ankake",
+  "name": "Kabu Ankake",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "turnip": 10
+      }
+    }
+  },
+  "category": "Food"
+}

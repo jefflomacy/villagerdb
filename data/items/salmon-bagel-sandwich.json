@@ -1,0 +1,14 @@
+{
+  "id": "salmon-bagel-sandwich",
+  "name": "Salmon Bagel Sandwich",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 2,
+        "salmon": 1
+      }
+    }
+  },
+  "category": "Food"
+}

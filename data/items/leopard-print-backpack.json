@@ -1,0 +1,16 @@
+{
+  "id": "leopard-print-backpack",
+  "name": "Leopard-print Backpack",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown": "Brown",
+        "blue": "Blue",
+        "pink": "Pink",
+        "yellow": "Yellow"
+      }
+    }
+  },
+  "category": "Accessories"
+}

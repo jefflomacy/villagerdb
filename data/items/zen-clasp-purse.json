@@ -1,0 +1,15 @@
+{
+  "id": "zen-clasp-purse",
+  "name": "Zen Clasp Purse",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "dark-blue": "Dark blue",
+        "wisteria": "Wisteria",
+        "sky-blue": "Sky blue"
+      }
+    }
+  },
+  "category": "Accessories"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cooking-tools",
+  "name": "Cooking Tools",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "stylish": "Stylish",
+        "natural": "Natural"
+      }
+    }
+  },
+  "category": "Furniture"
+}

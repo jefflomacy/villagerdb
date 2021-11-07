@@ -1,0 +1,17 @@
+{
+  "id": "stelloid",
+  "name": "Stelloid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "green": "Green",
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "white": "White",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

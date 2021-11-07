@@ -1,0 +1,15 @@
+{
+  "id": "beaded-clasp-purse",
+  "name": "Beaded Clasp Purse",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "purple": "Purple",
+        "pink": "Pink",
+        "navy-blue": "Navy blue"
+      }
+    }
+  },
+  "category": "Accessories"
+}

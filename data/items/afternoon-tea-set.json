@@ -28,6 +28,14 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver": "Silver",
+        "gold": "Gold",
+        "white": "White"
+      }
     }
   }
 }

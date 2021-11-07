@@ -1,0 +1,20 @@
+{
+  "id": "tall-wooden-island-counter",
+  "name": "Tall Wooden Island Counter",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "wood": 3,
+        "hardwood": 3,
+        "softwood": 3
+      },
+      "variations": {
+        "light-wood": "Light wood",
+        "natural-wood": "Natural wood",
+        "dark-wood": "Dark wood"
+      }
+    }
+  },
+  "category": "Furniture"
+}

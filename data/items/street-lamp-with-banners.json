@@ -1,0 +1,42 @@
+{
+  "id": "street-lamp-with-banners",
+  "name": "Street Lamp With Banners",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "green-yellow": "Green & Yellow",
+        "green-red": "Green & Red",
+        "green-green": "Green & Green",
+        "green-blue": "Green & Blue",
+        "green-black": "Green & Black",
+        "bronze-yellow": "Bronze & Yellow",
+        "bronze-red": "Bronze & Red",
+        "bronze-green": "Bronze & Green",
+        "bronze-blue": "Bronze & Blue",
+        "bronze-black": "Bronze & Black",
+        "white-yellow": "White & Yellow",
+        "white-red": "White & Red",
+        "white-green": "White & Green",
+        "white-blue": "White & Blue",
+        "white-black": "White & Black",
+        "black-yellow": "Black & Yellow",
+        "black-red": "Black & Red",
+        "black-green": "Black & Green",
+        "black-blue": "Black & Blue",
+        "black-black": "Black & Black",
+        "blue-yellow": "Blue & Yellow",
+        "blue-red": "Blue & Red",
+        "blue-green": "Blue & Green",
+        "blue-blue": "Blue & Blue",
+        "blue-black": "Blue & Black",
+        "pink-yellow": "Pink & Yellow",
+        "pink-red": "Pink & Red",
+        "pink-green": "Pink & Green",
+        "pink-blue": "Pink & Blue",
+        "pink-black": "Pink & Black"
+      }
+    }
+  },
+  "category": "Furniture"
+}

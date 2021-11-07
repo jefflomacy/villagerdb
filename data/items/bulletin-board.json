@@ -1,0 +1,21 @@
+{
+  "id": "bulletin-board",
+  "name": "Bulletin Board",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "standard-scenery": "Standard & Scenery",
+        "standard-people": "Standard & People",
+        "standard-illustration": "Standard & Illustration",
+        "bright-scenery": "Bright & Scenery",
+        "bright-people": "Bright & People",
+        "bright-illustration": "Bright & Illustration",
+        "happy-scenery": "Happy & Scenery",
+        "happy-people": "Happy & People",
+        "happy-illustration": "Happy & Illustration"
+      }
+    }
+  },
+  "category": "Furniture"
+}

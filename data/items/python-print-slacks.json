@@ -1,0 +1,14 @@
+{
+  "id": "python-print-slacks",
+  "name": "Python-print Slacks",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown": "Brown",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Bottoms"
+}

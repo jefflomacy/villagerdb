@@ -22,6 +22,27 @@
           "value": 2500
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black-star": "Black & Star",
+        "black-heart": "Black & Heart",
+        "black-check": "Black & Check",
+        "black-cancel": "Black & Cancel",
+        "black-drink": "Black & Drink",
+        "black-microphone": "Black & Microphone",
+        "black-open": "Black & Open",
+        "black-smile": "Black & Smile",
+        "silver-star": "Silver & Star",
+        "silver-heart": "Silver & Heart",
+        "silver-check": "Silver & Check",
+        "silver-cancel": "Silver & Cancel",
+        "silver-drink": "Silver & Drink",
+        "silver-microphone": "Silver & Microphone",
+        "silver-open": "Silver & Open",
+        "silver-smile": "Silver & Smile"
+      }
     }
   }
 }

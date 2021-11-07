@@ -1,0 +1,14 @@
+{
+  "id": "low-concrete-island-counter",
+  "name": "Low Concrete Island Counter",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "stone": 3,
+        "iron-nugget": 1
+      }
+    }
+  },
+  "category": "Furniture"
+}

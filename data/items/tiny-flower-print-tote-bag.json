@@ -1,0 +1,15 @@
+{
+  "id": "tiny-flower-print-tote-bag",
+  "name": "Tiny-flower-print Tote Bag",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "light-blue": "Light blue"
+      }
+    }
+  },
+  "category": "Accessories"
+}

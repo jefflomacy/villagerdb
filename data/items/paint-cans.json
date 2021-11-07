@@ -1,0 +1,18 @@
+{
+  "id": "paint-cans",
+  "name": "Paint Cans",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red-blue-yellow": "Red, blue & yellow",
+        "green-yellow-orange": "Green, yellow & orange",
+        "purple-red-teal": "Purple, red & teal",
+        "pastels": "Pastels",
+        "sepia-tones": "Sepia tones",
+        "monochrome": "Monochrome"
+      }
+    }
+  },
+  "category": "Furniture"
+}

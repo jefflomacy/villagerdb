@@ -1,0 +1,20 @@
+{
+  "id": "giant-ornament",
+  "name": "Giant Ornament",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "red-ornament": 10
+      },
+      "variations": {
+        "red": "Red",
+        "green": "Green",
+        "blue": "Blue",
+        "pink": "Pink",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Furniture"
+}

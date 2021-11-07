@@ -1,0 +1,18 @@
+{
+  "id": "vintage-low-table",
+  "name": "Vintage Low Table",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "natural": "Natural",
+        "brown": "Brown",
+        "silver": "Silver",
+        "green": "Green",
+        "white": "White",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Furniture"
+}

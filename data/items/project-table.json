@@ -1,0 +1,18 @@
+{
+  "id": "project-table",
+  "name": "Project Table",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "wood": 10
+      },
+      "variations": {
+        "natural-wood": "Natural wood",
+        "light-wood": "Light wood",
+        "dark-wood": "Dark wood"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "caged-cart",
+  "name": "Caged Cart",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "black": "Black",
+        "red": "Red",
+        "yellow": "Yellow",
+        "green": "Green",
+        "blue": "Blue",
+        "silver": "Silver"
+      }
+    }
+  },
+  "category": "Furniture"
+}

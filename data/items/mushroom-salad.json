@@ -1,0 +1,15 @@
+{
+  "id": "mushroom-salad",
+  "name": "Mushroom Salad",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "round-mushroom": 1,
+        "flat-mushroom": 1,
+        "skinny-mushroom": 1
+      }
+    }
+  },
+  "category": "Food"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "golden-garden-bunny",
+  "name": "Golden Garden Bunny",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gold-nugget": 1,
+        "bunny-garden-decoration": 1
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -23,6 +23,14 @@
           "value": 5
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-brown": "Light brown",
+        "dark-brown": "Dark brown",
+        "white": "White"
+      }
     }
   }
 }

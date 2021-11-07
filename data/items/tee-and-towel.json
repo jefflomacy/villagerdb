@@ -1,0 +1,19 @@
+{
+  "id": "tee-and-towel",
+  "name": "Tee And Towel",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white-towel-white-shirt": "White towel & white shirt",
+        "red-towel-white-shirt": "Red towel & white shirt",
+        "blue-towel-white-shirt": "Blue towel & white shirt",
+        "black-towel-white-shirt": "Black towel & white shirt",
+        "pink-towel-black-shirt": "Pink towel & black shirt",
+        "orange-towel-black-shirt": "Orange towel & black shirt",
+        "green-towel-black-shirt": "Green towel & black shirt"
+      }
+    }
+  },
+  "category": "Tops"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "maple-leaf-rug",
+  "name": "Maple-leaf Rug",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "maple-leaf": 6
+      }
+    }
+  },
+  "category": "Flooring"
+}

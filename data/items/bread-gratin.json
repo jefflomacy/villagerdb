@@ -1,0 +1,14 @@
+{
+  "id": "bread-gratin",
+  "name": "Bread Gratin",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 2,
+        "whole-wheat-flour": 2
+      }
+    }
+  },
+  "category": "Food"
+}

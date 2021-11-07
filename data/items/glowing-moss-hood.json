@@ -1,0 +1,13 @@
+{
+  "id": "glowing-moss-hood",
+  "name": "Glowing-moss Hood",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss": 8
+      }
+    }
+  },
+  "category": "Hats"
+}

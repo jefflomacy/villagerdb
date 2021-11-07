@@ -15,6 +15,13 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gold": "Gold",
+        "silver": "Silver"
+      }
     }
   }
 }

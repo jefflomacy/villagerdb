@@ -1,0 +1,16 @@
+{
+  "id": "cooks-coat",
+  "name": "Cook's Coat",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gray": "Gray",
+        "black": "Black",
+        "blue": "Blue",
+        "brown": "Brown"
+      }
+    }
+  },
+  "category": "Tops"
+}

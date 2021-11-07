@@ -22,6 +22,46 @@
           "value": 800000
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gold-red": "Gold & Red",
+        "gold-blue": "Gold & Blue",
+        "gold-green": "Gold & Green",
+        "gold-purple": "Gold & Purple",
+        "gold-white": "Gold & White",
+        "gold-black": "Gold & Black",
+        "gold-gold": "Gold & Gold",
+        "silver-red": "Silver & Red",
+        "silver-blue": "Silver & Blue",
+        "silver-green": "Silver & Green",
+        "silver-purple": "Silver & Purple",
+        "silver-white": "Silver & White",
+        "silver-black": "Silver & Black",
+        "silver-gold": "Silver & Gold",
+        "white-red": "White & Red",
+        "white-blue": "White & Blue",
+        "white-green": "White & Green",
+        "white-purple": "White & Purple",
+        "white-white": "White & White",
+        "white-black": "White & Black",
+        "white-gold": "White & Gold",
+        "black-red": "Black & Red",
+        "black-blue": "Black & Blue",
+        "black-green": "Black & Green",
+        "black-purple": "Black & Purple",
+        "black-white": "Black & White",
+        "black-black": "Black & Black",
+        "black-gold": "Black & Gold",
+        "copper-red": "Copper & Red",
+        "copper-blue": "Copper & Blue",
+        "copper-green": "Copper & Green",
+        "copper-purple": "Copper & Purple",
+        "copper-white": "Copper & White",
+        "copper-black": "Copper & Black",
+        "copper-gold": "Copper & Gold"
+      }
     }
   }
 }

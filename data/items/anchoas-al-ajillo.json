@@ -1,0 +1,13 @@
+{
+  "id": "anchoas-al-ajillo",
+  "name": "Anchoas Al Ajillo",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "anchovy": 2
+      }
+    }
+  },
+  "category": "Food"
+}

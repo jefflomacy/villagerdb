@@ -1,0 +1,15 @@
+{
+  "id": "short-file-cabinet",
+  "name": "Short File Cabinet",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver": "Silver",
+        "black": "Black",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Furniture"
+}

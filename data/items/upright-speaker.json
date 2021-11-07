@@ -1,0 +1,20 @@
+{
+  "id": "upright-speaker",
+  "name": "Upright Speaker",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver": "Silver",
+        "white": "White",
+        "black": "Black",
+        "wooden": "Wooden",
+        "red": "Red",
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Furniture"
+}

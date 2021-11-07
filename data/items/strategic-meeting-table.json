@@ -1,0 +1,32 @@
+{
+  "id": "strategic-meeting-table",
+  "name": "Strategic Meeting Table",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue-topography-data": "Blue & Topography data",
+        "blue-area-map": "Blue & Area map",
+        "blue-radar": "Blue & Radar",
+        "blue-schematics": "Blue & Schematics",
+        "blue-lines-of-code": "Blue & Lines of code",
+        "green-topography-data": "Green & Topography data",
+        "green-area-map": "Green & Area map",
+        "green-radar": "Green & Radar",
+        "green-schematics": "Green & Schematics",
+        "green-lines-of-code": "Green & Lines of code",
+        "orange-topography-data": "Orange & Topography data",
+        "orange-area-map": "Orange & Area map",
+        "orange-radar": "Orange & Radar",
+        "orange-schematics": "Orange & Schematics",
+        "orange-lines-of-code": "Orange & Lines of code",
+        "red-topography-data": "Red & Topography data",
+        "red-area-map": "Red & Area map",
+        "red-radar": "Red & Radar",
+        "red-schematics": "Red & Schematics",
+        "red-lines-of-code": "Red & Lines of code"
+      }
+    }
+  },
+  "category": "Furniture"
+}

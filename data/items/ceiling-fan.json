@@ -1,0 +1,20 @@
+{
+  "id": "ceiling-fan",
+  "name": "Ceiling Fan",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "black": "Black",
+        "silver": "Silver",
+        "brass": "Brass",
+        "green": "Green",
+        "red": "Red",
+        "yellow": "Yellow",
+        "wooden": "Wooden"
+      }
+    }
+  },
+  "category": "Furniture"
+}

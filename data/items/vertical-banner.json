@@ -1,0 +1,36 @@
+{
+  "id": "vertical-banner",
+  "name": "Vertical Banner",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black-sushi": "Black & Sushi",
+        "black-chinese-food": "Black & Chinese food",
+        "black-bakery": "Black & Bakery",
+        "black-fast-food": "Black & Fast food",
+        "black-ice-cream": "Black & Ice cream",
+        "black-open": "Black & Open",
+        "black-farmers-market": "Black & Farmers market",
+        "black-crest": "Black & Crest",
+        "white-sushi": "White & Sushi",
+        "white-chinese-food": "White & Chinese food",
+        "white-bakery": "White & Bakery",
+        "white-fast-food": "White & Fast food",
+        "white-ice-cream": "White & Ice cream",
+        "white-open": "White & Open",
+        "white-farmers-market": "White & Farmers market",
+        "white-crest": "White & Crest",
+        "blue-sushi": "Blue & Sushi",
+        "blue-chinese-food": "Blue & Chinese food",
+        "blue-bakery": "Blue & Bakery",
+        "blue-fast-food": "Blue & Fast food",
+        "blue-ice-cream": "Blue & Ice cream",
+        "blue-open": "Blue & Open",
+        "blue-farmers-market": "Blue & Farmers market",
+        "blue-crest": "Blue & Crest"
+      }
+    }
+  },
+  "category": "Furniture"
+}

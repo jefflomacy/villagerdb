@@ -1,0 +1,17 @@
+{
+  "id": "bear-backpack",
+  "name": "Bear Backpack",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown": "Brown",
+        "white": "White",
+        "pink": "Pink",
+        "light-blue": "Light blue",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Accessories"
+}

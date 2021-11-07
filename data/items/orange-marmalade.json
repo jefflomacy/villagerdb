@@ -1,0 +1,13 @@
+{
+  "id": "orange-marmalade",
+  "name": "Orange Marmalade",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "orange": 3
+      }
+    }
+  },
+  "category": "Food"
+}

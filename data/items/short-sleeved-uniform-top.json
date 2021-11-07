@@ -1,0 +1,16 @@
+{
+  "id": "short-sleeved-uniform-top",
+  "name": "Short-sleeved Uniform Top",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "pink-necktie": "Pink necktie",
+        "red-necktie": "Red necktie",
+        "blue-necktie": "Blue necktie",
+        "green-necktie": "Green necktie"
+      }
+    }
+  },
+  "category": "Tops"
+}

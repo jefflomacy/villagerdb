@@ -1,0 +1,14 @@
+{
+  "id": "pizza-margherita",
+  "name": "Pizza Margherita",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 3,
+        "tomato": 2
+      }
+    }
+  },
+  "category": "Food"
+}

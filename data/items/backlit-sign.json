@@ -1,0 +1,36 @@
+{
+  "id": "backlit-sign",
+  "name": "Backlit Sign",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black-on-air": "Black & ON AIR",
+        "black-open": "Black & OPEN",
+        "black-closed": "Black & CLOSED",
+        "black-welcome": "Black & WELCOME",
+        "black-vip": "Black & VIP",
+        "black-danger": "Black & DANGER",
+        "black-shiyouchu-in-use": "Black & Shiyouchu (In use)",
+        "black-sagyouchu-working": "Black & Sagyouchu (Working)",
+        "silver-on-air": "Silver & ON AIR",
+        "silver-open": "Silver & OPEN",
+        "silver-closed": "Silver & CLOSED",
+        "silver-welcome": "Silver & WELCOME",
+        "silver-vip": "Silver & VIP",
+        "silver-danger": "Silver & DANGER",
+        "silver-shiyouchu-in-use": "Silver & Shiyouchu (In use)",
+        "silver-sagyouchu-working": "Silver & Sagyouchu (Working)",
+        "white-on-air": "White & ON AIR",
+        "white-open": "White & OPEN",
+        "white-closed": "White & CLOSED",
+        "white-welcome": "White & WELCOME",
+        "white-vip": "White & VIP",
+        "white-danger": "White & DANGER",
+        "white-shiyouchu-in-use": "White & Shiyouchu (In use)",
+        "white-sagyouchu-working": "White & Sagyouchu (Working)"
+      }
+    }
+  },
+  "category": "Furniture"
+}

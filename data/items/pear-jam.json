@@ -1,0 +1,13 @@
+{
+  "id": "pear-jam",
+  "name": "Pear Jam",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "pear": 3
+      }
+    }
+  },
+  "category": "Food"
+}

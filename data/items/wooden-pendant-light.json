@@ -1,0 +1,16 @@
+{
+  "id": "wooden-pendant-light",
+  "name": "Wooden Pendant Light",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "natural-wood": "Natural wood",
+        "black": "Black",
+        "light-wood": "Light wood",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Furniture"
+}

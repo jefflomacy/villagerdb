@@ -19,6 +19,15 @@
           "value": 1600
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "red": "Red",
+        "gray": "Gray"
+      }
     }
   }
 }

@@ -1,0 +1,14 @@
+{
+  "id": "seafood-salad",
+  "name": "Seafood Salad",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "squid": 1,
+        "sweet-shrimp": 1
+      }
+    }
+  },
+  "category": "Food"
+}

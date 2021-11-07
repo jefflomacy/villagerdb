@@ -23,6 +23,17 @@
           "value": 2252
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "empress-tree-wood": "Empress-tree wood",
+        "brown": "Brown",
+        "rich-brown": "Rich brown",
+        "black": "Black",
+        "red": "Red",
+        "antique": "Antique"
+      }
     }
   }
 }

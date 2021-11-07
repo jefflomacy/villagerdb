@@ -1,0 +1,19 @@
+{
+  "id": "model-kits",
+  "name": "Model Kits",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "robots": "Robots",
+        "cars": "Cars",
+        "trains": "Trains",
+        "transportation": "Transportation",
+        "space": "Space",
+        "historical": "Historical",
+        "buildings": "Buildings"
+      }
+    }
+  },
+  "category": "Furniture"
+}

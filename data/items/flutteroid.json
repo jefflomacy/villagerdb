@@ -1,0 +1,17 @@
+{
+  "id": "flutteroid",
+  "name": "Flutteroid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "orange": "Orange",
+        "yellow": "Yellow",
+        "green": "Green",
+        "pink": "Pink",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

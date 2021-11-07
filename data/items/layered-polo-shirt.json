@@ -1,0 +1,19 @@
+{
+  "id": "layered-polo-shirt",
+  "name": "Layered Polo Shirt",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "white": "White",
+        "black": "Black",
+        "red": "Red",
+        "yellow": "Yellow",
+        "green": "Green",
+        "beige": "Beige"
+      }
+    }
+  },
+  "category": "Tops"
+}

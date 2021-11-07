@@ -1,0 +1,16 @@
+{
+  "id": "aluminoid",
+  "name": "Aluminoid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver": "Silver",
+        "copper": "Copper",
+        "blue": "Blue",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "zen-light",
+  "name": "Zen Light",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "natural-wood": "Natural wood",
+        "dark-wood": "Dark wood",
+        "light-wood": "Light wood"
+      }
+    }
+  },
+  "category": "Furniture"
+}

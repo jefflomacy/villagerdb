@@ -1,0 +1,18 @@
+{
+  "id": "silly-glasses",
+  "name": "Silly Glasses",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "purple": "Purple",
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "light-blue": "Light blue",
+        "blue": "Blue",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Accessories"
+}

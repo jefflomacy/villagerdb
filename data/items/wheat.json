@@ -1,0 +1,10 @@
+{
+  "id": "wheat",
+  "name": "Wheat",
+  "games": {
+    "nh": {
+      "version": "2.0"
+    }
+  },
+  "category": "Food"
+}

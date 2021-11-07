@@ -1,0 +1,20 @@
+{
+  "id": "shaded-pendant-lamp",
+  "name": "Shaded Pendant Lamp",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "light-gray": "Light gray",
+        "pink": "Pink",
+        "light-blue": "Light blue",
+        "yellow-design": "Yellow design",
+        "green-design": "Green design",
+        "orange-design": "Orange design",
+        "navy-design": "Navy design"
+      }
+    }
+  },
+  "category": "Furniture"
+}

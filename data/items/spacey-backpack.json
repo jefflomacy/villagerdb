@@ -1,0 +1,15 @@
+{
+  "id": "spacey-backpack",
+  "name": "Spacey Backpack",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "pink": "Pink",
+        "purple": "Purple",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Accessories"
+}

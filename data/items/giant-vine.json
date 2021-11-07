@@ -1,0 +1,20 @@
+{
+  "id": "giant-vine",
+  "name": "Giant Vine",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "vine": 25
+      },
+      "variations": {
+        "green": "Green",
+        "light-green": "Light green",
+        "dark-green": "Dark green",
+        "brown": "Brown",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Furniture"
+}

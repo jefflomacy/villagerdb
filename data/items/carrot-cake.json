@@ -1,0 +1,15 @@
+{
+  "id": "carrot-cake",
+  "name": "Carrot Cake",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 1,
+        "sugar": 1,
+        "carrot": 1
+      }
+    }
+  },
+  "category": "Food"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "rope-net-wall",
+  "name": "Rope-net Wall",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "vine": 10,
+        "wood": 10
+      }
+    }
+  },
+  "category": "Wallpaper"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "outdoor-folding-table",
+  "name": "Outdoor Folding Table",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver-silver": "Silver & Silver",
+        "silver-black": "Silver & Black",
+        "silver-light-brown": "Silver & Light brown",
+        "silver-brown": "Silver & Brown",
+        "black-silver": "Black & Silver",
+        "black-black": "Black & Black",
+        "black-light-brown": "Black & Light brown",
+        "black-brown": "Black & Brown",
+        "red-silver": "Red & Silver",
+        "red-black": "Red & Black",
+        "red-light-brown": "Red & Light brown",
+        "red-brown": "Red & Brown",
+        "blue-silver": "Blue & Silver",
+        "blue-black": "Blue & Black",
+        "blue-light-brown": "Blue & Light brown",
+        "blue-brown": "Blue & Brown"
+      }
+    }
+  },
+  "category": "Furniture"
+}

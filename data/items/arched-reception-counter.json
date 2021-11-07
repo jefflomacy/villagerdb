@@ -1,0 +1,20 @@
+{
+  "id": "arched-reception-counter",
+  "name": "Arched Reception Counter",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "light-wood": "Light wood",
+        "brown-stripes": "Brown stripes",
+        "brown": "Brown",
+        "blue": "Blue",
+        "pink": "Pink",
+        "white-brown": "White & brown",
+        "beige": "Beige"
+      }
+    }
+  },
+  "category": "Furniture"
+}

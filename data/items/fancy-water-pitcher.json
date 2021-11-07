@@ -1,0 +1,14 @@
+{
+  "id": "fancy-water-pitcher",
+  "name": "Fancy Water Pitcher",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver": "Silver",
+        "gold": "Gold"
+      }
+    }
+  },
+  "category": "Furniture"
+}

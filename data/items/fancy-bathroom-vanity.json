@@ -1,0 +1,19 @@
+{
+  "id": "fancy-bathroom-vanity",
+  "name": "Fancy Bathroom Vanity",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "modern": "Modern",
+        "natural": "Natural",
+        "standard": "Standard",
+        "elegant": "Elegant",
+        "ornate": "Ornate",
+        "cool": "Cool",
+        "cute": "Cute"
+      }
+    }
+  },
+  "category": "Furniture"
+}

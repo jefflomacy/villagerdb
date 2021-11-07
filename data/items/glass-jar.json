@@ -1,0 +1,44 @@
+{
+  "id": "glass-jar",
+  "name": "Glass Jar",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "salt": "Salt",
+        "salt-white-label": "Salt & White label",
+        "salt-brown-label": "Salt & Brown label",
+        "salt-black-label": "Salt & Black label",
+        "pasta": "Pasta",
+        "pasta-white-label": "Pasta & White label",
+        "pasta-brown-label": "Pasta & Brown label",
+        "pasta-black-label": "Pasta & Black label",
+        "nuts": "Nuts",
+        "nuts-white-label": "Nuts & White label",
+        "nuts-brown-label": "Nuts & Brown label",
+        "nuts-black-label": "Nuts & Black label",
+        "coffee-beans": "Coffee beans",
+        "coffee-beans-white-label": "Coffee beans & White label",
+        "coffee-beans-brown-label": "Coffee beans & Brown label",
+        "coffee-beans-black-label": "Coffee beans & Black label",
+        "fruit-syrup": "Fruit syrup",
+        "fruit-syrup-white-label": "Fruit syrup & White label",
+        "fruit-syrup-brown-label": "Fruit syrup & Brown label",
+        "fruit-syrup-black-label": "Fruit syrup & Black label",
+        "cookies": "Cookies",
+        "cookies-white-label": "Cookies & White label",
+        "cookies-brown-label": "Cookies & Brown label",
+        "cookies-black-label": "Cookies & Black label",
+        "marshmallows": "Marshmallows",
+        "marshmallows-white-label": "Marshmallows & White label",
+        "marshmallows-brown-label": "Marshmallows & Brown label",
+        "marshmallows-black-label": "Marshmallows & Black label",
+        "yarn": "Yarn",
+        "yarn-white-label": "Yarn & White label",
+        "yarn-brown-label": "Yarn & Brown label",
+        "yarn-black-label": "Yarn & Black label"
+      }
+    }
+  },
+  "category": "Furniture"
+}

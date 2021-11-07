@@ -1,0 +1,14 @@
+{
+  "id": "touchscreen-cash-register",
+  "name": "Touchscreen Cash Register",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Furniture"
+}

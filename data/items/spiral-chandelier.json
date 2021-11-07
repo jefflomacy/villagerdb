@@ -1,0 +1,15 @@
+{
+  "id": "spiral-chandelier",
+  "name": "Spiral Chandelier",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver": "Silver",
+        "gold": "Gold",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Furniture"
+}

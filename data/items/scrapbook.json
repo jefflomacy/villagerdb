@@ -1,0 +1,20 @@
+{
+  "id": "scrapbook",
+  "name": "Scrapbook",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown": "Brown",
+        "yellow": "Yellow",
+        "black": "Black",
+        "white": "White",
+        "blue": "Blue",
+        "pink": "Pink",
+        "green": "Green",
+        "beige": "Beige"
+      }
+    }
+  },
+  "category": "Furniture"
+}

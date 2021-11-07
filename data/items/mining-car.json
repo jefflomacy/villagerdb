@@ -1,0 +1,18 @@
+{
+  "id": "mining-car",
+  "name": "Mining Car",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown": "Brown",
+        "red": "Red",
+        "blue": "Blue",
+        "yellow": "Yellow",
+        "green": "Green",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Furniture"
+}

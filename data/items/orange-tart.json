@@ -1,0 +1,15 @@
+{
+  "id": "orange-tart",
+  "name": "Orange Tart",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 1,
+        "sugar": 1,
+        "orange": 1
+      }
+    }
+  },
+  "category": "Food"
+}

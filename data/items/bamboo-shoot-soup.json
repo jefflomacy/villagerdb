@@ -1,0 +1,13 @@
+{
+  "id": "bamboo-shoot-soup",
+  "name": "Bamboo-shoot Soup",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "bamboo-shoot": 2
+      }
+    }
+  },
+  "category": "Food"
+}

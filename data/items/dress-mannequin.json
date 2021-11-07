@@ -1,0 +1,27 @@
+{
+  "id": "dress-mannequin",
+  "name": "Dress Mannequin",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white-blue": "White & Blue",
+        "white-red": "White & Red",
+        "white-yellow": "White & Yellow",
+        "white-black": "White & Black",
+        "white-white": "White & White",
+        "brown-blue": "Brown & Blue",
+        "brown-red": "Brown & Red",
+        "brown-yellow": "Brown & Yellow",
+        "brown-black": "Brown & Black",
+        "brown-white": "Brown & White",
+        "black-blue": "Black & Blue",
+        "black-red": "Black & Red",
+        "black-yellow": "Black & Yellow",
+        "black-black": "Black & Black",
+        "black-white": "Black & White"
+      }
+    }
+  },
+  "category": "Furniture"
+}

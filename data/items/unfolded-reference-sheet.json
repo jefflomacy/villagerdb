@@ -1,0 +1,19 @@
+{
+  "id": "unfolded-reference-sheet",
+  "name": "Unfolded Reference Sheet",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "plans": "Plans",
+        "route-map": "Route map",
+        "chart-with-sticky-notes": "Chart with sticky notes",
+        "presentation-document": "Presentation document",
+        "design-sketch": "Design sketch",
+        "color-samples": "Color samples",
+        "constellation-map": "Constellation map"
+      }
+    }
+  },
+  "category": "Furniture"
+}

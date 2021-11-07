@@ -1,0 +1,18 @@
+{
+  "id": "basic-school-chair",
+  "name": "Basic School Chair",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "black": "Black",
+        "red": "Red",
+        "green": "Green",
+        "yellow": "Yellow",
+        "wooden": "Wooden"
+      }
+    }
+  },
+  "category": "Furniture"
+}

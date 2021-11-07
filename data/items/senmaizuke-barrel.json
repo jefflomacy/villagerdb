@@ -1,0 +1,13 @@
+{
+  "id": "senmaizuke-barrel",
+  "name": "Senmaizuke Barrel",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "turnip": 30
+      }
+    }
+  },
+  "category": "Furniture"
+}

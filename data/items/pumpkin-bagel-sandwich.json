@@ -1,0 +1,14 @@
+{
+  "id": "pumpkin-bagel-sandwich",
+  "name": "Pumpkin Bagel Sandwich",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 2,
+        "orange-pumpkin": 3
+      }
+    }
+  },
+  "category": "Food"
+}

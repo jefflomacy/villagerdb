@@ -1,0 +1,16 @@
+{
+  "id": "dynamic-tank-top",
+  "name": "Dynamic Tank Top",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "dark-red": "Dark red",
+        "navy-blue": "Navy blue",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Tops"
+}

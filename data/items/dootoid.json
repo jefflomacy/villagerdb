@@ -1,0 +1,19 @@
+{
+  "id": "dootoid",
+  "name": "Dootoid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gray": "Gray",
+        "brown": "Brown",
+        "green": "Green",
+        "pink": "Pink",
+        "blue": "Blue",
+        "white": "White",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

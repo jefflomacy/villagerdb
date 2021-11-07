@@ -1,0 +1,17 @@
+{
+  "id": "fruit-salad",
+  "name": "Fruit Salad",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "apple": 1,
+        "orange": 1,
+        "pear": 1,
+        "peach": 1,
+        "cherry": 1
+      }
+    }
+  },
+  "category": "Food"
+}

@@ -26,6 +26,15 @@
           "value": 5
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown": "Brown",
+        "pink-beige": "Pink-beige",
+        "white": "White",
+        "dark-brown": "Dark brown"
+      }
     }
   }
 }

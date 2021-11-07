@@ -1,0 +1,15 @@
+{
+  "id": "jet-pack",
+  "name": "Jet Pack",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gray": "Gray",
+        "black": "Black",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Accessories"
+}

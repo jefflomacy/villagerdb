@@ -1,0 +1,18 @@
+{
+  "id": "winnowing-machine",
+  "name": "Winnowing Machine",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "green": "Green",
+        "red": "Red",
+        "light-green": "Light green",
+        "silver": "Silver",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -25,6 +25,16 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "green": "Green",
+        "black": "Black",
+        "blue": "Blue",
+        "light-green": "Light green"
+      }
     }
   }
 }

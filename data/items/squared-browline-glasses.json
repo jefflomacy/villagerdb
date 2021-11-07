@@ -1,0 +1,16 @@
+{
+  "id": "squared-browline-glasses",
+  "name": "Squared Browline Glasses",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gray": "Gray",
+        "black": "Black",
+        "green": "Green",
+        "brown": "Brown"
+      }
+    }
+  },
+  "category": "Accessories"
+}

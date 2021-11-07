@@ -1,0 +1,17 @@
+{
+  "id": "small-vase",
+  "name": "Small Vase",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "botanical": "Botanical",
+        "waves-cranes": "Waves & cranes",
+        "daffodils": "Daffodils",
+        "flowers-birds": "Flowers & birds",
+        "flowers-butterflies": "Flowers & butterflies"
+      }
+    }
+  },
+  "category": "Furniture"
+}

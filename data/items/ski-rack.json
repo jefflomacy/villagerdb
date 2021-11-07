@@ -12,6 +12,16 @@
       "sources": [
         "Snowman"
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "colorful": "Colorful",
+        "orange": "Orange",
+        "white": "White",
+        "pink": "Pink"
+      }
     }
   }
 }

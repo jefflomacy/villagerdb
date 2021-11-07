@@ -22,6 +22,18 @@
           "value": 1400
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "natural": "Natural",
+        "dark-brown": "Dark brown",
+        "white": "White",
+        "blue": "Blue",
+        "pink": "Pink",
+        "green": "Green",
+        "vintage": "Vintage"
+      }
     }
   }
 }

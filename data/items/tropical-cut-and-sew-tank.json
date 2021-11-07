@@ -1,0 +1,15 @@
+{
+  "id": "tropical-cut-and-sew-tank",
+  "name": "Tropical Cut-and-sew Tank",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "orange": "Orange",
+        "blue": "Blue",
+        "pink": "Pink"
+      }
+    }
+  },
+  "category": "Tops"
+}

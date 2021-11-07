@@ -21,6 +21,43 @@
           "value": 900
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gold-fuku-good-fortune": "Gold & Fuku (Good fortune)",
+        "gold-flowers": "Gold & Flowers",
+        "gold-matsuri-festival": "Gold & Matsuri (Festival)",
+        "gold-crest": "Gold & Crest",
+        "gold-red-white-stripes": "Gold & Red & white stripes",
+        "gold-blue-white-stripes": "Gold & Blue & white stripes",
+        "gold-yellow-white-stripes": "Gold & Yellow & white stripes",
+        "gold-green-white-stripes": "Gold & Green & white stripes",
+        "black-fuku-good-fortune": "Black & Fuku (Good fortune)",
+        "black-flowers": "Black & Flowers",
+        "black-matsuri-festival": "Black & Matsuri (Festival)",
+        "black-crest": "Black & Crest",
+        "black-red-white-stripes": "Black & Red & white stripes",
+        "black-blue-white-stripes": "Black & Blue & white stripes",
+        "black-yellow-white-stripes": "Black & Yellow & white stripes",
+        "black-green-white-stripes": "Black & Green & white stripes",
+        "red-fuku-good-fortune": "Red & Fuku (Good fortune)",
+        "red-flowers": "Red & Flowers",
+        "red-matsuri-festival": "Red & Matsuri (Festival)",
+        "red-crest": "Red & Crest",
+        "red-red-white-stripes": "Red & Red & white stripes",
+        "red-blue-white-stripes": "Red & Blue & white stripes",
+        "red-yellow-white-stripes": "Red & Yellow & white stripes",
+        "red-green-white-stripes": "Red & Green & white stripes",
+        "brass-fuku-good-fortune": "Brass & Fuku (Good fortune)",
+        "brass-flowers": "Brass & Flowers",
+        "brass-matsuri-festival": "Brass & Matsuri (Festival)",
+        "brass-crest": "Brass & Crest",
+        "brass-red-white-stripes": "Brass & Red & white stripes",
+        "brass-blue-white-stripes": "Brass & Blue & white stripes",
+        "brass-yellow-white-stripes": "Brass & Yellow & white stripes",
+        "brass-green-white-stripes": "Brass & Green & white stripes"
+      }
     }
   }
 }

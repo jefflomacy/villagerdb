@@ -1,0 +1,20 @@
+{
+  "id": "counter-chair",
+  "name": "Counter Chair",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "natural-wood": "Natural wood",
+        "dark-wood": "Dark wood",
+        "white": "White",
+        "black": "Black",
+        "red": "Red",
+        "green": "Green",
+        "blue": "Blue",
+        "pink": "Pink"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "retro-transportation-stop",
+  "name": "Retro Transportation Stop",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gray-blue": "Gray & Blue",
+        "gray-yellow": "Gray & Yellow",
+        "gray-red-white": "Gray & Red & white",
+        "yellow-blue": "Yellow & Blue",
+        "yellow-yellow": "Yellow & Yellow",
+        "yellow-red-white": "Yellow & Red & white",
+        "green-blue": "Green & Blue",
+        "green-yellow": "Green & Yellow",
+        "green-red-white": "Green & Red & white",
+        "blue-blue": "Blue & Blue",
+        "blue-yellow": "Blue & Yellow",
+        "blue-red-white": "Blue & Red & white",
+        "red-blue": "Red & Blue",
+        "red-yellow": "Red & Yellow",
+        "red-red-white": "Red & Red & white",
+        "damaged-blue": "Damaged & Blue",
+        "damaged-yellow": "Damaged & Yellow",
+        "damaged-red-white": "Damaged & Red & white"
+      }
+    }
+  },
+  "category": "Furniture"
+}

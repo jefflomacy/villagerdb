@@ -1,0 +1,23 @@
+{
+  "id": "tension-pole-rack",
+  "name": "Tension-pole Rack",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "wood": 8
+      },
+      "variations": {
+        "natural": "Natural",
+        "white": "White",
+        "cherry": "Cherry",
+        "brown": "Brown",
+        "ash": "Ash",
+        "green": "Green",
+        "blue": "Blue",
+        "pink": "Pink"
+      }
+    }
+  },
+  "category": "Furniture"
+}

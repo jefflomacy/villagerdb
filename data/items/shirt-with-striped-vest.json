@@ -1,0 +1,16 @@
+{
+  "id": "shirt-with-striped-vest",
+  "name": "Shirt With Striped Vest",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "mustard": "Mustard",
+        "green": "Green",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Tops"
+}

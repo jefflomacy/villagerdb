@@ -1,0 +1,20 @@
+{
+  "id": "artsy-table",
+  "name": "Artsy Table",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "blue": "Blue",
+        "orange": "Orange",
+        "green": "Green",
+        "white": "White",
+        "black": "Black",
+        "brown": "Brown",
+        "yellow": "Yellow"
+      }
+    }
+  },
+  "category": "Furniture"
+}

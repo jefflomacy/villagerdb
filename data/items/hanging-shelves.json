@@ -1,0 +1,20 @@
+{
+  "id": "hanging-shelves",
+  "name": "Hanging Shelves",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-wood": "Light wood",
+        "orange-wood": "Orange wood",
+        "dark-wood": "Dark wood",
+        "vintage-wood": "Vintage wood",
+        "natural-wood": "Natural wood",
+        "black": "Black",
+        "green": "Green",
+        "pink": "Pink"
+      }
+    }
+  },
+  "category": "Furniture"
+}

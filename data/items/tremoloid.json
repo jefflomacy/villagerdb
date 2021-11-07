@@ -1,0 +1,17 @@
+{
+  "id": "tremoloid",
+  "name": "Tremoloid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "yellow": "Yellow",
+        "green": "Green",
+        "purple": "Purple",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

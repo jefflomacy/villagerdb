@@ -1,0 +1,33 @@
+{
+  "id": "standing-electric-sign",
+  "name": "Standing Electric Sign",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver-coffee": "Silver & Coffee",
+        "silver-books": "Silver & Books",
+        "silver-dining": "Silver & Dining",
+        "silver-cake": "Silver & Cake",
+        "silver-karaoke": "Silver & Karaoke",
+        "silver-japanese-food": "Silver & Japanese food",
+        "silver-soft-drink": "Silver & Soft drink",
+        "white-coffee": "White & Coffee",
+        "white-books": "White & Books",
+        "white-dining": "White & Dining",
+        "white-cake": "White & Cake",
+        "white-karaoke": "White & Karaoke",
+        "white-japanese-food": "White & Japanese food",
+        "white-soft-drink": "White & Soft drink",
+        "black-coffee": "Black & Coffee",
+        "black-books": "Black & Books",
+        "black-dining": "Black & Dining",
+        "black-cake": "Black & Cake",
+        "black-karaoke": "Black & Karaoke",
+        "black-japanese-food": "Black & Japanese food",
+        "black-soft-drink": "Black & Soft drink"
+      }
+    }
+  },
+  "category": "Furniture"
+}

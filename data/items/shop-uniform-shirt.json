@@ -1,0 +1,18 @@
+{
+  "id": "shop-uniform-shirt",
+  "name": "Shop Uniform Shirt",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "white": "White",
+        "red": "Red",
+        "pink": "Pink",
+        "orange": "Orange",
+        "brown": "Brown"
+      }
+    }
+  },
+  "category": "Tops"
+}

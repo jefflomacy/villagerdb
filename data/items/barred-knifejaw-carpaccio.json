@@ -1,0 +1,13 @@
+{
+  "id": "barred-knifejaw-carpaccio",
+  "name": "Barred-knifejaw Carpaccio",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "barred-knifejaw": 1
+      }
+    }
+  },
+  "category": "Food"
+}

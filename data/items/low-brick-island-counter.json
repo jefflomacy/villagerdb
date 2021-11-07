@@ -1,0 +1,18 @@
+{
+  "id": "low-brick-island-counter",
+  "name": "Low Brick Island Counter",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "clay": 4
+      },
+      "variations": {
+        "red": "Red",
+        "white": "White",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Furniture"
+}

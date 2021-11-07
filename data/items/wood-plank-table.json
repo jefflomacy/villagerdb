@@ -28,6 +28,15 @@
           "value": 5
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-wood": "Light wood",
+        "orange-wood": "Orange wood",
+        "dark-wood": "Dark wood",
+        "bark-edged": "Bark edged"
+      }
     }
   }
 }

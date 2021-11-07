@@ -1,0 +1,21 @@
+{
+  "id": "cave",
+  "name": "Cave",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "vine": 10,
+        "glowing-moss": 20,
+        "stone": 30
+      },
+      "variations": {
+        "brown": "Brown",
+        "gray": "Gray",
+        "black": "Black",
+        "mossy": "Mossy"
+      }
+    }
+  },
+  "category": "Furniture"
+}

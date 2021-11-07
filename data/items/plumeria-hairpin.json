@@ -1,0 +1,14 @@
+{
+  "id": "plumeria-hairpin",
+  "name": "Plumeria Hairpin",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "pink": "Pink"
+      }
+    }
+  },
+  "category": "Hats"
+}

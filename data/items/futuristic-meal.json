@@ -1,0 +1,16 @@
+{
+  "id": "futuristic-meal",
+  "name": "Futuristic Meal",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "silver": "Silver",
+        "black": "Black",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Food"
+}

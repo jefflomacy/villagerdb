@@ -21,6 +21,13 @@
           "value": 2000
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "dark-wood": "Dark wood",
+        "natural-wood": "Natural wood"
+      }
     }
   }
 }

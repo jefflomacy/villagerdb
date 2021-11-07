@@ -15,6 +15,43 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown-flowers": "Brown & Flowers",
+        "brown-mountain": "Brown & Mountain",
+        "brown-bird": "Brown & Bird",
+        "brown-monochrome-floral-design": "Brown & Monochrome floral design",
+        "brown-colorful-floral-design": "Brown & Colorful floral design",
+        "brown-sepia-floral-design": "Brown & Sepia floral design",
+        "brown-pomegranates": "Brown & Pomegranates",
+        "brown-veldt": "Brown & Veldt",
+        "black-flowers": "Black & Flowers",
+        "black-mountain": "Black & Mountain",
+        "black-bird": "Black & Bird",
+        "black-monochrome-floral-design": "Black & Monochrome floral design",
+        "black-colorful-floral-design": "Black & Colorful floral design",
+        "black-sepia-floral-design": "Black & Sepia floral design",
+        "black-pomegranates": "Black & Pomegranates",
+        "black-veldt": "Black & Veldt",
+        "light-brown-flowers": "Light brown & Flowers",
+        "light-brown-mountain": "Light brown & Mountain",
+        "light-brown-bird": "Light brown & Bird",
+        "light-brown-monochrome-floral-design": "Light brown & Monochrome floral design",
+        "light-brown-colorful-floral-design": "Light brown & Colorful floral design",
+        "light-brown-sepia-floral-design": "Light brown & Sepia floral design",
+        "light-brown-pomegranates": "Light brown & Pomegranates",
+        "light-brown-veldt": "Light brown & Veldt",
+        "silver-flowers": "Silver & Flowers",
+        "silver-mountain": "Silver & Mountain",
+        "silver-bird": "Silver & Bird",
+        "silver-monochrome-floral-design": "Silver & Monochrome floral design",
+        "silver-colorful-floral-design": "Silver & Colorful floral design",
+        "silver-sepia-floral-design": "Silver & Sepia floral design",
+        "silver-pomegranates": "Silver & Pomegranates",
+        "silver-veldt": "Silver & Veldt"
+      }
     }
   }
 }

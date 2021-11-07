@@ -1,0 +1,17 @@
+{
+  "id": "clatteroid",
+  "name": "Clatteroid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "pop": "Pop",
+        "natural": "Natural",
+        "cool": "Cool",
+        "cute": "Cute",
+        "chic": "Chic"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

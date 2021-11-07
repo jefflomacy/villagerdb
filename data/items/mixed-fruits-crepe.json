@@ -1,0 +1,18 @@
+{
+  "id": "mixed-fruits-crepe",
+  "name": "Mixed-fruits Crepe",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 2,
+        "apple": 1,
+        "orange": 1,
+        "pear": 1,
+        "peach": 1,
+        "cherry": 1
+      }
+    }
+  },
+  "category": "Food"
+}

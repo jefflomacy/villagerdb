@@ -1,0 +1,19 @@
+{
+  "id": "samurai-hakama",
+  "name": "Samurai Hakama",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "black": "Black",
+        "vermilion": "Vermilion",
+        "light-pink": "Light pink",
+        "pale-orange": "Pale orange",
+        "sky-blue": "Sky blue",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Dresses"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "schoolbag",
+  "name": "Schoolbag",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "gray": "Gray",
+        "black": "Black",
+        "green": "Green",
+        "navy-blue": "Navy blue",
+        "brown": "Brown"
+      }
+    }
+  },
+  "category": "Accessories"
+}

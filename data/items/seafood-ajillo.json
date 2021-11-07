@@ -1,0 +1,15 @@
+{
+  "id": "seafood-ajillo",
+  "name": "Seafood Ajillo",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "tiger-prawn": 1,
+        "squid": 1,
+        "scallop": 1
+      }
+    }
+  },
+  "category": "Food"
+}

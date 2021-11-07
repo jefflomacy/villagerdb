@@ -1,0 +1,15 @@
+{
+  "id": "seafood-pizza",
+  "name": "Seafood Pizza",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 3,
+        "tiger-prawn": 1,
+        "manila-clam": 2
+      }
+    }
+  },
+  "category": "Food"
+}

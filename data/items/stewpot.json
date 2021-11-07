@@ -25,6 +25,16 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "cream-stew": "Cream stew",
+        "curry": "Curry",
+        "chili": "Chili",
+        "ramen-broth": "Ramen broth",
+        "miso-broth": "Miso broth"
+      }
     }
   }
 }

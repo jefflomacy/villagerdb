@@ -1,0 +1,16 @@
+{
+  "id": "fired-up-kanji-tee",
+  "name": "Fired-up Kanji Tee",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "tamashii-soul": "Tamashii (Soul)",
+        "kizuna-bond": "Kizuna (Bond)",
+        "men-noodles": "Men (Noodles)",
+        "yume-dream": "Yume (Dream)"
+      }
+    }
+  },
+  "category": "Tops"
+}

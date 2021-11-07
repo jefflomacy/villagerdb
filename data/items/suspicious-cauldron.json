@@ -1,0 +1,21 @@
+{
+  "id": "suspicious-cauldron",
+  "name": "Suspicious Cauldron",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss": 10,
+        "iron-nugget": 10
+      },
+      "variations": {
+        "green": "Green",
+        "blue": "Blue",
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "pearlescent": "Pearlescent"
+      }
+    }
+  },
+  "category": "Furniture"
+}

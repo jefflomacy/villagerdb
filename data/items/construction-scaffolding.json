@@ -1,0 +1,17 @@
+{
+  "id": "construction-scaffolding",
+  "name": "Construction Scaffolding",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "green": "Green",
+        "white": "White",
+        "gray": "Gray",
+        "orange": "Orange"
+      }
+    }
+  },
+  "category": "Furniture"
+}

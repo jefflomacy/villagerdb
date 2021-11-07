@@ -1,0 +1,16 @@
+{
+  "id": "cardigan-school-uniform-top",
+  "name": "Cardigan School Uniform Top",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "cream": "Cream",
+        "gray": "Gray",
+        "navy-blue": "Navy blue",
+        "beige": "Beige"
+      }
+    }
+  },
+  "category": "Tops"
+}

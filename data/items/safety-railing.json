@@ -1,0 +1,18 @@
+{
+  "id": "safety-railing",
+  "name": "Safety Railing",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-brown": "Light brown",
+        "dark-brown": "Dark brown",
+        "yellow": "Yellow",
+        "green": "Green",
+        "black": "Black",
+        "silver": "Silver"
+      }
+    }
+  },
+  "category": "Furniture"
+}

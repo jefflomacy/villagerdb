@@ -1,0 +1,13 @@
+{
+  "id": "whole-wheat-flour",
+  "name": "Whole-wheat Flour",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "wheat": 5
+      }
+    }
+  },
+  "category": "Food"
+}

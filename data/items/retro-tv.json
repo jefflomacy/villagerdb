@@ -21,6 +21,13 @@
           "value": 1600
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "dark-brown": "Dark brown",
+        "brown": "Brown"
+      }
     }
   }
 }

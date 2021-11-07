@@ -1,0 +1,18 @@
+{
+  "id": "tiny-party-cap",
+  "name": "Tiny Party Cap",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "orange": "Orange",
+        "light-blue": "Light blue",
+        "yellow": "Yellow",
+        "green": "Green",
+        "purple": "Purple",
+        "red": "Red"
+      }
+    }
+  },
+  "category": "Hats"
+}

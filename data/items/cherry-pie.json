@@ -1,0 +1,15 @@
+{
+  "id": "cherry-pie",
+  "name": "Cherry Pie",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 3,
+        "sugar": 2,
+        "cherry": 2
+      }
+    }
+  },
+  "category": "Food"
+}

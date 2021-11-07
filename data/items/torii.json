@@ -1,0 +1,32 @@
+{
+  "id": "torii",
+  "name": "Torii",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "vermilion-text": "Vermilion & Text",
+        "vermilion-bell-bag": "Vermilion & Bell bag",
+        "vermilion-bug": "Vermilion & Bug",
+        "vermilion-fish": "Vermilion & Fish",
+        "vermilion-gyroid": "Vermilion & Gyroid",
+        "gray-text": "Gray & Text",
+        "gray-bell-bag": "Gray & Bell bag",
+        "gray-bug": "Gray & Bug",
+        "gray-fish": "Gray & Fish",
+        "gray-gyroid": "Gray & Gyroid",
+        "brown-text": "Brown & Text",
+        "brown-bell-bag": "Brown & Bell bag",
+        "brown-bug": "Brown & Bug",
+        "brown-fish": "Brown & Fish",
+        "brown-gyroid": "Brown & Gyroid",
+        "bronze-patina-text": "Bronze patina & Text",
+        "bronze-patina-bell-bag": "Bronze patina & Bell bag",
+        "bronze-patina-bug": "Bronze patina & Bug",
+        "bronze-patina-fish": "Bronze patina & Fish",
+        "bronze-patina-gyroid": "Bronze patina & Gyroid"
+      }
+    }
+  },
+  "category": "Furniture"
+}

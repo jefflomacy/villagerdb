@@ -1,0 +1,17 @@
+{
+  "id": "punk-hair-wig",
+  "name": "Punk Hair Wig",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "orange": "Orange",
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "green": "Green",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Hats"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "low-steel-island-counter",
+  "name": "Low Steel Island Counter",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "iron-nugget": 4
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "acorn-rug",
+  "name": "Acorn Rug",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "acorn": 6
+      }
+    }
+  },
+  "category": "Flooring"
+}

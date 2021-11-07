@@ -1,0 +1,16 @@
+{
+  "id": "plain-party-lights-arch",
+  "name": "Plain Party-lights Arch",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "dark-wood": "Dark wood",
+        "red-wood": "Red wood",
+        "light-wood": "Light wood",
+        "white-wood": "White wood"
+      }
+    }
+  },
+  "category": "Furniture"
+}

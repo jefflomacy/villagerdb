@@ -1,0 +1,16 @@
+{
+  "id": "warrior-armor",
+  "name": "Warrior Armor",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver": "Silver",
+        "brown": "Brown",
+        "black": "Black",
+        "gold": "Gold"
+      }
+    }
+  },
+  "category": "Tops"
+}

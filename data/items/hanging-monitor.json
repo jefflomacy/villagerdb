@@ -1,0 +1,36 @@
+{
+  "id": "hanging-monitor",
+  "name": "Hanging Monitor",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black-presentation": "Black & Presentation",
+        "black-video-meeting": "Black & Video meeting",
+        "black-currency-exchange": "Black & Currency exchange",
+        "black-security-footage": "Black & Security footage",
+        "black-weather-forecast": "Black & Weather forecast",
+        "black-operations-data": "Black & Operations data",
+        "black-sports-broadcast": "Black & Sports broadcast",
+        "black-error-screen": "Black & Error screen",
+        "white-presentation": "White & Presentation",
+        "white-video-meeting": "White & Video meeting",
+        "white-currency-exchange": "White & Currency exchange",
+        "white-security-footage": "White & Security footage",
+        "white-weather-forecast": "White & Weather forecast",
+        "white-operations-data": "White & Operations data",
+        "white-sports-broadcast": "White & Sports broadcast",
+        "white-error-screen": "White & Error screen",
+        "silver-presentation": "Silver & Presentation",
+        "silver-video-meeting": "Silver & Video meeting",
+        "silver-currency-exchange": "Silver & Currency exchange",
+        "silver-security-footage": "Silver & Security footage",
+        "silver-weather-forecast": "Silver & Weather forecast",
+        "silver-operations-data": "Silver & Operations data",
+        "silver-sports-broadcast": "Silver & Sports broadcast",
+        "silver-error-screen": "Silver & Error screen"
+      }
+    }
+  },
+  "category": "Furniture"
+}

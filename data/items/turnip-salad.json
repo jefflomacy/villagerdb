@@ -1,0 +1,14 @@
+{
+  "id": "turnip-salad",
+  "name": "Turnip Salad",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "turnip": 10,
+        "tomato": 1
+      }
+    }
+  },
+  "category": "Food"
+}

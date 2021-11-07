@@ -1,0 +1,17 @@
+{
+  "id": "elaborate-display-case",
+  "name": "Elaborate Display Case",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "dark-wood": "Dark wood",
+        "light-wood": "Light wood",
+        "white": "White",
+        "gold": "Gold"
+      }
+    }
+  },
+  "category": "Furniture"
+}

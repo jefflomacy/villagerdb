@@ -1,0 +1,21 @@
+{
+  "id": "shell-music-box",
+  "name": "Shell Music Box",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "giant-clam": 3,
+        "iron-nugget": 2
+      },
+      "variations": {
+        "pearlescent-white": "Pearlescent white",
+        "pearlescent-black": "Pearlescent black",
+        "pearlescent-pink": "Pearlescent pink",
+        "pearlescent-yellow": "Pearlescent yellow",
+        "pearlescent-purple": "Pearlescent purple"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "stonework-kitchen",
+  "name": "Stonework Kitchen",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "stone": 30,
+        "clay": 15,
+        "iron-nugget": 10
+      },
+      "variations": {
+        "gray": "Gray",
+        "beige": "Beige",
+        "white": "White",
+        "black": "Black",
+        "mossy": "Mossy"
+      }
+    }
+  },
+  "category": "Furniture"
+}

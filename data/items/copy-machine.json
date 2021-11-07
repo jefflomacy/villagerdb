@@ -21,6 +21,21 @@
           "value": 3200
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white-resource-document": "White & Resource document",
+        "white-text-document": "White & Text document",
+        "white-statement-of-delivery": "White & Statement of delivery",
+        "white-comic-manuscript": "White & Comic manuscript",
+        "white-sheet-music": "White & Sheet music",
+        "black-resource-document": "Black & Resource document",
+        "black-text-document": "Black & Text document",
+        "black-statement-of-delivery": "Black & Statement of delivery",
+        "black-comic-manuscript": "Black & Comic manuscript",
+        "black-sheet-music": "Black & Sheet music"
+      }
     }
   }
 }

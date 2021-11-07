@@ -27,6 +27,17 @@
           "value": 5
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "green": "Green",
+        "light-blue": "Light blue",
+        "white": "White",
+        "black": "Black",
+        "orange": "Orange"
+      }
     }
   }
 }

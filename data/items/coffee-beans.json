@@ -1,0 +1,17 @@
+{
+  "id": "coffee-beans",
+  "name": "Coffee Beans",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "original-blend": "Original blend",
+        "red-mocha": "Red (Mocha)",
+        "green-kilimanjaro": "Green (Kilimanjaro)",
+        "blue-blue-mountain": "Blue (Blue Mountain)",
+        "black-decaf": "Black (Decaf)"
+      }
+    }
+  },
+  "category": "Furniture"
+}

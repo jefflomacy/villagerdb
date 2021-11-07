@@ -25,6 +25,46 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white-nothing": "White & Nothing",
+        "white-good-manners-poster": "White & Good-manners poster",
+        "white-recruitment-flier": "White & Recruitment flier",
+        "white-travel-flier": "White & Travel flier",
+        "white-graffiti-stickers": "White & Graffiti & stickers",
+        "silver-nothing": "Silver & Nothing",
+        "silver-good-manners-poster": "Silver & Good-manners poster",
+        "silver-recruitment-flier": "Silver & Recruitment flier",
+        "silver-travel-flier": "Silver & Travel flier",
+        "silver-graffiti-stickers": "Silver & Graffiti & stickers",
+        "light-wood-nothing": "Light wood & Nothing",
+        "light-wood-good-manners-poster": "Light wood & Good-manners poster",
+        "light-wood-recruitment-flier": "Light wood & Recruitment flier",
+        "light-wood-travel-flier": "Light wood & Travel flier",
+        "light-wood-graffiti-stickers": "Light wood & Graffiti & stickers",
+        "dark-wood-nothing": "Dark wood & Nothing",
+        "dark-wood-good-manners-poster": "Dark wood & Good-manners poster",
+        "dark-wood-recruitment-flier": "Dark wood & Recruitment flier",
+        "dark-wood-travel-flier": "Dark wood & Travel flier",
+        "dark-wood-graffiti-stickers": "Dark wood & Graffiti & stickers",
+        "blue-nothing": "Blue & Nothing",
+        "blue-good-manners-poster": "Blue & Good-manners poster",
+        "blue-recruitment-flier": "Blue & Recruitment flier",
+        "blue-travel-flier": "Blue & Travel flier",
+        "blue-graffiti-stickers": "Blue & Graffiti & stickers",
+        "pink-nothing": "Pink & Nothing",
+        "pink-good-manners-poster": "Pink & Good-manners poster",
+        "pink-recruitment-flier": "Pink & Recruitment flier",
+        "pink-travel-flier": "Pink & Travel flier",
+        "pink-graffiti-stickers": "Pink & Graffiti & stickers",
+        "black-nothing": "Black & Nothing",
+        "black-good-manners-poster": "Black & Good-manners poster",
+        "black-recruitment-flier": "Black & Recruitment flier",
+        "black-travel-flier": "Black & Travel flier",
+        "black-graffiti-stickers": "Black & Graffiti & stickers"
+      }
     }
   }
 }

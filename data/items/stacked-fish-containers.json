@@ -1,0 +1,63 @@
+{
+  "id": "stacked-fish-containers",
+  "name": "Stacked Fish Containers",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "fish-container": 3
+      },
+      "variations": {
+        "light-blue": "Light blue",
+        "light-blue-fish": "Light blue & Fish",
+        "light-blue-anchor": "Light blue & Anchor",
+        "light-blue-sakana-fish": "Light blue & Sakana (Fish)",
+        "light-blue-scallop": "Light blue & Scallop",
+        "light-blue-logo": "Light blue & Logo",
+        "yellow": "Yellow",
+        "yellow-fish": "Yellow & Fish",
+        "yellow-anchor": "Yellow & Anchor",
+        "yellow-sakana-fish": "Yellow & Sakana (Fish)",
+        "yellow-scallop": "Yellow & Scallop",
+        "yellow-logo": "Yellow & Logo",
+        "green": "Green",
+        "green-fish": "Green & Fish",
+        "green-anchor": "Green & Anchor",
+        "green-sakana-fish": "Green & Sakana (Fish)",
+        "green-scallop": "Green & Scallop",
+        "green-logo": "Green & Logo",
+        "orange": "Orange",
+        "orange-fish": "Orange & Fish",
+        "orange-anchor": "Orange & Anchor",
+        "orange-sakana-fish": "Orange & Sakana (Fish)",
+        "orange-scallop": "Orange & Scallop",
+        "orange-logo": "Orange & Logo",
+        "gray": "Gray",
+        "gray-fish": "Gray & Fish",
+        "gray-anchor": "Gray & Anchor",
+        "gray-sakana-fish": "Gray & Sakana (Fish)",
+        "gray-scallop": "Gray & Scallop",
+        "gray-logo": "Gray & Logo",
+        "white": "White",
+        "white-fish": "White & Fish",
+        "white-anchor": "White & Anchor",
+        "white-sakana-fish": "White & Sakana (Fish)",
+        "white-scallop": "White & Scallop",
+        "white-logo": "White & Logo",
+        "red": "Red",
+        "red-fish": "Red & Fish",
+        "red-anchor": "Red & Anchor",
+        "red-sakana-fish": "Red & Sakana (Fish)",
+        "red-scallop": "Red & Scallop",
+        "red-logo": "Red & Logo",
+        "blue": "Blue",
+        "blue-fish": "Blue & Fish",
+        "blue-anchor": "Blue & Anchor",
+        "blue-sakana-fish": "Blue & Sakana (Fish)",
+        "blue-scallop": "Blue & Scallop",
+        "blue-logo": "Blue & Logo"
+      }
+    }
+  },
+  "category": "Furniture"
+}

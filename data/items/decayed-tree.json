@@ -1,0 +1,19 @@
+{
+  "id": "decayed-tree",
+  "name": "Decayed Tree",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "hardwood": 10
+      },
+      "variations": {
+        "brown": "Brown",
+        "dark-brown": "Dark brown",
+        "white": "White",
+        "mossy": "Mossy"
+      }
+    }
+  },
+  "category": "Furniture"
+}

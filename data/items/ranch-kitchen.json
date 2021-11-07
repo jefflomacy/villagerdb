@@ -1,0 +1,19 @@
+{
+  "id": "ranch-kitchen",
+  "name": "Ranch Kitchen",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "natural": "Natural",
+        "dark-brown": "Dark brown",
+        "white": "White",
+        "blue": "Blue",
+        "pink": "Pink",
+        "green": "Green",
+        "vintage": "Vintage"
+      }
+    }
+  },
+  "category": "Furniture"
+}

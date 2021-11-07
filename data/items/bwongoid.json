@@ -1,0 +1,16 @@
+{
+  "id": "bwongoid",
+  "name": "Bwongoid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown": "Brown",
+        "yellow": "Yellow",
+        "green": "Green",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

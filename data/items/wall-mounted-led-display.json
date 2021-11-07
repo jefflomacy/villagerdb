@@ -1,0 +1,20 @@
+{
+  "id": "wall-mounted-led-display",
+  "name": "Wall-mounted LED Display",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "star": "Star",
+        "heart": "Heart",
+        "check": "Check",
+        "cancel": "Cancel",
+        "drink": "Drink",
+        "microphone": "Microphone",
+        "open": "Open",
+        "smile": "Smile"
+      }
+    }
+  },
+  "category": "Furniture"
+}

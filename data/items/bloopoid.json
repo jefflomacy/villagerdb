@@ -1,0 +1,16 @@
+{
+  "id": "bloopoid",
+  "name": "Bloopoid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "red": "Red",
+        "green": "Green",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

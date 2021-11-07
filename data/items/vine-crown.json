@@ -1,0 +1,13 @@
+{
+  "id": "vine-crown",
+  "name": "Vine Crown",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "vine": 3
+      }
+    }
+  },
+  "category": "Hats"
+}

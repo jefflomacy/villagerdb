@@ -1,0 +1,13 @@
+{
+  "id": "pumpkin-soup",
+  "name": "Pumpkin Soup",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "orange-pumpkin": 3
+      }
+    }
+  },
+  "category": "Food"
+}

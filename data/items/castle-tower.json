@@ -1,0 +1,52 @@
+{
+  "id": "castle-tower",
+  "name": "Castle Tower",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gray": "Gray",
+        "gray-crown": "Gray & Crown",
+        "gray-swords": "Gray & Swords",
+        "gray-bird": "Gray & Bird",
+        "gray-tree": "Gray & Tree",
+        "ivory": "Ivory",
+        "ivory-crown": "Ivory & Crown",
+        "ivory-swords": "Ivory & Swords",
+        "ivory-bird": "Ivory & Bird",
+        "ivory-tree": "Ivory & Tree",
+        "brown": "Brown",
+        "brown-crown": "Brown & Crown",
+        "brown-swords": "Brown & Swords",
+        "brown-bird": "Brown & Bird",
+        "brown-tree": "Brown & Tree",
+        "dark-gray": "Dark gray",
+        "dark-gray-crown": "Dark gray & Crown",
+        "dark-gray-swords": "Dark gray & Swords",
+        "dark-gray-bird": "Dark gray & Bird",
+        "dark-gray-tree": "Dark gray & Tree",
+        "pink-beige": "Pink-beige",
+        "pink-beige-crown": "Pink-beige & Crown",
+        "pink-beige-swords": "Pink-beige & Swords",
+        "pink-beige-bird": "Pink-beige & Bird",
+        "pink-beige-tree": "Pink-beige & Tree",
+        "blue-white": "Blue & white",
+        "blue-white-crown": "Blue & white & Crown",
+        "blue-white-swords": "Blue & white & Swords",
+        "blue-white-bird": "Blue & white & Bird",
+        "blue-white-tree": "Blue & white & Tree",
+        "light-brown": "Light brown",
+        "light-brown-crown": "Light brown & Crown",
+        "light-brown-swords": "Light brown & Swords",
+        "light-brown-bird": "Light brown & Bird",
+        "light-brown-tree": "Light brown & Tree",
+        "damaged": "Damaged",
+        "damaged-crown": "Damaged & Crown",
+        "damaged-swords": "Damaged & Swords",
+        "damaged-bird": "Damaged & Bird",
+        "damaged-tree": "Damaged & Tree"
+      }
+    }
+  },
+  "category": "Furniture"
+}

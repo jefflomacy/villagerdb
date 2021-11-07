@@ -1,0 +1,13 @@
+{
+  "id": "round-vine-rug",
+  "name": "Round Vine Rug",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "vine": 4
+      }
+    }
+  },
+  "category": "Flooring"
+}

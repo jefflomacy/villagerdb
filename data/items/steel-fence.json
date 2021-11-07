@@ -1,0 +1,20 @@
+{
+  "id": "steel-fence",
+  "name": "Steel Fence",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "red": "Red",
+        "yellow": "Yellow",
+        "green": "Green",
+        "black": "Black",
+        "white": "White",
+        "silver": "Silver",
+        "damaged": "Damaged"
+      }
+    }
+  },
+  "category": "Furniture"
+}

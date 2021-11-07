@@ -1,0 +1,14 @@
+{
+  "id": "golden-piggy-bank",
+  "name": "Golden Piggy Bank",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gold-nugget": 1,
+        "piggy-bank": 1
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tomato-curry",
+  "name": "Tomato Curry",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 3,
+        "tomato": 3
+      }
+    }
+  },
+  "category": "Food"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hanging-clothing-rack",
+  "name": "Hanging Clothing Rack",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-wood": "Light wood",
+        "dark-wood": "Dark wood",
+        "white-wood": "White wood"
+      }
+    }
+  },
+  "category": "Furniture"
+}

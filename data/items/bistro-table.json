@@ -15,6 +15,43 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-wood-ivory": "Light wood & Ivory",
+        "light-wood-navy-blue": "Light wood & Navy blue",
+        "light-wood-green": "Light wood & Green",
+        "light-wood-red": "Light wood & Red",
+        "light-wood-ochre": "Light wood & Ochre",
+        "light-wood-yellow": "Light wood & Yellow",
+        "light-wood-pink": "Light wood & Pink",
+        "light-wood-light-blue": "Light wood & Light blue",
+        "natural-wood-ivory": "Natural wood & Ivory",
+        "natural-wood-navy-blue": "Natural wood & Navy blue",
+        "natural-wood-green": "Natural wood & Green",
+        "natural-wood-red": "Natural wood & Red",
+        "natural-wood-ochre": "Natural wood & Ochre",
+        "natural-wood-yellow": "Natural wood & Yellow",
+        "natural-wood-pink": "Natural wood & Pink",
+        "natural-wood-light-blue": "Natural wood & Light blue",
+        "black-ivory": "Black & Ivory",
+        "black-navy-blue": "Black & Navy blue",
+        "black-green": "Black & Green",
+        "black-red": "Black & Red",
+        "black-ochre": "Black & Ochre",
+        "black-yellow": "Black & Yellow",
+        "black-pink": "Black & Pink",
+        "black-light-blue": "Black & Light blue",
+        "white-ivory": "White & Ivory",
+        "white-navy-blue": "White & Navy blue",
+        "white-green": "White & Green",
+        "white-red": "White & Red",
+        "white-ochre": "White & Ochre",
+        "white-yellow": "White & Yellow",
+        "white-pink": "White & Pink",
+        "white-light-blue": "White & Light blue"
+      }
     }
   }
 }

@@ -1,0 +1,14 @@
+{
+  "id": "department-store-paper-bag",
+  "name": "Department-store Paper Bag",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "red": "Red"
+      }
+    }
+  },
+  "category": "Accessories"
+}

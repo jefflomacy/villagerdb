@@ -1,0 +1,20 @@
+{
+  "id": "die",
+  "name": "Die",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "black": "Black",
+        "red": "Red",
+        "yellow": "Yellow",
+        "green": "Green",
+        "blue": "Blue",
+        "wood-grain": "Wood grain",
+        "metal": "Metal"
+      }
+    }
+  },
+  "category": "Furniture"
+}

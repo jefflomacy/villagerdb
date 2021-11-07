@@ -1,0 +1,23 @@
+{
+  "id": "pile-of-cardboard-boxes",
+  "name": "Pile Of Cardboard Boxes",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "cardboard-box": 3
+      },
+      "variations": {
+        "plain": "Plain",
+        "labeled": "Labeled",
+        "pumpkins": "Pumpkins",
+        "tomatoes": "Tomatoes",
+        "potatoes": "Potatoes",
+        "carrots": "Carrots",
+        "sugarcane": "Sugarcane",
+        "flour": "Flour"
+      }
+    }
+  },
+  "category": "Furniture"
+}

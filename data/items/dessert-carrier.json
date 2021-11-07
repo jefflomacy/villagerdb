@@ -1,0 +1,20 @@
+{
+  "id": "dessert-carrier",
+  "name": "Dessert Carrier",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "plain-white": "Plain white",
+        "light-brown": "Light brown",
+        "red": "Red",
+        "green": "Green",
+        "dark-brown": "Dark brown",
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Furniture"
+}

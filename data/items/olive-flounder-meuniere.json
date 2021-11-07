@@ -1,0 +1,14 @@
+{
+  "id": "olive-flounder-meuniere",
+  "name": "Olive-flounder Meuniere",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "olive-flounder": 1,
+        "flour": 2
+      }
+    }
+  },
+  "category": "Food"
+}

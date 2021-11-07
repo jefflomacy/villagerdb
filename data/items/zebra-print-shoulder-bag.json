@@ -1,0 +1,14 @@
+{
+  "id": "zebra-print-shoulder-bag",
+  "name": "Zebra-print Shoulder Bag",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "yellow": "Yellow"
+      }
+    }
+  },
+  "category": "Accessories"
+}

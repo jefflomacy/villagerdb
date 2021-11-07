@@ -26,6 +26,14 @@
           "value": 5
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "canned-fruits-veggies": "Canned fruits & veggies",
+        "canned-fish": "Canned fish",
+        "canned-snacks": "Canned snacks"
+      }
     }
   }
 }

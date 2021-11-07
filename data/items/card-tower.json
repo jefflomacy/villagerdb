@@ -16,6 +16,14 @@
       "sources": [
         "GracieGrace (during sales)"
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "red": "Red",
+        "green": "Green"
+      }
     }
   }
 }

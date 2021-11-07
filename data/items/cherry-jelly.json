@@ -1,0 +1,13 @@
+{
+  "id": "cherry-jelly",
+  "name": "Cherry Jelly",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "cherry": 2
+      }
+    }
+  },
+  "category": "Food"
+}

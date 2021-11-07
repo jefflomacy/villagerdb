@@ -1,0 +1,14 @@
+{
+  "id": "spaghetti-marinara",
+  "name": "Spaghetti Marinara",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 3,
+        "tomato-puree": 1
+      }
+    }
+  },
+  "category": "Food"
+}

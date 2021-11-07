@@ -1,0 +1,18 @@
+{
+  "id": "oinkoid",
+  "name": "Oinkoid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "beige": "Beige",
+        "brown": "Brown",
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "pink": "Pink",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

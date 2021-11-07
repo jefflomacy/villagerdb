@@ -1,0 +1,16 @@
+{
+  "id": "thwopoid",
+  "name": "Thwopoid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "pink": "Pink",
+        "beige": "Beige",
+        "green": "Green",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

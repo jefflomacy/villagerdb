@@ -1,0 +1,16 @@
+{
+  "id": "barista-uniform",
+  "name": "Barista Uniform",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "brown": "Brown",
+        "green": "Green",
+        "chestnut": "Chestnut"
+      }
+    }
+  },
+  "category": "Tops"
+}

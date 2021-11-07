@@ -1,0 +1,14 @@
+{
+  "id": "pretzels",
+  "name": "Pretzels",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 1,
+        "sugar": 1
+      }
+    }
+  },
+  "category": "Food"
+}

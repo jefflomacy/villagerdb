@@ -1,0 +1,16 @@
+{
+  "id": "azumaya-gazebo",
+  "name": "Azumaya Gazebo",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "natural": "Natural",
+        "light-brown": "Light brown",
+        "dark-brown": "Dark brown",
+        "mossy": "Mossy"
+      }
+    }
+  },
+  "category": "Furniture"
+}

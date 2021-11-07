@@ -1,0 +1,19 @@
+{
+  "id": "wood-shade-lamp",
+  "name": "Wood-shade Lamp",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "natural-wood": "Natural wood",
+        "light-wood": "Light wood",
+        "dark-wood": "Dark wood",
+        "gray": "Gray",
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "pink": "Pink"
+      }
+    }
+  },
+  "category": "Furniture"
+}

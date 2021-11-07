@@ -1,0 +1,14 @@
+{
+  "id": "golden-gear-apparatus",
+  "name": "Golden Gear Apparatus",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gold-nugget": 2,
+        "gear-apparatus": 1
+      }
+    }
+  },
+  "category": "Furniture"
+}

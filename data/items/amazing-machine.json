@@ -23,6 +23,19 @@
           "value": 3600
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver": "Silver",
+        "white": "White",
+        "black": "Black",
+        "green": "Green",
+        "blue": "Blue",
+        "red": "Red",
+        "yellow": "Yellow",
+        "damaged": "Damaged"
+      }
     }
   }
 }

@@ -1,0 +1,20 @@
+{
+  "id": "tabletop-pop-display",
+  "name": "Tabletop POP Display",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "free": "FREE",
+        "50-off": "50% Off",
+        "starburst": "Starburst",
+        "finger": "Finger",
+        "cloud": "Cloud",
+        "round": "Round",
+        "star": "Star",
+        "heart": "Heart"
+      }
+    }
+  },
+  "category": "Furniture"
+}

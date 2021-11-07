@@ -1,0 +1,13 @@
+{
+  "id": "dark-bamboo-bath-mat",
+  "name": "Dark Bamboo Bath Mat",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "bamboo-piece": 3
+      }
+    }
+  },
+  "category": "Flooring"
+}

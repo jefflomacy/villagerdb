@@ -1,0 +1,17 @@
+{
+  "id": "silver-confetti-blower",
+  "name": "Silver Confetti Blower",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver": "Silver",
+        "gold": "Gold",
+        "blue": "Blue",
+        "pink": "Pink",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ribbons-hearts-knit-dress",
+  "name": "Ribbons & Hearts Knit Dress",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "purple": "Purple",
+        "light-blue": "Light blue",
+        "black": "Black",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Dresses"
+}

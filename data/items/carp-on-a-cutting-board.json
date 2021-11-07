@@ -1,0 +1,19 @@
+{
+  "id": "carp-on-a-cutting-board",
+  "name": "Carp On A Cutting Board",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "carp": 1,
+        "wood": 1
+      },
+      "variations": {
+        "black": "Black",
+        "yellow": "Yellow",
+        "red": "Red"
+      }
+    }
+  },
+  "category": "Furniture"
+}

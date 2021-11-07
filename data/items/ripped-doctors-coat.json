@@ -1,0 +1,14 @@
+{
+  "id": "ripped-doctors-coat",
+  "name": "Ripped Doctor's Coat",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red-necktie": "Red necktie",
+        "purple-necktie": "Purple necktie"
+      }
+    }
+  },
+  "category": "Tops"
+}

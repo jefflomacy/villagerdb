@@ -1,0 +1,15 @@
+{
+  "id": "tropical-turban",
+  "name": "Tropical Turban",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "green": "Green",
+        "red": "Red",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Hats"
+}

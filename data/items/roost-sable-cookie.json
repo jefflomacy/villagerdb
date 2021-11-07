@@ -1,0 +1,14 @@
+{
+  "id": "roost-sable-cookie",
+  "name": "Roost Sable Cookie",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 1,
+        "sugar": 2
+      }
+    }
+  },
+  "category": "Food"
+}

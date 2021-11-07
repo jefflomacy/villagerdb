@@ -1,0 +1,19 @@
+{
+  "id": "rumbloid",
+  "name": "Rumbloid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "purple": "Purple",
+        "yellow": "Yellow",
+        "green": "Green",
+        "pink": "Pink",
+        "blue": "Blue",
+        "white": "White",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

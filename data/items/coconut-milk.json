@@ -1,0 +1,13 @@
+{
+  "id": "coconut-milk",
+  "name": "Coconut Milk",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "coconut": 2
+      }
+    }
+  },
+  "category": "Food"
+}

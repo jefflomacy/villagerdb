@@ -15,6 +15,16 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver": "Silver",
+        "gray": "Gray",
+        "white": "White",
+        "colorful": "Colorful",
+        "black": "Black"
+      }
     }
   }
 }

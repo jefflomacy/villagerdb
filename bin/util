@@ -154,6 +154,9 @@ async function buildSearchIndex() {
                 collab: { // aggregate, game-independent
                     type: 'keyword'
                 },
+                version: { // aggregate, game-independent, TODO fix to game-dep later
+                    type: 'keyword'
+                },
                 tag: { // aggregate, game-dependent
                     type: 'nested',
                     properties: {
@@ -434,6 +437,11 @@ async function indexItems(es, newIndexName) {
                     game: game,
                     value: parsed.games[game].set
                 });
+            }
+
+            if (parsed.games[game].version) {
+                // TODO: This is badly broken and must be made game dep. FIX later
+                document.version = parsed.games[game].version;
             }
 
             const interiorThemes = parsed.games[game].interiorThemes;

@@ -1,0 +1,14 @@
+{
+  "id": "square-shoulder-bag",
+  "name": "Square Shoulder Bag",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "beige": "Beige"
+      }
+    }
+  },
+  "category": "Accessories"
+}

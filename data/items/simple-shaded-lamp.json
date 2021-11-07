@@ -1,0 +1,19 @@
+{
+  "id": "simple-shaded-lamp",
+  "name": "Simple Shaded Lamp",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "white": "White",
+        "red": "Red",
+        "yellow": "Yellow",
+        "pink": "Pink",
+        "blue": "Blue",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Furniture"
+}

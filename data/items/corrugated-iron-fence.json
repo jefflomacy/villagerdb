@@ -1,0 +1,14 @@
+{
+  "id": "corrugated-iron-fence",
+  "name": "Corrugated Iron Fence",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "iron-nugget": 3,
+        "hardwood": 3
+      }
+    }
+  },
+  "category": "Furniture"
+}

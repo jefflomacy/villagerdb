@@ -1,0 +1,19 @@
+{
+  "id": "deep-fryer",
+  "name": "Deep Fryer",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "green": "Green",
+        "yellow": "Yellow",
+        "black": "Black",
+        "blue": "Blue",
+        "white": "White",
+        "orange": "Orange"
+      }
+    }
+  },
+  "category": "Furniture"
+}

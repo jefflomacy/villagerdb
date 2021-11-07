@@ -1,0 +1,17 @@
+{
+  "id": "cast",
+  "name": "Cast",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "black": "Black",
+        "pink": "Pink",
+        "green": "Green",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Shoes"
+}

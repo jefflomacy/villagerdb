@@ -1,0 +1,40 @@
+{
+  "id": "dispenser",
+  "name": "Dispenser",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "white-natural": "White & Natural",
+        "white-cool": "White & Cool",
+        "white-cute": "White & Cute",
+        "brown": "Brown",
+        "brown-natural": "Brown & Natural",
+        "brown-cool": "Brown & Cool",
+        "brown-cute": "Brown & Cute",
+        "green": "Green",
+        "green-natural": "Green & Natural",
+        "green-cool": "Green & Cool",
+        "green-cute": "Green & Cute",
+        "blue": "Blue",
+        "blue-natural": "Blue & Natural",
+        "blue-cool": "Blue & Cool",
+        "blue-cute": "Blue & Cute",
+        "pink": "Pink",
+        "pink-natural": "Pink & Natural",
+        "pink-cool": "Pink & Cool",
+        "pink-cute": "Pink & Cute",
+        "purple": "Purple",
+        "purple-natural": "Purple & Natural",
+        "purple-cool": "Purple & Cool",
+        "purple-cute": "Purple & Cute",
+        "silver": "Silver",
+        "silver-natural": "Silver & Natural",
+        "silver-cool": "Silver & Cool",
+        "silver-cute": "Silver & Cute"
+      }
+    }
+  },
+  "category": "Furniture"
+}

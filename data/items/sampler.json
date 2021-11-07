@@ -1,0 +1,17 @@
+{
+  "id": "sampler",
+  "name": "Sampler",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-gray": "Light gray",
+        "blue-black": "Blue & black",
+        "colorful": "Colorful",
+        "camouflage": "Camouflage",
+        "brown": "Brown"
+      }
+    }
+  },
+  "category": "Furniture"
+}

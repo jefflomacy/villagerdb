@@ -1,0 +1,44 @@
+{
+  "id": "utility-wagon",
+  "name": "Utility Wagon",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black-green": "Black & Green",
+        "black-yellow": "Black & Yellow",
+        "black-red": "Black & Red",
+        "black-blue": "Black & Blue",
+        "black-orange": "Black & Orange",
+        "black-brown": "Black & Brown",
+        "black-white": "Black & White",
+        "black-pink": "Black & Pink",
+        "silver-green": "Silver & Green",
+        "silver-yellow": "Silver & Yellow",
+        "silver-red": "Silver & Red",
+        "silver-blue": "Silver & Blue",
+        "silver-orange": "Silver & Orange",
+        "silver-brown": "Silver & Brown",
+        "silver-white": "Silver & White",
+        "silver-pink": "Silver & Pink",
+        "red-green": "Red & Green",
+        "red-yellow": "Red & Yellow",
+        "red-red": "Red & Red",
+        "red-blue": "Red & Blue",
+        "red-orange": "Red & Orange",
+        "red-brown": "Red & Brown",
+        "red-white": "Red & White",
+        "red-pink": "Red & Pink",
+        "green-green": "Green & Green",
+        "green-yellow": "Green & Yellow",
+        "green-red": "Green & Red",
+        "green-blue": "Green & Blue",
+        "green-orange": "Green & Orange",
+        "green-brown": "Green & Brown",
+        "green-white": "Green & White",
+        "green-pink": "Green & Pink"
+      }
+    }
+  },
+  "category": "Furniture"
+}

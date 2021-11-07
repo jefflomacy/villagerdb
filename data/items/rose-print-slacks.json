@@ -1,0 +1,16 @@
+{
+  "id": "rose-print-slacks",
+  "name": "Rose-print Slacks",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red-roses-on-black": "Red roses on black",
+        "orange-roses-on-blue": "Orange roses on blue",
+        "blue-roses-on-white": "Blue roses on white",
+        "yellow-roses-on-white": "Yellow roses on white"
+      }
+    }
+  },
+  "category": "Bottoms"
+}

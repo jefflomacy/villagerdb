@@ -1,0 +1,14 @@
+{
+  "id": "poke",
+  "name": "Poke",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "salmon": 1,
+        "tomato": 1
+      }
+    }
+  },
+  "category": "Food"
+}

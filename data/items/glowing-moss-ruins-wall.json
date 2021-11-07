@@ -1,0 +1,14 @@
+{
+  "id": "glowing-moss-ruins-wall",
+  "name": "Glowing-moss Ruins Wall",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss": 10,
+        "ruins-wall": 1
+      }
+    }
+  },
+  "category": "Wallpaper"
+}

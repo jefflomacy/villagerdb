@@ -1,0 +1,16 @@
+{
+  "id": "cold-sleep-pod",
+  "name": "Cold Sleep Pod",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "green": "Green",
+        "orange": "Orange",
+        "red": "Red"
+      }
+    }
+  },
+  "category": "Furniture"
+}

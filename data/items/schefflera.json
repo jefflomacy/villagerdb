@@ -1,0 +1,19 @@
+{
+  "id": "schefflera",
+  "name": "Schefflera",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "white": "White",
+        "green": "Green",
+        "brown": "Brown",
+        "beige": "Beige",
+        "gray": "Gray",
+        "terra-cotta": "Terra-cotta"
+      }
+    }
+  },
+  "category": "Furniture"
+}

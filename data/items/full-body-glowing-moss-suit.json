@@ -1,0 +1,13 @@
+{
+  "id": "full-body-glowing-moss-suit",
+  "name": "Full-body Glowing-moss Suit",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss": 15
+      }
+    }
+  },
+  "category": "Dresses"
+}

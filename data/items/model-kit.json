@@ -1,0 +1,19 @@
+{
+  "id": "model-kit",
+  "name": "Model Kit",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "white": "White",
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "green": "Green",
+        "black": "Black",
+        "unpainted": "Unpainted"
+      }
+    }
+  },
+  "category": "Furniture"
+}

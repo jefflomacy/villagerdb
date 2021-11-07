@@ -17,6 +17,17 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-wood": "Light wood",
+        "natural-wood": "Natural wood",
+        "dark-wood": "Dark wood",
+        "black": "Black",
+        "red": "Red",
+        "vintage-wood": "Vintage wood"
+      }
     }
   }
 }

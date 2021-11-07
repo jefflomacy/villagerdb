@@ -1,0 +1,40 @@
+{
+  "id": "makeup-pouch",
+  "name": "Makeup Pouch",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "orange-ivory": "Orange & Ivory",
+        "orange-red": "Orange & Red",
+        "orange-pale-blue": "Orange & Pale blue",
+        "orange-black": "Orange & Black",
+        "orange-pink": "Orange & Pink",
+        "orange-light-green": "Orange & Light green",
+        "orange-purple": "Orange & Purple",
+        "red-ivory": "Red & Ivory",
+        "red-red": "Red & Red",
+        "red-pale-blue": "Red & Pale blue",
+        "red-black": "Red & Black",
+        "red-pink": "Red & Pink",
+        "red-light-green": "Red & Light green",
+        "red-purple": "Red & Purple",
+        "pink-ivory": "Pink & Ivory",
+        "pink-red": "Pink & Red",
+        "pink-pale-blue": "Pink & Pale blue",
+        "pink-black": "Pink & Black",
+        "pink-pink": "Pink & Pink",
+        "pink-light-green": "Pink & Light green",
+        "pink-purple": "Pink & Purple",
+        "purple-ivory": "Purple & Ivory",
+        "purple-red": "Purple & Red",
+        "purple-pale-blue": "Purple & Pale blue",
+        "purple-black": "Purple & Black",
+        "purple-pink": "Purple & Pink",
+        "purple-light-green": "Purple & Light green",
+        "purple-purple": "Purple & Purple"
+      }
+    }
+  },
+  "category": "Furniture"
+}

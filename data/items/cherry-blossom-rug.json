@@ -1,0 +1,13 @@
+{
+  "id": "cherry-blossom-rug",
+  "name": "Cherry-blossom Rug",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "cherry-blossom-petal": 6
+      }
+    }
+  },
+  "category": "Flooring"
+}

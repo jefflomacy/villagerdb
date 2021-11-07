@@ -1,0 +1,13 @@
+{
+  "id": "tomates-al-ajillo",
+  "name": "Tomates Al Ajillo",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "tomato": 3
+      }
+    }
+  },
+  "category": "Food"
+}

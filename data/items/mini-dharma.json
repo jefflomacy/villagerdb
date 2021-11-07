@@ -22,6 +22,19 @@
           "value": 800
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "blue": "Blue",
+        "green": "Green",
+        "light-pink": "Light pink",
+        "black": "Black",
+        "white": "White",
+        "yellow": "Yellow",
+        "goukaku-success": "Goukaku (Success)"
+      }
     }
   }
 }

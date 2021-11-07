@@ -1,0 +1,17 @@
+{
+  "id": "bankers-lamp",
+  "name": "Banker's Lamp",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "green": "Green",
+        "blue": "Blue",
+        "white": "White",
+        "black": "Black",
+        "orange": "Orange"
+      }
+    }
+  },
+  "category": "Furniture"
+}

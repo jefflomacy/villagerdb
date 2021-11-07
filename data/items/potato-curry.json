@@ -1,0 +1,14 @@
+{
+  "id": "potato-curry",
+  "name": "Potato Curry",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 3,
+        "potato": 3
+      }
+    }
+  },
+  "category": "Food"
+}

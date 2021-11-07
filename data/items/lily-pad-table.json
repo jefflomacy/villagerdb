@@ -29,6 +29,14 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "green": "Green",
+        "yellow": "Yellow",
+        "orange": "Orange"
+      }
     }
   }
 }

@@ -1,0 +1,15 @@
+{
+  "id": "veggie-crepe",
+  "name": "Veggie Crepe",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 2,
+        "tomato": 1,
+        "orange-pumpkin": 1
+      }
+    }
+  },
+  "category": "Food"
+}

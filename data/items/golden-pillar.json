@@ -1,0 +1,13 @@
+{
+  "id": "golden-pillar",
+  "name": "Golden Pillar",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gold-nugget": 4
+      }
+    }
+  },
+  "category": "Furniture"
+}

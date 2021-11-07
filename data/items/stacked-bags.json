@@ -1,0 +1,19 @@
+{
+  "id": "stacked-bags",
+  "name": "Stacked Bags",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "plain-white": "Plain white",
+        "plain-black": "Plain black",
+        "plain-green": "Plain green",
+        "plain-light-brown": "Plain light brown",
+        "plant-soil": "Plant soil",
+        "lime": "Lime",
+        "beans": "Beans"
+      }
+    }
+  },
+  "category": "Furniture"
+}

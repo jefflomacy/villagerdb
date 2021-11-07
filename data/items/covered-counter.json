@@ -1,0 +1,16 @@
+{
+  "id": "covered-counter",
+  "name": "Covered Counter",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "dark-wood": "Dark wood",
+        "natural-wood": "Natural wood",
+        "white": "White",
+        "pink": "Pink"
+      }
+    }
+  },
+  "category": "Furniture"
+}

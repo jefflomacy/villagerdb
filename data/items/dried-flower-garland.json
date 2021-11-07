@@ -1,0 +1,18 @@
+{
+  "id": "dried-flower-garland",
+  "name": "Dried-flower Garland",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "orange": "Orange",
+        "yellow": "Yellow",
+        "pink": "Pink",
+        "blue": "Blue",
+        "white": "White",
+        "colorful": "Colorful"
+      }
+    }
+  },
+  "category": "Furniture"
+}

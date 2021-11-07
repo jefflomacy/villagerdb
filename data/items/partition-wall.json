@@ -1,0 +1,14 @@
+{
+  "id": "partition-wall",
+  "name": "Partition Wall",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "wood": 3,
+        "clay": 3
+      }
+    }
+  },
+  "category": "Furniture"
+}

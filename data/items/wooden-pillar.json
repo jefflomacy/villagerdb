@@ -1,0 +1,20 @@
+{
+  "id": "wooden-pillar",
+  "name": "Wooden Pillar",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "wood": 2,
+        "hardwood": 2,
+        "softwood": 2
+      },
+      "variations": {
+        "light-wood": "Light wood",
+        "natural-wood": "Natural wood",
+        "dark-wood": "Dark wood"
+      }
+    }
+  },
+  "category": "Furniture"
+}

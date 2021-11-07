@@ -1,0 +1,16 @@
+{
+  "id": "neon-shades",
+  "name": "Neon Shades",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-blue-pink": "Light blue & pink",
+        "pink-yellow": "Pink & yellow",
+        "orange-lime": "Orange & lime",
+        "lime-purple": "Lime & purple"
+      }
+    }
+  },
+  "category": "Accessories"
+}

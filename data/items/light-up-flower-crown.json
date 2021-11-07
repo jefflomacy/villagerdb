@@ -1,0 +1,16 @@
+{
+  "id": "light-up-flower-crown",
+  "name": "Light-up Flower Crown",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "pink": "Pink",
+        "light-blue": "Light blue",
+        "purple": "Purple",
+        "yellow": "Yellow"
+      }
+    }
+  },
+  "category": "Hats"
+}

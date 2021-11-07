@@ -1,0 +1,15 @@
+{
+  "id": "pumpkin-scones",
+  "name": "Pumpkin Scones",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "whole-wheat-flour": 2,
+        "sugar": 1,
+        "orange-pumpkin": 2
+      }
+    }
+  },
+  "category": "Food"
+}

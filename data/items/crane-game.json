@@ -21,6 +21,19 @@
           "value": 1680
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "yellow": "Yellow",
+        "green": "Green",
+        "blue": "Blue",
+        "pink": "Pink",
+        "light-blue": "Light blue",
+        "white": "White",
+        "black": "Black"
+      }
     }
   }
 }

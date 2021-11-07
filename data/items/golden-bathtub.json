@@ -1,0 +1,14 @@
+{
+  "id": "golden-bathtub",
+  "name": "Golden Bathtub",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gold-nugget": 2,
+        "square-bathtub": 1
+      }
+    }
+  },
+  "category": "Furniture"
+}

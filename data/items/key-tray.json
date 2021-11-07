@@ -1,0 +1,16 @@
+{
+  "id": "key-tray",
+  "name": "Key Tray",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-brown": "Light brown",
+        "silver": "Silver",
+        "pink": "Pink",
+        "brass": "Brass"
+      }
+    }
+  },
+  "category": "Furniture"
+}

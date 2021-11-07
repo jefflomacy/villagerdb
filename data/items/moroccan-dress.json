@@ -1,0 +1,17 @@
+{
+  "id": "moroccan-dress",
+  "name": "Moroccan Dress",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "pink": "Pink",
+        "green": "Green",
+        "blue": "Blue",
+        "black": "Black",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Dresses"
+}

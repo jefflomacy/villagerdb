@@ -1,0 +1,19 @@
+{
+  "id": "pergola",
+  "name": "Pergola",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "ivy": "Ivy",
+        "blue-flowers": "Blue flowers",
+        "purple-flowers": "Purple flowers",
+        "pink-flowers": "Pink flowers",
+        "white-flowers": "White flowers",
+        "yellow-flowers": "Yellow flowers",
+        "orange-flowers": "Orange flowers"
+      }
+    }
+  },
+  "category": "Furniture"
+}

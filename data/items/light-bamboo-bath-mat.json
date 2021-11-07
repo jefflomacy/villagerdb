@@ -1,0 +1,13 @@
+{
+  "id": "light-bamboo-bath-mat",
+  "name": "Light Bamboo Bath Mat",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "young-spring-bamboo": 3
+      }
+    }
+  },
+  "category": "Flooring"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hawaiian-print-apron",
+  "name": "Hawaiian-print Apron",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "mint": "Mint",
+        "pink": "Pink",
+        "yellow": "Yellow"
+      }
+    }
+  },
+  "category": "Tops"
+}

@@ -23,6 +23,15 @@
           "value": 2280
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "ivory": "Ivory",
+        "white-pink": "White & pink",
+        "silver": "Silver",
+        "dark-wood": "Dark wood"
+      }
     }
   }
 }

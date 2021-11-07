@@ -1,0 +1,16 @@
+{
+  "id": "mixed-fruits-sandwich",
+  "name": "Mixed-fruits Sandwich",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 2,
+        "orange": 1,
+        "pear": 1,
+        "peach": 1
+      }
+    }
+  },
+  "category": "Food"
+}

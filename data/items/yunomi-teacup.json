@@ -1,0 +1,19 @@
+{
+  "id": "yunomi-teacup",
+  "name": "Yunomi Teacup",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "plain": "Plain",
+        "brown": "Brown",
+        "green": "Green",
+        "stripes": "Stripes",
+        "fish-kanji": "Fish kanji",
+        "plum-blossoms": "Plum blossoms",
+        "blue-white": "Blue & white"
+      }
+    }
+  },
+  "category": "Furniture"
+}

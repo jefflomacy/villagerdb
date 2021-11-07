@@ -21,6 +21,19 @@
           "value": 1600
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "colorful": "Colorful",
+        "vivid": "Vivid",
+        "cool": "Cool",
+        "chic": "Chic",
+        "country": "Country",
+        "nursery": "Nursery",
+        "leaves": "Leaves",
+        "cute": "Cute"
+      }
     }
   }
 }

@@ -19,6 +19,19 @@
           "value": 3480
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-gray": "Light gray",
+        "pink": "Pink",
+        "light-brown": "Light brown",
+        "dark-brown": "Dark brown",
+        "white": "White",
+        "natural-wood": "Natural wood",
+        "white-natural-finish": "White & natural finish",
+        "green-black": "Green & black"
+      }
     }
   }
 }

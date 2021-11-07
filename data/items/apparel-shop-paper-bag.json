@@ -1,0 +1,14 @@
+{
+  "id": "apparel-shop-paper-bag",
+  "name": "Apparel-shop Paper Bag",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "pink": "Pink",
+        "light-blue": "Light blue"
+      }
+    }
+  },
+  "category": "Accessories"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "log-wall-fence",
+  "name": "Log-wall Fence",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "hardwood": 10
+      }
+    }
+  },
+  "category": "Furniture"
+}

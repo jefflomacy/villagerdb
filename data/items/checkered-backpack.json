@@ -1,0 +1,16 @@
+{
+  "id": "checkered-backpack",
+  "name": "Checkered Backpack",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gray": "Gray",
+        "green": "Green",
+        "blue": "Blue",
+        "brown": "Brown"
+      }
+    }
+  },
+  "category": "Accessories"
+}

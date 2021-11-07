@@ -1,0 +1,21 @@
+{
+  "id": "ornament-table-lamp",
+  "name": "Ornament Table Lamp",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "red-ornament": 2,
+        "iron-nugget": 2
+      },
+      "variations": {
+        "red": "Red",
+        "green": "Green",
+        "blue": "Blue",
+        "pink": "Pink",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Furniture"
+}

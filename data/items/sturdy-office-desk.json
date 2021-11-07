@@ -1,0 +1,18 @@
+{
+  "id": "sturdy-office-desk",
+  "name": "Sturdy Office Desk",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gray": "Gray",
+        "silver-with-mat": "Silver with mat",
+        "gray-with-documents": "Gray with documents",
+        "wood-grain": "Wood grain",
+        "white": "White",
+        "white-with-wooden-top": "White with wooden top"
+      }
+    }
+  },
+  "category": "Furniture"
+}

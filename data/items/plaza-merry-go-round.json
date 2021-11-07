@@ -1,0 +1,16 @@
+{
+  "id": "plaza-merry-go-round",
+  "name": "Plaza Merry-go-round",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "vivid": "Vivid",
+        "classic": "Classic",
+        "cute": "Cute",
+        "cool": "Cool"
+      }
+    }
+  },
+  "category": "Furniture"
+}

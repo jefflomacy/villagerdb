@@ -1,0 +1,13 @@
+{
+  "id": "apple-jelly",
+  "name": "Apple Jelly",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "apple": 2
+      }
+    }
+  },
+  "category": "Food"
+}

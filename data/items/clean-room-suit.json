@@ -1,0 +1,17 @@
+{
+  "id": "clean-room-suit",
+  "name": "Clean-room Suit",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "orange": "Orange",
+        "yellow": "Yellow",
+        "green": "Green",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Dresses"
+}

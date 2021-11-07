@@ -23,6 +23,16 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver": "Silver",
+        "blue": "Blue",
+        "yellow": "Yellow",
+        "red": "Red",
+        "green": "Green"
+      }
     }
   }
 }

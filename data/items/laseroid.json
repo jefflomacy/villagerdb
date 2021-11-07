@@ -1,0 +1,17 @@
+{
+  "id": "laseroid",
+  "name": "Laseroid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "green": "Green",
+        "yellow": "Yellow",
+        "pink": "Pink",
+        "blue": "Blue",
+        "silver": "Silver"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "baobab",
+  "name": "Baobab",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "leafy": "Leafy",
+        "bare": "Bare"
+      }
+    }
+  },
+  "category": "Furniture"
+}

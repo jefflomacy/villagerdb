@@ -1,0 +1,15 @@
+{
+  "id": "wooden-locker",
+  "name": "Wooden Locker",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-brown": "Light brown",
+        "natural": "Natural",
+        "dark-brown": "Dark brown"
+      }
+    }
+  },
+  "category": "Furniture"
+}

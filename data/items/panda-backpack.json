@@ -1,0 +1,14 @@
+{
+  "id": "panda-backpack",
+  "name": "Panda Backpack",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black-white": "Black & white",
+        "brown": "Brown"
+      }
+    }
+  },
+  "category": "Accessories"
+}

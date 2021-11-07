@@ -1,0 +1,16 @@
+{
+  "id": "metal-pot",
+  "name": "Metal Pot",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "blue": "Blue",
+        "copper": "Copper",
+        "silver": "Silver"
+      }
+    }
+  },
+  "category": "Furniture"
+}

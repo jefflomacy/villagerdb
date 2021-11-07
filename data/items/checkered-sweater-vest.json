@@ -1,0 +1,17 @@
+{
+  "id": "checkered-sweater-vest",
+  "name": "Checkered Sweater Vest",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gray": "Gray",
+        "berry-red": "Berry red",
+        "pale-blue": "Pale blue",
+        "brown": "Brown",
+        "light-brown": "Light brown"
+      }
+    }
+  },
+  "category": "Tops"
+}

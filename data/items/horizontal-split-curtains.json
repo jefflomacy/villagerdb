@@ -1,0 +1,36 @@
+{
+  "id": "horizontal-split-curtains",
+  "name": "Horizontal Split Curtains",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown-plain": "Brown & Plain",
+        "brown-cherry-blossoms": "Brown & Cherry blossoms",
+        "brown-well-frame-pattern-igeta": "Brown & Well-frame pattern (Igeta)",
+        "brown-bamboo": "Brown & Bamboo",
+        "brown-hemp-leaves-asanoha": "Brown & Hemp leaves (Asanoha)",
+        "brown-maple-leaves": "Brown & Maple leaves",
+        "brown-crests": "Brown & Crests",
+        "brown-koori-ice": "Brown & Koori (Ice)",
+        "black-plain": "Black & Plain",
+        "black-cherry-blossoms": "Black & Cherry blossoms",
+        "black-well-frame-pattern-igeta": "Black & Well-frame pattern (Igeta)",
+        "black-bamboo": "Black & Bamboo",
+        "black-hemp-leaves-asanoha": "Black & Hemp leaves (Asanoha)",
+        "black-maple-leaves": "Black & Maple leaves",
+        "black-crests": "Black & Crests",
+        "black-koori-ice": "Black & Koori (Ice)",
+        "white-plain": "White & Plain",
+        "white-cherry-blossoms": "White & Cherry blossoms",
+        "white-well-frame-pattern-igeta": "White & Well-frame pattern (Igeta)",
+        "white-bamboo": "White & Bamboo",
+        "white-hemp-leaves-asanoha": "White & Hemp leaves (Asanoha)",
+        "white-maple-leaves": "White & Maple leaves",
+        "white-crests": "White & Crests",
+        "white-koori-ice": "White & Koori (Ice)"
+      }
+    }
+  },
+  "category": "Furniture"
+}

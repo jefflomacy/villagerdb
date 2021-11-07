@@ -1,0 +1,40 @@
+{
+  "id": "fresh-food-trays",
+  "name": "Fresh-food Trays",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "salmon": "Salmon",
+        "salmon-red-stickers": "Salmon & Red stickers",
+        "salmon-blue-stickers": "Salmon & Blue stickers",
+        "salmon-yellow-stickers": "Salmon & Yellow stickers",
+        "whitefish": "Whitefish",
+        "whitefish-red-stickers": "Whitefish & Red stickers",
+        "whitefish-blue-stickers": "Whitefish & Blue stickers",
+        "whitefish-yellow-stickers": "Whitefish & Yellow stickers",
+        "blueback-fish": "Blueback fish",
+        "blueback-fish-red-stickers": "Blueback fish & Red stickers",
+        "blueback-fish-blue-stickers": "Blueback fish & Blue stickers",
+        "blueback-fish-yellow-stickers": "Blueback fish & Yellow stickers",
+        "red-fleshed-fish-block": "Red-fleshed fish block",
+        "red-fleshed-fish-block-red-stickers": "Red-fleshed fish block & Red stickers",
+        "red-fleshed-fish-block-blue-stickers": "Red-fleshed fish block & Blue stickers",
+        "red-fleshed-fish-block-yellow-stickers": "Red-fleshed fish block & Yellow stickers",
+        "whitefish-block": "Whitefish block",
+        "whitefish-block-red-stickers": "Whitefish block & Red stickers",
+        "whitefish-block-blue-stickers": "Whitefish block & Blue stickers",
+        "whitefish-block-yellow-stickers": "Whitefish block & Yellow stickers",
+        "squid": "Squid",
+        "squid-red-stickers": "Squid & Red stickers",
+        "squid-blue-stickers": "Squid & Blue stickers",
+        "squid-yellow-stickers": "Squid & Yellow stickers",
+        "fatty-tuna": "Fatty tuna",
+        "fatty-tuna-red-stickers": "Fatty tuna & Red stickers",
+        "fatty-tuna-blue-stickers": "Fatty tuna & Blue stickers",
+        "fatty-tuna-yellow-stickers": "Fatty tuna & Yellow stickers"
+      }
+    }
+  },
+  "category": "Furniture"
+}

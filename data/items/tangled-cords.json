@@ -1,0 +1,16 @@
+{
+  "id": "tangled-cords",
+  "name": "Tangled Cords",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black-white": "Black & white",
+        "red-black": "Red & black",
+        "blue-red": "Blue & red",
+        "colorful": "Colorful"
+      }
+    }
+  },
+  "category": "Furniture"
+}

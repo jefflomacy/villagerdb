@@ -1,0 +1,13 @@
+{
+  "id": "coconut-oil",
+  "name": "Coconut Oil",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "coconut": 3
+      }
+    }
+  },
+  "category": "Food"
+}

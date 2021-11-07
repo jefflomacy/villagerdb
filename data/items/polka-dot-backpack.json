@@ -1,0 +1,17 @@
+{
+  "id": "polka-dot-backpack",
+  "name": "Polka-dot Backpack",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "lime": "Lime",
+        "light-blue": "Light blue",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Accessories"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "squeakoid",
+  "name": "Squeakoid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "yellow": "Yellow",
+        "white": "White",
+        "brown": "Brown",
+        "pink": "Pink",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

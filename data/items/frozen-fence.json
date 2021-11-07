@@ -1,0 +1,13 @@
+{
+  "id": "frozen-fence",
+  "name": "Frozen Fence",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "snowflake": 5
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "dreamy-bed",
+  "name": "Dreamy Bed",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "pink": "Pink",
+        "blue": "Blue",
+        "green": "Green",
+        "yellow": "Yellow",
+        "white": "White",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Furniture"
+}

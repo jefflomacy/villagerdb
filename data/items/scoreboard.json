@@ -18,6 +18,23 @@
           "value": 2200
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "green-yellow": "Green & Yellow",
+        "green-white": "Green & White",
+        "green-black": "Green & Black",
+        "green-red-blue": "Green & Red & blue",
+        "white-yellow": "White & Yellow",
+        "white-white": "White & White",
+        "white-black": "White & Black",
+        "white-red-blue": "White & Red & blue",
+        "black-yellow": "Black & Yellow",
+        "black-white": "Black & White",
+        "black-black": "Black & Black",
+        "black-red-blue": "Black & Red & blue"
+      }
     }
   }
 }

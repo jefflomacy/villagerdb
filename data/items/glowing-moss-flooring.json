@@ -1,0 +1,15 @@
+{
+  "id": "glowing-moss-flooring",
+  "name": "Glowing-moss Flooring",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss": 10,
+        "clump-of-weeds": 10,
+        "stone": 5
+      }
+    }
+  },
+  "category": "Flooring"
+}

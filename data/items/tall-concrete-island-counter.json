@@ -1,0 +1,14 @@
+{
+  "id": "tall-concrete-island-counter",
+  "name": "Tall Concrete Island Counter",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "stone": 6,
+        "iron-nugget": 2
+      }
+    }
+  },
+  "category": "Furniture"
+}

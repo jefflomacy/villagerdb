@@ -1,0 +1,13 @@
+{
+  "id": "brown-sugar",
+  "name": "Brown Sugar",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "sugarcane": 5
+      }
+    }
+  },
+  "category": "Food"
+}

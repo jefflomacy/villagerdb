@@ -1,0 +1,17 @@
+{
+  "id": "venetian-carnival-mask",
+  "name": "Venetian Carnival Mask",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gold": "Gold",
+        "pink": "Pink",
+        "blue": "Blue",
+        "silver": "Silver",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Accessories"
+}

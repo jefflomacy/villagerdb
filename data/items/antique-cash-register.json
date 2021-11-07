@@ -1,0 +1,17 @@
+{
+  "id": "antique-cash-register",
+  "name": "Antique Cash Register",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "gold": "Gold",
+        "silver": "Silver",
+        "copper": "Copper",
+        "black": "Black",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -28,6 +28,35 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "green-calligraphy": "Green & Calligraphy",
+        "green-mountain": "Green & Mountain",
+        "green-dragon": "Green & Dragon",
+        "green-cranes": "Green & Cranes",
+        "green-cherry-blossoms": "Green & Cherry blossoms",
+        "green-maple-leaves": "Green & Maple leaves",
+        "white-calligraphy": "White & Calligraphy",
+        "white-mountain": "White & Mountain",
+        "white-dragon": "White & Dragon",
+        "white-cranes": "White & Cranes",
+        "white-cherry-blossoms": "White & Cherry blossoms",
+        "white-maple-leaves": "White & Maple leaves",
+        "red-calligraphy": "Red & Calligraphy",
+        "red-mountain": "Red & Mountain",
+        "red-dragon": "Red & Dragon",
+        "red-cranes": "Red & Cranes",
+        "red-cherry-blossoms": "Red & Cherry blossoms",
+        "red-maple-leaves": "Red & Maple leaves",
+        "dark-blue-calligraphy": "Dark blue & Calligraphy",
+        "dark-blue-mountain": "Dark blue & Mountain",
+        "dark-blue-dragon": "Dark blue & Dragon",
+        "dark-blue-cranes": "Dark blue & Cranes",
+        "dark-blue-cherry-blossoms": "Dark blue & Cherry blossoms",
+        "dark-blue-maple-leaves": "Dark blue & Maple leaves"
+      }
     }
   }
 }

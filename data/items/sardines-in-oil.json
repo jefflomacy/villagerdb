@@ -1,0 +1,13 @@
+{
+  "id": "sardines-in-oil",
+  "name": "Sardines In Oil",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "anchovy": 1
+      }
+    }
+  },
+  "category": "Food"
+}

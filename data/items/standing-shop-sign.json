@@ -1,0 +1,28 @@
+{
+  "id": "standing-shop-sign",
+  "name": "Standing Shop Sign",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver-pasta": "Silver & Pasta",
+        "silver-chinese-food": "Silver & Chinese food",
+        "silver-sushi": "Silver & Sushi",
+        "silver-hamburger": "Silver & Hamburger",
+        "silver-soft-drinks": "Silver & Soft drinks",
+        "silver-bread": "Silver & Bread",
+        "silver-apparel": "Silver & Apparel",
+        "silver-free": "Silver & FREE",
+        "black-pasta": "Black & Pasta",
+        "black-chinese-food": "Black & Chinese food",
+        "black-sushi": "Black & Sushi",
+        "black-hamburger": "Black & Hamburger",
+        "black-soft-drinks": "Black & Soft drinks",
+        "black-bread": "Black & Bread",
+        "black-apparel": "Black & Apparel",
+        "black-free": "Black & FREE"
+      }
+    }
+  },
+  "category": "Furniture"
+}

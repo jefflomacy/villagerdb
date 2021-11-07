@@ -1,0 +1,15 @@
+{
+  "id": "sword-in-scabbard",
+  "name": "Sword In Scabbard",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "blue": "Blue",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Accessories"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "zebra-print-backpack",
+  "name": "Zebra-print Backpack",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "yellow": "Yellow"
+      }
+    }
+  },
+  "category": "Accessories"
+}

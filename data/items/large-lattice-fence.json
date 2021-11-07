@@ -1,0 +1,13 @@
+{
+  "id": "large-lattice-fence",
+  "name": "Large Lattice Fence",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "softwood": 10
+      }
+    }
+  },
+  "category": "Furniture"
+}

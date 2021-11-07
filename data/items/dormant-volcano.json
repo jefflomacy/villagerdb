@@ -1,0 +1,17 @@
+{
+  "id": "dormant-volcano",
+  "name": "Dormant Volcano",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "summer-peak": "Summer peak",
+        "fall-peak": "Fall peak",
+        "winter-peak": "Winter peak",
+        "red-rock-peak": "Red-rock peak",
+        "gray-rock-peak": "Gray-rock peak"
+      }
+    }
+  },
+  "category": "Furniture"
+}

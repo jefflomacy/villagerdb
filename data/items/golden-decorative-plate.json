@@ -1,0 +1,14 @@
+{
+  "id": "golden-decorative-plate",
+  "name": "Golden Decorative Plate",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gold-nugget": 1,
+        "decorative-plate": 1
+      }
+    }
+  },
+  "category": "Furniture"
+}

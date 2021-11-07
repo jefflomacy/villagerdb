@@ -1,0 +1,20 @@
+{
+  "id": "sturdy-paper-bag",
+  "name": "Sturdy Paper Bag",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "plain-craft-paper": "Plain craft paper",
+        "white": "White",
+        "blue": "Blue",
+        "black": "Black",
+        "red": "Red",
+        "green": "Green",
+        "yellow": "Yellow",
+        "floral-print": "Floral print"
+      }
+    }
+  },
+  "category": "Furniture"
+}

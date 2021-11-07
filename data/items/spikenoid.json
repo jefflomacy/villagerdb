@@ -1,0 +1,19 @@
+{
+  "id": "spikenoid",
+  "name": "Spikenoid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "green": "Green",
+        "orange": "Orange",
+        "brown": "Brown",
+        "light-green": "Light green",
+        "blue": "Blue",
+        "camel": "Camel",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "diaper",
+  "name": "Diaper",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-blue": "Light blue",
+        "pink": "Pink",
+        "cream": "Cream",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Bottoms"
+}

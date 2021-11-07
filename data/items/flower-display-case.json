@@ -26,6 +26,16 @@
           "value": 5
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver": "Silver",
+        "green": "Green",
+        "red": "Red",
+        "white": "White",
+        "black": "Black"
+      }
     }
   }
 }

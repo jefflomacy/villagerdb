@@ -1,0 +1,19 @@
+{
+  "id": "enamel-lamp",
+  "name": "Enamel Lamp",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "green": "Green",
+        "blue": "Blue",
+        "red": "Red",
+        "yellow": "Yellow",
+        "pink": "Pink",
+        "white": "White",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Furniture"
+}

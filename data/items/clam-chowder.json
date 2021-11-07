@@ -1,0 +1,14 @@
+{
+  "id": "clam-chowder",
+  "name": "Clam Chowder",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 1,
+        "manila-clam": 3
+      }
+    }
+  },
+  "category": "Food"
+}

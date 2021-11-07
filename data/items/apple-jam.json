@@ -1,0 +1,13 @@
+{
+  "id": "apple-jam",
+  "name": "Apple Jam",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "apple": 3
+      }
+    }
+  },
+  "category": "Food"
+}

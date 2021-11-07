@@ -1,0 +1,18 @@
+{
+  "id": "chafing-dish",
+  "name": "Chafing Dish",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "caprese-salad": "Caprese salad",
+        "cold-entree-with-sauce": "Cold entree with sauce",
+        "terrine": "Terrine",
+        "tteokbokki": "Tteokbokki",
+        "penne": "Penne",
+        "pilaf": "Pilaf"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "candle-chandelier",
+  "name": "Candle Chandelier",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "white": "White",
+        "silver": "Silver",
+        "gold": "Gold",
+        "rust": "Rust"
+      }
+    }
+  },
+  "category": "Furniture"
+}

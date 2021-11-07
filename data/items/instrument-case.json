@@ -1,0 +1,17 @@
+{
+  "id": "instrument-case",
+  "name": "Instrument Case",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "white": "White",
+        "red": "Red",
+        "pink": "Pink",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Accessories"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "clutch",
+  "name": "Clutch",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-brown": "Light brown",
+        "black": "Black",
+        "red": "Red",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Accessories"
+}

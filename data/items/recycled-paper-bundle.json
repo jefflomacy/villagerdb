@@ -1,0 +1,20 @@
+{
+  "id": "recycled-paper-bundle",
+  "name": "Recycled-paper Bundle",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "japanese-newspapers": "Japanese newspapers",
+        "newspapers": "Newspapers",
+        "guidebooks": "Guidebooks",
+        "fashion-magazines": "Fashion magazines",
+        "dictionaries": "Dictionaries",
+        "comics": "Comics",
+        "technical-books": "Technical books",
+        "old-books": "Old books"
+      }
+    }
+  },
+  "category": "Furniture"
+}

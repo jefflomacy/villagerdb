@@ -18,6 +18,15 @@
           "value": 2040
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "basketballs": "Basketballs",
+        "soccer-balls": "Soccer balls",
+        "volleyballs": "Volleyballs",
+        "dodgeballs": "Dodgeballs"
+      }
     }
   }
 }

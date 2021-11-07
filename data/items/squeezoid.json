@@ -1,0 +1,18 @@
+{
+  "id": "squeezoid",
+  "name": "Squeezoid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "beige": "Beige",
+        "yellow": "Yellow",
+        "pink": "Pink",
+        "blue": "Blue",
+        "white": "White",
+        "black": "Black"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

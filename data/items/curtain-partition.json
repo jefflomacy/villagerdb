@@ -1,0 +1,36 @@
+{
+  "id": "curtain-partition",
+  "name": "Curtain Partition",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver-ivory": "Silver & Ivory",
+        "silver-blue": "Silver & Blue",
+        "silver-red": "Silver & Red",
+        "silver-green": "Silver & Green",
+        "silver-pink": "Silver & Pink",
+        "silver-light-blue": "Silver & Light blue",
+        "silver-black": "Silver & Black",
+        "silver-ducks": "Silver & Ducks",
+        "gold-ivory": "Gold & Ivory",
+        "gold-blue": "Gold & Blue",
+        "gold-red": "Gold & Red",
+        "gold-green": "Gold & Green",
+        "gold-pink": "Gold & Pink",
+        "gold-light-blue": "Gold & Light blue",
+        "gold-black": "Gold & Black",
+        "gold-ducks": "Gold & Ducks",
+        "copper-ivory": "Copper & Ivory",
+        "copper-blue": "Copper & Blue",
+        "copper-red": "Copper & Red",
+        "copper-green": "Copper & Green",
+        "copper-pink": "Copper & Pink",
+        "copper-light-blue": "Copper & Light blue",
+        "copper-black": "Copper & Black",
+        "copper-ducks": "Copper & Ducks"
+      }
+    }
+  },
+  "category": "Furniture"
+}

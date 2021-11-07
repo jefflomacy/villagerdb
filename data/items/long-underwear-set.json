@@ -1,0 +1,15 @@
+{
+  "id": "long-underwear-set",
+  "name": "Long-underwear Set",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "pink": "Pink",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Dresses"
+}

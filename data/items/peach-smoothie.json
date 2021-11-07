@@ -1,0 +1,13 @@
+{
+  "id": "peach-smoothie",
+  "name": "Peach Smoothie",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "peach": 2
+      }
+    }
+  },
+  "category": "Food"
+}

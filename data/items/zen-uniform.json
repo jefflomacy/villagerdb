@@ -1,0 +1,17 @@
+{
+  "id": "zen-uniform",
+  "name": "Zen Uniform",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "golden-yellow": "Golden yellow",
+        "green": "Green",
+        "blue": "Blue",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Tops"
+}

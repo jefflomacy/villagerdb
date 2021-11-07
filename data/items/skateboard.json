@@ -1,0 +1,52 @@
+{
+  "id": "skateboard",
+  "name": "Skateboard",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "black-gyroid": "Black & Gyroid",
+        "black-message": "Black & Message",
+        "black-animal": "Black & Animal",
+        "black-sushi": "Black & Sushi",
+        "yellow": "Yellow",
+        "yellow-gyroid": "Yellow & Gyroid",
+        "yellow-message": "Yellow & Message",
+        "yellow-animal": "Yellow & Animal",
+        "yellow-sushi": "Yellow & Sushi",
+        "blue": "Blue",
+        "blue-gyroid": "Blue & Gyroid",
+        "blue-message": "Blue & Message",
+        "blue-animal": "Blue & Animal",
+        "blue-sushi": "Blue & Sushi",
+        "pink": "Pink",
+        "pink-gyroid": "Pink & Gyroid",
+        "pink-message": "Pink & Message",
+        "pink-animal": "Pink & Animal",
+        "pink-sushi": "Pink & Sushi",
+        "red": "Red",
+        "red-gyroid": "Red & Gyroid",
+        "red-message": "Red & Message",
+        "red-animal": "Red & Animal",
+        "red-sushi": "Red & Sushi",
+        "purple": "Purple",
+        "purple-gyroid": "Purple & Gyroid",
+        "purple-message": "Purple & Message",
+        "purple-animal": "Purple & Animal",
+        "purple-sushi": "Purple & Sushi",
+        "white": "White",
+        "white-gyroid": "White & Gyroid",
+        "white-message": "White & Message",
+        "white-animal": "White & Animal",
+        "white-sushi": "White & Sushi",
+        "damaged": "Damaged",
+        "damaged-gyroid": "Damaged & Gyroid",
+        "damaged-message": "Damaged & Message",
+        "damaged-animal": "Damaged & Animal",
+        "damaged-sushi": "Damaged & Sushi"
+      }
+    }
+  },
+  "category": "Furniture"
+}

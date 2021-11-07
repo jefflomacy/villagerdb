@@ -1,0 +1,13 @@
+{
+  "id": "glowing-moss-pointed-cap",
+  "name": "Glowing-moss Pointed Cap",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss": 8
+      }
+    }
+  },
+  "category": "Hats"
+}

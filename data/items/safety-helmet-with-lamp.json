@@ -1,0 +1,17 @@
+{
+  "id": "safety-helmet-with-lamp",
+  "name": "Safety Helmet With Lamp",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "orange": "Orange",
+        "yellow": "Yellow",
+        "green": "Green",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Hats"
+}

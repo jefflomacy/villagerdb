@@ -15,6 +15,31 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "white-red-white-stripes": "White & Red & white stripes",
+        "white-yellow": "White & Yellow",
+        "white-blue": "White & Blue",
+        "white-green": "White & Green",
+        "black": "Black",
+        "black-red-white-stripes": "Black & Red & white stripes",
+        "black-yellow": "Black & Yellow",
+        "black-blue": "Black & Blue",
+        "black-green": "Black & Green",
+        "red": "Red",
+        "red-red-white-stripes": "Red & Red & white stripes",
+        "red-yellow": "Red & Yellow",
+        "red-blue": "Red & Blue",
+        "red-green": "Red & Green",
+        "wooden": "Wooden",
+        "wooden-red-white-stripes": "Wooden & Red & white stripes",
+        "wooden-yellow": "Wooden & Yellow",
+        "wooden-blue": "Wooden & Blue",
+        "wooden-green": "Wooden & Green"
+      }
     }
   }
 }

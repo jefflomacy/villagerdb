@@ -1,0 +1,17 @@
+{
+  "id": "powder-room-booth",
+  "name": "Powder-room Booth",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "standard": "Standard",
+        "cute": "Cute",
+        "chic": "Chic",
+        "cool": "Cool",
+        "ornate": "Ornate"
+      }
+    }
+  },
+  "category": "Furniture"
+}

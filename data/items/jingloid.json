@@ -1,0 +1,17 @@
+{
+  "id": "jingloid",
+  "name": "Jingloid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "purple": "Purple",
+        "gold": "Gold",
+        "pink": "Pink",
+        "silver": "Silver",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

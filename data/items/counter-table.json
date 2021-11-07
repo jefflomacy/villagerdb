@@ -23,6 +23,19 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "natural-wood": "Natural wood",
+        "white-wood": "White wood",
+        "black-dark-wood": "Black & dark wood",
+        "brick-natural-wood": "Brick & natural wood",
+        "pink": "Pink",
+        "black-red": "Black & red",
+        "white": "White",
+        "yellow-black": "Yellow & black"
+      }
     }
   }
 }

@@ -1,0 +1,16 @@
+{
+  "id": "whirroid",
+  "name": "Whirroid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "red": "Red",
+        "gold": "Gold",
+        "silver": "Silver"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

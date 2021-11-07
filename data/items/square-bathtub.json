@@ -1,0 +1,19 @@
+{
+  "id": "square-bathtub",
+  "name": "Square Bathtub",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue-tile": "Blue tile",
+        "white-tile": "White tile",
+        "pink-tile": "Pink tile",
+        "green-tile": "Green tile",
+        "gray-stones": "Gray stones",
+        "brown-stones": "Brown stones",
+        "mossy": "Mossy"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -29,6 +29,53 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "natural-plain": "Natural & Plain",
+        "natural-red-gingham": "Natural & Red gingham",
+        "natural-blue-gingham": "Natural & Blue gingham",
+        "natural-green-gingham": "Natural & Green gingham",
+        "natural-pink-gingham": "Natural & Pink gingham",
+        "natural-lemon-gingham": "Natural & Lemon gingham",
+        "dark-brown-plain": "Dark brown & Plain",
+        "dark-brown-red-gingham": "Dark brown & Red gingham",
+        "dark-brown-blue-gingham": "Dark brown & Blue gingham",
+        "dark-brown-green-gingham": "Dark brown & Green gingham",
+        "dark-brown-pink-gingham": "Dark brown & Pink gingham",
+        "dark-brown-lemon-gingham": "Dark brown & Lemon gingham",
+        "white-plain": "White & Plain",
+        "white-red-gingham": "White & Red gingham",
+        "white-blue-gingham": "White & Blue gingham",
+        "white-green-gingham": "White & Green gingham",
+        "white-pink-gingham": "White & Pink gingham",
+        "white-lemon-gingham": "White & Lemon gingham",
+        "blue-plain": "Blue & Plain",
+        "blue-red-gingham": "Blue & Red gingham",
+        "blue-blue-gingham": "Blue & Blue gingham",
+        "blue-green-gingham": "Blue & Green gingham",
+        "blue-pink-gingham": "Blue & Pink gingham",
+        "blue-lemon-gingham": "Blue & Lemon gingham",
+        "pink-plain": "Pink & Plain",
+        "pink-red-gingham": "Pink & Red gingham",
+        "pink-blue-gingham": "Pink & Blue gingham",
+        "pink-green-gingham": "Pink & Green gingham",
+        "pink-pink-gingham": "Pink & Pink gingham",
+        "pink-lemon-gingham": "Pink & Lemon gingham",
+        "green-plain": "Green & Plain",
+        "green-red-gingham": "Green & Red gingham",
+        "green-blue-gingham": "Green & Blue gingham",
+        "green-green-gingham": "Green & Green gingham",
+        "green-pink-gingham": "Green & Pink gingham",
+        "green-lemon-gingham": "Green & Lemon gingham",
+        "vintage-plain": "Vintage & Plain",
+        "vintage-red-gingham": "Vintage & Red gingham",
+        "vintage-blue-gingham": "Vintage & Blue gingham",
+        "vintage-green-gingham": "Vintage & Green gingham",
+        "vintage-pink-gingham": "Vintage & Pink gingham",
+        "vintage-lemon-gingham": "Vintage & Lemon gingham"
+      }
     }
   }
 }

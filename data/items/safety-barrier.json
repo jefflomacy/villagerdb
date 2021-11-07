@@ -1,0 +1,24 @@
+{
+  "id": "safety-barrier",
+  "name": "Safety Barrier",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "yellow-tiger-stripes": "Yellow & Tiger stripes",
+        "yellow-seaside": "Yellow & Seaside",
+        "yellow-flower-meadow": "Yellow & Flower meadow",
+        "blue-tiger-stripes": "Blue & Tiger stripes",
+        "blue-seaside": "Blue & Seaside",
+        "blue-flower-meadow": "Blue & Flower meadow",
+        "green-tiger-stripes": "Green & Tiger stripes",
+        "green-seaside": "Green & Seaside",
+        "green-flower-meadow": "Green & Flower meadow",
+        "red-tiger-stripes": "Red & Tiger stripes",
+        "red-seaside": "Red & Seaside",
+        "red-flower-meadow": "Red & Flower meadow"
+      }
+    }
+  },
+  "category": "Furniture"
+}

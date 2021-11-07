@@ -1,0 +1,13 @@
+{
+  "id": "vine-outfit",
+  "name": "Vine Outfit",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "vine": 10
+      }
+    }
+  },
+  "category": "Dresses"
+}

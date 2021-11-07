@@ -1,13 +1,16 @@
 {
   "id": "vanilla-soft-serve",
   "name": "Vanilla Soft-serve",
-  "category": "Usables",
+  "category": "Tools",
   "games": {
     "nl": {
       "orderable": false,
       "sources": [
         "Happy Home Showcase (9 StreetPass)"
       ]
+    },
+    "nh": {
+      "version": "2.0"
     }
   }
 }

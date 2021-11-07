@@ -1,0 +1,37 @@
+{
+  "id": "midsized-clothing-rack",
+  "name": "Midsized Clothing Rack",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-wood-casual-clothes": "Light wood & Casual clothes",
+        "light-wood-neutral-tone-clothes": "Light wood & Neutral-tone clothes",
+        "light-wood-cool-clothes": "Light wood & Cool clothes",
+        "light-wood-cute-clothes": "Light wood & Cute clothes",
+        "light-wood-kids-clothes": "Light wood & Kids' clothes",
+        "natural-wood-casual-clothes": "Natural wood & Casual clothes",
+        "natural-wood-neutral-tone-clothes": "Natural wood & Neutral-tone clothes",
+        "natural-wood-cool-clothes": "Natural wood & Cool clothes",
+        "natural-wood-cute-clothes": "Natural wood & Cute clothes",
+        "natural-wood-kids-clothes": "Natural wood & Kids' clothes",
+        "dark-wood-casual-clothes": "Dark wood & Casual clothes",
+        "dark-wood-neutral-tone-clothes": "Dark wood & Neutral-tone clothes",
+        "dark-wood-cool-clothes": "Dark wood & Cool clothes",
+        "dark-wood-cute-clothes": "Dark wood & Cute clothes",
+        "dark-wood-kids-clothes": "Dark wood & Kids' clothes",
+        "pastel-casual-clothes": "Pastel & Casual clothes",
+        "pastel-neutral-tone-clothes": "Pastel & Neutral-tone clothes",
+        "pastel-cool-clothes": "Pastel & Cool clothes",
+        "pastel-cute-clothes": "Pastel & Cute clothes",
+        "pastel-kids-clothes": "Pastel & Kids' clothes",
+        "colorful-casual-clothes": "Colorful & Casual clothes",
+        "colorful-neutral-tone-clothes": "Colorful & Neutral-tone clothes",
+        "colorful-cool-clothes": "Colorful & Cool clothes",
+        "colorful-cute-clothes": "Colorful & Cute clothes",
+        "colorful-kids-clothes": "Colorful & Kids' clothes"
+      }
+    }
+  },
+  "category": "Furniture"
+}

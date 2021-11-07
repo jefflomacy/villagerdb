@@ -15,6 +15,18 @@
           "value": 8000
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "void": "Void",
+        "liberty": "Liberty",
+        "alabaster": "Alabaster",
+        "passion": "Passion",
+        "ocean": "Ocean",
+        "grove": "Grove",
+        "wealth": "Wealth"
+      }
     }
   }
 }

@@ -1,0 +1,17 @@
+{
+  "id": "full-length-mirror",
+  "name": "Full-length Mirror",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-brown": "Light brown",
+        "dark-brown": "Dark brown",
+        "black": "Black",
+        "white": "White",
+        "gold": "Gold"
+      }
+    }
+  },
+  "category": "Furniture"
+}

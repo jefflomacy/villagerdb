@@ -1,0 +1,13 @@
+{
+  "id": "orange-smoothie",
+  "name": "Orange Smoothie",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "orange": 2
+      }
+    }
+  },
+  "category": "Food"
+}

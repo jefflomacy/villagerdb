@@ -1,0 +1,15 @@
+{
+  "id": "low-folding-table",
+  "name": "Low Folding Table",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "natural-wood": "Natural wood",
+        "dark-wood": "Dark wood",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Furniture"
+}

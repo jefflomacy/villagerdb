@@ -1,0 +1,14 @@
+{
+  "id": "starry-skies-rug",
+  "name": "Starry-skies Rug",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "star-fragment": 1,
+        "large-star-fragment": 1
+      }
+    }
+  },
+  "category": "Flooring"
+}

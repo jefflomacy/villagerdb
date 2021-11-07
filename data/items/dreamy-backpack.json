@@ -1,0 +1,14 @@
+{
+  "id": "dreamy-backpack",
+  "name": "Dreamy Backpack",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "pink": "Pink",
+        "mint": "Mint"
+      }
+    }
+  },
+  "category": "Accessories"
+}

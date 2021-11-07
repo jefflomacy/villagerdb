@@ -1,0 +1,14 @@
+{
+  "id": "carrot-potage",
+  "name": "Carrot Potage",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 1,
+        "carrot": 2
+      }
+    }
+  },
+  "category": "Food"
+}

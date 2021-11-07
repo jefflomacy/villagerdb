@@ -1,0 +1,14 @@
+{
+  "id": "bubble-machine",
+  "name": "Bubble Machine",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Furniture"
+}

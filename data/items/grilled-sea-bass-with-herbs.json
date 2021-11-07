@@ -1,0 +1,14 @@
+{
+  "id": "grilled-sea-bass-with-herbs",
+  "name": "Grilled Sea Bass With Herbs",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "sea-bass": 1,
+        "clump-of-weeds": 5
+      }
+    }
+  },
+  "category": "Food"
+}

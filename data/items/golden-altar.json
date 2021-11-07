@@ -1,0 +1,14 @@
+{
+  "id": "golden-altar",
+  "name": "Golden Altar",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gold-nugget": 5,
+        "forbidden-altar": 1
+      }
+    }
+  },
+  "category": "Furniture"
+}

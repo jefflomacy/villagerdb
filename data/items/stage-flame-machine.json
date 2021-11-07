@@ -1,0 +1,17 @@
+{
+  "id": "stage-flame-machine",
+  "name": "Stage Flame Machine",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "yellow": "Yellow",
+        "purple": "Purple",
+        "blue": "Blue",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Furniture"
+}

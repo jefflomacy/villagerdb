@@ -1,0 +1,14 @@
+{
+  "id": "coconut-pudding",
+  "name": "Coconut Pudding",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "sugar": 1,
+        "coconut": 2
+      }
+    }
+  },
+  "category": "Food"
+}

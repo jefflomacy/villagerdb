@@ -1,0 +1,18 @@
+{
+  "id": "toy-duck",
+  "name": "Toy Duck",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "yellow": "Yellow",
+        "purple": "Purple",
+        "pink": "Pink",
+        "black": "Black",
+        "white": "White",
+        "blue": "Blue"
+      }
+    }
+  },
+  "category": "Furniture"
+}

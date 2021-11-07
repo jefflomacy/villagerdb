@@ -1,0 +1,16 @@
+{
+  "id": "cafe-uniform-dress",
+  "name": "Cafe-uniform Dress",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "pink": "Pink",
+        "orange": "Orange",
+        "green": "Green",
+        "light-blue": "Light blue"
+      }
+    }
+  },
+  "category": "Dresses"
+}

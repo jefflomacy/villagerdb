@@ -1,0 +1,13 @@
+{
+  "id": "cherry-smoothie",
+  "name": "Cherry Smoothie",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "cherry": 2
+      }
+    }
+  },
+  "category": "Food"
+}

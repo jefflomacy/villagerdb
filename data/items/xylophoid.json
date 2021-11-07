@@ -1,0 +1,17 @@
+{
+  "id": "xylophoid",
+  "name": "Xylophoid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "yellow": "Yellow",
+        "blue": "Blue",
+        "pink": "Pink",
+        "white": "White",
+        "brown": "Brown"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

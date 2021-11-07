@@ -15,6 +15,15 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "black": "Black",
+        "white": "White",
+        "natural": "Natural"
+      }
     }
   }
 }

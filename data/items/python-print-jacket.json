@@ -1,0 +1,14 @@
+{
+  "id": "python-print-jacket",
+  "name": "Python-print Jacket",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown": "Brown",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Tops"
+}

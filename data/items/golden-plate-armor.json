@@ -1,0 +1,14 @@
+{
+  "id": "golden-plate-armor",
+  "name": "Golden Plate Armor",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gold-nugget": 2,
+        "plate-armor": 1
+      }
+    }
+  },
+  "category": "Furniture"
+}

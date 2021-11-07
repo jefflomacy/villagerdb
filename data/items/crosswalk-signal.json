@@ -1,0 +1,47 @@
+{
+  "id": "crosswalk-signal",
+  "name": "Crosswalk Signal",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black-people": "Black & People",
+        "black-pedestrian-signal": "Black & Pedestrian signal",
+        "black-round-lights": "Black & Round lights",
+        "black-bicycles": "Black & Bicycles",
+        "black-arrows": "Black & Arrows",
+        "black-hearts": "Black & Hearts",
+        "black-leaves": "Black & Leaves",
+        "white-people": "White & People",
+        "white-pedestrian-signal": "White & Pedestrian signal",
+        "white-round-lights": "White & Round lights",
+        "white-bicycles": "White & Bicycles",
+        "white-arrows": "White & Arrows",
+        "white-hearts": "White & Hearts",
+        "white-leaves": "White & Leaves",
+        "yellow-people": "Yellow & People",
+        "yellow-pedestrian-signal": "Yellow & Pedestrian signal",
+        "yellow-round-lights": "Yellow & Round lights",
+        "yellow-bicycles": "Yellow & Bicycles",
+        "yellow-arrows": "Yellow & Arrows",
+        "yellow-hearts": "Yellow & Hearts",
+        "yellow-leaves": "Yellow & Leaves",
+        "green-people": "Green & People",
+        "green-pedestrian-signal": "Green & Pedestrian signal",
+        "green-round-lights": "Green & Round lights",
+        "green-bicycles": "Green & Bicycles",
+        "green-arrows": "Green & Arrows",
+        "green-hearts": "Green & Hearts",
+        "green-leaves": "Green & Leaves",
+        "red-people": "Red & People",
+        "red-pedestrian-signal": "Red & Pedestrian signal",
+        "red-round-lights": "Red & Round lights",
+        "red-bicycles": "Red & Bicycles",
+        "red-arrows": "Red & Arrows",
+        "red-hearts": "Red & Hearts",
+        "red-leaves": "Red & Leaves"
+      }
+    }
+  },
+  "category": "Furniture"
+}

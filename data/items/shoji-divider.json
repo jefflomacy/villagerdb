@@ -1,0 +1,20 @@
+{
+  "id": "shoji-divider",
+  "name": "Shoji Divider",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "simple": "Simple",
+        "lattice": "Lattice",
+        "transparent-art": "Transparent art",
+        "colored-panels": "Colored panels",
+        "pastel-panels": "Pastel panels",
+        "kumiko-woodworking": "Kumiko woodworking",
+        "colorful": "Colorful",
+        "japanese-painting": "Japanese painting"
+      }
+    }
+  },
+  "category": "Furniture"
+}

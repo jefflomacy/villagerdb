@@ -1,0 +1,13 @@
+{
+  "id": "bread",
+  "name": "Bread",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 3
+      }
+    }
+  },
+  "category": "Food"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "stacked-shoeboxes",
+  "name": "Stacked Shoeboxes",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "standard": "Standard",
+        "chic": "Chic",
+        "pastel": "Pastel",
+        "colorful": "Colorful"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "stained-glass-light",
+  "name": "Stained-glass Light",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "colorful": "Colorful",
+        "red-yellow": "Red & yellow",
+        "green-red": "Green & red",
+        "gray": "Gray",
+        "purple": "Purple",
+        "roses": "Roses",
+        "grapes": "Grapes",
+        "birds": "Birds"
+      }
+    }
+  },
+  "category": "Furniture"
+}

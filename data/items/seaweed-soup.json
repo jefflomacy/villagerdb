@@ -1,0 +1,13 @@
+{
+  "id": "seaweed-soup",
+  "name": "Seaweed Soup",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "seaweed": 2
+      }
+    }
+  },
+  "category": "Food"
+}

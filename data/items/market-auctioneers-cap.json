@@ -1,0 +1,15 @@
+{
+  "id": "market-auctioneers-cap",
+  "name": "Market Auctioneer's Cap",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "green": "Green",
+        "brown": "Brown"
+      }
+    }
+  },
+  "category": "Hats"
+}

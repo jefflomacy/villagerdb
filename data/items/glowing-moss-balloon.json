@@ -1,0 +1,24 @@
+{
+  "id": "glowing-moss-balloon",
+  "name": "Glowing-moss Balloon",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss": 10,
+        "iron-nugget": 1
+      },
+      "variations": {
+        "green": "Green",
+        "turquoise": "Turquoise",
+        "blue": "Blue",
+        "red": "Red",
+        "yellow": "Yellow",
+        "pink": "Pink",
+        "white": "White",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "paradise-planning-event-tee",
+  "name": "Paradise Planning Event Tee",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "purple": "Purple",
+        "blue": "Blue",
+        "red": "Red",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Tops"
+}

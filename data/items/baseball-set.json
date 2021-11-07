@@ -26,6 +26,19 @@
           "value": 5
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red-tan": "Red & tan",
+        "beige-brown": "Beige & brown",
+        "brown-red": "Brown & red",
+        "gray-blue": "Gray & blue",
+        "yellow-green": "Yellow & green",
+        "black-yellow": "Black & yellow",
+        "blue-navy": "Blue & navy",
+        "black-white": "Black & white"
+      }
     }
   }
 }

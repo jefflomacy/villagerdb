@@ -1,0 +1,15 @@
+{
+  "id": "veggie-quiche",
+  "name": "Veggie Quiche",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 1,
+        "potato": 1,
+        "orange-pumpkin": 1
+      }
+    }
+  },
+  "category": "Food"
+}

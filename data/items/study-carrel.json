@@ -1,0 +1,32 @@
+{
+  "id": "study-carrel",
+  "name": "Study Carrel",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "light-brown": "Light brown",
+        "light-brown-information": "Light brown & Information",
+        "light-brown-cafe-menu": "Light brown & Cafe menu",
+        "light-brown-ramen-menu": "Light brown & Ramen menu",
+        "light-brown-sticky-notes": "Light brown & Sticky notes",
+        "brown": "Brown",
+        "brown-information": "Brown & Information",
+        "brown-cafe-menu": "Brown & Cafe menu",
+        "brown-ramen-menu": "Brown & Ramen menu",
+        "brown-sticky-notes": "Brown & Sticky notes",
+        "dark-brown": "Dark brown",
+        "dark-brown-information": "Dark brown & Information",
+        "dark-brown-cafe-menu": "Dark brown & Cafe menu",
+        "dark-brown-ramen-menu": "Dark brown & Ramen menu",
+        "dark-brown-sticky-notes": "Dark brown & Sticky notes",
+        "white": "White",
+        "white-information": "White & Information",
+        "white-cafe-menu": "White & Cafe menu",
+        "white-ramen-menu": "White & Ramen menu",
+        "white-sticky-notes": "White & Sticky notes"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "glowing-moss-dress",
+  "name": "Glowing-moss Dress",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss": 15
+      }
+    }
+  },
+  "category": "Dresses"
+}

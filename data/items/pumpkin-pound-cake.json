@@ -1,0 +1,15 @@
+{
+  "id": "pumpkin-pound-cake",
+  "name": "Pumpkin Pound Cake",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 2,
+        "sugar": 1,
+        "orange-pumpkin": 2
+      }
+    }
+  },
+  "category": "Food"
+}

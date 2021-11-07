@@ -1,0 +1,18 @@
+{
+  "id": "whistloid",
+  "name": "Whistloid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "brown": "Brown",
+        "yellow": "Yellow",
+        "green": "Green",
+        "pink": "Pink",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

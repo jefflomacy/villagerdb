@@ -1,0 +1,18 @@
+{
+  "id": "floral-sconce",
+  "name": "Floral Sconce",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "light-blue": "Light blue",
+        "pink": "Pink",
+        "purple": "Purple",
+        "yellow": "Yellow",
+        "damaged": "Damaged"
+      }
+    }
+  },
+  "category": "Furniture"
+}

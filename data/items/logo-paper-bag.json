@@ -1,0 +1,15 @@
+{
+  "id": "logo-paper-bag",
+  "name": "Logo Paper Bag",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "green": "Green",
+        "red": "Red",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Accessories"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "projection-screen",
+  "name": "Projection Screen",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Furniture"
+}

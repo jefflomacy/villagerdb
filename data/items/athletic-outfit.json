@@ -1,0 +1,20 @@
+{
+  "id": "athletic-outfit",
+  "name": "Athletic Outfit",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "red": "Red",
+        "light-blue": "Light blue",
+        "yellow": "Yellow",
+        "green": "Green",
+        "orange": "Orange",
+        "pink": "Pink",
+        "purple": "Purple",
+        "navy-blue": "Navy blue"
+      }
+    }
+  },
+  "category": "Dresses"
+}

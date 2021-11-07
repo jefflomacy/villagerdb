@@ -1,0 +1,19 @@
+{
+  "id": "conductors-jacket",
+  "name": "Conductor's Jacket",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "navy-blue": "Navy blue",
+        "light-blue": "Light blue",
+        "red": "Red",
+        "green": "Green",
+        "brown": "Brown",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Tops"
+}

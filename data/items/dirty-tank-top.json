@@ -1,0 +1,16 @@
+{
+  "id": "dirty-tank-top",
+  "name": "Dirty Tank Top",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "black": "Black",
+        "olive": "Olive",
+        "light-brown": "Light brown"
+      }
+    }
+  },
+  "category": "Tops"
+}

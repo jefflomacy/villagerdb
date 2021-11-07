@@ -1,0 +1,24 @@
+{
+  "id": "examination-room-desk",
+  "name": "Examination-room Desk",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "green-mat-person": "Green mat & Person",
+        "green-mat-teeth": "Green mat & Teeth",
+        "green-mat-animal": "Green mat & Animal",
+        "white-person": "White & Person",
+        "white-teeth": "White & Teeth",
+        "white-animal": "White & Animal",
+        "black-person": "Black & Person",
+        "black-teeth": "Black & Teeth",
+        "black-animal": "Black & Animal",
+        "wooden-person": "Wooden & Person",
+        "wooden-teeth": "Wooden & Teeth",
+        "wooden-animal": "Wooden & Animal"
+      }
+    }
+  },
+  "category": "Furniture"
+}

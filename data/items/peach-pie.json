@@ -1,0 +1,15 @@
+{
+  "id": "peach-pie",
+  "name": "Peach Pie",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "flour": 3,
+        "sugar": 2,
+        "peach": 2
+      }
+    }
+  },
+  "category": "Food"
+}

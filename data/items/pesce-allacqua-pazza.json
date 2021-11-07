@@ -1,0 +1,15 @@
+{
+  "id": "pesce-allacqua-pazza",
+  "name": "Pesce All'acqua Pazza",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "red-snapper": 1,
+        "tomato": 1,
+        "manila-clam": 1
+      }
+    }
+  },
+  "category": "Food"
+}

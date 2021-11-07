@@ -1,0 +1,13 @@
+{
+  "id": "jarred-mushrooms",
+  "name": "Jarred Mushrooms",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "skinny-mushroom": 2
+      }
+    }
+  },
+  "category": "Food"
+}

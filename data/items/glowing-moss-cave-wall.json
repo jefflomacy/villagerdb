@@ -1,0 +1,14 @@
+{
+  "id": "glowing-moss-cave-wall",
+  "name": "Glowing-moss Cave Wall",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss": 10,
+        "clay": 10
+      }
+    }
+  },
+  "category": "Wallpaper"
+}

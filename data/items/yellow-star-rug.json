@@ -1,0 +1,13 @@
+{
+  "id": "yellow-star-rug",
+  "name": "Yellow Star Rug",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "star-fragment": 3
+      }
+    }
+  },
+  "category": "Flooring"
+}

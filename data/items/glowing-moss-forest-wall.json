@@ -1,0 +1,14 @@
+{
+  "id": "glowing-moss-forest-wall",
+  "name": "Glowing-moss Forest Wall",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss": 10,
+        "hardwood": 10
+      }
+    }
+  },
+  "category": "Wallpaper"
+}

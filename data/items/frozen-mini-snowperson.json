@@ -1,0 +1,23 @@
+{
+  "id": "frozen-mini-snowperson",
+  "name": "Frozen Mini Snowperson",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "large-snowflake": 1,
+        "snowflake": 2
+      },
+      "variations": {
+        "ice": "Ice",
+        "ice-blue": "Ice blue",
+        "ice-pink": "Ice pink",
+        "ice-yellow": "Ice yellow",
+        "ice-orange": "Ice orange",
+        "ice-green": "Ice green",
+        "ice-purple": "Ice purple"
+      }
+    }
+  },
+  "category": "Furniture"
+}

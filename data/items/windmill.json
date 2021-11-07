@@ -1,0 +1,18 @@
+{
+  "id": "windmill",
+  "name": "Windmill",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "white": "White",
+        "green": "Green",
+        "orange": "Orange",
+        "blue": "Blue",
+        "black": "Black",
+        "damaged": "Damaged"
+      }
+    }
+  },
+  "category": "Furniture"
+}

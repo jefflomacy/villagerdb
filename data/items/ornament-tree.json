@@ -1,0 +1,23 @@
+{
+  "id": "ornament-tree",
+  "name": "Ornament Tree",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "red-ornament": 3,
+        "blue-ornament": 2,
+        "gold-ornament": 1,
+        "iron-nugget": 3
+      },
+      "variations": {
+        "red": "Red",
+        "green": "Green",
+        "blue": "Blue",
+        "pink": "Pink",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Furniture"
+}

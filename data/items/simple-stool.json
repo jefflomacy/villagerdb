@@ -1,0 +1,20 @@
+{
+  "id": "simple-stool",
+  "name": "Simple Stool",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown": "Brown",
+        "blue": "Blue",
+        "white": "White",
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "green": "Green",
+        "light-blue": "Light blue",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Furniture"
+}

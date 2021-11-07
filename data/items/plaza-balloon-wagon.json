@@ -1,0 +1,16 @@
+{
+  "id": "plaza-balloon-wagon",
+  "name": "Plaza Balloon Wagon",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "vivid": "Vivid",
+        "classic": "Classic",
+        "cute": "Cute",
+        "cool": "Cool"
+      }
+    }
+  },
+  "category": "Furniture"
+}

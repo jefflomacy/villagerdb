@@ -1,0 +1,14 @@
+{
+  "id": "striped-basket-bag",
+  "name": "Striped Basket Bag",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown": "Brown",
+        "black-white": "Black & white"
+      }
+    }
+  },
+  "category": "Accessories"
+}

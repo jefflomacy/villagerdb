@@ -1,0 +1,13 @@
+{
+  "id": "cherry-jam",
+  "name": "Cherry Jam",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "cherry": 3
+      }
+    }
+  },
+  "category": "Food"
+}

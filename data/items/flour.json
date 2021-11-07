@@ -1,13 +1,19 @@
 {
   "id": "flour",
   "name": "Flour",
-  "category": "Usables",
+  "category": "Food",
   "games": {
     "nl": {
       "orderable": false,
       "sources": [
         "Harvest Festival (villagers)"
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "wheat": 5
+      }
     }
   }
 }

@@ -1,0 +1,13 @@
+{
+  "id": "nice-branch",
+  "name": "Nice Branch",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "tree-branch": 3
+      }
+    }
+  },
+  "category": "Tools"
+}

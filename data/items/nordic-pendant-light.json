@@ -1,0 +1,19 @@
+{
+  "id": "nordic-pendant-light",
+  "name": "Nordic Pendant Light",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "green": "Green",
+        "blue": "Blue",
+        "orange": "Orange",
+        "red": "Red",
+        "pink": "Pink",
+        "gray": "Gray",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Furniture"
+}

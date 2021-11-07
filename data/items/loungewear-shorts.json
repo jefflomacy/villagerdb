@@ -1,0 +1,16 @@
+{
+  "id": "loungewear-shorts",
+  "name": "Loungewear Shorts",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "brown": "Brown",
+        "red": "Red",
+        "blue": "Blue",
+        "gray": "Gray"
+      }
+    }
+  },
+  "category": "Bottoms"
+}

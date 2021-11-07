@@ -15,6 +15,16 @@
           "value": 3
         }
       ]
+    },
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "bells": 99000
+      },
+      "variations": {
+        "gray": "Gray",
+        "yellow": "Yellow"
+      }
     }
   }
 }

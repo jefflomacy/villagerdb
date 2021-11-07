@@ -1,0 +1,19 @@
+{
+  "id": "glowing-moss-pond",
+  "name": "Glowing-moss Pond",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "glowing-moss": 30,
+        "stone": 10
+      },
+      "variations": {
+        "turquoise": "Turquoise",
+        "green": "Green",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Furniture"
+}

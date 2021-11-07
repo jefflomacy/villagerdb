@@ -1,0 +1,18 @@
+{
+  "id": "emergency-headcover",
+  "name": "Emergency Headcover",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "yellow": "Yellow",
+        "red": "Red",
+        "light-blue": "Light blue",
+        "green": "Green",
+        "navy-blue": "Navy blue",
+        "silver": "Silver"
+      }
+    }
+  },
+  "category": "Hats"
+}

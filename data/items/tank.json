@@ -3,35 +3,66 @@
   "name": "Tank",
   "games": {
     "nh": {
-      "orderable": true,
-      "sources": [
-        "Able Sisters"
-      ],
-      "sellPrice": {
-        "currency": "bells",
-        "value": 87
-      },
-      "buyPrices": [
-        {
-          "currency": "bells",
-          "value": 350
-        }
-      ],
+      "version": "2.0",
       "variations": {
-        "black": "Black",
-        "white": "White",
-        "brown": "Brown",
-        "red": "Red",
-        "navy-blue": "Navy blue"
-      },
-      "fashionThemes": [
-        "Comfy",
-        "Everyday",
-        "Outdoorsy",
-        "Sporty",
-        "Vacation"
-      ]
+        "silver-plain": "Silver & Plain",
+        "silver-sun": "Silver & Sun",
+        "silver-logo": "Silver & Logo",
+        "silver-warning-label": "Silver & Warning label",
+        "silver-no-open-flames-sign": "Silver & \"No open flames\" sign",
+        "silver-text": "Silver & Text",
+        "silver-scale": "Silver & Scale",
+        "white-plain": "White & Plain",
+        "white-sun": "White & Sun",
+        "white-logo": "White & Logo",
+        "white-warning-label": "White & Warning label",
+        "white-no-open-flames-sign": "White & \"No open flames\" sign",
+        "white-text": "White & Text",
+        "white-scale": "White & Scale",
+        "yellow-plain": "Yellow & Plain",
+        "yellow-sun": "Yellow & Sun",
+        "yellow-logo": "Yellow & Logo",
+        "yellow-warning-label": "Yellow & Warning label",
+        "yellow-no-open-flames-sign": "Yellow & \"No open flames\" sign",
+        "yellow-text": "Yellow & Text",
+        "yellow-scale": "Yellow & Scale",
+        "green-plain": "Green & Plain",
+        "green-sun": "Green & Sun",
+        "green-logo": "Green & Logo",
+        "green-warning-label": "Green & Warning label",
+        "green-no-open-flames-sign": "Green & \"No open flames\" sign",
+        "green-text": "Green & Text",
+        "green-scale": "Green & Scale",
+        "blue-plain": "Blue & Plain",
+        "blue-sun": "Blue & Sun",
+        "blue-logo": "Blue & Logo",
+        "blue-warning-label": "Blue & Warning label",
+        "blue-no-open-flames-sign": "Blue & \"No open flames\" sign",
+        "blue-text": "Blue & Text",
+        "blue-scale": "Blue & Scale",
+        "red-plain": "Red & Plain",
+        "red-sun": "Red & Sun",
+        "red-logo": "Red & Logo",
+        "red-warning-label": "Red & Warning label",
+        "red-no-open-flames-sign": "Red & \"No open flames\" sign",
+        "red-text": "Red & Text",
+        "red-scale": "Red & Scale",
+        "black-plain": "Black & Plain",
+        "black-sun": "Black & Sun",
+        "black-logo": "Black & Logo",
+        "black-warning-label": "Black & Warning label",
+        "black-no-open-flames-sign": "Black & \"No open flames\" sign",
+        "black-text": "Black & Text",
+        "black-scale": "Black & Scale",
+        "damaged-plain": "Damaged & Plain",
+        "damaged-sun": "Damaged & Sun",
+        "damaged-logo": "Damaged & Logo",
+        "damaged-warning-label": "Damaged & Warning label",
+        "damaged-no-open-flames-sign": "Damaged & \"No open flames\" sign",
+        "damaged-text": "Damaged & Text",
+        "damaged-scale": "Damaged & Scale"
+      }
     }
   },
-  "category": "Tops"
+  "category": "Furniture"
 }

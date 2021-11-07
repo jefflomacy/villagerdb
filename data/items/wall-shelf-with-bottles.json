@@ -1,0 +1,16 @@
+{
+  "id": "wall-shelf-with-bottles",
+  "name": "Wall Shelf With Bottles",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "natural-wood": "Natural wood",
+        "silver": "Silver",
+        "yellow": "Yellow",
+        "vintage-wood": "Vintage wood"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "curved-streetlight",
+  "name": "Curved Streetlight",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "black": "Black",
+        "white": "White",
+        "brown": "Brown",
+        "green": "Green"
+      }
+    }
+  },
+  "category": "Furniture"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "babbloid",
+  "name": "Babbloid",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "blue": "Blue",
+        "pink": "Pink",
+        "green": "Green",
+        "purple": "Purple",
+        "brown": "Brown",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Gyroids"
+}

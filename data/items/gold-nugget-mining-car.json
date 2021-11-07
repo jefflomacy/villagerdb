@@ -1,0 +1,14 @@
+{
+  "id": "gold-nugget-mining-car",
+  "name": "Gold-nugget Mining Car",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "gold-nugget": 3,
+        "mining-car": 1
+      }
+    }
+  },
+  "category": "Furniture"
+}

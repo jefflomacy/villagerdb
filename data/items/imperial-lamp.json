@@ -1,0 +1,19 @@
+{
+  "id": "imperial-lamp",
+  "name": "Imperial Lamp",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "ivory": "Ivory",
+        "pink": "Pink",
+        "yellow": "Yellow",
+        "red": "Red",
+        "green": "Green",
+        "blue": "Blue",
+        "white": "White"
+      }
+    }
+  },
+  "category": "Furniture"
+}

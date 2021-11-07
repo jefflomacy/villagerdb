@@ -1,0 +1,36 @@
+{
+  "id": "cool-low-table",
+  "name": "Cool Low Table",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "silver-black": "Silver & Black",
+        "silver-white": "Silver & White",
+        "silver-red": "Silver & Red",
+        "silver-orange": "Silver & Orange",
+        "silver-blue": "Silver & Blue",
+        "silver-lime": "Silver & Lime",
+        "silver-yellow": "Silver & Yellow",
+        "silver-brown": "Silver & Brown",
+        "black-black": "Black & Black",
+        "black-white": "Black & White",
+        "black-red": "Black & Red",
+        "black-orange": "Black & Orange",
+        "black-blue": "Black & Blue",
+        "black-lime": "Black & Lime",
+        "black-yellow": "Black & Yellow",
+        "black-brown": "Black & Brown",
+        "white-black": "White & Black",
+        "white-white": "White & White",
+        "white-red": "White & Red",
+        "white-orange": "White & Orange",
+        "white-blue": "White & Blue",
+        "white-lime": "White & Lime",
+        "white-yellow": "White & Yellow",
+        "white-brown": "White & Brown"
+      }
+    }
+  },
+  "category": "Furniture"
+}

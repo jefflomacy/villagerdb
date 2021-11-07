@@ -1,0 +1,20 @@
+{
+  "id": "carton-beverage",
+  "name": "Carton Beverage",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "milk": "Milk",
+        "coffee-flavored-milk": "Coffee-flavored milk",
+        "strawberry-flavored-milk": "Strawberry-flavored milk",
+        "orange-juice": "Orange juice",
+        "apple-juice": "Apple juice",
+        "grape-juice": "Grape juice",
+        "vegetable-juice": "Vegetable juice",
+        "vegetable-potage": "Vegetable potage"
+      }
+    }
+  },
+  "category": "Food"
+}

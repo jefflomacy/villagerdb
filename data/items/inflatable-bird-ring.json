@@ -1,0 +1,18 @@
+{
+  "id": "inflatable-bird-ring",
+  "name": "Inflatable Bird Ring",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "variations": {
+        "pink": "Pink",
+        "salmon-pink": "Salmon pink",
+        "white": "White",
+        "black": "Black",
+        "green": "Green",
+        "purple": "Purple"
+      }
+    }
+  },
+  "category": "Furniture"
+}

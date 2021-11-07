@@ -1,0 +1,13 @@
+{
+  "id": "peach-jam",
+  "name": "Peach Jam",
+  "games": {
+    "nh": {
+      "version": "2.0",
+      "recipe": {
+        "peach": 3
+      }
+    }
+  },
+  "category": "Food"
+}

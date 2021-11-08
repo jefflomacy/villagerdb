@@ -1,0 +1,37 @@
+{
+  "id": "tank-shirt",
+  "name": "Tank",
+  "games": {
+    "nh": {
+      "orderable": true,
+      "sources": [
+        "Able Sisters"
+      ],
+      "sellPrice": {
+        "currency": "bells",
+        "value": 87
+      },
+      "buyPrices": [
+        {
+          "currency": "bells",
+          "value": 350
+        }
+      ],
+      "variations": {
+        "black": "Black",
+        "white": "White",
+        "brown": "Brown",
+        "red": "Red",
+        "navy-blue": "Navy blue"
+      },
+      "fashionThemes": [
+        "Comfy",
+        "Everyday",
+        "Outdoorsy",
+        "Sporty",
+        "Vacation"
+      ]
+    }
+  },
+  "category": "Tops"
+}

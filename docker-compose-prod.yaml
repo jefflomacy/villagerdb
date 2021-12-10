@@ -42,6 +42,7 @@ services:
       - cluster.initial_master_nodes=villagerdb_es
       - bootstrap.memory_lock=true
       - "ES_JAVA_OPTS=-Xms256m -Xmx256m"
+      - LOG4J_FORMAT_MSG_NO_LOOKUPS=true
     ulimits:
       memlock:
         soft: -1

@@ -6,7 +6,11 @@
       "orderable": false,
       "sources": [
         "Find on ground at mystery island",
-        "crossbreeding flowers"
+        "Crossbreeding: Hybrid Red Roses + Hybrid Red Roses (1.56%) (See steps below)",
+        "Step 1: White Roses + White Roses = Purple Roses (25%)",
+        "Step 2: Red Roses + Purple Roses = Hybrid Red Roses (50%)",
+        "Step 3: Yellow Roses + Hybrid Red = Hybrid Red Roses(25%)",
+        "Step 4: Hybrid Red Roses + Hybrid Red Roses = Blue Roses (1.56%)"
       ],
       "sellPrice": {
         "currency": "bells",

@@ -46,8 +46,12 @@
             <li class="list-compare-{{compareStatus}} list-group-item d-flex justify-content-between align-items-center" data-name="{{name}} {{variation}}">
                 <div>
                     <a href="/{{type}}/{{id}}" class="no-link-underline">
-                        <img src="{{image}}" alt="Picture of {{name}}"
-                             class="img-responsive" style="max-width: 50px;">
+                        <img src="{{image}}"
+                             alt="Picture of {{name}}"
+                             class="img-responsive"
+                             width="50"
+                             height="50"
+                             style="max-width: 50px;" />
                     </a>
                     {{#if isDIY}}
                         <img src="/images/diy.1111111.png" alt="DIY Icon"/>

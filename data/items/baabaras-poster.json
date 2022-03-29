@@ -3,6 +3,9 @@
   "name": "Baabara's Poster",
   "games": {
     "nh": {
+      "sources": [
+        "Nook Shopping after using Amiibo on Harvey's Island"
+      ],
       "sellPrice": {
         "currency": "bells",
         "value": 250
@@ -15,5 +18,5 @@
       ]
     }
   },
-  "category": "Furniture"
+  "category": "Photos"
 }

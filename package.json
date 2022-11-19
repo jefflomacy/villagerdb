@@ -47,7 +47,7 @@
     "slick-carousel": "^1.8.1",
     "underscore": "^1.9.1",
     "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10",
+    "webpack-cli": "^3.3.12",
     "winston": "^3.3.3",
     "xmlbuilder": "^13.0.2"
   },
